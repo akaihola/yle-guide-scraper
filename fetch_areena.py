@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
+import argparse
 import contextlib
 import json
 import logging
+import sys
 import traceback
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
@@ -223,7 +225,24 @@ def convert_to_ebucore(schedule_data):
     return root
 
 
+def write_xml(xml_root, output_file=None):
+    """Write XML to file or stdout."""
+    ET.indent(xml_root)  # Pretty print the XML
+    xml_str = ET.tostring(xml_root, encoding="unicode")
+    
+    if output_file:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(xml_str)
+        logging.info(f"XML written to: {output_file}")
+    else:
+        print(xml_str)
+
 def main() -> None:
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Fetch Areena schedule and convert to EBUCore Plus XML')
+    parser.add_argument('-o', '--output', help='Output file path (default: stdout)')
+    args = parser.parse_args()
+
     # Configure logging
     logging.basicConfig(
         level=logging.INFO,
@@ -240,14 +259,13 @@ def main() -> None:
         # Convert to EBUCore Plus format
         ebucore_xml = convert_to_ebucore(schedule_data)
 
-        # Create the XML string with proper formatting
-        ET.indent(ebucore_xml)  # Pretty print the XML
-        xml_str = ET.tostring(ebucore_xml, encoding="unicode")
+        # Write XML to file or stdout
+        write_xml(ebucore_xml, args.output)
 
-        logging.info("Generated EBUCore Plus XML:\n%s", xml_str)
     except Exception:
         logging.exception("Error occurred:")
         logging.exception(traceback.format_exc())
+        sys.exit(1)
 
 
 if __name__ == "__main__":
