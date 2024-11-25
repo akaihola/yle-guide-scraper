@@ -26,10 +26,29 @@ def build_api_url(next_data):
     props = next_data.get('props', {}).get('pageProps', {})
     
     # Extract parameters from next_data
+    # Extract API version from the first API URL in the view content
+    view = next_data.get('props', {}).get('pageProps', {}).get('view', {})
+    first_uri = None
+    for tab in view.get('tabs', []):
+        for content in tab.get('content', []):
+            if 'source' in content and 'uri' in content['source']:
+                first_uri = content['source']['uri']
+                break
+        if first_uri:
+            break
+
+    # Parse v parameter from the URI
+    from urllib.parse import parse_qs, urlparse
+    v = '10'  # Default value
+    if first_uri:
+        query = parse_qs(urlparse(first_uri).query)
+        if 'v' in query:
+            v = query['v'][0]
+
     runtime_config = next_data.get('runtimeConfig', {})
     params = {
         'language': next_data.get('locale', 'fi'),
-        'v': runtime_config.get('versionNumber', '10').split('.')[0],  # Take major version
+        'v': v,
         'client': 'yle-areena-web',
         'app_id': runtime_config.get('appIdFrontend', 'areena-web-items'),
         'app_key': runtime_config.get('appKeyFrontend', 'wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN')
