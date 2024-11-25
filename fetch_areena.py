@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 
+import contextlib
 import json
 import logging
-import requests
 import traceback
-from bs4 import BeautifulSoup
 from datetime import date, datetime
 from urllib.parse import urlencode
 from xml.etree import ElementTree as ET
 
+import requests
+from bs4 import BeautifulSoup
+
 
 def get_next_data():
-    """Fetch and extract __NEXT_DATA__ JSON from Areena podcast guide"""
+    """Fetch and extract __NEXT_DATA__ JSON from Areena podcast guide."""
     url = "https://areena.yle.fi/podcastit/opas"
     response = requests.get(url)
     response.raise_for_status()
@@ -20,15 +22,16 @@ def get_next_data():
     next_data = soup.find("script", id="__NEXT_DATA__")
 
     if not next_data:
-        raise ValueError("Could not find __NEXT_DATA__ script tag")
+        msg = "Could not find __NEXT_DATA__ script tag"
+        raise ValueError(msg)
 
     return json.loads(next_data.string)
 
 
-def build_api_url(next_data):
-    """Build Areena API URL using parameters from __NEXT_DATA__"""
+def build_api_url(next_data) -> str:
+    """Build Areena API URL using parameters from __NEXT_DATA__."""
     # Extract needed values from next_data
-    props = next_data.get("props", {}).get("pageProps", {})
+    next_data.get("props", {}).get("pageProps", {})
 
     # Extract parameters from next_data
     # Extract API version from the first API URL in the view content
@@ -58,7 +61,7 @@ def build_api_url(next_data):
         "client": "yle-areena-web",
         "app_id": runtime_config.get("appIdFrontend", "areena-web-items"),
         "app_key": runtime_config.get(
-            "appKeyFrontend", "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN"
+            "appKeyFrontend", "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN",
         ),
     }
 
@@ -74,14 +77,14 @@ def build_api_url(next_data):
 
 
 def fetch_schedule(url):
-    """Fetch schedule data from the Areena API"""
+    """Fetch schedule data from the Areena API."""
     response = requests.get(url)
     response.raise_for_status()
     return response.json()
 
 
 def convert_to_ebucore(schedule_data):
-    """Convert Areena schedule data to EBUCore Plus XML format"""
+    """Convert Areena schedule data to EBUCore Plus XML format."""
     # Extract service info from schedule data
     service_id = (
         schedule_data.get("meta", {})
@@ -176,10 +179,8 @@ def convert_to_ebucore(schedule_data):
             if label.get("type") == "duration":
                 duration_raw = label.get("raw", "")
                 if duration_raw.startswith("PT") and duration_raw.endswith("S"):
-                    try:
+                    with contextlib.suppress(ValueError):
                         duration_seconds = int(duration_raw[2:-1])
-                    except ValueError:
-                        pass
                 break
 
         duration = ET.SubElement(timing_group, "ebucore:duration")
@@ -202,13 +203,13 @@ def convert_to_ebucore(schedule_data):
     return root
 
 
-def main():
+def main() -> None:
     # Configure logging
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s'
+        format="%(asctime)s - %(levelname)s - %(message)s",
     )
-    
+
     try:
         next_data = get_next_data()
         api_url = build_api_url(next_data)
@@ -224,9 +225,9 @@ def main():
         xml_str = ET.tostring(ebucore_xml, encoding="unicode")
 
         logging.info("Generated EBUCore Plus XML:\n%s", xml_str)
-    except Exception as e:
-        logging.error("Error occurred:")
-        logging.error(traceback.format_exc())
+    except Exception:
+        logging.exception("Error occurred:")
+        logging.exception(traceback.format_exc())
 
 
 if __name__ == "__main__":
