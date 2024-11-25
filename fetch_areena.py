@@ -194,21 +194,34 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        # Always create start time
-        start_time_elem = ET.SubElement(timing_group, "ec:publishedStartDateTime")
-        start_time_elem.text = start_time.isoformat()
-        start_time_elem.set("typeLabel", "actual")
-
-        # Only create duration and end time if we have valid duration
+        # Prepare timing data first
+        timing_data = {}
+        
+        # Start time is mandatory
+        if start_time:
+            timing_data["start"] = start_time.isoformat()
+            
+        # Duration and end time are optional and dependent on each other
         if duration_seconds > 0:
-            duration_elem = ET.SubElement(timing_group, "ec:duration")
-            duration_elem.set("normalPlayTime", f"PT{duration_seconds}S")
-            duration_elem.set("typeLabel", "actual")
-
+            timing_data["duration"] = f"PT{duration_seconds}S"
             end_time = start_time + timedelta(seconds=duration_seconds)
-            end_time_elem = ET.SubElement(timing_group, "ec:publishedEndDateTime")
-            end_time_elem.text = end_time.isoformat()
-            end_time_elem.set("typeLabel", "actual")
+            timing_data["end"] = end_time.isoformat()
+
+        # Create only the timing elements we have data for
+        if "start" in timing_data:
+            start_elem = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+            start_elem.text = timing_data["start"]
+            start_elem.set("typeLabel", "actual")
+            
+        if "duration" in timing_data:
+            duration_elem = ET.SubElement(timing_group, "ec:duration")
+            duration_elem.set("normalPlayTime", timing_data["duration"])
+            duration_elem.set("typeLabel", "actual")
+            
+        if "end" in timing_data:
+            end_elem = ET.SubElement(timing_group, "ec:publishedEndDateTime")
+            end_elem.text = timing_data["end"]
+            end_elem.set("typeLabel", "actual")
 
         # Reference the service
         service_ref = ET.SubElement(programme, "ec:serviceInformation")
