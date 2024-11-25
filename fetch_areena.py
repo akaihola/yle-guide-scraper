@@ -93,6 +93,7 @@ def fetch_schedule(url):
 # Initialize disk cache
 cache = Cache("~/.cache/areena")
 
+
 def get_series_title(series_id, build_id):
     """Fetch series title from Areena API."""
     if not build_id:
@@ -114,11 +115,12 @@ def get_series_title(series_id, build_id):
         title = data.get("pageProps", {}).get("view", {}).get("title")
         if title:
             # Cache the result for 24 hours
-            cache.set(cache_key, title, expire=24*60*60)
+            cache.set(cache_key, title, expire=24 * 60 * 60)
         return title
     except (requests.RequestException, KeyError, json.JSONDecodeError):
         logging.warning(f"Failed to fetch series title for {series_id}")
         return None
+
 
 def convert_to_yaml(schedule_data, build_id=None):
     """Convert Areena schedule data to simple YAML format."""
@@ -174,7 +176,11 @@ def convert_to_yaml(schedule_data, build_id=None):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        end_time = start_time + timedelta(seconds=duration_seconds) if duration_seconds > 0 else None
+        end_time = (
+            start_time + timedelta(seconds=duration_seconds)
+            if duration_seconds > 0
+            else None
+        )
 
         programme = {
             "title": item["title"],
@@ -223,9 +229,12 @@ def write_yaml(yaml_data, output_file=None) -> None:
     else:
         yaml.dump(yaml_data, sys.stdout)
 
+
 def main() -> None:
     # Parse command line arguments
-    parser = argparse.ArgumentParser(description="Fetch Areena schedule and convert to EBUCore Plus XML")
+    parser = argparse.ArgumentParser(
+        description="Fetch Areena schedule and convert to EBUCore Plus XML"
+    )
     parser.add_argument("-o", "--output", help="Output file path (default: stdout)")
     args = parser.parse_args()
 
