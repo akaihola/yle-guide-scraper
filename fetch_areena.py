@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import logging
 import requests
 import traceback
 from bs4 import BeautifulSoup
@@ -118,7 +119,7 @@ def convert_to_ebucore(schedule_data):
     for item in schedule_data.get("data", []):
         # Skip items missing required fields
         if not all(key in item and item[key] for key in ["title"]):
-            print(f"Skipping item due to missing required fields: {item}")
+            logging.warning(f"Skipping item due to missing required fields: {item}")
             continue
 
         # Extract startTime from labels
@@ -132,7 +133,7 @@ def convert_to_ebucore(schedule_data):
                     pass
 
         if not start_time:
-            print(f"Skipping item due to missing startTime in labels: {item}")
+            logging.warning(f"Skipping item due to missing startTime in labels: {item}")
             continue
 
         # Generate an ID if missing
@@ -140,7 +141,7 @@ def convert_to_ebucore(schedule_data):
             item.get("id") or item.get("pointer", {}).get("uri", "").split("/")[-1]
         )
         if not item_id:
-            print(f"Skipping item due to missing ID: {item}")
+            logging.warning(f"Skipping item due to missing ID: {item}")
             continue
 
         programme = ET.SubElement(programme_list, "ebucore:programme")
@@ -202,10 +203,16 @@ def convert_to_ebucore(schedule_data):
 
 
 def main():
+    # Configure logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
+    
     try:
         next_data = get_next_data()
         api_url = build_api_url(next_data)
-        print(f"Generated API URL:\n{api_url}")
+        logging.info(f"Generated API URL:\n{api_url}")
 
         schedule_data = fetch_schedule(api_url)
 
@@ -216,11 +223,10 @@ def main():
         ET.indent(ebucore_xml)  # Pretty print the XML
         xml_str = ET.tostring(ebucore_xml, encoding="unicode")
 
-        print("\nEBUCore Plus XML:")
-        print(xml_str)
+        logging.info("Generated EBUCore Plus XML:\n%s", xml_str)
     except Exception as e:
-        print("Error occurred:")
-        print(traceback.format_exc())
+        logging.error("Error occurred:")
+        logging.error(traceback.format_exc())
 
 
 if __name__ == "__main__":
