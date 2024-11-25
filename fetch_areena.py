@@ -2,6 +2,7 @@
 
 import json
 import requests
+import traceback
 from bs4 import BeautifulSoup
 from datetime import date, datetime
 from urllib.parse import urlencode
@@ -131,7 +132,8 @@ def main():
         print("\nEBUCore Plus XML:")
         print(xml_str)
     except Exception as e:
-        print(f"Error: {e}")
+        print("Error occurred:")
+        print(traceback.format_exc())
 
 if __name__ == "__main__":
     main()
