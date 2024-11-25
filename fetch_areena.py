@@ -25,17 +25,14 @@ def build_api_url(next_data):
     # Extract needed values from next_data
     props = next_data.get('props', {}).get('pageProps', {})
     
-    # Base parameters that seem to be constant
+    # Extract parameters from next_data
+    runtime_config = next_data.get('runtimeConfig', {})
     params = {
-        'language': 'fi',
-        'v': '10',
+        'language': next_data.get('locale', 'fi'),
+        'v': runtime_config.get('versionNumber', '10').split('.')[0],  # Take major version
         'client': 'yle-areena-web',
-        'offset': '0',
-        'limit': '100',
-        'country': 'FI',
-        'isPortabilityRegion': 'true',
-        'app_id': 'areena-web-items',
-        'app_key': 'wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN'
+        'app_id': runtime_config.get('appIdFrontend', 'areena-web-items'),
+        'app_key': runtime_config.get('appKeyFrontend', 'wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN')
     }
     
     # Add date-specific parameters
