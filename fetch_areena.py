@@ -85,23 +85,34 @@ def convert_to_ebucore(schedule_data):
     
     # Convert each schedule item
     for item in schedule_data.get('data', []):
+        # Skip items missing required fields
+        if not all(key in item and item[key] for key in ['id', 'title', 'startTime']):
+            print(f"Skipping item due to missing required fields: {item}")
+            continue
+            
+        try:
+            # Validate startTime format
+            start_time = datetime.fromisoformat(item['startTime'])
+        except ValueError:
+            print(f"Skipping item due to invalid startTime format: {item}")
+            continue
+            
         programme = ET.SubElement(programme_list, 'ebucore:programme')
         
         # Programme ID
-        programme.set('programmeId', str(item.get('id', '')))
+        programme.set('programmeId', str(item['id']))
         
         # Title
         title = ET.SubElement(programme, 'ebucore:title')
-        title.text = item.get('title', '')
+        title.text = item['title']
         
-        # Description
-        if 'description' in item:
+        # Description (optional)
+        if item.get('description'):
             desc = ET.SubElement(programme, 'ebucore:description')
-            desc.text = item.get('description', '')
+            desc.text = item['description']
         
         # Timing information
         timing = ET.SubElement(programme, 'ebucore:publishedStartDateTime')
-        start_time = datetime.fromisoformat(item.get('startTime', ''))
         timing.text = start_time.isoformat()
         
         duration = ET.SubElement(programme, 'ebucore:duration')
