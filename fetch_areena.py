@@ -4,16 +4,17 @@ import argparse
 import contextlib
 import json
 import logging
+import re
 import sys
 import traceback
-import re
-from diskcache import Cache
-from ruamel.yaml.scalarstring import PreservedScalarString
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
-from ruamel.yaml import YAML
+
 import requests
 from bs4 import BeautifulSoup
+from diskcache import Cache
+from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import PreservedScalarString
 
 
 def get_next_data():
@@ -30,7 +31,7 @@ def get_next_data():
         raise ValueError(msg)
 
     data = json.loads(next_data.string)
-    return data, data.get('buildId')
+    return data, data.get("buildId")
 
 
 def build_api_url(next_data) -> str:
@@ -90,27 +91,27 @@ def fetch_schedule(url):
 
 
 # Initialize disk cache
-cache = Cache('~/.cache/areena')
+cache = Cache("~/.cache/areena")
 
 def get_series_title(series_id, build_id):
     """Fetch series title from Areena API."""
     if not build_id:
         return None
-        
+
     # Create cache key
     cache_key = f"series_title:{series_id}:{build_id}"
-    
+
     # Try to get from cache first
     cached_title = cache.get(cache_key)
     if cached_title is not None:
         return cached_title
-        
+
     url = f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json"
     try:
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
-        title = data.get('pageProps', {}).get('view', {}).get('title')
+        title = data.get("pageProps", {}).get("view", {}).get("title")
         if title:
             # Cache the result for 24 hours
             cache.set(cache_key, title, expire=24*60*60)
@@ -139,8 +140,8 @@ def convert_to_yaml(schedule_data, build_id=None):
     # Prepare YAML structure
     yaml_data = {
         service_name: {
-            "programmes": []
-        }
+            "programmes": [],
+        },
     }
 
     # Convert each schedule item
@@ -179,13 +180,13 @@ def convert_to_yaml(schedule_data, build_id=None):
             "title": item["title"],
             "start_time": start_time.isoformat(),
         }
-        
+
         if end_time:
             programme["end_time"] = end_time.isoformat()
-        
+
         if item.get("description"):
             programme["description"] = item["description"]
-            
+
         # Look for series link in labels
         for label in item.get("labels", []):
             if label.get("type") == "seriesLink":
@@ -202,21 +203,21 @@ def convert_to_yaml(schedule_data, build_id=None):
     return yaml_data
 
 
-def write_yaml(yaml_data, output_file=None):
+def write_yaml(yaml_data, output_file=None) -> None:
     """Write YAML to file or stdout."""
     yaml = YAML()
     yaml.preserve_quotes = True
     yaml.width = 4096  # Prevent line wrapping
     yaml.indent(mapping=2, sequence=4, offset=2)
-    
+
     # Force description to be literal block style
     for service in yaml_data.values():
-        for prog in service['programmes']:
-            if 'description' in prog:
-                prog['description'] = PreservedScalarString(prog['description'])
-    
+        for prog in service["programmes"]:
+            if "description" in prog:
+                prog["description"] = PreservedScalarString(prog["description"])
+
     if output_file:
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             yaml.dump(yaml_data, f)
         logging.info(f"YAML written to: {output_file}")
     else:
@@ -224,8 +225,8 @@ def write_yaml(yaml_data, output_file=None):
 
 def main() -> None:
     # Parse command line arguments
-    parser = argparse.ArgumentParser(description='Fetch Areena schedule and convert to EBUCore Plus XML')
-    parser.add_argument('-o', '--output', help='Output file path (default: stdout)')
+    parser = argparse.ArgumentParser(description="Fetch Areena schedule and convert to EBUCore Plus XML")
+    parser.add_argument("-o", "--output", help="Output file path (default: stdout)")
     args = parser.parse_args()
 
     # Configure logging
