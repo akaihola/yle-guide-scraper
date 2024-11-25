@@ -3,8 +3,9 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import date, datetime
 from urllib.parse import urlencode
+from xml.etree import ElementTree as ET
 
 def get_next_data():
     """Fetch and extract __NEXT_DATA__ JSON from Areena podcast guide"""
@@ -70,6 +71,48 @@ def fetch_schedule(url):
     response.raise_for_status()
     return response.json()
 
+def convert_to_ebucore(schedule_data):
+    """Convert Areena schedule data to EBUCore Plus XML format"""
+    # Create root element with namespaces
+    root = ET.Element('ebucore:ebuCoreMain')
+    root.set('xmlns:ebucore', 'urn:ebu:metadata-schema:ebucore')
+    root.set('xmlns:xsi', 'http://www.w3.org/2001/XMLSchema-instance')
+    root.set('xsi:schemaLocation', 'urn:ebu:metadata-schema:ebucore https://raw.githubusercontent.com/ebu/ebucore/master/EBUCore.xsd')
+    
+    # Create programmeList element
+    programme_list = ET.SubElement(root, 'ebucore:programmeList')
+    
+    # Convert each schedule item
+    for item in schedule_data.get('data', []):
+        programme = ET.SubElement(programme_list, 'ebucore:programme')
+        
+        # Programme ID
+        programme.set('programmeId', str(item.get('id', '')))
+        
+        # Title
+        title = ET.SubElement(programme, 'ebucore:title')
+        title.text = item.get('title', {}).get('fi', '')
+        
+        # Description
+        if 'description' in item:
+            desc = ET.SubElement(programme, 'ebucore:description')
+            desc.text = item.get('description', {}).get('fi', '')
+        
+        # Timing information
+        timing = ET.SubElement(programme, 'ebucore:publishedStartDateTime')
+        start_time = datetime.fromisoformat(item.get('startTime', ''))
+        timing.text = start_time.isoformat()
+        
+        duration = ET.SubElement(programme, 'ebucore:duration')
+        duration.text = str(item.get('duration', 0))
+        
+        # Service information
+        service = ET.SubElement(programme, 'ebucore:serviceInformation')
+        service_name = ET.SubElement(service, 'ebucore:serviceName')
+        service_name.text = 'Yle Radio 1'
+        
+    return root
+
 def main():
     try:
         next_data = get_next_data()
@@ -77,8 +120,16 @@ def main():
         print(f"Generated API URL:\n{api_url}")
         
         schedule_data = fetch_schedule(api_url)
-        print("\nSchedule data:")
-        print(json.dumps(schedule_data, indent=2, ensure_ascii=False))
+        
+        # Convert to EBUCore Plus format
+        ebucore_xml = convert_to_ebucore(schedule_data)
+        
+        # Create the XML string with proper formatting
+        ET.indent(ebucore_xml)  # Pretty print the XML
+        xml_str = ET.tostring(ebucore_xml, encoding='unicode')
+        
+        print("\nEBUCore Plus XML:")
+        print(xml_str)
     except Exception as e:
         print(f"Error: {e}")
 
