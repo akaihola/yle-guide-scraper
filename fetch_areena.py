@@ -61,7 +61,8 @@ def build_api_url(next_data) -> str:
         "client": "yle-areena-web",
         "app_id": runtime_config.get("appIdFrontend", "areena-web-items"),
         "app_key": runtime_config.get(
-            "appKeyFrontend", "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN",
+            "appKeyFrontend",
+            "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN",
         ),
     }
 
