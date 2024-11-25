@@ -103,8 +103,8 @@ def convert_to_ebucore(schedule_data):
     service_name = service_names.get(service_id, service_id.replace("-", " ").title())
 
     # Create root element with namespaces
-    root = ET.Element("ebucore:ebuCoreMain")
-    root.set("xmlns:ebucore", "urn:ebu:metadata-schema:ebucore")
+    root = ET.Element("ec:ebuCoreMain")
+    root.set("xmlns:ec", "urn:ebu:metadata-schema:ebucore")
     root.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
     root.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
     root.set("xmlns:dcterms", "http://purl.org/dc/terms/")
@@ -117,7 +117,7 @@ def convert_to_ebucore(schedule_data):
     root.set("dateLastModified", datetime.now().isoformat())
 
     # Create programmeList element
-    programme_list = ET.SubElement(root, "ebucore:programmeList")
+    programme_list = ET.SubElement(root, "ec:programmeList")
 
     # Convert each schedule item
     for item in schedule_data.get("data", []):
@@ -148,29 +148,29 @@ def convert_to_ebucore(schedule_data):
             logging.warning(f"Skipping item due to missing ID: {item}")
             continue
 
-        programme = ET.SubElement(programme_list, "ebucore:programme")
+        programme = ET.SubElement(programme_list, "ec:programme")
 
         # Required programmeId attribute
         programme.set("programmeId", str(item_id))
 
         # Title (required)
-        title_group = ET.SubElement(programme, "ebucore:titleGroup")
-        title = ET.SubElement(title_group, "ebucore:title")
+        title_group = ET.SubElement(programme, "ec:titleGroup")
+        title = ET.SubElement(title_group, "ec:title")
         title.text = item["title"]
         title.set("typeLabel", "main")
 
         # Description group (optional)
         if item.get("description"):
-            desc_group = ET.SubElement(programme, "ebucore:descriptionGroup")
-            desc = ET.SubElement(desc_group, "ebucore:description")
+            desc_group = ET.SubElement(programme, "ec:descriptionGroup")
+            desc = ET.SubElement(desc_group, "ec:description")
             desc.text = item["description"]
             desc.set("typeLabel", "main")
 
         # Timing information
-        timing_group = ET.SubElement(programme, "ebucore:timelineGroup")
+        timing_group = ET.SubElement(programme, "ec:timelineGroup")
 
         # Start time
-        start = ET.SubElement(timing_group, "ebucore:publishedStartDateTime")
+        start = ET.SubElement(timing_group, "ec:publishedStartDateTime")
         start.text = start_time.isoformat()
         start.set("typeLabel", "actual")
 
@@ -184,13 +184,13 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        duration = ET.SubElement(timing_group, "ebucore:duration")
+        duration = ET.SubElement(timing_group, "ec:duration")
         duration.set("normalPlayTime", f"PT{duration_seconds}S")
         duration.set("typeLabel", "actual")
 
         # Service information
-        service = ET.SubElement(programme, "ebucore:serviceInformation")
-        service_name = ET.SubElement(service, "ebucore:serviceName")
+        service = ET.SubElement(programme, "ec:serviceInformation")
+        service_name = ET.SubElement(service, "ec:serviceName")
         service_name.text = service_name
         service_name.set("typeLabel", "main")
 
@@ -198,7 +198,7 @@ def convert_to_ebucore(schedule_data):
         service.set("serviceId", service_id)
 
         # Add publication channel
-        channel = ET.SubElement(service, "ebucore:publishingChannel")
+        channel = ET.SubElement(service, "ec:publishingChannel")
         channel.set("typeLabel", "Radio")
 
     return root
