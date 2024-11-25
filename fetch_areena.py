@@ -92,12 +92,12 @@ def convert_to_ebucore(schedule_data):
         
         # Title
         title = ET.SubElement(programme, 'ebucore:title')
-        title.text = item.get('title', {}).get('fi', '')
+        title.text = item.get('title', '')
         
         # Description
         if 'description' in item:
             desc = ET.SubElement(programme, 'ebucore:description')
-            desc.text = item.get('description', {}).get('fi', '')
+            desc.text = item.get('description', '')
         
         # Timing information
         timing = ET.SubElement(programme, 'ebucore:publishedStartDateTime')
