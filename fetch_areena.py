@@ -203,9 +203,9 @@ def convert_to_ebucore(schedule_data):
             start_container.set("typeLabel", "actual")
 
         if duration_seconds > 0:
-            # Create duration using normalPlayTime
+            # Create duration directly under programme
             if duration_seconds > 0:
-                duration = ET.SubElement(timing_group, "ec:duration")
+                duration = ET.SubElement(programme, "ec:duration")
                 normal_play_time = ET.SubElement(duration, "ec:normalPlayTime")
                 normal_play_time.text = f"PT{duration_seconds}S"
 
