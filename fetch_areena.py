@@ -203,12 +203,11 @@ def convert_to_ebucore(schedule_data):
             start_container.set("typeLabel", "actual")
 
         if duration_seconds > 0:
-            # Create duration as a property element with proper RDF structure
+            # Create duration using normalPlayTime
             if duration_seconds > 0:
                 duration = ET.SubElement(timing_group, "ec:duration")
-                duration_value = ET.SubElement(duration, "time:Duration")
-                duration_value.set("rdf:about", f"#duration_{item_id}")
-                duration_value.text = f"PT{duration_seconds}S"
+                normal_play_time = ET.SubElement(duration, "ec:normalPlayTime")
+                normal_play_time.text = f"PT{duration_seconds}S"
 
             # Calculate and create end time only if we have duration
             end_time = start_time + timedelta(seconds=duration_seconds)
