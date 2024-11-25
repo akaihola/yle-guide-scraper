@@ -8,7 +8,7 @@ import re
 import sys
 import traceback
 from datetime import date, datetime, timedelta
-from urllib.parse import urlencode
+from urllib.parse import parse_qs, urlencode, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -50,9 +50,6 @@ def build_api_url(next_data) -> str:
                 break
         if first_uri:
             break
-
-    # Parse v parameter from the URI
-    from urllib.parse import parse_qs, urlparse
 
     v = "10"  # Default value
     if first_uri:
@@ -233,7 +230,7 @@ def write_yaml(yaml_data, output_file=None) -> None:
 def main() -> None:
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Fetch Areena schedule and convert to EBUCore Plus XML"
+        description="Fetch Areena schedule and convert to EBUCore Plus XML",
     )
     parser.add_argument("-o", "--output", help="Output file path (default: stdout)")
     args = parser.parse_args()
