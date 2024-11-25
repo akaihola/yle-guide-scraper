@@ -4,7 +4,7 @@ import contextlib
 import json
 import logging
 import traceback
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
 from xml.etree import ElementTree as ET
 
@@ -105,7 +105,7 @@ def convert_to_ebucore(schedule_data):
     # Create root element with namespaces
     root = ET.Element("ec:ebuCoreMain")
     root.set("xmlns:ec", "urn:ebu:metadata-schema:ebucore")
-    root.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
+    root.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance") 
     root.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
     root.set("xmlns:dcterms", "http://purl.org/dc/terms/")
     root.set("xmlns:time", "http://www.w3.org/2006/time#")
@@ -115,6 +115,18 @@ def convert_to_ebucore(schedule_data):
     )
     root.set("version", "1.10")
     root.set("dateLastModified", datetime.now().isoformat())
+
+    # Create service definition
+    services = ET.SubElement(root, "ec:serviceList")
+    service = ET.SubElement(services, "ec:service")
+    service.set("serviceId", service_id)
+    
+    service_name_elem = ET.SubElement(service, "ec:serviceName")
+    service_name_elem.text = service_name
+    service_name_elem.set("typeLabel", "main")
+    
+    channel = ET.SubElement(service, "ec:publishingChannel")
+    channel.set("typeLabel", "Radio")
 
     # Create programmeList element
     programme_list = ET.SubElement(root, "ec:programmeList")
@@ -169,10 +181,26 @@ def convert_to_ebucore(schedule_data):
         # Timing information
         timing_group = ET.SubElement(programme, "ec:timelineGroup")
 
-        # Start time
+        # Start and end times
         start = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+        end = ET.SubElement(timing_group, "ec:publishedEndDateTime") 
         start.text = start_time.isoformat()
         start.set("typeLabel", "actual")
+
+        # Calculate and set end time using duration
+        duration_seconds = 0
+        for label in item.get("labels", []):
+            if label.get("type") == "duration":
+                duration_raw = label.get("raw", "")
+                if duration_raw.startswith("PT") and duration_raw.endswith("S"):
+                    with contextlib.suppress(ValueError):
+                        duration_seconds = int(duration_raw[2:-1])
+                break
+        
+        if duration_seconds > 0:
+            end_time = start_time + timedelta(seconds=duration_seconds)
+            end.text = end_time.isoformat()
+            end.set("typeLabel", "actual")
 
         # Extract and format duration
         duration_seconds = 0
@@ -188,18 +216,9 @@ def convert_to_ebucore(schedule_data):
         duration.set("normalPlayTime", f"PT{duration_seconds}S")
         duration.set("typeLabel", "actual")
 
-        # Service information
-        service = ET.SubElement(programme, "ec:serviceInformation")
-        service_name = ET.SubElement(service, "ec:serviceName")
-        service_name.text = service_name
-        service_name.set("typeLabel", "main")
-
-        # Add required service ID
-        service.set("serviceId", service_id)
-
-        # Add publication channel
-        channel = ET.SubElement(service, "ec:publishingChannel")
-        channel.set("typeLabel", "Radio")
+        # Reference the service
+        service_ref = ET.SubElement(programme, "ec:serviceInformation")
+        service_ref.set("serviceId", service_id)
 
     return root
 
