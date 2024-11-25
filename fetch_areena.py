@@ -45,11 +45,21 @@ def build_api_url(next_data):
     base_url = f'https://areena.api.yle.fi/v1/ui/schedules/{channel}/{today}.json'
     return f"{base_url}?{urlencode(params)}"
 
+def fetch_schedule(url):
+    """Fetch schedule data from the Areena API"""
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.json()
+
 def main():
     try:
         next_data = get_next_data()
         api_url = build_api_url(next_data)
         print(f"Generated API URL:\n{api_url}")
+        
+        schedule_data = fetch_schedule(api_url)
+        print("\nSchedule data:")
+        print(json.dumps(schedule_data, indent=2, ensure_ascii=False))
     except Exception as e:
         print(f"Error: {e}")
 
