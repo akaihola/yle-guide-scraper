@@ -6,9 +6,10 @@ import json
 import logging
 import sys
 import traceback
+from ruamel.yaml.scalarstring import PreservedScalarString
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
-import yaml
+from ruamel.yaml import YAML
 import requests
 from bs4 import BeautifulSoup
 
@@ -159,12 +160,23 @@ def convert_to_yaml(schedule_data):
 
 def write_yaml(yaml_data, output_file=None):
     """Write YAML to file or stdout."""
+    yaml = YAML()
+    yaml.preserve_quotes = True
+    yaml.width = 4096  # Prevent line wrapping
+    yaml.indent(mapping=2, sequence=4, offset=2)
+    
+    # Force description to be literal block style
+    for service in yaml_data.values():
+        for prog in service['programmes']:
+            if 'description' in prog:
+                prog['description'] = yaml.scalarstring.PreservedScalarString(prog['description'])
+    
     if output_file:
         with open(output_file, 'w', encoding='utf-8') as f:
-            yaml.dump(yaml_data, f, allow_unicode=True, sort_keys=False)
+            yaml.dump(yaml_data, f)
         logging.info(f"YAML written to: {output_file}")
     else:
-        print(yaml.dump(yaml_data, allow_unicode=True, sort_keys=False))
+        yaml.dump(yaml_data, sys.stdout)
 
 def main() -> None:
     # Parse command line arguments
