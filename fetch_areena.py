@@ -184,12 +184,7 @@ def convert_to_ebucore(schedule_data):
         timing_group = ET.SubElement(programme, "ec:timelineGroup")
 
         # Start and end times
-        start = ET.SubElement(timing_group, "ec:publishedStartDateTime")
-        end = ET.SubElement(timing_group, "ec:publishedEndDateTime") 
-        start.text = start_time.isoformat()
-        start.set("typeLabel", "actual")
-
-        # Calculate and set end time using duration
+        # Extract duration once
         duration_seconds = 0
         for label in item.get("labels", []):
             if label.get("type") == "duration":
@@ -198,25 +193,21 @@ def convert_to_ebucore(schedule_data):
                     with contextlib.suppress(ValueError):
                         duration_seconds = int(duration_raw[2:-1])
                 break
-        
+
+        # Create timing elements with proper namespacing
+        start_time_elem = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+        start_time_elem.text = start_time.isoformat()
+        start_time_elem.set("typeLabel", "actual")
+
         if duration_seconds > 0:
             end_time = start_time + timedelta(seconds=duration_seconds)
-            end.text = end_time.isoformat()
-            end.set("typeLabel", "actual")
+            end_time_elem = ET.SubElement(timing_group, "ec:publishedEndDateTime")
+            end_time_elem.text = end_time.isoformat()
+            end_time_elem.set("typeLabel", "actual")
 
-        # Extract and format duration
-        duration_seconds = 0
-        for label in item.get("labels", []):
-            if label.get("type") == "duration":
-                duration_raw = label.get("raw", "")
-                if duration_raw.startswith("PT") and duration_raw.endswith("S"):
-                    with contextlib.suppress(ValueError):
-                        duration_seconds = int(duration_raw[2:-1])
-                break
-
-        duration = ET.SubElement(timing_group, "ec:duration")
-        duration.set("normalPlayTime", f"PT{duration_seconds}S")
-        duration.set("typeLabel", "actual")
+            duration_elem = ET.SubElement(timing_group, "ec:duration")
+            duration_elem.set("normalPlayTime", f"PT{duration_seconds}S")
+            duration_elem.set("typeLabel", "actual")
 
         # Reference the service
         service_ref = ET.SubElement(programme, "ec:serviceInformation")
