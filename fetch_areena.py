@@ -181,9 +181,6 @@ def convert_to_ebucore(schedule_data):
             desc.text = item["description"]
             desc.set("typeLabel", "main")
 
-        # Timing information
-        timing_group = ET.SubElement(programme, "ec:timelineGroup")
-
         # Start and end times
         # Extract duration once
         duration_seconds = 0
@@ -195,23 +192,21 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        # Create timing elements in a specific order with proper RDF structure
+        # Create timing elements as direct properties of programme
         if start_time:
-            # Create a container for start time
-            start_container = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+            start_container = ET.SubElement(programme, "ec:publishedStartDateTime")
             start_container.text = start_time.isoformat()
             start_container.set("typeLabel", "actual")
 
         if duration_seconds > 0:
             # Create duration directly under programme
-            if duration_seconds > 0:
-                duration = ET.SubElement(programme, "ec:duration")
-                normal_play_time = ET.SubElement(duration, "ec:normalPlayTime")
-                normal_play_time.text = f"PT{duration_seconds}S"
+            duration = ET.SubElement(programme, "ec:duration")
+            normal_play_time = ET.SubElement(duration, "ec:normalPlayTime")
+            normal_play_time.text = f"PT{duration_seconds}S"
 
             # Calculate and create end time only if we have duration
             end_time = start_time + timedelta(seconds=duration_seconds)
-            end_container = ET.SubElement(timing_group, "ec:publishedEndDateTime")
+            end_container = ET.SubElement(programme, "ec:publishedEndDateTime")
             end_container.text = end_time.isoformat()
             end_container.set("typeLabel", "actual")
 
