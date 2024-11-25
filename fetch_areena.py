@@ -194,25 +194,21 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        # Create timing elements in a specific order
-        timing = {
-            "start": ET.SubElement(timing_group, "ec:publishedStartDateTime"),
-            "duration": ET.SubElement(timing_group, "ec:duration"),
-            "end": ET.SubElement(timing_group, "ec:publishedEndDateTime")
-        }
-        
-        # Set start time
-        timing["start"].text = start_time.isoformat()
-        timing["start"].set("typeLabel", "actual")
-        
-        # Set duration and end time if available
+        # Always create start time
+        start_time_elem = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+        start_time_elem.text = start_time.isoformat()
+        start_time_elem.set("typeLabel", "actual")
+
+        # Only create duration and end time if we have valid duration
         if duration_seconds > 0:
-            timing["duration"].set("normalPlayTime", f"PT{duration_seconds}S")
-            timing["duration"].set("typeLabel", "actual")
-            
+            duration_elem = ET.SubElement(timing_group, "ec:duration")
+            duration_elem.set("normalPlayTime", f"PT{duration_seconds}S")
+            duration_elem.set("typeLabel", "actual")
+
             end_time = start_time + timedelta(seconds=duration_seconds)
-            timing["end"].text = end_time.isoformat()
-            timing["end"].set("typeLabel", "actual")
+            end_time_elem = ET.SubElement(timing_group, "ec:publishedEndDateTime")
+            end_time_elem.text = end_time.isoformat()
+            end_time_elem.set("typeLabel", "actual")
 
         # Reference the service
         service_ref = ET.SubElement(programme, "ec:serviceInformation")
