@@ -109,9 +109,6 @@ def convert_to_ebucore(schedule_data):
         if not item_id:
             print(f"Skipping item due to missing ID: {item}")
             continue
-        except ValueError:
-            print(f"Skipping item due to invalid startTime format: {item}")
-            continue
             
         programme = ET.SubElement(programme_list, 'ebucore:programme')
         
