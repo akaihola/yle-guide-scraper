@@ -202,11 +202,11 @@ def convert_to_ebucore(schedule_data):
             start_container.set("typeLabel", "actual")
 
         if duration_seconds > 0:
-            # Create duration as a timeline point with proper structure
+            # Create duration as a property element with a timeline point node
             if duration_seconds > 0:
-                duration_container = ET.SubElement(timing_group, "ec:duration")
-                duration_container.text = f"PT{duration_seconds}S"
-                duration_container.set("xsi:type", "time:Duration")
+                duration = ET.SubElement(timing_group, "ec:duration")
+                duration_value = ET.SubElement(duration, "time:Duration")
+                duration_value.text = f"PT{duration_seconds}S"
 
             # Calculate and create end time only if we have duration
             end_time = start_time + timedelta(seconds=duration_seconds)
