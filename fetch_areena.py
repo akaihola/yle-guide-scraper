@@ -74,6 +74,17 @@ def fetch_schedule(url):
 
 def convert_to_ebucore(schedule_data):
     """Convert Areena schedule data to EBUCore Plus XML format"""
+    # Extract service info from schedule data
+    service_id = schedule_data.get('meta', {}).get('analytics', {}).get('context', {}).get('comscore', {}).get('yle_referer', '').split('.')[-2]
+    # Convert yle_radio_1 to yle-radio-1 format
+    service_id = service_id.replace('_', '-')
+    
+    # Map service IDs to human readable names
+    service_names = {
+        'yle-radio-1': 'Yle Radio 1'
+    }
+    service_name = service_names.get(service_id, service_id.replace('-', ' ').title())
+    
     # Create root element with namespaces
     root = ET.Element('ebucore:ebuCoreMain')
     root.set('xmlns:ebucore', 'urn:ebu:metadata-schema:ebucore')
@@ -160,11 +171,11 @@ def convert_to_ebucore(schedule_data):
         # Service information
         service = ET.SubElement(programme, 'ebucore:serviceInformation')
         service_name = ET.SubElement(service, 'ebucore:serviceName')
-        service_name.text = 'Yle Radio 1'
+        service_name.text = service_name
         service_name.set('typeLabel', 'main')
         
         # Add required service ID
-        service.set('serviceId', 'yle-radio-1')
+        service.set('serviceId', service_id)
         
         # Add publication channel
         channel = ET.SubElement(service, 'ebucore:publishingChannel')
