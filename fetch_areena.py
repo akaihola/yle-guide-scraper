@@ -7,6 +7,7 @@ import logging
 import sys
 import traceback
 import re
+from diskcache import Cache
 from ruamel.yaml.scalarstring import PreservedScalarString
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
@@ -88,17 +89,32 @@ def fetch_schedule(url):
     return response.json()
 
 
+# Initialize disk cache
+cache = Cache('~/.cache/areena')
+
 def get_series_title(series_id, build_id):
     """Fetch series title from Areena API."""
     if not build_id:
         return None
+        
+    # Create cache key
+    cache_key = f"series_title:{series_id}:{build_id}"
+    
+    # Try to get from cache first
+    cached_title = cache.get(cache_key)
+    if cached_title is not None:
+        return cached_title
         
     url = f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json"
     try:
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
-        return data.get('pageProps', {}).get('view', {}).get('title')
+        title = data.get('pageProps', {}).get('view', {}).get('title')
+        if title:
+            # Cache the result for 24 hours
+            cache.set(cache_key, title, expire=24*60*60)
+        return title
     except (requests.RequestException, KeyError, json.JSONDecodeError):
         logging.warning(f"Failed to fetch series title for {series_id}")
         return None
