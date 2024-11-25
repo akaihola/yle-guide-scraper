@@ -131,8 +131,9 @@ def convert_to_ebucore(schedule_data):
     channel = ET.SubElement(service, "ec:publishingChannel")
     channel.set("typeLabel", "Radio")
 
-    # Create programmeList element
+    # Create programmeList element with RDF collection type
     programme_list = ET.SubElement(root, "ec:programmeList")
+    programme_list.set("rdf:parseType", "Collection")
 
     # Convert each schedule item
     for item in schedule_data.get("data", []):
