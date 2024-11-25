@@ -128,8 +128,20 @@ def convert_to_ebucore(schedule_data):
         timing = ET.SubElement(programme, 'ebucore:publishedStartDateTime')
         timing.text = start_time.isoformat()
         
+        # Extract duration from labels
+        duration_seconds = 0
+        for label in item.get('labels', []):
+            if label.get('type') == 'duration':
+                duration_raw = label.get('raw', '')
+                if duration_raw.startswith('PT') and duration_raw.endswith('S'):
+                    try:
+                        duration_seconds = int(duration_raw[2:-1])  # Remove 'PT' and 'S'
+                    except ValueError:
+                        pass
+                break
+
         duration = ET.SubElement(programme, 'ebucore:duration')
-        duration.text = str(item.get('duration', 0))
+        duration.text = str(duration_seconds)
         
         # Service information
         service = ET.SubElement(programme, 'ebucore:serviceInformation')
