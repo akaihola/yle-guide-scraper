@@ -6,6 +6,7 @@ import json
 import logging
 import sys
 import traceback
+import re
 from ruamel.yaml.scalarstring import PreservedScalarString
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
@@ -27,7 +28,8 @@ def get_next_data():
         msg = "Could not find __NEXT_DATA__ script tag"
         raise ValueError(msg)
 
-    return json.loads(next_data.string)
+    data = json.loads(next_data.string)
+    return data, data.get('buildId')
 
 
 def build_api_url(next_data) -> str:
@@ -86,7 +88,22 @@ def fetch_schedule(url):
     return response.json()
 
 
-def convert_to_yaml(schedule_data):
+def get_series_title(series_id, build_id):
+    """Fetch series title from Areena API."""
+    if not build_id:
+        return None
+        
+    url = f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        return data.get('pageProps', {}).get('view', {}).get('title')
+    except (requests.RequestException, KeyError, json.JSONDecodeError):
+        logging.warning(f"Failed to fetch series title for {series_id}")
+        return None
+
+def convert_to_yaml(schedule_data, build_id=None):
     """Convert Areena schedule data to simple YAML format."""
     # Extract service info from schedule data
     service_id = (
@@ -152,6 +169,17 @@ def convert_to_yaml(schedule_data):
         
         if item.get("description"):
             programme["description"] = item["description"]
+            
+        # Look for series link in labels
+        for label in item.get("labels", []):
+            if label.get("type") == "seriesLink":
+                uri = label.get("pointer", {}).get("uri", "")
+                match = re.search(r"yleareena://items/(\d+-\d+)", uri)
+                if match:
+                    series_id = match.group(1)
+                    series_title = get_series_title(series_id, build_id)
+                    if series_title:
+                        programme["series"] = series_title
 
         yaml_data[service_name]["programmes"].append(programme)
 
@@ -169,7 +197,7 @@ def write_yaml(yaml_data, output_file=None):
     for service in yaml_data.values():
         for prog in service['programmes']:
             if 'description' in prog:
-                prog['description'] = yaml.scalarstring.PreservedScalarString(prog['description'])
+                prog['description'] = PreservedScalarString(prog['description'])
     
     if output_file:
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -191,14 +219,14 @@ def main() -> None:
     )
 
     try:
-        next_data = get_next_data()
+        next_data, build_id = get_next_data()
         api_url = build_api_url(next_data)
         logging.info(f"Generated API URL:\n{api_url}")
 
         schedule_data = fetch_schedule(api_url)
 
         # Convert to YAML format
-        yaml_data = convert_to_yaml(schedule_data)
+        yaml_data = convert_to_yaml(schedule_data, build_id)
 
         # Write YAML to file or stdout
         write_yaml(yaml_data, args.output)
