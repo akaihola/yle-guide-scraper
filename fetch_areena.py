@@ -8,8 +8,7 @@ import sys
 import traceback
 from datetime import date, datetime, timedelta
 from urllib.parse import urlencode
-from xml.etree import ElementTree as ET
-
+import yaml
 import requests
 from bs4 import BeautifulSoup
 
@@ -86,8 +85,8 @@ def fetch_schedule(url):
     return response.json()
 
 
-def convert_to_ebucore(schedule_data):
-    """Convert Areena schedule data to EBUCore Plus XML format."""
+def convert_to_yaml(schedule_data):
+    """Convert Areena schedule data to simple YAML format."""
     # Extract service info from schedule data
     service_id = (
         schedule_data.get("meta", {})
@@ -97,47 +96,21 @@ def convert_to_ebucore(schedule_data):
         .get("yle_referer", "")
         .split(".")[-2]
     )
-    # Convert yle_radio_1 to yle-radio-1 format
     service_id = service_id.replace("_", "-")
 
     # Map service IDs to human readable names
     service_names = {"yle-radio-1": "Yle Radio 1"}
     service_name = service_names.get(service_id, service_id.replace("-", " ").title())
 
-    # Create root element with namespaces
-    root = ET.Element("ec:ebuCoreMain")
-    root.set("xmlns:ec", "urn:ebu:metadata-schema:ebucore")
-    root.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance") 
-    root.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
-    root.set("xmlns:rdf", "http://www.w3.org/1999/02/22-rdf-syntax-ns#")
-    root.set("xmlns:dcterms", "http://purl.org/dc/terms/")
-    root.set("xmlns:time", "http://www.w3.org/2006/time#")
-    root.set(
-        "xsi:schemaLocation",
-        "urn:ebu:metadata-schema:ebucore https://raw.githubusercontent.com/ebu/ebucore/master/EBUCore.xsd",
-    )
-    root.set("version", "1.10")
-    root.set("dateLastModified", datetime.now().isoformat())
-
-    # Create service definition
-    services = ET.SubElement(root, "ec:serviceList")
-    service = ET.SubElement(services, "ec:service")
-    service.set("serviceId", service_id)
-    
-    service_name_elem = ET.SubElement(service, "ec:serviceName")
-    service_name_elem.text = service_name
-    service_name_elem.set("typeLabel", "main")
-    
-    channel = ET.SubElement(service, "ec:publishingChannel")
-    channel.set("typeLabel", "Radio")
-
-    # Create programmeList element with RDF collection type
-    programme_list = ET.SubElement(root, "ec:programmeList")
-    programme_list.set("rdf:parseType", "Collection")
+    # Prepare YAML structure
+    yaml_data = {
+        service_name: {
+            "programmes": []
+        }
+    }
 
     # Convert each schedule item
     for item in schedule_data.get("data", []):
-        # Skip items missing required fields
         if not all(key in item and item[key] for key in ["title"]):
             logging.warning(f"Skipping item due to missing required fields: {item}")
             continue
@@ -156,34 +129,7 @@ def convert_to_ebucore(schedule_data):
             logging.warning(f"Skipping item due to missing startTime in labels: {item}")
             continue
 
-        # Generate an ID if missing
-        item_id = (
-            item.get("id") or item.get("pointer", {}).get("uri", "").split("/")[-1]
-        )
-        if not item_id:
-            logging.warning(f"Skipping item due to missing ID: {item}")
-            continue
-
-        programme = ET.SubElement(programme_list, "ec:programme")
-
-        # Required programmeId attribute
-        programme.set("programmeId", str(item_id))
-
-        # Title (required)
-        title_group = ET.SubElement(programme, "ec:titleGroup")
-        title = ET.SubElement(title_group, "ec:title")
-        title.text = item["title"]
-        title.set("typeLabel", "main")
-
-        # Description group (optional)
-        if item.get("description"):
-            desc_group = ET.SubElement(programme, "ec:descriptionGroup")
-            desc = ET.SubElement(desc_group, "ec:description")
-            desc.text = item["description"]
-            desc.set("typeLabel", "main")
-
-        # Start and end times
-        # Extract duration once
+        # Extract duration and calculate end time
         duration_seconds = 0
         for label in item.get("labels", []):
             if label.get("type") == "duration":
@@ -193,42 +139,32 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        # Create timing elements as direct properties of programme
-        if start_time:
-            start_container = ET.SubElement(programme, "ec:publishedStartDateTime")
-            start_container.text = start_time.isoformat()
-            start_container.set("typeLabel", "actual")
+        end_time = start_time + timedelta(seconds=duration_seconds) if duration_seconds > 0 else None
 
-        if duration_seconds > 0:
-            # Create duration directly under programme
-            duration = ET.SubElement(programme, "ec:duration")
-            normal_play_time = ET.SubElement(duration, "ec:normalPlayTime")
-            normal_play_time.text = f"PT{duration_seconds}S"
+        programme = {
+            "title": item["title"],
+            "start_time": start_time.isoformat(),
+        }
+        
+        if end_time:
+            programme["end_time"] = end_time.isoformat()
+        
+        if item.get("description"):
+            programme["description"] = item["description"]
 
-            # Calculate and create end time only if we have duration
-            end_time = start_time + timedelta(seconds=duration_seconds)
-            end_container = ET.SubElement(programme, "ec:publishedEndDateTime")
-            end_container.text = end_time.isoformat()
-            end_container.set("typeLabel", "actual")
+        yaml_data[service_name]["programmes"].append(programme)
 
-        # Reference the service
-        service_ref = ET.SubElement(programme, "ec:serviceInformation")
-        service_ref.set("serviceId", service_id)
-
-    return root
+    return yaml_data
 
 
-def write_xml(xml_root, output_file=None):
-    """Write XML to file or stdout."""
-    ET.indent(xml_root)  # Pretty print the XML
-    xml_str = ET.tostring(xml_root, encoding="unicode")
-    
+def write_yaml(yaml_data, output_file=None):
+    """Write YAML to file or stdout."""
     if output_file:
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(xml_str)
-        logging.info(f"XML written to: {output_file}")
+            yaml.dump(yaml_data, f, allow_unicode=True, sort_keys=False)
+        logging.info(f"YAML written to: {output_file}")
     else:
-        print(xml_str)
+        print(yaml.dump(yaml_data, allow_unicode=True, sort_keys=False))
 
 def main() -> None:
     # Parse command line arguments
@@ -249,11 +185,11 @@ def main() -> None:
 
         schedule_data = fetch_schedule(api_url)
 
-        # Convert to EBUCore Plus format
-        ebucore_xml = convert_to_ebucore(schedule_data)
+        # Convert to YAML format
+        yaml_data = convert_to_yaml(schedule_data)
 
-        # Write XML to file or stdout
-        write_xml(ebucore_xml, args.output)
+        # Write YAML to file or stdout
+        write_yaml(yaml_data, args.output)
 
     except Exception:
         logging.exception("Error occurred:")
