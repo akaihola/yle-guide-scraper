@@ -1,0 +1,5 @@
+# Ruff configuration file
+
+[lint]
+select = ["ALL"]  # Enable all rules
+ignore = ["TRY300"]  # Ignore suggestion about moving return statements to else blocks
