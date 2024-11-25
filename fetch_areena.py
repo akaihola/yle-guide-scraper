@@ -194,34 +194,24 @@ def convert_to_ebucore(schedule_data):
                         duration_seconds = int(duration_raw[2:-1])
                 break
 
-        # Prepare timing data first
-        timing_data = {}
-        
-        # Start time is mandatory
+        # Create timing elements in a specific order with proper RDF structure
         if start_time:
-            timing_data["start"] = start_time.isoformat()
-            
-        # Duration and end time are optional and dependent on each other
-        if duration_seconds > 0:
-            timing_data["duration"] = f"PT{duration_seconds}S"
-            end_time = start_time + timedelta(seconds=duration_seconds)
-            timing_data["end"] = end_time.isoformat()
+            # Create a container for start time
+            start_container = ET.SubElement(timing_group, "ec:publishedStartDateTime")
+            start_container.text = start_time.isoformat()
+            start_container.set("typeLabel", "actual")
 
-        # Create only the timing elements we have data for
-        if "start" in timing_data:
-            start_elem = ET.SubElement(timing_group, "ec:publishedStartDateTime")
-            start_elem.text = timing_data["start"]
-            start_elem.set("typeLabel", "actual")
-            
-        if "duration" in timing_data:
-            duration_elem = ET.SubElement(timing_group, "ec:duration")
-            duration_elem.set("normalPlayTime", timing_data["duration"])
-            duration_elem.set("typeLabel", "actual")
-            
-        if "end" in timing_data:
-            end_elem = ET.SubElement(timing_group, "ec:publishedEndDateTime")
-            end_elem.text = timing_data["end"]
-            end_elem.set("typeLabel", "actual")
+        if duration_seconds > 0:
+            # Create a container for duration
+            duration_container = ET.SubElement(timing_group, "ec:duration")
+            duration_container.set("normalPlayTime", f"PT{duration_seconds}S")
+            duration_container.set("typeLabel", "actual")
+
+            # Calculate and create end time only if we have duration
+            end_time = start_time + timedelta(seconds=duration_seconds)
+            end_container = ET.SubElement(timing_group, "ec:publishedEndDateTime")
+            end_container.text = end_time.isoformat()
+            end_container.set("typeLabel", "actual")
 
         # Reference the service
         service_ref = ET.SubElement(programme, "ec:serviceInformation")
