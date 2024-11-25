@@ -202,10 +202,11 @@ def convert_to_ebucore(schedule_data):
             start_container.set("typeLabel", "actual")
 
         if duration_seconds > 0:
-            # Create a container for duration
-            duration_container = ET.SubElement(timing_group, "ec:duration")
-            duration_container.set("normalPlayTime", f"PT{duration_seconds}S")
-            duration_container.set("typeLabel", "actual")
+            # Create duration as a timeline point with proper structure
+            if duration_seconds > 0:
+                duration_container = ET.SubElement(timing_group, "ec:duration")
+                duration_container.text = f"PT{duration_seconds}S"
+                duration_container.set("xsi:type", "time:Duration")
 
             # Calculate and create end time only if we have duration
             end_time = start_time + timedelta(seconds=duration_seconds)
