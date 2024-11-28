@@ -80,6 +80,66 @@ def test_build_api_url(next_data: dict, date: datetime, expected_url: str) -> No
     assert url == expected_url
 
 
+@pytest.mark.parametrize(
+    ("series_id", "build_id", "response_data", "expected_title"),
+    [
+        (
+            "1-1234567",
+            "abc123",
+            {"pageProps": {"view": {"title": "Test Series"}}},
+            "Test Series",
+        ),
+        (
+            "1-7654321",
+            "def456",
+            {"pageProps": {"view": {}}},  # Missing title
+            None,
+        ),
+        (
+            "1-9999999",
+            None,  # No build_id
+            {},
+            None,
+        ),
+    ],
+)
+def test_get_series_title(
+    series_id: str,
+    build_id: str | None,
+    response_data: dict,
+    expected_title: str | None,
+    tmp_path: Path,
+) -> None:
+    """Test fetching series title from cache or API."""
+    from fetch_areena import AreenaCache
+
+    cache = AreenaCache(str(tmp_path))
+
+    with patch("requests.get") as mock_get:
+        mock_response = requests.Response()
+        mock_response.status_code = 200
+        mock_response._content = json.dumps(response_data).encode()  # noqa: SLF001
+        mock_get.return_value = mock_response
+
+        # First call should hit the API
+        title = cache.get_series_title(series_id, build_id)
+        assert title == expected_title
+
+        if build_id:
+            mock_get.assert_called_once_with(
+                f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json",
+                timeout=30,
+            )
+
+            # Second call should hit the cache
+            mock_get.reset_mock()
+            cached_title = cache.get_series_title(series_id, build_id)
+            assert cached_title == expected_title
+            mock_get.assert_not_called()
+        else:
+            mock_get.assert_not_called()
+
+
 def test_get_next_data() -> None:
     """Test extracting __NEXT_DATA__ from Areena podcast guide."""
     # Load test data

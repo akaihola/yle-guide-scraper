@@ -135,8 +135,9 @@ class AreenaCache:
         cache_key = f"series_title:{series_id}:{build_id}"
 
         # Try to get from cache first
-        cached_title = self._cache.get(cache_key)
-        if cached_title is not None:
+        sentinel = object()
+        cached_title = self._cache.get(cache_key, sentinel)
+        if cached_title is not sentinel:
             return cached_title
 
         url = (
@@ -147,12 +148,10 @@ class AreenaCache:
             response.raise_for_status()
             data = response.json()
             title = data.get("pageProps", {}).get("view", {}).get("title")
-            if title:
-                # Cache the result for one month
-                self._cache.set(cache_key, title, expire=30 * 24 * 60 * 60)
-                return title
-            return None
-        except (requests.RequestException, KeyError, json.JSONDecodeError):
+            # Cache both found and not found results
+            self._cache.set(cache_key, title, expire=30 * 24 * 60 * 60)
+            return title
+        except (requests.RequestException, json.JSONDecodeError):
             logging.warning("Failed to fetch series title for %s", series_id)
             return None
 
