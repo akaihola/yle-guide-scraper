@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import contextlib
+import hashlib
 import json
 import logging
 import re
@@ -22,8 +23,13 @@ from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import PreservedScalarString
 
 
-def get_next_data() -> tuple[dict, str | None]:
-    """Fetch and extract __NEXT_DATA__ JSON from Areena podcast guide."""
+def get_next_data() -> tuple[dict, str | None, str]:
+    """Fetch and extract __NEXT_DATA__ JSON from Areena podcast guide.
+
+    Returns:
+        Tuple of (next_data dict, build_id, data_hash)
+
+    """
     url = "https://areena.yle.fi/podcastit/opas"
     response = requests.get(url, timeout=30)
     response.raise_for_status()
@@ -36,7 +42,9 @@ def get_next_data() -> tuple[dict, str | None]:
         raise ValueError(msg)
 
     data = json.loads(next_data.string)
-    return data, data.get("buildId")
+    # Calculate hash of the raw JSON string
+    data_hash = hashlib.sha256(next_data.string.encode()).hexdigest()
+    return data, data.get("buildId"), data_hash
 
 
 def build_api_url(next_data: dict, date: datetime) -> str:
@@ -203,7 +211,11 @@ def get_git_info() -> dict:
         return {}
 
 
-def convert_to_yaml(schedule_data: dict, build_id: str | None = None) -> dict:
+def convert_to_yaml(
+    schedule_data: dict,
+    build_id: str | None = None,
+    data_hash: str | None = None,
+) -> dict:
     """Convert Areena schedule data to simple YAML format."""
     service_id, service_name = _extract_service_info(schedule_data)
 
@@ -211,6 +223,7 @@ def convert_to_yaml(schedule_data: dict, build_id: str | None = None) -> dict:
         "metadata": {
             "generated_at": datetime.now(tz=timezone.utc).isoformat(),
             "git": get_git_info(),
+            "data_hash": data_hash,
         },
         "data": {
             service_name: {
@@ -314,7 +327,11 @@ def write_yaml(
 
 
 def fetch_multiple_days(
-    next_data: dict, build_id: str | None, output: str | None, directory: str | None,
+    next_data: dict,
+    build_id: str | None,
+    data_hash: str,
+    output: str | None,
+    directory: str | None,
 ) -> None:
     """Fetch and process schedule data for multiple days."""
     current_date = datetime.now(tz=timezone.utc)
@@ -332,8 +349,32 @@ def fetch_multiple_days(
             )
             break
 
+        # Check if file exists and has same hash
+        if directory:
+            date_to_use = current_date
+            service_id = "yle-radio-1"  # This matches _extract_service_info
+            output_dir = (
+                Path(directory)
+                / service_id
+                / str(date_to_use.year)
+                / f"{date_to_use.month:02d}"
+            )
+            output_path = output_dir / f"{date_to_use.day:02d}.yaml"
+
+            if output_path.exists():
+                yaml = YAML()
+                with output_path.open("r", encoding="utf-8") as f:
+                    existing_data = yaml.load(f)
+                    if existing_data.get("metadata", {}).get("data_hash") == data_hash:
+                        logging.info(
+                            "Data hash matches for %s, skipping",
+                            current_date.date().isoformat(),
+                        )
+                        current_date += timedelta(days=1)
+                        continue
+
         # Convert to YAML format
-        yaml_data = convert_to_yaml(schedule_data, build_id)
+        yaml_data = convert_to_yaml(schedule_data, build_id, data_hash)
 
         # Write YAML to file or stdout
         write_yaml(yaml_data, output, directory, current_date)
@@ -364,8 +405,8 @@ def main() -> None:
 
     try:
         args = parser.parse_args()
-        next_data, build_id = get_next_data()
-        fetch_multiple_days(next_data, build_id, args.output, args.directory)
+        next_data, build_id, data_hash = get_next_data()
+        fetch_multiple_days(next_data, build_id, data_hash, args.output, args.directory)
 
     except Exception:
         logging.exception("Error occurred:")
