@@ -1,0 +1,1674 @@
+{
+    "props": {
+        "pageProps": {
+            "view": {
+                "title": "Radio-opas",
+                "menus": [
+                    {
+                        "groupings": [
+                            {
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/live.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ]
+                                        },
+                                        "title": "L\u00e4hetykset"
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/tv-guides/2024-11-28.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ]
+                                        },
+                                        "title": "TV-opas"
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/radio-guides/2024-11-28.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ]
+                                        },
+                                        "title": "Radio-opas"
+                                    }
+                                ],
+                                "groupings": [],
+                                "type": "grouping"
+                            }
+                        ],
+                        "tag": "section-menu",
+                        "analytics": {
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.section_menu"
+                                }
+                            }
+                        },
+                        "type": "menu"
+                    }
+                ],
+                "analytics": {
+                    "pageload": {
+                        "comscore": {
+                            "countername": "radio.guide.2024-11-28.radio_opas",
+                            "yle_ui_language": "fi"
+                        }
+                    },
+                    "context": {
+                        "comscore": {
+                            "yle_referer": "radio.guide.2024-11-28.radio_opas"
+                        }
+                    }
+                },
+                "tabs": [
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-1/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_1.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/packages/57-p89RepWE0.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ],
+                                            "slug": "yle-radio-1"
+                                        },
+                                        "title": "Yle Radio 1",
+                                        "image": {
+                                            "id": "yle-radio-1_vt",
+                                            "version": "1730971077"
+                                        }
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-1"
+                                        }
+                                    }
+                                ],
+                                "title": "Yle Radio 1",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle Radio 1",
+                        "image": {
+                            "id": "yle-radio-1_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_radio_1",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_radio_1"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/ylex/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.ylex.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/packages/57-JAprnp7W2.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ],
+                                            "slug": "ylex"
+                                        },
+                                        "title": "YleX",
+                                        "image": {
+                                            "id": "ylex_vt",
+                                            "version": "1730971077"
+                                        }
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/ylex"
+                                        }
+                                    }
+                                ],
+                                "title": "YleX",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "YleX",
+                        "image": {
+                            "id": "ylex_vtx",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.ylex",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.ylex"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-helsinki/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-helsinki"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-helsinki_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Helsinki",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-helsinki"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-hameenlinna/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-hameenlinna"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-hameenlinna_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "H\u00e4meenlinna",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-hameenlinna"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-joensuu/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-joensuu"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-joensuu_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Joensuu",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-joensuu"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-jyvaskyla/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-jyvaskyla"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-jyvaskyla_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Jyv\u00e4skyl\u00e4",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-jyvaskyla"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-kajaani/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-kajaani"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-kajaani_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Kajaani",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-kajaani"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-kemi/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-kemi"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-kemi_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Kemi",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-kemi"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-kokkola/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-kokkola"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-kokkola_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Kokkola",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-kokkola"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-kotka/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-kotka"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-kotka_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Kotka",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-kotka"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-kuopio/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-kuopio"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-kuopio_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Kuopio",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-kuopio"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-lahti/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-lahti"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-lahti_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Lahti",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-lahti"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-lappeenranta/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-lappeenranta"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-lappeenranta_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Lappeenranta",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-lappeenranta"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-mikkeli/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-mikkeli"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-mikkeli_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Mikkeli",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-mikkeli"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-oulu/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-oulu"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-oulu_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Oulu",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-oulu"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-pori/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-pori"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-pori_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Pori",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-pori"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-rovaniemi/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-rovaniemi"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-rovaniemi_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Rovaniemi",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-rovaniemi"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-seinajoki/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-seinajoki"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-seinajoki_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Sein\u00e4joki",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-seinajoki"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-tampere/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-tampere"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-tampere_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Tampere",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-tampere"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-turku/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-turku"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-turku_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Turku",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-turku"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-radio-suomi-vaasa/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_radio_suomi.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-radio-suomi-vaasa"
+                                        },
+                                        "image": {
+                                            "id": "yle-radio-suomi-vaasa_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Vaasa",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-suomi",
+                                    "id": "yle-radio-suomi-vaasa"
+                                }
+                            }
+                        ],
+                        "title": "Yle Radio Suomi",
+                        "image": {
+                            "id": "yle-radio-suomi_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_radio_suomi",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_radio_suomi"
+                                }
+                            }
+                        },
+                        "type": "tab",
+                        "persistentState": {
+                            "key": "yle-radio-suomi"
+                        }
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-klassinen/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_klassinen.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/packages/57-llL6Y4blL.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ],
+                                            "slug": "yle-klassinen"
+                                        },
+                                        "title": "Yle Klassinen",
+                                        "image": {
+                                            "id": "yle-klassinen_vt",
+                                            "version": "1730971077"
+                                        }
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-klassinen"
+                                        }
+                                    }
+                                ],
+                                "title": "Yle Klassinen",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle Klassinen",
+                        "image": {
+                            "id": "yle-klassinen_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_klassinen",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_klassinen"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-sami-radio/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_sami_radio.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/packages/57-bN8gjw7AY.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ],
+                                            "slug": "yle-sami-radio"
+                                        },
+                                        "title": "Yle S\u00e1mi radio",
+                                        "image": {
+                                            "id": "yle-sami-radio_vt",
+                                            "version": "1730971077"
+                                        }
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-sami-radio"
+                                        }
+                                    }
+                                ],
+                                "title": "Yle S\u00e1mi Radio",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle S\u00e1mi Radio",
+                        "image": {
+                            "id": "yle-sami-radio_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_sami_radio",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_sami_radio"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/radio-vega-huvudstadsregionen/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_vega.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/radio-vega-huvudstadsregionen"
+                                        },
+                                        "image": {
+                                            "id": "radio-vega-huvudstadsregionen_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "Huvudstadsregionen",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-vega",
+                                    "id": "radio-vega-huvudstadsregionen"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/radio-vega-vastnyland/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_vega.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/radio-vega-vastnyland"
+                                        },
+                                        "image": {
+                                            "id": "radio-vega-vastnyland_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "V\u00e4stnyland",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-vega",
+                                    "id": "radio-vega-vastnyland"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/radio-vega-aboland/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_vega.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/radio-vega-aboland"
+                                        },
+                                        "image": {
+                                            "id": "radio-vega-aboland_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "\u00c5boland",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-vega",
+                                    "id": "radio-vega-aboland"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/radio-vega-osterbotten/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_vega.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/radio-vega-osterbotten"
+                                        },
+                                        "image": {
+                                            "id": "radio-vega-osterbotten_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "\u00d6sterbotten",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-vega",
+                                    "id": "radio-vega-osterbotten"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/radio-vega-ostnyland/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_vega.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/radio-vega-ostnyland"
+                                        },
+                                        "image": {
+                                            "id": "radio-vega-ostnyland_vtc",
+                                            "version": "1730971077"
+                                        }
+                                    }
+                                ],
+                                "title": "\u00d6stnyland",
+                                "type": "list",
+                                "persistentState": {
+                                    "key": "yle-radio-vega",
+                                    "id": "radio-vega-ostnyland"
+                                }
+                            }
+                        ],
+                        "title": "Yle Vega",
+                        "image": {
+                            "id": "yle-radio-vega_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_vega",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_vega"
+                                }
+                            }
+                        },
+                        "type": "tab",
+                        "persistentState": {
+                            "key": "yle-radio-vega"
+                        }
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-x3m/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_x3m.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "view",
+                                            "uri": "https://areena.api.yle.fi/v1/ui/views/packages/57-md5vJP6a2.json?language=fi&v=10&client=yle-areena-web",
+                                            "authentication": [
+                                                "yle-api"
+                                            ],
+                                            "slug": "yle-x3m"
+                                        },
+                                        "title": "Yle X3M",
+                                        "image": {
+                                            "id": "yle-x3m_vt",
+                                            "version": "1730971077"
+                                        }
+                                    },
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/yle-x3m"
+                                        }
+                                    }
+                                ],
+                                "title": "Yle X3M",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle X3M",
+                        "image": {
+                            "id": "yle-x3m_vtx",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_x3m",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_x3m"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/yle-mondo/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_mondo.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [],
+                                "title": "Yle Mondo",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle Mondo",
+                        "image": {
+                            "id": "yle-mondo_vtx",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_mondo",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_mondo"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    },
+                    {
+                        "content": [
+                            {
+                                "source": {
+                                    "uri": "https://areena.api.yle.fi/v1/ui/schedules/areena-audio-live/2024-11-28.json?yleReferer=radio.guide.2024-11-28.radio_opas.yle_areena.untitled_list&language=fi&v=10&client=yle-areena-web",
+                                    "authentication": [
+                                        "yle-api"
+                                    ]
+                                },
+                                "presentation": "schedule",
+                                "style": {
+                                    "image": "none",
+                                    "layout": "vertical",
+                                    "size": "medium"
+                                },
+                                "filters": [],
+                                "controls": [
+                                    {
+                                        "type": "navigator",
+                                        "destination": {
+                                            "type": "service",
+                                            "uri": "yleareena://services/areena-audio-live"
+                                        }
+                                    }
+                                ],
+                                "title": "Yle Areena",
+                                "type": "list"
+                            }
+                        ],
+                        "title": "Yle Areena",
+                        "image": {
+                            "id": "areena-audio-live_vtc",
+                            "version": "1730971077"
+                        },
+                        "analytics": {
+                            "pageload": {
+                                "comscore": {
+                                    "countername": "radio.guide.2024-11-28.radio_opas.yle_areena",
+                                    "yle_ui_language": "fi"
+                                }
+                            },
+                            "context": {
+                                "comscore": {
+                                    "yle_referer": "radio.guide.2024-11-28.radio_opas.yle_areena"
+                                }
+                            }
+                        },
+                        "type": "tab"
+                    }
+                ],
+                "type": "view"
+            },
+            "meta": {
+                "client": {
+                    "vendor": "yle",
+                    "app": "areena",
+                    "platform": "web"
+                },
+                "language": "fi",
+                "version": {
+                    "versionString": "10",
+                    "status": "Stable"
+                },
+                "region": "fi",
+                "date": "2024-11-28"
+            },
+            "path": "/podcastit/opas",
+            "userIsAuthenticated": false,
+            "epgDate": "2024-11-28",
+            "firstDateOfEpg": "2024-11-21",
+            "lastDateOfEpg": "2025-01-01",
+            "isEpgOfFutureDate": false,
+            "isEpgOfToday": true,
+            "referrer": null,
+            "areenaService": "radio"
+        },
+        "userIsAuthenticated": false,
+        "browseMenuContent": {
+            "type": "browseMenuContent",
+            "tvBlocks": [
+                {
+                    "type": "categoryImageLinks",
+                    "controls": [
+                        {
+                            "type": "navigator",
+                            "title": "Sarjat",
+                            "destination": {
+                                "uri": "yleareena://packages/57-p8JeXvBA0"
+                            },
+                            "image": {
+                                "id": "13-57-1713265275945",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Elokuvat",
+                            "destination": {
+                                "uri": "yleareena://packages/57-1BbXLDz6v"
+                            },
+                            "image": {
+                                "id": "13-57-1713265647981",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Dokumentit ",
+                            "destination": {
+                                "uri": "yleareena://packages/57-P3dgOa9BO"
+                            },
+                            "image": {
+                                "id": "13-57-1713521563133",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Urheilu",
+                            "destination": {
+                                "uri": "yleareena://packages/57-Nm82dw5J1"
+                            },
+                            "image": {
+                                "id": "13-57-1717735858901",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Uutiset ja ajankohtaiset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-1B1zANk3N"
+                            },
+                            "image": {
+                                "id": "13-57-1718023706307",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Lapset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-P0VW82AxD"
+                            },
+                            "image": {
+                                "id": "13-57-1713175049907",
+                                "version": "0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "categoryLinks",
+                    "controls": [
+                        {
+                            "type": "navigator",
+                            "title": "Kuvailutulkatut",
+                            "destination": {
+                                "uri": "yleareena://packages/57-7Dvl8D4eg"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Viittomakieliset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-bN67eKroa"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Selkokieliset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-emwn2zm7l"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "textLinks",
+                    "controls": [
+                        {
+                            "type": "navigator",
+                            "title": "L\u00f6yd\u00e4 lis\u00e4\u00e4",
+                            "destination": {
+                                "uri": "yleareena://packages/30-1454"
+                            },
+                            "icon": {
+                                "id": "grid"
+                            }
+                        },
+                        {
+                            "type": "activator",
+                            "title": "Yle Arenan p\u00e5 svenska",
+                            "icon": {
+                                "id": "globe"
+                            },
+                            "functionality": {
+                                "id": "switch-language"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "podcastBlocks": [
+                {
+                    "type": "categoryImageLinks",
+                    "controls": [
+                        {
+                            "type": "navigator",
+                            "title": "Lapset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-DDRw1lBwg"
+                            },
+                            "image": {
+                                "id": "13-57-1724924998812",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Uutiset ja ajankohtaiset",
+                            "destination": {
+                                "uri": "yleareena://packages/57-NmrRmyvwP"
+                            },
+                            "image": {
+                                "id": "13-57-1718087153968",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Historia",
+                            "destination": {
+                                "uri": "yleareena://packages/57-omYoDk4kY"
+                            },
+                            "image": {
+                                "id": "13-57-1713529902985",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Tiede",
+                            "destination": {
+                                "uri": "yleareena://packages/57-RyyrXny8e"
+                            },
+                            "image": {
+                                "id": "13-57-1713530694819",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Musiikki",
+                            "destination": {
+                                "uri": "yleareena://packages/57-bNBwRNd2D"
+                            },
+                            "image": {
+                                "id": "13-57-1713515900383",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Draama",
+                            "destination": {
+                                "uri": "yleareena://packages/57-kp1xNXEno"
+                            },
+                            "image": {
+                                "id": "13-57-1713529159526",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Urheilu ",
+                            "destination": {
+                                "uri": "yleareena://packages/57-jOPDYJ5o4"
+                            },
+                            "image": {
+                                "id": "13-57-1717761480680",
+                                "version": "0"
+                            }
+                        },
+                        {
+                            "type": "navigator",
+                            "title": "Dokumentit",
+                            "destination": {
+                                "uri": "yleareena://packages/57-gV2VR6YXP"
+                            },
+                            "image": {
+                                "id": "13-57-1713777947827",
+                                "version": "0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "categoryLinks",
+                    "controls": []
+                },
+                {
+                    "type": "textLinks",
+                    "controls": [
+                        {
+                            "type": "navigator",
+                            "title": "L\u00f6yd\u00e4 lis\u00e4\u00e4",
+                            "destination": {
+                                "uri": "yleareena://packages/30-1457"
+                            },
+                            "icon": {
+                                "id": "grid"
+                            }
+                        },
+                        {
+                            "type": "activator",
+                            "title": "Yle Arenan p\u00e5 svenska",
+                            "icon": {
+                                "id": "globe"
+                            },
+                            "functionality": {
+                                "id": "switch-language"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/podcastit/opas",
+    "query": {},
+    "buildId": "1TFgCdLVNpyORaCE7c6kN",
+    "assetPrefix": "https://areena-web-items.ylestatic.fi/4.0.74",
+    "runtimeConfig": {
+        "versionNumber": "4.0.74",
+        "environment": "production",
+        "apmServerUrl": "https://apm.aws.yle.fi/",
+        "apmSampleRate": "0.05",
+        "appIdFrontend": "areena-web-items",
+        "appKeyFrontend": "wlTs5D9OjIdeS9krPzRQR4I1PYVzoazN"
+    },
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "dynamicIds": [
+        7891
+    ],
+    "gssp": true,
+    "appGip": true,
+    "locale": "fi",
+    "locales": [
+        "fi",
+        "sv"
+    ],
+    "defaultLocale": "fi",
+    "domainLocales": [
+        {
+            "domain": "areena.yle.fi",
+            "defaultLocale": "fi"
+        },
+        {
+            "domain": "arenan.yle.fi",
+            "defaultLocale": "sv"
+        }
+    ],
+    "scriptLoader": []
+}

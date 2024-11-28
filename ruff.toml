@@ -3,3 +3,4 @@
 [lint]
 select = ["ALL"]  # Enable all rules
 ignore = ["TRY300"]  # Ignore suggestion about moving return statements to else blocks
+per-file-ignores = { "tests/*.py" = ["INP001", "S101"] }
