@@ -21,6 +21,7 @@ import logging
 import re
 import sys
 import traceback
+from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlparse
@@ -117,37 +118,43 @@ def fetch_schedule(url: str) -> dict | None:
         return None
 
 
-# Initialize disk cache
-cache = Cache("~/.cache/areena")
+class AreenaCache:
+    """Cache wrapper for Areena data."""
 
+    def __init__(self, cache_dir: str) -> None:
+        """Initialize cache in the specified directory."""
+        Path(cache_dir).mkdir(parents=True, exist_ok=True)
+        self._cache = Cache(str(cache_dir))
 
-def get_series_title(series_id: str, build_id: str | None) -> str | None:
-    """Fetch series title from Areena API."""
-    if not build_id:
-        return None
+    def get_series_title(self, series_id: str, build_id: str | None) -> str | None:
+        """Fetch series title from Areena API."""
+        if not build_id:
+            return None
 
-    # Create cache key
-    cache_key = f"series_title:{series_id}:{build_id}"
+        # Create cache key
+        cache_key = f"series_title:{series_id}:{build_id}"
 
-    # Try to get from cache first
-    cached_title = cache.get(cache_key)
-    if cached_title is not None:
-        return cached_title
+        # Try to get from cache first
+        cached_title = self._cache.get(cache_key)
+        if cached_title is not None:
+            return cached_title
 
-    url = f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json"
-    try:
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        data = response.json()
-        title = data.get("pageProps", {}).get("view", {}).get("title")
-        if title:
-            # Cache the result for 24 hours
-            cache.set(cache_key, title, expire=24 * 60 * 60)
-            return title
-        return None
-    except (requests.RequestException, KeyError, json.JSONDecodeError):
-        logging.warning("Failed to fetch series title for %s", series_id)
-        return None
+        url = (
+            f"https://areena.yle.fi/_next/data/{build_id}/fi/podcastit/{series_id}.json"
+        )
+        try:
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+            title = data.get("pageProps", {}).get("view", {}).get("title")
+            if title:
+                # Cache the result for 24 hours
+                self._cache.set(cache_key, title, expire=24 * 60 * 60)
+                return title
+            return None
+        except (requests.RequestException, KeyError, json.JSONDecodeError):
+            logging.warning("Failed to fetch series title for %s", series_id)
+            return None
 
 
 def _extract_service_info(schedule_data: dict) -> tuple[str, str]:
@@ -197,7 +204,11 @@ def _extract_time_info(item: dict) -> tuple[datetime | None, datetime | None]:
     return start_time, end_time
 
 
-def _extract_series_info(item: dict, build_id: str | None) -> str | None:
+def _extract_series_info(
+    item: dict,
+    build_id: str | None,
+    cache: AreenaCache,
+) -> str | None:
     """Extract series information from schedule item."""
     for label in item.get("labels", []):
         if label.get("type") == "seriesLink":
@@ -205,7 +216,7 @@ def _extract_series_info(item: dict, build_id: str | None) -> str | None:
             match = re.search(r"yleareena://items/(\d+-\d+)", uri)
             if match:
                 series_id = match.group(1)
-                return get_series_title(series_id, build_id)
+                return cache.get_series_title(series_id, build_id)
     return None
 
 
@@ -225,6 +236,7 @@ def convert_to_yaml(
     schedule_data: dict,
     build_id: str | None = None,
     data_hash: str | None = None,
+    cache: AreenaCache | None = None,
 ) -> dict:
     """Convert Areena schedule data to simple YAML format."""
     service_id, service_name = _extract_service_info(schedule_data)
@@ -267,7 +279,7 @@ def convert_to_yaml(
         if item.get("description"):
             programme["description"] = item["description"]
 
-        series_title = _extract_series_info(item, build_id)
+        series_title = _extract_series_info(item, build_id, cache) if cache else None
         if series_title:
             programme["series"] = series_title
 
@@ -336,18 +348,31 @@ def write_yaml(
         yaml.dump(yaml_data, sys.stdout)
 
 
-def fetch_multiple_days(
-    next_data: dict,
-    build_id: str | None,
-    data_hash: str,
-    output: str | None,
-    directory: str | None,
-) -> None:
+@dataclass
+class AreenaData:
+    """Areena API data configuration."""
+
+    next_data: dict
+    build_id: str | None
+    data_hash: str
+
+
+@dataclass
+class FetchConfig:
+    """Configuration for fetching schedule data."""
+
+    areena_data: AreenaData
+    output: str | None
+    directory: str | None
+    cache: AreenaCache
+
+
+def fetch_multiple_days(config: FetchConfig) -> None:
     """Fetch and process schedule data for multiple days."""
     current_date = datetime.now(tz=timezone.utc)
 
     while True:
-        api_url = build_api_url(next_data, current_date)
+        api_url = build_api_url(config.areena_data.next_data, current_date)
         logging.info("Fetching data for %s", current_date.date().isoformat())
         logging.debug("URL: %s", api_url)
 
@@ -360,11 +385,11 @@ def fetch_multiple_days(
             break
 
         # Check if file exists and has same hash
-        if directory:
+        if config.directory:
             date_to_use = current_date
             service_id = "yle-radio-1"  # This matches _extract_service_info
             output_dir = (
-                Path(directory)
+                Path(config.directory)
                 / service_id
                 / str(date_to_use.year)
                 / f"{date_to_use.month:02d}"
@@ -375,7 +400,10 @@ def fetch_multiple_days(
                 yaml = YAML()
                 with output_path.open("r", encoding="utf-8") as f:
                     existing_data = yaml.load(f)
-                    if existing_data.get("metadata", {}).get("data_hash") == data_hash:
+                    if (
+                        existing_data.get("metadata", {}).get("data_hash")
+                        == config.areena_data.data_hash
+                    ):
                         logging.info(
                             "Data hash matches for %s, skipping",
                             current_date.date().isoformat(),
@@ -384,10 +412,15 @@ def fetch_multiple_days(
                         continue
 
         # Convert to YAML format
-        yaml_data = convert_to_yaml(schedule_data, build_id, data_hash)
+        yaml_data = convert_to_yaml(
+            schedule_data,
+            config.areena_data.build_id,
+            config.areena_data.data_hash,
+            config.cache,
+        )
 
         # Write YAML to file or stdout
-        write_yaml(yaml_data, output, directory, current_date)
+        write_yaml(yaml_data, config.output, config.directory, current_date)
 
         # Move to next day
         current_date += timedelta(days=1)
@@ -406,6 +439,12 @@ def main() -> None:
         help="Directory to save YAML files in format: "
         "<PATH>/<service_id>/<year>/<month>/<day>.yaml",
     )
+    parser.add_argument(
+        "-c",
+        "--cache-dir",
+        default=".",
+        help="Cache directory (default: current directory)",
+    )
 
     # Configure logging
     logging.basicConfig(
@@ -415,8 +454,20 @@ def main() -> None:
 
     try:
         args = parser.parse_args()
+        cache = AreenaCache(args.cache_dir)
         next_data, build_id, data_hash = get_next_data()
-        fetch_multiple_days(next_data, build_id, data_hash, args.output, args.directory)
+        areena_data = AreenaData(
+            next_data=next_data,
+            build_id=build_id,
+            data_hash=data_hash,
+        )
+        config = FetchConfig(
+            areena_data=areena_data,
+            output=args.output,
+            directory=args.directory,
+            cache=cache,
+        )
+        fetch_multiple_days(config)
 
     except Exception:
         logging.exception("Error occurred:")
