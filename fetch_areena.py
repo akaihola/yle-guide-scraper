@@ -246,8 +246,16 @@ def convert_to_yaml(schedule_data: dict, build_id: str | None = None) -> dict:
     return yaml_data
 
 
-def write_yaml(yaml_data: dict, output_file: str | None = None) -> None:
-    """Write YAML to file or stdout."""
+def write_yaml(
+    yaml_data: dict,
+    output_file: str | None = None,
+    directory: str | None = None,
+) -> None:
+    """Write YAML to file or stdout.
+
+    If directory is provided, saves files as:
+    <directory>/<service_id>/<year>/<month>/<day>.yaml
+    """
     yaml = YAML()
     yaml.preserve_quotes = True
     yaml.width = 4096  # Prevent line wrapping
@@ -259,7 +267,34 @@ def write_yaml(yaml_data: dict, output_file: str | None = None) -> None:
             if "description" in prog:
                 prog["description"] = PreservedScalarString(prog["description"])
 
-    if output_file:
+    if directory:
+        # Get current date components
+        now = datetime.now(tz=timezone.utc)
+
+        # Write a file for each service
+        for service_name, service_data in yaml_data["data"].items():
+            # Convert service name to id format (e.g. "Yle Radio 1" -> "yle-radio-1")
+            service_id = service_name.lower().replace(" ", "-")
+
+            # Create directory structure
+            output_dir = (
+                Path(directory) / service_id / str(now.year) / f"{now.month:02d}"
+            )
+            output_dir.mkdir(parents=True, exist_ok=True)
+
+            # Create output file
+            output_path = output_dir / f"{now.day:02d}.yaml"
+
+            # Create service-specific YAML data
+            service_yaml = {
+                "metadata": yaml_data["metadata"],
+                "data": {service_name: service_data},
+            }
+
+            with output_path.open("w", encoding="utf-8") as f:
+                yaml.dump(service_yaml, f)
+            logging.info("YAML written to: %s", output_path)
+    elif output_file:
         with Path(output_file).open("w", encoding="utf-8") as f:
             yaml.dump(yaml_data, f)
         logging.info("YAML written to: %s", output_file)
@@ -274,6 +309,12 @@ def main() -> None:
         description="Fetch Areena schedule and convert to EBUCore Plus XML",
     )
     parser.add_argument("-o", "--output", help="Output file path (default: stdout)")
+    parser.add_argument(
+        "-d",
+        "--directory",
+        help="Directory to save YAML files in format: "
+        "<PATH>/<service_id>/<year>/<month>/<day>.yaml",
+    )
     args = parser.parse_args()
 
     # Configure logging
@@ -293,7 +334,7 @@ def main() -> None:
         yaml_data = convert_to_yaml(schedule_data, build_id)
 
         # Write YAML to file or stdout
-        write_yaml(yaml_data, args.output)
+        write_yaml(yaml_data, args.output, args.directory)
 
     except Exception:
         logging.exception("Error occurred:")
