@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlparse
 
+import git
 import requests
 from bs4 import BeautifulSoup
 from diskcache import Cache
@@ -183,13 +184,31 @@ def _extract_series_info(item: dict, build_id: str | None) -> str | None:
     return None
 
 
+def get_git_info() -> dict:
+    """Get Git repository metadata."""
+    try:
+        repo = git.Repo(search_parent_directories=True)
+        return {
+            "branch": repo.active_branch.name,
+            "commit": repo.head.commit.hexsha,
+        }
+    except (git.InvalidGitRepositoryError, git.NoSuchPathError):
+        return {}
+
+
 def convert_to_yaml(schedule_data: dict, build_id: str | None = None) -> dict:
     """Convert Areena schedule data to simple YAML format."""
     service_id, service_name = _extract_service_info(schedule_data)
 
     yaml_data = {
-        service_name: {
-            "programmes": [],
+        "metadata": {
+            "generated_at": datetime.now(tz=timezone.utc).isoformat(),
+            "git": get_git_info(),
+        },
+        "data": {
+            service_name: {
+                "programmes": [],
+            },
         },
     }
 
@@ -222,7 +241,7 @@ def convert_to_yaml(schedule_data: dict, build_id: str | None = None) -> dict:
         if series_title:
             programme["series"] = series_title
 
-        yaml_data[service_name]["programmes"].append(programme)
+        yaml_data["data"][service_name]["programmes"].append(programme)
 
     return yaml_data
 
@@ -235,7 +254,7 @@ def write_yaml(yaml_data: dict, output_file: str | None = None) -> None:
     yaml.indent(mapping=2, sequence=4, offset=2)
 
     # Force description to be literal block style
-    for service in yaml_data.values():
+    for service in yaml_data["data"].values():
         for prog in service["programmes"]:
             if "description" in prog:
                 prog["description"] = PreservedScalarString(prog["description"])
