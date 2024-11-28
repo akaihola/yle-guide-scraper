@@ -148,8 +148,8 @@ class AreenaCache:
             data = response.json()
             title = data.get("pageProps", {}).get("view", {}).get("title")
             if title:
-                # Cache the result for 24 hours
-                self._cache.set(cache_key, title, expire=24 * 60 * 60)
+                # Cache the result for one month
+                self._cache.set(cache_key, title, expire=30 * 24 * 60 * 60)
                 return title
             return None
         except (requests.RequestException, KeyError, json.JSONDecodeError):
