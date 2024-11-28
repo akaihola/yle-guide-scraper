@@ -39,7 +39,7 @@ def get_next_data() -> tuple[dict, str | None]:
     return data, data.get("buildId")
 
 
-def build_api_url(next_data: dict) -> str:
+def build_api_url(next_data: dict, date: datetime) -> str:
     """Build Areena API URL using parameters from __NEXT_DATA__."""
     # Extract needed values from next_data
     next_data.get("props", {}).get("pageProps", {})
@@ -75,21 +75,28 @@ def build_api_url(next_data: dict) -> str:
     }
 
     # Add date-specific parameters
-    today = datetime.now(tz=timezone.utc).date().isoformat()
+    date_str = date.date().isoformat()
     channel = "yle-radio-1"  # This could be extracted from next_data if needed
 
-    params["yleReferer"] = f"radio.guide.{today}.radio_opas.{channel}.untitled_list"
+    params["yleReferer"] = f"radio.guide.{date_str}.radio_opas.{channel}.untitled_list"
 
     # Construct the final URL
-    base_url = f"https://areena.api.yle.fi/v1/ui/schedules/{channel}/{today}.json"
+    base_url = f"https://areena.api.yle.fi/v1/ui/schedules/{channel}/{date_str}.json"
     return f"{base_url}?{urlencode(params)}"
 
 
-def fetch_schedule(url: str) -> dict:
+def fetch_schedule(url: str) -> dict | None:
     """Fetch schedule data from the Areena API."""
-    response = requests.get(url, timeout=30)
-    response.raise_for_status()
-    return response.json()
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        # Check if we got valid data
+        if not data.get("data"):
+            return None
+        return data
+    except (requests.RequestException, json.JSONDecodeError):
+        return None
 
 
 # Initialize disk cache
@@ -250,6 +257,7 @@ def write_yaml(
     yaml_data: dict,
     output_file: str | None = None,
     directory: str | None = None,
+    current_date: datetime | None = None,
 ) -> None:
     """Write YAML to file or stdout.
 
@@ -268,8 +276,8 @@ def write_yaml(
                 prog["description"] = PreservedScalarString(prog["description"])
 
     if directory:
-        # Get current date components
-        now = datetime.now(tz=timezone.utc)
+        # Use provided date or fallback to current date
+        date_to_use = current_date or datetime.now(tz=timezone.utc)
 
         # Write a file for each service
         for service_name, service_data in yaml_data["data"].items():
@@ -278,12 +286,15 @@ def write_yaml(
 
             # Create directory structure
             output_dir = (
-                Path(directory) / service_id / str(now.year) / f"{now.month:02d}"
+                Path(directory)
+                / service_id
+                / str(date_to_use.year)
+                / f"{date_to_use.month:02d}"
             )
             output_dir.mkdir(parents=True, exist_ok=True)
 
             # Create output file
-            output_path = output_dir / f"{now.day:02d}.yaml"
+            output_path = output_dir / f"{date_to_use.day:02d}.yaml"
 
             # Create service-specific YAML data
             service_yaml = {
@@ -302,6 +313,35 @@ def write_yaml(
         yaml.dump(yaml_data, sys.stdout)
 
 
+def fetch_multiple_days(
+    next_data: dict, build_id: str | None, output: str | None, directory: str | None,
+) -> None:
+    """Fetch and process schedule data for multiple days."""
+    current_date = datetime.now(tz=timezone.utc)
+
+    while True:
+        api_url = build_api_url(next_data, current_date)
+        logging.info("Fetching data for %s", current_date.date().isoformat())
+        logging.debug("URL: %s", api_url)
+
+        schedule_data = fetch_schedule(api_url)
+        if not schedule_data:
+            logging.info(
+                "No more data available after %s",
+                current_date.date().isoformat(),
+            )
+            break
+
+        # Convert to YAML format
+        yaml_data = convert_to_yaml(schedule_data, build_id)
+
+        # Write YAML to file or stdout
+        write_yaml(yaml_data, output, directory, current_date)
+
+        # Move to next day
+        current_date += timedelta(days=1)
+
+
 def main() -> None:
     """Execute the main program flow."""
     # Parse command line arguments
@@ -315,7 +355,6 @@ def main() -> None:
         help="Directory to save YAML files in format: "
         "<PATH>/<service_id>/<year>/<month>/<day>.yaml",
     )
-    args = parser.parse_args()
 
     # Configure logging
     logging.basicConfig(
@@ -324,17 +363,9 @@ def main() -> None:
     )
 
     try:
+        args = parser.parse_args()
         next_data, build_id = get_next_data()
-        api_url = build_api_url(next_data)
-        logging.info("Generated API URL:\n%s", api_url)
-
-        schedule_data = fetch_schedule(api_url)
-
-        # Convert to YAML format
-        yaml_data = convert_to_yaml(schedule_data, build_id)
-
-        # Write YAML to file or stdout
-        write_yaml(yaml_data, args.output, args.directory)
+        fetch_multiple_days(next_data, build_id, args.output, args.directory)
 
     except Exception:
         logging.exception("Error occurred:")
