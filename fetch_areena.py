@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "beautifulsoup4",
+#     "diskcache",
+#     "gitpython",
+#     "requests",
+#     "ruamel-yaml",
+# ]
+# ///
 """Fetch and convert Yle Areena radio schedule data to YAML format."""
 
 from __future__ import annotations
