@@ -156,16 +156,23 @@ class AreenaCache:
             return None
 
 
+# Minimum number of parts in yle_referer for valid service ID
+MIN_REFERER_PARTS = 2
+
+
 def _extract_service_info(schedule_data: dict) -> tuple[str, str]:
     """Extract service ID and name from schedule data."""
-    service_id = (
+    yle_referer = (
         schedule_data.get("meta", {})
         .get("analytics", {})
         .get("context", {})
         .get("comscore", {})
         .get("yle_referer", "")
-        .split(".")[-2]
     )
+
+    # Handle empty referer string
+    parts = yle_referer.split(".") if yle_referer else []
+    service_id = parts[-2] if len(parts) >= MIN_REFERER_PARTS else ""
     service_id = service_id.replace("_", "-")
 
     # Map service IDs to human readable names

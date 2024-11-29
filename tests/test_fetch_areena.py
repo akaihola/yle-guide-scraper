@@ -1,5 +1,7 @@
 """Unit tests for fetch_areena module."""
 
+from __future__ import annotations
+
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -138,6 +140,63 @@ def test_get_series_title(
             mock_get.assert_not_called()
         else:
             mock_get.assert_not_called()
+
+
+@pytest.mark.parametrize(
+    ("schedule_data", "expected_id", "expected_name"),
+    [
+        (
+            {
+                "meta": {
+                    "analytics": {
+                        "context": {
+                            "comscore": {
+                                "yle_referer": (
+                                    "radio.guide.2024-01-01.radio_opas.yle_radio_1.untitled_list"
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+            "yle-radio-1",
+            "Yle Radio 1",
+        ),
+        (
+            {
+                "meta": {
+                    "analytics": {
+                        "context": {
+                            "comscore": {
+                                "yle_referer": (
+                                    "radio.guide.2024-01-01.radio_opas.some_other_channel.untitled_list"
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+            "some-other-channel",
+            "Some Other Channel",
+        ),
+        (
+            {"meta": {"analytics": {"context": {"comscore": {"yle_referer": ""}}}}},
+            "",
+            "",
+        ),
+    ],
+)
+def test_extract_service_info(
+    schedule_data: dict,
+    expected_id: str,
+    expected_name: str,
+) -> None:
+    """Test extracting service ID and name from schedule data."""
+    from fetch_areena import _extract_service_info
+
+    service_id, service_name = _extract_service_info(schedule_data)
+    assert service_id == expected_id
+    assert service_name == expected_name
 
 
 def test_get_next_data() -> None:
