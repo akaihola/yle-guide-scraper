@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-11-29T02:31:41.377427+00:00'
+  generated_at: '2024-11-30T02:29:36.722476+00:00'
   git:
     branch: main
-    commit: 8f4c9536ee37ce7fa6c4b24e0853ae59cdb76332
-  data_hash: 3f6a20b9c5f91bb1fcf734579d9f038e22dca02997c468b725f61cd74a4186c6
+    commit: 4d46b7f9deedfd362cbe243b1c5b321dbda8bb20
+  data_hash: 43d8338b3ea28de7dea1f50fac2747d35954476ba59dc6d64b294fb9af3f0385
 data:
   Yle Radio 1:
     programmes:
@@ -186,6 +186,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2024-12-19T18:35:00+02:00'
         end_time: '2024-12-19T18:50:00+02:00'
+        description: |-
+          Simojoki (sov. P. Nyman): Pieni liekki (Nita Lehtimäki, laulu, ja Sinfoniaorkesteri Vivo/Timo Lehtovaara).
+
+          Komulainen: Herra, minun valoni kuorolle (Sancti Amici/Minna Wesslund).
+
+          Berthier: Nyt yömme pimeyteen (Tuohus-kuoro ja yhtye).
+
+          Neuvonen (sov. J. Rissanen) Hän on valo (Lauluyhtye Valkea).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2024-12-19T18:50:00+02:00'
