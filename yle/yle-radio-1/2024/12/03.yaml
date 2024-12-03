@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-02T02:32:57.140120+00:00'
+  generated_at: '2024-12-03T02:32:13.297503+00:00'
   git:
     branch: main
-    commit: c32d096d2a1d8a89945a46e2caa4ff415eb47057
-  data_hash: 2cbb5be9b60d5aa219224fe6a6bad48267b67ad94feab58cd4b99327694a0e00
+    commit: 5a876c95f397d7c342a47c11faafba527b0562e8
+  data_hash: 7700d79d399dd72222e2b309ba7e2e0fb3b105cedd4a45f1503175c7308af2de
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,18 @@ data:
       - title: Ykkösaamu
         start_time: '2024-12-03T08:10:00+02:00'
         end_time: '2024-12-03T09:00:00+02:00'
+        description: |-
+          Taistelut Syyriassa puhkesivat, mitä siitä seuraa Lähi-idälle? Syyriassa kapinallisten joukot ovat ottaneet haltuunsa suuria osia Aleppon kaupungista ja maan hallinto on vastannut iskuilla yhteistyössä Venäjän kanssa. Keskustelemme studiossa siitä, mitä hyökkäys tarkoittaa Lähi-idän vakaudelle. Studiossa Ulkopoliittisen instituutin vanhempi tutkija Toni Alaranta ja Helsingin yliopiston väitöskirjatutkija Tiina Hyyppä.
+
+          Georgiassa hallitusta vastustavat mielenosoitukset ovat levinneet jo pääkaupunki Tbilisin ulkopuolelle. Mielenosoittajat vastustavat hallituksen päätöstä  lykätä neuvotteluja EU-jäsenyydestä. Toimittajamme Antti Kuronen raportoi.
+
+          Naton ulkoministerit kokoontuvat tänään ja huomenna Brysselissä. Kokouksen yksi keskeisistä kysymyksista on Ukrainan tukeminen ja tilanne Yhdysvaltain vallanvaihdoksen jälkeen. Kokousta seuraa paikan päällä Nato-kirjeevaihtajamme Maria Stenroos
+
+          Terveyden ja hyvinvoinnin laitos julkaisee tuoreet tiedot lasten ja nuorten lihavuudesta. Lasten ja nuorten ylipaino on huolestuttanut tutkijoita jo pitkään. Keväällä Suomessa aletaan tehdä systemaattisesti lasten ja nuorten lihavuusleikkauksia osassa Suomen yliopistosairaaloita. MIllainen ongelmat lasten ja nuorten ylipaino on ja millä tavoilla sitä voidaan hoitaa? Keskustelemassa kehittämispäällikkö Päivi Mäki THL:stä ja Turun yliopistollisen keskussairaalan ylilääkäri, professori Paulina Salminen.
+
+          Teollisuusliiton organisoimat lakot käynnistyvät tiistaina. Ensimmäisenä päivänä lakot koskevat 24 toimipaikkaa eri puolilla Suomea. Toimittaja Jarmo Nuotio vierailee Kajaanissa Sartorius Biohitin tehtaalla toimipisteellä.
+
+          Lähetyksen juontaa Atte Uusinoka, tuottajana Jaakko Parkkinen.
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2024-12-03T09:00:00+02:00'
@@ -120,7 +132,7 @@ data:
           Moltshanov: Vaikene sydän (Vuokko Hovatta).
           Mononen: Sateen tango (Sväng).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto:  Minuutemme rakentuu muistin varaan - voiko muistiin luottaa?'
         start_time: '2024-12-03T10:00:00+02:00'
         end_time: '2024-12-03T10:55:00+02:00'
         description: |
@@ -156,9 +168,11 @@ data:
         description: |
           Charles Darwinin sanoja ‘luonnonvalinta’ ja ‘olemassaolon taistelu’ käytetään jopa arkikielessä. Vääristelläänkö nykyään Darwinin alkuperäisiä ajatuksia? Onko Donald Trump luonnonvalinnan tuote? Entä pääseekö sukuaan jatkamaan useimmiten kaunis nainen tai komea mies? Voiko evoluutioteoriaa soveltaa yhteiskuntaan ja kulttuuriin? Entä mitä Darwin olisi ajatellut ilmastonmuutoksesta? Vastaamassa kaksi luonnontieteilijää, evoluutiobiologian emeritusprofessori Mikael Fortelius ja nisäkäsbiologi Henry Pihlström. Toimittajana on Jakke Holvas.
         series: Tiedeykkönen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Poliitikkojen suhteet'
         start_time: '2024-12-03T13:00:00+02:00'
         end_time: '2024-12-03T13:30:00+02:00'
+        description: |
+          Milloin poliitikon suhde on yhteiskunnallinen asia? Keskustelemassa päätoimittajat Ilkka Ahtiainen ja Valtteri Varpela. Toimittajana on Linda Pelkonen. 
         series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-03T13:30:00+02:00'
@@ -198,9 +212,9 @@ data:
         description: |
           Perjantaina seuraamme Suomen suosituinta tv-lähetystä Itsenäisyyspäivän juhlavastaanottoa Presidentin linnasta. Minkälainen on suomalaisten juhlapukeutuminen? Kuinka kriittinen saa olla kommenteissaan? Onko maailman synkkä tilanne vaikuttanut ihmisten pukuvalintoihin? Onko Linnan juhlista tullut suomalaisen muodin näyttämö? Mitä Suzanne Innes-Stubb kertoo pukeutumisellaan? Millaisia juhlapukuja maamme presidentin rouvat ovat suosineet?
 
-          Keskustelemme juhlamuodin uusista trendeistä meillä ja maailmalla. Teemu Muurimäki on suunnitellut useita juhlapukuja Linnan juhliin ja vaatteita myös kansainvälisille muotiataloille, Giorgio Armanille ja Dolce & Gabbanalle. Millaisia hänen uusimmat juhlapukunsa ovat? Kuulemme vieraiden mielipiteitä klassikoista, kankaista, väreistä ja vintage juhlapuvuista. 
+          Keskustelemme juhlamuodin uusista trendeistä meillä ja maailmalla. Teemu Muurimäki on suunnitellut useita juhlapukuja Linnan juhliin ja vaatteita myös kansainvälisille muotitaloille, Giorgio Armanille ja Dolce & Gabbanalle. Millaisia hänen uusimmat juhlapukunsa ovat? Kuulemme vieraiden mielipiteitä klassikoista, kankaista, väreistä ja vintage juhlapuvuista. 
 
-          Kulttuuriykkösen studiossa tapaan kolme muodin kärkinimeä vintagemuodin asiantuntija Arja Könösen, muotisuunnittelija Teemu Muurimäki ja Antiikki & Design-lehden päätoimittaja Mirva Saukkolan.
+          Kulttuuriykkösen studiossa tapaan kolme muodin kärkinimeä vintagemuodin asiantuntija Arja Könösen, muotisuunnittelija Teemu Muurimäen ja Antiikki & Design-lehden päätoimittaja Mirva Saukkolan.
 
           Ohjelman juontaa Pia-Maria Lehtola.
 
@@ -254,7 +268,7 @@ data:
         start_time: '2024-12-03T17:10:00+02:00'
         end_time: '2024-12-03T17:34:59+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          YK-maiden oli viikonloppuna tarkoitus viimeistellä kaksi vuotta jatkuneet neuvottelut siitä, miten muoviroskan määrää vähennettäisiin maailmassa. Kansainvälistä muovisopimusta ei kuitenkaan syntynyt. Miten muovin kanssa pitäisi toimia? Erkka Mikkosen vieraana on materiaalitekniikan professori Essi Sarlin Tampereen yliopistosta.
         series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-03T17:35:00+02:00'
@@ -350,9 +364,9 @@ data:
         series: Sari Valto
       - title: Miia Krause
         start_time: '2024-12-03T22:30:00+02:00'
-        end_time: '2024-12-03T23:16:30+02:00'
+        end_time: '2024-12-03T23:16:40+02:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Marion Rung: "Joskus elämä saattaa viedä sut ihan viimeiselle portaalle, etkä tiedä mitä tekisit. Minulle pelastus tuli siellä ihan yllättäen."
         series: Miia Krause
       - title: Yöklassinen
         start_time: '2024-12-03T23:40:00+02:00'

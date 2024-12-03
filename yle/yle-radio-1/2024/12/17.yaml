@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-02T02:33:03.445582+00:00'
+  generated_at: '2024-12-03T02:32:17.363365+00:00'
   git:
     branch: main
-    commit: c32d096d2a1d8a89945a46e2caa4ff415eb47057
-  data_hash: 2cbb5be9b60d5aa219224fe6a6bad48267b67ad94feab58cd4b99327694a0e00
+    commit: 5a876c95f397d7c342a47c11faafba527b0562e8
+  data_hash: 7700d79d399dd72222e2b309ba7e2e0fb3b105cedd4a45f1503175c7308af2de
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2024-12-17T06:30:50+02:00'
         end_time: '2024-12-17T06:50:00+02:00'
+        description: |-
+          Härkönen: Milloin joulurauhan saan (Kuopion tuomiokirkon kamarikuoro/Pertti Rusanen).
+
+          Pohjanmies: Tule rakkaus ihmisrintaan (Jorma Hynninen, baritoni, ja Tauno Äikää, urut).
+
+          Tuntematon: Saavu, Jeesus, suuri armontuoja (Psallamus-kuoro/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Koraalitoisinto: Jeesus, tule luokseni (Herännäisnuorten kuoro/Samuli Korkalainen).
+
+          Lappi: Vapahtajaa odotan (Kolmas Aamu).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2024-12-17T06:50:00+02:00'
@@ -113,11 +123,12 @@ data:
         start_time: '2024-12-17T13:30:00+02:00'
         end_time: '2024-12-17T14:30:00+02:00'
         series: Klassinen kattaus
-      - title: Outopodcast
+      - title: 'Outopodcast: Hän joka kulkee metsässä'
         start_time: '2024-12-17T14:30:00+02:00'
         end_time: '2024-12-17T14:52:00+02:00'
-        description: |
-          Outopodcastissa Katja Merituuli Salminen kertoo yliluonnollisia tositarinoita.
+        description: |-
+          Metsän haltija Leshy tekee tunkeilijoille kepposia, mutta vuorten harmaa mies saattaa pelästyttää kuoliaaksi. Aavikon tummat varjot tarkkailevat kulkijoita kauempaa, mutta parasta silti kääntyä ympäri. Toimittaja Katja Merituuli Salminen.
+        series: Outopodcast
       - title: Yle Uutiset
         start_time: '2024-12-17T15:00:00+02:00'
         end_time: '2024-12-17T15:02:00+02:00'
@@ -169,6 +180,9 @@ data:
         description: |-
           Arkkipiispa Leo, Ortodoksinen kirkko, Helsinki
         series: Iltahartaus
+      - title: Yle Uutiset ja sää
+        start_time: '2024-12-17T19:00:00+02:00'
+        end_time: '2024-12-17T19:02:00+02:00'
       - title: 'Radioteatteri esittää: Viimeinen taulu'
         start_time: '2024-12-17T19:02:00+02:00'
         end_time: '2024-12-17T19:47:00+02:00'
@@ -195,6 +209,9 @@ data:
           Muusikot: Jarmo Julkunen (mandoliini), Max Savikangas (alttoviulu), Malla Vivolin (huilu)
           Thesleffin kirjeiden suomennos: Hanna-Reetta Schreck
           Tuottaja: Laura Jaakkola, Yle Draama 2021.
+      - title: Eilisen ääni
+        start_time: '2024-12-17T19:47:00+02:00'
+        end_time: '2024-12-17T20:00:00+02:00'
       - title: Romano mirits
         start_time: '2024-12-17T20:00:00+02:00'
         end_time: '2024-12-17T20:15:00+02:00'
@@ -212,6 +229,9 @@ data:
         start_time: '2024-12-17T20:35:00+02:00'
         end_time: '2024-12-17T21:00:00+02:00'
         series: Maailmanpolitiikan arkipäivää
+      - title: Yle Uutiset
+        start_time: '2024-12-17T21:00:00+02:00'
+        end_time: '2024-12-17T21:02:00+02:00'
       - title: Politiikkaradio
         start_time: '2024-12-17T21:05:00+02:00'
         end_time: '2024-12-17T21:34:30+02:00'
