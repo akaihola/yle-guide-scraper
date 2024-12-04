@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-03T02:32:20.463139+00:00'
+  generated_at: '2024-12-04T02:32:21.257318+00:00'
   git:
     branch: main
-    commit: 5a876c95f397d7c342a47c11faafba527b0562e8
-  data_hash: 7700d79d399dd72222e2b309ba7e2e0fb3b105cedd4a45f1503175c7308af2de
+    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
+  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
 data:
   Yle Radio 1:
     programmes:
@@ -130,9 +130,11 @@ data:
       - title: KC Kirjat
         start_time: '2024-12-27T21:05:00+02:00'
         end_time: '2024-12-27T21:35:00+02:00'
+        series: KC Kirjat
       - title: Taiteilijatapaaminen
-        start_time: '2024-12-27T21:35:00+02:00'
+        start_time: '2024-12-27T21:36:00+02:00'
         end_time: '2024-12-27T22:25:00+02:00'
+        series: Taiteilijatapaaminen
       - title: Luomiskertomus
         start_time: '2024-12-27T22:26:00+02:00'
         end_time: '2024-12-27T22:51:00+02:00'
