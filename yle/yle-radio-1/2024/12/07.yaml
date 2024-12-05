@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-04T02:32:07.199720+00:00'
+  generated_at: '2024-12-05T02:32:18.935137+00:00'
   git:
     branch: main
-    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
-  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
+    commit: 304066be92692b054f3012ac7f12861741aa4cf4
+  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
 data:
   Yle Radio 1:
     programmes:
@@ -46,6 +46,14 @@ data:
       - title: Aamuklassinen
         start_time: '2024-12-07T06:30:00+02:00'
         end_time: '2024-12-07T07:00:00+02:00'
+        description: |-
+          Locke: Osia näytelmämus. The Tempest (Myrsky) (Le Concert des Nations/Jordi Savall).
+
+          Holborne: The sighes (The King's Noyse/David Douglass).
+
+          Johnson: Full fathom five (Suzie LeBlanc, sopraano, ja Ray Nurse, luuttu).
+
+          Morgan: Montgomery. (His Majestie's Clerkes/Paul Hillier). 
         series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2024-12-07T07:00:00+02:00'
@@ -114,7 +122,7 @@ data:
           Loesser: Luck be a lady (Frank Sinatra).
           Merrill: Mambo Italiano (Carla Boni).
           Lecuona: Siboney (Bing Crosby).
-          Albert/Gaste: Sombras (Paloma San Basilia).
+          Albert/Gaste: Sombras (Paloma San Basilio).
           Blum: Kuljen taas kotiinpäin (Tapani Kansa).
           Hatch: My love (Petula Clark).
           Ellington: I'm beginning to see the light (Ben Webster).
@@ -132,7 +140,7 @@ data:
         start_time: '2024-12-07T10:05:00+02:00'
         end_time: '2024-12-07T10:45:00+02:00'
         description: |
-          Yhteislähetys TV1:n kanssa.
+          Taiteella oli suuri rooli kansakunnan synnyssä. Millainen rooli sillä on nyt, kun alalta leikataan suhteellisesti enemmän kuin monelta muulta. Ykkösaamun vieraana on kirjailija Sirpa Kähkönen. Seija Vaaherkumpu haastattelee. Yhteislähetys TV1:n kanssa.
         series: Ykkösaamu
       - title: Rytmikamari
         start_time: '2024-12-07T10:45:00+02:00'
@@ -262,7 +270,7 @@ data:
         start_time: '2024-12-07T17:10:00+02:00'
         end_time: '2024-12-07T17:57:00+02:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Marzi Nyman: "Jos lapselle toivoisi jonkin ominaisuuden niin se olisi mun mielestä innostuneisuusgeeni. Se on ajanut mua eteenpäin, en ole uraani suunnitellut vaan se on mennyt sattumien ja kohtaamisten kautta."
         series: Miia Krause
       - title: 'Ehtookellot: Noormarkun kirkon kellot'
         start_time: '2024-12-07T18:00:00+02:00'
@@ -291,17 +299,17 @@ data:
           Prologin ja kolme näytöstä käsittävä ooppera. Libretto: Francesco Maria Piave ja Arrigo Boito. Musiikinjohto: Lorenzo Viotti. Milanon La Scala -oopperan kuoro ja orkesteri. Rooleissa:
           Simon Boccanegra, kapteeni, Genovan tasavallan doge - Luca Salsi, baritoni. Jacopo Fiesco, genovalainen aatelinen, esiintyy nimellä Andrea Grimaldi - Ain Anger, basso. Paolo Albiani, dogen hovimies - Roberto de Candia, baritoni. Pietro, genovalainen kansanjohtaja - Andrea Pellegrini, basso. Maria Boccanegra,  Simon Boccanegran tytär ja Jacopo Fiescon tyttären tytär, esiintyy nimellä Amelia Grimaldi - Eleonora Buratto, sopraano. Gabriele Adorno, genovalainen aatelismies - Charles Castronovo, tenori. Kapteeni - Haiyang Guo, tenori. Palvelijatar - Laura Lolita Perešivana, mezzosopraano. - Äänitetty 1.2.2024 Milanon La Scalassa. Illan aikana musiikkikirjoittaja Auli Särkiö-Pitkänen, oopperalaulaja Jaakko Ryhänen ja toimittaja Risto Nordell keskustelevat teoksesta ja sen esityksestä.
         series: Ooppera
-      - title: Uutispodcast
-        start_time: '2024-12-07T22:13:30+02:00'
-        end_time: '2024-12-07T22:38:30+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+      - title: 'Uutispodcast: Vallanhimoa ja draamaa – mitä suomalaisen urheilun huipulla tapahtuu?'
+        start_time: '2024-12-07T22:12:41+02:00'
+        end_time: '2024-12-07T22:35:30+02:00'
+        description: |-
+          Suomen Olympiakomiteassa on tänä vuonna kuohunut Pariisin olympialaisten jälkeen. Viikonloppuna järjestö sai uuden puheenjohtajan, mutta millaisen laivan peräsimeen Petteri Kilpinen nyt astuu? Entä mistä kuohunta Olympiakomiteassa johtuu? Reetta Röngän vieraana Sanoman urheilutoimittaja Juha Kanerva. 
         series: Uutispodcast
-      - title: Mielimaisema
-        start_time: '2024-12-07T22:39:00+02:00'
-        end_time: '2024-12-07T23:39:00+02:00'
+      - title: Riikan mielimaisema
+        start_time: '2024-12-07T22:40:56+02:00'
+        end_time: '2024-12-07T23:39:34+02:00'
         description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
+          Itsenäisyyspäivän kunniaksi Mielimaisemassa on tarjolla uutta kotimaista musiikkia. Lauluja muun muassa rakkaudesta, ilmastonmuutoksesta, naisen asemasta, koirista sekä mersusta. Toimittajana Riikka Holopainen.
         series: Mielimaisema
       - title: Yöklassinen
         start_time: '2024-12-07T23:40:00+02:00'

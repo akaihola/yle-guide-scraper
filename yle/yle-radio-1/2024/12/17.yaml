@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-04T02:32:16.981181+00:00'
+  generated_at: '2024-12-05T02:32:21.922388+00:00'
   git:
     branch: main
-    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
-  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
+    commit: 304066be92692b054f3012ac7f12861741aa4cf4
+  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
 data:
   Yle Radio 1:
     programmes:
@@ -30,8 +30,10 @@ data:
       - title: Aamuhartaus
         start_time: '2024-12-17T06:50:00+02:00'
         end_time: '2024-12-17T06:59:59+02:00'
-        description: |-
-          Kirjailija Hanna Kivisalo, Seinäjoki
+        description: |
+          "Huokaile vaan"
+          Joulun alla aamuhartauksissa matkaa Betlehemiin tekee kirjailija Hanna Kivisalo Seinäjoelta.
+          Tämän aamun hartaudessa puhutaan huokailemisen hengellisestä merkityksestä. 
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-17T07:00:00+02:00'
@@ -109,11 +111,12 @@ data:
         start_time: '2024-12-17T12:00:00+02:00'
         end_time: '2024-12-17T12:10:00+02:00'
         series: Yle Uutiset
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Verkon algoritmit näyttävät räätälöidyn version maailmasta - näin ne toimivat ja ohjaavat valintojamme'
         start_time: '2024-12-17T12:10:00+02:00'
         end_time: '2024-12-17T13:00:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |-
+          Algoritmit yksipuolistavat maailmankuvaamme. Miten verkon algoritmit toimivat? Miten tietoa kerätään? Mitä haasteita ja ongelmia algoritmien käyttö voi tuoda?
+          Haastateltavina tekoälytutkija Teemu Roos ja Kuluttajatutkimuskeskuksen professori Minna Ruckenstein. Toimittajana Mari Heikkilä
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2024-12-17T13:00:00+02:00'
@@ -212,6 +215,7 @@ data:
       - title: Eilisen ääni
         start_time: '2024-12-17T19:47:00+02:00'
         end_time: '2024-12-17T20:00:00+02:00'
+        series: Eilisen ääni
       - title: Romano mirits
         start_time: '2024-12-17T20:00:00+02:00'
         end_time: '2024-12-17T20:15:00+02:00'

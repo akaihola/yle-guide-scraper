@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-04T02:32:05.172453+00:00'
+  generated_at: '2024-12-05T02:32:18.589473+00:00'
   git:
     branch: main
-    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
-  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
+    commit: 304066be92692b054f3012ac7f12861741aa4cf4
+  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
 data:
   Yle Radio 1:
     programmes:
@@ -44,7 +44,7 @@ data:
       - title: Radio 1:n itsenäisyyspäivä
         start_time: '2024-12-06T07:02:00+02:00'
         end_time: '2024-12-06T08:00:00+02:00'
-        description: |-
+        description: |
           P. J. Hannikainen: Toivotus Suomelle (Cantio Laudis/Olli Heikkilä).
 
           Linsén: Fantasia sävelmästä Olet maamme armahin Suomenmaa (Folke Gräsbeck, piano).
@@ -57,7 +57,11 @@ data:
 
           Kaski: Pankakoski (Juhani Lagerspetz, piano).
 
+          Karjal. kansansävelmä (sov. Palmu): Konevitsan kirkonkellot sarj. suomalaisten kansansävelmien teemoihin (Osmo Palmu, kitara).
+
           Ahvenainen: Suomi kutsuu (Kouvolan kaupunginork./Kalervo Kulmala).
+
+          Ranta (sov. S. Hyökki) Kansansävelmä (Heidi Tamper, sopraano, Anna-Liina Lindeberg, altto, Saima Hyökki, altto, Lauri Hartikainen, tenori, ja Jouni Rissanen, basso, sekä Grex Musicus/Marjukka Riihimäki).
 
           Kuula: Me laulamme (YL/Pasi Hyökki).
 
@@ -66,6 +70,7 @@ data:
           Klemetti: Oi kallis Suomenmaa (Solistiseitsikko Imperial).
 
           Sibelius: Alla marcia Karelia-sarjasta (HKO/Leif Segerstam).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2024-12-06T08:00:00+02:00'
         end_time: '2024-12-06T08:05:00+02:00'
@@ -82,9 +87,12 @@ data:
 
           Kärki: Therefore I am sad (Jukka Perko, alttosaksofoni, ja Iiro Rantala, piano). 
 
+          Lintinen: Tango Lumpero (Tapiola Sinfonietta/Kirmo Lintinen).
+
           I. Kuusisto: Slow and sweet teoks. Concertino improvvisando (Pekka Kuusisto, viulu, ja Sinfonia Lahti/Jaakko Kuusisto).
 
           Paavonen: Lähtisitkö a cappella (YL/Pasi Hyökki).
+        series: Aamusoitto
       - title: Yle Uutiset
         start_time: '2024-12-06T09:00:00+02:00'
         end_time: '2024-12-06T09:05:00+02:00'
@@ -92,6 +100,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2024-12-06T09:05:00+02:00'
         end_time: '2024-12-06T09:58:00+02:00'
+        description: |
+          Laaksonen: Täällä Pohjantähden alla (Petri Laaksonen ja Ylioppilaskunnan Laulajat).
+          Mårtenson: Myrskyluodon Maija (Lasse Mårtenson).
+          Lehtinen: Letkis (Katri Helena).
+          Kansansävelmä: Laulu on iloni ja työni (Tapio Rautavaara).
+          Mårtenson: Revontuli (Laila Kinnunen).
+          Tikanmäki: Aamu lakeuksilla (Anssi Tikanmäki).
+          Pohjalainen: Saunaan, saunaan suomalaiset (Heikki Kinnunen).
+          Roiha: Saunasamba (Soitinyhtye Liisa).
+          Malmstén: Auringon lapset (Ragni Malmstén).
+          Kuoppamäki: Sininen ja valkoinen (Jukka Kuoppamäki).
+          Punta: Hiljainen kylätie (Metro-tytöt).
+          Kansansäv.: On suuri sun rantas autius (Rajaton ja Lenni-Kalle Taipale).
+          Kansansäv.: Säkkijärven polkka (Viljo Vesterinen ja Dallape).
+          Sibelius: Finlandia-hymni (Radion kamarikuoro/Eric-Olof Söderström).
         series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2024-12-06T10:00:00+02:00'
@@ -167,8 +190,8 @@ data:
       - title: 'Kielen päällä: suomen kielen seuraavat sata vuotta'
         start_time: '2024-12-06T14:50:00+02:00'
         end_time: '2024-12-06T15:00:00+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Suomen kieltä puhutaan vielä sadan vuoden kuluttuakin. Vieraana on suomen kielen professori Tiina Onikki-Rantajääskö. Ohjelman toimittaa Jari Aula.
         series: Kielen päällä
       - title: 'Taiteilijatapaaminen: kontrabasisti Kaisa Mäensivu & jouhikonsoittaja Pekko Käppi'
         start_time: '2024-12-06T15:00:00+02:00'
@@ -219,14 +242,14 @@ data:
       - title: 'Eilisen ääni: Keittäjänä viiden presidentin linnassa'
         start_time: '2024-12-06T17:10:00+02:00'
         end_time: '2024-12-06T17:30:00+02:00'
-        description: |-
+        description: |
           Vuonna 1963 Fanny Jokinen oli 82-vuotias. Hän meni pappilaan pikkupiiaksi 8 vuotiaana, myöhemmin teini-iässä hän työskenteli Tampereella ja Helsingissä eri perheiden palveluksessa. Presidentin linnassa hän toimi keittäjänä viidelle eri presidentille. Tämä on Fanny Jokisen tarina.
         series: Eilisen ääni
-      - title: Mielimaisema
+      - title: Riikan mielimaisema
         start_time: '2024-12-06T17:35:00+02:00'
         end_time: '2024-12-06T18:35:00+02:00'
         description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
+          Itsenäisyyspäivän kunniaksi Mielimaisemassa on tarjolla uutta kotimaista musiikkia. Lauluja muun muassa rakkaudesta, ilmastonmuutoksesta, naisen asemasta, koirista sekä mersusta. Toimittajana Riikka Holopainen.
         series: Mielimaisema
       - title: 'Luomiskertomus: Reidar Palmgren – Veli jota minulla ei ollut'
         start_time: '2024-12-06T18:35:00+02:00'
@@ -258,14 +281,14 @@ data:
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
       - title: 'Luomiskertomus: Kirjallisuuden Finlandia-palkinnon voittanuit Pajtim Statovci kertoo kirjastaan Lehmä synnyttää yöllä'
-        start_time: '2024-12-06T22:25:00+02:00'
-        end_time: '2024-12-06T22:49:21+02:00'
+        start_time: '2024-12-06T22:25:02+02:00'
+        end_time: '2024-12-06T22:49:23+02:00'
         description: |
           Pajtim Statovci kertoo romaanistaan Lehmä synnyttää yöllä. Toimittajana Jarmo Laitaneva. 
         series: Luomiskertomus
       - title: Tuuli Saksalan keidas
-        start_time: '2024-12-06T22:50:00+02:00'
-        end_time: '2024-12-06T23:39:30+02:00'
+        start_time: '2024-12-06T22:50:33+02:00'
+        end_time: '2024-12-06T23:38:56+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas

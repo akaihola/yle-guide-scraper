@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-04T02:32:23.712151+00:00'
+  generated_at: '2024-12-05T02:32:27.499818+00:00'
   git:
     branch: main
-    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
-  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
+    commit: 304066be92692b054f3012ac7f12861741aa4cf4
+  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
 data:
   Yle Radio 1:
     programmes:
@@ -54,6 +54,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-05T11:00:00+02:00'
         end_time: '2025-01-05T11:57:00+02:00'
+        description: |-
+          Lloyd Webber: Muisto (Taiska).
+          Ferreira: Der Mond von Bahia (Wyn Hoop).
+          De Curtis: Torna a Surriento (Beniamino Gigli).
+          DeAngelis: Guitare et tambourin (Dalida). 
+          McGrane: Juke box Saturday night (Glenn Miller).
+          Panas: Näin syntyy kyyneleet (Tapani Kansa).
+          Bock (sov. Pethman): Gryning .. skymning (Carola).
+          Parker: Scrapple from the apple (Charlie Parker Quintet).
+          Garcia Segura: Un compromiso (Sara Montiel).
+          Evans - Byron: Rosen sind rot (Caterina Valente).
+          Vian: De velours et de soie (Serge Reggiani).
+          King: Child of mine (Carole King).
+          Donaggio: Io che non vivo (Raymond Lefevre et Son Grand Orchestre).
+          Schubert: Heidenröslein (Marlene Dietrich).
+          Fernández: Guajira guantanamera (Joseíto Fernández).
+          Chaplin: Yö jokainen (Eino Grön).
+          Bindi: La musica è finita (Ornella Vanoni).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-01-05T12:00:00+02:00'

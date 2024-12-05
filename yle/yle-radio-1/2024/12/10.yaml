@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-04T02:32:13.061907+00:00'
+  generated_at: '2024-12-05T02:32:19.685453+00:00'
   git:
     branch: main
-    commit: cc4a46328effa5079a7a1874b5d0caceccfdb79b
-  data_hash: 99a9d97b3448ee0337fcc282336476ce106bb06c02fb4ace1b36ebe9033ae3b2
+    commit: 304066be92692b054f3012ac7f12861741aa4cf4
+  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
 data:
   Yle Radio 1:
     programmes:
@@ -117,11 +117,11 @@ data:
           Repilado: Chan chan (Buena Vista Social Club).
           Green: Body and soul (Paul Desmond).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: DNA-testi voi paljastaa sukusalaisuuksia'
         start_time: '2024-12-10T10:00:00+02:00'
         end_time: '2024-12-10T10:55:00+02:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        description: |-
+          Suomessa tehdään ahkerasti dna-testejä. Ne voivat auttaa selvittämään sukuhistoriaa hyvinkin kauas historiaan, mutta edessä voi olla myös melkoisia yllätyksiä ja sukusalaisuuksien avautumisia.
         series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2024-12-10T11:00:00+02:00'
@@ -137,7 +137,7 @@ data:
         start_time: '2024-12-10T12:00:00+02:00'
         end_time: '2024-12-10T12:10:00+02:00'
         series: Yle Uutiset
-      - title: Tiedeykkönen
+      - title: Tiedeykkönen Vaikuttavatko sisaruussuhteet persoonallisuuteemme ja menestymiseen elämässä?
         start_time: '2024-12-10T12:10:00+02:00'
         end_time: '2024-12-10T13:00:00+02:00'
         description: |
@@ -231,7 +231,7 @@ data:
         series: Iltahartaus
       - title: 'Radioteatteri esittää: Helene'
         start_time: '2024-12-10T19:02:00+02:00'
-        end_time: '2024-12-10T19:59:00+02:00'
+        end_time: '2024-12-10T19:57:00+02:00'
         description: |
           Helene - kuunnelma Helene Schjerfbeckistä
 
@@ -248,6 +248,9 @@ data:
           Olga, os. Printz, Helenen äiti - Heidi Krohn. 
           Gösta Stenman, Helenen mesenaatti - Juha Muje.
           Uusinta vuodelta 2004.
+      - title: Yksi on hyvää seuraa
+        start_time: '2024-12-10T19:57:00+02:00'
+        end_time: '2024-12-10T20:00:00+02:00'
       - title: Romano mirits
         start_time: '2024-12-10T20:00:00+02:00'
         end_time: '2024-12-10T20:15:00+02:00'
