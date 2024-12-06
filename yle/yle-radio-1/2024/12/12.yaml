@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-05T02:32:20.371347+00:00'
+  generated_at: '2024-12-06T02:31:49.937378+00:00'
   git:
     branch: main
-    commit: 304066be92692b054f3012ac7f12861741aa4cf4
-  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
+    commit: 3e75fbd08ccfba458c15cda2a4682fab7a4fd44e
+  data_hash: 76355c1f32979e0fb963e14f76826d9cdcc1c3120db5e67d132a1f1435a3f495
 data:
   Yle Radio 1:
     programmes:
@@ -143,6 +143,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-12T11:57:00+02:00'
         end_time: '2024-12-12T12:00:00+02:00'
+        description: |
+          Volter Kilpi: ote teoksesta Gulliverin matka Fantomimian mantereelle
+          1944, Otava 
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2024-12-12T12:00:00+02:00'
@@ -188,7 +191,11 @@ data:
         start_time: '2024-12-12T15:02:00+02:00'
         end_time: '2024-12-12T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Mika Waltarin Sinuhe egyptiläistä kehuttiin aivan hämmästyttävästä historiallisesta osumatarkkuudesta sen ilmestyttyä vuonna 1945. Pyyhkeitä kirjailija sai lähinnä erämaan hiekkakirpuista, joita erään hyönteistutkijan mukaan oli tullut alueelle 2000 vuotta myöhemmin. Vuoden 1945 jälkeen on tullut paljon uutta tietoa faaraoiden Egyptistä ja Lähi-idästä. Arkeologi Minna Silver tarkastelee kirjassaan Sinuhe egyptiläisen maailma — Arkeologin silmin luku luvulta miten hyvin Sinuhen maailma pitää paikkansa. Miten Mika Waltari on voinut tietää joitakin muinaisia asioita niin yksityiskohtaisesti - ja missä asioissa on kirjailija mennyt metsään?
+
+          Vieraina ovat dosentti Minna Silver, joka on Lähi-idän ja Välimeren arkeologian ja historian sekä maailman kulttuuriperinnön asiantuntija, jolla on vuosikymmenten kokemus kenttätyöstä Lähi-idässä sekä professori emeritus ja Waltari-asiantuntija Panu Rajala.
+
+          Ohjelman juontaa Nicklas Wancke
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-12T15:55:00+02:00'

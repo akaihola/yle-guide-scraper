@@ -1,12 +1,40 @@
 metadata:
-  generated_at: '2024-12-05T02:32:22.931092+00:00'
+  generated_at: '2024-12-06T02:31:52.730945+00:00'
   git:
     branch: main
-    commit: 304066be92692b054f3012ac7f12861741aa4cf4
-  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
+    commit: 3e75fbd08ccfba458c15cda2a4682fab7a4fd44e
+  data_hash: 76355c1f32979e0fb963e14f76826d9cdcc1c3120db5e67d132a1f1435a3f495
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2024-12-20T23:40:00+02:00'
+        end_time: '2024-12-21T06:30:00+02:00'
+        description: |-
+          Humperdinck: Hänsel und Gretel (Hannu ja Kerttu), 3-näytöksinen ooppera. (Elisabeth Grümmer, sopraano, Elisabeth Schwartzkopf, sopraano, Else Schürhoff, mezzosopraano, Maria von llosvay, altto, Josef Metternich, baritoni, ja Anny Felbermeyer, sopraano, sekä Lontoon Loughtonin tyttökuoro, Bancroftin koulun kuoro ja Lontoon Philharmonia -ork./Herbert von Karajan).
+
+          01:30 Ljadov: Kahdeksan kansanlaulua (Venäjän FO/Samuel Friedmann).
+
+          01:45 Debussy: Preludit 2 (Friedrich Gulda, piano).
+
+          02:21 Kokkonen: Neljä laulua Uuno Kailaan runoihin (Jorma Hynninen, baritoni, ja Ilkka Paananen, piano).
+
+          02:32 Wilms: Sinfonia n:o 7 c-molli (Concerto Köln/Werner Erhardt).
+
+          03:03 Schumann: Pianotrio n:o 2 F-duuri (Beaux Arts -trio).
+
+          03:32 von Dittersdorf: Viulukonsertto G-duuri (Martin Kos ja Tshekkiläinen filharmoninen kamariork./Petr Chromcák).
+
+          04:01 Marais: Sarja huilulle, viululle ja continuolle (Music's Re-creation). 
+
+          04:21 Bizet: Jeux d'enfants (Lasten leikkejä) (Christian Ivaldi ja Noël Lee, piano).
+
+          04:42 Kuula: Purjein kuutamolla (Jorma Silvasti, tenori, ja Pentti Kotiranta, piano).
+
+          04:48 J.S. Bach: Die Kunst der Fuge (Helmut Walcha, urut). 
+
+          06:16 Petritz: Die Herrlichkeit des Herrn, joulukantaatti (Dorothea Wagner, sopraano, David Erler, kontratenori, Hans Jörg Mammel, tenori, ja Matthias Lutze, basso, sekä Sächsisches Vocalensemble ja Batzdorfer Hofkapelle/Matthias Jung).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2024-12-21T06:30:00+02:00'
         end_time: '2024-12-21T07:00:00+02:00'
@@ -61,19 +89,17 @@ data:
       - title: Muistojen bulevardi
         start_time: '2024-12-21T09:05:00+02:00'
         end_time: '2024-12-21T09:58:00+02:00'
-        description: |2-
-
-
+        description: |
           Wade: Adeste fideles - O come all ye faithful (Mario Lanza).
-          Kalaoja: Joulumaa (Katri Helena, laulu, ja ork).
-          Kansansävelmä: O Tannenbaum (Nat King Cole).
+          Kalaoja: Joulumaa (Katri Helena).
+          Kansansäv.: O Tannenbaum (Nat King Cole).
           Blackmore: Christmas Eve (Blackmore's Night).
           Noack: Tonttuparaati (Vieno Kekkonen, Brita Koivunen, Laila Kinnunen).
           Hairston: Mary's boy child (Harry Belafonte).
           Marks: Petteri Punakuono (Tuulevi Mattila).
-          Kansanlaulu: Angels we have heard on high (Les anges dans nos campagnes) (Andrea Bocelli).
+          Kansansäv.: Angels we have heard on high (Andrea Bocelli).
           Janis: In the winter (Janis Ian).
-          Suom.kansansävelmä: Juokse porosein (Alpo Nuoli).
+          Kansansäv.: Juokse porosein (Alpo Nuoli).
           Fisher: Ring those Christmas bells (Peggy Lee).
           Raala: Joulukirkkoon (Kalevi Korpi, Heikki Juhani, Essi).
           Moraeus: Koppången (Helen Sjöholm).
@@ -202,5 +228,51 @@ data:
         start_time: '2024-12-21T23:40:00+02:00'
         end_time: '2024-12-22T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Miolin (sov.): Fantasia kahdesta joululaulusta (Anders Miolin, 13-kielinen kitara).
+
+          23:46 Hela: Hiljainen joululaulu (Esa Ruuttunen, baritoni, ja Tapio Tiitu, urut).
+
+          23:51 Sehling: Donner und Hagel (Tomás Král, baritoni, ja Collegium Marianum/Jana Semerádová, traverso).
+
+          23:59 Locatelli: Concerto grosso f-molli (Joulukonsertto) (I Musici).
+
+          00:20 Humperdinck: Viisi joululaulua (Olaf Bär, baritoni, ja Helmut Deutsch, piano).
+
+          00:33 Corrette: Sinfonia n:o 3 kok. Kuusi joulusinfoniaa (La Fantasia/Rien Voskuilen).
+
+          00:47 Scheidemann: Vom Himmel hoch, da komm ich her (Enkeli taivaan) (Kari Vuola, Naantalin kirkon urut).
+
+          00:54 Wolf: Christnacht (Jouluyö) (Alison Browner, sopraano, Kathrin Koch, altto, ja Christian Beller, tenori, sekä Württembergin kamarikuoro ja Stuttgartin musiikkikorkeakoulun kuoro, sekä Ensemble Stuttgart/Dieter Kurz).
+
+          01:12 Leipzigin Tuomaskuoro laulaa joululauluja (Joht. Hans-Joachim Rotsch, sekä Ludwig Güttler -vaskiyhtye).
+
+          02:13 Mielck: Tulkaa nyt kaikki te paimenet maan (Radio-kuoro ja -ork./Ilkka Kuusisto)
+
+          02:25 Manfredini: Concerto grosso C-duuri (Joulukonsertto) (Collegium Musicum 90/Simon Standage).
+
+          02:34 Tartini: Pastoraali A-duuri (Andrew Manze, viulu).
+
+          02:49 Melartin: Seitsemän pientä joululaulua (Satu Vihavainen, sopraano, ja Markus Lehtinen, piano).
+
+          03:06 Sojo: Venezuelalaisia kappaleita (John Williams, kitara).
+
+          03:12 Hammerschmidt: Ihr liebe Hirten fürchtet euch nich (Te rakkaat paimenet, älkää peljätkö), joulukantaatti (Radion nuorisokuoro/Heinz Hofmann, sekä Tapio Tiitu, urut, ja Radion nuorisokuoron soitinyhtye).
+
+          03:19 Stamitz: Sinfonia D-duuri (Sinfonia pastorale) (Concerto Köln).
+
+          03:32 Tuntematon (sov. Kosta): Kaksi puolalaista sävelmää (Sävelradion viihdeork./Ensio Kosta).
+
+          03:37 Liszt: Weihnachtsbaum (Joulupuu) (Pietro Spada, piano)
+
+          04:19 Caplet: Le Miroir de Jésus (Mystères de Rosaire) (Esther Choi, mezzosopraano, ja Hannoverin tyttökuoro, sekä Teresa Zimmermann, harppu, ja Il Gioco col suono).
+
+          05:20 Nortala: Hyvä sanoma (Helsingin konservatorion kuoro/Matti Hyökki).
+
+          05:24 Führer: Weihnachtsgabe, kuusi pastoraalia (Johannes Strobl, urut).
+
+          05:35 Busoni: Jouluyö (Roland Pöntinen, piano).
+
+          05:42 Joulumusiikkia Akvitanian luostareista 1100-luvulta (Sequentia/Benjamin Bagby).
+
+          06:56 Daquin: Muunnelmia joululaulusta Jeesus syntyi jouluna (Michala Petri, nokkahuilu, ja Hanne Petri, cembalo).
         series: Syventävää klassista

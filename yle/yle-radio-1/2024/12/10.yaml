@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-05T02:32:19.685453+00:00'
+  generated_at: '2024-12-06T02:31:49.194590+00:00'
   git:
     branch: main
-    commit: 304066be92692b054f3012ac7f12861741aa4cf4
-  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
+    commit: 3e75fbd08ccfba458c15cda2a4682fab7a4fd44e
+  data_hash: 76355c1f32979e0fb963e14f76826d9cdcc1c3120db5e67d132a1f1435a3f495
 data:
   Yle Radio 1:
     programmes:
@@ -117,7 +117,7 @@ data:
           Repilado: Chan chan (Buena Vista Social Club).
           Green: Body and soul (Paul Desmond).
         series: Muistojen bulevardi
-      - title: 'Sari Valto: DNA-testi voi paljastaa sukusalaisuuksia'
+      - title: 'Sari Valto: DNA-testi voi paljastaa suvun salaisuuksia'
         start_time: '2024-12-10T10:00:00+02:00'
         end_time: '2024-12-10T10:55:00+02:00'
         description: |-
@@ -132,6 +132,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-10T11:57:00+02:00'
         end_time: '2024-12-10T12:00:00+02:00'
+        description: |-
+          Sully Prudhomme: Särkynyt maljakko ; kääntäjä Otto Manninen;
+          teoksesta Manninen, O. 1925: Virrantyven. WSOY
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2024-12-10T12:00:00+02:00'
@@ -141,7 +144,7 @@ data:
         start_time: '2024-12-10T12:10:00+02:00'
         end_time: '2024-12-10T13:00:00+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Ovatko esikoiset johtajatyyppejä, kuopukset huolettomia ja keskimmäiset sovittelijoita? Näin väitetään, mutta pitävätkö stereotypiat paikkansa ja mistä ne ovat peräisin? Haastateltavina persoonallisuustutkija Sointu Leikas Helsingin yliopistosta ja Väestöntutkimuslaitoksen johtava tutkija Venla Berg. Toimittajana Minna Korhonen.
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2024-12-10T13:00:00+02:00'
@@ -194,6 +197,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-10T16:10:00+02:00'
         end_time: '2024-12-10T16:59:59+02:00'
+        description: |-
+          Korngold: Alkusoitto bal. Lumiukko (Linzin Bruckner-ork./Caspar Richter).
+
+          Liszt: Etydi nro 2 Es-duuri (transkriptio pianolle Niccolo Paganinin kapriisista sooloviululle nro 17 Es-duuri (Matti Raekallio).
+
+          Chatman: Sateen ääni kok. Lauluja luonnosta 1 (Vancouverin kamarikuoro/Jon Washburn).
+
+          Doderer: Schiettamente pianotriosta n:o 1 (Vilos Trio).
+
+          Donizetti: Lindan resitatiivi ja aaria "Ah, tardai troppo - O luce di quest'anima" oopp. Linda di Chamounix  (Eglise Gutiérrez, sopraano, ja Covent Garden -oopperan ork./Mark Elder).
+
+          W.A. Mozart: Romanssi Serenadista B-duuri (Ensemble InterContemporain/Pierre Boulez).
+
+          A. Mahler (sov. Panula) Kennst du meine Nächte? (Lilli Paasikivi, mezzosopraano, ja Tampere Filharmonia/Jorma Panula).
+
+          Katalonialainen kansanlaulu - Mompou: Canco i dansa n:o 13 (Laulu ja tanssi) kitaralle (Franz Halasz).
+
+          Lutoslawski: Hurra polka (Pohjois-Saksan SO/Krzysztof Urbanski). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-10T17:00:00+02:00'
@@ -208,9 +229,20 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-10T17:35:00+02:00'
         end_time: '2024-12-10T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Kissankehdossa ollaan vielä suomalaisen musiikin päivän tunnelmassa - ja kyytiin astuu sekalainen joukko sankareita. Vanhapoika marsalkkaa käy surku kun se yöt ja päivät läpeensä ratsastaa yksin keskellä kaupunkia. Peräseinäjoen teräsmies lentää kotikuntansa maailman kartalle ja 90-luvun teinitähti tulee Hollywoodista kuokkimaan maailmanmestaruusjuhliin.
+          Kaikki alkaa kuitenkin kanteleesta, jota soitetaan jakoavaimella
 
+          Henna Emilia Hietamäki: Kultalintu
+          Sarah Kivi: Joka päivä ja jokaikinen yö
+          Maritta Kuula: Marsalkka
+          Noitalinna Huraa!: Peräseinäjoen teräsmies
+          Michael Bleu: Alicia Silverstone '95
+          Jani Matti Juhani & Knipi: Jos alkaa saan uudelleen
+          Dwara feat. Khotton: Homesick
+          Brita Koivunen: Silloin minä itkin/ Yksi ruusu on kasvanut laaksossa
+          Rosa Coste: Lapsi
+          Markus Krunegård: Maybe/Mayday
         series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2024-12-10T18:35:00+02:00'
@@ -267,6 +299,10 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2024-12-10T20:35:00+02:00'
         end_time: '2024-12-10T21:00:00+02:00'
+        description: |-
+          Onko Balkan päässyt vieläkään jaloilleen Jugoslavian hajoamissotien jälkeen? Alueella kytee edelleen kansanryhmien välisiä jännitteitä. Korruptio ja köyhyys ovat suuria ongelmia.
+
+          Maailmanpolitiikan arkipäivää -ohjelman 60-vuotisjuhlavuoden erikoisjaksossa puhutaan Balkanista. Ohjelman juontaa Teemu Juhola. Vieraina ovat ulkomaantoimittajat Minna Pye ja Tom Kankkonen. 
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2024-12-10T21:00:00+02:00'

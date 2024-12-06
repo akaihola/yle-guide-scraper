@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-05T02:32:22.692017+00:00'
+  generated_at: '2024-12-06T02:31:52.514509+00:00'
   git:
     branch: main
-    commit: 304066be92692b054f3012ac7f12861741aa4cf4
-  data_hash: 8df196042a64007d828a99739724fc927d0d7efa18b138a8666316d9c35082e1
+    commit: 3e75fbd08ccfba458c15cda2a4682fab7a4fd44e
+  data_hash: 76355c1f32979e0fb963e14f76826d9cdcc1c3120db5e67d132a1f1435a3f495
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,48 @@ data:
         start_time: '2024-12-20T00:00:00+02:00'
         end_time: '2024-12-20T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Delius: Rekiretki (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          00:05 Sibelius: En etsi valtaa, loistoa (Tom Krause, baritoni, ja Pentti Savolainen, urut).
+
+          00:11 A. J. Romberg: Kvintetto klarinetille ja jousille Es-duuri op.57 (Thea King ja Britten-kvartetti).
+
+          00:35 Köhler: Nyt syttyy valot tuhannet (Polyteknikkojen kamarikuoro Dominante/Seppo Murto sekä Markku Hietaharju, urut).
+
+          00:38 Kember (sov.): Joululauluja pianoduolle (Risto Lauriala ja Pentti Kotiranta).
+
+          00:54 Homilius: Ergreifet die Psalter ihr christlichen Chöre (Katja Fischer, sopraano, Martin Petzold, tenori, Körnerscher Sing-Verein, ja Dresdner Instrumental-Concert/Peter Kopp).  
+
+          01:12 Paganini: Sonaatit viululle ja kitaralle n:o 1-6 op. 2 (Scott St. John ja Simon Wynberg).
+
+          01:38 Gebel (nuor.): Jouluoratorio (Monica Mauch, sopraano, Kai Wessel, kontratenori, Nico van der Meel, tenori, ja Peter Kooij, basso, sekä Cantus Thuringia Capella Thuringia/Bernhard Klapprott).
+
+          02:15 Montéclair: Airs champestres (Ensemble Odyssee).
+
+          02:33 C.P.E. Bach: Auf schicke dich (Barbara Schlick, sopraano, Hilke Helling, altto, Wilfried Jochens, tenori, ja Gotthold Schwarz, basso, sekä  Rheinische Kantorei ja Das Kleine Konzert/Hermann Max).
+
+          02:52 Tournemire: Joulupalvelus kok. L'Orgue mystique (Georges Delvallée, urut).
+
+          03:02 Schubert: Pianosonaatti n:o 21 B-duuri (Rudolf Serkin).
+
+          03:46 Buxtehude: Toccata d-molli (Olli Porthan, urut).
+
+          03:54 Rossini: Preludi, teema ja muunnelmia (Vitali Bujanovski, käyrätorvi, ja Eleonora Nuridzhanjan, piano).
+
+          04:07 Vanhal: Missa pastoralis messu G-duuri (Mary Enid Haines, sopraano, Nina Scott Stoddart, altto, Colin Ainsworth, tenori, ja Steven Pitkanen, baritoni sekä Uuden-Seelannin Tower Voices -kuoro ja kamariyhtye Aradia Ensemble/Uwe Grodd).
+
+          04:41 Rahmaninov: Fantasiakappaleita op. 3 (Olga Kern, piano).
+
+          05:06 Ruppe: Joulukantaatti (Ensemble Bouzignac ja Musica ad Rhenum/Jed Wentz).
+
+          05:37 W.A. Mozart: Menuetteja orkesterille (Wienin Mozart-yhtye/Willy Boskovsky).
+
+          05:51 Telemann: Sarja nokkahuilulle, jousille ja continuolle a-molli (Erik Bosgraaf ja Alankomaiden radion kamariork./Thierry Fischer).
+
+          06:20 Matthias Weckmann: Gegrüsset seiest du holdselige (Terve armoitettu). (Claire Lefilliatre, sopraano, ja Hans Jörg Mammel, tenori, sekä Namurin kamarikuoro ja La Fenice -yhtye/Jean Tubery).
+
+          06:26 Zielenski: Viderunt omnes fines terrae (Concerto Polacco). 
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2024-12-20T06:30:50+02:00'
         end_time: '2024-12-20T06:50:00+02:00'
@@ -121,13 +162,13 @@ data:
 
           J. Kuusisto ja P. Kuusisto (sov.): Joulumielinen potpuri (Jaakko ja Pekka Kuusisto, viulu).
 
-          Grandval: Noel (Ulrike Sonntag, sopraano, Lajos Lencses, oboe, ja Francois Killian, piano).
-
           Chaminade: Le noël des oiseaux (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano). 
 
           Kansansäv. (Suomi) (sov. Virpi): Joulupuu on rakennettu (SRK:n tyttöjen lauluryhmä, joht. Ulla Metsänheimo, sekä Emilia Soranta, piano, Iina Tuomela, huilu, ja Tommi Tuovinen, kitara). 
 
           Bartling: Metsien joulu (Kilven Kuoro/Hanna Remes).
+
+          de Lalande: Joulusinfonia (Les Violons du Roy/Bernard Labadie).
 
           Maasalo: Joulun kellot (Tauno Äikää, urut).
         series: Klassinen kattaus
@@ -212,3 +253,31 @@ data:
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas
+      - title: Yöklassinen
+        start_time: '2024-12-20T23:40:00+02:00'
+        end_time: '2024-12-21T06:30:00+02:00'
+        description: |-
+          Humperdinck: Hänsel und Gretel (Hannu ja Kerttu), 3-näytöksinen ooppera. (Elisabeth Grümmer, sopraano, Elisabeth Schwartzkopf, sopraano, Else Schürhoff, mezzosopraano, Maria von llosvay, altto, Josef Metternich, baritoni, ja Anny Felbermeyer, sopraano, sekä Lontoon Loughtonin tyttökuoro, Bancroftin koulun kuoro ja Lontoon Philharmonia -ork./Herbert von Karajan).
+
+          01:30 Ljadov: Kahdeksan kansanlaulua (Venäjän FO/Samuel Friedmann).
+
+          01:45 Debussy: Preludit 2 (Friedrich Gulda, piano).
+
+          02:21 Kokkonen: Neljä laulua Uuno Kailaan runoihin (Jorma Hynninen, baritoni, ja Ilkka Paananen, piano).
+
+          02:32 Wilms: Sinfonia n:o 7 c-molli (Concerto Köln/Werner Erhardt).
+
+          03:03 Schumann: Pianotrio n:o 2 F-duuri (Beaux Arts -trio).
+
+          03:32 von Dittersdorf: Viulukonsertto G-duuri (Martin Kos ja Tshekkiläinen filharmoninen kamariork./Petr Chromcák).
+
+          04:01 Marais: Sarja huilulle, viululle ja continuolle (Music's Re-creation). 
+
+          04:21 Bizet: Jeux d'enfants (Lasten leikkejä) (Christian Ivaldi ja Noël Lee, piano).
+
+          04:42 Kuula: Purjein kuutamolla (Jorma Silvasti, tenori, ja Pentti Kotiranta, piano).
+
+          04:48 J.S. Bach: Die Kunst der Fuge (Helmut Walcha, urut). 
+
+          06:16 Petritz: Die Herrlichkeit des Herrn, joulukantaatti (Dorothea Wagner, sopraano, David Erler, kontratenori, Hans Jörg Mammel, tenori, ja Matthias Lutze, basso, sekä Sächsisches Vocalensemble ja Batzdorfer Hofkapelle/Matthias Jung).
+        series: Syventävää klassista
