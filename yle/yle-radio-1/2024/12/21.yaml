@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:27.993370+00:00'
+  generated_at: '2024-12-11T02:32:07.037331+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -162,6 +162,9 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2024-12-21T15:30:00+02:00'
         end_time: '2024-12-21T15:55:00+02:00'
+        description: |
+          Pasi Heikura selvittää, mikä oli Raamatun kertomusten joulun tähti ja keitä olivat itäisen maan tietäjät. Ohjelman vieraana tietokirjailija, teologian tohtori Pekka Särkiö. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2024-12-21T15:55:00+02:00'
@@ -206,12 +209,12 @@ data:
         start_time: '2024-12-21T19:00:00+02:00'
         end_time: '2024-12-21T19:02:00+02:00'
         series: Yle Uutiset
-      - title: Outin ja Riston joululahjavalvojaiset Ainolasta
+      - title: Outin ja Riston joululahjavalvojaiset Ainolassa
         start_time: '2024-12-21T19:03:00+02:00'
         end_time: '2024-12-21T21:40:00+02:00'
         description: |
           Outi Paananen ja Risto Nordell viettävät joululta tuoksuvaa iltapuhdetta Ainolan keittiössä. Valoa vuoden pimeimpänä päivänä antavat musiikki, vieraat ja tuokiokuvat Ainolan joulusta. Pihapiiristä etsitään myös sitä salaperäistä poesiaa, jonka väreilyn Sibelius päiväkirjamerkintöjensä mukaan koki Ainolan jouluina.
-        series: Konsertteja
+        series: Riston Valinta - Risto Nordell
       - title: Mielimaisema
         start_time: '2024-12-21T21:40:30+02:00'
         end_time: '2024-12-21T22:40:00+02:00'

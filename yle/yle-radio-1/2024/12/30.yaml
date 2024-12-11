@@ -1,15 +1,25 @@
 metadata:
-  generated_at: '2024-12-09T02:33:31.490620+00:00'
+  generated_at: '2024-12-11T02:32:09.121760+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
       - title: Hartaita säveliä
         start_time: '2024-12-30T06:30:50+02:00'
         end_time: '2024-12-30T06:50:00+02:00'
+        description: |-
+          Tuntematon (sov. Julkunen): Ilon päivä verraton (Cetus Noster sekä Jarmo Julkunen, bassoluuttu).
+
+          Anonyymi (sov. Takala-Roszczenko): Riemuveisu laulakaamme (Juha Okulov, basso, ja Ortodoksinen Kamarikuoro/Juhani Matsi).
+
+          Tuntematon (sov. Buckland): Joulu riemukas, juhla autuas (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
+
+          Simojoki: Tulkoon joulu (Kuvaja).
+
+          Harju: Seuraa valoani (Maksetut Viulut).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2024-12-30T06:50:00+02:00'
@@ -83,6 +93,10 @@ data:
           Andrews: Leve kärleken (Lill-Babs).
           Soja: Parlez-vous francais (Baccara).
         series: Muistojen bulevardi
+      - title: Keskusteluja Jarkko Martikaisen kanssa
+        start_time: '2024-12-30T10:00:00+02:00'
+        end_time: '2024-12-30T10:45:00+02:00'
+        series: Keskusteluja Jarkko Martikaisen kanssa
       - title: Välilevyjä - Kare Eskola
         start_time: '2024-12-30T11:00:00+02:00'
         end_time: '2024-12-30T11:57:00+02:00'
@@ -96,11 +110,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-30T12:00:00+02:00'
         end_time: '2024-12-30T12:10:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Waltari loi Sinuhessa Egyptin, jota ei koskaan nähnyt: Arkeologi paljastaa, mikä siinä on totta'
         start_time: '2024-12-30T12:10:00+02:00'
         end_time: '2024-12-30T13:00:00+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Mika Waltarin menestysromaani Sinuhe egyptiläinen kiehtoo yhä uusia sukupolvia. Romaanin ilmestymisestä on miltei 80 vuotta, ja vastikään julkaistiin arkeologi ja historioitsija Minna Silverin teos, joka käsittelee Sinuhen maailmaa tutkijan silmin. Mikä romaanissa on nykytietämyksen mukaan totta ja mikä Waltarin mielikuvituksen tuotetta? 
+          Toimittajana on Riikka Suikkari.
         series: Elävä historia
       - title: 'KC Kirjat: Kirjoja tieteellisistä kokeista ja terveyden etsimisestä'
         start_time: '2024-12-30T13:00:00+02:00'
@@ -149,11 +164,11 @@ data:
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Etnovuosi 2024 ansaitsee skålin, vaikka bluesin aihetta onkin'
         start_time: '2024-12-30T17:35:00+02:00'
         end_time: '2024-12-30T18:35:00+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Minkälaisia kohokohtia osui kansanmusiikin ja maailmanmusiikin vuoteen 2024? Kuka nostatti maljat, kuka teki kappaleen uutisvirran jatkuvasta bluesista? Ketkä yhdistivät kuubalaisen mambo-rytmin ja bebop-jazzin melodiankuljetukset? Miltä kuulostivat fadon ja flamencon huippulevytykset, entä kurdien ja romanien loistoalbumit? Päättyvän vuoden parhaita etnolevyjä valikoimassa Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2024-12-30T18:35:00+02:00'
@@ -195,6 +210,7 @@ data:
       - title: Keskusteluja Jarkko Martikaisen kanssa
         start_time: '2024-12-30T21:35:30+02:00'
         end_time: '2024-12-30T22:20:00+02:00'
+        series: Keskusteluja Jarkko Martikaisen kanssa
       - title: Näistä levyistä en luovu
         start_time: '2024-12-30T22:45:00+02:00'
         end_time: '2024-12-30T23:39:00+02:00'

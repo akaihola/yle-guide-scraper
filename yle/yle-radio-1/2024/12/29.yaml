@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:30.987520+00:00'
+  generated_at: '2024-12-11T02:32:08.799860+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -85,9 +85,12 @@ data:
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana sotahistorioitsija Jenni Kirves
         start_time: '2024-12-29T14:00:00+02:00'
         end_time: '2024-12-29T14:45:00+02:00'
+        description: |
+          Yksi puhumattomuuden syy oli, että haluttiin suojella lähipiiriä. “Eihän rintamalla koettuja kauheuksia olisi kannattanut jakaa esimerkiksi omille pienille lapsilleen.”  Jenni Kirves toteaa. Veteraanit tunsivat omasta eloonjäämisestä hyvin paljon syyllisyyttä ja se tunne on tuttu sisarensa menettäneelle Jennillekin. 
+        series: Marko Gustafsson
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-29T14:45:00+02:00'
         end_time: '2024-12-29T15:00:00+02:00'

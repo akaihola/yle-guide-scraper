@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:32.730892+00:00'
+  generated_at: '2024-12-11T02:32:09.958600+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-02T07:10:00+02:00'
         end_time: '2025-01-02T07:59:59+02:00'
+        description: |-
+          Boccherini: Los manolos (Passa Calle) kvintetosta jousille C-duuri (Madridin katujen yösoitto) (Boccherini-kvintetti).
+
+          Dvorák: Menuetti ja trio Serenadista d-molli (Kanadalainen kamariyht./Raffi Armenian).
+
+          Sibelius (sov. Siirala ja Eskelinen): Berceuse kok. Pensées lyriques (Ismo Eskelinen, kitara).
+
+          Chopin: Nokturno n:o 2 Es-duuri (Jouko Harjanne, trumpetti).
+
+          Melartin: Sagan om vårt hjärta (Sydäntemme satu) Lilli Paasikivi, mezzosopraano, Jari Valo, viulu, ja Pentti Kotiranta, piano).
+
+          Weber: Alkusoitto oopp. Abu Hassan (Alexander Paley ja Brian Zeger, piano).
+
+          Winkler: Napolilainen serenadi (Kerava-kvartetti, sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso).
+
+          Debussy (sov. S. Assad): Passepied pianosarj. Suite bergamasque (Sergio ja Odair Assad, kitara).
+
+          Humperdinck: Juhlakaikuja sarj. Prinsessa Ruusunen (Bambergin sinfonikot/Karl Anton Rickenbacher).
+
+          Bernstein (sov. Kostal): Maria musik. West Side Story (Katia ja Marielle Labèque, piano).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-02T08:00:00+02:00'
@@ -149,6 +169,12 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-02T18:35:00+02:00'
         end_time: '2025-01-02T18:50:00+02:00'
+        description: |-
+          Halonen - Jernström: Tähti, tähdistä kirkkain (Minna Pyysalo).
+
+          Tuntematon: Soi kiitosvirsi kerran (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Suonio: Tähti toisen maailman (Tuohus-kuoro ja Carmen Ensemble).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-02T18:50:00+02:00'

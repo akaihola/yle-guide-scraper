@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:26.672171+00:00'
+  generated_at: '2024-12-11T02:32:05.993169+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -50,8 +50,10 @@ data:
       - title: Aamuhartaus
         start_time: '2024-12-18T06:50:00+02:00'
         end_time: '2024-12-18T06:59:59+02:00'
-        description: |-
-          Kirjailija Hanna Kivisalo, Seinäjoki
+        description: |
+          "Tunnelmasta huolimatta joulu"
+          Joulun alla aamuhartauksissa matkaa Betlehemiin tekee kirjailija Hanna Kivisalo Seinäjoelta.
+          Tämän aamun hartaudessa lausutaan lohdun sanoja hänelle, jonka sisäinen tunnelma ei tänä vuonna tunnu jouluiselta. 
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-18T07:00:00+02:00'
@@ -157,6 +159,9 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2024-12-18T14:30:00+02:00'
         end_time: '2024-12-18T14:55:00+02:00'
+        description: |
+          Pasi Heikura selvittää, mikä oli Raamatun kertomusten joulun tähti ja keitä olivat itäisen maan tietäjät. Ohjelman vieraana tietokirjailija, teologian tohtori Pekka Särkiö. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Yle Uutiset
         start_time: '2024-12-18T15:00:00+02:00'
@@ -178,6 +183,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-18T16:10:00+02:00'
         end_time: '2024-12-18T16:59:59+02:00'
+        description: |-
+          Anonyymi 1400-luvulta: Marvel not, Joseph (Älä ihmettele, Joosef) (Hilliard-yhtye).
+
+          Telemann: Fantasia G-duuri (Marion Verbruggen, nokkahuilu).
+
+          Beauvarlet-Charpentier: Noël nro 11 (Kalevi Kiviniemi, Turun tuomiokirkon urut).
+
+          Lawrence-King (sov.): On a cold winter's day (Andrew Lawrence-King, harppu).
+
+          Kuula: Rukous (RKK/Timo Nuoranne).
+
+          Sibelius (sov. Kallio): En etsi valtaa, loistoa (Jouko Harjanne, trumpetti, ja Miikka Kallio, urut).
+
+          Lauridsen: O magnum mysterium (Voces8). 
+
+          Greene - Corelli: Mary did you know - Corelli Christmas Concerto (The Piano Guys).
+
+          Sandström: Det är en ros utsprungen (Erik Westberg -kuoro/Erik Westberg).
+
+          Norjalainen koraalitoisinto: Mitt hjerte alltid vanker (Sissel Kyrkjebö, laulu, ja The Chieftains).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-18T17:00:00+02:00'
@@ -208,8 +233,9 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-18T18:50:00+02:00'
         end_time: '2024-12-18T19:00:00+02:00'
-        description: |-
-          Pastori Virpi Sillanpää-Posio, Oulu
+        description: |
+          "Yhdessä laulaminen tuo hyvän olon"
+          Pastori Virpi Sillanpää-Posio Oulusta puhuu musiikin elämää läpäisevästä voimasta.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-18T19:00:00+02:00'

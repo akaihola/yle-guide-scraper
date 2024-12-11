@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:27.724913+00:00'
+  generated_at: '2024-12-11T02:32:06.700523+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -70,8 +70,9 @@ data:
       - title: Aamuhartaus
         start_time: '2024-12-20T06:50:00+02:00'
         end_time: '2024-12-20T06:59:59+02:00'
-        description: |-
-          Kirkkoherra Ville Tikkanen, Kangasniemi
+        description: |
+          "Sinun valosi syttyy sittenkin"
+          Kangasniemen kirkkoherra Ville Tikkanen lukee profeetta Sefanjan sanoja ja pyytää Jumalaa näyttämään vilauksen valostaan pimeyden keskellä.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-20T07:00:00+02:00'
@@ -125,7 +126,7 @@ data:
           Maasalo: Joulun kellot (Harmony Sisters).
           Ackermans: Noel des petits santons (Tino Rossi).
           Saffer/Linale: Buon Natale (means merry Christmas to you) (Nat King Cole).
-          Bach/Gounod: Ave Maria (Michael Buble).
+          Schubert: Ave Maria (Michael Buble).
           Kärki: Tonttu katsoo ikkunasta (Vieno Kekkonen ja Juha Eirto).
           Hayes/Johnson: Blue Christmas (Elvis Presley).
           Häggkvist: Himlen i min famn (Carola Häggkvist).
@@ -202,6 +203,13 @@ data:
       - title: Yle Uutiset
         start_time: '2024-12-20T15:00:00+02:00'
         end_time: '2024-12-20T15:02:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2024-12-20T15:02:00+02:00'
+        end_time: '2024-12-20T15:55:00+02:00'
+        description: |-
+          Kulttuuriykkösen Perjantaistudiossa median ja kulttuurin ajankohtaisaiheista sekä arvokysymyksistä ovat keskustelemassa toimittaja Marri Virtanen, liikemies Sami Kuusela ja mainonnan ja markkinoinnin suunnittelija Jussi Turhala.
+
+          Puhetta johtaa toimittaja Pauliina Grym. 
       - title: Yle News
         start_time: '2024-12-20T15:55:00+02:00'
         end_time: '2024-12-20T15:58:00+02:00'
@@ -239,7 +247,7 @@ data:
         end_time: '2024-12-20T19:02:00+02:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2024-12-20T19:02:00+02:00'
-        end_time: '2024-12-20T20:00:00+02:00'
+        end_time: '2024-12-20T21:15:00+02:00'
         description: |
           Esa-Pekka Salonen, kapellimestari, sol. Christoffer Sundqvist, klarinetti. - Esa-Pekka Salonen: Tiu; kinēma, viisi kohtausta klarinetille ja jousiorkesterille. Jean Sibelius: Sinfonia nro 2 D-duuri. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson
         series: Konsertteja

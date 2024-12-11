@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:23.561997+00:00'
+  generated_at: '2024-12-11T02:32:03.928275+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,16 @@ data:
       - title: Ykkösaamu
         start_time: '2024-12-11T08:10:00+02:00'
         end_time: '2024-12-11T09:00:00+02:00'
+        description: |-
+          8.11. Poliitikot puntaroivat Syyrian vallankumousta. Keskustelemassa kansanedustajat Johannes Koskinen (sdp.), Pia Kauma (kok.) sekä Pekka Haavisto (vihr.)
+
+          8.29 Syyriasta raportoi toimittaja Antti Kuronen. 
+
+          8.34 Liikkuvatko suomalaiset lapset ja nuoret riittävästi? Haastateltavana lääkäri Tommi Vasankari UKK-instituutista sekä liikunnan ja terveystiedon opettaja Karoliina Mäkäräinen Etelä-Tapiolan lukiosta.  
+
+          8.54 Singaporessa talous kukoistaa. Aasian kirjeenvaihtaja Mika Hentunen raportoi. 
+
+          Juontajana Atte Uusinoka. Toimittajana Mira Stenström. Tuottajana Marija Skara. 
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2024-12-11T09:00:00+02:00'
@@ -119,9 +129,11 @@ data:
           Rice/Batt: A winter's tale (David Essex).
           Tormé: The Christmas Song (Dexter Gordon).
         series: Muistojen bulevardi
-      - title: Brysselin kone
+      - title: 'Brysselin kone: Euroopan johtajuusvaje ja Suomen rooli läntisessä yhteisössä'
         start_time: '2024-12-11T10:00:00+02:00'
         end_time: '2024-12-11T10:55:00+02:00'
+        description: |-
+          Brysselin Koneen toiseksi viimeisessä jaksossa keskustellaan Euroopan johtajuusvajeesta sekä Suomen roolista läntisessä yhteisössä. Teemoina myös Suomen kehitys EU-taipaleen aikana sekä myös Euroopan muutos  kylmän sodan ajoista tähän päivään. Annastiina Heikkilän haastattelussa diplomaatti ja kulttuurivaikuttaja Petri Tuomi-Nikula. 
         series: Brysselin kone
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-11T10:55:00+02:00'
@@ -153,9 +165,13 @@ data:
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Mitä kohuvaliokunnassa oikein tapahtuu?'
         start_time: '2024-12-11T13:00:00+02:00'
         end_time: '2024-12-11T13:30:00+02:00'
+        description: |
+          Miksi eduskunnan sote-valiokunta ruuhkautui taas niin, että otsikot kirkuvat? Kohuvaliokunnasta tihkuneet tiedot kertovat mm. epäasiallisesta käyttäytymisestä. 
+          Mitä valiokunnassa on meneillään? Mikä hallituksen sote-esityksissä on niin vaikeaa, että valiokunta on sekaisin?
+          Vieraina ovat sosiaali- ja terveysvaliokunnan varapuheenjohtaja, kokoomuksen Mia Laiho sekä valiokunnan jäsenet, SDP:n eduskuntaryhmän varapuheenjohtaja Kim Berg ja vihreiden kansanedustaja Bella Forsgrén. Toimittajana on Antti Pilke.
         series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-11T13:30:00+02:00'
@@ -190,11 +206,19 @@ data:
         start_time: '2024-12-11T15:00:00+02:00'
         end_time: '2024-12-11T15:02:00+02:00'
         series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Taru sormusten herrasta: Rohirrimin sota & Tolkien-vuosi 2024'
         start_time: '2024-12-11T15:02:00+02:00'
         end_time: '2024-12-11T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kuluva vuosi 2024 on ollut kiinnostava fantasiakirjailija J. R. R. Tolkienin perinnön suhteen. Sen lisäksi, että ensimmäinen kirja Sormuksen ritarit julkaistiin 70 vuotta sitten, on Tampereen teatterin suurin menestys on ollut Taru Sormusten Herrasta -näytelmä. Lisäksi suoratoistopalvelu Amazon Prime julkaisi syksyllä toisen kauden Mahtisormus-tv-sarjasta, ja nyt Rohirrimin sota -niminen animaatioelokuva tulee ensi-iltaan elokuvateattereissa.
+
+          Elokuvan on ohjannut anime-elokuvantekijä Kenji Kamijama, ja se vie katsojat seuraamaan Rohanin kuninkaan ja hänen tyttärensä kohtaloa lähes 200 vuotta ennen päätrilogian tapahtumia. 
+
+          Dunlendingin lordi Wulfin kostonhimoinen hyökkäys pakottaa kuningas Helm Vasarakäden soturitytär Héran ryhtymään viimeiseen, uhkarohkeaan kamppailuun muinaisessa Hornburgin linnakkeessa, joka tullaan myöhemmin tuntemaan Helmin syvänteenä. 
+
+          Millaisesta elokuvasta on kyse? Miten japanilainen animaatio elokuvamuotona palvelee Tolkienin maailmaa? Millainen maailma Tolkienin ympärillä on avautunut kuluneen vuoden aikana, ja mihin suuntaan modernin fantasian isänä pidetyn kirjailijan perintöä ollaan viemässä?
+
+          Kulttuuriykkönen saa vieraikseen fantasiakirjailija Vehka Kurjenmiekan sekä kulttuuritoimittaja Jussi Ahlrothin. Juhani Kenttämaa toimittaa.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-11T15:55:00+02:00'
@@ -209,12 +233,12 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-11T16:10:00+02:00'
         end_time: '2024-12-11T16:59:59+02:00'
-        description: |-
+        description: |
           Williams: Somewhere in my memory elok. Home alone (Yksin kotona) (Kuoro ja ork./John Williams).
 
           Peltokoski: Improvisaatio pianolle Mozartin sinfonian n:o 40 g-molli teemoista (Tarmo Peltokoski, piano).
 
-          Sowande: Akinla Afrikkalaisesta sarjasta jousille (Vancouverin radio-orkesteri/Mario Bernardi).
+          Sowande: Akinla Afrikkalaisesta sarjasta jousille (Vancouverin radio-ork./Mario Bernardi).
 
           Kansansäv. (sov. Thiessen): Muunnelmia pianolle kansansävelmästä Oi kuusipuu (Caroline Fischer).
 
@@ -228,19 +252,19 @@ data:
 
           Kern (sov. Poster): Look for the silver lining (Elena Urioste, viulu, ja Tom Poster, piano).
 
-          J.S. Bach (sov. Respighi): Fuuga D-duuri (BBC:n filharmoninen orkesteri/Gianandrea Noseda).
+          J.S. Bach (sov. Respighi): Fuuga D-duuri (BBC:n FO/Gianandrea Noseda).
         series: Faunin iltapäivä
       - title: Uutispodcast
         start_time: '2024-12-11T17:10:00+02:00'
         end_time: '2024-12-11T17:35:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Romanian presidentinvaalien mitätöiminen Venäjän epäillyn vaalivaikuttamisen vuoksi syöksi maan poliittiseen myllerrykseen. Mitä koko vaalikaaos kertoo Romaniasta? Erkka Mikkosen vieraana Ylen Eurooppa-kirjeenvaihtaja Anna Karismo.
         series: Uutispodcast
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Hiljentymistä'
         start_time: '2024-12-11T17:35:00+02:00'
         end_time: '2024-12-11T18:35:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Kynttilät palamaan ja katse tyhjyyteen. Laura Korhosen Jazzklubi on varattu rauhoittumiselle, suorittaminen joutaa odottamaan. Tule mukaan tyhjentämään mieltä tyynnyttävän jazzin äärellä. (U)
         series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2024-12-11T18:35:00+02:00'
@@ -285,9 +309,25 @@ data:
         description: |2+
 
         series: Brysselin kone
-      - title: 'Radioteatteri esittää:'
+      - title: 'Radioteatteri esittää: Helene'
         start_time: '2024-12-11T22:30:00+02:00'
-        end_time: '2024-12-11T23:12:30+02:00'
+        end_time: '2024-12-11T23:24:15+02:00'
+        description: |
+          Helene - kuunnelma Helene Schjerfbeckistä
+
+          On vuosi 1902 ja Helene vetäytyy maailmasta Hyvinkäälle, asumaan yhdessä äitinsä kanssa. Hän pohtii kertoako tarinansa kuuntelijalle vai tyhjälle kankaalle, hiilelle ja väreille. 
+          Miksi piirtäminen alkoi, millainen tunnetila on Pariisi ja miten vaikea on äidin ja tyttären suhde. Helene kaipaa tunnustusta, mutta samalla myös pelkää sitä. Välillä omaan tekemiseen on vaikeaa uskoa, milloin työtä voi edes kutsua taiteeksi ja ennen kaikkea miten hinnoitella taide. “Paikka on luotava itse, viivoista.”
+
+          Helene Schjerfbeck (1862-1946) on yksi Suomen tunnetuimmista ja arvostetuimmista modernistisista kuvataiteilijoista.
+
+          Rakel Liehun samannimisestä romaanista dramatisoinut Helena Kallio. 
+          Ohjaus: Outi Valle. Äänisuunnittelu: Tiina Luoma. 
+          Musiikilliset tehosteet: Kirsi Poutanen.
+          Rooleissa:
+          Helene Schjerfbeck - Helena Kallio. 
+          Olga, os. Printz, Helenen äiti - Heidi Krohn. 
+          Gösta Stenman, Helenen mesenaatti - Juha Muje.
+          Uusinta vuodelta 2004.
       - title: Yöklassinen
         start_time: '2024-12-11T23:40:00+02:00'
         end_time: '2024-12-12T06:30:00+02:00'

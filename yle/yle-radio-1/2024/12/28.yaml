@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:30.500166+00:00'
+  generated_at: '2024-12-11T02:32:08.625938+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -30,6 +30,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2024-12-28T08:05:00+02:00'
         end_time: '2024-12-28T08:25:00+02:00'
+        description: |-
+          Anonyymi: Uinuos, uinu pyhä lapsonen (The Coventry carol) (Polyteknikkojen Kamarikuoro Dominante/Seppo Murto).
+
+          Tuntematon (sov. I. Kuusisto): Oi Jumala, et hylkää pientä lasta (Tuomas Katajala, tenori, Aale Lindgren, oboe d'amore, Marko Ylönen, sello, ja Mikko Niinikoski, urut).
+
+          Maasalo: Me lapset pienet riennämme (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Veli Ainali, urut).
+
+          V. Hannikainen: Joulun sävel soi (Taru Valjakka, sopraano, ja Jorma Hynninen, baritoni, sekä Pentti Koskimies, piano).
+
+          S. Sariola: Lullay - Hiljaa, hiljaa (Rajaton).
+
+          Haunio: Kuin lapsesi olisi hän (Miri Rantio ja Joel Bonsdorff, laulu, Exodus-kuoro, sekä yhtye).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2024-12-28T08:25:00+02:00'
         end_time: '2024-12-28T08:35:00+02:00'
@@ -72,11 +85,11 @@ data:
         end_time: '2024-12-28T11:00:00+02:00'
         description: |2+
 
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Heikki Laitinen'
         start_time: '2024-12-28T11:00:00+02:00'
         end_time: '2024-12-28T11:55:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Ikinuori 80-vuotias kansanmusiikin emeritusprofessori Heikki Laitinen kertoo musiikin lomassa valitsemistaan levyistä.  Arkistonauhat suhisevat, ortodoksikirkonkellot mäikäävät ja musiikkivalinnat häikäisevät epäkaupallisuudellaan. Loppupuolella ylletään lyhyeen ääni-improvisaatioon studio-oloissa. Toimittajana on Charlotta Hagfors. (uusinta)
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-28T11:57:00+02:00'
@@ -154,9 +167,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-28T19:00:00+02:00'
         end_time: '2024-12-28T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Kalevi Aho 75: Saimaa Sinfonietta - Juhlan aika'
         start_time: '2024-12-28T19:02:00+02:00'
         end_time: '2024-12-28T21:00:00+02:00'
+        description: |
+          Saimaa Sinfonietta, Erkki Lasonpalo, kapellimestari, Olli Mustonen, piano. Ludwig van Beethoven: Pianokonsertto nro 3 c-molli. - Kalevi Aho: Sinfonia nro 18 (ke.). Mikkelin Mikaelissa 8.2. äänitetyn konsertin toimittavat Noora Hirn ja Riikka Holopainen.
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2024-12-28T21:00:00+02:00'

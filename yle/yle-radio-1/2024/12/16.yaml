@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:25.647983+00:00'
+  generated_at: '2024-12-11T02:32:05.329762+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -118,11 +118,11 @@ data:
           Anderson: Sleigh ride (Diana Krall)
           Halonen: Sydämeeni joulun teen (Vesa-Matti Loiri).
         series: Muistojen bulevardi
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Vessapaperi ennen ja nyt - vieraana Esa Kaikkonen'
         start_time: '2024-12-16T10:00:00+02:00'
         end_time: '2024-12-16T10:50:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Pehmopapereiden historia ja tulevaisuus - vieraana toimitusjohtaja Esa Kaikkonen
         series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2024-12-16T11:00:00+02:00'
@@ -171,11 +171,11 @@ data:
 
           Maasalo (sov. Hjelt): Joulun kellot (Karita Mattila, sopraano, sekä Chorus Cathedralis Aboensis ja Turun FO/Pertti Pekkanen).
         series: Klassinen kattaus
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Emmi Ketonen suomensi kansainväliseksi sensaatioksi nousseen esikoisromaanin yöeläjistä '
         start_time: '2024-12-16T14:30:00+02:00'
         end_time: '2024-12-16T14:55:00+02:00'
-        description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        description: |-
+          Argentiinalaisen Camila Sosa Villadan esikoisromaani Yöeläimiä on kansainvälinen tapaus, ja se on käännetty yli 20 kielelle. Suomentaja Emmi Ketonen arvostaa sitä, että maailmankirjallisuuteen nousee ja suomeksi käännetään ääniä, jotka eivät ole aiemmin päässeet kuuluviin. Emmi Ketosta haastattelee toimittaja Hannamari Hoikkala.
         series: Luomiskertomus
       - title: Yle Uutiset
         start_time: '2024-12-16T15:00:00+02:00'
@@ -211,23 +211,28 @@ data:
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Folk ja trad lämmittävät takkatuvassa'
         start_time: '2024-12-16T17:35:00+02:00'
         end_time: '2024-12-16T18:35:00+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Tuntuuko joskus siltä, että kaikkea on aika paljon? Voisiko hengähtää, tiputtaa hanskat, jättää sikseen, antaa olla. Takkatuvan lempeää ja lämmintä tunnelmaa tavoitellaan jaksossa, jonka saa kuunnella takakenossa laiskotellen. Saapuvilla Britannian, Irlannin ja Pohjois-Amerikan pelimannit. Uusinta joulukuulta 2022.
         series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2024-12-16T18:35:00+02:00'
         end_time: '2024-12-16T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          R. Vähäsarja: Pienen lampaan jouluyö (Jaakko Hietikko, basso, ja Jari Hiekkapelto, piano).
+
+          Nicolai: Synkkä yö maan peitti aivan (Kampin Laulu/Timo Lehtovaara, ja Pertti Eerola, urut).
+
+          Bartling: Olen löytänyt sen (Johanna Rusanen, sopraano, ja RKK/Timo Nuoranne).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2024-12-16T18:50:00+02:00'
         end_time: '2024-12-16T19:00:00+02:00'
-        description: |-
-          Näyttelijä Krista Kosonen lukee Psalmeja (VT2024)
+        description: |
+          "Kansa tunnustaa väärät tekonsa"
+          Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (106:1-107:16). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa syksyn ja talven aikana. Jaksossa 36. Jumalan apu on lähellä
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-16T19:00:00+02:00'
@@ -237,7 +242,7 @@ data:
         start_time: '2024-12-16T19:02:00+02:00'
         end_time: '2024-12-16T19:50:00+02:00'
         description: |
-          Annukka Kaltiainen, kyläbaarin pitäjä Lieksan Jongunjoelta, valmistautuu jäämään eläkkeelle. Reilun sadan asukkaan kylälle baari on elintärkeä ja kaikilla on huoli sen jatkosta. Sieltä saa paitsi kahvia ja pullaa, myös lievitystä yksinäisyyteen ja apuja moniin käytännön asioihin. Reetta Arvilan dokumentti piirtää kuvaa elämästä pienessä pohjois-karjalalaisessa yhteisössä, jossa muita autetaan ja kaikki tuntevat toisensa.
+          Annukka Kaltiainen, kyläbaarin pitäjä Lieksan Jongunjoelta, valmistautuu jäämään eläkkeelle. Reilun sadan asukkaan kylälle baari on elintärkeä ja kaikilla on huoli sen jatkosta. Sieltä saa paitsi kahvia ja pullaa, myös lievitystä yksinäisyyteen ja apuja moniin käytännön asioihin. Reetta Arvilan dokumentti piirtää kuvaa elämästä pienessä pohjoiskarjalaisessa yhteisössä, jossa muita autetaan ja kaikki tuntevat toisensa.
         series: Kuukauden dokumentti
       - title: 'Nepsyilmiö: Kuka tämän korjaa?'
         start_time: '2024-12-16T20:00:00+02:00'
@@ -248,8 +253,12 @@ data:
       - title: Musiikkikamari
         start_time: '2024-12-16T20:30:00+02:00'
         end_time: '2024-12-16T21:00:00+02:00'
-        description: |2+
+        description: |-
+          Satie: Viisi nokturnoa (Cinq nocturnes) (Michael Krücker, piano).
 
+          Satie: Mercure (Merkurius), pienoisbaletti (Pariisin ork./Pierre Dervaux).
+
+          Satie: Gnossienne n:o 4 (Aale Lindgren, oboe, ja Anni Kuusimäki, harppu).
         series: Musiikkikamari
       - title: Yle Uutiset
         start_time: '2024-12-16T21:00:00+02:00'

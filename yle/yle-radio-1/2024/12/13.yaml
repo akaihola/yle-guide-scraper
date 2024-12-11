@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-09T02:33:24.352308+00:00'
+  generated_at: '2024-12-11T02:32:04.600577+00:00'
   git:
     branch: main
-    commit: 8f4092ee4214ee0144ec55caef1cd4ca6c5b9556
-  data_hash: 3eee7af8abcb4e2e677dcce04dffc7eaf3782eda6f150d00e811e6c56f83f6f0
+    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
+  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
 data:
   Yle Radio 1:
     programmes:
@@ -135,15 +135,19 @@ data:
         start_time: '2024-12-13T12:00:00+02:00'
         end_time: '2024-12-13T12:10:00+02:00'
         series: Yle Uutiset
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Verkon algoritmit näyttävät räätälöidyn version maailmasta - näin ne toimivat ja ohjaavat valintojamme'
         start_time: '2024-12-13T12:10:00+02:00'
         end_time: '2024-12-13T13:00:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |+
+          Algoritmit yksipuolistavat maailmankuvaamme. Miten verkon algoritmit toimivat? Miten tietoa kerätään? Mitä haasteita ja ongelmia algoritmien käyttö voi tuoda?
+          Haastateltavina tekoälytutkija Teemu Roos ja Kuluttajatutkimuskeskuksen professori Minna Ruckenstein. Toimittajana Mari Heikkilä.
+
         series: Tiedeykkönen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2024-12-13T13:00:00+02:00'
         end_time: '2024-12-13T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja lomakkeella, tai X:ssä @tapiopajunen ja @tosentti, tai sähköpostitse. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
         series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-13T13:30:00+02:00'
@@ -169,20 +173,28 @@ data:
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Suomen keilen tulevaisuus II'
         start_time: '2024-12-13T14:50:00+02:00'
         end_time: '2024-12-13T15:00:00+02:00'
-        description: |
-          Aiheena on suomen kielen seuraavat sata vuotta. Vieraana on suomen kielen professori Tiina Onikki-Rantajääskö. Toimittajana on Jari Aula.
+        description: |-
+          Tekoäly saattaa yksipuolistaa suomen kieltä, mutta kehityssuuntaa on vielä vaikea hahmottaa. Käännöskieli, lähinnä englanti, saattaa vaikuttaa suomen kielen rakenteisiin, kuten lauseenvastikkeiden korvautumiseen. 
+          Kaunokirjallisuuden lukeminen auttaa lisäämään sanavarastoa ja kehittämään ilmaisumahdollisuuksia. Jopa viidesosalla nuorista on vaikeuksia omaksua riittävän monipuolisesti suomen kieltä tullakseen hyviksi kielen käyttäjiksi. 
+          Millaisia näkymiä on suomen kielellä seuraavien sadan vuoden aikana? Vieraana on suomen kielen professori Tiina Onikki-Rantajääskö Helsingin yliopistosta. Toimittajana on Jari Aula.
         series: Kielen päällä
       - title: Yle Uutiset
         start_time: '2024-12-13T15:00:00+02:00'
         end_time: '2024-12-13T15:02:00+02:00'
         series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa äänessä ovat Ville Hänninen, Annu Kemppainen ja Mirva Saukkola'
         start_time: '2024-12-13T15:02:00+02:00'
         end_time: '2024-12-13T15:55:00+02:00'
         description: |
+          Kulttuuriykkösen Perjantaistudiossa keskustelemme median ja kulttuurin ajankohtaisaiheista sekä arvokysymyksistä. Vieraina ovat vakiraatilaiset kulttuuritoimittaja Ville Hänninen, Helsinki Pride -yhteisön toiminnanjohtaja Annu Kemppainen ja Antiikki ja Design-lehden päätoimittaja Mirva Saukkola.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
       - title: Yle News
@@ -229,9 +241,11 @@ data:
         start_time: '2024-12-13T19:00:00+02:00'
         end_time: '2024-12-13T19:02:00+02:00'
         series: Yle Uutiset
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Suomalainen barokkiorkesteri: Brittiläinen joulu'
         start_time: '2024-12-13T19:02:00+02:00'
         end_time: '2024-12-13T21:00:00+02:00'
+        description: |-
+          Suomalainen barokkiorkesteri, Kajsa Dahlbäck, sopraano, Nuorisokuoro Kannelkellot, joht. Sirkku Rintamäki. Anthony Marini, ohjelmasuunnittelu. Brittiläinen joulu: musiikkia Lessons and Carols -perinteen hengessä. Suoran lähetyksen Helsingin Ritarihuoneelta toimittaa Riikka Holopainen.
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2024-12-13T21:00:00+02:00'
