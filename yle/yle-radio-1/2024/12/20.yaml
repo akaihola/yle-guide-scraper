@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-11T02:32:06.700523+00:00'
+  generated_at: '2024-12-12T02:32:06.893275+00:00'
   git:
     branch: main
-    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
-  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
+    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
+  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
 data:
   Yle Radio 1:
     programmes:
@@ -148,6 +148,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-20T11:57:00+02:00'
         end_time: '2024-12-20T12:00:00+02:00'
+        description: |-
+          Nikolai Gogol: Päällystakki kokoelmassa Pietarilaisnovelleja, suomentanut Esa Adrian, 1991, Otava.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2024-12-20T12:00:00+02:00'
         end_time: '2024-12-20T12:10:00+02:00'
@@ -188,10 +191,12 @@ data:
 
           Maasalo: Joulun kellot (Tauno Äikää, urut).
         series: Klassinen kattaus
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Eevan Aatamille ojentama hedelmä taisi olla granaattiomena'
         start_time: '2024-12-20T14:30:00+02:00'
         end_time: '2024-12-20T14:50:00+02:00'
         description: |
+          Miten uskonnot, raamattu ja erilaiset kasvit liittyvät toisiinsa, ja miten joistakin kukista on tullut meille joulunajan symboleita? Ruissalon kasvitieellisessä puutarhassa oppaina ovat Daria Anttila ja Tuija Hovi.
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
       - title: Kielen päällä

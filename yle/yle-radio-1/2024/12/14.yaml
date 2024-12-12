@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-11T02:32:04.944524+00:00'
+  generated_at: '2024-12-12T02:32:04.861724+00:00'
   git:
     branch: main
-    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
-  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
+    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
+  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
 data:
   Yle Radio 1:
     programmes:
@@ -35,11 +35,17 @@ data:
         start_time: '2024-12-14T07:00:00+02:00'
         end_time: '2024-12-14T07:02:05+02:00'
         series: Yle Uutiset
-      - title: Elävä historia
+      - title: 'Elävä historia: Sankarimatkailun todellinen historia: tutkimusmatkailija Brennerin reportaaseissa vaivoja, tuskaa ja riitoja'
         start_time: '2024-12-14T07:03:00+02:00'
         end_time: '2024-12-14T07:53:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |2+
+           Tutkimusmatkailija Magnus Brenner seikkaili nuorempana pitkin Siperiaa kuuluisan tutkimusmatkailija A.E. Nordenskiöldin apulaisena – ja palasi reissulta henkihieverissä takaisin. 
+          Aikataulu petti, retken jäsenet ajautuivat keskinäisiin kiistoihin ja lopulta matka tyssäsi juuri ratkaisevalla hetkellä.
+          Haastateltavina suomalaisia tutkimusmatkailijoita tutkinut maantieteilijä, Helsingin yliopiston emeritusprofessori Markku Löytönen sekä Magnus Brennerin uraan perehtynyt Helsingin yliopiston Luonnontieteellisen keskusmuseon yli-intendentti Henry Väre. 
+          Toimittajana Anna-Kaisa Brenner.
+          Äänisuunnittelijana Matias Puumala. 
+          Lukijana Oskar Brenner.
+
         series: Elävä historia
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-14T07:53:00+02:00'
@@ -75,7 +81,7 @@ data:
         end_time: '2024-12-14T08:55:00+02:00'
         description: |
           Turun Nuoren Teatterin uutena johtajana aloitti tämän vuoden huhtikuussa Suvi Kotilainen. 
-          Kulttuuriala elää, jälleen kerran, suurien myllerrysten aikaa. Niukkuutta jaetaan ja sitä saadaan. Vaikka suoranaisesti kulttuurikentän leikkaukset eivät osu Turun Nuoreen teatteriin, pelkää Kotilainen että jonkinlaisia negatiivisia sivuvaikutuksia sillä saattaa tulevaisuudessa olla.
+          Kulttuuriala elää, jälleen kerran, suurien myllerrysten aikaa. Niukkuutta jaetaan ja sitä saadaan. Vaikka suoranaisesti kulttuurikentän leikkaukset eivät osu Turun Nuoreen teatteriin, pelkää Kotilainen, että jonkinlaisia negatiivisia sivuvaikutuksia sillä saattaa tulevaisuudessa olla.
           Toimittaja Petri Rinne sai kutsun teatterin itsenäisyyspäivän juhliin, joita viettiin tänä vuonna etukenossa 2. päivä joulukuuta.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
@@ -170,11 +176,11 @@ data:
 
           Gruber: Stille Nacht, heilige Nacht (Benjamin Appl, baritoni, Edeltraud Appl, kitara, sekä Regensburger Domspatzen -poikakuoro ja Münchenin radio-orkesteri/Florian Helgath).
         series: Uudet levyt
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Suometettu Ukraina?'
         start_time: '2024-12-14T14:00:00+02:00'
         end_time: '2024-12-14T14:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Eurooppa odottaa Trumpin päätöksiä: millainen on USA:n presidentin käsikirjoitus Ukrainan tulevaisuudelle? Onko Ukrainan tie Natoon suljettu? Miten sodan voitto ja häviö määritellään? Millainen raja tulee syntymään keskelle Eurooppaa? Ohjelmassa keskustellaan Ukrainan ja Venäjän tulevaisuudesta sodan sumussa. Vieraina ovat sotatieteiden dosentti Ilmari  Käihkö ja Ulkopoliittisen Instituutin vanhempi tutkija Jussi Lassila.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-14T14:55:00+02:00'
@@ -194,7 +200,7 @@ data:
         start_time: '2024-12-14T15:30:00+02:00'
         end_time: '2024-12-14T15:55:00+02:00'
         description: |+
-          Pasi Heikuran vieraana on oikeustieteen professori Kaius Tuori, joka osaa selittää, mikä ero on varkaudella ja luvattomalla käyttöön otolla. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. 
+          Pasi Heikuran vieraana on oikeustieteen professori Kaius Tuori, joka osaa selittää, mikä ero on varkaudella ja luvattomalla käyttöönotolla. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. 
 
 
 
@@ -252,17 +258,17 @@ data:
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
-      - title: Mielimaisema
+      - title: Ahdin mielimaisema
         start_time: '2024-12-14T21:30:00+02:00'
-        end_time: '2024-12-14T22:29:30+02:00'
+        end_time: '2024-12-14T22:28:36+02:00'
         description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
+          Mielimaisema täyttyy tällä kertaa jouluisella musiikilla, kun tuttuakin tutummista joululauluista kuunnellaan kaksi erilaista versiota. Ohjelmassa saadaan vastaus mm. siihen, miltä suomalaisten rakastama “Tonttu” kuulostaa ruotsalaisena sävellyksenä, tai miltä “Kulkuset” ja “Heinillä härkien kaukalon” kuulostivat ennen kuin ne aikanaan saapuivat Suomeen. Ohjelman toimittaa Ahti Paunu.
         series: Mielimaisema
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Parno Grasz nelistää, Amparo paljastaa sielunsa'
         start_time: '2024-12-14T22:30:00+02:00'
-        end_time: '2024-12-14T23:29:30+02:00'
+        end_time: '2024-12-14T23:29:04+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Parhailta uusilta etnolevyiltä pystyy ammentamaan niin vauhtia kuin koskettavuutta. Monien albumien teemoista voi huomata kaipuuta kaikkeen siihen vanhaan hyvään, joka uhkaa meiltä kadota. Parno Graszin akustinen romanisvengi saa olemukseen eloa. Ranskalainen Les Mecanos vaatii pysäyttämään koneet. Amparo Sanchez löytää sisältään voiman laulamalla. Kotimainen Ne Lintuizet haluaa pysyä boksien ulkopuolella. Gjermund Larsen Trio äänitti häkellyttävän kauniin joulukappaleen. Toimittajana Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
       - title: Yöklassinen
         start_time: '2024-12-14T23:40:00+02:00'

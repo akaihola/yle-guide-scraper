@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-11T02:32:08.625938+00:00'
+  generated_at: '2024-12-12T02:32:09.083737+00:00'
   git:
     branch: main
-    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
-  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
+    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
+  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
 data:
   Yle Radio 1:
     programmes:
@@ -104,6 +104,15 @@ data:
         start_time: '2024-12-28T12:05:00+02:00'
         end_time: '2024-12-28T12:30:00+02:00'
         series: Maailmanpolitiikan arkipäivää
+      - title: 'Guruja & Asanoita: Askeesista joogakapitalismiin - voiko mitä vain myydä joogana?'
+        start_time: '2024-12-28T12:30:00+02:00'
+        end_time: '2024-12-28T13:00:00+02:00'
+        description: |
+          Yin-jooga, kundaliinijooga, akrojooga, naurujooga, enkelijooga, chakrajooga, kasvojooga…
+          Jooga on kokenut valtavan mullistuksen parissakymmenessä vuodessa. Siitä on tullut massojen laji, jota voi harjoittaa jokaisessa kuntokeskuksessa mukavissa olosuhteissa. Intialaisesta askeesista ja valaistumisen tavoittelusta on siis hypätty jättiloikka hyvinvoinnin ja rentoutumisen hakemiseen. 
+
+          Voiko jooga olla nykyään mitä vain? Mitkä ovat joogan alkuperäiset tavoitteet? Ja mitä joogi lopulta tarvitsee?
+        series: Guruja & Asanoita
       - title: Uudet levyt
         start_time: '2024-12-28T13:00:00+02:00'
         end_time: '2024-12-28T14:00:00+02:00'

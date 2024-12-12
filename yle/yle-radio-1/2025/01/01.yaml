@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-11T02:32:09.772200+00:00'
+  generated_at: '2024-12-12T02:32:10.438211+00:00'
   git:
     branch: main
-    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
-  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
+    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
+  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
 data:
   Yle Radio 1:
     programmes:
@@ -112,11 +112,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-01T17:00:00+02:00'
         end_time: '2025-01-01T17:10:00+02:00'
-      - title: Eilisen ääni
+      - title: 'Eilisen ääni: Luonnonarvokauppaa vuodelta 2007'
         start_time: '2025-01-01T17:10:00+02:00'
         end_time: '2025-01-01T17:35:00+02:00'
-        description: |-
-          Ohjelmia Ylen arkistosta
+        description: |
+          Suomessa oltiin jo 18 vuotta sitten siinä tilanteessa, että Etelä-Suomesta ei löydy enää luonnontilaista metsää, jota voitaisiin suojella. 
+          Jyväskylän yliopiston ekologian ja ympäristöhoidon professori Mikko Mönkkönen johdattaa toimittaja Elisabet Pakarisen Muuramen kunnassa sijaitsevan Kuusimäen suojelualueen halki.
+          Mitä ovat suojelun uudet keinot eli Etelä-Suomen metsien monimuotoisuusohjelmaan kirjatut luonnonarvokauppa ja tarjouskilpailu? Valtio maksaa viulut, mutta kenelle?
+          Ohjelman ensilähetys oli 18.12.2007. 
         series: Eilisen ääni
       - title: Laura Korhosen Jazzklubi
         start_time: '2025-01-01T17:35:00+02:00'

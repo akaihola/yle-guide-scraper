@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-11T02:32:04.600577+00:00'
+  generated_at: '2024-12-12T02:32:04.478444+00:00'
   git:
     branch: main
-    commit: 9bb16d83286b06d44575b7148798d9c5c71e27b3
-  data_hash: 7d4bb851d59cfc20c48feb58b1d656e4c2e31554108c230a44583b5994b1c147
+    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
+  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
 data:
   Yle Radio 1:
     programmes:
@@ -107,12 +107,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2024-12-13T09:05:00+02:00'
         end_time: '2024-12-13T09:58:00+02:00'
+        description: |
+          Sundgren: Muistojeni laulu (Laila Halme).
+          Färnlöf: Farfars vals (Monica Zetterlund).
+          Cohen: Suzanne (Françoise Hardy).
+          Ferré: Col tempo (Patty Pravo).
+          Hartford: Gentle on my mind (Elvis Presley).
+          Jensen: Lätkäheila (Ann Christine).
+          Mackeben: Warum? (Ossi Runne).
+          Lennon/McCartney: Ticket to ride (Carpenters).
+          Olivieri: J'attendrai (Dalida).
+          Carmichael: Winter moon (Hoagy Carmichael).
+          Jobim: O morro nao tem vez (Sergio Mendes).
+          MacColl: The first time ever I saw your face (Roberta Flack).
         series: Muistojen bulevardi
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Suometettu Ukraina?'
         start_time: '2024-12-13T10:00:00+02:00'
         end_time: '2024-12-13T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Eurooppa odottaa Trumpin päätöksiä: millainen on USA:n presidentin käsikirjoitus Ukrainan tulevaisuudelle? Onko Ukrainan tie Natoon suljettu? Miten sodan voitto ja häviö määritellään? Millainen raja tulee syntymään keskelle Eurooppaa? Ohjelmassa keskustellaan Ukrainan ja Venäjän tulevaisuudesta sodan sumussa. Vieraina ovat sotatieteiden dosentti Ilmari  Käihkö ja Ulkopoliittisen Instituutin vanhempi tutkija Jussi Lassila.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-13T10:55:00+02:00'
@@ -168,15 +181,15 @@ data:
         end_time: '2024-12-13T14:50:00+02:00'
         description: |
           Turun Nuoren Teatterin uutena johtajana aloitti tämän vuoden huhtikuussa Suvi Kotilainen. 
-          Kulttuuriala elää, jälleen kerran, suurien myllerrysten aikaa. Niukkuutta jaetaan ja sitä saadaan. Vaikka suoranaisesti kulttuurikentän leikkaukset eivät osu Turun Nuoreen teatteriin, pelkää Kotilainen että jonkinlaisia negatiivisia sivuvaikutuksia sillä saattaa tulevaisuudessa olla.
+          Kulttuuriala elää, jälleen kerran, suurien myllerrysten aikaa. Niukkuutta jaetaan ja sitä saadaan. Vaikka suoranaisesti kulttuurikentän leikkaukset eivät osu Turun Nuoreen teatteriin, pelkää Kotilainen, että jonkinlaisia negatiivisia sivuvaikutuksia sillä saattaa tulevaisuudessa olla.
           Toimittaja Petri Rinne sai kutsun teatterin itsenäisyyspäivän juhliin, joita viettiin tänä vuonna etukenossa 2. päivä joulukuuta.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
-      - title: 'Kielen päällä: Suomen keilen tulevaisuus II'
+      - title: 'Kielen päällä: Suomen kielen tulevaisuus II'
         start_time: '2024-12-13T14:50:00+02:00'
         end_time: '2024-12-13T15:00:00+02:00'
-        description: |-
+        description: |
           Tekoäly saattaa yksipuolistaa suomen kieltä, mutta kehityssuuntaa on vielä vaikea hahmottaa. Käännöskieli, lähinnä englanti, saattaa vaikuttaa suomen kielen rakenteisiin, kuten lauseenvastikkeiden korvautumiseen. 
           Kaunokirjallisuuden lukeminen auttaa lisäämään sanavarastoa ja kehittämään ilmaisumahdollisuuksia. Jopa viidesosalla nuorista on vaikeuksia omaksua riittävän monipuolisesti suomen kieltä tullakseen hyviksi kielen käyttäjiksi. 
           Millaisia näkymiä on suomen kielellä seuraavien sadan vuoden aikana? Vieraana on suomen kielen professori Tiina Onikki-Rantajääskö Helsingin yliopistosta. Toimittajana on Jari Aula.
@@ -210,8 +223,30 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2024-12-13T16:10:00+02:00'
         end_time: '2024-12-13T16:59:59+02:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Corelli: Adagio Concerto grossosta n:o 8 g-molli (Keski-Pohjanmaan kamariorkesteri/Juha Kangas).
+
+          W.A. Mozart: Zaiden aaria "Ruhe sanft, mein holdes Leben" oopp. Zaide (Soile Isokoski, sopraano, ja Tapiola Sinfonietta/Peter Schreier).
+
+          Schumann (sov. Liszt): Joululaulu (Leslie Howard, piano).
+
+          Pohjanmies (sov. Gustafsson): Tule rakkaus ihmisrintaan (Raita Karpo, sopraano, ja soitinyhtye/Kaj-Erik Gustafsson).
+
+          Järnefelt: Berceuse (Seeli Toivio, sello, ja Lily-Marlene Puusepp, harppu).
+
+          Siukonen: Tulo vanhaan kotiin (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano). 
+
+          Pierpont (sov. Breiner): Jingle bells (Tshekkoslovakian valtion FO/Peter Breiner). 
+
+          Brahms: Poco allegretto sinfoniasta n:o 3 F-duuri (Kölnin radion SO/Jukka-Pekka Saraste).
+
+          Ukrainalainen kansansäv. (sov. Barvinski): Halki aikain kaikuu (Cantio Laudis/Olli Heikkilä).
+
+          Sonninen (sov. Kiiski): Jouluhymni (Sinfonia Lahti/Osmo Vänskä).
+
+          Kansansäv.: Entre le boeuf et l'ane gris (Maitrise Saint-Pierre aux Liens/André Corboz).
+
+          Cottrau: Santa Lucia (Beniamino Gigli, tenori, ja ork./John Barbirolli).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-13T17:00:00+02:00'
@@ -255,21 +290,21 @@ data:
         start_time: '2024-12-13T21:05:00+02:00'
         end_time: '2024-12-13T21:34:30+02:00'
         series: Politiikkaradio
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Kirjailijat rannalla'
         start_time: '2024-12-13T21:35:00+02:00'
         end_time: '2024-12-13T22:24:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
       - title: Luomiskertomus Kaj Korkea-aho Äitiä etsimässä
-        start_time: '2024-12-13T22:25:00+02:00'
-        end_time: '2024-12-13T22:47:56+02:00'
+        start_time: '2024-12-13T22:25:11+02:00'
+        end_time: '2024-12-13T22:48:07+02:00'
         description: |
           Kaj Korkea-aho kertoo teoksestaan Äitiä etsimässä. Toimittajana Jarmo Laitaneva. 
         series: Luomiskertomus
       - title: Tuuli Saksalan keidas
-        start_time: '2024-12-13T22:50:00+02:00'
-        end_time: '2024-12-13T23:39:30+02:00'
+        start_time: '2024-12-13T22:49:15+02:00'
+        end_time: '2024-12-13T23:38:55+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas
