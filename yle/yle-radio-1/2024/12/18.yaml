@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:06.100429+00:00'
+  generated_at: '2024-12-14T02:30:13.155309+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -169,11 +169,16 @@ data:
       - title: Yle Uutiset
         start_time: '2024-12-18T15:00:00+02:00'
         end_time: '2024-12-18T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Dingo-mania & Levoton tuhkimo -elokuva'
         start_time: '2024-12-18T15:02:00+02:00'
         end_time: '2024-12-18T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Loppuvuoden odotetuimpia kotimaisia elokuvia, Levoton tuhkimo kertoo 80-luvun suosituimman suomi-rock -yhtye Dingon alkuajan tarinaa ja kuvaa sen nostattamaa Suomessa ennennäkemätöntä fanimaniaa. 
+
+          Miksi porilaisbändistä tuli niin valtava ilmiö, ja millainen oli sen lähtölaukaus? Miten elokuva esittää ajankuvan ja koko bändin tarinan? Mistä jopa hysteerisiä piirteitä saanut fanitus Dingoa kohtaan kumpusi?
+
+          Kulttuuriykkönen saa vieraiksi elokuvan ohjaaja Mari Rantasilan sekä käsikirjoittaja Hanna Leivonniemen. Mukana myös Dingon alkuperäinen ja nykyinen kitaristi Jonttu Virta. Juhani Kenttämaa toimittaa.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-18T15:55:00+02:00'
         end_time: '2024-12-18T15:58:00+02:00'
@@ -213,7 +218,7 @@ data:
         series: Yle Uutiset
       - title: Uutispodcast
         start_time: '2024-12-18T17:10:00+02:00'
-        end_time: '2024-12-18T17:35:00+02:00'
+        end_time: '2024-12-18T17:34:59+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
@@ -247,9 +252,12 @@ data:
       - title: Kansanmusiikin joulu
         start_time: '2024-12-18T19:02:00+02:00'
         end_time: '2024-12-18T20:50:00+02:00'
-        description: |-
-          Ohjelmassa toimittajat Tuuli Saksala ja Miika Lauriala ovat joulutunnelmissa mm. Tampereella. Sieltä on kotoisin Ne Lintuizet -yhtye, joka nauhoitti Ylelle neljä joululaulua soitettavaksi radioiden ohjelmistoissa. Yhtyeen jäsenet ovat Pekko Käppi, Laura Moisio, Kielo Kärkkäinen ja Lauri Myllymäki. Kansanmusiikin joulutervehdyksiä kuullaan sanoin ja sävelin myös eri puolilta Eurooppaa.
+        description: |
+          Juurevaa joulutunnelmaa ja musiikillisia joulukortteja eri puolilta Eurooppaa. Ohjelmassa kuullaan Ne Lintuizet -yhtyeen sovituksia suomalaisista joululauluista sekä Pekko Käpin kaksi uutta joululaulua. Kansanmusiikin joulutervehdyksiä kuullaan sanoin ja sävelin myös eri puolilta Eurooppaa. Ohjelman toimittavat Tuuli Saksala ja Miika Lauriala. 
         series: Etnokonsertteja
+      - title: Musiikkikamari
+        start_time: '2024-12-18T20:50:00+02:00'
+        end_time: '2024-12-18T21:00:00+02:00'
       - title: Yle Uutiset
         start_time: '2024-12-18T21:00:00+02:00'
         end_time: '2024-12-18T21:02:00+02:00'

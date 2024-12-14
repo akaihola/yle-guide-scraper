@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:06.509650+00:00'
+  generated_at: '2024-12-14T02:30:13.379589+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -157,9 +157,10 @@ data:
         series: Yle Uutiset
       - title: 'Arktisten sotien kaiut: Suomi varautuu sissisodankäyntiin'
         start_time: '2024-12-19T12:10:00+02:00'
-        end_time: '2024-12-19T12:55:00+02:00'
+        end_time: '2024-12-19T12:42:00+02:00'
         description: |
           Suomella oli kylmän sodan aikana edessään liuta vaikeita maanpuolustukseen liittyviä ongelmia - vähäisillä resursseilla piti puolustaa laajaa aluetta ylivoimaista vihollista vastaan. Tilanne vaati epätavallisten menetelmien korostamista, kuten sissitoiminnan ja sissisodankäynnin kehittämistä. Vierailijana sotilasprofessori everstiluutnantti Marko Palokangas. Toimittajina Aleksi Rikkinen ja Emil Kastehelmi.
+        series: Arktisten sotien kaiut
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-19T12:55:00+02:00'
         end_time: '2024-12-19T13:00:00+02:00'
@@ -199,7 +200,7 @@ data:
         start_time: '2024-12-19T15:00:00+02:00'
         end_time: '2024-12-19T15:02:00+02:00'
         series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Somen voima kirjabisneksessä'
         start_time: '2024-12-19T15:02:00+02:00'
         end_time: '2024-12-19T15:55:00+02:00'
         description: |
@@ -247,7 +248,7 @@ data:
         series: Yle Uutiset
       - title: Uutispodcast
         start_time: '2024-12-19T17:10:00+02:00'
-        end_time: '2024-12-19T17:35:00+02:00'
+        end_time: '2024-12-19T17:34:59+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
@@ -292,6 +293,10 @@ data:
         description: |
           Äänitetty Essenin Filharmonian salissa 14.12.2023.
         series: Jazzklubi
+      - title: Musiikkikamari
+        start_time: '2024-12-19T20:27:00+02:00'
+        end_time: '2024-12-19T21:00:00+02:00'
+        series: Musiikkikamari
       - title: Yle Uutiset
         start_time: '2024-12-19T21:00:00+02:00'
         end_time: '2024-12-19T21:02:00+02:00'

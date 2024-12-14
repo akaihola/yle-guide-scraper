@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:06.893275+00:00'
+  generated_at: '2024-12-14T02:30:13.587745+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -117,16 +117,16 @@ data:
       - title: Muistojen bulevardi
         start_time: '2024-12-20T09:05:00+02:00'
         end_time: '2024-12-20T09:58:00+02:00'
-        description: |-
+        description: |
           Sundgren: Joulupolkka (Ragni Malmsten).
           Styne: The Christmas waltz (Frank Sinatra).
           Berlin: I've got my love to keep me warm (Ella Fitzgerald).
-          Kansansävelmä: Palapelipossu (Niilo Tarvajärvi, Saukki ja Pikkuoravat).
+          Kansansäv.: Palapelipossu (Niilo Tarvajärvi, Saukki ja Pikkuoravat).
           Hannikainen: Tuikkikaa, oi joulun tähtöset (Club for Five). 
           Maasalo: Joulun kellot (Harmony Sisters).
           Ackermans: Noel des petits santons (Tino Rossi).
           Saffer/Linale: Buon Natale (means merry Christmas to you) (Nat King Cole).
-          Schubert: Ave Maria (Michael Buble).
+          Bach/Gounod: Ave Maria (Michael Bublé).
           Kärki: Tonttu katsoo ikkunasta (Vieno Kekkonen ja Juha Eirto).
           Hayes/Johnson: Blue Christmas (Elvis Presley).
           Häggkvist: Himlen i min famn (Carola Häggkvist).
@@ -154,11 +154,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-20T12:00:00+02:00'
         end_time: '2024-12-20T12:10:00+02:00'
-      - title: Tiedeykkönen Leipomisen kemiaa - taikinan vaivaamista molekyylitasolla
+      - title: Tiedeykkönen Leipomisen kemiaa molekyylitasolla
         start_time: '2024-12-20T12:10:00+02:00'
         end_time: '2024-12-20T13:00:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |-
+          Mitä taikinan vaivaamis-ja kohoamisprosessissa tapahtuu? Millaisia kemiallisia reaktioita paistamisessa syntyy? Miksi hapanjuurileivän leipominen vaatii hitaan ja monimutkaisen prosessin? 
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2024-12-20T13:00:00+02:00'
@@ -211,10 +211,11 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2024-12-20T15:02:00+02:00'
         end_time: '2024-12-20T15:55:00+02:00'
-        description: |-
-          Kulttuuriykkösen Perjantaistudiossa median ja kulttuurin ajankohtaisaiheista sekä arvokysymyksistä ovat keskustelemassa toimittaja Marri Virtanen, liikemies Sami Kuusela ja mainonnan ja markkinoinnin suunnittelija Jussi Turhala.
+        description: |
+          Kulttuuriykkösen vuoden viimeisessä Perjantaistudiossa puidaan vuoden kutkuttavimmat kulttuuriuutiset ja -skandaalit ja arvokiistat. Keskustelemassa ovat toimittaja Marri Virtanen, liikemies Sami Kuusela ja mainonnan ja markkinoinnin suunnittelija Jussi Turhala.
 
-          Puhetta johtaa toimittaja Pauliina Grym. 
+          Puhetta johtaa Pauliina Grym. 
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-20T15:55:00+02:00'
         end_time: '2024-12-20T15:58:00+02:00'
@@ -233,9 +234,10 @@ data:
         end_time: '2024-12-20T17:10:00+02:00'
       - title: Uutispodcast
         start_time: '2024-12-20T17:10:00+02:00'
-        end_time: '2024-12-20T17:35:00+02:00'
+        end_time: '2024-12-20T17:34:59+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Mielimaisema
         start_time: '2024-12-20T17:35:00+02:00'
         end_time: '2024-12-20T18:35:00+02:00'
@@ -244,8 +246,10 @@ data:
       - title: Musiikkihartaus
         start_time: '2024-12-20T18:35:00+02:00'
         end_time: '2024-12-20T19:00:00+02:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Hän on tähdissä, jotka loistavat yömme taivaalla"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus.
+          Vs. kappalainen Visa Viljamaa Helsingistä pohtii tässä musiikkihartaudessa Jumalan inkarnaatiota ja kysyykin, miksi Jumala valitsi tulla ihmiseksi ensimmäisenä jouluna? 
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-20T19:00:00+02:00'
@@ -256,27 +260,18 @@ data:
         description: |
           Esa-Pekka Salonen, kapellimestari, sol. Christoffer Sundqvist, klarinetti. - Esa-Pekka Salonen: Tiu; kinēma, viisi kohtausta klarinetille ja jousiorkesterille. Jean Sibelius: Sinfonia nro 2 D-duuri. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson
         series: Konsertteja
-      - title: Yle Uutiset
-        start_time: '2024-12-20T21:00:00+02:00'
-        end_time: '2024-12-20T21:02:00+02:00'
       - title: Politiikkaradio
-        start_time: '2024-12-20T21:05:00+02:00'
-        end_time: '2024-12-20T21:34:30+02:00'
+        start_time: '2024-12-20T21:30:00+02:00'
+        end_time: '2024-12-20T22:00:00+02:00'
         series: Politiikkaradio
       - title: Kalle Haatanen
-        start_time: '2024-12-20T21:35:00+02:00'
-        end_time: '2024-12-20T22:24:30+02:00'
+        start_time: '2024-12-20T22:00:30+02:00'
+        end_time: '2024-12-20T22:50:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
-      - title: Luomiskertomus
-        start_time: '2024-12-20T22:25:00+02:00'
-        end_time: '2024-12-20T22:49:30+02:00'
-        description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
-        series: Luomiskertomus
       - title: Tuuli Saksalan keidas
-        start_time: '2024-12-20T22:50:00+02:00'
+        start_time: '2024-12-20T22:51:00+02:00'
         end_time: '2024-12-20T23:39:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.

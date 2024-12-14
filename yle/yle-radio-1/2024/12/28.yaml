@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:09.083737+00:00'
+  generated_at: '2024-12-14T02:30:15.433579+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -48,6 +48,7 @@ data:
         end_time: '2024-12-28T08:35:00+02:00'
         description: |-
           Pastori Miika Hämäläinen, Vapaakirkko, Raisio
+        series: Aamuhartaus
       - title: Minne Rinne vie
         start_time: '2024-12-28T08:35:00+02:00'
         end_time: '2024-12-28T08:55:00+02:00'
@@ -132,9 +133,12 @@ data:
         start_time: '2024-12-28T15:22:00+02:00'
         end_time: '2024-12-28T15:30:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Joulupukki, leivonnaiset, käpy – joulun symbolit kertovat juhlan vuosituhansien takaisista juurista'
         start_time: '2024-12-28T15:30:00+02:00'
         end_time: '2024-12-28T15:55:00+02:00'
+        description: |-
+          Taiteentutkija Liisa Väisänen sukeltaa Pasi Heikuran kanssa joulun symbolien historiaan. Ohjelmassa maistellaan myös urheilusivujen sana-akrobatiaa, ja kysytään, mitä kaivamme, kun kaivamme kuvetta.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2024-12-28T15:55:00+02:00'
@@ -148,6 +152,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-28T16:10:00+02:00'
         end_time: '2024-12-28T16:59:59+02:00'
+        description: |-
+          Josef Strauss: Talvi-iloa (Wienin filharmonikot/Lorin Maazel).
+
+          Onorati&Simeone&Davis&Downes (sov. David Downes): The little drummer boy (Celtic Woman ja The Irish Film Orchestra/John Page sekä Aontas Choral Ensemle/Rosemary Collier).
+
+          Parish Alvars: Armenialainen laulu (Gabriella Dall'Olio, harppu).
+
+          Pentti: Lintujen joululaulu (Oulaisten Nuorisokuoro/Tapani Tirilä, sekä Ryyppymäki String Band).
+
+          Kansansäv.: Lintujen laulu (Arve Tellefsen, viulu, ja Trondheimin SO).
+
+          Kansanlaulu: La Virgen lava panales (Jose Carreras, Placido Domingo ja Luciano Pavarotti, tenori, sekä Wienin valtionoopperan lapsikuoro ja Wienin sinfonikot/Steven Mercurio).
+
+          Tshaikovski: Makeishaltijattaren ja prinssin pas de deux baletista Pähkinänsärkijä (Ruotsin radion SO/Jevgeni Svetlanov).
+
+          I. Kuusisto: Tule hiutale (Lahden Musiikkiluokkien Laulupuu-kuoro ja Sinfonia Lahti/Esa Heikkilä).
+
+          Sibelius: Impromptu h-molli (Jussi Makkonen, sello, ja Nazig Azezian, piano).
+
+          Humperdinck: Hannun ja Kertun iltarukous oopp. Hannu ja Kerttu (Renée Fleming, sopraano, Susan Graham, mezzosopraano, ja Lontoon kuninkaallinen FO/Andreas Delfs).
+
+          Delius: Rekiretki (Lontoon kuninkaallinen FO/Thomas Beecham).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-28T17:00:00+02:00'
@@ -178,7 +204,7 @@ data:
         end_time: '2024-12-28T19:02:00+02:00'
       - title: 'Kalevi Aho 75: Saimaa Sinfonietta - Juhlan aika'
         start_time: '2024-12-28T19:02:00+02:00'
-        end_time: '2024-12-28T21:00:00+02:00'
+        end_time: '2024-12-28T20:54:00+02:00'
         description: |
           Saimaa Sinfonietta, Erkki Lasonpalo, kapellimestari, Olli Mustonen, piano. Ludwig van Beethoven: Pianokonsertto nro 3 c-molli. - Kalevi Aho: Sinfonia nro 18 (ke.). Mikkelin Mikaelissa 8.2. äänitetyn konsertin toimittavat Noora Hirn ja Riikka Holopainen.
         series: Konsertteja

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:05.495640+00:00'
+  generated_at: '2024-12-14T02:30:12.723310+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -96,6 +96,14 @@ data:
       - title: Ykkösaamu
         start_time: '2024-12-16T08:10:00+02:00'
         end_time: '2024-12-16T09:00:00+02:00'
+        description: |
+          Minkälaisia pyrkimyksiä eri valtioilla on Syyriassa? Keskustelemassa juuri Syyriasta palannut toimittaja Antti Kuronen, vanhempi tutkija Toni Alaranta Ulkopoliittisesta instituutista ja everstiluutnantti Juha Mäkelä Puolustusvoimien tutkimuslaitokselta.
+
+          EU:n ulkoministerit ovat koolla Brysselissä. EU-kirjeenvaihtaja Hannele Muilu kertoo, mitä kokoukselta odotetaan.
+
+          Vaikka kuluttajahintojen nousu on taittunut ja inflaatio hieman hidastunut, ruuan hinta on edelleen korkealla. Millaista taloudellista ahdinkoa lähestyvä joulu aiheuttaa ja miten ihmiset pärjäävät? Keskustelemassa johtava tutkija Anna-Maria Isola THL:stä sekä yksityistalouden ekonomisti Kaisa Kivipelto Danske Bankista.
+
+          Suomessa ollaan ajamassa alas 3G-verkkoa. Verkon purkamisen on pelätty voivan aiheuttaa vaaratilanteita. Mitä vaikutuksia 3g-verkkojen alasajolla on?  Puhelimessa ylijohtaja Emil Asp Traficomista.
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2024-12-16T09:00:00+02:00'
@@ -124,7 +132,7 @@ data:
         description: |
           Pehmopapereiden historia ja tulevaisuus - vieraana toimitusjohtaja Esa Kaikkonen
         series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kuorolaulun ylistys'
         start_time: '2024-12-16T11:00:00+02:00'
         end_time: '2024-12-16T11:57:00+02:00'
         description: |
@@ -140,15 +148,20 @@ data:
         start_time: '2024-12-16T12:00:00+02:00'
         end_time: '2024-12-16T12:10:00+02:00'
         series: Yle Uutiset
-      - title: 'Elävä historia: Viikinkien viimeinen taistelu'
+      - title: 'Elävä historia: Vilhelm äpärä, Jäniksenkäpälä ja Knuut Suuri - tosielämän Game of Thrones'
         start_time: '2024-12-16T12:10:00+02:00'
         end_time: '2024-12-16T13:00:00+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Keskiajan eeppinen valtataistelu Englannin herruudesta on inspiroinut tarinankertoja vuosisatoja, romaaneista Game of Thrones televisiosarjaan. Tämä on kertomus kilpailevista kuninkaista, merentakaisista armeijoista, veljesvihasta, häistä ja murhista. 
+          Haastateltavana: keskiajan tutkija, dosentti Jaakko Tahkokallio, Helsingin yliopisto
+          Toimittajana Esko Varho. 
+          Äänisuunnittelijana Panu Willman. 
         series: Elävä historia
       - title: Politiikkaradio
         start_time: '2024-12-16T13:00:00+02:00'
         end_time: '2024-12-16T13:30:00+02:00'
+        description: |-
+          Meneekö Israel liian pitkälle iskuissaan Syyriaan? Keskustelemassa kansanedustajat Johannes Koskinen (sd.), Pia Kauma (kok) ja Eva Biaudet (rkp). Toimittajana on Linda Pelkonen. 
         series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-16T13:30:00+02:00'
@@ -187,7 +200,7 @@ data:
       - title: 'Kulttuuriykkönen: Virpi Hämeen-Anttilan Synnyinmaa-sarja vie 1800-luvun lopun ihmisten kohtaloiden äärelle'
         start_time: '2024-12-16T15:02:00+02:00'
         end_time: '2024-12-16T15:55:00+02:00'
-        description: |
+        description: |-
           1920-luvun väkivaltainen ja syntinen Helsinki herää henkiin Virpi Hämeen-Anttilan kirjoittamassa Björk -dekkarisarjassa. Nyt kirjailija on suunnannut katseensa kauemmaksi. Taiteellisia kullankeltaisia maisemia, tuttuja kansallistaiteestamme, vie lukijan uusimmassa Synnyinmaa-sarjassa vielä kauemmaksi Suomen historiassa. Sarastus on sarjan ensimmäinen osa. Romaanin nimi symboloi myös uuden ajan alkua. Kirjassa kohtaamme köyhän torpan pojan ja hänen rakkautensa, vauraan talon tyttären, Briitan. Briitta on kiinnostava henkilö, hän on yllättävän
           moderni ja vapautunut tuon ajan naiseksi, miksi Hämeen-Anttila halusi luoda hänestä noin empansipoituneen? Onko tämä uutta että annetaan vahvempi ääni tänään myös historian naisille fiktiossa? 
 
@@ -198,11 +211,6 @@ data:
           Ohjelman vieraana on kirjailija Virpi Hämeen-Anttila.
 
           Ohjelman juontaa Pia-Maria Lehtola.
-
-
-
-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-16T15:55:00+02:00'
@@ -217,6 +225,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-16T16:10:00+02:00'
         end_time: '2024-12-16T16:59:59+02:00'
+        description: |
+          Grainger (sov.): Maalaispuutarhoja (Birminghamin SO/Simon Rattle).
+
+          Holma: Metsien joulu (Mari Palo, sopraano, ja Mieskuoro Sirkat/Juha Holma).
+
+          Onslow: Adagio jousikvartetosta C-duuri (Ruggieri-kvartetto). 
+
+          Chilcott: The shepherd's carol (Handel and Haydn Society/Harry Christophers).
+
+          C. Schumann: Romanssi pianolle g-molli (Eric Le Sage, fortepiano). 
+
+          Albéniz: La torre bermeja (Tulenpunainen torni) (Rey de la Torre, kitara).
+
+          Backer-Gröndahl: Melodi (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          Bridge: Sir Roger de Coverley (Englantilainen kamariork./Benjamin Britten).
+
+          P.J. Hannikainen: Joulun kellot (Petteri Salomaa, baritoni, ja Ilkka Paananen, piano).
+
+          Beethoven: Rondo sekstetosta puhaltimille Es-duuri (Mozzafiato).
+
+          Ravel/Onorati/Simeone/Davis: Little bolero boy (Skotlannin kansallisork./Christopher Bell).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-16T17:00:00+02:00'
@@ -224,9 +254,9 @@ data:
         series: Yle Uutiset
       - title: Uutispodcast
         start_time: '2024-12-16T17:10:00+02:00'
-        end_time: '2024-12-16T17:35:00+02:00'
+        end_time: '2024-12-16T17:34:59+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          "Vuoden aikana on tapahtunut paljon asioita, jotka on mennyt eri tavalla kuin mä ajattelin ja ehkä osasin odottaa". Näin summaa ajatuksiaan Lähi-idän asiantuntijana tunnettu vanhempi tutkija Timo R. Stewart Ulkopoliittisesta instituutista. Hänen mukaansa on turhauttavaa olla Israel-Palestiina-konfliktin tutkijana tällä hetkellä. Samalla hän pohtii, mitä tutkijalta julkisuudessa odotetaan ja missä määrin tutkijan omat tunteet voivat olla työssä mukana. Juontajana Reetta Rönkä.
         series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Folk ja trad lämmittävät takkatuvassa'
         start_time: '2024-12-16T17:35:00+02:00'

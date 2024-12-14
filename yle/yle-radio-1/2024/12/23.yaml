@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:07.761863+00:00'
+  generated_at: '2024-12-14T02:30:14.269761+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -102,15 +102,15 @@ data:
       - title: Muistojen bulevardi
         start_time: '2024-12-23T09:05:00+02:00'
         end_time: '2024-12-23T09:58:00+02:00'
-        description: |2
-
-          Coots - Nelson - Anderson (sov. Saukki): Pikkuoravien joulupotkuri (Saukki ja Pikkuoravat). 
+        description: |
+          Coots/Nelson/Anderson: Pikkuoravien joulupotkuri (Saukki ja Pikkuoravat). 
           Petty: Christmas all over again (Tom Petty). 
           Martinet: Petit papa noel (Tino Rossi).
           Goodman: Kop kop kop (Irwin Goodman).
-          Nelson-Rollins: Frosty the snowman (The Ronettes).
+          Nelson/Rollins: Frosty the Snowman (The Ronettes).
           Finer: Fairytale of New York (Kirsty MacColl ja The Pogues).
-          Arefeldt: Nu är julen åter här (Alice Babs)
+          Arefeldt: Nu är julen åter här (Alice Babs).
+          Maasalo: Joulun kellot (Harmony Sisters).
           Feliciano: Feliz navidad (Laura Pausini).
           Naseva: Joulupukki tonttuilee (Juha 'Watt' Vainio).
           Salo: Hajamielinen joulupukki (Anna ja Kirka).
@@ -176,11 +176,11 @@ data:
 
           Schelle: Ehre sei Gott in der Höhe (Kunnia Jumalalle korkeuksissa), joulukantaatti (Monika Mauch, sopraano, Myriam  Arbouz, sopraano, Marian Dijkhuizen, altto, Georg Poplutz, tenori, Jakob Pilgram, tenori, ja Raimonds Spogis, basso, sekä Concerto Palatino ja Kölner Akademie sekä kuoro/Michael Alexander Willens).
         series: Klassinen kattaus
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Hannu Väisäsen kirjassa sisarukset kokoontuvat perhesalaisuuksien äärelle'
         start_time: '2024-12-23T14:30:00+02:00'
         end_time: '2024-12-23T14:55:00+02:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Muistisairaus voi viedä muistin ja mielikuvituksen, mutta voiko läheinen palauttaa ne edes hetkeksi? Hannu Väisäsen Viisikko -romaani osallistuu myös keskusteluun vanhusten hoidosta. Luomiskertomus palaa kirjan syntyhetkiin ja kirjoitusprosessin äärelle. Toimittajana Jonni Roos,
         series: Luomiskertomus
       - title: Yle Uutiset
         start_time: '2024-12-23T15:00:00+02:00'
@@ -212,7 +212,7 @@ data:
         series: Yle Uutiset
       - title: Uutispodcast
         start_time: '2024-12-23T17:10:00+02:00'
-        end_time: '2024-12-23T17:35:00+02:00'
+        end_time: '2024-12-23T17:34:59+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
@@ -250,6 +250,7 @@ data:
       - title: Joululahjavalvojaiset Iiro Rantalan seurassa
         start_time: '2024-12-23T21:02:00+02:00'
         end_time: '2024-12-23T22:00:00+02:00'
+        series: Joululahjavalvojaiset Iiro Rantalan seurassa
       - title: KC Kirjat
         start_time: '2024-12-23T22:00:30+02:00'
         end_time: '2024-12-23T22:30:00+02:00'

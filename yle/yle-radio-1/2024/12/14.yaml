@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:04.861724+00:00'
+  generated_at: '2024-12-14T02:30:12.168464+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -31,6 +31,14 @@ data:
 
           06:13 Arne: Triosonaatti n:o 1 A-duuri op.3/1 (Collegium Musicum 90).
         series: Syventävää klassista
+      - title: Aamuklassinen
+        start_time: '2024-12-14T06:30:00+02:00'
+        end_time: '2024-12-14T07:00:00+02:00'
+        description: |-
+          C.P.E. Bach: Auf schicke dich (Barbara Schlick, sopraano, Hilke Helling, altto, Wilfried Jochens, tenori, ja Gotthold Schwarz, basso, sekä  Rheinische Kantorei ja Das Kleine Konzert/Hermann Max).
+
+          Distler: Es ist ein Ros entsprungen teoksesta Die Weihnachtsgeschichte (Chanticleer/Joseph Jennings ja Dawn Upshaw, sopraano).
+        series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2024-12-14T07:00:00+02:00'
         end_time: '2024-12-14T07:02:05+02:00'
@@ -48,7 +56,7 @@ data:
 
         series: Elävä historia
       - title: Yksi on hyvää seuraa
-        start_time: '2024-12-14T07:53:00+02:00'
+        start_time: '2024-12-14T07:51:56+02:00'
         end_time: '2024-12-14T08:00:00+02:00'
         series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
@@ -150,6 +158,12 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2024-12-14T12:05:00+02:00'
         end_time: '2024-12-14T12:30:00+02:00'
+        description: |-
+          Syyriassa on eletty nyt noin viikko Assadin hirmuhallinnon jälkeistä aikaa.
+          Vallankaapannut islamistinen HTS on antanut sovittelevia, Syyrian moninaisuutta korostavia lausuntoja. Miltä näyttää Syyrian tulevaisuus Assadin jälkeen?
+
+          Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa.
+          Sen ovat toimittaneet Heikki Heiskanen, Erja Tuomaala ja Paula Vilén. Äänitarkkailijana on Juha Hjelm.
         series: Maailmanpolitiikan arkipäivää
       - title: "Sanna Marin - miljoonat seuraa Supernova räjähtää\t"
         start_time: '2024-12-14T12:30:00+02:00'
@@ -212,6 +226,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-14T16:10:00+02:00'
         end_time: '2024-12-14T16:59:59+02:00'
+        description: |-
+          Curtis: Christmas spirit (Skotlannin kansallisork./Christopher Bell). 
+
+          Ryba: Oi ihana satakieli (Magdalena Kozená, mezzosopraano, ja Capella Regia Musicalis/Robert Hugo).
+
+          G. Holst: Marssi kok. Kolme kappaletta oboelle ja jousikvartetille (Ensemble Arabesques).
+
+          Stokowski (sov.): Traditional Slavic Christmas music (Bournemouthin SO/Jose Serebrier).  
+
+          Tshaikovski: Joulukuu pianosarj. Vuodenajat (Olli Mustonen, piano).
+
+          T. Kuusisto: December (Joulukuu) laulusarj. Kalendarium (Laulu-Miehet/Matti Hyökki).
+
+          Saint-Saëns: Preludi Jouluoratoriosta (Michael-Christfried Winkler, urut, sekä Dresdenin FO/Martin Flämig).
+
+          Albéniz: Kuuba (David Russell, kitara).
+
+          Dring: Blow, blow thou winter wind (Stanford Olsen, tenori, ja Timothy Hoekman, piano).
+
+          J. Parry: Sonaatti harpulle n:o 2 (Judy Loman).
+
+          F. Kern: Einleitung - Giocoso teoksesta Vier Stücke für Bläserquintett (Neljä kappaletta puhallinkvintetille) (Mihi Kim, huilu, Philippe Gonzalez, oboe, Emmanuel Chaussade, klarinetti, Luc Loubry, fagotti, sekä Ivo Hadermann, käyrätorvi).
+
+          Fabritius: Ainoa hetki (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-14T17:00:00+02:00'
@@ -229,13 +267,14 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-14T18:01:00+02:00'
         end_time: '2024-12-14T18:10:00+02:00'
-        description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+        description: |
+          "Hän sai siunauksen"
+          Lauantai-illan rukoushetkessä Oulun hiippakuntadekaani Juha Rauhala lukee psalmista 71 ja palaa muistoissa erääseen jouluun eteläisessä Afrikassa.
         series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2024-12-14T18:10:00+02:00'
         end_time: '2024-12-14T19:00:00+02:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
         series: Lauantain toivotut levyt
       - title: Yle Uutiset ja sää
@@ -252,24 +291,36 @@ data:
         start_time: '2024-12-14T21:00:00+02:00'
         end_time: '2024-12-14T21:02:00+02:00'
         series: Yle Uutiset
-      - title: Uutispodcast
+      - title: 'Uutispodcast: “Ei Eurooppaan noin vain tulla” – kova puhe syyrialaispakolaisista alkoi heti'
         start_time: '2024-12-14T21:05:00+02:00'
-        end_time: '2024-12-14T21:29:30+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        end_time: '2024-12-14T21:28:45+02:00'
+        description: |-
+          Euroopassa alettiin puhua pakolaisista lähes samantien, kun vallankumous Syyriassa oli tapahtunut. Miltä eurooppalaisten maiden suhtautuminen pakolaisiin näyttää ja miten pakolaispolitiikka on muuttunut sitten vuoden 2015 pakolaiskriisin? Reetta Röngän vieraana on Ulkopoliittisen instituutin vanhempi tutkija Saila Heinikoski.
         series: Uutispodcast
       - title: Ahdin mielimaisema
-        start_time: '2024-12-14T21:30:00+02:00'
-        end_time: '2024-12-14T22:28:36+02:00'
+        start_time: '2024-12-14T21:29:43+02:00'
+        end_time: '2024-12-14T22:28:19+02:00'
         description: |
           Mielimaisema täyttyy tällä kertaa jouluisella musiikilla, kun tuttuakin tutummista joululauluista kuunnellaan kaksi erilaista versiota. Ohjelmassa saadaan vastaus mm. siihen, miltä suomalaisten rakastama “Tonttu” kuulostaa ruotsalaisena sävellyksenä, tai miltä “Kulkuset” ja “Heinillä härkien kaukalon” kuulostivat ennen kuin ne aikanaan saapuivat Suomeen. Ohjelman toimittaa Ahti Paunu.
         series: Mielimaisema
       - title: 'Keinuva talo - Mika Kauhanen: Parno Grasz nelistää, Amparo paljastaa sielunsa'
-        start_time: '2024-12-14T22:30:00+02:00'
-        end_time: '2024-12-14T23:29:04+02:00'
+        start_time: '2024-12-14T22:29:18+02:00'
+        end_time: '2024-12-14T23:28:22+02:00'
         description: |
           Parhailta uusilta etnolevyiltä pystyy ammentamaan niin vauhtia kuin koskettavuutta. Monien albumien teemoista voi huomata kaipuuta kaikkeen siihen vanhaan hyvään, joka uhkaa meiltä kadota. Parno Graszin akustinen romanisvengi saa olemukseen eloa. Ranskalainen Les Mecanos vaatii pysäyttämään koneet. Amparo Sanchez löytää sisältään voiman laulamalla. Kotimainen Ne Lintuizet haluaa pysyä boksien ulkopuolella. Gjermund Larsen Trio äänitti häkellyttävän kauniin joulukappaleen. Toimittajana Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
+      - title: Radio 1 soi
+        start_time: '2024-12-14T23:28:22+02:00'
+        end_time: '2024-12-14T23:33:07+02:00'
+        description: |-
+          Melartin: Cantilene (Arto Noras, sello, ja Tapani Valsta, piano).
+        series: Radio 1 soi
+      - title: 'Eilisen ääni: Jouluista ekoaskartelua'
+        start_time: '2024-12-14T23:33:55+02:00'
+        end_time: '2024-12-14T23:39:38+02:00'
+        description: |
+          Sampo Mäkelä kävi vuonna 2004 tapaamassa ekotaiteilija Raija Puukkoa jouluisen askartelun merkeissä.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2024-12-14T23:40:00+02:00'
         end_time: '2024-12-15T07:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-12T02:32:05.720150+00:00'
+  generated_at: '2024-12-14T02:30:12.942980+00:00'
   git:
     branch: main
-    commit: 459546f1b9d5b4d5cc3b2259b4e9db7f1dfb7ca8
-  data_hash: 3dd442cf8aefdce111040265cc98f6b44d3d418e7b5bccb4dc5fff1a7c0cf5b8
+    commit: 2f88a310cc54250e4a83b03c18e39ddfc61ae904
+  data_hash: ee6229161498b0e7b72d4aeb8f6183ba49d41ac87e50955d772044f152a0c1a1
 data:
   Yle Radio 1:
     programmes:
@@ -129,11 +129,38 @@ data:
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Keskitalvella'
         start_time: '2024-12-17T11:00:00+02:00'
         end_time: '2024-12-17T11:57:00+02:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Keskitalvi on kaamoksen ja lumen aikaa. Se voi olla rauhaisa ja kirkas, mutta myös vertauskuva kuolemalle ja sodalle. Keskitalvella puhkeaa symbolinen ruusu, joka meillä on tunnettu valkokyyhkynä. Tätä kaikkea ja myös omenia ja siideriä kuulostellaan talvisessa Klasariparatiisissa. 
+          Eva Tigerstedt avaa polkuja musiikkiin..
+
+          Ohjelman musiikit:
+
+          Saksalainen kansanlaulu (sov. Bo Wiget): Ach, bittrer Winter (Ah, ankaraa talvea) (Lautten Compagney/Wolfgang Katschner).
+
+          Francis Poulenc: Un Soir de neige (Luminen ilta) Paul Eluardin runoihin 
+          1. Des grandes cuillers de neige (Suuria lumipaakkuja)
+          2. La bonne neige (Paljon lunta)
+          3. Bois meurtri (Runneltu metsä)
+          4. La nuit le froid la solitude (Yö kylmyys yksinäisyys) 
+          (Tenebrae-kuoro/ Nigel Short).
+
+          Kaija Saariaho, san. Scardanelli pseud. Friedrich Hölderlin: Der Winter (Talvi) teoksesta Tag des Jahrs (Helsingin kamarikuoro/Nils Schweckendiek, sekä Timo Kurkikangas, elektroniikka).
+
+          Erik Bergman: Keskitalvi, teoksesta Lapponia (Viron filharmonian kamarikuoro/Paul Hillier).
+
+          Michael Praetorius/Melchior Vulpius: Es ist ein Ros entsprungen (Stile Antico)
+
+          Michael Praetorius, sov: Tuo armon valkokyyhky (käännös Huugo Jalkanen) (Kamarikuoro Kaamos/Dani Juris). 
+
+          Alex Freeman: Carols for Yuletide 
+          1. Chanticleer (Devonshire wassail) 
+          2. Four thousand winters 
+          3. Coventry carol 
+          4. A wassail, a wassail throughout this town
+          (Hämäläis-osakunnan laulajat/Esko Kallio).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-17T11:57:00+02:00'
@@ -145,11 +172,11 @@ data:
         start_time: '2024-12-17T12:00:00+02:00'
         end_time: '2024-12-17T12:10:00+02:00'
         series: Yle Uutiset
-      - title: 'Tiedeykkönen: CERN'
+      - title: 'Tiedeykkönen: CERNin suomalaistutkijat kertovat, mitä pitäisi tietää alkeishiukkasista - ja miksi'
         start_time: '2024-12-17T12:10:00+02:00'
         end_time: '2024-12-17T13:00:00+02:00'
-        description: |2+
-
+        description: |
+          Mitä pitäisi tietää alkeishiukkaisista, maailman suurimmasta hiukkaskiihdyttimisestä LHC:stä sekä Higgsin bosonista. Millaista on alkeishiukkasten tutkiminen käytännössä ja miten niitä havaitaan nyt ja tulevaisuudessa? Haastateltavina CERNin hiukkasfyysikot Jaana Heikkilä ja Kati Lassila-Perrini. Toimittajana Jari Mäkinen. 
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2024-12-17T13:00:00+02:00'
@@ -185,11 +212,11 @@ data:
         start_time: '2024-12-17T15:00:00+02:00'
         end_time: '2024-12-17T15:02:00+02:00'
         series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Timo K. Mukka kirjoitti ja eli kiihkeästi - ja paloi nuorena loppuun'
         start_time: '2024-12-17T15:02:00+02:00'
         end_time: '2024-12-17T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kirjailija Timo K. Mukka syntyi evakkomatkalla Ruotsissa 17.12.1944, tasan 80 vuotta sitten. Köyhän pellolaisen perheen poika kyseli jo 13-vuotiaana kustantamosta, otetaanko käsinkirjoitettuja kirjoja vastaan. Poikaa askarrutti, voiko köyhästä tulla kirjailija. Esikoisromaani Maa on syntinen laulu julkaistiin, kun Mukka oli 19-vuotias. Hänestä tuli saman tien tunnettu, kohuttu ja parjattu ihminen. Mukan kanssa samoilta seuduilta kotoisin oleva kirjailija Sini Silveri on kirjoittanut elämäkerran Miltä männystä tuntuu olla mänty - Timo K. Mukan elämä. Tuula Viitaniemi haastattelee.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-17T15:55:00+02:00'
@@ -211,16 +238,32 @@ data:
         series: Yle Uutiset
       - title: Uutispodcast
         start_time: '2024-12-17T17:10:00+02:00'
-        end_time: '2024-12-17T17:35:00+02:00'
+        end_time: '2024-12-17T17:34:59+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-17T17:35:00+02:00'
         end_time: '2024-12-17T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Yksi tapa valmistautua jouluun, on katsoa jouluelokuvia ja -sarjoja. Mutta mitä sitä katsoisi? Kissankehdossa tarjolla on muutama ehdotus, joissa on myös hieno ääniraita.
+          Lisäksi ainakin kahta tarinaa yhdistää samankaltainen päähenkilö; se lätäköstä nostetun koiranpennun näköinen hahmo. Black doves sarjassa se heiluu pyssyn kanssa niin että veri lentää, Holdovers elokuvassa puolestaan se joutuu viettämään joulua koulussaan yhdessä ankean opettajansa kanssa. Heidän lisäkseen tavataan myös pieni tyttö joka haluaa kuunnella yhä uudestaan Markku Aroa. 
+          Mutta ihan aluksi pohditaan hieman väriasioita.
 
+          Say She She: Purple snowflakes
+          Topi Saha: Purppurakuu
+          Markku Aro: Etsin kunnes löydän sun
+          Father John Misty: Josh Tillman and the accidental dose
+          Labi Siffre: Crying, laughing, loving, lying
+          Sir Liselot: Poika naapurin
+          Nancy Wilson: You don't know how glad I am
+          Leon Redbone: When you wish upon a star
+          The Moontwins: All I want is you
+          Ne Lintuizet: Tonttu (Ylen kantanauha)
+          Fleet foxes: White winter hymnal
+
+
+          ---
         series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2024-12-17T18:35:00+02:00'
@@ -237,8 +280,9 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-17T18:50:00+02:00'
         end_time: '2024-12-17T19:00:00+02:00'
-        description: |-
-          Arkkipiispa Leo, Ortodoksinen kirkko, Helsinki
+        description: |
+          "Nuori neitsyt, keski-ikäinen puuseppä ja Jumalan poika"
+          Arkkipiispa Leo, Ortodoksinen kirkko, Helsinki puhuu ehdottoman rakkauden voimasta ja erilaisuuden siunauksesta.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-17T19:00:00+02:00'
@@ -269,9 +313,13 @@ data:
           Muusikot: Jarmo Julkunen (mandoliini), Max Savikangas (alttoviulu), Malla Vivolin (huilu)
           Thesleffin kirjeiden suomennos: Hanna-Reetta Schreck
           Tuottaja: Laura Jaakkola, Yle Draama 2021.
-      - title: Eilisen ääni
+      - title: 'Eilisen ääni: Kirjailija Anni Swanin joulu'
         start_time: '2024-12-17T19:47:00+02:00'
         end_time: '2024-12-17T20:00:00+02:00'
+        description: |-
+          Eilisen äänessä Anni Swanin ja Otto Mannisen poika Antero Manninen muistelee lapsuutensa jouluja.
+          Anni Swanin joulunalustouhuja muistelee myös filosofian maisteri Katri Manninen.
+          Jutun alustaa tuttu ääni vuosien takaa eli Esko Riihelä.
         series: Eilisen ääni
       - title: Romano mirits
         start_time: '2024-12-17T20:00:00+02:00'
@@ -289,6 +337,12 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2024-12-17T20:35:00+02:00'
         end_time: '2024-12-17T21:00:00+02:00'
+        description: |-
+          Syyriassa on eletty nyt noin viikko Assadin hirmuhallinnon jälkeistä aikaa.
+          Vallankaapannut islamistinen HTS on antanut sovittelevia, Syyrian moninaisuutta korostavia lausuntoja. Miltä näyttää Syyrian tulevaisuus Assadin jälkeen?
+
+          Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa.
+          Sen ovat toimittaneet Heikki Heiskanen, Erja Tuomaala ja Paula Vilén. Äänitarkkailijana on Juha Hjelm.
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2024-12-17T21:00:00+02:00'
