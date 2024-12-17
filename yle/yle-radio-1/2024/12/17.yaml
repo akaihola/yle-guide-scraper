@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-16T02:33:20.777938+00:00'
+  generated_at: '2024-12-17T02:31:49.011611+00:00'
   git:
     branch: main
-    commit: d71f5901243656f51441aec8b266427ceaf735d8
-  data_hash: 9855989c145fe20ba66fab213f2197a1e52058f9bb01f27d46db289330a85fb7
+    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
+  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
 data:
   Yle Radio 1:
     programmes:
@@ -100,6 +100,19 @@ data:
       - title: Ykkösaamu
         start_time: '2024-12-17T08:10:00+02:00'
         end_time: '2024-12-17T09:00:00+02:00'
+        description: |-
+          8.11 Sairaalaverkosta äänestetään tänään. Miksi yöpäivystyksestä muotoitui niin hankala poliittinen vyyhti. Studiossa keskustelemassa Markku Jokisipilä sekä toimitusjohtaja Karina Jutila E2-tutkimuksesta. 
+
+          8.29 Puolustusyhteistyötä tekevien JEF-maiden johtajat kokoontuvat Tallinnassa. Nato-erikoistoimittaja Maria Stenroos raportoi. 
+
+          8.33 Tämän vuoden Lucia-neito on saanut osakseen niin paljon rasistisia vihaviestejä. Miksei rasismia saada kitkettyä Suomesta? Keskustelemassa Robin Harms Yhdenvertaisuusvaltuutetun toimistosta sekä tutkija Shadia Rask. 
+
+          8.50 Ruotsia vaivaa poliisipula. Kirjeenvaihtaja Jenny Matikainen raportoi. 
+
+          8.53 Ahdistuneisuushäiriöt ovat nousseet yleisimmäksi pidemmän sairauspoissaolon syyksi julkisella alalla, selviää Kevan tutkimuksessa. Haastateltavana Petra Sohlmann Kevasta. 
+
+          Juontajana Mira Stenström. Toimittajana Anna Lehmusvesi. 
+          Tuottajana Marija Skara. 
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2024-12-17T09:00:00+02:00'
@@ -178,9 +191,11 @@ data:
         description: |
           Mitä pitäisi tietää alkeishiukkaisista, maailman suurimmasta hiukkaskiihdyttimisestä LHC:stä sekä Higgsin bosonista. Millaista on alkeishiukkasten tutkiminen käytännössä ja miten niitä havaitaan nyt ja tulevaisuudessa? Haastateltavina CERNin hiukkasfyysikot Jaana Heikkilä ja Kati Lassila-Perrini. Toimittajana Jari Mäkinen. 
         series: Tiedeykkönen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Repiikö sairaalaäänestys hallituksen rivit?'
         start_time: '2024-12-17T13:00:00+02:00'
         end_time: '2024-12-17T13:30:00+02:00'
+        description: |
+          Kolmen suurimman puolueen ryhmäjohto kommentoi Politiikkaradiossa heti tuoreeltaan eduskunnan äänestystä sairaalaverkon supistuksista. Studiossa ovat eduskuntaryhmien puheenjohtajat Jani Mäkelä perussuomalaisista ja Tytti Tuppurainen SDP:stä ja varapuheenjohtaja Sinuhe Wallinheimo kokoomuksesta. Toimittajana on Antti Pilke. Suora lähetys.
         series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-17T13:30:00+02:00'
@@ -231,7 +246,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-17T16:10:00+02:00'
         end_time: '2024-12-17T16:59:59+02:00'
-        description: |-
+        description: |
           Humperdinck: Joulu-uni eli alkusoitto näyt. Sininen lintu (Bambergin sinfonikot/Karl Anton Rickenbacher).
 
           Sibelius (sov. I. Kuusisto): Jo joutuu ilta (Jorma Hynninen, baritoni, ja ork./Ilkka Kuusisto).
@@ -240,7 +255,7 @@ data:
 
           Holst: In the bleak mid-winter (Theatre of Voices/Paul Hillier). 
 
-          J. Kuusisto ja P. Kuusisto (sov.): Joulumielinen potpuri (Jaakko ja Pekka Kuusisto, viulu).
+          J. Kuusisto - P. Kuusisto (sov.): Joulumielinen potpuri (Jaakko ja Pekka Kuusisto, viulu).
 
           Ojanperä: Jumala kuiskaa joulun (Sibelius-lukion kamarikuoro/Marjukka Riihimäki, ja Milja Paasonen, laulu).
 
@@ -262,7 +277,7 @@ data:
         start_time: '2024-12-17T17:10:00+02:00'
         end_time: '2024-12-17T17:34:59+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Rovaniemelle odotetaan taas ennätyksellistä matkailutalvea, mutta samalla lieveilmiöt kasvavat. Taskuvarkaat, lyhytvuokraus ja taksien hinnat ovat tämän talven puheenaiheita. Milloin matkailu on kasvanut liian isoksi? Vieraana Yle Lapin toimittaja Eeva Kuivas. Juontajana Erkka Mikkonen.
         series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-17T17:35:00+02:00'
@@ -373,11 +388,11 @@ data:
         start_time: '2024-12-17T21:05:00+02:00'
         end_time: '2024-12-17T21:34:30+02:00'
         series: Politiikkaradio
-      - title: Miia Krause
+      - title: 'Miia Krause: Wilma Schlizewski: 80-luvulla oli ihan normaalia että pomo tarrasi perseestä'
         start_time: '2024-12-17T22:30:00+02:00'
-        end_time: '2024-12-17T23:16:30+02:00'
+        end_time: '2024-12-17T23:16:45+02:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Wilma Schlizewski: "Törmäilin lasikattoihin ja herrakerhoihin vaikka kuinka. Yksikin mainostoimistopomo huvitteli räpsäyttelemällä naisten rintsikoita. Ihan koulumeininki."
         series: Miia Krause
       - title: Yöklassinen
         start_time: '2024-12-17T23:40:00+02:00'

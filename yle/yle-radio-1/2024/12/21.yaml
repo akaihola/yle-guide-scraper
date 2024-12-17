@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-16T02:33:22.594188+00:00'
+  generated_at: '2024-12-17T02:31:50.256848+00:00'
   git:
     branch: main
-    commit: d71f5901243656f51441aec8b266427ceaf735d8
-  data_hash: 9855989c145fe20ba66fab213f2197a1e52058f9bb01f27d46db289330a85fb7
+    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
+  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
 data:
   Yle Radio 1:
     programmes:
@@ -137,6 +137,9 @@ data:
       - title: Musiikkikamari
         start_time: '2024-12-21T12:05:00+02:00'
         end_time: '2024-12-21T12:20:00+02:00'
+        description: |-
+          W.A. Mozart (sov. Triebensee): Sarja oopp. Don Giovanni kohtauksista (Budapestin puhallinyhtye).
+        series: Musiikkikamari
       - title: 'Guruja & Asanoita: Hyvät ja pahat gurut - mihin joogi tarvitsee gurua?'
         start_time: '2024-12-21T12:20:00+02:00'
         end_time: '2024-12-21T12:57:00+02:00'
@@ -189,12 +192,12 @@ data:
         start_time: '2024-12-21T15:29:00+02:00'
         end_time: '2024-12-21T15:30:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Betlehemin tähti liittää joulun Lähi-Idän pakanallisiin uskontoperinteisiin'
         start_time: '2024-12-21T15:30:00+02:00'
         end_time: '2024-12-21T15:55:00+02:00'
         description: |
           Pasi Heikura selvittää, mikä oli Raamatun kertomusten joulun tähti ja keitä olivat itäisen maan tietäjät. Ohjelman vieraana tietokirjailija, teologian tohtori Pekka Särkiö. 
-          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. Ohjelma on uusinta.
         series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2024-12-21T15:55:00+02:00'
@@ -244,8 +247,9 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-21T18:01:00+02:00'
         end_time: '2024-12-21T18:10:00+02:00'
-        description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+        description: |
+          "Rukouksen paikka löytyy läheltä"
+          Lauantai-illan rukoushetkessä Oulun hiippakuntadekaani Juha Rauhala muistelee lämmöllä saaristolaiselämää ja joulua Ahvenanmaalla.
         series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2024-12-21T18:10:00+02:00'

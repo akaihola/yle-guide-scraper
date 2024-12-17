@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-16T02:33:28.607770+00:00'
+  generated_at: '2024-12-17T02:31:55.277165+00:00'
   git:
     branch: main
-    commit: d71f5901243656f51441aec8b266427ceaf735d8
-  data_hash: 9855989c145fe20ba66fab213f2197a1e52058f9bb01f27d46db289330a85fb7
+    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
+  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-07T07:10:00+02:00'
         end_time: '2025-01-07T07:59:59+02:00'
+        description: |-
+          J.S. Bach: Allemande Ranskalaisesta sarjasta n:o 6 E-duuri (Murray Perahia, piano).
+
+          Madetoja: Talviaamu (Sauli Tiilikainen, baritoni, ja Ilmo Ranta, piano).
+
+          Sibelius: Valse chevaleresque (Sinfonia Lahti/Osmo Vänskä).
+
+          Schumann: Unelmointia (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          Tshaikovski: Tammikuu sarjasta Vuodenajat (Yefim Bronfman, piano).
+
+          J. Haydn: Adagio - Allegro sinfoniasta n:o 6 D-duuri (Aamu) (Freiburgin barokkiorkesteri).
+
+          Mertz: Malvinalle (Richard Savino, kitara).
+
+          Price: Fantasia viululle ja pianolle n:o 2 (Randall Goosby ja Zhu Wang).
+
+          Kuula: Eteläpohjalainen tanssi nro 2 (RSO/Kari Tikka).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T08:00:00+02:00'
         end_time: '2025-01-07T08:10:00+02:00'
@@ -54,6 +73,7 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-07T11:57:00+02:00'
         end_time: '2025-01-07T12:00:00+02:00'
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T12:00:00+02:00'
         end_time: '2025-01-07T12:10:00+02:00'
@@ -129,8 +149,11 @@ data:
       - title: Romano mirits
         start_time: '2025-01-07T20:20:00+02:00'
         end_time: '2025-01-07T20:35:00+02:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Robert Berg asuu perheensä kanssa Riihimäellä. Siellä hän on viettänyt suurimman osan elämästään, mutta Suomen kansalaisuuden hän sai kuitenkin vasta hiljattain. Mistä moinen asetelma ja miksi Robert tunnettiin vielä hiljattain ruotsalaisissa asiapapereissa Robert Hagertina? Robert Berg kertoo romanisuku-sarjan ohjelmassa elämästään ja Hagertin suvun historiasta. 
+          Toimittaja on Jaakko Laakso.
+
+        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-07T20:35:00+02:00'
         end_time: '2025-01-07T21:00:00+02:00'

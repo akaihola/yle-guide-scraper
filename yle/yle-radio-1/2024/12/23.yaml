@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-16T02:33:23.362071+00:00'
+  generated_at: '2024-12-17T02:31:50.854787+00:00'
   git:
     branch: main
-    commit: d71f5901243656f51441aec8b266427ceaf735d8
-  data_hash: 9855989c145fe20ba66fab213f2197a1e52058f9bb01f27d46db289330a85fb7
+    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
+  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
 data:
   Yle Radio 1:
     programmes:
@@ -118,11 +118,11 @@ data:
           Carmichael: Winter moon (Hoagy Carmichael).
           Gruber: 7 o'clock news - Silent night (Simon and Garfunkel).
         series: Muistojen bulevardi
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Siivouksen historiaa ja nykypäivää '
         start_time: '2024-12-23T10:00:00+02:00'
         end_time: '2024-12-23T10:50:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Siivouksen historiasta ja nykypäivästä - vieraana lehtori Leila Kakko
         series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2024-12-23T11:00:00+02:00'
@@ -186,11 +186,13 @@ data:
         start_time: '2024-12-23T15:00:00+02:00'
         end_time: '2024-12-23T15:02:00+02:00'
         series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Nosferatu - Eggerssin tuore näkemys Stokerin ja Murnaun kauhuikonista'
         start_time: '2024-12-23T15:02:00+02:00'
         end_time: '2024-12-23T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Kreivi Dracula tulee taas! Miten aikamme arvostetuin kauhuohjaaja Robert Eggers näkee Bram Stokerin klassikkoteoksen tarinan, ja miten se poikkeaa 1922 vuoden F. W. Murnaun ensifilmatiosoinnista? Miten vuoden 1979 Werner Hertzogin tai vuoden 1992 Francis Ford Coppolan adaptaatiot poikkeavat uusimmasta? Kuinka hyvin uusi versio perustelee paikkansa Dracula-elokuvakaanonissa?
+
+          Kulttuuriykkönen saa vieraakseen kirjailija Tiina Raevaaran sekä toimittaja-tietokirjailija Matti Rämön. Juhani Kenttämaa toimittaa.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2024-12-23T15:55:00+02:00'
@@ -205,6 +207,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-23T16:10:00+02:00'
         end_time: '2024-12-23T16:59:59+02:00'
+        description: |-
+          Melartin: Weihnachtsglocken (Joulun kellot) sarj. Per speculum in enigmatae (Niklas Pokki, piano).
+
+          Nordqvist: Jul, jul, strålande jul (Benjamin Appl, baritoni, ja Regensburger Domspatzen/Christian Heiss).
+
+          Whittall: Aattoilta (Helsingin kamarikuoro/Nils Schweckendiek).
+
+          J.S. Bach (sov. Busoni): Jeesus Kristus meille nyt (Risto Lauriala, piano).
+
+          Itävaltalainen kansansäv. (sov. Wilberg): Still, still, still weil's Kindlein schlafen will (Jonas Kaufmann, tenori, ja Salzburgin Mozarteumin ork./Jochen Rieder).
+
+          Holst: In the bleak midwinter (The Priests ja Lontoon kuninkaallinen FO/Sally Herbert, sekä Olli Cunningham, ohjelmointi).
+
+          Goldfaden: Rosinkess mit Mandlen (Rusinoita ja manteleita) (Itzhak Perlman, viulu, ja Israelin FO/Dov Seltzer).
+
+          Bartling: Olen löytänyt sen (Johanna Rusanen, sopraano, ja RKK/Timo Nuoranne).
+
+          Martinu: Le Noël (Joulu) (Giorgio Koukl, piano).
+
+          Sibelius: En etsi valtaa loistoa (Tukholman filharmonisen orkesterin jouset/ Magnus Ericsson).
+
+          Sleesia Kansansäv.: Maa on niin kaunis (Key Ensemble/Teemu Honkanen).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-23T17:00:00+02:00'
@@ -231,8 +255,9 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-23T18:50:00+02:00'
         end_time: '2024-12-23T19:00:00+02:00'
-        description: |-
-          Näyttelijä Krista Kosonen lukee Psalmeja (VT2024)
+        description: |
+          "Jumalan apuun voi luottaa"
+          Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (107:17-109:25). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa syksyn ja talven aikana. Jaksossa 37. Jumala seisoo sorretun rinnalla.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-23T19:00:00+02:00'
