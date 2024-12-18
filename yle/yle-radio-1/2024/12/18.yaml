@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-17T02:31:49.316138+00:00'
+  generated_at: '2024-12-18T02:30:08.799077+00:00'
   git:
     branch: main
-    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
-  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
+    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
+  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,20 @@ data:
       - title: Ykkösaamu
         start_time: '2024-12-18T08:10:00+02:00'
         end_time: '2024-12-18T09:00:00+02:00'
+        description: |-
+          8.11 Korkea-arvoinen Venäjän sotilaskomentaja Igor Kirillov ja hänen avustajansa kuolivat eilen räjähdyksessä Moskovassa. Ukraina on ilmoittanut, että sen turvallisuuspalvelu oli pommi-iskun takana. Mitä tapauksesta nyt tiedetään? Ukrainasta, Kiovasta raportoi toimittaja Maxim Fedorov.
+
+          8.16 Ryhmä Itämeren ja Pohjanmeren rantavaltioita on sopinut ryhtyvänsä puuttumaan Venäjän varjolaivaston toimintaan. Lisäksi EU on sopinut 15. Venäjän-vastaisesta pakotepaketista. 
+          Miten tehokkaita toimet ovat? Keskustelemassa Venäjä-asiantuntija Hanna Smith ja puolueettoman tutkimuslaitoksen CREAn perustaja ja pääanalyytikko Lauri Myllyvirta.
+
+          8.32 Ketkä hyötyvät Kela-korvausten muutoksista? Hallitus ajaa eteenpäin valinnanvapauskokeilua, jossa yli 65-vuotiaat pääsevät yksityiselle yleislääkärille samalla hinnalla kuin julkiseen terveydenhuoltoon. Kela maksaa kulut, jotka ylittävät terveyskeskusmaksun ja mukana kokeilussa oleville lääkäriasemille asetetaan hintakatto. Kelan tuoreiden tietojen mukaan yli 65-vuotiaiden yleislääkäripalvelujen käyttö on vahvasti sidoksissa tulotasoon. Ketkä kokeilusta siis hyötyvät? 
+          Studiossa Terveystalon toimitusjohtaja Ville Iho, Lääkäriliiton toiminnanjohtaja Janne Aaltonen sekä terveysoikeuden professori, HUS-yhtymän diagnostiikkajohtaja Lasse Lehtonen.
+
+          8.54 Lääkärit ilman rajoja -järjestö kertoi viime viikolla, että se lopettaa ainakin toistaiseksi siirtolaisten ja pakolaisten pelastamisen Välimerellä, koska Italian laitaoikeistohallituksen tiukentuva politiikka on tehnyt toiminnasta merellä mahdotonta. Lääkärit ilman rajoja on 
+          on ollut suurin Välimerellä toimivista avustusjärjestöistä. Päätöksen merkityksestä kertoo toimittaja Jenna Vehviläinen Roomasta, Italiasta. 
+
+          Juontaja Justus Laitinen, tuottaja Annette Blencowe, toimittajat Mikko Haapanen ja Janette Leino.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2024-12-18T09:00:00+02:00'
         end_time: '2024-12-18T09:05:00+02:00'
@@ -120,11 +134,11 @@ data:
 
           Toimittajana Salla Jantunen.
         series: Brysselin kone
-      - title: Riston Valinta
+      - title: Riston Valinta.
         start_time: '2024-12-18T11:00:00+02:00'
         end_time: '2024-12-18T11:50:00+02:00'
         description: |
-          Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
+          Risto Nordellin puhetta ja musiikkia viikonlopun erikoistarjouksena.
         series: Riston Valinta - Risto Nordell
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-18T11:57:00+02:00'
@@ -135,14 +149,18 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-18T12:00:00+02:00'
         end_time: '2024-12-18T12:10:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Sinuhe egyptiläinen arkeologin silmin'
         start_time: '2024-12-18T12:10:00+02:00'
         end_time: '2024-12-18T13:00:00+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Politiikkaradio
         start_time: '2024-12-18T13:00:00+02:00'
         end_time: '2024-12-18T13:30:00+02:00'
+        description: |
+          Ranskan hallitus kaatui ja uusi pääministeri sorvaa hallitusta. Myös Saksassa sisäpolitiikka on kaaoksessa. Haastattelussa väitöskirjatutkija Antti Ronkainen Helsingin yliopistosta ja professori Luis Clerc Turun yliopistosta. Toimittajana on Linda Pelkonen.
+        series: Politiikkaradio
       - title: Klassinen kattaus
         start_time: '2024-12-18T13:30:00+02:00'
         end_time: '2024-12-18T14:30:00+02:00'
@@ -174,6 +192,9 @@ data:
           Pasi Heikura selvittää, mikä oli Raamatun kertomusten joulun tähti ja keitä olivat itäisen maan tietäjät. Ohjelman vieraana tietokirjailija, teologian tohtori Pekka Särkiö. 
           Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. Ohjelma on uusinta.
         series: Aristoteleen kantapää
+      - title: Yksi on hyvää seuraa
+        start_time: '2024-12-18T14:55:00+02:00'
+        end_time: '2024-12-18T15:00:00+02:00'
       - title: Yle Uutiset
         start_time: '2024-12-18T15:00:00+02:00'
         end_time: '2024-12-18T15:02:00+02:00'
@@ -183,7 +204,7 @@ data:
         description: |
           Loppuvuoden odotetuimpia kotimaisia elokuvia, Levoton tuhkimo kertoo 80-luvun suosituimman suomi-rock -yhtye Dingon alkuajan tarinaa ja kuvaa sen nostattamaa Suomessa ennennäkemätöntä fanimaniaa. 
 
-          Miksi porilaisbändistä tuli niin valtava ilmiö, ja millainen oli sen lähtölaukaus? Miten elokuva esittää ajankuvan ja koko bändin tarinan? Mistä jopa hysteerisiä piirteitä saanut fanitus Dingoa kohtaan kumpusi?
+          Miksi porilaisbändistä tuli niin valtava ilmiö, ja millainen oli sen lähtölaukaus? Miten elokuva esittää ajankuvan ja koko bändin tarinan? Mistä jopa hysteerisiä piirteitä saanut fanitus Dingoa kohtaan kumpusi? Ja millainen on ollut Dingon vaikutus suomalaiselle pop- ja rock -musiikille sekä kulttuurille?
 
           Kulttuuriykkönen saa vieraiksi elokuvan ohjaaja Mari Rantasilan sekä käsikirjoittaja Hanna Leivonniemen. Mukana myös Dingon alkuperäinen ja nykyinen kitaristi Jonttu Virta. Juhani Kenttämaa toimittaa.
         series: Kulttuuriykkönen
@@ -228,7 +249,7 @@ data:
         start_time: '2024-12-18T17:10:00+02:00'
         end_time: '2024-12-18T17:34:59+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kertovatko rivien rakoilu sairaalaverkkoäänestyksessä ja sotevaliokunnan kuumaksi käynyt tunnelma jotain laajempaa eduskunnan ilmapiiristä? Reetta Röngän vieraana on Ylen politiikan toimittaja Hannu Tikkala.
         series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: 100-vuotiaiden jakamaa jazzin riemua'
         start_time: '2024-12-18T17:35:00+02:00'
@@ -270,15 +291,19 @@ data:
         start_time: '2024-12-18T21:05:00+02:00'
         end_time: '2024-12-18T21:34:30+02:00'
         series: Politiikkaradio
-      - title: Brysselin kone
+      - title: 'Brysselin kone: Jääkö EU suurvaltojen jalkoihin, komissaari Henna Virkkunen?'
         start_time: '2024-12-18T21:35:00+02:00'
-        end_time: '2024-12-18T22:29:30+02:00'
-        description: |2+
+        end_time: '2024-12-18T22:29:57+02:00'
+        description: |
+          Brysselin koneen vieraana on vastavalittu komission varapuheenjohtaja Henna Virkkunen. Ursula von der Leyenin toinen komissio on aloittanut työnsä edeltäjiään haastavammassa tilanteessa. Maailmanpolitiikan epävakaus, turvallisuusvaje, huono taloudellinen tilanne ja eurooppalaisten arvojen haastaminen nakertavat EU:n yhtenäisyyttä. Miten Eurooppa pärjää ja mitä komissio aikoo tehdä eurooppalaisen asian edistämiseksi?
 
+          Jakson toisella puoliskolla kysymme Itä-Suomen yliopiston yliopistolehtori Kimmo Elolta, mikä on Euroopan paikka suurvaltapolitiikan pyörteissä. Onko nationalismi palannut Eurooppaan ja mitä se tarkoittaa EU:n yhtenäisyyden kannalta?
+
+          Toimittajana Salla Jantunen.
         series: Brysselin kone
       - title: 'Radioteatteri esittää: Viimeinen taulu'
-        start_time: '2024-12-18T22:30:00+02:00'
-        end_time: '2024-12-18T23:14:02+02:00'
+        start_time: '2024-12-18T22:31:00+02:00'
+        end_time: '2024-12-18T23:15:02+02:00'
         description: |-
           Viimeinen taulu - kuunnelma Ellen Thesleffistä
 

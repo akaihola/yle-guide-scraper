@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-17T02:31:55.277165+00:00'
+  generated_at: '2024-12-18T02:30:33.323401+00:00'
   git:
     branch: main
-    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
-  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
+    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
+  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
 data:
   Yle Radio 1:
     programmes:
@@ -96,11 +96,18 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-07T15:00:00+02:00'
         end_time: '2025-01-07T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Onko "woke" kuollut?'
         start_time: '2025-01-07T15:02:00+02:00'
         end_time: '2025-01-07T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Republikaanien ehdokas Donald Trump voitti USA:n vaalit, ja moni näki tämän merkkinä siitä, että amerikkalaiset ovat kyllästyneet sosiaalisen oikeudenmukaisuuden ja vähemmistöjen tasa-arvon korostamiseen niin politiikassa, arjessa kuin viihteessäkin. 
+
+          Onko tasa-arvoa korostava ideologia woke kuollut? Mikä siinä ärsyttää ja mikä on hyvää? Mihin sitä tarvitaan, jos tarvitaan? Entä onko intersektionaalisen feminismin kritiikki ansaittua? Millaista on Suomen woke-kulttuuri verrattuna yhdysvaltaiseen?
+
+          Keskustelemassa ovat historiantutkija ja dosentti Ari Helo, Helsingin yliopiston maailmanpolitiikan professori Teivo Teivainen, Nuorisotutkimusseuran erikoistutkija Antti Kivijärvi sekä Lähi-idän ja maahanmuuton asiantuntija Seida Sohrabi.
+
+          Lähetyksen toimittaa Pauliina Grym. 
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-07T15:55:00+02:00'
         end_time: '2025-01-07T15:58:00+02:00'
@@ -115,11 +122,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T17:00:00+02:00'
         end_time: '2025-01-07T17:10:00+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Parhaat 2024: Halpakauppa Temun suosiolla voi olla kova hinta'
         start_time: '2025-01-07T17:10:00+02:00'
         end_time: '2025-01-07T17:34:20+02:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Äänisuunnittelija Helmi Sundström suosittelee kuuntelemaan jakson verkkokauppa Temun suosiosta ja sen markkinoinnin saloista. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-01-07T17:35:00+02:00'
@@ -175,3 +182,8 @@ data:
         end_time: '2025-01-07T23:16:30+02:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+      - title: Yöklassinen
+        start_time: '2025-01-07T23:40:00+02:00'
+        end_time: '2025-01-08T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.

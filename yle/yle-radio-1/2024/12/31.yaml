@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-17T02:31:53.508839+00:00'
+  generated_at: '2024-12-18T02:30:30.748495+00:00'
   git:
     branch: main
-    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
-  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
+    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
+  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
 data:
   Yle Radio 1:
     programmes:
@@ -16,10 +16,10 @@ data:
       - title: Hartaita säveliä
         start_time: '2024-12-31T06:30:50+02:00'
         end_time: '2024-12-31T06:50:00+02:00'
-        description: |-
+        description: |
           Tuntematon: Jo vanha vuosi mennyt on (Psallamus/Ilmo Riihimäki, sekä Juhani Haapasalo, urut).
 
-          Anonyymi:  Kun on turva Jumalassa (Erkki ja tytöt).
+          Anonyymi: Kun on turva Jumalassa (Erkki ja tytöt).
 
           Kilpinen: Psalmi 103 (Ihmisen elinpäivät ovat niin kuin ruoho) (Juhani Alakärppä, baritoni, ja Miikka Lehtoaho, urut).
 
@@ -87,21 +87,21 @@ data:
         end_time: '2024-12-31T09:58:00+02:00'
         description: |
           Loesser: What are you doing New Year's Eve? (Ella Fitzgerald).
-          Evans: Was wird sein in sieben Jahren? (In the Year 2525) (Nina und Mike).
+          Evans: Was wird sein in sieben Jahren? (Nina und Mike).
           Bernard: Winter wonderland (Peggy Lee).
           Panula: Keskiyöllä (Danny).
           King: Will you love me tomorrow (The Shirelles).
           Nelson: Kuuraparta (Brita Koivunen).
           Porter: Anything goes (Cole Porter). 
           Berlin: Alexander's ragtime band (Bessie Smith).
-          Drake: It Was a Very Good Year (Frank Sinatra).
-          Kansansävelmä, Venäjä: Lumikuva (Annikki Tähti).
+          Drake: It was a very good year (Frank Sinatra).
+          Kansansäv.: Lumikuva (Annikki Tähti).
           Styne: Va na nevar (Luis Miguel).
-          Daniel & Infante: La vida es un carnaval (Celia Cruz).
+          Daniel/Infante: La vida es un carnaval (Celia Cruz).
           Denver: Poems, prayers and promises (John Denver).
           Newley: Feeling good (Nina Simone).
         series: Muistojen bulevardi
-      - title: Keskusteluja Jarkko Martikaisen kanssa
+      - title: 'Keskusteluja Jarkko Martikaisen kanssa: Miljoonan punnan tuhkat - mielipuolisesta tempauksesta syntyi kappale'
         start_time: '2024-12-31T10:00:00+02:00'
         end_time: '2024-12-31T10:45:00+02:00'
         series: Keskusteluja Jarkko Martikaisen kanssa
@@ -195,11 +195,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-31T17:00:00+02:00'
         end_time: '2024-12-31T17:10:00+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Parhaat 2024: Miljardöörin avaruuskävely on harppaus avaruusturismille'
         start_time: '2024-12-31T17:10:00+02:00'
         end_time: '2024-12-31T17:34:20+02:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Äänisuunnittelija Leo Kosola suosittelee kuuntelemaan jakson miljardöörin historiallisesta avaruuskävelystä ja avaruusturismista. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-31T17:35:00+02:00'
@@ -211,6 +211,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2024-12-31T18:35:00+02:00'
         end_time: '2024-12-31T18:50:00+02:00'
+        description: |-
+          Madetoja: Psalmi 121 (Matkalaulu) (Harjun Kamarikuoro/Heikki Liimola).
+
+          Tuntematon: Nyt ylös vuoriin tiellä (Topi Lehtipuu, tenori, Jarmo Julkunen, teorbi, Mikko Perkola, viola da gamba, ja Jonte Knif, positiiviurut).
+
+          Anonyymi (sov. Matis Metsala): Kun on turva Jumalassa (Mehis Metsalan yhtye).
+
+          Kettunen: Aika on (Miisamaria).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2024-12-31T18:50:00+02:00'

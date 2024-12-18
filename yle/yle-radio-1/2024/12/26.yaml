@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-17T02:31:51.779036+00:00'
+  generated_at: '2024-12-18T02:30:27.081505+00:00'
   git:
     branch: main
-    commit: 3ae9567a43b8233b89175ade0d3f387d171e494f
-  data_hash: 79d7100614a3e839bd29830ae302dbe0375bb8452ae3501b66ac2669dfda2524
+    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
+  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
 data:
   Yle Radio 1:
     programmes:
@@ -132,6 +132,9 @@ data:
       - title: Taiteilijan joulusaarna
         start_time: '2024-12-26T12:05:00+02:00'
         end_time: '2024-12-26T12:25:00+02:00'
+        description: |-
+          Tämän vuoden Taiteilijan joulusaarnan pitää taidekollektiivi House of Disappointments.
+        series: Taiteilijan joulusaarna
       - title: Musiikkikamari rekiretkellä
         start_time: '2024-12-26T12:25:00+02:00'
         end_time: '2024-12-26T13:00:00+02:00'
@@ -205,16 +208,39 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-26T16:10:00+02:00'
         end_time: '2024-12-26T16:59:59+02:00'
+        description: |-
+          Gould (sov.): Good king Wenceslas (RCA-SO/Morton Gould).
+
+          Ruotsalainen kansanlaulu (sov. Öhrwall): Staffan stalledräng (Lux Auribus/Kimmo Tuuri, sekä Maria Typpö, viulu). 
+
+          Liszt: Carillon sarjasta Joulupuu (Roland Pöntinen, piano).
+
+          Holdridge (sov.): A Medley of Christmas carols (Placido Domingo, tenori, ja Wienin sinfonikot/Lee Holdridge). 
+
+          Davis - Onorati - Simeone: Pieni rumpalipoika (Kanadalainen vaskiyhtye).
+
+          Ruotsalainen kansankoraali (sov. M. Jalkeus): Bereden väg för Herran (The Real Group).
+
+          Pierpont - Panula: Kulkuset, fantasia orkesterille (HKO/Jorma Panula).
+
+          Guilmant: Brabantilainen joululaulu (Markku Hietaharju, urut).
+
+          Collan: Sylvian joululaulu (Toselli-orkesteri).
+
+          Kaski: Mökit nukkuu lumiset (Juho Punkeri, tenori, ja Tuula Hällström, piano). 
+
+          Sibelius: En etsi valtaa, loistoa (Ruamjai).
+
+          Mendelssohn (sov. DiLorenzo): Hark! The herald angels sing (Dallasin SO/Lawrence Loh).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2024-12-26T17:00:00+02:00'
         end_time: '2024-12-26T17:10:00+02:00'
-      - title: 'Eilisen ääni: Entisajan verot maksettiin viljana - Johannes Suomi muistelee'
+      - title: 'Eilisen ääni: Entisajan verot maksettiin viljana - miehet muistelee'
         start_time: '2024-12-26T17:10:00+02:00'
         end_time: '2024-12-26T17:35:00+02:00'
         description: |
-          Tapaninpäivän Eilisen ääni vie kuuntelijat nyt vuoteen 1955. Maanviljelijä Johannes Suomi muistelee mitä ennen vanhaa maalta vietiin kaupunkiin ja mitä kaupungista ostettiin. 
-          Näitä matkoja tehtiin yleensä pari kertaa vuodessa. Samoilla reissuilla verot maksettiin viljana Turun linnaan ja tarkkana sai myös olla, ettei maalaispoikaa puijattu markkinoilla. Ohjelman ensilähetys 10.11.1955 ja toimittajana oli Niilo Ihamäki.
+          Tapaninpäivän Eilisen ääni vie kuuntelijat vuoteen 1955. Maanviljelijä Johannes Suomi muistelee mitä maalta vietiin kaupunkiin ja mitä kaupungista ostettiin. Näitä matkoja tehtiin yleensä pari kertaa vuodessa. Tämän jälkeen siirrymme ajassa viisi vuotta eteenpäin eli vuoteen 1960. Toimittajana jatkaa Niilo Ihamäki, mutta paikka ja haastateltava vaihtuvat, pääsemme Nuijamaalle, jossa 75 vuotias Abel Viljakainen muistelee nuoruuttaan.
         series: Eilisen ääni
       - title: Tuuli Saksalan keidas
         start_time: '2024-12-26T17:35:00+02:00'
