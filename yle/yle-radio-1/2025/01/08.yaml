@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:33.882717+00:00'
+  generated_at: '2024-12-19T02:30:20.447349+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -16,7 +16,7 @@ data:
         start_time: '2025-01-08T06:50:00+02:00'
         end_time: '2025-01-08T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Rovasti Jaana Marjanen, Kuopio
         series: Aamuhartaus
       - title: Aamusoitto
         start_time: '2025-01-08T07:10:00+02:00'
@@ -39,6 +39,9 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-08T08:10:00+02:00'
         end_time: '2025-01-08T09:00:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-01-08T09:05:40+02:00'
+        end_time: '2025-01-08T09:58:00+02:00'
       - title: Tuntematon Ukraina
         start_time: '2025-01-08T10:00:00+02:00'
         end_time: '2025-01-08T10:35:00+02:00'
@@ -73,11 +76,12 @@ data:
         description: |
           Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Tuottaja Niko Antin suosittelee kuuntelemaan jakson Pohjois-Korean loikkareista. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Lisää kotimaisia albumeita – Vuoden 2024 poimintoja, osa 2'
         start_time: '2025-01-08T17:35:00+02:00'
         end_time: '2025-01-08T18:35:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Palaamme Laura Korhosen Jazzklubissa toisen jakson ajaksi viime vuonna julkaistujen kotimaisten albumeiden äärelle.
+        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-08T18:35:00+02:00'
         end_time: '2025-01-08T18:50:00+02:00'
@@ -85,7 +89,7 @@ data:
         start_time: '2025-01-08T18:50:00+02:00'
         end_time: '2025-01-08T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Virpi Sillanpää-Posio, Oulu
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-08T19:00:00+02:00'

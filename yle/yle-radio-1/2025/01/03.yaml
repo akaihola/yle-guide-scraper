@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:31.968987+00:00'
+  generated_at: '2024-12-19T02:30:18.914311+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -82,6 +82,8 @@ data:
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: Kihlatun kuolema vei sanat nuorelta Jarkolta'
         start_time: '2025-01-03T10:00:00+02:00'
         end_time: '2025-01-03T10:45:00+02:00'
+        description: |
+          Lauluntekijä Jarkko Martikainen keskustelee toimittaja Olli Laineen kanssa persoonallisesta tavastaan katsoa maailmaa: Itä-Saksassa syntynyt Martikainen tottui jo lapsena tarkkailemaan ihmisiä lauman ulkopuolelta. Keskustelun lomassa Jarkko laulaa ja soittaa kitaraa: tässä jaksossa kuulemme otteet ja taustatarinat.
         series: Keskusteluja Jarkko Martikaisen kanssa
       - title: Narrin aamulaulu - Outi Paananen
         start_time: '2025-01-03T11:00:00+02:00'
@@ -174,9 +176,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-03T19:00:00+02:00'
         end_time: '2025-01-03T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Meidän festivaali 2024: Aikaa aistimassa'
         start_time: '2025-01-03T19:02:00+02:00'
         end_time: '2025-01-03T21:00:00+02:00'
+        description: |
+          Thomas Morley: Fantasioita; Béla Bartók: Duoja (Terhi Paldanius ja Jukka Untamala, viulu sekä Riitta-Liisa Ristiluoma ja Jussi Tuhkanen, alttoviulu). Outi Tarkiainen: Ajan aistit (ke.) (Johannes Piirto, piano, Lauri Sallinen, klarinetti, Elina Vähälä, viulu, Riitta-Liisa Ristiluoma, alttoviulu, Senja Rummukainen, sello). Johannes Brahms: Jousisekstetto nro 2 G-duuri op. 36 (Elina Vähälä ja Terhi Paldanius, viulu, Riitta-Liisa Ristiluoma ja Jussi Tuhkanen, alttoviulu sekä Senja Rummukainen ja Petja Kainulainen, sello). Väliajalla haastateltavana säveltäjä Outi Tarkiainen. - Järvenpään kirkossa 30.7.2024 äänitetyn konsertin toimittaa Lotta Emanuelsson.
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-01-03T21:00:00+02:00'

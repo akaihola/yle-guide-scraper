@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:36.191570+00:00'
+  generated_at: '2024-12-19T02:30:22.113309+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-16T06:30:50+02:00'
         end_time: '2025-01-16T06:50:00+02:00'
+        description: |-
+          Dvorák: Herra on mun paimenein (Sauli Tiilikainen, baritoni, ja Markus Lehtinen, piano).
+
+          Tobias: Otsekui hirv (Niin kuin peura halajaa vesipuroille) (Viron filharmonian kamarikuoro/Daniel Reuss, sekä Ene Salumäe, urut).
+
+          Nyberg: Iäisen elämän vesi (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Simojoki: Jumalan virta (Nardus/Tiina Korhonen, ja Tuomas Turunen, piano).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-16T06:50:00+02:00'
@@ -128,6 +136,12 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-16T18:35:00+02:00'
         end_time: '2025-01-16T18:50:00+02:00'
+        description: |-
+          Nyström: Niin kuin peura (Juhani Aaltonen, huilu, Terhi Harper, kosketinsoittimet, ja Pekka Laakkonen, alttoviulu).
+
+          Krohn: Sinua, Jumala, kansasi tunnustaa (RKK/Timo Nuoranne).
+
+          A. Heikkilä - S. Heikkilä: Sinä olet voimamme (Sakari Heikkilä).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-16T18:50:00+02:00'

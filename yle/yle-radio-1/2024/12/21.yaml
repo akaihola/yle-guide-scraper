@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:19.537533+00:00'
+  generated_at: '2024-12-19T02:30:15.468545+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -151,7 +151,7 @@ data:
       - title: Uudet joululevyt
         start_time: '2024-12-21T13:00:00+02:00'
         end_time: '2024-12-21T14:00:00+02:00'
-        description: |-
+        description: |
           Käppi: Tuleppa joulu jongen kongen (Ne Lintuizet). 
 
           Kansankoraali (Viro): Nyyd ole, Jeesus, kiidetud (Öhunesseq). 
@@ -168,13 +168,19 @@ data:
 
           Kansansäv. (Ruotsi): Kettu juoksi yli järven (Mimmit). 
 
+          Geldof - Ure: Do they know it's Christmas? (The Second Hand Orchestra). 
+
           Raska fötter springa tripp, tripp, tripp (The Second Hand Orchestra). 
 
           Köhler: Nu tändas tusen juleljus (Ulrika Boden, laulu, Sandra Marteleur, viulu, ja Gunnar Idenstam, urut). 
 
           Falkeholm: Tindra ungar, sa pappa (Svart Smultron). 
 
+          Bergman (sov. Asunta): Joululaulu Finnmarkenissa (Markus ja Laura Asunta). 
+
           Wartiovaara-Kallioniemi: Tonttu (Ne Lintuizet). 
+
+          Käppi: Nyt on joulu lehmoisen (Pekko Käppi). 
         series: Uudet levyt
       - title: 'Ruben Stiller:  Lue Raamattua. Se tekee stärää!'
         start_time: '2024-12-21T14:00:00+02:00'

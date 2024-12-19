@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:29.409717+00:00'
+  generated_at: '2024-12-19T02:30:17.691661+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -85,6 +85,11 @@ data:
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2024-12-29T13:00:00+02:00'
+        end_time: '2024-12-29T13:57:00+02:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Marko Gustafssonin vieraana sotahistorioitsija Jenni Kirves
         start_time: '2024-12-29T14:00:00+02:00'
         end_time: '2024-12-29T14:47:00+02:00'
@@ -113,8 +118,8 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-29T16:10:00+02:00'
         end_time: '2024-12-29T16:59:59+02:00'
-        description: |-
-          W.A. Mozart: Saksalainen tanssi C-duuri " Rekiretki" (Lontoon Mozart-soittajat/Harry Blech).
+        description: |
+          W.A. Mozart: Saksalainen tanssi C-duuri "Rekiretki" (Lontoon Mozart-soittajat/Harry Blech).
 
           Holst: Winter and the birds (RKK/Timo Nuoranne). 
 
@@ -128,9 +133,11 @@ data:
 
           Grandval: Kaksi kappaletta oboelle, sellolle ja pianolle (Ambache-kamariyhtye).
 
-          Melartin: Vintermorgon (Christin Högnabba ja Stefan Lindgren). 
+          Melartin: Vintermorgon (Christin Högnabba, sopraano, ja Stefan Lindgren, piano). 
 
-          Haydn: Menuetti jousikvartetosta n:o 61 f-molli (Meta4-kvartetti).
+          Haydn: Menuetti jousikvartetosta n:o 61 f-molli (Meta4).
+
+          Clarke: Vivace sonaatista alttoviululle ja pianolle (Ellen Nisbeth ja Bengt Forsberg).
 
           Larsson: Epilogi näyt. Talvinen tarina (Helsingborgin SO/Okko Kamu). 
         series: Faunin iltapäivä
@@ -162,6 +169,7 @@ data:
         end_time: '2024-12-29T21:00:00+02:00'
         description: |
           Liturgina maahanmuuttajatyöntekijä Anni Bäckman. Puhujana pastori Mika Partanen. Bändi: Up to Heavens, joht. Johanna Vuorela. Yhteislaulut: Jouluyön hymni; Rauhanruhtinas; En etsi valtaa loistoa; Tiesitkö, Maria; Taivas sylissäni; Sydämeeni joulun teen; Rauhaa, vain rauhaa; Maa on niin kaunis; Jouluyö, juhlayö
+        series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2024-12-29T21:00:00+02:00'
         end_time: '2024-12-29T21:02:05+02:00'

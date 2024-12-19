@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-18T02:30:27.081505+00:00'
+  generated_at: '2024-12-19T02:30:16.849093+00:00'
   git:
     branch: main
-    commit: 4a9dfad694fe2f6377cc3314be450ca15e75d44f
-  data_hash: 6902b0dba6e0b9829f8037dd79153d51573510b80dce7785fda9661232201349
+    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
+  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
 data:
   Yle Radio 1:
     programmes:
@@ -71,10 +71,11 @@ data:
         series: Syventävää klassista
       - title: Yle Uutiset ja sää
         start_time: '2024-12-26T07:00:00+02:00'
-        end_time: '2024-12-26T07:02:00+02:00'
+        end_time: '2024-12-26T07:02:05+02:00'
+        series: Yle Uutiset
       - title: 'Elävä historia: Joulun eriskummallinen historia'
-        start_time: '2024-12-26T07:02:00+02:00'
-        end_time: '2024-12-26T07:52:00+02:00'
+        start_time: '2024-12-26T07:02:30+02:00'
+        end_time: '2024-12-26T07:51:08+02:00'
         description: |-
           Joulun perinteiden historia on outo sekoitus erilaisia bakkanaaleja, rituaaleja, pyhimyksiä, piruja, maahisia ja jumalia .Eikä joulupukinkaan esikuva ole pelkkä kiltti lahjoja jakava pyhimys, vaan myös synneistä rankaiseva pirulainen. 
 
@@ -82,11 +83,11 @@ data:
         series: Elävä historia
       - title: Yle Uutiset ja sää
         start_time: '2024-12-26T08:00:00+02:00'
-        end_time: '2024-12-26T08:05:00+02:00'
+        end_time: '2024-12-26T08:05:05+02:00'
         series: Yle Uutiset
       - title: 'Joulun Tarinatarha: Teuvo Pakkalan Mahtisana'
-        start_time: '2024-12-26T08:05:00+02:00'
-        end_time: '2024-12-26T09:00:00+02:00'
+        start_time: '2024-12-26T08:05:05+02:00'
+        end_time: '2024-12-26T08:58:28+02:00'
         description: |
           Stiiknafuulia on lasten keskuudessa mahtisana, jolla saa arvostusta ja asemaa. Tarina on julkaistu vuonna 1895 novellikokoelmassa Lapsia. Lukija: Jari Rantschukoff. Toimittaja: Salla Matusiak. Uusinta vuodelta 2018.
         series: Tarinatarha
@@ -208,7 +209,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2024-12-26T16:10:00+02:00'
         end_time: '2024-12-26T16:59:59+02:00'
-        description: |-
+        description: |
           Gould (sov.): Good king Wenceslas (RCA-SO/Morton Gould).
 
           Ruotsalainen kansanlaulu (sov. Öhrwall): Staffan stalledräng (Lux Auribus/Kimmo Tuuri, sekä Maria Typpö, viulu). 
@@ -266,13 +267,10 @@ data:
         end_time: '2024-12-26T19:02:00+02:00'
       - title: 'Etnokonsertteja: Duo Jonsson & Juhola'
         start_time: '2024-12-26T19:02:00+02:00'
-        end_time: '2024-12-26T20:30:00+02:00'
-        description: |
-          Viulisti Lena Jonsson ja harmonikkataiteilija Johanna Juhola konsertoivat Urkult-festivaalilla Sollefteåssa Ruotsissa 3.8.2024. Luvassa on ruotsalaisia ja suomalaisia kansansävelmiä - polskia, valsseja ja sottiiseja - sekä muusikoiden omia sävellyksiä. Toimittajana Miika Lauriala. 
-        series: Etnokonsertteja
-      - title: Musiikkikamari
-        start_time: '2024-12-26T20:30:00+02:00'
         end_time: '2024-12-26T21:00:00+02:00'
+        description: |
+          Viulisti Lena Jonsson ja harmonikkataiteilija Johanna Juhola konsertoivat Urkult-festivaalilla Ruotsissa 3.8.2024. Luvassa on ruotsalaisia ja suomalaisia kansansävelmiä - polskia, valsseja ja sottiiseja - sekä muusikoiden omia sävellyksiä. Kuulemme myös uusinnan Sophie ja Magnus Stinnerbomin joulukonsertista Västanån teatterinavetassa Lucian päivänä 2023. Toimittajana Miika Lauriala. 
+        series: Etnokonsertteja
       - title: Yle Uutiset
         start_time: '2024-12-26T21:00:00+02:00'
         end_time: '2024-12-26T21:02:00+02:00'
@@ -280,11 +278,6 @@ data:
         start_time: '2024-12-26T21:05:00+02:00'
         end_time: '2024-12-26T21:34:30+02:00'
         series: KC Kirjat
-      - title: Laura Korhosen Jazzklubin joulu
-        start_time: '2024-12-26T21:35:00+02:00'
-        end_time: '2024-12-26T22:24:00+02:00'
-        description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2024-12-26T22:25:00+02:00'
         end_time: '2024-12-26T22:45:00+02:00'
@@ -293,6 +286,7 @@ data:
         end_time: '2024-12-26T23:39:30+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Tapaninpäivän Yöklassinen
         start_time: '2024-12-26T23:40:00+02:00'
         end_time: '2024-12-27T06:30:00+02:00'
