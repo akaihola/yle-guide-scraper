@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:15.468545+00:00'
+  generated_at: '2024-12-21T02:24:59.069417+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -38,23 +38,36 @@ data:
       - title: Aamuklassinen
         start_time: '2024-12-21T06:30:00+02:00'
         end_time: '2024-12-21T07:00:00+02:00'
+        description: |-
+          Schiassi: Andante joulusinfoniasta D-duuri (Ork./Simon Dach).
+
+          Dachstein (sov. T. Kuusisto): Nyt seisahdun mä seimelles. (Aulikki Eerola, sopraano, ja Pertti Eerola, Helsingin Johanneksen kirkon urut).
+
+          Corbetta: Chaconne D-duuri (Nigel North, barokkikitara). 
+
+          Martti Talvela laulaa joululauluja (Pentti Savolainen, urut).
+
+          Raison: Ou s'en vont ces gais bergers (Kati Hämäläinen, urut).
         series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2024-12-21T07:00:00+02:00'
         end_time: '2024-12-21T07:02:05+02:00'
-      - title: Elävä historia
-        start_time: '2024-12-21T07:03:00+02:00'
-        end_time: '2024-12-21T07:53:00+02:00'
+      - title: 'Elävä historia: Vilhelm äpärä, Jäniksenkäpälä ja Knuut Suuri - tosielämän Game of Thrones'
+        start_time: '2024-12-21T07:03:25+02:00'
+        end_time: '2024-12-21T07:50:32+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Keskiajan eeppinen valtataistelu Englannin herruudesta on inspiroinut tarinankertoja vuosisatoja, romaaneista Game of Thrones televisiosarjaan. Tämä on kertomus kilpailevista kuninkaista, merentakaisista armeijoista, veljesvihasta, häistä ja murhista. 
+          Haastateltavana: keskiajan tutkija, dosentti Jaakko Tahkokallio, Helsingin yliopisto
+          Toimittajana Esko Varho. 
+          Äänisuunnittelijana Panu Willman. 
         series: Elävä historia
       - title: Yksi on hyvää seuraa
-        start_time: '2024-12-21T07:53:00+02:00'
+        start_time: '2024-12-21T07:50:32+02:00'
         end_time: '2024-12-21T08:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T08:00:00+02:00'
         end_time: '2024-12-21T08:05:00+02:00'
-        series: Yle Uutiset
       - title: Hartaita säveliä
         start_time: '2024-12-21T08:05:00+02:00'
         end_time: '2024-12-21T08:25:00+02:00'
@@ -85,10 +98,10 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2024-12-21T08:55:00+02:00'
         end_time: '2024-12-21T09:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T09:00:00+02:00'
         end_time: '2024-12-21T09:05:00+02:00'
-        series: Yle Uutiset
       - title: Muistojen bulevardi
         start_time: '2024-12-21T09:05:00+02:00'
         end_time: '2024-12-21T09:58:00+02:00'
@@ -111,18 +124,27 @@ data:
       - title: Yle Uutiset
         start_time: '2024-12-21T10:00:00+02:00'
         end_time: '2024-12-21T10:05:00+02:00'
-        series: Yle Uutiset
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Liisa Väisänen ja joulun symbolit'
         start_time: '2024-12-21T10:05:00+02:00'
         end_time: '2024-12-21T10:57:00+02:00'
         description: |
+          Symbolitutkija Liisa Väisänen on tutkinut jo aikaisemmin symboleiden syntyä alkemiasta kabbalaan. Uudessa kirjassaan Symbolien joulu hän avaa kulttuurihistoriamme kansainvälisiä juuria. Miksi laitamme rusetin joululahjan päälle, miten kärpässieni liittyy jouluun? Miten joulun väreiksi valikoitui vihreä, punainen ja kulta ja mitä nämä värit merkitsevät?
+
+          Nyt uudempi joulukoriste meidän pohjoisissa kodeissa on puinen pähkinänsärkijänukke. Tämä itse pähkinänsärkijä, keittiövälineenä on keksitty jo 1600-luvulla, mutta kuuluisaksi se tuli Tšaikovskin Pähkinänsärkijä-baletista, jonka ensi-ilta oli Pietarin Mariinski-teatterissa vuonna 1892. Miksi pähkinänsärkijästä tuli näin suosittu joulukoriste? Mitä tämä sotilas symboloi? Onko tässä vedenjakaja, ei kristillisestä symbolista tulee uudenlainen maallisempi joulukoriste? 
+
+          Ohjelman vieraana on symbolitutkija Liisa Väisänen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Maria Ylipää: Lapsuuden pyhä joululevytys'
         start_time: '2024-12-21T11:00:00+02:00'
         end_time: '2024-12-21T11:55:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Maria Ylipää rakastaa tunnelatautunutta ja musikaalista musiikkia. Myös joulu on hänelle erityinen juhla jolloin musiikilla on erityinen rooli. Hän pitää tietyistä jouluperinteistä kiinni, mutta uudistaa juhla-ajan teemoja omassa perheessään. Maria Ylipään kanssa tunnelmoi toimittaja Miikkapekka Heikkilä.
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2024-12-21T11:57:00+02:00'
@@ -133,7 +155,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T12:00:00+02:00'
         end_time: '2024-12-21T12:05:00+02:00'
-        series: Yle Uutiset
       - title: Musiikkikamari
         start_time: '2024-12-21T12:05:00+02:00'
         end_time: '2024-12-21T12:20:00+02:00'
@@ -206,11 +227,9 @@ data:
         end_time: '2024-12-21T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T16:00:00+02:00'
         end_time: '2024-12-21T16:10:00+02:00'
-        series: Yle Uutiset
       - title: Faunin iltapäivä
         start_time: '2024-12-21T16:10:00+02:00'
         end_time: '2024-12-21T16:59:59+02:00'
@@ -236,7 +255,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T17:00:00+02:00'
         end_time: '2024-12-21T17:10:00+02:00'
-        series: Yle Uutiset
       - title: 'Miia Krause: Kokki Henri Alén myöntää olevansa ankara "jouluttaja"'
         start_time: '2024-12-21T17:10:00+02:00'
         end_time: '2024-12-21T17:57:00+02:00'
@@ -256,30 +274,29 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2024-12-21T18:10:00+02:00'
         end_time: '2024-12-21T19:00:00+02:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
         series: Lauantain toivotut levyt
       - title: Yle Uutiset ja sää
         start_time: '2024-12-21T19:00:00+02:00'
         end_time: '2024-12-21T19:02:00+02:00'
-        series: Yle Uutiset
       - title: Outin ja Riston joululahjavalvojaiset Ainolassa
         start_time: '2024-12-21T19:03:00+02:00'
         end_time: '2024-12-21T21:40:00+02:00'
         description: |
           Outi Paananen ja Risto Nordell viettävät joululta tuoksuvaa iltapuhdetta Ainolan keittiössä. Valoa vuoden pimeimpänä päivänä antavat musiikki, vieraat ja tuokiokuvat Ainolan joulusta. Pihapiiristä etsitään myös sitä salaperäistä poesiaa, jonka väreilyn Sibelius päiväkirjamerkintöjensä mukaan koki Ainolan jouluina.
         series: Riston Valinta - Risto Nordell
-      - title: Mielimaisema
+      - title: Riikan mielimaisema
         start_time: '2024-12-21T21:40:30+02:00'
-        end_time: '2024-12-21T22:40:00+02:00'
-        description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
+        end_time: '2024-12-21T22:38:21+02:00'
+        description: |-
+          Joululaulut ovat lähellä Riikan sydäntä, joten luonnollisesti ohjelmassa keskitytään niihin. Tarjolla on uutta ja vanhaa, vauhdikasta sekä tunnelmallista, niin kuin jouluun kuuluu. Toimittajana Riikka Holopainen.
         series: Mielimaisema
-      - title: Keinuva talo - Mika Kauhanen
-        start_time: '2024-12-21T22:40:30+02:00'
-        end_time: '2024-12-21T23:39:59+02:00'
+      - title: 'Keinuva talo - Mika Kauhanen: Folk ja trad lämmittävät takkatuvassa'
+        start_time: '2024-12-21T22:40:16+02:00'
+        end_time: '2024-12-21T23:39:09+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Tuntuuko joskus siltä, että kaikkea on aika paljon? Voisiko hengähtää, tiputtaa hanskat, jättää sikseen, antaa olla. Takkatuvan lempeää ja lämmintä tunnelmaa tavoitellaan jaksossa, jonka saa kuunnella takakenossa laiskotellen. Saapuvilla Britannian, Irlannin ja Pohjois-Amerikan pelimannit. Uusinta joulukuulta 2022.
         series: Keinuva talo - Mika Kauhanen
       - title: Yöklassinen
         start_time: '2024-12-21T23:40:00+02:00'

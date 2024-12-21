@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:18.215523+00:00'
+  generated_at: '2024-12-21T02:25:02.342832+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -209,9 +209,24 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2024-12-31T17:35:00+02:00'
         end_time: '2024-12-31T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Tässäkin vuodessa ovat valopilkkuina loistaneet monet hienot laulut, elokuvat, kirjat, tarinat. Ne ovat avanneet uusia maailmoja ja johtaneet yllättävien asioiden äärelle. Kuten tutustumaan erään traktorin ominaisuuksiin, nyyhkyttämään elokuvateatterissa niin että koko penkkirivi hytkyy ja miettimään millaista siellä vankilassa onkaan, saakohan sinne ottaa mukaan kitaran.
+          Uidaan järven yli ja tehdään visakoivusta taikasauva, jolla voisi kokeilla Harry Potterista tuttua loitsua ja tuoda valoa pimeään. Ehkä joku kaunis päivä herätään linnunlauluun ja korppien kysymyksiin; olis tuolla vuosisadan bailut, lähdetkö?
 
+          Kissankehdossa palataan muutamiin hienoihin hetkiin tämän lopuillaan olevan vuoden varrelta.
+
+
+          Saint Etienne: Half light
+          Rosita Luu: Kaikki huomisen bileet
+          Pet Shop Boys: Always on my mind
+          Asa: Mulle riittää yks
+          AURAL: Valois
+          Miika Leivo: Valmet 502
+          PJ Harvey & Tim Phillips: Love will tear us apart
+          Arooj Aftab: Raat ki rani
+          Kaita Isäri Seppälä: Korpit kyselevät
+          Giant Robot: Athena, Athena, Athena - forgiveness edit
+          Liisa Akimof: Kaikenlaista uutta tulossa
         series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2024-12-31T18:35:00+02:00'
@@ -228,14 +243,26 @@ data:
       - title: Iltahartaus
         start_time: '2024-12-31T18:50:00+02:00'
         end_time: '2024-12-31T19:00:00+02:00'
-        description: |-
-          Kapteeni Riku Leino, Pelastusarmeija, Tampere
+        description: |
+          "Huomaanko Jumalan työn?"
+          Kapteeni Riku Leino, Pelastusarmeija, Tampere pohtii vuoden viimeisenä päivänä Jumalan läsnäoloa ja vaikutusta menneisyydessä ja tässä hetkessä.
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2024-12-31T19:00:00+02:00'
         end_time: '2024-12-31T19:02:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Radiogalleria: Ufo - Nevadan salaisuus (FM)'
         start_time: '2024-12-31T19:02:00+02:00'
-        end_time: '2024-12-31T19:45:00+02:00'
+        end_time: '2024-12-31T19:54:00+02:00'
+        description: |
+          Ohjelma jälkikuunneltavissa kolmiosaisena sarjana Yle Areenassa otsikolla Ufo - Nevadan salaisuus.
+
+          Toiset näkevät selittämättömiä valoilmiöitä taivaalla, osa lentäviä lautasia ja joku kaapataan suurisilmäisen avaruusolennon tutkimuspöydälle avaruusalukseen. Ufo – Nevadan salaisuus tutkii, kuinka armeija, sen salaiset kokeet, alitajunta ja luonto vaikuttavat meihin ja tunnistamattomiin lentäviin kohteisiin liittyviin haintoihimme ja millaista on elää ympäristössä, jossa on alituisesti jotain salaista ja väkivaltaista.
+
+          Audioessee matkustaa Las Vegasista Alue 51:n viereiselle vuorelle ja lopulta Nevadan asuttamattomaan autiomaahan avaruusolentojen perässä. Essee pureutuu ihmismielen perversioihin ja kysyy, mitä tunnistamattomat lentävät kohteet voivat olla ja mitä ne kertovat meistä ihmisinä.
+
+          Työryhmä: Tuuli Alanärä, Felicia Honkasalo, Suvi Tuuli Kataja, Jussi Liukkonen ja Elli Salo. 
+
+          Haastateltavat: Dreamland-sivuston perustaja Joerg Arnu, CIA:n entinen tiedustelu-upseeri Thornton D. Barnes, Armeijan ilmavoimissa työskentelevä Jessica Boldin ja Ufo-uskomuksiin perehtynyt tietokirjailija Sarah Scoles. Tuotanto: Aapa Oy. Tilaaja: Juha-Pekka Hotinen, Radiogalleria.
       - title: Helsingin Barokkiorkesterin uuden vuoden juhlakonsertti
         start_time: '2024-12-31T20:00:00+02:00'
         end_time: '2024-12-31T21:30:00+02:00'

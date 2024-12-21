@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:23.146452+00:00'
+  generated_at: '2024-12-21T02:25:07.772335+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -21,7 +21,7 @@ data:
         start_time: '2025-01-21T06:50:00+02:00'
         end_time: '2025-01-21T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Kirkkoherra Tuomo Törmänen, Pirkkala
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-21T07:00:00+02:00'
@@ -127,12 +127,18 @@ data:
         end_time: '2025-01-21T19:00:00+02:00'
         description: |-
           Maanantaista lauantaihin
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-21T19:00:00+02:00'
         end_time: '2025-01-21T19:02:00+02:00'
       - title: 'Radioteatteri esittää: Maitotyttö 3/3'
         start_time: '2025-01-21T19:02:40+02:00'
         end_time: '2025-01-21T19:45:00+02:00'
+        description: |-
+          Entisen maatalouslomittajan elämäntarinaan perustuva Maitotyttö kertoo eläintuotannosta sen, mistä mainokset vaikenevat.
+
+          Käsikirjoitus: Laura Gustafsson ja Hilja Kerimäki
+          Ohjaus: Laura Gustafsson
         series: Maitotyttö
       - title: Tiistain kulttuurisarja
         start_time: '2025-01-21T20:00:00+02:00'
@@ -142,7 +148,7 @@ data:
         start_time: '2025-01-21T20:20:00+02:00'
         end_time: '2025-01-21T20:35:00+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Afrohiuksien laitoon erikoistuneen parturi-kampaaja Ronja Koiviston ura on vaatinut tavallistakin enemmän ponnisteluja. Koivisto on puoliksi romani ja hänellä on harvinainen raajaepämuodostumia aiheuttava kehityshäiriö. Perheen tuki ja luotto omiin kykyihin on luonut vankan pohjan pärjäämiselle. Ronja Koiviston tapasi Dimitri Grönfors. 
         series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-21T20:35:00+02:00'

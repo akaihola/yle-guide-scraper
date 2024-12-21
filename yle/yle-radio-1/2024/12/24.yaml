@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:16.201491+00:00'
+  generated_at: '2024-12-21T02:24:59.978375+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -88,8 +88,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-24T07:00:00+02:00'
         end_time: '2024-12-24T07:02:00+02:00'
-        series: Yle Uutiset
-      - title: Jouluaaton aamusoitto
+      - title: Jouluaaton Aamusoitto
         start_time: '2024-12-24T07:02:00+02:00'
         end_time: '2024-12-24T07:59:59+02:00'
         description: |-
@@ -116,8 +115,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-24T08:00:00+02:00'
         end_time: '2024-12-24T08:05:00+02:00'
-        series: Yle Uutiset
-      - title: Jouluaaton aamusoitto
+      - title: Jouluaaton Aamusoitto
         start_time: '2024-12-24T08:05:00+02:00'
         end_time: '2024-12-24T08:59:59+02:00'
         description: |-
@@ -146,7 +144,6 @@ data:
       - title: Yle Uutiset
         start_time: '2024-12-24T09:00:00+02:00'
         end_time: '2024-12-24T09:05:00+02:00'
-        series: Yle Uutiset
       - title: Muistojen bulevardi
         start_time: '2024-12-24T09:05:00+02:00'
         end_time: '2024-12-24T09:58:00+02:00'
@@ -165,20 +162,43 @@ data:
           Feliciano: Feliz Navidad (Jose Feliciano).
           Sibelius: En etsi valtaa, loistoa (Ne Lintuizet).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Kaksi erilaista taustaa, suomalainen joulu molemmilla'
         start_time: '2024-12-24T10:00:00+02:00'
-        end_time: '2024-12-24T10:55:00+02:00'
+        end_time: '2024-12-24T10:53:00+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto
       - title: Yksi on hyvää seuraa
-        start_time: '2024-12-24T10:55:00+02:00'
+        start_time: '2024-12-24T10:53:00+02:00'
         end_time: '2024-12-24T11:00:00+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+        series: Yksi on hyvää seuraa
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Jouluaaton kirkkauksia'
         start_time: '2024-12-24T11:00:00+02:00'
         end_time: '2024-12-24T11:55:00+02:00'
-        description: |-
+        description: |
+          Linnut ja muut eläimet sekä erilaiset pastoraalit soivat Klasariparatiisin kirkkaissa joulumusiikeissa.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Johann Sebastian Bach: Jauchzet, frohlocket! Alkukuoro Jouluoratoriosta (Solistikuoro ja Dunedin Consort/John Butt).
+
+          Anonyymi 1500-luvulta: Von Himmel hoch, Enkeli taivaan (sov. Micahel Praetorius, Johannes Eccard, Johann Hermann Schein) (Ludwig Guettler -vaskiyhtye).
+
+          Anonyymi 1700-luvulta: Tunne for nightingale, Laulu satakielelle (Kalevi Kiviniemi, urut, Petri Vähätalo, lintupilli).
+          Louis-Claude Daquin: Käki, Sarjasta cembalolle no 3
+          Michel Corrette: Provencelainen joulu (Kalevi Kiviniemi, urut).
+
+          Alessandro Scarlatti: Nacque, col Gran Messia, aaria Joulukantaatista  Non so qual piu m'ingombra (Elizabeth Watts, sopraano, ja The English Concert/Laurence Cummings).
+
+          Marc-Antoine Charpentier: Antakaa eläimenne laiduntaa, Te jotka olette niin kauan kaivanneet, sekä Mihin nämä iloiset paimenet ovat menossa? kokoelmista Noëls pour les instruments (Ensemble Masques/Olivier Fortin). 
+
+          Anonyymi 1500-luvulta:  Coventry carol (The Gesualdo Six/Owain Park).
+
+          Anonyymi: Angelus emittitur, kokoelmasta Piae cantiones, (sov. Jean Sibelius ja Heikki Klemetti, käännös Heikki Klemetti) (Helsingin kamarikuoro/Nils Schweckendiek, ja Jan Lehtola, urut).
+
+          Anonyymi 1400-luvulta: Es ist ein Ros entsprungen (sov.  Michael Praetorius ja Jan Sandström) (Voces8).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Suomen Turku julistaa joulurauhan
         start_time: '2024-12-24T11:55:00+02:00'
@@ -306,7 +326,7 @@ data:
         end_time: '2024-12-24T17:10:00+02:00'
       - title: Taiteilijan joulusaarna
         start_time: '2024-12-24T17:10:00+02:00'
-        end_time: '2024-12-24T17:30:00+02:00'
+        end_time: '2024-12-24T17:28:00+02:00'
         description: |-
           Tämän vuoden Taiteilijan joulusaarnan pitää taidekollektiivi House of Disappointments.
         series: Taiteilijan joulusaarna
@@ -319,12 +339,12 @@ data:
           Kember (sov.): Joululauluja pianoduolle (Risto Lauriala ja Pentti Kotiranta).
       - title: Jouluaaton ortodoksinen ehtoopalvelus Oulun Pyhän Kolminaisuuden katedraalista
         start_time: '2024-12-24T18:00:00+02:00'
-        end_time: '2024-12-24T18:48:00+02:00'
-        description: |-
-          Palveluksen toimittaa kirkkoherra Marko Patronen
+        end_time: '2024-12-24T18:47:00+02:00'
+        description: |
+          Palveluksen toimittaa kirkkoherra Marko Patronen. Katedraalikuoroa johtaa kanttori Leena Lomu. Tekstinlukijana toimii Reijo Kinnunen.
         series: Jumalanpalvelukset radiossa
       - title: Tiernapojat
-        start_time: '2024-12-24T18:48:00+02:00'
+        start_time: '2024-12-24T18:47:00+02:00'
         end_time: '2024-12-24T19:00:00+02:00'
         description: |
           Tiernapojat, vanha suomalainen joulukuvaelma (Taavi Oramo (Herodes), Janne Hovi (Knihti), Antti Lappalainen (Murjaanien kuningas), ja Teemu Vallenius (Mänkki), joht. Kari Ala-Pöllänen
@@ -333,29 +353,62 @@ data:
         end_time: '2024-12-24T19:02:00+02:00'
       - title: Johann Sebastian Bachin Jouluoratorio
         start_time: '2024-12-24T19:03:00+02:00'
-        end_time: '2024-12-24T20:21:00+02:00'
+        end_time: '2024-12-24T20:23:00+02:00'
+        description: |
+          Johann Sebastian Bach: Jouluoratorio BWV 248, kantaatit I-III
+
+          Lydia Teuscher, sopraano
+          Hugh Cutting, kontratenori 
+          Andrew Haji, tenori 
+          Konstantin Krimmel, basso
+
+          Pohjois-Saksan filharmoninen orkesteri ja kuoro, joht. Bernard Labadie
+
+          Konsertti on äänitetty Saksan Hannoverissa 6.12.2024. Konsertin toimittaa Markus Virtanen.
         series: Konsertteja
       - title: Musiikkikamari
-        start_time: '2024-12-24T20:21:00+02:00'
+        start_time: '2024-12-24T20:23:00+02:00'
         end_time: '2024-12-24T21:00:00+02:00'
         description: |-
           Pez: Konsertto F-duuri (Concerto pastorale) (Les Violons du Roy/Bernard Labadie).
 
           Händel: Konsertto kahdelle puhallinkuorolle, jousille ja continuolle n:o 1 B-duuri (The English Concert/Trevor Pinnock).
 
-          Schildt: Ach mein herzliebes Jesulein (Susanne Rydén, sopraano, ja Bell'Arte Salzburg).
+          Wade (sov. Delmoni): Adeste fideles (Arturo Delmoni, viulu, Alexander Romanul, viulu, Katherine Murdock, alttoviulu, ja Nathaniel Rosen, sello). 
         series: Musiikkikamari
-      - title: Sari Valto
+      - title: 'Sari Valto: Kaksi erilaista taustaa, suomalainen joulu molemmilla'
         start_time: '2024-12-24T21:05:00+02:00'
-        end_time: '2024-12-24T22:00:00+02:00'
+        end_time: '2024-12-24T21:56:47+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2024-12-24T22:00:30+02:00'
-        end_time: '2024-12-24T22:54:30+02:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Jouluaaton kirkkauksia'
+        start_time: '2024-12-24T22:03:25+02:00'
+        end_time: '2024-12-24T22:54:40+02:00'
+        description: |
+          Linnut ja muut eläimet sekä erilaiset pastoraalit soivat Klasariparatiisin kirkkaissa joulumusiikeissa.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Johann Sebastian Bach: Jauchzet, frohlocket! Alkukuoro Jouluoratoriosta (Solistikuoro ja Dunedin Consort/John Butt).
+
+          Anonyymi 1500-luvulta: Von Himmel hoch, Enkeli taivaan (sov. Micahel Praetorius, Johannes Eccard, Johann Hermann Schein) (Ludwig Guettler -vaskiyhtye).
+
+          Anonyymi 1700-luvulta: Tunne for nightingale, Laulu satakielelle (Kalevi Kiviniemi, urut, Petri Vähätalo, lintupilli).
+          Louis-Claude Daquin: Käki, Sarjasta cembalolle no 3
+          Michel Corrette: Provencelainen joulu (Kalevi Kiviniemi, urut).
+
+          Alessandro Scarlatti: Nacque, col Gran Messia, aaria Joulukantaatista  Non so qual piu m'ingombra (Elizabeth Watts, sopraano, ja The English Concert/Laurence Cummings).
+
+          Marc-Antoine Charpentier: Antakaa eläimenne laiduntaa, Te jotka olette niin kauan kaivanneet, sekä Mihin nämä iloiset paimenet ovat menossa? kokoelmista Noëls pour les instruments (Ensemble Masques/Olivier Fortin). 
+
+          Anonyymi 1500-luvulta:  Coventry carol (The Gesualdo Six/Owain Park).
+
+          Anonyymi: Angelus emittitur, kokoelmasta Piae cantiones, (sov. Jean Sibelius ja Heikki Klemetti, käännös Heikki Klemetti) (Helsingin kamarikuoro/Nils Schweckendiek, ja Jan Lehtola, urut).
+
+          Anonyymi 1400-luvulta: Es ist ein Ros entsprungen (sov.  Michael Praetorius ja Jan Sandström) (Voces8).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Jouluaaton Yöklassinen
         start_time: '2024-12-24T22:55:00+02:00'

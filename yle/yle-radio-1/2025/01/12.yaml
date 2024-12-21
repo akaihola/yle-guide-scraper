@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:21.274063+00:00'
+  generated_at: '2024-12-21T02:25:05.610221+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -71,6 +71,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-12T12:00:00+02:00'
         end_time: '2025-01-12T12:05:00+02:00'
+      - title: 'Virtasen taloushistoria: Millaista oli arkielämä Neuvostoliitossa?'
+        start_time: '2025-01-12T12:05:00+02:00'
+        end_time: '2025-01-12T12:55:00+02:00'
+        description: |-
+          Millaista oli arkielämä Neuvostoliitossa? Vieraana Polina Kopylova
+          Ohjelma on uusinta ajalta 15.1.2024.
+        series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-12T12:55:00+02:00'
         end_time: '2025-01-12T13:00:00+02:00'
@@ -88,12 +95,33 @@ data:
           Vuosikymmeniä myöhemmin Putro meni terapiaan tutkiakseen suhdettaan elämänsä miehiin. Pintaan nousi negatiivisia tunteita: kateus, kilpailullisuus, mustasukkaisuus ja miehen kunnia. Yksi asia kävi selväksi: aika on arvokkainta, mitä meille on annettu.
           Maarit Tastulan vieraana muusikko ja lauluntekijä Samuli Putro. 
         series: Maarit Tastula - Yksi maailma, kaksi katsetta
-      - title: Elävä historia
+      - title: 'Elävä historia: Suomalaiset utopiasiirtokunnat - kohti parempaa maailmaa '
         start_time: '2025-01-12T15:00:00+02:00'
         end_time: '2025-01-12T15:50:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |+
+          Uuteen maailmaan, kohti vapautta! Näin ajattelivat suomalaiset utopiasiirtolaiset, jotka 1900-luvun alussa astuivat laivoihin ja matkasivat valtamerten ylitse Australiaan, Amerikkaan, Brasiliaan, Argentiinaan ja ties minne.
+          Haastateltava: Teuvo Peltoniemi
+          Toimittaja: Liisa Vihmanen
+          Lukija: Miikka Maunula
+          Arkistotoimittaja: Outi Kortelainen
+          Äänisuunnittelu: Katja Kostiainen
+
         series: Elävä historia
+      - title: Yle News
+        start_time: '2025-01-12T15:55:00+02:00'
+        end_time: '2025-01-12T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-01-12T16:00:00+02:00'
+        end_time: '2025-01-12T16:10:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-01-12T16:10:00+02:00'
+        end_time: '2025-01-12T16:59:20+02:00'
+        series: Faunin iltapäivä
+      - title: Yle Uutiset ja sää
+        start_time: '2025-01-12T17:00:00+02:00'
+        end_time: '2025-01-12T17:10:00+02:00'
       - title: Laura Korhosen Jazzklubi
         start_time: '2025-01-12T17:11:00+02:00'
         end_time: '2025-01-12T18:11:00+02:00'
@@ -103,7 +131,7 @@ data:
       - title: 'Jazzklubin illan keikka: Donald Harrison Quartet (USA) Tampere Jazz Happeningissä.'
         start_time: '2025-01-12T18:11:00+02:00'
         end_time: '2025-01-12T19:00:00+02:00'
-        description: |-
+        description: |
           Äänitetty Tullikamarin Pakkahuoneella 2.1.2024.
         series: Jazzklubi
       - title: 'Jazzklubi: Klubi-isäntänä Juhani Kansi.'
@@ -118,13 +146,22 @@ data:
         description: |-
           Puhujana pastori Tuomas Vuolteenaho
         series: Jumalanpalvelukset radiossa
+      - title: Yle Uutiset
+        start_time: '2025-01-12T21:00:00+02:00'
+        end_time: '2025-01-12T21:02:05+02:00'
       - title: Uutispodcast
         start_time: '2025-01-12T21:05:00+02:00'
         end_time: '2025-01-12T21:29:30+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-01-12T21:30:00+02:00'
         end_time: '2025-01-12T22:27:00+02:00'
         description: |
           Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Romano mirits
+        start_time: '2025-01-12T23:25:00+02:00'
+        end_time: '2025-01-12T23:39:30+02:00'
+        description: |
+          Ajankohtaista asiaa romaneista.

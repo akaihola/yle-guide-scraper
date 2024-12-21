@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-19T02:30:19.096939+00:00'
+  generated_at: '2024-12-21T02:25:03.727769+00:00'
   git:
     branch: main
-    commit: d6667289a9cafc0bd0977dca4754deabd6f39276
-  data_hash: 0aac5d85b282aeb8250a419846b66c90ebdfc43eff7c5bae2c5bfd573c58aff4
+    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
+  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
 data:
   Yle Radio 1:
     programmes:
@@ -33,6 +33,18 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-04T08:05:00+02:00'
         end_time: '2025-01-04T08:25:00+02:00'
+        description: |-
+          J.S. Bach: Jo vanha vuosi mennyt on (Olli Porthan, urut, ja Klemetti-Opiston Kamarikuoro/Matti Hyökki).
+
+          Tuntematon: Jeesus, sinuun turvaten (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Marja Kääriäinen, piano).
+
+          Webbe: On Jeesus nimi ihanin (Oulun kamarikuoro/Markku Jounela).
+
+          Klemetti: Kiittäisimme armostasi (Matti Lehtinen, baritoni, ja Pentti Savolainen, urut).
+
+          Anonyymi: Vain yksi nimi meille riittää (Psallamus-kuoro/Ilmo Riihimäki, sekä Juhani Haapasalo, urut).
+
+          Krank: Oi kuule, Herra, huutomme (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-04T08:25:00+02:00'
@@ -40,10 +52,12 @@ data:
         description: |-
           Maanantaista lauantaihin
         series: Aamuhartaus
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Ihmiset - menkää metsään!'
         start_time: '2025-01-04T08:35:00+02:00'
         end_time: '2025-01-04T08:55:00+02:00'
         description: |
+          Metsä luo useimmille meistä rauhoittumisen tunteen. Eikä kyse ole pelkästä tunteesta, sillä tutkimusten mukaan näin tapahtuu. Jo 15 min oleskelu metsässä saa aikaan mm. verenpaineen laskua. Metsän terveysvaikutuksista kertoo Luonnonvarakeskuksen tutkija Jenni Simkin.
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
@@ -55,6 +69,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-04T09:05:00+02:00'
         end_time: '2025-01-04T09:58:00+02:00'
+        description: |
+          Becaud: Nathalie (Gilbert Bécaud).
+          Becaud: Palaan sua hakemaan (Tapio Heinonen).
+          Gilkyson: Muistoja näin muodostuu (Olavi Virta).
+          McCurdy: I natt jag drömde (The Hep Stars).
+          Pintucci: Sylissä aamun (Seija Simola).
+          Morina/D'Ercole/Tomassini: Vagabondo (Nicola di Bari).
+          Joves: Loca (Sara Montiel).
+          Randazzo: Goin' out of my head (Petula Clark).
+          Hatch: Kauan (Danny).
+          Jurva/Pekkarinen: Puuhellalla ajetaan (Matti Jurva).
+          Engel-Berger: Stern von Rio (Rudi Schuricke).
+          Manilow: Copacabana (Barry Manilow).
+          Kemppi: Kaamoskuu (Tapio Rautavaara).
+          McHugh: Cuban love song (Acker Bilk).
         series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-01-04T10:00:00+02:00'
@@ -137,6 +166,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-04T16:10:00+02:00'
         end_time: '2025-01-04T16:59:59+02:00'
+        description: |
+          Nava d'Adda: Scherzo pianotriosta Es-duuri (La Gaia Scienza).
+
+          Verdi: "Un di, se ben rammentomi" - "Bella figlia dell'amore" kvartetto oopp. Rigoletto (Cheryl Studer, sopraano, Denyce Graves, mezzosopraano, Luciano Pavarotti, tenori, Vladimir Tshernov, baritoni, sekä Metropolitan-oopperan ork./James Levine).
+
+          M. Richter: Mercy viululle ja pianolle (Hilary Hahn ja Cory Smythe).
+
+          Salmenhaara: Kaksi Kiven runoa (Kampin Laulu/Timo Lehtovaara).
+
+          Ravel: Suihkulähde (Martha Argerich, piano).
+
+          Crusell: Romanssi kvartetosta klarinetille ja jousille n:o 1 Es-duuri (Eric Hoeprich ja Lontoon Haydn-kvartetti).
+
+          Schubert: Irrlicht sarj. Winterreise (Martti Talvela, basso, ja Ralf Gothoni, piano).
+
+          Debussy (sov. Assad): Menuetti sarj. Suite bergamasque (Sergio ja Odair Assad, kitara). 
+
+          Kodály: Közjatek (Intermezzo) orkesterisarj. Háry János (Budapestin musiikkijuhlien ork./Iván Fischer).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-04T17:00:00+02:00'
@@ -147,14 +194,15 @@ data:
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
         series: Miia Krause
-      - title: Ehtookellot
+      - title: 'Ehtookellot: Tuusulan kirkon kellot'
         start_time: '2025-01-04T18:00:00+02:00'
         end_time: '2025-01-04T18:01:00+02:00'
       - title: Iltahartaus
         start_time: '2025-01-04T18:01:00+02:00'
         end_time: '2025-01-04T18:10:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          "Kutsumusta etsimässä"
+          Lauantai-illan rukoushetkessä Ylivieskan kirkkoherra Eija Nivala lukee psalmista 84, löytää 12-vuotiaan Jeesuksen temppelistä ja pohtii kutsumuksen olemusta.
         series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2025-01-04T18:10:00+02:00'
@@ -167,7 +215,7 @@ data:
         end_time: '2025-01-04T19:02:00+02:00'
       - title: Musiikkitalon urkujen avajaiskonsertti - Olivier Latry
         start_time: '2025-01-04T19:02:00+02:00'
-        end_time: '2025-01-04T21:00:00+02:00'
+        end_time: '2025-01-04T20:57:00+02:00'
         description: |
           Kaija Saariaho: Offrande. Jean-Louis Florentz: Prélude de l'enfant noir. Jehan Alain: Aria. J.S. Bach: Preludi ja fuuga G-duuri, BWV 541. Jean-François Dandrieu: Noëls. Marcel Dupré: Variations sur un Noël. Charles-Marie Widor: Sinfonia uruille nro 5 f-molli. - Väliajalla uusien urkujen mahdollisuuksista ovat keskustelemassa urkuri Jan Lehtola ja säveltäjä Maija Hynninen. Konsertti on nauhoitettu Helsingin Musiikkitalossa 1.1.2024. Toimittajana Kare Eskola.
         series: Konsertteja
@@ -179,6 +227,7 @@ data:
         end_time: '2025-01-04T21:29:30+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Mielimaisema
         start_time: '2025-01-04T21:30:00+02:00'
         end_time: '2025-01-04T22:29:30+02:00'
