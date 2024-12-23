@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-21T02:25:04.423516+00:00'
+  generated_at: '2024-12-23T02:28:07.863260+00:00'
   git:
     branch: main
-    commit: bef934a9bbbdf8d80fd4eceb883d9ce4c90894d6
-  data_hash: 8aa18f8273cdd15ffa3309e77a0bd007942f1c74c03673420ccb757509477f76
+    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
+  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
 data:
   Yle Radio 1:
     programmes:
@@ -75,13 +75,11 @@ data:
           Lindholm: Ja sinun äänesi (Dave Lindholm).
           Zeitlin/Secunda: Donna Donna (Joan Baez).
           Guaraldi: Cast your fate to the wind (Quincy Jones).
-        series: Muistojen bulevardi
       - title: 'Sari Valto: Etsi elinvoimaa, älä uutta dieettiä'
         start_time: '2025-01-07T10:00:00+02:00'
         end_time: '2025-01-07T10:55:00+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-        series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-01-07T11:00:00+02:00'
         end_time: '2025-01-07T11:57:00+02:00'
