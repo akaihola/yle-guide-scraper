@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:11.018827+00:00'
+  generated_at: '2024-12-25T02:26:13.411963+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,7 @@ data:
       - title: Ukraina soi
         start_time: '2025-01-22T10:35:00+02:00'
         end_time: '2025-01-22T10:55:00+02:00'
+        series: Musiikkikamari
       - title: Riston Valinta
         start_time: '2025-01-22T11:00:00+02:00'
         end_time: '2025-01-22T11:50:00+02:00'

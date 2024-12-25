@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:09.834271+00:00'
+  generated_at: '2024-12-25T02:26:11.248367+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -108,11 +108,17 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-16T15:00:00+02:00'
         end_time: '2025-01-16T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Mihin Elon Musk vie Yhdysvallat - ja ehkä meidät muutkin?'
         start_time: '2025-01-16T15:02:00+02:00'
         end_time: '2025-01-16T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Yhdysvaltain toista kertaa virkaan astuva presidentti Donald Trump on nimittänyt teknomiljardööri Elon Muskin valtionhallinnon tehostamisviraston johtoon, mikä herättää kysymyksiä rahan vallasta Yhdysvaltain politiikassa ja myös siitä, mitä Elon Musk itse tavoittelee.
+
+          Miten Teslan, SpaceX:n ja X:n (entisen Twitterin) johtaja voi muokata USA:n hallintoa ja koko maailmaa? Onko Musk nerokas innovaattori vai vallanhimoinen uhka ihmiskunnalle? Käsittelyssä ovat myös kiistanalaisen teknologiagurun Muskin innovaatiot sähköautoista avaruusteknologiaan ja hänen roolinsa sosiaalisessa mediassa.
+
+          Studiossa ovat futuristi Perttu Pölönen, entinen startup-yrittäjä Sami Kuusela sekä politiikan tutkija Markus Kantola. 
+
+          Lähetyksen toimittaa Pauliina Grym.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-16T15:55:00+02:00'

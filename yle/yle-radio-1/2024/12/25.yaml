@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:04.557051+00:00'
+  generated_at: '2024-12-25T02:26:02.469410+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -89,6 +89,7 @@ data:
           Styne: Let it snow! Let it snow! Let it snow! (The Manhattan Transfer).
           Martin: Have yourself a merry little Christmas (Diana Krall).
           Adam: O helga natt (Jussi Björling).
+        series: Muistojen bulevardi
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: Pieni poika pettyi laumaan'
         start_time: '2024-12-25T10:00:00+02:00'
         end_time: '2024-12-25T10:45:00+02:00'
@@ -206,6 +207,12 @@ data:
           Taiteentutkija Liisa Väisänen sukeltaa Pasi Heikuran kanssa joulun symbolien historiaan. Ohjelmassa maistellaan myös urheilusivujen sana-akrobatiaa, ja kysytään, mitä kaivamme, kun kaivamme kuvetta.
           Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
+      - title: Radio 1 soi
+        start_time: '2024-12-25T22:29:05+02:00'
+        end_time: '2024-12-25T22:43:14+02:00'
+        description: |-
+          K. Halonen: Sydämeeni joulun teen (Jouko Harjanne, trumpetti, ja Miikka Kallio, urut).
+        series: Radio 1 soi
       - title: Uusia Välilevyjä jouluun
         start_time: '2024-12-25T22:43:14+02:00'
         end_time: '2024-12-25T23:39:35+02:00'

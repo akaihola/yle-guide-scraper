@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:07.025543+00:00'
+  generated_at: '2024-12-25T02:26:06.711382+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -159,8 +159,26 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-01-03T16:10:00+02:00'
         end_time: '2025-01-03T16:59:59+02:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Sibelius: Väliaikamusiikkia näyt. Pelléas ja Mélisande (RSO/Jukka-Pekka Saraste). 
+
+          Parviainen: Joulun kellot (Key Ensemble/Teemu Honkanen ja Päivi Severeide, harppu).
+
+          Chopin: Nokturno n:o 2 Es-duuri (Gergely Boganyi).
+
+          Espanjalainen kansanlaulu: La Virgen lava panales (Mormonien tabernaakkelikuoro ja New Yorkin filharmoninen ork./Leonard Bernstein).
+
+          Corelli: Largo joulukonsertosta g-molli (The English Concert/Trevor Pinnock).
+
+          Scarlatti: Sonaatti kosketinsoittimelle g-molli (Elisa Järvi, fortepiano).
+
+          Pohjanmies: Talvi-iltana (Soile Isokoski, sopraano, ja Finlandia Sinfonietta/Ilkka Kuusisto).
+
+          Beethoven: Adagio un poco mosso pianokonsertosta n:o 5 (Keisarikonsertto) Es-duuri (Clevelandin ork./Vladimir Ashkenazy, piano).
+
+          Franz Schubert: Mille cherubini in coro (Katia Ricciarelli, sopraano, ja ork.).
+
+          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (Helsingin KO/Leif Segerstam).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-03T17:00:00+02:00'
@@ -171,11 +189,11 @@ data:
         description: |
           Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Äänisuunnittelija Sami Lindfors suosittelee kuuntelemaan jakson teknologiayhtiö Nvidiasta. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
-      - title: Mielimaisema
+      - title: Riikan ja Ahdin viimeinen mielimaisema
         start_time: '2025-01-03T17:35:00+02:00'
         end_time: '2025-01-03T18:35:00+02:00'
         description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
+          Tänään kuullaan kaikkien aikojen viimeinen Mielimaisema ja sen kunniaksi studiossa ovat molemmat toimittajat. Luvassa on ainakin musiikkia menneistä ohjelmista, mieleen jääneitä artisteja sekä bongaukset kollegalta. Toimittajina Riikka Holopainen ja Ahti Paunu.
         series: Mielimaisema
       - title: Musiikkihartaus
         start_time: '2025-01-03T18:35:00+02:00'

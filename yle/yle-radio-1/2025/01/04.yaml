@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:07.257878+00:00'
+  generated_at: '2024-12-25T02:26:07.034463+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -87,11 +87,21 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-04T10:00:00+02:00'
         end_time: '2025-01-04T10:05:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Nosferatu - Eggerssin tuore näkemys Stokerin ja Murnaun kauhuikonista'
         start_time: '2025-01-04T10:05:00+02:00'
         end_time: '2025-01-04T10:58:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina.
+        description: |
+          [Huom! Nauhoitus - ei uusinta!]
+
+          Kreivi Dracula, tai oikeastaan Kreivi Orlok tulee taas! Alkuvuoden 2025 suurin kauhuelokuvatapaus herättää klassisen vampyyritarinan uudelleen henkiin.
+
+          Miten aikamme arvostetuin kauhuohjaaja Robert Eggers onnistuu tuomaan Bram Stokerin alkuperäistarinan ja vuoden 1922 F. W. Murnaun klassikkoelokuvan tähän aikaan? Miten Eggersin Nosferatu vertautuu vuoden 1979 Werner Hertzogin Nosferatu tai vuoden 1992 Francis Ford Coppolan Dracula -adaptaatioiden kanssa? Kuinka hyvin uusi versio perustelee paikkansa Dracula-elokuvakaanonissa?
+
+          Miksi vampyyritarinat ja Kreivi Draculan myytti kiinnostaa meitä vuodesta toiseen, ja millaiset ovat vampyrismin juuret kansantaruissa? 
+
+          Kulttuuriykkönen saa vieraakseen kauhukirjailija Tiina Raevaaran sekä elokuviin erikoistuneen toimittaja-tietokirjailija Matti Rämön. Juhani Kenttämaa toimittaa.
+
+          [Huom! Nauhoitus - ei uusinta!]
         series: Kulttuuriykkönen
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-04T10:58:00+02:00'
@@ -128,6 +138,7 @@ data:
       - title: Musiikkikamari
         start_time: '2025-01-04T14:45:00+02:00'
         end_time: '2025-01-04T15:00:00+02:00'
+        series: Musiikkikamari
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 1/12.'
         start_time: '2025-01-04T15:00:00+02:00'
         end_time: '2025-01-04T15:22:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-23T02:28:05.695574+00:00'
+  generated_at: '2024-12-25T02:26:04.020031+00:00'
   git:
     branch: main
-    commit: 30c9d6457eed0e14c1917a204163cd66c2e593e7
-  data_hash: c69d327ebb21e108a3dd65d8ec1178620a73ebd23320b67de1eaefb32402397e
+    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
+  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
 data:
   Yle Radio 1:
     programmes:
@@ -12,31 +12,36 @@ data:
         end_time: '2024-12-29T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2024-12-29T07:00:00+02:00'
         end_time: '2024-12-29T07:02:05+02:00'
-      - title: Sari Valto
-        start_time: '2024-12-29T07:03:00+02:00'
-        end_time: '2024-12-29T07:58:00+02:00'
+      - title: 'Sari Valto: Kaksi erilaista taustaa, suomalainen joulu molemmilla'
+        start_time: '2024-12-29T07:02:36+02:00'
+        end_time: '2024-12-29T07:54:23+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        series: Sari Valto
       - title: Yle Uutiset ja sää
         start_time: '2024-12-29T08:00:00+02:00'
         end_time: '2024-12-29T08:05:05+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
-        start_time: '2024-12-29T08:05:35+02:00'
-        end_time: '2024-12-29T08:59:30+02:00'
+      - title: Narrin aamulaulu - Mademoiselle de Guisen palveluksessa
+        start_time: '2024-12-29T08:05:29+02:00'
+        end_time: '2024-12-29T08:59:23+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Marc-Antoine Charpentier (1643-1704) työskenteli 17 vuotta Lothringenin prinsessa Marien eli Mademoiselle de Guisen kaupunkipalatsissa Pariisissa. Millaista oli säveltäjän elämä taloudessa, jossa 80 palvelijaa ahkeroi täyttäessään emäntänsä toiveet, Mademoisellen keskittyessä katolisen uskonsa harjoittamiseen? Outi Paananen avaa oven de Guisen palatsiin ja Marc-Antoine Charpentier'n elämään. 
+        series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
         start_time: '2024-12-29T09:00:00+02:00'
         end_time: '2024-12-29T09:05:05+02:00'
       - title: Riston Valinta
-        start_time: '2024-12-29T09:05:35+02:00'
-        end_time: '2024-12-29T09:55:00+02:00'
+        start_time: '2024-12-29T09:05:38+02:00'
+        end_time: '2024-12-29T09:54:12+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
+        series: Riston Valinta - Risto Nordell
+      - title: Yksi on hyvää seuraa
+        start_time: '2024-12-29T09:54:12+02:00'
+        end_time: '2024-12-29T09:56:00+02:00'
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2024-12-29T09:56:00+02:00'
         end_time: '2024-12-29T09:59:00+02:00'
@@ -104,7 +109,6 @@ data:
         end_time: '2024-12-29T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2024-12-29T16:00:00+02:00'
         end_time: '2024-12-29T16:10:00+02:00'
@@ -137,13 +141,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2024-12-29T17:00:00+02:00'
         end_time: '2024-12-29T17:10:00+02:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: J niin kuin jazz, eli jazzin sielua etsimässä'
         start_time: '2024-12-29T17:11:00+02:00'
-        end_time: '2024-12-29T18:11:00+02:00'
+        end_time: '2024-12-29T18:10:22+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Jazz on 1900-luvun alkupuolella lähinnä afroamerikkalaisessa yhteisössä syntynyt musiikkityyli, jonka ytimessä ovat improvisaatio ja rytminen kekseliäisyys. Mutta mitä jazz on filosofisella tasolla? Laura Korhosen Jazzklubi selvittää jazzin sielua ja syvintä olemusta jazz-sanalla otsikoituja kappaleiden myötä. (U)
+        series: Laura Korhosen Jazzklubi
       - title: 'Jazzklubin illan keikka: Alexander Hawkins Trio April Jazzissa.'
-        start_time: '2024-12-29T18:11:00+02:00'
+        start_time: '2024-12-29T18:10:22+02:00'
         end_time: '2024-12-29T19:00:00+02:00'
         description: |
           Äänitetty Louhisalissa 24.4.2024.
@@ -153,7 +158,7 @@ data:
         end_time: '2024-12-29T19:02:05+02:00'
       - title: 'Jazzklubi: DJ Bunuelin Tunti vapaalla.'
         start_time: '2024-12-29T19:02:05+02:00'
-        end_time: '2024-12-29T20:00:00+02:00'
+        end_time: '2024-12-29T19:59:40+02:00'
         description: |
           Toimittajana DJ Bunuel.
         series: Jazzklubi
@@ -172,17 +177,41 @@ data:
         series: Maailmanpolitiikan arkipäivää
       - title: Elävä historia
         start_time: '2024-12-29T21:30:30+02:00'
-        end_time: '2024-12-29T22:19:30+02:00'
+        end_time: '2024-12-29T22:19:18+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Moni suomalaisen kansanperinteen uskomus maailmansynnystä kuolemaan kietoutuu lintuihin. Myös suomalais-ugrilaiset sisarkansamme ovat jakaneet käsitykset lintujen myyttisistä ja mystisistä ominaisuuksista. Mutta miksi juuri lintu on niin erikoislaatuinen eläin, että se on kelvannut niin sielun esikuvaksi kuin shamaanin avustajaksi? Mitä lintuteemoja kätkeytyy muinaiseen noitana pidettyyn vainajaan ja Outokummusta löytyneeseen lapsen hautaan? Jakson asiantuntijana on arkeologian professori Kristiina Mannermaa ja toimittajana Nadja Mikkonen. Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
         series: Elävä historia
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Jouluaaton kirkkauksia'
         start_time: '2024-12-29T22:20:00+02:00'
-        end_time: '2024-12-29T23:16:30+02:00'
+        end_time: '2024-12-29T23:11:15+02:00'
         description: |
+          Linnut ja muut eläimet sekä erilaiset pastoraalit soivat Klasariparatiisin kirkkaissa joulumusiikeissa.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Johann Sebastian Bach: Jauchzet, frohlocket! Alkukuoro Jouluoratoriosta (Solistikuoro ja Dunedin Consort/John Butt).
+
+          Anonyymi 1500-luvulta: Von Himmel hoch, Enkeli taivaan (sov. Micahel Praetorius, Johannes Eccard, Johann Hermann Schein) (Ludwig Guettler -vaskiyhtye).
+
+          Anonyymi 1700-luvulta: Laulu satakielelle (Kalevi Kiviniemi, urut, Petri Vähätalo, lintupilli).
+          Louis-Claude Daquin: Käki, Sarjasta cembalolle no 3
+          Michel Corrette: Provencelainen joulu (Kalevi Kiviniemi, urut).
+
+          Alessandro Scarlatti: Nacque, col Gran Messia, aaria Joulukantaatista  Non so qual piu m'ingombra (Elizabeth Watts, sopraano, ja The English Concert/Laurence Cummings).
+
+          Marc-Antoine Charpentier: Antakaa eläimenne laiduntaa, Te jotka olette niin kauan kaivanneet, sekä Mihin nämä iloiset paimenet ovat menossa? kokoelmista Noëls pour les instruments (Ensemble Masques/Olivier Fortin). 
+
+          Anonyymi 1500-luvulta:  Coventry carol (The Gesualdo Six/Owain Park).
+
+          Anonyymi: Angelus emittitur, kokoelmasta Piae cantiones, (sov. Jean Sibelius ja Heikki Klemetti, käännös Heikki Klemetti) (Helsingin kamarikuoro/Nils Schweckendiek, ja Jan Lehtola, urut).
+
+          Anonyymi 1400-luvulta: Es ist ein Ros entsprungen (sov.  Michael Praetorius ja Jan Sandström) (Voces8).
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Romano mirits
         start_time: '2024-12-29T23:25:00+02:00'
-        end_time: '2024-12-29T23:39:30+02:00'
+        end_time: '2024-12-29T23:39:25+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Jos 2020-luvulla tehtäisiin lasten laulukilpailu Tenavatähteä, siellä esitettäisiin räppiä, arvelee 1990-luvun lapsitähti Leif Lindgren. Seppo Hovin juontama Tenavatähti innosti lapsia laulamaan ja oli suorastaan sukupolvikokemus 1990-luvun taitteen lapsille. Se toi näkyvyyttä myös romaniväestölle. ”Ihmiset pääsivät lähemmäs romanien elämää, kun he näkivät romanilapsia laulamassa Tenavatähdessä”, Leif Lindgren toteaa. Lindgrenin tapasi toimittaja Jaakko Laakso.
+        series: Romano mirits
