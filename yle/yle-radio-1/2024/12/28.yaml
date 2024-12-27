@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-25T02:26:03.500171+00:00'
+  generated_at: '2024-12-27T02:26:54.305036+00:00'
   git:
     branch: main
-    commit: fcdaa35231f2f24ebbc532ce703a1e55c2a36e4f
-  data_hash: f1752856d1cf156d0242fcd85a4e203b9256d10332f689569227b0c321eb35df
+    commit: fc8d758f309d57833555d9c19422faf83fddcf34
+  data_hash: f9ace6a2ea22a69116209c2e18d806e21b451503e34b8e690578f6219340b152
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,30 @@ data:
         start_time: '2024-12-27T23:40:00+02:00'
         end_time: '2024-12-28T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Verdi: I Vespri Siciliani (Sisilialainen vesper), ooppera (Cheryl Studer, sopraano, Giorgio Zancanaro, baritoni, Ferruccio Furlanetto, basso, Chris Merritt, tenori, Enzo Capuano, basso, Francesco Musinu, basso, ja Gloria Banditelli, mezzosopraano, ym. sekä Milanon La Scala -oopperan kuoro ja ork./Riccardo Muti).
+
+          03:05 Nardini: Konsertto viululle, jousille ja continuolle G-duuri (Arion-barokkiork./Stefano Montanari, barokkiviulu). 
+
+          03:32 Seppo Pohjola: Vinha (RSO/John Storgårds).
+
+          03:33 Bartók: Divertimento jousiorkesterille (Saksan radion FO:n jouset/Pietari Inkinen).
+
+          03:59 Gossec: Jousikvartetto n:o 1 (Quatuor Ad Fontes).
+
+          04:10 Schmidt: Kvintetto A-duuri (Linos-yhtye).
+
+          05:16 Tanejev: Alkusoitto oopp. Oresteia (HKO/Vladimir Ashkenazy).
+
+          05:33 Pesonen: Sonatiini pianolle (Matti Rautio).
+
+          05:47 W.A. Mozart: Divertimento B-duuri (Stadler Trio).
+
+          06:05 Pierné: Serenadi (Lajos Lencsés, oboe, ja Giselle Herbert, harppu).
+
+          06:07 Borghi: Duetto n:o 1 C-duuri (Lorenzo Gugole, viulu, ja Giorgio Bottiglioni, alttoviulu).
+
+          06:17 Philidor: Sarja kahdelle huilulle n:o 3 D-duuri (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2024-12-28T06:30:00+02:00'
         end_time: '2024-12-28T07:00:00+02:00'
@@ -264,4 +287,43 @@ data:
         start_time: '2024-12-28T23:40:00+02:00'
         end_time: '2024-12-29T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Wagner: Wotanin jäähyväiset ja taikatuli oopp. Valkyyria (George London, bassobaritoni, ja Wienin filharmonikot/Hans Knappertsbusch).
+
+          23:58 Kuhlau: Kvartetto neljälle huilulle e-molli (Patrick Gallois ja Trio d'Argent).
+
+          00:28 Elgar: Jousikvartetto e-molli (Medici-kvartetti).
+
+          00:56 Castelnuovo-Tedesco: Neljä tanssia Shakespearen näytelmään Love's Labour's Lost (Alessandro Marangoni, piano, ja Malmön SO/Andrew Mogrelia).
+
+          01:13 J.S. Bach: Kantaatti n:o 51 (Jauchzet Gott in allen Landen) (Julianne Baird, sopraano, ja The Bach Ensemble/Joshua Rifkin).
+
+          01:31 I. Hannikainen: Orkesterisarja laulunäyt. Talkootanssit (RSO/Petri Sakari).
+
+          01:47 Szymanowski: Kolme katkelmaa Jan Kasprowiczin runoihin (Urszula Kryger, mezzosopraano, ja Katarzyna Jankowska, piano).
+
+          02:08 Sibelius: Malinconia (Arto Noras, sello, ja Tapani Valsta, piano).
+
+          02:21 van Bree: Jousikvartetto n:o 3 d-molli (Nomos-kvartetti).
+
+          02:49 Acerbi: Kvartetto klarinetille ja jousille n:o 3 (Reino Simola, klarinetti, Jukka-Pekka Saraste, viulu, Jouko Mansnerus, alttoviulu, ja Eira Ojanen, sello).
+
+          03:15 Villa-Lobos: Bachianas brasileiras n:o 4 (Uuden maailman SO/Michael Tilson Thomas).
+
+          03:35 Saint-Saëns: Pianotrio n:o 1 F-duuri (Colub Kaplan Carr Trio).
+
+          04:04 Giuliani: Duo concertante e-molli (Joseph Swensen, viulu, ja Kazuhito Yamashita, kitara).
+
+          04:37 Beethoven: Pianosonaatti n:o 31 As-duuri (Piotr Anderszewski).
+
+          04:59 Boieldieu: Alkusoitto oopp. Valkoinen nainen (Detroitin SO/Paul Paray).
+
+          05:07 Beethoven: Pianokonsertto n:o 3 c-molli (Glenn Gould ja Berliinin filharmonikot/Herbert von Karajan).
+
+          05:43 Respighi: Concerto gregoriano (Gregoriaaninen konsertto) (Takako Nishizaki, viulu, ja Singaporen SO/Hoey Choo).
+
+          06:16 Tshaikovski: Vuodenajat (heinäkuu-joulukuu) (Christoph Eschenbach, piano).
+
+          06:38 Fasch: Konsertto orkesterille ja continuolle B-duuri (Tempesta di Mare)
+
+          06:57 C.P.E. Bach: Selma, kantaatti sopraanolle, kahdelle huilulle, jousille ja continuolle (Magdalena Kozena, mezzosopraano, ja Musica Antiqua/Reinhard Goebel).
+        series: Syventävää klassista
