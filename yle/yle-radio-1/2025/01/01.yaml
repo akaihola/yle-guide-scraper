@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-27T02:26:55.487391+00:00'
+  generated_at: '2024-12-29T02:29:54.904363+00:00'
   git:
     branch: main
-    commit: fc8d758f309d57833555d9c19422faf83fddcf34
-  data_hash: f9ace6a2ea22a69116209c2e18d806e21b451503e34b8e690578f6219340b152
+    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
+  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
 data:
   Yle Radio 1:
     programmes:
@@ -61,19 +61,21 @@ data:
         series: Syventävää klassista
       - title: Yle Uutiset ja sää
         start_time: '2025-01-01T07:00:00+02:00'
-        end_time: '2025-01-01T07:02:00+02:00'
-      - title: Taiteilijatapaaminen
-        start_time: '2025-01-01T07:02:00+02:00'
-        end_time: '2025-01-01T07:55:00+02:00'
-        description: |2+
-
+        end_time: '2025-01-01T07:02:05+02:00'
+        series: Yle Uutiset
+      - title: 'Taiteilijatapaaminen: "Voiko ilman runoutta edes elää?" - runoilijat Tiina Poutanen ja Niina Hakalahti heittäytyvät runoon'
+        start_time: '2025-01-01T07:02:30+02:00'
+        end_time: '2025-01-01T07:54:51+02:00'
+        description: |
+          Taiteilijatapaamisessa kohtaamme kirjailija ja runoilija Niina Hakalahden sekä alkujaan kuvataiteilijaksi valmistuneen, runoilija Tiina Poutasen. Toimittajana Rita Tröschkes.
         series: Taiteilijatapaaminen
       - title: Yle Uutiset ja sää
         start_time: '2025-01-01T08:00:00+02:00'
-        end_time: '2025-01-01T08:05:00+02:00'
+        end_time: '2025-01-01T08:05:05+02:00'
+        series: Yle Uutiset
       - title: 'Tarinatarha: Santeri Ivalon Vanha juttu'
-        start_time: '2025-01-01T08:06:00+02:00'
-        end_time: '2025-01-01T08:59:59+02:00'
+        start_time: '2025-01-01T08:06:30+02:00'
+        end_time: '2025-01-01T08:57:59+02:00'
         description: |
           Santeri Ivalo: Vanha juttu - kertomus kokoelmasta Iltapuhteeksi. Lukijana Maaria Holma. Toimittajana Jouni Kenttämies. Uusinta vuodelta 2018.
         series: Tarinatarha
@@ -134,6 +136,20 @@ data:
       - title: Klassinen kattaus
         start_time: '2025-01-01T13:30:00+02:00'
         end_time: '2025-01-01T14:30:00+02:00'
+        description: |-
+          J.S. Bach: Jumalallisen kaitselmuksen ja Ajan duetto Uudenvuodenpäivän kantaatista 134a (Michael Chance, kontratenori, ja Paul Agnew, tenori, sekä Amsterdamin barokkiork./Ton Koopman).
+
+          Busoni (sov.): Suomalaisia kansanlaulusovituksia (Erik T. Tawaststjerna, piano, ja Hui-Ying Liu, piano).
+
+          von Suppé: Alkusoitto oper Kaunis Galateia (Wienin filharmonikot/Lorin Maazel).
+
+          Mouton: Nesciens mater (Miestä mitään tuntematta) (The Brabant Ensemble/Stephen Rice).
+
+          R. Strauss (sov. Singer & Doebber): Valssisikermä oopperasta Ruusuritari (Cölln-salonkiork.).
+
+          Reger: Neujahrslied (Uudenvuodenlaulu) (Dresdenin kamarikuoro/Hans-Christoph Rademann).
+
+          Madetoja: Tanssinäky (RSO/Jorma Panula).
         series: Klassinen kattaus
       - title: 'Aristoteleen kantapää: Nyrkki silmään, sydän syrjällään – kehoon liittyviä sanontoja on kaikissa kielissä, mutta suoraan niitä ei voi kääntää'
         start_time: '2025-01-01T14:30:00+02:00'
@@ -150,7 +166,6 @@ data:
         end_time: '2025-01-01T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-01T16:00:00+02:00'
         end_time: '2025-01-01T16:10:00+02:00'
@@ -212,17 +227,31 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-01T21:00:00+02:00'
         end_time: '2025-01-01T21:02:00+02:00'
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Kirjoja kirjoittamisen voimasta'
         start_time: '2025-01-01T21:05:00+02:00'
-        end_time: '2025-01-01T21:35:00+02:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-01-01T21:35:30+02:00'
-        end_time: '2025-01-01T22:15:30+02:00'
-      - title: Taiteilijatapaaminen
-        start_time: '2025-01-01T22:30:00+02:00'
-        end_time: '2025-01-01T23:22:00+02:00'
-        description: |2+
+        end_time: '2025-01-01T21:33:37+02:00'
+        description: |
+          Anna-Kaari Hakkaraisen romaani Marraseliö purkaa suhdetta kirjoittamiseen. Sami Oskari Lahtisen Dinosaureenissa poika etsii isäänsä kirjoittamalla. Vilja-Tuulia Huotarisen runokokoelma on ylistys kirjan voimalle. 
+        series: KC Kirjat
+      - title: 'Radiogalleria: Ufo - Nevadan salaisuus (FM)'
+        start_time: '2025-01-01T21:35:00+02:00'
+        end_time: '2025-01-01T22:25:59+02:00'
+        description: |
+          Ohjelma jälkikuunneltavissa kolmiosaisena sarjana Yle Areenassa otsikolla Ufo - Nevadan salaisuus.
 
+          Toiset näkevät selittämättömiä valoilmiöitä taivaalla, osa lentäviä lautasia ja joku kaapataan suurisilmäisen avaruusolennon tutkimuspöydälle avaruusalukseen. Ufo – Nevadan salaisuus tutkii, kuinka armeija, sen salaiset kokeet, alitajunta ja luonto vaikuttavat meihin ja tunnistamattomiin lentäviin kohteisiin liittyviin haintoihimme ja millaista on elää ympäristössä, jossa on alituisesti jotain salaista ja väkivaltaista.
+
+          Audioessee matkustaa Las Vegasista Alue 51:n viereiselle vuorelle ja lopulta Nevadan asuttamattomaan autiomaahan avaruusolentojen perässä. Essee pureutuu ihmismielen perversioihin ja kysyy, mitä tunnistamattomat lentävät kohteet voivat olla ja mitä ne kertovat meistä ihmisinä.
+
+          Työryhmä: Tuuli Alanärä, Felicia Honkasalo, Suvi Tuuli Kataja, Jussi Liukkonen ja Elli Salo. 
+
+          Haastateltavat: Dreamland-sivuston perustaja Joerg Arnu, CIA:n entinen tiedustelu-upseeri Thornton D. Barnes, Armeijan ilmavoimissa työskentelevä Jessica Boldin ja Ufo-uskomuksiin perehtynyt tietokirjailija Sarah Scoles. Tuotanto: Aapa Oy. Tilaaja: Juha-Pekka Hotinen, Radiogalleria.
+      - title: 'Taiteilijatapaaminen: Näyttelijä Elsa Saisio ja tanssitaiteilija Tuulia Soininen - intohimosta, vapaudesta ja rakkaudesta taitee'
+        start_time: '2025-01-01T22:26:30+02:00'
+        end_time: '2025-01-01T23:19:08+02:00'
+        description: |
+          Näyttelijä Elsa Saisio ja tanssitaiteilija Tuulia Soininen puhuvat kulttuurin leikkauksien vaikutuksista ja oman työnsä merkityksestä Taiteilijatapaamisessa. Toimittajana Rita Trötschkes.
+        series: Taiteilijatapaaminen
       - title: Yöklassinen
         start_time: '2025-01-01T23:40:00+02:00'
         end_time: '2025-01-02T06:30:00+02:00'

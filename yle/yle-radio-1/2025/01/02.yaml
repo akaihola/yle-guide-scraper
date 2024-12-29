@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-27T02:26:55.860960+00:00'
+  generated_at: '2024-12-29T02:29:55.119263+00:00'
   git:
     branch: main
-    commit: fc8d758f309d57833555d9c19422faf83fddcf34
-  data_hash: f9ace6a2ea22a69116209c2e18d806e21b451503e34b8e690578f6219340b152
+    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
+  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
 data:
   Yle Radio 1:
     programmes:
@@ -161,7 +161,6 @@ data:
       - title: Klassinen kattaus
         start_time: '2025-01-02T13:30:00+02:00'
         end_time: '2025-01-02T14:30:00+02:00'
-        series: Klassinen kattaus
       - title: Kaisa Pulakan aikamatkat s1 j1
         start_time: '2025-01-02T14:30:00+02:00'
         end_time: '2025-01-02T14:50:00+02:00'
@@ -185,13 +184,28 @@ data:
         end_time: '2025-01-02T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-02T16:00:00+02:00'
         end_time: '2025-01-02T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-02T16:10:00+02:00'
         end_time: '2025-01-02T16:59:59+02:00'
+        description: |-
+          Auber: Alkusoitto oopp. Le Cheval de bronze (Pronssihevonen) (BBC:n FO/Yan Pascal Tortelier).
+
+          Bruckner: Erinnerung (Muisto) (Leslie Howard, piano).
+
+          Ries: La Capricciosa (Vadim Gluzman, viulu, ja Angela Yoffe, piano).
+
+          Mayer: Finaali jousikvartetosta A-duuri (Constanze Quartet).
+
+          R. Strauss: Andante (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          W.A. Mozart: Sandrinan aaria ja cavatina oopp. Valepuutarhuri (Renée Fleming, sopraano, ja St. Luken ork./Charles MacKerras).
+
+          Fauré: Fantasia C-duuri (Emmanuel Pahud, huilu, ja Eric Le Sage, piano).
+
+          Halvorsen: Norjalainen tanssi n:o 5 (Harald Aadland, viulu, ja Norjan RO/Ari Rasilainen).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-02T17:00:00+02:00'

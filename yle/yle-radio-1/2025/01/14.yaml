@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-27T02:26:59.549092+00:00'
+  generated_at: '2024-12-29T02:29:58.209226+00:00'
   git:
     branch: main
-    commit: fc8d758f309d57833555d9c19422faf83fddcf34
-  data_hash: f9ace6a2ea22a69116209c2e18d806e21b451503e34b8e690578f6219340b152
+    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
+  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
 data:
   Yle Radio 1:
     programmes:
@@ -15,7 +15,6 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-14T06:30:50+02:00'
         end_time: '2025-01-14T06:50:00+02:00'
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-14T06:50:00+02:00'
         end_time: '2025-01-14T06:59:59+02:00'

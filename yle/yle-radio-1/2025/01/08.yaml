@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-27T02:26:57.541938+00:00'
+  generated_at: '2024-12-29T02:29:56.818411+00:00'
   git:
     branch: main
-    commit: fc8d758f309d57833555d9c19422faf83fddcf34
-  data_hash: f9ace6a2ea22a69116209c2e18d806e21b451503e34b8e690578f6219340b152
+    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
+  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
 data:
   Yle Radio 1:
     programmes:
@@ -35,7 +35,6 @@ data:
           Rossini: Balettimusiikkia oopp. Wilhelm Tell (Milanon Giuseppe Verdi -SO/Riccardo Chailly).
 
           Rahmaninov: Preludi B-duuri (Jevgeni Kisin, piano).
-        series: Aamusoitto
       - title: Ykkösaamu
         start_time: '2025-01-08T08:10:00+02:00'
         end_time: '2025-01-08T09:00:00+02:00'
@@ -147,6 +146,25 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-08T16:10:00+02:00'
         end_time: '2025-01-08T16:59:20+02:00'
+        description: |-
+          Grieg: Alkusoitto näyt. Sigurd Jerusaleminkävijä (Göteborgin SO/Neeme Järvi).
+
+          Lehár: Giudittan laulu "Ich weiss es selber nicht - Meine Lippen, sie küssen so heiss" oper. Giuditta (Anna Moffo, sopraano, sekä kuoro ja ork./Hans Carste).
+
+          Wolf-Ferrari: Alkusoitto oopp. La Dama boba (BBC:n FO/Gianandrea Noseda).
+
+          P. J. Hannikainen: Kotiseutu (Cantio Laudis/Olli Heikkilä).
+
+          Ponce: Preludi kitaralle (John Williams).
+
+          Schubert: An die Musik (Fritz Wunderlich, tenori, ja Hubert Giesen, piano).
+
+          Hüe: Fantasia huilulle ja pianolle (James Galway ja Phillip Moll).
+
+          Andrée: Intermezzo jousikvartetosta A-duuri (Klarakvartetten).
+
+          Bridge: Kruunajaismarssi (Coronation march) (BBC:n Walesin kansallisork./Richard Hickox).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-08T17:00:00+02:00'
         end_time: '2025-01-08T17:10:00+02:00'
