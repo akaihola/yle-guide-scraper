@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-29T02:30:00.363803+00:00'
+  generated_at: '2024-12-30T02:28:29.031787+00:00'
   git:
     branch: main
-    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
-  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
+    commit: 55248549857a320ee32c7219ff82a361f2ac202f
+  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
 data:
   Yle Radio 1:
     programmes:
@@ -29,7 +29,6 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-23T07:10:00+02:00'
         end_time: '2025-01-23T07:59:59+02:00'
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T08:00:00+02:00'
         end_time: '2025-01-23T08:10:00+02:00'
@@ -62,7 +61,6 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-23T11:57:00+02:00'
         end_time: '2025-01-23T12:00:00+02:00'
-        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T12:00:00+02:00'
         end_time: '2025-01-23T12:10:00+02:00'
@@ -106,7 +104,6 @@ data:
         end_time: '2025-01-23T17:34:20+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-        series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-01-23T17:35:00+02:00'
         end_time: '2025-01-23T18:25:00+02:00'
@@ -134,7 +131,6 @@ data:
       - title: Etnokonsertteja
         start_time: '2025-01-23T19:02:00+02:00'
         end_time: '2025-01-23T21:00:00+02:00'
-        series: Etnokonsertteja
       - title: Yle Uutiset
         start_time: '2025-01-23T21:00:00+02:00'
         end_time: '2025-01-23T21:02:00+02:00'

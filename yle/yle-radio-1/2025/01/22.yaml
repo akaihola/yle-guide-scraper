@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-29T02:30:00.151559+00:00'
+  generated_at: '2024-12-30T02:28:28.532499+00:00'
   git:
     branch: main
-    commit: 91bf0eb89b0ab2816ce0e09eee58b9813a5785e0
-  data_hash: 993b3df1571483b1bbae533e247fca05dc09e09d470bab159101676a93dc2b4e
+    commit: 55248549857a320ee32c7219ff82a361f2ac202f
+  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
 data:
   Yle Radio 1:
     programmes:
@@ -15,7 +15,6 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-22T06:30:50+02:00'
         end_time: '2025-01-22T06:50:00+02:00'
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-22T06:50:00+02:00'
         end_time: '2025-01-22T06:59:59+02:00'
@@ -70,7 +69,6 @@ data:
         end_time: '2025-01-22T18:35:00+02:00'
         description: |
           Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-22T18:35:00+02:00'
         end_time: '2025-01-22T18:50:00+02:00'
