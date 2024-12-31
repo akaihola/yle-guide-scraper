@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2024-12-30T02:28:29.795065+00:00'
+  generated_at: '2024-12-31T02:26:18.723146+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
+      - title: Aamuklassinen
+        start_time: '2025-01-25T06:30:00+02:00'
+        end_time: '2025-01-25T07:00:00+02:00'
       - title: 'Luomiskertomus: Arto Kivimäen suomentama Plautus pilkkaa tärkeileviä miehiä'
         start_time: '2025-01-25T07:30:00+02:00'
         end_time: '2025-01-25T07:55:00+02:00'
@@ -87,7 +90,6 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2025-01-25T15:30:00+02:00'
         end_time: '2025-01-25T15:55:00+02:00'
-        series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2025-01-25T15:55:00+02:00'
         end_time: '2025-01-25T15:58:00+02:00'
@@ -110,7 +112,7 @@ data:
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
         series: Miia Krause
-      - title: Ehtookellot
+      - title: 'Ehtookellot: Inkeroisten kirkon kellot'
         start_time: '2025-01-25T18:00:00+02:00'
         end_time: '2025-01-25T18:01:00+02:00'
       - title: Iltahartaus
@@ -135,7 +137,7 @@ data:
           Trouble in Tahiti, yksinäytöksinen ooppera. Sam, liikemies - Henry Neill, baritoni. Dinah, Samin vaimo - Wallis Giunta, mezzosopraano. Trion jäsenet: Kirsty McLean, sopraano; Guy Elliott, tenori, ja Peter Edge, baritoni. 
           A Quiet Place, 3-näytöksinen ooppera. Sam - Grant Doyle, baritoni. Sam junior, Samin ja Dinahin poika - Henry Neill, baritoni. Dede, Samin ja Dinahin tytär - Rowan Pierce, sopraano. Francois - Elgan Llyr Thomas, tenori. 
 
-          Oopperan kuluessa Outi Paananen vieraineen keskustelee illan teoksista ja esityksistä.
+          Esityksen kuluessa oopperalaulaja Päivi Nisula, pianisti Marko Hilpo ja Outi Paananen keskustelevat illan teoksista ja esityksistä.
 
           Äänitetty Lontoon kuninkaallisen oopperan Linbury-teatterissa 21.10.2024
         series: Ooppera

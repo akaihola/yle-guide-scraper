@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-30T02:28:26.203743+00:00'
+  generated_at: '2024-12-31T02:26:15.059537+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
@@ -28,11 +28,19 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-15T09:05:40+02:00'
         end_time: '2025-01-15T09:58:00+02:00'
-      - title: Tuntematon Ukraina
+      - title: 'Tuntematon Ukraina: Jokainen ukrainalainen on kasakka'
         start_time: '2025-01-15T10:00:00+02:00'
         end_time: '2025-01-15T10:35:00+02:00'
-        description: |2+
+        description: |+
+          Demokraattinen ja vapaa maa, jonka kansalaisia yhdistää visio ja halu olla osa Eurooppaa. Ukraina on myös värikäs valtio täynnä erilaisia ryhmiä – mm. venäjänkielisiä, ukrainankielisiä, tataareja, juutalaisia, gaugazeja – jotka ovat ylpeästi ja vapaasti ukrainalaisia yhtä kaikki. Näin kuvailee kotimaansa identiteettiä ja asukkaita Odessasta kotoisin oleva sosiologi Arseniy Svynarenko.
 
+          Hän löytää Ukrainasta myös selkeitä heimoluonteita, joita voi verrata suomalaisiin kuvailuihin esimerkiksi hitaista hämäläisistä, jäyhistä pohjalaisista ja vilkkaista karjalaisista.
+
+          Ovatko odessalaiset kuin vääräleukoja savolaisia ja donetskilaiset suorasanaisia satakuntalaisia? Kuinka suuria kulttuurisia ja poliittisia alue-eroja Ukrainassa on? Miten maan eri väestöryhmät suhtautuvat toisiinsa? Kuinka kansallisidentiteetti on kehittynyt? Toimittajana on Jari Aula.
+
+          Ohjelma on uusinta huhtikuulta 2022.
+
+        series: Tuntematon Ukraina
       - title: Ukraina soi
         start_time: '2025-01-15T10:35:00+02:00'
         end_time: '2025-01-15T10:55:00+02:00'
@@ -59,7 +67,6 @@ data:
         end_time: '2025-01-15T18:35:00+02:00'
         description: |
           Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-15T18:35:00+02:00'
         end_time: '2025-01-15T18:50:00+02:00'

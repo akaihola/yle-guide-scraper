@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-30T02:28:24.107537+00:00'
+  generated_at: '2024-12-31T02:26:12.210038+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
@@ -12,14 +12,27 @@ data:
         end_time: '2025-01-07T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-07T06:30:50+02:00'
         end_time: '2025-01-07T06:50:00+02:00'
+        description: |-
+          Gerdmar: Leipä elämän (Lauluyhtye, sekä Mikko Iivanainen, kitara).
+
+          Koraalitoisinto: Tähti taivahinen kerran (Vaskivuoren lukion kamarikuoro/Jukka Lehtinen).
+
+          Jyrki Linjama: Maa järkkyy, murtuu (Kamarikuoro Kaamos/Visa Yrjölä, sekä Katri Vanhamäki, urut).
+
+          J. Saari: Hetkeksi hiljene maa (Uskela-kvartetti).
+
+          Kansansävelmä (sov. Bartling): Kolmen kuninkaan marssi (Key Ensemble/Teemu Honkanen).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-07T06:50:00+02:00'
         end_time: '2025-01-07T06:59:59+02:00'
-        description: |-
-          Pastori, kirjastoneuvoja Atte Hokkanen, Helsinki
+        description: |
+          "Jumala on läsnä"
+          Pastori, kirjastoneuvoja Atte Hokkanen Helsingistä istuu kahvilassa ja aistii pyhän tuoksua.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T07:00:00+02:00'
@@ -45,7 +58,6 @@ data:
           Price: Fantasia viululle ja pianolle n:o 2 (Randall Goosby ja Zhu Wang).
 
           Kuula: Eteläpohjalainen tanssi nro 2 (RSO/Kari Tikka).
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T08:00:00+02:00'
         end_time: '2025-01-07T08:10:00+02:00'
@@ -80,12 +92,12 @@ data:
         end_time: '2025-01-07T10:55:00+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-01-07T11:00:00+02:00'
         end_time: '2025-01-07T11:57:00+02:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
-        series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-07T11:57:00+02:00'
         end_time: '2025-01-07T12:00:00+02:00'
@@ -98,7 +110,6 @@ data:
         end_time: '2025-01-07T12:30:00+02:00'
         description: |-
           Kaisa Pulakka kysyy, kuka kaipaa kättelyä. Aikamatkat lennättävät kuulijan tutkimaan kättelyn historiaa. Matkan varrella pirautetaan myös Korkeasaareen. 
-        series: Kaisa Pulakan aikamatkat
       - title: 'Aristoteleen kantapää: Suomalaisten etunimistö muuttuu nopeasti – Suomessa jo 145 000 erilaista etunimeä'
         start_time: '2025-01-07T12:30:00+02:00'
         end_time: '2025-01-07T12:55:00+02:00'
@@ -231,11 +242,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-07T18:35:00+02:00'
         end_time: '2025-01-07T18:50:00+02:00'
+        description: |-
+          Tegner: Kirkkaus yllä maan (Gläns över sjö och strand) (Gabriel Suovanen, baritoni, ja Vox Cantorum/Heikki Seppänen sekä Kalevi Kiviniemi, urut).
+
+          Tuntematon: Jerusalem, katse nosta (RKK/Timo Nuoranne, sekä Harri Viitanen, urut ja Tarja Viitanen, trumpetti).
+
+          Huhtala: Täytetty on (Nina Åström).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-07T18:50:00+02:00'
         end_time: '2025-01-07T19:00:00+02:00'
-        description: |-
-          Seurakuntatyöntekijä Veli Keronen, Adventtikirkko, Oravisalo
+        description: |
+          "Jumalan armo ja voima kantavat perille taivaskotiin"
+          Seurakuntatyöntekijä Veli Keronen, Adventtikirkko, Rääkkylästä puhuu siitä, kuinka heikkoudessa voi olla voimakas.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-07T19:00:00+02:00'
@@ -281,3 +300,4 @@ data:
         end_time: '2025-01-08T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista

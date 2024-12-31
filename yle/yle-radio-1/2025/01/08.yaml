@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-30T02:28:24.376798+00:00'
+  generated_at: '2024-12-31T02:26:12.455337+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
@@ -12,11 +12,25 @@ data:
         end_time: '2025-01-08T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
+      - title: Hartaita säveliä
+        start_time: '2025-01-08T06:30:50+02:00'
+        end_time: '2025-01-08T06:50:00+02:00'
+        description: |-
+          Nicolai: On kirkas aamutähti nyt (Kampin Laulu/Timo Lehtovaara, ja Pertti Eerola, urut).
+
+          Salminen: Siipi enkelin (Jukka Salminen, laulu, ja Markku Perttilä, kitara).
+
+          Moring: Jeesus Kristus, nimeäsi (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
+
+          Tuntematon: Soi kiitosvirsi kerran (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-08T06:50:00+02:00'
         end_time: '2025-01-08T06:59:59+02:00'
-        description: |-
-          Rovasti Jaana Marjanen, Kuopio
+        description: |
+          "Miksi on niin monia kirkkokuntia?"
+          Elämääni taustapeilistä -aamuhartaussarjan aluksi rovasti Jaana Marjanen Kuopiosta muistelee lapsuuttaan Nivalan latomeren laidalla (osa 1/6).
         series: Aamuhartaus
       - title: Aamusoitto
         start_time: '2025-01-08T07:10:00+02:00'
@@ -55,11 +69,12 @@ data:
           Hawker: Sarah's coming home (Matt Monro).
           Cara/Gracy: On garde toujours (Marie Myriam).
           Banks: A winter's tale (Genesis). 
-      - title: Tuntematon Ukraina
+      - title: 'Tuntematon Ukraina: Slaavien ja Ukrainan historia'
         start_time: '2025-01-08T10:00:00+02:00'
         end_time: '2025-01-08T10:35:00+02:00'
-        description: |2+
-
+        description: |
+          Ukraina on puolalaisen kuninkaanvallan ja moskovalaisen keisariuden väliin jäänyt valtava alue slaavien kulttuuria, joka on joutunut kehittymään näiden kahden vallan jaloissa, toteaa professori Jukka Korpela Itä-Suomen yliopistosta. Alue on toisaalta ollut aina myös etnisesti sangen kirjava, sinne ovat majansa ja linnoituksensa pystyttäneet sekä jälkensä jättäneet niin viikingit kuin turkkilaisetkin. Millainen on ikiaikaisen kiista- ja reuna-alueen eli Ukrainan historia? Missä ovat slaavien alkulähteet? Tuntematon Ukraina -sarjassa toimittaja Jari Aula syventyy maan värikkääseen, viljavavaan ja traagiseen historiaan sekä identiteettiin ja ainutlaatuiseen kulttuuriin. Uusinta huhtikuulta 2022.
+        series: Tuntematon Ukraina
       - title: Ukraina soi
         start_time: '2025-01-08T10:35:00+02:00'
         end_time: '2025-01-08T10:55:00+02:00'
@@ -179,10 +194,18 @@ data:
         end_time: '2025-01-08T18:35:00+02:00'
         description: |
           Palaamme Laura Korhosen Jazzklubissa toisen jakson ajaksi viime vuonna julkaistujen kotimaisten albumeiden äärelle.
-        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-08T18:35:00+02:00'
         end_time: '2025-01-08T18:50:00+02:00'
+        description: |-
+          Koraalitoisinto: Kiitän Herran antamista teistä (A-Men/Mikko Peltokorpi, ja Miikka Lehtoaho, urut).
+
+          Hellberg: Tulee vielä aika (Kaukametsän Kamarikuoro/Juha Mikkonen).
+
+          Zoller: Beetlehemin tähti (Kari Haapala).
+
+          Anonyymi: On Jeesus nimi ihanin (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-08T18:50:00+02:00'
         end_time: '2025-01-08T19:00:00+02:00'
@@ -192,9 +215,10 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-08T19:00:00+02:00'
         end_time: '2025-01-08T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Notre-Damen katedraalin avajaiskonsertti
         start_time: '2025-01-08T19:02:00+02:00'
         end_time: '2025-01-08T21:00:00+02:00'
+        series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-01-08T21:00:00+02:00'
         end_time: '2025-01-08T21:02:00+02:00'
@@ -215,3 +239,4 @@ data:
         end_time: '2025-01-09T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista

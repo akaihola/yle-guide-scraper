@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-30T02:28:22.986399+00:00'
+  generated_at: '2024-12-31T02:26:10.475132+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
@@ -57,7 +57,6 @@ data:
         description: |-
           "Millainen Jeesuksen lapsuus oli?"
           Uuden testamentin ja varhaiskristillisyyden dosentti Ulla Tervahauta, Helsinki puhuu Jeesuksen lapsuudesta ja kertoo Tuomaan evankeliumin lapsuuskuvauksista.
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-03T07:00:00+02:00'
         end_time: '2025-01-03T07:10:00+02:00'
@@ -123,7 +122,8 @@ data:
         start_time: '2025-01-03T11:00:00+02:00'
         end_time: '2025-01-03T11:55:00+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Omaperäisen unkarilaistaiteilijan, romanitaustaisen György Cziffran (1921-1994) elämänvaiheet ovat kuin elokuvasta. Hän kasvoi äärimmäisen kurjissa oloissa Budapestin laitamailla sijainneessa parakkikylässä. Sisaren vuokraama piano muutti elämän suunnan, mutta tie tähtiin oli käsittämättömillä vaiheilla ja vaikeuksilla päällystetty. Improvisoimalla soittamaan oppiminen muokkasi Cziffrasta pianistin, jonka "virtuoosinen soittotyyli oli eräänlainen improvisaation ja säveltäjän antaman nuottikuvan synteesi", toteaa pianisti Risto-Matti Marin.
+          Toimittajana Outi Paananen.
         series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-03T11:57:00+02:00'
@@ -139,7 +139,6 @@ data:
         end_time: '2025-01-03T13:00:00+02:00'
         description: |
           57 fossiilijättiä tuottavat 80 prosenttia maailman ilmastopäästöistä, mutta vierittivät vastuun kansalaisille. Hiilijalanjälki, lentohäpeä ja ruokavalion kyttäys - kaikki nämä lobattiin hidastamaan vihreää siirtymää. Pääsevätkö todelliset ilmastopahikset kuin koira veräjästä ja miten yhteiskunta voitaisi oikeasti muuttaa kestäväksi? Haastateltavana toimittaja-tietokirjailija Kerttu Kotakorpi ja kestävyyssiirtymään perehtynyt tutkija Paavo Järvensivu BIOS-tutkimusyksiköstä. Toimittajana on Jaro Asikainen. Lukijaäänet on toteutettu tekoälyn avulla.
-        series: Tiedeykkönen
       - title: 'KC Kirjat: Kirjoja nuoruudesta'
         start_time: '2025-01-03T13:00:00+02:00'
         end_time: '2025-01-03T13:30:00+02:00'

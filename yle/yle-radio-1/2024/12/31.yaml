@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-30T02:28:21.914475+00:00'
+  generated_at: '2024-12-31T02:26:08.446634+00:00'
   git:
     branch: main
-    commit: 55248549857a320ee32c7219ff82a361f2ac202f
-  data_hash: cf4e5029571da946c09248572b89c82c0db5ceea8e8af24753460f8fd0a37f41
+    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
+  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
 data:
   Yle Radio 1:
     programmes:
@@ -132,6 +132,7 @@ data:
           Daniel/Infante: La vida es un carnaval (Celia Cruz).
           Denver: Poems, prayers and promises (John Denver).
           Newley: Feeling good (Nina Simone).
+        series: Muistojen bulevardi
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: Miljoonan punnan tuhkat - mielipuolisesta tempauksesta syntyi kappale'
         start_time: '2024-12-31T10:00:00+02:00'
         end_time: '2024-12-31T10:45:00+02:00'
@@ -380,7 +381,7 @@ data:
           Ilkka Heiskanen lukee osia Eino Leinon runosta.
       - title: Helsingin tuomiokirkon kello lyö 24
         start_time: '2025-01-01T00:00:00+02:00'
-        end_time: '2025-01-01T00:02:05+02:00'
+        end_time: '2025-01-01T00:02:10+02:00'
       - title: Yöklassinen
         start_time: '2025-01-01T00:10:00+02:00'
         end_time: '2025-01-01T07:00:00+02:00'
