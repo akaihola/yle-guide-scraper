@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-31T02:26:10.475132+00:00'
+  generated_at: '2025-01-02T02:25:57.383038+00:00'
   git:
     branch: main
-    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
-  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
+    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
+  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
 data:
   Yle Radio 1:
     programmes:
@@ -112,6 +112,7 @@ data:
           Johansson: Loma Ibizalla (Marion Rung).
           Ben: Hör min samba (Lill Lindfors).
           Valle/Valle: Mentira (Marcos Valle).
+        series: Muistojen bulevardi
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: Kihlatun kuolema vei sanat nuorelta Jarkolta'
         start_time: '2025-01-03T10:00:00+02:00'
         end_time: '2025-01-03T10:45:00+02:00'
@@ -164,11 +165,13 @@ data:
           Metsä luo useimmille meistä rauhoittumisen tunteen. Eikä kyse ole pelkästä tunteesta, sillä tutkimusten mukaan näin tapahtuu. Jo 15 min oleskelu metsässä saa aikaan mm. verenpaineen laskua. Metsän terveysvaikutuksista kertoo Luonnonvarakeskuksen tutkija Jenni Simkin.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
       - title: 'Kielen päällä: Pistekirjoitus on käyttökelpoinen järjestelmä 2/2'
         start_time: '2025-01-03T14:50:00+02:00'
         end_time: '2025-01-03T15:00:00+02:00'
         description: |
           Pistekirjoitus on merkkijärjestelmä, jolla on tärkeä merkitys opittaessa lukemaan. Järjestelmä perustuu kuuden pisteen suunnikkaisiin. Pistekirjoitusta voidaan käyttää monenlaisissa tilanteissa, mm. kirjojen ja lehtien tekstin välittäjinä, samoin erillaisissa pakkausmerkinnöissä ja julkisten tilojen opasteissa. Näkövammaisten liiton palvelupäällikkö Iiro Nummela kertoo. Toimittajana on Jari Aula.
+        series: Kielen päällä
       - title: Yle Uutiset
         start_time: '2025-01-03T15:00:00+02:00'
         end_time: '2025-01-03T15:02:00+02:00'
@@ -244,24 +247,30 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-03T21:00:00+02:00'
         end_time: '2025-01-03T21:02:00+02:00'
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Kirjoja nuoruudesta'
         start_time: '2025-01-03T21:05:00+02:00'
-        end_time: '2025-01-03T21:35:00+02:00'
-      - title: Kalle Haatanen
-        start_time: '2025-01-03T21:35:30+02:00'
-        end_time: '2025-01-03T22:20:00+02:00'
+        end_time: '2025-01-03T21:33:19+02:00'
+        description: |
+          Eino Tainan Se laajenee -esikoisromaanin päähenkilö on filosofiaa rakastava lukiolainen. Matti Röngän Onnen kaukoranta vie maalle, 1970-luvun nuoruuteen. Ia Genbergin Yksityiskohdat katsoo nuoruutta aikuisen silmin.
+        series: KC Kirjat
+      - title: 'Kalle Haatanen: Suomen turvallisuuden tienviitat vuodelle 2025'
+        start_time: '2025-01-03T21:34:00+02:00'
+        end_time: '2025-01-03T22:17:41+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Luomiskertomus
+        series: Kalle Haatanen
+      - title: 'Luomiskertomus: Pirjo Tuominen haluaa puolustaa ikäihmisten oikeuttaa rakkauselämään'
         start_time: '2025-01-03T22:25:00+02:00'
         end_time: '2025-01-03T22:49:30+02:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Miten yhteiskunta suhtautuu ikääntyviin? Entä millaisia ennakkoluuloja ikääntymiseen liittyy?  Muun muassa näitä asioita kirjailija Pirjo Tuominen pohtii uudessa romaanissaan Kurtturuusut. Pirjo Tuomista haastattelee Maarit Lukkarinen.
+        series: Luomiskertomus
       - title: Tuuli Saksalan keidas
         start_time: '2025-01-03T22:50:00+02:00'
-        end_time: '2025-01-03T23:39:00+02:00'
+        end_time: '2025-01-03T23:38:16+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
       - title: Yöklassinen
         start_time: '2025-01-03T23:40:00+02:00'
         end_time: '2025-01-04T06:30:00+02:00'

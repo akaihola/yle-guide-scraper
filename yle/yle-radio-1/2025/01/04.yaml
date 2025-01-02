@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-31T02:26:10.725487+00:00'
+  generated_at: '2025-01-02T02:25:57.721815+00:00'
   git:
     branch: main
-    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
-  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
+    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
+  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
 data:
   Yle Radio 1:
     programmes:
@@ -73,6 +73,7 @@ data:
           Metsä luo useimmille meistä rauhoittumisen tunteen. Eikä kyse ole pelkästä tunteesta, sillä tutkimusten mukaan näin tapahtuu. Jo 15 min oleskelu metsässä saa aikaan mm. verenpaineen laskua. Metsän terveysvaikutuksista kertoo Luonnonvarakeskuksen tutkija Jenni Simkin.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-04T08:55:00+02:00'
         end_time: '2025-01-04T09:00:00+02:00'
@@ -136,10 +137,34 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-04T12:05:00+02:00'
         end_time: '2025-01-04T12:30:00+02:00'
-        series: Maailmanpolitiikan arkipäivää
       - title: Uudet levyt
         start_time: '2025-01-04T13:05:00+02:00'
         end_time: '2025-01-04T14:00:00+02:00'
+        description: |
+          Njahcu (Ánnámáret, joiku, Turkka Inkilä, elektroniikka, Ilkka Heinonen, jouhikko).  
+
+          Kansansäv. (Suomi): Hippavalta (SibA Folk Big Band). 
+
+          Äikäs: Kaukaasia (Karlo Haapiainen ja Varaslähtö). 
+
+          Sippola - Keipi: Vuorovesi (Luomuduo). 
+
+          Kansansäv. (Etelä-Pohjanmaa): Yxi kaunis papillinen polska (Emilia Lajunen ja Suvi Oskala). 
+
+          Arola - Laitinen: Taigan laitaa aikanaan (Jaakko Laitinen ja Väärä Raha). 
+
+          Pokela: Joutsenen tanssi (Tuulentei ja Martti Pokela, kantele). 
+
+          Vornanen (sov. Smolander): Nouskaa sisaret (Sinimuso). 
+
+          Dembele: Tungaladen (Faso Kan). 
+
+          Grundström: Nälkämaan lokari (Sväng). 
+
+          Selvittelen sotkujani (Mikko Juvonen). 
+
+          Saarela - Tammela: Brevdufva (Désirée Saarela, laulu, kitara, ja Minsku Tammela, laulu, jouhikko, kellot). 
+        series: Uudet levyt
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: “Halusin tehdä laulun, jossa Hitlerin koira kertoo oman kokemuksensa”'
         start_time: '2025-01-04T14:00:00+02:00'
         end_time: '2025-01-04T14:45:00+02:00'
@@ -246,7 +271,6 @@ data:
         end_time: '2025-01-04T21:29:30+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-        series: Uutispodcast
       - title: Mielimaisema
         start_time: '2025-01-04T21:30:00+02:00'
         end_time: '2025-01-04T22:29:30+02:00'
@@ -261,5 +285,33 @@ data:
         start_time: '2025-01-04T23:40:00+02:00'
         end_time: '2025-01-05T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Reinecke: Balladi (Eeva Heikkilä, huilu, ja RSO/Sakari Oramo).
+
+          23:50 Brahms: Konsertto viululle, sellolle ja orkesterille a-molli (Jascha Heifetz ja Gregor Piatigorsky, sekä RCA Victor SO/Alfred Wallenstein).
+
+          00:20 Puccini: Des Grieux'n aaria oopp. Manon Lescaut (Pekka Nuotio, tenori, ja RSO/Kari Tikka). 
+
+          00:24 Offenbach: Concerto militaire (Sotilaskonsertto) (Jérôme Pernoo, sello, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          01:08 Rahmaninov: Preludeja pianolle op.32 (Juhani Lagerspetz).
+
+          01:47 Goldmark: Maalaishäät, sinfoninen sarja (New Yorkin FO/Leonard Bernstein).
+
+          02:31 Verdi: Jagon monologi oopp. Otello (Juha Uusitalo, bassobaritoni, ja RSO/Hannu Lintu).
+
+          02:38 J. Haydn: Sinfonia n:o  92 G-duuri (RSO/Paavo Berglund).
+
+          03:05 Fauré: Pavane (Minnesotan orkesteri/Eiji Oue).
+
+          03:12 Lalo: Namouna, baletti (Monte-Carlon FO/David Robertson). 
+
+          04:10 Tristan ja Isolde, keskiaikainen laulunäytelmä (Andrea von Ramm, kertoja, Henri Ledroit, kontratenori, Anne Azema ja Ellen Hargis, sopraano, Richard Morrison, baritoni, ja William Hite, tenori, sekä The Boston Camerata/Joel Cohen). 
+
+          05:21 Telemann: Fantasiat n:o 1-12 (Marion Verbrüggen, nokkahuilu).
+
+          06:21 Stradella: Sinfonia n:o 12 (Ingrid Matthews, viulu, Mary Springfels, viola da gamba, Paul O'Dette, arkkiluuttu, ja Barbara Weiss, urut).
+
+          06:33 Krieger: Sonaatti viululle, viola da gamballe ja continuolle (Trio Settecento).
+
+          06:44 J.S. Bach: Partita sooloviululle n:o 3 E-duuri (Arthur Grumiaux).
         series: Syventävää klassista

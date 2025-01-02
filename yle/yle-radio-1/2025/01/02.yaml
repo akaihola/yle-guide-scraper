@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2024-12-31T02:26:09.972083+00:00'
+  generated_at: '2025-01-02T02:25:57.164238+00:00'
   git:
     branch: main
-    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
-  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
+    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
+  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
 data:
   Yle Radio 1:
     programmes:
@@ -88,12 +88,25 @@ data:
           Humperdinck: Juhlakaikuja sarj. Prinsessa Ruusunen (Bambergin sinfonikot/Karl Anton Rickenbacher).
 
           Bernstein (sov. Kostal): Maria musik. West Side Story (Katia ja Marielle Labèque, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-02T08:00:00+02:00'
         end_time: '2025-01-02T08:10:00+02:00'
       - title: Ykkösaamu
         start_time: '2025-01-02T08:10:00+02:00'
         end_time: '2025-01-02T09:00:00+02:00'
+        description: |-
+          8.11. Millaisia huolia Virossa kohdistuu Itämeren turvallisuuteen. Rain Kooli raportoi. 
+
+          8.15 Poliitikkojen raati arvioi Itämeren uhkakuvia. Studiossa kansanedustajat Mika Kari (sdp.), Jukka Kopra (kok.) sekä Mikko Savola (kesk.).
+
+          8.33 Ukrainasta raportoi toimittaja Maxim Fedorov. 
+
+          8.40 Millaisia trendejä on luvassa vuonna 2025? Keskustelemassa futuristi Elina Hiltunen sekä tulevaisuuden tutkija Risto Linturi. 
+
+          8.54 Britanniassa sanomalehtiä on lukenut toimittaja Kirsi Crowley. 
+
+          Juontajana Justus Laitinen. Tuottajana Marija Skara. Toimittajana Rasmus Montonen ja Tommy Fränti. 
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-02T09:00:00+02:00'
@@ -116,6 +129,7 @@ data:
           John: Rocket man (Elton John).
           Massara: Kapteeni Aika (Paula Koivuniemi).
           Reed: La derniére valse (Mireille Mathieu).
+        series: Muistojen bulevardi
       - title: 'Keskusteluja Jarkko Martikaisen kanssa: “Halusin tehdä laulun, jossa Hitlerin koira kertoo oman kokemuksensa”'
         start_time: '2025-01-02T10:00:00+02:00'
         end_time: '2025-01-02T10:45:00+02:00'
@@ -137,6 +151,7 @@ data:
         end_time: '2025-01-02T12:00:00+02:00'
         description: |-
           Ote Juhani Ahon Kevät ja takatalvi -romaanista.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-02T12:00:00+02:00'
         end_time: '2025-01-02T12:10:00+02:00'
@@ -167,7 +182,7 @@ data:
 
           Respighi: San Gregorio Magno (Liègen kuninkaallinen filharmoninen orkesteri/John Neschling).
         series: Klassinen kattaus
-      - title: Kaisa Pulakan aikamatkat s1 j1
+      - title: Kaisa Pulakan aikamatkat
         start_time: '2025-01-02T14:30:00+02:00'
         end_time: '2025-01-02T14:50:00+02:00'
         description: |-
@@ -227,11 +242,13 @@ data:
         end_time: '2025-01-02T18:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
       - title: 'Kielen päällä: Miten Braille kehitti pistekirjoituksen 1/2'
         start_time: '2025-01-02T18:25:00+02:00'
         end_time: '2025-01-02T18:35:00+02:00'
         description: |
           Louis Braille kehitti pistekirjoitusjärjestelmän, joka korvasi aiemman kohokirjaimiin perustuvan kirjoittamisen. Vähitellen uusi järjestelmä levisi kaikkialle. Näkövammaisten liiton palvelupäällikkö Iiro Nummela kertoo. Toimittajana on Jari Aula.
+        series: Kielen päällä
       - title: Hartaita säveliä
         start_time: '2025-01-02T18:35:00+02:00'
         end_time: '2025-01-02T18:50:00+02:00'
@@ -263,22 +280,28 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-02T21:00:00+02:00'
         end_time: '2025-01-02T21:02:00+02:00'
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Kirjoja maapallon kohtalonkysymyksistä '
         start_time: '2025-01-02T21:05:00+02:00'
-        end_time: '2025-01-02T21:35:00+02:00'
-      - title: Tiedeykkönen
-        start_time: '2025-01-02T21:35:30+02:00'
-        end_time: '2025-01-02T22:24:30+02:00'
+        end_time: '2025-01-02T21:33:32+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Anni Kytömäen Mirabilis vie lukijan suurten tutkimusmatkojen aikaan. Risto Isomäen Pimeää jäätä on dystopiaan kätketty utopia vuodesta 2117. Saila Susiluodon Akheron-kokoelmassa runot virtaavat menneeseen ja tulevaan.
+        series: KC Kirjat
+      - title: 'Tiedeykkönen: Olennaista on hallittu räjähdys - rakettimoottorit tuovat iloa elämään ja vievät meidät tähtiin'
+        start_time: '2025-01-02T21:35:00+02:00'
+        end_time: '2025-01-02T22:24:07+02:00'
+        description: |
+          Uudenvuoden raketit ja isot avaruusraketit toimivat samalla periaatteella: Newtonin kolmas laki sanoo, että jokaisella voimalla on vastavoima. Millainen on rakettien pitkä historia? Entä miten rakettimoottori käytännössä toimii? Haastateltavana: raketti-insininööri Perttu Yli-Opas, Aurora Propulsion Technologies.
+          Toimittajana: Jari Mäkinen.
+        series: Tiedeykkönen
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-01-02T22:30:00+02:00'
         end_time: '2025-01-02T22:49:30+02:00'
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-01-02T22:50:00+02:00'
-        end_time: '2025-01-02T23:47:30+02:00'
+        end_time: '2025-01-02T23:45:25+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Yöklassinen
         start_time: '2025-01-02T23:50:00+02:00'
         end_time: '2025-01-03T06:30:00+02:00'
