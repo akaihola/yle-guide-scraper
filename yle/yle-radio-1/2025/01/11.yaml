@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-02T02:25:59.855260+00:00'
+  generated_at: '2025-01-03T02:27:03.850774+00:00'
   git:
     branch: main
-    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
-  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
+    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
+  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,30 @@ data:
         start_time: '2025-01-10T23:40:00+02:00'
         end_time: '2025-01-11T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Offenbach: Les Contes d'Hoffmann (Hoffmannin kertomukset), ooppera (Plácido Domingo, tenori, Edita Gruberová, sopraano, Claudia Eder, Andreas Schmidt, Gabriel Bacquier, James Morris, Justino Diaz, Robert Gambill, Paul Crook, Michel Senechal, Robin Leggate, Christa Ludwig, Gerard Friedmann, Urban Malmberg, Richard Van Allan, Kurt Rydl, Harald Stamm, Paul Mahe, Choeurs de Radio France (Ranskan radion kuoro), Orchestre National de France (Ranskan kansallisorkesteri)
+
+          02:05 Beethoven: Kvartetto pianolle ja jousille C-duuri (Anthony Goldstone, piano, ja Cummings-jousitrio).
+
+          02:23 Goldmark: Der Gefesselte Prometheus (Robert-Schumann-Philharmonie/Frank Beermann).
+
+          02:43 Delius: Jousikvartetto c-molli (Villiers-kvartetti).
+
+          03:10 Zelenka: Laetatus sum (Minä iloitsin, kun minulle sanottiin) (Jakub Józef Orlinski, kontratenori, ja Fatma Said, sopraano, sekä Il Pomo d'oro/Francesco Corti).
+
+          03:32 Albéniz: Iberia (Cincinnatin SO/Jesus Lopez-Cobos).
+
+          04:55 Wagner: Wesendonck-Lieder (Eileen Farrell, sopraano, ja New Yorkin FO/Leonard Bernstein).
+
+          05:19 J. Haydn: Jousikvartetto n:o 66 G-duuri (Buchberger-kvartetti).
+
+          05:38 Pylkkänen: Divertimento (Mikael Helasvuo, huilu, Jouko Teikari, oboe, Veikko Höylä, sello, ja Marjatta Haahti, harppu).
+
+          06:01 J.S. Bach: Kantaatti n:o 32 (Liebster Jesu, mein Verlangen) (Joanne Lunn, sopraano, Matthew Brook, basso, Robert Davies, basso, Katie Bray, mezzosopraano, ja Hugo Hymas, tenori, sekä Dunedin Consort/John Butt).
+
+          06:24 Dunstable: Credo (Ferrara-yhtye).
+
+          06:27 Kansansäv. (sov. Brahms): In stiller Nacht (RKK/Hannu Norjanen).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-01-11T06:30:00+02:00'
         end_time: '2025-01-11T07:00:00+02:00'
@@ -71,6 +94,7 @@ data:
           Jobim: Epävireiset sydämet (Laila Kinnunen).
           Jobim: Samba di una nota (Caterina Valente).
           Panzuti: Angelina (Eddie Calvert).
+        series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-01-11T10:00:00+02:00'
         end_time: '2025-01-11T10:05:00+02:00'
@@ -104,8 +128,14 @@ data:
         start_time: '2025-01-11T12:05:00+02:00'
         end_time: '2025-01-11T12:30:00+02:00'
         series: Maailmanpolitiikan arkipäivää
+      - title: 'Guruja & Asanoita:  Miksi joogi hörhöilee? - teosofeista QAnoniin ja New Ageen '
+        start_time: '2025-01-11T12:30:00+02:00'
+        end_time: '2025-01-11T13:06:00+02:00'
+        description: |
+          Nykyjoogassa on paljon sellaista, mikä ei perinteisesti mitenkään liity joogaan. Erilaisia uskomuksia, käsitteitä, harjoituksia ja new agea. Jooga voi olla mukana erilaisissa uushenkisissä tapahtumissa. Monen joogan aloittamista harkitsevan mieleen voi nousta kysymys, että jos alkaa harjoittaa joogaa, pitääkö samantien uskoa enkeliterapiaan, manifestointiin tai tarot-kortteihin?Jooga- ja uushenkiset piirit kietoutuvat yhteen ja niillä on osittain sama asiakaskunta. 
+          Miten uushenkisyys liittyy joogaan ja voiko joogaamalla löytää mystisiä kokemuksia? 
       - title: Uudet levyt
-        start_time: '2025-01-11T13:00:00+02:00'
+        start_time: '2025-01-11T13:06:00+02:00'
         end_time: '2025-01-11T14:00:00+02:00'
         series: Uudet levyt
       - title: 'Ruben Stiller: Haluatko elää 120-vuotiaaksi?'
@@ -151,24 +181,25 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-11T16:10:00+02:00'
         end_time: '2025-01-11T16:59:20+02:00'
-        description: |-
+        description: |
           Debussy: Alkusoittofanfaari näytelmämusiikista Kuningas Lear (Jean-Pierre Armengaud, piano).
 
           Cage: Five (Latvian radion kuoro/Sigvards Klava). 
 
           R. Schumann: Teema ja muunnelmia aiheesta Abegg (Lang Lang, piano).
 
-          Bernstein: Vanhan rouvan tango "I am easily assimilated" oper. Candide (Elina Garanca, mezzosopraano, Torinon oopperan kuoro ja Italian radion SO/Karel Mark Chichon).
+          Bernstein: Vanhan rouvan tango "I am easily assimilated" oper. Candide (Elina Garanca, mezzosopraano, sekä Torinon oopperan kuoro ja Italian radion SO/Karel Mark Chichon).
 
-          Beethoven: Kolmas osa menuetti jousikvartetosta n:o 4 c-molli (Borodin-kvartetti).
+          Beethoven: Menuetti jousikvartetosta n:o 4 c-molli (Borodin-kvartetti).
 
           Wolf: Nun bin ich dein (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
 
-          Jongen: Danse lente, huilulle ja harpulle (Toon Fret ja Annie Lavoisier). 
+          Jongen: Danse lente (Toon Fret, huilu, ja Annie Lavoisier, harppu). 
 
-          Netzel: Ballade (Balladi) (Sabina Bisholt, sopraano, ja Göteborgin oopperan orkesteri/Patrik Ringborg).
+          Netzel: Ballade (Balladi) (Sabina Bisholt, sopraano, ja Göteborgin oopperan ork./Patrik Ringborg).
 
-          Hidas: Quintettino n:o 1-3, kvintetot puhaltimille (Salaputia Brass Quintett). 
+          Hidas: Quintettino n:o 1-3 (Salaputia Brass Quintett). 
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-11T17:00:00+02:00'
         end_time: '2025-01-11T17:10:00+02:00'
@@ -234,4 +265,29 @@ data:
         start_time: '2025-01-11T23:40:00+02:00'
         end_time: '2025-01-12T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Tuukkanen: Viulukonsertto n:o 2 (Jaakko Kuusisto ja Jyväskylä Sinfonia/Ari Rasilainen).
+
+          00:02 G.J. Werner: Pastoraali D-duuri (Miklos Spanyi, urut, ja Capella Savaria/Pál Nemeth, flauto traverso).
+
+          00:08 Weigl: Jousikvartetto n:o 8 D-duuri (Thomas Christian Ensemble).
+
+          00:33 Chopin: Pianosonaatti n:o 2 b-molli (Artur Rubinstein). 
+
+          00:57 Holst: First choral symphony (Susan Gritton, sopraano, sekä  BBC:n sinfoniakuoro ja -ork./Andrew Davis).
+
+          01:48 R. Strauss: Duett-Concertino (Harold Wright, klarinetti, Sherman Walt, fagotti, ja Bostonin SO/Seiji Ozawa).
+
+          02:09 Pfitzner: Von deutscher Seele (Agnes Habereder, sopraano, Ingeborg Most, altto, Josef Protschka, tenori, ja Victor von Halem, basso, sekä Düsseldorfin musiikkiyhdistyksen kuoro ja Düsseldorfin sinfonikot/Heinrich Holllreiser).
+
+          03:45 Saint-Saëns: Muusa ja runoilija (Jean-Jacques Kantorow, viulu, Torleif Thedéen, sello, ja Tapiola Sinfonietta/Tuomas Ollila).
+
+          04:01 W.A. Mozart: Pianokonsertto n:o 25 C-duuri (Mitsuko Uchida ja Clevelandin ork.).
+
+          04:38 Beethoven: Die Geschöpfe des Prometheus (Prometheuksen luomistyöt) (Turun FO/Leif Segerstam).
+
+          05:55 J.S. Bach: Sonaatti huilulle ja continuolle n:o 2 e-molli (Hans-Martin Linde, traverso, ja Konrad Ragossnig, kitara).
+
+          06:08 Dowland: The Earl of Derby's galliard (Paul O'Dette, luuttu).
+
+          06:11 J. Haydn: Kuusi divertimentoa op.100 (Aurèle Nicolet, huilu, Jean-Jacques Kantorow, viulu, ja Mari Fujiwara, sello).
+        series: Syventävää klassista

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-02T02:25:57.383038+00:00'
+  generated_at: '2025-01-03T02:27:01.804958+00:00'
   git:
     branch: main
-    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
-  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
+    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
+  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,18 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-03T08:10:00+02:00'
         end_time: '2025-01-03T09:00:00+02:00'
+        description: |
+          Venäläisessä mediassa on kerrottu, että siirtolaisia olisi jälleen huijattu Suomen itärajalle valheellisin tiedoin. Mitä tiedämme liikehdinnästä rajan tuntumassa? Puhelimessa yksikön päällikkö Jussi Napola Rajavartiolaitoksen esikunnasta.
+
+          Suomen ja Viron välinen sähkökaapeli ja neljä Suomenlahden pohjassa kulkevaa tietoliikennekaapelia rikkoutuivat joulupäivänä. Mikä merkitys Itämerellä on Suomen huoltovarmuuden kannalta ja kuinka mahdollisiin ongelmiin on varauduttu? Keskustelemassa Traficomin merenkulkujohtaja Sanna Sonninen ja vanhempi varautumisasiantuntija Jukka Etelävuori Huoltovarmuuskeskuksesta.
+
+          Eduskunnan puolustusvaliokunta ja ulkoasiainvaliokunta kokoontuvat perjantaina Suomenlahden kaapelivaurioiden takia. Mitä kokouksilta odotetaan? Ylen politiikan toimittaja Pekka Kinnunen raportoi eduskunnasta.
+
+          Yhdysvaltain New Orleansissa auto ajoi uutta vuotta juhlineeseen väkijoukkoon. Washingtonissa oleva toimittaja Juri von Bondsdorff kertoo, miten tapauksen tutkinta on edennyt.
+
+          Yhdysvaltain liittovaltion poliisi FBI tutkii New Orleansin autohyökkäystä terroritekona. Autosta löydettiin ääri-islamistisen terroristijärjestö Isisin lippu. Missä tilassa terroristijärjestö nykyään on? Vieraana Ulkopoliittisen instituutin vieraileva johtava asiantuntija Olli Ruohomäki.
+
+          Juontajana Atte Uusinoka, tuottajana Annette Blencowe.
         series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-03T09:00:00+02:00'
@@ -140,6 +152,7 @@ data:
         end_time: '2025-01-03T13:00:00+02:00'
         description: |
           57 fossiilijättiä tuottavat 80 prosenttia maailman ilmastopäästöistä, mutta vierittivät vastuun kansalaisille. Hiilijalanjälki, lentohäpeä ja ruokavalion kyttäys - kaikki nämä lobattiin hidastamaan vihreää siirtymää. Pääsevätkö todelliset ilmastopahikset kuin koira veräjästä ja miten yhteiskunta voitaisi oikeasti muuttaa kestäväksi? Haastateltavana toimittaja-tietokirjailija Kerttu Kotakorpi ja kestävyyssiirtymään perehtynyt tutkija Paavo Järvensivu BIOS-tutkimusyksiköstä. Toimittajana on Jaro Asikainen. Lukijaäänet on toteutettu tekoälyn avulla.
+        series: Tiedeykkönen
       - title: 'KC Kirjat: Kirjoja nuoruudesta'
         start_time: '2025-01-03T13:00:00+02:00'
         end_time: '2025-01-03T13:30:00+02:00'
@@ -175,11 +188,16 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-03T15:00:00+02:00'
         end_time: '2025-01-03T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa muistosanat Aleksi Lysanderista, Stubbin uudenvuodenpuhe ja koulukirjojen sukupuoliopetus'
         start_time: '2025-01-03T15:02:00+02:00'
         end_time: '2025-01-03T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Vuoden 2025 ensimmäinen Perjantaistudio laittaa nippuun vuodenvaihteen ajan tärkeimmät kulttuurin ja median aiheet ja arvokysymykset. Pohdinnassa on muun muassa presidentti Alexander Stubbin ensimmäisen uudenvuodenpuhe, Helsingin Sanomien luettelo 2000-luvun sadasta parhaasta kirjasta, urheilijoiden runsas edustus politiikassa sekä sukupuolen binäärisen määrittelyn haastaminen peruskoulun oppikirjoissa.
+
+          Perjantaistudiossa puhutaan myös ammattisotilas Aleksi Lysanderista. Uutiset vuodenvaihteessa kertoivat hänen menehtymisestään taistelussa Itä-Ukrainassa.
+
+          Raatilaisista ovat mukana toimittaja Aino-Mari Tuuri, kosmologi Kari Enqvist sekä kirjailija Jarkko Tontti. Perjantaistudion toimittajana on Ville Talola.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-03T15:55:00+02:00'
         end_time: '2025-01-03T15:58:00+02:00'
@@ -191,14 +209,14 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-01-03T16:10:00+02:00'
         end_time: '2025-01-03T16:59:59+02:00'
-        description: |-
+        description: |
           Sibelius: Väliaikamusiikkia näyt. Pelléas ja Mélisande (RSO/Jukka-Pekka Saraste). 
 
           Parviainen: Joulun kellot (Key Ensemble/Teemu Honkanen ja Päivi Severeide, harppu).
 
-          Chopin: Nokturno n:o 2 Es-duuri (Gergely Boganyi).
+          Chopin: Nokturno n:o 2 Es-duuri (Gergely Boganyi, piano).
 
-          Espanjalainen kansanlaulu: La Virgen lava panales (Mormonien tabernaakkelikuoro ja New Yorkin filharmoninen ork./Leonard Bernstein).
+          Kansansäv.: La Virgen lava panales (Mormonien tabernaakkelikuoro ja New Yorkin filharmoninen ork./Leonard Bernstein).
 
           Corelli: Largo joulukonsertosta g-molli (The English Concert/Trevor Pinnock).
 
@@ -208,9 +226,9 @@ data:
 
           Beethoven: Adagio un poco mosso pianokonsertosta n:o 5 (Keisarikonsertto) Es-duuri (Clevelandin ork./Vladimir Ashkenazy, piano).
 
-          Franz Schubert: Mille cherubini in coro (Katia Ricciarelli, sopraano, ja ork.).
+          Schubert: Mille cherubini in coro (Katia Ricciarelli, sopraano, ja ork.).
 
-          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (Helsingin KO/Leif Segerstam).
+          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (HKO/Leif Segerstam).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-03T17:00:00+02:00'
@@ -254,23 +272,35 @@ data:
           Eino Tainan Se laajenee -esikoisromaanin päähenkilö on filosofiaa rakastava lukiolainen. Matti Röngän Onnen kaukoranta vie maalle, 1970-luvun nuoruuteen. Ia Genbergin Yksityiskohdat katsoo nuoruutta aikuisen silmin.
         series: KC Kirjat
       - title: 'Kalle Haatanen: Suomen turvallisuuden tienviitat vuodelle 2025'
-        start_time: '2025-01-03T21:34:00+02:00'
-        end_time: '2025-01-03T22:17:41+02:00'
+        start_time: '2025-01-03T21:34:16+02:00'
+        end_time: '2025-01-03T22:17:57+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
+      - title: Radio 1 soi
+        start_time: '2025-01-03T22:17:57+02:00'
+        end_time: '2025-01-03T22:22:29+02:00'
+        description: |-
+          Darke: In the bleak mid-winter (Cambridgen King's Collegen kuoro/Stephen Cleobury, sekä John Bowen, tenori, ja David Briggs, urut).
+        series: Radio 1 soi
       - title: 'Luomiskertomus: Pirjo Tuominen haluaa puolustaa ikäihmisten oikeuttaa rakkauselämään'
-        start_time: '2025-01-03T22:25:00+02:00'
-        end_time: '2025-01-03T22:49:30+02:00'
+        start_time: '2025-01-03T22:22:29+02:00'
+        end_time: '2025-01-03T22:44:04+02:00'
         description: |
           Miten yhteiskunta suhtautuu ikääntyviin? Entä millaisia ennakkoluuloja ikääntymiseen liittyy?  Muun muassa näitä asioita kirjailija Pirjo Tuominen pohtii uudessa romaanissaan Kurtturuusut. Pirjo Tuomista haastattelee Maarit Lukkarinen.
         series: Luomiskertomus
       - title: Tuuli Saksalan keidas
-        start_time: '2025-01-03T22:50:00+02:00'
-        end_time: '2025-01-03T23:38:16+02:00'
+        start_time: '2025-01-03T22:44:53+02:00'
+        end_time: '2025-01-03T23:33:09+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas
+      - title: 'Eilisen ääni: Naistenlehtikatsaus joulun jälkeen'
+        start_time: '2025-01-03T23:33:59+02:00'
+        end_time: '2025-01-03T23:39:38+02:00'
+        description: |
+          Kinkkua vai porkkanaa? Naistenlehtikatsaus päivittelee ruokaohjeiden nopeaa suunnanmuutosta joulun jälkeen. Anna Pajun toimittama ohjelma on vuodelta 2005.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-03T23:40:00+02:00'
         end_time: '2025-01-04T06:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-02T02:25:58.223763+00:00'
+  generated_at: '2025-01-03T02:27:02.654172+00:00'
   git:
     branch: main
-    commit: bcae119b9f2001ae1d3b07557f00e0fa0f044588
-  data_hash: 96bd0f0ac23ab8becde39d6b2a5cb4918eb81ba8b40b3df565729c76eaa65708
+    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
+  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
 data:
   Yle Radio 1:
     programmes:
@@ -49,19 +49,19 @@ data:
         start_time: '2025-01-06T07:00:00+02:00'
         end_time: '2025-01-06T07:02:05+02:00'
         series: Yle Uutiset
-      - title: Taiteilijatapaaminen
-        start_time: '2025-01-06T07:02:30+02:00'
-        end_time: '2025-01-06T07:55:00+02:00'
-        description: |2+
-
+      - title: 'Taiteilijatapaaminen: "Voiko ilman runoutta edes elää?" - runoilijat Tiina Poutanen ja Niina Hakalahti heittäytyvät runoon'
+        start_time: '2025-01-06T07:02:40+02:00'
+        end_time: '2025-01-06T07:55:01+02:00'
+        description: |
+          Taiteilijatapaamisessa kohtaamme kirjailija ja runoilija Niina Hakalahden sekä alkujaan kuvataiteilijaksi valmistuneen, runoilija Tiina Poutasen. Toimittajana Rita Tröschkes.
         series: Taiteilijatapaaminen
       - title: Yle Uutiset ja sää
         start_time: '2025-01-06T08:00:00+02:00'
         end_time: '2025-01-06T08:05:05+02:00'
         series: Yle Uutiset
       - title: 'Tarinatarha: Adalminan helmi'
-        start_time: '2025-01-06T08:06:00+02:00'
-        end_time: '2025-01-06T08:57:05+02:00'
+        start_time: '2025-01-06T08:05:28+02:00'
+        end_time: '2025-01-06T08:56:23+02:00'
         description: |
           Zacharias Topeliuksen sadun lukee Maaria Holma. Toimittajana Salla Matusiak. Uusinta vuodelta 2019.
         series: Tarinatarha
@@ -101,9 +101,6 @@ data:
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
-      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
-        start_time: '2025-01-06T11:57:00+02:00'
-        end_time: '2025-01-06T12:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-01-06T12:00:00+02:00'
         end_time: '2025-01-06T12:10:00+02:00'
@@ -150,9 +147,6 @@ data:
           Kari Hotakaisen romaanin päähenkilöllä on takanaan vaiherikas nuoruus, mutta edessä hauras vanhuus. Kun muistisairaudesta kärsivä Helmi tutustuu lapsettomuudesta kärsivään pariskuntaan niin sekä pariskunnan että vanhuksen elämä saa uuden käänteen. Tällöin lukijankin on kysyttävä itseltään mitä haluamme elämältä sitten kun emme enää pysty itse vaikuttamaan sen suuntaan. 
           Ohjelman toimittaa Jukka Kuosmanen.
         series: Luomiskertomus
-      - title: Yle Uutiset
-        start_time: '2025-01-06T15:00:00+02:00'
-        end_time: '2025-01-06T15:02:00+02:00'
       - title: Yle News
         start_time: '2025-01-06T15:55:00+02:00'
         end_time: '2025-01-06T15:58:00+02:00'
@@ -184,7 +178,6 @@ data:
           Jylhä (sov. Järvelä): Konstan joululaulu (Frigg). 
 
           Händel - Takalo: Riemuitse tytär Siionin (Jukka Perko, saksofoni, ja Sinfonia Lahti/Esa Heikkilä).
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-06T17:00:00+02:00'
         end_time: '2025-01-06T17:10:00+02:00'
@@ -199,20 +192,24 @@ data:
         description: |-
           Lappeenrannan valtakunnallisten laulukilpailujen finaali. Kahdeksan finalistin kanssa Lappeenranta-salin lavalle nousee Erkki Lasonpalon johtama Saimaa Sinfonietta. Mukana jännittämässä toimittajat Lotta Emanuelsson ja Riikka Holopainen sekä Ylen asiantuntija, oopperalaulaja Aarne Pelkonen.
         series: Konsertteja
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Kaksi romaania ihmisistä sodan keskellä'
         start_time: '2025-01-06T21:25:00+02:00'
-        end_time: '2025-01-06T21:55:00+02:00'
-        series: KC Kirjat
-      - title: Tiedeykkönen
-        start_time: '2025-01-06T21:55:30+02:00'
-        end_time: '2025-01-06T22:45:30+02:00'
+        end_time: '2025-01-06T21:53:27+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
-        start_time: '2025-01-06T22:46:00+02:00'
-        end_time: '2025-01-06T23:39:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Merja Mäki ja Kjell Westö kirjoittavat ihmisten kohtaloista ja mielentilasta toisen maailmansodan aikana. Kirjoittaessaan sodasta he kirjoittavat myös rauhan merkityksestä. Mäen uusi romaani “Itki toisenkin” sijoittuu Aunuksen Karjalaan. Westön Molly ja Henry -romaanin henkilöt kulkevat talvisodasta välirauhan kautta jälleen uuteen sotaan.
+        series: KC Kirjat
+      - title: 'Tiedeykkönen: Suuri fossiilivedätys - näin syyllisyys ilmastopäästöistä lobattiin yksilöiden vastuulle'
+        start_time: '2025-01-06T21:55:00+02:00'
+        end_time: '2025-01-06T22:42:54+02:00'
+        description: |
+          57 fossiilijättiä tuottavat 80 prosenttia maailman ilmastopäästöistä, mutta vierittivät vastuun kansalaisille. Hiilijalanjälki, lentohäpeä ja ruokavalion kyttäys - kaikki nämä lobattiin hidastamaan vihreää siirtymää. Pääsevätkö todelliset ilmastopahikset kuin koira veräjästä ja miten yhteiskunta voitaisi oikeasti muuttaa kestäväksi? Haastateltavana toimittaja-tietokirjailija Kerttu Kotakorpi ja kestävyyssiirtymään perehtynyt tutkija Paavo Järvensivu BIOS-tutkimusyksiköstä. Toimittajana on Jaro Asikainen. Lukijaäänet on toteutettu tekoälyn avulla.
+        series: Tiedeykkönen
+      - title: 'Näistä levyistä en luovu: Pirkka-Pekka Petelius'
+        start_time: '2025-01-06T22:45:38+02:00'
+        end_time: '2025-01-06T23:39:40+02:00'
+        description: |
+          Musiikkivalintojaan tuo esiintymisen monitaituri ja entinen kansanedustaja Pirkka-Pekka Petelius. Ohjelman toimittaa Miikkapekka Heikkilä. (uusinta)
+        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-01-06T23:40:00+02:00'
         end_time: '2025-01-07T06:30:00+02:00'
