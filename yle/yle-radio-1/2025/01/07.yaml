@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-03T02:27:02.981298+00:00'
+  generated_at: '2025-01-04T02:24:49.133982+00:00'
   git:
     branch: main
-    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
-  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
+    commit: 1098e9e9e85a20155743f9f5009773daf45ced60
+  data_hash: 1c9d42be6d4937da662f364e84d131ca1db31c19c04735be0242f358fb80d82e
 data:
   Yle Radio 1:
     programmes:
@@ -81,6 +81,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-07T08:10:00+02:00'
         end_time: '2025-01-07T09:00:00+02:00'
+        description: |
+          8.11 Ruoan hinta. Päivittäistavarakaupat lupaavat alentaa ruoanhintaa. Mikä kaikki vaikuttaa ruokakorin hintaan? Keskustelemassa päivittäistavarakaupan myyntijohtaja Hans Backström S-ryhmästä sekä  Pellervon taloustutkimuksen maa- ja elintarviketalouden tutkimusryhmän tutkimusjohtaja Sari Forsman-Hugg. 
+
+          8.28 Yhdysvalloissa kongressi vahvisti uuden presidentin. Selvittiinkö Washingtonissa tällä kertaa ilman mellakointia. Toimittaja Juri von Bonsdorff raportoi. 
+
+          8.32 Ääriliike Taliban kaventanut rajusti naisten oikeuksia. Haastateltavana Suomen Afganistan-suurlähettiläs Heli Kanerva, vanhempi tutkija Katariina Mustasilta Ulkopoliittisesta instituutista sekä dokumentaristi Arezo Ariapoor.
+
+          8.54 Venäjä häiritsee gps-signaaleja Itämerellä. 
+
+          Juontajana Mira Stenström. Toimittajana Roosa Kajander. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-07T09:00:00+02:00'
         end_time: '2025-01-07T09:05:00+02:00'
@@ -232,7 +243,7 @@ data:
         end_time: '2025-01-07T17:10:00+02:00'
       - title: 'Uutispodcast: Parhaat 2024: Halpakauppa Temun suosiolla voi olla kova hinta'
         start_time: '2025-01-07T17:10:00+02:00'
-        end_time: '2025-01-07T17:34:20+02:00'
+        end_time: '2025-01-07T17:33:00+02:00'
         description: |
           Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Äänisuunnittelija Helmi Sundström suosittelee kuuntelemaan jakson verkkokauppa Temun suosiosta ja sen markkinoinnin saloista. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
@@ -302,6 +313,21 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-07T20:35:00+02:00'
         end_time: '2025-01-07T21:00:00+02:00'
+        description: |-
+          Itämeren turvallisuustilanteen epävakaus on havahduttanut pohjoisen kuljetusreittien tärkeyteen. Norjassa, Ruotsissa ja Suomessa maakuljetusväyliä parannetaan tie- ja rataverkkoa korjaamalla.
+
+          Ohjelmassa matkustetaan Norjan rannikolta Narvikista Ruotsin Kiirunan kautta Rovaniemelle ja selvitetään, millainen merkitys pohjoisella ratayhteydellä on alueelle ja millaisia pullonkauloja siinä on.
+
+          Sekä Suomen että Ruotsin Lapissa korostetaan kaksoiskäyttöisyyttä eli sitä, että rata- ja tieverkon kehittäminen on tärkeää paitsi turvallisuuden myös elinkeinoelämän kannalta.
+
+          Ohjelmassa haastateltavan norjalaisen sotilasasiantuntijan mukaan pohjoisen kuljetusväylien heikkous on, että Ruotsista Suomeen johtaa vain yksi rautatieväylä. Hänestä ratayhteyksiä kannattaisi lisätä.
+
+          Liikenneministeri kertoo, mitä Suomessa ollaan tekemässä yhteyksien parantamiseksi, esimerkiksi raideleveyden muuttamista eurooppalaiseksi selvitetään parhaillaan pohjoisen osalta.
+
+          Lisäksi maakuljetusasiantuntija arvioi kuljetusalan kriisinkestävyyttä.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Erja Tuomaala ja Paula Vilén. Äänitarkkailijana on Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle
+        series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-01-07T21:00:00+02:00'
         end_time: '2025-01-07T21:02:00+02:00'

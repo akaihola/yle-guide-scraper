@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-03T02:27:02.492784+00:00'
+  generated_at: '2025-01-04T02:24:48.484967+00:00'
   git:
     branch: main
-    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
-  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
+    commit: 1098e9e9e85a20155743f9f5009773daf45ced60
+  data_hash: 1c9d42be6d4937da662f364e84d131ca1db31c19c04735be0242f358fb80d82e
 data:
   Yle Radio 1:
     programmes:
@@ -45,11 +45,17 @@ data:
         start_time: '2025-01-05T07:00:00+02:00'
         end_time: '2025-01-05T07:02:05+02:00'
       - title: 'Taiteilijatapaaminen: Näyttelijä Elsa Saisio ja tanssitaiteilija Tuulia Soininen - intohimosta, vapaudesta ja rakkaudesta taitee'
-        start_time: '2025-01-05T07:02:24+02:00'
-        end_time: '2025-01-05T07:55:00+02:00'
+        start_time: '2025-01-05T07:02:23+02:00'
+        end_time: '2025-01-05T07:55:01+02:00'
         description: |
           Näyttelijä Elsa Saisio ja tanssitaiteilija Tuulia Soininen puhuvat kulttuurin leikkauksien vaikutuksista ja oman työnsä merkityksestä Taiteilijatapaamisessa. Toimittajana Rita Trötschkes.
         series: Taiteilijatapaaminen
+      - title: Radio 1 soi
+        start_time: '2025-01-05T07:55:01+02:00'
+        end_time: '2025-01-05T08:00:00+02:00'
+        description: |-
+          Liszt: Metsän huminaa (Matti Raekallio, piano).
+        series: Radio 1 soi
       - title: Yle Uutiset ja sää
         start_time: '2025-01-05T08:00:00+02:00'
         end_time: '2025-01-05T08:05:05+02:00'
@@ -213,6 +219,12 @@ data:
         description: |
           Ortodoksisen palveluksen toimittaa rovasti Timo Tynkkynen. Kirkkokuoroa johtaa kanttori Maria Bondarenko.
         series: Jumalanpalvelukset radiossa
+      - title: Radio 1 soi
+        start_time: '2025-01-05T20:51:41+02:00'
+        end_time: '2025-01-05T21:00:00+02:00'
+        description: |-
+          Tshaikovski: Andante cantabile (Boston Pops/Arthur Fiedler).
+        series: Radio 1 soi
       - title: Yle Uutiset
         start_time: '2025-01-05T21:00:00+02:00'
         end_time: '2025-01-05T21:02:05+02:00'
@@ -223,7 +235,7 @@ data:
           Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Äänisuunnittelija Sami Lindfors suosittelee kuuntelemaan jakson teknologiayhtiö Nvidiasta. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
       - title: 'Elävä historia: Waltari loi Sinuhessa Egyptin, jota ei koskaan nähnyt: Arkeologi paljastaa, mikä siinä on totta'
-        start_time: '2025-01-05T21:24:15+02:00'
+        start_time: '2025-01-05T21:24:21+02:00'
         end_time: '2025-01-05T22:10:46+02:00'
         description: |+
           Waltarin elämä oli täynnä ristiriitoja, joita hän purki romaaneihinsa. Sodan vuonna 1945 julkaistiin Mika Waltarin klassikkoromaani Sinuhe egyptiläinen, jonka tapahtumat kuvaavat 3300:n vuoden takaista Lähi-itää. Mikä romaanissa on nykytietämyksen mukaan totta ja mikä Waltarin mielikuvituksen tuotetta? Haastateltavana on arkeologi Minna Silver. Toimittajana on Rikka Suikkari.
@@ -268,6 +280,18 @@ data:
         description: |
           Vaikka äiti oli romani ja isäpuoliksi romani, Pia Kara oli elänyt vain valtaväestön keskuudessa. Ratkaisun oli tehnyt Karan isä, joka orvoksi jäätyään sijoitettiin valtaväestön perheeseen. Isä katkeroitui, koska kukaan romanisukulainen ei ollut aikoinaan valmis ottamaan orvoksi jäänyttä sukulaispoikaa. Pia Karan tapasi Dimitri Grönfors.
         series: Romano mirits
+      - title: Radio 1 soi
+        start_time: '2025-01-05T23:20:06+02:00'
+        end_time: '2025-01-05T23:26:30+02:00'
+        description: |-
+          Verdi: Laudi alla Vergine Maria (Chicagon sinfoniakuoron naisäänet/Georg Solti).
+        series: Radio 1 soi
+      - title: 'Eilisen ääni: Syvyyksien kalmistot. Erkki Ainamo kertoo merihautauksista'
+        start_time: '2025-01-05T23:26:30+02:00'
+        end_time: '2025-01-05T23:39:30+02:00'
+        description: |
+          Entisaikojen merimiehet uskoivat, että kuolleen ammattiveljen sielu elää albatrossissa, eikä sellaisen tappaminen jää rankaisematta. Erkki Ainamo kertoo Suomen Joutsenella tapahtuneesta kuolemantapauksesta ja haastattelee professori Erkki Kansanahoa merihautauksista. Äänite on vuodelta 1957.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-05T23:40:00+02:00'
         end_time: '2025-01-06T07:00:00+02:00'

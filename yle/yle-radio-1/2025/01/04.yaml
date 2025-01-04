@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-03T02:27:02.134194+00:00'
+  generated_at: '2025-01-04T02:24:48.301328+00:00'
   git:
     branch: main
-    commit: b4bc3dd45fb8134d61b691444e478b522e0fb7c0
-  data_hash: 23aecc76e6de9c6e9dfbd00e44800a6ef3e5f1b5ef501ef9ddac4a2dd236a50c
+    commit: 1098e9e9e85a20155743f9f5009773daf45ced60
+  data_hash: 1c9d42be6d4937da662f364e84d131ca1db31c19c04735be0242f358fb80d82e
 data:
   Yle Radio 1:
     programmes:
@@ -30,18 +30,26 @@ data:
       - title: Aamuklassinen
         start_time: '2025-01-04T06:30:00+02:00'
         end_time: '2025-01-04T07:00:00+02:00'
+        description: |-
+          PTelemann: Konsertto käyrätorvelle ja orkesterille D-duuri (Barry Tuckwell ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
+
+          Brahms: Sonaatti klarinetille ja pianolle Es-duuri (Franklin Cohen ja Vladimir Ashkenazy).
+        series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2025-01-04T07:00:00+02:00'
         end_time: '2025-01-04T07:02:05+02:00'
-      - title: Elävä historia
-        start_time: '2025-01-04T07:03:00+02:00'
-        end_time: '2025-01-04T07:53:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: 'Elävä historia: Waltari loi Sinuhessa Egyptin, jota ei koskaan nähnyt: Arkeologi paljastaa, mikä siinä on totta'
+        start_time: '2025-01-04T07:03:10+02:00'
+        end_time: '2025-01-04T07:49:34+02:00'
+        description: |+
+          Waltarin elämä oli täynnä ristiriitoja, joita hän purki romaaneihinsa. Sodan vuonna 1945 julkaistiin Mika Waltarin klassikkoromaani Sinuhe egyptiläinen, jonka tapahtumat kuvaavat 3300:n vuoden takaista Lähi-itää. Mikä romaanissa on nykytietämyksen mukaan totta ja mikä Waltarin mielikuvituksen tuotetta? Haastateltavana on arkeologi Minna Silver. Toimittajana on Rikka Suikkari.
+          Äänisuunnittelu: Katri Koivula
+
         series: Elävä historia
       - title: Yksi on hyvää seuraa
-        start_time: '2025-01-04T07:53:00+02:00'
+        start_time: '2025-01-04T07:49:34+02:00'
         end_time: '2025-01-04T08:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-04T08:00:00+02:00'
         end_time: '2025-01-04T08:05:00+02:00'
@@ -64,15 +72,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-01-04T08:25:00+02:00'
         end_time: '2025-01-04T08:35:00+02:00'
-        description: |-
-          Maanantaista lauantaihin
-
-          MUSIIKKITIEDOT
-          Kun joku on lähellä Jeesusta Tommi Kalenius Pekka Nyman Jari Kekäle
-          DIGY-000181
-           Ilta Fuchs (laulu) Senni Valtonen (huilu) Laura Airola (viulu) Mikko Iivanainen (kitara) Hannu Rantanen (basso) Pekka Nyman (kellopeli, shaker) Sami Koskela (udu)
-
-          Kesto 1:37
+        description: |
+          "Nuoria miehiä kiinnostaa elää niin kuin Daavid opetti"
+          Pastori Heikki Järvi, Baptistiyhdyskunta, Kokkolasta puhuu elämän valinnoista ja uusista mahdollisuuksista.
         series: Aamuhartaus
       - title: 'Minne Rinne vie: Ihmiset - menkää metsään!'
         start_time: '2025-01-04T08:35:00+02:00'
@@ -85,6 +87,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-04T08:55:00+02:00'
         end_time: '2025-01-04T09:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-04T09:00:00+02:00'
         end_time: '2025-01-04T09:05:00+02:00'
@@ -106,6 +109,7 @@ data:
           Manilow: Copacabana (Barry Manilow).
           Kemppi: Kaamoskuu (Tapio Rautavaara).
           McHugh: Cuban love song (Acker Bilk).
+        series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-01-04T10:00:00+02:00'
         end_time: '2025-01-04T10:05:00+02:00'
@@ -139,12 +143,28 @@ data:
         end_time: '2025-01-04T12:00:00+02:00'
         description: |-
           Ote Larin Kyöstin runosta Talvi-iltahämärässä kokoelmasta Unta ja totta. 
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-04T12:00:00+02:00'
         end_time: '2025-01-04T12:05:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-04T12:05:00+02:00'
         end_time: '2025-01-04T12:30:00+02:00'
+        description: |-
+          Itämeren turvallisuustilanteen epävakaus on havahduttanut pohjoisen kuljetusreittien tärkeyteen. Norjassa, Ruotsissa ja Suomessa maakuljetusväyliä parannetaan tie- ja rataverkkoa korjaamalla.
+
+          Ohjelmassa matkustetaan Norjan rannikolta Narvikista Ruotsin Kiirunan kautta Rovaniemelle ja selvitetään, millainen merkitys pohjoisella ratayhteydellä on alueelle ja millaisia pullonkauloja siinä on.
+
+          Sekä Suomen että Ruotsin Lapissa korostetaan kaksoiskäyttöisyyttä eli sitä, että rata- ja tieverkon kehittäminen on tärkeää paitsi turvallisuuden myös elinkeinoelämän kannalta.
+
+          Ohjelmassa haastateltavan norjalaisen sotilasasiantuntijan mukaan pohjoisen kuljetusväylien heikkous on, että Ruotsista Suomeen johtaa vain yksi rautatieväylä. Hänestä ratayhteyksiä kannattaisi lisätä.
+
+          Liikenneministeri kertoo, mitä Suomessa ollaan tekemässä yhteyksien parantamiseksi, esimerkiksi raideleveyden muuttamista eurooppalaiseksi selvitetään parhaillaan pohjoisen osalta.
+
+          Lisäksi maakuljetusasiantuntija arvioi kuljetusalan kriisinkestävyyttä.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Erja Tuomaala ja Paula Vilén. Äänitarkkailijana on Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle
+        series: Maailmanpolitiikan arkipäivää
       - title: 'Guruja & Asanoita: Onko jooga uskonto? '
         start_time: '2025-01-04T12:30:00+02:00'
         end_time: '2025-01-04T13:05:00+02:00'
@@ -280,21 +300,36 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-04T21:00:00+02:00'
         end_time: '2025-01-04T21:02:00+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Parhaat 2024:  Afganistan on naisille vankila, jossa jopa puhuminen on kielletty'
         start_time: '2025-01-04T21:05:00+02:00'
-        end_time: '2025-01-04T21:29:30+02:00'
+        end_time: '2025-01-04T21:28:19+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
-      - title: Mielimaisema
-        start_time: '2025-01-04T21:30:00+02:00'
-        end_time: '2025-01-04T22:29:30+02:00'
+          Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Vastaava tuottaja Aura Lindeberg suosittelee jaksoa Afganistanin naisten kapenevista ihmisoikeuksista. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
+        series: Uutispodcast
+      - title: Riikan ja Ahdin viimeinen mielimaisema
+        start_time: '2025-01-04T21:29:19+02:00'
+        end_time: '2025-01-04T22:26:29+02:00'
         description: |
-          Hyvänmielen musiikkia, niin tuttua kuin odottamatontakin, on luvassa, kun toimittajat Riikka ja Ahti seikkailevat sekä nykypäivän että nostalgisen nuoruuden musiikillisilla poluilla. Mielimaisema tarjoaa suuria tunteita ja fiilistelyä uusien ja vanhempien kappaleiden parissa. Ohjelmassa soi pop, maailmanmusiikki, jazz tai vaikka tuttujen biisien uudet sovitukset. Mielimaisemiaan avaavat vuoroviikoin Riikka Holopainen ja Ahti Paunu.
-      - title: Keinuva talo - Mika Kauhanen
-        start_time: '2025-01-04T22:30:00+02:00'
-        end_time: '2025-01-04T23:29:30+02:00'
+          Tänään kuullaan kaikkien aikojen viimeinen Mielimaisema ja sen kunniaksi studiossa ovat molemmat toimittajat. Luvassa on ainakin musiikkia menneistä ohjelmista, mieleen jääneitä artisteja sekä bongaukset kollegalta. Toimittajina Riikka Holopainen ja Ahti Paunu.
+        series: Mielimaisema
+      - title: 'Keinuva talo - Mika Kauhanen: Etnovuosi 2024 ansaitsee skålin, vaikka bluesin aihetta onkin'
+        start_time: '2025-01-04T22:27:18+02:00'
+        end_time: '2025-01-04T23:26:18+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Minkälaisia kohokohtia osui kansanmusiikin ja maailmanmusiikin vuoteen 2024? Kuka nostatti maljat, kuka teki kappaleen uutisvirran jatkuvasta bluesista? Ketkä yhdistivät kuubalaisen mambo-rytmin ja bebop-jazzin melodiankuljetukset? Miltä kuulostivat fadon ja flamencon huippulevytykset, entä kurdien ja romanien loistoalbumit? Päättyvän vuoden parhaita etnolevyjä valikoimassa Mika Kauhanen.
+        series: Keinuva talo - Mika Kauhanen
+      - title: Radio 1 soi
+        start_time: '2025-01-04T23:26:18+02:00'
+        end_time: '2025-01-04T23:29:08+02:00'
+        description: |
+          Tshaikovski: Unkarilainen tanssi bal. Joutsenlampi (Saint Louisin SO/Leonard Slatkin).
+        series: Radio 1 soi
+      - title: 'Eilisen ääni: Suomalainen luminen talvimaasto'
+        start_time: '2025-01-04T23:29:58+02:00'
+        end_time: '2025-01-04T23:39:40+02:00'
+        description: |
+          Elina Lähteenmäki ja Minna Pyykkö vierailevat lumi-aiheisessa taidenäyttelyssä vuonna 1992.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-04T23:40:00+02:00'
         end_time: '2025-01-05T07:00:00+02:00'
