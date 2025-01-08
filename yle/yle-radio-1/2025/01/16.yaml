@@ -1,17 +1,41 @@
 metadata:
-  generated_at: '2024-12-31T02:26:15.552934+00:00'
+  generated_at: '2025-01-08T02:26:44.465541+00:00'
   git:
     branch: main
-    commit: 3c009fbf771bd6ab0a2dd98a0780e7ff77017e78
-  data_hash: 462a02cf3fc6c34b3deb3c2041edd4db155521da64531efaafa86ec95551ea07
+    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
+  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-01-15T23:40:00+02:00'
         end_time: '2025-01-16T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Ponce: Kitarasonaatti n:o 5 (Eteläinen sonatiini) (John Williams).
+
+          23:50 Kaski: Reverie (Kimmo Hakasalo).
+
+          23:53 Gaubert: Le Chevalier et la Damoiselle (Ritari ja neito), baletti (Luxemburgin FO/Marc Soustrot).
+
+          01:07 A.F. Lindblad: Kvintetto jousille A-duuri (Upsalan kamarisolistit).
+
+          01:36 Glinka: Alkusoittoja ja tansseja (Neuvostoliiton valtion SO ja Bolshoi-teatterin ork./Jevgeni Svetlanov).
+
+          02:52 Reger: Pianotrio e-molli (John Buttrick, piano, Christine Ragaz, viulu, ja Regula Häusler, sello).
+
+          04:37 Schütz: Viisiäänisiä motetteja kok. Geistliche Chormusik 1648 (Emmanuel Music/Craig Smith).
+
+          04:38 Beethoven: Primo amore (Ensi rakkaus) (Reetta Haavisto, sopraano, ja Turun FO/Leif Segerstam).
+
+          04:55 Backer-Gröndahl: Konserttietydejä op.11 (Natalja Streltshenko, piano).
+
+          05:16 Reinecke: Sonaatti sellolle ja pianolle n:o 2 D-duuri (Martin Rummel ja Roland Krüger).
+
+          05:39 Arkkiherttua Rudolf: Trio Es-duuri (Ricardo Morales, klarinetti, Gerald Kagan, sello, ja Susan Kagan, piano).
+
+          06:05 Knüpfer: Quare fremerunt gentes (Weser-Renaissance Bremen/Manfred Cordes).
+
+          06:20 C.P.E. Bach: Sonaatti huilulle ja continuolle D-duuri (Hans-Martin Linde, traverso, ja Konrad Ragossnig, kitara).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-16T06:30:50+02:00'
@@ -24,13 +48,11 @@ data:
           Nyberg: Iäisen elämän vesi (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
 
           Simojoki: Jumalan virta (Nardus/Tiina Korhonen, ja Tuomas Turunen, piano).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-16T06:50:00+02:00'
         end_time: '2025-01-16T06:59:59+02:00'
         description: |-
           Arkkipiispan erityisavustaja Juha Meriläinen, Vantaa
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-16T07:00:00+02:00'
         end_time: '2025-01-16T07:10:00+02:00'
@@ -44,7 +66,6 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-16T08:10:00+02:00'
         end_time: '2025-01-16T09:00:00+02:00'
-        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-16T09:00:00+02:00'
         end_time: '2025-01-16T09:05:00+02:00'
@@ -66,14 +87,12 @@ data:
           Fabrizio: Per Lucia (Riccardo Fogli).
           McMaster: Airport (The Motors).
           Gershwin: Mies toiveiden (Seija Simola).
-        series: Muistojen bulevardi
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
         start_time: '2025-01-16T10:00:00+02:00'
         end_time: '2025-01-16T10:52:00+02:00'
         description: |
           Maarit Tastulan vieraana laulaja ja näytteljä Arja Saijonmaa. 
           Arja Saijonmaan ensimmäinen vapaustaistelu käytiin Mikkelissä, kun isä valvoi Arjaa kuin haukka. Arja kuitenkin karkasi Amerikkaan ja maailmankiertueelle Mikis Theodorakiksen kanssa. Myöhemmin Arja asettui Ruotsiin ja niitti menestystä. Suuri henkilökohtainen tragedia Saijonmaan elämässä oli sairastuminen nuorena kohtusyöpään. 
-        series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-16T10:52:00+02:00'
         end_time: '2025-01-16T11:00:00+02:00'
@@ -92,19 +111,21 @@ data:
         end_time: '2025-01-16T12:10:00+02:00'
       - title: 'Arktisten sotien kaiut: Kylmää sotaa käytiin pohjoisen taivaalla'
         start_time: '2025-01-16T12:10:00+02:00'
-        end_time: '2025-01-16T12:55:00+02:00'
+        end_time: '2025-01-16T12:42:00+02:00'
         description: |
           Pohjoismaiden ilmatila kiinnosti suurvaltoja kylmässä sodassa niin pommikoneiden kuin tiedustelutiedon näkökulmasta. Samalla Suomen puolustusvoimia koskevat rajoitukset purivat kipeästi ilmavoimiin ja ilmatorjuntaan. Jaksossa syvennytään kylmän sodan ilmatoimintaan pohjoisessa ilmatorjuntamuseon johtajan, everstiluutnantti evp Esa Kelloniemen kanssa. Toimittajat Aleksi Rikkinen ja Emil Kastehelmi.
+        series: Arktisten sotien kaiut
       - title: Yksi on hyvää seuraa
-        start_time: '2025-01-16T12:55:00+02:00'
+        start_time: '2025-01-16T12:42:00+02:00'
         end_time: '2025-01-16T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-01-16T13:00:00+02:00'
         end_time: '2025-01-16T13:30:00+02:00'
-        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-16T13:30:00+02:00'
         end_time: '2025-01-16T15:00:00+02:00'
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-16T15:00:00+02:00'
         end_time: '2025-01-16T15:02:00+02:00'
@@ -131,6 +152,25 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-16T16:10:00+02:00'
         end_time: '2025-01-16T16:59:20+02:00'
+        description: |
+          Bruch: Alkusoitto oopp. Die Loreley (Bambergin sinfonikot/Robert Trevino).
+
+          Prokofjev (sov. Fichtenholz): Talven haltijatar bal. Tuhkimo (Lydia Mordkovitch, viulu, ja Nicholas Walker, piano). 
+
+          Wessman: Vesi väsyy lumen alle (Tapiolan kuoro/Erkki Pohjola).
+
+          Liszt: Lumituisku (György Cziffra, piano).
+
+          Waldteufel: Les patineurs (Luistelijat) (Tokion kaupungin SO/Hiroshi Ishimaru).  
+
+          Tormis: Vepsän talvi (Svanholm Singers). 
+
+          Brahms: Intermezzo A-duuri (Radu Lupu, piano).
+
+          Mendelssohn: Winterlied (Barbara Bonney, sopraano, ja Geoffrey Parsons, piano).
+
+          Arnalds (sov. Lawson): For now I am winter (Voces8 -vokaaliyhtye, Eleanor Turner, harppu, Benjamin Roskams, alttoviulu, ja Stephanie Oade, sello). 
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-16T17:00:00+02:00'
         end_time: '2025-01-16T17:10:00+02:00'
@@ -173,7 +213,6 @@ data:
         end_time: '2025-01-16T20:33:00+02:00'
         description: |
           Äänitetty Kerava-salissa 14.9.2024.
-        series: Jazzklubi
       - title: Yle Uutiset
         start_time: '2025-01-16T21:00:00+02:00'
         end_time: '2025-01-16T21:02:00+02:00'
@@ -190,6 +229,7 @@ data:
         end_time: '2025-01-16T22:30:00+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-01-16T22:30:30+02:00'
         end_time: '2025-01-16T22:49:30+02:00'
@@ -201,6 +241,28 @@ data:
       - title: Yöklassinen
         start_time: '2025-01-17T00:00:00+02:00'
         end_time: '2025-01-17T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Paul Viardot: Sonaatti viululle ja pianolle n:o 1 G-duuri (Reto Kuppel ja Wolfgang Manz).
+
+          00:18 Holst: The Golden goose (Kultainen hanhi), baletti (The Joyful Company of Singers ja BBC:n Walesin kansallisork./Richard Hickox).
+
+          00:43 C. Lithander: Duetto pianolle 4-kätisesti op.5 (Grand duet) (Anna Kuvaja ja Eero Manninen, fortepiano).
+
+          01:00 Musorgski: Kuoleman lauluja ja tansseja (Martti Talvela, basso, ja Ralf Gothoni, piano). 
+
+          01:20 Ries: Kvintetto jousille n:o 2 d-molli (Raquel Massades, alttoviulu, ja Schuppanzigh-kvartetti).
+
+          01:51 Reincken: Sonaatti jousille d-molli (Les Éléments Amsterdam).
+
+          02:06 Rautavaara: Viulukonsertto (Jaakko Kuusisto ja Sinfonia Lahti/Osmo Vänskä)
+
+          02:34 Schubert: Sinfonia n:o 8 C-duuri (The Classical Band/Bruno Weil).
+
+          03:24 Dvorák: Serenadi d-molli (Saint Paulin kamariork./Hugh Wolff).
+
+          03:51 Saint-Saëns: Sonaatti sellolle ja pianolle n:o 2 F-duuri (Maria Kliegel ja Francois-Joel Thiollier).
+
+          04:26 J. Haydn: Die Schöpfung (Luominen) (Gundula Janowitz, sopraano, Christa Ludwig, altto, Fritz Wunderlich, tenori, Werner Krenn, tenori, Dietrich Fischer-Dieskau, baritoni, ja Walter Berry, basso, sekä Wienin konserttiyhdistyksen kuoro ja Berliinin filharmonikot/Herbert von Karajan).
+
+          06:16 Sweelinck: Erbarm dich mein, o Herre Gott (Mua armahda, oi Jumala) (Bernard Winsemius, urut).
         series: Syventävää klassista

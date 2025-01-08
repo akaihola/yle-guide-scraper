@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-07T02:27:50.715937+00:00'
+  generated_at: '2025-01-08T02:26:42.432328+00:00'
   git:
     branch: main
-    commit: be2ec43633ed2ffd1f6fb027229c5b3bc462ab47
-  data_hash: 419072002ccd4b5dff857805f624ad7c4abad27f48f8315f49c3d33ef4d33581
+    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
+  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
 data:
   Yle Radio 1:
     programmes:
@@ -56,8 +56,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-01-09T06:50:00+02:00'
         end_time: '2025-01-09T06:59:59+02:00'
-        description: |-
-          Pastori Liisa Ruusukallio, Tampere
+        description: |
+          "Mikä on ihminen?"
+          Pastori Liisa Ruusukallio Tampereelta opiskelee ensihoidon opinnoissaan ihmisen anatomiaa ja ihmettelee Jumalan luomistyön kauneutta ja monimutkaisuutta. 
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-09T07:00:00+02:00'
         end_time: '2025-01-09T07:10:00+02:00'
@@ -153,10 +155,15 @@ data:
         end_time: '2025-01-09T13:30:00+02:00'
         description: |
           Kirjailija Eeva Kilven ja kustantaja Anna-Riikka Carlsonin ystävyydestä syntyi kirja Rakas Eeva Kilpi - nämä juhlat jatkuvat vielä. Carlson halusi kirjoittaa myös rakkaudestaan Kilven tuotantoon. Kirjailija ja toimittaja Meri Valkamaa pyydettiin kirjoittamaan presidentti Tarja Halosen valtakaudesta. Kirja Perinnönjako perustuu Valkaman ja Halosen keskusteluihin. Eeva Kilpi ja Tarja Halonen toivoivat kirjojen tekijöistä tasa-arvoisia keskustelukumppaneita. Mutta onko se mahdollista? 
+        series: KC Kirjat
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-09T13:30:00+02:00'
         end_time: '2025-01-09T15:00:00+02:00'
-        description: |-
+        description: |
+          Vieraana n. klo 14 RSO:n intendentti Maris Gothoni. N. klo 14:40 Kulttuurin kulmilla.
+          Miia Lahti juontaa.
+
+          Ohjelman musiikit: 
           Rauma & Levanto: Anna aikaa (Punomo).
 
           Andersson - Ulvaeus: Mountain duet musik. Chess (Elaine Paige, ja Tommy Körberg, laulu, sekä Lontoon SO/Anders Eljas).
@@ -190,10 +197,32 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-09T15:00:00+02:00'
         end_time: '2025-01-09T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Lux Helsinki ja tarinoita toisaalta valon välittäminä'
         start_time: '2025-01-09T15:02:00+02:00'
         end_time: '2025-01-09T15:55:00+02:00'
         description: |
+          Lux Helsinkiä vietetään 8.-12.1.2025. Festivaalin 2025 teema on Tarinoita toisaalta. Mikä on valotaiteen suhde muihin taiteenlajeihin? Mitä erityistä valotaiteella voi ilmaista? Miten runoja voi tulkita valotaiteen muodossa? Mikä on valotaiteen merkitys näyttämöteoksissa ja miltä näyttää valotaiteen tulevaisuus? Mitkä kansainväliset teokset kannattaa nähdä?
+
+          Oululainen valotaiteilija Olivia Pohjola teki Lux Helsinkiin tilausteoksena Beings-nimisen valoteoksen Vanhaan kauppahalliin. Pohjola työskentelee valaistussuunnittelijana taiteiden parissa. Millä tavalla valolla voi muuttaa paikan henkeä?
+
+          Ohjelman vieraina ovat Lux Helsinki-tapahtuman taiteellinen johtaja Juha Rouhikoski, valotaiteilija Olivia Pohjola ja Runeberg-palkittu Olli-Pekka Tennilä, joka vierailee valotaiteen puolelle teoksellaan Apopteoosi I – fragmentteja ulkopuolelle.  
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
       - title: Yle News
@@ -256,25 +285,40 @@ data:
           "Osaammeko katsoa itseämme kuten Jumala katsoo?"
           Diakoniatyöntekijä Maaria Lumiaho Hollolasta miettii, mitä Jumala ajattelee hänestä.
         series: Iltahartaus
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Miten syntyivät kirjat Eeva Kilvestä ja Tarja Halosesta?'
         start_time: '2025-01-09T21:36:00+02:00'
-        end_time: '2025-01-09T22:05:30+02:00'
+        end_time: '2025-01-09T22:04:54+02:00'
+        description: |
+          Kirjailija Eeva Kilven ja kustantaja Anna-Riikka Carlsonin ystävyydestä syntyi kirja Rakas Eeva Kilpi - nämä juhlat jatkuvat vielä. Carlson halusi kirjoittaa myös rakkaudestaan Kilven tuotantoon. Kirjailija ja toimittaja Meri Valkamaa pyydettiin kirjoittamaan presidentti Tarja Halosen valtakaudesta. Kirja Perinnönjako perustuu Valkaman ja Halosen keskusteluihin. Eeva Kilpi ja Tarja Halonen toivoivat kirjojen tekijöistä tasa-arvoisia keskustelukumppaneita. Mutta onko se mahdollista? 
+        series: KC Kirjat
       - title: Luomiskertomus
         start_time: '2025-01-09T22:06:00+02:00'
-        end_time: '2025-01-09T22:31:00+02:00'
+        end_time: '2025-01-09T22:29:46+02:00'
         description: |
           Kari Hotakaisen Helmi-romaanin tarinan päähenkilöllä on takanaan vaiherikas nuoruus, mutta edessä hauras vanhuus. Kun muistisairaudesta kärsivä Helmi tutustuu lapsettomuudesta kärsivään pariskuntaan niin sekä pariskunnan että vanhuksen elämä saa uuden käänteen. Tällöin lukijankin on kysyttävä itseltään mitä haluamme elämältä sitten kun emme enää pysty itse vaikuttamaan sen suuntaan. 
 
           Helmi-romaanin kirjoittanut Kari Hotakainen on nyt Luomiskertomuksen vieraana. Ohjelman on toimittanut Jukka Kuosmanen.
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
-        start_time: '2025-01-09T22:31:30+02:00'
-        end_time: '2025-01-09T22:49:30+02:00'
-        series: Viihdekuunnelma
+        series: Luomiskertomus
+      - title: 'Radioteatteri esittää: Verinen lyhty, osa 1/12.'
+        start_time: '2025-01-09T22:36:30+02:00'
+        end_time: '2025-01-09T22:57:47+02:00'
+        description: |
+          Pienen hämäläiskylän elämä nyrjähtää sijoiltaan, kun maantieltä kajahtaa laukaus. Heikkilän talonväki ryhtyy tutkimaan, mistä oikein on kysymys.
+           
+          Rikoskuunnelmasarjan on kirjoittanut Jalmari Finne. Ohjaus: Antero Alpola
+          Rooleissa: 
+          Hillevi Lagerstam, Esko Roine, Seppo Laine, Veikko Honkanen, Martta Reima, Ismo Kallio, 
+          Jarkko Rantanen, Pekka Autiovuori, Esa Saario, Saara Pakkasvirta, Juha Hyppönen ja Helena Notkonen.
+          Uusinta vuodelta 1979.
+
+          Jalmari Finnen Veristä lyhtyä on kutsuttu ensimmäiseksi suomalaiseksi rikosromaaniksi. Finne kirjoitti kertomuksensa vuonna 1928 - runsas vuosikymmenen ennen Mika Waltarin ensimmäisiä Komisario Palmu -seikkailuja.
+        series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-01-09T23:00:00+02:00'
-        end_time: '2025-01-09T23:56:30+02:00'
+        start_time: '2025-01-09T22:58:30+02:00'
+        end_time: '2025-01-09T23:54:28+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Yöklassinen
         start_time: '2025-01-10T00:00:00+02:00'
         end_time: '2025-01-10T06:30:00+02:00'
