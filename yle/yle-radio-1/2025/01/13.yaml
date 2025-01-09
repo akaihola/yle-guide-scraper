@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-08T02:26:43.477563+00:00'
+  generated_at: '2025-01-09T02:37:37.583615+00:00'
   git:
     branch: main
-    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
-  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
+    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
+  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-13T07:10:00+02:00'
         end_time: '2025-01-13T07:59:59+02:00'
+        description: |-
+          Tournier: Au matin (Aamulla) konserttietydi harpulle (Isabelle Moretti, harppu). 
+
+          Chabrier: Metsässä teoksesta Pastoraalisarja (Wienin filharmonikot/John Eliot Gardiner).
+
+          Ravel: Le paon (Riikinkukko) sarj. Histoires naturelles (Kertomuksia luonnosta) (Gerald Finley, baritoni, ja Julius Drake, piano).
+
+          Cannabich: Un poco presto sinfoniasta n:o 22 (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          Poulenc: Souvenirs (Muistoja) näytelmästä Le voyageur sans bagage (Edgar Moreau, sello, ja David Kadouch, piano). 
+
+          Glazunov: Lumi-variaatio ja coda bal. Vuodenajat (Moskovan SO/Aleksandr Anisimov).
+
+          R. Schumann: Von fremden Ländern und Menschen sarj. Kinderszenen (Martha Argerich, piano).
+
+          Cardoso: Milonga (Milos Karadaglić, kitara).
+
+          Rodgers: My favorite things, musikaalista The Sound of music (Kiri Te Kanawa  sopraano, ja orkesteri/Oswald Cheesman).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-13T08:00:00+02:00'
@@ -78,6 +96,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-13T09:05:40+02:00'
         end_time: '2025-01-13T09:58:00+02:00'
+        description: |2
+
+          Dominguez: Perfidia (Glenn Miller Orch.).
+          Kennedy/Carr: I Mexikos land (Sven Arefeldt).
+          Kosta: Sadun sininen lintu (Laila Halme).
+          Modugno: Piove (Domenico Modugno).
+          Becaud: What now my love (Roy Orbison).
+          Bacharach: This guy's in love with you (Herb Alpert).
+          Francisco: Esperame en el cielo (Mina).
+          Berger: Message personnel (Francoise Hardy).
+          Roloff: Vi ska gå hand i hand (Gunnar Wiklund).
+          Garner: Misty (Mantovanin orkesteri).
+          Reed: I giardini di Kensington (Patty Pravo).
+          Crewe/Gaudio: Hiljaa vain ollaan (Finntrio).
+          Kämpfert: Näin uudelleen kuljen (Aarno Raninen).
+          Smith:Walk, don't run (The Ventures).
+        series: Muistojen bulevardi
       - title: 'Virtasen taloushistoria: Suomalaiset juustot'
         start_time: '2025-01-13T10:00:00+02:00'
         end_time: '2025-01-13T10:50:00+02:00'
@@ -112,7 +147,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-13T13:30:00+02:00'
         end_time: '2025-01-13T15:00:00+02:00'
-        description: |-
+        description: |
+          Maanantaitulet klo 14-15. Maanantaitulilla puhutaan tänään nimistä. Mikä merkitys nimellä on? Minkälainen tarina omaan nimeesi liittyy? Entä onko nimi enne? Kerro meille nimesi tarina. Juontajana Miia Lahti. Studiossa aiheesta keskustelee nimistöntutkimuksen dosentti Minna Saarelma-Paukkala 
+
           Jordan. Kun sä oot noin fiksu (Sami Saari).
 
           Jobim: Samba de uma nota so (Joyce).
@@ -138,11 +175,18 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-13T15:00:00+02:00'
         end_time: '2025-01-13T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Mihin Elon Musk vie Yhdysvallat - ja ehkä meidät muutkin?'
         start_time: '2025-01-13T15:02:00+02:00'
         end_time: '2025-01-13T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Yhdysvaltain toista kertaa virkaan astuva presidentti Donald Trump on nimittänyt teknomiljardööri Elon Muskin valtionhallinnon tehostamisviraston johtoon, mikä herättää kysymyksiä rahan vallasta Yhdysvaltain politiikassa ja myös siitä, mitä Elon Musk itse tavoittelee.
+
+          Miten Teslan, SpaceX:n ja X:n (entisen Twitterin) johtaja voi muokata USA:n hallintoa ja koko maailmaa? Onko Musk nerokas innovaattori vai vallanhimoinen uhka ihmiskunnalle? Käsittelyssä ovat myös kiistanalaisen teknologiagurun Muskin innovaatiot sähköautoista avaruusteknologiaan ja hänen roolinsa sosiaalisessa mediassa.
+
+          Studiossa vieraina ovat futuristi Perttu Pölönen, entinen startup-yrittäjä Sami Kuusela sekä politiikan tutkija Markus Kantola. 
+
+          Pauliina Grym toimittaa.
+          (Lähetys on äänitetty 13.12.2024)
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-13T15:55:00+02:00'
@@ -155,14 +199,14 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-13T16:10:00+02:00'
         end_time: '2025-01-13T16:59:20+02:00'
-        description: |-
+        description: |
           Wolf-Ferrari: Alkusoitto oopp. Susannan salaisuus (Academy of St. Martin-in-the-Fields/Neville Marriner).
 
           Ticheli: Earth song (Maan laulu) (Voces8).
 
           Shostakovitsh: Fantastisia tansseja (Nelson Freire, piano).
 
-          Suom. kansansävelmä (sov. U. Klami): Lento (1. osa) sarj. Neljä suomalaista kansanlaulua op.12 (Keski-Pohjanmaan kamariork./Juha Kangas, ja Izumi Tateno, piano).
+          Kansansäv. (sov. U. Klami): Lento sarj. Neljä suomalaista kansanlaulua op.12 (Keski-Pohjanmaan kamariork./Juha Kangas, ja Izumi Tateno, piano).
 
           Holst: Air ja muunnelmia kvintetosta puhaltimille As-duuri op.14 (Ensemble Arabesques).
 
@@ -200,11 +244,14 @@ data:
         end_time: '2025-01-13T18:50:00+02:00'
         description: |
           Kuuntelijoiden toivomaa hengellistä musiikkia.
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-13T18:50:00+02:00'
         end_time: '2025-01-13T19:00:00+02:00'
-        description: |-
-          Näyttelijä Krista Kosonen lukee Psalmeja (VT2024)
+        description: |
+          "Jumalan suojeluksessa kulkevan rukous"
+          Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (115:12-118:29). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa talven aikana. Jaksossa 39. Jumala on ihmisen puolella.
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-13T19:00:00+02:00'
         end_time: '2025-01-13T19:02:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-08T02:26:42.755550+00:00'
+  generated_at: '2025-01-09T02:37:31.252777+00:00'
   git:
     branch: main
-    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
-  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
+    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
+  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
 data:
   Yle Radio 1:
     programmes:
@@ -99,6 +99,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-10T09:05:40+02:00'
         end_time: '2025-01-10T09:58:00+02:00'
+        description: |-
+          Hatch: Downtown (Tony Hatch).
+          Schwandt. Kahn: Elän yhä muistoissain (Anki).
+          Walker: Mr. Bojangles (Lasse Mårtenson). 
+          Stephens: Winchester cathedral (The New Vaudeville Band).
+          Buarque de Hollanda: Deirdres samba (Cornelis Vreeswijk).
+          McKuen: Les amants de coeur (Jacques Brel).
+          Kansansävelmä: Danny boy (Johnny Mathis).
+          Smith: That lucky old sun (Ray Charles).
+          Rascel: Arrivederci Roma (Renato Rascel).
+          Pace: Milloinkaan en löydä samanlaista (Fredi).
+          Helismaa: Rakovalkealla (Ratio).
         series: Muistojen bulevardi
       - title: 'Ruben Stiller: Haluatko elää 120-vuotiaaksi?'
         start_time: '2025-01-10T10:00:00+02:00'
@@ -132,8 +144,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-10T13:30:00+02:00'
         end_time: '2025-01-10T15:00:00+02:00'
-        description: |-
-          Donaldson & Goldman: My baby just cares for me (Michael Bublé).
+        description: |
+          Juontajana Joni TImonen. N. klo 14 Luomiskertomus - ohjelma kirjan synnystä. Kirjailijat kertovat tarinoita uusimman kirjansa taustalta. Lähetyksen musiikit: Donaldson & Goldman: My baby just cares for me (Michael Bublé).
 
           Ben: Mas que nada (Emma Salokoski Trio).
 
@@ -176,7 +188,7 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-01-10T16:10:00+02:00'
         end_time: '2025-01-10T16:59:20+02:00'
-        description: |-
+        description: |
           Melartin: Pas de deux baletista Sininen helmi (RSO/Hannu Lintu).
 
           Kuula: Tuuli se taivutti koivun larvan (Martti Talvela, basso, ja Pertti Eerola, piano).
@@ -197,7 +209,7 @@ data:
 
           Järnefelt: Kehtolaulu (Camilla Nylund, sopraano, ja Ilkka Paananen, piano).
 
-          Wagner: Wolframin laulu iltatähdelle oopperasta Tannhäuser (Christian Gerhaher, baritoni, ja Bajerin radion orkesteri/Daniel Harding).
+          Wagner: Wolframin laulu iltatähdelle oopp. Tannhäuser (Christian Gerhaher, baritoni, ja Baijerin radion SO/Daniel Harding).
         series: Faunin iltapäivä
       - title: 'Uutispodcast: Parhaat 2024: Kalallakin on tunteet – mitä eläinten tietoisuudesta tiedetään?'
         start_time: '2025-01-10T17:10:00+02:00'
@@ -229,11 +241,17 @@ data:
           Minna Rytisalon ja Milja Sarkolan romaanit kertovat keski-ikäisten naisten häpeästä, fantasioista ja irtiotoista. Rytisalon kirjassa “Jenny Hill” nainen jättää avioliittonsa ja entisen elämänsä. Milja Sarkolan Psykiatrini-romaanin päähenkilö elää lesbosuhteessa, mutta fantasioi hetero-parisuhteesta ja potee valjuuden tunnetta. Ohjelmassa tavataan myös brittiläinen kirjailija Deborah Levy, joka on kirjoittanut että nainen voi muuttaa tarinansa. 
         series: KC Kirjat
       - title: 'Kalle Haatanen: Miksi lakkasimme lukemasta?'
-        start_time: '2025-01-10T22:40:00+02:00'
-        end_time: '2025-01-10T23:29:24+02:00'
+        start_time: '2025-01-10T22:39:06+02:00'
+        end_time: '2025-01-10T23:28:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
+      - title: 'Kulttuurin kulmilla: Puheoopperaa vai laulunäytelmää?'
+        start_time: '2025-01-10T23:32:17+02:00'
+        end_time: '2025-01-10T23:39:41+02:00'
+        description: |
+          Eikö oopperassa pitäisi laulaa eikä puhua, ihmettelee Timo Teräsvuori 
+        series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-01-10T23:40:00+02:00'
         end_time: '2025-01-11T06:30:00+02:00'

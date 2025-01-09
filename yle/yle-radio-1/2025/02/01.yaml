@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-08T02:26:49.095202+00:00'
+  generated_at: '2025-01-09T02:37:47.123350+00:00'
   git:
     branch: main
-    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
-  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
+    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
+  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
 data:
   Yle Radio 1:
     programmes:
@@ -69,11 +69,11 @@ data:
         description: |
           Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
         series: Rytmikamari
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Eva Tawasoli'
         start_time: '2025-02-01T11:00:00+02:00'
         end_time: '2025-02-01T11:55:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Vieraana on kunta- ja hyvinvointialuepolitiikko ja sairaanhoitaja Eva Tawasoli. Hänen tarinansa kautta saamme kurkistaa ensin Iranissa asuvan pikkutytön arkeen, ja sitten tunnelmiin Suomeen muuton jälkeen. Sävelet tuovat kaikuja kummastakin maailmasta.
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-01T11:57:00+02:00'

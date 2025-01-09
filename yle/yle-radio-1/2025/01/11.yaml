@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-08T02:26:43.086587+00:00'
+  generated_at: '2025-01-09T02:37:32.474577+00:00'
   git:
     branch: main
-    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
-  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
+    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
+  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
 data:
   Yle Radio 1:
     programmes:
@@ -57,6 +57,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-11T08:05:00+02:00'
         end_time: '2025-01-11T08:25:00+02:00'
+        description: |-
+          Crüger (sov. Kostiainen): Nyt kiitän riemuiten (Musica-kuoro/Pekka Kostiainen).
+
+          Maasalo: Jeesus, lasten auttaja (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Raninen: Talita kuum (Monica Aspelund ja Aarno Ranisen yhtye).
+
+          Nyman: Laulan, koska herätit minut kuolemasta (Matti Holi ja Pekka Nyman Ensemble).
+
+          Simojoki: Talita kuum (Mirkka Paajanen, laulu, Etcetera-kuoro ja yhtye/Pekka Simojoki ).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-11T08:25:00+02:00'
         end_time: '2025-01-11T08:35:00+02:00'
@@ -64,10 +75,13 @@ data:
           "Meillä on aina lupa lähestyä Jeesusta"
           Everstiluutnantti Saga Lippo, Pelastusarmeija, Helsingistä kertoo Jairuksen tyttärestä.
         series: Aamuhartaus
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Retkiluistelu on keventelyä'
         start_time: '2025-01-11T08:35:00+02:00'
         end_time: '2025-01-11T08:55:00+02:00'
         description: |
+          Minne Rinne vie -ohjelmassa on ohjelmassa retkiluistelua. Laji on Suomessa kohtuullisessa kasvussa johtuen mm. siitä, että hiihtomahdollisuudet ovat Etelä-Suomessa heikentyneet viime vuosina. Suomen retkiluistelijat kouluttaa vuosittan useita lajinharrastajia liikkumaan turvallisesti luonnonjäillä. Tänään pääsemme kuitenkin tekojäälle Turun Kupittaanpuistoon, jossa on mennossa luistelutekniikkaharjoitukset. Ohjelmassa haastatetavina ovat Maarit Suomi Suomen retkiluistelijat ry:stä, luistelutekniikan opettaja Lauri Late Paalasmaa.  
+
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
@@ -116,8 +130,9 @@ data:
       - title: Näistä levyistä en luovu
         start_time: '2025-01-11T11:00:00+02:00'
         end_time: '2025-01-11T11:55:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Elokuvaohjaaja Klaus Härölle tärkeintä musiikkia on elokuvamusiikki. Omakeksimä tai kuultu elokuvamusiikki soi hänen päässään lähes aina. Härön elämän merkittävimpiä kappaleita ohjaajan kanssa käy toimittaja Miikkapekka Heikkilä.
+        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-11T11:57:00+02:00'
         end_time: '2025-01-11T12:00:00+02:00'
@@ -137,6 +152,7 @@ data:
         description: |
           Nykyjoogassa on paljon sellaista, mikä ei perinteisesti mitenkään liity joogaan. Erilaisia uskomuksia, käsitteitä, harjoituksia ja new agea. Jooga voi olla mukana erilaisissa uushenkisissä tapahtumissa. Monen joogan aloittamista harkitsevan mieleen voi nousta kysymys, että jos alkaa harjoittaa joogaa, pitääkö samantien uskoa enkeliterapiaan, manifestointiin tai tarot-kortteihin?Jooga- ja uushenkiset piirit kietoutuvat yhteen ja niillä on osittain sama asiakaskunta. 
           Miten uushenkisyys liittyy joogaan ja voiko joogaamalla löytää mystisiä kokemuksia? 
+        series: Guruja & Asanoita
       - title: Uudet levyt
         start_time: '2025-01-11T13:06:00+02:00'
         end_time: '2025-01-11T14:00:00+02:00'
@@ -218,7 +234,8 @@ data:
         start_time: '2025-01-11T18:01:00+02:00'
         end_time: '2025-01-11T18:10:00+02:00'
         description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+          "Silloin lahja voi olla sydän"
+          Lauantai-illan rukoushetkessä Oulun hiippakuntadekaani Juha Rauhala lukee psalmista 100 ja pohtii joulun sanomaa oman pienuutensa kanssa kipuilevalle.
         series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2025-01-11T18:10:00+02:00'

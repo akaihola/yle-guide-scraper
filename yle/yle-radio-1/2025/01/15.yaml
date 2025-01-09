@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-08T02:26:44.147552+00:00'
+  generated_at: '2025-01-09T02:37:39.204776+00:00'
   git:
     branch: main
-    commit: 9bef84e4b231f9f0d80eece3c2273913a6f282a2
-  data_hash: 0ac2e829c06d6a87ac924a8e0fb9474261a9c255d660bcd7c9e311a8ce47d6ff
+    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
+  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
 data:
   Yle Radio 1:
     programmes:
@@ -44,6 +44,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-15T06:30:50+02:00'
         end_time: '2025-01-15T06:50:00+02:00'
+        description: |-
+          Waldis: Kun kasteen Jordan-virrassa (Psallamus/Ilmo Riihimäki, sekä Juhani Haapasalo, urut, ja Matti Kilpiö, nokkahuilu).
+
+          Koraalitoisinto: Kiitos olkoon Jumalalle (Katariina Airas).
+
+          Tuntematon: Herran ristin kantajiksi (Human Organ/Säde Bartling).
+
+          Tuntematon (sov. I. Riihimäki): Oi Isä, Poika, Henki Herran (Sibelius-lukion kamarikuoro/Marjukka Riihimäki).
+
+          Lagi: Mä silmät luon ylös taivaaseen (Eve ja Ossi).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-15T06:50:00+02:00'
@@ -56,6 +66,20 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-15T07:10:00+02:00'
         end_time: '2025-01-15T07:59:59+02:00'
+        description: |-
+          W.A. Mozart: Allegro assai Serenadista D-duuri KV204 (Kurpfalzin kamariork./Jiri Malat).
+
+          J. Haydn: Divertimento G-duuri (Lontoolainen trio n:o 4) (Jean-Pierre Rampal, huilu, Isaac Stern, viulu, ja Mstislav Rostropovitsh, sello).
+
+          Debussy (sov. Caplet): Clair de lune (Kuutamo) (Lyonin kansallisork./Jun Märkl).  
+
+          Hummel: Finaali teoksesta Muunnelmia pianolle ja orkesterille B-duuri (Lontoon Mozart-soittajat/Howard Shelley, piano).
+
+          Ketelbey: Luostarin puutarhassa (Ambrosian Singers -kuoro ja Philharmonia-ork./John Lanchbery)
+
+          Carr-Boyd: Grasstree hill (Verna Lee, harppu, ja Steel City Strings/Shilong Ye).
+
+          Glass: Closing teoksesta Glassworks (The Philip Glass Ensemble/Michael Riesman).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-15T08:00:00+02:00'
@@ -136,7 +160,16 @@ data:
         start_time: '2025-01-15T15:02:00+02:00'
         end_time: '2025-01-15T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Michael Baranin tulkinta tuo Kansallisteatteriin George Orwellin klassikon Eläinten vallankumous (1945), joka käsittelee vallan korruptiota ja totalitarismin syntyä. Tarinassa Jonesin maatilan eläimet kapinoivat, kukistavat ihmisisäntänsä ja perustavat Eläinten tilan, jossa kaikki ovat tasa-arvoisia. Aluksi kaikki sujuu hyvin, mutta pian kohdataan ongelmia ja siat alkavat johtaa, muuttaen tasa-arvon periaatteita.
+
+          Brittikirjailija ja lehtimies Orwell (1903-1950) kirjoitti "Eläinten vallankumous" diktatuurisatiirinsa Espanjan sisällissodan ja Stalinin Neuvostoliiton innoittamana.
+
+          Filosofiaan, aatehistoriaan ja politiikkaan erikoistunut tutkija Timo Miettinen kirjoittaa tietokirjassaan Demokratian aika (Teos, 2024), että moderni demokratia on kehittynyt historian kriisien ja edistyksen ajatusten kautta. Mutta miltä näyttää demokratian tulevaisuus; opittiinko diktatuurien synnystä mitään?
+
+          Diktatuureista ja demokratian tulevaisuudesta taiteen ja tutkimuksen kautta ovat keskustelemassa ohjaaja Michael Baran ja akatemiatutkija, tietokirjailija Timo Miettinen.
+
+          Ohjelman juontaa Nicklas Wancke.
+        series: Kulttuuriykkönen
       - title: Faunin iltapäivä
         start_time: '2025-01-15T16:10:00+02:00'
         end_time: '2025-01-15T16:59:20+02:00'
@@ -162,7 +195,7 @@ data:
 
           Palmer: Mestari, myrsky on suuri (Braxén-kuoro/Harry Westerlund).
 
-          Harju: Roihuamaan (Maksetut viulut).
+          Haunio: Jumalan aalto (Miri Rantio, Katja Kangas, Joel Bonsdorff ja Markus Bäckman, laulu, sekä yhtye).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-15T18:50:00+02:00'
