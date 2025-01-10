@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:40.173143+00:00'
+  generated_at: '2025-01-10T02:28:36.962822+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -42,8 +42,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-01-17T06:50:00+02:00'
         end_time: '2025-01-17T06:59:59+02:00'
-        description: |-
-          Kirkkoherra Ville Tikkanen, Kangasniemi
+        description: |
+          "Hengitykseni on hiljainen hallelujani"
+          Kangasniemen kirkkoherra Ville Tikkanen lukee psalmista 143 ja pohtii keskeneräisenä elämistä sekä Jumalan johdatukseen turvautumista.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-17T07:00:00+02:00'
@@ -112,6 +113,32 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-17T13:30:00+02:00'
         end_time: '2025-01-17T15:00:00+02:00'
+        description: |-
+          Lenny Kravitz: It Ain't Over 'til It's Over.
+
+          Bizet: L'amour est un oiseau rebelle (Glenn Miller).
+
+          Perales: Miksi sä meet (Emma Salokoski).
+
+          Cohen: Take this waltz (Leonard Cohen).
+
+          Mallu: Quando voce olha pra ela (Gal Costa).
+
+          Cadicamo & Melingo: Montmartre de hoy (Daniel Melingo).
+
+          Lauper: Soul of a man musik. Kinky boots (Stark Sands, laulu, sekä ensemble ja ork./Brian Usifer).
+
+          Veera Kuisma: Rautamaa.
+
+          Hupfeld: As time goes by (Buena Vista Social Club).
+
+          José González: Heartbeats.
+
+          Kate Bush: The saxophone song.
+
+          Fiona Apple: O' sailor.
+
+          Kallio, Murphy: Kerouac days in Montana (The Five Corners Quintet solistina Mark Murphy).
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-17T15:00:00+02:00'
@@ -147,19 +174,17 @@ data:
       - title: 'Näistä levyistä en luovu: Yé-yé poppia ja Mascaraa'
         start_time: '2025-01-17T17:35:00+02:00'
         end_time: '2025-01-17T18:30:00+02:00'
-        description: |
+        description: |-
           Toimittaja, kirjailija ja muusikko Annastiina Heikkilä asuu kahta kaupunkia, koti löytyy niin Helsingistä kuin myös Pariisista. Musiikki on kulkenut lähes lapsesta asti Annastiinan mukana. Teini-iässä lähes kaikki liikenevä vapaa-aika meni treenikämpällä bändi harjoituksissa.
           Soittimeksi valikoitui tuolloin basso, ja syy valintaan oli silloin se, että bändistä puuttui basisti. Nykyisin hänen vapaa aika menee usein kirjaa kirjoittaessa, mutta aikaa liikenee myös kolmelle eri yhtyeelle, joissa hän on laulajana. Ohjelman toimittaa Petri Rinne.
-
-
-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
         series: Näistä levyistä en luovu
       - title: Musiikkihartaus
         start_time: '2025-01-17T18:35:00+02:00'
         end_time: '2025-01-17T19:00:00+02:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Olisiko 2025 Herran teiden kulkemisen vuosi?"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus.
+          Vs. kappalainen Visa Viljamaa Helsingistä pohtii uuden vuoden lupauksia ja Herran teiden kulkemisen vaikutusta ihmisen elämään.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-17T19:00:00+02:00'
@@ -167,10 +192,10 @@ data:
       - title: Händel-maniaa Dublinissa – Konsertti-ilta vuodelta 1742
         start_time: '2025-01-17T19:02:00+02:00'
         end_time: '2025-01-17T21:00:00+02:00'
-        description: |-
-          1740-luvun Dublinissa villiinnyttiin Georg Friedrich Händelin musiikista. Hänen teoksensa olivat todella suosittuja ja säveltäjä itse vieraili kaupungissa johtamassa Messias-oratorion 1742. 
+        description: |
+          1740-luvun Dublinissa villiinnyttiin Georg Friedrich Händelin musiikista. Hänen teoksensa olivat todella suosittuja ja säveltäjä itse vieraili kaupungissa johtamassa Messias-oratorion keväällä 1742. 
 
-          Händel-mania houkutteli Dubliniin myös monenmoisia muita muusikoita ja yrittäjiä. Yksi näistä oli herra nimeltä Charles Unkarilainen – Mr Charles the Hungarian. Hän oli virtuoosinen soittaja, säveltäjä ja impressaari, joka vuonna 1742 järjesti kokonaisen konsertti-illan Händelin ja ajan muiden suosittujen säveltäjien musiikin ympärille. 
+          Händel-mania houkutteli Dubliniin myös muita muusikoita ja yrittäjiä. Yksi näistä oli herra nimeltä Charles Unkarilainen – Mr Charles the Hungarian. Hän oli virtuoosinen soittaja, säveltäjä ja impressaari, joka vuonna 1742 järjesti kokonaisen konsertti-illan Händelin ja ajan muiden suosittujen säveltäjien musiikin ympärille. 
 
           Tuo noin 280 vuoden takainen konsertti kuullaan Euroradioillassa miltei yksi yhteen Irlantilaisen barokkiorkesterin tulkitsemana. Luvassa on Händelin sekä Hassen, Geminianin, Telemannin, Lullyn sävellyksiä. Musiikkia johtaa cembalisti Peter Whelan. 
 

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:45.761259+00:00'
+  generated_at: '2025-01-10T02:28:39.367130+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -130,8 +130,10 @@ data:
       - title: Romano mirits
         start_time: '2025-01-28T20:20:00+02:00'
         end_time: '2025-01-28T20:35:00+02:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Allan Lindeman opiskeli lähihoitajaksi ja teki töitä lasten suojelussa. Hän sai tehtäväksi hakea poliisilaitokselta nuoren lastensuojelulaitokseen. Koska hälytys tuli illalla, Lindemanilla oli yllään arkivaatteet. Poliisilaitoksella romaniasuun pukeutunut Lindeman kohtasi poliisin, joka pelästyksissään meinasi tarttua aseeseen. Tilanne järkytti Lindemanin. Hän ei osannut tehdä muuta kuin nostaa kädet ylös ja sanoa “työasioilla”. Toimittaja Mertsi Lindgren.
+
+        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-28T20:35:00+02:00'
         end_time: '2025-01-28T21:00:00+02:00'

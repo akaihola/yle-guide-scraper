@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:45.424743+00:00'
+  generated_at: '2025-01-10T02:28:39.166973+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-27T16:10:00+02:00'
         end_time: '2025-01-27T16:59:20+02:00'
+        description: |-
+          Anderson: Blue tango (Mantovani).
+
+          Loewe: I could have danced all night musik. My Fair Lady (Mari Palo, sopraano, ja Kuopion kaupunginork./Markus Lehtinen).
+
+          Williams: Hedwig's theme elok. Harry Potter and the philosopher's stone (Lontoon kuninkaallinen FO/Nick Ingman).
+
+          Rahmaninov: Tarantella sarjasta kahdelle pianolle n:o 2 (Yefim Bronfman ja Emanuel Ax). 
+
+          Whittall: Love is a place samannimisestä sarjasta sekakuorolle (Polyteknikkojen Kamarikuoro Dominante/Seppo Murto).
+
+          Mayer: Scherzo kvartetosta pianolle ja jousille G-duuri (Mariani-pianokvartetti).
+
+          Donizetti: Nemorinon aaria "Una furtiva lagrima" oopp. Lemmenjuoma (Jouko Harjanne, trumpetti, ja Norjan radio-ork./Ari Rasilainen).
+
+          Le Beau: Allegro molto sellosonaatista D-duuri (Thomas Blees, sello, ja Maria Bergmann, piano).
+
+          Desplat: Without you elok. The shape of water (Lontoon sinfoniaork./Dominique Lemonnier).
+
+          Schubert: Auf dem Wasser zu singen (Laulu laineilla) (Ian Bostridge, tenori, ja Julius Drake, piano).
+
+          Brahms: Unkarilainen tanssi nro 6 (Leipzigin Gewandhaus-orkesteri/Kurt Masur). 
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-27T17:00:00+02:00'
         end_time: '2025-01-27T17:10:00+02:00'

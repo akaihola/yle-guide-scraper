@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:41.629705+00:00'
+  generated_at: '2025-01-10T02:28:37.396571+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -76,11 +76,12 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-01-19T09:56:00+02:00'
         end_time: '2025-01-19T09:59:00+02:00'
-      - title: Jumalanpalvelus Pudasjärven kirkosta
+      - title: Jumalanpalvelus Pudasjärven seurakuntakodilta
         start_time: '2025-01-19T10:00:00+02:00'
         end_time: '2025-01-19T10:59:20+02:00'
-        description: |-
+        description: |
           Liturgina ja saarnaaja kirkkoherra Timo Liikanen.Kanttorina ja urkurina Keijo Piirainen. Virret: 199:2,4; 130; 771; 340; 479; 2,4,5; 452
+        series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
         start_time: '2025-01-19T11:00:00+02:00'
         end_time: '2025-01-19T11:57:00+02:00'
@@ -115,11 +116,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-19T12:55:00+02:00'
         end_time: '2025-01-19T13:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Sääntöjen mukaan'
         start_time: '2025-01-19T13:00:00+02:00'
         end_time: '2025-01-19T13:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
         start_time: '2025-01-19T14:00:00+02:00'
         end_time: '2025-01-19T14:52:00+02:00'

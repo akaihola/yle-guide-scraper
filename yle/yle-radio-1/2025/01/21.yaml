@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:42.615781+00:00'
+  generated_at: '2025-01-10T02:28:37.813581+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -98,6 +98,27 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-21T16:10:00+02:00'
         end_time: '2025-01-21T16:59:20+02:00'
+        description: |-
+          John Williams: The raiders march elokuvasta Kadonneen aarteen metsästäjät (Lontoon sinfoniaorkesteri/John Williams).
+
+          Schubert: Die Post teoksesta Winterreise (Jorma Hynninen, baritoni, ja Ralf Gothoni, piano).
+
+          Theodorakis: Zorba's dance (Prahan filharmoninen ork/Nic Raine).
+
+          Bellini: Norman aaria "Casta diva" oopp. Norma (Inessa Galante, sopraano, ja Latvian kansallinen SO/Aleksandrs Vilumanis).
+
+          Granados: Epilogi sarjasta Romanttisia kohtauksia pianolle (Alicia de Larrocha).
+
+          Dvorak: Allegretto grazioso - Meno mosso pianotriosta n:o 3 f-molli (Golub-Kaplan-Carr Trio).
+
+          Luigi Rossi: Poiche manco la speranza (Andrew Lawrence-King, kaksoisharppu, Stephen Stubbs, kitara, ja Erin Headley, viola da gamba).
+
+          Skempton: Rise up, my love (Nouse, armaani, sinä kaunoiseni, ja tule) samannim. teoksesta (Exaudi/James Weeks).
+
+          Le Beau: Tempo di mazurka kvartetosta pianolle ja jousille f-molli (Kaleidoscope Chamber Collective).
+
+          Portman: We all complete elokuvasta Never let me go (Ork./David Snell).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-21T17:00:00+02:00'
         end_time: '2025-01-21T17:10:00+02:00'

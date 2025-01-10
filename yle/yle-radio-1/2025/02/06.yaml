@@ -1,30 +1,79 @@
 metadata:
-  generated_at: '2025-01-09T02:37:48.351432+00:00'
+  generated_at: '2025-01-10T02:28:41.308829+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-02-05T23:40:00+02:00'
+        end_time: '2025-02-06T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-02-06T06:30:50+02:00'
+        end_time: '2025-02-06T06:50:00+02:00'
       - title: Aamuhartaus
         start_time: '2025-02-06T06:50:00+02:00'
         end_time: '2025-02-06T06:59:59+02:00'
         description: |-
           Pastori Liisa Ruusukallio, Tampere
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T07:00:00+02:00'
+        end_time: '2025-02-06T07:10:00+02:00'
+      - title: Aamusoitto
+        start_time: '2025-02-06T07:10:00+02:00'
+        end_time: '2025-02-06T07:59:59+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T08:00:00+02:00'
+        end_time: '2025-02-06T08:10:00+02:00'
+      - title: Ykkösaamu
+        start_time: '2025-02-06T08:10:00+02:00'
+        end_time: '2025-02-06T09:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-02-06T09:00:00+02:00'
+        end_time: '2025-02-06T09:05:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-02-06T09:05:40+02:00'
+        end_time: '2025-02-06T09:58:00+02:00'
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta:  Riikka Tanner ja Katarina Baer: Miksi me hurahdamme ääriliikkeisiin?'
         start_time: '2025-02-06T10:00:00+02:00'
         end_time: '2025-02-06T10:52:00+02:00'
         description: |
           Katarina Baerin isovanhemmista tuli natseja, Väinö Tannerin pojantyttärestä Riikasta tuli taistolainen. Baer ja Tanner pohtivat, miten moraalinen ristiriita ja kollektiivinen utopia vaikuttavat ihmisten valintoihin ja identiteettiin.
         series: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-02-06T10:52:00+02:00'
+        end_time: '2025-02-06T11:00:00+02:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-02-06T11:00:00+02:00'
+        end_time: '2025-02-06T11:57:00+02:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-02-06T11:57:00+02:00'
+        end_time: '2025-02-06T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T12:00:00+02:00'
+        end_time: '2025-02-06T12:10:00+02:00'
       - title: Arktisten sotien kaiut
         start_time: '2025-02-06T12:10:00+02:00'
         end_time: '2025-02-06T12:55:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-02-06T12:55:00+02:00'
+        end_time: '2025-02-06T13:00:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-02-06T13:00:00+02:00'
+        end_time: '2025-02-06T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-06T13:30:00+02:00'
         end_time: '2025-02-06T15:00:00+02:00'
         series: Radio 1:n iltapäivä
+      - title: Yle Uutiset
+        start_time: '2025-02-06T15:00:00+02:00'
+        end_time: '2025-02-06T15:02:00+02:00'
       - title: Kulttuuriykkönen
         start_time: '2025-02-06T15:02:00+02:00'
         end_time: '2025-02-06T15:55:00+02:00'
@@ -35,8 +84,62 @@ data:
         end_time: '2025-02-06T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T16:00:00+02:00'
+        end_time: '2025-02-06T16:10:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-02-06T16:10:00+02:00'
+        end_time: '2025-02-06T16:59:20+02:00'
+        series: Faunin iltapäivä
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T17:00:00+02:00'
+        end_time: '2025-02-06T17:10:00+02:00'
+      - title: Uutispodcast
+        start_time: '2025-02-06T17:10:00+02:00'
+        end_time: '2025-02-06T17:34:20+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Tuuli Saksalan keidas
+        start_time: '2025-02-06T17:35:00+02:00'
+        end_time: '2025-02-06T18:25:00+02:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Kielen päällä
+        start_time: '2025-02-06T18:25:00+02:00'
+        end_time: '2025-02-06T18:34:30+02:00'
+        description: |-
+          Toimittajana on Jari Aula.
+      - title: Hartaita säveliä
+        start_time: '2025-02-06T18:35:00+02:00'
+        end_time: '2025-02-06T18:50:00+02:00'
       - title: Iltahartaus
         start_time: '2025-02-06T18:50:00+02:00'
         end_time: '2025-02-06T19:00:00+02:00'
         description: |-
           Diakonia- ja kansalaistoiminnan johtaja, pastori Marko Huhtala, Riihimäki
+        series: Iltahartaus
+      - title: Yle Uutiset ja sää
+        start_time: '2025-02-06T19:00:00+02:00'
+        end_time: '2025-02-06T19:02:00+02:00'
+      - title: Klassisen musiikin iltakonsertti
+        start_time: '2025-02-06T19:02:00+02:00'
+        end_time: '2025-02-06T21:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-02-06T21:00:00+02:00'
+        end_time: '2025-02-06T21:02:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-02-06T21:05:00+02:00'
+        end_time: '2025-02-06T21:34:30+02:00'
+      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        start_time: '2025-02-06T22:30:30+02:00'
+        end_time: '2025-02-06T22:49:30+02:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-02-06T23:00:00+02:00'
+        end_time: '2025-02-06T23:56:30+02:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Yöklassinen
+        start_time: '2025-02-07T00:00:00+02:00'
+        end_time: '2025-02-07T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.

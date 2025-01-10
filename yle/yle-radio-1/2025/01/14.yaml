@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-09T02:37:38.244616+00:00'
+  generated_at: '2025-01-10T02:28:35.457148+00:00'
   git:
     branch: main
-    commit: 96ad376214bbb562bfa867a8ac4ce0b0e0dc4968
-  data_hash: f1738b62f816aa1723d175ebc5b1d7c53d5df8aa851ba2a0e43653db14614bca
+    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
+  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
 data:
   Yle Radio 1:
     programmes:
@@ -114,7 +114,7 @@ data:
           Farres: Quizas, quizas, quizas (Ibrahim Ferrer, Omara Portuondo & Roberto Fonseca).
           Kaufman: Kuin runotar hän kulkee (Rauli Badding Somerjoki & Agents).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Miksi et tekisi jo nyt asioita, joita oikeasti haluaisit?'
         start_time: '2025-01-14T10:00:00+02:00'
         end_time: '2025-01-14T10:55:00+02:00'
         description: |
@@ -181,11 +181,19 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-14T15:00:00+02:00'
         end_time: '2025-01-14T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Podcastien nousu: Onko Suomessakin meneillään podcastien voittokulku?'
         start_time: '2025-01-14T15:02:00+02:00'
         end_time: '2025-01-14T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Vuonna 2003 päivänvalon näkivät ensimmäiset podcastit, kun bloggaajat nauhoittivat ajatuksiaan mp3-muotoon ja julkaisivat niitä. Ylekin kokeili podcastin tekoa jo vuonna 2007 musiikkialan kulisseihin kurkistaneen Pop-talk-ohjelman muodossa. Podcastaaminen ei kuitenkaan ottanut tuulta alleen vielä 2000-luvulla vaan vasta vuoden 2014 vuoden lopulla. Amerikkalainen rikostarinaan pureutunut Serial-sarja räjäytti jättipotin ja pisti ison pyörän liikkeelle. 
+
+          Sen jälkeen Nelonen media käynnisti Suplan ja Yle Areenassakin alettiin julkaista podcasteja entistä enemmän. 
+
+          Loppu on historiaa: Nykyään kaikesta kuunneltavasta sisällöstä puhutaan iloisesti podcasteina. Radiolähetyskin muuttuu jälkikuuntelussa podcastiksi, kun sen laittaa nettiin.
+
+          Podcastien voittokulkua on juhlittu lähivuodet, mutta mikä on kasvun ja suosion mittakaava meillä Suomessa? Kuka kuuntelee podcasteja? Mitä kuunnellaan? Kuinka paljon potentiaalia kasvuun on ja millainen bisnes podcastit ovat? Miltä tulevaisuus näyttää?     
+
+          Kulttuuriykkösen vieraana ovat podcast-palvelu Podme Suomen sisältöjohtaja Ninja Huhtamäki, juuri toimintansa lopettaneen podcastien tuotantoyhtiö Jaksomedian entinen toimitusjohtaja Olli Sulopuisto sekä Ylen vastaava tuottaja Aino Töllinen, joka vastaa Areenan podcastien kokonaisjulkaisusuunnittelusta. Toimittaja on Reetta Arvila.  
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-14T15:55:00+02:00'
@@ -209,9 +217,31 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-01-14T17:35:00+02:00'
         end_time: '2025-01-14T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Oonko löytänyt sen mitä elämiseen kuuluu? Miten oppisi ymmärtämään omaa kehoa? Mitä Jarkko Martikainen tekisi? 
+          Ihmiselossa riittää haasteita ja siksi tarvitaan idoleita, hahmoja joihin heijastaa ihanteita. Mutta miten se idoli itse pärjää, ei varmaan ole helppoa olla Mirella tai Dingo?
 
+          Ihmisyyttä pohditaan Kissankehdossa popmusiikin säestyksellä ja kissankakkaa siivotessa
+
+          Nikita Titov: Tuhat vuotta
+          Ella Fitzgerald & Paul Weston Orchestra: Get thee behind me Satan
+          The Weather Station: Body moves
+          The XX: Say something loving
+          Satu Lii: Tää on taistelua
+          Jarkko Martikainen: Tämä vaikea elämä
+          Dingo: Kirjoitan
+          Jori Hulkkonen: Ihasama
+          Tami Neilson: Any fool with a heart
+          Viitasen Piia: Piritorin kuningas
+
+          Innoitusta antoivat:
+
+          Keskusteluja Jarkko Martikaisen kanssa (Yle Areena)
+          Sivumennen - podcastsarja, toimittajina Jonna Tapanainen ja Johanna Laitinen (mm. Spotify)
+          Tia Kouvon ohjaama elokuva Mummola (Yle Areena)
+          Mari Rantasilan ohjaama ja Hanna Leivonniemen käsikirjoittama elokuva Levoton Tuhkimo (leffateattereissa)
+          Tv-sarja Murhia ja kantrimusiikkia (Yle Areena)
+        series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2025-01-14T18:35:00+02:00'
         end_time: '2025-01-14T18:50:00+02:00'
@@ -234,9 +264,13 @@ data:
           Käsikirjoitus: Laura Gustafsson ja Hilja Kerimäki
           Ohjaus: Laura Gustafsson
         series: Maitotyttö
-      - title: Eilisen ääni
+      - title: 'Eilisen ääni: Laskiaisen säännöt ja uskomukset'
         start_time: '2025-01-14T19:43:00+02:00'
         end_time: '2025-01-14T20:00:00+02:00'
+        description: |-
+          Laskiainen osuu vuonna 2025 niin, että laskiais-sunnuntai on 2. maaliskuuta ja laskiaistiistai puolestaan 4. maaliskuuta. 
+          Eilisen äänessä muistellaan nyt vanhoja laskiaisen sääntöjä sekä uskomuksia. Toimittajana on Salme Koivuniemi ja wanhanajan laskiaista muistelevat Liinu Vuokila ja Ida Vöyrykkä. Ensilähetys 4.3.1962.
+        series: Eilisen ääni
       - title: Kaisa Pulakan aikamatkat
         start_time: '2025-01-14T20:00:00+02:00'
         end_time: '2025-01-14T20:20:00+02:00'
