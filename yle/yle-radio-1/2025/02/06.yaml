@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-10T02:28:41.308829+00:00'
+  generated_at: '2025-01-11T02:26:44.851235+00:00'
   git:
     branch: main
-    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
-  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
+    commit: 794ae7540424b0b6159799197fac8b63cfc3ce6a
+  data_hash: 8ec4b94b6fa066b39884dde82e215a95529961e25c285f37242d29676714fb03
 data:
   Yle Radio 1:
     programmes:
@@ -79,6 +79,7 @@ data:
         end_time: '2025-02-06T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-06T15:55:00+02:00'
         end_time: '2025-02-06T15:58:00+02:00'

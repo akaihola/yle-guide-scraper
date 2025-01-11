@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-10T02:28:34.677492+00:00'
+  generated_at: '2025-01-11T02:26:35.092589+00:00'
   git:
     branch: main
-    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
-  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
+    commit: 794ae7540424b0b6159799197fac8b63cfc3ce6a
+  data_hash: 8ec4b94b6fa066b39884dde82e215a95529961e25c285f37242d29676714fb03
 data:
   Yle Radio 1:
     programmes:
@@ -38,22 +38,33 @@ data:
       - title: Aamuklassinen
         start_time: '2025-01-11T06:30:00+02:00'
         end_time: '2025-01-11T07:00:00+02:00'
+        description: |-
+          de Lalande: Symphonies pour les Soupers du Roy, osia sarjasta sarja n:o 7 (La Simphonie du Marais/Hugo Reyne).
+
+          Bakfark: Si gran e la piet (Jacob Heringman, luuttu).
+
+          Sarja orkesterille Georg Muffat'n ja Jean-Baptiste Lullyn teoksista. (Armonico Tributo Austria/Lorenz Duftschmid).
+        series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2025-01-11T07:00:00+02:00'
         end_time: '2025-01-11T07:02:05+02:00'
       - title: Radio 1 soi
         start_time: '2025-01-11T07:02:05+02:00'
-        end_time: '2025-01-11T07:20:00+02:00'
+        end_time: '2025-01-11T07:21:05+02:00'
+        description: |-
+          Brahms: Muunnelmia Haydnin teemasta pianolle 4-kätisesti (Emanuel Ax ja Yefim Bronfman).
+        series: Radio 1 soi
       - title: 'Luomiskertomus: Lotta Toivanen suomensi naisvihamielisen kirjailijan teoksen'
-        start_time: '2025-01-11T07:30:00+02:00'
-        end_time: '2025-01-11T07:55:00+02:00'
+        start_time: '2025-01-11T07:29:04+02:00'
+        end_time: '2025-01-11T07:52:16+02:00'
         description: |+
           Michel Houellebecqin naisviha ihmetyttää suomentaja Lotta Toivasta. Toivasella on viha-rakkaussuhde ranskalaiskirjailijaan, koska toisaalta hän ihailee Houellebecqin kirjoitustaitoa. Toivanen käänsi kohukirjailija Houellebecqin romaanin “Olemattomiin”. Toimittaja on Jakke Holvas.
 
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
-        start_time: '2025-01-11T07:55:00+02:00'
+        start_time: '2025-01-11T07:52:16+02:00'
         end_time: '2025-01-11T08:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-11T08:00:00+02:00'
         end_time: '2025-01-11T08:05:00+02:00'
@@ -89,6 +100,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-11T08:55:00+02:00'
         end_time: '2025-01-11T09:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-11T09:00:00+02:00'
         end_time: '2025-01-11T09:05:00+02:00'
@@ -144,9 +156,19 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-11T12:00:00+02:00'
         end_time: '2025-01-11T12:05:00+02:00'
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Pakottaako Trump Ukrainan rauhaan?'
         start_time: '2025-01-11T12:05:00+02:00'
         end_time: '2025-01-11T12:30:00+02:00'
+        description: |-
+          Yhdysvaltain presidentiksi palaava Donald Trump haluaa lopettaa Ukrainan sodan. Käytännön rauhanehdoista tiedetään kuitenkin varsin vähän.
+
+          Asiantuntijoiden keskuudessa Atlantin molemmin puolin on huolta, että Venäjään myötämielisesti ensimmäisellä kaudella suhtautunut Trump voisi pakottaa Ukrainan hyväksymään rauhanehdot, jotka ovat sille epäedulliset.
+
+          Ohjelmassa kuullaan, mitä ukrainalaiset ajattelevat Trumpin paluusta. Tuoreen mielipidekyselyn mukaan noin neljännes ukrainalaisista uskoo oikeudenmukaiseen rauhaan.
+
+          Oikeudenmukaisen rauhan yhtenä ehtona moni pitää Venäjän Ukrainalta valtaamien alueiden palauttamista. Trumpin Ukraina-edustaja on kuitenkin hahmotellut rintamalinjojen jäädyttämistä. Ohjelmassa selviää, miten julmasti Venäjä valtaamiensa alueiden asukkaita kohtelee.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov, Simo Ortamo ja Paula Vilén. Äänitarkkailijana on Mikko Kymäläinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
         series: Maailmanpolitiikan arkipäivää
       - title: 'Guruja & Asanoita:  Miksi joogi hörhöilee? - teosofeista QAnoniin ja New Ageen '
         start_time: '2025-01-11T12:30:00+02:00'
@@ -158,6 +180,14 @@ data:
       - title: Uudet levyt
         start_time: '2025-01-11T13:06:00+02:00'
         end_time: '2025-01-11T14:00:00+02:00'
+        description: |
+          Sibelius: Andante ma non troppo - Allegro energico sinfoniasta n:o 1 (Stuttgartin radion sinfoniaorkesteri/Eliahu Inbal).
+
+          J. Haydn: Pianotrio n:o 25 (Haitto Trio).
+
+          Crusell: Concertino fagotille ja orkesterille (Jaakko Luoma, fagotti, ja Tapiola Sinfonietta/Janne Nisonen).
+
+          Linkola: Maestoso energico konsertosta baritonitorvelle (Mauro Martins, baritonitorvi, ja Portugalin ilmavoimien puhallinorkesteri).
         series: Uudet levyt
       - title: 'Ruben Stiller: Haluatko elää 120-vuotiaaksi?'
         start_time: '2025-01-11T14:00:00+02:00'
@@ -253,39 +283,70 @@ data:
         start_time: '2025-01-11T19:02:00+02:00'
         end_time: '2025-01-11T20:59:00+02:00'
         description: |
-          Sir Mark Elder, kapellimestari. - Claude Debussy: Faunin iltapäivä; La mer. Richard Wagner: Alkusoitto ja Isolden lemmenkuolo oopperasta Tristan ja Isolde. Richard Wagner (sov. Mark Elder): Sarja oopperasta Nürnbergin mestarilaulajat. Toimittajana Riikka Holopainen
+          Sir Mark Elder, kapellimestari. - Claude Debussy: Faunin iltapäivä; La mer. Richard Wagner: Alkusoitto ja Isolden lemmenkuolo oopperasta Tristan ja Isolde. Richard Wagner (sov. Mark Elder): Sarja oopperasta Nürnbergin mestarilaulajat. Toimittajana Riikka Holopainen (Äänitetty Musiikkitalossa 10.1.)
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-01-11T21:00:00+02:00'
         end_time: '2025-01-11T21:02:05+02:00'
         series: Yle Uutiset
-      - title: Uutispodcast
-        start_time: '2025-01-11T21:05:30+02:00'
-        end_time: '2025-01-11T21:29:30+02:00'
+      - title: 'Uutispodcast: Parhaat 2024: Miten eduskunnasta tuli sairas työyhteisö?'
+        start_time: '2025-01-11T21:03:04+02:00'
+        end_time: '2025-01-11T21:27:49+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
-      - title: Maailmanpolitiikan arkipäivää
-        start_time: '2025-01-11T21:30:00+02:00'
-        end_time: '2025-01-11T21:55:00+02:00'
-        series: Maailmanpolitiikan arkipäivää
-      - title: Minne Rinne vie
-        start_time: '2025-01-11T22:00:00+02:00'
-        end_time: '2025-01-11T22:20:00+02:00'
-        description: |
-          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-        series: Minne Rinne vie
-      - title: Kielen päällä
-        start_time: '2025-01-11T22:20:30+02:00'
-        end_time: '2025-01-11T22:30:00+02:00'
+          Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Juontaja Reetta Rönkä suosittelee kuuntelemaan jakson eduskunnan huonosta työilmapiiristä. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
+        series: Uutispodcast
+      - title: 'Maailmanpolitiikan arkipäivää: Pakottaako Trump Ukrainan rauhaan?'
+        start_time: '2025-01-11T21:28:36+02:00'
+        end_time: '2025-01-11T21:50:49+02:00'
         description: |-
-          Toimittajana on Jari Aula.
-        series: Kielen päällä
-      - title: Keinuva talo - Mika Kauhanen
-        start_time: '2025-01-11T22:30:30+02:00'
-        end_time: '2025-01-11T23:29:30+02:00'
+          Yhdysvaltain presidentiksi palaava Donald Trump haluaa lopettaa Ukrainan sodan. Käytännön rauhanehdoista tiedetään kuitenkin varsin vähän.
+
+          Asiantuntijoiden keskuudessa Atlantin molemmin puolin on huolta, että Venäjään myötämielisesti ensimmäisellä kaudella suhtautunut Trump voisi pakottaa Ukrainan hyväksymään rauhanehdot, jotka ovat sille epäedulliset.
+
+          Ohjelmassa kuullaan, mitä ukrainalaiset ajattelevat Trumpin paluusta. Tuoreen mielipidekyselyn mukaan noin neljännes ukrainalaisista uskoo oikeudenmukaiseen rauhaan.
+
+          Oikeudenmukaisen rauhan yhtenä ehtona moni pitää Venäjän Ukrainalta valtaamien alueiden palauttamista. Trumpin Ukraina-edustaja on kuitenkin hahmotellut rintamalinjojen jäädyttämistä. Ohjelmassa selviää, miten julmasti Venäjä valtaamiensa alueiden asukkaita kohtelee.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov, Simo Ortamo ja Paula Vilén. Äänitarkkailijana on Mikko Kymäläinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+        series: Maailmanpolitiikan arkipäivää
+      - title: Radio 1 soi
+        start_time: '2025-01-11T21:50:49+02:00'
+        end_time: '2025-01-11T22:01:04+02:00'
+        description: |-
+          Dvorák: Kotiseutuni, alkusoitto (Los Angelesin FO/André Previn).
+        series: Radio 1 soi
+      - title: 'Minne Rinne vie: Retkiluistelu on keventelyä'
+        start_time: '2025-01-11T22:01:04+02:00'
+        end_time: '2025-01-11T22:19:21+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Retkiluistelu on Suomessa kohtuullisessa kasvussa johtuen mm. siitä, että hiihtomahdollisuudet ovat Etelä-Suomessa heikentyneet viime vuosina. Suomen retkiluistelijat kouluttaa vuosittain useita lajin harrastajia liikkumaan turvallisesti luonnonjäillä
+
+          Petri Rinteen mukana lähdetään Turun Kupittaanpuistoon, jossa on menossa luistelutekniikkaharjoitukset. Haastateltavina ovat Maarit Suomi Suomen retkiluistelijat ry:stä sekä  luistelutekniikan opettaja Lauri Paalasmaa.
+        series: Minne Rinne vie
+      - title: 'Kielen päällä: Espanja maailmankielenä'
+        start_time: '2025-01-11T22:20:22+02:00'
+        end_time: '2025-01-11T22:29:22+02:00'
+        description: |
+          Helsingin yliopiston iberoromaanisten kielten professori Pekka Posio kertoo espanjasta maailmankielenä ja Espanjassa puhuttavista kielistä. Ohjelma liittyy Espanjalainen kesä -teemaan.
+        series: Kielen päällä
+      - title: 'Keinuva talo - Mika Kauhanen: Palkitut ja pyrkivät gaalakatsauksessa'
+        start_time: '2025-01-11T22:30:12+02:00'
+        end_time: '2025-01-11T23:19:22+02:00'
+        description: |
+          Millaisia levyjä ja esiintyjiä on palkittu vuoden parhaina Euroopan etnogaaloissa viime aikoina?  Avaamme ikkunaa Skotlantiin, Viroon, Tanskaan, Norjaan, Portugaliin, Espanjaan ja Unkariin. Kuulemme myös väläykset kotimaisista Emma-ehdokkaista Vuoden Etno -sarjassa. Jakson lopussa ensisoitossa juhlavuotensa aloittavan Frigg-yhtyeen uusi singlejulkaisu Valsette. Toimittajana Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
+      - title: Radio 1 soi
+        start_time: '2025-01-11T23:19:22+02:00'
+        end_time: '2025-01-11T23:31:03+02:00'
+        description: |-
+          Respighi: Adagio ja muunnelmia sellolle ja orkesterille (Gaspar Cassadó ja Wienin Pro Musica -ork./Jonel Perlea).
+        series: Radio 1 soi
+      - title: 'Eilisen ääni: Naisen kuva'
+        start_time: '2025-01-11T23:31:03+02:00'
+        end_time: '2025-01-11T23:39:40+02:00'
+        description: |
+          Kristus ja Mataleena. Taiteentutkija Riitta Konttinen ja Jaani Viherluoto keskustelevat Albert Edefeltin maalauksesta. Ohjelma on vuodelta 1996.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-11T23:40:00+02:00'
         end_time: '2025-01-12T07:00:00+02:00'

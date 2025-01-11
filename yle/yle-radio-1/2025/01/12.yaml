@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-10T02:28:34.881028+00:00'
+  generated_at: '2025-01-11T02:26:35.796721+00:00'
   git:
     branch: main
-    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
-  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
+    commit: 794ae7540424b0b6159799197fac8b63cfc3ce6a
+  data_hash: 8ec4b94b6fa066b39884dde82e215a95529961e25c285f37242d29676714fb03
 data:
   Yle Radio 1:
     programmes:
@@ -58,12 +58,17 @@ data:
           Kesä (Fabio Biondi, viulu, ja Europa Galante).
           Syksy, otteita ja Talvi (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-01-12T07:54:11+02:00'
+        end_time: '2025-01-12T08:00:00+02:00'
+        description: |-
+          Locatelli: Andante sonaatista viululle ja continuolle F-duuri (Trio Settecento). 
       - title: Yle Uutiset ja sää
         start_time: '2025-01-12T08:00:00+02:00'
         end_time: '2025-01-12T08:05:05+02:00'
       - title: Narrin aamulaulu - Pidättekö Brahmsista?
-        start_time: '2025-01-12T08:05:35+02:00'
-        end_time: '2025-01-12T09:00:00+02:00'
+        start_time: '2025-01-12T08:05:38+02:00'
+        end_time: '2025-01-12T08:59:44+02:00'
         description: |
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
         series: Narrin aamulaulu - Outi Paananen
@@ -201,21 +206,22 @@ data:
       - title: Baptistikirkon jumalanpalvelus Kannuksen Kotiseurakunnasta
         start_time: '2025-01-12T20:00:00+02:00'
         end_time: '2025-01-12T20:48:32+02:00'
-        description: |-
-          Puhujana pastori Tuomas Vuolteenaho
+        description: |
+          Liturgina pastori Tuomas Vuolteenaho. Puhujana Teemu Puumala. Kanttorina Katja Puumala. Yhteislaulut: Hengellinen laulukirja nrot 423 ja 71
+           
         series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-01-12T21:00:00+02:00'
         end_time: '2025-01-12T21:02:05+02:00'
       - title: 'Uutispodcast: Parhaat 2024: Kalallakin on tunteet – mitä eläinten tietoisuudesta tiedetään?'
-        start_time: '2025-01-12T21:03:00+02:00'
-        end_time: '2025-01-12T21:24:09+02:00'
+        start_time: '2025-01-12T21:03:21+02:00'
+        end_time: '2025-01-12T21:24:30+02:00'
         description: |
           Uutispodcast jakaa vuoden parhaimpia jaksoja joulutauon ajaksi! Juontaja Erkka Mikkonen suosittelee kuuntelemaan jakson eläinten tietoisuudesta. Uutispodcast jatkuu uusilla jaksoilla 13. tammikuuta.
         series: Uutispodcast
       - title: 'Klasariparatiisi: Punaisen papin Neljä vuodenaikaa'
-        start_time: '2025-01-12T21:26:00+02:00'
-        end_time: '2025-01-12T22:17:35+02:00'
+        start_time: '2025-01-12T21:25:03+02:00'
+        end_time: '2025-01-12T22:16:38+02:00'
         description: |
           Lintujen liverrystä, purojen solinaa, tukalaa kuumuutta (kärpäsiä!) ja hirmuinen ukkonen.
           Kekkulipäiden kompastelua ja saaliin kuolema, lopuksi hytisevä talvi ja takkatuli.
@@ -232,19 +238,31 @@ data:
           Syksy, otteita ja Talvi (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Etsi elinvoimaa, älä uutta dieettiä'
-        start_time: '2025-01-12T22:18:30+02:00'
-        end_time: '2025-01-12T23:11:38+02:00'
+        start_time: '2025-01-12T22:16:55+02:00'
+        end_time: '2025-01-12T23:10:03+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-01-12T23:10:03+02:00'
+        end_time: '2025-01-12T23:16:08+02:00'
+        description: |-
+          Liszt: Konserttietydi n:o 3 Des-duuri (Huokaus) (Matti Raekallio, piano).
+        series: Radio 1 soi
       - title: Romano mirits
-        start_time: '2025-01-12T23:12:30+02:00'
-        end_time: '2025-01-12T23:27:06+02:00'
+        start_time: '2025-01-12T23:16:08+02:00'
+        end_time: '2025-01-12T23:30:44+02:00'
         description: |+
           Robert Berg asuu perheensä kanssa Riihimäellä. Siellä hän on viettänyt suurimman osan elämästään, mutta Suomen kansalaisuuden hän sai kuitenkin vasta hiljattain. Mistä moinen asetelma ja miksi Robert tunnettiin vielä hiljattain ruotsalaisissa asiapapereissa Robert Hagertina? Robert Berg kertoo romanisuku-sarjan ohjelmassa elämästään ja Hagertin suvun historiasta. 
           Toimittaja on Jaakko Laakso.
 
         series: Romano mirits
+      - title: 'Eilisen ääni: Lapsuusajan ruusunhohteiset maisemat'
+        start_time: '2025-01-12T23:31:27+02:00'
+        end_time: '2025-01-12T23:39:38+02:00'
+        description: |
+          Professori Rauno Tenovuon puheenvuoro perinne- ja luonnonmaiseman arvosta vuodelta 1993.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-12T23:40:00+02:00'
         end_time: '2025-01-13T06:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-10T02:28:35.457148+00:00'
+  generated_at: '2025-01-11T02:26:36.563274+00:00'
   git:
     branch: main
-    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
-  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
+    commit: 794ae7540424b0b6159799197fac8b63cfc3ce6a
+  data_hash: 8ec4b94b6fa066b39884dde82e215a95529961e25c285f37242d29676714fb03
 data:
   Yle Radio 1:
     programmes:
@@ -139,9 +139,11 @@ data:
         description: |
           Kaisa Pulakka kysyy, kuka kaipaa kättelyä. Aikamatkat lennättävät kuulijan tutkimaan kättelyn historiaa. Matkan varrella pirautetaan myös Korkeasaareen. 
         series: Kaisa Pulakan aikamatkat
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Kaikki oppiminen helpottaa uuden oppimista'
         start_time: '2025-01-14T12:30:00+02:00'
         end_time: '2025-01-14T12:55:00+02:00'
+        description: |-
+          Pasi Heikura kysyy muistitutkija Minna Huotilaiselta, ovatko oppimisen tekniikat samoja kuin muistamisen tekniikat. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Politiikkaradio
         start_time: '2025-01-14T13:00:00+02:00'
@@ -149,12 +151,15 @@ data:
         description: |
           Onko Suomen ulkopolitiikan kuuluisa konsensus rikki? Vieraina ovat kansanedustajat Pia Kauma (kok.),  Sonja Falk (kd.) ja Miapetra Kumpula-Natri (sd.).
           Toimittajana on Linda Pelkonen. (Äänitetty 28.9.2024)
-        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-14T13:30:00+02:00'
         end_time: '2025-01-14T15:00:00+02:00'
-        description: |-
-          Rodgers: The Lady is a tramp (Tony Bennett ja Lady Gaga).
+        description: |
+          Programme name: Radio 1:n iltapäivä
+
+          Juontajana Heikki Puskala. Iltapäivän monipuolinen musiikkikattaus. Studiovieraana klo n. 14.00 psykologian tohtori, aivoasiantuntija Mona Moisala. N. klo 14:40 Kielen päällä.
+
+          Ohjelman musiikit: Rodgers: The Lady is a tramp (Tony Bennett ja Lady Gaga).
 
           Ramirez: Alfonsina y el mar (Mercedes Sosa).
 
@@ -206,6 +211,27 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-14T16:10:00+02:00'
         end_time: '2025-01-14T16:59:20+02:00'
+        description: |
+          M. Brouwer: Pulse (Liverpoolin kuninkaallinen FO/Gerard Schwarz).
+
+          Zeller: Christelin laulu "Ich bin die Christel von der Post" oper. Lintukauppias (Barbara Bonney, sopraano, ja Ronald Schneider, piano).
+
+          Morricone (sov. Raijas): Gabriel's oboe (Jouko Harjanne, trumpetti, Jari Valo ja Jukka Pohjola, viulu, Riitta-Liisa Ristiluoma, alttoviulu, Timo Alanen, sello, sekä Kati Harjanne, kontrabasso).
+
+          G. Boije: Masurkka (Maria Suokas, piano).
+
+          Nordgren: Vanhan miehen menuetti sarj. Pelimannimuotokuvia (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          Le Beau: Adagio kvartetosta pianolle ja jousille f-molli (Kaleidoscope Chamber Collective).
+
+          Coates: I sing to you (A souvenir) (BBC:n FOi/John Wilson).
+
+          Rantala: Gondol ride to St. Mark's square (Iiro Rantala, piano, ja Berliinin filharmonikkojen jäseniä). 
+
+          Tournier: L'eternel reveur (Ikuinen uneksija) (Isabelle Moretti, harppu). 
+
+          Copland: Hoedown balettisarj. Rodeo (San Franciscon SO/Michael Tilson Thomas).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-14T17:00:00+02:00'
         end_time: '2025-01-14T17:10:00+02:00'
@@ -245,6 +271,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-14T18:35:00+02:00'
         end_time: '2025-01-14T18:50:00+02:00'
+        description: |-
+          Elovaara: Psalmi n:o 121 (Lasse Riutamaa, tenori, ja Pentti Kotiranta, piano).
+
+          Erkkilä: Minun sieluni halajaa (Harjun Kamarikuoro/Heikki Liimola).
+
+          S. Heikkilä: Daavidin psalmi (Sakari Heikkilä).
+
+          P. Simojoki: Kohottakaa huuto! (Arja Simojoki ja yhtye).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-14T18:50:00+02:00'
@@ -282,9 +316,19 @@ data:
         end_time: '2025-01-14T20:35:00+02:00'
         description: |
           Romanisuku-sarjan jaksossa jatketaan tarinointia Riihimäkeläisen Robert Bergin kanssa, joka kuuluu tunnettuun Hagertin sukuun. Hänen kanssaan vanhojen valokuvien äärellä pohditaan mm. romanien kansanpuvun muuttumista ja kuullaan tarina liikemies Kalle Hagertista ja presidentti Urho Kekkosesta. Robert Bergin tapasi toimittaja Jaakko Laakso.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Pakottaako Trump Ukrainan rauhaan?'
         start_time: '2025-01-14T20:35:00+02:00'
         end_time: '2025-01-14T21:00:00+02:00'
+        description: |-
+          Yhdysvaltain presidentiksi palaava Donald Trump haluaa lopettaa Ukrainan sodan. Käytännön rauhanehdoista tiedetään kuitenkin varsin vähän.
+
+          Asiantuntijoiden keskuudessa Atlantin molemmin puolin on huolta, että Venäjään myötämielisesti ensimmäisellä kaudella suhtautunut Trump voisi pakottaa Ukrainan hyväksymään rauhanehdot, jotka ovat sille epäedulliset.
+
+          Ohjelmassa kuullaan, mitä ukrainalaiset ajattelevat Trumpin paluusta. Tuoreen mielipidekyselyn mukaan noin neljännes ukrainalaisista uskoo oikeudenmukaiseen rauhaan.
+
+          Oikeudenmukaisen rauhan yhtenä ehtona moni pitää Venäjän Ukrainalta valtaamien alueiden palauttamista. Trumpin Ukraina-edustaja on kuitenkin hahmotellut rintamalinjojen jäädyttämistä. Ohjelmassa selviää, miten julmasti Venäjä valtaamiensa alueiden asukkaita kohtelee.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov, Simo Ortamo ja Paula Vilén. Äänitarkkailijana on Mikko Kymäläinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-01-14T21:00:00+02:00'

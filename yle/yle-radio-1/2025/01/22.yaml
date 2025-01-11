@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-10T02:28:38.012991+00:00'
+  generated_at: '2025-01-11T02:26:40.045349+00:00'
   git:
     branch: main
-    commit: aa1248a385c3ea1793fc90664fdee207a3c91b8c
-  data_hash: 67565d1d48ce27074a1f2f2bba3f2f65fbbcdb805d0fc8f3e7c43e0ba1cb83a0
+    commit: 794ae7540424b0b6159799197fac8b63cfc3ce6a
+  data_hash: 8ec4b94b6fa066b39884dde82e215a95529961e25c285f37242d29676714fb03
 data:
   Yle Radio 1:
     programmes:
@@ -12,6 +12,7 @@ data:
         end_time: '2025-01-22T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-22T06:30:50+02:00'
         end_time: '2025-01-22T06:50:00+02:00'
@@ -40,6 +41,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-22T09:05:40+02:00'
         end_time: '2025-01-22T09:58:00+02:00'
+        description: |
+          Adamo: Tombe la neige (Salvatore Adamo).
+          Donida: Kaikkialla (Laila Kinnunen).
+          Hurme: Valoa ikkunassa (Dallape).
+          Kansansäv.: Tiritomba (Kipparikvartetti).
+          Porter: Tag und Nacht (Comedian Harmonists).
+          Glenn: Crying in the chapel (Elvis Presley).
+          Pace/Panzeri: A man without love (Engelbert Humperdinck).
+          Safka: What have they done to my song, Ma? (Melanie).
+          Stanley: Ikkunaprinssi (Brita Koivunen).
+          Shuman/Bower: Caterina (Perry Como).
+          Gietz: Casanova (Caterina Valente).
+          Borgmann: Tango nocturno (Seija Karpiomaa).
+          Ferrari: Domino (Maire Ojonen).
+          Waldteufel: Estudiantina (RVO/George de Godzinsky). 
+        series: Muistojen bulevardi
       - title: 'Tuntematon Ukraina: Taistelu sieluista Ukrainassa'
         start_time: '2025-01-22T10:00:00+02:00'
         end_time: '2025-01-22T10:35:00+02:00'
