@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-12T02:30:23.744840+00:00'
+  generated_at: '2025-01-13T02:29:39.114440+00:00'
   git:
     branch: main
-    commit: 36b3ea45e47c6de88e05023dce0a42d86d6e08cb
-  data_hash: 124a27a24b2e46dd0958d9db7594cf9dae9503b1ff7e1f1e84cc0d123f072c4f
+    commit: 2ee4946e421f3fdf711ae90f8474bc7a1042209e
+  data_hash: d8cd01a70bbaa3e0bafc1c476c65a00dd70b0c727457215e51dcad97cfe712c6
 data:
   Yle Radio 1:
     programmes:
@@ -130,7 +130,6 @@ data:
         end_time: '2025-01-26T19:00:00+02:00'
         description: |
           Äänitetty Huvila-teltassa 26.8.22024.
-        series: Jazzklubi
       - title: Yle Uutiset ja sää
         start_time: '2025-01-26T19:00:00+02:00'
         end_time: '2025-01-26T19:02:05+02:00'
