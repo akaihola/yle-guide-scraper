@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-13T02:29:36.592600+00:00'
+  generated_at: '2025-01-15T02:24:58.165498+00:00'
   git:
     branch: main
-    commit: 2ee4946e421f3fdf711ae90f8474bc7a1042209e
-  data_hash: d8cd01a70bbaa3e0bafc1c476c65a00dd70b0c727457215e51dcad97cfe712c6
+    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
+  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
 data:
   Yle Radio 1:
     programmes:
@@ -87,15 +87,32 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-17T09:05:40+02:00'
         end_time: '2025-01-17T09:58:00+02:00'
+        description: |
+          Kärki: Lantti levysoittimeen (Tamara Lund).
+          Loesser: Dejlige dejlige Köbehavn (Poul Reichardt).
+          Hardy/Brown/Jones: Fleur de lune (Francoise Hardy).
+          Mercadier: Silloin parempi ois (Markku Suominen).
+          Mendes: Primitivo (Sergio Mendes & Bossa Rio).
+          Vincent/Delpech: Flirtaten (Pirkko Mannola).
+          Turner: A fool in love (Tina Turner).
+          Rota: The Godfather waltz (Carlo Savina orkestereineen).
+          Mills/Calloway/Gaskill: Minnie the moocher (Cab Calloway).
+          Chaplin: Hymy (Erkki Liikanen).
+          Raye: Förlåt, herr Frölen (Alice Babs).
+          Berlin: Blue skies (Willie Nelson).
+          Dello: Do I still figure in your life (Joe Cocker).
+          Farina/Minellono: Dimmi quando (Ricchi e Poveri).
         series: Muistojen bulevardi
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Kaaoksen ruhtinas?'
         start_time: '2025-01-17T10:00:00+02:00'
         end_time: '2025-01-17T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Trump tulee, oletko valmis? Mihin meidän pitää valmistautua, kun Trump aloittaa toisen kautensa? Vieraina Ulkopoliittisen instituutin tutkija Maria Lindén ja maailmanpolitiikan professori Teivo Teivainen Helsingin yliopistosta. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-17T10:55:00+02:00'
         end_time: '2025-01-17T11:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Narrin aamulaulu - Wittgensteinin ihmeellinen perhe
         start_time: '2025-01-17T11:00:00+02:00'
         end_time: '2025-01-17T11:55:00+02:00'
@@ -111,17 +128,28 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-17T11:57:00+02:00'
         end_time: '2025-01-17T12:00:00+02:00'
+        description: |
+          Ote Pauliina Haasjoen runokokoelmasta Valenssi.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-17T12:00:00+02:00'
         end_time: '2025-01-17T12:10:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Kasvihuonekaasujen mittaus on valon mittausta ja matematiikkaa,mitä iloa satelliittimittauksesta?'
         start_time: '2025-01-17T12:10:00+02:00'
         end_time: '2025-01-17T12:59:30+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Politiikkaradio
+          Ilmastonmuutoksen kannalta on perin tärkeää, että tiedämme kasvihuonekaasujen, hiilidioksidin ja metaanin määrät ilmakehässä. Vaatiihan Pariisin ilmastosopimus valtioita vähentämään näitä kaasuja, joten mittaamisen on parasta olla tarkkaa ja todenmukaista.
+
+          Kasvihuonekaasujen mittaus perustuu valoon. Kaasut imevät itseensä lämposäteilyä, ja siksi ne lämmittävät ilmakehää. Mittalaitteita löytyy sääpalloista, torneista, drooneista ja lentokoneista. Aivan uusimpana ovat satelliitit. Satelliiteilla päästään aidosti maailmanlaajuiseen dataan käsiksi. 
+
+          Ilmatieteen laitoksen Arktisessa avaruuskeskuksessa Sodankylässä tutkitaan satelliittimittausta. Toimittaja Teija Peltoniemi tapasi satelliittiryhmää vetävän tutkimusprofessorin Hannakaisa Linqvistin.
+        series: Tiedeykkönen
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2025-01-17T13:00:00+02:00'
         end_time: '2025-01-17T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja lomakkeella, tai X:ssä @tapiopajunen ja @tosentti, tai sähköpostitse. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-17T13:30:00+02:00'
         end_time: '2025-01-17T15:00:00+02:00'
@@ -173,7 +201,32 @@ data:
         start_time: '2025-01-17T16:10:00+02:00'
         end_time: '2025-01-17T16:59:20+02:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Musorgski: Kuoriutumattomien linnunpoikien tanssi (Nashvillen SO/Leonard Slatkin).
+
+          Bizet: Toreadorin aaria oopp. Carmen (Bryn Terfel, bassobaritoni, ja Lontoon SO/Barry Wordsworth).
+
+          Chopin: Impromptu n:o 3 Ges-duuri (Arto Satukangas, piano).
+
+          O. Merikanto: Talvikukkia (Kari Wilenius, baritoni, ja Pentti Koskimies, piano). 
+
+          Satie: Gnossienne n:o 1 (Otto Tolonen, kitara). 
+
+          Järnefelt: Unelma (Camilla Nylund, sopraano, ja Ilkka Paananen, piano).
+
+          Angerer (sov. L. Mozart): Menuetti - Trio Lapsisinfoniasta (Nimeämätön orkesteri).
+
+          Puccini: Laurettan aaria oopp. Gianni Schicchi (Renée Fleming, sopraano, ja Lontoon FO/Charles Mackerras).
+
+          Grieg (sov. Langford): Anitran tanssi (Michala Petri, nokkahuilu, ja Englantilainen kamariork./Okko Kamu).
+
+          Haydn: "Schon eilet froh der Ackermann" Vuodenajat-oratorion osasta Kevät (Martti Talvela, basso, ja Wienin sinfonikot/Karl Böhm).
+
+          Chaminade: Romanza appasionata D-duuri (Michael Gross, sello, ja Johann Blanchard, piano). 
+
+          Piazzolla: Chiquilín de Bachín (Richard Galliano, harmonikka).
+
+          Roever - Korb: Highland Cathedral (The Band of Her Majesty's Royal Marines Scotland).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-17T17:00:00+02:00'
         end_time: '2025-01-17T17:10:00+02:00'
@@ -190,6 +243,9 @@ data:
           Toimittaja, kirjailija ja muusikko Annastiina Heikkilä asuu kahta kaupunkia, koti löytyy niin Helsingistä kuin myös Pariisista. Musiikki on kulkenut lähes lapsesta asti Annastiinan mukana. Teini-iässä lähes kaikki liikenevä vapaa-aika meni treenikämpällä bändi harjoituksissa.
           Soittimeksi valikoitui tuolloin basso, ja syy valintaan oli silloin se, että bändistä puuttui basisti. Nykyisin hänen vapaa aika menee usein kirjaa kirjoittaessa, mutta aikaa liikenee myös kolmelle eri yhtyeelle, joissa hän on laulajana. Ohjelman toimittaa Petri Rinne.
         series: Näistä levyistä en luovu
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-01-17T18:30:00+02:00'
+        end_time: '2025-01-17T18:35:00+02:00'
       - title: Musiikkihartaus
         start_time: '2025-01-17T18:35:00+02:00'
         end_time: '2025-01-17T19:00:00+02:00'
@@ -232,6 +288,8 @@ data:
       - title: 'Kulttuurin kulmilla: Aplodien paikka!'
         start_time: '2025-01-17T23:30:30+02:00'
         end_time: '2025-01-17T23:39:00+02:00'
+        description: |-
+          Missä kohtaa uskaltaa taputtaa, miettii Timo Teräsvuori 
         series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-01-17T23:40:00+02:00'

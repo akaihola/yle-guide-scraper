@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-13T02:29:37.832427+00:00'
+  generated_at: '2025-01-15T02:25:08.252820+00:00'
   git:
     branch: main
-    commit: 2ee4946e421f3fdf711ae90f8474bc7a1042209e
-  data_hash: d8cd01a70bbaa3e0bafc1c476c65a00dd70b0c727457215e51dcad97cfe712c6
+    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
+  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
 data:
   Yle Radio 1:
     programmes:
@@ -87,12 +87,27 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-20T09:05:40+02:00'
         end_time: '2025-01-20T09:58:00+02:00'
+        description: |
+          Carmichael: The nearness of you (Ella Fitzgerald & Louis Armstrong).
+          Fain: Secret love (Vic Damone).
+          Modugno: Lazzarella (Gloria Christian).
+          Modugno: Dio come ti amo (Gigliola Cinquetti).
+          Reiman: Aamulla rakkaani näin (Lea Laven).
+          Young: Kaunis rakkaus (Helena Siltala).
+          Geld: Küsse im Mondschein (Pirkko Mannola).
+          Lennon/McCartney: When I'm 64 (101 Strings Orchestra)
+          Goland: Så synd du måste gå (Anni-Frid Lyngstad).
+          Arcusa: La, la, la (Massiel).
+          Sherman: Chim chim cheree (Dick Van Dyke ja Julie Andrews).
+          Romberg: Softly as in a morning sunrise (Frank Sinatra, Jr.). 
+          Warren: Kissa vieköön (Modern Fox).
+          Palmer: Morning train (9-5) (Sheena Easton).
         series: Muistojen bulevardi
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Jukka Mäkelän elokuvaura'
         start_time: '2025-01-20T10:00:00+02:00'
         end_time: '2025-01-20T10:50:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Miten Jukka Mäkelän johdolla pelastettiin suomalaiset elokuvateatterit? Vieraana on tietokilrjailija Kalle Kinnunen
         series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-01-20T11:00:00+02:00'
@@ -105,11 +120,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T12:00:00+02:00'
         end_time: '2025-01-20T12:10:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Metsästäjä-keräilijän vaarallinen elämä - videopeli näyttää miten selvitä kivikaudella'
         start_time: '2025-01-20T12:10:00+02:00'
         end_time: '2025-01-20T12:59:30+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Far Cry Primal -videopelissä seikkaillaan, metsästetään, kerätään resursseja ja taistellaan Keski-Euroopassa 12000 vuotta sitten. Peliä varten on tehty paljon taustatyötä, mutta kuinka todenmukaisesti se kuvaa kivikautista maailmaa? Voisiko videopelistä oppia millaista oli menneisyyden metsästäjä-keräilijöiden elämä? Arkeologi Mikael A. Manninen lähti toimittaja Harri Alanteen kanssa virtuaalimatkalle myöhäispaleoliittiselle kaudelle.
         series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-01-20T13:00:00+02:00'
@@ -118,9 +133,32 @@ data:
           Miksi mitään ei saa enää sanoa – vai saako?
           Vieraina ovat kansanedustajat Saara-Sofia Sirén (kok.), Ville Skinnari (sd.) ja Hilkka Kemppi (kesk.). Toimittajana on  Antti Pilke.
           (Äänitetty 28.9.2024)
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-20T13:30:00+02:00'
         end_time: '2025-01-20T15:00:00+02:00'
+        description: |
+          Gardot: Les etoiles (Melody Gardot).
+
+          Bacharach: Raindrops keep fallin' on my head (Tero Lindberg).
+
+          Aznavour: Eilen kun mä tiennyt en (Aili Ikonen).
+
+          Dona Onete: Carimbo arrepiado.
+
+          Fernandez: Al mariyya (Tomatito).
+
+          Telson: Calling you elok. Bagdad Café (Jevetta Steele, laulu, ja yhtye).
+
+          Kansansävelmä, Ukraina: Pojat (T for Three).
+
+          Carter: Frontin' (Jamie Cullum).
+
+          Jobim: Modinha (Lisa Nilsson).
+
+          John: Tiny dancer (Florence Welch).
+
+          Melasniemi: Mustana, maidolla, kylmänä, kuumana (Scandinavian Music Group).
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-20T15:00:00+02:00'
@@ -143,6 +181,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-20T16:10:00+02:00'
         end_time: '2025-01-20T16:59:20+02:00'
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T17:00:00+02:00'
         end_time: '2025-01-20T17:10:00+02:00'
@@ -161,8 +200,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-01-20T18:35:00+02:00'
         end_time: '2025-01-20T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          Krank: Oi kuningasten kuningas (Cetus Noster, ja Pekka Suikkanen, urut).
+
+          Tuntematon (sov. Kuikka): Oi Jeesus, lähde autuuden (Sauli Tiilikainen, baritoni, ja Kaartin Soittokunta/Raine Ampuja).
+
+          Nikkola: Sinun rauhasi anna, Herra (Hanna Ekola, laulu, Jukka Perko, saksofoni, Juha 'Lido' Salonen, kitara, ja Pekka Pohjola, basso).
+
+          Hela (sov. Pyöriä): Jeesuksesta laulan (Johann Tilli, basso, ja Soli Deo Gloria/Juhani Lamminmäki).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-20T18:50:00+02:00'
         end_time: '2025-01-20T19:00:00+02:00'
@@ -185,14 +231,16 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-20T19:57:00+02:00'
         end_time: '2025-01-20T20:00:00+02:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Kaaoksen ruhtinas?'
         start_time: '2025-01-20T20:00:00+02:00'
         end_time: '2025-01-20T20:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Trump tulee, oletko valmis? Mihin meidän pitää valmistautua, kun Trump aloittaa toisen kautensa? Vieraina Ulkopoliittisen instituutin tutkija Maria Lindén ja maailmanpolitiikan professori Teivo Teivainen Helsingin yliopistosta. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-20T20:55:00+02:00'
         end_time: '2025-01-20T21:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset
         start_time: '2025-01-20T21:00:00+02:00'
         end_time: '2025-01-20T21:02:00+02:00'
@@ -212,8 +260,38 @@ data:
         end_time: '2025-01-20T23:39:00+02:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-01-20T23:40:00+02:00'
         end_time: '2025-01-21T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          C. Schumann: Soirées musicales (Susanne Grützmann, piano).
+
+          Beethoven: Der Glorreiche Augenblick, kantaatti (Alla Simoni, sopraano, Francesca Pedaci, sopraano, Jeremy Ovenden, tenori, ja Robert Gierlach, basso, sekä Italiankielisen Sveitsin radiokuoro ja Italiankielisen Sveitsin ork./Diego Fasolis).
+
+          Hoffmeister: Kvartetto klarinetille ja jousille D-duuri (Dieter Klöcker, klarinetti, Jana Vlachová, viulu, Petr Verner, alttoviulu, ja Mikael Ericsson, sello).
+
+          Roussel: Sinfonia n:o 1 d-molli (Metsän runo) (Pariisin ork./Christoph Eschenbach).
+
+          Tovey: Air ja muunnelmia B-duuri (Tippett-kvartetti).
+
+          W.A. Mozart: Kvintetto käyrätorvelle ja jousille (Hermann Baumann ja Gewandhaus-kvartetti).
+
+          Dussek: Pianokonsertto Es-duuri (Ulsterin ork./Howard Shelley, piano).
+
+          Peterson-Berger: Sinfonia n:o 2 Es-duuri (Matka etelään) (Norrköpingin SO/Mihail Jurovski).
+
+          Rheinberger: Sarja uruille, viululle ja sellolle (Christopher Herrick, Paul Barritt ja Richard Lester).
+
+          Sobeck: Kvintetto puhaltimille n:o 1 F-duuri (Albert Schweitzer Quintett).
+
+          Fauré: Sonaatti sellolle ja pianolle n:o 2 g-molli (Christian Poltéra ja Kathryn Stott).
+
+          Beethoven: Pianosonaatit n:o 5 c-molli, 6 F-duuri ja 7 D-duuri (Glenn Gould).
+
+          Popper: Memoire (Muisto) (Risto Poutanen, sello, ja Ilmo Ranta, piano).
+
+          Geoffroy: Messe pour les fêtes doubles (Le Concert Spirituel/Hervé Niquet, urut).
+
+          C.P.E. Bach: Triosonaatti B-duuri (London Baroque).
+        series: Syventävää klassista

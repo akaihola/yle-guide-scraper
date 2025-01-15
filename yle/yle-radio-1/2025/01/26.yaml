@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-13T02:29:39.114440+00:00'
+  generated_at: '2025-01-15T02:25:13.130285+00:00'
   git:
     branch: main
-    commit: 2ee4946e421f3fdf711ae90f8474bc7a1042209e
-  data_hash: d8cd01a70bbaa3e0bafc1c476c65a00dd70b0c727457215e51dcad97cfe712c6
+    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
+  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
 data:
   Yle Radio 1:
     programmes:
@@ -29,7 +29,6 @@ data:
         end_time: '2025-01-26T09:00:00+02:00'
         description: |
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
-        series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
         start_time: '2025-01-26T09:00:00+02:00'
         end_time: '2025-01-26T09:05:05+02:00'
@@ -41,6 +40,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-26T09:55:00+02:00'
         end_time: '2025-01-26T09:56:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-01-26T09:56:00+02:00'
         end_time: '2025-01-26T09:59:00+02:00'
@@ -53,7 +53,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-26T11:00:00+02:00'
         end_time: '2025-01-26T11:57:00+02:00'
-        description: |-
+        description: |
           Markkula: Takka kertoo (Helena Siltala).
           Eldridge: Une petite laitue avec de la mayonnaise (Roy Eldridge).
           Alvarez: Angelitos negros (Eartha Kitt).
@@ -63,25 +63,27 @@ data:
           Brühne: Siehst du die Sterne (Pola Negri).
           Buscaglione: Love in Portofino (Dalida).
           Msarurgwa: Skokiaan (Bulawayo Sweet Rhythms Band).
-          Kansanlaulu, Ruotsi: Uti vår hage (Anita Lindblom).
+          Kansansäv.: Uti vår hage (Anita Lindblom).
           Ferrante: Ogni volta (Paul Anka).
           Rahkola: Toisen kerran (Heikki Aarva).
           Magne: La valse (Juliette Gréco).
           Tuntematon: Otshi tshornyje (Le Quintette du Hot Club de France).
           Burgess: Don't ever love me (Harry Belafonte).
           Gietz: Tipitipitipso (Caterina Valente).
+        series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-01-26T12:00:00+02:00'
         end_time: '2025-01-26T12:05:00+02:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Jukka Mäkelän elokuvaura'
         start_time: '2025-01-26T12:05:00+02:00'
         end_time: '2025-01-26T12:55:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Miten Jukka Mäkelän johdolla pelastettiin suomalaiset elokuvateatterit? Vieraana on tietokilrjailija Kalle Kinnunen
         series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-26T12:55:00+02:00'
         end_time: '2025-01-26T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-01-26T13:00:00+02:00'
         end_time: '2025-01-26T13:57:00+02:00'
@@ -96,15 +98,17 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-26T14:52:00+02:00'
         end_time: '2025-01-26T15:00:00+02:00'
-      - title: Elävä historia
+        series: Yksi on hyvää seuraa
+      - title: 'Elävä historia: Metsästäjä-keräilijän vaarallinen elämä - videopeli näyttää miten selvitä kivikaudella'
         start_time: '2025-01-26T15:00:00+02:00'
-        end_time: '2025-01-26T15:50:00+02:00'
+        end_time: '2025-01-26T15:49:30+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Far Cry Primal -videopelissä seikkaillaan, metsästetään, kerätään resursseja ja taistellaan Keski-Euroopassa 12000 vuotta sitten. Peliä varten on tehty paljon taustatyötä, mutta kuinka todenmukaisesti se kuvaa kivikautista maailmaa? Voisiko videopelistä oppia millaista oli menneisyyden metsästäjä-keräilijöiden elämä? Arkeologi Mikael A. Manninen lähti toimittaja Harri Alanteen kanssa virtuaalimatkalle myöhäispaleoliittiselle kaudelle.
         series: Elävä historia
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-26T15:50:00+02:00'
         end_time: '2025-01-26T15:55:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Yle News
         start_time: '2025-01-26T15:55:00+02:00'
         end_time: '2025-01-26T15:58:00+02:00'
@@ -117,6 +121,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-01-26T16:10:00+02:00'
         end_time: '2025-01-26T16:59:20+02:00'
+        description: |-
+          Bellini: Elviran poloneesi oopp. Puritaanit (June Anderson, sopraano, ja Monte Carlon FO/Nicola Rescigno).
+
+          Andrée: Andante cantabile sonaatista viululle ja pianolle B-duuri (Annette-Barbara Vogel ja Durval Cesetti).
+
+          Presti: Serenadi kahdelle kitaralle (Olivier Chassain ja Stein-Erik Olsen).
+
+          A. Mahler: Die stille Stadt (Kate Lindsey, mezzosopraano, Baptiste Trotignon, piano).
+
+          C. Shaw: Blueprint (Attacca-jousikvartetti). 
+
+          Brahms: Balladi pianolle D-duuri (Daniel Barenboim).
+
+          Järnefelt: Vill du komma med mig (Sauli Tiilikainen, baritoni, ja YL/Matti Hyökki).
+
+          Netzel: Unkarilainen tanssi (Raphaela Gromes, sello, ja Julian Riem, piano).  
+
+          Verdi: Herttuan ja Gildan duetto "E il sol dell'anima" oopp. Rigoletto (Roberta Peters, sopraano, ja Jussi Björling, tenori, sekä Rooman oopperan ork./Jonel Perlea).
+
+          Pylkkänen: Pastoraali klarinetille ja pianolle (Mikko Raasakka ja Antti Vahtola). 
+
+          Musorgski: Scherzo B-duuri (Berliinin filharmonikot/Claudio Abbado). 
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-26T17:00:00+02:00'
         end_time: '2025-01-26T17:10:00+02:00'
@@ -138,28 +165,30 @@ data:
         end_time: '2025-01-26T20:00:00+02:00'
         description: |
           Toimittajana DJ Bunuel.
-        series: Jazzklubi
       - title: Ekumeeninen jumalanpalvelus Keravan kirkosta
         start_time: '2025-01-26T20:00:00+02:00'
         end_time: '2025-01-26T21:00:00+02:00'
         description: |-
           Liturgina ja saarnaajana pastori Sini Mäkelä. Kanttorina ja urkurina Heli Kaasalainen. Virret: 912; 600; 552
+        series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-01-26T21:00:00+02:00'
         end_time: '2025-01-26T21:02:05+02:00'
       - title: Uutispodcast
-        start_time: '2025-01-26T21:05:00+02:00'
-        end_time: '2025-01-26T21:29:30+02:00'
+        start_time: '2025-01-26T21:03:00+02:00'
+        end_time: '2025-01-26T21:28:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2025-01-26T21:30:00+02:00'
-        end_time: '2025-01-26T22:27:00+02:00'
+        start_time: '2025-01-26T21:29:00+02:00'
+        end_time: '2025-01-26T22:26:00+02:00'
         description: |
           Eva Tigerstedt avaa polkuja musiikkiin.
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Sari Valto
-        start_time: '2025-01-26T22:27:30+02:00'
-        end_time: '2025-01-26T23:22:30+02:00'
+        start_time: '2025-01-26T22:26:30+02:00'
+        end_time: '2025-01-26T23:21:30+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto

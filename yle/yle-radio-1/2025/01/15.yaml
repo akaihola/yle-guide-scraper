@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-13T02:29:36.072838+00:00'
+  generated_at: '2025-01-15T02:24:43.688759+00:00'
   git:
     branch: main
-    commit: 2ee4946e421f3fdf711ae90f8474bc7a1042209e
-  data_hash: d8cd01a70bbaa3e0bafc1c476c65a00dd70b0c727457215e51dcad97cfe712c6
+    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
+  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
 data:
   Yle Radio 1:
     programmes:
@@ -89,6 +89,18 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-15T08:10:00+02:00'
         end_time: '2025-01-15T09:00:00+02:00'
+        description: |-
+          Kommentoitiinko Venäjällä Itämeren Nato-kokousta. Moskovasta raportoi Heikki Heiskanen. 
+
+          8.15 Millaisia liittolaisuuskia nyt Pohjolassa luodaan? Keskustelemassa ulkoasiainvaliokunnan jäsenet Sofia Vikman (kok.), Pekka Haavisto (vihr.) ja Johannes Koskinen (sdp.)
+
+          8.32 Saadaanko Lähi-itään tulitaukosopimus? Haastateltavana Lähi-idän tutkimuksen professori Hannu Juusola Helsingin yliopistolta.
+
+          8.39 Lisää ydinvoimaa, kiitos? Miksi ydinvoimaa tarvittaisiin lisää? Entä onko se puhdasta energiaa? Keskustelemassa  ydinvoimatekniikan professori, Juhani Hyvärinen LUT-yliopisto sekä työelämäprofessori Iivo Vehviläinen Aalto-yliopistosta. 
+
+
+          Juontajana Atte Uusinoka. Toimittajana Mikko Haapanen ja Elina Sonkajärvi. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-15T09:00:00+02:00'
         end_time: '2025-01-15T09:05:00+02:00'
@@ -132,33 +144,45 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-15T10:55:00+02:00'
         end_time: '2025-01-15T11:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Riston Valinta
         start_time: '2025-01-15T11:00:00+02:00'
         end_time: '2025-01-15T11:50:00+02:00'
         description: |
+          Talvenselkä taittuu ja Riston mieli on siksi yhtä kevyt kuin Anthony Hollbornen suloinen consort-musiikki. Tällä viikolla vietetään myös ns. talvi-Heikkiä, Pyhän Henrikin muistopäivää ja tutustutaan 1800 - luvun alun tuntemattomaan sinfonikkoon Ferdinand Riesiin. Kuuntelussa on myös Soile Isokosken ja Marita Viitasalon Schubert-levy vuosikymmenien takaa. 
+
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
+        series: Riston Valinta - Risto Nordell
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-15T11:50:00+02:00'
         end_time: '2025-01-15T11:57:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-15T11:57:00+02:00'
         end_time: '2025-01-15T12:00:00+02:00'
+        description: |
+          Kaksi runoa Paula Sankelon kokoelmasta Katoava jää, Warelia 2024.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-15T12:00:00+02:00'
         end_time: '2025-01-15T12:10:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Informaatiovaikuttaminen ja demokratian tila'
         start_time: '2025-01-15T12:10:00+02:00'
         end_time: '2025-01-15T12:59:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Politiikkaradio
         start_time: '2025-01-15T13:00:00+02:00'
         end_time: '2025-01-15T13:30:00+02:00'
+        description: |
+          Onko Suomen ulkopolitiikan kuuluisa konsensus rikki? Vieraina ovat kansanedustajat Pia Kauma (kok.),  Sonja Falk (kd.) ja Miapetra Kumpula-Natri (sd.). Toimittajana on Linda Pelkonen. 
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-15T13:30:00+02:00'
         end_time: '2025-01-15T15:00:00+02:00'
         description: |
-          Studiovieraana n. klo 14 Dokumentaristi Sami Kieksi, joka tunnetaan syrjään jääneiden ihmisten elämää kuvaavista töistään. Miia Lahti juontaa.
+          Studiovieraana n. klo 14 Dokumentaristi Sami Kieksi, joka tunnetaan syrjään jääneiden ihmisten elämää kuvaavista töistään. N. klo 14:40 kysytään, mitä tarkoittaa työpaikan psykologinen turvallisuus. Juontajana Miia Lahti.
 
 
           Ohjelman musiikit: Shanklin: Chanson d'amour (The Manhattan Transfer).
@@ -245,13 +269,14 @@ data:
         start_time: '2025-01-15T17:10:00+02:00'
         end_time: '2025-01-15T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Naton läsnäolo Itämerellä lisääntyy, modernia teknologiaa hyödynnetään merenalaisen toiminnan seuraamisessa ja Venäjän varjolaivaston toimiin puututaan. Onko Itämeri jatkossa turvallinen? Vieraana Ylen Nato-erikoistoimittaja Maria Stenroos. Juontajana Sami Lindfors.
         series: Uutispodcast
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Tuokio jazzin sinisyydelle'
         start_time: '2025-01-15T17:35:00+02:00'
         end_time: '2025-01-15T18:35:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Mitä blue note, sininen sävel, jazzissa tarkoittaa ja miten se siinä kuuluu? Käväisemme myös luonnon tarjoaman sinisen hetken lumossa.
+        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-15T18:35:00+02:00'
         end_time: '2025-01-15T18:50:00+02:00'
@@ -284,15 +309,28 @@ data:
         start_time: '2025-01-15T21:35:00+02:00'
         end_time: '2025-01-15T22:05:00+02:00'
         series: Politiikkaradio
-      - title: Tuntematon Ukraina
+      - title: 'Tuntematon Ukraina: Jokainen ukrainalainen on kasakka'
         start_time: '2025-01-15T22:06:00+02:00'
-        end_time: '2025-01-15T22:41:00+02:00'
-        description: |2+
+        end_time: '2025-01-15T22:40:10+02:00'
+        description: |+
+          Demokraattinen ja vapaa maa, jonka kansalaisia yhdistää visio ja halu olla osa Eurooppaa. Ukraina on myös värikäs valtio täynnä erilaisia ryhmiä – mm. venäjänkielisiä, ukrainankielisiä, tataareja, juutalaisia, gaugazeja – jotka ovat ylpeästi ja vapaasti ukrainalaisia yhtä kaikki. Näin kuvailee kotimaansa identiteettiä ja asukkaita Odessasta kotoisin oleva sosiologi Arseniy Svynarenko.
+
+          Hän löytää Ukrainasta myös selkeitä heimoluonteita, joita voi verrata suomalaisiin kuvailuihin esimerkiksi hitaista hämäläisistä, jäyhistä pohjalaisista ja vilkkaista karjalaisista.
+
+          Ovatko odessalaiset kuin vääräleukoja savolaisia ja donetskilaiset suorasanaisia satakuntalaisia? Kuinka suuria kulttuurisia ja poliittisia alue-eroja Ukrainassa on? Miten maan eri väestöryhmät suhtautuvat toisiinsa? Kuinka kansallisidentiteetti on kehittynyt? Toimittajana on Jari Aula.
+
+          Ohjelma on uusinta huhtikuulta 2022.
 
         series: Tuntematon Ukraina
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-01-15T23:01:30+02:00'
-        end_time: '2025-01-15T23:39:59+02:00'
+      - title: 'Radioteatteri esittää: Maitotyttö 2/3'
+        start_time: '2025-01-15T23:00:00+02:00'
+        end_time: '2025-01-15T23:39:47+02:00'
+        description: |-
+          Entisen maatalouslomittajan elämäntarinaan perustuva Maitotyttö kertoo eläintuotannosta sen, mistä mainokset vaikenevat.
+
+          Käsikirjoitus: Laura Gustafsson ja Hilja Kerimäki
+          Ohjaus: Laura Gustafsson
+        series: Maitotyttö
       - title: Yöklassinen
         start_time: '2025-01-15T23:40:00+02:00'
         end_time: '2025-01-16T06:30:00+02:00'
