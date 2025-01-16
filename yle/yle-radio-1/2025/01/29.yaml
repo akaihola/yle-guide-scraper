@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-15T02:25:14.161480+00:00'
+  generated_at: '2025-01-16T02:23:49.854617+00:00'
   git:
     branch: main
-    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
-  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
+    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
+  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-29T09:05:40+02:00'
         end_time: '2025-01-29T09:58:00+02:00'
+        description: |
+          Grosz: Isle of Capri (Bing Crosby ja Rosemary Clooney).
+          Laitinen: La chanson de notre amour (Mireille Mathieu).
+          Jurva/Pekkarinen: Puuhellalla ajetaan (Matti Jurva).
+          Roig: Yours (Dinah Shore ja Xavier Cugat).
+          E. Taube: Vals i Valparaiso (Sven-Bertil Taube).
+          Kopisto: Katseen kosketus (Seija Simola).
+          Rodgers: The lady is a tramp (Sammy Davis, Jr.).
+          Raymond: Es geht alles vorüber, es geht alles vorbei (Lale Andersen).
+          Lindström: Tuuli tuo, tuuli vie (Helena Siltala).
+          Prado: Mambo no. 8 (Perez Prado).
+          Bacharach: The look of love (Dusty Springfield).
+          Hatch: Kolmatta linjaa takaisin (Fredi).
+          Lara: Solamente una vez (Sara Montiel).
+          B. Gibb/R. Gibb/M. Gibb: Stayin' alive (Bee Gees).
+        series: Muistojen bulevardi
       - title: 'Tuntematon Ukraina: Jos mies on pää, nainen on kaula joka päätä kääntää'
         start_time: '2025-01-29T10:00:00+02:00'
         end_time: '2025-01-29T10:35:00+02:00'
@@ -147,7 +163,10 @@ data:
         end_time: '2025-01-29T19:02:00+02:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-01-29T19:02:00+02:00'
-        end_time: '2025-01-29T21:00:00+02:00'
+        end_time: '2025-01-29T21:05:00+02:00'
+        description: |
+          Antonello Manacorda, kapellimestari, Andrè Schuen, baritoni. - Ernest Chausson: Rakkauden ja meren runoelma. Hector Berlioz: Fantastinen sinfonia. Suoran lähetyksen Musiikkitalosta toimittaa Riikka Holopainen
+        series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-01-29T21:00:00+02:00'
         end_time: '2025-01-29T21:02:00+02:00'

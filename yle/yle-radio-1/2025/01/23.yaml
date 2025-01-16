@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-15T02:25:10.358438+00:00'
+  generated_at: '2025-01-16T02:23:48.130864+00:00'
   git:
     branch: main
-    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
-  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
+    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
+  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,8 @@ data:
         start_time: '2025-01-23T06:50:00+02:00'
         end_time: '2025-01-23T06:59:59+02:00'
         description: |-
-          Arkkipiispan erityisavustaja Juha Meriläinen, Vantaa
+          "Pyhän Henrikin legenda"
+          Arkkipiispan erityisavustaja Juha Meriläinen Vantaalta pohtii Köyliönjärven jäisellä selällä surmansa kohdanneen piispa Henrikin perintöä ja merkitystä.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T07:00:00+02:00'
@@ -36,7 +37,6 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-23T07:10:00+02:00'
         end_time: '2025-01-23T07:59:59+02:00'
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T08:00:00+02:00'
         end_time: '2025-01-23T08:10:00+02:00'
@@ -68,12 +68,12 @@ data:
         series: Muistojen bulevardi
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sami Itani: Psyyke romahti mutta työelämään palasi entistä parempi ihminen '
         start_time: '2025-01-23T10:00:00+02:00'
-        end_time: '2025-01-23T10:52:00+02:00'
+        end_time: '2025-01-23T10:53:00+02:00'
         description: |
           Aalto yliopiston työelämäprofessori, toimitusjohtaja ja entinen kymmenottelija Sami Itani koki psyykkisen romahduksen reilut pari vuotta sitten. Kokemukset huippu-urheilussa, opinnoissa ja työelämässä ovat muokanneet Sami Itania ja antaneet arvokkaita näkökulmia työelämään. 
         series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
-        start_time: '2025-01-23T10:52:00+02:00'
+        start_time: '2025-01-23T10:53:00+02:00'
         end_time: '2025-01-23T11:00:00+02:00'
         series: Yksi on hyvää seuraa
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
@@ -85,6 +85,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-23T11:57:00+02:00'
         end_time: '2025-01-23T12:00:00+02:00'
+        description: |
+          Katkelmia Suvi Vallin esseekokoelmasta Hallittua kaatumista ja muita ruumiin kielen asentoja (Osuuskunta Poesia 2021).
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T12:00:00+02:00'
@@ -102,6 +104,36 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-23T13:30:00+02:00'
         end_time: '2025-01-23T15:00:00+02:00'
+        description: |-
+          Hancock: Cantaloupe Island (Herbie Hancock, piano).
+
+          Porter: Begin the beguine (Tony Bennett).
+
+          Hurwitz: City of stars elok. La la land (Ryan Gosling ja The La La Land Orchestra).
+
+          Castellanos: La Puñalada (Nuevo Quinteto Otra Vez).
+
+          Lerche: Talvista unta (Mimmit). 
+
+          Koskinen: Savanni nukahtaa (Ultra Bra).
+
+          Astrid Swan: Not your mom.
+
+          Bacharach: The Look of love (Billy May).
+
+          N. Mya: The Strength (Nina Mya).
+
+          Robert 'Robi' Svärd: La Esperanza.
+
+          Andersson - Ulvaeus: I have a dream, elok. Mamma mia! Here we go again (Lily James, laulu, sekä yhtye ja Capital Voices -kuoro/Thomas Bowes).
+
+          Tanssiva Karhu: Eilinen.
+
+          Jessie Ware: Remember where you are.
+
+          James Blunt: High (acoustic).
+
+          22 Pistepirkko: Birdy. 
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-23T15:00:00+02:00'
@@ -110,7 +142,11 @@ data:
         start_time: '2025-01-23T15:02:00+02:00'
         end_time: '2025-01-23T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Klaus Härön uutuuselokuva Ei koskaan yksin kertoo miten Suomi luovutti toisen maailmansodan aikaan Natsi-Saksaan juutalaisia. Suomen Schindleriksi kutsuttu Abraham Stiller yritti estää oman henkensä uhalla valtiollista poliisia salaa luovuttamasta pakolaisia keskitysleireihin. Suomessa uskottiin pitkään, että aseveljeydestä huolimatta Suomen juutalaisväestö oli turvassa Natsi-Saksalta (“Meillä ei ole juutalaiskysymystä”). Klaus Härö tutkailee elokuvassaan tätä Suomen historian kipupistettä. Ilman yhden ihmisen rohkeaa toimintaa, olisi Suomen juutalaisten kohtalo voinut olla karmaiseva.
+
+          Studiossa aiheesta keskustelevat ohjaaja Klaus Härö sekä Rony Smolar, joka on kirjoittanut kirjan Abraham Stilleristä nimeltään Setä Stiller: Valpon ja Gestapon välissä, johon Härön elokuva pitkälti perustuu.
+
+          Lähetyksen juontaa Nicklas Wancke.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-23T15:55:00+02:00'
@@ -180,15 +216,17 @@ data:
       - title: Iltahartaus
         start_time: '2025-01-23T18:50:00+02:00'
         end_time: '2025-01-23T19:00:00+02:00'
-        description: |-
-          Diakonia- ja kansalaistoiminnan johtaja, pastori Marko Huhtala, Helsinki
+        description: |+
+          "Jumala puhuu koko maailman rakkauden kielillä"
+          Diakonia- ja kansalaistoiminnan johtaja, pastori Marko Huhtala Helsingistä liikkuu rakkauden kaksoiskäskyn maailmassa ja kysyy: mitä on Jumalan rakastaminen yli kaiken?
+
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-23T19:00:00+02:00'
         end_time: '2025-01-23T19:02:00+02:00'
       - title: 'Etnokonsertteja: Wishamalii ja Danûk '
         start_time: '2025-01-23T19:02:00+02:00'
-        end_time: '2025-01-23T20:47:00+02:00'
+        end_time: '2025-01-23T20:56:00+02:00'
         description: |
           Wishamalii soittaa arabialais-andalusialaisia Muwaššaḥ -lauluja. Laulaja ja oud-luutusoittaja Nemat Battah, pianisti Kari Ikonen ja lyömäsoitintaiteilija Abdissa Assefa konsertoivat Etnosoi-festivaalilla Helsingin Kalliosalissa 10.11.2023. Syyrian Kurdistanista kotoisin oleva Danûk -yhtye soittaa perinteisiä kurdilaisia hää-, paimen- ja uskonnollisia lauluja. Konsertti on taltoitu Womex-festivaalilla Espanjan A Corunassa 27.10.2023. Konsertin toimittaa Miika Lauriala. 
         series: Etnokonsertteja

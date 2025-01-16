@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-15T02:25:11.895864+00:00'
+  generated_at: '2025-01-16T02:23:48.560942+00:00'
   git:
     branch: main
-    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
-  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
+    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
+  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,7 @@ data:
       - title: Radio 1 soi
         start_time: '2025-01-25T07:02:05+02:00'
         end_time: '2025-01-25T07:20:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: 'Luomiskertomus: Arto Kivimäen suomentama Plautus pilkkaa tärkeileviä miehiä'
         start_time: '2025-01-25T07:30:00+02:00'
         end_time: '2025-01-25T07:55:00+02:00'
@@ -40,8 +41,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-01-25T08:25:00+02:00'
         end_time: '2025-01-25T08:35:00+02:00'
-        description: |-
-          Pastori Petri Viinikkala, Helluntaiherätys, Helsinki
+        description: |
+          "Suostu löydettäväksi"
+          Helluntaiherätyksen pastori Petri Viinikkala Helsingistä pohtii Jumalan rakkautta ihmistä kohtaan tuhlaajapoika-kertomuksen valossa.
         series: Aamuhartaus
       - title: Minne Rinne vie
         start_time: '2025-01-25T08:35:00+02:00'
@@ -102,6 +104,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-25T11:57:00+02:00'
         end_time: '2025-01-25T12:00:00+02:00'
+        description: |
+          Aaro Hellaakosken runo Talvinen näky kokoelmasta Maininki ja vaahtopää (Kootut runot, WSOY 1940)
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T12:00:00+02:00'
         end_time: '2025-01-25T12:05:00+02:00'
@@ -114,6 +119,7 @@ data:
         end_time: '2025-01-25T13:00:00+02:00'
         description: |
           Monien suomalaisten tuntemassa astangajoogassa tavoitellaan hyvinkin äärimmäisiä asentoja. Takavuosina ei ollut aivan tavatonta, että tässä joogatyylissä tuli vammautumisia. Nykyään ainakin länsimaissa jooga on enemmän terapeuttista ja pehmeää. Joogateksteissä ei sanota, että joogan päämäärän saavuttaakseen pitäisi tehdä monta tuntia vaikeita asanoita. Toisaalta jooga ei ole historiallisesti ollut aina lempeää. Jaksossa perehdytään riskien lisäksi myös joogan hyvää tekeviin vaikutuksiin. 
+        series: Guruja & Asanoita
       - title: Uudet levyt
         start_time: '2025-01-25T13:00:00+02:00'
         end_time: '2025-01-25T14:00:00+02:00'
@@ -206,7 +212,7 @@ data:
           A Quiet Place, oopperan alkuperäinen 1-näytöksinen versio. Sam - Grant Doyle, baritoni. Sam junior, Samin ja Dinahin poika - Henry Neill, baritoni. Dede, Samin ja Dinahin tytär - Rowan Pierce, sopraano. Francois - Elgan Llyr Thomas, tenori. Hautaustoimiston johtaja - Michael Gibson 
           Rouva tohtori - Sarah Pring. Tohtori - Freddie Tong. Bill - Eddie Wade. Susie - Rebecca Afonwy-Jones. Psykoanalyytikko - Robin Bailey. Kvartetti: Peter Edge, Guy Elliott, Heather Lowe ja Kirsty Mclean.
 
-          Esityksen kuluessa oopperalaulaja Päivi Nisula, pianisti Marko Hilpo ja Outi Paananen keskustelevat illan teoksista ja esityksistä.
+          Esityksen kuluessa pianisti Marko Hilpo ja Outi Paananen keskustelevat illan teoksista ja esityksistä.
 
           Äänitetty Lontoon kuninkaallisen oopperan Linbury-teatterissa 21.10.2024
         series: Ooppera

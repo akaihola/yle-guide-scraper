@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-15T02:25:22.455638+00:00'
+  generated_at: '2025-01-16T02:23:55.212769+00:00'
   git:
     branch: main
-    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
-  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
+    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
+  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
 data:
   Yle Radio 1:
     programmes:
@@ -21,7 +21,7 @@ data:
         start_time: '2025-02-18T06:50:00+02:00'
         end_time: '2025-02-18T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Kirkkoherra Tuomo Törmänen, Pirkkala
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-18T07:00:00+02:00'
@@ -127,7 +127,8 @@ data:
         start_time: '2025-02-18T18:50:00+02:00'
         end_time: '2025-02-18T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Tuukka Rantanen, Ortodoksinen kirkko, Oulu
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-18T19:00:00+02:00'
         end_time: '2025-02-18T19:02:00+02:00'
@@ -138,11 +139,12 @@ data:
         start_time: '2025-02-18T20:00:00+02:00'
         end_time: '2025-02-18T20:20:00+02:00'
         series: Kulttuurin pisteohjelmia
-      - title: Romano mirits
+      - title: 'Romano mirits: Romanimusiikki-sarja osa 1: Laulava ja soittava kansa'
         start_time: '2025-02-18T20:20:00+02:00'
         end_time: '2025-02-18T20:35:00+02:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Suomen romanien keskuudesta nousee vuosikymmen toisensa perään merkittäviä musiikintekijöitä ja musiikin esittäjiä. Heidät tunnetaan niin tangon taitureina kuin hengellisen musiikin mestareina - nykyään myös räpin lähettiläinä, rokkareina ja jatsin taitajina. Romanimusiikki-sarja pureutuu tähän kiehtovaan aiheeseen. Mitä kaikkea Suomen romanit ovat musiikin saralla tehneet? Ketä ovat menneiden aikojen mestarit ja nykyiset tähdet? Toimittajana Jaakko Laakso
+
         series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-18T20:35:00+02:00'
@@ -169,3 +171,4 @@ data:
         end_time: '2025-02-19T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista

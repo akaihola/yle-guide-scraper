@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-15T02:25:21.955147+00:00'
+  generated_at: '2025-01-16T02:23:54.496975+00:00'
   git:
     branch: main
-    commit: 7700ae6d595b7603d557392a2f2de20ec393c6c7
-  data_hash: 535abd0794045dd871048948020fdf0708559ff3081fd65c6380251bb729af9f
+    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
+  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
 data:
   Yle Radio 1:
     programmes:
@@ -44,9 +44,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-02-16T09:56:00+02:00'
         end_time: '2025-02-16T09:59:00+02:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Espoonlahden kirkosta
         start_time: '2025-02-16T10:00:00+02:00'
         end_time: '2025-02-16T10:59:20+02:00'
+        description: |
+          Liturgina kappalainen Niko Huttunen. Saarnaajana rovasti Hans-Christian Daniel. Kanttorina Helena Yli-Jaskari.
         series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
         start_time: '2025-02-16T11:00:00+02:00'
@@ -127,9 +129,11 @@ data:
         description: |
           Toimittajana Eero Koski.
         series: Jazzklubi
-      - title: Ortodoksinen jumalanpalvelus
+      - title: Ehtoopalvelus Pyhän Aleksanteri Nevskin ja pyhän Nikolaoksen kirkosta Tampereelta
         start_time: '2025-02-16T20:00:00+02:00'
         end_time: '2025-02-16T21:00:00+02:00'
+        description: |-
+          Palveluksen toimittaa pastori Tuomas Kallonen. Kirkkokuoroa johtaa kanttori Markus Hänninen.
         series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-02-16T21:00:00+02:00'
