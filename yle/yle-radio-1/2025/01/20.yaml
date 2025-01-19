@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:46.869334+00:00'
+  generated_at: '2025-01-19T02:27:43.048330+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: a04d9605134b3e85e4e962e1c04b84112961a8e2
+  data_hash: c0a9c166b02859c17552397823bf48ff9fb790b9ea6d107196dba59ecd7b6bd7
 data:
   Yle Radio 1:
     programmes:
@@ -62,12 +62,14 @@ data:
           Berthier: Nälkäinen syödä saa (Tapiolan Kamarikuoro/Timo Pihkanen).
 
           Kansansäv. Filippiineiltä: Pyhään salaisuuteen Jeesus meidät sulkee (Aili Ikonen, laulu, Mikko Iivanainen, kitara, Hannu Rantanen, kontrabasso, Sami Koskela, lyömäsoittimet, sekä Pekka Nyman, zarango ja marimba).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-20T06:50:00+02:00'
         end_time: '2025-01-20T06:59:59+02:00'
-        description: |-
-          Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+        description: |+
+          "Isä, miks lippu on puolitangossa?"
+          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta pohtii maailman tragedioiden herättämiä lapsen 
+          ja aikuisen kysymyksiä sekä etsii lääkettä pelon voittamiseen.
+
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T07:00:00+02:00'
         end_time: '2025-01-20T07:10:00+02:00'
@@ -97,6 +99,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-20T08:10:00+02:00'
         end_time: '2025-01-20T09:00:00+02:00'
+        description: |-
+          Israelin ja Hamasin välisen aselevon on määrä astua voimaan sunnuntaina. Israelissa oleva ulkomaantoimittaja Antti Kuronen kertoo tuoreimmat tiedot Lähi-idästä.
+
+          Yhdysvalloissa valta vaihtuu tänään, kun presidentti Donald Trump vannoo virkavalansa. Mikä Yhdysvalloissa nyt muuttuu? Vieraina Ulkopoliittisen instituutin tutkija Maria Lindén ja emeritusprofessori Markku Henriksson. Toimittaja Juri von Bonsdorff kertoo tuoreet tunnelmat Yhdysvalloista.
+
+          Minkälainen murros sosiaalisen median kentällä on käynnissä? Vieraina sosiaalisen median vaikuttaja Jenni Rotonen ja yliopistotutkija Salla-Maaria Laaksonen Helsingin yliopistosta.
+
+          Ranskassa valmistellaan uutta seksuaalikasvatusohejelmaa, jonka on määrä tulla kouluihin ensi syksynä. Pariisissa oleva toimittaja Miina Väisänen kertoo, miksi ohjelma on herättänyt paljon keskustelua ja saanut osakseen kritiikkiä.
+
+          Juontajana Justus Laitinen, toimittajina Mira Stenström ja Anna Nevalainen, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-20T09:00:00+02:00'
         end_time: '2025-01-20T09:05:00+02:00'
@@ -118,40 +131,36 @@ data:
           Romberg: Softly as in a morning sunrise (Frank Sinatra, Jr.). 
           Warren: Kissa vieköön (Modern Fox).
           Palmer: Morning train (9-5) (Sheena Easton).
-        series: Muistojen bulevardi
       - title: 'Virtasen taloushistoria: Jukka Mäkelän elokuvaura'
         start_time: '2025-01-20T10:00:00+02:00'
         end_time: '2025-01-20T10:55:00+02:00'
         description: |
           Miten Jukka Mäkelän johdolla pelastettiin suomalaiset elokuvateatterit? Vieraana on tietokilrjailija Kalle Kinnunen
-        series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Häiriöäänten musiikki'
         start_time: '2025-01-20T11:00:00+02:00'
         end_time: '2025-01-20T11:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-20T11:57:00+02:00'
         end_time: '2025-01-20T12:00:00+02:00'
         description: |
           Katkelmia Suvi Vallin esseekokoelmasta Hallittua kaatumista ja muita ruumiin kielen asentoja (Osuuskunta Poesia 2021)
-        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T12:00:00+02:00'
         end_time: '2025-01-20T12:10:00+02:00'
-      - title: 'Elävä historia: Metsästäjä-keräilijän vaarallinen elämä - videopeli näyttää miten selvitä kivikaudella'
+      - title: 'Elävä historia: Metsästäjä-keräilijän vaarallinen elämä - videopeli näyttää, miten selvitä kivikaudella'
         start_time: '2025-01-20T12:10:00+02:00'
         end_time: '2025-01-20T12:59:30+02:00'
         description: |
           Far Cry Primal -videopelissä seikkaillaan, metsästetään, kerätään resursseja ja taistellaan Keski-Euroopassa 12000 vuotta sitten. Peliä varten on tehty paljon taustatyötä, mutta kuinka todenmukaisesti se kuvaa kivikautista maailmaa? Voisiko videopelistä oppia millaista oli menneisyyden metsästäjä-keräilijöiden elämä? Arkeologi Mikael A. Manninen lähti toimittaja Harri Alanteen kanssa virtuaalimatkalle myöhäispaleoliittiselle kaudelle.
-        series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-01-20T13:00:00+02:00'
         end_time: '2025-01-20T13:30:00+02:00'
-        description: |
-          Miksi mitään ei saa enää sanoa – vai saako?
-          Vieraina ovat kansanedustajat Saara-Sofia Sirén (kok.), Ville Skinnari (sd.) ja Hilkka Kemppi (kesk.). Toimittajana on  Antti Pilke.
-          (Äänitetty 28.9.2024)
+        description: |-
+          Miten Trumpin astuminen virkaan vaikuttaa Lähi-itään?
+          Keskustelemassa vanhempi tutkija Timo Stewart ja johtava asiantuntija Olli Ruohimäki Ulkopoliittisesta instituutista. Toimittajana on Linda Pelkonen.
         series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-20T13:30:00+02:00'
@@ -185,11 +194,20 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-20T15:00:00+02:00'
         end_time: '2025-01-20T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miten yhteiskunnan normit ja ihanteet ruokkivat anoreksiaa?'
         start_time: '2025-01-20T15:02:00+02:00'
         end_time: '2025-01-20T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Mielikuva luurankomaisesta teinitytöstä leimaa anoreksiaa, mutta täytyisi muistaa, että anoreksia on ennen kaikkea erittäin vakava mielisairaus, joka voi tulla kenelle tahansa iästä, taustasta tai sukupuolesta riippumatta. 
+
+          Syömishäiriöt myös lisääntyivät voimakkaasti etenkin korona-aikaan ja määrä kasvaa edelleen. Syömishäiriöt ovat alihoidettuja ja tilanne on erittäin huolestuttava. 
+
+          Anoreksiaan mielisairautena on löydettävissä monenlaisia syitä, niin kuin Eevi Sjöholm omakohtaisessa anoreksiasta kertovassa esikoiskirjassaan Vahva kirjoittaa. “Ne kasvavat sattumissa, luonteenpiirteissä ja geeneissä.” Osansa on myös kuitenkin ympäröivällä maailmalla ja yhteiskunnalla.
+
+          Kulttuuriykkösessä keskustellaan anoreksiaan liitetyistä stereotypioista sekä puretaan sitä miten kulttuurimme ja yhteiskuntamme normit ja ihanteet vaikuttavat anoreksian sairastamiseen. Millä tavoin voisimme puuttua haitallisiin arvoihin ja odotuksiin? 
+
+          Keskustelemassa ovat kirjailija Eevi Sjöholm ja Syömishäiriöliiton asiantuntija Katri Mikkilä. Vieraana piipahtaa myös toimittaja ja kirjailija Laura Juntunen. Toimittaja on Reetta Arvila. 
+
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-20T15:55:00+02:00'
@@ -202,11 +220,11 @@ data:
         end_time: '2025-01-20T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-20T16:10:00+02:00'
-        end_time: '2025-01-20T16:59:20+02:00'
+        end_time: '2025-01-20T16:59:00+02:00'
         description: |
           Fenton: Miss Shepherd's waltz elok. The lady in the van (Philharmonia Orchestra/George Fenton).
 
-          Meksikolainen kansansäv.: La llorona (Rolando Villazon, tenori, ja Xavier de Maistre, harppu).
+          Kansansäv.: La llorona (Rolando Villazon, tenori, ja Xavier de Maistre, harppu).
 
           W.A. Mozart: Leporellon luetteloaaria oopp. Don Giovanni (Trio di Clarone).
 
@@ -223,7 +241,6 @@ data:
           Glass (sov. Badzura): Etydi pianolle n:o 2 (Vikingur Olafsson, piano, ja Siggi String Quartet). 
 
           Carr-Boyd: Stairway to the moon (Amy Whyte, klarinetti, ja John Martin, piano).
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T17:00:00+02:00'
         end_time: '2025-01-20T17:10:00+02:00'
@@ -238,7 +255,6 @@ data:
         end_time: '2025-01-20T18:34:20+02:00'
         description: |
           Tiedämme vanhastaan, että sielukasta etnoa on paljonkin. Mutta että etno-soulia, voiko sellaista olla olemassa? Fakta joka tapauksessa on, että yhä useammin uusien etnolevyjen saateteksteissä mainitaan soul-musiikki yhtenä keskeisenä vaikuttajana. Lähtekäämme rohkeasti makustelemaan ja testailemaan sitä, millaista etno-soul voisi olla, ja mitä kaikkea siihen voisi kuulua. Toimittajana Mika Kauhanen.
-        series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-01-20T18:35:00+02:00'
         end_time: '2025-01-20T18:50:00+02:00'
@@ -257,17 +273,16 @@ data:
         description: |
           "Opetuksesi on kultaa kalliimpaa"
           Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (119:1-119:56). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa talven aikana. Jaksossa 40. Jumalan teitä vaeltavat ovat onnellisia
-        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-20T19:00:00+02:00'
         end_time: '2025-01-20T19:02:00+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J2: Karkkien makujen salat'
         start_time: '2025-01-20T19:02:40+02:00'
-        end_time: '2025-01-20T19:35:00+02:00'
-        description: |2+
-
+        end_time: '2025-01-20T19:38:40+02:00'
+        description: |
+          Karkkeja syödään maun takia, mutta miten makuaistimme toimii ja voivatko ovelat karkkivalmistajat hämätä sitä? Professori Hely Tuorila opettaa maistelemaan makeita asioita kuin ammattilainen. Lisäksi innovoidaan sellainen suklaamaku, jota ei taatusti vielä löydy kaupoista. Lappeenrannan karkkitehtaalla työskentelevä tuotekehittäjä Minna Tuomikoski kertoo, miten karkkeja suunnitellaan ja mitkä maut ovat hankalia vangita sokerimakeisiin. Ohjelman toimittaa Jani Halme ja sen on Ylelle tuottanut Jaksomedia.
       - title: Musiikkikamari
-        start_time: '2025-01-20T19:35:00+02:00'
+        start_time: '2025-01-20T19:38:40+02:00'
         end_time: '2025-01-20T19:57:00+02:00'
         description: |2+
 
@@ -284,7 +299,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-20T20:55:00+02:00'
         end_time: '2025-01-20T21:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Yle Uutiset
         start_time: '2025-01-20T21:00:00+02:00'
         end_time: '2025-01-20T21:02:00+02:00'
@@ -304,38 +318,36 @@ data:
         end_time: '2025-01-20T23:39:00+02:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-01-20T23:40:00+02:00'
         end_time: '2025-01-21T06:30:00+02:00'
-        description: |-
+        description: |
           C. Schumann: Soirées musicales (Susanne Grützmann, piano).
 
-          Beethoven: Der Glorreiche Augenblick, kantaatti (Alla Simoni, sopraano, Francesca Pedaci, sopraano, Jeremy Ovenden, tenori, ja Robert Gierlach, basso, sekä Italiankielisen Sveitsin radiokuoro ja Italiankielisen Sveitsin ork./Diego Fasolis).
+          00:03 Beethoven: Der Glorreiche Augenblick, kantaatti (Alla Simoni, sopraano, Francesca Pedaci, sopraano, Jeremy Ovenden, tenori, ja Robert Gierlach, basso, sekä Italiankielisen Sveitsin radiokuoro ja Italiankielisen Sveitsin ork./Diego Fasolis).
 
-          Hoffmeister: Kvartetto klarinetille ja jousille D-duuri (Dieter Klöcker, klarinetti, Jana Vlachová, viulu, Petr Verner, alttoviulu, ja Mikael Ericsson, sello).
+          00:40 Hoffmeister: Kvartetto klarinetille ja jousille D-duuri (Dieter Klöcker, klarinetti, Jana Vlachová, viulu, Petr Verner, alttoviulu, ja Mikael Ericsson, sello).
 
-          Roussel: Sinfonia n:o 1 d-molli (Metsän runo) (Pariisin ork./Christoph Eschenbach).
+          01:00 Roussel: Sinfonia n:o 1 d-molli (Metsän runo) (Pariisin ork./Christoph Eschenbach).
 
-          Tovey: Air ja muunnelmia B-duuri (Tippett-kvartetti).
+          01:43 Tovey: Air ja muunnelmia B-duuri (Tippett-kvartetti).
 
-          W.A. Mozart: Kvintetto käyrätorvelle ja jousille (Hermann Baumann ja Gewandhaus-kvartetti).
+          02:16 W.A. Mozart: Kvintetto käyrätorvelle ja jousille (Hermann Baumann ja Gewandhaus-kvartetti).
 
-          Dussek: Pianokonsertto Es-duuri (Ulsterin ork./Howard Shelley, piano).
+          02:33 Dussek: Pianokonsertto Es-duuri (Ulsterin ork./Howard Shelley, piano).
 
-          Peterson-Berger: Sinfonia n:o 2 Es-duuri (Matka etelään) (Norrköpingin SO/Mihail Jurovski).
+          03:05 Peterson-Berger: Sinfonia n:o 2 Es-duuri (Matka etelään) (Norrköpingin SO/Mihail Jurovski).
 
-          Rheinberger: Sarja uruille, viululle ja sellolle (Christopher Herrick, Paul Barritt ja Richard Lester).
+          03:51 Rheinberger: Sarja uruille, viululle ja sellolle (Christopher Herrick, Paul Barritt ja Richard Lester).
 
-          Sobeck: Kvintetto puhaltimille n:o 1 F-duuri (Albert Schweitzer Quintett).
+          04:25 Sobeck: Kvintetto puhaltimille n:o 1 F-duuri (Albert Schweitzer Quintett).
 
-          Fauré: Sonaatti sellolle ja pianolle n:o 2 g-molli (Christian Poltéra ja Kathryn Stott).
+          04:45 Fauré: Sonaatti sellolle ja pianolle n:o 2 g-molli (Christian Poltéra ja Kathryn Stott).
 
-          Beethoven: Pianosonaatit n:o 5 c-molli, 6 F-duuri ja 7 D-duuri (Glenn Gould).
+          05:07 Beethoven: Pianosonaatit n:o 5 c-molli, 6 F-duuri ja 7 D-duuri (Glenn Gould).
 
-          Popper: Memoire (Muisto) (Risto Poutanen, sello, ja Ilmo Ranta, piano).
+          05:49 Popper: Memoire (Muisto) (Risto Poutanen, sello, ja Ilmo Ranta, piano).
 
-          Geoffroy: Messe pour les fêtes doubles (Le Concert Spirituel/Hervé Niquet, urut).
+          05:53 Geoffroy: Messe pour les fêtes doubles (Le Concert Spirituel/Hervé Niquet, urut).
 
-          C.P.E. Bach: Triosonaatti B-duuri (London Baroque).
-        series: Syventävää klassista
+          06:15 C.P.E. Bach: Triosonaatti B-duuri (London Baroque).

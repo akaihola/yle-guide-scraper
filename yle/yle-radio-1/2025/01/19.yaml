@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:46.654580+00:00'
+  generated_at: '2025-01-19T02:27:42.714310+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: a04d9605134b3e85e4e962e1c04b84112961a8e2
+  data_hash: c0a9c166b02859c17552397823bf48ff9fb790b9ea6d107196dba59ecd7b6bd7
 data:
   Yle Radio 1:
     programmes:
@@ -49,8 +49,8 @@ data:
         start_time: '2025-01-19T07:00:00+02:00'
         end_time: '2025-01-19T07:02:05+02:00'
       - title: 'Klasariparatiisi - Eva Tigerstedt: Turangalila - kosminen rakkauslaulu vai ylipitkä bordellikappale?'
-        start_time: '2025-01-19T07:03:00+02:00'
-        end_time: '2025-01-19T07:58:37+02:00'
+        start_time: '2025-01-19T07:02:20+02:00'
+        end_time: '2025-01-19T07:57:57+02:00'
         description: |
           "Turangalila-sinfonian ilo on yli-inhimillistä, ylitsevuotavaa, sokaisevaa, rajatonta", kuvaili Olivier Messiaen jättiläisteostaan. Se ilmentää säveltäjän mukaan myös "rakastavaisten kosmista muodonmuutosta". Joillekin tämä oli liikaa. Mautonta! Överiä! Mistä tässä suurteoksessa vuosilta 1946-48 on kyse? 
 
@@ -61,15 +61,26 @@ data:
           Olivier Messiaen: Turangalila-sinfonia, otteita
           (Angela Hewitt, piano, Valérie Hartmann-Claverie, ondes martenot, sekä Radion sinfoniaorkesteri/Hannu Lintu).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-01-19T07:57:57+02:00'
+        end_time: '2025-01-19T08:00:00+02:00'
+        description: |-
+          Banchieri: La Pomponazza canzona (The King's Noyse). 
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-19T08:00:00+02:00'
         end_time: '2025-01-19T08:05:05+02:00'
-      - title: 'Narrin aamulaulu '
-        start_time: '2025-01-19T08:05:35+02:00'
-        end_time: '2025-01-19T09:00:00+02:00'
+      - title: Narrin aamulaulu - Wittgensteinin ihmeellinen perhe
+        start_time: '2025-01-19T08:05:23+02:00'
+        end_time: '2025-01-19T08:59:43+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
-        series: Narrin aamulaulu - Outi Paananen
+          Teräsmagnaatti Karl Wittgenstein oli aikansa rikkaimpia ihmisiä maailmassa. Kapakkaviulistinakin nuorena toimineen Karlin ja hänen vaimonsa Leopoldinen lapset olivat poikkeuksellisen lahjakkaita, myös musiikillisesti. Onnellisia he eivät olleet. 
+
+          Kaksi pojista teki itsemurhan. Kolmas katosi jäljettömiin. Nuorimmasta lapsesta Ludwigista tuli yksi 1900-luvun huomattavimpia filosofeja. Paul menetti sodassa oikean kätensä ja jätti historiaan jälkensä pianistina, jonka ansiosta vasenkätinen piano-ohjelmisto kasvoi merkkiteoksilla. Esikoinen Hermine toimi isänsä mittavien taidehankitojen asiantuntijana. Helene ja Margaret toimivat mesenaatteina ja harjoittavat poikkeuksellisen avokätistä hyväntekeväisyystoimintaa. 
+
+          Wittgensteinin Wienin palatsissa musiikki oli kunniassa. Brahms, Strauss ja Mahler olivat palatsin musiikkisalin vakiovieraita. Ammattia musiikista ei vain olisi saanut tulla yhdellekään lapsista. 
+
+          Wittgensteinin perheeseen tutustuu Outi Paananen.
       - title: Yle Uutiset ja sää
         start_time: '2025-01-19T09:00:00+02:00'
         end_time: '2025-01-19T09:05:05+02:00'
@@ -80,7 +91,6 @@ data:
           Talvenselkä taittuu ja Riston mieli on siksi yhtä kevyt kuin Anthony Hollbornen suloinen consort-musiikki. Tällä viikolla vietetään myös ns. talvi-Heikkiä, Pyhän Henrikin muistopäivää ja tutustutaan 1800 - luvun alun tuntemattomaan sinfonikkoon Ferdinand Riesiin. Kuuntelussa on myös Soile Isokosken ja Marita Viitasalon Schubert-levy vuosikymmenien takaa. 
 
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
-        series: Riston Valinta - Risto Nordell
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-19T09:54:01+02:00'
         end_time: '2025-01-19T09:56:00+02:00'
@@ -88,6 +98,9 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-01-19T09:56:00+02:00'
         end_time: '2025-01-19T09:59:00+02:00'
+        description: |-
+          Pudasjärven seurakunnan jumalanpalvelukseen kutsuu Kimmo Saares 
+        series: Jumalanpalvelukset radiossa
       - title: Jumalanpalvelus Pudasjärven seurakuntakodilta
         start_time: '2025-01-19T10:00:00+02:00'
         end_time: '2025-01-19T10:59:20+02:00'
@@ -125,7 +138,6 @@ data:
         end_time: '2025-01-19T12:55:00+02:00'
         description: |
           Jo ennen ensimmäistä maailmansotaa Suomessa tehtiin emmental-juustoa vientiin. 1930-luvulla kehitettiin monia uusia juustolaatuja, jotka ovat tuttuja vieläkin. Juustojen historiasta kertoo teknologiajohtaja Matti Harju. Ohjelma on uusinta ajalta 5.2.2024
-        series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-19T12:55:00+02:00'
         end_time: '2025-01-19T13:00:00+02:00'
@@ -134,20 +146,18 @@ data:
         end_time: '2025-01-19T13:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
-        series: Välilevyjä - Kare Eskola
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
         start_time: '2025-01-19T14:00:00+02:00'
         end_time: '2025-01-19T14:52:00+02:00'
         description: |
           Maarit Tastulan vieraana laulaja ja näytteljä Arja Saijonmaa. 
           Arja Saijonmaan ensimmäinen vapaustaistelu käytiin Mikkelissä, kun isä valvoi Arjaa kuin haukka. Arja kuitenkin karkasi Amerikkaan ja maailmankiertueelle Mikis Theodorakiksen kanssa. Myöhemmin Arja asettui Ruotsiin ja niitti menestystä. Suuri henkilökohtainen tragedia Saijonmaan elämässä oli sairastuminen nuorena kohtusyöpään. 
-        series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-19T14:52:00+02:00'
         end_time: '2025-01-19T15:00:00+02:00'
       - title: Elävä historia
         start_time: '2025-01-19T15:00:00+02:00'
-        end_time: '2025-01-19T15:50:00+02:00'
+        end_time: '2025-01-19T15:49:30+02:00'
         description: |
           Sentinelien heimoa Bengalinlahdella pidetään vihamielisenä ja täysin kontaktittomina kivikauden asukkaina. Vuonna 2018 heimon jäsenet tappoivat saarelleen tunkeutuneen nuoren lähetyssaarnaajan, ja päätyivät kansainvälisiin uutisiin. Kun antropologi Vishvajit Pandya vieraili Pohjois-Sentinelin saarella ensi kerran, hän pelkäsi kuolevansa sinne. Nyt hän kertoo, miksi oletus sentineleistä eristäytyneenä ja murhanhimoisena menneisyyden heimona on kuitenkin höpötystä.
 
@@ -197,7 +207,6 @@ data:
         end_time: '2025-01-19T18:10:22+02:00'
         description: |
           Mitä blue note, sininen sävel, jazzissa tarkoittaa ja miten se siinä kuuluu? Käväisemme myös luonnon tarjoaman sinisen hetken lumossa.
-        series: Laura Korhosen Jazzklubi
       - title: 'Jazzklubin illan keikka: Ida Alanen Trio ja Adèle Viret 4tet Euroradio Jazz Competitionissa.'
         start_time: '2025-01-19T18:10:22+02:00'
         end_time: '2025-01-19T19:00:00+02:00'
@@ -209,13 +218,13 @@ data:
         end_time: '2025-01-19T19:02:05+02:00'
       - title: 'Jazzklubi: Klubi-isäntänä Eero Koski.'
         start_time: '2025-01-19T19:02:05+02:00'
-        end_time: '2025-01-19T20:00:00+02:00'
+        end_time: '2025-01-19T19:59:32+02:00'
         description: |2+
 
         series: Jazzklubi
       - title: Teofanian päätösjuhlan ehtoopalvelus Kristuksen taivaaseenastumisen kirkosta Vantaan Tikkurilasta
         start_time: '2025-01-19T20:00:00+02:00'
-        end_time: '2025-01-19T21:00:00+02:00'
+        end_time: '2025-01-19T20:58:00+02:00'
         description: |
           Palveluksen toimittaa rovasti Mikael Sundkvist
           Kirkkokuoroa johtaa dir.cant. Varvara Merras-Häyrynen
@@ -223,15 +232,15 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-19T21:00:00+02:00'
         end_time: '2025-01-19T21:02:05+02:00'
-      - title: Uutispodcast
-        start_time: '2025-01-19T21:02:30+02:00'
-        end_time: '2025-01-19T21:24:30+02:00'
+      - title: 'Uutispodcast: Valta vaihtuu, osa 1: Biden tahrasi perintönsä ja jää historiaan alaviitteenä'
+        start_time: '2025-01-19T21:02:24+02:00'
+        end_time: '2025-01-19T21:23:29+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Joe Biden on viimeistä viikonloppua presidenttinä. Hän jättää tehtävänsä Yhdysvaltain 46. presidenttinä maanantaina, kun Donald Trump astuu virkaan. Mistä Bidenin kausi tullaan muistamaan ja millaisen USA:n hän Trumpille jättää? Vieraana Ylen Washingtonin-kirjeenvaihtaja Ilmari Reunamäki. Juontajana Sami Lindfors.
         series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Turangalila - kosminen rakkauslaulu vai ylipitkä bordellikappale?'
-        start_time: '2025-01-19T21:25:30+02:00'
-        end_time: '2025-01-19T22:21:07+02:00'
+        start_time: '2025-01-19T21:24:16+02:00'
+        end_time: '2025-01-19T22:19:53+02:00'
         description: |
           "Turangalila-sinfonian ilo on yli-inhimillistä, ylitsevuotavaa, sokaisevaa, rajatonta", kuvaili Olivier Messiaen jättiläisteostaan. Se ilmentää säveltäjän mukaan myös "rakastavaisten kosmista muodonmuutosta". Joillekin tämä oli liikaa. Mautonta! Överiä! Mistä tässä suurteoksessa vuosilta 1946-48 on kyse? 
 
@@ -243,17 +252,29 @@ data:
           (Angela Hewitt, piano, Valérie Hartmann-Claverie, ondes martenot, sekä Radion sinfoniaorkesteri/Hannu Lintu).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Miksi et tekisi jo nyt asioita, joita oikeasti haluaisit?'
-        start_time: '2025-01-19T22:22:00+02:00'
-        end_time: '2025-01-19T23:15:37+02:00'
+        start_time: '2025-01-19T22:20:40+02:00'
+        end_time: '2025-01-19T23:14:17+02:00'
         description: |
           Miten käyttäisit päiväsi, jos tietäisit, että ne loppuvat pian? Elätkö tällä hetkellä arvojesi mukaista elämää? Yhteiskuntavaikuttaja Leo Stranius ja Suomen Punaisen Ristin hallituksen puheenjohtaja Elli Aaltonen pohtivat, millaista on merkityksellinen elämä ja voiko ihminen kuitenkaan elää "kuin viimeistä päivää". 
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-01-19T23:14:17+02:00'
+        end_time: '2025-01-19T23:19:55+02:00'
+        description: |-
+          Verdi: Laudi alla Vergine Maria (Chicagon sinfoniakuoron naisäänet/Georg Solti).
+        series: Yksi on hyvää seuraa
       - title: Romano mirits
-        start_time: '2025-01-19T23:20:00+02:00'
-        end_time: '2025-01-19T23:34:40+02:00'
+        start_time: '2025-01-19T23:19:55+02:00'
+        end_time: '2025-01-19T23:34:35+02:00'
         description: |
           Romanisuku-sarjan jaksossa jatketaan tarinointia Riihimäkeläisen Robert Bergin kanssa, joka kuuluu tunnettuun Hagertin sukuun. Hänen kanssaan vanhojen valokuvien äärellä pohditaan mm. romanien kansanpuvun muuttumista ja kuullaan tarina liikemies Kalle Hagertista ja presidentti Urho Kekkosesta. Robert Bergin tapasi toimittaja Jaakko Laakso.
-        series: Romano mirits
+      - title: 'Eilisen ääni: Tittelit'
+        start_time: '2025-01-19T23:35:13+02:00'
+        end_time: '2025-01-19T23:39:32+02:00'
+        description: |
+          Topi Törmä pakinoi sarjassa Tapojen tarinaa.
+          Äänite vuodelta 1963.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-01-19T23:40:00+02:00'
         end_time: '2025-01-20T06:30:00+02:00'
