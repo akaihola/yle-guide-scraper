@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:51.886696+00:00'
+  generated_at: '2025-01-20T02:26:08.123314+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
+  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
 data:
   Yle Radio 1:
     programmes:
@@ -25,7 +25,6 @@ data:
           Sonninen: Minun sydämeni on valmis, Jumala (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola, sekä Sofia Valli ja Valtteri Tuomikoski, laulu).
 
           Koraalitoisinto (sov. Turkka): Koska valaissee kointähtönen (Tellu Turkka ja Suden Aika).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-06T06:50:00+02:00'
         end_time: '2025-02-06T06:59:59+02:00'
@@ -55,11 +54,9 @@ data:
         end_time: '2025-02-06T10:52:00+02:00'
         description: |
           Katarina Baerin isovanhemmista tuli natseja, Väinö Tannerin pojantyttärestä Riikasta tuli taistolainen. Baer ja Tanner pohtivat, miten moraalinen ristiriita ja kollektiivinen utopia vaikuttavat ihmisten valintoihin ja identiteettiin.
-        series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-06T10:52:00+02:00'
         end_time: '2025-02-06T11:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-02-06T11:00:00+02:00'
         end_time: '2025-02-06T11:57:00+02:00'
@@ -77,14 +74,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-06T12:55:00+02:00'
         end_time: '2025-02-06T13:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-02-06T13:00:00+02:00'
         end_time: '2025-02-06T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-06T13:30:00+02:00'
         end_time: '2025-02-06T15:00:00+02:00'
-        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-06T15:00:00+02:00'
         end_time: '2025-02-06T15:02:00+02:00'
@@ -93,7 +88,6 @@ data:
         end_time: '2025-02-06T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-06T15:55:00+02:00'
         end_time: '2025-02-06T15:58:00+02:00'
@@ -105,7 +99,6 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-06T16:10:00+02:00'
         end_time: '2025-02-06T16:59:20+02:00'
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-06T17:00:00+02:00'
         end_time: '2025-02-06T17:10:00+02:00'
@@ -135,13 +128,11 @@ data:
           Piipponen: Sinun hyvyytesi (Arepa/Janne Piipponen).
 
           Vulpius (sov. Kinnunen): Oi Herra, ilo suuri (SRK:n kamarikuoro/Merja Lohilahti, sekä Olli Kinnunen, urut).
-        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-02-06T18:50:00+02:00'
         end_time: '2025-02-06T19:00:00+02:00'
         description: |-
           Diakonia- ja kansalaistoiminnan johtaja, pastori Marko Huhtala, Riihimäki
-        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-06T19:00:00+02:00'
         end_time: '2025-02-06T19:02:00+02:00'

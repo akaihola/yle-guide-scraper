@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:48.560942+00:00'
+  generated_at: '2025-01-20T02:26:04.855762+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
+  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
 data:
   Yle Radio 1:
     programmes:
@@ -21,17 +21,17 @@ data:
       - title: Radio 1 soi
         start_time: '2025-01-25T07:02:05+02:00'
         end_time: '2025-01-25T07:20:00+02:00'
-        series: Yksi on hyvää seuraa
+      - title: Kulttuurin kulmilla
+        start_time: '2025-01-25T07:20:00+02:00'
+        end_time: '2025-01-25T07:30:00+02:00'
       - title: 'Luomiskertomus: Arto Kivimäen suomentama Plautus pilkkaa tärkeileviä miehiä'
-        start_time: '2025-01-25T07:30:00+02:00'
+        start_time: '2025-01-25T07:31:00+02:00'
         end_time: '2025-01-25T07:55:00+02:00'
         description: |-
           Naurettava roolihahmo on taattu, kun loihtii näyttämölle kiimaisen kaljun ukon, rakastuneen isännän. Tämän tiesi antiikin aikana komedioiden kirjoittaja Plautus (254–184 eKr). Plautus oli 500 vuoden ajan Rooman suosituin näytelmäkirjailija. Hänen näytelmänsä ovat vanhimpia säilyneitä latinankielisiä teoksia. Plautuksen komediat vaikuttivat Shakespearen ja Molièren näytelmiin, omalla ajallamme jopa Jean-Luc Godardiin. Plautuksen näytelmiä on vihdoin suomennettu. Kääntäjä Arto Kivimäkeä haastattelee Jakke Holvas.
-        series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-25T07:55:00+02:00'
         end_time: '2025-01-25T08:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T08:00:00+02:00'
         end_time: '2025-01-25T08:05:00+02:00'
@@ -50,7 +50,6 @@ data:
         end_time: '2025-01-25T08:55:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-        series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-25T08:55:00+02:00'
         end_time: '2025-01-25T09:00:00+02:00'
@@ -77,7 +76,6 @@ data:
           Ferré: Jolie môme (Juliette Gréco).
           John: Your song (Elton John).
           Martin: Theme one (George Martin and his Orchestra).
-        series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-01-25T10:00:00+02:00'
         end_time: '2025-01-25T10:05:00+02:00'
@@ -89,8 +87,10 @@ data:
       - title: Rytmikamari
         start_time: '2025-01-25T10:45:00+02:00'
         end_time: '2025-01-25T11:00:00+02:00'
-        description: |
-          Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+        description: |-
+          Gray: Thunderbirds theme (Barry Gray).
+          Simon: America (Alyssa Graham).
+          Botti: When I see you (Chris Botti).
         series: Rytmikamari
       - title: 'Näistä levyistä en luovu: Jari Puhakka'
         start_time: '2025-01-25T11:00:00+02:00'
@@ -100,13 +100,11 @@ data:
 
 
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-25T11:57:00+02:00'
         end_time: '2025-01-25T12:00:00+02:00'
         description: |
           Aaro Hellaakosken runo Talvinen näky kokoelmasta Maininki ja vaahtopää (Kootut runot, WSOY 1940)
-        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T12:00:00+02:00'
         end_time: '2025-01-25T12:05:00+02:00'
@@ -119,7 +117,6 @@ data:
         end_time: '2025-01-25T13:00:00+02:00'
         description: |
           Monien suomalaisten tuntemassa astangajoogassa tavoitellaan hyvinkin äärimmäisiä asentoja. Takavuosina ei ollut aivan tavatonta, että tässä joogatyylissä tuli vammautumisia. Nykyään ainakin länsimaissa jooga on enemmän terapeuttista ja pehmeää. Joogateksteissä ei sanota, että joogan päämäärän saavuttaakseen pitäisi tehdä monta tuntia vaikeita asanoita. Toisaalta jooga ei ole historiallisesti ollut aina lempeää. Jaksossa perehdytään riskien lisäksi myös joogan hyvää tekeviin vaikutuksiin. 
-        series: Guruja & Asanoita
       - title: Uudet levyt
         start_time: '2025-01-25T13:00:00+02:00'
         end_time: '2025-01-25T14:00:00+02:00'
@@ -128,7 +125,6 @@ data:
         end_time: '2025-01-25T14:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-        series: Ruben Stiller
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 4/12.'
         start_time: '2025-01-25T15:00:00+02:00'
         end_time: '2025-01-25T15:20:00+02:00'
@@ -140,27 +136,27 @@ data:
           Rooleissa:
           Hillevi Lagerstam, Esko Roine, Martta Reima,  Ismo Kallio, Jarkko Rantanen, Esa Saario, Leena Uotila, Lauri Kuosmanen, Rauha Rentola ja Seppo Kolehmainen.
           Uusinta vuodelta 1979.
-        series: Verinen lyhty
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-25T15:20:00+02:00'
         end_time: '2025-01-25T15:30:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Ananas, polkka ja meduusa – hiustyylien nimissä iloittelevat musiikki, eläimet ja hedelmät'
         start_time: '2025-01-25T15:30:00+02:00'
         end_time: '2025-01-25T15:55:00+02:00'
+        description: |
+          Pasi Heikura pöyhii kielentutkija Laura Savolaisen kanssa kampausten nimiä tiheällä kammalla. Ohjelmassa opetellaan myös hitsaamaan hiileen ja pidetään säästöjä maton alla. Ohjelman ovat toimittaneet Pasi Heikura, Lasse Nousiainen ja Tina Cavén.
       - title: Yle News
         start_time: '2025-01-25T15:55:00+02:00'
         end_time: '2025-01-25T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T16:00:00+02:00'
         end_time: '2025-01-25T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-25T16:10:00+02:00'
-        end_time: '2025-01-25T16:59:20+02:00'
-        description: |-
+        end_time: '2025-01-25T16:59:00+02:00'
+        description: |
           Suppé:  Alkusoitto oper. Patarouva (Detroitin SO/Paul Paray). 
 
           Mendelssohn: Sanaton laulu D-duuri (Jacqueline du Pré, sello, ja Gerald Moore, piano).
@@ -175,7 +171,7 @@ data:
 
           Tailleferre: Ulkoilmaleikkejä (Jeux de plein air) (Maija Parko ja Maija Väisänen, piano).
 
-          Kondo (sov. Skeet): Super Mario Bros: Themes (Lontoon filharmoninen ork./Andrew Skeet).
+          Kondo (sov. Skeet): Super Mario Bros: Themes (Lontoon FO/Andrew Skeet).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T17:00:00+02:00'
@@ -185,7 +181,6 @@ data:
         end_time: '2025-01-25T17:57:00+02:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
-        series: Miia Krause
       - title: 'Ehtookellot: Inkeroisten kirkon kellot'
         start_time: '2025-01-25T18:00:00+02:00'
         end_time: '2025-01-25T18:01:00+02:00'
@@ -194,6 +189,7 @@ data:
         end_time: '2025-01-25T18:10:00+02:00'
         description: |-
           Kirkkoherra Eija Nivala, Ylivieska
+        series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2025-01-25T18:10:00+02:00'
         end_time: '2025-01-25T19:00:00+02:00'
@@ -206,7 +202,8 @@ data:
         start_time: '2025-01-25T19:02:00+02:00'
         end_time: '2025-01-25T22:00:00+02:00'
         description: |
-          Joht. Nicholas Chalmers. Lontoon kuninkaallisen oopperan kuoro ja orkesteri. 
+          Leonard Bernsteinin pienoisoopperat Trouble in Tahiti ja A Quiet Place. Joht. Nicholas Chalmers. Lontoon kuninkaallisen oopperan kuoro ja orkesteri. 
+
           Trouble in Tahiti, yksinäytöksinen ooppera. Sam, liikemies - Henry Neill, baritoni. Dinah, Samin vaimo - Wallis Giunta, mezzosopraano. Trion jäsenet: Kirsty McLean, sopraano; Guy Elliott, tenori, ja Peter Edge, baritoni. 
 
           A Quiet Place, oopperan alkuperäinen 1-näytöksinen versio. Sam - Grant Doyle, baritoni. Sam junior, Samin ja Dinahin poika - Henry Neill, baritoni. Dede, Samin ja Dinahin tytär - Rowan Pierce, sopraano. Francois - Elgan Llyr Thomas, tenori. Hautaustoimiston johtaja - Michael Gibson 
@@ -230,13 +227,11 @@ data:
         end_time: '2025-01-25T22:20:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-        series: Minne Rinne vie
       - title: Kielen päällä
         start_time: '2025-01-25T22:20:30+02:00'
         end_time: '2025-01-25T22:30:00+02:00'
         description: |-
           Toimittajana on Jari Aula.
-        series: Kielen päällä
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2025-01-25T22:30:30+02:00'
         end_time: '2025-01-25T23:29:30+02:00'
@@ -247,4 +242,3 @@ data:
         end_time: '2025-01-26T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista

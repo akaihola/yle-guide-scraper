@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:49.659691+00:00'
+  generated_at: '2025-01-20T02:26:05.565148+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
+  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
 data:
   Yle Radio 1:
     programmes:
@@ -15,11 +15,22 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-28T06:30:50+02:00'
         end_time: '2025-01-28T06:50:00+02:00'
+        description: |-
+          Huttunen: Taivas on uskoni määrä (Seppo Ruohonen, tenori, ja Ilkka Paananen, piano).
+
+          Koraalitoisinto: Ei laulamasta lakkaa (Jämsän kristillisen kansanopiston kuoro/Eero Kukko).
+
+          Hovland: Pyhän kaupungin porteista saavat (Simo Mäkinen, laulu, ja Pekka Suikkanen, urut).
+
+          Mason: Käyn kohti sinua (Eve ja Ossi).
+
+          Tikkanen: Mulla on rauha (Juhani Tikkanen).
       - title: Aamuhartaus
         start_time: '2025-01-28T06:50:00+02:00'
         end_time: '2025-01-28T06:59:59+02:00'
-        description: |-
-          Maanantaista lauantaihin
+        description: |
+          "Taivaassa Antti ei ole yksin"
+          Pirkkalan seurakunnan kirkkoherra Tuomo Törmänen pohtii tämänpuoleista ja iankaikkista elämää 26-vuotiaana menehtyneen Antin arkun äärellä (2/6).
       - title: Yle Uutiset ja sää
         start_time: '2025-01-28T07:00:00+02:00'
         end_time: '2025-01-28T07:10:00+02:00'
@@ -38,22 +49,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-28T09:05:40+02:00'
         end_time: '2025-01-28T09:58:00+02:00'
-        description: |-
+        description: |
           Nygård: Tiistai (Sävelradion viihdeorkesteri).
           Strayhorn: Lush life (Nat King Cole).
           Jobim: Agua de beber (Maysa).
-          Hardin: Jos olisin työtön mies (= If I were a carpenter) (Vesa-Matti Loiri).
-          Kern & DeSylva: Look for the silver lining (Aretha Franklin).
+          Hardin: Jos olisin työtön mies (Vesa-Matti Loiri).
+          Kern/DeSylva: Look for the silver lining (Aretha Franklin).
           Solal: Duo (Martial Solal).
           Ballard: Nukkumatti (Vieno Kekkonen).
           Salomaa: Tiskarin polkka (Hiski Salomaa).
           Mogotsi: Click Song (no. 1) (Miriam Makeba).
           Kärki: Merenneidon kyynel (Olavi Virta).
           Yarrow: Paff, der Zauberdrachen (Marlene Dietrich).
-          Berry, Buck, Mills & Stipe: Everybody hurts (R.E.M.).
+          Berry/Buck/Mills/Stipe: Everybody hurts (R.E.M.).
           Numminen: Varmaan kesä joskus tulee kaupunkiin (Sinikka Sokka).
-          Richards & Jagger: Ruby Tuesday (The Rolling Stones).
-        series: Muistojen bulevardi
+          Jagger/Richards: Ruby Tuesday (The Rolling Stones).
       - title: Sari Valto
         start_time: '2025-01-28T10:00:00+02:00'
         end_time: '2025-01-28T10:55:00+02:00'
@@ -76,14 +86,12 @@ data:
         end_time: '2025-01-28T12:30:00+02:00'
         description: |
           Seikkailu oluen juomisen kulttuurihistoriassa jatkuu kotimaan maisemissa. Pannaan olutta Kalevalan Osmottaren oudolla reseptillä ja tutustutaan 1600-luvun afterwork-kulttuuriin. Kaisa Pulakan seurassa ihmetellään myös sitä, miten 1900-luvun alun rikas panimokulttuuri vaihtui 1990-luvulla tilanteeseen, jossa olutta valmisti Suomessa vain kolme panimoa.  
-        series: Kaisa Pulakan aikamatkat
       - title: Aristoteleen kantapää
         start_time: '2025-01-28T12:30:00+02:00'
         end_time: '2025-01-28T12:55:00+02:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-28T12:55:00+02:00'
         end_time: '2025-01-28T13:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-01-28T13:00:00+02:00'
         end_time: '2025-01-28T13:30:00+02:00'
@@ -92,7 +100,6 @@ data:
         end_time: '2025-01-28T15:00:00+02:00'
         description: |
           Juontajana Heikki Puskala. Radio 1:n iltapäivän mukavaa musiikkia. N. klo 14 studiovieraana Kennelliiton toiminnanjohtaja Pirjo Ontsa.Suomessa arvoidaan olevan jopa 800 000 koiraa. Mikä on koiran merkitys ihmisen hyvinvoinnille? N. klo 14:30 Kielen päällä.
-        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-28T15:00:00+02:00'
         end_time: '2025-01-28T15:02:00+02:00'
@@ -101,13 +108,11 @@ data:
         end_time: '2025-01-28T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-28T15:55:00+02:00'
         end_time: '2025-01-28T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-28T16:00:00+02:00'
         end_time: '2025-01-28T16:10:00+02:00'
@@ -115,23 +120,23 @@ data:
         start_time: '2025-01-28T16:10:00+02:00'
         end_time: '2025-01-28T16:59:20+02:00'
         description: |
-          Gulda: Alkusoitto konsertosta sellolle ja puhallinorkesterille (Nicholas Altstaedt, sello, sekä Reininmaan ja Pfalzin valtiollinen FO/Joel Alexander).
+          Gulda: Alkusoitto konsertosta sellolle ja puhallinorkesterille (Nicholas Altstaedt sekä Reininmaan ja Pfalzin valtiollinen FO/Joel Alexander).
 
           Hahn: Tanssiva fauni (Earl Wild, piano).
 
           W.A. Mozart: Kolme saksalaista tanssia (Orpheus-kamariork.).
 
-          J. Strauss (nuor.): An der schönen blauen Donau (Tonava kaunoinen) (Wiener Sängerknaben/Peter Marschik, piano, sekä Georg Stangelberger, piano). 
+          J. Strauss, nuor.: An der schönen blauen Donau (Tonava kaunoinen) (Wiener Sängerknaben/Peter Marschik, piano, sekä Georg Stangelberger, piano). 
 
           Sibelius: Tanssi-intermezzo (RSO/Jukka-Pekka Saraste).
 
-          Brahms - Cziffra: Unkarilainen tanssi nro 5 (György Cziffra, piano).
+          Brahms - Cziffra: Unkarilainen tanssi n:o 5 (György Cziffra, piano).
 
-          Granados (sov. Segovia): Danza espanola nro 10 kok. Danzas espanolas op.37 (Andres Segovia, kitara).
+          Granados: Danza espanola G-duuri (Andres Segovia, kitara).
 
           Shtshedrin: Katrilli oopp. Ei ainoastaan rakkautta (Marko Ylönen, sello, ja Martti Rautio, piano).
 
-          Damare (sov. Pierre): L'oiseau et les roses (Lintu ja ruusut) (Jean-Louis Beaumadier, pikkolohuilu, ja La Follia -kamariork.). 
+          Damare: L'oiseau et les roses (Lintu ja ruusut) (Jean-Louis Beaumadier, pikkolohuilu, ja La Follia -kamariork.). 
 
           Kansansäv.: Tanssikaa, laulakaa (Matti Lehtinen, baritoni, ja puhallinyhtye).
 
@@ -158,7 +163,7 @@ data:
         start_time: '2025-01-28T18:50:00+02:00'
         end_time: '2025-01-28T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Lähihoitaja Jarno Lehti, Metodistikirkko, Piispanristi
       - title: Yle Uutiset ja sää
         start_time: '2025-01-28T19:00:00+02:00'
         end_time: '2025-01-28T19:02:00+02:00'
@@ -174,14 +179,12 @@ data:
         end_time: '2025-01-28T20:19:20+02:00'
         description: |
           Seikkailu oluen juomisen kulttuurihistoriassa jatkuu kotimaan maisemissa. Pannaan olutta Kalevalan Osmottaren oudolla reseptillä ja tutustutaan 1600-luvun afterwork-kulttuuriin. Kaisa Pulakan seurassa ihmetellään myös sitä, miten 1900-luvun alun rikas panimokulttuuri vaihtui 1990-luvulla tilanteeseen, jossa olutta valmisti Suomessa vain kolme panimoa.  
-        series: Kaisa Pulakan aikamatkat
       - title: Romano mirits
         start_time: '2025-01-28T20:20:00+02:00'
         end_time: '2025-01-28T20:35:00+02:00'
         description: |+
           Allan Lindeman opiskeli lähihoitajaksi ja teki töitä lasten suojelussa. Hän sai tehtäväksi hakea poliisilaitokselta nuoren lastensuojelulaitokseen. Koska hälytys tuli illalla, Lindemanilla oli yllään arkivaatteet. Poliisilaitoksella romaniasuun pukeutunut Lindeman kohtasi poliisin, joka pelästyksissään meinasi tarttua aseeseen. Tilanne järkytti Lindemanin. Hän ei osannut tehdä muuta kuin nostaa kädet ylös ja sanoa “työasioilla”. Toimittaja Mertsi Lindgren.
 
-        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-01-28T20:35:00+02:00'
         end_time: '2025-01-28T21:00:00+02:00'
@@ -197,7 +200,6 @@ data:
         end_time: '2025-01-28T22:29:30+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-        series: Sari Valto
       - title: Miia Krause
         start_time: '2025-01-28T22:30:00+02:00'
         end_time: '2025-01-28T23:16:30+02:00'

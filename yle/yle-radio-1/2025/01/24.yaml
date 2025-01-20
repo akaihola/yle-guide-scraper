@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:48.338368+00:00'
+  generated_at: '2025-01-20T02:26:04.523902+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
+  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
 data:
   Yle Radio 1:
     programmes:
@@ -15,17 +15,45 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-24T06:30:50+02:00'
         end_time: '2025-01-24T06:50:00+02:00'
+        description: |
+          Tuntematon: Sinuhun, Jeesus, ainoaan (Cetus Noster ja Eero Palviainen, arkkiluuttu).
+
+          Laaksonen: Silloin kun en itse jaksa (Sommelo/Leena Aarnipuu-Lampela).
+
+          Koraalitoisinto: Oi Herrani, saan luoksesi (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
+          Hela: Armoa, kaikk' on armoa vaan (Canzonetta-kuoro/Paavo Stedt).
+
+          Harju: Uskon jyvä (Maksetut viulut).
       - title: Aamuhartaus
         start_time: '2025-01-24T06:50:00+02:00'
         end_time: '2025-01-24T06:59:59+02:00'
-        description: |-
-          Seurakuntapastori Marika Villikka, Pirkkala
+        description: |
+          "Kodissa opitaan elämän tärkeimpiä asioita"
+          Seurakuntapastori Marika Villikka Pirkkalasta lukee Matteuksen evankeliumin 8. luvusta ja pohtii kodin merkitystä elämän pohjan rakentumisen paikkana.
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T07:00:00+02:00'
         end_time: '2025-01-24T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-01-24T07:10:00+02:00'
         end_time: '2025-01-24T07:59:59+02:00'
+        description: |
+          Fauré: Alkusoitto sarj. Masques et bergamasques (Seattlen SO/Ludovic Morlot).
+
+          Andrée: Andante quasi recitativo jousiorkesterille (Göteborgin oopperan ork./David Bergström, viulu).
+
+          Hahn: Romanssi A-duuri (Charles Sewart, viulu, ja Stephen Coombs, piano).
+
+          W.A. Mozart: Papagenon aaria "Ein Mädchen oder Weibchen" oopp. Taikahuilu (Thomas Quasthoff, bassobaritoni, ja Württembergin kamariork./Jörg Faerber).
+
+          Visée: Chaconne G-duuri (Thor-Harald Johnsen, barokkikitara, ja Thomas Boysen, teorbi). 
+
+          R. Schumann: Von fremden Ländern und Menschen sarj. Kinderszenen (Martha Argerich, piano).
+
+          Eller: Kotimaan laulu teoksesta Viisi kappaletta jousiorkesterille (Tallinnan kamariorkesteri/Tönu Kaljuste).
+
+          Farrenc: Adagio - Allegro nonetosta Es-duuri (Philippe Bernold, huilu, Francois Leleux, oboe, Romain Guyot, klarinetti, Andre Cazalet, käyrätorvi, Gilbert Audin, fagotti, Guillaume Sutre, viulu, Miguel da Silva, alttoviulu, Francois Salque, sello, ja Vincent Pasquier, kontrabasso).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T08:00:00+02:00'
@@ -44,11 +72,9 @@ data:
         end_time: '2025-01-24T10:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-24T10:55:00+02:00'
         end_time: '2025-01-24T11:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Narrin aamulaulu - Pianisti Paul Wittgenstein, historiaa vasemmalla kädellä
         start_time: '2025-01-24T11:00:00+02:00'
         end_time: '2025-01-24T11:55:00+02:00'
@@ -60,7 +86,6 @@ data:
         end_time: '2025-01-24T12:00:00+02:00'
         description: |
           Katkelmia Suvi Vallin esseekokoelmasta Hallittua kaatumista ja muita ruumiin kielen asentoja (Osuuskunta Poesia 2021)
-        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T12:00:00+02:00'
         end_time: '2025-01-24T12:10:00+02:00'
@@ -104,7 +129,6 @@ data:
           Gardot: If the stars were mine (Melody Gardot).
 
           Jose Mäenpää: Tiskata saa.
-        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-24T15:00:00+02:00'
         end_time: '2025-01-24T15:02:00+02:00'
@@ -119,15 +143,32 @@ data:
         end_time: '2025-01-24T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T16:00:00+02:00'
         end_time: '2025-01-24T16:10:00+02:00'
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-01-24T16:10:00+02:00'
-        end_time: '2025-01-24T16:59:20+02:00'
+        end_time: '2025-01-24T16:59:00+02:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Sibelius: Sången om korsspindeln (Laulu ristilukista) (Waltteri Torikka, baritoni, ja Turun FO/Leif Segerstam).
+
+          Beethoven: Adagio sostenuto sonaatista n:o 14 cis-molli "Kuutamosonaatti" (Jonathan Biss, piano).
+
+          Brahms (sov. Hidas): Unkarilainen tanssi nro 4 f-molli (Budapestin musiikkijuhlien ork./Ivan Fischer).
+
+          Klami: Barcarole (Paavali Jumppanen, piano).
+
+          W.A. Mozart: Finaali serenadista B-duuri 'Gran partita'  (RSO/Sakari Oramo)
+
+          Carreño: Balladi pianolle (Clara Rodriguez).
+
+          Kansansäv. (sov. Casals): El cant dels ocells (David Geringas, sello, ja Christian Ivaldi, piano).
+
+          Kansansäv.: On suuri sun rantas autius (Martti Talvela, basso, ja soitinyhtye/Pertti Eerola).
+
+          Melartin: Nacht (Yö) (Izumi Tateno, piano).
+
+          Pachelbel: Kaanon ja gigue D-duuri (Englantilainen kamariork./Raymond Leppard).
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T17:00:00+02:00'
         end_time: '2025-01-24T17:10:00+02:00'
@@ -136,7 +177,6 @@ data:
         end_time: '2025-01-24T17:34:20+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-        series: Uutispodcast
       - title: 'Näistä levyistä en luovu: Jari Puhakka'
         start_time: '2025-01-24T17:35:00+02:00'
         end_time: '2025-01-24T18:30:00+02:00'
@@ -145,11 +185,9 @@ data:
 
 
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-        series: Näistä levyistä en luovu
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-24T18:30:00+02:00'
         end_time: '2025-01-24T18:35:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Musiikkihartaus
         start_time: '2025-01-24T18:35:00+02:00'
         end_time: '2025-01-24T19:00:00+02:00'
@@ -157,7 +195,6 @@ data:
           "Entä jos ihminen ei vain rukoile, vaan on rukous?"
           Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus.
           Tässä musiikkihartaudessa opetusneuvos Kalevi Virtanen Helsingistä pohtii rukouksen olemusta ja pienen vauvan mahdollisuuksia rukoilla ilman sanoja.
-        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T19:00:00+02:00'
         end_time: '2025-01-24T19:02:00+02:00'
@@ -166,25 +203,22 @@ data:
         end_time: '2025-01-24T21:05:00+02:00'
         description: |-
           Nicholas Collon, kapellimestari, Alexandre Tharaud, piano. - Claude Debussy: Jeux. Maurice Ravel: Pianokonsertto G-duuri. Igor Stravinsky: Kevätuhri. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson
-        series: Konsertteja
-      - title: Yle Uutiset
-        start_time: '2025-01-24T21:00:00+02:00'
-        end_time: '2025-01-24T21:02:00+02:00'
       - title: Politiikkaradio
-        start_time: '2025-01-24T21:05:00+02:00'
-        end_time: '2025-01-24T21:34:30+02:00'
+        start_time: '2025-01-24T21:15:00+02:00'
+        end_time: '2025-01-24T21:45:00+02:00'
       - title: Kalle Haatanen
-        start_time: '2025-01-24T21:35:00+02:00'
-        end_time: '2025-01-24T22:24:30+02:00'
+        start_time: '2025-01-24T21:45:30+02:00'
+        end_time: '2025-01-24T22:35:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-01-24T22:25:00+02:00'
-        end_time: '2025-01-24T23:15:00+02:00'
+        start_time: '2025-01-24T22:36:00+02:00'
+        end_time: '2025-01-24T23:26:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
       - title: Radio 1 soi
-        start_time: '2025-01-24T23:15:30+02:00'
+        start_time: '2025-01-24T23:27:00+02:00'
         end_time: '2025-01-24T23:30:00+02:00'
         series: Yksi on hyvää seuraa
       - title: 'Kulttuurin kulmilla: Bravoo!'
@@ -192,7 +226,6 @@ data:
         end_time: '2025-01-24T23:39:00+02:00'
         description: |-
           Kehtaisikohan sitä huutaa bravoota, miettii Timo Teräsvuori 
-        series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-01-24T23:40:00+02:00'
         end_time: '2025-01-25T06:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:47.770305+00:00'
+  generated_at: '2025-01-20T02:26:04.002151+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
+  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,29 @@ data:
         start_time: '2025-01-21T23:40:00+02:00'
         end_time: '2025-01-22T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Diabelli: Kitarasonaatti A-duuri (Ilkka Virta).
+
+          00:05 Weingartner: Oktetto G-duuri (Oliver Triendl, piano, ja Ensemble Acht)
+
+          00:41 von Hausegger: Wieland der Schmied (Seppä Wieland) (Bambergin sinfonikot/Antony Hermus).
+
+          00:59 Chopin (sov. Dokshitser): Preludi n:o 24 d-molli (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          01:02 Meyerbeer: Wer unter dem Schrim des Höchsten sitzet (Joka Korkeimman suojassa istuu) (Rheinische Kantorei/Hermann Max).
+
+          01:13 Delibes: Coppélia, baletti (Lyonin versio) (Lyonin oopperan ork./Kent Nagano).
+
+          02:53 Lalo: Jousikvartetto Es-duuri (Pariisin jousikvartetti).
+
+          03:19 Beethoven: Pianokonsertto n:o 1 C-duuri (Friedrich Gulda ja Wienin filharmonikot/Horst Stein).
+
+          03:59 Eberlin: Aaria "Nein, der Unflat meiner Seele" oopp. Tuhlaajapoika (Monica Groop, mezzosopraano, Christian Lindberg, pasuuna, Olof Larsson, sello, ja Björn Gäfvert, urut).
+
+          04:08 J. Haydn: Sinfoniat n:o 97 C-duuri, 98 B-duuri ja 99 Es-duuri (Clevelandin ork./George Szell).
+
+          05:28 Schumann: Sonaatti viululle ja pianolle n:o 1 a-molli (Ilja Kaler ja Boris Slutski).
+
+          05:45 Byrd: The Great Service (Suuri palvelus) (The Tallis Scholars/Peter Phillips).
       - title: Hartaita säveliä
         start_time: '2025-01-22T06:30:50+02:00'
         end_time: '2025-01-22T06:50:00+02:00'
@@ -23,21 +45,34 @@ data:
           Salminen: Joskus sisimpäämme kasvaa ilon kukkamaa (Rukous on silta) (Lapsi- ja nuorisokuoro Kannelkellot/Sirkku Rintamäki, sekä Laura Airola, viulu, Mikko Iivanainen, kitara, Hannu Rantanen, basso, Pekka Nyman, vibrafoni, ja Sami Koskela, rummut).
 
           Anonyymi: Yö on poissa (Musti ja Hyvä Vainu).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-22T06:50:00+02:00'
         end_time: '2025-01-22T06:59:59+02:00'
         description: |
           "Yhdessä erilaisina"
           Elämääni taustapeilistä -aamuhartaussarjan kolmannessa osassa rovasti Jaana Marjanen Kuopiosta muistelee nuoruuden teologian opintojaan sekä pohtii kristittyjen ykseyttä ja tämän haasteita (osa 3/6).
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-22T07:00:00+02:00'
         end_time: '2025-01-22T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-01-22T07:10:00+02:00'
         end_time: '2025-01-22T07:59:59+02:00'
-        series: Aamusoitto
+        description: |-
+          Castello: Sonaatti n:o 5 (Christian Lindberg, pasuuna, Richard Tognetti, viulu, ja Australian kamariork.).
+
+          D. Scarlatti: Sonaatti C-duuri (David Russell, kitara).
+
+          Lauridsen: Sure on this shining night (Spira Ensemble/Kari Turunen, ja Kristian Nyman, piano).
+
+          Jadin: Alkusoitto F-duuri (The Wallace Collection/John Wallace).
+
+          Glazunov: Espanjalainen serenadi (Steven Isserlis, sello, ja Euroopan kamariork./John Eliot Gardiner).
+
+          Saint-Saens: Joutsen (Peter Fuezes, käyrätorvi, ja Csilla Szentpeteri, piano).
+
+          Brahms: Allegro appassionato sonaatista Es-duuri (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
+
+          Rimski-Korsakov: Ilveilijöiden tanssi oopp. Lumityttö (Minnesotan ork./Eiji Oue).
       - title: Yle Uutiset ja sää
         start_time: '2025-01-22T08:00:00+02:00'
         end_time: '2025-01-22T08:10:00+02:00'
@@ -65,7 +100,6 @@ data:
           Borgmann: Tango nocturno (Seija Karpiomaa).
           Ferrari: Domino (Maire Ojonen).
           Waldteufel: Estudiantina (RVO/George de Godzinsky). 
-        series: Muistojen bulevardi
       - title: 'Tuntematon Ukraina: Taistelu sieluista Ukrainassa'
         start_time: '2025-01-22T10:00:00+02:00'
         end_time: '2025-01-22T10:35:00+02:00'
@@ -81,7 +115,6 @@ data:
           Vedel: Konsertto kuorolle a cappella n:o 1 (Kiovan Ljatoshinski-kamarikuoro/Viktor Ikonnik).
 
           Lysenko: Suru (Jakob Koranyi, sello, ja Natalija Pasitshnyk, piano).
-        series: Musiikkikamari
       - title: Riston Valinta
         start_time: '2025-01-22T11:00:00+02:00'
         end_time: '2025-01-22T11:50:00+02:00'
@@ -91,7 +124,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-22T11:50:00+02:00'
         end_time: '2025-01-22T11:57:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-22T11:57:00+02:00'
         end_time: '2025-01-22T12:00:00+02:00'
@@ -106,9 +138,16 @@ data:
         end_time: '2025-01-22T12:59:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Hyvin sanottu'
         start_time: '2025-01-22T13:00:00+02:00'
         end_time: '2025-01-22T13:30:00+02:00'
+        description: |
+          Miksi mitään ei saa enää sanoa – vai saako?
+          Vieraina ovat kansanedustajat Saara-Sofia Sirén (kok.), Ville Skinnari (sd.) ja Hilkka Kemppi (kesk.). Toimittajana on  Antti Pilke.
+
+
+          (Äänitetty 28.9.2024)
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-22T13:30:00+02:00'
         end_time: '2025-01-22T15:00:00+02:00'
@@ -150,20 +189,33 @@ data:
         start_time: '2025-01-22T15:02:00+02:00'
         end_time: '2025-01-22T15:55:00+02:00'
         description: |
+          Oopperamaailman diivasta, Maria Callaksesta on tehty elokuva. Pablo Larraínin ohjaama elokuva Maria on intensiivinen ja visuaalisesti vaikuttava tutkielma oopperamaailman ikonin elämästä ja persoonasta. Larraín, tunnettu muun muassa elokuvistaan "Jackie" ja "Spencer", tuo esiin kykynsä vangita monimutkaisia ja ristiriitaisia hahmoja. Elokuva keskittyy Callaksen elämän käännekohtiin ja henkilökohtaiseen kamppailuun, avaen intiimin ja syvällisen katsauksen hänen julkisen loistonsa taakse kätkeytyvään yksityiseen maailmaan. Elokuva kertoo yksinäisestä tähdestä, kipeästä äitisuhteesta ja taiteilijana olemisen vaikeudesta. 
+
+          Elokuvan keskiössä on Callaksen jatkuva pyrkimys täydellisyyteen sekä hänen kamppailunsa yksityiselämänsä paineiden kanssa. Käsikirjoitus pureutuu hänen suhteisiinsa, niin ammatillisiin kuin henkilökohtaisiin, tuoden esille hänen monimutkaisen suhteensa esimerkiksi Aristoteles Onassisiin. Larraínin elokuva ei pelkästään kerro Callaksen tarinaa, vaan myös tutkii laajempia teemoja kuten naiseuden, taiteen ja julkisuuden hinnan.
+
+          Visuaalisesti elokuva vangitsee aikakauden estetiikan, 1970-luvun muodin ja Callaksen glamourin yksityiskohtaisesti. Musiikki, erityisesti Callaksen ikoniset esitykset, on keskeisessä roolissa, luoden emotionaalista syvyyttä ja autenttisuutta elokuvan kerrontaan. Larraín luo sekä historiallisen että henkilökohtaisen kertomuksen, joka puhuttelee niin oopperan ystäviä kuin laajempaa yleisöä. Mikä teki hänestä aikansa legendan? Maria Callasta esittävä Angelina Jolie on sanonut että hänessä itsessään on myös samaa yksinäisyyttä kuin tähdessä.
+
+          Maria Callas, syntyjään Maria Anna Cecilia Sofia Kalogeropoulos, syntyi New Yorkissa vuonna 1923. Hän nousi maailmanmaineeseen 1900-luvun puolivälissä, tunnetuksi erityisesti rooleistaan klassisissa italialaisissa oopperoissa. Callaksen kyky yhdistää tekninen taituruus ja syvä tunneilmaisu teki hänestä oopperan kiintotähden, ja hänen tulkintansa teoksista kuten "Norma", "Tosca" ja "La Traviata" ovat jääneet pysyvästi oopperan historiaan.
+
+          Ohjelman vieraina ovat musiikkitoimittaja Jan Granberg, elokuvatoimittaja Silja Sahlgren-Fodstad ja some-vaikuttaja ja kirjailija Eeva Kolu.
+
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-22T15:55:00+02:00'
         end_time: '2025-01-22T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-01-22T16:00:00+02:00'
         end_time: '2025-01-22T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-22T16:10:00+02:00'
-        end_time: '2025-01-22T16:59:20+02:00'
+        end_time: '2025-01-22T16:59:00+02:00'
         description: |
           Vivaldi: Allegro non molto konsertosta Talvi (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
 
@@ -195,11 +247,11 @@ data:
         end_time: '2025-01-22T17:34:20+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Vuodenaikojen juoksua'
         start_time: '2025-01-22T17:35:00+02:00'
         end_time: '2025-01-22T18:35:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Laura Korhosen Jazzklubin tämänkertaisen tunnin aikana ehdimme kokemaan kaikki neljä vuodenaikaa. Siirrymme käsilläolevasta vuodenajasta aina syksyyn hyvän musiikin seurassa, muistellen jo oppimaamme tai pureskellen uutta tietoa liittyen vuodenaikoihin.
       - title: Hartaita säveliä
         start_time: '2025-01-22T18:35:00+02:00'
         end_time: '2025-01-22T18:50:00+02:00'
@@ -211,7 +263,6 @@ data:
           Heikkilä: Eri tuuli (Saila Seurujärvi ja Valkia).
 
           Ida Elina: Saman taivaan alla (Ida Elina).
-        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-22T18:50:00+02:00'
         end_time: '2025-01-22T19:00:00+02:00'
@@ -224,7 +275,7 @@ data:
         end_time: '2025-01-22T19:02:00+02:00'
       - title: Musiikkia kuningatar Kristiinan lähipiiristä
         start_time: '2025-01-22T19:02:00+02:00'
-        end_time: '2025-01-22T21:00:00+02:00'
+        end_time: '2025-01-22T20:20:00+02:00'
         description: |
           Ruotsin entinen kuningatar Kristiina oli yksi 1600-luvun tärkeimmistä taiteen ja opetuksen suojelijoista sekä Rooman kulttuurielämän johtava hahmo yli 30 vuoden ajan. 
 
@@ -235,7 +286,6 @@ data:
           Göteborg Baroque -yhtyeen konsertissa kuullaan juuri näiden Kristiinan lähipiiriin kuuluneiden säveltäjien teoksia. Musiikkia johtaa Magnus Kjellson ja solistina laulaa kontratenori Daniel Carlsson. 
 
           Konsertti on äänitetty Valle Baroque -festivaalilla Varnhemin luostarikirkossa 28.6.2024. Toimittajana on Ainomaija Pennanen. 
-        series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-01-22T21:00:00+02:00'
         end_time: '2025-01-22T21:02:00+02:00'
