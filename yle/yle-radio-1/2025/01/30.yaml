@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-20T02:26:06.220336+00:00'
+  generated_at: '2025-01-21T02:24:37.078704+00:00'
   git:
     branch: main
-    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
-  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
+    commit: 022daf334caf0736f0822149f2140ec607826876
+  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
 data:
   Yle Radio 1:
     programmes:
@@ -44,23 +44,22 @@ data:
           Kärki: Katukahvilassa (Eino Grön).
           Popp: Den vackra tvätterskan (Nora Brockstedt).
           Bacharach: Don't make me over (Dionne Warwick).
-          Farina: Sleep walk (Santo and Johnny)
+          Farina: Sleep walk (Santo and Johnny).
           Kern: Tietää tähti jokainen (Marjatta Leppänen).
           Taylor: Vlinder van eer zomer (Willeke Alberti).
           Kuuva: Pidä huolta rakkaastani (Virve 'Vicky' Rosti).
           James: Suspicious minds (Elvis Presley).
           Block: Walkin' after midnight (Patsy Cline).
-          Nurmio: Aavaa preeriaa (Tuomari Nurmio)
+          Nurmio: Aavaa preeriaa (Tuomari Nurmio).
           Broberg: Medan årstider kommer och går (Robert 'Robban' Broberg).
           Brooker: Merimies (Maarit).
-          Phil Collins: Against all odds (Take a look at me now).
+          Collins: Against all odds (Take a look at me now) (Phil Collins).
         series: Muistojen bulevardi
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Aivotutkija Katri Saarikivi: Ihmiskunta on ihmiskunnan ainoa toivo'
         start_time: '2025-01-30T10:00:00+02:00'
         end_time: '2025-01-30T10:52:00+02:00'
         description: |-
           Aivotutkija ja psykologian tohtori Katri Saarikiven elämään putkahti yllättäen onni, kun hänestä tuli äiti 40-vuotiaana. Lapsikin sen tietää, että jokelluksesta se alkaa. Keskinäinen hyvä vuorovaikutus on sivilisaation perusta. 
-        series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-30T10:52:00+02:00'
         end_time: '2025-01-30T11:00:00+02:00'
@@ -109,7 +108,27 @@ data:
         end_time: '2025-01-30T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-30T16:10:00+02:00'
-        end_time: '2025-01-30T16:59:20+02:00'
+        end_time: '2025-01-30T16:59:00+02:00'
+        description: |
+          Carr-Boyd: Fandango (Sydney Mandolins/Adrian Hooper).
+
+          Pasek - Paul: So big, so small musik. Dear Evan Hansen (Renée Fleming, sopraano, Matt Beck, kitara, ja BBC:n konserttiork./Rob Fisher).
+
+          P. Glass: 2. osa jousikvartetosta n:o 5 (Kronos-kvartetti).
+
+          Peltokoski: Improvisaatio pianolle Mozartin sinfonian n:o 36 C-duuri teemoista (Tarmo Peltokoski, piano).
+
+          Gardel: El día que me quieras (Juan Diego Florez, tenori, Daniel Binelli, bandoneon, ja Fort Worth Symphony Orchestra/Miguel Harth-Bedoya).
+
+          Clarke: Chinese puzzle (Kiinalainen arvoitus) (Duo Runya).
+
+          Glanville-Hicks: Promenade Etruskilaisesta konsertosta (Caroline Almonte, piano, ja Tasmanian SO/Richard Mills).
+
+          Mayer: Adagio con molto espressione jousikvartetosta g-molli (Klenke-kvartetti).
+
+          Sibelius: Im alten Heim (Vanhassa kodissa) (Janne Mertanen, piano).
+
+          Hope: Mexican hat dance (Meksikolainen hattutanssi) (Lontoon kuninkaallinen FO/Barry Wordsworth).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-30T17:00:00+02:00'

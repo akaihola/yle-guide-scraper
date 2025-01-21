@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-20T02:26:05.893246+00:00'
+  generated_at: '2025-01-21T02:24:36.368282+00:00'
   git:
     branch: main
-    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
-  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
+    commit: 022daf334caf0736f0822149f2140ec607826876
+  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
 data:
   Yle Radio 1:
     programmes:
@@ -120,8 +120,8 @@ data:
         end_time: '2025-01-29T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-29T16:10:00+02:00'
-        end_time: '2025-01-29T16:59:20+02:00'
-        description: |-
+        end_time: '2025-01-29T16:59:00+02:00'
+        description: |
           Andrée: Allegro grazioso pastorale teoksesta Sommarminnen (David Bergström ja Mattias Johansson, viulu, Bengt Ersson, alttoviulu, Lars-Erik Persson, sello, sekä Mats Larsson, kontrabasso).
 
           Diepenbrock: Recueillement (Harras tunne) (Robert Holl, bassobaritoni, ja Rudolf Jansen, piano).
@@ -141,6 +141,7 @@ data:
           Ewald: Allegro moderato kvintetosta vaskipuhaltimille n:o 1 b-molli (David Bilger, trumpetti, Jeffrey Curnow, trumpetti, Jennifer Montone, käyrätorvi, Nitzan Haroz, pasuuna, Carol Jantsch, tuuba).
 
           Elgar: Salut d'amour (Lemmentervehdys). (James Ehnes, viulu, ja Eduard Laurel, piano).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-29T17:00:00+02:00'
         end_time: '2025-01-29T17:10:00+02:00'

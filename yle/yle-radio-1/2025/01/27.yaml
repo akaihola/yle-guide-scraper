@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-20T02:26:05.224605+00:00'
+  generated_at: '2025-01-21T02:24:35.389794+00:00'
   git:
     branch: main
-    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
-  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
+    commit: 022daf334caf0736f0822149f2140ec607826876
+  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
 data:
   Yle Radio 1:
     programmes:
@@ -25,6 +25,7 @@ data:
           Simojoki: Minne voin mennä (Sauli Ahvenjärvi, bassobaritoni, Guido Kriik, piano, ja Tauno Saviauk, huilu).
 
           Kekäle: Viimeinen sana (Jari Kekäle).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-27T06:50:00+02:00'
         end_time: '2025-01-27T06:59:59+02:00'
@@ -48,26 +49,27 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-27T09:05:40+02:00'
         end_time: '2025-01-27T09:58:00+02:00'
-        description: |2-
-
+        description: |
           Rainger: Easy living (Billie Holiday).
           Barroso: Para machuchar meu coracao (Joao Gilberto ja Stan Getz).
           Theodorakis: Smärta (Monica Zetterlund).
           Barbara: Nantes (Arja Saijonmaa).
           Bourgeois: La Madrague (Brigitte Bardot).
-          Raleigh: Non piangero (Mina, Claus Ogerman orch.).
+          Raleigh: Non piangero (Mina).
           Ronell: Willow weep for me (Duke Ellington and His Orchestra).
           Niska: Rakkain (Irwin Goodman).
-          Kansanlaulu: Tuoll' on mun kultani (The Delta Rhythm Boys).
+          Kansansäv.: Tuoll' on mun kultani (The Delta Rhythm Boys).
           Webb: MacArthur Park (Glen Campbell).
           Campanino: Un giorno tu mi cercherai (The Renegades)
           Petty: Wheels (Jörgen Ingmann).
-          Kansansävelmä: Ievan polokka (Arttu Suuntala).
-      - title: Virtasen taloushistoria
+          Kansansäv.: Ievan polokka (Arttu Suuntala).
+        series: Muistojen bulevardi
+      - title: 'Virtasen taloushistoria: Entisaikojen kylpyläkulttuuri - vieraana Liisa Suvikumpu '
         start_time: '2025-01-27T10:00:00+02:00'
         end_time: '2025-01-27T10:50:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Millaista oli entisaikojen kylpyläkulttuuri? Vieraana on Euroopan historian dosentti Liisa Suvikumpu
+        series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-01-27T11:00:00+02:00'
         end_time: '2025-01-27T11:57:00+02:00'
@@ -85,12 +87,27 @@ data:
         end_time: '2025-01-27T12:59:30+02:00'
         description: |-
           Kun muualla Euroopassa valtaan nousivat 1930-luvulla diktaattorit, Suomessa säilyi demokratia. Miten se onnistui hauraassa ja nuoressa valtiossa? Presidenttiparin tarina on dokumentti sinnikkäistä oikeusvaltion puolustajista. Haastateltavina Ståhlbergien elämää tutkineet ja heistä kaksi tietokirjaa kirjoittaneet professori Seppo Hentilä ja dosentti Marjaliisa Hentilä. Toimittaja: Anna-Liisa Haavikko. Äänisuunnittelu: Katja Kostiainen.
+        series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-01-27T13:00:00+02:00'
         end_time: '2025-01-27T13:30:00+02:00'
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-27T13:30:00+02:00'
         end_time: '2025-01-27T15:00:00+02:00'
+        description: |-
+          Ohjelmassa soiva musiikki:
+          McHugh: I'm in the mood for love (Jools Holland, Jamiroquai).
+          Lang: It's oh so quiet (Björk).
+          Vanessa Paradis: Ces mots simples. 
+          Van Heusen: But beautiful (Gregory Porter).
+          Kähärä-Ala-Kotila-Härkönen: Avarasylisen naisen laulu (Tallari).
+          J. Karjalainen yhtyeineen: Höyhen ilmassa.
+          Saarenkylä & Piirainen: Polska Northflip! (Northflip).
+          H.Happy: Fulltime running (Heidi Happy).
+          Jobim: Girl from Ipanema (Gunnar Sandevärn).
+          Evans & Hewson: Goldeneye (Tina Turner).
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-27T15:00:00+02:00'
         end_time: '2025-01-27T15:02:00+02:00'
@@ -109,7 +126,7 @@ data:
         end_time: '2025-01-27T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-01-27T16:10:00+02:00'
-        end_time: '2025-01-27T16:59:20+02:00'
+        end_time: '2025-01-27T16:59:00+02:00'
         description: |
           Anderson: Blue tango (Mantovani).
 
@@ -132,6 +149,7 @@ data:
           Schubert: Auf dem Wasser zu singen (Laulu laineilla) (Ian Bostridge, tenori, ja Julius Drake, piano).
 
           Brahms: Unkarilainen tanssi n:o 6 (Leipzigin Gewandhaus-ork./Kurt Masur). 
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-01-27T17:00:00+02:00'
         end_time: '2025-01-27T17:10:00+02:00'
@@ -144,15 +162,20 @@ data:
         start_time: '2025-01-27T17:35:00+02:00'
         end_time: '2025-01-27T18:34:20+02:00'
         description: |
-          Talven keskellä musiikki lämmittää! Matkaamme Välimeren musiikkikulttuurien luo, paikkoihin, joissa syntyi rai, rebetiko ja rumba catalana. 
-
-          Tunnelmalliset kuppilat ottavat meidät vastaan Algeriassa, Espanjassa, Kreikassa, Kyproksella, Turkissa, Syyriassa, Italiassa, Kroatiassa ja Marokossa. Musiikista voi aistia maut, mausteet ja turkoosinsinisen Välimeren.
+          Talven keskellä musiikki lämmittää! Matkaamme Välimeren musiikkikulttuurien luo, paikkoihin, joissa syntyi rai, rebetiko ja rumba catalana. Tunnelmalliset kuppilat ottavat meidät vastaan Algeriassa, Espanjassa, Kreikassa, Kyproksella, Turkissa, Syyriassa, Italiassa, Kroatiassa ja Marokossa. Musiikista voi aistia maut, mausteet ja turkoosinsinisen Välimeren.
         series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-01-27T18:35:00+02:00'
         end_time: '2025-01-27T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          Maasalo (sov. Hyökki): Tule kanssani, Herra Jeesus (Ylioppilaskunnan Laulajat/Matti Hyökki).
+
+          E.G.O.: Vain sinä tunnet minut, Vapahtaja (Psallamus-kuoro/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Pärt: Vater unser (Isä meidän) (Solisti Montserrat'n luostarin poikakuorosta, ja Merce Sanchis, urut).
+
+          Levy: Kristallivirta (Exit).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-27T18:50:00+02:00'
         end_time: '2025-01-27T19:00:00+02:00'

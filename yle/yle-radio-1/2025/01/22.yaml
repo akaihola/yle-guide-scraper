@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-20T02:26:04.002151+00:00'
+  generated_at: '2025-01-21T02:24:25.867531+00:00'
   git:
     branch: main
-    commit: 42298b2193c985a27a7c9490a455a93d26bbf486
-  data_hash: 3ed1b1208299bef94447c42447ea0071f7d050221c16da2702bffd8de6f18c38
+    commit: 022daf334caf0736f0822149f2140ec607826876
+  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
 data:
   Yle Radio 1:
     programmes:
@@ -34,6 +34,7 @@ data:
           05:28 Schumann: Sonaatti viululle ja pianolle n:o 1 a-molli (Ilja Kaler ja Boris Slutski).
 
           05:45 Byrd: The Great Service (Suuri palvelus) (The Tallis Scholars/Peter Phillips).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-22T06:30:50+02:00'
         end_time: '2025-01-22T06:50:00+02:00'
@@ -73,6 +74,7 @@ data:
           Brahms: Allegro appassionato sonaatista Es-duuri (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
 
           Rimski-Korsakov: Ilveilijöiden tanssi oopp. Lumityttö (Minnesotan ork./Eiji Oue).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-22T08:00:00+02:00'
         end_time: '2025-01-22T08:10:00+02:00'
@@ -142,11 +144,9 @@ data:
         start_time: '2025-01-22T13:00:00+02:00'
         end_time: '2025-01-22T13:30:00+02:00'
         description: |
-          Miksi mitään ei saa enää sanoa – vai saako?
-          Vieraina ovat kansanedustajat Saara-Sofia Sirén (kok.), Ville Skinnari (sd.) ja Hilkka Kemppi (kesk.). Toimittajana on  Antti Pilke.
-
-
-          (Äänitetty 28.9.2024)
+          Tarkoittaako parahdus ”Miksi mitään ei saa enää sanoa” nyt eri asiaa kuin viisi vuotta sitten? Miltä lauseen viljely tuntuu nyt, kun some-myllerrys on arkipäivää?
+          Lähetys on äänitetty Hyvin sanottu -festivaaleilla Lahdessa 28.9.2024.
+          Vieraina ovat kansanedustajat Saara-Sofia Sirén (kok.), Ville Skinnari (sd.) ja Hilkka Kemppi (kesk.). Toimittajana on Antti Pilke.
         series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-22T13:30:00+02:00'
@@ -292,16 +292,27 @@ data:
       - title: Politiikkaradio
         start_time: '2025-01-22T21:05:00+02:00'
         end_time: '2025-01-22T21:34:30+02:00'
-      - title: Tuntematon Ukraina
+        series: Politiikkaradio
+      - title: 'Tuntematon Ukraina: Taistelu sieluista Ukrainassa'
         start_time: '2025-01-22T21:35:00+02:00'
-        end_time: '2025-01-22T22:10:00+02:00'
-        description: |2+
+        end_time: '2025-01-22T22:10:05+02:00'
+        description: |
+          Leninin mielestä uskonto oli vain oopiumia kansalle. Neuvostoliiton hajottua uskonnollisuudella on ollut iso merkitys ukrainalaisille. Nykyisin kolme eri kirkkoa kilpailee sieluista maassa. Moskovan patriarkaattia on erityisesti harmittanut Ukrainan uuden kirkon synty vuonna 2018. Millainen rooli kirkoilla on Ukrainassa ja Venäjän hyökkäyssodassa? Miten toisaalta uskonnollisuus näkyy kansalaisten arjessa? Entä, kuinka konservatiivinen maa Ukraina on, miten maassa ajatellaan miehen ja naisen rooleista tai seksuaali- ja sukupuolivähemmistöistä? Asiantuntijana kirkkohistoriaan ja nationalismiin erikoistunut väitöskirjatutkija Miro Leporanta. Toimittajana Jari Aula.
 
-      - title: 'Radioteatteri esittää:'
+          Ohjelma on uusinta toukokuulta 2022.
+        series: Tuntematon Ukraina
+      - title: 'Radioteatteri esittää: Maitotyttö 3/3'
         start_time: '2025-01-22T22:30:00+02:00'
-        end_time: '2025-01-22T23:12:30+02:00'
+        end_time: '2025-01-22T23:13:54+02:00'
+        description: |-
+          Entisen maatalouslomittajan elämäntarinaan perustuva Maitotyttö kertoo eläintuotannosta sen, mistä mainokset vaikenevat.
+
+          Käsikirjoitus: Laura Gustafsson ja Hilja Kerimäki
+          Ohjaus: Laura Gustafsson
+        series: Maitotyttö
       - title: Yöklassinen
         start_time: '2025-01-22T23:40:00+02:00'
         end_time: '2025-01-23T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
