@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-21T02:24:35.389794+00:00'
+  generated_at: '2025-01-22T02:26:13.202757+00:00'
   git:
     branch: main
-    commit: 022daf334caf0736f0822149f2140ec607826876
-  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
+    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,32 @@ data:
         start_time: '2025-01-26T23:40:00+02:00'
         end_time: '2025-01-27T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Mendelssohn: Pianotrio n:o 1 d-molli (Enrico Pace, piano, Leonidas Kavakos, viulu, ja Patrick Demenga, sello).
+
+          00:09 Kokkonen: ...Durch einen Spiegel... (RSO/Paavo Berglund).
+
+          00:28 Brumel: Missa Et ecce terrae motus (The Tallis Scholars/Peter Phillips).
+
+          01:15 Krommer: Kvartetto klarinetille ja jousille Es-duuri ( Eduard Brunner, klarinetti, Willi Zimmermann, viulu, Nicolas Corti, alttoviulu, ja Claudius Herrmann, sello).
+
+          01:34 J.S. Bach: Das Wohltemperierte klavier I, preludit ja fuugat n:o 1-24 (Mieczyslaw Horszowski, piano). 
+
+          03:30 Stanford: Sinfonia n:o 5 D-duuri (L'Allegro ed il penseroso) (Ulsterin ork./Vernon Handley).
+
+          04:14 Madetoja: Rukous, yksinlaulu (Sauli Tiilikainen, baritoni, ja Ilmo Ranta, piano). 
+
+          04:17 Glinka: Sekstetto Es-duuri pianolle ja jousikvintetille (Mihail Pletnjov ja Venäjän kansall. ork. jäseniä).
+
+          04:43 Elgar: Te Deum ja Benedictus (Lontoon sinfoniakuoro ja Northern Sinfonia/Richard Hickox).
+
+          05:03 Beethoven: Sonaatti sellolle ja pianolle n:o 5 D-duuri (Mstislav Rostropovitsh ja Svjatoslav Richter).
+
+          05:24 R. Strauss: Panathenäenzug (Panathenaiakulkue) (Peter Rösel, piano, ja Dresdenin valtionork./Rudolf Kempe).
+
+          05:53 Wilms: Concertino huilulle ja orkesterille g-molli (Jacques Zoon ja Alankomaiden radion kamariork./Thierry Fischer).
+
+          06:11 Tuma: Partita c-molli (Prahan madrigalistit/Pavel Baxa).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-27T06:30:50+02:00'
         end_time: '2025-01-27T06:50:00+02:00'
@@ -199,11 +224,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-27T19:57:00+02:00'
         end_time: '2025-01-27T20:00:00+02:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Lännen oligarkit'
         start_time: '2025-01-27T20:00:00+02:00'
         end_time: '2025-01-27T20:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Lännen oligarkit Elon Musk, Mark Zuckerberg ja kumppanit ovat liittoutuneet Trumpin hallinnon kanssa. Piilaakson valtiaat rakentavat maailmaa, jossa viha voi kulkea vapaasti. Miten Muskin ja Zuckerbergin valtaa pitäisi rajoittaa? Ja mitä somessa peukutteleva kansalainen voi tehdä?
+          Millaiseen maailmaan rajaton sananvapaus johtaa? Millaiseen maailmaan rajaton sananvapaus johtaa? Kansanedustaja Timo Harakka ja akatemiatutkija Matti Ylönen kertovat oman näkemyksensä.
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-27T20:55:00+02:00'
         end_time: '2025-01-27T21:00:00+02:00'

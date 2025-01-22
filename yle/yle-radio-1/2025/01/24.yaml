@@ -1,17 +1,46 @@
 metadata:
-  generated_at: '2025-01-21T02:24:29.552929+00:00'
+  generated_at: '2025-01-22T02:26:11.542607+00:00'
   git:
     branch: main
-    commit: 022daf334caf0736f0822149f2140ec607826876
-  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
+    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-01-24T00:00:00+02:00'
         end_time: '2025-01-24T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Weber: Trio huilulle, sellolle ja pianolle g-molli (Toke Lund Christiansen, Asger Lund Christiansen, ja Elisabeth Westenholz).
+
+          00:25 Holst: The Mystic trumpeter (Salaperäinen trumpetisti) (Susan Gritton, sopraano, ja BBC:n SO/Andrew Davis).
+
+          00:44 Beethoven: Pianosonaatti n:o 30 E-duuri (Alfred Brendel).
+
+          01:02 Järnefelt: Solsken (Peter Lindroos, tenori, ja Gustav Djupsjöbacka, piano).
+
+          01:05 Rabaud: Tansseja orkesterille oopp. Mârouf, savetier du Caire (Mârouf, Kairon suutari) (Reininmaan ja Pfalzin valtiollinen FO/Leif Segerstam).
+
+          01:21 d'Indy: Sinfonia n:o 2 B-duuri (Islannin SO/Rumon Gamba).
+
+          02:06 Pugnani: Alkusoitto n:o 6 F-duuri (Academia Montis Regalis/Luigi Mangiocavallo).
+
+          02:23 Linko: Pianokonsertto n:o 4 D-duuri (Cyril Szalkiewicz, ja Helsingin kaupunginorkesteri/Leo Funtek).
+
+          02:52 Berlioz: Te Deum (Roberto Alagna, tenori, Pariisin orkesterin kuoro, Euroopan unionin lapsikuoro, Maitrise d'Anthony -lapsikuoro ja Pariisin orkesteri/John Nelson sekä Marie-Claire Alain, urut).
+
+          03:51 Wessman: Kvartetto pianolle, viululle, alttoviululle ja sellolle (Risto Lauriala, Nachum Erlich, Matti Hirvikangas ja Hannu Kiiski).
+
+          04:11 Williams: Trumpettikonsertto (Jouko Harjanne ja RSO/Dima Slobodeniouk).
+
+          04:32 Smetana: Tshekkiläisiä tansseja ja polkkia pianolle (Rudolf Firkusný).
+
+          05:25 Chopin: Sonaatti sellolle ja pianolle g-molli (Gregor Piatigorsky, sello, ja Rudolf Firkusny, piano).
+
+          05:49 R. Schumann: Dichterliebe (Runoilijan rakkaus) (Peter Schreier, tenori, ja Norman Shetler, piano).
+
+          06:21 Sacco: Litaneae Lauretanae (Templum Musicae/Vincenzo Di Donato, sekä Francesco Di Lernia, urut).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-24T06:30:50+02:00'
         end_time: '2025-01-24T06:50:00+02:00'
@@ -31,7 +60,6 @@ data:
         description: |
           "Kodissa opitaan elämän tärkeimpiä asioita"
           Seurakuntapastori Marika Villikka Pirkkalasta lukee Matteuksen evankeliumin 8. luvusta ja pohtii kodin merkitystä elämän pohjan rakentumisen paikkana.
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-24T07:00:00+02:00'
         end_time: '2025-01-24T07:10:00+02:00'
@@ -67,14 +95,17 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-01-24T09:05:40+02:00'
         end_time: '2025-01-24T09:58:00+02:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Lännen oligarkit'
         start_time: '2025-01-24T10:00:00+02:00'
         end_time: '2025-01-24T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Lännen oligarkit Elon Musk, Mark Zuckerberg ja kumppanit ovat liittoutuneet Trumpin hallinnon kanssa. Piilaakson valtiaat rakentavat maailmaa, jossa viha voi kulkea vapaasti. Miten Muskin ja Zuckerbergin valtaa pitäisi rajoittaa? Ja mitä somessa peukutteleva kansalainen voi tehdä?
+          Millaiseen maailmaan rajaton sananvapaus johtaa? Millaiseen maailmaan rajaton sananvapaus johtaa? Kansanedustaja Timo Harakka ja akatemiatutkija Matti Ylönen kertovat oman näkemyksensä.
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-01-24T10:55:00+02:00'
         end_time: '2025-01-24T11:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Narrin aamulaulu - Pianisti Paul Wittgenstein, historiaa vasemmalla kädellä
         start_time: '2025-01-24T11:00:00+02:00'
         end_time: '2025-01-24T11:55:00+02:00'
@@ -130,6 +161,7 @@ data:
           Gardot: If the stars were mine (Melody Gardot).
 
           Jose Mäenpää: Tiskata saa.
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-24T15:00:00+02:00'
         end_time: '2025-01-24T15:02:00+02:00'
@@ -218,7 +250,7 @@ data:
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Radio 1 soi
-        start_time: '2025-01-24T23:27:00+02:00'
+        start_time: '2025-01-24T23:26:00+02:00'
         end_time: '2025-01-24T23:30:00+02:00'
         series: Yksi on hyvää seuraa
       - title: 'Kulttuurin kulmilla: Bravoo!'
@@ -231,4 +263,21 @@ data:
         start_time: '2025-01-24T23:40:00+02:00'
         end_time: '2025-01-25T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Heise: Drot og Marsk (Kuningas ja Marski), ooppera (Poul Elming, tenori, Bent Norup, basso, Eva Johansson, sopraano, Kurt Westi, tenori, Christian Christiansson, basso, Aage Haugland, basso, Ole Hedegaar, tenori, ja Inga Nielsen, sopraano, sekä Tanskan Radion kuoro ja Tanskan radion SO/Michael Schönwandt).
+
+          02:21 W.A. Mozart: Pianokonsertto n:o 25 C-duuri (Mitsuko Uchida ja Clevelandin ork.).
+
+          02:57 Klami: Pyörteitä, balettisarja n:o 2 (Radio-ork./Paavo Berglund).
+
+          03:16 Rangström: Sinfonia n:o 4 d-molli (Invocatio) (Tukholman FO/Juri Aronovitsh, ja Erik Lundkvist, urut).
+
+          03:46 Ernst: Pensées fugitives (Thomas Christian, viulu, ja Jevgeni Sinaiski, piano).
+
+          04:25 Rheinberger: Sechs Stücke (Kuusi kappaletta) (Konstantin Weitz, viulu, ja Sixten Enlund, urut).
+
+          05:00 Barrios: Menuetti A-duuri (Enno Voorhorst, kitara).
+
+          05:05 Musiikkia keskiaikaisiin pitoihin, säv. Jacopo da Bologna, Landini, Ciconia ym. (The Newberry Consort/Mary Springfels).
+
+          06:07 Purcell: Soitinmusiikkia puolioopp. King Arthur (Freiburgin barokkiork./Thomas Hengelbrock).
+        series: Syventävää klassista

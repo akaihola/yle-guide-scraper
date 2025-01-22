@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-21T02:24:37.078704+00:00'
+  generated_at: '2025-01-22T02:26:14.200078+00:00'
   git:
     branch: main
-    commit: 022daf334caf0736f0822149f2140ec607826876
-  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
+    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,18 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-01-30T06:30:50+02:00'
         end_time: '2025-01-30T06:50:00+02:00'
+        description: |
+          M. Ranta: Hyvää huomenta, armo (Lapuan nuorisokuoro/Paula Pääkkönen).
+
+          Ahnfelt: Joka aamu on armo uus (Erkki Rajamäki, bassobaritoni, ja Eero Annala, urut).
+
+          Faltin: Mä elän laupeudesta (Kampin Laulu/Markku Pihlaja).
+
+          Düben: Voittaja, suo voitto meille (Cetus Noster, ja Jarmo Julkunen, teorbi).
+
+          Hela (sov. Jaakkola): Jeesuksesta laulan (Tulus-kuoro/Anu Mäki-Latvala ja Esa Jaakkola).
+
+          Salminen: Ristin luona (Jippu).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-30T06:50:00+02:00'

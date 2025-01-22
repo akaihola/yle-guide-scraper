@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-21T02:24:31.615467+00:00'
+  generated_at: '2025-01-22T02:26:11.895429+00:00'
   git:
     branch: main
-    commit: 022daf334caf0736f0822149f2140ec607826876
-  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
+    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,24 @@ data:
         start_time: '2025-01-24T23:40:00+02:00'
         end_time: '2025-01-25T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Heise: Drot og Marsk (Kuningas ja Marski), ooppera (Poul Elming, tenori, Bent Norup, basso, Eva Johansson, sopraano, Kurt Westi, tenori, Christian Christiansson, basso, Aage Haugland, basso, Ole Hedegaar, tenori, ja Inga Nielsen, sopraano, sekä Tanskan Radion kuoro ja Tanskan radion SO/Michael Schönwandt).
+
+          02:21 W.A. Mozart: Pianokonsertto n:o 25 C-duuri (Mitsuko Uchida ja Clevelandin ork.).
+
+          02:57 Klami: Pyörteitä, balettisarja n:o 2 (Radio-ork./Paavo Berglund).
+
+          03:16 Rangström: Sinfonia n:o 4 d-molli (Invocatio) (Tukholman FO/Juri Aronovitsh, ja Erik Lundkvist, urut).
+
+          03:46 Ernst: Pensées fugitives (Thomas Christian, viulu, ja Jevgeni Sinaiski, piano).
+
+          04:25 Rheinberger: Sechs Stücke (Kuusi kappaletta) (Konstantin Weitz, viulu, ja Sixten Enlund, urut).
+
+          05:00 Barrios: Menuetti A-duuri (Enno Voorhorst, kitara).
+
+          05:05 Musiikkia keskiaikaisiin pitoihin, säv. Jacopo da Bologna, Landini, Ciconia ym. (The Newberry Consort/Mary Springfels).
+
+          06:07 Purcell: Soitinmusiikkia puolioopp. King Arthur (Freiburgin barokkiork./Thomas Hengelbrock).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-01-25T06:30:00+02:00'
         end_time: '2025-01-25T07:00:00+02:00'
@@ -21,9 +38,10 @@ data:
       - title: Radio 1 soi
         start_time: '2025-01-25T07:02:05+02:00'
         end_time: '2025-01-25T07:20:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Kulttuurin kulmilla
         start_time: '2025-01-25T07:20:00+02:00'
-        end_time: '2025-01-25T07:30:00+02:00'
+        end_time: '2025-01-25T07:30:18+02:00'
       - title: 'Luomiskertomus: Arto Kivimäen suomentama Plautus pilkkaa tärkeileviä miehiä'
         start_time: '2025-01-25T07:30:43+02:00'
         end_time: '2025-01-25T07:55:00+02:00'
@@ -131,11 +149,13 @@ data:
       - title: Uudet levyt
         start_time: '2025-01-25T13:00:00+02:00'
         end_time: '2025-01-25T14:00:00+02:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Lännen oligarkit'
         start_time: '2025-01-25T14:00:00+02:00'
         end_time: '2025-01-25T14:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Lännen oligarkit Elon Musk, Mark Zuckerberg ja kumppanit ovat liittoutuneet Trumpin hallinnon kanssa. Piilaakson valtiaat rakentavat maailmaa, jossa viha voi kulkea vapaasti. Miten Muskin ja Zuckerbergin valtaa pitäisi rajoittaa? Ja mitä somessa peukutteleva kansalainen voi tehdä?
+          Millaiseen maailmaan rajaton sananvapaus johtaa? Millaiseen maailmaan rajaton sananvapaus johtaa? Kansanedustaja Timo Harakka ja akatemiatutkija Matti Ylönen kertovat oman näkemyksensä.
+        series: Ruben Stiller
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 4/12.'
         start_time: '2025-01-25T15:00:00+02:00'
         end_time: '2025-01-25T15:20:00+02:00'
@@ -156,6 +176,7 @@ data:
         end_time: '2025-01-25T15:55:00+02:00'
         description: |
           Pasi Heikura pöyhii kielentutkija Laura Savolaisen kanssa kampausten nimiä tiheällä kammalla. Ohjelmassa opetellaan myös hitsaamaan hiileen ja pidetään säästöjä maton alla. Ohjelman ovat toimittaneet Pasi Heikura, Lasse Nousiainen ja Tina Cavén.
+        series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2025-01-25T15:55:00+02:00'
         end_time: '2025-01-25T15:58:00+02:00'
@@ -205,8 +226,9 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2025-01-25T18:10:00+02:00'
         end_time: '2025-01-25T19:00:00+02:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+        series: Lauantain toivotut levyt
       - title: Yle Uutiset ja sää
         start_time: '2025-01-25T19:00:00+02:00'
         end_time: '2025-01-25T19:02:00+02:00'
@@ -230,8 +252,8 @@ data:
         end_time: '2025-01-25T22:36:00+02:00'
         series: Maailmanpolitiikan arkipäivää
       - title: 'Keinuva talo - Mika Kauhanen: Onko kukaan kuullut puhuttavan etno-soulista?'
-        start_time: '2025-01-25T22:40:00+02:00'
-        end_time: '2025-01-25T23:39:09+02:00'
+        start_time: '2025-01-25T22:40:26+02:00'
+        end_time: '2025-01-25T23:39:35+02:00'
         description: |
           Tiedämme vanhastaan, että sielukasta etnoa on paljonkin. Mutta että etno-soulia, voiko sellaista olla olemassa? Fakta joka tapauksessa on, että yhä useammin uusien etnolevyjen saateteksteissä mainitaan soul-musiikki yhtenä keskeisenä vaikuttajana. Lähtekäämme rohkeasti makustelemaan ja testailemaan sitä, millaista etno-soul voisi olla, ja mitä kaikkea siihen voisi kuulua. Toimittajana Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
@@ -239,4 +261,31 @@ data:
         start_time: '2025-01-25T23:40:00+02:00'
         end_time: '2025-01-26T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          W.A. Mozart: La Betulia liberata (Beetulyan vapautus), oratorio (Ernesto Palacio, tenori, Gloria Banditelli, altto, Lynda Russell, sopraano, Petteri Salomaa, baritoni, Röhrich Trogu, sopraano, ja Sabina Macculi, sopraano, sekä Padovan vanhan musiikin keskuksen kuoro ja Padovan ja Veneton kamariork./Peter Maag).
+
+          02:09 Dietrich - Schumann - Brahms: Sonaatti viululle ja pianolle (Frei aber einsam) a-molli (Erkki Palola ja Teppo Koivisto).
+
+          02:33 Platti: Sonaatti huilulle ja continuolle G-duuri op.3/6 (Barthold Kuijken, traverso, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+
+          02:48 Klami: Revontulet (RSO/Sakari Oramo). 
+
+          03:09 Busoni: Indianische Fantasie (Intiaanifantasia) (Nelson Goerner, piano, ja BBC:n FO/Neeme Järvi).
+
+          03:34 Beethoven: Yksinlauluja (Peter Schreier, tenori, ja Walter Olbertz, piano).
+
+          04:25 Turina: Sonata española (Espanjalainen sonaatti) ( David Peralta Alegre, viulu, ja Ana Sánchez Donate, piano).
+
+          04:47 Saint-Saëns: Spartacus, alkusoitto (Skotlannin kansallisork./Neeme Järvi).
+
+          05:01 Bloch: Suite modal (Modaalinen sarja) (Alexa Still, huilu, ja Uuden-Seelannin kamariork./Nicholas Braithwaite).
+
+          05:14 Halvorsen: Sinfonia n:o 2 d-molli (Kohtalo) (Trondheimin SO/Ole Kristian Ruud).
+
+          05:50 Brixi: Konsertto uruille, kahdelle trumpetille ja jousille n:o 1 D-duuri (Christoph Hammer, urut, ja Monteverdi-ork./Wolgang Kelber).
+
+          06:06 Gluck: Semiramis, balettipantomiimi (Tafelmusik/Bruno Weil).
+
+          06:28 Pugnani: Alkusoitto n:o 2 F-duuri (Academia Montis Regalis/Luigi Mangiocavallo).
+
+          06:45 Molter: Sonata grossa g-molli (Main-Barockorchester Frankfurt/Martin Jopp, viulu).
+        series: Syventävää klassista

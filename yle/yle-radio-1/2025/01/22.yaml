@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-21T02:24:25.867531+00:00'
+  generated_at: '2025-01-22T02:26:10.427606+00:00'
   git:
     branch: main
-    commit: 022daf334caf0736f0822149f2140ec607826876
-  data_hash: be4885677a349bc1621849cc18d9706fdcd3a918e89f03e1fc476cabffa19d5a
+    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -46,6 +46,7 @@ data:
           Salminen: Joskus sisimpäämme kasvaa ilon kukkamaa (Rukous on silta) (Lapsi- ja nuorisokuoro Kannelkellot/Sirkku Rintamäki, sekä Laura Airola, viulu, Mikko Iivanainen, kitara, Hannu Rantanen, basso, Pekka Nyman, vibrafoni, ja Sami Koskela, rummut).
 
           Anonyymi: Yö on poissa (Musti ja Hyvä Vainu).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-01-22T06:50:00+02:00'
         end_time: '2025-01-22T06:59:59+02:00'
@@ -81,6 +82,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-22T08:10:00+02:00'
         end_time: '2025-01-22T09:00:00+02:00'
+        description: |-
+          Miten Yhdysvaltain presidenttinä aloittanut Donald Trump muuttaa maailman suurvaltasuhteita? Keskustelemassa Helsingin yliopiston maailmanpolitiikan professori Teivo Teivainen ja johtava tutkija Charly Salonius-Pasternak Ulkopoliittisesta instituutista. Lähetyksessä kuullaan myös, miten Trumpin valtaannousu on otettu vastaan Venäjällä ja Kiinassa. Venäjän-kirjeenvaihtaja Heikki Heiskanen ja Aasian-kirjeenvaihtaja Mika Hentunen raportoivat.
+
+          Donald Trump ilmoitti virkaanastujaispuheessaan Yhdysvaltojen lähtevän maailman terveysjärjestö WHO:sta. Mitä Trumpin päätös merkitsee WHO:lle? Puhelimessa Terveyden ja hyvinvoinnin laitoksen pääjohtaja Mika Salminen.
+
+          Donald Trump haluaa lähettää ihmisen Marsiin presidenttikautensa aikana. Kuinka realistinen Trumpin tavoite on? Keskustelemassa Aalto-yliopiston apulaisprofessori Jaan Praks ja Helsingin yliopiston laskennallisen avaruusfysiikan professori Minna Palmroth.
+
+          Juontajana Atte Uusinoka, toimittajat Mikko Haapanen ja Anna Lehmusvesi, tuottaja Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-22T09:00:00+02:00'
         end_time: '2025-01-22T09:05:00+02:00'
@@ -102,6 +112,7 @@ data:
           Borgmann: Tango nocturno (Seija Karpiomaa).
           Ferrari: Domino (Maire Ojonen).
           Waldteufel: Estudiantina (RVO/George de Godzinsky). 
+        series: Muistojen bulevardi
       - title: 'Tuntematon Ukraina: Taistelu sieluista Ukrainassa'
         start_time: '2025-01-22T10:00:00+02:00'
         end_time: '2025-01-22T10:35:00+02:00'
@@ -114,9 +125,10 @@ data:
         start_time: '2025-01-22T10:35:00+02:00'
         end_time: '2025-01-22T10:55:00+02:00'
         description: |
-          Vedel: Konsertto kuorolle a cappella n:o 1 (Kiovan Ljatoshinski-kamarikuoro/Viktor Ikonnik).
+          Vedel: Konsertto kuorolle a cappella n:o 1 (Kiovan Ljatoshinski-kamarikuoro/Viktor Ikonnyk).
 
-          Lysenko: Suru (Jakob Koranyi, sello, ja Natalija Pasitshnyk, piano).
+          Lysenko: Suru (Jakob Koranyi, sello, ja Natalya Pasichnyk, piano).
+        series: Musiikkikamari
       - title: Riston Valinta
         start_time: '2025-01-22T11:00:00+02:00'
         end_time: '2025-01-22T11:50:00+02:00'
@@ -135,11 +147,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-01-22T12:00:00+02:00'
         end_time: '2025-01-22T12:10:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Ester ja Kaarlo Juho Ståhlberg 1925-1952'
         start_time: '2025-01-22T12:10:00+02:00'
         end_time: '2025-01-22T12:59:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: 'Politiikkaradio: Hyvin sanottu'
         start_time: '2025-01-22T13:00:00+02:00'
         end_time: '2025-01-22T13:30:00+02:00'
@@ -151,36 +164,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-22T13:30:00+02:00'
         end_time: '2025-01-22T15:00:00+02:00'
-        description: |-
-          Timo Lassy: Early move.
-
-          Farres: Quizas, quizas, quizas (Buena Vista Social Club).
-
-          Leinonen: I've met my lady (Tjango!).
-
-          Alessi Brothers: Seabird.
-
-          Sting: Seven days.
-
-          Pausini - Cheope: Resta in ascolto (Laura Pausini, laulu, ja yhtye/Geoff Westley).
-
-          Otis: Strawberry letter 23 (The Brothers Johnson).
-
-          La La Lars: Pour qui pourquoi. 
-
-          Withers: Ain't no sunshine (Eva Cassidy).
-
-          Aki Sirkesalo: Minerva.
-
-          Angélique Kidjo: Once in a lifetime.
-
-          Kämpfert & Gabler: Love (Gregory Porter).
-
-          Troup: Route 66 (The Manhattan Transfer).
-
-          Pink Floyd: Learning to fly.
-
-          Prince: Purple rain (Holly Cole).
+        description: |
+          Radio 1:n Iltapäivän musiikkikattaus. Uuden musiikin kilpailun kaikki tämänvuotiset musiikkikappaleet julkaistiin viime viikolla. Studiovieraana hurjaan suosioon nousseen UMK:n tuottaja Anssi Autio. Juontajana Heikki Puskala.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-22T15:00:00+02:00'
@@ -246,12 +231,14 @@ data:
         start_time: '2025-01-22T17:10:00+02:00'
         end_time: '2025-01-22T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Donald Trumpin mukaan tariffi eli tullimaksu on yksi hänen lempisanoistaan. Tullimaksut ovat myös keskeisiä kiistakapuloja maailmalla tällä hetkellä ja muun muassa tähän ongelmaan haetaan ratkaisuja Maailman talousfoorumin kokouksessa Davosissa. Reetta Röngän haastateltavana on Davosissa oleva Ylen Eurooppa-kirjeenvaihtaja Anna Karismo.
+        series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Vuodenaikojen juoksua'
         start_time: '2025-01-22T17:35:00+02:00'
         end_time: '2025-01-22T18:35:00+02:00'
         description: |
           Laura Korhosen Jazzklubin tämänkertaisen tunnin aikana ehdimme kokemaan kaikki neljä vuodenaikaa. Siirrymme käsilläolevasta vuodenajasta aina syksyyn hyvän musiikin seurassa, muistellen jo oppimaamme tai pureskellen uutta tietoa liittyen vuodenaikoihin.
+        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-01-22T18:35:00+02:00'
         end_time: '2025-01-22T18:50:00+02:00'
@@ -263,6 +250,7 @@ data:
           Heikkilä: Eri tuuli (Saila Seurujärvi ja Valkia).
 
           Ida Elina: Saman taivaan alla (Ida Elina).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-01-22T18:50:00+02:00'
         end_time: '2025-01-22T19:00:00+02:00'
@@ -314,5 +302,33 @@ data:
         start_time: '2025-01-22T23:40:00+02:00'
         end_time: '2025-01-23T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Nordgren: Pelimannimuotokuvia (RSO:n jouset/Ulf Söderblom).
+
+          00:05 von Hausegger: Aufklänge, sinfonisia muunnelmia (Bambergin sinfonikot/Antony Hermus).
+
+          00:37 Brahms: Sinfonia n:o 3 F-duuri (Bostonin SO/Andris Nelsons).
+
+          01:17 W.A. Mozart: Serenadi D-duuri (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          01:55 Stravinsky: Sotilaan tarina, sarja (Clevelandin ork./Pierre Boulez).
+
+          02:23 Granados: Haltijatar ja lapsi (Alicia de Larrocha, piano).
+
+          02:26 J. Haydn: Jousikvartetto n:o 74 g-molli (Ratsastaja) (Emerson-kvartetti).
+
+          02:49 Lalo: Pianotrio n:o 2 h-molli (Trio Salomon).
+
+          03:16 Rangström: Häxorna (Karin Ingebäck, sopraano, ja Ruotsin radion SO/Hannu Koivula).
+
+          03:37 Vaughan Williams: Sinfonia n:o 4 f-molli (Bostonin SO/Colin Davis).
+
+          04:08 von Bülow: Il Carnevale di Milano (Ballabili e Intermezzi) (Mark Anderson, piano).
+
+          04:53 R. Strauss: Metamorfooseja (Baden-Badenin ja Freiburgin radion SO:n jouset/Francois-Xavier Roth).
+
+          05:22 Meyerbeer: Sieben geistliche Gesänge (Seitsemän hengellistä laulua) (Rheinische Kantorei/Hermann Max).
+
+          05:47 Pugnani: Alkusoitto n:o 4 B-duuri (Academia Montis Regalis/Luigi Mangiocavallo).
+
+          06:05 Gaultier: Sarja luutulle fis-molli (Hopkinson Smith, barokkiluuttu).
         series: Syventävää klassista
