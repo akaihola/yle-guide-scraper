@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:52.994757+00:00'
+  generated_at: '2025-01-23T02:24:21.567020+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: ec3e484b27eaac92e17f148e279c64a010d25c4c
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -20,14 +20,12 @@ data:
         end_time: '2025-02-10T06:59:59+02:00'
         description: |-
           Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T07:00:00+02:00'
         end_time: '2025-02-10T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-02-10T07:10:00+02:00'
         end_time: '2025-02-10T07:59:59+02:00'
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T08:00:00+02:00'
         end_time: '2025-02-10T08:10:00+02:00'
@@ -40,18 +38,32 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-10T09:05:40+02:00'
         end_time: '2025-02-10T09:58:00+02:00'
+        description: |
+          Barry: You only live twice (Nancy Sinatra).
+          Jäger: Ich kauf mir ein ganz kleines Auto (Rudi Schuricke).
+          Anka: Kotikaupunkini (Pirkko Mannola).
+          Carmichael: When love goes wrong (nothing goes right) (Marilyn Monroe ja Jane Russell).
+          Andrews: Leve kärleken (Lill-Babs).
+          Moesser: Vain hän (Kristina Hautala).
+          Loewe: Get me to the church on time (Stanley Holloway).
+          D'Anzi: Silenzioso slow (Norma Bruni).
+          Alihanka: Uuden aamun toivossa (Anneli Saaristo).
+          Bock: Sunrise, sunset (Perry Como).
+          Caymmi: Marina (Nelson Goncalves).
+          Nilsson: Kun (Laila Kinnunen).
+          Legrand: Les parapluies de Cherbourg (Nana Mouskouri).
+          Brooker: A rum tale (Procol Harum).
+        series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-02-10T10:00:00+02:00'
         end_time: '2025-02-10T10:50:00+02:00'
         description: |
           Tarinoita talouden myllerryksistä.
-        series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-02-10T11:00:00+02:00'
         end_time: '2025-02-10T11:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
-        series: Välilevyjä - Kare Eskola
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-10T11:57:00+02:00'
         end_time: '2025-02-10T12:00:00+02:00'
@@ -70,6 +82,7 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-10T13:30:00+02:00'
         end_time: '2025-02-10T15:00:00+02:00'
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-10T15:00:00+02:00'
         end_time: '2025-02-10T15:02:00+02:00'
@@ -78,7 +91,6 @@ data:
         end_time: '2025-02-10T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-10T15:55:00+02:00'
         end_time: '2025-02-10T15:58:00+02:00'
@@ -89,7 +101,8 @@ data:
         end_time: '2025-02-10T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-02-10T16:10:00+02:00'
-        end_time: '2025-02-10T16:59:20+02:00'
+        end_time: '2025-02-10T16:59:00+02:00'
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T17:00:00+02:00'
         end_time: '2025-02-10T17:10:00+02:00'
@@ -111,22 +124,26 @@ data:
       - title: Iltahartaus
         start_time: '2025-02-10T18:50:00+02:00'
         end_time: '2025-02-10T19:00:00+02:00'
-        description: |-
-          Näyttelijä Krista Kosonen lukee Psalmeja (VT2024)
+        description: |
+          "Jumala ei väsy suojelemaan"
+          Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (120-128). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa talven aikana
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T19:00:00+02:00'
         end_time: '2025-02-10T19:02:00+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J4: Tiedätkö tuttujen suklaapatukoiden taustat ja raaka-aineet?'
         start_time: '2025-02-10T19:02:40+02:00'
         end_time: '2025-02-10T19:35:00+02:00'
-        description: |2+
-
+        description: |
+          Jatkamme suklaan parissa Fazerin viestintäjohtaja Liisa Eerolan kanssa, ja hänet laitetaankin heti aluksi sokkotestiin. Myöhemmin kuulemme muun muassa, mitkä patukat on tehty muiden suklaiden jämäpaloista ja mikä suomalaisten suosima herkku on hankittu alkujaan ulkomailta. 
+          Entä mikä selittää sen, että uusia karkkimerkkejä syntyy kovin harvoin, vaikka hyllystä löytyy kyllä uusia versioita vanhoista karkeista joka kuukausi? Ohjelman toimittaa Jani Halme ja sen on Ylelle tuottanut Jaksomedia.
+        series: Suuri karkkipodi
       - title: Musiikkikamari
         start_time: '2025-02-10T19:35:00+02:00'
         end_time: '2025-02-10T19:57:00+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-10T19:57:00+02:00'
         end_time: '2025-02-10T20:00:00+02:00'
@@ -136,7 +153,6 @@ data:
         end_time: '2025-02-10T20:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-10T20:55:00+02:00'
         end_time: '2025-02-10T21:00:00+02:00'
@@ -160,7 +176,6 @@ data:
         end_time: '2025-02-10T23:39:00+02:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-02-10T23:40:00+02:00'
         end_time: '2025-02-11T06:30:00+02:00'

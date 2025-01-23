@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-16T02:23:53.186138+00:00'
+  generated_at: '2025-01-23T02:24:21.766708+00:00'
   git:
     branch: main
-    commit: 5d3246985e1c95b49b0ec6592dd640d1d287c8b7
-  data_hash: fc561941c17ec7d0dd5e432f3414967fd7709316a019109ccd4e604f6c5c5174
+    commit: ec3e484b27eaac92e17f148e279c64a010d25c4c
+  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
 data:
   Yle Radio 1:
     programmes:
@@ -27,7 +27,6 @@ data:
       - title: Aamusoitto
         start_time: '2025-02-11T07:10:00+02:00'
         end_time: '2025-02-11T07:59:59+02:00'
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-11T08:00:00+02:00'
         end_time: '2025-02-11T08:10:00+02:00'
@@ -40,6 +39,26 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-11T09:05:40+02:00'
         end_time: '2025-02-11T09:58:00+02:00'
+        description: |
+          Programme name: Muistojen bulevardi
+          Subtitle: 
+
+          Chaplin: This Is My Song (Petula Clark).
+          Jarre: Somewhere My Love (Maurice Jarre).
+          Paoli: Il cielo in una stanza (Gino Paoli).
+          Mande: Mä muistan hymyn vain (Danny).
+          Sanson: Une odeur de neige (Isabelle).
+          Detto: L'immensita (Milva).
+          Bacharach: Warten und hoffen (Dusty Springfield).
+          Gibb: Heartbreaker (Dionne Warwick).
+          Marvin: Rakastuin sinuun liian helposti (Johnny & The Sounds).
+          Nadas: Kicsit szomorkás a hangulatom (József Németh).
+          Ostrovski:  Gabrielle: Hootenanny Singers
+          Salo: Politiikkalaulu (Simo Salminen).
+          Wright: Footprints in the snow (The Osborne Brothers).
+          Rod McKuen: Love's been good to me (Frank Sinatra, Don Costa orch.).
+          Lennon & McCartney: The Long and winding road (The Beatles).
+        series: Muistojen bulevardi
       - title: Sari Valto
         start_time: '2025-02-11T10:00:00+02:00'
         end_time: '2025-02-11T10:55:00+02:00'
@@ -56,14 +75,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-11T12:00:00+02:00'
         end_time: '2025-02-11T12:10:00+02:00'
-      - title: Tiistain kulttuurisarja
+      - title: Kaisa Pulakan aikamatkat. Moninainen sukupuoli 2/5
         start_time: '2025-02-11T12:10:40+02:00'
         end_time: '2025-02-11T12:30:00+02:00'
-        series: Kulttuurin pisteohjelmia
+        description: |-
+          Aikamatkat lentää ympäri maailmaa ja pitkin poikin historiaa tutkimassa, miten sukupuolen moninaisuus on näkynyt ja näkyy eri kulttuureissa. 
+        series: Kaisa Pulakan aikamatkat
       - title: Aristoteleen kantapää
         start_time: '2025-02-11T12:30:00+02:00'
         end_time: '2025-02-11T12:55:00+02:00'
-        series: Aristoteleen kantapää
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-11T12:55:00+02:00'
         end_time: '2025-02-11T13:00:00+02:00'
@@ -82,7 +102,6 @@ data:
         end_time: '2025-02-11T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-11T15:55:00+02:00'
         end_time: '2025-02-11T15:58:00+02:00'
@@ -93,7 +112,8 @@ data:
         end_time: '2025-02-11T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-02-11T16:10:00+02:00'
-        end_time: '2025-02-11T16:59:20+02:00'
+        end_time: '2025-02-11T16:59:00+02:00'
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-11T17:00:00+02:00'
         end_time: '2025-02-11T17:10:00+02:00'
@@ -116,22 +136,25 @@ data:
         end_time: '2025-02-11T19:00:00+02:00'
         description: |
           Everstiluutnantti Saga Lippo, Pelastusarmeija, Helsinki
-        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-11T19:00:00+02:00'
         end_time: '2025-02-11T19:02:00+02:00'
       - title: 'Radioteatteri esittää:'
         start_time: '2025-02-11T19:02:40+02:00'
         end_time: '2025-02-11T19:45:00+02:00'
-      - title: Tiistain kulttuurisarja
+      - title: Kaisa Pulakan aikamatkat. Moninainen sukupuoli 2/5
         start_time: '2025-02-11T20:00:00+02:00'
-        end_time: '2025-02-11T20:20:00+02:00'
-        series: Kulttuurin pisteohjelmia
+        end_time: '2025-02-11T20:19:20+02:00'
+        description: |-
+          Aikamatkat lentää ympäri maailmaa ja pitkin poikin historiaa tutkimassa, miten sukupuolen moninaisuus on näkynyt ja näkyy eri kulttuureissa. 
+        series: Kaisa Pulakan aikamatkat
       - title: Romano mirits
         start_time: '2025-02-11T20:20:00+02:00'
         end_time: '2025-02-11T20:35:00+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Kun lukion opinto-ohjauksen tunnilla tehtiin sopivien ammattialojen testiä, Robert ”Roope” Åkerlund sai tietää sopivansa erityisen hyvin mm. kukkakauppiaaksi. Kaupan ala ei puhutellut nuorta miestä, mutta tuli testissä toinenkin ehdotus: Åkerlund sopisi hyvin juristiksi. Nykyään hän opiskeleekin oikeustiedettä Helsingin yliopistossa ensimmäistä vuottaan. Åkerlundin polku korkeakouluopiskelijaksi oli kiinnostava: hän luki avoimessa yliopistossa niin pitkään, että pääsi nk. väylän kautta varsinaiseksi tutkinto-opiskelijaksi. 
+          Robert Åkerlundin tapasi Helsingissä toimittaja Jaakko Laakso.
+        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-11T20:35:00+02:00'
         end_time: '2025-02-11T21:00:00+02:00'
