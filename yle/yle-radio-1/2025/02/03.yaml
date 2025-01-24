@@ -1,17 +1,50 @@
 metadata:
-  generated_at: '2025-01-22T02:26:16.030133+00:00'
+  generated_at: '2025-01-24T02:24:46.251614+00:00'
   git:
     branch: main
-    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-02-02T23:40:00+02:00'
         end_time: '2025-02-03T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Molino: Kitarakonsertto e-molli (Pepe Romero ja Academy of St. Martin-in-the-Fields/Iona Brown).
+
+          00:05 Cartellieri: Divertimento n:o 1 F-duuri (Consortium Classicum).
+
+          00:28 Forqueray: Sarja viola da gamballe ja continuolle n:o 2 G-duuri (Marion Martineau, viola da gamba, Atsushi Sakai, sello, ja Christophe Rousset, cembalo).
+
+          00:58 Kuula: Kuusi kappaletta pianolle (Janne Oksanen).
+
+          01:24 J.S. Bach: Kantaatti n:o 82 (Ich habe genug) (En enää muuta pyydä) (Matthew Brook, basso, ja Dunedin Consort/John Butt, sekä Alexandra Bellamy, oboe).
+
+          01:48 Halvorsen: Orkesterisarja näytelmämus. Kongen (Kuningas) (Latvian kansallinen SO/Terje Mikkelsen).
+
+          02:03 Liszt: Mazeppa (Dresdenin filharmoniaork./Michel Plasson).
+
+          02:20 Bruckner: Sinfonia n:o 9 d-molli (Amsterdamin Concertgebouw-ork./Carlo Maria Giulini).
+
+          03:25 Obrecht: Missa Sub tuum praesidium (Sinun apusi turviin) (The Clerks' Group/Edward Wickham).
+
+          03:50 Prokofjev: Balettisarja n:o 2 orkesterille bal. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          04:20 Alard: Duo n:o 3 (Ilja Gringolts ja Aleksandr Bulov, viulu).
+
+          04:43 Godard: Pianokonsertto n:o 1 a-molli (Victor Sangiorgio ja Skotlannin kansallisork./Martin Yates).
+
+          05:15 Schreker: Vorspiel zu einer grossen Oper (Alkusoitto suureen oopperaan) (Tukholman kuninkaallisen oopperan ork./Lawrence Renes).
+
+          05:38 Schubert: Jousikvartetto n:o 9 g-molli (Alban Berg -kvartetti).
+
+          06:00 Blow: O sing unto the Lord a new song (Veisatkaa Herralle uusi virsi) (Oxfordin Merton Collegen kuoro/Robert Quinney, ja St. James' Baroque).
+
+          06:18 Geminiani: Sonaatti huilulle ja continuolle D-duuri op.1/10 (Barthold Kuijken, traverso, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+
+          06:26 Ortiz: Recercada n:o 4 (Mika Suihkonen, viola da gamba, ja Ballo della Battalia).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-03T06:30:50+02:00'
         end_time: '2025-02-03T06:50:00+02:00'
@@ -35,6 +68,7 @@ data:
       - title: Aamusoitto
         start_time: '2025-02-03T07:10:00+02:00'
         end_time: '2025-02-03T07:59:59+02:00'
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-03T08:00:00+02:00'
         end_time: '2025-02-03T08:10:00+02:00'
@@ -68,11 +102,13 @@ data:
         end_time: '2025-02-03T10:50:00+02:00'
         description: |
           Tarinoita talouden myllerryksistä.
+        series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-02-03T11:00:00+02:00'
         end_time: '2025-02-03T11:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-03T11:57:00+02:00'
         end_time: '2025-02-03T12:00:00+02:00'
@@ -84,6 +120,7 @@ data:
         end_time: '2025-02-03T12:59:30+02:00'
         description: |
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-02-03T13:00:00+02:00'
         end_time: '2025-02-03T13:30:00+02:00'

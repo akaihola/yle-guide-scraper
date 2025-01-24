@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-22T02:26:18.683246+00:00'
+  generated_at: '2025-01-24T02:24:48.958348+00:00'
   git:
     branch: main
-    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
@@ -40,6 +40,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-09T09:55:00+02:00'
         end_time: '2025-02-09T09:56:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-02-09T09:56:00+02:00'
         end_time: '2025-02-09T09:59:00+02:00'
@@ -78,9 +79,11 @@ data:
         end_time: '2025-02-09T12:55:00+02:00'
         description: |
           Tarinoita talouden myllerryksistä.
+        series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-09T12:55:00+02:00'
         end_time: '2025-02-09T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-02-09T13:00:00+02:00'
         end_time: '2025-02-09T13:57:00+02:00'
@@ -96,11 +99,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-09T14:52:00+02:00'
         end_time: '2025-02-09T15:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Elävä historia
         start_time: '2025-02-09T15:00:00+02:00'
         end_time: '2025-02-09T15:50:00+02:00'
         description: |
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        series: Elävä historia
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-09T15:50:00+02:00'
         end_time: '2025-02-09T15:55:00+02:00'

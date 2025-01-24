@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-22T02:26:14.200078+00:00'
+  generated_at: '2025-01-24T02:24:44.332550+00:00'
   git:
     branch: main
-    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,40 @@ data:
         start_time: '2025-01-29T23:40:00+02:00'
         end_time: '2025-01-30T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Beethoven: Yksitoista bagatellia pianolle (Alfred Brendel).
+
+          23:56 J. Haydn: Jousikvartetto n:o 60 A-duuri (Meta4-kvartetti).
+
+          00:13 Sibelius (Sov. Ekman): Humorski n:o 4 g-molli (Oleg Kagan, viulu, ja Irina Budarenko, piano).
+
+          00:17 Händel: Ariodanten aaria "Dopo notte, atra e funesta " oopperasta Ariodante (Franco Fagioli, kontratenori, ja Il Pomo d'oro/Zefira Valova, viulu).
+
+          00:26 Kraus: Amphitryon (Chantal Santon, sopraano, Georg Poplutz, tenori, ja Bonnin kamarikuoro sekä L'arte del mondo/Werner Ehrhardt).
+
+          01:45 Berlioz: Messe solennelle (Juhlamessu) (Adriana Gonzalez, sopraano, Julien Behr, tenori, ja Andreas Wolf, basso, sekä Le Concert Spirituel -kuoro ja -ork./Hervé Niquet).
+
+          02:37 Unsuk Chin: Sellokonsertto (Alban Gerhardt ja Soulin FO/Myung-Whun Chung).
+
+          03:06 Britten: A Time there was (Kerran oli aika) (Birminghamin SO/Simon Rattle).
+
+          03:22 J.S. Bach: Urkukonsertot n:o 1 G-duuri, 2 a-molli, 3 C-duuri, 4 C-duuri ja 5 d-molli (Johannes-Ernst Köhler).
+
+          04:17 von Hausegger: Dionyysinen fantasia (Bambergin sinfonikot/Antony Hermus).
+
+          04:37 Mascagni: Lodolettan resitatiivi ja aaria oopp. Lodoletta (Krassimira Stojanova, sopraano, ja Münchenin RO/Pavel Baleff).
+
+          04:52 Turina: Cinco danzas gitanas (Viisi mustalaistanssia) (BBC:n FO/Juanjo Mena).
+
+          05:08 d'Indy: Istar (Luxemburgin FO/Emmanluel Krivine).
+
+          05:22 Allegri: Missa Vidi turbam magnam (A Sei Voci/Bernard Fabre-Garrus).
+
+          05:48 Kraus: Kvintetto huilulle ja jousille D-duuri (Mikael Helasvuo ja Rantatie-kvartetti).
+
+          06:17 Corbetta: Chaconne D-duuri (Nigel North, barokkikitara). 
+
+          06:20 Uccellini: Sonaatti n:o 9 (Schola Cantorum Basiliensis).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-01-30T06:30:50+02:00'
         end_time: '2025-01-30T06:50:00+02:00'
@@ -31,14 +64,33 @@ data:
       - title: Aamuhartaus
         start_time: '2025-01-30T06:50:00+02:00'
         end_time: '2025-01-30T06:59:59+02:00'
-        description: |-
-          Maanantaista lauantaihin
+        description: |
+          "Rakasta, rukoile ja tervehdi"
+          Pastori Liisa Ruusukallio Tampereelta pohtii rauhan ja yhteyden rakentamista polarisoituneessa yhteiskunnassa.
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-01-30T07:00:00+02:00'
         end_time: '2025-01-30T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-01-30T07:10:00+02:00'
         end_time: '2025-01-30T07:59:59+02:00'
+        description: |
+          Barvinski: Preludi pianolle op.1/2 (Natalija Pasitshnyk).
+
+          Castro Herrera: Menuetti jousille (Orquesta de las Americas/Benjamin Juarez Echenique).
+
+          Pacius: Leonoran balladi oopp. Kaarle-kuninkaan metsästys (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Marteau: Entrata Serenadista puhaltimille (Saksan radion FO:n puhaltajat/Raoul Grüneis).
+
+          Schubert: An die Musik (Fritz Wunderlich, tenori, ja Hubert Giesen, piano).
+
+          Smyth: Alkusoitto oopp. The Boatswain's mate (Lontano Ensemble/Odaline de la Martinez).
+
+          Beach: Scottish legend (Skotlantilainen legenda) (Hiroko Ishimoto, piano).
+
+          Brouwer: Cambio el ritmo de la noche teoks. Canciones remotas (The Seasons Orchestra/Vladislav Bulahov).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-01-30T08:00:00+02:00'
         end_time: '2025-01-30T08:10:00+02:00'
@@ -85,23 +137,32 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-01-30T11:57:00+02:00'
         end_time: '2025-01-30T12:00:00+02:00'
+        description: |
+          Arto Melleri: Paljaalla silmällä sitä ei näe
+          Teoksesta: Elävien kirjoissa, Otava 1991
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-01-30T12:00:00+02:00'
         end_time: '2025-01-30T12:10:00+02:00'
       - title: 'Arktisten sotien kaiut K2J8: Kylmä kauppasota ja tieteellisteknologinen yhteistyö'
         start_time: '2025-01-30T12:10:00+02:00'
-        end_time: '2025-01-30T12:55:00+02:00'
+        end_time: '2025-01-30T12:48:00+02:00'
         description: |
           Suomen talous nousi maailmansodan jälkeen jaloilleen, ja idänkauppa kehittyi Suomelle tärkeäksi kylmän sodan aikana. Neuvostoliitolle Suomi oli puolestaan hyödyllinen reitti saada läntistä teknologiaa ja osaamista vientirajoituksista huolimatta. Idänkaupasta ja tieteellis-teknologisesta yhteistyöstä kertoo vanhempi yliopistonlehtori Sari Autio-Sarasmo. Jaksossa palataan myös siihen, miten Suomen puolustusvoimat selvisi kaupparajoitteista.
+        series: Arktisten sotien kaiut
       - title: Yksi on hyvää seuraa
-        start_time: '2025-01-30T12:55:00+02:00'
+        start_time: '2025-01-30T12:48:00+02:00'
         end_time: '2025-01-30T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-01-30T13:00:00+02:00'
         end_time: '2025-01-30T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-01-30T13:30:00+02:00'
         end_time: '2025-01-30T15:00:00+02:00'
+        description: |
+          Klo n. 14. 00 Ennakkopuheet Muuttuvan maailmanjärjestyksen illlasta. Klo n. 14.30 Kulttuurin kulmilla. Juontaja Heikki Puskala.
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-01-30T15:00:00+02:00'
         end_time: '2025-01-30T15:02:00+02:00'
@@ -155,6 +216,7 @@ data:
         end_time: '2025-01-30T18:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
       - title: Kielen päällä
         start_time: '2025-01-30T18:25:00+02:00'
         end_time: '2025-01-30T18:34:30+02:00'
@@ -213,5 +275,32 @@ data:
       - title: Yöklassinen
         start_time: '2025-01-31T00:00:00+02:00'
         end_time: '2025-01-31T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Cimarosa: Konsertto G-duuri (Mathieu Dufour, huilu, ja Alex Klein, oboe, sekä Tshekin kansallinen SO/Paul Freeman).
+
+          00:20 Debussy: Pianotrio G-duuri (Premier trio) (Renaud Capucon, viulu, Edgar Moreau, sello, ja Bertrand Chamayou, piano).
+
+          00:42 Crusell: Concertino fagotille ja orkesterille B-duuri (Juhani Tapaninen ja RSO/ Jukka-Pekka Saraste).
+
+          01:02 Schubert: Fantasia pianolle C-duuri (Wanderer-fantasia) (Alfred Brendel).
+
+          01:25 Tshaikovski: Sinfonia n:o 5 e-molli (RSO/Leif Segerstam).
+
+          02:12 Quilter: Where the rainbow ends (Missä sateenkaari päättyy) (Northern Sinfonia/Richard Hickox).
+
+          02:28 Beethoven: Pianosonaatit n:o 13 Es-duuri, 16 G-duuri ja 21 C-duuri (Waldstein) (Rudolf Serkin). 
+
+          03:36 Guastavino: Los Dias perdidos (Denyce Graves, mezzosopraano, Pablo Ziegler, piano, Leo Grinhauz, sello, Pablo Aslan, kontrabasso, ja Susan Palma, huilu).
+
+          03:39 Weiss: Sonaatti luutulle, kahdelle viululle ja continuolle F-duuri (Richard Stone, luuttu, ja Tempesta di Mare).
+
+          03:56 W.A. Mozart: Sinfonia n:o 41 C-duuri (Jupiter) (Boston Baroque/Martin Pearlman).
+
+          04:32 Dvorák: Pianotrio n:o 4 e-molli (Dumky) (Rembrandt-trio). 
+
+          05:06 Rossini (sov. Sedlak): Sarja puhaltimille oopp. Sevillan parturi teemoista (Mozzafiato/Charles Neidich).
+
+          05:43 J.S. Bach (sov. Verbruggen): Sarja soolosellolle n:o 1 G-duuri (Marion Verbruggen, alttonokkahuilu).
+
+          06:00 Palestrina: Sicut lilium inter spinas (The Tallis Scholars/Peter Phillips).
+        series: Syventävää klassista

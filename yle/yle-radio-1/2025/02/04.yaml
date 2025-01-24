@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-22T02:26:16.539395+00:00'
+  generated_at: '2025-01-24T02:24:46.500755+00:00'
   git:
     branch: main
-    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
@@ -95,9 +95,11 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2025-02-04T12:30:00+02:00'
         end_time: '2025-02-04T12:55:00+02:00'
+        series: Aristoteleen kantapää
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-04T12:55:00+02:00'
         end_time: '2025-02-04T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-02-04T13:00:00+02:00'
         end_time: '2025-02-04T13:30:00+02:00'
@@ -152,9 +154,13 @@ data:
         end_time: '2025-02-04T19:42:00+02:00'
         description: |
           Kuunnelman päähenkilö Elis Sinistö (1912-2004) oli elämäntapataiteilija: tanssija, satumainen arkkitehti, alastonmalli, vegetaristi, teosofi ja paljon muuta. Sinistöstä innoittunut monologi on pasifistinen purkaus ja ylistys elämälle
-      - title: Eilisen ääni
+      - title: 'Eilisen ääni: Kansanelämää Espoossa 100 vuotta sitten'
         start_time: '2025-02-04T19:42:00+02:00'
         end_time: '2025-02-04T20:00:00+02:00'
+        description: |
+          Eilisen äänessä kuulemme nyt pohdintaa siitä, miten elämä on Espoossa muuttunut sadan vuoden aikana. Muutos on ollut 100 vuoden aikana suuri. Kodista on tullut kaiken keskus, siisteys on parantunut ja elämäntavat myös. Harrastukset ovat monipuolistuneet ja koulunkäynnistä on tullut lapsille osa arkea. 
+          Toimittajana A K Rapila.
+        series: Eilisen ääni
       - title: Romano mirits
         start_time: '2025-02-04T20:20:00+02:00'
         end_time: '2025-02-04T20:35:00+02:00'

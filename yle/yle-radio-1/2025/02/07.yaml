@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-22T02:26:17.977285+00:00'
+  generated_at: '2025-01-24T02:24:48.172562+00:00'
   git:
     branch: main
-    commit: 745facb4ad1d9e7fcb069d678f4dd9741ad6a760
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
@@ -20,6 +20,7 @@ data:
         end_time: '2025-02-07T06:59:59+02:00'
         description: |-
           Kanttori Jenni Urponen, Mynämäki
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-07T07:00:00+02:00'
         end_time: '2025-02-07T07:10:00+02:00'
@@ -80,6 +81,7 @@ data:
         end_time: '2025-02-07T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-07T15:55:00+02:00'
         end_time: '2025-02-07T15:58:00+02:00'
@@ -127,7 +129,10 @@ data:
         end_time: '2025-02-07T19:02:00+02:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-02-07T19:02:00+02:00'
-        end_time: '2025-02-07T21:00:00+02:00'
+        end_time: '2025-02-07T21:05:00+02:00'
+        description: |
+          Hannu Lintu, kapellimestari, Paavali Jumppanen, piano. - Pierre Boulez: Rituel, in memoriam Bruno Maderna. Olivier Messiaen: Eksoottisia lintuja. Igor Stravinsky: Satakielen laulu. John Adams: Slonimsky’s Earbox. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson.
+        series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-02-07T21:00:00+02:00'
         end_time: '2025-02-07T21:02:00+02:00'
@@ -139,6 +144,7 @@ data:
         end_time: '2025-02-07T22:24:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
         start_time: '2025-02-07T22:25:00+02:00'
         end_time: '2025-02-07T23:15:00+02:00'

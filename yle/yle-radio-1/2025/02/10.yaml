@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-23T02:24:21.567020+00:00'
+  generated_at: '2025-01-24T02:24:49.437733+00:00'
   git:
     branch: main
-    commit: ec3e484b27eaac92e17f148e279c64a010d25c4c
-  data_hash: d837a7e48c0dceb10e9db791c30703d106bf6e86431693c991795267ef1cbdcb
+    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
+  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
 data:
   Yle Radio 1:
     programmes:
@@ -64,6 +64,7 @@ data:
         end_time: '2025-02-10T11:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-10T11:57:00+02:00'
         end_time: '2025-02-10T12:00:00+02:00'
@@ -153,6 +154,7 @@ data:
         end_time: '2025-02-10T20:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-10T20:55:00+02:00'
         end_time: '2025-02-10T21:00:00+02:00'
