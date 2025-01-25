@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-24T02:24:42.865020+00:00'
+  generated_at: '2025-01-25T02:20:43.913807+00:00'
   git:
     branch: main
-    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
-  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
+    commit: afd2b71106c0e22a6abb27aed9d600aad756cce1
+  data_hash: 50583834f95bf923dac54e754928d5f517b79288566f0b384a6f4ca7555e4230
 data:
   Yle Radio 1:
     programmes:
@@ -64,7 +64,7 @@ data:
       - title: Aamusoitto
         start_time: '2025-01-27T07:10:00+02:00'
         end_time: '2025-01-27T07:59:59+02:00'
-        description: |-
+        description: |
           Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
 
           Tarrega: Muistoja Alhambrasta (Narciso Yepes, kitara).
@@ -79,6 +79,8 @@ data:
 
           Gounod: Julian uni oopp. Romeo ja Julia (Minnesotan ork./Eiji Oue).
 
+          Chabrier: Idylli (Angela Hewitt, piano). 
+
           R. Schumann: Widmung (Thomas Quasthoff, bassobaritoni, ja Justus Zeyen, piano).
 
           Crusell: Alla polacca klarinettikonsertosta nro 3 B-duuri (Kari Kriikku ja RSO/Sakari Oramo).
@@ -89,6 +91,19 @@ data:
       - title: Ykkösaamu
         start_time: '2025-01-27T08:10:00+02:00'
         end_time: '2025-01-27T09:00:00+02:00'
+        description: |-
+          8.11 Lakot ovat alkaneet. Kuulemme tunnelmia lakkoporteilta Raahesta sekä Turusta. 
+
+          8.16 Miksi nyt lakkoillaan? Millaiset ovat työntekijöiden vaatimukset ja miksi? Entä millainen taloustilanne on työnantajien näkökulmasta? 
+          Keskustelemassa tutkija Ilkka Kärrylä ja tutkimusjohtaja Antti Kauhanen Etlasta. 
+
+          8.39 Hyvinvointialueilla voi löytyä toimivia ratkaisuja vuokralääkärien käyttöön. Keskustelemassa palvelutuotannon johtaja Matias Pälve Länsi-Uudenmaan hyvinvointialueelta sekä 
+          johtava ylilääkäri Kaisa Rajala Vantaan ja Keravan hyvinvointialueelta. 
+
+          8.54 Kuulemme myös kuinka niin kutsutut vaalit sujuivat Valko-Venäjällä. Kirjeenvaihtaja Heikki Heiskanen raportoi. 
+
+          Juontajana Mira Stenström. Toimittajana Rasmus Montonen. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-01-27T09:00:00+02:00'
         end_time: '2025-01-27T09:05:00+02:00'
@@ -157,7 +172,7 @@ data:
         description: |
           Suomen ja Neuvostoliiton solmiman, jatkosodan päättäneen välirauhan rauhanehtojen toteutumista valvoi Suomessa liittoutuneiden nimeämä valvontakomissio syksystä 1944 aina syyskuun 1947 loppuun. Valvontakomissiolla oli pääsy kaikkeen viranomaistieton Suomessa ja sen langettama varjo Suomen itsenäisyyden ja poliittisen kulttuurin ylle jatkui tavalla tai toisella Neuvostoliiton hajoamiseen asti.
 
-          Aika herätti suomalaisissa pelon neuvostomiehityksestä ja laajoista vangitsemisista, kuten oli tapahtunut etelänaapuri Virossa. Näiltä molemmilta Suomi kuitenkin säästy. Christer Pursiaisen viime syksyllä julkaistu kirja Zdanov Tornissa kuvailee valvontakomission aikaa Suomessa ja kuvailee suomalaisten vallanpitäjien ja valvontakomissiota johtaneen kenraalieversti Andrei Zdanovin keskinäisiä suhteita. 
+          Aika herätti suomalaisissa pelon neuvostomiehityksestä ja laajoista vangitsemisista, kuten oli tapahtunut etelänaapuri Virossa. Näiltä molemmilta Suomi kuitenkin säästy. Christer Pursiaisen viime syksyllä julkaistu kirja Zdanov Tornissa kuvailee valvontakomission aikaa Suomessa ja kuvailee suomalaisten vallanpitäjien ja valvontakomissiota johtaneen kenraalieversti Andrei Zdanovin keskinäisiä suhteita. Teos sai viime viikolla Lauri Jäntin säätiön tunnustuspalkinnon.
 
           Valvontakomission aikana Suomi määrättiin mm. mittaviin sotakorvauksiin sekä tuomitsemaan joukon valtakunnan eturivin poliitikkoja vankilaan sotasyyllisinä. Miten Suomi selvisi Zdanovin kurin alta? Onko nykyisessä epävarmassa maailmantilanteessa jotakin, joka muistuttaa tuosta ajasta? 
 
@@ -204,8 +219,9 @@ data:
       - title: Uutispodcast
         start_time: '2025-01-27T17:10:00+02:00'
         end_time: '2025-01-27T17:34:20+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Suomen talous matelee ja Helsingin pörssin viime vuosi oli jälleen surkea. Miksi suomalaiset yritykset eivät kasva? Vieraana yrittäjä ja startup-sijoittaja Kim Väisänen. Juontajana Sami Lindfors.
+        series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Kahvila Välimeren turkoosissa'
         start_time: '2025-01-27T17:35:00+02:00'
         end_time: '2025-01-27T18:34:20+02:00'

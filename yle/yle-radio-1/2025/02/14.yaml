@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-24T02:24:51.155814+00:00'
+  generated_at: '2025-01-25T02:20:53.109219+00:00'
   git:
     branch: main
-    commit: 0118e4171f9ad118747e15e4a48c17fcc1a991fa
-  data_hash: 5ef49c16e465cb12eebd32874f8e73b441c49633e47e2e4d527e02cb5a6accb6
+    commit: afd2b71106c0e22a6abb27aed9d600aad756cce1
+  data_hash: 50583834f95bf923dac54e754928d5f517b79288566f0b384a6f4ca7555e4230
 data:
   Yle Radio 1:
     programmes:
@@ -49,7 +49,6 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-14T09:05:40+02:00'
         end_time: '2025-02-14T09:58:00+02:00'
-        series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2025-02-14T10:00:00+02:00'
         end_time: '2025-02-14T10:55:00+02:00'
