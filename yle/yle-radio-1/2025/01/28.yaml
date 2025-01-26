@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-25T02:20:46.063869+00:00'
+  generated_at: '2025-01-26T02:25:58.976242+00:00'
   git:
     branch: main
-    commit: afd2b71106c0e22a6abb27aed9d600aad756cce1
-  data_hash: 50583834f95bf923dac54e754928d5f517b79288566f0b384a6f4ca7555e4230
+    commit: 086f9707332b6016cd351ad4f2829ad54f3d2a5f
+  data_hash: 507e557578c16ca5ed3de140c5c9191770b474061d9f43e4f7b1113db24d7b74
 data:
   Yle Radio 1:
     programmes:
@@ -161,11 +161,14 @@ data:
       - title: Yle Uutiset
         start_time: '2025-01-28T15:00:00+02:00'
         end_time: '2025-01-28T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miksi lakkasimme lukemasta?'
         start_time: '2025-01-28T15:02:00+02:00'
         end_time: '2025-01-28T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Miksi lakkasimme lukemasta? Ketkä lukevat, ketkä eivät? Miksi kirjoja vieroksutaan? Sosiologi Riie Heikkilän uusi kirja tekee tulkintaa lukemisen muutoksesta Suomessa 1980-luvulta tähän päivään. Hän halusi tutkia niiden ihmisten asenteita, jotka eivät lue paljonkaan - tai ollenkaan. Leea Lakka taas vietti vuoden yläkoulun takarivissä ja kirjoitti lukemista välttelevistä koululaisista  väitöskirjan. Tutkimukseen perustuva tietokirja Kapina pulpetissa ilmestyy tammikuussa. 
+
+          Toimittaja Tuula Viitaniemen vetämässä keskustelussa lähdetään liikkeelle kirjoista, mutta päädytään puhumaan yhteiskunnan eriarvoistumisesta ja suomalaisten eriävistä todellisuuksista. Lukeminen - ja lukemattomuus - on poliittista!
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-01-28T15:55:00+02:00'
         end_time: '2025-01-28T15:58:00+02:00'

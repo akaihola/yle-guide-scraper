@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-25T02:20:49.019258+00:00'
+  generated_at: '2025-01-26T02:26:00.291114+00:00'
   git:
     branch: main
-    commit: afd2b71106c0e22a6abb27aed9d600aad756cce1
-  data_hash: 50583834f95bf923dac54e754928d5f517b79288566f0b384a6f4ca7555e4230
+    commit: 086f9707332b6016cd351ad4f2829ad54f3d2a5f
+  data_hash: 507e557578c16ca5ed3de140c5c9191770b474061d9f43e4f7b1113db24d7b74
 data:
   Yle Radio 1:
     programmes:
@@ -83,6 +83,7 @@ data:
         end_time: '2025-02-01T08:55:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-01T08:55:00+02:00'
         end_time: '2025-02-01T09:00:00+02:00'
@@ -130,7 +131,6 @@ data:
         end_time: '2025-02-01T11:55:00+02:00'
         description: |
           Vieraana on kunta- ja hyvinvointialuepolitiikko ja sairaanhoitaja Eva Tawasoli. Hänen tarinansa kautta saamme kurkistaa ensin Iranissa asuvan pikkutytön arkeen, ja sitten tunnelmiin Suomeen muuton jälkeen. Sävelet tuovat kaikuja kummastakin maailmasta.
-        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-01T11:57:00+02:00'
         end_time: '2025-02-01T12:00:00+02:00'
