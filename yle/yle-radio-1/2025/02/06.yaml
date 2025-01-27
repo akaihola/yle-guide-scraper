@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-26T02:26:01.775078+00:00'
+  generated_at: '2025-01-27T02:25:42.547704+00:00'
   git:
     branch: main
-    commit: 086f9707332b6016cd351ad4f2829ad54f3d2a5f
-  data_hash: 507e557578c16ca5ed3de140c5c9191770b474061d9f43e4f7b1113db24d7b74
+    commit: d5eaa05d7738e36b1c2a80ba457fcbd1370f7091
+  data_hash: 7e5bea10872316bbef6c711174a227dc942034e31ae60e4a96f188f3a95a3bd3
 data:
   Yle Radio 1:
     programmes:
@@ -66,6 +66,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-06T11:57:00+02:00'
         end_time: '2025-02-06T12:00:00+02:00'
+        description: |-
+          Charles Baudelaire: Pariisin ikävä, suomentaneet Väinö Kirstinä ja Eila Kostamo, Karisto, 2000.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-02-06T12:00:00+02:00'
         end_time: '2025-02-06T12:10:00+02:00'
