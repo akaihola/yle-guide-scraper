@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-30T02:23:17.048529+00:00'
+  generated_at: '2025-01-31T02:24:07.925728+00:00'
   git:
     branch: main
-    commit: e093403da629fdede4bc1a947147918ec3d0f379
-  data_hash: 45a751ffc08120214bdd1f3b72d2cd44b7233605f42620157abaaf5526dc90fd
+    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
+  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,34 @@ data:
         start_time: '2025-02-03T23:40:00+02:00'
         end_time: '2025-02-04T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          de Fossa: Trio n:o 1 A-duuri (Simon Wynberg, kitara, Martin Beaver, viulu, ja Bryan Epperson, sello).
+
+          00:07 W.A. Mozart: Pianokvartetto g-molli (Joseph Roisman, viulu, Boris Kroyt, alttoviulu, Mischa Schneider, sello, ja Mieczyslaw Horszowski, piano).
+
+          00:33 M-A Charpentier: Judith, sive Bethulia liberata (Ensemble Correspondances/Sébastien Daucé, urut ja cembalo).
+
+          01:13 Walton: Siesta (Northern Sinfonia/Richard Hickox).
+
+          01:21 Dutilleux: Sellokonsertto (Godfried Hoogeveen ja Amsterdamin Concertgebouw-ork./Yan Pascal Tortelier).
+
+          01:48 Louis Ferdinand, Preussin prinssi: Kvintetto pianolle ja jousille c-molli (Christoph Hammer, fortepiano, ja Schuppanzigh-kvartetti).
+
+          02:31 Stenhammar: Musiikkia näyt. Chitra (Göteborgin SO/Neeme Järvi).
+
+          02:54 Castelnuovo-Tedesco: Osia sarj. Platero y yo (Harmo ja minä) (Andrés Segovia, kitara).
+
+          03:33 R. Strauss (sov. Ille): Sinfoninen rapsodia oopp. Elektra (Pittsburghin SO/Manfred Honeck).
+
+          04:07 Melartin: Vaikein hetki (Jorma Silvasti, tenori, ja Pentti Kotiranta, piano). 
+
+          04:10 Melartin: Jousikvartetto n:o 4 F-duuri (Melartin-kvartetti).
+
+          04:36 Vivaldi: Sonaatti viululle ja continuolle c-molli (The Boston Museum Trio).
+
+          04:51 Cui: 25 preludia pianolle (Jeffrey Biegel). 
+
+          05:59 J.S. Bach: Partita sooloviululle n:o 1 h-molli (Jaakko Kuusisto).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-04T06:30:50+02:00'
         end_time: '2025-02-04T06:50:00+02:00'
@@ -87,10 +114,10 @@ data:
           Bruhn: Ein bisschen Goethe, ein bisschen Bonaparte (France Gall).
           Viherluoto: Pieni polku (Oke Tuuri).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Millainen maailma olisi, jos kuuntelisimme enemmän toisiamme?'
         start_time: '2025-02-04T10:00:00+02:00'
         end_time: '2025-02-04T10:55:00+02:00'
-        description: |-
+        description: |
           Millainen maailma olisi, jos kuuntelisimme enemmän toisiamme? Miten tulla hyväksi kuuntelijaksi? Vieraina työnohjaaja, kirjailija Eino Saari sekä kuuntelututkija Sanna Ala-Kortesmaa.
         series: Sari Valto
       - title: Yksi on hyvää seuraa
@@ -165,9 +192,26 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-02-04T17:35:00+02:00'
         end_time: '2025-02-04T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Matkalla kaatamaan patsaita päädyttiin ihailemaan erään miesneron muotokuvaa. Miten tässä taas näin pääsi käymään! Bob Dylanista kertova elokuva Complete unknown sai Kissankehdossa ihastuneen vastaanoton ja pisti pohtimaan kuinka tämä aika muistuttaa 1960-lukua - ja toisaalta ei muistuta ollenkaan. 
+          Mukaan mahtuu tänään myös islantilaisen luonnon sävyttämiä sydänsuruja, kuulokuvia etääntyvistä muistoista ja eräs dramaattinen italialaistähti, parisuhteiden jonglööri, joka oli parhaimmillaan yhtä aikaa kolmessa eri avioliitossa
 
+          Lyyti: Olen matkalla kaatamaan patsaita
+          Bob Dylan: Queen Jane approximately
+          Timothée Chalamet & Monica Barbaro: It ain't me, babe
+          Lempi Elo: Mitäpä minä
+          Patty Pravo: I giardini di Kensington
+          1900: Oubliette i c-dur
+          Flora Hibberd: Code
+          Lala Salama: Kuva susta
+          Julee Cruise: Falling
+          Topi Saha: Kaikki mitä on, on juuri niin kuin olin kuvitellutkin
+
+          Innoitusta antoi:
+
+          Complete unknown (Bob Dylanista kertova elokuva)
+          Kulttuuriykkönen: Naiset, rock ja tasa-arvo (Yle Areena) 
+        series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2025-02-04T18:35:00+02:00'
         end_time: '2025-02-04T18:50:00+02:00'
@@ -233,4 +277,39 @@ data:
         start_time: '2025-02-04T23:40:00+02:00'
         end_time: '2025-02-05T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Bruch: Romanssi alttoviululle ja orkesterille F-duuri (Joachim Krist ja Kölnin radio-ork./Helmuth Froschauer).
+
+          23:48 J.S. Bach: Fantasia ja fuuga uruille g-molli BWV542 (Pauliina Hyry, Kotkan kirkon urut).
+
+          00:02 Händel: Resitatiivi ja aaria oopp. Rodelinda (Franco Fagioli, kontratenori, ja Il Pomo d'oro-kamariork./Zefira Valova, viulu).  
+
+          00:12 Cherubini: Missa solemnis n:o 2 d-molli (Monika Wiebe, sopraano, Helena Jungwirth, altto, Rodrigo Orrego, tenori, ja Wolf Matthias Friedrich, basso, sekä Münchenin motettikuoro ja Münchenin sinfonikot/Hans Rudolf Zöbeley).
+
+          01:19 J. Haydn: Pianokonsertto D-duuri (Alfred Brendel ja Wienin kamariork./Paul Angerer).
+
+          01:39 Liszt: Orfeus (Dresdenin filharmoniaork./Michel Plasson).
+
+          01:51 Chopin: Nokturnot n:o 1-8 (Guiomar Novaes, piano).
+
+          02:32 Franck: Jousikvartetto D-duuri (Malibran-kvartetti).
+
+          03:15 Bruckner: Sinfonia n:o 3 d-molli (Leopold Nowakin editio) (Chicagon SO/Georg Solti). 
+
+          04:15 Parry: Magnificat F-duuri (Amanda Roocroft, sopraano, ja BBC:n Walesin kansalliskuoro ja -ork./Neeme Järvi).
+
+          04:40 M. Haydn: Viulukonsertto A-duuri (Arthur Grumiaux ja Amsterdamin Concertgebouw-ork./Edo de Waart).
+
+          05:00 J. Röntgen: Trio jousille n:o 4 D-duuri (Valssisarja) (Lendvai-jousitrio).
+
+          05:13 Barber: The School for Scandal (Detroitin SO/Neeme Järvi).
+
+          05:23 W.A. Mozart: Pianosonaatti n:o 3 B-duuri (Emil Gilels).
+
+          05:44 Beethoven: Sechs Lieder (Kuusi laulua) op.48 (Peter Schreier, tenori, ja Walter Olbertz, piano).
+
+          05:59 de Fossa (sov.): Grand duo n:o 3 F-duuri (Jukka Savijoki ja Erik Stenstadvold, kitara).
+
+          06:18 Couperin: Pavanne fis-molli (Pavel Kolesnikov, piano).
+
+          06:26 Händel: Araspen aaria oopp. Tolomeo (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).
+        series: Syventävää klassista

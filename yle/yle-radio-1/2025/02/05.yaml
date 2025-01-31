@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-30T02:23:17.585314+00:00'
+  generated_at: '2025-01-31T02:24:08.536798+00:00'
   git:
     branch: main
-    commit: e093403da629fdede4bc1a947147918ec3d0f379
-  data_hash: 45a751ffc08120214bdd1f3b72d2cd44b7233605f42620157abaaf5526dc90fd
+    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
+  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,42 @@ data:
         start_time: '2025-02-04T23:40:00+02:00'
         end_time: '2025-02-05T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Bruch: Romanssi alttoviululle ja orkesterille F-duuri (Joachim Krist ja Kölnin radio-ork./Helmuth Froschauer).
+
+          23:48 J.S. Bach: Fantasia ja fuuga uruille g-molli BWV542 (Pauliina Hyry, Kotkan kirkon urut).
+
+          00:02 Händel: Resitatiivi ja aaria oopp. Rodelinda (Franco Fagioli, kontratenori, ja Il Pomo d'oro-kamariork./Zefira Valova, viulu).  
+
+          00:12 Cherubini: Missa solemnis n:o 2 d-molli (Monika Wiebe, sopraano, Helena Jungwirth, altto, Rodrigo Orrego, tenori, ja Wolf Matthias Friedrich, basso, sekä Münchenin motettikuoro ja Münchenin sinfonikot/Hans Rudolf Zöbeley).
+
+          01:19 J. Haydn: Pianokonsertto D-duuri (Alfred Brendel ja Wienin kamariork./Paul Angerer).
+
+          01:39 Liszt: Orfeus (Dresdenin filharmoniaork./Michel Plasson).
+
+          01:51 Chopin: Nokturnot n:o 1-8 (Guiomar Novaes, piano).
+
+          02:32 Franck: Jousikvartetto D-duuri (Malibran-kvartetti).
+
+          03:15 Bruckner: Sinfonia n:o 3 d-molli (Leopold Nowakin editio) (Chicagon SO/Georg Solti). 
+
+          04:15 Parry: Magnificat F-duuri (Amanda Roocroft, sopraano, ja BBC:n Walesin kansalliskuoro ja -ork./Neeme Järvi).
+
+          04:40 M. Haydn: Viulukonsertto A-duuri (Arthur Grumiaux ja Amsterdamin Concertgebouw-ork./Edo de Waart).
+
+          05:00 J. Röntgen: Trio jousille n:o 4 D-duuri (Valssisarja) (Lendvai-jousitrio).
+
+          05:13 Barber: The School for Scandal (Detroitin SO/Neeme Järvi).
+
+          05:23 W.A. Mozart: Pianosonaatti n:o 3 B-duuri (Emil Gilels).
+
+          05:44 Beethoven: Sechs Lieder (Kuusi laulua) op.48 (Peter Schreier, tenori, ja Walter Olbertz, piano).
+
+          05:59 de Fossa (sov.): Grand duo n:o 3 F-duuri (Jukka Savijoki ja Erik Stenstadvold, kitara).
+
+          06:18 Couperin: Pavanne fis-molli (Pavel Kolesnikov, piano).
+
+          06:26 Händel: Araspen aaria oopp. Tolomeo (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-05T06:30:50+02:00'
         end_time: '2025-02-05T06:50:00+02:00'
@@ -50,7 +85,7 @@ data:
 
           Fauré: Pavane (Tanglewoodin musiikkijuhlien kuoro ja Bostonin sinfoniaorkesteri/Seiji Ozawa).
 
-          Puccini: Cavaradossin aaria Recondita armonia oopp. Tosca. (Franco Corelli, tenori, ja Philharmonia-ork./Franco Ferraris).
+          Sibelius: Flickan kom ifrån sin älsklings möte (Jorma Hynninen, baritoni, ja Tampereen kaupunginork./Leif Segerstam).
 
           Albéniz: Sataman hälinää (Janne Lehtinen, kitara).
 
@@ -113,7 +148,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-05T10:55:00+02:00'
         end_time: '2025-02-05T11:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Riston Valinta
         start_time: '2025-02-05T11:00:00+02:00'
         end_time: '2025-02-05T11:50:00+02:00'
@@ -150,15 +184,23 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-05T13:30:00+02:00'
         end_time: '2025-02-05T15:00:00+02:00'
+        description: |
+          Iltapäivän musiikkia etnosta kevyen jazzin kautta populaarimusiikin helmiin. Studiovieraana näyttelijä, lausuntataiteilija Ella Pyhältö. Tapaamme myös näyttelijä Eino Lundin. Heikki Puskala juontaa.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-05T15:00:00+02:00'
         end_time: '2025-02-05T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Uusi Bob Dylan-leffa herättää eloon maailmaa mullistaneen 1960-luvun'
         start_time: '2025-02-05T15:02:00+02:00'
         end_time: '2025-02-05T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Dyyni-elokuvien myötä Hollywoodin eturiviin noussut Timothée Chalamet näyttelee nuorta, muusikon uraansa näyttelevää Bob Dylania perjantaina 7.2. ensi-iltaan tulevassa James Mangoldin ohjaamassa musiikkidraamassa A Complete Unknown.
+
+          Elokuvassa nuori 19-vuotias Dylan saapuu pennittömänä Minnesotasta New Yorkiin tapaamaan esikuvaansa folk-muusikko Woody Guthrieta. Guthrie ja toinen folk-legenda Pete Seeger vaikuttuvat Dylanin musiikista ja näin alkaa Dylanin matka kohti valtavaa suosiota. Muutaman vuoden päästä hän kuitenkin monien faniensa pettymykseksi ja järkytykseksi vaihtaa akustisen kitaran sähköisiin soittimiin ja bändiin ja saa petturin maineen.
+
+          Elokuvan tarkastelujakso vuosien 1961-65 välillä luo pohjan ilmiölle nimeltä Bob Dylan joka samalla muuttaa populaarikulttuurin perustan olennaisesti toiseksi. Haluttomuus mukautua ympäristön odotuksiin ja ennalta määriteltyyn muotoon on leimannut koko Bob Dylanin monipolvista uraa. 
+
+          Dylanin noususta kuuluisuuteen ja paikasta länsimaisen populaari- ja taidekulttuurin suurvaikuttajana keskustelevat ohjelmassa Dylan-tuntijat Jean Ramsay ja Jarkko S. Tuusvuori. Toimittajana on Ville Talola.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-05T15:55:00+02:00'
@@ -257,4 +299,27 @@ data:
         start_time: '2025-02-05T23:40:00+02:00'
         end_time: '2025-02-06T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Sibelius: Sandels (YL ja Sinfonia Lahti/Osmo Vänskä).
+
+          23:49 Sarasate: Habanera viululle ja pianolle (Rachel Barton ja Samuel Sanders).
+
+          23:55 Bruch: Konserttikappale fis-molli (Salvatore Accardo, viulu, ja Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          00:15 Beethoven: Pianosonaatit n:o 8 c-molli (Pateettinen), n:o 14 cis-molli (Kuutamo), n:o 23 fis-molli (Appasionata) ja n:o 26 Es-duuri (Jäähyväissonaatti) (Arthur Rubinstein).
+
+          01:32 Respighi: Vetrate di chiesa (Kirkon ikkunoita), neljä sinfonista impressiota orkesterille (Buffalon FO/JoAnn Falletta).
+
+          01:58 Glazunov: Sinfonia n:o 3 D-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov). 
+
+          02:51 Melartin: 24 preludia (Risto Kyrö, piano).
+
+          03:33 Sibelius: Lemminkäinen (RSO/Kari Tikka).
+
+          04:25 W.A. Mozart: Jousikvartetto n:o 22 B-duuri ja n:o 23 F-duuri (Shanghai-kvartetti).
+
+          05:19 Pergolesi: Salve regina a-molli (Gillian Fisher, sopraano, ja The King's Consort/Robert King).
+
+          05:31 J.S. Bach: Brandenburgilaiset konsertot n:o 4, 5 ja 6 (Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+
+          06:24 Gastoldi - J.S. Bach - Hassler: In Dir ist Freude (RKK/Andrew Lawrence-King, urut ja harppu, sekä Mika Suihkonen, violone).
+        series: Syventävää klassista

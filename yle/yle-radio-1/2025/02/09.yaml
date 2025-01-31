@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-30T02:23:19.046189+00:00'
+  generated_at: '2025-01-31T02:24:09.889464+00:00'
   git:
     branch: main
-    commit: e093403da629fdede4bc1a947147918ec3d0f379
-  data_hash: 45a751ffc08120214bdd1f3b72d2cd44b7233605f42620157abaaf5526dc90fd
+    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
+  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
 data:
   Yle Radio 1:
     programmes:
@@ -56,6 +56,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-09T11:00:00+02:00'
         end_time: '2025-02-09T11:57:00+02:00'
+        description: |-
+          Muistojen bulevardi
+
+          Gold: Exodus (Tapio Rautavaara).
+          DeSylva/Brown/Henderson/Jolson: Sonny boy (Chet Baker and Art Pepper Sextet).
+          Cabral: La Foule (Patricia Kaas).
+          Trenet: La Mer (Julio Iglesias).
+          Lennon/McCartney: In my life (The Beatles).
+          Rodrigo: En Aranjuez con tu amor (Nana Mouskouri).
+          Renard: Maritza (Seija Simola).
+          Lehtinen: Valot kaupungin (Rauno Lehtinen).
+          Raab: Björkens visa (Hootenanny Singers).
+          Reed: Käyn uudelleen eiliseen  (Markku Aro).
+          Warren/Gordon: Chattanooga choo choo (Glenn Miller and his Orchestra)
+          Bergström: Saimaan valssi (Kipparikvartetti).
+          Giraud: Sous le ciel de Paris (Mireille Mathieu).
+          Giraud: Mamy blue (Kirka).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-02-09T12:00:00+02:00'
