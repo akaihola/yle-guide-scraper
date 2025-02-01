@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-31T02:24:07.925728+00:00'
+  generated_at: '2025-02-01T02:27:02.000281+00:00'
   git:
     branch: main
-    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
-  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
+    commit: f19acc8f1bfd9e7b046a359cef94e32cd0280cc2
+  data_hash: e4348ab20acdf28d54aa0a69e201dd893dc249ec4bdba1d8ce66833e90c09aaa
 data:
   Yle Radio 1:
     programmes:
@@ -144,9 +144,12 @@ data:
         description: |-
           Sukupuolen moninaisuus on yhtä vanha ilmiö kuin ihmiskunta itsekin. Kaisa Pulakka tutustuu antiikin mytologian transtarinoihin ja ihastelee Platonin ajatuksia ihmisen alkuperästä.
         series: Kaisa Pulakan aikamatkat
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Kenelle puhun kun puhun chattibotille?'
         start_time: '2025-02-04T12:30:00+02:00'
         end_time: '2025-02-04T12:55:00+02:00'
+        description: |
+          Pasi Heikura kysyy kielentutkija Heidi Vepsäläiseltä, miten chattibottien kanssa kommunikoidaan. Ohjelmassa selvitetään, millainen klangi on haitarimaisella säällä, ja maistellaan soppaa, johon on kadonnut monta lusikkaa. Lopuksi paljastetaan Kotuksen kuukauden sana.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-04T12:55:00+02:00'
@@ -164,11 +167,19 @@ data:
       - title: Yle Uutiset
         start_time: '2025-02-04T15:00:00+02:00'
         end_time: '2025-02-04T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Trauman käsite kärsii inflaatiosta: Mitä traumatisoitumisella oikeastaan tarkoitetaan?'
         start_time: '2025-02-04T15:02:00+02:00'
         end_time: '2025-02-04T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Nykyään traumoista puhutaan paljon, ja aika kevyeenkin sävyyn. Traumoja saatetaan nähdä sielläkin missä niitä ei ole ja siten traumatisoitumisen käsite on kärsinyt hieman inflaatiosta. 
+
+          Traumatisoitunut keho ja mieli kirjan kirjoittaja Marko Punkanen haluaa oikoa väärinkäsityksiä: esimerkiksi tietyt kokemukset eivät aina johda traumatisoitumiseen ja on syytä selventää mitä traumatisoitumisella oikeastaan tarkoitetaan. Tutkimusten mukaan ainakin noin viisi prosenttia ihmisistä kärsiii traumaperäisestä stressihäiriöstä jossakin vaiheessa elämäänsä. 
+
+          Millaisia väärinkäsityksiä traumoihin liittyy? Miten mediassa puhutaan traumoista ja miten se vaikuttaa traumoista käytävään puheeseen? Puhuvatko ihmisetkin liian herkästi traumoista, vaikka kyseessä on elämään kuuluvat “tavan” vaikeudet ja haasteet? Liittyykö terapiakulttuuri jotenkin ilmiöön? 
+
+          Kulttuuriykkösen vieraana ovat Traumatisoitunut keho ja mieli kirjan kirjoittaja, vaativan erityistason traumapsykoterapeutti, Marko Punkanen sekä kouluttajapsykoterapeutti ja tietokirjailija Maaret Kallio. Toimittaja on Reetta Arvila. 
+
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-04T15:55:00+02:00'
         end_time: '2025-02-04T15:58:00+02:00'
@@ -180,6 +191,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-04T16:10:00+02:00'
         end_time: '2025-02-04T16:59:00+02:00'
+        description: |
+          Massenet: Aragonaise oopp. Le Cid (Israelin FO/Martinon). 
+
+          Beach: Chanson d'amour (Emma Kirkby, sopraano, ja The Romantic Chamber Group of London).
+
+          Cawrse: Con fuoco teoksesta Imperfect fourth (Aleksandr Tsiboulski, kitara, Cameron Hill ja Helen Ayres, viulu, Martin Alexander, alttoviulu, sekä Ewen Bramble, sello).
+
+          Brahms: Balladi pianolle H-duuri (Daniel Barenboim).
+
+          Wagner: Dalandin aaria "Mögst du, mein Kind" oopp. Lentävä hollantilainen (Martti Talvela, basso, ja RSO/Jussi Jalas).
+
+          Beethoven: Rondo sekstetosta puhaltimille Es-duuri (Mozzafiato).
+
+          Offenbach: Barcarolle "Belle nuit, o nuit d'amour" oopp. Hoffmannin kertomukset (Miah Persson, sopraano, Katarina Karneus, mezzosopraano, ja Ruotsin radion SO/Daniel Harding). 
+
+          Miyagi (sov. Junnonen): Keväinen meri (Sami Junnonen, huilu, ja Eva Alkula, kantele). 
+
+          Rautavaara: Närböläisten braa peli sarjasta Pelimannit (Keski-Pohjanmaan KO/Juha Kangas). 
+
+          Sibelius: Valssi kokoelmasta Viisi kappaletta viululle ja pianolle (Annemarie Åström ja Sonja Fräki).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-04T17:00:00+02:00'
@@ -256,6 +287,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-04T20:35:00+02:00'
         end_time: '2025-02-04T21:00:00+02:00'
+        description: |
+          Kaakkoisaasialaisen Myanmarin sisällissota on jäänyt kansainvälisesti melko vähälle huomiolle.
+
+          Uusimmassa sotilasvallankaappauksesta on tasan neljä vuotta. Siviilijohtaja Aung San Suu Kyi tiimeineen passitettiin takaisin vankeuteen helmikuussa 2021. Kymmenen vuoden ajan virinnyt demokraattinen kehitys pysähtyi.
+
+          Vallankaappaus kiihdytti vuosikymmeniä jatkuneita sisäisiä sotia, ja syntyi myös uusi aseellinen ryhmä pääosin kaupunkilaisnuorista. Etniset armeijat ja oppositio ovat viime kuukausina saaneet valattua jo 40 prosenttia maasta. 
+
+          Ohjelmassa kuullaan muun muassa Suomen Yangonin edustuston päällikön arvio maan tilanteesta. Lisäksi kysytään miten naapurimaat ovat yrittäneet vaikuttaa kehitykseen, joka uhkaa alueellista rauhaa. 
+
+          Ohjelman on toimittanut Sari Taussi. Äänitarkkailija on Panu Willman ja tuottaja Paula Vilén. 
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-02-04T21:00:00+02:00'

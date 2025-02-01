@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-31T02:24:07.525725+00:00'
+  generated_at: '2025-02-01T02:26:54.378842+00:00'
   git:
     branch: main
-    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
-  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
+    commit: f19acc8f1bfd9e7b046a359cef94e32cd0280cc2
+  data_hash: e4348ab20acdf28d54aa0a69e201dd893dc249ec4bdba1d8ce66833e90c09aaa
 data:
   Yle Radio 1:
     programmes:
@@ -62,6 +62,11 @@ data:
           Sinfonia no 104 D-duuri "Lontoolainen"
           (18. vuosisadan orkesteri/Frans Brüggen).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-02-02T07:56:46+02:00'
+        end_time: '2025-02-02T08:00:00+02:00'
+        description: |-
+          Jacobus Clemens non Papa -  Mogens Pedersön: Gods glory en de heerlichheyt (Retrover/Markus Tapio).
       - title: Yle Uutiset ja sää
         start_time: '2025-02-02T08:00:00+02:00'
         end_time: '2025-02-02T08:05:05+02:00'
@@ -98,7 +103,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-02T11:00:00+02:00'
         end_time: '2025-02-02T11:57:00+02:00'
-        description: |-
+        description: |
           Muistojen bulevardi
 
           Fontana/Pes: Il mondo (Jimmy Fontana).
@@ -113,7 +118,7 @@ data:
           Ornadel: Haavekuva (Topi Sorsakoski).
           Livingston/Evans: Mona Lisa (Gregory Porter).
           Neville: Whipped cream (Herb Alpert & The Tijuana Brass).
-          Rose: Blueberry Hill (Fats Domino).
+          Lewis/Stock/Rose: Blueberry Hill (Fats Domino).
           Bixio: Parlami d'amore, Mariu (Giuseppe di Stefano).
           Arro: Kodulinn Tallinn (Georg Ots).
         series: Muistojen bulevardi
@@ -219,17 +224,23 @@ data:
         description: |-
           Palveluksen toimittaa kirkkoherra Kaarlo Saarento. Kirkkokuoroa johtaa kanttori Marja-Leena Kugler.
         series: Jumalanpalvelukset radiossa
+      - title: Radio 1 soi
+        start_time: '2025-02-02T20:50:05+02:00'
+        end_time: '2025-02-02T21:00:00+02:00'
+        description: |-
+          J. S. Bach: Sonaatti n:o 1 C-duuri (Janet See, traverso).
       - title: Yle Uutiset
         start_time: '2025-02-02T21:00:00+02:00'
         end_time: '2025-02-02T21:02:05+02:00'
-      - title: Uutispodcast
-        start_time: '2025-02-02T21:03:00+02:00'
-        end_time: '2025-02-02T21:28:00+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+      - title: 'Uutispodcast: Capitol-hyökkääjä Zach on vapautensa velkaa Trumpille – nyt hän haluaa politiikkaan'
+        start_time: '2025-02-02T21:02:49+02:00'
+        end_time: '2025-02-02T21:25:53+02:00'
+        description: |-
+          Nelikymppinen Zach Rehl on yksi vuoden 2021 kongressihyökkäykseen osallistuneista, jotka pääsivät vapauteen Donald Trumpin astuttua virkaan. Ylen entinen Washingtonin-kirjeenvaihtaja Iida Tikka matkusti Philadelphiaan tapaamaan Rehlia ja selvittämään, millaisen voiman Trumpille vapautensa velkaa olevat armahdetut muodostavat. Juontajana Reetta Rönkä.
+        series: Uutispodcast
       - title: 'Klasariparatiisi: Haydn valloittaa Britannian'
-        start_time: '2025-02-02T21:29:00+02:00'
-        end_time: '2025-02-02T22:23:22+02:00'
+        start_time: '2025-02-02T21:27:01+02:00'
+        end_time: '2025-02-02T22:21:23+02:00'
         description: |
           Valeuutiset eivät ole uusi ilmiö.
           Kun Euroopan kuuluisinta säveltäjää Joseph Haydnia ei saatu Lontooseen, alkoivat englantilaiset sanomalehdet julkaista erikoisa juttuja.
@@ -246,14 +257,19 @@ data:
           (18. vuosisadan orkesteri/Frans Brüggen).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Kun parisuhde muuttuu hoivasuhteeksi'
-        start_time: '2025-02-02T22:26:30+02:00'
-        end_time: '2025-02-02T23:20:12+02:00'
+        start_time: '2025-02-02T22:22:25+02:00'
+        end_time: '2025-02-02T23:16:07+02:00'
         description: |-
           Millaista on, kun ryhtyy puolisonsa omaishoitajaksi? Muuttuuko rakkaus?
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-02-02T23:16:07+02:00'
+        end_time: '2025-02-02T23:24:52+02:00'
+        description: |-
+          Berlioz: Le Corsaire (Merirosvo), alkusoitto (Detroitin SO/Paul Paray).
       - title: Romano mirits
-        start_time: '2025-02-02T23:25:00+02:00'
-        end_time: '2025-02-02T23:38:58+02:00'
+        start_time: '2025-02-02T23:24:52+02:00'
+        end_time: '2025-02-02T23:38:50+02:00'
         description: |+
           Allan Lindeman opiskeli lähihoitajaksi ja teki töitä lasten suojelussa. Hän sai tehtäväksi hakea poliisilaitokselta nuoren lastensuojelulaitokseen. Koska hälytys tuli illalla, Lindemanilla oli yllään arkivaatteet. Poliisilaitoksella romaniasuun pukeutunut Lindeman kohtasi poliisin, joka pelästyksissään meinasi tarttua aseeseen. Tilanne järkytti Lindemanin. Hän ei osannut tehdä muuta kuin nostaa kädet ylös ja sanoa “työasioilla”. Toimittaja Mertsi Lindgren.
 

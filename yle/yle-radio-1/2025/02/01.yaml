@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-01-31T02:24:07.027500+00:00'
+  generated_at: '2025-02-01T02:26:40.439554+00:00'
   git:
     branch: main
-    commit: 450ad88268014dcb4dc972ed3ac7a4ef52c2ab8a
-  data_hash: 96853c298946e15d3d638c6fa46ad3977235dba0123bcd4dc7fd7def9ab76e3d
+    commit: f19acc8f1bfd9e7b046a359cef94e32cd0280cc2
+  data_hash: e4348ab20acdf28d54aa0a69e201dd893dc249ec4bdba1d8ce66833e90c09aaa
 data:
   Yle Radio 1:
     programmes:
@@ -49,6 +49,9 @@ data:
       - title: Radio 1 soi
         start_time: '2025-02-01T07:02:05+02:00'
         end_time: '2025-02-01T07:22:53+02:00'
+        description: |-
+          Rosenmüller: Sinfonia quinta (Tafelmusik Baroque Soloists).
+          Sor: Fantaisie villageoise (Maalaisfantasia) a-molli (David Starobin, kitara).
         series: Yksi on hyvää seuraa
       - title: 'Kulttuurin kulmilla: Musiikkitalon komeat urut'
         start_time: '2025-02-01T07:22:53+02:00'
@@ -90,14 +93,11 @@ data:
           "Tässä on pelastustie"
           Pastori Atte Helminen, Adventtikirkko, Vantaa puhuu  menneisyydessä, nykyisyydessä ja tulevaisuudessa koettavissa olevasta pelastuksesta.
         series: Aamuhartaus
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Pienoisrautatie ajatuksissa kauas vie'
         start_time: '2025-02-01T08:35:00+02:00'
         end_time: '2025-02-01T08:55:00+02:00'
-        description: |
+        description: |-
           Kauppakeskus Redissä Helsingissä on esillä Suomen suurin pienoisrautatie. Sen ovat rakentaneet Alppirautatieharrastajat ry:n jäsenet. Junaradan sydän on sveitsiläisen Oltenin kaupungin rautatieasema. Syy miksi rata kuvaa Oltenia löytyy alppirautatieharrastajien puheenjohtajasta, espoolaisesta Lorenz Schmuclista, jonka vanha kotikaupunki Olten on. Minne Rinne vie ohjelmaa toimittaa Petri Rinne.
-
-
-          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-01T08:55:00+02:00'
@@ -163,6 +163,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-01T12:05:00+02:00'
         end_time: '2025-02-01T12:30:00+02:00'
+        description: |
+          Kaakkoisaasialaisen Myanmarin sisällissota on jäänyt kansainvälisesti melko vähälle huomiolle.
+
+          Uusimmassa sotilasvallankaappauksesta on tasan neljä vuotta. Siviilijohtaja Aung San Suu Kyi tiimeineen passitettiin takaisin vankeuteen helmikuussa 2021. Kymmenen vuoden ajan virinnyt demokraattinen kehitys pysähtyi.
+
+          Vallankaappaus kiihdytti vuosikymmeniä jatkuneita sisäisiä sotia, ja syntyi myös uusi aseellinen ryhmä pääosin kaupunkilaisnuorista. Etniset armeijat ja oppositio ovat viime kuukausina saaneet valattua jo 40 prosenttia maasta. 
+
+          Ohjelmassa kuullaan muun muassa Suomen Yangonin edustuston päällikön arvio maan tilanteesta. Lisäksi kysytään miten naapurimaat ovat yrittäneet vaikuttaa kehitykseen, joka uhkaa alueellista rauhaa. 
+
+          Ohjelman on toimittanut Sari Taussi. Äänitarkkailija on Panu Willman ja tuottaja Paula Vilén. 
         series: Maailmanpolitiikan arkipäivää
       - title: 'Guruja & Asanoita:  Riittääkö 200 tuntia tekemään joogaopettajan? '
         start_time: '2025-02-01T12:30:00+02:00'
@@ -313,30 +323,50 @@ data:
           Tekoäly Deepseek on kumonnut uskomukset siitä, että Kiina olisi jäänyt ratkaisevasti jälkeen tekoälykilvassa. Mikä Deepseekissä on uutta ja hienoa? Sami Lindforsin vieraana on tietojenkäsittelytieteen professori Teemu Roos Helsingin yliopistosta.
         series: Uutispodcast
       - title: Maailmanpolitiikan arkipäivää
-        start_time: '2025-02-01T21:29:00+02:00'
-        end_time: '2025-02-01T21:54:00+02:00'
-        series: Maailmanpolitiikan arkipäivää
-      - title: Minne Rinne vie
-        start_time: '2025-02-01T22:00:00+02:00'
-        end_time: '2025-02-01T22:18:49+02:00'
+        start_time: '2025-02-01T21:27:05+02:00'
+        end_time: '2025-02-01T21:51:18+02:00'
         description: |
+          Kaakkoisaasialaisen Myanmarin sisällissota on jäänyt kansainvälisesti melko vähälle huomiolle.
+
+          Uusimmassa sotilasvallankaappauksesta on tasan neljä vuotta. Siviilijohtaja Aung San Suu Kyi tiimeineen passitettiin takaisin vankeuteen helmikuussa 2021. Kymmenen vuoden ajan virinnyt demokraattinen kehitys pysähtyi.
+
+          Vallankaappaus kiihdytti vuosikymmeniä jatkuneita sisäisiä sotia, ja syntyi myös uusi aseellinen ryhmä pääosin kaupunkilaisnuorista. Etniset armeijat ja oppositio ovat viime kuukausina saaneet valattua jo 40 prosenttia maasta. 
+
+          Ohjelmassa kuullaan muun muassa Suomen Yangonin edustuston päällikön arvio maan tilanteesta. Lisäksi kysytään miten naapurimaat ovat yrittäneet vaikuttaa kehitykseen, joka uhkaa alueellista rauhaa. 
+
+          Ohjelman on toimittanut Sari Taussi. Äänitarkkailija on Panu Willman ja tuottaja Paula Vilén. 
+        series: Maailmanpolitiikan arkipäivää
+      - title: Radio 1 soi
+        start_time: '2025-02-01T21:51:18+02:00'
+        end_time: '2025-02-01T21:58:00+02:00'
+        description: |-
+          W.A. Mozart: Adagio B-duuri (Reijo Koskinen ja Jyri Nissilä, klarinetti, sekä Kullervo Kojo, Marja Haapamäki ja Antti Koskela, basettitorvi).
+      - title: 'Minne Rinne vie: Pienoisrautatie ajatuksissa kauas vie'
+        start_time: '2025-02-01T21:58:00+02:00'
+        end_time: '2025-02-01T22:16:49+02:00'
+        description: |-
           Kauppakeskus Redissä Helsingissä on esillä Suomen suurin pienoisrautatie. Sen ovat rakentaneet Alppirautatieharrastajat ry:n jäsenet. Junaradan sydän on sveitsiläisen Oltenin kaupungin rautatieasema. Syy miksi rata kuvaa Oltenia löytyy alppirautatieharrastajien puheenjohtajasta, espoolaisesta Lorenz Schmuclista, jonka vanha kotikaupunki Olten on. Minne Rinne vie ohjelmaa toimittaa Petri Rinne.
-
-
-          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
       - title: 'Kielen päällä: Suomi on piilomaskuliininen kieli, jossa "ihminen" on enemmänkin "mies"'
-        start_time: '2025-02-01T22:20:30+02:00'
-        end_time: '2025-02-01T22:28:57+02:00'
+        start_time: '2025-02-01T22:17:52+02:00'
+        end_time: '2025-02-01T22:26:19+02:00'
         description: |
           Suomen kielen erityisasiantuntija Ulla Tiililä jatkaa sukupuolineutraaleista ammattinimikkeistä. Ongelmallisia ovat erityisesti sukupuolittavat mies-päätteiset sanat. Vaihtoehtoiset "henkilöt" ovat kuitenkin usein hyvin kömpelöitä, esimerkiksi luottamushenkilö. Toimittajana on Jari Aula.
         series: Kielen päällä
       - title: 'Keinuva talo - Mika Kauhanen: Kahvila Välimeren turkoosissa'
-        start_time: '2025-02-01T22:30:30+02:00'
-        end_time: '2025-02-01T23:29:43+02:00'
+        start_time: '2025-02-01T22:26:52+02:00'
+        end_time: '2025-02-01T23:26:05+02:00'
         description: |
           Talven keskellä musiikki lämmittää! Matkaamme Välimeren musiikkikulttuurien luo, paikkoihin, joissa syntyi rai, rebetiko ja rumba catalana. Tunnelmalliset kuppilat ottavat meidät vastaan Algeriassa, Espanjassa, Kreikassa, Kyproksella, Turkissa, Syyriassa, Italiassa, Kroatiassa ja Marokossa. Musiikista voi aistia maut, mausteet ja turkoosinsinisen Välimeren.
         series: Keinuva talo - Mika Kauhanen
+      - title: Eilisen ääni. Pilvien matkassa
+        start_time: '2025-02-01T23:26:40+02:00'
+        end_time: '2025-02-01T23:39:26+02:00'
+        description: |-
+          Eilisen äänessä ollaan pilvien matkassa, kun meteorologi Jarmo Koistinen Ilmatieteen laitokselta kertoo sateesta ja pilvistä. Toimittajana on Maija Typpi.
+
+          Ohjelman ensilähetys oli 15.6.2005.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-02-01T23:40:00+02:00'
         end_time: '2025-02-02T07:00:00+02:00'
