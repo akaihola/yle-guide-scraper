@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-02T02:26:01.536542+00:00'
+  generated_at: '2025-02-03T02:24:49.279896+00:00'
   git:
     branch: main
-    commit: 7877d5d6c443a1641642aa17082590df927de552
-  data_hash: 46cfdfff6236bb1dbb7cace7e4d1fb7fc4045ee4c5d61806d98d871a303575b8
+    commit: 589065481592a2befa8048eb55fb9dcf9786b970
+  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
 data:
   Yle Radio 1:
     programmes:
@@ -251,9 +251,18 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-06T21:05:00+02:00'
         end_time: '2025-02-06T21:34:30+02:00'
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+      - title: 'Radioteatteri esittää: Verinen lyhty, 5/12.'
         start_time: '2025-02-06T22:30:30+02:00'
-        end_time: '2025-02-06T22:49:30+02:00'
+        end_time: '2025-02-06T22:52:03+02:00'
+        description: |
+          Edellisessä jaksossa on selvinnyt, että maantiellä murhattu Matti Peltola, Heikkilän Annan sulhanen, oli tulossa tuomaan Heikkilän taloon suurta rahasummaa pitääkseen talon palvelijatar Kirstin hiljaa heidän menneestä aviottomasta suhteestaan.
+
+          Kirjoittanut Jalmari Finne. Ohjaus: Antero Alpola.
+
+          Rooleissa:
+          Hillevi Lagerstam, Esko Roine, Seppo Laine, Martta Reima,  Ismo Kallio, Pekka Autiovuori,  Esa Saario,Saara Pakkasvirta,  Leena Uotila, Lauri Kuosmanen, Rauha Rentola, Seppo Kolehmainen ja Arja Pekurinen,
+          Uusinta vuodelta 1979.
+        series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-02-06T23:00:00+02:00'
         end_time: '2025-02-06T23:56:30+02:00'

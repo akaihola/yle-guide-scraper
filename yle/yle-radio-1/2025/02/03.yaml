@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-02T02:26:00.451837+00:00'
+  generated_at: '2025-02-03T02:24:48.139616+00:00'
   git:
     branch: main
-    commit: 7877d5d6c443a1641642aa17082590df927de552
-  data_hash: 46cfdfff6236bb1dbb7cace7e4d1fb7fc4045ee4c5d61806d98d871a303575b8
+    commit: 589065481592a2befa8048eb55fb9dcf9786b970
+  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
 data:
   Yle Radio 1:
     programmes:
@@ -256,8 +256,12 @@ data:
       - title: 'MPA: Muuttuvan maailmanjärjestyksen ilta'
         start_time: '2025-02-03T19:02:40+02:00'
         end_time: '2025-02-03T21:00:00+02:00'
-        description: |-
+        description: |
           Onko maailma kuin holtiton vuoristorata? Yhteiset kansainväliset pelisäännöt murenevat. Moni asia askarruttaa, jopa pelottaa. Kuinka Suomi pärjää?
+
+          Tätä kysytään suorassa lähetyksessä Suomen ulkopolitiikkaa johtavalta, tasavallan presidentti Alexander Stubbilta.
+
+          Studiossa myös Ulkopoliittisen instituutin uusi johtaja Hiski Haukkala, kansainvälisen oikeuden asiantuntija Katja Creutz, London School of Economicsin tutkija Helja Ossa, kirjailija-ohjaaja Juha Hurme ja filosofi Maija-Riitta Ollila. Lisäksi illan aikana kuullaan ihmisten tuntoja Suomesta ja maailmalta.
 
           Suoraa keskustelua johdattelevat ulkomaantoimittajat Erja Tuomaala ja Sampo Vaarakallio. Ohjelman tuottaa Paula Vilén.
         series: Maailmanpolitiikan arkipäivää
@@ -267,22 +271,24 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-03T21:05:00+02:00'
         end_time: '2025-02-03T21:34:30+02:00'
-      - title: Tiedeykkönen
-        start_time: '2025-02-03T21:35:00+02:00'
-        end_time: '2025-02-03T22:24:30+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: 'Tiedeykkönen: Sopeutuuko kaupunki ilmastonmuutokseen?'
+        start_time: '2025-02-03T21:34:52+02:00'
+        end_time: '2025-02-03T22:23:46+02:00'
+        description: |-
+          Onko kaupunkirakentamisen keinoista apua ilmastonmuutokseen sopeutumisessa? Sitä pohtivat kaupunkimeteorologian professori Leena Järvi, Helsingin yliopistosta ja maisema-arkkitehtuurin professori Ranja Hautamäki, Aalto yliopistosta. Tiedeykkösen toimittaa Leena Mattila.
+        series: Tiedeykkönen
       - title: 'Kaisa Pulakan aikamatkat: Oispa kaljaa 2/2'
-        start_time: '2025-02-03T22:25:00+02:00'
-        end_time: '2025-02-03T22:44:07+02:00'
+        start_time: '2025-02-03T22:24:36+02:00'
+        end_time: '2025-02-03T22:43:43+02:00'
         description: |
           Seikkailu oluen juomisen kulttuurihistoriassa jatkuu kotimaan maisemissa. Pannaan olutta Kalevalan Osmottaren oudolla reseptillä ja tutustutaan 1600-luvun afterwork-kulttuuriin. Kaisa Pulakan seurassa ihmetellään myös sitä, miten 1900-luvun alun rikas panimokulttuuri vaihtui 1990-luvulla tilanteeseen, jossa olutta valmisti Suomessa vain kolme panimoa.  
         series: Kaisa Pulakan aikamatkat
-      - title: Näistä levyistä en luovu
-        start_time: '2025-02-03T22:45:00+02:00'
+      - title: 'Näistä levyistä en luovu: Eva Tawasoli'
+        start_time: '2025-02-03T22:44:43+02:00'
         end_time: '2025-02-03T23:39:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Vieraana on kunta- ja hyvinvointialuepolitiikko ja sairaanhoitaja Eva Tawasoli. Hänen tarinansa kautta saamme kurkistaa ensin Iranissa asuvan pikkutytön arkeen, ja sitten tunnelmiin Suomeen muuton jälkeen. Sävelet tuovat kaikuja kummastakin maailmasta.
+        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-02-03T23:40:00+02:00'
         end_time: '2025-02-04T06:30:00+02:00'
