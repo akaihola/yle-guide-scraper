@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-03T02:24:55.994696+00:00'
+  generated_at: '2025-02-04T02:24:26.020644+00:00'
   git:
     branch: main
-    commit: 589065481592a2befa8048eb55fb9dcf9786b970
-  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
+    commit: bac25b3c761358c3927706698c77f34d72265cf8
+  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
 data:
   Yle Radio 1:
     programmes:
@@ -53,10 +53,28 @@ data:
         end_time: '2025-03-01T08:55:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-        series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-01T08:55:00+02:00'
         end_time: '2025-03-01T09:00:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-03-01T09:05:40+02:00'
+        end_time: '2025-03-01T09:58:00+02:00'
+        description: |
+          Stanley: Glendora (Perry Como).
+          Vacek: Graj, piekny cyganie (Irena Santor).
+          Marini: Sua ilman (Jarkko Lehti).
+          Celentano: 24 mila baci (Little Tony).
+          Skellern: Vous ma lady (Brigitte Bardot jaLaurent Vergez).
+          Webb: Honey come back (Glen Campbell).
+          Robbins: El Paso (Marty Robbins).
+          Glaser: Viisi veljestä (Tapio Rautavaara).
+          Svab: Wohin kleines Pony (Bob Martin).
+          Calderon: Rör vid mej (Inger Öst).
+          Harris: Why can't I cry (Tom Jones).
+          Anka: Yö on kyynelten (Laila Kinnunen).
+          Trenet: Beyond the sea (Helen Shapiro).
+          Cohen: Suzanne (Leonard Cohen).
+        series: Muistojen bulevardi
       - title: Rytmikamari
         start_time: '2025-03-01T10:45:00+02:00'
         end_time: '2025-03-01T11:00:00+02:00'

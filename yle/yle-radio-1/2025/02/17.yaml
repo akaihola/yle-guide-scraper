@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-03T02:24:52.842472+00:00'
+  generated_at: '2025-02-04T02:24:22.509846+00:00'
   git:
     branch: main
-    commit: 589065481592a2befa8048eb55fb9dcf9786b970
-  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
+    commit: bac25b3c761358c3927706698c77f34d72265cf8
+  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
 data:
   Yle Radio 1:
     programmes:
@@ -153,11 +153,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-17T19:00:00+02:00'
         end_time: '2025-02-17T19:02:00+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J5: Lannoitemauste tekee salmiakin'
         start_time: '2025-02-17T19:02:40+02:00'
         end_time: '2025-02-17T19:35:00+02:00'
-        description: |2+
-
+        description: |
+          Salmiakki jakaa ihmiset ja kansakunnat tiukasti kahtia - sitä joko rakastetaan tai vihataan. Suomen Salmiakkiyhdistyksen puheenjohtaja Jukka Annala kertoo, missä kaikkialla ammoniumkloridilla maustettu lakritsi kelpaa herkuksi. Jaksossa kuullaan myös, miten EU-sääntely oli vaarantaa koko karkin olemassaolon. Ja millaiset tuotekategoriat saavat fanit väittelemään siitä, mikä kaikki voidaan laskea salmiakiksi. Ohjelman toimittaa Jani Halme ja sen on Ylelle tuottanut Jaksomedia.
       - title: Musiikkikamari
         start_time: '2025-02-17T19:35:00+02:00'
         end_time: '2025-02-17T19:57:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-03T02:24:51.135529+00:00'
+  generated_at: '2025-02-04T02:24:20.471787+00:00'
   git:
     branch: main
-    commit: 589065481592a2befa8048eb55fb9dcf9786b970
-  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
+    commit: bac25b3c761358c3927706698c77f34d72265cf8
+  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
 data:
   Yle Radio 1:
     programmes:
@@ -156,7 +156,8 @@ data:
         start_time: '2025-02-11T18:50:00+02:00'
         end_time: '2025-02-11T19:00:00+02:00'
         description: |
-          Everstiluutnantti Saga Lippo, Pelastusarmeija, Helsinki
+          "Muistamisia ja unohtamisia"
+          Everstiluutnantti Saga Lippo, Pelastusarmeija, Helsingistä pohtii muistia ja muistamista sekä ihmiselämässä että Raamatun kirjoituksissa.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-11T19:00:00+02:00'

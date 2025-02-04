@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-03T02:24:52.640575+00:00'
+  generated_at: '2025-02-04T02:24:22.153257+00:00'
   git:
     branch: main
-    commit: 589065481592a2befa8048eb55fb9dcf9786b970
-  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
+    commit: bac25b3c761358c3927706698c77f34d72265cf8
+  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
 data:
   Yle Radio 1:
     programmes:
@@ -58,11 +58,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-16T12:00:00+02:00'
         end_time: '2025-02-16T12:05:00+02:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Hurriganes Kekkoslovakiassa - vieraana Petri Laukka'
         start_time: '2025-02-16T12:05:00+02:00'
         end_time: '2025-02-16T12:55:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Hurriganes Kekkoslovakiassa - vieraana Petri Laukka
         series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-16T12:55:00+02:00'
@@ -104,6 +104,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-16T16:10:00+02:00'
         end_time: '2025-02-16T16:59:00+02:00'
+        description: |-
+          Delibes: Pizzicato baletista Sylvia (Göteborgin sinfoniaorkesteri/Neeme Järvi).
+
+          Persiani: Inesin romanssi oopp. Ines de Castro (Cecilia Bartoli, mezzosopraano, soitinyhtye, sekä Orchestra La Scintilla/Adam Fischer).
+
+          Sarasate: Andalusialainen romanssi (Gil Shaham, viulu, ja Orpheus-kamariork.).
+
+          Poulenc: Lemmenpolut (Misha Maisky, sello, ja Daria Hovora, piano).
+
+          MacDowell: Das Rosenband (Thomas Hampson, baritoni, ja Armen Guzelimian, piano).
+
+          Mascagni: Intermezzo oopp. Fritz-ystävä (Monte Carlon FO/Lawrence Foster).
+
+          Goldmark: Serenadi sarj. Maalaishäät (New Yorkin FO/Leonard Bernstein).
+
+          Chaminade: Concertino huilulle ja orkesterille (Sharon Bezaly ja Haagin Residentie-ork./Neeme Järvi). 
+
+          Albéniz: Mallorca (Santiago Rodriguez, piano).
+
+          Bacalov: Teema elok. Posteljooni (Itzhak Perlman, viulu, ja Pittsburghin SO/John Williams).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-16T17:00:00+02:00'

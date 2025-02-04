@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-03T02:24:54.580903+00:00'
+  generated_at: '2025-02-04T02:24:24.587602+00:00'
   git:
     branch: main
-    commit: 589065481592a2befa8048eb55fb9dcf9786b970
-  data_hash: 089f09f545b14b602eeffad40a0fb9855862227fd066f0d5734b2d9e561a9ca8
+    commit: bac25b3c761358c3927706698c77f34d72265cf8
+  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-24T09:05:40+02:00'
         end_time: '2025-02-24T09:58:00+02:00'
+        description: |
+          Porter: Be a clown (Gene Kelly ja Judy Garland).
+          Hurmerinta: Kaksi lempeätä tähtisilmää (Arvi Hänninen).
+          Hardy: J'aurais voulu (Francoise Hardy).
+          Styne: Five minutes more (Frank Sinatra).
+          Niessen: Was wissen Männer von Liebe (Zarah Leander).
+          Morton: Mie jatsin sain (Rempsetti). 
+          Lake/Jenney: Man with a horn (Anita O'Day).
+          Gainsbourg: Le poinconneur des lilas (Serge Gainsbourg).
+          Storch: Auf wiederseh'n sweetheart (Vera Lynn).
+          Sting: Frágil (Sting).
+          Young: Lyckovägen (Yngve Stoor ja Harmony Sisters).
+          Simon: Istanbul (Frankie Vaughan).
+          Kansansäv.: Uska dara (Vieno Kekkonen).
+          Ketelbey: Persialaisella torilla (Boston Pops/Arthur Fiedler).
         series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-02-24T10:00:00+02:00'
@@ -116,7 +131,6 @@ data:
         end_time: '2025-02-24T18:50:00+02:00'
         description: |
           Kuuntelijoiden toivomaa hengellistä musiikkia.
-        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-02-24T18:50:00+02:00'
         end_time: '2025-02-24T19:00:00+02:00'
@@ -126,11 +140,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-24T19:00:00+02:00'
         end_time: '2025-02-24T19:02:00+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J6: Xylitol pelasti purkan maineen'
         start_time: '2025-02-24T19:02:40+02:00'
         end_time: '2025-02-24T19:35:00+02:00'
-        description: |2+
-
+        description: |
+          Purukumin maailmanvalloitus alkoi Yhdysvalloista, mutta myös Suomella on sanansa sanottavana sen historiassa, joten tässä jaksossa kuulemme, kuinka purkka levisi Eurooppaan. Jaksossa yritämme päästä Guinnessin ennätysten kirjaan ja opetella tunnistamaan purkan kaksi päälajia. Ja mitä tekemistä on xylitolilla sokerin tai koivun kanssa? Jakson vieraana on Cloettan Milla Vihanto. Ohjelman toimittaa Jani Halme ja sen on Ylelle tuottanut Jaksomedia.
       - title: Musiikkikamari
         start_time: '2025-02-24T19:35:00+02:00'
         end_time: '2025-02-24T19:57:00+02:00'
