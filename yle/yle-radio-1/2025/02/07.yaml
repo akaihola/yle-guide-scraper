@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-04T02:24:19.170250+00:00'
+  generated_at: '2025-02-06T02:26:04.509436+00:00'
   git:
     branch: main
-    commit: bac25b3c761358c3927706698c77f34d72265cf8
-  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
+    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
+  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
 data:
   Yle Radio 1:
     programmes:
@@ -89,12 +89,26 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-07T09:05:40+02:00'
         end_time: '2025-02-07T09:58:00+02:00'
+        description: |
+          Störrle: Gin and tonic (Radion viihdeorkesteri).
+          Calfati: Aarteeni (Brita Wesander).
+          Anka: Ogni giorno (Paul Anka).
+          Kansanlaulu: East Virginia (Joan Baez).
+          Kansanlaulu: When Johnny comes marching home (Pihasoittajat).
+          Chapin: Monofilharmoonikko (H.E.C.).
+          Donner: Niin vähän on aikaa (Pepe Willberg).
+          Iradier: La Paloma (Sara Montiel).
+          Gordy: Reet petite (Jackie Wilson).
+          Polnareff: Histoire de coeur (Michel Polnareff).
+          Goldsmith: Free as the wind (Engelbert Humperdinck).
+          Kaempfert: The world we knew (Bert Kämpfert orkestereineen).
         series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2025-02-07T10:00:00+02:00'
         end_time: '2025-02-07T10:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-07T10:55:00+02:00'
         end_time: '2025-02-07T11:00:00+02:00'
@@ -118,9 +132,12 @@ data:
         end_time: '2025-02-07T12:59:30+02:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2025-02-07T13:00:00+02:00'
         end_time: '2025-02-07T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-07T13:30:00+02:00'
         end_time: '2025-02-07T15:00:00+02:00'
@@ -176,8 +193,8 @@ data:
       - title: 'Näistä levyistä en luovu: Kake Randelin - minut on rokotettu gramofonin neulalla'
         start_time: '2025-02-07T17:35:00+02:00'
         end_time: '2025-02-07T18:30:00+02:00'
-        description: |-
-          Iskelmälaulaja Kake Randelin täytti tammikuussa 70 vuotta. Intoa laulamiseen ja kiertämiseen riittää, sillä artistin keikkoja myydään edelleen vuodesta toiseen yli sata. Uuden buustin, jo nyt pitkälle uralle, on viime aikoina tuonut myös kotimaiset rap -muusikot, jotka ovat napanneet iskelmätähden tuotannosta sampleja omiin teoksiinsa. Näistä levyistä en luovu ohjelmaan Kake valisit nipun omia suosikkeja, ja uskokaan tai älkää, mutta yhtään iskelmää ei tänään kuulla. Ohjelman toimittaa Petri Rinne.
+        description: |
+          Iskelmälaulaja Kake Randelin täytti tammikuussa 70 vuotta. Intoa laulamiseen ja keikoilla kiertämiseen riittää, ja artistilla on edelleen kysyntää. Uuden buustin ja aivan uuden yleisön hänelle ovat viime vuosina tuoneet kotimaiset rap-muusikot, jotka ovat napanneet Kaken tuotannosta niin sanottuja sampleja omiin kappaleisiinsa. Näistä levyistä en luovu -ohjelmaan Kake valtisi nipun omia suosikkejaan, ja uskokaa tai älkää, mutta yhtään iskelmää ei kuulla. Ohjelman toimittaa Petri Rinne.
         series: Näistä levyistä en luovu
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-07T18:30:00+02:00'
@@ -198,25 +215,40 @@ data:
         end_time: '2025-02-07T21:05:00+02:00'
         description: |
           Hannu Lintu, kapellimestari, Paavali Jumppanen, piano. - Pierre Boulez: Rituel, in memoriam Bruno Maderna. Olivier Messiaen: Eksoottisia lintuja. Igor Stravinsky: Satakielen laulu. John Adams: Slonimsky’s Earbox. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson.
-      - title: Yle Uutiset
-        start_time: '2025-02-07T21:00:00+02:00'
-        end_time: '2025-02-07T21:02:00+02:00'
-      - title: Politiikkaradio
+      - title: Yksi on hyvää seuraa
         start_time: '2025-02-07T21:05:00+02:00'
-        end_time: '2025-02-07T21:34:30+02:00'
-      - title: Kalle Haatanen
-        start_time: '2025-02-07T21:35:00+02:00'
-        end_time: '2025-02-07T22:24:30+02:00'
+        end_time: '2025-02-07T21:15:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-02-07T21:15:00+02:00'
+        end_time: '2025-02-07T21:44:30+02:00'
+        series: Politiikkaradio
+      - title: 'Kalle Haatanen: Demokratian aika'
+        start_time: '2025-02-07T21:45:00+02:00'
+        end_time: '2025-02-07T22:34:25+02:00'
         description: |
-          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+          Ajatus siitä, millaisessa suhteessa demokratia on aikaan, on melko vaikea kysymys.
+
+          Historia on hyvin harvoin jotenkin yliajallista tai selkeää kehityspoluiltaan. Toisaalta demokratiaan kuuluu jatkuvat uudelleenarvioinnit ja historian ajallisuuden uudelleentulkinnat.
+
+          Suhteet suuriin historian kriiseihin, esimerkiksi holokaustiin, vaativatkin meitä miettimään uudelleen suhdetta taustaamme, harjoitamme siis historianhallintaa.
+
+          Akatemiatutkija Timo Miettinen haastaa meidät uusiin tulkintoihin siitä, millaista aikaa historiantutkimus meille tuottaa.
+        series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
-        start_time: '2025-02-07T22:25:00+02:00'
-        end_time: '2025-02-07T23:15:00+02:00'
+        start_time: '2025-02-07T22:35:33+02:00'
+        end_time: '2025-02-07T23:24:56+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kulttuurin kulmilla
-        start_time: '2025-02-07T23:30:30+02:00'
-        end_time: '2025-02-07T23:39:00+02:00'
+        series: Tuuli Saksalan keidas
+      - title: Radio 1 soi
+        start_time: '2025-02-07T23:24:56+02:00'
+        end_time: '2025-02-07T23:31:38+02:00'
+        series: Yksi on hyvää seuraa
+      - title: 'Kulttuurin kulmilla: Miksi sinfoniaorkesteri pukeutuu tummiin?'
+        start_time: '2025-02-07T23:31:38+02:00'
+        end_time: '2025-02-07T23:39:40+02:00'
+        description: |-
+          Timo Teräsvuori tutustuu orkesterien pukukoodeihin. 
         series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-02-07T23:40:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-04T02:24:18.847921+00:00'
+  generated_at: '2025-02-06T02:26:04.216267+00:00'
   git:
     branch: main
-    commit: bac25b3c761358c3927706698c77f34d72265cf8
-  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
+    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
+  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
 data:
   Yle Radio 1:
     programmes:
@@ -87,6 +87,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-02-06T08:10:00+02:00'
         end_time: '2025-02-06T09:00:00+02:00'
+        description: |-
+          8.11. Millaisilla teemoilla puoleet suuntaavat alue- ja kuntavaaleihin? Löytyykö terveydenhuollon järjestämisestä tai lähikouluista yhteistä säveltä? Keskustelemassa kansanedustajat Hilkka Kemppi (kesk), Niina Malm (sdp), Karoliina Partanen (kok.) sekä  Miko Bergbom (ps.).
+
+          8.36 Saksassa valmistaudutaan vaaleihin. Toimittaja Katarina Baer raportoi. 
+
+          8.41 Sääntöpohjainen maailmanjärjestys muutoksessa. Keskusteleamassa kansainvälisen politiikan professori Henri Vogt sekä toiminnanjohtaja Helena Laukko YK-liitosta. 
+
+          Juontajana Atte Uusinoka. Toimittajina Anssi Väisänen ja Mira Stenström. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-06T09:00:00+02:00'
         end_time: '2025-02-06T09:05:00+02:00'
@@ -118,6 +127,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-06T10:52:00+02:00'
         end_time: '2025-02-06T11:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-02-06T11:00:00+02:00'
         end_time: '2025-02-06T11:57:00+02:00'
@@ -143,9 +153,13 @@ data:
         start_time: '2025-02-06T12:47:00+02:00'
         end_time: '2025-02-06T13:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Mikä ratkaisee kunta- ja aluevaalit?'
         start_time: '2025-02-06T13:00:00+02:00'
         end_time: '2025-02-06T13:30:00+02:00'
+        description: |
+          Kevään tuplavaaleihin on runsaat kaksi kuukautta. Mistä asetelmista puolueet vaaleihin lähtevät? Mikä ratkaisee vaalit? 
+          Studiossa politiikan tutkijat Jenni Karimäki ja Aino Tiihonen. Toimittajana on Antti Pilke. Suora lähetys.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-06T13:30:00+02:00'
         end_time: '2025-02-06T15:00:00+02:00'
@@ -206,12 +220,14 @@ data:
         start_time: '2025-02-06T17:10:00+02:00'
         end_time: '2025-02-06T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kansanedustaja kyseenalaisti tutkimustiedon suorassa tv-lähetyksessä ja hallitus haluaa yhdistää tiedepaneeleja. Millainen on tieteen ja politiikan suhde? Reetta Röngän vieraana kansanedustajat ja tutkijat Anna Kontula (vas.) ja Jarno Limnéll (kok.).
+        series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-02-06T17:35:00+02:00'
         end_time: '2025-02-06T18:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
       - title: 'Kielen päällä: Suržykin merkitys Ukrainassa'
         start_time: '2025-02-06T18:25:00+02:00'
         end_time: '2025-02-06T18:34:30+02:00'
@@ -245,13 +261,14 @@ data:
         start_time: '2025-02-06T19:02:00+02:00'
         end_time: '2025-02-06T20:53:00+02:00'
         description: |
-          Saamelaisten kansallispäivän konsertti-ilta. Wimme & Saari ja Vildá-duo Womex-festivaalilla Tampereella 2019 ja Katarina Barruk Umefolkissa 2014. Toimittajana Miika Lauriala. 
+          Saamelaisten kansallispäivän konsertti-ilta. Wimme & Rinne ja Vildá-duo Womex-festivaalilla Tampereella 2019. Katarina Barruk Umefolkissa 2024. Toimittajana Miika Lauriala. 
         series: Etnokonsertteja
       - title: Musiikkikamari
         start_time: '2025-02-06T20:53:00+02:00'
         end_time: '2025-02-06T21:00:00+02:00'
         description: |-
           Rasmus: Andde Niillasa Asko (Annamaret Luohteilbmi). 
+        series: Musiikkikamari
       - title: Yle Uutiset
         start_time: '2025-02-06T21:00:00+02:00'
         end_time: '2025-02-06T21:02:00+02:00'
@@ -259,8 +276,8 @@ data:
         start_time: '2025-02-06T21:05:00+02:00'
         end_time: '2025-02-06T21:34:30+02:00'
       - title: 'Radioteatteri esittää: Verinen lyhty, 5/12.'
-        start_time: '2025-02-06T22:27:00+02:00'
-        end_time: '2025-02-06T22:48:33+02:00'
+        start_time: '2025-02-06T22:27:22+02:00'
+        end_time: '2025-02-06T22:48:55+02:00'
         description: |
           Edellisessä jaksossa on selvinnyt, että maantiellä murhattu Matti Peltola, Heikkilän Annan sulhanen, oli tulossa tuomaan Heikkilän taloon suurta rahasummaa pitääkseen talon palvelijatar Kirstin hiljaa heidän menneestä aviottomasta suhteestaan.
 
@@ -271,8 +288,8 @@ data:
           Uusinta vuodelta 1979.
         series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-02-06T22:56:30+02:00'
-        end_time: '2025-02-06T23:51:35+02:00'
+        start_time: '2025-02-06T22:53:51+02:00'
+        end_time: '2025-02-06T23:48:56+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
         series: Epäilyttävän uutta - Aki Yli-Salomäki

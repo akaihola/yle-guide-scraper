@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-04T02:24:27.476407+00:00'
+  generated_at: '2025-02-06T02:26:12.981343+00:00'
   git:
     branch: main
-    commit: bac25b3c761358c3927706698c77f34d72265cf8
-  data_hash: 8696b0be331df957efcbbff542bfae2f1d484bc374a466cd14578e485082401f
+    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
+  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,9 @@ data:
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
         series: Ruben Stiller
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-03-07T10:55:00+02:00'
+        end_time: '2025-03-07T11:00:00+02:00'
       - title: Narrin aamulaulu - Outi Paananen
         start_time: '2025-03-07T11:00:00+02:00'
         end_time: '2025-03-07T11:55:00+02:00'
@@ -94,6 +97,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-07T18:30:00+02:00'
         end_time: '2025-03-07T18:35:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Musiikkihartaus
         start_time: '2025-03-07T18:35:00+02:00'
         end_time: '2025-03-07T19:00:00+02:00'
