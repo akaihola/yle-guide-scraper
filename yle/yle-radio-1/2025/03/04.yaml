@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:12.302035+00:00'
+  generated_at: '2025-02-07T02:26:19.433272+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,12 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-03-04T06:30:50+02:00'
         end_time: '2025-03-04T06:50:00+02:00'
+        description: |
+          J.S. Bach: Laske murhe lauhtumaan (Jämsän kristillisen kansanopiston kuoro/Eero Kukko).
+
+          Dachstein: Kas Karitsata Jumalan (Lumen Valo, Markku Hietaharju, positiiviurut).
+
+          Tuntematon: Ole minulle kallio (Vox Silentii).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-03-04T06:50:00+02:00'
@@ -128,6 +134,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-03-04T18:35:00+02:00'
         end_time: '2025-03-04T18:50:00+02:00'
+        description: |-
+          Tuntematon: Te kristityt, nyt juhlikaa (Cetus Noster).
+
+          Berthier: Jeesus Kristus on juhlariemu (Tuohus-kuoro ja -yhtye/Juha Vintturi).
+
+          Kiinalainen kansansäv.: Olkoon juhlamme loppumaton (Lauluyhtye, Senni Valtonen, huilu, Laura Airola, viulu, Mikko Iivanainen, kitara, Hannu Rantanen, kontrabasso, Pekka Nyman, kellopeli ja lyömäsoittimet, sekä Sami Koskela, lyömäsoittimet).
+
+          Spirituaali: Vie vuorille tää viesti (Gospel Covertajat).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-03-04T18:50:00+02:00'

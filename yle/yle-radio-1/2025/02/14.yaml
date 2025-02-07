@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:06.836524+00:00'
+  generated_at: '2025-02-07T02:26:14.844456+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -21,9 +21,11 @@ data:
 
           Nurkkala: Vapahtaja, ystävämme (Cantilene/Merja Lohilahti).
 
-          Tuntematon: Oi Jeesus, armas ystävä (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+          Ahnfelt: Joka aamu on armo uus (Samuli Edelmann).
 
-          Perttilä: Sinun edessäsi painamme päämme (Markku Perttilä, laulu ja kitara, Lauluyhtye Viisveisaa, sekä soitinyhtye).
+          Koraalitoisinto: Vuodata nyt meihin, Herra (Minsku Tammela, laulu, Tommi Asplund, viulu, Senni Valtonen, kantele, Maria Kalaniemi, harmonikka, Hannu Rantanen, kontrabasso, ja Timo Alakotila, piano).
+
+          Skotlantilainen kansansävelmä: Laupeuden ääni (Pasi Kaunisto, laulu, ja Tapio Tiitu, urut).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-14T06:50:00+02:00'
@@ -78,11 +80,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-14T12:00:00+02:00'
         end_time: '2025-02-14T12:10:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Tiilien matka Lähi-idästä muinaiseen Rooman ja edelleen Suomeen. Mitä tiilileimat kertovat?'
         start_time: '2025-02-14T12:10:00+02:00'
         end_time: '2025-02-14T12:59:30+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Tiili on mainio rakennusmateriaali, mutta milloin sitä ruvettiin käyttämään rakentamisessa? Minkälainen tiili oli antiikin Rooman aikaan? Entä mitä ovat tiilen pinnassa olevat jäljet ja varsinkin tiilileimat? Emerita professori Margareta Steinby  Oxfordin yliopistosta on arvostettu antiikin tutkija, joka avaa tutkimusta tiilileimoista.   Rakennusarkeologi Tanja Ratilainen puolestaan tuntee keskiaikaiset tiilet Suomessa. Tiilen avulla voi myös ajoittaa, ja näin onkin selvinnyt kumpi on vanhempi Hämeen linna vai Hattulan Pyhän Ristin kirkko. Toimittaja on Teija Peltoniemi.
+        series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2025-02-14T13:00:00+02:00'
         end_time: '2025-02-14T13:30:00+02:00'
@@ -144,11 +147,11 @@ data:
         end_time: '2025-02-14T17:34:20+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Sanna Stellan'
         start_time: '2025-02-14T17:35:00+02:00'
         end_time: '2025-02-14T18:30:00+02:00'
         description: |
-          Näyttelijä ja kirjailija Sanna Stellan on omien sanojensa mukaan maaninen Radio 1:n kuuntelija. Hän on valinnut elämän varrelta ne levyt, joista hän ei luovu. Iloa ja viihdettä monissa muodoissa Stellanin kanssa löytää toimittaja Miikkapekka Heikkilä.
+          Näyttelijä ja kirjailija Sanna Stellan on omien sanojensa mukaan maaninen Radio 1:n kuuntelija. Hän on valinnut elämänsä varrelta ne levyt, joista hän ei luovu. Iloa ja viihdettä monissa muodoissa Stellanin kanssa löytää toimittaja Miikkapekka Heikkilä.
         series: Näistä levyistä en luovu
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-14T18:30:00+02:00'
@@ -157,8 +160,10 @@ data:
       - title: Musiikkihartaus
         start_time: '2025-02-14T18:35:00+02:00'
         end_time: '2025-02-14T19:00:00+02:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Keinotekoinen valo kutsuu luokseen"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus.
+          Vs. kappalainen Visa Viljamaa Helsingistä kysyy, millaisia häiriötekijöitä elämässäsi juuri nyt on.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-14T19:00:00+02:00'

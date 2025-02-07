@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:04.805411+00:00'
+  generated_at: '2025-02-07T02:26:13.143885+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -40,6 +40,12 @@ data:
       - title: Aamuklassinen
         start_time: '2025-02-08T06:30:00+02:00'
         end_time: '2025-02-08T07:00:00+02:00'
+        description: |-
+          J.S. Bach: Sonaatti viola da gamballe ja klaveerille n:o 2 D-duuri (Kim Kashkashian, alttoviulu, ja Keith Jarrett, cembalo).
+
+          Fabri: Confitebor tibi (Minä kiitän Herraa) (A Sei Voci/Bernard Fabre-Garrus).
+
+          Dowland: King of Denmark's galliard (Paul O'Dette, luuttu).
         series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2025-02-08T07:00:00+02:00'
@@ -91,9 +97,7 @@ data:
         start_time: '2025-02-08T08:35:00+02:00'
         end_time: '2025-02-08T08:55:00+02:00'
         description: |
-          Minne Rinne vie ohjelmassa tutustutaan viulun historiaan ja rakentamiseen. Monissa työväenopistoissa on tarjolla joka vuosi viulunrakennuskursseja, joiden rajalliset paikat täyttyvät nopeasti. Turkulainen viulunrakentaja Tapio Vainisto rakentaa ja korjaa ammatikseen viuluja, sekä myös opettaa viulun rakentamista Turun työväenopistolla. Aloitetaan siitä, että mistä tunnistaa hyvän viulun.
-
-          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+          Turkulainen viulunrakentaja Tapio Vainisto rakentaa ja korjaa ammatikseen viuluja, sekä myös opettaa viulun rakentamista Turun työväenopistolla. Tutustutaan viulun historiaan ja rakentamiseen. Aloitetaan siitä, että mistä tunnistaa hyvän viulun. Toimittaja on Petri Rinne.
         series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-08T08:55:00+02:00'
@@ -171,11 +175,13 @@ data:
         start_time: '2025-02-08T13:00:00+02:00'
         end_time: '2025-02-08T14:00:00+02:00'
         series: Uudet levyt
-      - title: Ruben Stiller
+      - title: "Ruben Stiller: Ammatti: rikosasianajaja\n\n"
         start_time: '2025-02-08T14:00:00+02:00'
         end_time: '2025-02-08T14:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Kaarle Gummerus on puolustanut oikeudessa Turun terrori-iskun tekijää Abdelrahman Bouninea. 
+          Hän on myös toiminut asianajajana korkean profiilin sotarikosoikeudenkäynneissä. Millainen ihminen ei sovi asianajajaksi? Millaisia harhakäsityksiä suurella yleisöllä on asianajajan työstä?
+          Mitä mieltä rikosasianajaja on true crime-villityksestä?
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-08T14:55:00+02:00'
@@ -244,7 +250,8 @@ data:
         start_time: '2025-02-08T17:10:00+02:00'
         end_time: '2025-02-08T17:57:00+02:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Tuija Siltamäki: "En todellakaan ole kotoisin mistään kulttuuriperheestä. Vanhemmat olivat ihan tavallisia duunareita."
+        series: Miia Krause
       - title: 'Ehtookellot: Harjavallan kirkon kellot'
         start_time: '2025-02-08T18:00:00+02:00'
         end_time: '2025-02-08T18:01:00+02:00'

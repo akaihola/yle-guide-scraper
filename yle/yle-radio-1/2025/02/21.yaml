@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:08.974404+00:00'
+  generated_at: '2025-02-07T02:26:16.565261+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -59,6 +59,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-21T11:57:00+02:00'
         end_time: '2025-02-21T12:00:00+02:00'
+        description: |-
+          Katri Valan runot Lumipisara ja Tähti kokoelmasta Kootut runot.
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-02-21T12:00:00+02:00'
@@ -105,11 +107,12 @@ data:
         end_time: '2025-02-21T17:34:20+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Petteri Taalas'
         start_time: '2025-02-21T17:35:00+02:00'
         end_time: '2025-02-21T18:30:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Ilmatieteen laitoksen pääjohtaja Petteri Taalas tekee työtä ilmaston ja ilmastonmuutoksen parissa. Elämässä tärkeitä asioita ovat myös musiikki, veneily, usko ja perhe. Toimittajana on Tuija Kurvinen.
+        series: Näistä levyistä en luovu
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-21T18:30:00+02:00'
         end_time: '2025-02-21T18:35:00+02:00'
@@ -119,6 +122,7 @@ data:
         end_time: '2025-02-21T19:00:00+02:00'
         description: |-
           Opetusneuvos Kalevi Virtanen, Helsinki
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-21T19:00:00+02:00'
         end_time: '2025-02-21T19:02:00+02:00'

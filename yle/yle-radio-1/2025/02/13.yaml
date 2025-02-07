@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:06.497754+00:00'
+  generated_at: '2025-02-07T02:26:14.519879+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -28,15 +28,37 @@ data:
       - title: Aamuhartaus
         start_time: '2025-02-13T06:50:00+02:00'
         end_time: '2025-02-13T06:59:59+02:00'
-        description: |-
-          Toimittaja Mikko Kurenlahti, Helsinki
+        description: |
+          "Minä olen se joka olen"
+          Toimittaja Mikko Kurenlahti Helsingistä pohtii ihmisen identiteettiä ja todeksi uskomiamme vastauksia kysymykseen: Kuka sinä olet?
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-13T07:00:00+02:00'
         end_time: '2025-02-13T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-02-13T07:10:00+02:00'
-        end_time: '2025-02-13T07:59:59+02:00'
+        end_time: '2025-02-13T07:50:00+02:00'
+        description: |
+          Pierné: Canzonetta klarinetille ja pianolle (Jelizaveta Shkljaver ja Jos van Immerseel). 
+
+          Chopin: Preludi nro 4 e-molli op.28/4 (Grigori Sokolov, piano). 
+
+          Dvorak: Pripoved lasky (Prazsti pevci -kuoro/Stanislav Mistr).
+
+          Beethoven: Rondo sekstetosta puhaltimille Es-duuri (Mozzafiato).
+
+          Ticheli: Earth song (Maan laulu) (Voces8).
+
+          Purcell: Fantasia jousille B-duuri (Kronos-kvartetti). 
+
+          Bor/W. A. Mozart: McMozart's eine Kleine bricht Moonlicht nicht Musik (Kremerata Baltica/Gidon Kremer).
+
+          Morales Pino: El Fugasasugueño (Alison Stephens, mandoliini, ja Craig Ogden, kitara).
+
+          Vivaldi: Largo sonaatista a-molli (Marion Verbruggen, nokkahuilu, Dennis Godburn, fagotti, ja John Toll, cembalo).
+
+          Humperdinck: Tähtien tanssi näyt. Sinilintu (Bambergin sinfonikot/Karl Anton Rickenbacher).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-13T08:00:00+02:00'
         end_time: '2025-02-13T08:10:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-06T02:26:05.490550+00:00'
+  generated_at: '2025-02-07T02:26:13.820308+00:00'
   git:
     branch: main
-    commit: a3d8360d37a0fdedbfd65f8b740cf482c6791dd2
-  data_hash: 430938ee356d4dcce99548826a52085b2a6d3645f75be3548a09580478acd224
+    commit: 88cf14cef397639985606e893415a91022d92aa9
+  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
 data:
   Yle Radio 1:
     programmes:
@@ -132,11 +132,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T12:00:00+02:00'
         end_time: '2025-02-10T12:10:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Epätodennäköiset ystävät – Suomen juutalaisten ja tataarien toveruus narinkkatorilta nykyisyyteen'
         start_time: '2025-02-10T12:10:00+02:00'
         end_time: '2025-02-10T12:59:30+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |-
+          Maailman lukuisista konflikteista ehkä tunnetuimpia ja stereotypisimpiä esimerkkejä on kuilu islamilaisen ja juutalaisen maailman välissä. Suomen juutalaiset ja tataarit ovat kuitenkin olleet ystäviä keskenään jo toistasataa vuotta. Miten ja missä olosuhteissa Suomen juutalaiset ja tataarit kohtasivat? Miten Suomen yhteiskunta on heihin suhtautunut, ja miten nämä kaverukset ovat löytäneet toisensa kansalaisoikeustaistelussa, urheiluotteluissa ja lihakaupan tiskillä? 
+          Haastateltavat: Suomen islam-seurakunnan puheenjohtaja Gölten Bedretdin ja toimittaja, kirjailija Rony Smolar. Toimittaja: Nadja Mikkonen
         series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-02-10T13:00:00+02:00'
@@ -144,8 +145,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-10T13:30:00+02:00'
         end_time: '2025-02-10T15:00:00+02:00'
-        description: |-
-          Iltapäivän musiikkikattaus. Maanantaitulissa keskustellaan kohtaamisista villien eläinten kanssa. Studiossa on Suomen metsästysmuseon johtaja Timo Kukko.Ohjelman juontaa Miia Lahti.Soita lähetyksen aikana numeroon 09 144800. Whatsapp-viesti numeroon 044 5 144800.
+        description: |
+          Iltapäivän musiikkikattaus. Maanantaitulissa keskustellaan kohtaamisista villien eläinten kanssa. Studiossa on Suomen metsästysmuseon johtaja Timo Kukko. Ohjelman juontaa Miia Lahti. Soita lähetyksen aikana numeroon 09 144800. Whatsapp-viesti numeroon 044 5 144800.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-10T15:00:00+02:00'
@@ -154,7 +155,11 @@ data:
         start_time: '2025-02-10T15:02:00+02:00'
         end_time: '2025-02-10T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Harva kännykän käyttäjä tietää, että laite esiintyi tieteiskirjallisuuden seikkailuissa vuosikymmeniä ennen sen keksimistä. Yleisiä aiheita Suomen tieteiskirjallisuudessa olivat yhteiskunnalliset utopiat avaruus ja aikamatkailu, tekniikan keksinnöt ja tulevaisuuden aseet ja sodat. Suomalaisessa “jääkäriscifissä” nousi varsin kansallinen teema, eli suur-Suomi: tarinoissa kerrotaan, miten Suomi hävittää maan tasalle Leningradin ja työntää rajansa kauas itään.
+          Kuinka paljon scifi kertoo aikansa peloista ja toiveista? Ja mitä se kertoo meistä ihmisistä? Viraina ovat Vesa Sisättö, joka syväsukeltaa scifitarinoiden maailmaan (yhdessä Jari Koposen kanssa kirjoittamassaan) kirjassaan Kuviteltu tulevaisuus, tieteiskirjallisuus Suomessa 1803 - 1944. Etäyhteydellä Tampereelta keskusteluun osallistuu kirjallisuudentutkija, kriitikko ja tieteiskirjailija Markku Soikkeli.
+
+          Ohjelman juontaa Nicklas Wancke
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-10T15:55:00+02:00'
         end_time: '2025-02-10T15:58:00+02:00'
@@ -241,11 +246,13 @@ data:
         start_time: '2025-02-10T19:57:00+02:00'
         end_time: '2025-02-10T20:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Ruben Stiller
+      - title: "Ruben Stiller: Ammatti: rikosasianajaja\n\n"
         start_time: '2025-02-10T20:00:00+02:00'
         end_time: '2025-02-10T20:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Kaarle Gummerus on puolustanut oikeudessa Turun terrori-iskun tekijää Abdelrahman Bouninea. 
+          Hän on myös toiminut asianajajana korkean profiilin sotarikosoikeudenkäynneissä. Millainen ihminen ei sovi asianajajaksi? Millaisia harhakäsityksiä suurella yleisöllä on asianajajan työstä?
+          Mitä mieltä rikosasianajaja on true crime-villityksestä?
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-10T20:55:00+02:00'
@@ -274,5 +281,29 @@ data:
         start_time: '2025-02-10T23:40:00+02:00'
         end_time: '2025-02-11T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Tschetschulin: Berceuse (Kehtolaulu) (Mirka Malmi, viulu, ja Tiina Karakorpi, piano).
+
+          23:43 Pergolesi: Questo e il piano, kantaatti (Marianna Pizzolato, altto, ja Rooman Santa Cecilia -akatemian ork./Antonio Pappano).
+
+          23:57 Schubert: Pianosonaatti n:o 18 G-duuri (Fantasia) (Svjatoslav Richter).
+
+          00:42 Milhaud: Les Rêves de Jacob (Jaakobin unet) (Jean-Louis Capezzali, huilu, Jacques Prat, viulu, Jean-Baptiste Brunier, alttoviulu, Daniel Raclot, sello, ja Jean-Marie Loisel, kontrabasso).
+
+          01:03 Schumann: Kvintetto pianolle ja jousille Es-duuri (Maria João Pires, piano, piano, Augustin Dumay, viulu, Renaud Capucon viulu, Gerard Caussé, alttoviulu, ja Jian Wang, sello).
+
+          01:34 Loeffler: Five Irish fantasies (Viisi irlantilaista fantasiaa) (Neil Rosenshein, tenori, ja Indianapolisin SO/John Nelson).
+
+          02:04 Molique: Viulukonsertto n:o 6 e-molli (Anton Steck ja L'Arpa Festante München/Christoph Spering).
+
+          02:39 Widor: Sinfonia uruille n:o 6 g-molli (Marie-Claire Alain).
+
+          03:13 Chopin: Sonaatti sellolle ja pianolle g-molli (Inbal Segev ja Juho Pohjonen).
+
+          03:44 Kaipainen: Stjärnenatten (Tähtikirkas yö) (Kaisa Hannula, sopraano, ja Lahden kamarimusiikkiseura/Osmo Vänskä).
+
+          04:05 Herbert: Sellokonsertto n:o 2 e-molli (Gautier Capucon ja Frankfurtin RSO/Neeme Järvi).
+
+          04:30 Dvorák: Jousikvartetto n:o 2  B-duuri (Prahan jousikvartetti)
+
+          05:20 J. Haydn: Pianosonaatit n:o 43 As-duuri, 21 C-duuri, 22 E-duuri, 45 Es-duuri ja 19 D-duuri (Ljubov Timofejeva).
         series: Syventävää klassista
