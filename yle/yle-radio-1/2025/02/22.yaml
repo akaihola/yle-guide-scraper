@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:16.909447+00:00'
+  generated_at: '2025-02-09T02:27:32.974818+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -32,7 +32,6 @@ data:
         end_time: '2025-02-22T07:55:00+02:00'
         description: |
           Ilona Ahti ja Daniela Hakulinen kertovat romaanistaan Tytöt tytöt tytöt. Toimittajana Jarmo Laitaneva. 
-        series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-22T07:55:00+02:00'
         end_time: '2025-02-22T08:00:00+02:00'
@@ -49,6 +48,7 @@ data:
         end_time: '2025-02-22T08:35:00+02:00'
         description: |-
           Piirikunnanjohtaja Jori Brander, Metodistikirkko, Vesivehmaa
+        series: Aamuhartaus
       - title: 'Minne Rinne vie: '
         start_time: '2025-02-22T08:35:00+02:00'
         end_time: '2025-02-22T08:55:00+02:00'
@@ -133,6 +133,7 @@ data:
         end_time: '2025-02-22T14:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        series: Ruben Stiller
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 8/12.'
         start_time: '2025-02-22T15:00:00+02:00'
         end_time: '2025-02-22T15:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:18.172201+00:00'
+  generated_at: '2025-02-09T02:27:34.091601+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-02-27T06:30:50+02:00'
         end_time: '2025-02-27T06:50:00+02:00'
+        description: |-
+          O. Merikanto: Rukous (Ville Urponen, urut).
+
+          Tuntematon: Kristus käski rukoilemaan (Lasse Riutamaa, tenori, ja Pertti Eerola, piano).
+
+          Koraalitoisinto: Jeesus, ilo elämäni (Seurakunta ja urut).
+
+          Tikka: Isä meidän (Vaskivuoren lukion kamarikuoro/Jukka Lehtinen).
+
+          Kekäle: Viimeinen sana (Jari Kekäle).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-27T06:50:00+02:00'
@@ -115,6 +125,16 @@ data:
         description: |-
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
+      - title: Hartaita säveliä
+        start_time: '2025-02-27T18:35:00+02:00'
+        end_time: '2025-02-27T18:50:00+02:00'
+        description: |
+          J. Löytty (sov. M. Makkonen): Turvaan Jumalaan (Esa Ruuttunen, baritoni, sekä Jussi Makkonen, Ulla Lampela, Iida-Vilhelmiina Laine ja Matti Makkonen, sello).
+
+          Regnart: Jos, Jeesus, Herrani (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
+
+          West - Williams: Lapsuuden usko (Gospel Covertajat).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-02-27T18:50:00+02:00'
         end_time: '2025-02-27T19:00:00+02:00'

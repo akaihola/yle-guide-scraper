@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:15.814711+00:00'
+  generated_at: '2025-02-09T02:27:31.820605+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -40,12 +40,32 @@ data:
       - title: Aamusoitto
         start_time: '2025-02-18T07:10:00+02:00'
         end_time: '2025-02-18T07:59:59+02:00'
+        description: |-
+          Dowland: Go from my window (David Russell, kitara).
+
+          J.Ch. Bach: Andante pianokonsertosta Es-duuri (Anastasia Injushina ja Hamburger Camerata/Ralf Gothóni).
+
+          Händel: Ruggieron aaria "Di te mi rido" oopp. Alcina (Maite Beaumont, mezzosopraano, ja Il Complesso Barocco/Alan Curtis).
+
+          Walter-Kühne - Tshaikovski: Fantasia harpulle Tshaikovskin oopp. Jevgeni Onegin teemoista (Emmanuel Ceysson). 
+
+          Parker: A Water colour (Vesiväri) (Jeanell Carrigan, piano).
+
+          Rorem: Oh love, see how the flowers mate (Brian Asawa, kontratenori, ja Los Angelesin kamariork./Jeffrey Kahane).
+
+          Beethoven (sov. Tarrega): Allegretto sinfoniasta nro 7 A-duuri (Timo Korhonen, kitara).
+
+          Sibelius: Andantino sellolle ja pianolle C-duuri (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          Melartin: Perhosvalssi näyt. Prinsessa Ruusunen (Arto Satukangas, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-18T08:00:00+02:00'
         end_time: '2025-02-18T08:10:00+02:00'
       - title: Ykkösaamu
         start_time: '2025-02-18T08:10:00+02:00'
         end_time: '2025-02-18T09:00:00+02:00'
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-18T09:00:00+02:00'
         end_time: '2025-02-18T09:05:00+02:00'
@@ -89,6 +109,7 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-18T13:00:00+02:00'
         end_time: '2025-02-18T13:30:00+02:00'
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-18T13:30:00+02:00'
         end_time: '2025-02-18T15:00:00+02:00'

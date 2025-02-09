@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:16.565261+00:00'
+  generated_at: '2025-02-09T02:27:32.763106+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-02-21T06:30:50+02:00'
         end_time: '2025-02-21T06:50:00+02:00'
+        description: |-
+          Lagi: Autuuden ja armon sana (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Koraalitoisinto (sov. Törmälä): Jeesus, sana elämän (Timotei/Pekka Perko).
+
+          Anonyymi: Kylväjä siemens' meni kylvämään (Sauli Tiilikainen, baritoni, ja Pertti Eerola, urut).
+
+          Simojoki: Kova maa (Jakaranda/Pekka Simojoki).
+
+          Harju: Uskon jyvä (Maksetut viulut).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-21T06:50:00+02:00'
@@ -28,13 +38,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-02-21T07:10:00+02:00'
         end_time: '2025-02-21T07:59:59+02:00'
+        description: |-
+          Goldberg (sov. Gascoigne): Gigue sonaatista kahdelle viululle ja continuolle C-duuri (John Williams ja Carlos Bonell, kitara, Brian Gascoigne ja Morris Pert, marimba ja vibrafoni, sekä Keith Marjoram, kontrabasso).
+
+          Tisdale: Pavana chromatica (Andrew Rangell, piano).
+
+          Rossini: Rondo konsertosta fagotille ja orkesterille (Jaakko Luoma ja Tapiola Sinfonietta).
+
+          Schubert: Ave Maria (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          Kansansävelmä: Joko ruvennen runolle (Tapiolan kuoro/Kari Ala-Pöllänen).
+
+          Halvorsen: Intrata (Norjan radio-orkesteri/Ari Rasilainen).
+
+          Servais: Allegro fantasiasta sellolle ja harpulle (Seeli Toivio ja Lily-Marlene Puusepp).
+
+          Kantelinen: Sen pituinen se bal. Lumikuningatar (Suomen Kansallisoopperan ork./Tuomas Kantelinen).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-21T08:00:00+02:00'
         end_time: '2025-02-21T08:10:00+02:00'
       - title: Ykkösaamu
         start_time: '2025-02-21T08:10:00+02:00'
         end_time: '2025-02-21T09:00:00+02:00'
-        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-21T09:00:00+02:00'
         end_time: '2025-02-21T09:05:00+02:00'
@@ -120,8 +146,10 @@ data:
       - title: Musiikkihartaus
         start_time: '2025-02-21T18:35:00+02:00'
         end_time: '2025-02-21T19:00:00+02:00'
-        description: |-
-          Opetusneuvos Kalevi Virtanen, Helsinki
+        description: |
+          "Kiitos tästä lapsesta"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus.
+          Tässä musiikkihartaudessa opetusneuvos Kalevi Virtanen Helsingistä pohtii mitä kastettavan läheiset ajattelevat ja toivovat kastemaljan äärellä ja millaisia rukouksia kastettavan puolesta halutaan lausua. 
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-21T19:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:19.746689+00:00'
+  generated_at: '2025-02-09T02:27:35.767160+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -33,6 +33,9 @@ data:
         description: |-
           Pastori Helena Turja, Seinäjoki
         series: Aamuhartaus
+      - title: Aamusoitto
+        start_time: '2025-03-05T07:10:00+02:00'
+        end_time: '2025-03-05T07:59:59+02:00'
       - title: Muistojen bulevardi
         start_time: '2025-03-05T09:05:40+02:00'
         end_time: '2025-03-05T09:58:00+02:00'
@@ -104,12 +107,15 @@ data:
         end_time: '2025-03-05T19:02:00+02:00'
       - title: Itävallan radiosinfonikot & Joana Carneiro & Claire Huangci
         start_time: '2025-03-05T19:02:00+02:00'
-        end_time: '2025-03-05T21:00:00+02:00'
+        end_time: '2025-03-05T20:30:00+02:00'
         description: |
-          Euroradiokonsertissa soi 1800-luvulla eläneiden Louise Farrencin, Fanny Henselin ja Clara Schumannin sekä vuonna 1993 syntyneen Hannah Eisendlen musiikki. 
+          Euroradiokonsertissa soi 1800-luvulla eläneiden Louise Farrencin, Fanny Henselin ja Clara Schumannin sekä 1990-luvulla syntyneen Hannah Eisendlen musiikki. 
           Itävallan radion sinfoniaorkesteria johtaa Joana Carneiro. Schumannin pianokonserton solistina soittaa Claire Huangci. 
           Konsertti on äänitetty 6.7.2024 Kärntenin kesämusiikkijuhlilla Villachissa, Itävallassa. Toimittajana on Ainomaija Pennanen.
         series: Konsertteja
+      - title: Musiikkikamari
+        start_time: '2025-03-05T20:30:00+02:00'
+        end_time: '2025-03-05T21:00:00+02:00'
       - title: Yle Uutiset
         start_time: '2025-03-05T21:00:00+02:00'
         end_time: '2025-03-05T21:02:00+02:00'

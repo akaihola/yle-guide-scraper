@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:16.013873+00:00'
+  generated_at: '2025-02-09T02:27:32.029839+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -27,14 +27,37 @@ data:
       - title: Aamuhartaus
         start_time: '2025-02-19T06:50:00+02:00'
         end_time: '2025-02-19T06:59:59+02:00'
-        description: |-
-          Pastori Helena Turja, Seinäjoki
+        description: |
+          "Luottamuksen tuoma turva"
+          Rovasti Helena Turja Seinäjoelta  muistelee omaelämäkerrallisen hartaussarjansa ensimmäisessä osassa tärkeää Raamatunkertomusta ja sen välittämää viestiä luottamuksen merkityksestä. Sarja alkaa (1/6).
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-19T07:00:00+02:00'
         end_time: '2025-02-19T07:10:00+02:00'
       - title: Aamusoitto
         start_time: '2025-02-19T07:10:00+02:00'
         end_time: '2025-02-19T07:59:59+02:00'
+        description: |
+          Oswald: Sataa lunta (Arnaldo Cohen, piano). 
+
+          Moberg: Marcia (Marssi) (Mirka Malmi, viulu, ja Tiina Karakorpi, piano).
+
+          Rameau: Aloitusosa motetista In convertendo (Paul Agnew, tenori, ja Les Arts Florissants/William Christie).
+
+          Moreno Torroba: Kyläjuhla sarjasta Estampas neljälle kitaralle (EMO-kitarakvartetti).
+
+          Boismortier: Adagio kons. viidelle huilulle ja continuolle h-molli (Sirena-nokkahuiluyhtye ja Fredrik Bock, barokkikitara).
+
+          Levy: Samba teoksesta Suite brasileira (Sao Paulon SO/Roberto Minczuk).
+
+          Giordani: Caro mio ben (Jozsef Mukk, tenori, ja Camerata Budapest/Laszlo Kovacs).
+
+          Groneman: Andante sonaatista kahdelle huilulle D-duuri (Jed Wentz ja Marion Moonen, traverso).
+
+          Mäntyjärvi: Ankeriaan päiväuni (Mikko Antikainen, klarinetti, ja Galante-kuoro/Jani Siven).
+
+          Pereira da Silva: Valsa-choro n:o 2 (Luciana Soares, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-19T08:00:00+02:00'
         end_time: '2025-02-19T08:10:00+02:00'
@@ -97,7 +120,6 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-19T13:00:00+02:00'
         end_time: '2025-02-19T13:30:00+02:00'
-        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-19T13:30:00+02:00'
         end_time: '2025-02-19T15:00:00+02:00'
@@ -153,6 +175,7 @@ data:
         end_time: '2025-02-19T19:00:00+02:00'
         description: |-
           Lähetystyön ja vapaaehtoistoiminnan koordinaattori Matti Mäkinen, Kangasala
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-19T19:00:00+02:00'
         end_time: '2025-02-19T19:02:00+02:00'
@@ -171,7 +194,6 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-19T21:05:00+02:00'
         end_time: '2025-02-19T21:34:30+02:00'
-        series: Politiikkaradio
       - title: Tuntematon Ukraina
         start_time: '2025-02-19T21:35:00+02:00'
         end_time: '2025-02-19T22:10:00+02:00'

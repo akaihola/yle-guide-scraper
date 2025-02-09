@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:13.820308+00:00'
+  generated_at: '2025-02-09T02:27:29.711692+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -58,12 +58,14 @@ data:
       - title: Aamuhartaus
         start_time: '2025-02-10T06:50:00+02:00'
         end_time: '2025-02-10T06:59:59+02:00'
-        description: |-
-          Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+        description: |
+          "En ole tässä yksin"
+          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta kuvailee humoristiseenkin sävyyn vanhemmuuden haasteita 2020-luvulla ja kertoo mikä hädän hetkellä tai vaikeassa paikassa on auttanut.
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T07:00:00+02:00'
         end_time: '2025-02-10T07:10:00+02:00'
-      - title: Aamusoitto
+      - title: "Aamusoitto\x1F_"
         start_time: '2025-02-10T07:10:00+02:00'
         end_time: '2025-02-10T07:59:59+02:00'
         description: |
@@ -85,6 +87,16 @@ data:
       - title: Ykkösaamu
         start_time: '2025-02-10T08:10:00+02:00'
         end_time: '2025-02-10T09:00:00+02:00'
+        description: |
+          8.11. Kuinka lakko on vaikuttanut rovaniemeläiseen yritykseen Norrhydroon . Haastateltavana toimitusjohtaja Yrjö Trög. 
+          Työmarkkinat ja lakot yrittäjien näkökulmasta. Keskustelemassa Suomen yrittäjien ekonomisti Petri Malinen sekä ekonomisti Juho Koistinen Laboresta
+
+          8.33 Kryptovaluutat kiinnostavat yhä useampaa sijoittajaa. Haastateltavana laskentatoimen ja rahoituksen professori Timo Rothovius Vaasan yliopistosta. 
+
+          8.37 Hyvää työkulttuuria etsimässä? Onko tehokkuusajattelu vienyt luovat tauot? Keskustelemassa erikoistutkija Janne Kaltiainen Työterveyslaitokselta sekä professori Minna Huotilainen Helsingin yliopistolta. 
+
+          Juontajana Justus Laitinen. Valmistelijoina Anssi Väisänen ja Satu Heikkilä. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-10T09:00:00+02:00'
         end_time: '2025-02-10T09:05:00+02:00'
@@ -117,11 +129,11 @@ data:
         start_time: '2025-02-10T10:54:00+02:00'
         end_time: '2025-02-10T11:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Miksi Rameau on paras - ja miksemme ymmärrä sitä'
         start_time: '2025-02-10T11:00:00+02:00'
         end_time: '2025-02-10T11:57:00+02:00'
         description: |
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. (U)
         series: Välilevyjä - Kare Eskola
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-10T11:57:00+02:00'
@@ -132,17 +144,22 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-10T12:00:00+02:00'
         end_time: '2025-02-10T12:10:00+02:00'
-      - title: 'Elävä historia: Epätodennäköiset ystävät – Suomen juutalaisten ja tataarien toveruus narinkkatorilta nykyisyyteen'
+      - title: 'Elävä historia: Harvinainen ystävyystarina: kuinka Suomen juutalaiset ja tataarit löysivät toisensa?'
         start_time: '2025-02-10T12:10:00+02:00'
         end_time: '2025-02-10T12:59:30+02:00'
         description: |-
           Maailman lukuisista konflikteista ehkä tunnetuimpia ja stereotypisimpiä esimerkkejä on kuilu islamilaisen ja juutalaisen maailman välissä. Suomen juutalaiset ja tataarit ovat kuitenkin olleet ystäviä keskenään jo toistasataa vuotta. Miten ja missä olosuhteissa Suomen juutalaiset ja tataarit kohtasivat? Miten Suomen yhteiskunta on heihin suhtautunut, ja miten nämä kaverukset ovat löytäneet toisensa kansalaisoikeustaistelussa, urheiluotteluissa ja lihakaupan tiskillä? 
           Haastateltavat: Suomen islam-seurakunnan puheenjohtaja Gölten Bedretdin ja toimittaja, kirjailija Rony Smolar. Toimittaja: Nadja Mikkonen
         series: Elävä historia
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Demokratian romuttamo Musk & Trump'
         start_time: '2025-02-10T13:00:00+02:00'
         end_time: '2025-02-10T13:30:00+02:00'
-      - title: Radio 1:n iltapäivä
+        description: |
+          Kaappausyritys valtiokonttorissa, potkut kahdelle miljoonalle liittovaltion työntekijälle, kaaos hallinnossa...
+          Yhdysvaltain presidentti ja hänen miljardööriliittolaisena uhmaavat lakeja ja yrittävät keskittää valtaa itselleen. Mitä hallinnon vyörytyksestä pitäisi ajatella?
+          Trumpin ja Muskin peliä läpivalaisevat oikeushistorian emeritusprofessori Jukka Kekkonen ja poliittisen historian professori Juhana Aunesluoma. Toimittajana on Antti Pilke. Suora lähetys.
+        series: Politiikkaradio
+      - title: Radio 1:n iltapäivä_
         start_time: '2025-02-10T13:30:00+02:00'
         end_time: '2025-02-10T15:00:00+02:00'
         description: |
@@ -156,7 +173,7 @@ data:
         end_time: '2025-02-10T15:55:00+02:00'
         description: |
           Harva kännykän käyttäjä tietää, että laite esiintyi tieteiskirjallisuuden seikkailuissa vuosikymmeniä ennen sen keksimistä. Yleisiä aiheita Suomen tieteiskirjallisuudessa olivat yhteiskunnalliset utopiat avaruus ja aikamatkailu, tekniikan keksinnöt ja tulevaisuuden aseet ja sodat. Suomalaisessa “jääkäriscifissä” nousi varsin kansallinen teema, eli suur-Suomi: tarinoissa kerrotaan, miten Suomi hävittää maan tasalle Leningradin ja työntää rajansa kauas itään.
-          Kuinka paljon scifi kertoo aikansa peloista ja toiveista? Ja mitä se kertoo meistä ihmisistä? Viraina ovat Vesa Sisättö, joka syväsukeltaa scifitarinoiden maailmaan (yhdessä Jari Koposen kanssa kirjoittamassaan) kirjassaan Kuviteltu tulevaisuus, tieteiskirjallisuus Suomessa 1803 - 1944. Etäyhteydellä Tampereelta keskusteluun osallistuu kirjallisuudentutkija, kriitikko ja tieteiskirjailija Markku Soikkeli.
+          Kuinka paljon scifi kertoo aikansa peloista ja toiveista? Ja mitä se kertoo meistä ihmisistä? Vieraina ovat Vesa Sisättö, joka syväsukeltaa scifitarinoiden maailmaan (yhdessä Jari Koposen kanssa kirjoittamassaan) kirjassaan Kuviteltu tulevaisuus, tieteiskirjallisuus Suomessa 1803 - 1944. Mukana on myös scifituntija Hannu Blommila. Etäyhteydellä Tampereelta keskusteluun osallistuu kirjallisuudentutkija, kriitikko ja tieteiskirjailija Markku Soikkeli.
 
           Ohjelman juontaa Nicklas Wancke
         series: Kulttuuriykkönen
@@ -203,7 +220,8 @@ data:
         start_time: '2025-02-10T17:10:00+02:00'
         end_time: '2025-02-10T17:34:20+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Intia tunnetaan suuresta IT-alastaan, mutta teollisuustuotannossa se ei ole yhtä merkittävä peluri vielä toistaiseksi. Sellaiseksi se kuitenkin haluaa ja kasvunvaraa on paljon. Kiina-kytköksistä halutaan monella alalla irti ja tuotannon hajauttaminen muihin maihin tarjoaa Intialle suuren mahdollisuuden. Sami Lindforsin haastattelussa Intiassa äskettäin vieraillut ulkomaantoimittaja Mikko Leppänen.
+        series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Joku raja rakkaudessakin ja muita uutuuksia'
         start_time: '2025-02-10T17:35:00+02:00'
         end_time: '2025-02-10T18:34:20+02:00'
@@ -264,19 +282,25 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-10T21:05:00+02:00'
         end_time: '2025-02-10T21:34:30+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Onko ufoja olemassa? Näin asiaa tutkitaan tieteellisesti '
         start_time: '2025-02-10T21:35:00+02:00'
-        end_time: '2025-02-10T22:24:30+02:00'
+        end_time: '2025-02-10T22:23:08+02:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Tiistain kulttuurisarja
+          Yhdysvaltain ufoprojektit ovat mediassa paljon esillä, mutta todellisuudessa ainoa tieteellisesti ufohavaintoja tutkiva hanke koko maailmassa on Ranskan avaruushallinnon CNES:in GEIPAN.
+          Haastateltavina: GEIPAN-toimiston johtaja Frédéric Courtade sekä toimiston apuna toimivat vapaaehtoiset Pascal Guillaumes ja Antoine Cousyn. Toimittajana Jari Mäkinen.
+        series: Tiedeykkönen
+      - title: 'Kaisa Pulakan aikamatkat: Moninainen sukupuoli 1/5'
         start_time: '2025-02-10T22:25:00+02:00'
-        end_time: '2025-02-10T22:44:30+02:00'
-      - title: Näistä levyistä en luovu
-        start_time: '2025-02-10T22:45:00+02:00'
-        end_time: '2025-02-10T23:39:00+02:00'
+        end_time: '2025-02-10T22:44:17+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Sukupuolen moninaisuus on yhtä vanha ilmiö kuin ihmiskunta itsekin. Kaisa Pulakka tutustuu antiikin mytologian transtarinoihin ja ihastelee Platonin ajatuksia ihmisen alkuperästä.
+        series: Kaisa Pulakan aikamatkat
+      - title: 'Näistä levyistä en luovu: Kake Randelin - minut on rokotettu gramofonin neulalla'
+        start_time: '2025-02-10T22:45:00+02:00'
+        end_time: '2025-02-10T23:38:43+02:00'
+        description: |
+          Iskelmälaulaja Kake Randelin täytti tammikuussa 70 vuotta. Intoa laulamiseen ja keikoilla kiertämiseen riittää, ja artistilla on edelleen kysyntää. Näistä levyistä en luovu -ohjelmaan Kake valtisi nipun omia suosikkejaan, jotka ovat muuta kuin iskelmää. Ohjelman toimittaa Petri Rinne.
+        series: Näistä levyistä en luovu
       - title: Yöklassinen
         start_time: '2025-02-10T23:40:00+02:00'
         end_time: '2025-02-11T06:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-07T02:26:17.129231+00:00'
+  generated_at: '2025-02-09T02:27:33.169512+00:00'
   git:
     branch: main
-    commit: 88cf14cef397639985606e893415a91022d92aa9
-  data_hash: ae1e6f979d4c5eafdefd26c2893cbc2e54df8e3dffe1a951972aa597845e5ff8
+    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
+  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
 data:
   Yle Radio 1:
     programmes:
@@ -27,7 +27,6 @@ data:
         end_time: '2025-02-23T09:55:00+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
-        series: Riston Valinta - Risto Nordell
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-23T09:55:00+02:00'
         end_time: '2025-02-23T09:56:00+02:00'
@@ -101,11 +100,11 @@ data:
         end_time: '2025-02-23T18:11:00+02:00'
         description: |
           Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-      - title: 'Jazzklubin illan keikka: Piotr Schmidt International Quintet Kerava Jazzissa.'
+      - title: 'Jazzklubin illan keikka: Joonas Haavisto Trio - "Bill Evans Halosenniemessä".'
         start_time: '2025-02-23T18:11:00+02:00'
         end_time: '2025-02-23T19:00:00+02:00'
         description: |
-          Äänitetty Kerava-salissa 14.9.2024.
+          Äänitetty Halosenniemen taiteilija-ateljeessa 8.10.2024.
         series: Jazzklubi
       - title: Yle Uutiset ja sää
         start_time: '2025-02-23T19:00:00+02:00'
