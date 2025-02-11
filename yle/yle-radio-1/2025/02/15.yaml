@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-09T02:27:31.017306+00:00'
+  generated_at: '2025-02-11T02:26:56.614660+00:00'
   git:
     branch: main
-    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
-  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
+    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
+  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
 data:
   Yle Radio 1:
     programmes:
@@ -80,6 +80,7 @@ data:
         end_time: '2025-02-15T08:35:00+02:00'
         description: |-
           Nuorisosihteeri, pastori Nana Kivimäki, Vapaakirkko, Tampere
+        series: Aamuhartaus
       - title: 'Minne Rinne vie: Jokaisella viululla on yksilöllinen ääni'
         start_time: '2025-02-15T08:35:00+02:00'
         end_time: '2025-02-15T08:55:00+02:00'
@@ -184,11 +185,12 @@ data:
 
           A. Kivivuori: Allikko (Frigg). 
         series: Uudet levyt
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Mikki-hiiri merihädässä?'
         start_time: '2025-02-15T14:00:00+02:00'
         end_time: '2025-02-15T14:55:00+02:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Voiko Trumpin tullipolitiikka johtaa kansainväliseen finanssikriisiin? Onko mahdollista, että Kiina ja EU solmivat järkiliiton ja Yhdysvallat keskittyy itseensä? Miten pieni ja sisukas Suomi pärjää kansainvälisen järjestelmän myrskyissä?  Elinkeinoelämän valtuuskunnan raportti ”Rajuilman rajalla” maalailee Suomen vaihtoehtoja maailmassa, jossa mikään ei ole varmaa.  Ohjelmassa keskustellaan Suomen tulevaisuudesta seuraavan 10 vuoden aikana. Vieraina ovat EVA:n tutkimuspäällikkö Ilkka Haavisto ja professori Johannes Aunesluoma Helsingin Yliopistosta.
+        series: Ruben Stiller
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 7/12.'
         start_time: '2025-02-15T15:00:00+02:00'
         end_time: '2025-02-15T15:28:00+02:00'
@@ -223,6 +225,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-15T16:10:00+02:00'
         end_time: '2025-02-15T16:59:00+02:00'
+        description: |
+          Coleridge-Taylor: Louisiana blues strut (Rachel Barton Pine, viulu).
+
+          Ellington: Prelude to a kiss (Renée Fleming, sopraano, ja Daniel Barenboim, piano).
+
+          Andersson & Ulvaeus (sov. Wiget): Voulez-vous (Asya Fateyeva, saksofoni, ja Lautten Compagney/Wolfgang Katschner).
+
+          Rani: La luce (Mari Samuelsen, viulu, Dobrawa Czocher, sello, Hania Rani, piano, ja Scoring Berlin/Jonathan Stockhammer).
+
+          McDowall: Blow your trumpets trumpettikonsertosta Seraphim (Paul Archibald ja Orchestra Nova/George Vass).
+
+          Mayer: Un poco adagio pianotriosta h-molli (Trio Vivente).
+
+          Hess: Pääteema elok. Ladies in Lavender (Nicola Benedetti, viulu, ja Bournemouthin SO/Kirill Karabits).
+
+          J.S. Bach (sov. Jarry): Allemande sarjasta soolosellolle n:o 1 G-duuri (Thomas Jarry, piano).
+
+          Ugalde Alvarez: Heartland (Singer Pur).
+
+          Netzel: Feu follet (Virvatuli) (Simon Crawford-Phillips, piano).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-15T17:00:00+02:00'

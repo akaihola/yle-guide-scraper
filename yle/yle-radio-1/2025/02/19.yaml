@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-09T02:27:32.029839+00:00'
+  generated_at: '2025-02-11T02:27:02.978601+00:00'
   git:
     branch: main
-    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
-  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
+    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
+  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
 data:
   Yle Radio 1:
     programmes:
@@ -143,6 +143,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-19T16:10:00+02:00'
         end_time: '2025-02-19T16:59:00+02:00'
+        description: |
+          Beethoven: The Dream (Victoria de los  Angeles, sopraano, Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          R. Strauss: Mittagsruh (Päivälepo) teoksesta Die Tageszeiten (Vuorokaudenajat) (Berliinin radiokuoro ja Berliinin radion SO/Marek Janowski).
+
+          Bonds: The Dream portraits (Malcolm J. Merriweather, baritoni, ja Ashley Jackson, harppu).
+
+          Joyce: Dreaming (Unelmointia) (The New London Orchestra/Ronald Corp).
+
+          Elgar: Sea slumber song, sarjasta Sea pictures (Sarah Connolly, mezzosopraano, ja Bournemouthin sinfoniaorkesteri/Simon Wright). 
+
+          Mayerl: Sleepy piano (Eric Parkin). 
+
+          Warlock: Sleep (Dawn Upshaw, sopraano, ja Margo Garrett, piano).
+
+          Gudmundsson: Hvild (Lepo) (Schola cantorum Reykjavicensis/Hördur Askelsson).
+
+          Piazzolla: Asleep (Astor Piazzolla, bandoneon, ja Kronos-kvartetti).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-19T17:00:00+02:00'
@@ -174,7 +192,8 @@ data:
         start_time: '2025-02-19T18:50:00+02:00'
         end_time: '2025-02-19T19:00:00+02:00'
         description: |-
-          Lähetystyön ja vapaaehtoistoiminnan koordinaattori Matti Mäkinen, Kangasala
+          "Minä en ole mikään navigaattori!"
+          Lähetystyön ja vapaaehtoistoiminnan koordinaattori Matti Mäkinen Kangasalalta pohtii ajo-opetusluvan kanssa Jumalan johdatuksessa elämisen vertautumista autolla suunnistamiseen
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-19T19:00:00+02:00'

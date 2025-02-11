@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-09T02:27:33.169512+00:00'
+  generated_at: '2025-02-11T02:27:07.565576+00:00'
   git:
     branch: main
-    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
-  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
+    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
+  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
 data:
   Yle Radio 1:
     programmes:
@@ -44,11 +44,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-23T12:00:00+02:00'
         end_time: '2025-02-23T12:05:00+02:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Miksi kerätä vanhoja rahoja? Vieraana Janne Söderholm'
         start_time: '2025-02-23T12:05:00+02:00'
         end_time: '2025-02-23T12:55:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Miksi kerätä vanhoja rahoja? Rakkauden vai rahan tähden? Vieraana Janne Söderholm
         series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-23T12:55:00+02:00'
@@ -91,6 +91,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-23T16:10:00+02:00'
         end_time: '2025-02-23T16:59:00+02:00'
+        description: |-
+          Offenbach: Leikkisät lumihiutaleet oper. Matka kuuhun (Les Musiciens du Louvre/Marc Minkowski).
+
+          Wessman: Vesi väsyy lumen alle (Tapiolan kuoro/Erkki Pohjola).
+
+          Palmgren: Lumihiutaleita (Izumi Tateno, piano).
+
+          Tshaikovski: Melodia (Leonidas Kavakos, viulu, ja Peter Nagy, piano).
+
+          O. Merikanto: Muistellessa (Usko Viitanen, baritoni, ja Pentti Koskimies, piano).
+
+          Schubert: Liebesbotschaft (Lemmenviesti) (Carl Herring, kitara).
+
+          Moszkowski: Kitara (Jan-Erik Gustafsson, sello, ja Heini Kärkkäinen, piano).
+
+          W.A. Mozart: Adagio B-duuri (Reijo Koskinen ja Jyri Nissilä, klarinetti, sekä Kullervo Kojo, Marja Haapamäki ja Antti Koskela, basettitorvi).
+
+          Hahn: À Chloris (Chlorisille) (Susan Graham, mezzosopraano, ja Malcolm Martineau, piano).
+
+          Massenet (sov. Salzedo): Meditaatio (Emmanuel Pahud, huilu, ja Mariko Anraku, harppu).
+
+          Englund: Surumarssi elok. Valkoinen peura (RSO/Petri Sakari).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-23T17:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-09T02:27:31.233988+00:00'
+  generated_at: '2025-02-11T02:26:59.656358+00:00'
   git:
     branch: main
-    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
-  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
+    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
+  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
 data:
   Yle Radio 1:
     programmes:
@@ -15,11 +15,26 @@ data:
       - title: Yle Uutiset
         start_time: '2025-02-16T07:00:00+02:00'
         end_time: '2025-02-16T07:02:05+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hasse - Rakas saksilainen joka melkein unohtui'
         start_time: '2025-02-16T07:03:00+02:00'
-        end_time: '2025-02-16T07:59:00+02:00'
-        description: |-
+        end_time: '2025-02-16T07:57:19+02:00'
+        description: |
+          Miten on mahdollista, että yksi 1700-luvun menestyneimmistä säveltäjistä on melkein unohtunut?
+          Johann Adolf Hassen ihania melodioita ihailivat niiin Bach kuin Mozart.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+          Johann Adolf Hasse:
+
+          Se mai senti, Seston aaria oopperasta La Clemenza di Tito (Philippe Jaroussky kontratenori, ja Le Concert d'Astrée/Emmanuelle Haïm.)
+
+          Morte col fiero aspetto, Cleopatran aaria serenatasta Marc'Antonio e Cleopatra (Regula Mühlemann, sopraano, ja La Folia barokkiorkesteri/Robin Peter Müller).
+
+          Huilukonsertto G-duuri (Irene Spranger, huilu, ja Concerto Copenhagen/ Andrew Manze).
+
+          Miserere e-molli, osat 1-3 (Greta de Reyghere, sopraano, Susanna von Moncayo Hase, altto, Ian Honeyman, tenori, Dirk  Snellings, basso, ja Il  Fondamento-kuoro ja orkesteri/Paul Dombrecht).
+
+          Laudate Pueri (Maria Grazia Schiavo ja Emanuela Galli, sopraano, Jose Maria Lo Monaco, altto, Vocal Concert ja Instrumental-Concert Dresden/Peter Kopp).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Yle Uutiset ja sää
         start_time: '2025-02-16T08:00:00+02:00'
@@ -179,26 +194,44 @@ data:
         end_time: '2025-02-16T21:02:05+02:00'
       - title: Uutispodcast
         start_time: '2025-02-16T21:03:00+02:00'
-        end_time: '2025-02-16T21:28:00+02:00'
+        end_time: '2025-02-16T21:26:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2025-02-16T21:29:00+02:00'
-        end_time: '2025-02-16T22:26:00+02:00'
+        series: Uutispodcast
+      - title: 'Klasariparatiisi: Hasse - Rakas saksilainen joka melkein unohtui'
+        start_time: '2025-02-16T21:27:00+02:00'
+        end_time: '2025-02-16T22:21:19+02:00'
         description: |
+          Miten on mahdollista, että yksi 1700-luvun menestyneimmistä säveltäjistä on melkein unohtunut?
+          Johann Adolf Hassen ihania melodioita ihailivat niiin Bach kuin Mozart.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+          Johann Adolf Hasse:
+
+          Se mai senti, Seston aaria oopperasta La Clemenza di Tito (Philippe Jaroussky kontratenori, ja Le Concert d'Astrée/Emmanuelle Haïm.)
+
+          Morte col fiero aspetto, Cleopatran aaria serenatasta Marc'Antonio e Cleopatra (Regula Mühlemann, sopraano, ja La Folia barokkiorkesteri/Robin Peter Müller).
+
+          Huilukonsertto G-duuri (Irene Spranger, huilu, ja Concerto Copenhagen/ Andrew Manze).
+
+          Miserere e-molli, osat 1-3 (Greta de Reyghere, sopraano, Susanna von Moncayo Hase, altto, Ian Honeyman, tenori, Dirk  Snellings, basso, ja Il  Fondamento-kuoro ja orkesteri/Paul Dombrecht).
+
+          Laudate Pueri (Maria Grazia Schiavo ja Emanuela Galli, sopraano, Jose Maria Lo Monaco, altto, Vocal Concert ja Instrumental-Concert Dresden/Peter Kopp).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Sari Valto
-        start_time: '2025-02-16T22:26:30+02:00'
-        end_time: '2025-02-16T23:21:30+02:00'
+        start_time: '2025-02-16T22:22:00+02:00'
+        end_time: '2025-02-16T23:17:00+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
         series: Sari Valto
       - title: Romano mirits
         start_time: '2025-02-16T23:25:00+02:00'
-        end_time: '2025-02-16T23:39:30+02:00'
+        end_time: '2025-02-16T23:39:29+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Kun lukion opinto-ohjauksen tunnilla tehtiin sopivien ammattialojen testiä, Robert ”Roope” Åkerlund sai tietää sopivansa erityisen hyvin mm. kukkakauppiaaksi. Kaupan ala ei puhutellut nuorta miestä, mutta tuli testissä toinenkin ehdotus: Åkerlund sopisi hyvin juristiksi. Nykyään hän opiskeleekin oikeustiedettä Helsingin yliopistossa ensimmäistä vuottaan. Åkerlundin polku korkeakouluopiskelijaksi oli kiinnostava: hän luki avoimessa yliopistossa niin pitkään, että pääsi nk. väylän kautta varsinaiseksi tutkinto-opiskelijaksi. 
+          Robert Åkerlundin tapasi Helsingissä toimittaja Jaakko Laakso.
+        series: Romano mirits
       - title: Yöklassinen
         start_time: '2025-02-16T23:40:00+02:00'
         end_time: '2025-02-17T06:30:00+02:00'

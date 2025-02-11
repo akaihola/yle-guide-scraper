@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-09T02:27:31.820605+00:00'
+  generated_at: '2025-02-11T02:27:02.434306+00:00'
   git:
     branch: main
-    commit: af7e060e4529b632b6ab74a8b45120ea6c824146
-  data_hash: 432c6476c1e3c6e4ea06c0e3770d3ca5bc3a64cd4494de308ec840bda790eb4b
+    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
+  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-02-18T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-18T06:30:50+02:00'
         end_time: '2025-02-18T06:50:00+02:00'
@@ -133,6 +132,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-18T16:10:00+02:00'
         end_time: '2025-02-18T16:59:00+02:00'
+        description: |
+          P. McCartney - L. McCartney: Live and let die (Lang Lang, piano, sekä 2Cellos).
+
+          Hahn: L'heure exquise (Ihana hetki) (Gérard Souzay, baritoni, ja Dalton Baldwin, piano). 
+
+          Offenbach: Alkusoitto oper. La vie parisienne (Philharmonia-ork./Neville Marriner).
+
+          J. Williams: Prinsessa Leian teema (Sara Andon, huilu, Cecilia Tsan, sello, ja Simone Pedroni, piano).
+
+          Nordgren - E. Tallari: Pelimanni teoks. Kuvia maaseudun menneisyydestä (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          Glass: Etydi n:o 18 (Vikingur Olafsson, piano).
+
+          Beach: Scherzo konsertosta pianolle ja orkesterille cis-molli (Mary Louise Boehm, piano, ja Westfalenin SO/Siegfried Landau). 
+
+          F.B. Price: Fantasia viululle ja pianolle n:o 1 g-molli (Randall Goosby ja Zhu Wang).
+
+          V. Aulin: Scène de bal sarj. Pariisilaisia kuvia (Göteborgin SO/Johannes Gustavsson).
+
+          Cuellar: Joruco (Mauricio Arias-Esguerra, piano).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-18T17:00:00+02:00'
