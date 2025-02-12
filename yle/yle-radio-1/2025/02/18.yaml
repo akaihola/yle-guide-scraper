@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-11T02:27:02.434306+00:00'
+  generated_at: '2025-02-12T02:26:12.165333+00:00'
   git:
     branch: main
-    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
-  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
+    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
+  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,42 @@ data:
         start_time: '2025-02-17T23:40:00+02:00'
         end_time: '2025-02-18T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Debussy: Kolme nokturnoa (Stuttgartin radion SO/Sergiu Celibidache).
+
+          00:14 J. Haydn: Pianosonaatti n:o 49 Es-duuri (Paul Badura-Skoda, fortepiano).
+
+          00:35 Rodrigo: Tres piezas españolas (Kolme espanjalaista kappaletta) (Juuso Nieminen, kitara).
+
+          00:47 Pfitzner: Alkusoitto näytelmämus. Das Käthchen von Heilbronn (Berliinin saksalaisen oopperan ork./Christian Thielemann).
+
+          01:04 Kokkonen: Duo viululle ja pianolle (Seppo Tukiainen ja Tapani Valsta).
+
+          01:21 Mendelssohn: Infelice! - Ah, ritorna eta dell'oro (Cecilia Bartoli, mezzosopraano, ja Maksim Vengerov, viulu, sekä Orchestra La Scintilla/Adam Fischer).
+
+          01:34 Prokofjev: Sonaatti sellolle ja pianolle C-duuri (André Navarra ja Alfred Holecek).
+
+          01:59 Pugnani: Alkusoitto n:o 5 Es-duuri (Academia Montis Regalis/Luigi Mangiocavallo).
+
+          02:15 A.R. Thomas: Eos (Aamunkoiton jumalatar), baletti (Utahin SO/Thierry Fischer).
+
+          02:35 Smetana: Isänmaani, sarja sinfonisia runoja (Bostonin SO/Rafael Kubelik).
+
+          03:51 Brahms: Maria-lauluja (Euroopan kamarikuoro/Nicol Matt).
+
+          04:12 Telemann: Sarja viola da gamballe, jousille ja continuolle D-duuri (Akademie für Alte Musik Berlin/Siegfried Pank).
+
+          04:36 Hummel: Pianotrio n:o 1 Es-duuri (Voces Intimae).
+
+          04:56 Verhey: Huilukonsertto n:o 1 d-molli (Jacques Zoon ja Alankomaiden radion kamariork./Thierry Fischer).
+
+          05:10 Skrjabin: Etydi dis-molli (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          05:15 Händel: Aminta e Fillide (Amintas ja Fillis), kantaatti (Nuria Rial, sopraano, ja Maria Grazia Schiavo, sopraano, sekä La Risonanza/Fabio Bonizzoni).
+
+          06:10 J.S. Bach: Urkusonaatti n:o 4 e-molli (Marie-Claire Alain).
+
+          06:21 de Visée: La Royalle (Rafael Andia, barokkikitara).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-18T06:30:50+02:00'
         end_time: '2025-02-18T06:50:00+02:00'
@@ -161,6 +196,7 @@ data:
         end_time: '2025-02-18T17:34:20+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-02-18T17:35:00+02:00'
         end_time: '2025-02-18T18:30:00+02:00'
@@ -201,11 +237,12 @@ data:
           Kaisa Pulakka tutkii, miten sukupuolen moninaisuus on näkynyt kristinuskon historiassa. Millaisia transtarinoita liittyy katolisiin pyhimyksiin? Entä kuka oli paavi Johanna?
         series: Kaisa Pulakan aikamatkat
       - title: 'Romano mirits: Romanimusiikki-sarja osa 1: Laulava ja soittava kansa'
-        start_time: '2025-02-18T20:20:00+02:00'
+        start_time: '2025-02-18T20:19:20+02:00'
         end_time: '2025-02-18T20:35:00+02:00'
         description: |+
           Suomen romanien keskuudesta nousee vuosikymmen toisensa perään merkittäviä musiikintekijöitä ja musiikin esittäjiä. Heidät tunnetaan niin tangon taitureina kuin hengellisen musiikin mestareina - nykyään myös räpin lähettiläinä, rokkareina ja jatsin taitajina. Romanimusiikki-sarja pureutuu tähän kiehtovaan aiheeseen. Mitä kaikkea Suomen romanit ovat musiikin saralla tehneet? Ketä ovat menneiden aikojen mestarit ja nykyiset tähdet? Toimittajana Jaakko Laakso
 
+        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-18T20:35:00+02:00'
         end_time: '2025-02-18T21:00:00+02:00'

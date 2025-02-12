@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-11T02:26:59.656358+00:00'
+  generated_at: '2025-02-12T02:26:09.437288+00:00'
   git:
     branch: main
-    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
-  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
+    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
+  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,36 @@ data:
         start_time: '2025-02-15T23:40:00+02:00'
         end_time: '2025-02-16T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Farrenc: Trio huilulle, sellolle ja pianolle e-molli (Emanuel Ensemble).
+
+          00:06 Fesca: Sinfonia n:o 3 D-duuri (Pohjois-Saksan radio-ork./Fank Beermann).
+
+          00:35 Santoliquido: I Canti della sera (Iltalauluja) (Joyce DiDonato, mezzosopraano, ja Antonio Pappano, piano).
+
+          00:46 W.A. Mozart: Divertimento B-duuri (Zweite Lodronische Nachtmusik) (Camerata Bern/Thomas Füri).
+
+          01:22 Debussy: Estampes (Vaskipiirroksia) (Anna Kuvaja, piano).
+
+          01:36 Mahler: Sinfonia n:o 5 cis-molli (Minnesotan ork./Osmo Vänskä).
+
+          02:53 Paderewski: Muunnelmia ja fuuga pianolle es-molli (Jonathan Plowright, piano).
+
+          03:23 Rahmaninov (sov.): Kolme venäläistä kansanlaulua (Venäjän valtion sinfoniakuoro ja -ork./Valeri Poljanski).
+
+          03:39 Berwald: Kvintetto pianolle ja jousille n:o 1 c-molli (Susan Tomes Gaudier Ensemble).
+
+          04:02 Silvestrov: Sinfonia n:o 5 (RSO/Jukka-Pekka Saraste).
+
+          04:46 J. Haydn: Ariadne Naksos-saarella (Joyce DiDonato, mezzosopraano, ja Antonio Pappano, piano).
+
+          05:06 Dvorák: Valsseja pianolle op.54 (Inna Poroshina).
+
+          05:31 Billings: Chesterfield (His Majestie's Clerkes/Paul Hillier). 
+
+          05:37 Anonyymi (sov. Russ): Sarja kitaralle D-duuri (Christopher Parkening).
+
+          05:49 Simpson: The Seasons (Vuodenajat) (Sirius Viols).
+        series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2025-02-16T07:00:00+02:00'
         end_time: '2025-02-16T07:02:05+02:00'
@@ -71,12 +100,10 @@ data:
         start_time: '2025-02-16T11:00:00+02:00'
         end_time: '2025-02-16T11:57:00+02:00'
         description: |
-          Muistojen bulevardi
-
           Rota: Tie (Vieno Kekkonen).
           Berlin: Blue skies (Count Basie).
           Kosma: Barbara (Yves Montand).
-          Gunning: Agatha Christie's Poirot (Christopher Gunning).
+          Gunning: Hercule Poirot - The Belgian Detective (Christopher Gunning).
           Yvain: Es mi hombre (Sara Montiel).
           Kuuva: Pienen pojan haaveet (Jarno Sarjanen).
           John: Border song (Elton John).
@@ -219,11 +246,11 @@ data:
 
           Laudate Pueri (Maria Grazia Schiavo ja Emanuela Galli, sopraano, Jose Maria Lo Monaco, altto, Vocal Concert ja Instrumental-Concert Dresden/Peter Kopp).
         series: Klasariparatiisi - Eva Tigerstedt
-      - title: Sari Valto
+      - title: 'Sari Valto: Keski-ikäinen nainen on myllerrysten jälkeen elämänsä vedossa'
         start_time: '2025-02-16T22:22:00+02:00'
-        end_time: '2025-02-16T23:17:00+02:00'
+        end_time: '2025-02-16T23:14:45+02:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+          Keski-ikä ei ole lainkaan niin seesteinen elämänvaihe kuin nuorempana saattoi kuvitella. Ikävaiheeseen liittyy monenlaista luopumista, mutta myös mahdollisuus uusiin alkuihin. Keskustelijoina kirjailija Saila-Mari Kohtala ja näyttelijä, kirjailija Emmi Pesonen .
         series: Sari Valto
       - title: Romano mirits
         start_time: '2025-02-16T23:25:00+02:00'
@@ -236,4 +263,27 @@ data:
         start_time: '2025-02-16T23:40:00+02:00'
         end_time: '2025-02-17T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Beer-Walbrunn: Urkusonaatti g-molli (Hanns-Friedrich Kaiser).
+
+          00:18 Kapustin: Kolme konserttietydiä pianolle (Benjamin Grosvenor).
+
+          00:28 Mendelssohn: Heimkehr aus der Fremde (Paluu vierailta mailta) (Juliane Banse, sopraano, Iris Vermillion, altto, Carsten Süss, tenori, Christian Gerhaher, basso, ja Stefan Müller-Ruppert, basso, sekä Stuttgartin Gächinger Kantorei -kuoro ja Stuttgartin radion SO/Helmuth Rilling).
+
+          01:39 C.H. Graun: Triosonaatti D-duuri (Ursula Paludan Monberg, käyrätorvi, Michael Gurevich, viulu, ja Jonathan Cohen, cembalo).
+
+          01:49 Glazunov: Concerto ballata (Boris Pergamentshikov, sello, ja Baijerin radion SO/David Shallon).
+
+          02:10 Tshaikovski: Pianotrio a-molli (Leningradin FO:n trio).
+
+          02:59 Roslavets: Kamarisinfonia 18 soittajalle (BBC:n Skotlannin SO/Ilan Volkov).
+
+          03:56 Beethoven: Sinfonia n:o 7 A-duuri (Minnesotan ork./Osmo Vänskä).
+
+          04:38 Cornago: Missa de la mapa mundi (His Majestie's Clerkes ja Newberry Consort/Paul Hillier).
+
+          05:05 R. Strauss: Sarja orkesterille oopp. Der Rosenkavalier (Ruusuritari) kohtauksista (Amsterdamin Concertgebouw-ork./Mariss Jansons).
+
+          05:30 Forqueray: Sarja viola da gamballe ja continuolle n:o 5 c-molli (Marion Martineau, viola da gamba, Atsushi Sakai, sello, ja Christophe Rousset, cembalo).
+
+          06:18 Corelli: Sonaatti viululle ja continuolle n:o 1 D-duuri (Pavlo Beznosiuk, viulu, ja The Avison Ensemble).
+        series: Syventävää klassista

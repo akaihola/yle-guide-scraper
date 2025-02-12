@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-11T02:26:56.614660+00:00'
+  generated_at: '2025-02-12T02:26:06.852261+00:00'
   git:
     branch: main
-    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
-  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
+    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
+  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
 data:
   Yle Radio 1:
     programmes:
@@ -54,7 +54,7 @@ data:
         start_time: '2025-02-15T07:31:00+02:00'
         end_time: '2025-02-15T07:55:00+02:00'
         description: |
-          Samae Koskinen kertoo esikoisromaaninsa Aina on itketty synnystä. Toimittajana Jarmo Laitaneva.
+          Samae Koskinen kertoo esikoisromaanistaan Aina on itketty. Toimittajana Jarmo Laitaneva.
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-15T07:55:00+02:00'
@@ -85,7 +85,7 @@ data:
         start_time: '2025-02-15T08:35:00+02:00'
         end_time: '2025-02-15T08:55:00+02:00'
         description: |
-          Jatkamme viime viikolla alkanutta viulunrakennusta Tapio Vainiston opastuksella. Uusien soittimien rakennuksessa tärkeimpänä periaatteena on rakentaa mahdollisimman hyvä-ääninen soitin, joka samalla edustaa korkealuokkaista käsityötä. Materiaaleina käytetään vain mahdollisimman laadukkaita sekä kauniita puuyksilöitä että tarvikeosia.
+          Minne Rinne vie -ohjelmassa jatketaan nyt viulu -harjoituksia turkulaisen viulunrakentaja Tapio Vainiston johdolla. Tapio siis rakentaa ja korjaa viuluja, mutta hän on myös toiminut viulunsoiton opettajana. Tänään pohditaan muun muassa sitä oppiiko kaikki soittamaan viulua, miksi vanhaa viulua ei saa lakata uudelleen ja mitä on lohikäärmeen veri. Ohjelman toimittaa Petri Rinne.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
@@ -267,7 +267,7 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2025-02-15T18:10:00+02:00'
         end_time: '2025-02-15T19:00:00+02:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
         series: Lauantain toivotut levyt
       - title: Yle Uutiset ja sää
@@ -277,11 +277,7 @@ data:
         start_time: '2025-02-15T19:02:00+02:00'
         end_time: '2025-02-15T20:05:00+02:00'
         description: |-
-          Kölniläinen Ensemble Musikfabrik lukeutuu nykymusiikin huippunimiin. Vuodesta 1990 toiminut yhtye tavoittelee projekteissaan uuden musiikki- ja teatteri-ilmaisun luomista, usein tiiviissä yhteistyössä aikamme säveltäjien kanssa. 15.2. Sibelius-Akatemian konserttisalissa taltioidun konsertin toimittaa Lotta Emanuelsson.
-
-          Prozession (2015/2020) on Musikfabrikin tilausteos berliiniläissäveltäjä Enno Poppelta. Poppen teosotsikot ovat usein monimerkityksisiä, ja kuulijan mielikuvitus on olennainen osa teoksen tulkintaa. Prozession leikittelee kirjaimellisten merkitysten ja filosofisten pohdintojen välillä: teos on sekä määränpäähän pyrkivä abstrahoitu sävelkulkue (prosessio) että sisäistä kehitystä tai kehkeytymistä (prosessi) pohtiva taidonnäyte. 
-
-          Kuva: Ensemble Musikfabrik (©Janet Sinica)
+          Musica nova Helsinki 2025: Musikfabrik & Enno Poppe: Prozession. Kölniläinen Ensemble Musikfabrik lukeutuu nykymusiikin huippunimiin. Vuodesta 1990 toiminut yhtye tavoittelee projekteissaan uuden musiikki- ja teatteri-ilmaisun luomista, usein tiiviissä yhteistyössä aikamme säveltäjien kanssa. Suoran lähetyksen Sibelius-Akatemian konserttisalista toimittaa Lotta Emanuelsson.
         series: Konsertteja
       - title: Musiikkikamari
         start_time: '2025-02-15T20:05:00+02:00'
@@ -320,4 +316,33 @@ data:
         start_time: '2025-02-15T23:40:00+02:00'
         end_time: '2025-02-16T07:00:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Farrenc: Trio huilulle, sellolle ja pianolle e-molli (Emanuel Ensemble).
+
+          00:06 Fesca: Sinfonia n:o 3 D-duuri (Pohjois-Saksan radio-ork./Fank Beermann).
+
+          00:35 Santoliquido: I Canti della sera (Iltalauluja) (Joyce DiDonato, mezzosopraano, ja Antonio Pappano, piano).
+
+          00:46 W.A. Mozart: Divertimento B-duuri (Zweite Lodronische Nachtmusik) (Camerata Bern/Thomas Füri).
+
+          01:22 Debussy: Estampes (Vaskipiirroksia) (Anna Kuvaja, piano).
+
+          01:36 Mahler: Sinfonia n:o 5 cis-molli (Minnesotan ork./Osmo Vänskä).
+
+          02:53 Paderewski: Muunnelmia ja fuuga pianolle es-molli (Jonathan Plowright, piano).
+
+          03:23 Rahmaninov (sov.): Kolme venäläistä kansanlaulua (Venäjän valtion sinfoniakuoro ja -ork./Valeri Poljanski).
+
+          03:39 Berwald: Kvintetto pianolle ja jousille n:o 1 c-molli (Susan Tomes Gaudier Ensemble).
+
+          04:02 Silvestrov: Sinfonia n:o 5 (RSO/Jukka-Pekka Saraste).
+
+          04:46 J. Haydn: Ariadne Naksos-saarella (Joyce DiDonato, mezzosopraano, ja Antonio Pappano, piano).
+
+          05:06 Dvorák: Valsseja pianolle op.54 (Inna Poroshina).
+
+          05:31 Billings: Chesterfield (His Majestie's Clerkes/Paul Hillier). 
+
+          05:37 Anonyymi (sov. Russ): Sarja kitaralle D-duuri (Christopher Parkening).
+
+          05:49 Simpson: The Seasons (Vuodenajat) (Sirius Viols).
+        series: Syventävää klassista

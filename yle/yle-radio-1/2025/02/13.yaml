@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-11T02:26:51.943235+00:00'
+  generated_at: '2025-02-12T02:26:02.786961+00:00'
   git:
     branch: main
-    commit: c6a41e933ff1ce4780ceffe5df0aab86109a1684
-  data_hash: c4321c87e87dd37b700dc5b39e3fb46c5b5f0f1c3224eacd4d0b69caeea657b1
+    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
+  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
 data:
   Yle Radio 1:
     programmes:
@@ -220,11 +220,11 @@ data:
         end_time: '2025-02-13T18:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Oleksii Prykhodko'
         start_time: '2025-02-13T18:25:00+02:00'
         end_time: '2025-02-13T18:34:30+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Tulkki ja opettaja Oleksii Prykhodko kertoo äidinkielestään ukrainasta. Millaista on tulkata ukrainan ja suomen välillä? Kielen osaajia tarvitaan myös Suomessa. Toimittajana on Jari Aula.
         series: Kielen päällä
       - title: Hartaita säveliä
         start_time: '2025-02-13T18:35:00+02:00'
@@ -262,16 +262,19 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-13T21:05:00+02:00'
         end_time: '2025-02-13T21:34:30+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J4: Tiedätkö tuttujen suklaapatukoiden taustat ja raaka-aineet?'
         start_time: '2025-02-13T21:35:00+02:00'
-        end_time: '2025-02-13T22:08:00+02:00'
-        description: |2+
-
+        end_time: '2025-02-13T22:11:56+02:00'
+        description: |
+          Jatkamme suklaan parissa Fazerin viestintäjohtaja Liisa Eerolan kanssa, ja hänet laitetaankin heti aluksi sokkotestiin. Myöhemmin kuulemme muun muassa, mitkä patukat on tehty muiden suklaiden jämäpaloista ja mikä suomalaisten suosima herkku on hankittu alkujaan ulkomailta. 
+          Entä mikä selittää sen, että uusia karkkimerkkejä syntyy kovin harvoin, vaikka hyllystä löytyy kyllä uusia versioita vanhoista karkeista joka kuukausi? Ohjelman toimittaa Jani Halme.
+        series: Suuri karkkipodi
       - title: Musiikkikamari
-        start_time: '2025-02-13T22:08:00+02:00'
-        end_time: '2025-02-13T22:30:00+02:00'
+        start_time: '2025-02-13T22:11:56+02:00'
+        end_time: '2025-02-13T22:29:07+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 6/12.'
         start_time: '2025-02-13T22:30:30+02:00'
         end_time: '2025-02-13T22:51:10+02:00'
@@ -285,8 +288,8 @@ data:
           Uusinta vuodelta 1979.
         series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-02-13T23:00:00+02:00'
-        end_time: '2025-02-13T23:56:30+02:00'
+        start_time: '2025-02-13T22:57:00+02:00'
+        end_time: '2025-02-13T23:52:51+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
         series: Epäilyttävän uutta - Aki Yli-Salomäki
