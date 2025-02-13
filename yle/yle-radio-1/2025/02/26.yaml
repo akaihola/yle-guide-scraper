@@ -1,20 +1,54 @@
 metadata:
-  generated_at: '2025-02-12T02:26:16.519812+00:00'
+  generated_at: '2025-02-13T02:26:36.321743+00:00'
   git:
     branch: main
-    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
-  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
+    commit: 9676ae135b04c794685c11b9b7340e45c197a317
+  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
 data:
   Yle Radio 1:
     programmes:
+      - title: Hartaita säveliä
+        start_time: '2025-02-26T06:30:50+02:00'
+        end_time: '2025-02-26T06:50:00+02:00'
+        description: |-
+          Irlantilainen kansansäv. (sov. Bartling): Silmäni aukaise, Jumalani (Key Ensemble/Teemu Honkanen).
+
+          Tuntematon: On Jeesus nimi ihanin (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          J.S. Bach: Jeesus, aarteheni (Jämsän kristillisen kansanopiston laulu- ja jousiryhmä/Tiina Vuorenmaa).
+
+          Chilcott: Oculi omnium (Kaikki katsovat odottaen sinuun) (The King's Singers).
+
+          Lemmel: Käännä katseesi Jeesukseen (Hannu Ilmolahti, baritoni, Reijo Tunkkari ja Maria Pulakka, viulu, Ari Hanhikoski, alttoviulu, Lauri Pulakka, sello, ja Minna Luoma, harmonikka).
+
+          Laaksonen: Katsomaan kasvojesi rauhaa (Hanna Ekola, laulu, ja jousiyhtye).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-26T06:50:00+02:00'
         end_time: '2025-02-26T06:59:59+02:00'
-        description: |
-          Pastori Helena Turja, Seinäjoki
+        description: |-
+          "Jumala sitoutuu luomaansa ihmiseen"
+          Rovasti Helena Turja Seinäjoelta muistelee omaelämäkerrallisen hartaussarjansa toisessa osassa alkuaikojen jännitystä Seinäjoen seurakunnan ensimmäisenä papiksi vihittynä naisena ja pohtii Ruutin kirjan merkitystä ainoana naisen nimissä olevana kirjana Raamatussa. Sarja jatkuu (2/6).
+        series: Aamuhartaus
       - title: Muistojen bulevardi
         start_time: '2025-02-26T09:05:40+02:00'
         end_time: '2025-02-26T09:58:00+02:00'
+        description: |
+          Kärki: Jos helmiä kyyneleet ois (Paula Koivuniemi).
+          Domino/Bartholomew: Ain't it a shame (Fats Domino).
+          Aznavour: Muj ideal (Judita Cerovska).
+          Jurva: Sulamith (Matti Salminen ja HumppAvanti!).
+          Miller: Somebody nobody loves (Georgia Gibbs & Artie Shaw).
+          Belasco: Rum and Coca Cola (Lord Invader).
+          Visca: Assuncion (Juha Eirto ja Metro-tytöt).
+          Kansansäv.: Alouette (Gilles Dreux).
+          Kander: New York, New York (Liza Minnelli).
+          Cash: I walk the line (Johnny Cash).
+          Chydenius: Jäähyväiset (Anneli Sari).
+          Stevens: Kuukoira (Seppo Närhi).
+          Wine: A groovy kind of love (Sonny and Cher).
+          Alfieri: 'A sunnambula (Renato Carosone).
+          King/Stern: Tuhlattiin aikaa (Saara Soisalo).
         series: Muistojen bulevardi
       - title: 'Tuntematon Ukraina: Ukrainan armeija'
         start_time: '2025-02-26T10:00:00+02:00'
@@ -46,6 +80,18 @@ data:
         start_time: '2025-02-26T16:10:00+02:00'
         end_time: '2025-02-26T16:59:00+02:00'
         series: Faunin iltapäivä
+      - title: Hartaita säveliä
+        start_time: '2025-02-26T18:35:00+02:00'
+        end_time: '2025-02-26T18:50:00+02:00'
+        description: |
+          Ahle: Tänne, Jeesus, tulimme (RKK/Timo Nuoranne, sekä Harri Viitanen, urut, ja Markku Luolajan-Mikkola, viola da gamba)
+
+          Tuntematon: Mä kauniin tiedän kukkasen (Topi Lehtipuu, tenori, ja sekä Jonte Knif, positiiviurut ja regaali, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          P. Nyman: Sanasi on meille leipää (Gospel Covertajat).
+
+          Autio - Kangas: Hänen äänensä (Siiri & Laura).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-02-26T18:50:00+02:00'
         end_time: '2025-02-26T19:00:00+02:00'

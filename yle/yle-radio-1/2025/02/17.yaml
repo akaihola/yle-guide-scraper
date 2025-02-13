@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-12T02:26:11.598378+00:00'
+  generated_at: '2025-02-13T02:26:30.821195+00:00'
   git:
     branch: main
-    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
-  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
+    commit: 9676ae135b04c794685c11b9b7340e45c197a317
+  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
 data:
   Yle Radio 1:
     programmes:
@@ -52,6 +52,7 @@ data:
         end_time: '2025-02-17T06:59:59+02:00'
         description: |-
           Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-17T07:00:00+02:00'
         end_time: '2025-02-17T07:10:00+02:00'
@@ -112,7 +113,7 @@ data:
         description: |
           Miksi kerätä vanhoja rahoja? Rakkauden vai rahan tähden? Vieraana Janne Söderholm
         series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Mitä Grammyt kertovat?'
         start_time: '2025-02-17T11:00:00+02:00'
         end_time: '2025-02-17T11:57:00+02:00'
         description: |

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-12T02:26:15.961925+00:00'
+  generated_at: '2025-02-13T02:26:35.649622+00:00'
   git:
     branch: main
-    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
-  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
+    commit: 9676ae135b04c794685c11b9b7340e45c197a317
+  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-02-24T06:30:50+02:00'
         end_time: '2025-02-24T06:50:00+02:00'
+        description: |-
+          Koraalitoisinto: Nyt kuinka kiittäisimme (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Tuntematon (sov. Vuolteenaho): Vehnänjyvä nukkuu alla paksun jään (Sanna Vuolteenaho, laulu, Pekka Silén, nokkahuilu, Eero Palviainen, luuttu, ja Elisa Seppänen, lyömäsoittimet).
+
+          Crüger (sov. Turpela): Luojalta saimme tehtävän (Reisjärven kristillisen opiston nuorten kuoro ja Reisjärven kristillisen opiston kuoro/Susanna Pöyhtäri, ja Raakel Pöyhtäri, urut).
+
+          Sormunen: Kysytkö palvelushintaa (Jukka Leppilampi, laulu ja kitara, sekä Jouko Kantola, piano).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-24T06:50:00+02:00'
@@ -139,15 +147,16 @@ data:
         end_time: '2025-02-24T19:02:00+02:00'
       - title: 'Suuri karkkipodi J6: Xylitol pelasti purkan maineen'
         start_time: '2025-02-24T19:02:40+02:00'
-        end_time: '2025-02-24T19:35:00+02:00'
+        end_time: '2025-02-24T19:36:00+02:00'
         description: |
           Purukumin maailmanvalloitus alkoi Yhdysvalloista, mutta myös Suomella on sanansa sanottavana sen historiassa, joten tässä jaksossa kuulemme, kuinka purkka levisi Eurooppaan. Jaksossa yritämme päästä Guinnessin ennätysten kirjaan ja opetella tunnistamaan purkan kaksi päälajia. Ja mitä tekemistä on xylitolilla sokerin tai koivun kanssa? Jakson vieraana on Cloettan Milla Vihanto. Ohjelman toimittaa Jani Halme.
         series: Suuri karkkipodi
       - title: Musiikkikamari
-        start_time: '2025-02-24T19:35:00+02:00'
+        start_time: '2025-02-24T19:36:00+02:00'
         end_time: '2025-02-24T19:57:00+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-24T19:57:00+02:00'
         end_time: '2025-02-24T20:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-12T02:26:17.319811+00:00'
+  generated_at: '2025-02-13T02:26:37.191251+00:00'
   git:
     branch: main
-    commit: a529c3516d855281e70b32d78eece6e04b5d3d38
-  data_hash: 27c8040bb3eb8f89b29ab2d9471fa0facca209816220ffcda05383a7f49b6c83
+    commit: 9676ae135b04c794685c11b9b7340e45c197a317
+  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
 data:
   Yle Radio 1:
     programmes:
@@ -116,7 +116,7 @@ data:
         series: Yksi on hyvää seuraa
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 9/12.'
         start_time: '2025-03-01T15:00:00+02:00'
-        end_time: '2025-03-01T15:20:00+02:00'
+        end_time: '2025-03-01T15:22:00+02:00'
         description: |
           Edellisessä jaksossa Heikkilän tulevan vävyn, Matti Peltolan, murhaajasta ei ole vieläkään saatu täyttä varmuutta. 
 
@@ -127,7 +127,7 @@ data:
           Uusinta vuodelta 1979.
         series: Verinen lyhty
       - title: Yksi on hyvää seuraa
-        start_time: '2025-03-01T15:20:00+02:00'
+        start_time: '2025-03-01T15:22:00+02:00'
         end_time: '2025-03-01T15:30:00+02:00'
         series: Yksi on hyvää seuraa
       - title: Faunin iltapäivä
