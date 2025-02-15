@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:38.908488+00:00'
+  generated_at: '2025-02-15T02:25:21.453688+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -22,10 +22,12 @@ data:
       - title: Radio 1 soi
         start_time: '2025-03-08T07:02:05+02:00'
         end_time: '2025-03-08T07:20:00+02:00'
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-03-08T07:56:00+02:00'
-        end_time: '2025-03-08T08:00:00+02:00'
-        series: Yksi on hyvää seuraa
+      - title: 'Luomiskertomus: Hanna Lantto Bilbao'
+        start_time: '2025-03-08T07:31:00+02:00'
+        end_time: '2025-03-08T07:56:00+02:00'
+        description: |
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        series: Luomiskertomus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-08T08:00:00+02:00'
         end_time: '2025-03-08T08:05:00+02:00'
@@ -39,10 +41,6 @@ data:
         description: |-
           Muusikko Riikka Hertteli, Baptistiyhdyskunta, Kokkola
         series: Aamuhartaus
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-03-08T08:55:00+02:00'
-        end_time: '2025-03-08T09:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Muistojen bulevardi
         start_time: '2025-03-08T09:05:40+02:00'
         end_time: '2025-03-08T09:58:00+02:00'
@@ -62,6 +60,14 @@ data:
           William: Malaika (Angelique Kidjo).
           Kivi: Jäähyväiset aseille (Liisa Tavi).
         series: Muistojen bulevardi
+      - title: Yle Uutiset
+        start_time: '2025-03-08T10:00:00+02:00'
+        end_time: '2025-03-08T10:05:00+02:00'
+      - title: Ykkösaamu
+        start_time: '2025-03-08T10:05:00+02:00'
+        end_time: '2025-03-08T10:45:00+02:00'
+        description: |
+          Yhteislähetys TV1:n kanssa.
       - title: Rytmikamari
         start_time: '2025-03-08T10:45:00+02:00'
         end_time: '2025-03-08T11:00:00+02:00'
@@ -71,10 +77,19 @@ data:
           Carmine: Signorsi (Rosario Morisco).
           Almeida: Me acostumbre a estar sin ti (Omara Portuondo).
         series: Rytmikamari
+      - title: Näistä levyistä en luovu
+        start_time: '2025-03-08T11:00:00+02:00'
+        end_time: '2025-03-08T11:55:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-08T11:57:00+02:00'
         end_time: '2025-03-08T12:00:00+02:00'
         series: Päivän mietelause
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-08T12:00:00+02:00'
+        end_time: '2025-03-08T12:05:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-08T12:05:00+02:00'
         end_time: '2025-03-08T12:30:00+02:00'
@@ -85,6 +100,9 @@ data:
         description: |
           Havaintoja ihmisestä ja kohtaamisia eläinten kanssa -sarjan viidessä jaksossa jaetaan merkityksellisiä villieläinkohtaamisia. Toimittaja Satu Kivelä kulkee eläinten jättämien kulttuurihistoriallisten jälkien kannoilla yhdessä folkloristi Liisa Kasken kanssa.  
         series: Havaintoja ihmisestä
+      - title: Uudet levyt
+        start_time: '2025-03-08T13:00:00+02:00'
+        end_time: '2025-03-08T14:00:00+02:00'
       - title: Ruben Stiller
         start_time: '2025-03-08T14:00:00+02:00'
         end_time: '2025-03-08T14:55:00+02:00'
@@ -96,7 +114,7 @@ data:
         end_time: '2025-03-08T15:00:00+02:00'
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 10/12.'
         start_time: '2025-03-08T15:00:00+02:00'
-        end_time: '2025-03-08T15:20:00+02:00'
+        end_time: '2025-03-08T15:30:00+02:00'
         description: |
           1920-luvun Suomen maaseudulla on Heikkilän talon edustalla pimeänä iltana ammuttu mies, Matti Peltola. Heikkilän vanha emäntä tekee omia tutkimuksiaan Kalle Mattila apunaan. Varmaa on, että Matti Peltolalta  on murhan aikoihin varastettu 30 000 markkaa tuhannen markan seteleinä ja että samoja seteleitä on päätynyt talousvaikeuksissa olleen nimismiehen kautta takaisin pankkiin. Kalle epäileekin nimismiestä Peltolan Matin murhaajaksi.
 
@@ -107,13 +125,33 @@ data:
 
           Uusinta vuodelta 1979.
         series: Verinen lyhty
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-03-08T15:20:00+02:00'
-        end_time: '2025-03-08T15:30:00+02:00'
+      - title: Aristoteleen kantapää
+        start_time: '2025-03-08T15:30:00+02:00'
+        end_time: '2025-03-08T15:55:00+02:00'
+        series: Aristoteleen kantapää
+      - title: Yle News
+        start_time: '2025-03-08T15:55:00+02:00'
+        end_time: '2025-03-08T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-08T16:00:00+02:00'
+        end_time: '2025-03-08T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-03-08T16:10:00+02:00'
         end_time: '2025-03-08T16:59:00+02:00'
         series: Faunin iltapäivä
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-08T17:00:00+02:00'
+        end_time: '2025-03-08T17:10:00+02:00'
+      - title: Miia Krause
+        start_time: '2025-03-08T17:10:00+02:00'
+        end_time: '2025-03-08T17:57:00+02:00'
+        description: |
+          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+      - title: Ehtookellot
+        start_time: '2025-03-08T18:00:00+02:00'
+        end_time: '2025-03-08T18:01:00+02:00'
       - title: Iltahartaus
         start_time: '2025-03-08T18:01:00+02:00'
         end_time: '2025-03-08T18:10:00+02:00'
@@ -143,6 +181,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-08T21:29:00+02:00'
         end_time: '2025-03-08T21:54:00+02:00'
+      - title: Minne Rinne vie
+        start_time: '2025-03-08T22:00:30+02:00'
+        end_time: '2025-03-08T22:20:00+02:00'
+        description: |
+          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+      - title: Kielen päällä
+        start_time: '2025-03-08T22:20:30+02:00'
+        end_time: '2025-03-08T22:30:00+02:00'
+        description: |-
+          Toimittajana on Jari Aula.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2025-03-08T22:30:30+02:00'
         end_time: '2025-03-08T23:29:30+02:00'

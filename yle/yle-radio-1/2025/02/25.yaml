@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:35.995870+00:00'
+  generated_at: '2025-02-15T02:25:17.719259+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,35 @@ data:
         start_time: '2025-02-24T23:40:00+02:00'
         end_time: '2025-02-25T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          de Séverac: Cerdaña (Izumi Tateno, piano).
+
+          00:14 Beethoven: Viulukonsertto D-duuri (Nathan Milstein ja Philharmonia-ork./Erich Leinsdorf).
+
+          00:54 Holst: Kvintetto puhaltimille As-duuri (Ensemble Arabesques).
+
+          01:09 Lanner: Pas de neuf nach Saverio Mercadante (Wienin Concentus Musicus/Nikolaus Harnoncourt).
+
+          01:24 Langgaard: Sinfonia n:o 1 (Klippepastoraler) (Tanskan radion SO/Leif Segerstam).
+
+          02:32 Glinka: Jousikvartetto F-duuri (Shostakovitsh-kvartetti). 
+
+          02:54 Cherubini: Messu A-duuri (Kruunajaismessu) (Lontoon Philharmonia-kuoro ja -ork./Riccardo Muti).
+
+          03:46 Salmenhaara: Konsertto kahdelle viululle ja orkesterille (Päivyt Rajamäki, ja Maarit Rajamäki, sekä RSO/Juhani Lamminmäki). 
+
+          04:04 Schumann: Pianotrio n:o 1 d-molli (Beaux Arts Trio).
+
+          04:37 Gernsheim: Sinfonia n:o 2 Es-duuri (Reininmaan ja Pfalzin valtiollinen FO/Siegfried Köhler).
+
+          05:10 Ravel: Pianotrio a-molli (Arden-trio).
+
+          05:35 J. Strauss, nuor.: Kreivittären tulo oper. Wieniläisverta (Hilde Güden, sopraano, sekä Wienin operettikuoro ja Wienin valtionoopperan ork./Robert Stolz).
+
+          05:39 Chopin: 12 etydiä (Matti Raekallio, piano).
+
+          06:07 Schmelzer: Muunnelmia teemasta La bella pastora (Freiburger BarockConsort).
+
+          06:17 Magini: Da che vidde il tuo sembiante (Siitä lähtien, kun näin kasvosi) (Maite Beaumont, mezzosopraano, ja  Lautten Compagney/Wolfgang Katschner).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-25T06:30:50+02:00'
@@ -36,6 +64,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-02-25T07:10:00+02:00'
         end_time: '2025-02-25T07:59:59+02:00'
+        description: |-
+          Sor: Etydi kitaralle D-duuri (Petri Kumela, kitara). 
+
+          J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
+
+          Faure: Apres un reve (Unen jälkeen) (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
+
+          Beethoven: Alkusoitto bal. Prometheuksen luomistyöt (RSO/Leif Segerstam).
+
+          Asheim: Bä bä, vita lamm, fuuga Bachin tyyliin kuorolle a cappella (Vox Aurea/Sanna Salminen).
+
+          Schumann: Arabeski C-duuri (Risto Lauriala, piano).
+
+          Figueredo (sov. Diaz): Priva resuello pasaje (John Williams, kitara).
+
+          Ford (sov. Kanneh-Mason): No woman no cry (Sheku Kanneh-Mason, sello).
+
+          Foulds: Karnevaalikulkue (BBC:n konserttiork./Ronald Corp).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-02-25T08:00:00+02:00'
         end_time: '2025-02-25T08:10:00+02:00'
@@ -49,6 +96,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-25T09:05:40+02:00'
         end_time: '2025-02-25T09:58:00+02:00'
+        description: |-
+          Van Halen: Jump (Paul Anka).
+          Sondheim: Faites entrer les clowns (Patricia Kaas).
+          Ram - Rand: Only you (The Platters).
+          Bernie: Sweet Georgia Brown (Django Reinhardt & Eddie South).
+          Olias: Kitara ja meri (Laila Halme).
+          Malgioglio: Ciao cara come stai? (Iva Zanicchi).
+          Van Heusen: Love and marriage (Frank Sinatra).
+          Hazlewood: Ota ja omista (Fredi).
+          D'Artega: After you (Gia Maione).
+          Jobim: So danco samba (Joao Donato).
+          Lindström:  Laina-aurinko (Sinikka Oksanen).
+          Hadzidakis: Ta pedia tu Pirea (Nana Mouskouri).
+          Hadler: Punaisen hiekan maa (Olavi Virta).
+          Coots: Love letters in the sand (Pat Boone).
+          Snåre: Angelo (Ykspihlajan Kino-orkesteri).
+          Porter: The laziest gal in town (Nina Simone).
         series: Muistojen bulevardi
       - title: Sari Valto
         start_time: '2025-02-25T10:00:00+02:00'
@@ -109,6 +173,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-25T16:10:00+02:00'
         end_time: '2025-02-25T16:59:00+02:00'
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-25T17:00:00+02:00'
         end_time: '2025-02-25T17:10:00+02:00'
@@ -121,9 +186,31 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-02-25T17:35:00+02:00'
         end_time: '2025-02-25T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Onni on kuvissa. Sellaisissa joissa auringonvalo tulvii kuistin ikkunoista lasten leikkeihin ja rennon kiireettömään elämään. Eli juuri sellaisissa kuvissa, joita loivat yli sata vuotta sitten ruotsalaistaiteilijat Karin ja Carl Larsson.
+          Onni on sellaisissa kuvissa, joissa on rakkautta. Varjojen ja valojen sävyttämissä kuvissa, joissa halataan vuosikymmeniä sitten kuollutta äitiä. Onko se todellista? Ja onko sillä väliä? Riittääkö, jos se tuntuu todelliselta?
 
+          Kissankehdossa ollaan kuvien vallassa. Ihaillaan 1800- luvun ruotsalaisten influenssereiden koti-idylliä, valvotaan yöt läpeensä nuoren rakkauden pauloissa Sinä päivänä tv-sarjan äärellä ja sukelletaan All of us strangers elokuvan järkyttävän kauniisiin unenomaisiin rakkauskuviin, eikä osata sieltä enää ehkä ikinä pois.
+
+          (ohjelma on uusinta maaliskuulta 2024)
+
+          Saarisalo: Sarjakuvia
+          Bill Fay: Garden song
+          Dina Ögon: Firad
+          English Teacher: Nearly daffodils
+          Eija Merilä: Luvannut en ruusutarhaa
+          Satu Lii: Kyyneleitä
+          Stereo MC's: Step it up
+          Frankie goes to Hollywood: Power of love
+          Rosita Luu: Koiratyttö
+          Caroline Polachek: Spring is coming with a strawberry in the mouth
+
+          Innoitusta antoivat:
+
+          Karin ja Carl Larsson - dokumentti (Yle Areena)
+          Sinä päivänä (One day) - tv-sarja (Netflix)
+          All of us strangers - elokuva (ohjaus Andrew Haigh)
+        series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2025-02-25T18:35:00+02:00'
         end_time: '2025-02-25T18:50:00+02:00'
@@ -141,8 +228,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-02-25T18:50:00+02:00'
         end_time: '2025-02-25T19:00:00+02:00'
-        description: |-
-          Lapsi-, nuoriso- ja koulutyön kehittäjä Marjut Lindholm-Holopainen, Helluntaiherätys, Pieksämäki
+        description: |
+          "Me saimme anteeksi kaiken"
+          Pastori Petri Viinikkala, Helluntaiherätys, Helsinki puhuu anteeksiantamuksesta.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-25T19:00:00+02:00'
@@ -183,6 +271,51 @@ data:
         start_time: '2025-02-25T20:35:00+02:00'
         end_time: '2025-02-25T21:00:00+02:00'
         series: Maailmanpolitiikan arkipäivää
+      - title: Yle Uutiset
+        start_time: '2025-02-25T21:00:00+02:00'
+        end_time: '2025-02-25T21:02:00+02:00'
       - title: Politiikkaradio
         start_time: '2025-02-25T21:05:00+02:00'
         end_time: '2025-02-25T21:34:30+02:00'
+      - title: Sari Valto
+        start_time: '2025-02-25T21:35:00+02:00'
+        end_time: '2025-02-25T22:29:30+02:00'
+        description: |
+          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+      - title: Miia Krause
+        start_time: '2025-02-25T22:30:00+02:00'
+        end_time: '2025-02-25T23:16:30+02:00'
+        description: |
+          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+      - title: Yöklassinen
+        start_time: '2025-02-25T23:40:00+02:00'
+        end_time: '2025-02-26T06:30:00+02:00'
+        description: |-
+          Händel: Triosonaatti B-duuri (The English Concert/Trevor Pinnock, cembalo).
+
+          23:53 Schumann: Zwölf Gedichte (Dietrich Fischer-Dieskau, baritoni, ja Günther Weissenborn, piano).
+
+          00:29 Genin: Fantasia sävelmästä Sataa, sataa, paimentyttö (Jean-Louis Beaumadier, pikkolohuilu, ja Jean Koerner, piano).
+
+          00:40 Rimski-Korsakov: Sheherazade (Stuttgartin radion SO/Sergiu Celibidache).
+
+          01:32 Beach: Pianokonsertto cis-molli (Danny Driver ja BBC:n Skotlannin SO/Rebecca Miller).
+
+          02:07 Saariaho: Solar (Avanti!/Hannu Lintu, ja John Storgårds, viulu).
+
+          02:25 S. Ljapunov: Sekstetto b-molli (John Thwaites, piano, ja Dante-kvartetti, sekä Leon Bosch, kontrabasso).
+
+          03:03 Zemlinsky: Sinfonia n:o 3 B-duuri (Tshekkiläinen FO/Antony Beaumont).
+
+          03:49 Gál: Sellokonsertto op.67 (Antônio Meneses ja Northern Sinfonia/Claudio Cruz).
+
+          04:23 Faltin: Adagio uruille (Ville Urponen).
+
+          04:27 Smyth: Kvintetto jousille E-duuri (Mannheimin jousikvartetti ja Joachim Griesheimer, sello).
+
+          04:57 Mendelssohn: Lieder ohne Worte (Sanattomia lauluja) n:o 25-48 (Viktorija Postnikova, piano).
+
+          05:51 Lasso: Domine Dominus noster (The King's Singers).
+
+          05:54 Weiss: Luuttusonaatti fis-molli (Robert Barto, barokkiluuttu).
+        series: Syventävää klassista

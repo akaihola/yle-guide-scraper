@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:40.640490+00:00'
+  generated_at: '2025-02-15T02:25:22.905691+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -130,6 +130,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-03-13T18:35:00+02:00'
         end_time: '2025-03-13T18:50:00+02:00'
+        description: |-
+          Koraalitoisinto: Kaikkien silmät tarkkaavat (RKK/Timo Nuoranne, ja Harri Viitanen, urut). 
+
+          Löytty: Lahjalaulu (Jaakko Löytty, laulu ja kitara, sekä Anna-Maaria Varonen ja Olli Varonen, sello).
+
+          Crüger: Sinulle kiitos, Isä, lahjastasi (Psallamus-kuoro/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Harju: Ano minulta (Maksetut viulut).
         series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-03-13T18:50:00+02:00'
@@ -139,9 +147,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-13T19:00:00+02:00'
         end_time: '2025-03-13T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Tapiola Sinfonietta - Minimalismi-festivaali
         start_time: '2025-03-13T19:02:00+02:00'
         end_time: '2025-03-13T21:00:00+02:00'
+        description: |+
+          Tapiola Sinfoniettan Minimalismi-festivaalin konsertissa on valokeilassa eurooppalainen näkökulma, jossa 1900-luvun jälkipuolen musiikki-ilmiölle löytyy historiallisia edelläkävijöitä. 
+
+          Henry Purcellin jousifantasiat edustivat 1600-luvun lopulla persoonallista näkemystä ikivanhasta moniäänisyydestä. Henryk Goreckin Kolme pientä kappaletta vanhaan tyyliin päivittävät muistot menneisyydestä ja kansanmusiikista moderniksi uusyksinkertaisuudeksi. Uutta ja vanhaa yhdistää myös Michael Nymanin Strong On Oaks, jonka alun perin saksinkielinen otsikko sai pontta pääministeri Tony Blairin iskulauseesta. Louis Andriessenin Dances-tanssiteoksen lauluosuudet on sävelletty egyptiläiselle prinsessalle, jonka osaan sujahtaa sopraanotähti Helena Juntunen. Suoran lähetyksen Espoon kulttuurikeskuksesta toimittaa Riikka Holopainen
+
+          Tapiola Sinfonietta, joht. Mateusz Gwizdalla
+          Helena Juntunen, sopraano
+
+          Henry Purcell: Fantasioita
+          Henryk Górecki: Kolme kappaletta vanhaan tyyliin
+          Michael Nyman: Strong on Oaks, Strong on the Causes of Oaks
+          Louis Andriessen: Dances
+
+          Kuva: Helen Juntunen
+
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-03-13T21:00:00+02:00'

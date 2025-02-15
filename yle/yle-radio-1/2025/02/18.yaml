@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:31.469791+00:00'
+  generated_at: '2025-02-15T02:25:14.326619+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -66,8 +66,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-02-18T06:50:00+02:00'
         end_time: '2025-02-18T06:59:59+02:00'
-        description: |-
-          Kirkkoherra Tuomo Törmänen, Pirkkala
+        description: |
+          "Mummon elämä ei jäänyt kesken"
+          Pirkkalan seurakunnan kirkkoherra Tuomo Törmänen on mummonsa arkun äärellä siunaamassa rakasta isovanhempaa matkalle taivaan kotiin.
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-18T07:00:00+02:00'
         end_time: '2025-02-18T07:10:00+02:00'
@@ -106,12 +108,28 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-18T09:05:40+02:00'
         end_time: '2025-02-18T09:58:00+02:00'
+        description: |
+          Charles: Hallelujah I love her so (Ray Charles).
+          Pace: Si (Gigliola Cinquetti).
+          Sigman: Buona sera, signorina (Eino Virtanen).
+          Scotto: Mon coeur est un oiseau des iles (Josephine Baker).
+          Bock: Sunrise, sunset (Bing Crosby).
+          Janes: Vou dar de beber a dor (Amalia Rodrigues).
+          Brave: Tulenliekki (Eila Pienimäki).
+          Mills: Moonglow (Benny Goodman).
+          Andersson: Ljuva sextital (Brita Borg).
+          Manzo: Jauhan kahvia (Brita Koivunen).
+          Plessas: Akropolis (Eino Grön).
+          Verch: Immer will ich dir gehören (Heidi Brühl).
+          Belafonte/Burgess: Island in the sun (Harry Belafonte).
+          Simon: Bridge over troubled water (Simon & Garfunkel).
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Unohda univinkit ja nukut paremmin, ehkä'
         start_time: '2025-02-18T10:00:00+02:00'
         end_time: '2025-02-18T10:55:00+02:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+          Jos univinkit toimisivat, kukaan ei kärsisi unettomuudesta. Unitutkimus tuottaa jatkuvasti uutta tietoa nukkumisesta, mutta tieto ei lohduta unettomuudesta kärsiviä. Unitutkijat ja unettomat puhuvat eri kieltä. Miltä valvominen oikeasti tuntuu ja miten voisimme laajentaa sitä kovin kliinistä unipuhetta, joka median on vallannut?
+        series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-02-18T11:00:00+02:00'
         end_time: '2025-02-18T11:57:00+02:00'
@@ -132,14 +150,13 @@ data:
         description: |-
           Kaisa Pulakka tutkii, miten sukupuolen moninaisuus on näkynyt kristinuskon historiassa. Millaisia transtarinoita liittyy katolisiin pyhimyksiin? Entä kuka oli paavi Johanna?
         series: Kaisa Pulakan aikamatkat
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Lempo, turkanen, OMG – kiroilussa näkyvät kielilainat ja suhde uskontoon'
         start_time: '2025-02-18T12:30:00+02:00'
         end_time: '2025-02-18T12:55:00+02:00'
+        description: |
+          Pasi Heikura käy korvat punaisina läpi suomalaista kiroilua tutkija Helmi Riihosen kanssa. Ohjelmassa tutustutaan kisällivaltion olemukseen  ja harjoitetaan alkusoinnuttelua. Faasirikoksena kuulemme, miten käy, kun laittaa kortensa likoon.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-02-18T12:55:00+02:00'
-        end_time: '2025-02-18T13:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-02-18T13:00:00+02:00'
         end_time: '2025-02-18T13:30:00+02:00'
@@ -147,15 +164,33 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-18T13:30:00+02:00'
         end_time: '2025-02-18T15:00:00+02:00'
+        description: |-
+          Iltapäivän musiikkia etnosta kevyeen jazziin ja populaarimusiikin helmiin. Klo n. 14 studiovioeraana taiteilija Nanna Susi. Klo n. 14:30 Kielen päällä.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-18T15:00:00+02:00'
         end_time: '2025-02-18T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Vuoden nuori taiteilija Man Yau kuvaa chinoiserien kautta kauneutta ja exotismin varjopuolta'
         start_time: '2025-02-18T15:02:00+02:00'
         end_time: '2025-02-18T15:55:00+02:00'
         description: |
+          Elämme entistä visuaalisemmassa maailmassa, jossa sosiaalinen media tuo silmiemme eteen loputonta kuvavirtaa. Millainen teos saa meidät keskittymään ja pysähtymään? Miten Vuoden nuori taiteilija Man Yau ottaa kantaa taiteellaan henkilökohtaisella ja yhteiskunnallisella tasolla?
+
+          Hänen Dear Souvenir- teoksessaan kohtaavat kiinalaiset oopperanaamiot ja barokkityyliset kukkaornamentit. Teos viittaa myös chinoiserie-traditioon, joka sai alkunsa 1600-luvulla ja kukoisti erityisesti 1700-luvun Euroopassa. Chinoiseriessa yhdistyvät länsimaiset ja itämaiset elementit. Tyypillisiä piirteitä ovat kiinalaiset maisemat, pagodit, lohikäärmeet, kukka-aiheet ja eksoottiset eläimet, jotka yhdistyvät barokin ja rokokoon koristeellisuuteen. Usein nämä mielikuvat olivat romantisoituja ja stereotyyppisiä ja niiden kautta länsimaalaiset loivat oman, idealisoidun käsityksensä itämaisesta kulttuurista. Tämä eksoottisuus kiehtoi, mutta samalla se etäännytti todellisesta kulttuurisesta ymmärryksestä. 
+
+          Mitä Man Yau haluaa kertoa tämän teoksen kautta? Mistä chinoiserie on esimerkki syvemmällä tasolla? Chinoiserie on kaunista mutta muuttuuko kokemus kauneudesta kun tutkii sen historiaa?
+
+          Tällä hetkellä Yaun teoksiin voi tutustua Nykytaiteen museo Kiasmassa 14 helmikuuta avautuneessa ryhmänäyttelyssä. Kivi, paperi, sakset -näyttelyssä tarkastellaan nykytaiteen materiaalien moninaisia merkityksiä ja tekniikoita 1970-luvulta tähän päivään.
+
+          Ohjelman vieraina ovat Vuoden nuori taiteilija Man Yau, Taideyliopiston Kuvataideakatemian dekaani Leevi Haapala ja nykytaidekuraattori Ki Nurmenniemi.
+
+
+          Ohjelman juontaa Pia-Maria Lehtola
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-18T15:55:00+02:00'
         end_time: '2025-02-18T15:58:00+02:00'
@@ -200,9 +235,19 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-02-18T17:35:00+02:00'
         end_time: '2025-02-18T18:30:00+02:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
-
+        description: |
+          Patsy Cline: She's got you
+          Vesta: Rakastut muihin tyttöihin
+          Amy Winehouse: Back to black
+          Figaro: Poikkis
+          Robyn: Call your girlfriend
+          Boygenius: Cool about it 
+          Mary Lambert: Jessie's girl
+          Pauli Hanhiniemen Perunateatteri: Vieraslista
+          Dire Straits: Romeo and Juliet
+          Draama-Helmi: Murustan sun sänkyyn
+          Litku Klemetti: Rakastan sun exää
+        series: Kissankehto
       - title: Hartaita säveliä
         start_time: '2025-02-18T18:35:00+02:00'
         end_time: '2025-02-18T18:50:00+02:00'
@@ -250,6 +295,27 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-02-18T20:35:00+02:00'
         end_time: '2025-02-18T21:00:00+02:00'
+        description: |+
+          Saksassa vallan uskotaan vaihtuvan ensi viikon liittopäivävaaleissa. Mielipidekyselyiden mukaan suurimmaksi puolueeksi nousee kristillisdemokraattien CDU.
+
+          CDU:n johtaja Friedrich Merz haluaa vahvistaa Saksan roolia Euroopassa. Hän on luvannut ensimmäisenä päivänään liittokanslerina matkustaa sekä Varsovaan että Pariisiin.
+
+          Osin äärioikeistolainen Vaihtoehto Saksalle -puolue, AfD voi jopa kaksinkertaistaa kannatuksensa edellisvaaleista ja nousta Saksan toiseksi suurimmaksi puolueeksi. 
+
+          AfD haluaa Saksan ulos EU:sta ja sulkea Saksan rajat. Puoluetta pidetään myös Venäjä-mielisenä. Ohjelmassa kuullaan AfD:n kannattajilta, mikä puolueessa vetoaa.
+
+          Saksan hallitusneuvotteluista ennakoidaan jälleen pitkiä. Ohjelmassa kysytään asiantuntijoilta, voiko AfD päästä myös hallitukseen vai pitääkö palomuuri, jolla on tähän asti estetty äärioikeiston hallitusvaltaanpääsyä. 
+
+          Politiikan tutkijoiden mukaan merkkejä palomuurin heikentymisestä Saksassa jo on, sillä Merz on sanonut CDU:n voivan äänestää esimerkiksi maahanmuuttokysymyksissä samoin kuin AfD.
+
+          Maahanmuuton rajoittaminen on noussut Saksan päävaaliteemaksi useiden maahanmuuttajataustaisten tekemien hyökkäysten vuoksi. Viimeksi tällä viikolla afganistanilaismies ajoi auton väkijoukkoon Münchenissä.
+
+          Ohjelmassa pohditaan myös, ryhtyykö Saksa Merzin johdolla vahvistamaan asevoimiaan ja nostamaan puolustusmenoja. Merz kannattaa Ukrainan tukemista, mahdollisesti järeämminkin asein.
+
+          Suomalaistutkija arvioi ohjelman lopuksi, millaisilta Suomen ja Saksan suhteiden näkymät vaikuttavat, jos CDU voittaa. CDU:n sisarpuolue Suomessa on Kokoomus.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Katarina Baer ja Paula Vilén. Äänitarkkailijana on Laura Koso. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-02-18T21:00:00+02:00'
@@ -271,4 +337,37 @@ data:
         start_time: '2025-02-18T23:40:00+02:00'
         end_time: '2025-02-19T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          L-E Jadin: Jousikvartetto n:o 2 f-molli (Mosaïques-kvartetti).
+
+          00:03 Tallis: Messu, 4-ääninen (Hilliard-yhtye).
+
+          00:24 Johnson: Pavan n:o 2 f-molli (Jakob Lindberg, luuttu).
+
+          00:32 Englund: Sarja soolosellolle (Viimeinen saari) (Kari Lindstedt).
+
+          00:54 Liszt: 24 suurta etydiä (Leslie Howard, piano).
+
+          02:09 Wagner: Wotanin jäähyväiset ja taikatuli oopp. Valkyyria (George London, bassobaritoni, ja Wienin filharmonikot/Hans Knappertsbusch).
+
+          02:27 Ippolitov-Ivanov: Kaukasialaisia kuvia (Baltimoren SO/David Zinman).
+
+          02:48 Prokofjev: Skyyttalainen sarja (Stuttgartin radion SO/Sergiu Celibidache).
+
+          03:12 Frescobaldi: Fioretti, 11 canzonaa ja toccata uruille (Wilhelm Krumbach).
+
+          04:10 Madetoja: Lyyrillinen sarja sellolle ja pianolle (Senja Rummukainen ja Jenni Lappalainen).
+
+          04:28 Brunetti: Sinfonia n:o 26 B-duuri (Concerto Köln).
+
+          04:51 Taffanel (sov. Gamzou): Fantasia von Weberin oopperan Taika-ampuja teemoista (Emmanuel Pahud, huilu, ja Rotterdamin FO/Yannick Nezet-Seguin).
+
+          05:05 Bartók: Tanssisarja (Philadelphian ork./István Kertész).
+
+          05:23 Beethoven: Pianosonaatti n:o 18 Es-duuri (Metsästys) (Clara Haskil).
+
+          05:47 Delibes: Valse lente bal. Coppélia (Cincinnati Pops/Erich Kunzel).
+
+          05:50 Sor: Kuusi bagatellia kitaralle op.43 (Petri Kumela).
+
+          06:11 J.S. Bach: Sonaatti huilulle, viululle ja continuolle c-molli (Jean-Pierre Rampal, huilu, Isaac Stern, viulu, John Steele Ritter, cembalo, ja Leslie Parnas, sello).
+        series: Syventävää klassista

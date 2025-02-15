@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:37.191251+00:00'
+  generated_at: '2025-02-15T02:25:19.199092+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,27 @@ data:
         start_time: '2025-02-28T23:40:00+02:00'
         end_time: '2025-03-01T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Puccini: Tosca, ooppera (Zinka Milanov, sopraano, Jussi Björling, tenori, Leonard Warren, baritoni, Leonardo Monreale, basso, Mario Carlin, tenori, Nestore Catalani, basso, Vincenzo Preziosa, basso, ja Rooman oopperan kuoro ja ork./Erich Leinsdorf).
+
+          01:35 J.S. Bach: Sonaatit viululle ja continuolle n:o 1 h-molli, 2 A-duuri ja 3 E-duuri (Joseph Swensen, viulu, ja John Gibbons, cembalo).
+
+          02:18 Hummel: Fagottikonsertto F-duuri (Klaus Thunemann ja Academy of St. Martin-in-the-Fields/Neville Marriner).
+
+          02:43 Mahler - Carpenter: Sinfonia n:o 10 fis-molli (Dallasin SO/Andrew Litton).
+
+          04:02 Mendelssohn: Sinfonia n:o 3 a-molli (Skotlantilainen) (Clevelandin ork./Christoph von Dohnanyi). 
+
+          04:37 Sibelius: Kymmenen kappaletta pianolle op.58 (Eero Heinonen, piano). 
+
+          05:13 Schumann: Pianotrio n:o 3 g-molli (Beaux Arts -trio).
+
+          05:41 Glenn: Crying in the chapel (Kalevi Kiviniemi, urut).
+
+          05:46 Zelenka: Magnificat C-duuri (Carol Meyer, sopraano sekä Westminsterin oratoriokuoro ja Zelenka-kamariork./John Eric Floreen).
+
+          05:58 Händel: Concerto grosso g-molli (Boston Baroque/Martin Pearlman). 
+
+          06:15 Pasculli: Oboekonsertto Donizettin La Favorita -oopperan teemoista (Burkhard Glaetzner ja Berliinin SO/Claus Peter Flor).
         series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-03-01T06:30:00+02:00'
@@ -61,10 +81,9 @@ data:
         end_time: '2025-03-01T08:55:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-03-01T08:55:00+02:00'
-        end_time: '2025-03-01T09:00:00+02:00'
-        series: Yksi on hyvää seuraa
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-01T09:00:00+02:00'
+        end_time: '2025-03-01T09:05:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2025-03-01T09:05:40+02:00'
         end_time: '2025-03-01T09:58:00+02:00'
@@ -84,6 +103,14 @@ data:
           Trenet: Beyond the sea (Helen Shapiro).
           Cohen: Suzanne (Leonard Cohen).
         series: Muistojen bulevardi
+      - title: Yle Uutiset
+        start_time: '2025-03-01T10:00:00+02:00'
+        end_time: '2025-03-01T10:05:00+02:00'
+      - title: Ykkösaamu
+        start_time: '2025-03-01T10:05:00+02:00'
+        end_time: '2025-03-01T10:45:00+02:00'
+        description: |
+          Yhteislähetys TV1:n kanssa.
       - title: Rytmikamari
         start_time: '2025-03-01T10:45:00+02:00'
         end_time: '2025-03-01T11:00:00+02:00'
@@ -102,14 +129,28 @@ data:
         start_time: '2025-03-01T11:57:00+02:00'
         end_time: '2025-03-01T12:00:00+02:00'
         series: Päivän mietelause
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-01T12:00:00+02:00'
+        end_time: '2025-03-01T12:05:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-01T12:05:00+02:00'
         end_time: '2025-03-01T12:30:00+02:00'
+        series: Maailmanpolitiikan arkipäivää
       - title: 'Havaintoja ihmisestä: Karhut ovat uteliaita nuuskuttajia '
         start_time: '2025-03-01T12:30:00+02:00'
         end_time: '2025-03-01T13:00:00+02:00'
         description: |
           Havaintoja ihmisestä ja kohtaamisia eläinten kanssa -sarjan viidessä jaksossa jaetaan merkityksellisiä villieläinkohtaamisia. Toimittaja Satu Kivelä kulkee eläinten jättämien kulttuurihistoriallisten jälkien kannoilla yhdessä folkloristi Liisa Kasken kanssa.  
+        series: Havaintoja ihmisestä
+      - title: Uudet levyt
+        start_time: '2025-03-01T13:00:00+02:00'
+        end_time: '2025-03-01T14:00:00+02:00'
+      - title: Ruben Stiller
+        start_time: '2025-03-01T14:00:00+02:00'
+        end_time: '2025-03-01T14:55:00+02:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-01T14:55:00+02:00'
         end_time: '2025-03-01T15:00:00+02:00'
@@ -130,10 +171,30 @@ data:
         start_time: '2025-03-01T15:22:00+02:00'
         end_time: '2025-03-01T15:30:00+02:00'
         series: Yksi on hyvää seuraa
+      - title: Aristoteleen kantapää
+        start_time: '2025-03-01T15:30:00+02:00'
+        end_time: '2025-03-01T15:55:00+02:00'
+        series: Aristoteleen kantapää
+      - title: Yle News
+        start_time: '2025-03-01T15:55:00+02:00'
+        end_time: '2025-03-01T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-01T16:00:00+02:00'
+        end_time: '2025-03-01T16:10:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2025-03-01T16:10:00+02:00'
         end_time: '2025-03-01T16:59:00+02:00'
         series: Faunin iltapäivä
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-01T17:00:00+02:00'
+        end_time: '2025-03-01T17:10:00+02:00'
+      - title: Miia Krause
+        start_time: '2025-03-01T17:10:00+02:00'
+        end_time: '2025-03-01T17:57:00+02:00'
+        description: |
+          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
       - title: 'Ehtookellot: Helsingin Roihuvuoren kirkon kellot'
         start_time: '2025-03-01T18:00:00+02:00'
         end_time: '2025-03-01T18:01:00+02:00'
@@ -149,10 +210,21 @@ data:
         end_time: '2025-03-01T19:00:00+02:00'
         description: |
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-01T19:00:00+02:00'
+        end_time: '2025-03-01T19:02:00+02:00'
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2025-03-01T19:02:00+02:00'
         end_time: '2025-03-01T21:00:00+02:00'
         series: Musiikkikamari
+      - title: Yle Uutiset
+        start_time: '2025-03-01T21:00:00+02:00'
+        end_time: '2025-03-01T21:02:05+02:00'
+      - title: Uutispodcast
+        start_time: '2025-03-01T21:03:00+02:00'
+        end_time: '2025-03-01T21:28:00+02:00'
+        description: |
+          Otsikoiden takana joka arkipäivä.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-01T21:29:00+02:00'
         end_time: '2025-03-01T21:54:00+02:00'
@@ -161,11 +233,18 @@ data:
         end_time: '2025-03-01T22:20:00+02:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
+      - title: Kielen päällä
+        start_time: '2025-03-01T22:20:30+02:00'
+        end_time: '2025-03-01T22:30:00+02:00'
+        description: |-
+          Toimittajana on Jari Aula.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2025-03-01T22:30:30+02:00'
         end_time: '2025-03-01T23:29:30+02:00'
         description: |
           Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        series: Keinuva talo - Mika Kauhanen
       - title: Yöklassinen
         start_time: '2025-03-01T23:40:00+02:00'
         end_time: '2025-03-02T07:00:00+02:00'

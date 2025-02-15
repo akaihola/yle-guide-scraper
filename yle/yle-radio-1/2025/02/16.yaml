@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:28.565105+00:00'
+  generated_at: '2025-02-15T02:25:12.273443+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -65,13 +65,19 @@ data:
 
           Laudate Pueri (Maria Grazia Schiavo ja Emanuela Galli, sopraano, Jose Maria Lo Monaco, altto, Vocal Concert ja Instrumental-Concert Dresden/Peter Kopp).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-02-16T07:56:43+02:00'
+        end_time: '2025-02-16T08:00:00+02:00'
+        description: |-
+          Kansansäv.: Koiviston polska (Niekku).
       - title: Yle Uutiset ja sää
         start_time: '2025-02-16T08:00:00+02:00'
         end_time: '2025-02-16T08:05:05+02:00'
       - title: Narrin aamulaulu - Käkisalmen kosmopoliittiystävät Ture Ara ja Erkki Melartin
-        start_time: '2025-02-16T08:05:35+02:00'
-        end_time: '2025-02-16T08:59:30+02:00'
+        start_time: '2025-02-16T08:06:05+02:00'
+        end_time: '2025-02-16T08:59:37+02:00'
         description: |
+          Säveltäjä Erkki Melartin ohjeisti nuorta Ture Araa: "Taide on 99% työtä ja se yksi prosentti on turhaa vapaa-aikaa." Molemmille oli tärkeää paitsi taide ja musiikki, myös henkinen etsintä. 
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
         series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
@@ -79,21 +85,22 @@ data:
         end_time: '2025-02-16T09:05:05+02:00'
       - title: Riston Valinta
         start_time: '2025-02-16T09:05:39+02:00'
-        end_time: '2025-02-16T09:55:00+02:00'
+        end_time: '2025-02-16T09:54:09+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
         series: Riston Valinta - Risto Nordell
       - title: Yksi on hyvää seuraa
-        start_time: '2025-02-16T09:55:00+02:00'
+        start_time: '2025-02-16T09:54:09+02:00'
         end_time: '2025-02-16T09:56:00+02:00'
         series: Yksi on hyvää seuraa
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-02-16T09:56:00+02:00'
         end_time: '2025-02-16T09:59:00+02:00'
+        series: Jumalanpalvelukset radiossa
       - title: Herättäjän kirkkopyhän jumalanpalvelus Espoonlahden kirkosta
         start_time: '2025-02-16T10:00:00+02:00'
         end_time: '2025-02-16T10:59:20+02:00'
-        description: |-
+        description: |
           Liturgina kappalainen Niko Huttunen. Saarnaajana rovasti Hans-Christian Daniel. Kanttorina ja urkurina Director cantus Helena Yli-Jaskari. Virret: 948; 707; 334:1-4; 334:5-8; 410:1-2,6-7; 903:1- ; 299:1,3,5,7,9; 212:1-4
         series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
@@ -140,6 +147,7 @@ data:
         end_time: '2025-02-16T14:52:00+02:00'
         description: |-
           Entinen talouselämän ykkösnainen Anne Brunila eli vuosia väkivaltaisessa parisuhteessa. Pojan sairastuminen ja läheisten kuolemat pysäyttivät, ja kun elämä alkoi pyöriä vain työasioiden ympärillä ja ystäville jäi yhä vähemmän aikaa, hän päätti luopua urasta. 
+        series: Maarit Tastula - Yksi maailma, kaksi katsetta
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-16T14:52:00+02:00'
         end_time: '2025-02-16T15:00:00+02:00'
@@ -190,13 +198,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-16T17:00:00+02:00'
         end_time: '2025-02-16T17:10:00+02:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Viisi kysymystä, viisi vastausta'
         start_time: '2025-02-16T17:11:00+02:00'
-        end_time: '2025-02-16T18:11:00+02:00'
+        end_time: '2025-02-16T18:10:08+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Mitä olisivat kysymykset ilman vastausta? Ne olisivat varmaankin joko liian vaikeita tai retorisia. Kysymys-vastauspareja esitellään kappaleiden otsikoiden mukaan tämänkertaisessa Laura Korhosen Jazzklubissa.
+        series: Laura Korhosen Jazzklubi
       - title: 'Jazzklubin illan keikka: Edward Vesala ja UMO vuonna 1996.'
-        start_time: '2025-02-16T18:11:00+02:00'
+        start_time: '2025-02-16T18:10:08+02:00'
         end_time: '2025-02-16T19:00:00+02:00'
         description: |2
            Äänitetty Malmitalossa Helsingissä 10.5.1996.
@@ -206,28 +215,33 @@ data:
         end_time: '2025-02-16T19:02:05+02:00'
       - title: 'Jazzklubi special: Hot Heros & Jukka Orma Jazzklubin studiosessioissa.'
         start_time: '2025-02-16T19:02:05+02:00'
-        end_time: '2025-02-16T20:00:00+02:00'
+        end_time: '2025-02-16T19:59:50+02:00'
         description: |
           Toimittajana Eero Koski.
         series: Jazzklubi
       - title: Ehtoopalvelus Pyhän Aleksanteri Nevskin ja pyhän Nikolaoksen kirkosta Tampereelta
         start_time: '2025-02-16T20:00:00+02:00'
-        end_time: '2025-02-16T21:00:00+02:00'
+        end_time: '2025-02-16T20:53:20+02:00'
         description: |-
           Palveluksen toimittaa pastori Tuomas Kallonen. Kirkkokuoroa johtaa kanttori Markus Hänninen.
         series: Jumalanpalvelukset radiossa
+      - title: Radio 1 soi
+        start_time: '2025-02-16T20:53:20+02:00'
+        end_time: '2025-02-16T21:00:00+02:00'
+        description: |-
+          Sibelius: Cantique (Arto Noras, sello, ja RSO/Jukka-Pekka Saraste).
       - title: Yle Uutiset
         start_time: '2025-02-16T21:00:00+02:00'
         end_time: '2025-02-16T21:02:05+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Eurooppa on epäonnistunut ja siksi Trump marssii yli, sanoo asiantuntija'
         start_time: '2025-02-16T21:03:00+02:00'
-        end_time: '2025-02-16T21:26:00+02:00'
+        end_time: '2025-02-16T21:26:56+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Turvallisuuspolitiikassa puhaltavat voimakkaat uudet tuulet. USA on linjannut näkemyksiään rauhan saamisesta Ukrainaan sekä Euroopan puolustuksesta ja puolustusmenoista. Miten suurista muutoksista on kyse? Sami Lindforsin vieraana on Ulkopoliittisen instituutin vanhempi tutkija Iro Särkkä.
         series: Uutispodcast
       - title: 'Klasariparatiisi: Hasse - Rakas saksilainen joka melkein unohtui'
-        start_time: '2025-02-16T21:27:00+02:00'
-        end_time: '2025-02-16T22:21:19+02:00'
+        start_time: '2025-02-16T21:27:10+02:00'
+        end_time: '2025-02-16T22:21:29+02:00'
         description: |
           Miten on mahdollista, että yksi 1700-luvun menestyneimmistä säveltäjistä on melkein unohtunut?
           Johann Adolf Hassen ihania melodioita ihailivat niiin Bach kuin Mozart.
@@ -247,18 +261,26 @@ data:
           Laudate Pueri (Maria Grazia Schiavo ja Emanuela Galli, sopraano, Jose Maria Lo Monaco, altto, Vocal Concert ja Instrumental-Concert Dresden/Peter Kopp).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Keski-ikäinen nainen on myllerrysten jälkeen elämänsä vedossa'
-        start_time: '2025-02-16T22:22:00+02:00'
-        end_time: '2025-02-16T23:14:45+02:00'
+        start_time: '2025-02-16T22:22:31+02:00'
+        end_time: '2025-02-16T23:15:16+02:00'
         description: |
           Keski-ikä ei ole lainkaan niin seesteinen elämänvaihe kuin nuorempana saattoi kuvitella. Ikävaiheeseen liittyy monenlaista luopumista, mutta myös mahdollisuus uusiin alkuihin. Keskustelijoina kirjailija Saila-Mari Kohtala ja näyttelijä, kirjailija Emmi Pesonen .
         series: Sari Valto
       - title: Romano mirits
-        start_time: '2025-02-16T23:15:00+02:00'
-        end_time: '2025-02-16T23:29:29+02:00'
+        start_time: '2025-02-16T23:16:15+02:00'
+        end_time: '2025-02-16T23:30:44+02:00'
         description: |
           Kun lukion opinto-ohjauksen tunnilla tehtiin sopivien ammattialojen testiä, Robert ”Roope” Åkerlund sai tietää sopivansa erityisen hyvin mm. kukkakauppiaaksi. Kaupan ala ei puhutellut nuorta miestä, mutta tuli testissä toinenkin ehdotus: Åkerlund sopisi hyvin juristiksi. Nykyään hän opiskeleekin oikeustiedettä Helsingin yliopistossa ensimmäistä vuottaan. Åkerlundin polku korkeakouluopiskelijaksi oli kiinnostava: hän luki avoimessa yliopistossa niin pitkään, että pääsi nk. väylän kautta varsinaiseksi tutkinto-opiskelijaksi. 
           Robert Åkerlundin tapasi Helsingissä toimittaja Jaakko Laakso.
         series: Romano mirits
+      - title: 'Eilisen ääni: Oululaisetkin pyöräilevät talvella'
+        start_time: '2025-02-16T23:31:44+02:00'
+        end_time: '2025-02-16T23:39:37+02:00'
+        description: |-
+          Tänään iltapäivällä -lähetyksessä kerrottiin vuonna 2000, että Oululaiset kulkivat niin työ- kuin muutkin matkansa usein pyörällä, olipa talvi taikka kesä. Oulu olikin saanut Keuhkovammaliitolta ilmansuojelupalkinnon pyöräily-ystävällisenä kaupunkina. Terttu Lensu haastatteli pyöräilijöitä talvisessa Oulussa.
+
+          Ohjelman ensilähetys oli 25.2.2000.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-02-16T23:40:00+02:00'
         end_time: '2025-02-17T06:30:00+02:00'

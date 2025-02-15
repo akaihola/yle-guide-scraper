@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-13T02:26:34.194044+00:00'
+  generated_at: '2025-02-15T02:25:16.012336+00:00'
   git:
     branch: main
-    commit: 9676ae135b04c794685c11b9b7340e45c197a317
-  data_hash: be8ee6ccea0ddb0973b99414deac5bd79c778deeeac0c21e8d4981aae2476fb0
+    commit: 1f15da4555e9d9e5b7c4efc1a2d91c5e109f2372
+  data_hash: 09adee289821a2c79edff4c44031032afc1f9e519a857d12db159f3d883c2756
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,31 @@ data:
         start_time: '2025-02-21T00:00:00+02:00'
         end_time: '2025-02-21T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Skrjabin: Yhdeksän masurkkaa (Eric Le Van, piano).
+
+          00:34 Gilles: Requiem (Le Concert Spirituel/Hervé Niquet).
+
+          01:12 Bruckner: Kvintetto jousille F-duuri (Amadeus-kvartetti ja Cecil Aronowitz, alttoviulu).
+
+          01:58 Bruch: Konsertto klarinetille, alttoviululle ja orkesterille e-molli (Paul Meyer ja Gerard Caussé sekä Lyonin oopperan ork./Kent Nagano).
+
+          02:18 R. Strauss: Also sprach Zarathustra, sinfoninen runo (Chicagon SO/Pierre Boulez). 
+
+          02:52 Rota: Pasuunakonsertto (Christian Lindberg ja Tapiola Sinfonietta/Osmo Vänskä).
+
+          03:06 Reinecke: Kvintetto pianolle ja jousille A-duuri (Linos-yhtye).
+
+          03:35 Roussel: Serenadi huilulle, viululle, alttoviululle, sellolle ja harpulle (Jean-Pierre Rampal, huilu, Lily Laskine, harppu, sekä Pasquier-trio).
+
+          03:52 Tulindberg: Viulukonsertto B-duuri (Jorma Rahkonen ja RSO/Okko Kamu).
+
+          04:14 Mendelssohn: Pianotrio n:o 1 d-molli (Atlantis Trio).
+
+          04:44 Messager: Osia bal. Kaksi kyyhkystä (Covent Garden -oopperan ork./Charles Mackerras).
+
+          05:09 Henry Purcellin, John Blow'n ja Matthew Locken urkumusiikkia (John Butt, urut)
+
+          06:15 Visée: Kappaleita teorbille a-molli (Fred Jacobs).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-02-21T06:30:50+02:00'
@@ -73,15 +97,19 @@ data:
         end_time: '2025-02-21T10:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-21T10:55:00+02:00'
         end_time: '2025-02-21T11:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Ihana Aino
         start_time: '2025-02-21T11:00:00+02:00'
         end_time: '2025-02-21T11:55:00+02:00'
-        description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |+
+          Outi Paananen samoilee Erkki Melartinin ja Jalmari Finnen loihtimassa kalevalaisessa maisemassa.
+
+
+        series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-21T11:57:00+02:00'
         end_time: '2025-02-21T12:00:00+02:00'
@@ -103,6 +131,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-21T13:30:00+02:00'
         end_time: '2025-02-21T15:00:00+02:00'
+        description: |
+          Iltapäivän musiikia etnosta populaarimusiikin helmiin ja kevyeen jazziin. Klo n. 14 Luomiskertomuksessa Tytöt tytöt tytöt -elokuvan käsikirjoittajat Ilona Ahti ja Daniela Hakulinen Toimittajana Jarmo Laitaneva. Heikki Puskala juontaa.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-21T15:00:00+02:00'
@@ -124,7 +154,25 @@ data:
         start_time: '2025-02-21T16:10:00+02:00'
         end_time: '2025-02-21T16:59:00+02:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          E. Strauss: Pieniä lumikiteitä (Tukholman Strauss-ork./Mika Eichenholz).
+
+          Lutoslawski: Talvi sarj. Viisi laulua Kazimiera Illakowiczownan runoihin (Salome Haller, sopraano, ja Nicolas Krüger, piano).
+
+          Suolahti: Finaali Sinfonia piccolasta h-molli (RSO/Kari Tikka).
+
+          Dubois: Andante cantabile (Benoit Loiselle, sello, ja Stephane Lemelin, piano).
+
+          Verdi: Filipin monologi oopp. Don Carlo (Matti Salminen, basso, ja Sinfonia Lahti/Eri Klas).
+
+          Kreisler: Liebesfreud (Lemmenriemua) (Leonidas Kavakos, viulu, ja Peter Nagy, piano).
+
+          Dvorák: Slaavilainen tanssi n:o 4 F-duuri (Tshekkiläinen FO/Jirí Belohlávek).
+
+          Sibelius: Var det en dröm? (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          Rodrigo: En los trigales (Vehnäpelloilla) (Osmo Palmu, kitara). 
+
+          Eller: Tanssi sarj. Viisi kappaletta jousiorkesterille (Viron radion SO/Vallo Järvi).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-21T17:00:00+02:00'
@@ -140,10 +188,6 @@ data:
         description: |
           Ilmatieteen laitoksen pääjohtaja Petteri Taalas tekee työtä ilmaston ja ilmastonmuutoksen parissa. Elämässä tärkeitä asioita ovat myös musiikki, veneily, usko ja perhe. Toimittajana on Tuija Kurvinen.
         series: Näistä levyistä en luovu
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-02-21T18:30:00+02:00'
-        end_time: '2025-02-21T18:35:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: Musiikkihartaus
         start_time: '2025-02-21T18:35:00+02:00'
         end_time: '2025-02-21T19:00:00+02:00'
@@ -197,9 +241,36 @@ data:
       - title: Kulttuurin kulmilla
         start_time: '2025-02-21T23:30:30+02:00'
         end_time: '2025-02-21T23:39:00+02:00'
+        description: |-
+          Kännykät pois kun oopperan alkusoitto alkaa! 
+        series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-02-21T23:40:00+02:00'
         end_time: '2025-02-22T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Flotow: Alessandro Stradella, ooppera (Jörg Dürmüller, tenori, Markus Marquardt, basso, Sabine Passow, sopraano, Johannes Martin Kränzle, basso, ja Bernhard Schneider, basso, sekä Kölnin radiokuoro ja Kölnin radio-ork./Helmut Froschauer).
+
+          01:26 Glinka (sov. Hrímalý): Pateettinen trio d-molli (Borodin-trio).
+
+          01:45 C. Czerny: 12 voluntarya (Iain Quinn, urut).
+
+          02:20 Bruch: Konsertto kahdelle pianolle ja orkesterille (Katia ja Marielle Labèque ja Lontoon Philharmonia-ork./Semjon Bytshkov).
+
+          02:49 Borodin: Kvintetto jousille f-molli (Aleksandr Gotthelf, sello, ja Moskovan jousikvartetti).
+
+          03:20 Bartók: Osia kok. Mikrokosmos pianolle (Andor Foldes).
+
+          03:46 Svendsen: Sinfonia n:o 2 B-duuri (Bergenin FO/Neeme Järvi).
+
+          04:19 J. Haydn: Pianosonaatti n:o 31 As-duuri (Emanuel Ax).
+
+          04:37 Fesca: Septetto n:o 1 c-molli op.26 (Suuri septetto) (Linos-yhtye).
+
+          05:16 W.A. Mozart: Konsertto käyrätorvelle ja orkesterille n:o 1 D-duuri (John Cerminaro ja Seattlen SO/Gerard Schwartz).
+
+          05:32 Buxtehude: Sonaatti viululle, viola da gamballe ja continuolle G-duuri (The Boston Museum Trio).
+
+          05:40 Palestrina: Missa Papae Marcelli (Paavi Marcelluksen messu) (New York Polyphony sekä Tim Keeler, kontratenori, Andrew Fuchs, tenori, ja Jonathan Woody, bassobaritoni).
+
+          06:16 A. Groneman: Sonaatti kahdelle huilulle D-duuri (Jed Wentz ja Marion Moonen, traverso).
         series: Syventävää klassista
