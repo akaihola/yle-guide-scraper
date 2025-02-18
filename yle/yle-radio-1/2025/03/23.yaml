@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-17T02:28:26.331797+00:00'
+  generated_at: '2025-02-18T02:26:04.062932+00:00'
   git:
     branch: main
-    commit: 050e7d3051c6467b5346bbbe906f90daff9e63bc
-  data_hash: d2f99c84d11147c7d39bb92f711af33131a7a9ddf913e4cce2b1f32edd8f97d0
+    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
+  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
 data:
   Yle Radio 1:
     programmes:
@@ -34,9 +34,12 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-03-23T09:56:00+02:00'
         end_time: '2025-03-23T09:59:00+02:00'
-      - title: Jumalanpalvelus
+        series: Jumalanpalvelukset radiossa
+      - title: Jumalanpalvelus Joroisten kirkosta
         start_time: '2025-03-23T10:00:00+02:00'
         end_time: '2025-03-23T10:59:20+02:00'
+        description: |-
+          Saarnaajana kappalainen Maija Voutilainen
         series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
         start_time: '2025-03-23T11:00:00+02:00'
@@ -87,6 +90,12 @@ data:
         description: |-
           Toimittajana Markku Salo.
         series: Jazzklubi
+      - title: Jumalanpalvelus Helluntaikirkosta Forssasta
+        start_time: '2025-03-23T20:00:00+02:00'
+        end_time: '2025-03-23T21:00:00+02:00'
+        description: |-
+          Jumalanpalvelus Helluntaikirkosta Forssasta
+          Puhujana pastori Tommi Hintsanen
       - title: Sari Valto
         start_time: '2025-03-23T22:27:00+02:00'
         end_time: '2025-03-23T23:22:00+02:00'

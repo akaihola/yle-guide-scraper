@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-17T02:28:19.950587+00:00'
+  generated_at: '2025-02-18T02:25:55.198811+00:00'
   git:
     branch: main
-    commit: 050e7d3051c6467b5346bbbe906f90daff9e63bc
-  data_hash: d2f99c84d11147c7d39bb92f711af33131a7a9ddf913e4cce2b1f32edd8f97d0
+    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
+  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
 data:
   Yle Radio 1:
     programmes:
@@ -206,17 +206,21 @@ data:
 
           West - Williams: Lapsuuden usko (Gospel Covertajat).
         series: Hartaita säveliä
-      - title: Iltahartaus
+      - title: Aamuhartaus
         start_time: '2025-02-27T18:50:00+02:00'
         end_time: '2025-02-27T19:00:00+02:00'
-        description: |-
-          Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia
+        description: |
+          "2. Minä uskon - auta minua epäuskossani"
+          Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy onko Jumalausko vain menneisyyden haamu. Hartaus on toinen osa keskeisiä kristillisiä oppeja moniarvoisessa maailmassa käsittelevässä sarjassa. 
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-27T19:00:00+02:00'
         end_time: '2025-02-27T19:02:00+02:00'
-      - title: Jazzklubin konsertti-ilta
+      - title: 'Jazzklubin konsertti-ilta: Cyrille Aimée Band Leibnizin jazzfestivaalilla.'
         start_time: '2025-02-27T19:02:00+02:00'
         end_time: '2025-02-27T21:00:00+02:00'
+        description: |
+          Äänitetty Hugo Wolf -salissa 28.9.2024.
         series: Jazzklubi
       - title: Yle Uutiset
         start_time: '2025-02-27T21:00:00+02:00'

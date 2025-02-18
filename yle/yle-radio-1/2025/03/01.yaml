@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-17T02:28:20.552031+00:00'
+  generated_at: '2025-02-18T02:25:56.240277+00:00'
   git:
     branch: main
-    commit: 050e7d3051c6467b5346bbbe906f90daff9e63bc
-  data_hash: d2f99c84d11147c7d39bb92f711af33131a7a9ddf913e4cce2b1f32edd8f97d0
+    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
+  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
 data:
   Yle Radio 1:
     programmes:
@@ -186,6 +186,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-01T16:10:00+02:00'
         end_time: '2025-03-01T16:59:00+02:00'
+        description: |
+          Bernstein (sov. Benyas): Alkusoitto oper. Candide (Vento Chiaro).
+
+          Fauré: Poème d'un jour (Runoelma eräästä päivästä) (Håkan Hagegård, baritoni, ja Warren Jones, piano).
+
+          Glazunov: Poème épique (Eeppinen runoelma) (Hongkongin FO/Kenneth Schermerhorn).
+
+          Segovia: Anecdotas n:o 5 (David Russell, kitara).
+
+          Brahms: Intermezzo a-molli (Glenn Gould, piano).
+
+          Saint-Saëns: Iltaunelmointia (Monte Carlon FO/David Robertson).
+
+          Gershwin (sov. Puerling): Love walked in (Chanticleer/Joseph Jennings).
+
+          O. Merikanto: Yli Atlantin (Folke Gräsbeck, piano).
+
+          Doppler: Finaali unkarilaisesta pastoraalifantasiasta (Sharon Bezaly, huilu, ja Roland Pöntinen, piano).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-01T17:00:00+02:00'

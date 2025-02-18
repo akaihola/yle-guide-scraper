@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-17T02:28:21.521814+00:00'
+  generated_at: '2025-02-18T02:25:57.385091+00:00'
   git:
     branch: main
-    commit: 050e7d3051c6467b5346bbbe906f90daff9e63bc
-  data_hash: d2f99c84d11147c7d39bb92f711af33131a7a9ddf913e4cce2b1f32edd8f97d0
+    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
+  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
 data:
   Yle Radio 1:
     programmes:
@@ -31,7 +31,8 @@ data:
         start_time: '2025-03-05T06:50:00+02:00'
         end_time: '2025-03-05T06:59:59+02:00'
         description: |-
-          Pastori Helena Turja, Seinäjoki
+          "Hiljaisuus vie rauhan lähteille"
+          Pastori Helena Turja Seinäjoelta pohtii omaelämäkerrallisen hartaussarjansa kolmannessa osassa hiljaisuuden ja sen tuoman rauhan arvoa omalle elämälleen ja työlleen. (Sarja jatkuu 3/6).
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-05T07:00:00+02:00'

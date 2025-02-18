@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-17T02:28:22.882513+00:00'
+  generated_at: '2025-02-18T02:25:59.419365+00:00'
   git:
     branch: main
-    commit: 050e7d3051c6467b5346bbbe906f90daff9e63bc
-  data_hash: d2f99c84d11147c7d39bb92f711af33131a7a9ddf913e4cce2b1f32edd8f97d0
+    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
+  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
 data:
   Yle Radio 1:
     programmes:
@@ -124,7 +124,9 @@ data:
         start_time: '2025-03-10T18:50:00+02:00'
         end_time: '2025-03-10T19:00:00+02:00'
         description: |-
-          Näyttelijä Krista Kosonen lukee Psalmeja (VT2024)
+          "Olen aivan lopussa"
+          Näyttelijä Krista Kosonen lukee Psalmeja Psalmit 2024 käännöksen mukaan (142-145:1-13b). Raamatussa on yhteensä 150 psalmia, jotka luetaan maanantai-illoissa kevään aikana
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-10T19:00:00+02:00'
         end_time: '2025-03-10T19:02:00+02:00'
