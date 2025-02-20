@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-18T02:26:03.712757+00:00'
+  generated_at: '2025-02-20T02:27:14.169131+00:00'
   git:
     branch: main
-    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
-  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
+    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
+  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
 data:
   Yle Radio 1:
     programmes:
@@ -63,6 +63,28 @@ data:
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
         series: Näistä levyistä en luovu
+      - title: Musiikkihartaus
+        start_time: '2025-03-21T18:35:00+02:00'
+        end_time: '2025-03-21T19:00:00+02:00'
+        description: |-
+          Opetusneuvos Kalevi Virtanen, Helsinki
+      - title: 'Helsinki Seriös: Ferschtmann, Broman, Lederlin & Biss'
+        start_time: '2025-03-21T19:02:00+02:00'
+        end_time: '2025-03-21T21:00:00+02:00'
+        description: |-
+          Helsinki Seriös -konserttisarjassa kuultiin maaliskuussa alansa huippua edustavien ystävysten yhteissoittoa, nelikkoa, joka on enemmän kuin osiensa summa. Lisa Ferschtmanin, Malin Bromanin, Antoine Lederlinin ja Jonathan Bissin soitosta välittyy moderni ote ohjelmistoon ja ilo kohtaamisesta ystävien kesken. Nämä kamarimusiikin individualistit iskevät kirkasta kipinää! Sibelius-Akatemian konserttisalissa 16.3. soitetun konsertin toimittaa Lotta Emanuelsson.
+
+          Ohjelma:
+
+          Antonín Dvořák: Pianokvartetto D-duuri op. 23
+          Leoš Janáček: Viulusonaatti
+          Fanny Mendelssohn: Vier Lieder (sovitus alttoviululle ja pianolle)
+          Johannes Brahms: Pianokvartetto c-molli op. 60
+
+
+
+
+          Lisa Ferschtman, viulu, Malin Broman, alttoviulu, Antoine Lederlin, sello & Jonathan Biss, piano
       - title: Tuuli Saksalan keidas
         start_time: '2025-03-21T22:25:00+02:00'
         end_time: '2025-03-21T23:15:00+02:00'

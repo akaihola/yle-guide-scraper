@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-18T02:25:45.515295+00:00'
+  generated_at: '2025-02-20T02:26:51.344908+00:00'
   git:
     branch: main
-    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
-  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
+    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
+  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
 data:
   Yle Radio 1:
     programmes:
@@ -145,9 +145,13 @@ data:
         start_time: '2025-02-20T12:57:00+02:00'
         end_time: '2025-02-20T13:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kuntavaalit huolen varjossa'
         start_time: '2025-02-20T13:00:00+02:00'
         end_time: '2025-02-20T13:30:00+02:00'
+        description: |
+          Politiikkaradio pureutuu kuntavaalien kiistakysymyksiin. Pitääkö koulujen ryhmäkokoja rajata? Mihin rahat riittävät?
+          Entä vaikuttavatko turvallisuushuolet kevään vaaleihin? Joutuvatko lapset sijaiskärsijöiksi, jos huomio kiinnittyy Venäjän uhkaan ja Trumpin suunnanmuutoksiin? Miten kuntien pitäisi suhtautua uusiin turvahuoliin?
+          Aiheesta keskustelevat kokoomuksen ohjelmapäällikkö Sini Ruohonen sekä puoluesihteerit Mikkel Näkkäjärvi SDP:stä ja Antti Siika-aho keskustasta. Toimittajana on Antti Pilke. Suora lähetys.
         series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-20T13:30:00+02:00'
@@ -158,11 +162,15 @@ data:
       - title: Yle Uutiset
         start_time: '2025-02-20T15:00:00+02:00'
         end_time: '2025-02-20T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Homoseksuaalin täytyi olla 1990-luvun laman aikana miehekäs hetero'
         start_time: '2025-02-20T15:02:00+02:00'
         end_time: '2025-02-20T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Tutkijatohtori Kari Silvola teki 1990-luvun laman aikana mallin töitä. Työkeikkoja tuli, jos - ja kun - mies näytti klassiselta Hollywood-kasvolta, kuten vaikkapa Paul Newmanilta. Silvolan kannalta ongelma oli, että hän joutui jatkuvasti kelvatakseen töihin kätkemään homoseksuaalisen identiteettinsä ja teeksentelemään machoilevaa heteroa.
+
+          Nyt Silvola on tehnyt väitöskirjan, joka tuo esiin ajan kulttuuriset jännitteet, joita hallitsivat homofobiset asenteet, aids-epidemian leimaama pelon ilmapiiri ja maskuliinisuuden tiukat rajat. Miksi juuri lama-aika tarvitsi tiukkoja sukupuolinormeja ja -rooleja? Mitä oma aikamme puolestaan korostaa ja osaammeko nähdä sen asettamat rajoitteet ja vaietut normit?
+
+          Kari Silvolan kanssa lähetyksessä on keskustelijana Lapin yliopiston sukupuolen tutkimuksen professori Leena-Maija Rossi. Toimittajana on Ville Talola.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-20T15:55:00+02:00'
@@ -203,7 +211,7 @@ data:
         start_time: '2025-02-20T17:10:00+02:00'
         end_time: '2025-02-20T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Iso-Britannia erosi EU:sta viisi vuotta sitten, ja nyt mielipidekyselyjen mukaan suurin osa kansasta pitää sitä virheenä. Millaiset brexitin vaikutukset ovat olleet ja saivatko britit sitä, mitä halusivatkin? Vieraana Ylen Britannian-kirjeenvaihtaja Kirsi Crowley. Juontajana Helmi Sundström.
         series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-02-20T17:35:00+02:00'
@@ -237,9 +245,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-02-20T19:00:00+02:00'
         end_time: '2025-02-20T19:02:00+02:00'
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Ævestaden ja Baskery '
         start_time: '2025-02-20T19:02:00+02:00'
-        end_time: '2025-02-20T21:00:00+02:00'
+        end_time: '2025-02-20T20:56:00+02:00'
+        description: |-
+          Norjalais-ruotsalainen Ævestaden -trio konsertoi Malmö-folk -festivaalilla lokakuussa 2024 ja 
+          ruotsalaissisarusten Greta, Stella ja Sunniva Bondessonin Baskery-yhtye soittaa americanaa ja banjopunkkia Urkult-festivaalilla elokuussa 2024. Konsertin toimittaa Miika Lauriala. 
         series: Etnokonsertteja
       - title: Yle Uutiset
         start_time: '2025-02-20T21:00:00+02:00'
@@ -247,19 +258,21 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-20T21:05:00+02:00'
         end_time: '2025-02-20T21:34:30+02:00'
-      - title: Suuri karkkipodi
-        start_time: '2025-02-20T21:35:00+02:00'
-        end_time: '2025-02-20T22:08:00+02:00'
-        description: |2+
-
+      - title: 'Suuri karkkipodi J5: Lannoitemauste tekee salmiakin'
+        start_time: '2025-02-20T21:35:09+02:00'
+        end_time: '2025-02-20T22:04:46+02:00'
+        description: |
+          Salmiakki jakaa ihmiset ja kansakunnat tiukasti kahtia - sitä joko rakastetaan tai vihataan. Suomen Salmiakkiyhdistyksen puheenjohtaja Jukka Annala kertoo, missä kaikkialla ammoniumkloridilla maustettu lakritsi kelpaa herkuksi. Jaksossa kuullaan myös, miten EU-sääntely oli vaarantaa koko karkin olemassaolon. Ja millaiset tuotekategoriat saavat fanit väittelemään siitä, mikä kaikki voidaan laskea salmiakiksi. Ohjelman toimittaa Jani Halme.
+        series: Suuri karkkipodi
       - title: Musiikkikamari
-        start_time: '2025-02-20T22:08:00+02:00'
-        end_time: '2025-02-20T22:30:00+02:00'
+        start_time: '2025-02-20T22:04:46+02:00'
+        end_time: '2025-02-20T22:29:21+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: 'Radioteatteri esittää: Verinen lyhty, osa 7/12.'
-        start_time: '2025-02-20T22:30:30+02:00'
-        end_time: '2025-02-20T22:58:24+02:00'
+        start_time: '2025-02-20T22:30:26+02:00'
+        end_time: '2025-02-20T22:57:50+02:00'
         description: |
           Heikkilän talon tuleva vävy Peltolan Matti on ammuttu pimeällä maantiellä. Murhasta epäiltynä on vangittu niin Helsingissä sotaväessä oleva Heikkilän Erkki, jonka pistoolilla murha on tehty ja joka salaa on ollut murhailtana käymässä paikkakunnalla, kuin Heikkilän talon renki Antti, jonka tallista verinen pistooli on löydetty.
 
@@ -270,8 +283,8 @@ data:
           Uusinta vuodelta 1979.
         series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-02-20T23:00:00+02:00'
-        end_time: '2025-02-20T23:56:30+02:00'
+        start_time: '2025-02-20T23:03:32+02:00'
+        end_time: '2025-02-20T23:59:16+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
         series: Epäilyttävän uutta - Aki Yli-Salomäki

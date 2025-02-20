@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-18T02:25:57.998840+00:00'
+  generated_at: '2025-02-20T02:27:10.061878+00:00'
   git:
     branch: main
-    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
-  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
+    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
+  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-03-07T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-07T06:30:50+02:00'
         end_time: '2025-03-07T06:50:00+02:00'
@@ -131,8 +130,11 @@ data:
       - title: Musiikkihartaus
         start_time: '2025-03-07T18:35:00+02:00'
         end_time: '2025-03-07T19:00:00+02:00'
-        description: |-
-          Suomen Pipliaseuran verkkoviestintäpäällikkö Hanna Paavilainen, Helsinki
+        description: |+
+          "Maailman piti loppua, mutta niin ei käynyt"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus. Tässä musiikkihartaudessa Suomen Pipliaseuran verkkoviestintäpäällikkö Hanna Paavilainen Helsingistä pohtii maailmanlopun odotuksia ja jatkuvasti uutta luovan Jumalan tarjoamia uusia alkuja
+
+
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-07T19:00:00+02:00'

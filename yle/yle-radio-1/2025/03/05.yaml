@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-18T02:25:57.385091+00:00'
+  generated_at: '2025-02-20T02:27:09.515401+00:00'
   git:
     branch: main
-    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
-  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
+    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
+  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
 data:
   Yle Radio 1:
     programmes:
@@ -40,6 +40,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-05T07:10:00+02:00'
         end_time: '2025-03-05T07:59:59+02:00'
+      - title: Aamusoitto
+        start_time: '2025-03-05T07:10:00+02:00'
+        end_time: '2025-03-05T07:59:59+02:00'
+        description: |
+          R. Schumann: Lebhaft, nicht zu schnell sarj. Märchenerzählungen (Satukuvia) (Asko Heiskanen, klarinetti, Dmitri Sinkovski, alttoviulu, ja Aapo Häkkinen, piano).
+
+          Witt: Allegretto sinfoniasta A-duuri (Jyväskylä Sinfonia/Patrick Gallois).
+
+          Schreker: Waldeinsamkeit (Metsän yksinäisyys) kok. Zwei Liebeslieder (Benjamin Appl, baritoni, James Baillieu, piano).
+
+          Sor: Etydi kitaralle D-duuri op.35/17 kok. Vingt quatre excercises (William Carter).
+
+          Finzi: Romanssi Es-duuri (Keski-Pohjanmaan kamariork./Sakari Oramo).
+
+          Godard: Matkaankutsu (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          Palmgren: Tuhkimovalssi (RSO/Osmo Vänskä).
+
+          Tailleferre: Intermezzo kahdelle pianolle (Mark Clinton ja Nicole Narboni).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-05T08:00:00+02:00'
         end_time: '2025-03-05T08:10:00+02:00'

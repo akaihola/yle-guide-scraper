@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-18T02:25:57.035751+00:00'
+  generated_at: '2025-02-20T02:27:09.314913+00:00'
   git:
     branch: main
-    commit: 401ba674c0ea22545efac33cb072f61a35ea9308
-  data_hash: 3981c5499187e5c2ea1352fab3c512c9dd87db275f386d3531a8879ca64ab285
+    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
+  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
 data:
   Yle Radio 1:
     programmes:
@@ -35,6 +35,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-04T07:10:00+02:00'
         end_time: '2025-03-04T07:59:59+02:00'
+        description: |-
+          Vivaldi: Allegro konsertosta neljälle viululle, jousille ja continuolle D-duuri (I Musici/Maria Teresa Garatti).
+
+          Carreño: Pieni valssi (Alexandra Oehler, piano).
+
+          Syrjälahti: Pakkasaamu (Hannu Syrjälahti, kantele).
+
+          Herschel (sov. Briggs): Allegro sinfoniasta n:o 17 C-duuri (Lontoon Mozart-soittajat/Matthias Bamert)
+
+          Schubert: Die Forelle. (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          Bonis: Aamu (Mark Gothóni, viulu, Peter Hörr, sello, ja Paul Rivinius, piano).
+
+          Kuula: Auringon noustessa (Ylioppilaskunnan Laulajat, ja Tapiolan kuoro/Pasi Hyökki). 
+
+          Caplet: À la francaise C-duuri (Elizabeth Hainen, harppu).
+
+          Beach: Berceuse (Andreas Ottensamer, klarinetti, ja Rotterdamin FO/Yannick Nézet-Séguin).
+
+          Haapalainen: Pieni gavotti (RSO/Pertti Pekkanen).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-04T08:00:00+02:00'
@@ -111,7 +131,6 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-04T16:10:00+02:00'
         end_time: '2025-03-04T16:59:00+02:00'
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-04T17:00:00+02:00'
         end_time: '2025-03-04T17:10:00+02:00'
