@@ -1,17 +1,48 @@
 metadata:
-  generated_at: '2025-02-20T02:27:08.380074+00:00'
+  generated_at: '2025-02-21T02:27:13.683088+00:00'
   git:
     branch: main
-    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
-  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
+    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
+  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-03-01T23:40:00+02:00'
         end_time: '2025-03-02T07:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Salieri: Sinfonia Il giorno onomastico D-duuri (Nimipäivä) (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          23:59 J.S. Bach: Urkusonaatti n:o 3 d-molli (Marie-Claire Alain).
+
+          00:12 Tshaikovski: Pianotrio a-molli (Suuren taiteilijan muistolle) (Vadim Gluzman, viulu, Johannes Moser, sello, ja Jevgeni Sudbin, piano).
+
+          01:01 J. Haydn: Missa Cellensis (Missa Sanctae Caeciliae) C-duuri (Krisztina Laki, sopraano, Hilke Helling, altto, Aldon Baldin, tenori, ja Hans-Georg Ahrens, basso, sekä Stuttgartin kamarikuoro ja Württembergin kamariork./Frieder Bernius).
+
+          02:12 Eller: Sümfooniline legend (Sinfoninen legenda) (Viron valtion SO/Olari Elts).
+
+          02:38 Rossini: Sonaatti jousille n:o 5 Es-duuri (Minna Pensola ja Antti Tikkanen, viulu, Tuomas Lehto, sello, sekä Niek de Groot, kontrabasso). 
+
+          02:52 Jadassohn: Pianokonsertto n:o 2 f-molli (Markus Becker ja Berliinin radion SO/Michael Sanderling).
+
+          03:17 Ranta: Kainuun kuvia (RSO/John Storgårds).
+
+          03:29 Respighi: Sinfonia drammatica (Liègen kuninkaallinen FO/John Neschling).
+
+          04:28 Granados: Goyescas, pianosarja (José Menor).
+
+          05:27 Holst: A Moorside suite (Radion viihdeorkesterin puhaltajat/George de Godzinsky).
+
+          05:41 Schumann: Pianokonsertto a-molli (Annie Fischer ja Kölnin radion SO/Joseph Keilberth).
+
+          06:13 Brahms: Alttorapsodia (Christa Ludwig, mezzosopraano, Philharmonia-kuoron miesäänet ja Pilharmonia-ork./Otto Klemperer).
+
+          06:26 Schulhoff: Viisi jazzetydiä (Kathryn Stott, piano).
+
+          06:39 Händel: Sonaatti nokkahuilulle ja continuolle F-duuri (Michel Piguet, nokkahuilu, Charles Medlam, sello, ja John Toll, cembalo).
+
+          06:47 J.D. Braun: Sarja e-molli soolohuilulle (Marion Treupel-Franck).
+        series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2025-03-02T07:00:00+02:00'
         end_time: '2025-03-02T07:02:05+02:00'
@@ -90,11 +121,11 @@ data:
         start_time: '2025-03-02T14:50:00+02:00'
         end_time: '2025-03-02T15:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Elävä historia
+      - title: 'Elävä historia: Muistovärssy, kauppalista ja päiväkirja - kynäilevän ihmisen jäljet'
         start_time: '2025-03-02T15:00:00+02:00'
-        end_time: '2025-03-02T15:50:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        end_time: '2025-03-02T15:49:30+02:00'
+        description: |-
+          Kalenterit, muistiot, suttupaperit ja päiväkirjat. Kaikki, mihin olemme ajatuksiamme tai suunnitelmiamme tallentaneet, kertovat paitsi arjen historiasta, myös maailmanhistorian suurista muutoksista. Päiväkirjojen suosio kasvaa aina, kun ajat ovat vaikeat. Asiantuntija: FT Maria Kallio-Hirvonen. Toimittaja: Liisa Vihmanen. Lukija: Hannamari Vallila. Äänisuunnittelu: Katri Koivula.
         series: Elävä historia
       - title: Viikon luontoääni
         start_time: '2025-03-02T15:50:00+02:00'

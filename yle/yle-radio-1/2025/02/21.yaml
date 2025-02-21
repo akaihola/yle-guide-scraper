@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-20T02:26:57.713644+00:00'
+  generated_at: '2025-02-21T02:27:08.578622+00:00'
   git:
     branch: main
-    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
-  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
+    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
+  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
 data:
   Yle Radio 1:
     programmes:
@@ -11,21 +11,23 @@ data:
         start_time: '2025-02-21T00:00:00+02:00'
         end_time: '2025-02-21T06:30:00+02:00'
         description: |-
-          Skrjabin: Yhdeksän masurkkaa (Eric Le Van, piano).
+          Pacius: Litania (Radion sinfoniakuoro ja RSO/Ilkka Kuusisto).
 
-          00:34 Gilles: Requiem (Le Concert Spirituel/Hervé Niquet).
+          00:08 Skrjabin: Yhdeksän masurkkaa (Eric Le Van, piano).
 
-          01:12 Bruckner: Kvintetto jousille F-duuri (Amadeus-kvartetti ja Cecil Aronowitz, alttoviulu).
+          00:42 J. Strauss (nuor.): Nordseebilder (Kuvia Pohjanmereltä) (Wienin filharmonikot/Willi Boskovsky).
 
-          01:58 Bruch: Konsertto klarinetille, alttoviululle ja orkesterille e-molli (Paul Meyer ja Gerard Caussé sekä Lyonin oopperan ork./Kent Nagano).
+          00:51 Gilles: Requiem (Le Concert Spirituel/Hervé Niquet).
 
-          02:18 R. Strauss: Also sprach Zarathustra, sinfoninen runo (Chicagon SO/Pierre Boulez). 
+          01:29 Bruckner: Kvintetto jousille F-duuri (Amadeus-kvartetti ja Cecil Aronowitz, alttoviulu).
 
-          02:52 Rota: Pasuunakonsertto (Christian Lindberg ja Tapiola Sinfonietta/Osmo Vänskä).
+          02:15 Bruch: Konsertto klarinetille, alttoviululle ja orkesterille e-molli (Paul Meyer ja Gerard Caussé sekä Lyonin oopperan ork./Kent Nagano).
 
-          03:06 Reinecke: Kvintetto pianolle ja jousille A-duuri (Linos-yhtye).
+          02:35 R. Strauss: Also sprach Zarathustra, sinfoninen runo (Chicagon SO/Pierre Boulez). 
 
-          03:35 Roussel: Serenadi huilulle, viululle, alttoviululle, sellolle ja harpulle (Jean-Pierre Rampal, huilu, Lily Laskine, harppu, sekä Pasquier-trio).
+          03:09 Rota: Pasuunakonsertto (Christian Lindberg ja Tapiola Sinfonietta/Osmo Vänskä).
+
+          03:23 Reinecke: Kvintetto pianolle ja jousille A-duuri (Linos-yhtye).
 
           03:52 Tulindberg: Viulukonsertto B-duuri (Jorma Rahkonen ja RSO/Okko Kamu).
 
@@ -87,23 +89,33 @@ data:
       - title: Ykkösaamu
         start_time: '2025-02-21T08:10:00+02:00'
         end_time: '2025-02-21T09:00:00+02:00'
+        description: |-
+          Saksassa järjestetään sunnuntaina liittopäivävaalit. Miksi vaalit ovat merkittävät koko Euroopalle? Vieraina vanhempi tutkija Tuomas Iso-Markku Ulkopoliittisesta instituutista ja tutkijatohtori Laura Nordstörm Helsingin yliopistosta. Lähetyksessä kuullaan myös vaalivalmisteluja Berliinissä seuraavan ulkomaantoimittajamme Hanna Visalan raportti.
+
+          Hallitus on sopinut hakevansa säästöjä sosiaali- ja terveyspalveluista, mutta säästöpaketin valmistelussa on otettu aikalisä. Mistä sosiaali- ja terveydenhuollossa pitäisi säästää ja kuinka nopeasti säästöt pitäisi toteuttaa? Vieraina kansanedustajat Maaret Castrén (kok.), Hanna-Leena Mattila (kesk.), Ilmari Nurminen (sd.) ja Pia Sillanpää (ps.).
+
+          Arabimaiden johtajat ovat koolla pohtimassa vaihtoehtoisia ratkaisuja Yhdysvaltain presidentin Donald Trumpin ehdotukselle palestiinalaisten pakkosiirtämisestä pois Gazasta. Mitä kokoukselta voidaan odottaa? Puhelimessa Helsingin yliopiston Lähi-idän tutkimuksen professori Hannu Juusola.
+
+          Juontajana Aki Laine, toimittajina Rasmus Montonen ja Roosa Kajander, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-21T09:00:00+02:00'
         end_time: '2025-02-21T09:05:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2025-02-21T09:05:40+02:00'
         end_time: '2025-02-21T09:58:00+02:00'
-        description: |-
+        description: |
           Mancini: Baby elephant walk (Lawrence Welk).
           Friedman: Kuuluthan mulle, Windy (New Joys).
-          Gietz: Mimmi lukee dekkaria sängyssään (Ismo Kallio)
+          Gietz: Mimmi lukee dekkaria sängyssään (Ismo Kallio).
           Pallavicini: Le mille bolle blu (Mina).
           Senechal: Des ronds dans l'eau (Françoise Hardy).
           Kesslair: Odotin sinua (Marion Rung).
           Kiviniemi: Kesytetty (Seija Simola).
-          Hietanen & Wesslin: Höyhensaaret (Vesa-Matti Loiri).
+          Hietanen/Wesslin: Höyhensaaret (Vesa-Matti Loiri).
           Theodorakis: O Kaimos (Grigoris Bithikotsis).
           Scott: He ain't heavy, he's my brother (The Hollies).
+          Cohen: Bird on a wire (Madeleine Peyroux).
           Laitinen: Lonely walk (Radion tanssiorkesteri).
         series: Muistojen bulevardi
       - title: 'Ruben Stiller: Eurooppa on Neurooppa?'
@@ -140,9 +152,11 @@ data:
         description: |
           Ihmisen ominaishaju voi kertoa paljon henkilön terveydentilasta, ruokavaliosta ja jopa geneettisestä taustasta. Suomessa kehitetty keinonenä analysoi kaasumaisia hajunäytteitä ja haistaa syöpiä. Mihin laitteen toiminta perustuu ja miltä sairaudet haisevat? Haastateltavina ovat professori Mari Sandell Helsingin yliopistosta ja kirurgian professori, ylilääkäri Niku Oksala Tampereen yliopistosta ja Taysista. Toimittaja on Mari Heikkilä.
         series: Tiedeykkönen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Trumpin kohuväitteet Ukrainan sodasta'
         start_time: '2025-02-21T13:00:00+02:00'
         end_time: '2025-02-21T13:30:00+02:00'
+        description: |-
+          Yhdysvaltain presidentti Donald Trump piti Mar-a-Lagossa Ukrainaa käsittelevän tiedotustilaisuuden, jossa Trump toisti useita Venäjän propagandan kohtia Ukrainan sodasta, sekä syytti virheellisesti Ukrainaa sodan aloittamisesta. Trumpin sanat ovat herättäneet maailmalla laajasti kritiikkiä, mutta kuinka niihin suhtaudutaan Yhdysvalloissa? Ovatko Trumpin virheelliset väitteet pelkkä sumuverho, vai kertovatko ne täyskäännöksestä Ukrainan tukemisen suhteen? Vieraana on Trumpin republikaaneja tutkinut Yhdysvaltain politiikan tutkija Maria Linden Ulkopoliittisesta instituutista. Toimittajana on Tapio Pajunen.
         series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-21T13:30:00+02:00'
@@ -197,8 +211,9 @@ data:
       - title: Uutispodcast
         start_time: '2025-02-21T17:10:00+02:00'
         end_time: '2025-02-21T17:34:20+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Mikä on Euroopan asema maailmanpolitiikan myllerryksessä? Reetta Röngän vieraana on EU-komission varapuheenjohtaja Henna Virkkunen (kok.).
+        series: Uutispodcast
       - title: 'Näistä levyistä en luovu: Petteri Taalas'
         start_time: '2025-02-21T17:35:00+02:00'
         end_time: '2025-02-21T18:30:00+02:00'
@@ -253,8 +268,8 @@ data:
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
-        start_time: '2025-02-21T22:25:00+02:00'
-        end_time: '2025-02-21T23:14:12+02:00'
+        start_time: '2025-02-21T22:26:07+02:00'
+        end_time: '2025-02-21T23:15:19+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas

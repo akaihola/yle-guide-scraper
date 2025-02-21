@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-20T02:27:07.459249+00:00'
+  generated_at: '2025-02-21T02:27:12.287250+00:00'
   git:
     branch: main
-    commit: fcb8231ae8060a2b9e49669e4998e585e7d0b3ef
-  data_hash: 3c271ae4dc806c3a148dd042ffd07bbf580130b567ba38b5c1cb45cf742a8729
+    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
+  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
 data:
   Yle Radio 1:
     programmes:
@@ -136,6 +136,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-27T11:57:00+02:00'
         end_time: '2025-02-27T12:00:00+02:00'
+        description: |
+          Ote Tiina Raevaaran kirjasta Ikuisen elämän lyhyt historia, Like 2024
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-02-27T12:00:00+02:00'
@@ -215,13 +217,13 @@ data:
         description: |
           "2. Minä uskon - auta minua epäuskossani"
           Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy onko Jumalausko vain menneisyyden haamu. Hartaus on toinen osa keskeisiä kristillisiä oppeja moniarvoisessa maailmassa käsittelevässä sarjassa. 
-        series: Aamuhartaus
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-02-27T19:00:00+02:00'
         end_time: '2025-02-27T19:02:00+02:00'
       - title: 'Jazzklubin konsertti-ilta: Cyrille Aimée Band Leibnizin jazzfestivaalilla.'
         start_time: '2025-02-27T19:02:00+02:00'
-        end_time: '2025-02-27T21:00:00+02:00'
+        end_time: '2025-02-27T20:27:00+02:00'
         description: |
           Äänitetty Hugo Wolf -salissa 28.9.2024.
         series: Jazzklubi
