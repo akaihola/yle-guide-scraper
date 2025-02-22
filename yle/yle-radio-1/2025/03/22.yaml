@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-21T02:27:21.231972+00:00'
+  generated_at: '2025-02-22T02:24:28.656163+00:00'
   git:
     branch: main
-    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
-  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
+    commit: ab0412e8c4d98d0036048c3119994a49959f85ec
+  data_hash: af7feeaeb1e3a475a637482268c82f0a33f2c9113c0e93cc3961a84ba7345e93
 data:
   Yle Radio 1:
     programmes:
@@ -118,11 +118,27 @@ data:
         start_time: '2025-03-22T15:30:00+02:00'
         end_time: '2025-03-22T15:55:00+02:00'
         series: Aristoteleen kantapää
+      - title: Yle News
+        start_time: '2025-03-22T15:55:00+02:00'
+        end_time: '2025-03-22T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Faunin iltapäivä
+        start_time: '2025-03-22T16:10:00+02:00'
+        end_time: '2025-03-22T16:59:00+02:00'
       - title: Iltahartaus
         start_time: '2025-03-22T18:01:00+02:00'
         end_time: '2025-03-22T18:10:00+02:00'
         description: |-
           Dosentti, vs. kirkkoherra Mari-Anna Auvinen, Helsinki
+      - title: Lauantain toivotut levyt
+        start_time: '2025-03-22T18:10:00+02:00'
+        end_time: '2025-03-22T19:00:00+02:00'
+        description: |
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Oopperailta
+        start_time: '2025-03-22T19:02:00+02:00'
+        end_time: '2025-03-22T22:00:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-22T21:29:00+02:00'
         end_time: '2025-03-22T21:54:00+02:00'

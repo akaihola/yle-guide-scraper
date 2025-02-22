@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-21T02:27:15.601189+00:00'
+  generated_at: '2025-02-22T02:24:24.973119+00:00'
   git:
     branch: main
-    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
-  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
+    commit: ab0412e8c4d98d0036048c3119994a49959f85ec
+  data_hash: af7feeaeb1e3a475a637482268c82f0a33f2c9113c0e93cc3961a84ba7345e93
 data:
   Yle Radio 1:
     programmes:
@@ -77,9 +77,7 @@ data:
         start_time: '2025-03-07T12:10:00+02:00'
         end_time: '2025-03-07T12:59:30+02:00'
         description: |
-          Toisen maailmansodan jälkeen liittoutuneet hävittivät Saksan kemiallisia aseita ynnä muuta sotakalustoa. Nopein tapa oli mereen upottaminen. 50 000 tonnin kemiallinen asevarasto on jo vuosikymemiä ruostunut Itämeren syvänteissä, ja osa kemiallisista aseista on jo vuotanut myrkkyjä Itämereen. Tiedeykkösessä tavataan dos. Paula Vanninen ja kemisti Hanna Niemikoski. Toimittaja on Leena Mattila.
-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Toisen maailmansodan jälkeen liittoutuneet hävittivät Saksan kemiallisia aseita ynnä muuta sotakalustoa. Nopein tapa oli mereen upottaminen. 50 000 tonnin kemiallinen asevarasto on jo vuosikymmeniä ruostunut Itämeren syvänteissä, ja osa kemiallisista aseista on jo vuotanut myrkkyjä Itämereen. Tiedeykkösessä tavataan dos. Paula Vanninen ja kemisti Hanna Niemikoski. Toimittaja on Leena Mattila. Äänisuunnittelu: Juha Hjelm.
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2025-03-07T13:00:00+02:00'
@@ -122,11 +120,11 @@ data:
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
-      - title: 'Näistä levyistä en luovu: Jonna Järnefelt'
+      - title: 'Näistä levyistä en luovu: Jonna Järnefelt - rakastan elokuvista tehtyjä soundtrack -levyjä'
         start_time: '2025-03-07T17:35:00+02:00'
         end_time: '2025-03-07T18:30:00+02:00'
         description: |
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Näyttelijä Jonna Järnefeltin syvällisempi musiikillinen herätys tapahtui Maaritin Hymypoika -kappaleen myötä. Ensimmäistä kertaa tekstin sisältö teki suuren vaikutuksen, se oli enemmän kuin vain poppia. Maaritia Jonna kuitenkin fanitti vähän salaa, koska Maarit liikkui eri piireissä kuin hän itse. Jonna paljastuu myös suureksi elokuvamusiikin kuluttajaksi, siitäkin huolimatta, että soundtrackeillä on usein vain pari hittibiisiä ja loput on jotain täytemusiikkia. Ohjelman toimittaa Petri Rinne.
         series: Näistä levyistä en luovu
       - title: Musiikkihartaus
         start_time: '2025-03-07T18:35:00+02:00'

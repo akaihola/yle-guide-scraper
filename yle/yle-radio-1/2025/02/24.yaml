@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-21T02:27:10.665666+00:00'
+  generated_at: '2025-02-22T02:24:21.344910+00:00'
   git:
     branch: main
-    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
-  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
+    commit: ab0412e8c4d98d0036048c3119994a49959f85ec
+  data_hash: af7feeaeb1e3a475a637482268c82f0a33f2c9113c0e93cc3961a84ba7345e93
 data:
   Yle Radio 1:
     programmes:
@@ -83,6 +83,19 @@ data:
       - title: Ykkösaamu
         start_time: '2025-02-24T08:10:00+02:00'
         end_time: '2025-02-24T09:00:00+02:00'
+        description: |
+          8.11 Saksan vaalituloksesta raportoi Berliinistä toimittaja Hanna Visala. 
+
+          8.15 Mitä vallanvaihto Saksassa merkitsee? Keskustelemassa akatemiatutkijaTimo Miettinen Helsingin yliopistosta ja EU-vastuualueen johtaja Lotta Nymann-Lindegren  Elinkeinoelämän keskusliitosta. 
+
+          8.34 Kolme vuotta sitten Ukrainaan hyökkäsi agressiivisesti naapurivaltio Venäjä. 
+          Maxim Fedorov raportoi Kiovasta. 
+
+          8.37 Millaista rauhaa Ukrainaan ollaan valmistelemassa? Keskustelemassa johtava tutkija Sinikukka Saari Ulkopoliittisesta instituutista ja sotatieteiden dosentti, tutkijatohtori Helsingin yliopisto Ilmari Käihkö. 
+
+
+          Juontajana Aki Laine. Toimittajina Rasmus Montonen ja Anna Nevalainen. Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-02-24T09:00:00+02:00'
         end_time: '2025-02-24T09:05:00+02:00'
@@ -133,23 +146,33 @@ data:
         description: |-
           Kalenterit, muistiot, suttupaperit ja päiväkirjat. Kaikki, mihin olemme ajatuksiamme tai suunnitelmiamme tallentaneet, kertovat paitsi arjen historiasta, myös maailmanhistorian suurista muutoksista. Päiväkirjojen suosio kasvaa aina, kun ajat ovat vaikeat. Asiantuntija: FT Maria Kallio-Hirvonen. Toimittaja: Liisa Vihmanen. Lukija: Hannamari Vallila. Äänisuunnittelu: Katri Koivula.
         series: Elävä historia
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Mihin Saksa kulkee vaaleissa?'
         start_time: '2025-02-24T13:00:00+02:00'
         end_time: '2025-02-24T13:30:00+02:00'
+        description: |-
+          Mistä Saksan sunnuntaisten vaalien tulos kertoo ja mitä se merkitsee Suomelle ja Euroopalle? Onko syytä huoleen vai paraneeko ”Euroopan sairas mies”? 
+          Vaalitulosta analysoivat Saksan historian tutkija Ville Erkkilä sekä EU:n ja poliittisen talouden tutkija Laura Nordström Helsingin yliopistosta ja Ulkopoliittisen instituutin tutkija Sanna Salo. Toimittajana on Antti Pilke. Suora lähetys.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-02-24T13:30:00+02:00'
         end_time: '2025-02-24T15:00:00+02:00'
         description: |
-          Maanantaitulet klo 14 keskustelee matkailulsta ja lomailusta. Studiossa matkailun asiantuntija Tom Selänniemi. Puhelinnumero läehtyksen akana 09 144800 tai  Whatsapp-viesti numeroon 044 5 144800. Miia Lahti juontaa.
+          Maanantaitulet klo 14 keskustelee matkailusta ja lomailusta. Studiossa matkailun asiantuntija Tom Selänniemi. Puhelinnumero lähetyksen aikana 09 144800 tai  Whatsapp-viesti numeroon 044 5 144800. Miia Lahti juontaa.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-02-24T15:00:00+02:00'
         end_time: '2025-02-24T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Hannu Mäkelä ja Runouden ylistys'
         start_time: '2025-02-24T15:02:00+02:00'
         end_time: '2025-02-24T15:55:00+02:00'
         description: |
+          Hannu Mäkelän teos Runouden ylistys summaa hänen pitkää uraansa runouden parissa. Kirjassa käydään läpi suomalaisen runouden historiaa sekä kirjallisuuden ahkeran ammattilaisen että runouden ihailijan näkökulmasta.
+
+          Ohjelman juontaa Pietari Kylmälä.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-24T15:55:00+02:00'
         end_time: '2025-02-24T15:58:00+02:00'
@@ -188,8 +211,9 @@ data:
       - title: Uutispodcast
         start_time: '2025-02-24T17:10:00+02:00'
         end_time: '2025-02-24T17:34:20+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Millainen on suomalainen äärioikeisto ja miten siitä saadaan tietoa? Reetta Röngän vieraana on Ylen MOT:n tutkiva toimittaja Veli-Pekka Hämäläinen.
+        series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Wanhan kanteleen uudet seikkailut'
         start_time: '2025-02-24T17:35:00+02:00'
         end_time: '2025-02-24T18:34:20+02:00'
@@ -251,7 +275,6 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-24T21:05:00+02:00'
         end_time: '2025-02-24T21:34:30+02:00'
-        series: Politiikkaradio
       - title: Tiedeykkönen
         start_time: '2025-02-24T21:35:00+02:00'
         end_time: '2025-02-24T22:24:30+02:00'

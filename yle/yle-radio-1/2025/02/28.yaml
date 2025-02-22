@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-21T02:27:12.830149+00:00'
+  generated_at: '2025-02-22T02:24:22.724409+00:00'
   git:
     branch: main
-    commit: 08d7c194b05dd5614bddce9b307c738cd3eb3976
-  data_hash: bc0cb03fcfe04b795add3d12fc1eed0184f5909cd8bff68abf3bf5e415d20b1a
+    commit: ab0412e8c4d98d0036048c3119994a49959f85ec
+  data_hash: af7feeaeb1e3a475a637482268c82f0a33f2c9113c0e93cc3961a84ba7345e93
 data:
   Yle Radio 1:
     programmes:
@@ -170,12 +170,6 @@ data:
         end_time: '2025-02-28T17:34:20+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: 'Näistä levyistä en luovu: Seela Sella'
-        start_time: '2025-02-28T17:35:00+02:00'
-        end_time: '2025-02-28T18:30:00+02:00'
-        description: |
-          Näyttelijä Seela Sella ilahduttaa lauantaita elämänsä merkittävimmillä kappaleilla. Hän kuvaa valintojaan vahvojen tunteiden ja unelmien musiikiksi. Näyttämöiden ikonista leidiä haastattelee Miikkapekka Heikkilä.
-        series: Näistä levyistä en luovu
       - title: Musiikkihartaus
         start_time: '2025-02-28T18:35:00+02:00'
         end_time: '2025-02-28T19:00:00+02:00'
@@ -188,7 +182,7 @@ data:
         end_time: '2025-02-28T19:02:00+02:00'
       - title: 'Musica nova Helsinki 2025: TampereRaw'
         start_time: '2025-02-28T19:02:00+02:00'
-        end_time: '2025-02-28T21:00:00+02:00'
+        end_time: '2025-02-28T20:37:00+02:00'
         description: |
           TampereRaw joht. Maria Itkonen, Linda Suolahti, viulu, Eva Alkula, kantele, ja Kalle Oittinen, saksofoni. Tomi Räisänen: Maaemo soolokanteleelle. - Ilkka Hammo: osia teoksesta Mirabilia naturae – trio klarinetille, sellolle ja pianolle. - Roope Mäenpää: Alarm Fatigue -saksofonikvintetto (kantaesitys). - Cecilia Damström: Earth Songs -viulukonsertto. Helsingin Ritarihuoneella 9.2. tallennetun konsertin toimittaa Noora Hirn.
         series: Konsertteja
