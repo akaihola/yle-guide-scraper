@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-22T02:24:21.046582+00:00'
+  generated_at: '2025-02-23T02:28:59.551015+00:00'
   git:
     branch: main
-    commit: ab0412e8c4d98d0036048c3119994a49959f85ec
-  data_hash: af7feeaeb1e3a475a637482268c82f0a33f2c9113c0e93cc3961a84ba7345e93
+    commit: 5e0ccb073b5e3201c7d074595675e247653761c9
+  data_hash: 35fff4b5ce588db91ea173e54678de96972e86eaf0d64d3f96526c24dde02f1f
 data:
   Yle Radio 1:
     programmes:
@@ -63,6 +63,9 @@ data:
       - title: Radio 1 soi
         start_time: '2025-02-23T07:55:08+02:00'
         end_time: '2025-02-23T08:00:00+02:00'
+        description: |-
+          Ravel: Menuetti sarjasta Couperinin hauta (Orpheus-kamariorkesteri).
+        series: Yksi on hyvää seuraa
       - title: Narrin aamulaulu - Ihana Aino
         start_time: '2025-02-23T08:05:23+02:00'
         end_time: '2025-02-23T08:59:31+02:00'
@@ -223,8 +226,9 @@ data:
       - title: Radio 1 soi
         start_time: '2025-02-23T20:55:05+02:00'
         end_time: '2025-02-23T21:00:00+02:00'
-        description: |-
+        description: |
           Stanford: Magnificat (Tuuli Lindeberg, sopraano, RKK/Jani Siven, ja Ville Urponen, urut).
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset
         start_time: '2025-02-23T21:00:00+02:00'
         end_time: '2025-02-23T21:02:05+02:00'
@@ -264,6 +268,9 @@ data:
       - title: Radio 1 soi
         start_time: '2025-02-23T23:12:35+02:00'
         end_time: '2025-02-23T23:18:56+02:00'
+        description: |-
+          Delibes: Bacchuksen kulkue bal. Sylvia (Cincinnati Pops/Erich Kunzel).
+        series: Yksi on hyvää seuraa
       - title: 'Romano mirits: Romanimusiikki-sarja osa 1: Laulava ja soittava kansa'
         start_time: '2025-02-23T23:18:56+02:00'
         end_time: '2025-02-23T23:33:05+02:00'
@@ -271,6 +278,14 @@ data:
           Suomen romanien keskuudesta nousee vuosikymmen toisensa perään merkittäviä musiikintekijöitä ja musiikin esittäjiä. Heidät tunnetaan niin tangon taitureina kuin hengellisen musiikin mestareina - nykyään myös räpin lähettiläinä, rokkareina ja jatsin taitajina. Romanimusiikki-sarja pureutuu tähän kiehtovaan aiheeseen. Mitä kaikkea Suomen romanit ovat musiikin saralla tehneet? Ketä ovat menneiden aikojen mestarit ja nykyiset tähdet? Toimittajana Jaakko Laakso
 
         series: Romano mirits
+      - title: 'Eilisen ääni: Kotitietokoneet yleistymässä Suomessakin'
+        start_time: '2025-02-23T23:33:50+02:00'
+        end_time: '2025-02-23T23:39:38+02:00'
+        description: |-
+          Kotitietokoneet alkoivat 80-luvun alkupuolella yleistyä meillä Suomessakin. Aamun peilissä kuultiin marraskuussa 1983 raportti Helsingissä järjestettävästä näyttelystä Tietokone ja ihminen. Lähetystä juonsi Markku Lehto.
+
+          Ohjelman ensilähetys oli 18.11.1983.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-02-23T23:40:00+02:00'
         end_time: '2025-02-24T06:30:00+02:00'
