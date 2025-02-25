@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-23T02:29:00.581011+00:00'
+  generated_at: '2025-02-25T02:28:19.728757+00:00'
   git:
     branch: main
-    commit: 5e0ccb073b5e3201c7d074595675e247653761c9
-  data_hash: 35fff4b5ce588db91ea173e54678de96972e86eaf0d64d3f96526c24dde02f1f
+    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
+  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
 data:
   Yle Radio 1:
     programmes:
@@ -115,11 +115,11 @@ data:
           Alfieri: 'A sunnambula (Renato Carosone).
           King/Stern: Tuhlattiin aikaa (Saara Soisalo).
         series: Muistojen bulevardi
-      - title: 'Tuntematon Ukraina: Ukrainan armeija'
+      - title: 'Tuntematon Ukraina: Ukrainan armeija Neuvostoliiton jälkeen'
         start_time: '2025-02-26T10:00:00+02:00'
         end_time: '2025-02-26T10:35:00+02:00'
-        description: |2+
-
+        description: |
+          Maanpuolustuskorkeakoulun strategianopettaja Walter Pomell kertoo Ukrainaa runtelevasta sodasta, Ukrainan asevoimista ja tekee yleiskatsauksen tämänhetkiseen tilanteeseen Venäjän täysimittaisen hyökkäyssodan kestäessä jo kolme vuotta. Toimittajana on Jari Aula.
         series: Tuntematon Ukraina
       - title: Ukraina soi
         start_time: '2025-02-26T10:35:00+02:00'
@@ -165,9 +165,16 @@ data:
       - title: 'Kulttuuriykkönen: Miten Kleopatra on insipiroinut populaarikulttuuria? '
         start_time: '2025-02-26T15:02:00+02:00'
         end_time: '2025-02-26T15:55:00+02:00'
-        description: |+
-          Kulttuuriykkösen vieraana ovat Kleopatra - viimeisen faaraon myytti-kirjan kirjoittaja Jaakkojuhani Peltonen, egyptologi ja Kauniit ja muumiot-podcastin vetäjä Mia Meri sekä elokuvatutkija Jari Sedergren.  
+        description: |
+          Kleopatra on inspiroinut ihmisiä antiikista nykypäivään saakka. Kleopatra on ollut suosittu hahmo taiteessa, kirjallisuudessa ja populaarikulttuurissa. Esitystavat ovat heijastaneet aina oman aikakautensa asenteita valtaa, sukupuolirooleja ja naiseutta kohtaan. 
 
+          Mutta kuten Jaakkojuhani Peltosen Kleopatra -  Viimeisen faaraon myytti-teos osoittaa, Kleopatran myyttiin liitetään ajasta riippumatta myös samoja teemoja: kohtalokas ja vaarallinen femme fatale -naishahmo ja toisaalta älykkään ja rohkean naisen pystyvä arkkityyppi. 
+
+          Peltonen kirjoittaa, että Kleopatra on ollut monen naisen ihailema roolimalli ja esikuva. Kleopatra on osoittanut, että nainenkin voi toteuttaa itseään sekä päästä valtaan.
+
+          Kulttuuriykkösessä keskustellaan siitä miten Kleopatra on esitetty eritoten populaarikulttuurissa. Millainen inspiraation lähde Kleopatra on? Millaista naisen mallia Kleopatra on tarjoillut esimerkiksi valkonkaalla? Pohjaavatko populaarikulttuurin tulkinnat faktoihin?    
+
+          Vieraana ovat Tampereen yliopiston historian dosentti Jaakkojuhani Peltonen, egyptologi ja Kauniit ja muumiot-podcastin vetäjä Mia Meri sekä elokuvatutkija Jari Sedergren. 
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-26T15:55:00+02:00'
@@ -180,6 +187,34 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-02-26T16:10:00+02:00'
         end_time: '2025-02-26T16:59:00+02:00'
+        description: |
+          Smetana: Maalaistyttö (BBC:n FO/Gianandrea Noseda).
+
+          Debussy: Mustalaistanssi (Jean-Efflam Bavouzet, piano). 
+
+          Mahler: Scheiden und Meiden (Jäähyväiset ja ero) (Arttu Kataja, baritoni, ja Eric Schneider, piano).
+
+          Dohnanyi: Scherzo pianokvartetosta fis-molli (Notos-kvartetti). 
+
+          R. Rautio: Tuulonen (Marjatta Haahti, harppu).
+
+          Gretry (sov. Beecham): Pantomiimi oopp. Zemire et Azor (Bretagnen ork./Stefan Sanderling). 
+
+          Leiviskä: Intermezzo pienelle orkesterille (Lohjan kaupunginork./Jukka Untamala). 
+
+          I. Kuusisto: Unessa tumma torni ja Kaukainen aamu kok. Viipurin muistoja (Laulu-Miehet/Matti Hyökki).
+
+          Sibelius: Cantique (Marko Ylönen, sello, ja Sinfonia Lahti/Osmo Vänskä).
+
+          R. Strauss: Frühling laulusarj. Vier letzte Lieder (Soile Isokoski, sopraano, ja Berliinin radion SO/Marek Janowski).
+
+          Chopin: Masurkka n:o 19 h-molli (Anna Gourari, piano).
+
+          Sommerro (sov. Palmer): Vårsög (Eldbjörg Hemsing, viulu, ja Arctic Philharmonic Orch./Christian Kluxen). 
+
+          Mårtenson (sov. Hilden): Valssi myötäiseen (Pentti Hilden, kitara).
+
+          Danglas: L'amour s'eveille (Les Siecles/Francois-Xavier Roth). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-02-26T17:00:00+02:00'
@@ -226,14 +261,26 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-26T21:05:00+02:00'
         end_time: '2025-02-26T21:34:30+02:00'
-      - title: Tuntematon Ukraina
+      - title: 'Tuntematon Ukraina: Ukrainan armeija Neuvostoliiton jälkeen'
         start_time: '2025-02-26T21:35:00+02:00'
-        end_time: '2025-02-26T22:10:00+02:00'
-        description: |2+
-
-      - title: 'Radioteatteri esittää:'
+        end_time: '2025-02-26T22:08:46+02:00'
+        description: |
+          Maanpuolustuskorkeakoulun strategianopettaja Walter Pomell kertoo Ukrainaa runtelevasta sodasta, Ukrainan asevoimista ja tekee yleiskatsauksen tämänhetkiseen tilanteeseen Venäjän täysimittaisen hyökkäyssodan kestäessä jo kolme vuotta. Toimittajana on Jari Aula.
+        series: Tuntematon Ukraina
+      - title: 'Radioteatteri esittää: Harmonian ääriviivat'
         start_time: '2025-02-26T22:30:00+02:00'
-        end_time: '2025-02-26T23:12:30+02:00'
+        end_time: '2025-02-26T23:08:39+02:00'
+        description: |
+          Maailma on kaaos. Informaation ja ihmissuhteiden tulvassa yhä useampi on horjahtanut pois omista ääriviivoistaan. Yksi heistä, Laura, yrittää neljän asiantuntijan avulla selvittää, kuinka kaaosta voisi jäsentää. Mitä poliitikko, astrologi, noita ja fyysikko ajattelevat harmoniasta? Autofiktiota, huumoria ja magiaa yhdistävä radioessee pyrkii etsimään kauneutta kaaoksen keskeltä. 
+
+          Ohjaus: Laura Palanne
+          Dramaturgia ja tekstit: Liila Jokelin
+          Äänisuunnittelu: Jani Orbinski
+          Ääninäyttelijät: Ella Lahdenmäki ja Joonas Kääriäinen
+          Asiantuntijat: Tapio Rasa, Mai Kivelä, Seppo Tanhua, Ida Henriksson
+          Kuratointi: Niklas Nybom
+          Julkaisutuottaja: Tehilah Auramo/Skog Studio
+          Tilaaja: Juha-Pekka Hotinen/Yle Radiogalleria
       - title: Yöklassinen
         start_time: '2025-02-26T23:40:00+02:00'
         end_time: '2025-02-27T06:30:00+02:00'

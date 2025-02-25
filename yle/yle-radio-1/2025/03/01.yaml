@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-23T02:29:01.633459+00:00'
+  generated_at: '2025-02-25T02:28:20.797554+00:00'
   git:
     branch: main
-    commit: 5e0ccb073b5e3201c7d074595675e247653761c9
-  data_hash: 35fff4b5ce588db91ea173e54678de96972e86eaf0d64d3f96526c24dde02f1f
+    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
+  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
 data:
   Yle Radio 1:
     programmes:
@@ -122,6 +122,12 @@ data:
           Torvinen: Lensin matalalla 2 (Eppu Normaali).
           Simons: All of me (Bianca Morales).
         series: Rytmikamari
+      - title: Näistä levyistä en luovu
+        start_time: '2025-03-01T11:00:00+02:00'
+        end_time: '2025-03-01T11:55:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-01T11:57:00+02:00'
         end_time: '2025-03-01T12:00:00+02:00'
@@ -222,7 +228,6 @@ data:
         description: |
           "Toisenlaista paastoa minä odotan"
           Dosentti, vs. kirkkoherra Mari-Anna Auvinen Helsingistä lukee Jesajan kirjan luvusta 58 ja pohtii Jumalan antaman paaston merkitystä.
-        series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2025-03-01T18:10:00+02:00'
         end_time: '2025-03-01T19:00:00+02:00'

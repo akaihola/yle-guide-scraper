@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-23T02:29:01.825714+00:00'
+  generated_at: '2025-02-25T02:28:21.224697+00:00'
   git:
     branch: main
-    commit: 5e0ccb073b5e3201c7d074595675e247653761c9
-  data_hash: 35fff4b5ce588db91ea173e54678de96972e86eaf0d64d3f96526c24dde02f1f
+    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
+  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
 data:
   Yle Radio 1:
     programmes:
@@ -46,11 +46,27 @@ data:
       - title: Yle Uutiset
         start_time: '2025-03-02T07:00:00+02:00'
         end_time: '2025-03-02T07:02:05+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2025-03-02T07:03:00+02:00'
-        end_time: '2025-03-02T07:59:00+02:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Hyviä tuulia'
+        start_time: '2025-03-02T07:02:30+02:00'
+        end_time: '2025-03-02T07:54:19+02:00'
+        description: |
+          Kaiken maailman rähinöinnit saavat kaipaamaan hyviä tuulia. Onko se eskapismia, jos uppoutuu musiikin pitkään jatkumoon? Klasariparatiisissa soivat kukkeat vasket ja muutama lehdykkä.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Matthew Whittall:  Anthem II neljälle käyrätorvelle  (4th Line Horn Quartet).
+
+          Anonyymi: Konsertto E-duuri Käyrätorvelle, oboe d'amorelle ja continuolle (Ursula Paludan Monberg, käyrätorvi, Katharina Spreckelsen, oboe d'amore, ja Arcangelo-yhtye/Jonathan Cohen, cembalo).
+
+          Henry Purcell: The Plaint, Valitus, puolioopperasta Keijukaiskuningatar (Lucy Crowe, sopraano, Alison Balsom, luonnontrumpetti, ja The English Concert/Trevor Pinnock, urut). 
+
+          Giovanni Gabrieli: Canzon VIII, 8:lle äänelle (Les Traversees Baroques/Etienne Meyer).
+
+          Jean Francaix: Sonatiini trumpetille ja pianolle (Håkan Hardenberger, trumpetti, ja Roland Pöntinen, piano).
+
+          Johann Sebastian Bach: Konsertto oboe d'amorelle, jousille ja continuolle A-duuri BWV1055/R (Katharina Arfken, oboe d'amore, ja Freiburgin barokkiorkesteri/Gottfried von der Goltz).
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T08:00:00+02:00'
         end_time: '2025-03-02T08:05:05+02:00'
@@ -89,6 +105,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-02T11:00:00+02:00'
         end_time: '2025-03-02T11:57:00+02:00'
+        description: |
+          Jarre: Lara's theme (Maurice Jarre).
+          Carmichael: Georgia on my mind (Ray Charles). 
+          Carmichael: Stardust (Benny Goodman).
+          Bowie: Starman (David Bowie).
+          Siitonen: Istun ullakolla yksinäin (Fredi).
+          Gershwin: Someone to Watch Over Me (Ben Webster).
+          Vreeswijk: Du (Monica Zetterlund).
+          Jobim: Agua de beber (Antonio Carlos Jobim).
+          Scott: Hunajainen (Carola).
+          Wheeler: Jackson (Nancy Sinatra & Lee Hazlewood).
+          Turner: Tummanpunainen (Eero, Jussi and The Boys).
+          Becaud: L'mportant c'est la rose (Tapio Heinonen).
+          Gainsbourg: Le Poinconneur des lilas (Serge Gainsbourg).
+          Monk: 'round midnight (Wes Montgomery Trio).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T12:00:00+02:00'
@@ -140,6 +171,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-02T16:10:00+02:00'
         end_time: '2025-03-02T16:59:00+02:00'
+        description: |-
+          Korngold: Johdanto balettipantomiimista Lumiukko (Peter Manning, viulu, BBC:n FO/Matthias Bamert).
+
+          Palmgren: Hiihtäjän virsi (YL/Matti Hyökki).
+
+          Tshaikovski: Lumihiutaleiden tanssi bal. Pähkinänsärkijä (Saint Louisin SO/Leonard Slatkin).
+
+          Chaminade: Valse carnevalesque (Peter Jablonski ja Bengt Forsberg, piano).
+
+          Stravinsky: Markkinat laskiaisaikaan - Väkijoukko - Silmänkääntäjän koju, baletista Petrushka (Sao Paulon SO/Yan Pascal Tortelier, sekä Jean-Efflam Bavouzet, piano). 
+
+          Waldteufel: Luistelijat (Leo Eide, vihellys, ja Håkan Sund, piano).
+
+          Briccialdi: Venetsian karnevaali (James Galway, huilu, ja Lontoon kansallinen FO/Charles Gerhardt).
+
+          Bonfa: Manha de carnaval (Jose Carreras, tenori, ja Wienin sinfonikot/John Cameron).
+
+          Vivaldi: Allegro non molto kons. viululle ja orkesterille f-molli (Talvi) teoks. Neljä vuodenaikaa (Brecon Baroque/Rachel Podger, viulu).
+
+          Josef Strauss: Talvi-iloa (Wienin filharmonikot/Lorin Maazel). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T17:00:00+02:00'
@@ -176,16 +227,42 @@ data:
         end_time: '2025-03-02T21:28:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Hyviä tuulia'
         start_time: '2025-03-02T21:29:00+02:00'
-        end_time: '2025-03-02T22:26:00+02:00'
+        end_time: '2025-03-02T22:20:49+02:00'
         description: |
+          Kaiken maailman rähinöinnit saavat kaipaamaan hyviä tuulia. Onko se eskapismia, jos uppoutuu musiikin pitkään jatkumoon? Klasariparatiisissa soivat kukkeat vasket ja muutama lehdykkä.
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Romano mirits
-        start_time: '2025-03-02T23:25:00+02:00'
-        end_time: '2025-03-02T23:39:30+02:00'
+
+          Ohjelman musiikit:
+
+          Matthew Whittall:  Anthem II neljälle käyrätorvelle  (4th Line Horn Quartet).
+
+          Anonyymi: Konsertto E-duuri Käyrätorvelle, oboe d'amorelle ja continuolle (Ursula Paludan Monberg, käyrätorvi, Katharina Spreckelsen, oboe d'amore, ja Arcangelo-yhtye/Jonathan Cohen, cembalo).
+
+          Henry Purcell: The Plaint, Valitus, puolioopperasta Keijukaiskuningatar (Lucy Crowe, sopraano, Alison Balsom, luonnontrumpetti, ja The English Concert/Trevor Pinnock, urut). 
+
+          Giovanni Gabrieli: Canzon VIII, 8:lle äänelle (Les Traversees Baroques/Etienne Meyer).
+
+          Jean Francaix: Sonatiini trumpetille ja pianolle (Håkan Hardenberger, trumpetti, ja Roland Pöntinen, piano).
+
+          Johann Sebastian Bach: Konsertto oboe d'amorelle, jousille ja continuolle A-duuri BWV1055/R (Katharina Arfken, oboe d'amore, ja Freiburgin barokkiorkesteri/Gottfried von der Goltz).
+        series: Klasariparatiisi - Eva Tigerstedt
+      - title: Sari Valto
+        start_time: '2025-03-02T22:21:30+02:00'
+        end_time: '2025-03-02T23:16:30+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+      - title: 'Romano mirits: Romanimusiikki-sarja 2. osa: Taisto Tammen koiran nimi ja muita tarinoita tangosta'
+        start_time: '2025-03-02T23:19:30+02:00'
+        end_time: '2025-03-02T23:34:20+02:00'
+        description: |
+          Suomen romanit tunnetaan tangon tulkitsijoina. Heidän esiinmarssinsa alkoi 1960-luvulla, kun mm. Taisto Tammi ja Markus Allan tulivat tunnetuksi erityisesti Toivo Kärjen tangojen rakastettuina tulkitsijoina. Seuraavina vuosikymmeninä laulullaan ovat hurmanneet niin Anneli Sari, Taisto Ahlgren kuin lukuisat tangokuninkaalliset romanit. 
+
+          Mutta tiedätkö, mikä oli Taisto Tammen koiran nimi ja kenen mukaan? Tai miksi Taisto Lundbergista tuli Taisto Tammi ja kuka taiteilijanimen keksi? Entä monessako eri maassa Sebastian Ahlgren on konsertoinut?
+
+          Toimittaja on Jaakko Laakso.
+        series: Romano mirits
       - title: Yöklassinen
         start_time: '2025-03-02T23:40:00+02:00'
         end_time: '2025-03-03T06:30:00+02:00'
