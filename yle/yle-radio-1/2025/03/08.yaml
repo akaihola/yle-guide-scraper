@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:23.062307+00:00'
+  generated_at: '2025-02-27T02:28:49.713971+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -38,7 +38,8 @@ data:
         start_time: '2025-03-08T08:25:00+02:00'
         end_time: '2025-03-08T08:35:00+02:00'
         description: |-
-          Muusikko Riikka Hertteli, Baptistiyhdyskunta, Kokkola
+          "Katoava pukeutuu katoamattomuuteen"
+          Muusikko Riikka Hertteli, Baptistiyhdyskunta, Kokkolasta pohtii pukeutumisen ja riisuutumisen vertauskuvallisia merkityksiä Raamatussa ja kristityn elämässä.
         series: Aamuhartaus
       - title: Muistojen bulevardi
         start_time: '2025-03-08T09:05:40+02:00'

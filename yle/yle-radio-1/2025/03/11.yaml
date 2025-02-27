@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:23.824449+00:00'
+  generated_at: '2025-02-27T02:28:51.120894+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-03-11T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-11T06:30:50+02:00'
         end_time: '2025-03-11T06:50:00+02:00'
@@ -20,8 +19,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-03-11T06:50:00+02:00'
         end_time: '2025-03-11T06:59:59+02:00'
-        description: |-
-          Artikkelitoimittaja Jussi Rytkönen, Tuusula
+        description: |
+          "Kristinusko saapui Suomeen"
+          Artikkelitoimittaja Jussi Rytkönen Tuusulasta pohtii kristillisen kirkon ja uskon tuhatvuotista vaikutusta elämään Pohjolassa.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-11T07:00:00+02:00'
@@ -41,6 +41,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-11T09:05:40+02:00'
         end_time: '2025-03-11T09:58:00+02:00'
+        description: |-
+          Piazzolla: Libertango (Astor Piazzolla).
+          Gentry: Seasons come, seasons go (Bobbie Gentry).
+          Hatch: Et turhia luulla saa (Iris Rautio, Björn Björklöf).
+          Strayhorn: Take the 'A' train (Dizzy Gillespie, Cab Calloway). 
+          Marfisi: O signore cosa c'è? (Tino Rossi).
+          Youmans: Tea for two tässä (Doris Day).
+          Newell: Zwei blaue Vergissmeinnicht (Rex Gildo).
+          Lewis: How high the moon (Le Quintette du Hot Club de France).
+          Bruns: Davy Crockett (Kauko Käyhkö).
+          Sherman/Sherman: Feed the birds (Julie Andrews, Disney studiokuoro ja -ork/Kostal). 
+          Peretti/Creatore/Weiss: Tro på mej (Gunnar Wiklund). 
+          Godzinsky: Katupoikien laulu (Birgit Kronström). 
+          Brel: Les paumes du petit matin (Jacques Brel).
+          Arlen: Over the rainbow (Ella Fitzgerald).
         series: Muistojen bulevardi
       - title: Sari Valto
         start_time: '2025-03-11T10:00:00+02:00'
@@ -105,6 +120,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-11T16:10:00+02:00'
         end_time: '2025-03-11T16:59:00+02:00'
+        description: |-
+          Karajev: Intialainen kaunotar bal. Seitsemän kaunotarta (Lontoon kuninkaallinen FO/Dmitri Jablonski).
+
+          Reich: Duetto kahdelle viululle ja jousiorkesterille (Edna Michell ja Ulf Hoelscher sekä Karlsruhe Ensemble/Andreas Weiss).
+
+          R. Schumann: Abendlied (Lauri Sallinen, klarinetti, ja Anna Kuvaja, piano).
+
+          Nakada (sov. Takemitsu): A Song for early spring (Varhaiskevään laulu) (Franz Halasz, kitara).
+
+          Elgar: In haven sarjasta Sea pictures (Janet Baker, mezzosopraano, ja Lontoon SO/John Barbirolli).
+
+          Vitols: Menuetti jousikvartetille (Berliinin Haydn-kvartetti).
+
+          Andrée: Allegro con spirito sonaatista B-duuri (Paula Gudmundson, huilu, ja Tracy Lipke-Perry, piano). 
+
+          Berlioz: Ascanion aaria oopp. Benvenuto Cellini (Susan Graham, mezzosopraano, ja Covent Garden -oopperan ork./John Nelson).
+
+          Kuula: Satukuva n:o 3 (Liisa Pohjola, piano).
+
+          Farrenc: Andante sostenuto sekstetosta puhallinkvintetille ja pianolle (Les Vents Francais).
+
+          Copland (sov.): Ching-a-ring-chaw (Thomas Hampson, baritoni, ja Saint Paulin kamariork./Hugh Wolff).
         series: Faunin iltapäivä
       - title: Viikon luontoääni
         start_time: '2025-03-11T18:30:00+02:00'
@@ -117,6 +154,12 @@ data:
         end_time: '2025-03-11T19:00:00+02:00'
         description: |-
           Pastori Kari Härkönen, Vapaakirkko, Pieksämäki
+      - title: 'Radioteatteri esittää:'
+        start_time: '2025-03-11T19:02:40+02:00'
+        end_time: '2025-03-11T19:23:00+02:00'
+      - title: 'Radioteatteri esittää:'
+        start_time: '2025-03-11T19:23:00+02:00'
+        end_time: '2025-03-11T19:45:00+02:00'
       - title: 'Suuren meriseikkailun jäljillä: Amiraali pääsee suomalaisen olutpullon etikettiin '
         start_time: '2025-03-11T20:00:00+02:00'
         end_time: '2025-03-11T20:19:20+02:00'

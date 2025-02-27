@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:20.435879+00:00'
+  generated_at: '2025-02-27T02:28:40.282950+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -54,7 +54,6 @@ data:
           M. Kilpiö: Jeesus, ristinpolkuasi (Herännäisnuorten kuoro/Samuli Korkalainen).
 
           Tuntematon (sov. Rissanen): Käykäämme nyt Jerusalemiin (Human Organ).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-02-28T06:50:00+02:00'
         end_time: '2025-02-28T06:59:59+02:00'
@@ -99,7 +98,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-02-28T09:05:40+02:00'
         end_time: '2025-02-28T09:58:00+02:00'
-        description: |-
+        description: |
           Distel: La belle vie (Sacha Distel).
           Carmichael: Two sleepy people (Inga Sulin ja Markku Aro).
           Lecuona: Malagueña (Caterina Valente).
@@ -113,25 +112,24 @@ data:
           Perkins: Blue suede shoes (Elvis Presley).
           Lacalle: Amapola (Ennio Morricone).
           Bock: Nousee päivä, laskee päivä (Carola).
-          Webber: Vart ska min kärlek föra (Agnetha Fältskog).
+          Lloyd Webber: Vart ska min kärlek föra (Agnetha Fältskog).
           Stordahl/Weston: Day by day (Anki ja Timo T. A. Mikkonen).
         series: Muistojen bulevardi
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller:  Pieni ja sisukas Suomi?'
         start_time: '2025-02-28T10:00:00+02:00'
         end_time: '2025-02-28T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Ex-ulkoministeri Erkki Tuomioja ja Nordic West Officen toimitusjohtaja Risto Penttilä keskustelevat Suomen asemasta suurvaltojen pelissä. Voimmeko enää luottaa Naton turvatakuisiin? Pettääkö Trump tarvittaessa myös Suomen? Millainen on Suomen asema tilanteessa, jossa sääntöpohjainen kansainvälinen järjestys pettää alta? Onko meillä syitä optimismiin? Tervetuloa kuuntelemaan ohjelmaa, joka ei maalaile vain painajaisskenaarioita.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-02-28T10:55:00+02:00'
         end_time: '2025-02-28T11:00:00+02:00'
-        series: Yksi on hyvää seuraa
-      - title: Narrin aamulaulu - Musiikkia Lallukan taiteilijakodista
+      - title: Narrin aamulaulu – Musiikkielämää Helsingissä ja Viaporissa 1700-luvun lopussa
         start_time: '2025-02-28T11:00:00+02:00'
         end_time: '2025-02-28T11:55:00+02:00'
-        description: |
-          Juho ja Maria Lallukan Taiteilijakotisäätiö perustettiiin 100 vuotta sitten. Juhlavuoden kunniaksi sekä Lallukassa asuneiden että siellä nykyisin asuvien muusikoiden teoksia ja esityksiä on koottu yksiin kansiin. Ohjelmassa tavataan myös levyhankkeen suunnittelija Olli Kortekangas. 
-          Toimittajana Outi Paananen.
+        description: |-
+          Perukirjat ja huutokauppa-asiakirjat paljastavat, että Helsingin musiikkielämä 1700-luvun lopussa ja 1800-luvun alussa ei ollut lainkaan niin köyhää ja onnetonta kuin on otaksuttu. Asiakirjoihin on paneutunut Helsingin kaupunginmuseon tutkija Jere Jäppinen. Toimittajana Outi Paananen.  
+          (uusinta vuodelta 2021).
         series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-02-28T11:57:00+02:00'
@@ -160,11 +158,16 @@ data:
       - title: Yle Uutiset
         start_time: '2025-02-28T15:00:00+02:00'
         end_time: '2025-02-28T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa Itä-Karjalan keskitysleirit ja tylsät nykytaiteen näyttelyt'
         start_time: '2025-02-28T15:02:00+02:00'
         end_time: '2025-02-28T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Mieleni minun tekevi ja aivoni ajattelevi - ja siitä syntyy painavaa ja punnittua keskustelua Kulttuuriykkösen Perjantaistudioon. 
+
+          Viikon varrelta kuumimpia kulttuuri- ja mediailmiöitä sekä arvokysymyksiä ovat raadissa ruotimassa kriitikko Leena Virtanen, kirjailija-teologi Vehka Kurjenmiekka sekä tutkija Jori Grym. 
+
+          Toimittajana on Ville Talola.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-02-28T15:55:00+02:00'
         end_time: '2025-02-28T15:58:00+02:00'
@@ -203,11 +206,11 @@ data:
         end_time: '2025-02-28T17:34:20+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Ilja Moshnikov'
         start_time: '2025-02-28T17:35:00+02:00'
         end_time: '2025-02-28T18:30:00+02:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Näistä levyistä en luovu -ohjelmassa vieraana on Kalevalanpäivän hengessä karjalan kielen ja kulttuurin tuntija ja tutkija Ilja Moshnikov. Ohjelman toimittaa Maaria Holma. 
         series: Näistä levyistä en luovu
       - title: Musiikkihartaus
         start_time: '2025-02-28T18:35:00+02:00'
@@ -231,11 +234,12 @@ data:
       - title: Politiikkaradio
         start_time: '2025-02-28T21:05:00+02:00'
         end_time: '2025-02-28T21:34:30+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Puola on samaa maata'
         start_time: '2025-02-28T21:35:00+02:00'
-        end_time: '2025-02-28T22:24:30+02:00'
+        end_time: '2025-02-28T22:24:14+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
         start_time: '2025-02-28T22:25:00+02:00'
         end_time: '2025-02-28T23:15:00+02:00'

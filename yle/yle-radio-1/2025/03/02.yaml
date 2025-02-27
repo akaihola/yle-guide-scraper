@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:21.224697+00:00'
+  generated_at: '2025-02-27T02:28:45.181602+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -47,8 +47,8 @@ data:
         start_time: '2025-03-02T07:00:00+02:00'
         end_time: '2025-03-02T07:02:05+02:00'
       - title: 'Klasariparatiisi - Eva Tigerstedt: Hyviä tuulia'
-        start_time: '2025-03-02T07:02:30+02:00'
-        end_time: '2025-03-02T07:54:19+02:00'
+        start_time: '2025-03-02T07:02:24+02:00'
+        end_time: '2025-03-02T07:54:13+02:00'
         description: |
           Kaiken maailman rähinöinnit saavat kaipaamaan hyviä tuulia. Onko se eskapismia, jos uppoutuu musiikin pitkään jatkumoon? Klasariparatiisissa soivat kukkeat vasket ja muutama lehdykkä.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -70,22 +70,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T08:00:00+02:00'
         end_time: '2025-03-02T08:05:05+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
-        start_time: '2025-03-02T08:05:35+02:00'
+      - title: Narrin aamulaulu – Musiikkielämää Helsingissä ja Viaporissa 1700-luvun lopussa
+        start_time: '2025-03-02T08:05:23+02:00'
         end_time: '2025-03-02T08:59:30+02:00'
-        description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |-
+          Perukirjat ja huutokauppa-asiakirjat paljastavat, että Helsingin musiikkielämä 1700-luvun lopussa ja 1800-luvun alussa ei ollut lainkaan niin köyhää ja onnetonta kuin on otaksuttu. Asiakirjoihin on paneutunut Helsingin kaupunginmuseon tutkija Jere Jäppinen. Toimittajana Outi Paananen.  
+          (uusinta vuodelta 2021).
+        series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T09:00:00+02:00'
         end_time: '2025-03-02T09:05:05+02:00'
       - title: Riston Valinta
-        start_time: '2025-03-02T09:05:35+02:00'
-        end_time: '2025-03-02T09:55:00+02:00'
+        start_time: '2025-03-02T09:05:31+02:00'
+        end_time: '2025-03-02T09:53:47+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
         series: Riston Valinta - Risto Nordell
       - title: Yksi on hyvää seuraa
-        start_time: '2025-03-02T09:55:00+02:00'
+        start_time: '2025-03-02T09:53:47+02:00'
         end_time: '2025-03-02T09:56:00+02:00'
         series: Yksi on hyvää seuraa
       - title: Tervetuloa jumalanpalvelukseen
@@ -117,9 +119,9 @@ data:
           Scott: Hunajainen (Carola).
           Wheeler: Jackson (Nancy Sinatra & Lee Hazlewood).
           Turner: Tummanpunainen (Eero, Jussi and The Boys).
-          Becaud: L'mportant c'est la rose (Tapio Heinonen).
-          Gainsbourg: Le Poinconneur des lilas (Serge Gainsbourg).
-          Monk: 'round midnight (Wes Montgomery Trio).
+          Becaud: L'important c'est la rose (Tapio Heinonen).
+          Gainsbourg: Le poinconneur des lilas (Serge Gainsbourg).
+          Monk: 'Round midnight (Wes Montgomery Trio).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T12:00:00+02:00'
@@ -157,9 +159,11 @@ data:
         description: |-
           Kalenterit, muistiot, suttupaperit ja päiväkirjat. Kaikki, mihin olemme ajatuksiamme tai suunnitelmiamme tallentaneet, kertovat paitsi arjen historiasta, myös maailmanhistorian suurista muutoksista. Päiväkirjojen suosio kasvaa aina, kun ajat ovat vaikeat. Asiantuntija: FT Maria Kallio-Hirvonen. Toimittaja: Liisa Vihmanen. Lukija: Hannamari Vallila. Äänisuunnittelu: Katri Koivula.
         series: Elävä historia
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Lapintiainen'
         start_time: '2025-03-02T15:50:00+02:00'
         end_time: '2025-03-02T15:55:00+02:00'
+        description: |
+          Viikon luontoäänen esittelee Pertti Koskimies.
       - title: Yle News
         start_time: '2025-03-02T15:55:00+02:00'
         end_time: '2025-03-02T15:58:00+02:00'
@@ -171,8 +175,8 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-02T16:10:00+02:00'
         end_time: '2025-03-02T16:59:00+02:00'
-        description: |-
-          Korngold: Johdanto balettipantomiimista Lumiukko (Peter Manning, viulu, BBC:n FO/Matthias Bamert).
+        description: |
+          Korngold: Johdanto balettipantomiimista Lumiukko (Peter Manning, viulu, ja BBC:n FO/Matthias Bamert).
 
           Palmgren: Hiihtäjän virsi (YL/Matti Hyökki).
 
@@ -180,7 +184,7 @@ data:
 
           Chaminade: Valse carnevalesque (Peter Jablonski ja Bengt Forsberg, piano).
 
-          Stravinsky: Markkinat laskiaisaikaan - Väkijoukko - Silmänkääntäjän koju, baletista Petrushka (Sao Paulon SO/Yan Pascal Tortelier, sekä Jean-Efflam Bavouzet, piano). 
+          Stravinsky: Markkinat laskiaisaikaan - Väkijoukko - Silmänkääntäjän koju baletista Petrushka (Sao Paulon SO/Yan Pascal Tortelier, sekä Jean-Efflam Bavouzet, piano). 
 
           Waldteufel: Luistelijat (Leo Eide, vihellys, ja Håkan Sund, piano).
 
@@ -195,16 +199,18 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T17:00:00+02:00'
         end_time: '2025-03-02T17:10:00+02:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Avaruusjazzin sfääreissä heittelehtimistä'
         start_time: '2025-03-02T17:11:00+02:00'
-        end_time: '2025-03-02T18:11:00+02:00'
+        end_time: '2025-03-02T18:10:22+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Antaudu heittelehtimään, sinkoilemaan, leijumaan, avaruusmatkailemaan. Näitä kaikkia olotiloja pääsemme kokemaan avaruusjazzin sfääreissä.
+        series: Laura Korhosen Jazzklubi
       - title: 'Jazzklubin illan keikka: Dave Holland New Quartet Pori Jazzissa.'
-        start_time: '2025-03-02T18:11:00+02:00'
+        start_time: '2025-03-02T18:10:22+02:00'
         end_time: '2025-03-02T19:00:00+02:00'
         description: |
           Äänitetty Lokkilavalla 13.7.2023.
+        series: Jazzklubi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T19:00:00+02:00'
         end_time: '2025-03-02T19:02:05+02:00'
@@ -213,6 +219,7 @@ data:
         end_time: '2025-03-02T20:00:00+02:00'
         description: |2+
 
+        series: Jazzklubi
       - title: 'Katolinen messu Studium Catholicumista Helsingistä '
         start_time: '2025-03-02T20:00:00+02:00'
         end_time: '2025-03-02T20:58:23+02:00'
@@ -248,11 +255,12 @@ data:
 
           Johann Sebastian Bach: Konsertto oboe d'amorelle, jousille ja continuolle A-duuri BWV1055/R (Katharina Arfken, oboe d'amore, ja Freiburgin barokkiorkesteri/Gottfried von der Goltz).
         series: Klasariparatiisi - Eva Tigerstedt
-      - title: Sari Valto
+      - title: 'Sari Valto: Mitä ihmisyydestä jää, kun tekoäly valtaa elämämme?'
         start_time: '2025-03-02T22:21:30+02:00'
-        end_time: '2025-03-02T23:16:30+02:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        end_time: '2025-03-02T23:15:46+02:00'
+        description: |-
+          Pekka Sauri ja Johanna Kukka pohtivat, mitä ihmisyydestä jää, kun tekoäly pystyy pian korvaamaan ihmisen lähes kaikessa? 
+        series: Sari Valto
       - title: 'Romano mirits: Romanimusiikki-sarja 2. osa: Taisto Tammen koiran nimi ja muita tarinoita tangosta'
         start_time: '2025-03-02T23:19:30+02:00'
         end_time: '2025-03-02T23:34:20+02:00'

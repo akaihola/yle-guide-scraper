@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:25.648872+00:00'
+  generated_at: '2025-02-27T02:28:53.617915+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -101,6 +101,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-17T16:10:00+02:00'
         end_time: '2025-03-17T16:59:00+02:00'
+        description: |-
+          Donizetti: Marcia di Mahmoud (Zefiro/Alfredo Bernardini).
+
+          Schumann: Heiss' mich nicht reden (Lorraine Hunt Lieberson, mezzosopraano, ja Julius Drake, piano).
+
+          Marsh: Allegro maestoso keskustelusinfoniasta kahdelle orkesterille Es-duuri (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          Kortekangas: Venetsia (Candomino-kuoro/Tauno Satomaa).
+
+          Brahms: Allegretto quasi Menuetto sonaatista sellolle ja pianolle nro 1 e-molli (Daniil Shafran ja Felix Gottlieb).
+
+          Reverberi: Alla Turca sarjasta huuliharpulle ja jousille (Willi Burger, huuliharppu, ja Ljubljanan Radion ja Television kamariork./Nevio Zanardi).
+
+          Verdi: Germontin aaria "Di Provenza il mar" oopp. La Traviata (Dietrich Fischer-Dieskau, baritoni, ja Berliinin radion SO/Ferenc Fricsay).
+
+          Bonis: Barcarolle (Venelaulu) (Mengyiyi Chen, piano).
+
+          Niittykoski (sov. Ala-Kotila): Kesän muisto (Keski-Pohjanmaan Kamariork.). 
+
+          Albéniz: Zortzico (David Russell, kitara).
+
+          Moreno Torroba: Rafaelin aaria zarzuelasta Maravilla (Rolando Villazon, tenori, ja Orquesta de la Comunidad de Madrid/Placido Domingo).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-17T17:00:00+02:00'
         end_time: '2025-03-17T17:10:00+02:00'

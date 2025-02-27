@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:27.223390+00:00'
+  generated_at: '2025-02-27T02:28:54.930027+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -126,6 +126,12 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-22T16:10:00+02:00'
         end_time: '2025-03-22T16:59:00+02:00'
+      - title: Miia Krause
+        start_time: '2025-03-22T17:10:00+02:00'
+        end_time: '2025-03-22T17:57:00+02:00'
+        description: |
+          Janne Saarikivi: "Siitä, että tulee isoja muutoksia ei automaattisesti seuraa että muutokset olisivat hyviä. Ei ole olemassa mitään absoluuttista hyvää, vaan jokaiseen hyväänkin muutokseen sisältyy aina jokin katastrofin siemen." (uusinta)
+        series: Miia Krause
       - title: Iltahartaus
         start_time: '2025-03-22T18:01:00+02:00'
         end_time: '2025-03-22T18:10:00+02:00'

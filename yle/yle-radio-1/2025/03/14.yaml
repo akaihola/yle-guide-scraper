@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-25T02:28:24.711737+00:00'
+  generated_at: '2025-02-27T02:28:52.430361+00:00'
   git:
     branch: main
-    commit: 14060f62a21097e2c4d221196cda45fe3bc89566
-  data_hash: f0f593e5ec2590440073c1ad9f8447504a369bd7404c14235940a431ef176a4d
+    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
+  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
 data:
   Yle Radio 1:
     programmes:
@@ -28,8 +28,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-03-14T06:50:00+02:00'
         end_time: '2025-03-14T06:59:59+02:00'
-        description: |-
-          Kanttori Jenni Urponen, Mynämäki
+        description: |
+          "Koko Pohjolaa yhdistävä aarre"
+          Kanttori Jenni Urponen Mynämäeltä avaa näkökulmia kristinuskon varhaisimpaan historiaan Pohjolassa tiettävästi vanhimman meidän päiviimme säilyneen pohjoismaisen virsitekstin kautta.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-14T07:00:00+02:00'
@@ -49,6 +50,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-14T09:05:40+02:00'
         end_time: '2025-03-14T09:58:00+02:00'
+        description: |
+          Strouse: Kultapoika (Viktor Klimenko).
+          Tikka: Odotusta Pariisissa (Susanna Haavisto).
+          Blanco: Moliendo café (Mina).
+          Ahlert: Walkin' my baby back home (Nat King Cole).
+          Ahbez: Nature boy (Natalie Cole).
+          Legrand/Godard: Chanson d'Angela (Anna Karina).
+          Barry: Midnight cowboy (Henry Mancini).
+          Capuano: Tuuliviiri (Danny).
+          King: Will you love me tomorrow (Roberta Flack).
+          Morricone: Gabriel's oboe (Ennio Morricone).
+          Laitinen: Unohdusta ei ole (Laila Kinnunen).
+          Blackwell/Hammer: Great balls of fire (Jerry Lee Lewis).
+          Sting: Måne över Stureplan (Monica Zetterlund).
+          Hadzidakis: Oniro pedión tis jitoniás (Nana Mouskouri).
+          Sherwin: A nightingale sang in Berkeley Square (The Manhattan Transfer).
         series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2025-03-14T10:00:00+02:00'
@@ -59,11 +76,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-14T10:55:00+02:00'
         end_time: '2025-03-14T11:00:00+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Musiikkia Lallukan taiteilijakodista
         start_time: '2025-03-14T11:00:00+02:00'
         end_time: '2025-03-14T11:55:00+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Juho ja Maria Lallukan Taiteilijakotisäätiö perustettiiin 100 vuotta sitten. Juhlavuoden kunniaksi sekä Lallukassa asuneiden että siellä nykyisin asuvien muusikoiden teoksia ja esityksiä on koottu yksiin kansiin. Ohjelmassa tavataan myös levyhankkeen suunnittelija Olli Kortekangas. 
+          Toimittajana Outi Paananen.
         series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-14T11:57:00+02:00'
@@ -77,6 +95,7 @@ data:
         end_time: '2025-03-14T12:59:30+02:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2025-03-14T13:00:00+02:00'
         end_time: '2025-03-14T13:30:00+02:00'
@@ -94,7 +113,6 @@ data:
         end_time: '2025-03-14T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-03-14T16:00:00+02:00'
         end_time: '2025-03-14T16:10:00+02:00'
