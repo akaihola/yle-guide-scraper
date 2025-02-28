@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-27T02:28:45.181602+00:00'
+  generated_at: '2025-02-28T02:28:43.224951+00:00'
   git:
     branch: main
-    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
-  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
+    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
+  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,7 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-03-02T09:56:00+02:00'
         end_time: '2025-03-02T09:59:00+02:00'
+        series: Jumalanpalvelukset radiossa
       - title: 'Jumalanpalvelus Perniön kirkosta '
         start_time: '2025-03-02T10:00:00+02:00'
         end_time: '2025-03-02T10:59:20+02:00'
@@ -136,7 +137,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-02T12:55:00+02:00'
         end_time: '2025-03-02T13:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: 'Välilevyjä: Helppotajuinen konsertti'
         start_time: '2025-03-02T13:00:00+02:00'
         end_time: '2025-03-02T13:57:00+02:00'
@@ -147,7 +147,7 @@ data:
         start_time: '2025-03-02T14:00:00+02:00'
         end_time: '2025-03-02T14:50:00+02:00'
         description: |
-          “Olin kärsinyt jo pitkään syömishäiriöstä, mutta en tunnistanut, enkä halunnut myöntää sitä”, Essi muistelee. Raja tuli vastaan, kun Essi ei eräänä päivänä istahti harjoituksissa nurmelle eikä pystynyt enää liikkumaan. “Valmentajan kanssa sovimme, että pidän viikon tauon”, Essi hymähtää. Essin taistelu psyykkisten ja fyysisten oireiden kanssa kesti kolme pitkää vuotta.
+          “Olin kärsinyt jo pitkään syömishäiriöstä, mutta en tunnistanut, enkä halunnut myöntää sitä”, Essi muistelee. Raja tuli vastaan, kun Essi eräänä päivänä istahti harjoituksissa nurmelle eikä pystynyt enää liikkumaan. “Valmentajan kanssa sovimme, että pidän viikon tauon”, Essi hymähtää. Essin taistelu psyykkisten ja fyysisten oireiden kanssa kesti kolme pitkää vuotta.
           Mutta hän voitti ja palasi kentille ja aina huipulle maajoukkueeseen asti. 
         series: Marko Gustafsson
       - title: Yksi on hyvää seuraa
@@ -169,6 +169,7 @@ data:
         end_time: '2025-03-02T15:58:00+02:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-03-02T16:00:00+02:00'
         end_time: '2025-03-02T16:10:00+02:00'
@@ -217,10 +218,22 @@ data:
       - title: 'Jazzklubi: Klubi-isäntänä Markus Partanen.'
         start_time: '2025-03-02T19:02:05+02:00'
         end_time: '2025-03-02T20:00:00+02:00'
-        description: |2+
+        description: |-
+          Maaliskuun ensimmäisessä Jazzklubissa kuunnellaan tanskalaisen April Recordsin tuoreita julkaisuja, maistellaan ensi viikon kotimaisten jazzfestivaalien antia ja onnitellaan 90 vuotta täyttävää saksofonisti George Colemania.
 
+          1. Ilkka Arola sound Tagine: The Flying Cyborg Whales / Adventures In The Now (Flame Jazz Records 2025)
+          2. Rönkä / Sommer / Andersson: Den ensommes dans / Lost Threads (April Records 2025)
+          3. Andorra: Mingus / III (April Records 2025)
+          4. Jakob Dinesen: Night Hawk / Slow Flow (April Records 2025)
+          5. Oh People: The Beat / Part-Time Elegance (April Records 2025)
+          6. Selim Rantapuro Quartet: White Triads / Unknown Dimensions (Rantapuro Records 2025)
+          7. Bill Frisell Trio: Valentine / Valentine (Blue Note 2020)
+          8. Josefiina Vannesluoma & Mortal Lease: Shall I Not Know? / The Mortal Lease (Flame Jazz Records 2023)
+          9. Miles Davis Quintet: All Blues / My Funny Valentine (Columbia 1965)
+
+          Toimittajana Markus Partanen.
         series: Jazzklubi
-      - title: 'Katolinen messu Studium Catholicumista Helsingistä '
+      - title: 'Studium Catholicumin messu Pyhän Olavin kappelista Helsingistä '
         start_time: '2025-03-02T20:00:00+02:00'
         end_time: '2025-03-02T20:58:23+02:00'
         description: |
@@ -230,13 +243,14 @@ data:
         start_time: '2025-03-02T21:00:00+02:00'
         end_time: '2025-03-02T21:02:05+02:00'
       - title: Uutispodcast
-        start_time: '2025-03-02T21:03:00+02:00'
+        start_time: '2025-03-02T21:03:18+02:00'
         end_time: '2025-03-02T21:28:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Hyviä tuulia'
-        start_time: '2025-03-02T21:29:00+02:00'
-        end_time: '2025-03-02T22:20:49+02:00'
+        start_time: '2025-03-02T21:28:45+02:00'
+        end_time: '2025-03-02T22:20:34+02:00'
         description: |
           Kaiken maailman rähinöinnit saavat kaipaamaan hyviä tuulia. Onko se eskapismia, jos uppoutuu musiikin pitkään jatkumoon? Klasariparatiisissa soivat kukkeat vasket ja muutama lehdykkä.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -256,14 +270,14 @@ data:
           Johann Sebastian Bach: Konsertto oboe d'amorelle, jousille ja continuolle A-duuri BWV1055/R (Katharina Arfken, oboe d'amore, ja Freiburgin barokkiorkesteri/Gottfried von der Goltz).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Mitä ihmisyydestä jää, kun tekoäly valtaa elämämme?'
-        start_time: '2025-03-02T22:21:30+02:00'
-        end_time: '2025-03-02T23:15:46+02:00'
+        start_time: '2025-03-02T22:21:53+02:00'
+        end_time: '2025-03-02T23:16:09+02:00'
         description: |-
           Pekka Sauri ja Johanna Kukka pohtivat, mitä ihmisyydestä jää, kun tekoäly pystyy pian korvaamaan ihmisen lähes kaikessa? 
         series: Sari Valto
       - title: 'Romano mirits: Romanimusiikki-sarja 2. osa: Taisto Tammen koiran nimi ja muita tarinoita tangosta'
-        start_time: '2025-03-02T23:19:30+02:00'
-        end_time: '2025-03-02T23:34:20+02:00'
+        start_time: '2025-03-02T23:18:46+02:00'
+        end_time: '2025-03-02T23:33:34+02:00'
         description: |
           Suomen romanit tunnetaan tangon tulkitsijoina. Heidän esiinmarssinsa alkoi 1960-luvulla, kun mm. Taisto Tammi ja Markus Allan tulivat tunnetuksi erityisesti Toivo Kärjen tangojen rakastettuina tulkitsijoina. Seuraavina vuosikymmeninä laulullaan ovat hurmanneet niin Anneli Sari, Taisto Ahlgren kuin lukuisat tangokuninkaalliset romanit. 
 
@@ -274,5 +288,36 @@ data:
       - title: Yöklassinen
         start_time: '2025-03-02T23:40:00+02:00'
         end_time: '2025-03-03T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Barrios: Suite Andina (Sarja Andeilta) (Antigoni Goni, kitara).
+
+          23:53 Stöhr: Sarja uruille ja viululle As-duuri (Jan Lehtola ja Anna-Leena Haikola).
+
+          00:1 Sibelius: Sinfonia n:o 2 D-duuri (Berliinin filharmonikot/Okko Kamu).
+
+          00:59 Tshaikovski: Jousikvartetto n:o 2 F-duuri (Borodin-kvartetti).
+
+          01:37 Rubinstein: Romanssi Es-duuri (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          01:41 Telemann: Der Tag des Gerichts (Tuomiopäivä), oratorio (Gertaud Landwehr-Herrmann, sopraano, Cora Canne-Meijer, altto, Kurt Equiluz, tenori, ja Max van Egmond, basso, sekä Wiener Sängerknaben, Hampurin Monteverdi-kuoro ja Wienin Concentus musicus/Nikolaus Harnoncourt).
+
+          03:05 Hubay: Viulukonsertto n:o 2 E-duuri (Cloë Hanslip ja Bournemouthin SO/Andrew Mogrelia).
+
+          03:33 Ginastera: Jousikvartetto n:o 1 (Cuarteto Latinoamericano).
+
+          03:54 Farrenc: Sinfonia n:o 1 c-molli (Bretagnen ork./Stefan Sanderling).
+
+          04:26 Reger: Serenadi D-duuri (Serenata of London).
+
+          04:46 Gershwin (sov. Russell Bennett): Sinfoninen kuva oopp. Porgy ja Bess teemoista (Utahin SO/Maurice Abravanel).
+
+          05:15 J. Strauss (nuor.): Wo die Zitronen blüh'n (Missä sitruunat kukkivat) (Wienin filharmonikot/Franz Welser-Möst).
+
+          05:25 Mendelssohn: Sinfonia jousiorkesterille n:o 7 d-molli (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:47 Nin: 1830 (Muunnelmia kevytmielisestä teemasta) (Martin Jones, piano).
+
+          06:00 Leschetizky: Six meditations (Kuusi meditaatiota) (Peter Ritzen, piano).
+
+          06:14 Monteverdi: Lagrime d'amante al sepolcro dell'amata (Rakastavan kyyneleet rakastetun haudalla) (Voces8/Barnaby Smith).
+        series: Syventävää klassista

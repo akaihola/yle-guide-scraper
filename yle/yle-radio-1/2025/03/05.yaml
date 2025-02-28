@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-27T02:28:48.695950+00:00'
+  generated_at: '2025-02-28T02:28:44.274872+00:00'
   git:
     branch: main
-    commit: ce54cbd2da49469bb7462f49090ecfe53c0ab913
-  data_hash: 871a9466161363d922a0c990cf86f90906538d1befc7bb56733aa5af95b4cf02
+    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
+  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,29 @@ data:
         start_time: '2025-03-04T23:40:00+02:00'
         end_time: '2025-03-05T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Wanderers´ Voices, musiikkia ja lauluja keskiajalta (Drew Minter, kontratenori, ja The Newberry Consort). 
+
+          00:45 MacDowell: Sarja orkesterille n:o 2 e-molli (Intiaani) (Lontoon kuninkaallinen FO/Karl Krüger).
+
+          01:22 Beethoven: König Stephan, näytelmämusiikkia (Claus Obalski, Roland Astor, Ernst Oder ja Angela Eberlein, puhe, sekä Key Ensemble ja Turun FO/Leif Segerstam).
+
+          02:03 Juon: Jousikvartetto D-duuri (Sarastro-kvartetti).
+
+          02:45 Kaski: Auringon ruusu (Pekka Nuotio, tenori, ja Ralf Gothoni, piano).
+
+          02:48 Busoni: Sonaatti viululle ja pianolle n:o 2 e-molli (Gidon Kremer ja Valeri Afanasjev).
+
+          03:27 Kapustin: Trio op.86 huilulle, pianolle ja sellolle (Emanuel Ensemble).
+
+          03:47 Aho: Pasuunakonsertto (Jörgen van Rijen ja Antwerpenin SO/Martyn Brabbins).
+
+          04:19 Kuula (sov.): Kuusi eteläpohjalaista tanssia (Sirkka Kuula, viulu, ja Jerzy Gebert, piano).
+
+          04:32 Gallot: Sarja luutulle F-duuri (Leif Karlson).
+
+          04:45 J.S. Bach: Die Kunst der Fuge (Fuugan taito) (Tatjana Nikolajeva, piano).
+
+          06:14 Fiorillo: Kvartetto huilulle ja jousille n:o 3 G-duuri (Ensemble A l'antica).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-05T06:30:50+02:00'
@@ -99,7 +121,6 @@ data:
         end_time: '2025-03-05T11:50:00+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
-        series: Riston Valinta - Risto Nordell
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-05T11:57:00+02:00'
         end_time: '2025-03-05T12:00:00+02:00'
@@ -172,11 +193,12 @@ data:
         end_time: '2025-03-05T17:34:20+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Uusia julkaisuja, uusia tuttavuuksia'
         start_time: '2025-03-05T17:35:00+02:00'
         end_time: '2025-03-05T18:35:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Uudet julkaisut ja uudet tuttavuudet, sellaisia kuunnellaan tällä viikolla ja samalla pohditaan, mahtaako musiikkia olla maailmassa jo liikaa.
+        series: Laura Korhosen Jazzklubi
       - title: Hartaita säveliä
         start_time: '2025-03-05T18:35:00+02:00'
         end_time: '2025-03-05T18:50:00+02:00'
@@ -223,3 +245,4 @@ data:
         end_time: '2025-03-06T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
