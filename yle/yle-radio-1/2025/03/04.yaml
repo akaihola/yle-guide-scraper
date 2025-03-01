@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:43.699614+00:00'
+  generated_at: '2025-03-01T02:30:26.890059+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -87,11 +87,11 @@ data:
           Andersson/Ulvaeus: Money, money, money (Abba).
           Barry: Born free (Matt Monro).
         series: Muistojen bulevardi
-      - title: 'Sari Valto: Ateisti ja rokkari kääntyivät ristin puoleen'
+      - title: 'Sari Valto: Entä jos en jahtaakaan unelmia?'
         start_time: '2025-03-04T10:00:00+02:00'
         end_time: '2025-03-04T10:55:00+02:00'
-        description: |-
-          Toimittaja Tuomas Enbuske ja The 69 Eyesin solisti Jyrki Linnankivi pohtivat suhdettaan uskoon ja kirkkoon. 
+        description: |
+          Mikä on unelmien merkitys elämässä? Meitä usein kehotetaan jahtaamaan unelmiamme. Mutta entä jos niitä unelmia ei ole, vaan elämä tuntuu ihan hyvältä ilman palavia unelmiakin? Keskustelijoina viestinnän asiantuntija Katja Lahti sekä motivaatiovalmentaja Johanna Huhtamäki.
         series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-03-04T11:00:00+02:00'
@@ -101,6 +101,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-04T11:57:00+02:00'
         end_time: '2025-03-04T12:00:00+02:00'
+        description: |-
+          Ote Esko Valtaojan kirjasta Avaruudesta.
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-03-04T12:00:00+02:00'
@@ -158,25 +160,25 @@ data:
         description: |-
           I. Hannikainen: Mäenlasku (Greta Fougstedt, sopraano, ja Nils-Eric Fougstedt, piano).
 
-          Palmgren: Hiihtäjän virsi mieskuorolle a cappella (YL/Matti Hyökki).
-
           Prokofjev (sov. Fichtenholz): Talven haltijatar bal. Tuhkimo (Lydia Mordkovitch, viulu, ja Nicholas Walker, piano). 
 
-          Waldteufel: Les Patineurs (Luistelijat) valssi (Les Siecles/Francois-Xavier Roth). 
+          Waldteufel: Les patineurs (Luistelijat) (Les Siecles/Francois-Xavier Roth). 
 
-          Kansanlaulu (Liivi) - Tormis: Kolme liiviläistä kansanlaulua (Viron kansallinen mieskuoro/Ants Soots, sekä Kadri Hunt, laulu). 
+          Kansanlaulu (sov. Tormis): Kolme liiviläistä kansanlaulua (Viron kansallinen mieskuoro/Ants Soots, sekä Kadri Hunt, laulu). 
 
-          Mauldin: Preludi n:o 4 sarj. Birds in Winter (Laura Hynninen, harppu). 
+          Mauldin: Preludi n:o 4 teoks. Birds in winter (Laura Hynninen, harppu). 
 
-          Bach: Du wahrer Gott und Davids Sohn -osa laskiaissunnuntain kantaatista n:o 23 (Aelbgut -vokaaliyhtye ja Capella Jenensis (barokkiork.). 
+          J.S. Bach: Du wahrer Gott und Davids Sohn laskiaissunnuntain kantaatista n:o 23 (Aelbgut-vokaaliyhtye ja Capella Jenensis -barokkiork.). 
 
-          Grieg: Solveigin laulu (Karita Mattila, sopraano, Birminghamin SO/Sakari Oramo). 
+          Grieg: Solveigin laulu (Karita Mattila, sopraano, ja Birminghamin SO/Sakari Oramo). 
+
+          Schubert (sov. Liszt): Liiransoittaja sarj. Winterreise (Leslie Howard, piano). 
 
           Marsh (sov. Azkoul): In winter's house (United Strings of Europe/Julian Azkoul, viulu).
 
           Eklund - Henriksson - Tidermark: Kesän kaipuu animaatioelok. Muumien taikatalvi (Saara Lehtonen, laulu, ja Prahan FO).
 
-          Malmstén (sov. J. Tikka): Jänöjussin mäenlasku (HKO/Leif Segerstam).
+          Malmstén: Jänöjussin mäenlasku (HKO/Leif Segerstam).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-04T17:00:00+02:00'
@@ -236,12 +238,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-04T19:00:00+02:00'
         end_time: '2025-03-04T19:02:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Radioteatteri esittää: What would Samira do: Neitsytkeissi'
         start_time: '2025-03-04T19:02:40+02:00'
         end_time: '2025-03-04T19:23:00+02:00'
-      - title: 'Radioteatteri esittää:'
+        description: |-
+          Samira ja ystävät Hani ja Viivi valmistuvat lukiosta. Tänään mennään klubille! Uusi audiodraamasarja alkaa. Osa 1/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+      - title: 'What would Samira do: Tekopyhä muslimi'
         start_time: '2025-03-04T19:23:00+02:00'
         end_time: '2025-03-04T19:45:00+02:00'
+        description: |-
+          Samira toipuu illan flirttailusta ja neitsytvideo boomaa. Audiodraamasarja, osa 2/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Yasmin Ahsanullah
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
       - title: 'Kaisa Pulakan aikamatkat: Moninainen sukupuoli 5/5'
         start_time: '2025-03-04T20:00:00+02:00'
         end_time: '2025-03-04T20:19:20+02:00'
@@ -257,9 +282,35 @@ data:
           Nykyisiä hengellisen musiikin taitureita ovat esimerkiksi Miska Nyman ja Dimitri Grönfors, joiden muodostaman DMD-yhtyeen ensilevyä on kuvattu sielunhoitoklassikoksi.  
 
           Ohjelman toimittajana on Jaakko Laakso.
+        series: Romano mirits
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-04T20:35:00+02:00'
         end_time: '2025-03-04T21:00:00+02:00'
+        description: |-
+          Presidentti Donald Trump myllää myös Yhdysvaltain ulkopolitiikkaa.
+          YK:ssa USA asettui Venäjän tueksi Ukrainaa ja länsiliittolaisiaan vastaan.
+
+
+
+          Takinkääntö on herättänyt kysymyksiä, voiko Trumpin Yhdysvaltojen
+          tukeen enää luottaa ja kestääkö Nato Trumpin toiminnan. Etenkin Baltiassa on
+          huolta jättääkö Yhdysvallat Itä-Euroopan oman onnensa nojaan. Ohjelmassa
+          kuullaan, mitä Viron puolustusvoimien entinen komentaja tilanteesta ajattelee.
+
+
+
+          Britannialle on soviteltu muuttuvassa turvallisuusarkkitehtuurissa
+          suurempaa vastuuta Euroopan puolustuksesta. Ohjelmassa haastateltavan
+          brittiasiantuntijan mukaan Euroopassa pitäisi kyetä nyt käymään
+          tabu-keskusteluja Euroopan pitkäaikaisista turvallisuusrakenteista, kuten yli
+          70-vuotiaasta Natosta ja olla valmiutta muuttaa niitä tai jopa luoda uusia
+          samanmielisten liittoumia.
+
+
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Kirsi
+          Crowley, Rain Kooli ja Paula Vilén. Äänitarkkailijana on Marko Vierikko.
+          Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-03-04T21:00:00+02:00'

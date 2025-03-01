@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:45.830562+00:00'
+  generated_at: '2025-03-01T02:30:28.689515+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -12,11 +12,10 @@ data:
         end_time: '2025-03-10T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-10T06:30:50+02:00'
         end_time: '2025-03-10T06:50:00+02:00'
-        description: |-
+        description: |
           Koraalitoisinto: Mitä silloin multa puuttuu (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
 
           Pekkarinen: Yksin en kulje (Lasse Riutamaa, tenori, ja Ilkka Paananen, piano).
@@ -40,13 +39,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-10T07:10:00+02:00'
         end_time: '2025-03-10T07:59:59+02:00'
+        description: |-
+          Verdi: Alkusoitto oopp. La Traviata (Berliinin filharmonikot/Claudio Abbado).
+
+          Skotl. kansansävelmä (sov. Parkin): Scarborough fair (Sheku Kanneh-Mason, sello, ja Plinio Fernandes, kitara).
+
+          J. S. Bach: Allegro cembalokonsertosta 4 A-duuri (Angela Hewitt, piano, ja Australian kamariork./Richard Tognetti).
+
+          Whitacre: The Seal lullaby (Voces8 ja Lavinia Meijer, harppu).
+
+          Korngold: Der Schneemann, osia balettipantomiimista (Linzin Bruckner-ork./Caspar Richter). 
+
+          W.A. Mozart: Ave verum corpus (Bryn Terfel, baritoni, London Voices, ja Lontoon SO/Barry Wordsworth).
+
+          Faure: Berceuse (Andreas Brantelid, sello, ja Bengt Forsberg, piano).
+
+          Grieg: Alkusoitto sarjasta orkesterille Sigurd Jorsalfar op. 56 näytelmämusiikista (Kölnin radion SO/Eivind Aadland).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-10T08:00:00+02:00'
         end_time: '2025-03-10T08:10:00+02:00'
       - title: Ykkösaamu
         start_time: '2025-03-10T08:10:00+02:00'
         end_time: '2025-03-10T09:00:00+02:00'
-        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-10T09:00:00+02:00'
         end_time: '2025-03-10T09:05:00+02:00'
@@ -84,6 +99,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-10T11:57:00+02:00'
         end_time: '2025-03-10T12:00:00+02:00'
+        description: |
+          Ote Eino Tainan romaanista Se laajenee (Avain, 2024)
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-03-10T12:00:00+02:00'
@@ -157,7 +174,6 @@ data:
         end_time: '2025-03-10T19:35:00+02:00'
         description: |
           Ei ole sattumaa, että kaikenlaisista ja -kokoisista suomalaisista kaupoista löytyy valtavan kokoiset karkkihyllyt. Konseptikehityksen johtaja Katja Tapio S-ryhmästä kertoo, millä perusteilla parhaat myyntipaikat jaetaan ja mitä karkki kaupoille merkitsee. Verkkokauppa.comin markkinointi- ja viestintäpäällikkö Lauri Kutila paljastaa, mikä on oudoin kellonaika massiivisille karkkitilauksille, ja lisäksi vieraillaan Tampereella kaupassa, josta saa tavallisuudesta poikkeavia karamellejä. Ohjelman toimittaa Jani Halme.
-        series: Suuri karkkipodi
       - title: Musiikkikamari
         start_time: '2025-03-10T19:35:00+02:00'
         end_time: '2025-03-10T19:57:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:48.112483+00:00'
+  generated_at: '2025-03-01T02:30:30.458566+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -158,13 +158,39 @@ data:
         end_time: '2025-03-18T19:00:00+02:00'
         description: |-
           Kirkkoherra Timo Tynkkynen, Ortodoksinen kirkko, Lappeenranta
-        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-18T19:00:00+02:00'
         end_time: '2025-03-18T19:02:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'What would Samira do: As a muslim girl'
         start_time: '2025-03-18T19:02:40+02:00'
         end_time: '2025-03-18T19:23:00+02:00'
+        description: |-
+          Samira tekee videon miten islam on oikeasti naisten puolella, ja tiktok räjähtää. Audiodraamasarja, osa 5/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Ibrahim Manza, Hegy Tuusvuori, Yasmin Ahsanullah
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
+      - title: 'What would Samira do: Seksipositiivinen uskonto'
+        start_time: '2025-03-18T19:23:00+02:00'
+        end_time: '2025-03-18T19:45:00+02:00'
+        description: |-
+          Samira uskaltaa avautua vanhemmilleen, ja tekee videon islamin seksipositiivisuudesta. Audiodraamasarja, osa 6/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Ibrahim Manza, Yasmin Ahsanullah, Sara Salmani, Moona Ranta
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
       - title: 'Suuren meriseikkailun jäljillä: Etelämantereen ylityksestä tulee selviytymistaistelu jäällä ja merellä'
         start_time: '2025-03-18T20:00:00+02:00'
         end_time: '2025-03-18T20:19:20+02:00'

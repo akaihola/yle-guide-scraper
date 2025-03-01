@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:49.575475+00:00'
+  generated_at: '2025-03-01T02:30:32.513375+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -22,7 +22,6 @@ data:
         end_time: '2025-03-25T06:59:59+02:00'
         description: |-
           Artikkelitoimittaja Jussi Rytkönen, Tuusula
-        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-25T07:00:00+02:00'
         end_time: '2025-03-25T07:10:00+02:00'
@@ -97,7 +96,6 @@ data:
       - title: Viikon luontoääni
         start_time: '2025-03-25T18:30:00+02:00'
         end_time: '2025-03-25T18:35:00+02:00'
-        series: Viikon luontoääni
       - title: Hartaita säveliä
         start_time: '2025-03-25T18:35:00+02:00'
         end_time: '2025-03-25T18:50:00+02:00'
@@ -106,12 +104,21 @@ data:
         end_time: '2025-03-25T19:00:00+02:00'
         description: |-
           Pastori Maarit Laamanen, Metodistikirkko, Pori
-      - title: 'Radioteatteri esittää:'
+      - title: 'What would Samira do: Dopamiini'
         start_time: '2025-03-25T19:02:40+02:00'
         end_time: '2025-03-25T19:23:00+02:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-03-25T19:23:00+02:00'
-        end_time: '2025-03-25T19:45:00+02:00'
+        description: |
+          Samira lähtee treffeille Ipin kanssa ja joutuu tunnustelemaan mitä oikeasti haluaa. Audiodraamasarja, osa 7/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Wisam Elfadl
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
       - title: 'Suuren meriseikkailun jäljillä: Toinen maailmansota vie suomalaisen merimiehen Australian vankileirille'
         start_time: '2025-03-25T20:00:00+02:00'
         end_time: '2025-03-25T20:19:20+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:43.472091+00:00'
+  generated_at: '2025-03-01T02:30:26.558572+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-03T08:10:00+02:00'
         end_time: '2025-03-03T09:00:00+02:00'
+        description: |-
+          Miten Euroopan puolustuskykyä pitäisi kehittää suhteessa Natoon? Keskustelemassa akatemiatutkija Timo Miettinen Helsingin yliopistosta sekä johtava tutkija Charly Salonius-Pasternak Ulkopoliittisesta instituutista. Lähetyksessä kuullaan myös tuoreimmat uutiset toimittaja Kirsi Crowleylta Lontoosta, missä Euroopan johtajat ovat olleet sunnuntaina koolla.
+
+          Lähi-idän aselevon toisen vaiheen on määrä alkaa viikonloppuna. Mikä on tilanne Lähi-idässä nyt? Puhelimessa Ulkopoliittisen instituutin vanhempi tutkija Timo R. Stewart.
+
+          Mistä Suomeen saadaan talouskasvua? Keskustelemassa kansanedustajat Sakari Puisto (ps.), Ville Valkonen (kok.), Markus Lohi (kesk.), Laura Meriluoto (vas.).
+
+          Juontajana Atte Uusinoka, toimittajina Anssi Väisänen ja Rasmus Montonen, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-03T09:00:00+02:00'
         end_time: '2025-03-03T09:05:00+02:00'
@@ -123,7 +132,7 @@ data:
         description: |
           Pankkihistoriaa konttorista kännykkään - vieraana Kukka-Maaria Nummi
         series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Monteverdi toimii - miksi?'
         start_time: '2025-03-03T11:00:00+02:00'
         end_time: '2025-03-03T11:57:00+02:00'
         description: |
@@ -132,6 +141,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-03T11:57:00+02:00'
         end_time: '2025-03-03T12:00:00+02:00'
+        description: |
+          Ote Johanna Kukan ja Pekka Saurin kirjasta Ihmisyyden rajoilla.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-03-03T12:00:00+02:00'
         end_time: '2025-03-03T12:10:00+02:00'
@@ -215,14 +227,14 @@ data:
       - title: Uutispodcast
         start_time: '2025-03-03T17:10:00+02:00'
         end_time: '2025-03-03T17:34:20+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Ukrainan presidentti Volodymyr Zelenskyi vieraili perjantaina Valkoisessa talossa allekirjoittaakseen mineraalisopimuksen Yhdysvaltojen kanssa. Millaisesta pelistä ja politiikasta mineraalisopimus kertoo? Sami Lindforsin vieraana Ylen ulkomaantoimittaja Esko Varho.
+        series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Päiväunet päiväntasaajalla'
         start_time: '2025-03-03T17:35:00+02:00'
         end_time: '2025-03-03T18:34:20+02:00'
         description: |
           Trooppinen rintama lähestyy Keinuvaa taloa. Odotettavissa miellyttävän lämmintä musiikkia eteläamerikkalaiseen tyyliin: choroa, forróa, joropoa, bossaa ja cumbiaa. Esittäjinä suomalaiset ja eurooppalaiset muusikot ja laulajat, joiden motiiviksi arvellaan kaukokaipuuta. Toimittajana Mika Kauhanen.
-        series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-03-03T18:35:00+02:00'
         end_time: '2025-03-03T18:50:00+02:00'

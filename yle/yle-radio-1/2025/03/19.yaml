@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-02-28T02:28:48.320438+00:00'
+  generated_at: '2025-03-01T02:30:30.661210+00:00'
   git:
     branch: main
-    commit: 0d641eb515ca2f9fa9ff7b7f2dbc2a8e68616e12
-  data_hash: c9dc15a4d42af5e000ec872c5328db183d532679994da664da7e6e330162a826
+    commit: 590522eee4432f27c53951973933ea2b1eb13925
+  data_hash: 2085565968f2bbe67af113809e8684da1b9c77b891ae70fb0d7d6b9745fe2151
 data:
   Yle Radio 1:
     programmes:
@@ -42,6 +42,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-19T09:05:40+02:00'
         end_time: '2025-03-19T09:58:00+02:00'
+        series: Muistojen bulevardi
       - title: Havaintoja muutoksesta
         start_time: '2025-03-19T10:00:00+02:00'
         end_time: '2025-03-19T10:50:00+02:00'
@@ -106,7 +107,6 @@ data:
         end_time: '2025-03-19T18:30:00+02:00'
         description: |
           Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-        series: Laura Korhosen Jazzklubi
       - title: Kotimainen konsertti
         start_time: '2025-03-19T18:30:00+02:00'
         end_time: '2025-03-19T20:30:00+02:00'
@@ -139,7 +139,7 @@ data:
         end_time: '2025-03-19T21:34:30+02:00'
       - title: Satu Kivelä
         start_time: '2025-03-19T21:35:00+02:00'
-        end_time: '2025-03-19T22:29:30+02:00'
+        end_time: '2025-03-19T22:25:00+02:00'
       - title: 'Radioteatteri esittää:'
         start_time: '2025-03-19T22:30:00+02:00'
         end_time: '2025-03-19T23:12:30+02:00'
@@ -148,4 +148,3 @@ data:
         end_time: '2025-03-20T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
