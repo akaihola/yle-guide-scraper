@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-03T02:29:32.448080+00:00'
+  generated_at: '2025-03-04T02:29:42.386358+00:00'
   git:
     branch: main
-    commit: 5e59fb0ea14bf4c34c1037fd3c43c35b485ae6fc
-  data_hash: 7442950d649d3bfd90bb1f99b5db5ee9e6680428e6b4e03665ec5a7c2cbc108d
+    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
+  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-14T07:10:00+02:00'
         end_time: '2025-03-14T07:59:59+02:00'
+        description: |
+          W.A. Mozart: Menuetti - Trio sinfoniasta n:o 39 Es-duuri (Mozart Akademie Amsterdam/Jaap ter Linden).
+
+          Albeniz: Capricho catalan (Janne Lehtinen, kitara).
+
+          Bonis: Carillon mystique (Myriam Barbaux-Cohen, piano).
+
+          Ponce: Estrellita (Ismo Eskelinen, kitara).
+
+          Elgar (sov. Cassidy): Aamulaulu (Brodsky-kvartetti). 
+
+          Kokkonen: Preludietto sarj. Pielavesi (Eveliina Sumelius-Lindblom, piano).
+
+          Fuentes (sov. Maistre): La Bikina (Rolando Villazon, tenori, ja Xavier de Maistre, harppu).
+
+          Madetoja: Aamu (Oulun KO/Arvo Volmer). 
+
+          Genin: Muunnelmia espanjalaisesta teemasta (Claude Delangle, alttosaksofoni, ja Odile Delangle, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-14T08:00:00+02:00'
         end_time: '2025-03-14T08:10:00+02:00'

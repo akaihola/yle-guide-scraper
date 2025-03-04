@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-03T02:29:29.850029+00:00'
+  generated_at: '2025-03-04T02:29:24.790652+00:00'
   git:
     branch: main
-    commit: 5e59fb0ea14bf4c34c1037fd3c43c35b485ae6fc
-  data_hash: 7442950d649d3bfd90bb1f99b5db5ee9e6680428e6b4e03665ec5a7c2cbc108d
+    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
+  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,31 @@ data:
         start_time: '2025-03-03T23:40:00+02:00'
         end_time: '2025-03-04T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Svendsen: Oktetto jousille A-duuri (Arve Tellefsen, Leif Jörgensen, Trond Öyen, ja Peter Hindar, viulu, sekä Johannes Hindar ja Sven Nyhus, alttoviulu, ja Levi Hindar ja Hans Christian Hauge, sello).
+
+          00:17 Smyth: The Prison (Vankila) (Sarah Brailey, sopraano, ja Dashon Burton, bassobaritoni, sekä Experiential-kuoro ja -ork./James Blachly).
+
+          01:22 Beethoven: Sonaatti sellolle ja pianolle n:o 1 F-duuri (Pierre Fournier ja Friedrich Gulda).
+
+          01:45 Raff: Otello, konserttialkusoitto D-duuri (Ranskankielisen Sveitsin ork./Neeme Järvi).
+
+          01:54 Sonninen: Seitsemän veljestä (RSO/Okko Kamu).
+
+          02:09 Magnard: Jousikvartetto e-molli (Élysée-kvartetti).
+
+          02:52 Brahms: Sinfonia n:o 1 c-molli (Pittsburghin SO/Marek Janowski).
+
+          03:37 Bertini: Sekstetto pianolle ja jousille E-duuri (Grand sextuor) (Sestetto Classico).
+
+          04:08 Byström: Air russe variee (Venäläinen sävelmä ja muunnelmia) (Anna Kuvaja, piano). 
+
+          04:21 Glazunov: Espanjalainen serenadi (Steven Isserlis, sello, ja Euroopan kamariork./John Eliot Gardiner).
+
+          04:27 Anonyymi - Monteverdi: Vespro della Beata Vergine (Maria-vesper) (Janice Chandler, sopraano, Richard Croft, tenori, Lynton Atkinson, tenori, Brad Diamond, tenori, Christopheren Nomura, baritoni, Jeff Mattsey, baritoni, ja Boston Baroque/Martin Pearlman).  
+
+          06:03 Telemann: Kvartetto huilulle, viululle, viola da gamballe ja continuolle n:o 1 D-duuri (Pariisilaiskvartetto) (Amsterdamin Quadro-yhtye).
+
+          06:19 Zipoli: Partita kosketinsoittimelle a-molli (Giovanni Nesi, piano).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-04T06:30:50+02:00'
@@ -63,6 +87,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-04T08:10:00+02:00'
         end_time: '2025-03-04T09:00:00+02:00'
+        description: |-
+          Puolustusteollisuuden tulevaisuus Suomessa. Minkälaista puolustusteollisuutta Suomi voisi lisätä ja missä aikataulussa? Keskustelemassa Puolustus-, ilmailu-, avaruus- ja turvallisuusteollisuuden etujärjestön pääsihteeri Tuija Karanko ja Puolustusvoimien sotatalouspäällikkö, kenraaliluutnantti Jari Mikkonen.
+
+          Ylen palkkaerokone paljastaa millaiset naisten ja miesten väliset palkkaerot oikeasti ovat. Tuloksia avaa lisää taloustoimittaja Heikki Valkama.
+
+          Hallitus kokoontuu tänään ja huomenna pohjustamaan huhtikuussa pidettävää puoliväliriihtä. Millaisissa aselelmissa sen osalta ollaan ja mitkä tulevat olemaan riihen kipukohdat? Aihetta käsittelevät ekonomisti Vesa Vihriälä ja Uuden talousajattelun keskuksen toiminnanjohtaja Lauri Holappa.
+
+          Kunta- ja aluevaalien ehdokkaiden ilmoittaminen on päättynyt. Mitä ehdokaslistat kertovat tulevista vaaleista?  Analyysinsä aiheesta kertoo Turun yliopiston poliittisen historian professori Markku Jokisipilä.
+
+          Juontajana Mira Stenström. Toimittajina Roosa Kajander ja Mikko Haapanen. Tuottajana Justus Laitinen. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-04T09:00:00+02:00'
         end_time: '2025-03-04T09:05:00+02:00'
@@ -96,12 +131,32 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Maurice Ravel, sveitsiläinen kelloseppä?'
         start_time: '2025-03-04T11:00:00+02:00'
         end_time: '2025-03-04T11:57:00+02:00'
-        description: |
+        description: |+
           Miksi Igor Stravinsky sanoi, että Maurice Ravel oli sveitsiläinen kelloseppä?
           Upeiden orkesterifreskojen ja aistikkaan kamarimusiikin säveltäjä Ravel teki myös miniatyyrejä.
           Hän oli loistava säveltäjä, joka ei koskaan voittanut Ranskan tavoitelluinta sävellyspalkintoa.
 
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Maurice Ravel:
+
+          Jeux d'eau, Suihkulähde (Martha Argerich, piano).
+
+          Jousikvartetto F-duuri, osa 4. Vif et agité (Belcea-kvartetti).
+
+          Hanhiemo-sarja: 
+          Pavana Prinsessa Ruususelle ja Peukaloinen (Pascal Rogé ja  Ami Rogé, piano).
+          Pavana Prinsessa Ruususelle, Peukaloinen ja Pikku rumilus, posliininukkien keisarinna (Rotterdamin filharmoninen orkesteri/Yannick Nézet-Séguin).
+
+          Sonaatti viululle ja pianolle G-duuri, osa 2. Blues (Leila Josefowicz, viulu, ja John Novacek, piano).
+
+          Espanjalainen rapsodia, osa 4. Feria (Berliinin filharmonikot/Pierre Boulez).
+
+
+
+
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-04T11:57:00+02:00'
@@ -121,9 +176,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-04T12:55:00+02:00'
         end_time: '2025-03-04T13:00:00+02:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Totuus Trumpin ja Zelenskyin välirikosta'
         start_time: '2025-03-04T13:00:00+02:00'
         end_time: '2025-03-04T13:30:00+02:00'
+        description: |-
+          Mitä todella tapahtui presidentti Trumpin ja Zelenskyin välillä viime perjantaina Valkoisessa talossa? Miksi Trump ja varapresidentti J.D. Vance hyökkäsivät yksissä tuumin Ukrainan presidentin kimppuun? Oval Officen dramaattisia tapahtumia analysoivat Helsingin yliopiston poliittisen historian professori Juhana Aunesluoma ja Nordic West Officen toimitusjohtaja Risto E.J. Penttilä. Toimittajana on Tapio Pajunen.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-04T13:30:00+02:00'
         end_time: '2025-03-04T15:00:00+02:00'
@@ -162,7 +220,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-04T16:10:00+02:00'
         end_time: '2025-03-04T16:59:00+02:00'
-        description: |-
+        description: |
           I. Hannikainen: Mäenlasku (Greta Fougstedt, sopraano, ja Nils-Eric Fougstedt, piano).
 
           Prokofjev (sov. Fichtenholz): Talven haltijatar bal. Tuhkimo (Lydia Mordkovitch, viulu, ja Nicholas Walker, piano). 
@@ -192,7 +250,8 @@ data:
         start_time: '2025-03-04T17:10:00+02:00'
         end_time: '2025-03-04T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Vahvistamaton ja perätönkin kokemustarina nousee some-jakojen siivittämänä nopeasti ihmisten tietoisuuteen. Yksi esimerkki tällaisesta on laajasti huomiota herättänyt Anteeksi Pekka -kampanja. Mihin huijaustarinoiden vetovoima perustuu? Reetta Röngän vieraina dosentti, yliopistonlehtori Maria Mäkelä ja Ylen MOT:n toimittaja Jouni Munukka.
+        series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-03-04T17:35:00+02:00'
         end_time: '2025-03-04T18:30:00+02:00'
@@ -246,7 +305,7 @@ data:
         end_time: '2025-03-04T19:02:00+02:00'
       - title: 'Radioteatteri esittää: What would Samira do: Neitsytkeissi'
         start_time: '2025-03-04T19:02:40+02:00'
-        end_time: '2025-03-04T19:23:00+02:00'
+        end_time: '2025-03-04T19:21:40+02:00'
         description: |-
           Samira ja ystävät Hani ja Viivi valmistuvat lukiosta. Tänään mennään klubille! Uusi audiodraamasarja alkaa. Osa 1/10.
 
@@ -258,9 +317,10 @@ data:
           Dramaturgi: Paula Salminen
           Tuottaja: Elina Ylä-Mononen
           Tilaaja: Matti Kajander, Yle Draama 2024
-      - title: 'What would Samira do: Tekopyhä muslimi'
-        start_time: '2025-03-04T19:23:00+02:00'
-        end_time: '2025-03-04T19:45:00+02:00'
+        series: What would Samira do
+      - title: 'Radioteatteri esittää: What would Samira do: Tekopyhä muslimi'
+        start_time: '2025-03-04T19:21:40+02:00'
+        end_time: '2025-03-04T19:37:40+02:00'
         description: |-
           Samira toipuu illan flirttailusta ja neitsytvideo boomaa. Audiodraamasarja, osa 2/10.
 
@@ -324,14 +384,15 @@ data:
       - title: Politiikkaradio
         start_time: '2025-03-04T21:05:00+02:00'
         end_time: '2025-03-04T21:34:30+02:00'
-      - title: Sari Valto
-        start_time: '2025-03-04T21:35:00+02:00'
-        end_time: '2025-03-04T22:29:30+02:00'
+      - title: 'Sari Valto: Entä jos en jahtaakaan unelmia?'
+        start_time: '2025-03-04T21:35:13+02:00'
+        end_time: '2025-03-04T22:29:14+02:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+          Mikä on unelmien merkitys elämässä? Meitä usein kehotetaan jahtaamaan unelmiamme. Mutta entä jos niitä unelmia ei ole, vaan elämä tuntuu ihan hyvältä ilman palavia unelmiakin? Keskustelijoina viestinnän asiantuntija Katja Lahti sekä motivaatiovalmentaja Johanna Huhtamäki.
+        series: Sari Valto
       - title: Miia Krause
-        start_time: '2025-03-04T22:30:22+02:00'
-        end_time: '2025-03-04T23:16:30+02:00'
+        start_time: '2025-03-04T22:30:15+02:00'
+        end_time: '2025-03-04T23:16:23+02:00'
         description: |
           Talousrikoksista tuomittu ravintoloitsija Seppo "Sedu" Koskinen kertoo millainen oli nousu pikkupaikkakunnalta yökerhomoguliksi -ja kuinka nopea romahdus tapahtui.
         series: Miia Krause

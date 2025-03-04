@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-03T02:29:30.347648+00:00'
+  generated_at: '2025-03-04T02:29:33.070069+00:00'
   git:
     branch: main
-    commit: 5e59fb0ea14bf4c34c1037fd3c43c35b485ae6fc
-  data_hash: 7442950d649d3bfd90bb1f99b5db5ee9e6680428e6b4e03665ec5a7c2cbc108d
+    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
+  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
 data:
   Yle Radio 1:
     programmes:
@@ -120,6 +120,7 @@ data:
         end_time: '2025-03-06T15:55:00+02:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-06T15:55:00+02:00'
         end_time: '2025-03-06T15:58:00+02:00'
@@ -206,24 +207,36 @@ data:
       - title: Politiikkaradio
         start_time: '2025-03-06T21:05:00+02:00'
         end_time: '2025-03-06T21:34:30+02:00'
-      - title: Suuri karkkipodi
+      - title: 'Suuri karkkipodi J7: Karkkipussi on teknologisen kehityksen tulos'
         start_time: '2025-03-06T21:35:00+02:00'
-        end_time: '2025-03-06T22:08:00+02:00'
-        description: |2+
-
+        end_time: '2025-03-06T22:10:02+02:00'
+        description: |
+          Karkkipusseihin liittyy monia ärsyttäviä piirteitä. Ne rapisevat, aukeavat hankalasti eikä pusseihin saada ikinä tasaista määrää kaikkia eri karkkeja. Mutta mikään näistä ominaisuuksista ei ole vahinko, sillä karkkien pakkaukset ovat samaan aikaan sekä markkinoinnin että elintarviketeknologian voimannäyttöjä. Vieraana vanhempi yliopistonlehtori Hanna Koivula. Ohjelman toimittaa Jani Halme ja sen on Ylelle tuottanut Jaksomedia.
+        series: Suuri karkkipodi
       - title: Musiikkikamari
-        start_time: '2025-03-06T22:08:00+02:00'
+        start_time: '2025-03-06T22:10:02+02:00'
         end_time: '2025-03-06T22:30:00+02:00'
         description: |2+
 
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        series: Musiikkikamari
+      - title: 'Radioteatteri esittää: Verinen lyhty, osa 9/12.'
         start_time: '2025-03-06T22:30:30+02:00'
-        end_time: '2025-03-06T22:49:30+02:00'
+        end_time: '2025-03-06T22:51:14+02:00'
+        description: |
+          Edellisessä jaksossa Heikkilän tulevan vävyn, Matti Peltolan, murhaajasta ei ole vieläkään saatu täyttä varmuutta. 
+
+          Kirjoittanut Jalmari Finne. Ohjaus: Antero Alpola.
+
+          Rooleissa:
+          Hillevi Lagerstam, Esko Roine, Seppo Laine ja Lauri Kuosmanen. 
+          Uusinta vuodelta 1979.
+        series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-03-06T23:00:00+02:00'
-        end_time: '2025-03-06T23:56:30+02:00'
+        start_time: '2025-03-06T22:56:31+02:00'
+        end_time: '2025-03-06T23:52:33+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Yöklassinen
         start_time: '2025-03-07T00:00:00+02:00'
         end_time: '2025-03-07T06:30:00+02:00'
