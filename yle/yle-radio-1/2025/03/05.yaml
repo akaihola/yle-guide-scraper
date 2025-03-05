@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-04T02:29:31.536254+00:00'
+  generated_at: '2025-03-05T02:29:03.837057+00:00'
   git:
     branch: main
-    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
-  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
+    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
+  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-05T08:10:00+02:00'
         end_time: '2025-03-05T09:00:00+02:00'
+        description: |-
+          Yhdysvaltain presidentti Donald Trump pitää ensimmäisen puheensa kongressille. Miten Trump perustelee Ukrainan tuen jäädyttämistä kotiyleisölleen? Vieraina Helsingin yliopiston professori Mikko Saikku ja LCC International Universityn professori Markku Ruotsila. Yhdysvalloissa oleva toimittaja Juri von Bonsdorff raportoi Washingtonista Trumpin puheen saamasta vastaanotosta.
+
+          Tanskan kuninkaallisia ja ministereitä on vierailulla Suomessa. Minkälaista keskustelua Tanskassa on käyty Pohjoismaiden yhteistyöstä? Toimittaja Karoliina Kantola raportoi Kööpenhaminasta . Pohjoismaisesta yhteistyöstä ovat studiossa keskustelemessa historian professori Henrik Meinander Helsingin yliopistosta ja puolustusministeriön osastopäällikkö Janne Kuusela.
+
+          Katsomusaineiden kehittämisryhmän loppuraportti julkaistaan. Minkälaisia muutoksia työryhmä suosittaa? Puhelimessa Opetushallituksen opetusneuvos Outi Raunio-Hannula.
+
+          Ylen alue- ja kuntavaalikoneet aukeavat. Ylen politiikka- ja yhteiskuntatoimituksen tuottaja Ville Laakso kertoo tarkemmin, millaisia vaalikoneet ovat.
+
+          Juontajana Atte Uusinoka, toimittajina Mikko Haapanen, Janette Leino ja Roosa Kajander, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Muistojen bulevardi
         start_time: '2025-03-05T09:05:40+02:00'
         end_time: '2025-03-05T09:58:00+02:00'
@@ -107,11 +118,12 @@ data:
           Dylan: Like a rolling stone (Bob Dylan).
           Ellington/Tizol: Caravan (Wes Montgomery).
         series: Muistojen bulevardi
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Hyvinvointivaltio kuuluu kaikille'
         start_time: '2025-03-05T10:00:00+02:00'
         end_time: '2025-03-05T10:50:00+02:00'
-        description: |-
-          Yhteiskunnalliset ja kulttuuriset muutokset tapahtuvat usein pikkuhiljaa. Kunnes havahdumme kysymään kollektiivisesti: Mitä tämä tarkoittaa? Miten tässä näin kävi? Miltä tulevaisuus vaikuttaa? Toimittaja Satu Kivelä etsii yhdessä vieraidensa kanssa merkityksiä, jotka voivat auttaa ymmärtämään jatkuvaa muutosta.
+        description: |+
+          Pohjoismainen hyvinvointivaltio on läsnä ihmisten elämässä ja arjessa monin eri tavoin. Neuvolasta hammaslääkäriin ja koulusta kirjastoon. Toimittaja Satu Kivelä pohtii apulaisproffesori Hanna Ylöstalon ja professori Juho Saaren kanssa hyvinvointivaltion paradigman muutoksia, instituutio-onnea ja hyvinvointivaltion tulevaisuuksia. 
+
         series: Havaintoja muutoksesta
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-05T10:50:00+02:00'
@@ -140,20 +152,32 @@ data:
 
           Tiina Raevaara on nyt Kalle Haatasen vieraana.
         series: Kalle Haatanen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kaapelit on poikki ja Trump irti, mutta missä on Orpo?'
         start_time: '2025-03-05T13:00:00+02:00'
         end_time: '2025-03-05T13:30:00+02:00'
+        description: |
+          Kaapelit katkeilevat Itämerellä, Trump kiristää jopa liittolaisiaan ja meillä ihmetellään, miksi Stubb edustaa Suomea yksin tärkeissä kokouksissa ja Orpo on poissa.
+          Ulkopolitiikan veteraanit ruotivat Politiikkaradiossa kriisien täyttämää aikaa ja valtiojohdon vallanjakoa.
+          Studiossa entiset ulkoministerit Erkki Tuomioja (sd.) ja Timo Soini (ex-ps, ex-sin) sekä eduskunnan ulkoasiainvaliokunnan pitkäaikainen johtaja, ex-ulkomaankauppaministeri Pertti Salolainen (kok.). Toimittajana on Antti Pilke. Suora lähetys.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-05T13:30:00+02:00'
         end_time: '2025-03-05T15:00:00+02:00'
         description: |
           Iltapäivän musiikkikattauksessa populaarimusiikin helmiä, etnoa ja kevyttä jazzia. N. klo 14 tapaamme tanssiopettaja Tuomas Hyvösen, joka rohkaisee balettiharrastukseen, vaikka sitä ei lapsena olisi harrastanutkaan. N. klo 14:30 konserttipianisti Erkki Korhonen kertoo suhteestaan Ravelin musiikkiin. Mia Lahti juontaa.
         series: Radio 1:n iltapäivä
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Lautasella ravintolakulttuuri: Mitä ravintola-alalle kuuluu ja miltä tuleva näyttää? '
         start_time: '2025-03-05T15:02:00+02:00'
         end_time: '2025-03-05T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Suomalainen ravintolakulttuuri on ollut isossa muutoksessa, kun erilaisia paikkoja syntyy aivan eri tahtiin kuin aiempina vuosikymmeninä. Toki kilpailu on kovaa ja nykymallin mukaan ravintoloitsijoiden täytyy keksiä uusia temppuja, kun kokeilunhaluinen ravintolassa kävijä haluaa uusia elämyksiä. 
+
+          Ihmiset ovat myös oppineet syömään ulkona useammin ja ravintoloista on tullut arkipäivän kohtaamispaikkoja, joissa näpätään myös someen kuva annoksesta.Toki tähänkin ilmiöön liittyy kuplautumista ja paikkakuntaeroja. 
+
+          Mitä ihmiset haluavat nykyään ravintolakokemuksilta? Mikä tekee menestyneen ravintolan haastavalla alalla? Mikä on nyt muodissa ja miltä tuleva näyttää? 
+
+          Ravintola-alasta Kulttuuriykkösessä keskustelevat ravintola Nokan ravintoloitsija ja keittiöpäällikkö Ari Ruoho, ravintolakriitikko Jouni K. Kemppainen sekä Helsingin yliopiston ruokakulttuurin professori Taru Lindblom.Toimittaja on Reetta Arvila.  
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-05T15:55:00+02:00'
         end_time: '2025-03-05T15:58:00+02:00'
@@ -193,7 +217,8 @@ data:
         start_time: '2025-03-05T17:10:00+02:00'
         end_time: '2025-03-05T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Donald Trump pyrkii kovin keinoin painostamaan Ukrainan Zelenskyiä taipumaan mineraalisopimukseen ja rauhanneuvotteluihin Venäjän kanssa. Valtionpäämiesten edellinen tapaaminen päättyi katastrofaalisesti, joten millä tavalla sopua yritetään kulissien takana hieroa? Ovatko diplomatian säännöt Trumpin aikana muuttumassa? Sami Lindforsin vieraana Suomen entinen Moskovan-suurlähettiläs Hannu Himanen.
+        series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Uusia julkaisuja, uusia tuttavuuksia'
         start_time: '2025-03-05T17:35:00+02:00'
         end_time: '2025-03-05T18:35:00+02:00'
@@ -243,9 +268,36 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2025-03-05T21:35:00+02:00'
         end_time: '2025-03-05T22:25:00+02:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-03-05T22:30:00+02:00'
-        end_time: '2025-03-05T23:12:30+02:00'
+      - title: 'Radioteatteri esittää: What would Samira do: Neitsytkeissi'
+        start_time: '2025-03-05T22:34:00+02:00'
+        end_time: '2025-03-05T22:51:12+02:00'
+        description: |-
+          Samira ja ystävät Hani ja Viivi valmistuvat lukiosta. Tänään mennään klubille! Uusi audiodraamasarja alkaa. Osa 1/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
+      - title: 'Radioteatteri esittää: What would Samira do: Tekopyhä muslimi'
+        start_time: '2025-03-05T22:51:12+02:00'
+        end_time: '2025-03-05T23:05:41+02:00'
+        description: |-
+          Samira toipuu illan flirttailusta ja neitsytvideo boomaa. Audiodraamasarja, osa 2/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Yasmin Ahsanullah
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Tilaaja: Matti Kajander, Yle Draama 2024
+        series: What would Samira do
       - title: Yöklassinen
         start_time: '2025-03-05T23:40:00+02:00'
         end_time: '2025-03-06T06:30:00+02:00'

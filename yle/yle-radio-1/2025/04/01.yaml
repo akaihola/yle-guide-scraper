@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-04T02:29:50.216952+00:00'
+  generated_at: '2025-03-05T02:29:13.122941+00:00'
   git:
     branch: main
-    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
-  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
+    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
+  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
 data:
   Yle Radio 1:
     programmes:
@@ -97,6 +97,36 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-01T19:00:00+03:00'
         end_time: '2025-04-01T19:02:00+03:00'
+      - title: 'What would Samira do: Break ups and make ups'
+        start_time: '2025-04-01T19:02:40+03:00'
+        end_time: '2025-04-01T19:22:00+03:00'
+        description: |-
+          Milloin on OK luovuttaa ystävän suhteen, jos yhdessäolo ei tunnu hyvältä? Audiodraamasarja, osa 9/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Pablo Ounaskari, Hegy Tuusvuori, 
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Apulaistuottaja: Eveliina Solja
+          Tilaaja: Matti Kajander, Yle Draama 2024
+      - title: 'What would Samira do: What would Samira do'
+        start_time: '2025-04-01T19:22:00+03:00'
+        end_time: '2025-04-01T19:40:00+03:00'
+        description: |-
+          Samiran klubilakko on vihdoin ohi, ja tänään juhlitaan. Klubilla Samiralle alkaa selvitä, mitä hänen pitäisi tehdä. Audiodraamasarja, osa 10/10.
+
+          Käsikirjoitus: Amira Rchidi, Pipsa Enqvist, Amaal Ali
+          Rooleissa: Amira Rchidi, Amaal Ali, Denisa Snyder, Zakaria Tawil, Yasmin Ahsanullah
+          Ohjaus: Pipsa Enqvist
+          Äänisuunnittelu: Jukka Herva
+          Säveltäjä: Vili Pääkkö
+          Dramaturgi: Paula Salminen
+          Tuottaja: Elina Ylä-Mononen
+          Apulaistuottaja: Eveliina Solja
+          Tilaaja: Matti Kajander, Yle Draama 2024
       - title: 'Suuren meriseikkailun jäljillä: Natsi-Saksa kaappaa suomalaisten hämärämiesten laivan'
         start_time: '2025-04-01T20:00:00+03:00'
         end_time: '2025-04-01T20:19:20+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-04T02:29:47.442783+00:00'
+  generated_at: '2025-03-05T02:29:10.672707+00:00'
   git:
     branch: main
-    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
-  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
+    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
+  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
 data:
   Yle Radio 1:
     programmes:
@@ -115,14 +115,16 @@ data:
         end_time: '2025-03-24T19:02:00+02:00'
       - title: 'Suuri karkkipodi J10: Myyttistä lakritsimattoa etsimässä'
         start_time: '2025-03-24T19:02:40+02:00'
-        end_time: '2025-03-24T19:35:00+02:00'
+        end_time: '2025-03-24T19:38:00+02:00'
         description: |
           Lakritsista on moneksi. Siitä tehdään metrilakua (jonka pituus ei ole metri), suklaakuorrutettuja palleroita ja vaikkapa piippuja, joiden myymistä muuten säädellään tarkemmin kuin minkään muun karkin. Lakritsitehtaan arjesta kertoo Halvan toimitusjohtaja Jean Karavokyros. Studiossa haastatellaan kahta herkkusuuta, jotka tarjoavat runsaasti näkemyksiä siitä, miten lakritsi ja muut namit kannattaa yhdistellä. Ohjelman toimittaa Jani Halme.
+        series: Suuri karkkipodi
       - title: Musiikkikamari
-        start_time: '2025-03-24T19:35:00+02:00'
+        start_time: '2025-03-24T19:38:00+02:00'
         end_time: '2025-03-24T19:57:00+02:00'
         description: |2+
 
+        series: Musiikkikamari
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-24T19:57:00+02:00'
         end_time: '2025-03-24T20:00:00+02:00'

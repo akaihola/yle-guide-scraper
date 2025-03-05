@@ -1,17 +1,38 @@
 metadata:
-  generated_at: '2025-03-04T02:29:43.473155+00:00'
+  generated_at: '2025-03-05T02:29:07.999737+00:00'
   git:
     branch: main
-    commit: 65307bc55e4a2f80ad82cb06a01e0bbc0988be03
-  data_hash: 4be09152601b8e38e288753b409b766eafeddcaae045d7b7e65ac5e32b8a4019
+    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
+  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-03-15T23:40:00+02:00'
         end_time: '2025-03-16T07:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Desprez: Le septiesme livre de chansons (Seitsemäs chansonien kirja) (Clément Janequin -yhtye/Dominique  Visse, kontratenori).
+
+          00:42 F.A. Philidor: Kvartetto n:o 5 C-duuri (Camerata Köln).
+
+          00:54 Schubert: Sinfonia n:o 8 C-duuri (Suuri C-duurisinfonia) (RSO/Jukka-Pekka Saraste).
+
+          01:48 P. Scharwenka: Arkadische Suite H-duuri (Gävlen SO/Christopher Fifield).
+
+          02:19 Sterkel: Sinfonia D-duuri op.35/1 (L' Arte del mondo/Werner Ehrhardt).
+
+          02:50 Händel: Sonaatti F-duuri (Robert Stallman, huilu, Edwin Swanborn, cembalo, ja Karl Bennion, sello). 
+
+          03:00 Schönberg: Gurrelieder (James McCracken, tenori, Jessye Norman, sopraano, Tatiana Troyanos, mezzosopraano, David Arnold, baritoni, Kim Scown, tenori, ja Werner Klemperer, puhe, sekä Tanglewoodin musiikkijuhlien kuoro ja Bostonin SO/Seiji Ozawa).
+
+          04:44 Offenbach: Concerto militaire (Sotilaskonsertto) (Jérôme Pernoo, sello, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          05:30 Beethoven: Jousikvartetto n:o 5 A-duuri (Emerson-kvartetti).
+
+          05:57 Weckmann: Es ist das Heil uns kommen her, koraalifantasia (Siegbert Rampe, urut).
+
+          06:28 Rameau: Sarja oopperabal. Les Fêtes de Polymnie (Polymnian juhlat) (Tempesta di Mare).
+        series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2025-03-16T07:00:00+02:00'
         end_time: '2025-03-16T07:02:05+02:00'
@@ -52,14 +73,15 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-16T11:00:00+02:00'
         end_time: '2025-03-16T11:57:00+02:00'
+        series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-16T12:00:00+02:00'
         end_time: '2025-03-16T12:05:00+02:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Elämää keskiajan linnoissa - vieraana Elise Pihlajaniemi'
         start_time: '2025-03-16T12:05:00+02:00'
         end_time: '2025-03-16T12:55:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Arkielämää keskiajan linnoissa - vieraana tietokirjailija, väitöskirjatutkija Elise Pihlajaniemi
         series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-16T12:55:00+02:00'
@@ -78,11 +100,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-16T14:50:00+02:00'
         end_time: '2025-03-16T15:00:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Lukemisen vallankumous'
         start_time: '2025-03-16T15:00:00+02:00'
         end_time: '2025-03-16T15:50:00+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Euroopassa oli 1700-luvun lopulta lähtien käynnissä lukemisen vallankumous. Markkinoille tuli yhä enemmän luettavaa ja uusi kirjallisuuden muoto, romaani toimi lukijoiden joukkoon lisää naisia ja työväkeä. Suomeen syntyivät ensimmäiset kirjakaupat ja yleiset kirjastot. 
+          Haastateltavat: tutkijat Heli Rantala, Ulla Ijäs ja Anu Koskivirta. Toimittaja: Virpi Väisänen.
+        series: Elävä historia
       - title: Viikon luontoääni
         start_time: '2025-03-16T15:50:00+02:00'
         end_time: '2025-03-16T15:55:00+02:00'
@@ -137,7 +161,6 @@ data:
         end_time: '2025-03-16T19:00:00+02:00'
         description: |-
           Äänitetty Kerava-salissa 14.9.2024.
-        series: Jazzklubi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-16T19:00:00+02:00'
         end_time: '2025-03-16T19:02:05+02:00'
@@ -181,5 +204,33 @@ data:
         start_time: '2025-03-16T23:40:00+02:00'
         end_time: '2025-03-17T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Shostakovitsh: Romanssi elok. Paarma (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
+
+          23:43 Zabel: Harppukonsertto c-molli (Emmanuel Ceysson ja Reininmaan ja Pfalzin valtiollinen FO/Hannu Lintu).
+
+          00:08 Arenski: Neljä kappaletta sellolle ja pianolle (Natalija Savinova ja Viktor Jampolski).
+
+          00:23 Grieg: Solveigin laulu ja kehtolaulu näyt. Peer Gynt (Elisabeth Grümmer, sopraano, ja Berliinin sinfonikot/ Hugo Diez).
+
+          00:32 Mayer: Sinfonia n:o 1 c-molli (Pohjois-Saksan radio-ork./Leo McFall).
+
+          01:07 Castelnuovo-Tedesco: Romancero gitano (RKK/Eric-Olof Söderström, sekä Timo Korhonen, kitara).
+
+          01:29 Visconti: Eternal breath (Jupiter-kvartetti ja Jasper-kvartetti).
+
+          01:41 Pasculli: Omaggio a Bellini (Kunnianosoitus Bellinille) (Omar Zoboli, englannintorvi, ja Giuliana Albisetti, harppu).
+
+          01:50 Brahms: Magelone-lauluja (Dietrich Fischer-Dieskau, baritoni, ja Svjatoslav Richter, piano).
+
+          02:48 W.A. Mozart: Pianosonaatit n:o 1 C-duuri, n:o 2 F-duuri ja n:o 3 B-duuri (Walter Gieseking).
+
+          03:27 Reinecke: Jousikvartetto n:o 1 Es-duuri (Reinhold-kvartetti).
+
+          03:54 Casella: Konsertto pianolle, viululle, sellolle ja orkesterille (Frank-Immo Zichner, Matthias Wollong, ja Danjuio Ishizaka, sekä Berliinin radion SO/Michael Sanderling).
+
+          04:22 Schubert: Fantasia C-duuri (Pamela Frank, viulu, ja Claude Frank, piano).
+
+          04:49 Chopin: Nokturnot n:ot 1-12 (Garrick Ohlsson, piano).
+
+          06:02 Bauldeweyn: Missa Inviolata integra et casta es (Beauty Farm).
         series: Syventävää klassista
