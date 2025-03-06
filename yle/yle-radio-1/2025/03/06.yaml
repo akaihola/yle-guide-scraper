@@ -1,17 +1,43 @@
 metadata:
-  generated_at: '2025-03-05T02:29:04.076347+00:00'
+  generated_at: '2025-03-06T02:29:23.403612+00:00'
   git:
     branch: main
-    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
-  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
+    commit: 589f23d07da22b9dcb050047a96ac414c4c7dfc9
+  data_hash: 1f5c6fce93f58f931b560e4fd6dbe7fef6a9ab62df19f4cc91bc7589b2a0e308
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-03-05T23:40:00+02:00'
         end_time: '2025-03-06T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          W.A. Mozart: Klarinettikonsertto A-duuri (Kari Kriikku, basettiklarinetti, ja Tapiola Sinfonietta/John Storgårds).
+
+          00:09 Kuula: Meren virsi (Dominante/Seppo Murto).
+
+          00:21 Beethoven: Sonaatti sellolle ja pianolle n:o 5 D-duuri (Pierre Fournier ja Friedrich Gulda).
+
+          00:41 C. Schumann: Gondoliera (Heidelbergin madrigaalikuoro/Gerald Kegelmann).
+
+          00:45 Lourié: Masques (Tentations) (Moritz Ernst, piano).
+
+          01:08 Torri: La Vanità del mondo (Maailman turhuus), oratorio (Barbara Schlick, sopraano, Ingrid Schmithüsen, sopraano, Derek Lee Ragin, kontratenori, ja Michael Schopper, basso, sekä Kölnin Musica Antiqua/Reinhard Goebel).
+
+          02:39 Raff: Pianotrio n:o 3 a-molli (Trio Opus 8).
+
+          03:13 Prokofjev: Sonaatti huilulle ja pianolle D-duuri (Sharon Bezaly ja Ronald Brautigam).
+
+          03:36 Salonen: Viulukonsertto (Leila Josefowicz ja RSO/Esa-Pekka Salonen).
+
+          04:06 Pratsch: Sonaatti pianolle ja sellolle a-molli (Juri Martynov, fortepiano, ja Dmitri Sokolov, sello).
+
+          04:30 Lazzari: Jousikvartetto a-molli (Pariisin jousikvartetti).
+
+          05:13 Hahn: Kolmas osa Carnet de Voyage (Matkamuistiinpanoja) pianosarj. Le Rossignol Éperdu (Hämmentynyt satakieli) (Earl Wild).
+
+          05:37 Weckmann: O lux beata trinitas, koraalimuunnelmia (Siegbert Rampe, urut).
+
+          06:09 J.S. Bach: Partita klaveerille n:o 2 c-molli (Piotr Anderszewski, piano).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-06T06:30:50+02:00'
@@ -26,6 +52,7 @@ data:
           Scheidemann: Käy aavaa merta purtemme (Cetus Noster).
 
           Tuntematon: Armon lapset, riemuitkaa (Tapiolan kuoro/Kari Ala-Pöllänen, ja Kaisa-Leena Harjunmaa, urut).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-03-06T06:50:00+02:00'
         end_time: '2025-03-06T06:59:59+02:00'
@@ -64,6 +91,18 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-06T08:10:00+02:00'
         end_time: '2025-03-06T09:00:00+02:00'
+        description: |-
+          Tänään järjestetään Eurooppa-neuvoston kokous, jossa on tarkoitus jatkaa keskusteluja Euroopan puolustuksesta ja Ukrainan tukemisesta viime sunnuntaisen Lontoon-kokouksen pohjalta. Tavoitteena on päästä tekemään päätöksiä nopeasti. Onnistuuko tämä, mm. tätä tarkkailee Brysselissä EU-kirjeenvaihtaja Hannele Muilu.
+
+          Eurooppa-neuvoston kokouksen tiimoilta jatketaan keskustelua myös studiossa.
+          Ukrainaa koskevasta tuesta ei ole viikon mittaan puuttunut käänteitä. Millaisten periaatteiden eteen EU on joutumassa tukensa kanssa? Siitä keskustelemassa ovat Ulkopoliittisen instituutin tutkija Joel Linnainmäki ja poliittisen historian professori Louis Clerc Turun yliopistosta.
+
+          Alue- ja kuntavaaleissa äänestetään huhtikuussa. Millaisia asioita näissä vaaleissa valitut edustajat päättävät ja millaista tietoa se vaatii? Kunta- ja aluepäättämisen arjesta ja toiminnasta keskustelevat Marianne Pekola-Sjöblom Kuntaliitosta  ja apulaisprofessori Hanna Wass Helsingin yliopistosta.
+
+          Taiwanilainen mikrosiruvalmistaja TSMC ilmoitti alkuviikosta 100 miljardin dollarin investoinnista kolmeen puolijohteita valmistavaan tehtaaseen Yhdysvalloissa. Millaisia seurauksia sillä on koko maailmaa pyörittävään puolijohdemarkkinaan, teknologiankehotykseen ja turvallisuuspolitiikkaan? Tätä avaa Pekingistä tilannetta seurannut Kiinan-kirjeenvaihtaja Mika Hentunen.
+
+          Juontajana Mira Stenström, toimittajina Mira Stenström ja Mikko Haapanen, tuottajana Justus Laitinen.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-06T09:00:00+02:00'
         end_time: '2025-03-06T09:05:00+02:00'
@@ -86,13 +125,11 @@ data:
           Lynne: Telephone line (The Electric Light Orchestra).
           Sundqvist: Mitä kuuluu, Marja-Leena? (Leevi and the Leavings).
         series: Muistojen bulevardi
-      - title: Marko Gustafssonin vieraana kirjailija, toimittaja Roman Schatz
+      - title: Marko Gustafssonin vieraana Mika Saarelainen
         start_time: '2025-03-06T10:00:00+02:00'
         end_time: '2025-03-06T10:50:00+02:00'
         description: |
-          Kirjailija, toimittaja, muusikko Roman Schatz on asunut  kaksi kolmasosaa elämästään Suomessa eikä harkitse sekuntiakaan synnyinmaahansa Saksaan muuttoa.  
-          “On ihanaa olla turistina Saksassa, mutta en viihdy siellä viikkoa kauempaa. Minulla on Suomen passi, mutta identiteetiltäni olen eurooppalainen”, Roman toteaa. 
-          “Identiteetti on asia, joka ei tule annettuna automaattisesti synnyinmaan myötä. Identiteetti muodostuu arvoista ja elämänkatsomuksesta.”, Roman Schatz muistuttaa.
+          Mika Saarelainen on taitoluisteluselostaja, taitoluistelutuomari, ammattitanssija, juontaja, musiikkipäällikkö, stuertti ja niin edelleen. Mikalla on totisesti ollut monta rautaa tulessa. ”Vaikka olen tehnyt todella paljon erilaisia töitä ja onnistunutkin niissä, niin silti edelleen välillä epäilen itseäni, että olenko oikeasti sittenkään riittävän hyvä.”, Mika pohtii Marko Gustafssonin haastattelussa. Ohjelma on uusinta ajalta 23.5.2024.
         series: Marko Gustafsson
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-06T10:50:00+02:00'
@@ -123,23 +160,29 @@ data:
         start_time: '2025-03-06T12:57:00+02:00'
         end_time: '2025-03-06T13:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Trumpin kohuväitteet Ukrainan sodasta'
         start_time: '2025-03-06T13:00:00+02:00'
         end_time: '2025-03-06T13:30:00+02:00'
+        description: |-
+          Yhdysvaltain presidentti Donald Trump piti Mar-a-Lagossa Ukrainaa käsittelevän tiedotustilaisuuden, jossa Trump toisti useita Venäjän propagandan kohtia Ukrainan sodasta, sekä syytti virheellisesti Ukrainaa sodan aloittamisesta. Trumpin sanat ovat herättäneet maailmalla laajasti kritiikkiä, mutta kuinka niihin suhtaudutaan Yhdysvalloissa? Ovatko Trumpin virheelliset väitteet pelkkä sumuverho, vai kertovatko ne täyskäännöksestä Ukrainan tukemisen suhteen? Vieraana on Trumpin republikaaneja tutkinut Yhdysvaltain politiikan tutkija Maria Linden Ulkopoliittisesta instituutista. Toimittajana on Tapio Pajunen. Ensilähetys 21.2.2025.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-06T13:30:00+02:00'
         end_time: '2025-03-06T15:00:00+02:00'
-        description: |2
-
-          Iltapäivän musiikkia etnosta kevyeen jazziin ja populaarimusiikin helmiin. N. klo 14 studiovieraana pappi Leena Huovinen. Miia Lahti haastattelee.
+        description: |
+          Iltapäivän musiikkia etnosta kevyeen jazziin ja populaarimusiikin helmiin. N. klo 14 studiovieraana äänisuunnittelija Tiina Luoma. Juontajana Jalmari Laine. 
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-03-06T15:00:00+02:00'
         end_time: '2025-03-06T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Hannu Mäkelä ja Runouden ylistys'
         start_time: '2025-03-06T15:02:00+02:00'
         end_time: '2025-03-06T15:55:00+02:00'
         description: |
+          Hannu Mäkelän teos Runouden ylistys summaa hänen pitkää uraansa runouden parissa. Kirjassa käydään läpi suomalaisen runouden historiaa sekä kirjallisuuden ahkeran ammattilaisen että runouden ihailijan näkökulmasta.
+
+          Ohjelman juontaa Pietari Kylmälä.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
       - title: Yle News
@@ -181,7 +224,8 @@ data:
         start_time: '2025-03-06T17:10:00+02:00'
         end_time: '2025-03-06T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Suomeen suunnitellaan useita uusia datakeskuksia. Onko datakeskusbuumi hyvä asia Suomelle, ja kuka siitä lopulta käärii suurimmat hyödyt? Reetta Röngän vieraana teollisuusprofessori Jukka Ruusunen LUT-yliopistosta.
+        series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-03-06T17:35:00+02:00'
         end_time: '2025-03-06T18:25:00+02:00'

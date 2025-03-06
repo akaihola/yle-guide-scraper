@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-05T02:29:07.020930+00:00'
+  generated_at: '2025-03-06T02:29:42.602928+00:00'
   git:
     branch: main
-    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
-  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
+    commit: 589f23d07da22b9dcb050047a96ac414c4c7dfc9
+  data_hash: 1f5c6fce93f58f931b560e4fd6dbe7fef6a9ab62df19f4cc91bc7589b2a0e308
 data:
   Yle Radio 1:
     programmes:
@@ -104,7 +104,7 @@ data:
           Zaldivar: Suukkonen aamuin, suukkonen illoin (Olavi Virta).
           Bacharach: Send me no flowers (Doris Day).
           Becaud: Glöm ej bort det finns rosor (Östen Warnerbring).
-          Louiguy: La Vie en rose (Louis Armstrong).
+          Louiguy: La vie en rose (Louis Armstrong).
           Davenport/Cooley: Fiebre (La Lupe).
           Hoffman: Ken parantaa rakkauden (Vieno Kekkonen).
           Harley: Make me smile (Come up and see me) (Steve Harley & Cockney Rebel).
@@ -119,6 +119,7 @@ data:
         end_time: '2025-03-13T10:50:00+02:00'
         description: |
           Julia Korkman on erikoistunut lasten haastattelemiseen tapauksissa, joissa lapsen epäillään joutuneen rikoksen kohteeksi. Rikoksen uhriksi joutuneiden lasten ja heidän vanhempiensa tukeminen ja auttaminen on ollut hänelle itsestäänselvyys. “Itselleni avun pyytäminen ihan normaaleissa työtilanteissakaan ei ollut itsestäänselvyys ja oli suuri helpotus, kun oivalsin pyytää apua”, Julia Korkman kertoo.
+        series: Marko Gustafsson
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-13T10:50:00+02:00'
         end_time: '2025-03-13T11:00:00+02:00'
@@ -147,12 +148,17 @@ data:
         start_time: '2025-03-13T12:56:00+02:00'
         end_time: '2025-03-13T13:00:00+02:00'
         series: Yksi on hyvää seuraa
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheenjohtajatentti'
         start_time: '2025-03-13T13:00:00+02:00'
         end_time: '2025-03-13T13:30:00+02:00'
+        description: |-
+          Alue- ja kuntavaalien puheenjohtajatentissä on RKP:n puheenjohtaja Anders Adlercreutz. Tentaattoreina Politiikkaradion vaalitenteissä ovat Politiikkaradion toimittajat Tapio Pajunen, Linda Pelkonen ja Antti Pilke. Radiolähetyksen lisäksi tentit nähdään Yle Areenassa. 
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-13T13:30:00+02:00'
         end_time: '2025-03-13T15:00:00+02:00'
+        description: |
+          Radio 1:n iltapäivän monipuolinen musiikkitarjotin kevyestä jazzista etnoon ja populaarimusiikin helmiin. Klo n. 14.00 Ateneumin taidemuseon johtaja Anna-Maria von Bonsdorff. Viime syksyn päänäyttely Ateneumissa oli suuri menestys. Miten näyttelyt ovat keränneet uutta yleisöä ja keitä he ovat? Klo n. 14.30 Kulttuurin kulmilla. Juontajana Heikki Puskala
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-03-13T15:00:00+02:00'
@@ -188,9 +194,9 @@ data:
 
           Schubert: An die Sonne (Berliner Solisten -vokaaliyhtye ja Bernd Casper, piano).
 
-          Franck: Finaali sellosonaatista A-duuri (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
+          Franck: Finaali sonaatista A-duuri (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
 
-          Henze: Lucina-kissan muistolle (Ian Bostridge, tenori, ja Julius Drake, piano).
+          Henze: In memoriam L.K.A. 1950-1952 (Lucina-kissan muistolle) (Ian Bostridge, tenori, ja Julius Drake, piano).
 
           Melartin: Sade pianosarj. Surullinen puutarha (Ralf Gothóni).
 
@@ -240,22 +246,9 @@ data:
         end_time: '2025-03-13T19:02:00+02:00'
       - title: Tapiola Sinfonietta - Minimalismi-festivaali
         start_time: '2025-03-13T19:02:00+02:00'
-        end_time: '2025-03-13T21:00:00+02:00'
-        description: |+
-          Tapiola Sinfoniettan Minimalismi-festivaalin konsertissa on valokeilassa eurooppalainen näkökulma, jossa 1900-luvun jälkipuolen musiikki-ilmiölle löytyy historiallisia edelläkävijöitä. 
-
-          Henry Purcellin jousifantasiat edustivat 1600-luvun lopulla persoonallista näkemystä ikivanhasta moniäänisyydestä. Henryk Goreckin Kolme pientä kappaletta vanhaan tyyliin päivittävät muistot menneisyydestä ja kansanmusiikista moderniksi uusyksinkertaisuudeksi. Uutta ja vanhaa yhdistää myös Michael Nymanin Strong On Oaks, jonka alun perin saksinkielinen otsikko sai pontta pääministeri Tony Blairin iskulauseesta. Louis Andriessenin Dances-tanssiteoksen lauluosuudet on sävelletty egyptiläiselle prinsessalle, jonka osaan sujahtaa sopraanotähti Helena Juntunen. Suoran lähetyksen Espoon kulttuurikeskuksesta toimittaa Riikka Holopainen
-
-          Tapiola Sinfonietta, joht. Mateusz Gwizdalla
-          Helena Juntunen, sopraano
-
-          Henry Purcell: Fantasioita
-          Henryk Górecki: Kolme kappaletta vanhaan tyyliin
-          Michael Nyman: Strong on Oaks, Strong on the Causes of Oaks
-          Louis Andriessen: Dances
-
-          Kuva: Helen Juntunen
-
+        end_time: '2025-03-13T20:45:00+02:00'
+        description: |
+          Mateusz Gwizdalla, kapellimestari, Helena Juntunen, sopraano. -Henry Purcell: Fantasia 2; Fantasia Upon One Note. Henryk Górecki: Kolme kappaletta vanhaan tyyliin. Michael Nyman: Strong on Oaks, Strong on the Causes of Oaks. Louis Andriessen: Dances. -Suoran lähetyksen Tapiolasalista toimittaa Riikka Holopainen.
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-03-13T21:00:00+02:00'

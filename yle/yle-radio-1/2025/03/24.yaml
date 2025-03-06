@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-05T02:29:10.672707+00:00'
+  generated_at: '2025-03-06T02:29:47.700231+00:00'
   git:
     branch: main
-    commit: 01b54d9436ee1c6fd1da08708cb91d7c3afbe6cb
-  data_hash: e4dc796c133ea4b5dbb682ced958b29d78ac99a09c3ed40e3b17f0116a14fd4f
+    commit: 589f23d07da22b9dcb050047a96ac414c4c7dfc9
+  data_hash: 1f5c6fce93f58f931b560e4fd6dbe7fef6a9ab62df19f4cc91bc7589b2a0e308
 data:
   Yle Radio 1:
     programmes:
@@ -14,8 +14,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-03-24T06:50:00+02:00'
         end_time: '2025-03-24T06:59:59+02:00'
-        description: |-
-          Teologi Hanna-Kaisa Hartala, Helsinki
+        description: |
+          "Tavallinen päivä on ihme"
+          Teologi Hanna-Kaisa Hartala Helsingistä huomaa ihmeen aivan tavallisessa arkisessa elämässä.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-24T07:00:00+02:00'
