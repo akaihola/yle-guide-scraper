@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-06T02:29:33.660521+00:00'
+  generated_at: '2025-03-07T02:29:47.383053+00:00'
   git:
     branch: main
-    commit: 589f23d07da22b9dcb050047a96ac414c4c7dfc9
-  data_hash: 1f5c6fce93f58f931b560e4fd6dbe7fef6a9ab62df19f4cc91bc7589b2a0e308
+    commit: ff213fd21a41e5b66c5fcf1ac531238012118517
+  data_hash: 72f897ef54e6ad7cc89d4520b7cacd3213f6b0f61cca112a441854d54a08eb16
 data:
   Yle Radio 1:
     programmes:
@@ -82,11 +82,12 @@ data:
           "Katoava pukeutuu katoamattomuuteen"
           Muusikko Riikka Hertteli, Baptistiyhdyskunta, Kokkolasta pohtii pukeutumisen ja riisuutumisen vertauskuvallisia merkityksiä Raamatussa ja kristityn elämässä.
         series: Aamuhartaus
-      - title: 'Minne Rinne vie: Miksi Suomessa ei ole kameramuseota'
+      - title: 'Minne Rinne vie: Suomessa ei ole kameramuseota'
         start_time: '2025-03-08T08:35:00+02:00'
         end_time: '2025-03-08T08:55:00+02:00'
         description: |
-          Mitä olisi maailma ilman erilaisten tavaroiden kerälijöitä? Historiallisesti köyhempi ja monella tapaa tylsempi, lienee oikea vastaus. Minne Rinne vie -ohjelma vie kuuntelijat nyt kamerakeräilijän aarteiden luokse. Turkulaisella kameroita ja alan tarvikkeita keräävällä Erkki Virkelällä on yksi Suomen suuripia kameroiden ja niihin liittyvien oheistuotteiden kokolema. Ohjelman toimittaa Petri Rinne.
+          Millainen  olisi maailma ilman erilaisten tavaroiden kerälijöitä? Luultavasti historiallisesti köyhempi ja monella tapaa tylsempi. Turkulaisella Erkki Virkelällä on yksi Suomen suuripia kameroiden ja niihin liittyvien oheistuotteiden kokolemia. 
+
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
@@ -266,11 +267,15 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-03-08T21:29:00+02:00'
         end_time: '2025-03-08T21:54:00+02:00'
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Suomessa ei ole kameramuseota'
         start_time: '2025-03-08T22:00:30+02:00'
         end_time: '2025-03-08T22:20:00+02:00'
         description: |
+          Millainen  olisi maailma ilman erilaisten tavaroiden kerälijöitä? Luultavasti historiallisesti köyhempi ja monella tapaa tylsempi. Turkulaisella Erkki Virkelällä on yksi Suomen suuripia kameroiden ja niihin liittyvien oheistuotteiden kokolemia. 
+
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
       - title: Kielen päällä
         start_time: '2025-03-08T22:20:30+02:00'
         end_time: '2025-03-08T22:30:00+02:00'

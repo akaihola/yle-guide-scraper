@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-06T02:29:46.170308+00:00'
+  generated_at: '2025-03-07T02:29:51.416118+00:00'
   git:
     branch: main
-    commit: 589f23d07da22b9dcb050047a96ac414c4c7dfc9
-  data_hash: 1f5c6fce93f58f931b560e4fd6dbe7fef6a9ab62df19f4cc91bc7589b2a0e308
+    commit: ff213fd21a41e5b66c5fcf1ac531238012118517
+  data_hash: 72f897ef54e6ad7cc89d4520b7cacd3213f6b0f61cca112a441854d54a08eb16
 data:
   Yle Radio 1:
     programmes:
@@ -36,6 +36,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-20T07:10:00+02:00'
         end_time: '2025-03-20T07:59:59+02:00'
+        description: |-
+          J.S. Bach: Jesus bleibet meine Freude (Kristus, valo valkeuden) (Angela Hewitt, piano).
+
+          Erkel: Czardas oopp. Hunyadi László (Tonavan SO/Domonkos Héja).
+
+          Tournier: Aamulla (Lily Laskine, harppu).
+
+          Prokofjev: Gavotte bal. Tuhkimo (Dmitri Sitkovetski, viulu, ja Pavel Gililov, piano).
+
+          Schumann - Liszt: Kevätyö (Risto Lauriala, piano).
+
+          Monteverdi: Si dolce e'l tormento (Marco Beasley, tenori, ja Accordone).
+
+          Popper: Tulo metsään (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Morel: Danza brasilera (Milos Karadaglic, kitara).
+
+          Kollo: Kevätunelmia oper. Marietta (Cölln-salonkiorkesteri).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-20T08:00:00+02:00'
         end_time: '2025-03-20T08:10:00+02:00'
@@ -49,6 +68,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-20T09:05:40+02:00'
         end_time: '2025-03-20T09:58:00+02:00'
+        description: |-
+          Cook/Greenaway: My baby loves lovin'  (White Plains).
+          Carpenter: Tänään huipulla (Ami Aspelund).
+          Gall: Chanson pour que tu m'aimes un peu (France Gall). 
+          Popp: Love is blue (Paul Mauriat).
+          Kansanlaulu: Puusydän (Kukonpojat).
+          Hilliard/de Lugg: Följ med mig på vägen genom livet (Family Four).
+          Harrison: Here comes the sun (Nina Simone).
+          Bacharach: Räystäät jos tippuu (Danny).
+          Feliciano: Hlustadu a regnid (Trubrot).
+          Bechet: Petite fleur (Sidney Bechet).
+          de Andre: Canzone dell'amore perduto (Fabrizio de Andre).
+          Evans: Don't go to strangers (Dinah Washington).
+          Holland: You can't hurry love (The Supremes).
+          Masser: Pianomies (Katri Helena).
+          Robertson: The weight (The Band).
         series: Muistojen bulevardi
       - title: Marko Gustafssonin vieraana näyttelijä, kirjailija Laura Malmivaara
         start_time: '2025-03-20T10:00:00+02:00'
@@ -118,11 +153,12 @@ data:
         end_time: '2025-03-20T18:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Jiddišistä kertoo Simo Muir'
         start_time: '2025-03-20T18:25:00+02:00'
         end_time: '2025-03-20T18:34:30+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Suomalais-skotlantilainen juutalaisen kulttuurin tutkija Simo Muir kertoo jiddišistä. Toimittajana on Jari Aula.
+        series: Kielen päällä
       - title: Hartaita säveliä
         start_time: '2025-03-20T18:35:00+02:00'
         end_time: '2025-03-20T18:50:00+02:00'
