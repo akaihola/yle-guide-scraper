@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-07T02:29:50.422484+00:00'
+  generated_at: '2025-03-09T02:17:14.796373+00:00'
   git:
     branch: main
-    commit: ff213fd21a41e5b66c5fcf1ac531238012118517
-  data_hash: 72f897ef54e6ad7cc89d4520b7cacd3213f6b0f61cca112a441854d54a08eb16
+    commit: 1630a038a5c2e36902ba69933d6ee2af1778227d
+  data_hash: 239a4fea943baddcad4637142cacda00cdbbaf4ebf29301bc1a0381c0194215b
 data:
   Yle Radio 1:
     programmes:
@@ -73,6 +73,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-16T11:00:00+02:00'
         end_time: '2025-03-16T11:57:00+02:00'
+        description: |
+          Hupfeld: As time goes by (Erik Lindström).
+          Beltran Ruiz: Sway (Dean Martin).
+          Conrad: Mamma, tuo mies mua tuijottaa (Brita Koivunen).
+          Gershwin: A Foggy day (Julian 'Cannonball' Adderley).
+          Raiter: Les roses blanches (Berthe Sylva).
+          Kansansävelmä: Scarborough fair / Canticle (Simon and Garfunkel).
+          Padilla/Chaplin: City lights (Carl Davis ork.).
+          Chaplin: Smile (Harpo).
+          Dominguez: Perfidia (Trio Los Panchos).
+          Rae: Pieni sydän (Annikki Tähti).
+          Ellington: Mood indigo (Nat King Cole).
+          Jürgens: Merci cherie (Udo Jürgens).
+          Kiviharju: Valo maaliskuinen (Paula Koivuniemi).
+          Morricone: Deborah's theme (Ennio Morricone).
+          De Curtis: Palaja Sorrentoon (Mauno Kuusisto).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-16T12:00:00+02:00'

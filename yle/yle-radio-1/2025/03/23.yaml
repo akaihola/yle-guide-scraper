@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-07T02:29:52.197550+00:00'
+  generated_at: '2025-03-09T02:17:16.744727+00:00'
   git:
     branch: main
-    commit: ff213fd21a41e5b66c5fcf1ac531238012118517
-  data_hash: 72f897ef54e6ad7cc89d4520b7cacd3213f6b0f61cca112a441854d54a08eb16
+    commit: 1630a038a5c2e36902ba69933d6ee2af1778227d
+  data_hash: 239a4fea943baddcad4637142cacda00cdbbaf4ebf29301bc1a0381c0194215b
 data:
   Yle Radio 1:
     programmes:
@@ -85,6 +85,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-23T16:10:00+02:00'
         end_time: '2025-03-23T16:59:00+02:00'
+        description: |-
+          Chopin: Etydi n:o 24 c-molli Valtameri (Maurizio Pollini, piano).
+
+          Albéniz: Sataman hälinää (Janne Lehtinen, kitara).
+
+          Ravel: Pursi valtamerellä (Jean-Efflam Bavouzet, piano).
+
+          Faure: La Fleur qui va sur l'eau (Merellä ajelehtiva kukka) (Christopher Maltman, baritoni, ja Graham Johnson, piano). 
+
+          Debussy: Purjeita (Eero Heinonen, piano).
+
+          Kuula: Purjein kuutamolla (Tuuli Takala, sopraano, ja Tuula Hällström, piano).
+
+          A. Merikanto: Kväll på stranden (Marianne Montonen, sopraano, ja Jasper Koekoek, piano). 
+
+          Ibert: Calme (Rooma - Palermo) teok. Välisatamia (Minnesotan ork./Eiji Oue)
+
+          Alfvén: Aamunsarastus meren rannalla (Akademiska Sångföreningen/Henrik Wikström).
+
+          Mannsén: L'adieu: Souvenir à l'Åbo (Tiina Karakorpi, piano).
+
+          Chausson: Interlude teoksesta Poeme de l'amour et de la mer (HKO/John Storgårds).
+
+          Nordqvist: Till havs (Merta päin) (Nu blåser havets friska vind -) (Bertil Bokstedt, laulu, ja ork.). 
+
+          Palmgren: Meri kok. 24 preludia pianolle (Henri Sigfridsson).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-23T17:00:00+02:00'
         end_time: '2025-03-23T17:10:00+02:00'
