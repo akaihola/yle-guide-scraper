@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-09T02:17:16.097045+00:00'
+  generated_at: '2025-03-10T02:18:17.149544+00:00'
   git:
     branch: main
-    commit: 1630a038a5c2e36902ba69933d6ee2af1778227d
-  data_hash: 239a4fea943baddcad4637142cacda00cdbbaf4ebf29301bc1a0381c0194215b
+    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
+  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
 data:
   Yle Radio 1:
     programmes:
@@ -182,7 +182,6 @@ data:
         end_time: '2025-03-21T23:39:00+02:00'
         description: |-
           Miksi asiat ovat niinkuin ovat? Timo Teräsvuori hämmästelee musiikki- ja kulttuurimaailman tapoja ja käytänteitä.
-        series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-03-21T23:40:00+02:00'
         end_time: '2025-03-22T06:30:00+02:00'
