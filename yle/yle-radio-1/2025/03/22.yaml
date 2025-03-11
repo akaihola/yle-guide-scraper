@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-10T02:18:17.557699+00:00'
+  generated_at: '2025-03-11T02:29:49.163896+00:00'
   git:
     branch: main
-    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
-  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
+    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
+  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
 data:
   Yle Radio 1:
     programmes:
@@ -110,6 +110,7 @@ data:
         end_time: '2025-03-22T13:05:00+02:00'
         description: |
           Sarjan ensimmäisessä jaksossa kohotaan ilmaan ja selvitetään, millaisella siivellä on hyvä liidellä ja mikä taas soveltuu nopeisiin syöksyihin. Miten hyönteisten siivet eroavat lintujen siivistä? Ja miten linnut saavat lentämisen näyttämään niin helpolta, vaikka se vaatii todella paljon taitoa ja voimia? Siipimalleja luokittelee biologi Maija Karala, luontotoimittaja Minna Pyykkö pohtii erityistä suhdettaan lintuihin ja väitöskirjatutkija Heidi Mikkola pohtii luontodokumenttien valtaa. Toimittaja Emil Johansson.
+        series: Siivekkäät
       - title: Uudet levyt
         start_time: '2025-03-22T13:05:00+02:00'
         end_time: '2025-03-22T14:00:00+02:00'
@@ -143,6 +144,23 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-22T16:10:00+02:00'
         end_time: '2025-03-22T16:59:00+02:00'
+        description: |-
+          Schubert: Alkusoitto laulunäyt. Kaksosveljekset (Stuttgartin RSO/Paul Angerer).
+
+          F. Couperin: Les rozeaux (Mika Väyrynen, harmonikka).
+
+          Sibelius: Teema ja muunnelmia cis-molli (Tempera-kvartetti).
+
+          Grieg: Våren (Johannes Weisser, baritoni ja Sören Rastogi, piano).
+
+          Puccini: Intermezzo oopp. Manon Lescaut (RSO/Kari Tikka).
+
+          Stanford: The blue bird (Lumen Valo).
+
+          Sakamoto: Acceptance, alun perin elok. Little Buddha (Ryuichi Sakamoto, piano, Everton Nelson, viulu, ja Jaques Morelenbaum, sello).
+
+          Pasquet: Sarja vaskikvintetille (Lahden vaskikvintetti). 
+        series: Faunin iltapäivä
       - title: Miia Krause
         start_time: '2025-03-22T17:10:00+02:00'
         end_time: '2025-03-22T17:57:00+02:00'

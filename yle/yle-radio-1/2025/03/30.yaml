@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-10T02:18:19.894711+00:00'
+  generated_at: '2025-03-11T02:29:51.681702+00:00'
   git:
     branch: main
-    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
-  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
+    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
+  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
 data:
   Yle Radio 1:
     programmes:
@@ -53,9 +53,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-30T11:00:00+03:00'
         end_time: '2025-03-30T11:57:00+03:00'
+        series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-30T12:00:00+03:00'
         end_time: '2025-03-30T12:05:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2025-03-30T12:05:00+03:00'
+        end_time: '2025-03-30T12:55:00+03:00'
+        description: |
+          Tarinoita talouden myllerryksistä.
+        series: Virtasen taloushistoria
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2025-03-30T13:00:00+03:00'
+        end_time: '2025-03-30T13:57:00+03:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: Marko Gustafsson
         start_time: '2025-03-30T14:00:00+03:00'
         end_time: '2025-03-30T14:50:00+03:00'
@@ -66,18 +79,37 @@ data:
         description: |
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
         series: Elävä historia
+      - title: Viikon luontoääni
+        start_time: '2025-03-30T15:50:00+03:00'
+        end_time: '2025-03-30T15:55:00+03:00'
+      - title: Yle News
+        start_time: '2025-03-30T15:55:00+03:00'
+        end_time: '2025-03-30T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
       - title: Yle Uutiset ja sää
         start_time: '2025-03-30T16:00:00+03:00'
         end_time: '2025-03-30T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-03-30T16:10:00+03:00'
         end_time: '2025-03-30T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-30T17:00:00+03:00'
+        end_time: '2025-03-30T17:10:00+03:00'
+      - title: Laura Korhosen Jazzklubi
+        start_time: '2025-03-30T17:11:00+03:00'
+        end_time: '2025-03-30T18:11:00+03:00'
+        description: |
+          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
       - title: 'Jazzklubin illan keikka: AVA Trio Tampere Jazz Happeningissä.'
         start_time: '2025-03-30T18:11:00+03:00'
         end_time: '2025-03-30T19:00:00+03:00'
         description: |
           Äänitetty Tullikamarin Pakkahuoneella 2.11.2024.
         series: Jazzklubi
+      - title: Yle Uutiset ja sää
+        start_time: '2025-03-30T19:00:00+03:00'
+        end_time: '2025-03-30T19:02:05+03:00'
       - title: 'Jazzklubi: Tunti vapaalla - DJ Bunuel.'
         start_time: '2025-03-30T19:02:05+03:00'
         end_time: '2025-03-30T20:00:00+03:00'
@@ -91,6 +123,9 @@ data:
           Akatistos Jumalansynnyttäjälle Joensuun Pyhän Nikolaoksen kirkosta
           Palveluksen toimittaa pastori Marko Mäkinen
         series: Jumalanpalvelukset radiossa
+      - title: Yle Uutiset
+        start_time: '2025-03-30T21:00:00+03:00'
+        end_time: '2025-03-30T21:02:05+03:00'
       - title: Uutispodcast
         start_time: '2025-03-30T21:03:00+03:00'
         end_time: '2025-03-30T21:28:00+03:00'

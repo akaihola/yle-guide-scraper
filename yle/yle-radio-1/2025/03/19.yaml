@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-10T02:18:16.604414+00:00'
+  generated_at: '2025-03-11T02:29:48.261100+00:00'
   git:
     branch: main
-    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
-  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
+    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
+  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
 data:
   Yle Radio 1:
     programmes:
@@ -117,6 +117,25 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-19T16:10:00+02:00'
         end_time: '2025-03-19T16:59:00+02:00'
+        description: |-
+          J. Haydn: Allegro moderato jousikvartetosta n:o 63 D-duuri (Fresk-kvartetti).
+
+          Puumala: Kehtolaulu oopp. Anna Liisa (Helena Juntunen, sopraano, ja Tapiola Sinfonietta/Jan Söderblom).
+
+          Beach: Romanssi (Midori, viulu, ja Robert McDonald, piano).
+
+          C. Schumann: Beim Abschied (Stephan Loges, baritoni, ja Eugene Asti, piano). 
+
+          Mascagni: Intermezzo oopp. Cavalleria rusticana (Turun FO/Petri Sakari).
+
+          Barrios: Un Sueño en la floresta (David Russell, kitara).
+
+          Holmström: Joyful jig sarj. Imaginary dances (Matilda Kärkkäinen, piano).
+
+          Kähärä: Aurinkolaulu (Rajaton).
+
+          Gipps: Finaali kons. käyrätorvelle ja orkesterille (David Pyatt, käyrätorvi, ja Lontoon FO/Nicholas Braithwaite).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-19T17:00:00+02:00'
         end_time: '2025-03-19T17:10:00+02:00'

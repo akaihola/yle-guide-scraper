@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-10T02:18:16.882661+00:00'
+  generated_at: '2025-03-11T02:29:48.467283+00:00'
   git:
     branch: main
-    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
-  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
+    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
+  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,8 @@ data:
         start_time: '2025-03-20T06:50:00+02:00'
         end_time: '2025-03-20T06:59:59+02:00'
         description: |-
-          Toimittaja Mikko Kurenlahti, Helsinki
+          "Irti "vanhan minän" vallasta"
+          Toimittaja Mikko Kurenlahti Helsingistä pohtii ylösnousemuksen mahdollista merkitystä kehotuksena vapautua minuuden vallan tuottamista peloista ja kärsimyksestä
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-20T07:00:00+02:00'
@@ -107,13 +108,14 @@ data:
         end_time: '2025-03-20T12:10:00+02:00'
       - title: 'Diagnoosien aika: Autismilla on natsijuuret'
         start_time: '2025-03-20T12:10:00+02:00'
-        end_time: '2025-03-20T12:55:00+02:00'
+        end_time: '2025-03-20T12:57:00+02:00'
         description: |
           Natsijärjestöihin kuulunut itävaltalaislääkäri Hans Asperger on autismikirjoajattelun isä. Hänen autismikäsityksensä alle menee laaja joukko ihmisiä, jotka käyttäytyvät omalaatuisesti ja joustamattomasti. Autismikirjoon kuuluu niin huippuälykkäitä kuin kehitysvammaisiakin yksilöitä. Vaikka vanhempia syytettiin pitkään lapsen autismista, nyt autismin katsotaan johtuvan pitkälti genetiikasta. Toimittaja Pekka Vahvasen kanssa keskustelevat historioitsija Tuomas Laine-Frigren ja erityispedagogiikan professori Eija Kärnä.
         series: Diagnoosien aika
       - title: Yksi on hyvää seuraa
-        start_time: '2025-03-20T12:55:00+02:00'
+        start_time: '2025-03-20T12:57:00+02:00'
         end_time: '2025-03-20T13:00:00+02:00'
+        series: Yksi on hyvää seuraa
       - title: Politiikkaradio
         start_time: '2025-03-20T13:00:00+02:00'
         end_time: '2025-03-20T13:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-10T02:18:14.303999+00:00'
+  generated_at: '2025-03-11T02:29:46.236386+00:00'
   git:
     branch: main
-    commit: bba34168c815bd9bbe44a3d11c9f34ffdf44b773
-  data_hash: 932cb4ee315e86167cb765586ae2ead4e7461b46325f63a5a587a2275f4a5b91
+    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
+  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
 data:
   Yle Radio 1:
     programmes:
@@ -63,7 +63,8 @@ data:
         start_time: '2025-03-13T06:50:00+02:00'
         end_time: '2025-03-13T06:59:59+02:00'
         description: |-
-          Toimittaja Mikko Kurenlahti, Helsinki
+          "Menköön minun valtakuntani"
+          Toimittaja Mikko Kurenlahti Helsingistä pohtii itsestä irti päästämisen ja tästä seuraavan mielenmuutoksen merkityksiä kristillisessä perinteessä
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-13T07:00:00+02:00'
@@ -143,6 +144,7 @@ data:
         end_time: '2025-03-13T12:56:00+02:00'
         description: |
           Moderni maailma lisää stressiä ja ahdistusta, mutta onko tilanne pahempi kuin 1800-luvun lopulla? Nuorten ahdistuneisuus on lisääntynyt valtavasti viime vuosina. Ovatko nuoret liian herkkiä elämän epävarmuudelle vai elämmekö poikkeuksellisen ahdistavaa aikaa? Toimittaja Pekka Vahvasen kanssa keskustelevat aate- ja oppihistorian professori Petteri Pietikäinen ja psykiatrian professori Suoma Saarni.
+        series: Diagnoosien aika
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-13T12:56:00+02:00'
         end_time: '2025-03-13T13:00:00+02:00'
@@ -162,11 +164,16 @@ data:
       - title: Yle Uutiset
         start_time: '2025-03-13T15:00:00+02:00'
         end_time: '2025-03-13T15:02:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kulutuskulttuurin oravanpyörä: Pikamuodin ja halpatuotteiden vaikutukset '
         start_time: '2025-03-13T15:02:00+02:00'
         end_time: '2025-03-13T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Länsimainen elämäntapa pyörii pitkälti kuluttamisen ympärillä. Uusien vaatteiden ja tavaroiden kuluttaminen on kiihtynyt kovaa tahtia ja viimeisimpänä paljon puhuttaneena ilmiönä on ultrapikamuoti- ja kiinalaisista verkkokaupoista tilattava halpa krääsä. Esimerkiksi tulli on älähtänyt olevansa pulassa EU:n ulkopuolelta tulevien lähetysten määrän kanssa. Suomeen tilattiin viime vuonna 28,2 miljoonaa lähetystä ja kahdessa vuodessa määrä on 35-kertaistunut.   
+
+          Kulttuuriykkönen pohtii kulutuskulttuurin muutosta viime vuosikymmeninä. Millaisia seurauksia nykyisellä halvan tavaran valtavalla ostamisella on? Miksi ostamme kaiken maailman turhanpäiväisiä tuotteita? Lopetammeko ikinä ylenpalttista ostamista? Vastaliikehdintää on toki myös paljon ilmassa. 
+
+          Vieraana ovat LUT-kauppakorkeakoulun markkinoinnin apulaisprofessori Jenni Sipilä, Helsingin yliopiston kuluttajatutkimuskeskuksen tutkija Essi Pöyry ja Eetti Ry:n toiminnanjohtaja Emmi Mikkilä. Lähetyksessä vierailee myös väitöskirjatutkija Jannica Nyman. Toimittaja on Reetta Arvila. 
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-13T15:55:00+02:00'
         end_time: '2025-03-13T15:58:00+02:00'
