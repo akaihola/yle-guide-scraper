@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-11T02:29:46.442082+00:00'
+  generated_at: '2025-03-12T02:29:29.049120+00:00'
   git:
     branch: main
-    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
-  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
+    commit: ec26e0feaf7e5d95c3372ad22f399abfe23aa9ab
+  data_hash: 04d9a972fdf6640f618f06e06b512fdf68bc3beed0012ef72a5fc761a0bff9c0
 data:
   Yle Radio 1:
     programmes:
@@ -114,11 +114,11 @@ data:
           Hadzidakis: Oniro pedión tis jitoniás (Nana Mouskouri).
           Sherwin: A nightingale sang in Berkeley Square (The Manhattan Transfer).
         series: Muistojen bulevardi
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Länsimaisten arvojen valhe?'
         start_time: '2025-03-14T10:00:00+02:00'
         end_time: '2025-03-14T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Mistä me puhumme, kun puhumme länsimaisesta arvoyhteisöstä? Kuulummeko me samaan arvoyhteisöön kuin Trumpin Yhdysvallat? Miten amerikkalaisen viihdeteollisuuden markkinoimat myytit ovat vaikuttaneet meidän ajatteluumme? Tervetuloa maailmaan, jossa woke-ajattelua vastustetaan julkaisemalla kiellettyjen sanojen luetteloita. Ohjelmassa tehdään tekopyhyyden ruuminavaus.Vieraana on kielitieteilijä ja tietokirjailija Janne Saarikivi.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-14T10:55:00+02:00'
@@ -230,19 +230,21 @@ data:
       - title: Politiikkaradio
         start_time: '2025-03-14T21:05:00+02:00'
         end_time: '2025-03-14T21:34:30+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Holokausti'
         start_time: '2025-03-14T21:35:00+02:00'
-        end_time: '2025-03-14T22:24:30+02:00'
+        end_time: '2025-03-14T22:24:15+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
         start_time: '2025-03-14T22:25:00+02:00'
-        end_time: '2025-03-14T23:15:00+02:00'
+        end_time: '2025-03-14T23:14:25+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kulttuurin kulmilla
-        start_time: '2025-03-14T23:30:30+02:00'
-        end_time: '2025-03-14T23:39:00+02:00'
+        series: Tuuli Saksalan keidas
+      - title: 'Kulttuurin kulmilla: Rokki soikoon! '
+        start_time: '2025-03-14T23:22:16+02:00'
+        end_time: '2025-03-14T23:28:49+02:00'
         description: |-
           Timo Teräsvuori uudistaa musikaalisuhteensa. 
         series: Kulttuurin kulmilla

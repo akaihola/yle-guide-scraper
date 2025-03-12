@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-11T02:29:52.027403+00:00'
+  generated_at: '2025-03-12T02:29:41.817515+00:00'
   git:
     branch: main
-    commit: f43b9c98850cc84c2e6fdfc30e29102cc73fcd57
-  data_hash: b40c56f7e256f16e8bd9b6ec61428668b0acaca7b09c5f121bb90a9ed3d1b20c
+    commit: ec26e0feaf7e5d95c3372ad22f399abfe23aa9ab
+  data_hash: 04d9a972fdf6640f618f06e06b512fdf68bc3beed0012ef72a5fc761a0bff9c0
 data:
   Yle Radio 1:
     programmes:
@@ -16,6 +16,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-03-31T06:30:50+03:00'
         end_time: '2025-03-31T06:50:00+03:00'
+        description: |-
+          M. Mäntymaa: Agnus Dei (Juha Yli-Knuuttila, baritoni, ja Kamarikuoro Cantionale/Pekka Mäntymaa).
+
+          Tshekkoslovakialainen kansansäv. - Haapasalo: Vain vähän, Herra Jeesus, on (Esa Ruuttunen, baritoni, ja Risto Lauriala, piano).
+
+          Koraalitoisinto (sov. Kukko): Nosta silmät murheen maasta (Cantilene/Merja Lohilahti).
+
+          Koraalitoisinto: Orjantappuroita kasvaa (RKK/Tarja Viitanen, sekä Pertti Eerola, urut, ja Maija Huuskonen, huilu).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-03-31T06:50:00+03:00'
         end_time: '2025-03-31T06:59:59+03:00'
@@ -40,6 +49,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-31T09:05:40+03:00'
         end_time: '2025-03-31T09:58:00+03:00'
+        description: |-
+          Meinken: Wabash blues (Red Nichols, Miff Mole & The Charleston Chasers).
+          Monti: Tuliharja (Vieno Kekkonen).
+          Christopher/Thompson/James: Always on my mind (Elvis Presley).
+          Jary: Ich weiss, es wird einmal ein Wunder gescheh'n (Zarah Leander).
+          Llossas: Tango bolero (Olavi Virta ja Maire Ojonen).
+          Lennon/McCartney: You've got to hide your love away (The Beatles).
+          Valdes Leal: Tu solo tu (Selena).
+          Hatch: Vihreämmältä ruoho näyttää (Tuulikki Eloranta).
+          Bernstein: Somewhere (Tom Waits).
+          Jouannest: La chanson de Jacky (Jacques Brel).
+          Karlsson: Elämän kutsu (Pihasoittajat).
+          King: Up on the roof (Carole King).
+          Brown: Guajira (Santana).
         series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-03-31T10:00:00+03:00'
@@ -119,6 +142,7 @@ data:
           Simojoki: Herra, kädelläsi asua mä saan (Jenni Vartiainen).
 
           L. Heikkilä (sov. Harju): Rauhanruhtinas (Maksetut viulut).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-03-31T18:50:00+03:00'
         end_time: '2025-03-31T19:00:00+03:00'
@@ -138,6 +162,9 @@ data:
       - title: Yle Uutiset
         start_time: '2025-03-31T21:00:00+03:00'
         end_time: '2025-03-31T21:02:00+03:00'
+      - title: Politiikkaradio
+        start_time: '2025-03-31T21:05:00+03:00'
+        end_time: '2025-03-31T21:34:30+03:00'
       - title: Tiedeykkönen
         start_time: '2025-03-31T21:35:00+03:00'
         end_time: '2025-03-31T22:24:30+03:00'
@@ -146,6 +173,11 @@ data:
       - title: Kulttuurisarja
         start_time: '2025-03-31T22:25:00+03:00'
         end_time: '2025-03-31T22:44:30+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2025-03-31T22:45:00+03:00'
+        end_time: '2025-03-31T23:39:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
       - title: Yöklassinen
         start_time: '2025-03-31T23:40:00+03:00'
         end_time: '2025-04-01T06:30:00+03:00'
