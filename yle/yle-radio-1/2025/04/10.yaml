@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-12T02:29:45.279568+00:00'
+  generated_at: '2025-03-13T02:30:35.090079+00:00'
   git:
     branch: main
-    commit: ec26e0feaf7e5d95c3372ad22f399abfe23aa9ab
-  data_hash: 04d9a972fdf6640f618f06e06b512fdf68bc3beed0012ef72a5fc761a0bff9c0
+    commit: 816ce46fe32cc3d3b8013ab08f2e6dcafdd6c46a
+  data_hash: 8ba74a56f1160926b4ef32f86ddc4682e30eebb71705f4f4e58104cd02e77f7a
 data:
   Yle Radio 1:
     programmes:
@@ -134,6 +134,7 @@ data:
       - title: Tosi tarina
         start_time: '2025-04-10T21:35:00+03:00'
         end_time: '2025-04-10T22:30:00+03:00'
+        series: Tosi tarina
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-04-10T22:30:30+03:00'
         end_time: '2025-04-10T22:49:30+03:00'

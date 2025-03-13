@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-12T02:29:26.558438+00:00'
+  generated_at: '2025-03-13T02:30:26.882277+00:00'
   git:
     branch: main
-    commit: ec26e0feaf7e5d95c3372ad22f399abfe23aa9ab
-  data_hash: 04d9a972fdf6640f618f06e06b512fdf68bc3beed0012ef72a5fc761a0bff9c0
+    commit: 816ce46fe32cc3d3b8013ab08f2e6dcafdd6c46a
+  data_hash: 8ba74a56f1160926b4ef32f86ddc4682e30eebb71705f4f4e58104cd02e77f7a
 data:
   Yle Radio 1:
     programmes:
@@ -49,11 +49,11 @@ data:
         start_time: '2025-03-13T06:30:50+02:00'
         end_time: '2025-03-13T06:50:00+02:00'
         description: |-
+          Tuntematon: Oi Jeesus Kristus, autuuden (Cetus Noster, ja Jarmo Julkunen, teorbi).
+
           Ekström: Jeesus on kuollut puolestamme (Pohjois-Kymen musiikkiopiston lapsikuoro/Taina-Maaria Rautasuo, ja Henrik Mossberg, piano).
 
           Herman (sov. Julkunen - Knif - Perkola): Suo, Herra, mun sinuhun uskaltaa (Topi Lehtipuu, tenori, sekä The Spirit of Gambo).
-
-          Tuntematon: Oi Jeesus Kristus, autuuden (Cetus Noster, ja Jarmo Julkunen, teorbi).
 
           Salminen: Ristin luona (Jippu).
 
@@ -95,6 +95,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-13T08:10:00+02:00'
         end_time: '2025-03-13T09:00:00+02:00'
+        description: |-
+          Mitä Ukrainan ja Venäjän mahdollisesta aselevosta pitäisi ajatella? Keskustelemassa Johannes Koskinen (sd.), Sofia Vikman (kok.) ja Pekka Haavisto (vihr.). Lähetyksessä kuullaan myös raportti Kiovasta Ukrainan-toimittajalta Maxim Fedorovilta.
+
+          Yhdysvalloissa pörssikurssit heiluvat ja EU on ilmoittanut asettavansa vastatulleja yhdysvaltalaisille tuotteille. Onko USA:n talous ajautumassa taantumaan? Keskustelemassa Suomen Pankin ekonomisti Risto Rönkkö ja OP:n pääanalyytikko Antti Saari.
+
+          Mitä suomalaiset ajattelevat tulevaisuudesta? Sitran tuoreesta tulevaisuusbarometristä kertoo puhelimessa johtava asiantuntija Jukka Vahti.
+
+          Juontajana Atte Uusinoka, toimittajana Roosa Kajander, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-13T09:00:00+02:00'
         end_time: '2025-03-13T09:05:00+02:00'
@@ -148,7 +157,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-13T12:56:00+02:00'
         end_time: '2025-03-13T13:00:00+02:00'
-        series: Yksi on hyvää seuraa
       - title: 'Politiikkaradio: Puheenjohtajatentti'
         start_time: '2025-03-13T13:00:00+02:00'
         end_time: '2025-03-13T13:30:00+02:00'
@@ -164,15 +172,20 @@ data:
       - title: Yle Uutiset
         start_time: '2025-03-13T15:00:00+02:00'
         end_time: '2025-03-13T15:02:00+02:00'
-      - title: 'Kulttuuriykkönen: Kulutuskulttuurin oravanpyörä: Pikamuodin ja halpatuotteiden vaikutukset '
+      - title: 'Kulttuuriykkönen: Kulutuskulttuurin oravanpyörä: yhäti kasvavan kuluttamisen syyt ja seuraukset '
         start_time: '2025-03-13T15:02:00+02:00'
         end_time: '2025-03-13T15:55:00+02:00'
-        description: |
-          Länsimainen elämäntapa pyörii pitkälti kuluttamisen ympärillä. Uusien vaatteiden ja tavaroiden kuluttaminen on kiihtynyt kovaa tahtia ja viimeisimpänä paljon puhuttaneena ilmiönä on ultrapikamuoti- ja kiinalaisista verkkokaupoista tilattava halpa krääsä. Esimerkiksi tulli on älähtänyt olevansa pulassa EU:n ulkopuolelta tulevien lähetysten määrän kanssa. Suomeen tilattiin viime vuonna 28,2 miljoonaa lähetystä ja kahdessa vuodessa määrä on 35-kertaistunut.   
+        description: |+
+          Länsimainen elämäntapa pyörii pitkälti kuluttamisen ympärillä. Ihmisille kaupitellaan onnea materian muodossa ja uusia tarpeita synnytetään tehokkaasti. Muodin syklit ovat nopeita ja uusimpia villityksiä tulvii silmille varsinkin sosiaalisessa mediassa.  
 
-          Kulttuuriykkönen pohtii kulutuskulttuurin muutosta viime vuosikymmeninä. Millaisia seurauksia nykyisellä halvan tavaran valtavalla ostamisella on? Miksi ostamme kaiken maailman turhanpäiväisiä tuotteita? Lopetammeko ikinä ylenpalttista ostamista? Vastaliikehdintää on toki myös paljon ilmassa. 
+          Vaatteiden ja tavaroiden kuluttaminen on kiihtynyt kovaa tahtia ja viimeisimpänä paljon puhuttaneena ilmiönä on ultrapikamuoti- ja kiinalaisista verkkokaupoista, kuten Temusta, tilattava halpa krääsä. Esimerkiksi tulli on älähtänyt olevansa pulassa EU:n ulkopuolelta tulevien lähetysten määrän kanssa. Suomeen tilattiin viime vuonna 28,2 miljoonaa lähetystä ja kahdessa vuodessa määrä on 35-kertaistunut.   
 
-          Vieraana ovat LUT-kauppakorkeakoulun markkinoinnin apulaisprofessori Jenni Sipilä, Helsingin yliopiston kuluttajatutkimuskeskuksen tutkija Essi Pöyry ja Eetti Ry:n toiminnanjohtaja Emmi Mikkilä. Lähetyksessä vierailee myös väitöskirjatutkija Jannica Nyman. Toimittaja on Reetta Arvila. 
+          Kulttuuriykkönen pohtii kulutuskulttuurin muutosta viime vuosikymmeninä. Millaisia mekanismeja kuluttamisen taustalla on? Mistä kulutustarpeet syntyvät? Miksi ostaminen ja omistaminen tekee meidät onnelliseksi? 
+
+          Entä millaisia seurauksia nykyisellä valtavalla erityisen halvan tavaran ostamisella on?. Lopetammeko ikinä ylenpalttista kuluttamista? Vastaliikehdintää on toki myös paljon ilmassa: Löytyykö esimerkiksi aktivismista apuja kestävämmän elämäntavan omaksumiseen? 
+
+          Vieraana ovat yliopistotutkija ja markkinoinnin dosentti Essi Pöyry, LUT-kauppakorkeakoulun markkinoinnin apulaisprofessori Jenni Sipilä, Eetti Ry:n toiminnanjohtaja Emmi Mikkilä sekä väitöskirjatutkija Jannica Nyman. Toimittaja on Reetta Arvila.
+
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-13T15:55:00+02:00'
@@ -213,7 +226,8 @@ data:
         start_time: '2025-03-13T17:10:00+02:00'
         end_time: '2025-03-13T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Puolueet kärsivät ehdokaskadosta tulevissa kuntavaaleissa, ja osassa kunnista valtuustopaikkoja on lähes saman verran kuin ehdokkaita. Mikä on demokratian tila Suomen kunnissa? Sami Lindforsin vieraana kunta- ja aluejohtamisen yliopistonlehtori Anni Jäntti Tampereen yliopistosta.
+        series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-03-13T17:35:00+02:00'
         end_time: '2025-03-13T18:25:00+02:00'
