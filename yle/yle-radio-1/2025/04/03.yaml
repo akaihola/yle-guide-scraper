@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-13T02:30:33.116089+00:00'
+  generated_at: '2025-03-14T02:29:20.485620+00:00'
   git:
     branch: main
-    commit: 816ce46fe32cc3d3b8013ab08f2e6dcafdd6c46a
-  data_hash: 8ba74a56f1160926b4ef32f86ddc4682e30eebb71705f4f4e58104cd02e77f7a
+    commit: c5e587b3a4488121bdc851ff5a5131736d79fdbc
+  data_hash: 20057d645c2f62aab8a424b9b7b4dd1ed2fc4905ac2a7d5f7a805d6abd80d0f6
 data:
   Yle Radio 1:
     programmes:
@@ -22,8 +22,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-04-03T06:50:00+03:00'
         end_time: '2025-04-03T06:59:59+03:00'
-        description: |-
-          Aalto-Yliopiston oppilaitospappi Kristiina Huotari, Espoo
+        description: |
+          "Mahdottomasta mahdollista"
+          Aalto-Yliopiston oppilaitospappi Kristiina Huotari Espoosta ottaa kuulijat mukaansa  arkkitehtuurikierrokselle Otaniemen Dipoliin ja pohtii ihmeiden olemusta.
+        series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-03T07:00:00+03:00'
         end_time: '2025-04-03T07:10:00+03:00'
@@ -115,7 +117,6 @@ data:
         end_time: '2025-04-03T18:34:30+03:00'
         description: |-
           Toimittajana on Jari Aula.
-        series: Kielen päällä
       - title: Hartaita säveliä
         start_time: '2025-04-03T18:35:00+03:00'
         end_time: '2025-04-03T18:50:00+03:00'
@@ -138,9 +139,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-03T19:00:00+03:00'
         end_time: '2025-04-03T19:02:00+03:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertteja Juurijuhlasta 2022
         start_time: '2025-04-03T19:02:00+03:00'
         end_time: '2025-04-03T21:00:00+03:00'
+        description: |
+          Italialaista hovielämää 1600-luvulta, pohjalaisen talonpoikaistuvan elämänmenoa, amerikansuomalaisten kohtaloita ja muusikon elämää nykyajassa tarjoillaan Etnokonsertissa, joka on nauhoitettu huhtikuun alussa 2022 Espoon Juurijuhlassa. Ensimmäinen konsertti vie Espoon Tuomiokirkon saliin, missä katto on korkealla ja niissä katselevat seinämaalaukset 1400-luvulta. Barokkiviulisti Kreeta-Maria Kentala ja cembalonsoittaja Tea Polso saivat kirkkosalin soimaan upeasti esityksellään, jossa he yhdistelevät italialaisen säveltäjän ja viulistin Giovanni Antonio Pandolfi Meallin teoksia pohjanmaan polskaperinteeseen. Illan päättää tarinat amerikansuomalaisten kohtaloista, kun Sellosalin lavalle nousee Aija Puurtinen ja Brooklynin satu. Ohjelman toimittaa Tuuli Saksala. 
         series: Etnokonsertteja
       - title: Politiikkaradio
         start_time: '2025-04-03T21:05:00+03:00'

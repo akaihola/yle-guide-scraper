@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-13T02:30:27.251030+00:00'
+  generated_at: '2025-03-14T02:29:13.483285+00:00'
   git:
     branch: main
-    commit: 816ce46fe32cc3d3b8013ab08f2e6dcafdd6c46a
-  data_hash: 8ba74a56f1160926b4ef32f86ddc4682e30eebb71705f4f4e58104cd02e77f7a
+    commit: c5e587b3a4488121bdc851ff5a5131736d79fdbc
+  data_hash: 20057d645c2f62aab8a424b9b7b4dd1ed2fc4905ac2a7d5f7a805d6abd80d0f6
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,19 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-14T08:10:00+02:00'
         end_time: '2025-03-14T09:00:00+02:00'
+        description: |-
+          8.11 Millainen vastaus Venäjältä aselepoehdotukseen? Keskustelemassa strategiajohtaja  Antti Helanterä ulkoministeriöstä sekä kenraali evp., kansanedustaja Jarmo Lindberg (kok.). 
+          Washingtonista raportoi Juri von Bonsdorff. 
+
+          8.32 Mitä tapahtuu Syyriassa? Keskustelemassa väitöskirjatutkija Tiina Hyyppä Helsingin yliopistosta sekä vanhempi tutkija Toni Alaranta Ulkopoliittisesta instituutista. 
+
+          8.50 Miltä näyttää asuntomarkkinoilla?
+
+          8.54 Millaiset taudit jylläävät? Haastateltavana tartuntatautilääkäri Aino Nyqvist THL:stä.  
+
+          Juontajana Mira Stenström. Toimittajina Anssi Väisänen ja Satu Heikkilä. 
+          Tuottajana Marija Skara. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-14T09:00:00+02:00'
         end_time: '2025-03-14T09:05:00+02:00'
@@ -127,7 +140,7 @@ data:
         start_time: '2025-03-14T11:00:00+02:00'
         end_time: '2025-03-14T11:55:00+02:00'
         description: |
-          Juho ja Maria Lallukan Taiteilijakotisäätiö perustettiiin 100 vuotta sitten. Juhlavuoden kunniaksi sekä Lallukassa asuneiden että siellä nykyisin asuvien muusikoiden teoksia ja esityksiä on koottu yksiin kansiin. Ohjelmassa tavataan myös levyhankkeen suunnittelija Olli Kortekangas. 
+          Juho ja Maria Lallukan taiteilijakotisäätiö perustettiiin 100 vuotta sitten. Juhlavuoden kunniaksi sekä Lallukassa asuneiden että siellä nykyisin asuvien muusikoiden teoksia ja esityksiä on koottu yksiin kansiin. Ohjelmassa tavataan myös levyhankkeen suunnittelija Olli Kortekangas. 
           Toimittajana Outi Paananen.
         series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
@@ -139,19 +152,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-14T12:00:00+02:00'
         end_time: '2025-03-14T12:10:00+02:00'
-      - title: 'Tiedeykkönen: Epigenetiikka '
+      - title: 'Tiedeykkönen: Voiko kaltoinkohtelu lapsuudessa näkyä lapsenlapsissa? Tutkijat selvittävät epigeneettistä periytymistä'
         start_time: '2025-03-14T12:10:00+02:00'
         end_time: '2025-03-14T12:59:30+02:00'
-        description: |+
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta. 
-
-
+        description: |
+          Kuinka pitkä on solujen epigeneettinen muisti? Nyt tutkitaan, voivatko epigeneettiset muutokset siirtyä lapsillemme. Haastateltavana kliinisen kemian professori Terho Lehtimäki ja akatemiatutkija Emma Raitoharju Tampereen yliopistosta. Toimittajana on Pirjo Koskinen. 
         series: Tiedeykkönen
-      - title: 'Politiikkaradio: Puheenjohtajatentti'
+      - title: 'Politiikkaradio: Puheet päreiksi -live'
         start_time: '2025-03-14T13:00:00+02:00'
         end_time: '2025-03-14T13:30:00+02:00'
-        description: |-
-          Alue- ja kuntavaalien puheenjohtajatentissä on Vasemmistoliiton puheenjohtaja Minja Koskela. Tentaattoreina Politiikkaradion vaalitenteissä ovat Politiikkaradion toimittajat Tapio Pajunen, Linda Pelkonen ja Antti Pilke. Radiolähetyksen lisäksi tentit nähdään Yle Areenassa.
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat Hyvin sanottu -keskustelufestivaalin lähetyksessä politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Keskustelu on äänitetty Hyvin sanottu -keskustelufestivaalilla Lahdessa 27.9.2024. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin. 
         series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-14T13:30:00+02:00'
@@ -176,18 +187,20 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-03-14T16:10:00+02:00'
         end_time: '2025-03-14T16:59:00+02:00'
-        description: |
+        description: |-
+          Gardel: Por una cabeza (Ksenia Sidorova, harmonikka, Aleksands Sitkovetski, viulu, Aleksei Grynyuk, piano, ja Leonard Elschenbroich, sello).
+
+          R. Schumann: Die beiden Grenadiere (Kaksi krenatööriä) (Jorma Hynninen, baritoni, ja Ralf Gothoni, piano).
+
           Peltokoski: Improvisaatio pianolle Mozartin sinfonian n:o 40 g-molli teemoista (Tarmo Peltokoski, piano).
 
           Lauridsen: Sure on this shining night (Spira Ensemble/Kari Turunen, ja Kristian Nyman, piano).
 
-          Ravel: Adagio assai pianokonsertosta G-duuri (Pierre-Laurent Aimard, piano, ja Clevelandin ork./Pierre Boulez).
+          Rautavaara: Joutsenet muuttavat konsertosta Cantus arcticus (Sinfonia Lahti/Osmo Vänskä).
 
-          Wolf: Verschwiegene Liebe (Rita Streich, sopraano, ja Erik Werba, piano).
+          Wolf: Verschwiegene Liebe (Vaitelias rakkaus) (Rita Streich, sopraano, ja Erik Werba, piano).
 
-          Rautavaara: Joutsenet muuttavat, konsertosta linnuille ja orkesterille "Cantus arcticus" (Sinfonia Lahti/Osmo Vänskä).
-
-          R. Schumann: Die beiden Grenadiere (Kaksi krenatööriä) (Jorma Hynninen, baritoni, ja Ralf Gothoni, piano).
+          Ravel: Adagio assai konsertosta pianolle ja orkesterille G-duuri (Pierre-Laurent Aimard ja Clevelandin ork./Pierre Boulez).
 
           J. Strauss, nuor.: Tonava kaunoinen (Chicagon SO/Fritz Reiner).
         series: Faunin iltapäivä
@@ -198,7 +211,8 @@ data:
         start_time: '2025-03-14T17:10:00+02:00'
         end_time: '2025-03-14T17:34:20+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Yhdysvaltain presidentinvaaleja podcastissaan perannut Ylen entinen kirjeenvaihtaja Iida Tikka on valittu vuoden journalistiksi ja palkittu Suurella journalistipalkinnolla. Hänen toimittamansa Iida Tikka & mureneva maa oli yksi viime vuoden kuunnelluimmista podcasteista Yle Areenassa. Tässä Uutispodcastin uusintajaksossa Iida tapaa Zach Rehlin, joka on yksi Trumpin armahtamista 2021 kongressihyökkäykseen osallistuneista.
+        series: Uutispodcast
       - title: 'Näistä levyistä en luovu: Vieraana näyttelijä ja laulaja Vuokko Hovatta'
         start_time: '2025-03-14T17:35:00+02:00'
         end_time: '2025-03-14T18:30:00+02:00'

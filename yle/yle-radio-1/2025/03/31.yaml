@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-13T02:30:32.368286+00:00'
+  generated_at: '2025-03-14T02:29:19.636967+00:00'
   git:
     branch: main
-    commit: 816ce46fe32cc3d3b8013ab08f2e6dcafdd6c46a
-  data_hash: 8ba74a56f1160926b4ef32f86ddc4682e30eebb71705f4f4e58104cd02e77f7a
+    commit: c5e587b3a4488121bdc851ff5a5131736d79fdbc
+  data_hash: 20057d645c2f62aab8a424b9b7b4dd1ed2fc4905ac2a7d5f7a805d6abd80d0f6
 data:
   Yle Radio 1:
     programmes:
@@ -28,8 +28,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-03-31T06:50:00+03:00'
         end_time: '2025-03-31T06:59:59+03:00'
-        description: |-
-          Seurakuntapastori Elias Riikonen, Hämeenlinna
+        description: |
+          "Rakkauden jälki maailmassa"
+          Seurakuntapastori Elias Riikonen Hämeenlinnasta pohtii keittiönpöydän ääressä jälkiä joita ihminen jättää itsestään maailmaan. 
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-31T07:00:00+03:00'
@@ -37,6 +38,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-03-31T07:10:00+03:00'
         end_time: '2025-03-31T07:59:59+03:00'
+        description: |-
+          J. Haydn: Allegro molto jousikvartetosta n:o 8 (John Williams, kitara, Alan Loveday, viulu, Cecil Aronowitz, alttoviulu, Amaryllis Fleming, sello). 
+
+          Monteverdi: Poppean ja Neron duetto oopp. Poppean kruunaus (Molly Quinn ja Jolle Greenleaf, sopraano, sekä Avi Stein, cembalo).
+
+          Schubert: Impromptu Es-duuri (Murray Perahia, piano).
+
+          Silvestrov: Augenblicke der Serenade sarj. Hiljaista musiikkia  (Kiev Virtuosi/Dmitri Jablonski).
+
+          Chaminade: L'anneau d'argent (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          de Falla: Myllärin tanssi bal. Kolmikolkkahattu (Petri Kumela ja Joonas Widenius, kitara).
+
+          Saint-Saëns: Joutsen (Misha Maisky, sello, ja Orpheus-kamariorkesteri).
+
+          Chabrier: Aubade (Aamulaulu) (Angela Hewitt, piano).
+
+          Tshaikovski: Valssi ja apoteoosi bal. Pähkinänsärkijä (New Yorkin FO/Kurt Masur).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-31T08:00:00+03:00'
         end_time: '2025-03-31T08:10:00+03:00'
@@ -117,7 +137,6 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-31T16:10:00+03:00'
         end_time: '2025-03-31T16:59:00+03:00'
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-31T17:00:00+03:00'
         end_time: '2025-03-31T17:10:00+03:00'
