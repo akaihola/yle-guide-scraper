@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-14T02:29:15.026914+00:00'
+  generated_at: '2025-03-15T02:28:16.437103+00:00'
   git:
     branch: main
-    commit: c5e587b3a4488121bdc851ff5a5131736d79fdbc
-  data_hash: 20057d645c2f62aab8a424b9b7b4dd1ed2fc4905ac2a7d5f7a805d6abd80d0f6
+    commit: fc193bd454011b993478a81178e7fd10c833c788
+  data_hash: e2b5c847fd47bc24a7d5623d7ef58886a60b65aad462e3a2c42a4cff463b4347
 data:
   Yle Radio 1:
     programmes:
@@ -113,17 +113,38 @@ data:
           Helsingius: Jag visste så väl (Barbara Helsingius).
           Bacharach: A house is not a home (Brook Benton). 
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Kaipaatko mielenrauhaa? Ota stoalaisilta oppia'
         start_time: '2025-03-18T10:00:00+02:00'
         end_time: '2025-03-18T10:55:00+02:00'
         description: |-
           Miten saavuttaa mielenrauha, kun maailma ympärillä myrskyää? Onko se edes mahdollista? Kyllä, sanovat kouluttajapsykoterapeutti Maaret Kallio sekä stoalaiseen filosofiaan perehtynyt kirjailija, kouluttaja Juhana Torkki.
         series: Sari Valto
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Soitinten nokkimisjärjestyksestä'
         start_time: '2025-03-18T11:00:00+02:00'
         end_time: '2025-03-18T11:57:00+02:00'
-        description: |-
+        description: |
+          Onko olemassa hyviä soittimia ja vähemmän hyviä soittimia?
+          Vai onko se näköharha, tai kuuloharha?
+          Tästä on otettava selvää.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Giuseppe Sammartini: Konsertto oboelle, jousille ja continuolle g-molli op.8/5.
+          3. Adagio - Andante sostenuto (Albrecht Mayer, oboe, ja I Musici di Roma) 
+           
+          Vincenzo Bellini: Konsertto oboelle ja jousille Es-duuri. 1. Maestoso e deciso - 2. Larghetto e cantabile - 3. Allegro alla polonese (Christoph Hartmann, oboe, ja Ensemble Berlin).
+           
+          Pjotr Tshaikovski: Pianokonsertto 1 b-molli, ote ensimmäisestä osasta (Denis Kozhuhin, piano, ja Berliinin radion sinfoniaorkesteri/Vasili Sinaiski).
+           
+          Johann Sebastian Bach: Sonaatti huilulle ja klaveerille n:o 1 h-molli BWV1030, osa 1. Andante (Lisa Beznosiuk, traverso, ja Paul Nicholson, cembalo).
+           
+          Camille Saint-Saëns: Sonaatti fagotille ja pianolle G-duuri op.168, osa 3, Molto adagio - Allegro moderato (Marc Trenel, fagotti, ja Pascal Godart, piano).
+           
+          Maurice Ravel: Tombeau de Couperin, sarja orkesterille, osa 1 Preludi, Vif (Clevelandin orkesteri/Pierre Boulez).
+           
+          Darius Milhaud: La cheminée du roi René, osa La maousinglade (Tanskan radion sinfoniaorkesterin puhallinkvintetti).
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-18T11:57:00+02:00'
         end_time: '2025-03-18T12:00:00+02:00'
@@ -143,9 +164,13 @@ data:
           Etelämantereen ylityksestä tulee selviytymistaistelu jäällä ja merelläa -osan vieraana on professori Jukka Tuhkuri Aalto-yliopistosta. 
 
           Toimittaja Jukka Kuosmanen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Tekeekö suomen kielestä vaikean sanasto, kielioppi vai tuppisuut suomalaiset?'
         start_time: '2025-03-18T12:30:00+02:00'
         end_time: '2025-03-18T12:55:00+02:00'
+        description: |
+          Pasi Heikura selvittää suomen kielen professorin Lari Kotilaisen kanssa, onko suomen kieli maailman vaikein kieli oppia. Ohjelmassa selviää myös, mitä tapahtuu, kun jokin räjäyttää kamelin selän, ja tutkitaan, millainen on huone, joka on maalitahroja solkenaan.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+        series: Aristoteleen kantapää
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-18T12:55:00+02:00'
         end_time: '2025-03-18T13:00:00+02:00'
@@ -224,8 +249,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-03-18T18:50:00+02:00'
         end_time: '2025-03-18T19:00:00+02:00'
-        description: |-
-          Kirkkoherra Timo Tynkkynen, Ortodoksinen kirkko, Lappeenranta
+        description: |
+          "Kristillinen kilvoittelu ei ole ihmisen orjuuttamista"
+          Kirkkoherra Timo Tynkkynen, Ortodoksinen kirkko, Lappeenrannasta pohtii paastokilvoittelun merkitystä ja helposti kompastuskiviksi koituvaa orjallista käskyjen noudattamista
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-03-18T19:00:00+02:00'
@@ -277,9 +303,11 @@ data:
 
           Romano miritsin musiikkisarjan viides osa johdattelee iskelmämusiikin pariin. Toimittajana on Jaakko Laakso. 
         series: Romano mirits
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Verisen kullan maat - Mineraalien aarrearkku Afrikka hakee diilejä sotien varjossa '
         start_time: '2025-03-18T20:35:00+02:00'
         end_time: '2025-03-18T21:00:00+02:00'
+        description: |-
+          Afrikassa käydään Gazan ja Ukrainan varjossa laajaa sotaa. Maailmanpolitiikan  arkipäivää-ohjelmassa tarkastellaan tällä viikolla sitä, miten Sudan ja Kongon demokraattinen tasavalta ovat ajautuneet väkivallan kierteeseen. Ohjelman toimittaa Erja Tuomaala ja tuottaa Paula Vilén. Äänitarkkailija on Tuomas Vauhkonen.
         series: Maailmanpolitiikan arkipäivää
       - title: Yle Uutiset
         start_time: '2025-03-18T21:00:00+02:00'
