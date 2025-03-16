@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-15T02:28:16.437103+00:00'
+  generated_at: '2025-03-16T02:31:32.115241+00:00'
   git:
     branch: main
-    commit: fc193bd454011b993478a81178e7fd10c833c788
-  data_hash: e2b5c847fd47bc24a7d5623d7ef58886a60b65aad462e3a2c42a4cff463b4347
+    commit: 3d495a78704e1ce8c5eef0588ec0878856c40005
+  data_hash: da687e765ff536735b7bd36ca5f38c25d7a2824646d3531d586dc2a5c776d3ec
 data:
   Yle Radio 1:
     programmes:
@@ -193,7 +193,12 @@ data:
         start_time: '2025-03-18T15:02:00+02:00'
         end_time: '2025-03-18T15:55:00+02:00'
         description: |
+          Moldovalaisen teatterintekijä Nicoleta Esinencun suomeksi ilmestyvä näytelmä Edistyssinfonia luo rujon kuvan Euroopan eriarvoisuudesta itäeurooppalaisten siirtotyöläisten näkökulmasta. Eurooppalaisesta poliittisesta teatterista ovat Kulttuuriykkösessä keskustelemassa näytelmän suomentaja, toimittaja Tuukka Tuomasjukka, kriitikko Maria Säkö ja Kansallisteatteriin Jumalat-näytelmän ohjannut Juhana von Bagh. Myös Jumalat-näytelmä kysyy, miltä Eurooppa näyttää teatterilavalta käsin.
+          Ohjelman juontaa Pietari Kylmälä.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-18T15:55:00+02:00'
         end_time: '2025-03-18T15:58:00+02:00'
@@ -205,7 +210,6 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-18T16:10:00+02:00'
         end_time: '2025-03-18T16:59:00+02:00'
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-18T17:00:00+02:00'
         end_time: '2025-03-18T17:10:00+02:00'
@@ -322,9 +326,11 @@ data:
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: Miia Krause
         start_time: '2025-03-18T22:30:00+02:00'
-        end_time: '2025-03-18T23:16:30+02:00'
+        end_time: '2025-03-18T23:16:04+02:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Sarjakuvapiirtäjä Pertti Jarla:
+          "Meillä kun isä sanoi perkeleen niin äiti ojensi. Ja kyllä mummon päiväkirjoihin oli tarkasti merkitty kaikki radion ja tv:n jumalanpalvelusten lähetysajat."
+        series: Miia Krause
       - title: Yöklassinen
         start_time: '2025-03-18T23:40:00+02:00'
         end_time: '2025-03-19T06:30:00+02:00'
