@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-17T02:31:21.798255+00:00'
+  generated_at: '2025-03-18T02:31:11.880349+00:00'
   git:
     branch: main
-    commit: 0f098a7ed81c55d7ead0239467e7145f737600bc
-  data_hash: 1db13eb137c6d573a7cada3075912207ef8d0bae6cc0cbcb491cfcfc88840b3e
+    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
+  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
 data:
   Yle Radio 1:
     programmes:
@@ -84,11 +84,11 @@ data:
           Simon: April come she will (Simon and Garfunkel).
           Landgren: Myllärin Irene (Matti Lehto).
           Gershwin: Bess, you is my woman now (Ella Fitzgerald ja Louis Armstrong).
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Ruokakaupan muutokset - vieraana Hannu Aaltonen'
         start_time: '2025-03-24T10:00:00+02:00'
         end_time: '2025-03-24T10:50:00+02:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Ruokakaupan muutokset - vieraana Hannu Aaltonen
         series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-03-24T11:00:00+02:00'
@@ -151,8 +151,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-03-24T18:35:00+02:00'
         end_time: '2025-03-24T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          Koraalitoisinto: Minä vaivainen oon, mato matkamies maan (Lapuan taisteluvirsi) (Etelä-Pohjanmaan Mieslaulajat Jussit/Ensti Pohjola).
+
+          I. Kuusisto: Magnificat (Aulikki Eerola, sopraano, Jorma Hynninen, baritoni, Markku Mäkinen, urut, sekä Johanneksen Kamarikuoro ja Johanneksen Kamariorkesteri/Pertti Eerola).
+
+          Haunio: Kuin lapsesi olisi hän (Miri Rantio ja Joel Bonsdorff, laulu, Exodus-kuoro, sekä yhtye).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-03-24T18:50:00+02:00'
         end_time: '2025-03-24T19:00:00+02:00'
@@ -179,7 +184,6 @@ data:
         end_time: '2025-03-24T19:57:00+02:00'
         description: |2+
 
-        series: Musiikkikamari
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-24T19:57:00+02:00'
         end_time: '2025-03-24T20:00:00+02:00'
@@ -203,9 +207,16 @@ data:
         end_time: '2025-03-24T22:24:30+02:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
+      - title: 'Suuren meriseikkailun jäljillä: Etelämantereen ylityksestä tulee selviytymistaistelu jäällä ja merellä'
         start_time: '2025-03-24T22:25:00+02:00'
-        end_time: '2025-03-24T22:44:30+02:00'
+        end_time: '2025-03-24T22:43:19+02:00'
+        description: |
+          Britti Ernest Shackletonin retkikunnan Endurance-laivan haaksirikkoutui Etelämantereella  vuonna 1915 ja retkikunnan tavoite kariutui hetkessä. Silti Shackletonista tuli sankari ja juuri Endurancen haaksirikosta kaikkien aikojen meriseikkailu. Millainen oli retkikunnan kohtalo ja kuinka Endurance-laivan hylyn jäljille voi päästä nykyään myös Suomessa?
+
+          Etelämantereen ylityksestä tulee selviytymistaistelu jäällä ja merelläa -osan vieraana on professori Jukka Tuhkuri Aalto-yliopistosta. 
+
+          Toimittaja Jukka Kuosmanen.
+        series: Suuren meriseikkailun jäljillä
       - title: Näistä levyistä en luovu
         start_time: '2025-03-24T22:45:00+02:00'
         end_time: '2025-03-24T23:39:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-17T02:31:27.743198+00:00'
+  generated_at: '2025-03-18T02:31:24.533862+00:00'
   git:
     branch: main
-    commit: 0f098a7ed81c55d7ead0239467e7145f737600bc
-  data_hash: 1db13eb137c6d573a7cada3075912207ef8d0bae6cc0cbcb491cfcfc88840b3e
+    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
+  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
 data:
   Yle Radio 1:
     programmes:
@@ -117,6 +117,7 @@ data:
         end_time: '2025-04-14T18:50:00+03:00'
         description: |
           Kuuntelijoiden toivomaa hengellistä musiikkia.
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-04-14T18:50:00+03:00'
         end_time: '2025-04-14T19:00:00+03:00'

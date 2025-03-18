@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-17T02:31:29.473734+00:00'
+  generated_at: '2025-03-18T02:31:29.270650+00:00'
   git:
     branch: main
-    commit: 0f098a7ed81c55d7ead0239467e7145f737600bc
-  data_hash: 1db13eb137c6d573a7cada3075912207ef8d0bae6cc0cbcb491cfcfc88840b3e
+    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
+  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
 data:
   Yle Radio 1:
     programmes:
@@ -12,3 +12,87 @@ data:
         end_time: '2025-04-21T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
+      - title: Aamuklassinen
+        start_time: '2025-04-21T06:30:00+03:00'
+        end_time: '2025-04-21T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-21T08:00:00+03:00'
+        end_time: '2025-04-21T08:10:00+03:00'
+      - title: 'Tiedeykkönen: Pääsiäisen hyvät, pahat ja heikot'
+        start_time: '2025-04-21T08:06:00+03:00'
+        end_time: '2025-04-21T08:53:00+03:00'
+        description: |-
+          Tiedeykkösessä otetaan lähempään tarkasteluun neljä henkilöä, jotka Raamatun mukaan vaikuttivat Jeesus Nasaretilaisen elämän tärkeimmissä kohtauksissa: Magdalan Maria, Simon Pietari, epäilevä Tuomas sekä Juudas Iskariot. 
+
+          Ohjelman haastateltavina ovat Kuopion hiippakunnan emerituspiispa ja eksegetiikan dosentti Wille Riekkinen sekä Helsingin yliopiston Uuden testamentin eksegetiikan dosentti ja yliopistonlehtori Outi Lehtipuu. Toimittaja on Riikka Suikkari. 
+
+          Ohjelmaan liittyy myös testi, joka kertoo, kuinka hyvin tunnet hiljaisen viikon henkilöhahmot.
+        series: Tiedeykkönen
+      - title: Muistojen bulevardi
+        start_time: '2025-04-21T09:05:40+03:00'
+        end_time: '2025-04-21T09:55:00+03:00'
+        series: Muistojen bulevardi
+      - title: Tervetuloa jumalanpalvelukseen
+        start_time: '2025-04-21T09:56:00+03:00'
+        end_time: '2025-04-21T09:59:00+03:00'
+      - title: Jumalanpalvelus ja saamelaiset kirkossa -antologian julkistustilaisuus Hetan kirkosta
+        start_time: '2025-04-21T10:00:00+03:00'
+        end_time: '2025-04-21T11:00:00+03:00'
+        series: Jumalanpalvelukset radiossa
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-21T12:00:00+03:00'
+        end_time: '2025-04-21T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2025-04-21T12:05:00+03:00'
+        end_time: '2025-04-21T12:55:00+03:00'
+        description: |
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        series: Elävä historia
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-04-21T13:00:00+03:00'
+        end_time: '2025-04-21T15:00:00+03:00'
+        series: Radio 1:n iltapäivä
+      - title: Taiteilijatapaaminen
+        start_time: '2025-04-21T15:00:00+03:00'
+        end_time: '2025-04-21T15:55:00+03:00'
+        description: |2+
+
+        series: Taiteilijatapaaminen
+      - title: Tämäkin on totta -podcast
+        start_time: '2025-04-21T17:10:00+03:00'
+        end_time: '2025-04-21T17:25:00+03:00'
+        description: |
+          Ymmärrä ja ylläpidä älykkyyttäsi. Psykologian professori Markus Jokela kertoo, millaiset asiat älykkyyteen vaikuttavat ja miten se ilmenee arkielämässä. Entä mitä ihminen voi tehdä älykkyytensä kehittämiseksi?
+
+          Haastateltava: Markus Jokela
+          Toimittaja: Raili Löyttyniemi
+          Tuottaja: Anna-Leena Lappalainen
+          Äänisuunnittelu: Laura Koso
+      - title: 'Salatut eläimet: Kettu'
+        start_time: '2025-04-21T18:35:00+03:00'
+        end_time: '2025-04-21T18:55:00+03:00'
+        description: |
+          Ketut eivät ole suuria jumalia. Yleensä niille on varattu huijariroiston rooli. Tämä selviää, kun Kaisa Pulakka uppoutuu kettujen mytologiaan. Oveluus liitetään kettuihin lähes kaikissa kulttuureissa, mutta Aasiassa ketut ovat oveluuden lisäksi hurjia ja taikavoimaisia jumalolentoja. Suomessa kettu oli arvokas saaliseläin, jonka saamiseksi rukoiltiin metsänhaltija Käreitärtä. Ohjelmasta paljastuu myös, miksi toimittaja Pulakka haluaisi vaihtaa Suomen valtauskonnon luomiskertomuksen intiaanilegendaan hopeaketusta. Ohjelmasarjan on toimittanut Kaisa Pulakka ja lukijana on Pietari Kylmälä.
+        series: Salatut eläimet
+      - title: Tosi tarina
+        start_time: '2025-04-21T19:02:40+03:00'
+        end_time: '2025-04-21T19:50:00+03:00'
+        series: Tosi tarina
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-04-21T19:50:00+03:00'
+        end_time: '2025-04-21T20:00:00+03:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2025-04-21T20:00:00+03:00'
+        end_time: '2025-04-21T20:55:00+03:00'
+        series: Havaintoja muutoksesta
+      - title: 'Outopodcast: Varjo-olento valvoo vuoteesi vieressä'
+        start_time: '2025-04-21T21:05:00+03:00'
+        end_time: '2025-04-21T21:27:00+03:00'
+        description: |
+          Varjoisat nurkat kätkevät hämäräänsä meitä tarkkailevia olentoja, joiden aikeita emme ymmärrä. Väreileviä tikku-ukkoja taas ei voi olla huomaamatta, niin outoja ne ovat. Mustasilmäiset lapset ilmestyvät esittämään harmittoman oloisia pyyntöjä, mutta huokuvat luonnotonta uhkaa. Internet on tuonut yhteen hirviöiden näkijät ja tarinat. Outopodcastissa folkloristi ja historian harrastaja Katja Merituuli Salminen kertoo selittämättömistä tapauksista ja historiallisista mysteereistä, joista on tullut kuolemattomia kulkutarinoita.
+      - title: Tiedeykkönen
+        start_time: '2025-04-21T21:28:00+03:00'
+        end_time: '2025-04-21T22:17:00+03:00'
+        description: |
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.

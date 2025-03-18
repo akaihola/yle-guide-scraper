@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-17T02:31:21.289348+00:00'
+  generated_at: '2025-03-18T02:31:05.881121+00:00'
   git:
     branch: main
-    commit: 0f098a7ed81c55d7ead0239467e7145f737600bc
-  data_hash: 1db13eb137c6d573a7cada3075912207ef8d0bae6cc0cbcb491cfcfc88840b3e
+    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
+  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-03-22T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-03-22T06:30:00+02:00'
         end_time: '2025-03-22T07:00:00+02:00'
@@ -41,6 +40,20 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-03-22T08:05:00+02:00'
         end_time: '2025-03-22T08:25:00+02:00'
+        description: |-
+          Sleesialainen kansanlaulu (sov. Pukkila): Jo puhkes kolme ruusua (Nuorisokuoro Linnanneidot ja Naiskuoro Bel canto/Leena Astikainen).
+
+          Kansansävelmä - Dillan - Folden: Maria, hun er en jomfru ren (Maria, puhdas neitsyt) (Gjermund Larsen, viulu, Rolf Lislevand, luuttu, ja Björn Kjellemyr, kontrabasso).
+
+          Hyvönen: Minun sieluni ylistää Jumalan suuruutta (Leena Saarinen, Kirsi Korhonen, Heidi Numminen ja Heli Numminen, laulu, ja Jaak Luts, piano).
+
+          Mäntyjärvi: Magnificat (Cambridgen Trinity Collegen kuoro/Stephen Layton).
+
+          Anonyymi: Jumalansynnyttäjän Neitseen Marian ilmestys (Kamarikuoro Krysostomos/Mikko Sidoroff).
+
+          Pärt: Bogoroditse devo, raduisja (Iloitse, Jumalansynnyttäjä) (Viron filharmonian kamarikuoro/Paul Hillier).
+
+          Krasnostovski: Iloitse, Jumalanäiti (Ortodoksinen Kamarikuoro/Juhani Matsi).
         series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-03-22T08:25:00+02:00'
@@ -81,7 +94,6 @@ data:
           Dylan: I shall be released (The Tremeloes).
           Migliacci/Mattone: Al bar si muore (Gianni Morandi).
           Andersson/Ulvaeus: The winner takes it all (Abba).
-        series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-03-22T10:00:00+02:00'
         end_time: '2025-03-22T10:05:00+02:00'
@@ -148,7 +160,7 @@ data:
         start_time: '2025-03-22T15:30:00+02:00'
         end_time: '2025-03-22T15:55:00+02:00'
         description: |
-          Pasi Heikura selvittää suomen kielen professorin Lari Kotilaisen kanssa, onko suomen kieli maailman vaikein kieli oppia. Ohjelmassa selviää myös, mitä tapahtuu, kun jokin räjäyttää kamelin selän, ja tutkitaan, millainen on huone, joka on maalitahroja solkenaan.
+          Pasi Heikura selvittää suomen kielen professori Lari Kotilaisen kanssa, onko suomen kieli maailman vaikein kieli oppia. Ohjelmassa selviää myös, mitä tapahtuu, kun jokin räjäyttää kamelin selän, ja tutkitaan, millainen on huone, joka on maalitahroja solkenaan.
           Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
       - title: Yle News
@@ -202,9 +214,9 @@ data:
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: 'Oopperailta Suomen kansallisoopperassa - Leevi Madetoja: Pohjalaisia'
         start_time: '2025-03-22T19:02:00+02:00'
-        end_time: '2025-03-22T22:00:00+02:00'
+        end_time: '2025-03-22T22:10:00+02:00'
         description: |
-          Kolminäytöksinen ooppera vuodelta 1924 säveltäjän omaan librettoon. - Suomen kansallisoopperan kuoro ja orkesteri, joht. Kaapo Ijas. Erkki - Jukka Rasilainen, baritoni. Jussi - Ville Rusanen, baritoni. Maija - Maria Turunen, sopraano. Liisa - Johanna Nylund, sopraano. Antti Hanka - Johannes Vatjus, tenori. Kaisa - Päivi Nisula, sopraano. Salttu - Aki Alamikkotervo, tenori. Kaappo - Ilkka Hämäläinen, tenori. Vallesmanni - Tuomas Pursio, bassobaritoni. - Äänitetty Suomen kansallisoopperassa 12.12.2024. Illan aikana historiantutkija Elina Kuorelahti, kapellimestari Kaapo Ijas sekä toimittaja Ahti Paunu keskustelevat teoksesta ja sen esityksestä.
+          Kolminäytöksinen ooppera vuodelta 1924 säveltäjän omaan librettoon. - Suomen kansallisoopperan kuoro ja orkesteri, joht. Kaapo Ijas. Erkki - Jukka Rasilainen. Jussi - Ville Rusanen. Maija - Maria Turunen. Liisa - Johanna Nylund. Antti Hanka - Johannes Vatjus. Kaisa - Päivi Nisula. Salttu - Aki Alamikkotervo. Kaappo - Ilkka Hämäläinen. Vallesmanni - Tuomas Pursio. - Äänitetty Suomen kansallisoopperassa 12.12.2024. Illan aikana historiantutkija Elina Kuorelahti, kapellimestari Kaapo Ijas sekä toimittaja Ahti Paunu keskustelevat teoksesta ja sen esityksestä.
         series: Ooppera
       - title: Uutispodcast
         start_time: '2025-03-22T21:03:00+02:00'
