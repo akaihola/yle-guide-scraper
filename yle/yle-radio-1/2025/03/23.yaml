@@ -1,12 +1,56 @@
 metadata:
-  generated_at: '2025-03-18T02:31:08.738608+00:00'
+  generated_at: '2025-03-19T02:30:40.257272+00:00'
   git:
     branch: main
-    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
-  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
+    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
+  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-03-22T23:40:00+02:00'
+        end_time: '2025-03-23T07:00:00+02:00'
+        description: |-
+          di Lasso: Standomi un giorno (Cantus Cölln/Konrad Junghänel, luuttu).
+
+          23:56 Leclair: Sonaatti g-molli op.13/3 (Purcell-kvartetti).
+
+          00:11 Dvorák: Runollisia sävelkuvia (Inna Poroshina, piano).
+
+          01:09 Telemann: Sonaatti huilulle ja continuolle G-duuri (Frans Brüggen, nokkahuilu, Anner Bylsma, sello, ja Gustav Leonhardt, cembalo).
+
+          01:20 Grainger: In a nutshell (Pähkinänkuoressa) (Birminghamin SO/Simon Rattle).
+
+          01:40 Schumann (sov. Knudsvig): Kinderszenen (Lapsikuvia) (Rekkenze Brass).
+
+          01:58 Rufinatscha: Sinfonia n:o 6 D-duuri (BBC:n FO/Gianandrea Noseda).
+
+          02:55 Bister (sov.): Kokko lensi koillisesta (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          02:57 Beethoven: Jousikvartetto n:o 4 c-molli (Borodin-kvartetti).
+
+          03:19 Kirchner: Nachtbild n:o 2 ja n:o 3 op. 25 (Michael Krücker, piano).
+
+          03:26 Weber: Fagottikonsertto F-duuri (Peter Whelan ja Skotlantilainen kamariork./Alexander Janiczek).
+
+          03:45 Novák: Jousikvartetto n:o 2 D-duuri (Janácek-kvartetti).
+
+          04:16 Schubert: Die Götter Griechenlands (Elly Ameling, sopraano, ja Rudolf Jansen, piano).
+
+          04:21 Eichner: Harppukonsertto D-duuri (Marion Hofmann ja Berliinin SO:n kamariork./Hans-Peter Frank).
+
+          04:45 Schubert: Jousikvartetto n:o 14 d-molli (Tyttö ja kuolema) (Hagen-kvartetti).
+
+          05:28 Taverner: Missa Corona spinea (The Sixteen/Harry Christophers).
+
+          06:10 Fredrik II Suuri: Sinfonia n:o 3 D-duuri (Carl Philipp Emanuel Bach -kamariorkesteri/ Hartmut Haenchen ja Reinhart Vogel, cembalo).
+
+          06:21 Wassenaer: Sonata prima (Trio de l'Oustal).
+
+          06:29 Lebrun: Oboekonsertto n:o 6 F-duuri (Bart Schneemann ja Alankomaiden radion kamariork./Jan Willem de Vriend).
+
+          06:51 Schmelzer: Sonata Cu Cu (Käki-sonaatti) (Les Passions de l'âme/Meret Lüthi, viulu).
+        series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2025-03-23T07:00:00+02:00'
         end_time: '2025-03-23T07:02:05+02:00'
@@ -156,14 +200,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-23T17:00:00+02:00'
         end_time: '2025-03-23T17:10:00+02:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Duo-kokoonpanojen herkkää yhteispeliä'
         start_time: '2025-03-23T17:11:00+02:00'
-        end_time: '2025-03-23T18:11:00+02:00'
+        end_time: '2025-03-23T18:03:56+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Kahden muusikon välinen yhteistyö voi olla ennen kaikkea soitannollista, mutta kappaleet voivat saada uusia ulottuvuuksia myös yhdessä säveltämisen tuloksena. Olipa parinmuodostus tehty millä perusteella tahansa, duo-kokoonpanoilla on ainutlaatuinen kyky luoda syvän emotionaalinen yhteys sekä toistensa että yleisön kesken.
+        series: Laura Korhosen Jazzklubi
       - title: 'Jazzklubin illan keikka: David Murray Quartet Tampere Jazz Happeningissä.'
-        start_time: '2025-03-23T18:11:00+02:00'
-        end_time: '2025-03-23T19:00:00+02:00'
+        start_time: '2025-03-23T18:03:56+02:00'
+        end_time: '2025-03-23T18:56:41+02:00'
         description: |
           Äänitetty Tullikamarin Pakkahuoneella 1.11.2024.
         series: Jazzklubi
@@ -172,13 +217,13 @@ data:
         end_time: '2025-03-23T19:02:05+02:00'
       - title: 'Jazzklubi special: Haastatteluvieraana amerikkalaissaksofonisti David Murray.'
         start_time: '2025-03-23T19:02:05+02:00'
-        end_time: '2025-03-23T20:00:00+02:00'
+        end_time: '2025-03-23T19:59:03+02:00'
         description: |
           Toimittajana Markku Salo.
         series: Jazzklubi
       - title: Jumalanpalvelus Helluntaikirkosta Forssasta
         start_time: '2025-03-23T20:00:00+02:00'
-        end_time: '2025-03-23T21:00:00+02:00'
+        end_time: '2025-03-23T20:47:45+02:00'
         description: |-
           Jumalanpalvelus Helluntaikirkosta Forssasta
           Puhujana pastori Tommi Hintsanen
@@ -214,11 +259,11 @@ data:
            
           Darius Milhaud: La cheminée du roi René, osa La maousinglade (Tanskan radion sinfoniaorkesterin puhallinkvintetti).
         series: Klasariparatiisi - Eva Tigerstedt
-      - title: Sari Valto
+      - title: 'Sari Valto: Kaipaatko mielenrauhaa? Ota stoalaisilta oppia'
         start_time: '2025-03-23T22:22:00+02:00'
-        end_time: '2025-03-23T23:17:00+02:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        end_time: '2025-03-23T23:16:35+02:00'
+        description: |-
+          Miten saavuttaa mielenrauha, kun maailma ympärillä myrskyää? Onko se edes mahdollista? Kyllä, sanovat kouluttajapsykoterapeutti Maaret Kallio sekä stoalaiseen filosofiaan perehtynyt kirjailija, kouluttaja Juhana Torkki.
         series: Sari Valto
       - title: Romano mirits
         start_time: '2025-03-23T23:25:00+02:00'
@@ -226,3 +271,37 @@ data:
         description: |
           Ajankohtaista asiaa romaneista.
         series: Romano mirits
+      - title: Yöklassinen
+        start_time: '2025-03-23T23:40:00+02:00'
+        end_time: '2025-03-24T06:30:00+02:00'
+        description: |-
+          Cras: Trio jousille (Philippe Graffin, viulu, Miguel da Silva, alttoviulu, ja Henri Demarquette, sello).
+
+          00:05 Moreno: Sinfonia Es-duuri (Miekkailukoulu) (Concerto Köln). 
+
+          00:17 Dett: Tropic winter (Clipper Erickson, piano).
+
+          00:40 Sibelius: Kullervo-sinfonia (Lilli Paasikivi, mezzosopraano, Tommi Hakala, baritoni, YL ja Minnesotan ork./Osmo Vänskä). 
+
+          02:01 Glinka: Matkalaulu (Neuvostoliiton radion suuri kuoro/Klavdi Ptitsa sekä T. Kravtshenko, piano).
+
+          02:05 Mendelssohn: Osia näytelmämus. Kesäyön unelma (Rita Streich, sopraano, Diana Eustrati, altto, sekä Berliinin radion kamarikuoro ja Berliinin filharmonikot/Ferenc Fricsay).
+
+          02:49 Cui: Sonaatti viululle ja pianolle D-duuri (Sophie Lemonnier-Wallez, viulu, ja Philippa Neuteboom, piano).
+
+          03:06 Schütz: Musikalische Exequien (RKK sekä Markku Luolajan-Mikkola, barokkisello ja Markus Malmgren, urut, joht. Otto Kargl).
+
+          03:38 Brahms: Sinfonia n:o 4 e-molli (Bostonin SO/Andris Nelsons).
+
+          04:21 Grainger: Fantasia Gershwinin oopperan Porgy and Bess aiheista (Katia Labèque ja Marielle Labèque, piano).
+
+          04:46 Tshaikovski: Viulukonsertto D-duuri (Viktoria Mullova ja Bostonin SO/Seiji Ozawa).
+
+          05:20 Dvorák: Pianotrio n:o 4 e-molli (Dumky) (Christian Tetzlaff, viulu, Tanja Tetzlaff, sello, ja Lars Vogt, piano).  
+
+          05:53 Buxtehude: Ich habe Lust abzuscheiden (Halu minulla on täältä eritä) (Suzie LeBlanc ja Emma Kirkby, sopraano, ja Peter Harvey, basso, sekä Purcell-kvartetti).
+
+          06:04 Sterkel: Alkusoitto suurelle orkesterille n:o 2 C-duuri (L'Arte del mondo/Werner Ehrhardt).
+
+          06:17 Händel: Triosonaatti g-molli (The English Concert/Trevor Pinnock).
+        series: Syventävää klassista

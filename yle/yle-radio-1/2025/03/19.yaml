@@ -1,17 +1,50 @@
 metadata:
-  generated_at: '2025-03-18T02:30:58.593526+00:00'
+  generated_at: '2025-03-19T02:30:37.641584+00:00'
   git:
     branch: main
-    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
-  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
+    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
+  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-03-18T23:40:00+02:00'
         end_time: '2025-03-19T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Veracini: Sarja orkesterille ja continuolle n:o 1 B-duuri (Kölnin Musica Antiqua/Reinhard Goebel).
+
+          23:54 Donizetti: Norinan aaria oopp. Don Pasquale (Ileana Cotrubas, sopraano, ja Philharmonia-ork./John Pritchard
+
+          00:01 Beethoven: Jousikvartetto n:o 14 cis-molli (Tanskalainen jousikvartetti).
+
+          00:43 Gossec: Sinfonia D-duuri (Münchenin RO/Sebastian Weigle). 
+
+          01:00 Novák: Trio quasi una ballata (pianotrio n:o 2 d-molli) (Prahan Kinsky Trio).
+
+          01:18 Grieg: Kolme kohtausta oopp. Olav Trygvason (Magne Fremmerlid, bassobaritoni, Nina Gravrok, sopraano, ja Marianne E. Andersen, mezzosopraano, sekä Malmön oopperan kuoro ja ork/Bjarte Engeset).
+
+          01:57 Tuma: Partita d-molli jousille ja continuolle (Musici de Praga/Milan Vymer, sekä Pavel Perina, altoviulu, ja Marie Sestáková, cembalo).
+
+          02:14 Farrenc: Valse brillante (Konstanze Eickhorst, piano).
+
+          02:22 Tshaikovski: Sinfonia n:o 5 e-molli (RSO/Paavo Berglund).
+
+          03:09 Arenski: Kvintetto pianolle ja jousille D-duuri (Moskovan Rahmaninov-trio, sekä Leonid Lundstrem, viulu, ja Ilja Gofman, alttoviulu).
+
+          03:33 Englund: Sinfonia n:o 4 (RSO/Leif Segerstam).
+
+          04:00 Schubert: Der Musensohn (Kim Borg, basso, ja Hans Altmann, piano). 
+
+          04:03 von Gemmingen: Viulukonsertto n:o 4 A-duuri (Kolja Lessing ja Münchenin RO/Ulf Schirmer).
+
+          04:32 Brahms: Seitsemän fantasiaa pianolle op.116 (Emanuel Ax, piano). 
+
+          04:57 Furuhjelm: Kvintetto pianolle ja jousille c-molli (Salla Karapkorpi ja Kamus-kvartetti).
+
+          05:36 J.S. Bach: Sonaatti sooloviululle n:o 3 C-duuri (Hilary Hahn).
+
+          06:02 Victoria: Dum complerentur, 6-ääninen messu (The Concord Ensemble). 
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-19T06:30:50+02:00'
         end_time: '2025-03-19T06:50:00+02:00'
@@ -60,6 +93,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-19T08:10:00+02:00'
         end_time: '2025-03-19T09:00:00+02:00'
+        description: |
+          Mitä Yhdysvaltain ja Venäjän presidentit sopivat puhelussaan? Saadaanko Ukrainaan vihdoin aselepo? Keskustelemassa vanhempi tutkija Ville Sinkkonen ja tutkija Jyri Lavikainen Ulkopoliittisesta instituutista.
+
+          Minkälaista keskustelua jalkaväkimiinoista käydään naapurimaassamme Virossa? Toimittaja Rain Kooli raportoi Tallinnasta.
+
+          Onko Lähi-idän aselepo menetetty? Vieraana  vieraileva johtava asiantuntija Olli Ruohomäki Ulkopoliittisesta instituutista.
+
+          Miten ja miksi nuorten arvot ja asenteet ovat muuttuneet viime vuosikymmeninä? Keskustelemassa Nuorisotutkimusverkoston vastaava tutkija Tomi Kiilakoski ja Nuorisovaltuustojen Liiton edunvalvonnan asiantuntija Halla Kokkonen.
+
+          Juontajana Atte Uusinoka, toimittajina Kreeta-Maria Kivioja ja Anssi Väisänen, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-19T09:00:00+02:00'
         end_time: '2025-03-19T09:05:00+02:00'
@@ -83,11 +127,11 @@ data:
           Koivistoinen: Älä mene pois (Carita Holmström).
           Parton: 9 to 5 (Ninni Poijärvi & Hoedown).
         series: Muistojen bulevardi
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Vuorovaikutuksen valta ja vastuu '
         start_time: '2025-03-19T10:00:00+02:00'
         end_time: '2025-03-19T10:50:00+02:00'
         description: |
-          Yhteiskunnalliset ja kulttuuriset muutokset tapahtuvat usein pikkuhiljaa. Kunnes havahdumme kysymään kollektiivisesti: Mitä tämä tarkoittaa? Miten tässä näin kävi? Miltä tulevaisuus vaikuttaa? Toimittaja Satu Kivelä etsii yhdessä vieraidensa kanssa merkityksiä, jotka voivat auttaa ymmärtämään jatkuvaa muutosta.
+          Ongelmallisia vuorovaikutustilanteita ei tule nähdä vain yksilöiden välisenä asiana vaan ilmiönä, jossa ovat läsnä yhtä aikaa menneisyyden paino, sukupuolistuneet normit ja kulttuuri. Toimittaja Satu Kivelä purkaa hiljaisuuksia, pohtii keinoja arvostavan kulttuurin edistämiseksi ja kuvittelemaan tasa-arvoista tulevaisuutta yhdessä Tampereen yliopiston sosiaalipsykologian apulaisprofessori Melisa Stevanovicin ja antirasistisen sosiaalipedagogian asiantuntija Emnet Tarerin kanssa.
         series: Havaintoja muutoksesta
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-19T10:50:00+02:00'
@@ -109,17 +153,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-03-19T12:00:00+02:00'
         end_time: '2025-03-19T12:10:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Keskiajan linnaelämää Suomessa'
         start_time: '2025-03-19T12:10:00+02:00'
         end_time: '2025-03-19T12:59:30+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: 'Politiikkaradio: Puheenjohtajatentti'
         start_time: '2025-03-19T13:00:00+02:00'
         end_time: '2025-03-19T13:30:00+02:00'
         description: |-
           Alue- ja kuntavaalien puheenjohtajatentissä on Vihreiden puheenjohtaja Sofia Virta. Tentaattoreina Politiikkaradion vaalitenteissä ovat Politiikkaradion toimittajat Tapio Pajunen, Linda Pelkonen ja Antti Pilke. Radiolähetyksen lisäksi tentit nähdään Yle Areenassa.
-        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-19T13:30:00+02:00'
         end_time: '2025-03-19T15:00:00+02:00'
@@ -178,7 +222,8 @@ data:
         start_time: '2025-03-19T17:10:00+02:00'
         end_time: '2025-03-19T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Saksassa äänestettiin tiistaina massiivisesta investointipaketista, jolla maa aikoo rakentaa puolustusvoimiaan ja infrastruktuuriaan uuteen uskoon. Millainen muutos Saksassa on käynnissä? Sami Lindforsin vieraana Ylen Eurooppa-kirjeenvaihtaja Anna Karismo.
+        series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Duo-kokoonpanojen herkkää yhteispeliä'
         start_time: '2025-03-19T17:35:00+02:00'
         end_time: '2025-03-19T18:30:00+02:00'
@@ -187,7 +232,7 @@ data:
         series: Laura Korhosen Jazzklubi
       - title: Sinfonia Lahti 75 vuotta & Sibeliustalo 25 vuotta - Juhlakonsertti
         start_time: '2025-03-19T18:30:00+02:00'
-        end_time: '2025-03-19T20:30:00+02:00'
+        end_time: '2025-03-19T21:00:00+02:00'
         description: |
           Ylikapellimestari Dalia Stasevska, Ylioppilaskunnan laulajat, baritoni Ville Rusanen ja sopraano Miina-Liisa Värelä juhlistavat kaksoissyntymäpäiviä Jean Sibeliuksen lähes 75-minuuttisella kuorosinfonialla. Kansallissäveltäjän ensimmäinen suurteos kertoo kalevalaissankarin traagisen tarinan rakastumisineen, taisteluineen ja verisine loppuineen. Kullervo kaikuu alkuvoimaista isänmaallisuutta autonomian ajan Suomesta.
 
@@ -209,8 +254,8 @@ data:
           Jean Sibelius: Kullervo
         series: Konsertteja
       - title: Iltahartaus
-        start_time: '2025-03-19T20:45:00+02:00'
-        end_time: '2025-03-19T20:55:00+02:00'
+        start_time: '2025-03-19T21:05:00+02:00'
+        end_time: '2025-03-19T21:15:00+02:00'
         description: |
           "6. Minä uskon - auta minua epäuskossani"
           Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy onko ihminen Jumalan kuva vielä evoluutioteorian jälkeenkin?
@@ -218,14 +263,15 @@ data:
           Hartaus on kuudes osa keskeisiä kristillisiä oppeja moniarvoisessa maailmassa käsittelevässä sarjassa.
         series: Iltahartaus
       - title: Politiikkaradio
-        start_time: '2025-03-19T21:05:00+02:00'
-        end_time: '2025-03-19T21:34:30+02:00'
-      - title: Satu Kivelä
-        start_time: '2025-03-19T21:35:00+02:00'
-        end_time: '2025-03-19T22:25:00+02:00'
+        start_time: '2025-03-19T21:20:00+02:00'
+        end_time: '2025-03-19T21:50:00+02:00'
+        series: Politiikkaradio
+      - title: Havaintoja muutoksesta
+        start_time: '2025-03-19T21:50:31+02:00'
+        end_time: '2025-03-19T22:40:30+02:00'
       - title: 'What would Samira do: As a muslim girl'
-        start_time: '2025-03-19T22:30:00+02:00'
-        end_time: '2025-03-19T22:49:06+02:00'
+        start_time: '2025-03-19T22:41:00+02:00'
+        end_time: '2025-03-19T23:00:06+02:00'
         description: |-
           Samira tekee videon miten islam on oikeasti naisten puolella, ja tiktok räjähtää. Audiodraamasarja, osa 5/10.
 
@@ -239,8 +285,8 @@ data:
           Tilaaja: Matti Kajander, Yle Draama 2024
         series: What would Samira do
       - title: 'What would Samira do: Seksipositiivinen uskonto'
-        start_time: '2025-03-19T22:49:06+02:00'
-        end_time: '2025-03-19T23:06:37+02:00'
+        start_time: '2025-03-19T23:00:06+02:00'
+        end_time: '2025-03-19T23:17:37+02:00'
         description: |-
           Samira uskaltaa avautua vanhemmilleen, ja tekee videon islamin seksipositiivisuudesta. Audiodraamasarja, osa 6/10.
 
@@ -257,4 +303,37 @@ data:
         start_time: '2025-03-19T23:40:00+02:00'
         end_time: '2025-03-20T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Jacquet de la Guerre: Jacob et Rachel, kantaatti (Sophie Boulin, sopraano, Brigitte Haudebourg, cembalo, Francoise Bloch, viola da gamba, ja Robert Guy, teorbi).
+
+          23:54 Stephan: Musiikkia orkesterille (Melbournen SO/Oleg Caetani).
+
+          00:19 W.A. Mozart: Pianosonaatti n:o 13 B-duuri (Lars Vogt).
+
+          00:42 Raff: Pianotrio n:o 4 D-duuri (Trio Opus 8).
+
+          01:15 Weill: Sinfonia n:o 1 (Deutsche Kammerphilharmonie/Anthony Beaumont).
+
+          01:39 Weber: Concertino e-molli (Alec Frank-Gemmill, käyrätorvi, ja Skotlantilainen kamariork./Alexander Janiczek).
+
+          01:56 Prokofjev: Luutnantti Kizhe, sinfoninen sarja (Chicagon SO/Claudio Abbado).
+
+          02:17 Blondeau: (sov.): Jousikvartetto Beethovenin mukaan n:o 2 D-duuri (Ad Fontes -kvartetti).
+
+          02:42 Reinecke: Harppukonsertto e-molli (Xavier de Maistre ja Reininmaan ja Pfalzin valtiollinen FO/Hannu Lintu).
+
+          03:04 Melartin: Kuusi kappaletta pianolle (Per speculum in enigmatae) (Niklas Pokki).
+
+          03:20 Rimski-Korsakov: Osia näytelmämus. Pihkovan Tyttö (Moskovan SO/Igor Golovshtshin).
+
+          03:43 Schubert: Die Bürgschaft (Christoph Prégardien, tenori, ja Andreas Staier, fortepiano).
+
+          04:01 Tshaikovski: Sarja n:o 3 G-duuri (Emmanuelle Boisvert, viulu, ja Detroitin SO/Neeme Järvi).
+
+          04:46 Saint-Saëns: Sinfonia F-duuri (Rooman kaupunki) (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          05:29 Brahms: Jousikvartetto n:o 3 B-duuri (Borodin-kvartetti).
+
+          06:05 W.A. Mozart: Misero me - Misero pargoletto (Teresa Berganza, mezzosopraano, ja Wienin kamariork./György Fischer).
+
+          06:19 Weichlein: Sonaatti n:o 6 (Ars Antiqua Austria).
+        series: Syventävää klassista

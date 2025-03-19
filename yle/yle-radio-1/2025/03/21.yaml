@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-18T02:31:03.203824+00:00'
+  generated_at: '2025-03-19T02:30:39.202060+00:00'
   git:
     branch: main
-    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
-  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
+    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
+  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,38 @@ data:
         start_time: '2025-03-21T00:00:00+02:00'
         end_time: '2025-03-21T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Wood: Fantasia brittiläisistä merimieslauluista (BBC:n konserttiork./Barry Wordsworth).
+
+          00:13 Saint-Georges: Viulukonsertto D-duuri (Linda Melsted ja Tafelmusik-barokkiork./Jeanne Lamon).
+
+          00:35 W.A. Mozart: Pianotrio n:o 4 B-duuri (André Previn, piano, Anne-Sophie Mutter, viulu, ja Daniel Müller-Schott, sello).
+
+          00:59 Reinecke: Sellokonsertto d-molli (Michael Samis ja Gateway-kamariork./Gregory Wolynec).
+
+          01:27 de Nebra: Miserere (Marta Almajano, sopraano, ja Xenia Meijer, mezzosopraano, sekä vanhan mujsiikin yhtye Al Ayre Español/Eduardo López Banzo).
+
+          02:15 Boccherini: Sinfonia C-duuri op.12/3 (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          02:38 Tshaikovski: Tunteellinen valssi (Peter-Lukas Graf, huilu, ja Konrad Ragossnig, kitara).
+
+          02:41 Bloch: Sarja alttoviululle ja pianolle (Paul Neubauer ja Margo Garrett).
+
+          03:12 Wölfl: Pianosonaatti c-molli (Adalberto Maria Riva).
+
+          03:43 Bartók: Jousikvartetto n:o 1 (Tanskalainen jousikvartetti).
+
+          04:15 Mendelssohn: Sonaatti sellolle ja pianolle n:o 1 B-duuri (Sergei Sudzilovski ja Juri Lisitshenko).
+
+          04:46 Glass: Jousikvartetto n:o 7 (Brooklyn Rider).
+
+          05:04 Chiarini: Il Geloso schernito, ooppera (Caroline Odermatt, sopraano, Christian Tschelebiew, basso, ja Ezio Maria Tisi, puhe, sekä European Festival Orchestra/Wilhelm Keitel).
+
+          05:44 Eberl: Kvintetto C-duuri (Quintuor brillant) (Consortium Classicum).
+
+          06:08 Fux: Partita C-duuri (Les Passions de l'âme/Meret Lüthi, viulu).
+
+          06:19 Loeillet: Sonaatti C-duuri op.3/1 (Dusan Foltýn, oboe, ja Tomás Thon, urut).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-21T06:30:50+02:00'
         end_time: '2025-03-21T06:50:00+02:00'
@@ -68,11 +99,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-03-21T09:05:40+02:00'
         end_time: '2025-03-21T09:58:00+02:00'
-      - title: Ruben Stiller
+        description: |
+          Morrison: Moondance (Van Morrison).
+          Morricone: Mon ami de toujours (Mireille Mathieu).
+          Baker: Il mio domani (Chet Baker ja Ennio Morricone).
+          Polnareff: L'oiseau de nuit (Michel Polnareff).
+          Marini: Vain yksi on (Vieno Kekkonen).
+          Villa-Lobos: Aria sarjasta Bachianas Brasileiras n:o 5 (Joan Baez).
+          Oldfield: Morning of my life (Sally Oldfield).
+          Joel: Just the way you are (Billy Joel).
+          Dixon: The seventh son (Mose Allison).
+          Jobim: Corcovado (Elis Regina & Antonio Carlos Jobim).
+          Jobim: Samba de uma nota so (The Modern Jazz Quartet).
+        series: Muistojen bulevardi
+      - title: 'Ruben Stiller: Opettele mandariinikiinaa! '
         start_time: '2025-03-21T10:00:00+02:00'
         end_time: '2025-03-21T10:55:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Trump pelaa kärsimätöntä ja narsistista pikapeliään, mutta Kiinan tähtäin on pitemmällä. Voittaako Kiina suurvaltojen välisen pitkän pelin? Kannattaako alkaa jo nyt mandariinikiinan opinnot?
+          Ohjelmassa puhutaan Kiinan ja Venäjän suhteiden historiasta, Kiinan  virallisesta historiakäsityksestä ja geopoliittisen pelin skenaarioista. Vieraina ovat Kiina-asiantuntijat Sari Arho Havrén ja Jyrki Kallio.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-21T10:55:00+02:00'
@@ -80,8 +125,9 @@ data:
       - title: Narrin aamulaulu - Jukka Rasilainen, Wagner-baritoni, joka on kulkenut omia teitään
         start_time: '2025-03-21T11:00:00+02:00'
         end_time: '2025-03-21T11:55:00+02:00'
-        description: |
-          Eniten esityksiä Bayreuthissa laulanut suomalainen laulaja toteaa, että moni asia hänen matkallaan taiteen maailmassa on ollut sattumaa. "Karjalaisen evakon poikana en tuntenut kuuluvani minnekään, joten koko maailma oli auki, jos vaan kehityn tarpeeksi." 40-vuotisen uran maailmalla tehnyttä Jukka Rasilaista puhuttaa Outi Paananen. 
+        description: |-
+          Vahvoista rooleistaan tunnettu Jukka Rasilainen toteaa, että moni asia hänen matkallaan taiteen maailmassa on ollut sattumaa. "Karjalaisen evakon poikana en tuntenut kuuluvani minnekään, joten koko maailma oli auki, jos vain kehittyisin tarpeeksi." 
+          40-vuotisen uran tehnyttä Jukka Rasilaista puhuttaa Outi Paananen. 
         series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-21T11:57:00+02:00'
@@ -128,7 +174,26 @@ data:
         start_time: '2025-03-21T16:10:00+02:00'
         end_time: '2025-03-21T16:59:00+02:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Händel: Xerxeen aaria "Ombra mai fu" oopp. Serse (Cecilia Bartoli, mezzosopraano, ja Il Giardino Armonico/Giovanni Antonini). 
+
+          Grieg: Morgenstemning (Aamutunnelma) (BBC:n Skotlannin SO/Hannu Lintu).
+
+          Satie (sov. Hannibal): Gymnopedie n:o 1 (Michala Petri, nokkahuilu, ja Lars Hannibal, kitara).
+
+          Giordani: Caro mio ben (Ah, armainen) (Luciano Pavarotti, tenori, ja Philharmonia-ork./Piero Gamba).
+
+          Chopin: Valssi n:o 2 (Valse brillante) As-duuri (Nikita Magaloff, piano). 
+
+          Elgar: Nimrod Enigma-muunnelmista (Minnesotan ork./Neville Marriner).
+
+          Järnefelt: Berceuse (Kehtolaulu) (Sinfonia Lahti/Jaakko Kuusisto, viulu).
+
+          Nino Ricardo: Recuerdo a Sevilla (Arto Juusela, kitara).
+
+          Dvorak: Tempo di valse serenadista jousiorkesterille E-duuri (Philharmonia Orchestra/Christopher Warren-Green).
+
+          O. Merikanto (sov. Bister): Laatokka (Matti Salminen, basso, ja ork./Hannu Bister).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-21T17:00:00+02:00'
         end_time: '2025-03-21T17:10:00+02:00'
@@ -188,8 +253,8 @@ data:
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Kulttuurin kulmilla: Unohduksiin joutuneita '
-        start_time: '2025-03-21T23:30:30+02:00'
-        end_time: '2025-03-21T23:39:00+02:00'
+        start_time: '2025-03-21T23:22:00+02:00'
+        end_time: '2025-03-21T23:30:00+02:00'
         description: |-
           Oman ajan suosio ei vielä takaa paikkaa kaanonissa, miettii Timo Teräsvuori Johann Sebastian Bachin syntymäpäivänä. 
         series: Kulttuurin kulmilla
@@ -197,4 +262,29 @@ data:
         start_time: '2025-03-21T23:40:00+02:00'
         end_time: '2025-03-22T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          W.A. Mozart: Così fan tutte, ooppera (Elisabeth Schwarzkopf, sopraano, Nan Merriman, mezzosopraano, Rolando Panerai, baritoni, Léopold Simoneau, tenori, Lisa Otto, sopraano, ja Sesto Bruscantini, basso, sekä Lontoon Philharmoniakuoro ja -ork/Herbert von Karajan).
+
+          02:24 Schaffrath: Duetto n:o 4 G-duuri (Björg Ollen, traverso, ja Björn Gäfvert, cembalo).
+
+          02:39 Brahms: Neljä kvartettoa op.92 (Latvian radion kuoro/Sigvards Klava, ja Dace Klava, piano).
+
+          02:49 Debussy: Images (Bostonin SO/Michael Tilson Thomas). 
+
+          03:26 Fiorillo: Kvartetto huilulle ja jousille n:o 4 F-duuri (Ensemble A l'antica).
+
+          03:39 Goossens: Concert piece (Konserttikappale) (Jeff Crellin, oboe, Marshall Maguire, harppu, Alannah Guthrie-Jones, harppu, ja Melbournen SO/Andrew Davis).
+
+          04:02 Viotti: Viulukonsertto n:o 22 a-molli (Itzhak Perlman ja Juilliard-ork./ Lawrence Foster).
+
+          04:30 Schubert: Pianotrio n:o 1 B-duuri (David Oistrah -trio).
+
+          05:08 Stanford: Serenadi F-duuri (Nonetto) (Capricorn).
+
+          05:38 Borodin: Sinfonia n:o 3 a-molli (keskeneräinen) (Seattlen SO/Gerard Schwarz).
+
+          05:56 Pleyel: Kvartetto huilulle ja jousille B-duuri (Concertino-kamariork./Jevgeni Bushkov).
+
+          06:12 Baldwin: Coockow as I me walked (The King's Noyse).
+
+          06:15 Groneman: Konsertto huilulle, kahdelle viululle ja continuolle G-duuri (Jed Wentz, huilu, ja Musica ad Rhenum). 
+        series: Syventävää klassista

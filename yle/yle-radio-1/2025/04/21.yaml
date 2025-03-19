@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-18T02:31:29.270650+00:00'
+  generated_at: '2025-03-19T02:30:50.303759+00:00'
   git:
     branch: main
-    commit: dd6cee0fabae2f50ce2b7f9abb8445280c7ab34d
-  data_hash: 9aaa70832ff082b53e172dd0c5dfa45b4df68e97a9dd0969f9cc54a7285ba0e0
+    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
+  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,9 @@ data:
 
           Ohjelmaan liittyy myös testi, joka kertoo, kuinka hyvin tunnet hiljaisen viikon henkilöhahmot.
         series: Tiedeykkönen
+      - title: Yle Uutiset
+        start_time: '2025-04-21T09:00:00+03:00'
+        end_time: '2025-04-21T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-04-21T09:05:40+03:00'
         end_time: '2025-04-21T09:55:00+03:00'
@@ -40,6 +43,11 @@ data:
         start_time: '2025-04-21T10:00:00+03:00'
         end_time: '2025-04-21T11:00:00+03:00'
         series: Jumalanpalvelukset radiossa
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2025-04-21T11:00:00+03:00'
+        end_time: '2025-04-21T11:57:00+03:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T12:00:00+03:00'
         end_time: '2025-04-21T12:05:00+03:00'
@@ -59,6 +67,20 @@ data:
         description: |2+
 
         series: Taiteilijatapaaminen
+      - title: Yle News
+        start_time: '2025-04-21T15:55:00+03:00'
+        end_time: '2025-04-21T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-21T16:00:00+03:00'
+        end_time: '2025-04-21T16:10:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-04-21T16:10:00+03:00'
+        end_time: '2025-04-21T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-21T17:00:00+03:00'
+        end_time: '2025-04-21T17:10:00+03:00'
       - title: Tämäkin on totta -podcast
         start_time: '2025-04-21T17:10:00+03:00'
         end_time: '2025-04-21T17:25:00+03:00'
@@ -69,12 +91,20 @@ data:
           Toimittaja: Raili Löyttyniemi
           Tuottaja: Anna-Leena Lappalainen
           Äänisuunnittelu: Laura Koso
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2025-04-21T17:35:00+03:00'
+        end_time: '2025-04-21T18:34:20+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
       - title: 'Salatut eläimet: Kettu'
         start_time: '2025-04-21T18:35:00+03:00'
         end_time: '2025-04-21T18:55:00+03:00'
         description: |
           Ketut eivät ole suuria jumalia. Yleensä niille on varattu huijariroiston rooli. Tämä selviää, kun Kaisa Pulakka uppoutuu kettujen mytologiaan. Oveluus liitetään kettuihin lähes kaikissa kulttuureissa, mutta Aasiassa ketut ovat oveluuden lisäksi hurjia ja taikavoimaisia jumalolentoja. Suomessa kettu oli arvokas saaliseläin, jonka saamiseksi rukoiltiin metsänhaltija Käreitärtä. Ohjelmasta paljastuu myös, miksi toimittaja Pulakka haluaisi vaihtaa Suomen valtauskonnon luomiskertomuksen intiaanilegendaan hopeaketusta. Ohjelmasarjan on toimittanut Kaisa Pulakka ja lukijana on Pietari Kylmälä.
         series: Salatut eläimet
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-21T19:00:00+03:00'
+        end_time: '2025-04-21T19:02:00+03:00'
       - title: Tosi tarina
         start_time: '2025-04-21T19:02:40+03:00'
         end_time: '2025-04-21T19:50:00+03:00'
@@ -86,6 +116,9 @@ data:
         start_time: '2025-04-21T20:00:00+03:00'
         end_time: '2025-04-21T20:55:00+03:00'
         series: Havaintoja muutoksesta
+      - title: Yle Uutiset
+        start_time: '2025-04-21T21:00:00+03:00'
+        end_time: '2025-04-21T21:02:00+03:00'
       - title: 'Outopodcast: Varjo-olento valvoo vuoteesi vieressä'
         start_time: '2025-04-21T21:05:00+03:00'
         end_time: '2025-04-21T21:27:00+03:00'
@@ -96,3 +129,11 @@ data:
         end_time: '2025-04-21T22:17:00+03:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Kulttuurisarja
+        start_time: '2025-04-21T22:25:00+03:00'
+        end_time: '2025-04-21T22:44:30+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2025-04-21T22:45:00+03:00'
+        end_time: '2025-04-21T23:39:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
