@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-19T02:30:42.987750+00:00'
+  generated_at: '2025-03-21T02:31:12.488408+00:00'
   git:
     branch: main
-    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
-  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
 data:
   Yle Radio 1:
     programmes:
@@ -50,9 +50,25 @@ data:
         description: |-
           Liturgina kirkkoherra Katri Grönroos. Saarnaajana kappalainen Antti Salmisto. Kanttoreina Hanna Noro ja Minna Berg. Urkurina Anders Storbacka. Virret: 475:1-3; 59:1,3,5; 938:8; 224:1-3,8; 959; 912 
            
+        series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
         start_time: '2025-03-30T11:00:00+03:00'
         end_time: '2025-03-30T11:57:00+03:00'
+        description: |-
+          Blanes: Rakkauden aamu (Juhani Markola).
+          Nakamura: Sukiyaki (Kyu Sakamoto).
+          Sakamoto: Merry Christmas Mr. Lawrence (Ryuichi Sakamoto).
+          Porter: Night and day (Onni Gideon, Wiola Talvikki).
+          Ellington: Never no lament (Don't get around much anymore) (Duke Ellington and his Famous Orchestra).
+          Sanders: Adiós muchachos (Carlos Gardel).
+          Jones: Come away with me (Norah Jones).
+          Clapton: Let It Grow (Eric Clapton).
+          Clapton: Wonderful tonight (Eric Clapton).
+          Sereftug: Ne partez pas sans moi (Celine Dion).
+          McHugh: I can't give you anything but love (Monica Zetterlund).
+          Taylor: Ei vaadi paljon, vain kaiken (Maarit).
+          Reinhardt: Nuages (Django Reinhardt, Stephane Grappelli).
+          Vainio: Kotkan poikii ilman siipii (Vesa-Matti Loiri).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-03-30T12:00:00+03:00'
@@ -63,15 +79,18 @@ data:
         description: |
           Ruokakaupan muutokset - vieraana Hannu Aaltonen
         series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Mistä löytyy tähdet?'
         start_time: '2025-03-30T13:00:00+03:00'
         end_time: '2025-03-30T13:57:00+03:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana kirjailija, toimittaja Kimmo Ohtonen
         start_time: '2025-03-30T14:00:00+03:00'
         end_time: '2025-03-30T14:50:00+03:00'
+        description: |
+          Kimmo Ohtosen lapsuus ja nuoruus  meni perhehelvetissä. Kimmo pakeni lukemattomat kerrat väkivaltaista isäänsä, usein metsään. Metsästä tuli Kimmolle piilopaikka ja samalla syttyi rakkaus luontoon ja tarve auttaa  uhanalaisia eläimiä.  “Puolustuskyvyttömissä eläimissä on paljon samaa, kuin väkivallan alla elävissä lapsissa”, Kimmo sanoo.
+          “Perheväkivallan syitä kannattaa selvittää, jotta sitä voisi jotenkin ymmärtää, mutta että antaisi anteeksi. Ei koskaan”, Kimmo toteaa.
         series: Marko Gustafsson
       - title: 'Elävä historia: Kun kuningas vaihtui tsaariin - Turun ravintolabuumi 1700- ja 1800 -lukujen vaihteessa'
         start_time: '2025-03-30T15:00:00+03:00'
@@ -121,9 +140,8 @@ data:
       - title: Akatistos Jumalansynnyttäjälle Joensuun Pyhän Nikolaoksen kirkosta
         start_time: '2025-03-30T20:00:00+03:00'
         end_time: '2025-03-30T21:00:00+03:00'
-        description: |-
-          Akatistos Jumalansynnyttäjälle Joensuun Pyhän Nikolaoksen kirkosta
-          Palveluksen toimittaa pastori Marko Mäkinen
+        description: |
+          Palveluksen toimittaa pastori Marko Mäkinen. Kirkkokuoroa johtaa kanttori Minna Bovellan-Järvinen.
         series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-03-30T21:00:00+03:00'

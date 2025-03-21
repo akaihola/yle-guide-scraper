@@ -1,0 +1,58 @@
+metadata:
+  generated_at: '2025-03-21T02:31:27.194720+00:00'
+  git:
+    branch: main
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+data:
+  Yle Radio 1:
+    programmes:
+      - title: Aamuhartaus
+        start_time: '2025-04-24T06:50:00+03:00'
+        end_time: '2025-04-24T06:59:59+03:00'
+        description: |-
+          Teologian tohtori Niko Huttunen, Espoo
+        series: Aamuhartaus
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-04-24T11:00:00+03:00'
+        end_time: '2025-04-24T11:57:00+03:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Ihminen vs. algoritmi: Voiko kone olla hauska? '
+        start_time: '2025-04-24T12:10:00+03:00'
+        end_time: '2025-04-24T12:40:00+03:00'
+        description: |-
+          Ihmisellä menee helposti kuukausia tai jopa vuosia luoda tunnin mittainen stand up -esitys. Tekoäly puolestaan valmistelee sellaisen sekunneissa. Mutta naurattavatko tekoälyn kertomat vitsit, vai ovatko ne pikemminkin naurettavia?
+
+          Tulevaisuuden huumoria ja tekoälyn kykyä hauskuuttaa arvioi Perttu Pölösen vieraana koomikko André Wickström.
+
+          Jakson tekoälysisällön tuotti ChatGPT 4.0 ja sen äänenä toimi ElevenLabs.
+        series: Ihminen vs. algoritmi
+      - title: Yle Uutiset
+        start_time: '2025-04-24T15:00:00+03:00'
+        end_time: '2025-04-24T15:02:00+03:00'
+      - title: Tuuli Saksalan keidas
+        start_time: '2025-04-24T17:35:00+03:00'
+        end_time: '2025-04-24T18:25:00+03:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        series: Tuuli Saksalan keidas
+      - title: Iltahartaus
+        start_time: '2025-04-24T18:50:00+03:00'
+        end_time: '2025-04-24T19:00:00+03:00'
+        description: |-
+          "16. Minä uskon - auta minua epäuskossani"
+          Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy, minne Jeesus meni astuessaan alas tuonelaan.
+
+          Hartaus jatkaa keskeisiä kristillisiä oppeja moniarvoissa maailmassa käsittelevää sarjaa. Tämä on 16. osa. 
+        series: Iltahartaus
+      - title: 'Jazzklubin konsertti-ilta: Christian McBride New Quintet April Jazzissa.'
+        start_time: '2025-04-24T19:02:00+03:00'
+        end_time: '2025-04-24T20:30:00+03:00'
+        description: |
+          Äänitetty Tapiolasalissa 27.4.2024.
+        series: Jazzklubi
+      - title: Tosi tarina
+        start_time: '2025-04-24T21:35:00+03:00'
+        end_time: '2025-04-24T22:30:00+03:00'

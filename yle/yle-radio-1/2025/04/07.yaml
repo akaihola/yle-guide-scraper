@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-19T02:30:45.893254+00:00'
+  generated_at: '2025-03-21T02:31:17.266125+00:00'
   git:
     branch: main
-    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
-  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
 data:
   Yle Radio 1:
     programmes:
@@ -35,7 +35,6 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-07T08:10:00+03:00'
         end_time: '2025-04-07T09:00:00+03:00'
-        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-07T09:00:00+03:00'
         end_time: '2025-04-07T09:05:00+03:00'
@@ -119,11 +118,16 @@ data:
         end_time: '2025-04-07T17:34:20+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Uutta Värttinää ja miten siihen tultiin'
         start_time: '2025-04-07T17:35:00+03:00'
         end_time: '2025-04-07T18:34:20+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Suomen kansainvälisesti maineikkain etnobändi Värttinä on jo 42-vuotias, mutta jaksaa yhä uudistua ja kuulostaa tuoreelta. Uuden albumijulkaisun ollessa ajankohtainen on hyvä hetki tunnelmoida Värttinän musiikkia eri vuosikymmeniltä ja muistella, kuinka tähän on tultu. 
+
+          Jakson toinen puolikas vie kotimaisten ja ulkomaisten etnouutuuksien äärelle. Rauhaa elämään toivovat tahoillaan Niina Hannula ja Johanna Iivanainen, Tanskan ja Belgian valioviulistit tarjoavat soitannollisia hetkiä, ja Hilja Grönforsin laulu muistuttaa kansainvälisestä romanipäivästä.
+
+          Toimittajana Mika Kauhanen.
+        series: Keinuva talo - Mika Kauhanen
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-04-07T18:35:00+03:00'
         end_time: '2025-04-07T18:50:00+03:00'

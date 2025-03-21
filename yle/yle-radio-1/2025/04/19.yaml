@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-19T02:30:49.795320+00:00'
+  generated_at: '2025-03-21T02:31:25.084621+00:00'
   git:
     branch: main
-    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
-  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
 data:
   Yle Radio 1:
     programmes:
@@ -35,7 +35,8 @@ data:
         start_time: '2025-04-19T08:25:00+03:00'
         end_time: '2025-04-19T08:35:00+03:00'
         description: |
-          ADRAn toiminnanjohtaja Merja Heikkilä, Adventtikirkko, Kangasala
+          "Kaikilla meillä on jotain annettavaa"
+          ADRAn toiminnanjohtaja Merja Heikkilä, Adventtikirkko, Kangasalta pohtii toisten auttamisen ja anteliaisuuden rikastuttavaa merkitystä myös ihmisen oman hyvinvoinnin lähteenä.
         series: Aamuhartaus
       - title: Minne Rinne vie
         start_time: '2025-04-19T08:35:00+03:00'

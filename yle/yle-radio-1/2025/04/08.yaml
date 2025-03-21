@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-19T02:30:46.167837+00:00'
+  generated_at: '2025-03-21T02:31:17.519322+00:00'
   git:
     branch: main
-    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
-  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
 data:
   Yle Radio 1:
     programmes:
@@ -19,7 +19,8 @@ data:
         start_time: '2025-04-08T06:50:00+03:00'
         end_time: '2025-04-08T06:59:59+03:00'
         description: |-
-          Artikkelitoimittaja Jussi Rytkönen, Tuusula
+          "Jumalan valtakunnan vaunut vyöryvät eteenpäin"
+          Artikkelitoimittaja Jussi Rytkönen Tuusulasta pohtii Jumalan lähetyksen etenemistä noin 8 miljardin ihmisen nykymaailmassa.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-08T07:00:00+03:00'
@@ -124,12 +125,18 @@ data:
         end_time: '2025-04-08T19:00:00+03:00'
         description: |-
           Sielunhoito-terapeutti Marketta Sundell, Baptistiyhdyskunta, Kokkola
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-08T19:00:00+03:00'
         end_time: '2025-04-08T19:02:00+03:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Radioteatteri esittää: Sokeiden kuunnelmapalkinnon voittaja: Steissiunelmia'
         start_time: '2025-04-08T19:02:40+03:00'
         end_time: '2025-04-08T19:45:00+03:00'
+        description: |-
+          Sokeiden kuunnelmaraati palkitsi vuoden 2024 parhaana kotimaisena kuunnelmana Steissiunelmia -kuunnelman.
+          Äänikävely Helsingin rautatieasemalla. Steissiunelmia on äänikävely Helsingin päärautatieasemalla. Parhaan kokemuksen saat paikan päällä. Ota kuulokkeet mukaan ja lähde Kaivokadun puoleiselle pääsisäänkäynnille. Äänikävelyn aikana tulet tapaamaan muutamia niistä sadoistatuhansista ihmisistä, jotka kulkevat aseman läpi päivittäin. Kaikki sanat, jotka kuulet Steissiunelmissa, on lausuttu asemalla oikeasti, mutta nyt kuulet ne näyttelijöiden esittäminä. Kävely vie noin tunnin. Konsepti, haastattelut ja käsikirjoitus: Eva-Maria Koskinen ja Anna-Sofia Nylund.
+          Steissiunelmia on Svenska Yle Draaman tuotanto 2024.
+        series: Radioteatteri
       - title: 'Suuren meriseikkailun jäljillä: Suomalainen meriupseeri varastaa salakuljettajien rahat'
         start_time: '2025-04-08T20:00:00+03:00'
         end_time: '2025-04-08T20:19:20+03:00'

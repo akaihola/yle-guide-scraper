@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-19T02:30:45.376035+00:00'
+  generated_at: '2025-03-21T02:31:16.030708+00:00'
   git:
     branch: main
-    commit: 7463a5015e3142ba58d087ccdffc9494291c09ef
-  data_hash: c5560ec2a31691c0b77994c55094d39b895d9d5c28ca5677c5f8ae639fb2ecda
+    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
+  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
 data:
   Yle Radio 1:
     programmes:
@@ -22,8 +22,8 @@ data:
       - title: Luomiskertomus
         start_time: '2025-04-05T07:31:00+03:00'
         end_time: '2025-04-05T07:56:00+03:00'
-        description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        description: |-
+          Aamos Hongan Punainen verkko on tiedustelumaailmaan sijoittuva esikoiskirja, joka kuvittelee tapahtumia, jotka voisivat hyvin tapahtua todellisuudessa. Luomiskertomuksessa kirjailija kertoo kirjan taustoista ja kirjoitusprosessista. Toimittajana on Jonni Roos.
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-05T07:56:00+03:00'
@@ -94,7 +94,6 @@ data:
         end_time: '2025-04-05T11:55:00+03:00'
         description: |
           Samuli Putro kuuntelee mieluiten klassista musiikkia, kun hän kaipaa luovaa rauhaa. Hänen levyvalinnoistaan laulajan kanssa keskustelee toimittaja Miikkapekka Heikkilä.
-        series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-04-05T11:57:00+03:00'
         end_time: '2025-04-05T12:00:00+03:00'
@@ -178,9 +177,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-05T19:00:00+03:00'
         end_time: '2025-04-05T19:02:00+03:00'
-      - title: Tämän runon haluaisin kuulla
+      - title: Muuttolinnut ovat täällä – Toivo runoja linnuista
         start_time: '2025-04-05T19:02:00+03:00'
         end_time: '2025-04-05T21:00:00+03:00'
+        description: |-
+          Tämän runon haluaisin kuulla -ohjelmassa kuullaan runoja linnuista!
+
+          Keväällä linnut runoilevat vimmatusti ja muuttolinnut tuovat mukanaan säkeitä kaukaa. Lokkien kirkuna rannoilla ja peippojen luritukset metsässä tuovat kesän tullessaan. Linnunlaulussa on samoja elementtejä kuin ihmisten runoudessa, myös linnut käyttävät tehokeinonaan toistoa, rytmiä ja joskus jopa riimejä. 
+
+          Lähetä runotoiveesi joko sähköpostilla toive.runot@yle.fi tai alla olevalla lomakkeella. Jätäthän yhteystietosi, jotta voimme olla sinuun tarvittaessa yhteydessä. Toiveesi voi olla osa Tämän runon haluaisin kuulla -ohjelmaa.
+          Runoja tulkitsevat suomeksi näyttelijät Noora Dadu ja Jussi Lehtonen. Ohjelman toimittavat Pietari Kylmälä ja Kaisa Pulakka. 
         series: Tämän runon haluaisin kuulla
       - title: Yle Uutiset
         start_time: '2025-04-05T21:00:00+03:00'
