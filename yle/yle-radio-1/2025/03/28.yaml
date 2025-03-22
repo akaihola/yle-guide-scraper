@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-21T02:31:10.708466+00:00'
+  generated_at: '2025-03-22T02:29:03.665899+00:00'
   git:
     branch: main
-    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
-  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+    commit: 9da168894f9dc3f0f4eb6469cfc8768e86055ae5
+  data_hash: 429374ec12127f403eba52c115cd2987cdd364abcfa605c163257a7666208a8e
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,33 @@ data:
         start_time: '2025-03-28T00:00:00+02:00'
         end_time: '2025-03-28T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Edelfelt: Wainas söfsång (Emma Kajander, sopraano, ja Tuula Hällström, piano).
+
+          00:06 Kuula: Juhlamarssi C-duuri (Tuomas Nikkanen, piano).
+
+          00:15 Purcell: Osia näytelmämus. Timon Ateenalainen (Nancy Argenta, sopraano, Ann Monoyios, sopraano, Paul Agnew, tenori, Brian Bannatyne-Scott, basso, sekä Christopher Foster, basso, ja The English Concert/Trevor Pinnock).
+
+          00:43 Parry: Sinfoninen fantasia 1912 h-molli (Sinfonia n:o 5) (Lontoon FO/Matthias Bamert).
+
+          01:10 Beethoven: Jousikvintetto C-duuri (Tokio-kvartetti ja Pinchas Zukerman, alttoviulu).
+
+          01:45 Rodrigo: Concierto serenata (Serenadikonsertto) (Nicanor Zabaleta, harppu, ja Baijerin radion SO/Ernst Märzendorfer).
+
+          02:09 Sibelius: Längtan heter min arvedel (Kaipuu ompi mun perintöin) (Soile Isokoski, sopraano, ja Ilkka Paananen, piano).
+
+          02:12 J.S. Bach: Englantilaiset sarjat n:o 4 F-duuri, 5 e-molli ja 6 d-molli (Peter Watchorn, cembalo).
+
+          03:33 Heiniö: Hermes (Camilla Nylund, sopraano, Juhani Lagerspetz, piano, ja Keski-Pohjanmaan kamariork./Juha Kangas).
+
+          04:24 Mompou: Suite compostelana (Andrés Segovia, kitara).
+
+          04:44 von Suppé: Alkusoitot oper. Kaunis Galateia, Patarouva, Kevyt ratsuväki, Runoilija ja talonpoika, Aamu, päivä ja ilta Wienissä ja Boccaccio (Detroitin SO/Paul Paray).
+
+          05:30 Barber: Sonaatti sellolle ja pianolle c-molli (Zuill Bailey ja Lara Downes).
+
+          05:51 Banchieri: Barca di Venetia per Padova (Clément Janequin -yhtye).
+
+          06:19 Locatelli: Concerto grosso c-molli (Europa Galante/Fabio Biondi, viulu).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-28T06:30:50+02:00'
@@ -170,7 +196,7 @@ data:
         end_time: '2025-03-28T19:02:00+02:00'
       - title: Klassisen musiikin iltakonsertti
         start_time: '2025-03-28T19:02:00+02:00'
-        end_time: '2025-03-28T21:00:00+02:00'
+        end_time: '2025-03-28T20:47:00+02:00'
         description: |-
           Konsertti-ilta vie meidät Göteborgiin, jossa soi ruotsalaisen jazz-muusikko Lars Danielssonin ja itävaltalaisen säveltäjä Anton Brucknerin musiikki. Göteborgin sinfoniaorkesteria johtaa John Storgårds, solisteina soittavat Roger Carlsson, lyömäsoittimet, ja Lars Danielsson, kontrabasso. Konsertti on äänitetty Göteborgin konserttitalossa 8.5.2024. 
 

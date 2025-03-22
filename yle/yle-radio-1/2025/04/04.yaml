@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-21T02:31:15.779415+00:00'
+  generated_at: '2025-03-22T02:29:05.319561+00:00'
   git:
     branch: main
-    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
-  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+    commit: 9da168894f9dc3f0f4eb6469cfc8768e86055ae5
+  data_hash: 429374ec12127f403eba52c115cd2987cdd364abcfa605c163257a7666208a8e
 data:
   Yle Radio 1:
     programmes:
@@ -116,7 +116,6 @@ data:
         end_time: '2025-04-04T15:58:00+03:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-04-04T16:00:00+03:00'
         end_time: '2025-04-04T16:10:00+03:00'
@@ -151,7 +150,7 @@ data:
         end_time: '2025-04-04T19:02:00+03:00'
       - title: Sinfonia Lahden vierailukonsertti Musiikkitalossa
         start_time: '2025-04-04T19:02:00+03:00'
-        end_time: '2025-04-04T21:00:00+03:00'
+        end_time: '2025-04-04T21:05:00+03:00'
         description: |
           Osmo Vänskä, kapellimestari, ja Tami Pohjola, viulu. - Jessie Montgomery: Banner. Kalevi Aho: Viulukonsertto nro 2. Ernest Pingoud: Prologue symphonique. Jean Sibelius: Sinfonia nro 3 C-duuri. Suoran lähetyksen Musiikkitalosta toimittaa Riikka Holopainen.
         series: Konsertteja

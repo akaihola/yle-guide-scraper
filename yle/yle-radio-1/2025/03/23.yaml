@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-21T02:31:01.042640+00:00'
+  generated_at: '2025-03-22T02:29:01.370738+00:00'
   git:
     branch: main
-    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
-  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+    commit: 9da168894f9dc3f0f4eb6469cfc8768e86055ae5
+  data_hash: 429374ec12127f403eba52c115cd2987cdd364abcfa605c163257a7666208a8e
 data:
   Yle Radio 1:
     programmes:
@@ -80,14 +80,20 @@ data:
            
           Darius Milhaud: La cheminée du roi René, osa La maousinglade (Tanskan radion sinfoniaorkesterin puhallinkvintetti).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-03-23T07:55:08+02:00'
+        end_time: '2025-03-23T08:00:00+02:00'
+        description: |-
+          Delibes: Pas de deux bal. Sylvia (Yehudi Menuhin, viulu, ja Philharmonia-ork./Robert Irving).
       - title: Yle Uutiset ja sää
         start_time: '2025-03-23T08:00:00+02:00'
         end_time: '2025-03-23T08:05:05+02:00'
       - title: Narrin aamulaulu - Jukka Rasilainen, Wagner-baritoni, joka on kulkenut omia teitään
-        start_time: '2025-03-23T08:05:35+02:00'
-        end_time: '2025-03-23T08:59:30+02:00'
+        start_time: '2025-03-23T08:05:20+02:00'
+        end_time: '2025-03-23T08:59:31+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Vahvoista rooleistaan tunnettu Jukka Rasilainen toteaa, että moni asia hänen matkallaan taiteen maailmassa on ollut sattumaa. "Karjalaisen evakon poikana en tuntenut kuuluvani minnekään, joten koko maailma oli auki, jos vain kehittyisin tarpeeksi." 
+          40-vuotisen kansainvälisen uran tehnyttä Jukka Rasilaista puhuttaa Outi Paananen. 
         series: Narrin aamulaulu - Outi Paananen
       - title: Riston Valinta
         start_time: '2025-03-23T09:05:19+02:00'
@@ -108,6 +114,7 @@ data:
         end_time: '2025-03-23T10:59:20+02:00'
         description: |-
           Liturgina kirkkoherra Anu Ylitolonen. Saarnaajana kappalainen Maija Voutilainen. Kanttorina ja urkurina Riikka Leppänen. Virret: 256:1-3; 334b:5-8; 53; 50:1,3,5,6; 51; 958
+        series: Jumalanpalvelukset radiossa
       - title: Muistojen bulevardi
         start_time: '2025-03-23T11:00:00+02:00'
         end_time: '2025-03-23T11:57:00+02:00'
@@ -215,6 +222,11 @@ data:
         description: |
           Äänitetty Tullikamarin Pakkahuoneella 1.11.2024.
         series: Jazzklubi
+      - title: Radio 1 soi
+        start_time: '2025-03-23T18:56:41+02:00'
+        end_time: '2025-03-23T19:00:00+02:00'
+        description: |-
+          Barrios: Mehiläiset (David Russell, kitara).
       - title: Yle Uutiset ja sää
         start_time: '2025-03-23T19:00:00+02:00'
         end_time: '2025-03-23T19:02:05+02:00'
@@ -224,21 +236,26 @@ data:
         description: |
           Toimittajana Markku Salo.
         series: Jazzklubi
-      - title: Jumalanpalvelus Helluntaikirkosta Forssasta
+      - title: 'Forssan Helluntaiseurakunnan jumalanpalvelus '
         start_time: '2025-03-23T20:00:00+02:00'
         end_time: '2025-03-23T20:47:45+02:00'
         description: |-
-          Jumalanpalvelus Helluntaikirkosta Forssasta
-          Puhujana pastori Tommi Hintsanen
+          Juontajana seurakuntatyöntekijä Petri Fonsén. Puhujana päätoimittaja Tommi Hintsanen. Virret: 336; 324:2,4,6; 126
         series: Jumalanpalvelukset radiossa
-      - title: Uutispodcast
-        start_time: '2025-03-23T21:03:00+02:00'
-        end_time: '2025-03-23T21:28:00+02:00'
+      - title: Radio 1 soi
+        start_time: '2025-03-23T20:47:45+02:00'
+        end_time: '2025-03-23T21:00:00+02:00'
+        description: |-
+          Respighi: Adagio ja muunnelmia sellolle ja orkesterille (Gaspar Cassadó ja Wienin Pro Musica -ork./Jonel Perlea).
+      - title: 'Uutispodcast: Urheilumaailman huipulle nousi vihdoin nainen, mutta korruptiopelot jatkuvat'
+        start_time: '2025-03-23T21:02:46+02:00'
+        end_time: '2025-03-23T21:25:49+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Kansainvälinen olympiakomitea on valinnut uuden puheenjohtajansa. Millainen on ehkä maailman vaikutusvaltaisin urheilujohtaja ja mihin suuntaan hän alkaa KOK:ta viedä? Entä millaiselta KOK:n toiminta on viime vuosina näyttänyt? Sami Lindforsin vieraana on Sanoman urheilutoimittaja Juha Kanerva.
+        series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Soitinten nokkimisjärjestyksestä'
-        start_time: '2025-03-23T21:29:00+02:00'
-        end_time: '2025-03-23T22:21:32+02:00'
+        start_time: '2025-03-23T21:26:51+02:00'
+        end_time: '2025-03-23T22:19:23+02:00'
         description: |
           Onko olemassa hyviä soittimia ja vähemmän hyviä soittimia?
           Vai onko se näköharha, tai kuuloharha?
@@ -263,11 +280,16 @@ data:
           Darius Milhaud: La cheminée du roi René, osa La maousinglade (Tanskan radion sinfoniaorkesterin puhallinkvintetti).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Kaipaatko mielenrauhaa? Ota stoalaisilta oppia'
-        start_time: '2025-03-23T22:22:00+02:00'
-        end_time: '2025-03-23T23:16:35+02:00'
+        start_time: '2025-03-23T22:20:24+02:00'
+        end_time: '2025-03-23T23:14:59+02:00'
         description: |-
           Miten saavuttaa mielenrauha, kun maailma ympärillä myrskyää? Onko se edes mahdollista? Kyllä, sanovat kouluttajapsykoterapeutti Maaret Kallio sekä stoalaiseen filosofiaan perehtynyt kirjailija, kouluttaja Juhana Torkki.
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-03-23T23:14:59+02:00'
+        end_time: '2025-03-23T23:19:44+02:00'
+        description: |-
+          Chopin: Etydi n:o 22 h-molli (Oktaavietydi) (Erik T. Tawaststjerna, piano).
       - title: 'Romano mirits: Romanimusiikki-sarja osa 5: Romanitaustaisia iskelmätähtiä Pertti Hörmanista Rainer Bollströmiin'
         start_time: '2025-03-23T23:19:44+02:00'
         end_time: '2025-03-23T23:34:31+02:00'
@@ -276,6 +298,14 @@ data:
 
           Romano miritsin musiikkisarjan viides osa johdattelee iskelmämusiikin pariin. Toimittajana on Jaakko Laakso. 
         series: Romano mirits
+      - title: 'Eilisen ääni: Sananselityksiä. Ruoka ja juoma.'
+        start_time: '2025-03-23T23:35:06+02:00'
+        end_time: '2025-03-23T23:39:32+02:00'
+        description: |-
+          Sananselityksiä-ohjelmassa professori Jorma Koivulehto selvitti vuonna 1988 peruskäsitteitä ruoka ja juoma.
+
+          Ohjelman ensilähetys oli 17.3.1988.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-03-23T23:40:00+02:00'
         end_time: '2025-03-24T06:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-21T02:31:09.665817+00:00'
+  generated_at: '2025-03-22T02:29:03.473821+00:00'
   git:
     branch: main
-    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
-  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+    commit: 9da168894f9dc3f0f4eb6469cfc8768e86055ae5
+  data_hash: 429374ec12127f403eba52c115cd2987cdd364abcfa605c163257a7666208a8e
 data:
   Yle Radio 1:
     programmes:
@@ -153,7 +153,17 @@ data:
         start_time: '2025-03-27T15:02:00+02:00'
         end_time: '2025-03-27T15:55:00+02:00'
         description: |
+          Helga tikkaa täkkejä ja ompelee vaatteita silkistä sarkaan. Maalaistalon vintillä hän toteuttaa pariisilaisen haute couturen inspiroimia vaatteita. Perhe ei hyväksy että hän ei tee lainkaan kotitöitä tilalla. Miten uskovaiset suhtautuvat hänen ihailemaansa muotiin?
+
+          Helga elää sodanjälkeisessä Suomessa, Porissa, ja hän päättää jättää perheensä ja aloittaa oman kutsumuksensa toteuttamista muotiliikkeessä. Helga tutustuu naisyhdistykseen ja hän haluaa elää itsenäistä elämää. Helga on romaani muodin ja käsityön lähihistoriasta. Millä tavalla vaatteet viestittävät ihmisen ja maailman suhteesta? Miten suhtautumisemme muotiin on muuttunut historian saatossa? Miksi Suomessa käsityön opiskelijat ovat edelleen naisia? Mikä on käsityön opetuksen asema tänään? Ovatko vaatteet meidän toinen ihomme? Mitä siitä kertoo tekstiilin ja vaatetuksen tutkimus?
+
+          Ohjelman vieraina ovat kirjailija Eveliina Talvitie ja tekstiilitaiteilija emeritaprofessori Päikki Priha.
+
+
+          Ohjelman juontaa Pia-Maria Lehtola
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-27T15:55:00+02:00'
         end_time: '2025-03-27T15:58:00+02:00'
@@ -181,7 +191,7 @@ data:
         series: Tuuli Saksalan keidas
       - title: 'Kielen päällä: Jiddišin tilanne Suomessa 2/3'
         start_time: '2025-03-27T18:25:00+02:00'
-        end_time: '2025-03-27T18:34:30+02:00'
+        end_time: '2025-03-27T18:34:20+02:00'
         description: |
           Jiddišin tilanteesta Suomessa kertoo suomalais-skotlantilainen juutalaisen kulttuurin tutkija Simo Muir. Toimittajana on Jari Aula.
         series: Kielen päällä
@@ -231,17 +241,52 @@ data:
         end_time: '2025-03-27T22:30:00+02:00'
         description: |2+
 
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+      - title: 'Radioteatteri esittää: Verinen lyhty, osa 12/12.'
         start_time: '2025-03-27T22:30:30+02:00'
-        end_time: '2025-03-27T22:49:30+02:00'
+        end_time: '2025-03-27T22:59:18+02:00'
+        description: |
+          Edellisessä jaksossa Kalle Mattila, Heikkilän vanhan emännän kummipoika, on vanhan emännän ja nimiesmiehen kanssa sopinut menevänsä jututtamaan murhatun Matti Peltolan serkkua, viinaan taipuvaista ylioppilas Ilmari Peltolaa. Ilmari on kertonut ajaneensa Matin vuokraamallaan autolla Heikkilään laukausten sattuessa ja nyt pelkäävänsä, että häntä epäillään serkkunsa murhaajaksi. 
+
+          Rooleissa:
+          Hillevi Lagerstam, Esko Roine, Seppo Laine, Esa Saario, Lauri Kuosmanen, Seppo Kolehmainen, Rauni Ikäheimo, Kosti Klemelä, Virpi Uimonen, Alli Häjänen ja Tapio Hämäläinen.
+
+          Uusinta vuodelta 1979.
+        series: Verinen lyhty
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-03-27T23:00:00+02:00'
-        end_time: '2025-03-27T23:56:30+02:00'
+        start_time: '2025-03-27T23:03:00+02:00'
+        end_time: '2025-03-27T23:59:30+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Yöklassinen
         start_time: '2025-03-28T00:00:00+02:00'
         end_time: '2025-03-28T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Edelfelt: Wainas söfsång (Emma Kajander, sopraano, ja Tuula Hällström, piano).
+
+          00:06 Kuula: Juhlamarssi C-duuri (Tuomas Nikkanen, piano).
+
+          00:15 Purcell: Osia näytelmämus. Timon Ateenalainen (Nancy Argenta, sopraano, Ann Monoyios, sopraano, Paul Agnew, tenori, Brian Bannatyne-Scott, basso, sekä Christopher Foster, basso, ja The English Concert/Trevor Pinnock).
+
+          00:43 Parry: Sinfoninen fantasia 1912 h-molli (Sinfonia n:o 5) (Lontoon FO/Matthias Bamert).
+
+          01:10 Beethoven: Jousikvintetto C-duuri (Tokio-kvartetti ja Pinchas Zukerman, alttoviulu).
+
+          01:45 Rodrigo: Concierto serenata (Serenadikonsertto) (Nicanor Zabaleta, harppu, ja Baijerin radion SO/Ernst Märzendorfer).
+
+          02:09 Sibelius: Längtan heter min arvedel (Kaipuu ompi mun perintöin) (Soile Isokoski, sopraano, ja Ilkka Paananen, piano).
+
+          02:12 J.S. Bach: Englantilaiset sarjat n:o 4 F-duuri, 5 e-molli ja 6 d-molli (Peter Watchorn, cembalo).
+
+          03:33 Heiniö: Hermes (Camilla Nylund, sopraano, Juhani Lagerspetz, piano, ja Keski-Pohjanmaan kamariork./Juha Kangas).
+
+          04:24 Mompou: Suite compostelana (Andrés Segovia, kitara).
+
+          04:44 von Suppé: Alkusoitot oper. Kaunis Galateia, Patarouva, Kevyt ratsuväki, Runoilija ja talonpoika, Aamu, päivä ja ilta Wienissä ja Boccaccio (Detroitin SO/Paul Paray).
+
+          05:30 Barber: Sonaatti sellolle ja pianolle c-molli (Zuill Bailey ja Lara Downes).
+
+          05:51 Banchieri: Barca di Venetia per Padova (Clément Janequin -yhtye).
+
+          06:19 Locatelli: Concerto grosso c-molli (Europa Galante/Fabio Biondi, viulu).
         series: Syventävää klassista

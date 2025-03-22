@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-21T02:31:16.030708+00:00'
+  generated_at: '2025-03-22T02:29:05.512160+00:00'
   git:
     branch: main
-    commit: d101c08e019b7a25ef48909e194c88001bbdb94a
-  data_hash: 4ce8f5f0b09750ed1abe9f325597b1556ae602f3d645f535e8c9f5c2b5c21bb9
+    commit: 9da168894f9dc3f0f4eb6469cfc8768e86055ae5
+  data_hash: 429374ec12127f403eba52c115cd2987cdd364abcfa605c163257a7666208a8e
 data:
   Yle Radio 1:
     programmes:
@@ -72,7 +72,6 @@ data:
           Laudan/Levasso: Coffee bar calypso (Maxine Daniels).
           Menendez: Green eyes (Abbe Lane).
           Santana: Samba pa ti (Santana).
-        series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-04-05T10:00:00+03:00'
         end_time: '2025-04-05T10:05:00+03:00'
@@ -166,8 +165,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-04-05T18:01:00+03:00'
         end_time: '2025-04-05T18:10:00+03:00'
-        description: |-
-          Kirkkoherra Teemu Isokääntä, Tyrnävä
+        description: |
+          Kirkkoherra Teemu Isokääntä, Raahe
+        series: Iltahartaus
       - title: Lauantain toivotut levyt
         start_time: '2025-04-05T18:10:00+03:00'
         end_time: '2025-04-05T19:00:00+03:00'
