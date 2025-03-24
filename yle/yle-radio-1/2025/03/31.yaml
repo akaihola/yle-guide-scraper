@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-23T02:32:41.108206+00:00'
+  generated_at: '2025-03-24T02:32:31.424739+00:00'
   git:
     branch: main
-    commit: 58056e18cc263c66bb381b62cc58b330c32e4c1b
-  data_hash: 3a00ae57d86a052afa739d14f1162ffb6283fe535a974366ec8102e8f374c008
+    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
+  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
 data:
   Yle Radio 1:
     programmes:
@@ -55,7 +55,6 @@ data:
           Chabrier: Aubade (Aamulaulu) (Angela Hewitt, piano).
 
           Tshaikovski: Valssi ja apoteoosi bal. Pähkinänsärkijä (New Yorkin FO/Kurt Masur).
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-03-31T08:00:00+03:00'
         end_time: '2025-03-31T08:10:00+03:00'
@@ -121,6 +120,7 @@ data:
         end_time: '2025-03-31T15:55:00+03:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-03-31T15:55:00+03:00'
         end_time: '2025-03-31T15:58:00+03:00'
