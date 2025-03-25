@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:36.775731+00:00'
+  generated_at: '2025-03-25T02:31:43.634743+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -46,6 +46,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-14T09:05:40+03:00'
         end_time: '2025-04-14T09:58:00+03:00'
+        description: |
+          Bratton: The Teddy Bears' picnic (The New London Orchestra/Ronald Corp).
+          Kansansäv.: Saku Sammakko teeveessä (Brita Koivunen ja Four Cats).
+          Porter: Let's do it (Lady Gaga).
+          Linzer/Randell/Pezold: Aamukonsertto (Kai Lind).
+          Dello: Uti skogen skall vi gå (Povel Ramel, Bibbi Johnson ja Oscar Rundquist).
+          Tanner: Kulkurin valssi (Tauno Palo ja Ansa Ikonen).
+          Bechet: Petite fleur (Danielle Darrieux).
+          Lennon/McCartney: Blackbird (The Beatles).
+          Trenet: Das Meer (Caterina Valente). 
+          Sainte-Marie: The piney wood hills (Buffy Sainte-Marie).
+          Bergendahl: Puutarhurin laulu (Pihasoittajat).
+          Kansansäv.: Morning has broken (Diana Krall, Art Garfunkel ja The Chieftains).
+          Findon/Shelley: Aurinkoon, tuuleen (Katri Helena).
+          Denver: Rocky mountain high (John Denver).
+        series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-04-14T10:00:00+03:00'
         end_time: '2025-04-14T10:50:00+03:00'
@@ -137,7 +153,6 @@ data:
         end_time: '2025-04-14T20:55:00+03:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-        series: Ruben Stiller
       - title: Yle Uutiset
         start_time: '2025-04-14T21:00:00+03:00'
         end_time: '2025-04-14T21:02:00+03:00'

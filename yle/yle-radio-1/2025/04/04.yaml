@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:33.195305+00:00'
+  generated_at: '2025-03-25T02:31:36.509399+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -71,11 +71,12 @@ data:
         end_time: '2025-04-04T10:55:00+03:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: 'Narrin aamulaulu - Tutkimushanke suomalaismuusikoista Hitlerin Saksassa '
         start_time: '2025-04-04T11:00:00+03:00'
         end_time: '2025-04-04T11:55:00+03:00'
         description: |
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        series: Narrin aamulaulu - Outi Paananen
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-04-04T11:57:00+03:00'
         end_time: '2025-04-04T12:00:00+03:00'

@@ -1,18 +1,16 @@
 metadata:
-  generated_at: '2025-03-24T02:32:30.938117+00:00'
+  generated_at: '2025-03-25T02:31:30.569348+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
-        start_time: '2025-03-29T23:40:00+02:00'
-        end_time: '2025-03-30T06:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
-        series: Syventävää klassista
+        start_time: '2025-03-30T04:00:00+03:00'
+        end_time: '2025-03-30T07:00:00+03:00'
+        series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2025-03-30T07:00:00+03:00'
         end_time: '2025-03-30T07:02:05+03:00'
@@ -116,6 +114,27 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-30T16:10:00+03:00'
         end_time: '2025-03-30T16:59:00+03:00'
+        description: |-
+          W.A: Mozart: Menuetti serenadista B-duuri (RSO/Sakari Oramo).
+
+          Bizet: Don Josén kukkasaaria oopp. Carmen (Jon Vickers, tenori, ja Pariisin konservatorion orkesteri/Rafael Frühbeck de Burgos).
+
+          Dring: Festival scherzo (Martin Roscoe, piano, ja Guildhall Strings/Robert Salter).
+
+          Schubert: Lied im Freien (Die Singphoniker).
+
+          Janácek: Con moto - Adagio teoks. Pohadka (Satu) (Nicolas Altstaedt, sello, ja Fazil Say, piano).
+
+          Martini (sov. Berlioz): Plaisir d'amour (Lemmen onni) (Francois Le Roux, baritoni, ja Montrealin SO/Charles Dutoit).
+
+          Beethoven: Menuetti - Trio sinfoniasta n:o 4 B-duuri (The London Classical Players/Roger Norrington).
+
+          Mana-Zucca: Valse brillante (Nanette Kaplan Solomon, piano).
+
+          Sibelius: Ensam i dunkla skogarnas famn (Vakna) (Tapiolan Kamarikuoro ja Sibeliuksen ystävät/Hannu Norjanen). 
+
+          Canal: Allegro con bravura sonaatista viululle ja pianolle (Guillaume Chilemme ja Nathanael Gouin).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-30T17:00:00+03:00'
         end_time: '2025-03-30T17:10:00+03:00'
@@ -175,3 +194,4 @@ data:
         end_time: '2025-03-31T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista

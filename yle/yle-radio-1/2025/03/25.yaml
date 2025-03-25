@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:28.765967+00:00'
+  generated_at: '2025-03-25T02:31:09.206691+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-03-25T08:10:00+02:00'
         end_time: '2025-03-25T09:00:00+02:00'
+        description: |-
+          Sadattuhannet ihmiset ovat osoittaneet Turkissa mieltään sen jälkeen, kun presidentti Recep Tayyip Erdoğanin päävastustaja määrättiin vangittavaksi. Mitä Turkissa tapahtuu? Vieraana Ulkopoliittisen instituutin vanhempi tutkija Toni Alaranta. Lähetyksessä kuullaan myös toimittajamme Maija Liuhdon raportti Istanbulista.
+
+          Naudan jauhelihassa on ollut viime viikkoina saatavuusongelmia. Mitä ilmiön taustalla on? Vieraina MTK:n asiatuntija Juha Kyntäjä ja Luonnonvarakeskuksen tutkimusprofessori Jyrki NIemi.
+
+          Illan kunta- ja aluevaalitenttiin virittäydytään puolueiden edustajien kanssa. Keskustelijoina ovat puolueiden varapuheenjohtajat Antti Häkkänen (kok.) ja Veronika Honkala (vas.) sekä eduskuntaryhmän varapuheenjohtaja Sari Tanus (kd.).
+
+          Juontajana Mira Stenström, toimittajina Satu Heikkilä ja Anssi Väisänen, tuottajana Annette Blencowe ja Justus Laitinen.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-03-25T09:00:00+02:00'
         end_time: '2025-03-25T09:05:00+02:00'
@@ -121,11 +130,29 @@ data:
         description: |-
           Mentalisti Pete Poskiparta ja havaintopsykologi Jukka Häkkinen keskustelevat valheista. Miten valehtelijan voi tunnistaa?
         series: Sari Valto
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Louise Farrenc sävelsi "saksalaista" musiikkia Ranskassa - ja sävelsi hyvin '
         start_time: '2025-03-25T11:00:00+02:00'
         end_time: '2025-03-25T11:57:00+02:00'
-        description: |-
+        description: |
+          Pariisissa 1800-luvun alkupuolella piti säveltää oopperaa, jos halusi menestyä. Pianisti Louise Farrenc kuitenkin meni omia teitään, ja sävelsi sinfonioita ja kamarimusiikkia. Että hän oli nainen, teki oman tien kulkemisen entistä hankalammaksi. Onneksi hänen musiikkinsa on omanlaistaan ja hienoa. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Louise Farrenc:
+
+          Kvintetto pianolle ja jousille n:o 1 a-molli op.30, osa Scherzo (Mirka Viitala, piano, Reeta Maalismaa, viulu, Aino Oksanen, alttoviulu, Tuija Rantamäki, sello, Kati Salovaara, kontrabasso).
+
+          Sinfonia n:o 3 g-molli op.36, osa 1. Adagio-Allegro (Insula-orkesteri/Laurence Equilbey). 
+
+          Nonetto Es-duuri op.38 jousille ja puhaltimille, osa Acherzo (Philippe Bernold, huilu, Francois Leleux, oboe, Romain Guyot, klarinetti, Andre Cazalet, käyrätorvi, Gilbert Audin, fagotti, Guillaume Sutre, viulu, Miguel da Silva, alttoviulu, Francois Salque, sello, Vincent Pasquier, kontrabasso).
+
+          Sekstetto puhallinkvintetille ja pianolle op.40, osa Andante sostenuto (Les Vents Francais ja Eric Le Sage, piano).
+
+          Trio huilulle, sellolle ja pianolle e-molli op.45, osa 1. Allegro deciso - Piu moderato ed espressivo
+          (Linos Ensemblen jäseniä: Kersten McCall, huilu, Mario Blaumer, sello, ja Konstanze Eickhorst, piano).
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-03-25T11:57:00+02:00'
         end_time: '2025-03-25T12:00:00+02:00'
@@ -151,9 +178,14 @@ data:
           Pasi Heikura kysyy maataloustieteen professori Frederick Stoddardilta, mitä riisilajeja maailmassa on. Ohjelmassa mietitään myös, kannattaako roskasta maksaa, vaikka ilmaiseksi saisi, ja lopuksi testataan, miten käärmeenkarkotusloitsut eli madonluvut sopivat pörssikurssien analysointiin.
           Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
         series: Aristoteleen kantapää
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Mitä vaalitenteistä jää käteen, kuka puoluejohtajista erottuu?'
         start_time: '2025-03-25T13:00:00+02:00'
         end_time: '2025-03-25T13:30:00+02:00'
+        description: |
+          Politiikkaradion vaalitentit ovat ohi. Kuka puheenjohtajista kohensi puolueensa osakkeita, kuka ei? 
+          Viime kuntavaalit olivat vaaralliset hallituspuolueille, takkiin tuli pahemmin kuin kertaakaan aiemmin 2000-luvulla. Mikä ratkaisee tämän kevään tuplavaalit? Kuka joutuu vaaravyöhykeelle?
+          Vaaleja pui Politiikkaradion oma kolmikko Antti Pilke, Linda Pelkonen ja Tapio Pajunen.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-03-25T13:30:00+02:00'
         end_time: '2025-03-25T15:00:00+02:00'
@@ -212,7 +244,8 @@ data:
         start_time: '2025-03-25T17:10:00+02:00'
         end_time: '2025-03-25T17:34:20+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Politiikka kiinnostaa nuoria entistä enemmän, mutta kiinnostus ei jalostu ehdokkuudeksi vaaleissa. Miten nuoret näkevät omat vaikutusmahdollisuutensa? Reetta Röngän vieraina ovat Nuorisotutkimusseuran tilastotutkija Konsta Happonen ja Opiskelijoiden liikuntaliiton varapuheenjohtaja, Sysmän nuorin kunnanvaltuutettu Nette Rimpioja.
+        series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-03-25T17:35:00+02:00'
         end_time: '2025-03-25T18:30:00+02:00'

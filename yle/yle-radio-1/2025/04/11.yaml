@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:35.789521+00:00'
+  generated_at: '2025-03-25T02:31:41.218490+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,23 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-11T07:10:00+03:00'
         end_time: '2025-04-11T07:59:59+03:00'
+        description: |-
+          W.A. Mozart: Finaali sinfoniasta n:o 38 "Prahalainen" (RSO/Sakari Oramo).
+
+          Satie: Kultapölyä (Alexandre Tharaud, piano).
+
+          Wolf: Er ist's (Arleen Auger, sopraano, ja Irwin Gage, piano).
+
+          Grieg: Sarabande (Orpheus-kamariork.).
+
+          Debussy: Kuutamo (Clair de lune) (Samson Francois, piano).
+
+          Viviani: Sonaatti trumpetille ja continuolle n:o 1 C-duuri (Håkan Hardenberger ja I Musici).
+
+          Chaminade: Capriccio (Nils-Erik Sparf, viulu, ja Bengt Forsberg, piano).
+
+          Desplat: Little women elok. Pikku naisia (Ork./Alexandre Desplat).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-11T08:00:00+03:00'
         end_time: '2025-04-11T08:10:00+03:00'
@@ -58,7 +75,6 @@ data:
         end_time: '2025-04-11T10:55:00+03:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-        series: Ruben Stiller
       - title: Narrin aamulaulu - Outi Paananen
         start_time: '2025-04-11T11:00:00+03:00'
         end_time: '2025-04-11T11:55:00+03:00'
@@ -121,8 +137,10 @@ data:
       - title: Musiikkihartaus
         start_time: '2025-04-11T18:35:00+03:00'
         end_time: '2025-04-11T19:00:00+03:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Autio ja tyhjä maisema on täynnä Jumalan läsnäoloa"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus. Tässä musiikkihartaudessa vs. kappalainen Visa Viljamaa Helsingistä pohtii paastoa matkana sisäiseen erämaahan ja kohti vapautumista elämää rajoittavista orjuuden kahleista.
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-11T19:00:00+03:00'
         end_time: '2025-04-11T19:02:00+03:00'

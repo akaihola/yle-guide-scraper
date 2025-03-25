@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:31.424739+00:00'
+  generated_at: '2025-03-25T02:31:32.822221+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -12,6 +12,7 @@ data:
         end_time: '2025-03-31T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-31T06:30:50+03:00'
         end_time: '2025-03-31T06:50:00+03:00'
@@ -87,6 +88,7 @@ data:
         end_time: '2025-03-31T10:50:00+03:00'
         description: |
           Tarinoita talouden myllerryksistä.
+        series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-03-31T11:00:00+03:00'
         end_time: '2025-03-31T11:57:00+03:00'
@@ -132,6 +134,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-31T16:10:00+03:00'
         end_time: '2025-03-31T16:59:00+03:00'
+        description: |-
+          Linnavuori (sov. Olli): Minä laulan sun iltasi tähtihin (Jorma Hynninen, baritoni, ja Tampere Filharmonia/Ulf Söderblom). 
+
+          Raitio: Metsätähti (Tapiola Sinfonietta/Tuomas Hannikainen).
+
+          Sisask: Eridanus pianosarj. Eteläinen tähtitaivas (Lauri Väinmaa, piano).
+
+          Kostiainen: Kiurun tie (Vox Aurea/Pekka Kostiainen).
+
+          Glazunov: Kevät bal. Vuodenajat (Minnesotan orkesteri/Edo de Waart).
+
+          Meyerbeer: Catherinen rukous ja barcarole oopp. Pohjantähti (Joan Sutherland, sopraano, sekä Geneven Suuren teatterin kuoro ja Ranskankielisen Sveitsin ork./Richard Bonynge).
+
+          Reinecke: Ilta-aurinko sarj. Kehdosta hautaan (Fenwick Smith, huilu, ja Hugh Hinton, piano).
+
+          Lalo: Intermezzo Espanjalaisesta sinfoniasta d-molli (Isaac Stern, viulu, ja Philadelphian ork./Eugene Ormandy).
+
+          Ranta: La Sera (Ilta) (Mikko Raasakka, klarinetti, ja Antti Vahtola, piano).
+
+          Madetoja: Kevätunta (Key Ensemble//Teemu Honkanen).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-31T17:00:00+03:00'
@@ -161,9 +183,11 @@ data:
         end_time: '2025-03-31T19:00:00+03:00'
         description: |-
           Toimittaja Mikko Kurenlahti lukee Paavalin kirjeitä
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Sivarihäpeää ja pussikaljapasifismia'
         start_time: '2025-03-31T19:02:40+03:00'
         end_time: '2025-03-31T19:50:00+03:00'
+        description: |-
+          Venäjän aloittama hyökkäyssota Ukrainassa saa Laurin tuntemaan häpeää nuoruudessa tehdyistä valinnoista. Siviilipalvelus oli 1990-luvun lopulla helppo valinta, mutta riski Suomen joutumisesta sotaan tuntuukin yhtäkkiä todelliselta. Laurin pohtiessa omaa maanpuolustuksellista asemaansa perheen esikoislapsi menee armeijaan. Toteutus: Kaisa Pulakka.
         series: Tosi tarina
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-31T19:50:00+03:00'

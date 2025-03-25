@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:30.639169+00:00'
+  generated_at: '2025-03-25T02:31:26.394474+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,26 @@ data:
         start_time: '2025-03-28T23:40:00+02:00'
         end_time: '2025-03-29T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Massenet: Herodias, ooppera (Placido Domingo, tenori, Renée Fleming, sopraano, Dolora Zajick, mezzosopraano, Juan Pons, baritoni, Kenneth Cox, basso, ja Hector Vásquez, baritoni, sekä San Franciscon oopperan kuoro ja ork./Valeri Gergijev).
+
+          02:16 Glazunov: Masurkka orkesterille G-duuri (Neuvostoliiton radion suuri SO/Jevgeni Svetlanov).
+
+          02:24 Cassadó: Vihreän paholaisen tanssi (Jan-Erik Gustafsson, sello, ja Arto Satukangas, piano).
+
+          02:29 Stravinsky: Sotilaan tarina, sarja (Clevelandin ork./Pierre Boulez).
+
+          02:57 Copland: The Heiress (Saint Louisin SO/Leonard Slatkin).
+
+          03:06 Adam: Giselle, baletti (Wienin filharmonikot/Herbert von Karajan).
+
+          04:07 Mertz: Otteita kok. Bardenklänge (Richard Savino, kitara).
+
+          05:07 Pingoud: Chantecler (RSO/Sakari Oramo).
+
+          05:17 Pugni (sov. McDermott): Finaali bal. Pas de quatre (Cincinnati Pops/Erich Kunzel).
+
+          05:20 Ay Amor! Teatterimusiikkia ja lauluja 1600-luvun Espanjasta, säv. Hidalgo, Falconieri ja Selma y Salaverde (The Newberry Consort/Mary Springfels).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-03-29T06:30:00+02:00'
         end_time: '2025-03-29T07:00:00+02:00'
@@ -50,7 +69,6 @@ data:
           J. Larsson: Jumala on meidät valinnut (Pelastusarmeijan kvartetti).
 
           Gustafson: Herra, tutki sydämeni (Jorma Pollari, laulu, ja Saara Mörsky, piano).
-        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-03-29T08:25:00+02:00'
         end_time: '2025-03-29T08:35:00+02:00'
@@ -178,6 +196,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-29T16:10:00+02:00'
         end_time: '2025-03-29T16:59:00+02:00'
+        description: |
+          Frescobaldi: Canzona settima pasuunalle ja uruille (Christian Lindberg ja Neal Peres da Costa). 
+
+          Chastelain de Couci: Kevään ja kukkien uusi aika (Oliphant). 
+
+          Casulana: Morir non puo il mio cuore (Singer Pur).
+
+          Offenbach: Auringonsäteiden valssi bal. Perhonen (Lontoon SO/Richard Bonynge).
+
+          Liszt (sov. Kujala): Konserttietydi n:o 5 (Maahisten karkelo) (Susanne Kujala, Helsingin tuomiokirkon urut).
+
+          Chaminade: Andantino kok. Kolme kappaletta op.31 (Julia Galic, viulu, ja Johann Blanchard, piano).
+
+          Bellini: Norman aaria "Casta diva" oopp. Norma (Maria Callas, sopraano, sekä Milanon La Scala -oopperan kuoro ja ork./Tullio Serafin).
+
+          Netzel: Andante religioso sarjasta viululle ja jousiorkesterille op.83 (Musica Vitae/Malin Broman, viulu).
+
+          Palmgren: Aftonröster pianosarj. Vår (Jouni Somero, piano). 
+
+          Presti: Bagatelle kahdelle kitaralle (Olivier Chassain ja Stein-Erik Olsen). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-29T17:00:00+02:00'
@@ -209,7 +247,6 @@ data:
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2025-03-29T19:02:00+02:00'
         end_time: '2025-03-29T21:00:00+02:00'
-        series: Musiikkikamari
       - title: Yle Uutiset
         start_time: '2025-03-29T21:00:00+02:00'
         end_time: '2025-03-29T21:02:05+02:00'
@@ -238,7 +275,11 @@ data:
           Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
       - title: Yöklassinen
         start_time: '2025-03-29T23:40:00+02:00'
-        end_time: '2025-03-30T06:00:00+02:00'
+        end_time: '2025-03-30T02:59:59+02:00'
         description: |-
           Klassista musiikkia.
         series: Syventävää klassista
+      - title: Yöklassinen
+        start_time: '2025-03-30T04:00:00+03:00'
+        end_time: '2025-03-30T07:00:00+03:00'
+        series: Yle Klassinen

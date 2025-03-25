@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:35.238031+00:00'
+  generated_at: '2025-03-25T02:31:40.962645+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,23 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-10T07:10:00+03:00'
         end_time: '2025-04-10T07:59:59+03:00'
+        description: |-
+          Rameau: Alkusoitto komediabal. Platée (Les Talens Lyriques/Christophe Rousset).
+
+          A. Henselt: Grande valse (L'aurore boreale) (Daniel Grimwood, piano).
+
+          Trad. (sov. Earley): The Skye boat song (Glenn Murphy, tenori, ja Dublinin yliopiston Choral Scholars -kuoro/Desmond Earley).
+
+          Hahn: Aamupäivä Pariisissa (Sofja Gülbadamova, piano).
+
+          Collan: Fåfäng önskan (Walton Grönroos, baritoni, ja Pentti Koskimies, piano).
+
+          Prokofjev: Aamusoitto bal. Romeo ja Julia (Tshaikovski-kamariork./Lazar Gosman).
+
+          J. Chydenius: Ei runo rahatta laula (Ahjo Ensemble/Paavo Hyökki).
+
+          Carreno: Un Bal en rêve (Un vaile en sueños) (Clara Rodriguez, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-10T08:00:00+03:00'
         end_time: '2025-04-10T08:10:00+03:00'
@@ -83,7 +100,7 @@ data:
 
           Mikä aiheutti Mountain Meadowsin julman hyökkäyksen, millaisia ovat tämän päivän mormonit maallistuvassa ilmapiirissä, ja miten mormonit itse suhtautuvat siihen, millaisia stereotypioita heistä esitetään viihteessä?
 
-          Keskustelemassa on Pohjois-Amerikan tutkija, professori emeritus Markku Henriksson. 
+          Keskustelemassa ovat Pohjois-Amerikan tutkija, professori emeritus Markku Henriksson, filosofian maisteri maisteri Hannele Vaissi ja Marjaniemen seurakunnan piispa Matti Roto.
 
           Toimittajana on Pauliina Grym.
         series: Kulttuuriykkönen
@@ -128,6 +145,7 @@ data:
           Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy, voiko kaikkivaltias Jumala kärsiä? 
 
           Hartaus jatkaa keskeisiä kristillisiä oppeja moniarvoissa maailmassa käsittelevää sarjaa. Tämä on 13. osa. 
+        series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-10T19:00:00+03:00'
         end_time: '2025-04-10T19:02:00+03:00'

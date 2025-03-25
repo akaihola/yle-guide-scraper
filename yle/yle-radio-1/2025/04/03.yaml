@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:32.699714+00:00'
+  generated_at: '2025-03-25T02:31:35.537847+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -62,6 +62,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-03T09:05:40+03:00'
         end_time: '2025-04-03T09:58:00+03:00'
+        description: |
+          Lai: La bicyclette (Yves Montand).
+          Dewitt: Flowers on the wall (The Statler Brothers).
+          Hartford: Takaa ajatusten virran (Jussi Raittinen & The Boys).
+          Bacharach: The look of love (Nina Simone).
+          Brel: Au printemps (Jacques Brel).
+          Karjalainen: Neiti Huhtikuu (J. Karjalainen ja Mustat lasit).
+          Porter: Let's do it (let's fall in love) (Eartha Kitt).
+          Aznavour: Jag kan inte leva utan dig (Lill-Babs).
+          Wheeler/Rogers, Gaby: Mä lähden stadiin (Carola ja Lasse Mårtenson).
+          Goddard: Lonely city (John Leyton).
+          Duke: April in Paris (Ella Fitzgerald & Louis Armstrong).
+          Eiriksson: O thu (Mannakorn).
+          Barry: The Persuaders Theme (John Barry).
+          R. Gibb/B. Gibb: To Love Somebody (The Bee Gees).
+          Fekaris/Perren: Oon voimissain (Virve 'Vicky' Rosti).
+        series: Muistojen bulevardi
       - title: Marko Gustafssonin vieraana europarlamentaarikko Ville Niinistö
         start_time: '2025-04-03T10:00:00+03:00'
         end_time: '2025-04-03T10:50:00+03:00'
@@ -105,7 +122,6 @@ data:
         end_time: '2025-04-03T15:55:00+03:00'
         description: |
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
-        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-04-03T15:55:00+03:00'
         end_time: '2025-04-03T15:58:00+03:00'

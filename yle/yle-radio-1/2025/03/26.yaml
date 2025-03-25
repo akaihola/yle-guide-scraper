@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:29.017020+00:00'
+  generated_at: '2025-03-25T02:31:19.174737+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -161,6 +161,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-03-26T16:10:00+02:00'
         end_time: '2025-03-26T16:59:00+02:00'
+        description: |-
+          Nielsen: Itämainen juhlamarssi näyt. Aladdin (Ruotsin radion SO/Esa-Pekka Salonen).
+
+          Porter: So in love musik. Kiss me, Kate (Mari Palo, sopraano, ja Kuopion kaupunginork./Markus Lehtinen).
+
+          Le Beau: Andante tranquillo sonaatista sellolle ja pianolle D-duuri (Steven Isserlis ja Connie Shih).
+
+          Infante: Ritmo sarjasta Danzas andaluzas kahdelle pianolle (Philippe Corre ja Edouard Exerjean, piano).
+
+          Kansansäv. (sov. Tullberg): Kristallen den fina (YL/Matti Hyökki).
+
+          Saint-Saens: Johdanto ja Rondo capriccioso a-molli (Pyry Mikkola, viulu, ja Pori Sinfonietta/Pertti Pekkanen).
+
+          Muhly: A Hudson cycle (Lavinia Meijer, harppu).
+
+          Wolf-Ferrari: Intermezzo ja Ritornello oopp. Il Campiello (BBC:n FO/Gianandrea Noseda).
+
+          Gallardo del Rey: Cancion del amor (Elina Garanca, mezzosopraano, ja yhtye). 
+
+          Darzins: Surumielinen valssi (Detroitin SO/Neeme Järvi).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-03-26T17:00:00+02:00'

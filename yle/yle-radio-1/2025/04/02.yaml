@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:32.211861+00:00'
+  generated_at: '2025-03-25T02:31:34.562122+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -167,18 +167,19 @@ data:
         end_time: '2025-04-02T19:02:00+03:00'
       - title: 'Pohjoismaiset musiikkipäivät 2024: Ihmeellinen matka'
         start_time: '2025-04-02T19:02:00+03:00'
-        end_time: '2025-04-02T21:00:00+03:00'
+        end_time: '2025-04-02T20:37:00+03:00'
         description: |
           Pohjoismaiset musiikkipäivät – yksi maailman vanhimmista musiikkitapahtumista – järjestettiin syksyllä 2024 Glasgow’ssa, Skotlannissa. Festivaalilla kuultua musiikkia esitellään kahdessa Euroradiokonsertissa huhtikuussa. 
 
           BBC:n Skotlannin sinfoniaorkesterin konsertin otsikkona on “Ihmeellinen matka”. 
-          Maja S K Ratkjen pasuunakonsertto perustuu tarinaan Ikaruksesta ja hänen onnettomasta matkastaan ​​kohti aurinkoa, kun taas Britta Byströmin “Voyages Extraordinaires” etenee 
+          Maja S.K. Ratkjen pasuunakonsertto perustuu tarinaan Ikaruksesta ja hänen onnettomasta matkastaan ​​kohti aurinkoa, kun taas Britta Byströmin “Voyages Extraordinaires” etenee 
           Jules Vernen kirjoissa kuvattujen lumoavien ja mahdottomien matkojen innoittamana.
           Ohjelmassa on myös färsaarelaisen Eli Tausen á Lavan “let me cry”, jonka taustalla on Händelin 
           koskettava aaria “Lascia ch’io pianga” sekä Oscar-palkitun säveltäjän Hildur Guðnadóttirin kuoro-orkesteriteos “The Fact of the Matter”.
 
           BBC:n Skotlannin sinfoniaorkesteria ja Glasgow'n yliopiston kappelikuoroa johtaa kapellimestari Emilia Hoving. Ratkjen konserton pasuunasolisti on Stephen Menotti. 
           Euroradiokonsertin toimittaa Ainomaija Pennanen. 
+        series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-04-02T21:00:00+03:00'
         end_time: '2025-04-02T21:02:00+03:00'

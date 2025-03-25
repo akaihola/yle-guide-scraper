@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-24T02:32:34.992727+00:00'
+  generated_at: '2025-03-25T02:31:40.442406+00:00'
   git:
     branch: main
-    commit: 2d48e29d150a98036458f3d29b497b60628ed45a
-  data_hash: 4011d6f74e6125a93f7f54ce9c92fde4fccd41f3c759ebaf351c9d9991cdeba5
+    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
+  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
 data:
   Yle Radio 1:
     programmes:
@@ -30,6 +30,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-09T07:10:00+03:00'
         end_time: '2025-04-09T07:59:59+03:00'
+        description: |
+          Telemann: Allegro sonaatista viululle ja continuolle A-duuri (Battalia). 
+
+          Crusell: Andante sostenuto sinfonia concertantesta B-duuri (Reijo Koskinen, klarinetti, Esa Tukia, käyrätorvi, Pekka Katajamäki, fagotti, ja RSO/Jukka-Pekka Saraste).
+
+          Chaminade: Sommeil d'enfant sellolle ja pianolle (Michael Gross ja Johann Blanchard).
+
+          T. Kuusisto: Aprilis (4. osa) laulusarjasta Kalendarium (Kalenteri) op.66 (Laulu-Miehet/Matti Hyökki).
+
+          Saint-Saëns: Maurilainen rapsodia (Monte Carlon FO/David Robertson).
+
+          Sallinen: Kuorokohtaus "Onko Suomessa kevät" oopp. Punainen viiva (Tampereen filharmoninen kuoro/Heikki Liimola).
+
+          Tárrega: Recuerdos de la Alhambra (Muistoja Alhambrasta) (Mattias Schulstad, kitara).
+
+          Tsintsadze: Suliko (Georgian valtion jousikvartetti).
+
+          Bayer: Andante - Allegretto - Polkka baletista Aurinko ja maa (Slovakian radion SO/Andrew Mogrelia).
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-09T08:00:00+03:00'
@@ -43,6 +61,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-09T09:05:40+03:00'
         end_time: '2025-04-09T09:58:00+03:00'
+        description: |-
+          Jobim: Desafinado (Quincy Jones All-Star Big Band).
+          Trad. (sov Laurila): Koska meitä käsketään (Mari Laurila ja Heikki Laurila).
+          Nugetre: Mess around (Ray Charles).
+          Ericsson: Huhtikuu (Anja Piipponen).
+          Dudan: Ciel de Paris (Henri Salvador).
+          Neville: Ruler of my heart (Irma Thomas).
+          Bergström: Pyykkinaru (Kipparikvartetti).
+          Moutet ja Chabrier: Borta bra men hemma bäst (Marion Rung).
+          Coquatrix: Muistojen teillä (Olavi Virta).
+          Rodríguez: La Cumparsita (José Basso)
+          Legrand: The windmills of your mind (Freddy Cole).
+          Curie: Vereda tropical (Adelina Garcia).
+          Bricusse: Jos kieltä eläinten oppisin (Lasse Mårtenson).
+          Siegel: Ich hab' noch einen Koffer in Berlin (Marlene Dietrich).
+          Hohenthal: Tuon huhtikuun mä muistan (Cumulus).
+          Guthrie: This land is your land (Sharon Jones & The Dap-Kings).
+        series: Muistojen bulevardi
       - title: Havaintoja muutoksesta
         start_time: '2025-04-09T10:00:00+03:00'
         end_time: '2025-04-09T10:50:00+03:00'
