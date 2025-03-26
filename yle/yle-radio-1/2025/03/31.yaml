@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-25T02:31:32.822221+00:00'
+  generated_at: '2025-03-26T02:30:53.067496+00:00'
   git:
     branch: main
-    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
-  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
+    commit: 81357ca43bc94ee70971cd3fe547ffdad2c328de
+  data_hash: 8a5cec8a59a82523af55b62aebbcb78062055997e49b5467aca8fd8180f5f3f9
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,37 @@ data:
         start_time: '2025-03-30T23:40:00+03:00'
         end_time: '2025-03-31T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Boismortier: Sonaatti kolmelle huilulle d-molli (Mikael Helasvuo, Jari S. Puhakka ja Petra Aminoff-Wallgren).
+
+          23:55 Prieto: Sinfonia Asturiana (Asturialainen sinfonia) (Cordoban orkesteri/José Luis Temes).
+
+          00:23 Melartin: Sinfonia n:o 5 a-molli (Sinfonia brevis) (RSO/Jussi Jalas).
+
+          00:59 Koechlin: Sonaatti oboelle ja pianolle (Matthias Arter ja Manuel Bärtsch).
+
+          01:24 Ricordi: Le Livre des serenades (Gabriella Morelli ja Giancarlo Simonacci, piano).
+
+          02:05 Jaëll: Voix du printemps (Kevään ääni) (Duo Korusa).
+
+          02:19 Desmarets: Te Deum (Sinua, Jumala, ylistämme) (Marie-Louise Duthoit, sopraano, Hanna Bayodi, sopraano, Robert Getchell, kontratenori, Stephan Van Dyck, tenori, Alain Buet, baritoni, ja Emmanuel Vistorky, basso, sekä Le Concert Spirituel/Hervé Niquet).
+
+          02:54 Schulz-Evler: Venäläinen rapsodia (Ljudmil Angelov, piano, ja BBC:n Skotlannin SO/Vladimir Kiradijev).
+
+          03:05 Grainger: Green bushes (Schönberg-yhtye/Oliver Knussen).
+
+          03:14 Emilie Mayer: Pianosonaatti d-molli (Yang Tai).
+
+          03:43 Tshaikovski: Romeo ja Julia, alkusoittofantasia (RSO/Sakari Oramo).
+
+          04:05 Saint-Saëns: Pianotrio n:o 1 F-duuri (Colub Kaplan Carr Trio).
+
+          04:34 Schumann: Liederkreis op.39 (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          05:01 de Séverac: En Languedoc (Languedocissa) (Izumi Tateno, piano).
+
+          05:35 Tshaikovski: Yhdeksän kirkkolaulua (Latvian radion kuoro/Sigvards Klava).
+
+          06:15Biber: Partita n:o 1 (Tafelmusik Baroque Soloists).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-03-31T06:30:50+03:00'
@@ -85,9 +115,9 @@ data:
         series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-03-31T10:00:00+03:00'
-        end_time: '2025-03-31T10:50:00+03:00'
+        end_time: '2025-03-31T10:52:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Miten pizza tuli Suomeen? Vieraana Sakari Nupponen
         series: Virtasen taloushistoria
       - title: Välilevyjä - Kare Eskola
         start_time: '2025-03-31T11:00:00+03:00'
@@ -187,7 +217,7 @@ data:
         start_time: '2025-03-31T19:02:40+03:00'
         end_time: '2025-03-31T19:50:00+03:00'
         description: |-
-          Venäjän aloittama hyökkäyssota Ukrainassa saa Laurin tuntemaan häpeää nuoruudessa tehdyistä valinnoista. Siviilipalvelus oli 1990-luvun lopulla helppo valinta, mutta riski Suomen joutumisesta sotaan tuntuukin yhtäkkiä todelliselta. Laurin pohtiessa omaa maanpuolustuksellista asemaansa perheen esikoislapsi menee armeijaan. Toteutus: Kaisa Pulakka.
+          Venäjän aloittama hyökkäyssota Ukrainassa saa Laurin tuntemaan häpeää nuoruudessa tehdyistä valinnoista. Siviilipalvelus oli 1990-luvun lopulla helppo valinta, mutta riski Suomen joutumisesta sotaan tuntuukin yhtäkkiä todelliselta. Laurin pohtiessa omaa maanpuolustuksellista asemaansa perheen esikoislapsi menee armeijaan. Toimittaja: Kaisa Pulakka.
         series: Tosi tarina
       - title: Yksi on hyvää seuraa
         start_time: '2025-03-31T19:50:00+03:00'
@@ -206,9 +236,16 @@ data:
         end_time: '2025-03-31T22:24:30+03:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
+      - title: 'Suuren meriseikkailun jäljillä: Toinen maailmansota vie suomalaisen merimiehen Australian vankileirille'
         start_time: '2025-03-31T22:25:00+03:00'
-        end_time: '2025-03-31T22:44:30+03:00'
+        end_time: '2025-03-31T22:44:12+03:00'
+        description: |
+          Kuinka suomalainen merimies joutui sotavangiksi aina Australiaan saakka? Tornator-rahtilaiva lähti vuonna 1941 kohti Japania. Ruumassa on paperimassaa ja kyydissä merimies Valter Nylander. Kun maailmanhistoriassa tapahtui käänne, odotti Nylanderia seikkailut toisen maailmansodan Tyynenmeren tyrskyissä. 
+
+          Toinen maailmansota vie suomalaisen merimiehen Australian vankileirille -osan vieraana on merikanpteeni Hannu Vartiainen. 
+
+          Toimittaja Jukka Kuosmanen. 
+        series: Suuren meriseikkailun jäljillä
       - title: Näistä levyistä en luovu
         start_time: '2025-03-31T22:45:00+03:00'
         end_time: '2025-03-31T23:39:00+03:00'

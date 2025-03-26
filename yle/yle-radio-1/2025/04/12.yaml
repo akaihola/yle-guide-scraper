@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-25T02:31:41.757660+00:00'
+  generated_at: '2025-03-26T02:30:56.344143+00:00'
   git:
     branch: main
-    commit: ef9900242ab6019cb44ad5c738db5dd148f518f7
-  data_hash: cd99179e2d106f35fc971b6c20df478516e4bec0118bae5157fc40ac25ab0532
+    commit: 81357ca43bc94ee70971cd3fe547ffdad2c328de
+  data_hash: 8a5cec8a59a82523af55b62aebbcb78062055997e49b5467aca8fd8180f5f3f9
 data:
   Yle Radio 1:
     programmes:
@@ -34,7 +34,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-12T07:56:00+03:00'
         end_time: '2025-04-12T08:00:00+03:00'
-        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-04-12T08:00:00+03:00'
         end_time: '2025-04-12T08:05:00+03:00'
@@ -58,7 +57,6 @@ data:
         end_time: '2025-04-12T08:35:00+03:00'
         description: |-
           Pastori Harri Linna, Ortodoksinen kirkko, Joensuu
-        series: Aamuhartaus
       - title: Minne Rinne vie
         start_time: '2025-04-12T08:35:00+03:00'
         end_time: '2025-04-12T08:55:00+03:00'
@@ -128,6 +126,36 @@ data:
       - title: Uudet levyt
         start_time: '2025-04-12T13:05:00+03:00'
         end_time: '2025-04-12T14:00:00+03:00'
+        description: |
+          Biäggålmaj (Sara Ajnnak). 
+
+          Thomassen - Fay - Nergård: Vijmak (Ailo, laulu, ja yhtye). 
+
+          Kåven - Lynch - Stenberg: Mailbmi jorra (Jörgen Stenberg, joiku, ja Elin and The Woods). 
+
+          Niels Ovlla Oskal Dunfjell: Savrrimus (Oscaal). 
+
+          Kyelialmai (Heli Aikio, joiku). 
+
+          A. Oskal: Mongolia gehcconat (Mathis A. Oskal, joikaus). 
+
+          Duodjemagiija (Hilda Länsman ja Stein Austrud). 
+
+          Linn Henriette (Johan Ivvar Gaup, joiku). 
+
+          Plaave guehperh (Lajla Renander, joiku). 
+
+          Torill (Johan Anders Baer, joiku). 
+
+          Pirttijärvi: Uvdel Ovlla jovnna Ursula (Áššu -yhtye: Ulla Pirttijärvi, joiku, Kenneth Ekornes, lyömäsoittimet, Olav Torget, kitara, sekä sekä Hildegunn Øiseth, vuohensarvitorvi). 
+
+          Pirttijärvi: Majjo jovn' hilmma Keijo luohti (Áššu). 
+
+          Kansanlaulu (Saame) (sov. Näkkäläjärvi-Länsman): Aillu Mihkku (Annamaret Luohteilbmi). 
+
+          Rasmus: Andde Niillasa Asko (Annamaret Luohteilbmi). 
+
+          Länsman - Norvio: Galla (Hilda Länsman, joiku, Tuomas Norvio, elektroniikka, ja Eriikka Maalismaa, viulu). 
         series: Uudet levyt
       - title: Ruben Stiller
         start_time: '2025-04-12T14:00:00+03:00'
