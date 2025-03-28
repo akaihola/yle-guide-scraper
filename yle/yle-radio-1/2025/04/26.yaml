@@ -1,15 +1,37 @@
 metadata:
-  generated_at: '2025-03-27T02:31:34.370684+00:00'
+  generated_at: '2025-03-28T02:31:45.819904+00:00'
   git:
     branch: main
-    commit: e05419b6d7d75be5529cca49c74f2202e31f49e6
-  data_hash: dd4eb603ede7a1fb16eb7ad64dab71da2b06d6fe68e2f0544631f791e55d39a9
+    commit: 49ea1b057a3fc7236965ba2d57455b91e7519e0f
+  data_hash: b003fac993b5472badcb0d31e6634fc9ee03b85641222c73a738b6e503f2fed5
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-04-25T23:40:00+03:00'
+        end_time: '2025-04-26T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Aamuklassinen
+        start_time: '2025-04-26T06:30:00+03:00'
+        end_time: '2025-04-26T07:00:00+03:00'
       - title: Yle Uutiset
         start_time: '2025-04-26T07:00:00+03:00'
         end_time: '2025-04-26T07:02:05+03:00'
+      - title: Kulttuurin kulmilla
+        start_time: '2025-04-26T07:20:30+03:00'
+        end_time: '2025-04-26T07:30:00+03:00'
+      - title: Luomiskertomus
+        start_time: '2025-04-26T07:31:00+03:00'
+        end_time: '2025-04-26T07:56:00+03:00'
+        description: |
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-26T08:00:00+03:00'
+        end_time: '2025-04-26T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2025-04-26T08:05:00+03:00'
+        end_time: '2025-04-26T08:25:00+03:00'
       - title: Aamuhartaus
         start_time: '2025-04-26T08:25:00+03:00'
         end_time: '2025-04-26T08:35:00+03:00'
@@ -27,9 +49,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-26T09:00:00+03:00'
         end_time: '2025-04-26T09:05:00+03:00'
+        series: Yle Uutiset
+      - title: Muistojen bulevardi
+        start_time: '2025-04-26T09:05:40+03:00'
+        end_time: '2025-04-26T09:58:00+03:00'
       - title: Yle Uutiset
         start_time: '2025-04-26T10:00:00+03:00'
         end_time: '2025-04-26T10:05:00+03:00'
+        series: Yle Uutiset
+      - title: Ykkösaamu
+        start_time: '2025-04-26T10:05:00+03:00'
+        end_time: '2025-04-26T10:45:00+03:00'
+        description: |
+          Yhteislähetys TV1:n kanssa.
+      - title: Rytmikamari
+        start_time: '2025-04-26T10:45:00+03:00'
+        end_time: '2025-04-26T11:00:00+03:00'
+        description: |
+          Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+      - title: Näistä levyistä en luovu
+        start_time: '2025-04-26T11:00:00+03:00'
+        end_time: '2025-04-26T11:55:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-04-26T11:57:00+03:00'
+        end_time: '2025-04-26T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-26T12:00:00+03:00'
+        end_time: '2025-04-26T12:05:00+03:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-04-26T12:05:00+03:00'
         end_time: '2025-04-26T12:30:00+03:00'
@@ -39,10 +87,16 @@ data:
         end_time: '2025-04-26T13:05:00+03:00'
         description: |
           Ihmiset ovat aina kadehtineet lintuja ja tahtoneet oppia tuntemaan ne lähemmin. Mutta miten tutkia jotain, joka on omimmillaan ilmassa? Tässä jaksossa lähdetään yhdessä lintuintoilijoiden kanssa maastoon kompuroimaan, hikoilemaan ja etsimään jälkiä mystisestä huuhkajasta. Petolintuihin erikoistunut rengastaja Teemu Honkanen kertoo, mikä kärsimysornitologiassa koukuttaa. Luonnontieteellisen keskusmuseon yli-intendentti Aleksi Lehikoinen avaa, millaisia seurauksia lintumäärän vähenemisellä on. Toimittaja Emil Johansson.
+        series: Siivekkäät
       - title: Uudet levyt
         start_time: '2025-04-26T13:05:00+03:00'
         end_time: '2025-04-26T14:00:00+03:00'
         series: Uudet levyt
+      - title: Ruben Stiller
+        start_time: '2025-04-26T14:00:00+03:00'
+        end_time: '2025-04-26T14:55:00+03:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
       - title: "Radioteatteri esittää: Kerran viel' Suomisen perhe! osa 5"
         start_time: '2025-04-26T15:00:00+03:00'
         end_time: '2025-04-26T15:15:00+03:00'
@@ -64,12 +118,25 @@ data:
         start_time: '2025-04-26T15:30:00+03:00'
         end_time: '2025-04-26T15:55:00+03:00'
         series: Aristoteleen kantapää
+      - title: Yle News
+        start_time: '2025-04-26T15:55:00+03:00'
+        end_time: '2025-04-26T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-26T16:00:00+03:00'
+        end_time: '2025-04-26T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-04-26T16:10:00+03:00'
         end_time: '2025-04-26T16:59:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-04-26T17:00:00+03:00'
         end_time: '2025-04-26T17:10:00+03:00'
+      - title: Miia Krause
+        start_time: '2025-04-26T17:10:00+03:00'
+        end_time: '2025-04-26T17:57:00+03:00'
+        description: |
+          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
       - title: 'Ehtookellot: Hattulan kirkon kellot'
         start_time: '2025-04-26T18:00:00+03:00'
         end_time: '2025-04-26T18:01:00+03:00'
@@ -84,10 +151,18 @@ data:
         description: |
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
         series: Lauantain toivotut levyt
+      - title: Yle Uutiset ja sää
+        start_time: '2025-04-26T19:00:00+03:00'
+        end_time: '2025-04-26T19:02:00+03:00'
       - title: Oopperailta
         start_time: '2025-04-26T19:02:00+03:00'
         end_time: '2025-04-26T22:00:00+03:00'
         series: Ooppera
+      - title: Kielen päällä
+        start_time: '2025-04-26T22:20:30+03:00'
+        end_time: '2025-04-26T22:30:00+03:00'
+        description: |-
+          Toimittajana on Jari Aula.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2025-04-26T22:30:30+03:00'
         end_time: '2025-04-26T23:29:30+03:00'
