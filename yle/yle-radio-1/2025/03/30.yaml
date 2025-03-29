@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-28T02:31:37.299862+00:00'
+  generated_at: '2025-03-29T02:30:26.739141+00:00'
   git:
     branch: main
-    commit: 49ea1b057a3fc7236965ba2d57455b91e7519e0f
-  data_hash: b003fac993b5472badcb0d31e6634fc9ee03b85641222c73a738b6e503f2fed5
+    commit: a3d9a3309d574128e47e1fe974236e1080787bd4
+  data_hash: c041b609218b50927bff065b6b08ba4ba1d3ea7714d1d4394745339755b25cd1
 data:
   Yle Radio 1:
     programmes:
@@ -57,6 +57,11 @@ data:
           Trio huilulle, sellolle ja pianolle e-molli op.45, osa 1. Allegro deciso - Piu moderato ed espressivo
           (Linos Ensemblen jäseniä: Kersten McCall, huilu, Mario Blaumer, sello, ja Konstanze Eickhorst, piano).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-03-30T07:55:36+03:00'
+        end_time: '2025-03-30T08:00:00+03:00'
+        description: |-
+          Elgar: La Capricieuse (James Ehnes, viulu, ja Eduard Laurel, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-03-30T08:00:00+03:00'
         end_time: '2025-03-30T08:05:05+03:00'
@@ -204,21 +209,27 @@ data:
         series: Jazzklubi
       - title: Akatistos Jumalansynnyttäjälle Joensuun Pyhän Nikolaoksen kirkosta
         start_time: '2025-03-30T20:00:00+03:00'
-        end_time: '2025-03-30T21:00:00+03:00'
+        end_time: '2025-03-30T20:46:00+03:00'
         description: |
           Palveluksen toimittaa pastori Marko Mäkinen. Kirkkokuoroa johtaa kanttori Minna Bovellan-Järvinen.
         series: Jumalanpalvelukset radiossa
+      - title: Radio 1 soi
+        start_time: '2025-03-30T20:46:00+03:00'
+        end_time: '2025-03-30T21:00:00+03:00'
+        description: |-
+          Telemann: Meines Bleibens ist nicht hier (René Jacobs, kontratenori, ja Akademie für alte Musik Berlin)
       - title: Yle Uutiset
         start_time: '2025-03-30T21:00:00+03:00'
         end_time: '2025-03-30T21:02:05+03:00'
-      - title: Uutispodcast
-        start_time: '2025-03-30T21:03:00+03:00'
-        end_time: '2025-03-30T21:28:00+03:00'
+      - title: 'Uutispodcastin vaalisarja: Terveydenhuollon kolme kohtalonkysymystä – Saanko apua, kun sitä tarvitsen?'
+        start_time: '2025-03-30T21:02:40+03:00'
+        end_time: '2025-03-30T21:25:01+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Kuinka hyvin suomalainen terveydenhuolto oikeasti toimii? Uutispodcastin vaalisarjassa Marleena Pelli perehtyy sote-alan asiantuntijoiden kanssa terveydenhuollon keskeisiin kysymyksiin. Ensimmäisessä jaksossa pohditaan kansalaisten luottamusta julkiseen terveydenhuoltoon ensihoitajan, sairaanhoitajan ja hyvinvointialueen johtajan kanssa. 
+        series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Louise Farrenc sävelsi "saksalaista" musiikkia Ranskassa - ja sävelsi hyvin '
-        start_time: '2025-03-30T21:29:00+03:00'
-        end_time: '2025-03-30T22:22:08+03:00'
+        start_time: '2025-03-30T21:25:59+03:00'
+        end_time: '2025-03-30T22:19:07+03:00'
         description: |
           Pariisissa 1800-luvun alkupuolella piti säveltää oopperaa, jos halusi menestyä. Pianisti Louise Farrenc kuitenkin meni omia teitään, ja sävelsi sinfonioita ja kamarimusiikkia. Että hän oli nainen, teki oman tien kulkemisen entistä hankalammaksi. Onneksi hänen musiikkinsa on omanlaistaan ja hienoa. 
 
@@ -240,19 +251,32 @@ data:
           (Linos Ensemblen jäseniä: Kersten McCall, huilu, Mario Blaumer, sello, ja Konstanze Eickhorst, piano).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Milloin valehtelit viimeksi?'
-        start_time: '2025-03-30T22:23:00+03:00'
-        end_time: '2025-03-30T23:16:42+03:00'
+        start_time: '2025-03-30T22:20:05+03:00'
+        end_time: '2025-03-30T23:13:47+03:00'
         description: |-
           Mentalisti Pete Poskiparta ja havaintopsykologi Jukka Häkkinen keskustelevat valheista. Miten valehtelijan voi tunnistaa?
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-03-30T23:13:47+03:00'
+        end_time: '2025-03-30T23:18:22+03:00'
+        description: |-
+          Debussy: Clair de lune (Kuutamo) (Petri Alanko, huilu, ja Juhani Lagerspetz, piano).
       - title: 'Romano mirits: Romanimusiikki-sarja osa 6: "Kun musiikki on aitoa, se rokkaa" '
-        start_time: '2025-03-30T23:25:00+03:00'
-        end_time: '2025-03-30T23:39:45+03:00'
+        start_time: '2025-03-30T23:18:22+03:00'
+        end_time: '2025-03-30T23:33:07+03:00'
         description: |
           Dimitri Keiski kuulee rockin poljennon niin Topi Sorsakosken kuin Olavi Virran musiikissa. "Tärkeää rockissa on asenne; se että sitä tehdään rehellisesti. Tehdään biisi ja lisätään siihen oma itsensä. Tehdään jotain, mikä lähtee sydämestä", Keiski kiteyttää rock'n rollin olemuksen.
 
           Suomen romanit olivat vahvasti mukana suomalaisen rockmusiikin kehityksessä jo 1960-luvulla. Romano miritsin musiikkisarja esittelee kuudennessa jaksossaan romanitaustaisia rokkareita Aatos Bollströmistä alkaen. Haastateltavana on mm. Remu Aaltosen roolin musikaalissa tulkinnut laulaja-kitaristi Dimitri Keiski. Toimittaja on Jaakko Laakso.
         series: Romano mirits
+      - title: 'Eilisen ääni: Lapset ja hiljaisuus'
+        start_time: '2025-03-30T23:33:49+03:00'
+        end_time: '2025-03-30T23:39:39+03:00'
+        description: |-
+          Radio Ainon Kulmapöydässä puhuttiin vuonna 1999 lapsen maailman ymmärtämisestä sekä lasten kasvatuksesta otsikolla "Lapset ja hijaisuus". Toimittajana on Raija Kivinen.
+
+          Ohjelman ensilähetys oli 25.12.1999.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-03-30T23:40:00+03:00'
         end_time: '2025-03-31T06:30:00+03:00'
