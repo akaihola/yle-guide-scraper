@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-29T02:30:47.947750+00:00'
+  generated_at: '2025-03-30T02:33:39.498926+00:00'
   git:
     branch: main
-    commit: a3d9a3309d574128e47e1fe974236e1080787bd4
-  data_hash: c041b609218b50927bff065b6b08ba4ba1d3ea7714d1d4394745339755b25cd1
+    commit: f353a4964d9e3db3359fb06012998a4fa86b6038
+  data_hash: 3603cbea94656583b1d2ca0857e843c2abf4a8fbc1f01e5dd01b9844b95696f6
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-04-12T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-04-12T06:30:00+03:00'
         end_time: '2025-04-12T07:00:00+03:00'
@@ -52,6 +51,7 @@ data:
           Anonyymi: Hosanna filio David (Hosanna Daavidin poika) (Vox Silentii).
 
           Bortnjanski: Tämä on se päivä, jonka Herra teki (Psalloo-kuoro/Raimo Pores).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-04-12T08:25:00+03:00'
         end_time: '2025-04-12T08:35:00+03:00'
@@ -198,6 +198,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-12T16:10:00+03:00'
         end_time: '2025-04-12T16:59:00+03:00'
+        description: |-
+          Rózsa: Alkusoitto sarj. The Thief of Bagdad (Bagdadin varas) (BBC:n FO/Rumon Gamba).
+
+          Satie: Gnossienne n:o 1 (Janne Mertanen, piano).
+
+          Rani: La luce (Mari Samuelsen, viulu, Dobrawa Czocher, sello, Hania Rani, piano, ja Scoring Berlin/Jonathan Stockhammer).
+
+          Dare: The Spanish Shawl (Alexandra Mackenzie, sello, ja Ingrid Sawers, piano).
+
+          Farrenc: Muunnelmia Bellinin Norma-oopperan teemasta (Marie-Catherine Girod, piano). 
+
+          Bartling: Minä yksin ja meri (Suomen Nuorisokuoro/Elisa Huovinen).
+
+          Andrée: Intermezzo jousikvartetosta A-duuri (Klarakvartetten).
+
+          A. Merikanto: Pietà konsertosta pianolle ja orkesterille n:o 3 (Matti Raekallio, piano, ja Tampereen kaupunginork./Tuomas Ollila).
+
+          Stravinsky: Rag-time (London Sinfonietta/Esa-Pekka Salonen).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-12T17:00:00+03:00'
