@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-31T02:33:29.096496+00:00'
+  generated_at: '2025-04-01T02:35:36.153082+00:00'
   git:
     branch: main
-    commit: 240fe6ef46c1a3f021df7adeaa7a16928825af0c
-  data_hash: 1ea82435ac91c40898cdaccae9f81951f4bb4498a3aea38cf1c6cfa0ff935ee0
+    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
+  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
 data:
   Yle Radio 1:
     programmes:
@@ -36,6 +36,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-17T07:10:00+03:00'
         end_time: '2025-04-17T07:59:59+03:00'
+        description: |+
+          D. Scarlatti: Sonaatti C-duuri (David Russell, kitara).
+
+          Rahmaninov: Preludi D-duuri (Juhani Lagerspetz, piano).
+
+          Fauré: Aamun sarastaessa (Sanford Sylvan, baritoni, David Breitman, piano, ja Lyydinen kvartetti).
+
+          Fröhlich (sov. Andresen): Rondo neljälle käyrätorvelle (Tanskan kuninkaallisen orkesterin vaskiyhtye).
+
+          J.S. Bach (sov. Kurtág): Sonatiini kantaatista n:o 106 (Márta ja György Kurtág, piano).
+
+          W.A. Mozart: Rondo oboelle ja jousille F-duuri (Pauline Oostenrijk ja Utrecht-kvartetti).
+
+          Hasselmans: Lähde (Marjatta Haahti, harppu).
+
+          Barrios: Kevätvalssi (Alexander-Sergei Ramírez, kitara).
+
+          Ponce: Estrellita (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-17T08:00:00+03:00'
         end_time: '2025-04-17T08:10:00+03:00'
@@ -173,7 +193,7 @@ data:
       - title: 'J.S. Bach: Matteus-passio'
         start_time: '2025-04-17T19:02:00+03:00'
         end_time: '2025-04-17T22:17:00+03:00'
-        series: RSO Musiikkitalossa
+        series: Konsertteja
       - title: Tosi tarina
         start_time: '2025-04-17T22:17:30+03:00'
         end_time: '2025-04-17T23:12:00+03:00'

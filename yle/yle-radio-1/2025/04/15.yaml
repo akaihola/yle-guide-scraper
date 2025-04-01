@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-31T02:33:28.512550+00:00'
+  generated_at: '2025-04-01T02:35:35.067355+00:00'
   git:
     branch: main
-    commit: 240fe6ef46c1a3f021df7adeaa7a16928825af0c
-  data_hash: 1ea82435ac91c40898cdaccae9f81951f4bb4498a3aea38cf1c6cfa0ff935ee0
+    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
+  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
 data:
   Yle Radio 1:
     programmes:
@@ -33,6 +33,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-15T07:10:00+03:00'
         end_time: '2025-04-15T07:59:59+03:00'
+        description: |+
+          Grieg: Kevät (Orpheus-kamariorkesteri).
+
+          Loewe: Die Uhr (Thomas Quasthoff, baritoni, ja Norman Shetler, piano).
+
+          C. Schumann (sov. Liszt): Geheimes Flüstern (Salaisia kuiskauksia) (Leslie Howard, piano).
+
+          O. Merikanto (sov. Panula): Romanssi (Turun FO/Jorma Panula).
+
+          Saint-Saëns: Allegretto klarinettisonaatista Es-duuri (Emma Johnson, klarinetti, ja Gordon Back, piano).
+
+          Vivaldi: Lotarion aaria "Sento in seno ch'in pioggia di lagrime" oopp. Tieteberga (Philippe Jarousskykontratenori, ja Ensemble Matheus/Jean-Christophe Spinosi).
+
+          Tiso: Choro de mãe (Sergio Assad ja Odair Assad, kitara).
+
+          Tshaikovski: Humoreski G-duuri (Oleg Kagan, viulu, ja Vasili Lobanov, piano).
+
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-15T08:00:00+03:00'
         end_time: '2025-04-15T08:10:00+03:00'
@@ -155,9 +173,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-15T19:00:00+03:00'
         end_time: '2025-04-15T19:02:00+03:00'
-      - title: 'Radioteatteri esittää:'
+      - title: Valumisia
         start_time: '2025-04-15T19:02:40+03:00'
         end_time: '2025-04-15T19:45:00+03:00'
+        description: |
+          Valumisia on kuunnelma, joka vie läntisen Afrikan sivukujille, Punavuoreen, Kalkuttaan, hiekkaisille teille. Vie ja kysyy kuulijaltaan, mitä elämässä kulkee ruumiidemme ja talojemme läpi. Ja mitä meistä jää jäljelle?
       - title: 'Suuren meriseikkailun jäljillä: Höyrylaiva päätyy rautaesiripun taakse'
         start_time: '2025-04-15T20:00:00+03:00'
         end_time: '2025-04-15T20:19:20+03:00'

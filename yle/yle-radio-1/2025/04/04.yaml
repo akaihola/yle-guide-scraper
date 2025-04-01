@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-03-31T02:33:25.550538+00:00'
+  generated_at: '2025-04-01T02:35:24.929581+00:00'
   git:
     branch: main
-    commit: 240fe6ef46c1a3f021df7adeaa7a16928825af0c
-  data_hash: 1ea82435ac91c40898cdaccae9f81951f4bb4498a3aea38cf1c6cfa0ff935ee0
+    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
+  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
 data:
   Yle Radio 1:
     programmes:
@@ -106,6 +106,10 @@ data:
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
         series: Ruben Stiller
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-04-04T10:55:00+03:00'
+        end_time: '2025-04-04T11:00:00+03:00'
+        series: Yksi on hyvää seuraa
       - title: 'Narrin aamulaulu - Suomalaismuusikoita Hitlerin Saksassa '
         start_time: '2025-04-04T11:00:00+03:00'
         end_time: '2025-04-04T11:55:00+03:00'
@@ -124,11 +128,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-04T12:00:00+03:00'
         end_time: '2025-04-04T12:10:00+03:00'
-      - title: Tiedeykkönen
+      - title: Häiriö biologisessa stressijärjestelmässä johtaa sairaudessa pitkittyneisiin oireisiin
         start_time: '2025-04-04T12:10:00+03:00'
         end_time: '2025-04-04T12:59:30+03:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Fibromyalgia, ärtyvän suoli, krooninen väsymysoireyhtymä, pitkittynyt borrelioosi tai koronatauti. Siinä muutamia tiloja, joille on tyypillistä monenlainen oirekuva: uupumus, aivosumu, lihassärky. Nämä ihmiset kärsivät eivätkä he yleensä saa riittävää hoitoa terveydenhuollosta. Siksi HUSiin on perustettu pitkittyneiden oireiden kuntoutuspoliklinikka. 
+
+          Joku yksittäinen kehoon tai psyykkeeseen liittyvä seikka ei selitä oireilua, vaan se johtuu monesta tekijästä. Tutkimus on osoittanut, että biopsykososiaalisesa stressijärjestelmässä on häiriö. Mitä tekemistä on varhaisella kiintymyssuhteella? 
+          Toimittaja Teija Peltoniemi keskusteli aiheesta University College of Londonin professorin Peter Fonagyn sekä dosentti Helena Liiran kanssa. Liira oli perustamassa HUSin pitkittyneiden oireiden klinikkaa.
         series: Tiedeykkönen
       - title: Politiikkaradio
         start_time: '2025-04-04T13:00:00+03:00'
