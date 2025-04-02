@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-01T02:35:21.203806+00:00'
+  generated_at: '2025-04-02T02:31:36.796290+00:00'
   git:
     branch: main
-    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
-  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
+    commit: 7c64384f2a9801631d662595ef6857de3f3e9325
+  data_hash: e7cb8c0e76175d3a92166c1605d8454bfa045a7c9a6a3be8c1493cbb6d293bd1
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,15 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-02T08:10:00+03:00'
         end_time: '2025-04-02T09:00:00+03:00'
+        description: |-
+          Missä jamassa peruskoulut ovat? Keskustelemassa kansanedustajat Maaret Castrén (kok.), Sara Seppänen (ps.), Tuula Haatainen (sd.) ja Pia Lohikoski (vas.).
+
+          Yhdysvaltain presidentti Donald Trump on hehkuttanut tätä päivää puheissaan "Vapautuksen päivänä", jolloin hän aikoo asettaa jälleen uuden nipun tulleja. Mitä on odotettavissa? Keskustelemassa Elinkeinoelämän keskusliiton johtaja Timo Vuori ja Helsingin yliopiston taloushistorian professori Jari Eloranta. Lähetyksessä kuullaan myös Aasian-kirjeenvaihtajan Mika Hentusen raportti Kiinan vastauksesta Yhdysvaltojen tulleihin.
+
+          Ennakkoäänestyksen alkamista seuraa Joensuun Prisman ennakkoäänestyspaikalla toimittaja Siru Päivinen. Studiossa vinkit onnistuneeseen äänestämiseen antaa  politiikan erikoistoimittaja Ari Hakahuhta.
+
+          Juontajana Mira Stenström, toimittajana Rasmus Montonen, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-02T09:00:00+03:00'
         end_time: '2025-04-02T09:05:00+03:00'
@@ -117,7 +126,7 @@ data:
           Koskinen: Heikko valo (Ultra Bra).
           Arlen: It's only a paper moon (Django Reinhardt & Le Quintette du Hot Club de France).
         series: Muistojen bulevardi
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Metsän syli ja puiden viisaus'
         start_time: '2025-04-02T10:00:00+03:00'
         end_time: '2025-04-02T10:50:00+03:00'
         description: |
@@ -139,19 +148,23 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-02T12:00:00+03:00'
         end_time: '2025-04-02T12:10:00+03:00'
-      - title: Kalle Haatanen
-        start_time: '2025-04-02T12:10:00+03:00'
+      - title: 'Kalle Haatanen: Jumalan synty'
+        start_time: '2025-04-02T12:10:01+03:00'
         end_time: '2025-04-02T12:59:30+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Politiikkaradio
+        series: Kalle Haatanen
+      - title: 'Politiikkaradio: Ennakkoäänestys starttaa'
         start_time: '2025-04-02T13:00:00+03:00'
         end_time: '2025-04-02T13:30:00+03:00'
+        description: |
+          Minkälaisissa asetelmissa käynnistyy alue- ja kuntavaalien ennakkoäänestys? Vaaliasetelmia analysoivat Politiikkaradion toimittajat Antti Pilke, Linda Pelkonen ja Tapio Pajunen.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-02T13:30:00+03:00'
         end_time: '2025-04-02T15:00:00+03:00'
         description: |
-          Radio 1:n iltapäivän monipuolinen musiikkitarjona etnosta kevyeen jazziin ja populaarimusiikin helmiin. N. klo 14 Kunnallisalan kehittämissäätiön toimitusjohtaja Jenni Airaksinen ja kuntien rooli kulttuurin tuottajina.
+          Radio 1:n iltapäivän monipuolinen musiikkitarjona etnosta kevyeen jazziin ja populaarimusiikin helmiin. N. klo 14 Kunnallisalan kehittämissäätiön toimitusjohtaja Jenni Airaksinen ja kuntien rooli kulttuurin tuottajina. N. ko 14:30 Harjun Laulu Jyväskylästä on tänä vuonna 80 vuotta täyttävä sekakuoro, joka esiintymisten lisäksi levittää yhteislaulamisen iloa. Heikki Puskala juontaa.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-04-02T15:00:00+03:00'
@@ -216,8 +229,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-04-02T17:10:00+03:00'
         end_time: '2025-04-02T17:34:20+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Hallitus aikoo nostaa Suomen puolustusmenot kolmeen prosenttiin BKT:sta ja palauttaa jalkaväkimiinat. Kuinka merkittävistä päätöksistä on kyse? Sami Lindforsin vieraana vanhempi tutkija Matti Pesu Ulkopoliittisesta instituutista.
         series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Tulen, maan, ilman ja veden hyväilemää jazzia'
         start_time: '2025-04-02T17:35:00+03:00'
@@ -304,4 +317,34 @@ data:
         start_time: '2025-04-02T23:40:00+03:00'
         end_time: '2025-04-03T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Pierné: Ballet de cour (Luxemburgin FO/Nicolas Chalvin).
+
+          Kahn: Fünf Tonbilder (Viisi sävelkuvaa) (Elina Vähälä, viulu, ja Oliver Triendl, piano).
+
+          Boismortier: Les Cantates francaises (Ranskalaisia kantaatteja, Neljä vuodenaikaa) (Jean-Francois Novelli, tenori, Valérie Gabail, sopraano, ja Arnaud Marzorati, basso, sekä Les Festes Vénitiennes/Eric Martinez-Bournat).
+
+          Rheinberger: Urkusonaatti n:o 2 As-duuri (Fantasiasonaatti) (Ikarus Kaiser).
+
+
+          Vaughan Williams (sov. Gee): Songs of travel (Matkalauluja) (Matthew Gee, pasuuna, ja Christopher Glynn, piano).
+
+          Wesström: Jousikvartetto B-duuri (Salomon-kvartetti).
+
+          Albéniz: Iberia, pianosarja, kirja 1 (Benjamin Grosvenor).
+
+          Koechlin: Le Livre de la jungle (Viidakkokirja) (Berliinin radion SO/David Zinman).
+
+          Pärt: Which was the Son of (Baijerin radion kuoro/Howard Arman).
+
+          Dvorák: Sinfonia n:o 7 d-molli (Los Angelesin FO/André Previn).
+
+          Schumann (sov. Auer): Widmung (Omistus) (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          Mason Bates: Red river (Punainen joki) (Fifth House Ensemble).
+
+          Mercadante: Huilukonsertto n:o 2 e-molli (Patrick Gallois ja Jyväskylä Sinfonia).
+
+          Blasius: Suite d'harmonie n:o 3 Es-duuri (Mozzafiato-puhallinyhtye).
+
+          J.S. Bach: Konsertto kolmelle viululle, jousille ja continuolle D-duuri (Eberhard Palm, Roald Reinecke ja Fred Roth, viulu, sekä Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+        series: Syventävää klassista

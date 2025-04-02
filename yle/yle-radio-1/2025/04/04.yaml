@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-01T02:35:24.929581+00:00'
+  generated_at: '2025-04-02T02:31:37.422057+00:00'
   git:
     branch: main
-    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
-  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
+    commit: 7c64384f2a9801631d662595ef6857de3f3e9325
+  data_hash: e7cb8c0e76175d3a92166c1605d8454bfa045a7c9a6a3be8c1493cbb6d293bd1
 data:
   Yle Radio 1:
     programmes:
@@ -61,7 +61,8 @@ data:
         start_time: '2025-04-04T06:50:00+03:00'
         end_time: '2025-04-04T06:59:59+03:00'
         description: |-
-          Kanttori Jenni Urponen, Mynämäki
+          "Virsikirja on lukukirja"
+          Kanttori Jenni Urponen Mynämäeltä silmäilee tulevan sunnuntain virsiä ja huomaa niiden lähestyvän kärsimyksen teemaa erilaisista näkökulmista.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-04T07:00:00+03:00'
@@ -100,11 +101,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-04T09:05:40+03:00'
         end_time: '2025-04-04T09:58:00+03:00'
-      - title: Ruben Stiller
+        description: |
+          Lehtinen:Korvikesamba (Rauno Lehtinen).
+          Chaves: Take me back to Piaui (Sylvia Vrethammar).
+          Belmonte: Hurmio (Topi Sorsakoski).
+          Arlen: Over the rainbow (Rufus Wainwright).
+          Brel: If you go away - Ne me quitte pas (Dusty Springfield).
+          Adamo:Et sur la mer (Adamo).
+          Carvalho: Meu fado meu (Mariza).
+          Lynne/Orbison/Petty: California Blue (Roy Orbison).
+          Hamilton: Joet tulvimaan itke (Riki Sorsa).
+          Hayward; Nights in White Satin (The Moody Blues)
+        series: Muistojen bulevardi
+      - title: 'Ruben Stiller: Suomi puttaa hyvin!'
         start_time: '2025-04-04T10:00:00+03:00'
         end_time: '2025-04-04T10:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Golfasiko Suomi itsensä Trumpin suosioon seitsemässä tunnissa? Millainen on geopoliittinen asemamme, jos Trump ja Putin pääsevät sopimukseen Ukrainan kohtalosta? Tasavallan presidentti Alexander Stubb ilmoitti tällä viikolla, että Suomen on valmistauduttava suhteiden avaamiseen Venäjään. Mitä tämä käytännössä tarkoittaa? Mitä meidän pitäisi muistaa ulkopolitiikkamme historiasta? Vieraana on entinen Moskovan suurlähettiläs, Venäjä-asiantuntija René Nyberg.
         series: Ruben Stiller
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-04T10:55:00+03:00'
@@ -225,22 +238,23 @@ data:
         start_time: '2025-04-04T21:10:00+03:00'
         end_time: '2025-04-04T21:40:00+03:00'
         series: Politiikkaradio
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Jumalan synty'
         start_time: '2025-04-04T21:40:30+03:00'
-        end_time: '2025-04-04T22:29:30+03:00'
+        end_time: '2025-04-04T22:29:45+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
       - title: Tuuli Saksalan keidas
         start_time: '2025-04-04T22:30:00+03:00'
-        end_time: '2025-04-04T23:20:00+03:00'
+        end_time: '2025-04-04T23:23:32+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
         series: Tuuli Saksalan keidas
-      - title: Kulttuurin kulmilla
+      - title: 'Kulttuurin kulmilla: Odottavan aika'
         start_time: '2025-04-04T23:30:30+03:00'
         end_time: '2025-04-04T23:39:00+03:00'
-        description: |
+        description: |-
+          Kulttuurin kulmilla: Odottavan aika.
           Miten orkesterimuusikko saa ajan kulumaan, kysyy Timo Teräsvuori 
         series: Kulttuurin kulmilla
       - title: Yöklassinen

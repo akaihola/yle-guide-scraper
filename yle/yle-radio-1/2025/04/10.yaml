@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-01T02:35:32.090000+00:00'
+  generated_at: '2025-04-02T02:31:39.125813+00:00'
   git:
     branch: main
-    commit: 4eb85ac73089e5d99b6272a8373fb16d900beef4
-  data_hash: 17cfcc267c926a24e26f793ead622b990a37b167ee2719ce0ce9eb36f3427d5d
+    commit: 7c64384f2a9801631d662595ef6857de3f3e9325
+  data_hash: e7cb8c0e76175d3a92166c1605d8454bfa045a7c9a6a3be8c1493cbb6d293bd1
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,38 @@ data:
         start_time: '2025-04-09T23:40:00+03:00'
         end_time: '2025-04-10T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Hummel: Sonaatti sellolle ja pianolle A-duuri (Reiner Ginzel ja Konrad Richter).
+
+          00:02 V. Aulin: Tableaux Parisiens (Pariisilaisia kuvia) (Göteborgin SO/Johannes Gustavsson).
+
+          00:27 Beethoven: Pianokonsertto n:o 5 Es-duuri (Keisarikonsertto) (Arturo Benedetti Michelangeli ja Ruotsin radion SO/Sergiu Celibidache).
+
+          01:08 Abel: Sarja viola da gamballe d-molli (Paolo Pandolfo, bassogamba).
+
+          01:30 Wegelius (sov.): Tuoll' on mun kultani (Aarne Vainio, bassobaritoni, ja Cyril Szalkiewicz, piano).
+
+          01:33 C.P.E Bach: Triosonaatti G-duuri (Merlin-yhtye).
+
+          01:47 Isabella Leonarda: Vespro a cappella della Beata Vergine (Maria-vesper) (Nova Ars Cantandi/Giovanni Acciai).
+
+          02:38 J.X. Nauss: Praeludium tertii toni (Jaroslav Tuma, urut).
+
+          02:52 F.X. Richter: Jousikvartetto G-duuri (Casal-kvartetti).
+
+          03:12 Reger: Kvintetto klarinetille ja jousille A-duuri (Eduard Brunner ja Wilanow-kvartetti).
+
+          03:48 Dvorák: Viulukonsertto a-molli (Ida Haendel ja Stuttgartin radion SO/Hans Müller-Kray).
+
+          04:21 Wölfl: Pianosonaatti c-molli (Adalberto Maria Riva).
+
+          04:53 Mendelssohn: Oktetto jousille Es-duuri (Emerson-kvartetti).
+
+          05:26 Giuliani: Pièces faciles et agréables (Mikael Helasvuo, huilu, ja Jukka Savijoki, kitara).
+
+          05:55 Händel: Chandos anthem n:o 7 G-duuri (My song shall be alway) (Emma Kirkby, sopraano, Iestyn Davies, kontratenori, James Gilchrist, tenori, ja Neal Davies, basso, sekä Cambridgen Trinity Collegen kuoro ja The Academy of Ancient Music/Stephen Layton).
+
+          06:16 M-A Charpentier: Andromede, näytelmämusiikkia (London Baroque/Charles Medlam).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-04-10T06:30:50+03:00'
         end_time: '2025-04-10T06:50:00+03:00'
@@ -29,8 +60,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-04-10T06:50:00+03:00'
         end_time: '2025-04-10T06:59:59+03:00'
-        description: |-
-          Toimittaja Heli Karhumäki, Lapua
+        description: |
+          "Mahtava hymy"
+          Toimittaja Heli Karhumäki Lapualta kertoo ystävälleen Jobin kirjasta ja löytää lohdun sanoja moniin murheisiin.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-04-10T07:00:00+03:00'
@@ -217,5 +249,35 @@ data:
         start_time: '2025-04-11T00:00:00+03:00'
         end_time: '2025-04-11T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Beethoven: Pianotrio Es-duuri (Daniel Barenboim, piano, Pinchas Zukerman, viulu, ja Jacqueline Du Pré, sello).
+
+          00:14 Grainger: Green bushes (Schönberg-yhtye/Oliver Knussen).
+
+          00:24 Sommer: Sapphos Gesänge (Sapfon lauluja) (Elisabeth Kulman, mezzosopraano, ja Bambergin sinfonikot/Sebastian Weigle).
+
+          00:51 Smyth: Konsertto viululle, käyrätorvelle ja orkesterille (Sophie Langdon ja Richard Watkins sekä BBC:n FO/Odaline de la Martinez).
+
+          01:19 Lindeman: Sinfonia n:o 1 (Sinfonia inornata) (RSO/Nils-Eric Fougstedt).
+
+          01:41 Campra: Arion, kantaatti (Jill Feldman, sopraano, ja Les Arts Florissants).
+
+          01:56 Widor: Sinfonia uruille n:o 6 g-molli (Christian von Blohn).
+
+          02:33 Henselt: Pianotrio a-molli (Claudius Tanski, piano, Benjamin Schmid, viulu, ja Clemens Hagen, sello).
+
+          03:00 Liszt: Die Ideale, sinfoninen runo n:o 12 (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          03:26 Glazunov: Jousikvartetto n:o 5 d-molli (Utrecht-kvartetti).
+
+          03:55 Brahms: Sinfonia n:o 4 e-molli (Dresdenin valtionork./Kurt Sanderling).
+
+          04:38 Schumann: Sinfonisia etydejä (Emanuel Ax, piano).
+
+          05:13 Morgan: Montgomery (His Majestie's Clerkes/Paul Hillier). 
+
+          05:18 Gluck: Don Juan, balettipantomiimi (Stuttgartin Arcata-yhtye/Patrick Strub).
+
+          06:09 J.G. Graun: Konsertto nokkahuilulle, viululle, jousille ja continuolle C-duuri (Dorothee Oberlinger ja Hiro Kurosaki, sekä Ensemble 1700).
+
+          06:19 Erlebach: Liebe in Abwesenheit grünet durch Beständigkeit (Damien Guillon, kontratenori, Le Banquet Céleste).
         series: Syventävää klassista
