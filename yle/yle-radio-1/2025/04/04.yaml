@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-02T02:31:37.422057+00:00'
+  generated_at: '2025-04-03T02:31:38.262018+00:00'
   git:
     branch: main
-    commit: 7c64384f2a9801631d662595ef6857de3f3e9325
-  data_hash: e7cb8c0e76175d3a92166c1605d8454bfa045a7c9a6a3be8c1493cbb6d293bd1
+    commit: 04ff3c10a477e570309151c80adc7f00b1cf654c
+  data_hash: 6478eea543197232f862cf67f100c9f4eb12e1be0a2dfa8ebf483e66a8fc780c
 data:
   Yle Radio 1:
     programmes:
@@ -102,16 +102,17 @@ data:
         start_time: '2025-04-04T09:05:40+03:00'
         end_time: '2025-04-04T09:58:00+03:00'
         description: |
-          Lehtinen:Korvikesamba (Rauno Lehtinen).
+          Lehtinen: Korvikesamba (Radion tanssiork./Rauno Lehtinen).
+          Carlos: L'appuntamento (Ornella Vanoni).
           Chaves: Take me back to Piaui (Sylvia Vrethammar).
           Belmonte: Hurmio (Topi Sorsakoski).
           Arlen: Over the rainbow (Rufus Wainwright).
           Brel: If you go away - Ne me quitte pas (Dusty Springfield).
-          Adamo:Et sur la mer (Adamo).
+          Adamo: Et sur la mer (Adamo).
           Carvalho: Meu fado meu (Mariza).
-          Lynne/Orbison/Petty: California Blue (Roy Orbison).
+          Lynne/Orbison/Petty: California Blue (Roy Orbison.
           Hamilton: Joet tulvimaan itke (Riki Sorsa).
-          Hayward; Nights in White Satin (The Moody Blues)
+          Hayward: Nights in white satin (The Moody Blues).
         series: Muistojen bulevardi
       - title: 'Ruben Stiller: Suomi puttaa hyvin!'
         start_time: '2025-04-04T10:00:00+03:00'
@@ -141,7 +142,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-04T12:00:00+03:00'
         end_time: '2025-04-04T12:10:00+03:00'
-      - title: Häiriö biologisessa stressijärjestelmässä johtaa sairaudessa pitkittyneisiin oireisiin
+      - title: 'Tiedeykkönen: Häiriö biologisessa stressijärjestelmässä johtaa sairaudessa pitkittyneisiin oireisiin'
         start_time: '2025-04-04T12:10:00+03:00'
         end_time: '2025-04-04T12:59:30+03:00'
         description: |
@@ -184,25 +185,25 @@ data:
         start_time: '2025-04-04T16:10:00+03:00'
         end_time: '2025-04-04T16:59:00+03:00'
         description: |-
-          Beethoven: Allegretto pianosonaatista n:o 14 cis-molli (Kuutamosonaatti) (Artur Rubinstein, piano). 
+          Beethoven: Allegretto sonaatista n:o 14 cis-molli (Kuutamosonaatti) (Artur Rubinstein, piano). 
 
-          Händel: Nautinnon aaria orat. Il Trionfo del Tempo e del Disinganno (Julia Lezhneva, sopraano, ja Il Giardino Armonico -ork./Giovanni Antonini). 
+          Händel: Piaceren aaria "Lascia la spina" orat. Il Trionfo del Tempo e del Disinganno (Julia Lezhneva, sopraano, ja Il Giardino Armonico/Giovanni Antonini). 
 
-          Chaminade: La Lisonjera (Peter Jacobs, piano).
+          Chaminade: La lisonjera (Peter Jacobs, piano).
 
-          Gubaidulina: Serenadi kitaralle. (Kai Nieminen).
+          Gubaidulina: Serenadi (Kai Nieminen, kitara).
 
-          Sibelius: Nokturno näyt. Belsassarin pidot (Sarah Chang, viulu, ja Charles Abramovic, piano).
+          Sibelius: Nokturni näyt. Belsassarin pidot (Sarah Chang, viulu, ja Charles Abramovic, piano).
 
-          Liszt: Etydi nro 3 gis-molli (La Campanella) (Matti Raekallio, piano).
+          Paganini - Liszt: Etydi n:o 3 gis-molli (La Campanella) (Matti Raekallio, piano).
 
           Dvorák: Rusalkan laulu kuulle oopp. Rusalka (Karita Mattila, sopraano, ja RSO/Jukka-Pekka Saraste).
 
-          Bruch: Johdanto (Allegro moderato) konsertosta viululle ja orkesterille n:o 1 g-molli (Jascha Heifetz, viulu, ja Lontoon uusi sinfoniaork./Malcolm Sargent). 
+          Bruch: Johdanto konsertosta viululle ja orkesterille n:o 1 g-molli (Jascha Heifetz ja Lontoon uusi sinfoniaork./Malcolm Sargent). 
 
           Chopin: Andante spianato G-duuri (Jan Lisiecki, piano). 
 
-          Kern: Ol' man river laulu elokuvamusikaalista Show boat (Paul Robeson ja ork.). 
+          Kern: Ol' man river laulu elok. Show boat (Paul Robeson). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-04T17:00:00+03:00'
@@ -244,7 +245,7 @@ data:
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
         series: Kalle Haatanen
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Romeo Santos, Yona ja Kaoma eroottisen musiikin tulkkeina '
         start_time: '2025-04-04T22:30:00+03:00'
         end_time: '2025-04-04T23:23:32+03:00'
         description: |
@@ -254,8 +255,7 @@ data:
         start_time: '2025-04-04T23:30:30+03:00'
         end_time: '2025-04-04T23:39:00+03:00'
         description: |-
-          Kulttuurin kulmilla: Odottavan aika.
-          Miten orkesterimuusikko saa ajan kulumaan, kysyy Timo Teräsvuori 
+          Miten orkesterimuusikko saa ajan kulumaan, kysyy Timo Teräsvuori.
         series: Kulttuurin kulmilla
       - title: Yöklassinen
         start_time: '2025-04-04T23:40:00+03:00'

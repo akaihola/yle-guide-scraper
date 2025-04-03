@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-02T02:31:38.245721+00:00'
+  generated_at: '2025-04-03T02:31:46.678690+00:00'
   git:
     branch: main
-    commit: 7c64384f2a9801631d662595ef6857de3f3e9325
-  data_hash: e7cb8c0e76175d3a92166c1605d8454bfa045a7c9a6a3be8c1493cbb6d293bd1
+    commit: 04ff3c10a477e570309151c80adc7f00b1cf654c
+  data_hash: 6478eea543197232f862cf67f100c9f4eb12e1be0a2dfa8ebf483e66a8fc780c
 data:
   Yle Radio 1:
     programmes:
@@ -120,7 +120,7 @@ data:
           Pelastiko elintarviketeollisuus työläät perinneruoat? Vieraana Anni Pelkonen. Toimittaja on Juha Virtanen.
           .
         series: Virtasen taloushistoria
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Muuttuneet vuodenajat'
         start_time: '2025-04-07T11:00:00+03:00'
         end_time: '2025-04-07T11:57:00+03:00'
         description: |
@@ -135,11 +135,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-07T12:00:00+03:00'
         end_time: '2025-04-07T12:10:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Monty Python -legenda Michael Palin selvitti unohdetun isosetänsä tarinan - Harry Palin ei sopinut viktoriaaniseen muottiin'
         start_time: '2025-04-07T12:10:00+03:00'
         end_time: '2025-04-07T12:59:30+03:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Joitakin vuosia sitten Michael Palin löysi perhearkistosta valokuvan salaperäisestä nuoresta miehestä univormussa. Kyse oli hänen isosedästään Harrysta, joka kuoli vain 32-vuotiaana Sommen taistelussa ensimmäisessä maailmansodassa.
+          Paljoa sen enempää Harry Palinista ei tiedetty, joten Michael Palin päätti ottaa hänestä selvää.
+          Harry Palinin tarina on näkymä ensimmäiseen maailmansotaan sekä viktoriaaniseen Britanniaan ja sen imperiumiin.
+          Haastateltavana Michael Palin.
+          Toimittajana Harri Alanne. Äänisuunnittelijana Juha Sarkkinen. Harry Palin -sitaatit luki Ronan Browne.
         series: Elävä historia
       - title: Politiikkaradio
         start_time: '2025-04-07T13:00:00+03:00'
@@ -155,7 +159,12 @@ data:
         start_time: '2025-04-07T15:02:00+03:00'
         end_time: '2025-04-07T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Mitä kaikkea on luvallista tehdä eläimille, kun tuotetaan ihmisille ruokaa? Koskevatko samat “säännöt” ihmisten lemmikkieläimiäkin? Ovatko kuluttajat, eli sinä, valmiita maksamaan korkeampia hintoja ruuastaan, mikäli tuotantoeläimille sallittaisiin enemmän lajityypillistä käyttäytymistä ja vapauksia? Nämä kaikki ovat kysymyksiä, joita eläinfilosofiassa pohditaan.
+
+          Vieraina Kulttuuriykkösessä ovat eläin - ja ympäristöetiikan dosentti Elisa Aaltola sekä kirjailija ja eläinoikeusaktivisti Laura Gustafsson. Molemmat ovat olleet perustamassa eläinjärjestöä nimeltään Eläinoikeusakatemia ja ovat sen hallituksen jäseniä. Keskustelussa ovat myös MTK:n toinen puheenjohtaja, karjalypsytilallinen Tero Lahti sekä Kennelliiton hallituksen ja Koirien hyvinvointityöryhmän jäsen, kasvattajatoimikunnan puheenjohtaja Molli Nyman.
+
+          Ohjelman juontaa Nicklas Wancke.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-04-07T15:55:00+03:00'
         end_time: '2025-04-07T15:58:00+03:00'
@@ -167,6 +176,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-07T16:10:00+03:00'
         end_time: '2025-04-07T16:59:00+03:00'
+        description: |-
+          Offenbach: Piquillon ja Péricholen duetto oper. La Périchole (José Carreras, tenori, Teresa Berganza, mezzosopraano, ja Toulousen Capitole-teatterin ork./Michel Plasson). 
+
+          J.S. Bach: Largo cembalokonsertosta n:o 5 f-molli BWV1056 (Murray Perahia, piano, ja St. Martin-in-the-Fields -kamariorkesteri).
+
+          Bartok: Ilta kylässä (Unkarin kansallinen filharmoninen orkesteri/Zoltan Kocsis).
+
+          Rahmaninov: Barcarolle sarj. kahdelle pianolle n:o 1 (Emanuel Ax ja Yefim Bronfman).
+
+          Hasselmans: Lähde (Marjatta Haahti, harppu).
+
+          Ehrström: Vid en källa (Marika Krook ja Annika Hultman, laulu, sekä Wegelius-kuoro ja Wegelius-kamariork./John Storgårds).
+
+          North: Rakkausteema elok. Spartacus (Cincinnati Pops/Erich Kunzel).
+
+          Casella - Scarlatti: Capriccio sarjasta Scarlattiana (Martin Roscoe, piano, ja BBC:n FO/Gianandrea Noseda).
+
+          Eyck: Englantilainen satakieli (Simon Borutzki, sopraanonokkahuilu).
+
+          Schubert: Die Nachtigall (Satakieli) (Robert Shaw Chamber Singers/Robert Shaw, sekä Karl Dent, tenori, ja Mary Akerman, kitara).
+
+          Sibelius: Allegro, ma non tanto viulukonsertosta d-molli (Pekka Kuusisto, ja HKO/Leif Segerstam).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-07T17:00:00+03:00'
