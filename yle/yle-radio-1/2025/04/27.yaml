@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-03T02:31:55.323177+00:00'
+  generated_at: '2025-04-04T02:31:25.050767+00:00'
   git:
     branch: main
-    commit: 04ff3c10a477e570309151c80adc7f00b1cf654c
-  data_hash: 6478eea543197232f862cf67f100c9f4eb12e1be0a2dfa8ebf483e66a8fc780c
+    commit: 0522e3a4a660dcb257e5b7262558c13ab6c37925
+  data_hash: 472f7b81c84fc7c6e8316c298f4df75c28458c1cc0a921df1ea0f272436263fa
 data:
   Yle Radio 1:
     programmes:
@@ -55,9 +55,10 @@ data:
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana balettitanssija Atte Kilpinen
         start_time: '2025-04-27T14:00:00+03:00'
         end_time: '2025-04-27T14:50:00+03:00'
+        series: Marko Gustafsson
       - title: Elävä historia
         start_time: '2025-04-27T15:00:00+03:00'
         end_time: '2025-04-27T15:50:00+03:00'

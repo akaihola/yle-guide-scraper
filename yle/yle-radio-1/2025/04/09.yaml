@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-03T02:31:47.627014+00:00'
+  generated_at: '2025-04-04T02:31:17.684957+00:00'
   git:
     branch: main
-    commit: 04ff3c10a477e570309151c80adc7f00b1cf654c
-  data_hash: 6478eea543197232f862cf67f100c9f4eb12e1be0a2dfa8ebf483e66a8fc780c
+    commit: 0522e3a4a660dcb257e5b7262558c13ab6c37925
+  data_hash: 472f7b81c84fc7c6e8316c298f4df75c28458c1cc0a921df1ea0f272436263fa
 data:
   Yle Radio 1:
     programmes:
@@ -143,6 +143,7 @@ data:
         end_time: '2025-04-09T12:00:00+03:00'
         description: |-
           Mikael Agricolan  suomentama Herran rukous vuodelta 1548 teoksesta Se Wsi Testamenti.
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-04-09T12:00:00+03:00'
         end_time: '2025-04-09T12:10:00+03:00'
@@ -166,7 +167,22 @@ data:
         start_time: '2025-04-09T15:02:00+03:00'
         end_time: '2025-04-09T15:55:00+03:00'
         description: |
+          Iria Leino kuoli vuonna 2022 89-vuotiaana. Hänen abstraktia taidettaan esitellään parhaillaan Galerie Forsblomilla Helsingissä. Leino teki mallinuran Pariisissa Diorin ja Balmainin mallina. Hän opiskeli kuvataidetta Suomessa ja Pariisissa. Hänen kuolemansa jälkeen löytyi yli tuhat maalausta hänen New Yorkin kodistaan SoHossa.
+
+          Leinon maalauksissa on abstrakteja ja värikkäitä sommitelmia. Joissakin teoksissa on meditatiivisiä tutkielmia ja silmiä. Millä tavalla buddhalaisuus vaikutti hänen elämäntyyliinsä ja miten se näkyy hänen taiteessaan? Mitä hän haki askeettisuudesta? Miksi hän ei myynyt teoksiaan?
+
+          Iria Leino koki kaksi tragediaa elämänsä aikana. Hän oli vain 6-vuotias kun hänen äitinsä kuoli ja hän joutui itse vuonna 1968 vakavaan onnettomuuteen. Tämä johti siihen että hän hakeutui henkisyyden pariin. Buddhalaiset vaikutteet näkyvät erityisesti hänen Elefantti-sarjassaan. Teoksissa elefantti symboloi viisautta ja valaistuneisuutta.
+
+
+          Iria Leino Galerie Forsblom 28.3.-4.5.2025
+
+
+          Ohjelman vieraina ovat galleristi Kaj Forsblom ja ystävä, elokuvaohjaaja Eila Kaarresalo-Kasari.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-04-09T15:55:00+03:00'
         end_time: '2025-04-09T15:58:00+03:00'

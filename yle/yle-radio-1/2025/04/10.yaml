@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-03T02:31:48.029678+00:00'
+  generated_at: '2025-04-04T02:31:18.233923+00:00'
   git:
     branch: main
-    commit: 04ff3c10a477e570309151c80adc7f00b1cf654c
-  data_hash: 6478eea543197232f862cf67f100c9f4eb12e1be0a2dfa8ebf483e66a8fc780c
+    commit: 0522e3a4a660dcb257e5b7262558c13ab6c37925
+  data_hash: 472f7b81c84fc7c6e8316c298f4df75c28458c1cc0a921df1ea0f272436263fa
 data:
   Yle Radio 1:
     programmes:
@@ -99,7 +99,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-10T09:05:40+03:00'
         end_time: '2025-04-10T09:58:00+03:00'
-      - title: Marko Gustafssonin vieraana balettitanssija Atte Kilpinen
+      - title: Marko Gustafssonin vieraana kirjailija Elina Hirvonen
         start_time: '2025-04-10T10:00:00+03:00'
         end_time: '2025-04-10T10:50:00+03:00'
         series: Marko Gustafsson
@@ -115,6 +115,7 @@ data:
         description: |-
           J. H. Erkon Jäiden lähtö -runo kokoelmasta Runoelmia 1886-1906
           .
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-04-10T12:00:00+03:00'
         end_time: '2025-04-10T12:10:00+03:00'
@@ -137,16 +138,24 @@ data:
       - title: 'Kulttuuriykkönen: American Primeval kuvaa Utahin vuoden 1857 verilöylyä, jonka pahikset yllättävät'
         start_time: '2025-04-10T15:02:00+03:00'
         end_time: '2025-04-10T15:55:00+03:00'
-        description: |
-          Netflixin uusi American Primeval -sarja kuvaa uudisasukkaiden koettelemuksia Yhdysvalloissa ja sen keskeinen tapahtuma on Mountain Meadowsin verilöyly, joka tapahtui syyskuussa 1857 Utahin alueella. Verilöylyssä joukko mormonien miliisin jäseniä ja paikallisia alkuperäisasukkaita hyökkäsi vankkurikaravaanin kimppuun, joka koostui Arkansasista kotoisin olevista siirtolaisista. Karavaani oli matkalla Kaliforniaan ja oli pysähtynyt Mountain Meadowsissa lepäämään, kun se joutui hyökkäyksen kohteeksi. Noin 120 miestä, naista ja lasta surmattiin, ja vain muutama pieni lapsi säästettiin.
+        description: |-
+          Netflixin uusi American Primeval -sarja kuvaa uudisasukkaiden koettelemuksia Yhdysvalloissa ja sen keskeinen tapahtuma on Mountain Meadowsin verilöyly, joka tapahtui syyskuussa 1857 Utahin alueella. Verilöylyssä joukko mormonien miliisin jäseniä ja paikallisia alkuperäisasukkaita hyökkäsi vankkurikaravaanin kimppuun, joka koostui Arkansasista kotoisin olevista siirtolaisista. Karavaani oli matkalla Kaliforniaan ja oli pysähtynyt Mountain Meadowsissa lepäämään, kun se joutui hyökkäyksen kohteeksi. Noin 120 miestä, naista ja lasta surmattiin, ja vain muutama pieni lapsi säästettiin. 
 
-          American Primeval -western esittää mormonit ja heidän johtajansa Brickham Youngin (1801-1877) valossa, joka sopii huonosti tämän hetken kuvaan lempeistä ja ystävällisistä mormoneista. Nykymormoneista on tehty myös humoristinen ja satiirinen menestysmusikaali "Book of Mormon", joka sai ensi-iltansa Broadwaylla vuonna 2011. South Parkin tekijöidenTrey Parkerin ja Matt Stonen useilla Tony-pysteillä palkittua luomusta esitetään edelleen. 
+
+
+          American Primeval -western esittää mormonit ja heidän johtajansa Brickham Youngin (1801-1877) valossa, joka sopii huonosti tämän hetken kuvaan lempeistä ja ystävällisistä mormoneista. Nykymormoneista on tehty myös humoristinen ja satiirinen menestysmusikaali "Book of Mormon", joka sai ensi-iltansa Broadwaylla vuonna 2011. South Parkin tekijöiden Trey Parkerin ja Matt Stonen useilla Tony-pysteillä palkittua luomusta esitetään edelleen. 
+
+
 
           Mikä aiheutti Mountain Meadowsin julman hyökkäyksen, millaisia ovat tämän päivän mormonit maallistuvassa ilmapiirissä, ja miten mormonit itse suhtautuvat siihen, millaisia stereotypioita heistä esitetään viihteessä?
 
-          Keskustelemassa ovat Pohjois-Amerikan tutkija, professori emeritus Markku Henriksson, filosofian maisteri maisteri Hannele Vaissi ja Marjaniemen seurakunnan piispa Matti Roto.
 
-          Toimittajana on Pauliina Grym.
+
+          Keskustelemassa ovat Pohjois-Amerikan tutkija, professori emeritus Markku Henriksson, filosofian maisteri ja mormoniseurakunnan jäsen Hannele Vaissi ja Marjaniemen seurakunnan piispa Matti Roto.
+
+
+           
+          Lähetyksen toimittaa Pauliina Grym.
         series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-04-10T15:55:00+03:00'
