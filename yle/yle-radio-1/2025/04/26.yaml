@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-06T02:32:55.860437+00:00'
+  generated_at: '2025-04-07T02:33:06.313391+00:00'
   git:
     branch: main
-    commit: b710a54c46c9836517fc9a6c30e68c048145acf1
-  data_hash: dbed435f0f6d4fea4b6436ce3f625eb730b9b2d3887d394d46d2b1eb7092c942
+    commit: 7bb5246874484cdd9a6961c6da812789ec5cb2df
+  data_hash: 4f77f63e9386544790a267c16b289199be25400cfffa7761914a65bceed1366c
 data:
   Yle Radio 1:
     programmes:
@@ -106,7 +106,6 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-04-26T12:05:00+03:00'
         end_time: '2025-04-26T12:30:00+03:00'
-        series: Maailmanpolitiikan arkipäivää
       - title: 'Siivekkäät J6: Lintuja jäljittämässä'
         start_time: '2025-04-26T12:30:00+03:00'
         end_time: '2025-04-26T13:05:00+03:00'
@@ -161,11 +160,13 @@ data:
         description: |-
           De Crescenzo: Rondine al nido (Luciano Pavarotti, tenori, sekä Firenzen musiikkijuhlien ja Rooman oopperan ork./Zubin Mehta).
 
-          W.A. Mozart: Andante konsertosta pianolle n:o 21 C-duuri (Radu Lupu ja Englantilainen kamariork./Uri Segal).
-
           Skrjabin: Etydi dis-molli (Chitose Okashiro, piano).
 
-          Kansanlaulu: Vem kan segla förutan vind  (Annika Hultman, laulu, sekä Wegelius-kuoro ja -kamariork./John Storgårds).
+          Saint-Saëns: Romanssi F-duuri (Torleif Thedeen, sello, ja Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          J.S. Bach: Poloneesi orkesterisarjasta n:o 2 h-molli (Christopher Krueger, huilu, ja Boston Baroque/Martin Pearlman).
+
+          Parra (sov. Gallardo del Rey): Gracias a la vida (Elina Garanca, mezzosopraano, José María Gallardo del Rey, kitara, Johanne-Valérie Gélinas, huilu, Diego Val, sello, Francisco Navarro, lyömäsoittimet, ja Nauzet Mederos, piano).
 
           Portman: Invocation konsertosta Tipping points (Niklas Liepe, viulu, ja Kölnin radio-ork./Erina Yashima).
 
