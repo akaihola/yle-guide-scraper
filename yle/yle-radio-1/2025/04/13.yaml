@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-07T02:33:02.322567+00:00'
+  generated_at: '2025-04-08T02:31:56.005673+00:00'
   git:
     branch: main
-    commit: 7bb5246874484cdd9a6961c6da812789ec5cb2df
-  data_hash: 4f77f63e9386544790a267c16b289199be25400cfffa7761914a65bceed1366c
+    commit: c55f610e18c611836b89f1130af1444c34fc0e13
+  data_hash: bbd5c9653918a194c69918eee033cceb58151efb310dbf4bec37011d0d5a7e5f
 data:
   Yle Radio 1:
     programmes:
@@ -53,17 +53,17 @@ data:
           Arnie: Tulpen aus Amsterdam (Mantovani).
           Suessdorf: Moonlight in Vermont (Frank Sinatra ja Linda Ronstadt).
           Modugno: Lazzarella (Laila Kinnunen).
-          Nevins/Nevins/Morty/Dunn/Artie: Kun hämärtää (Ritva Simuna).
+          A. Nevins/M. Nevins/Dunn: Kun hämärtää (Ritva Simuna).
           Kern: Smoke gets in your eyes (The Platters).
           Kern: Yesterdays (Artie Shaw and his Orchestra).
           Hadzidakis: C'est joli la mer (Carola).
           Hancock: Cantaloupe Island (Herbie Hancock).
-          Brooker: A Salty Dog (Procol Harum).
+          Brooker: A salty dog (Procol Harum).
           Bergen: Only a fool breaks his own heart (Tom Jones).
           Roloff/Hee: Käymme yhdessä ain (Tapani Kansa).
           Popp: Manchester et Liverpool (Marie Laforet).
           Lennon/McCartney: And I love her (The Beatles).
-          Grant/Patrick: Yeh Yeh (Georgie Fame & The Blue Flames).
+          Grant/Patrick: Yeh yeh (Georgie Fame & The Blue Flames).
           Mårtenson: Cara domenica (Lasse Mårtenson).
           Mancini: Moon river (The Dutch Jazz Orchestra).
         series: Muistojen bulevardi
@@ -101,7 +101,6 @@ data:
           Harry Palinin tarina on näkymä ensimmäiseen maailmansotaan sekä viktoriaaniseen Britanniaan ja sen imperiumiin.
           Haastateltavana Michael Palin.
           Toimittajana Harri Alanne. Äänisuunnittelijana Juha Sarkkinen. Harry Palin -sitaatit luki Ronan Browne.
-        series: Elävä historia
       - title: 'Viikon luontoääni: Harmaahaikara'
         start_time: '2025-04-13T15:50:00+03:00'
         end_time: '2025-04-13T15:55:00+03:00'
@@ -174,25 +173,31 @@ data:
         start_time: '2025-04-13T21:00:00+03:00'
         end_time: '2025-04-13T21:02:05+03:00'
       - title: Uutispodcast
-        start_time: '2025-04-13T21:03:00+03:00'
-        end_time: '2025-04-13T21:28:00+03:00'
+        start_time: '2025-04-13T21:02:37+03:00'
+        end_time: '2025-04-13T21:27:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2025-04-13T21:29:00+03:00'
-        end_time: '2025-04-13T22:26:00+03:00'
+        start_time: '2025-04-13T21:28:00+03:00'
+        end_time: '2025-04-13T22:25:00+03:00'
         description: |
           Eva Tigerstedt avaa polkuja musiikkiin.
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Sari Valto
-        start_time: '2025-04-13T22:27:00+03:00'
-        end_time: '2025-04-13T23:22:00+03:00'
+        start_time: '2025-04-13T22:26:00+03:00'
+        end_time: '2025-04-13T23:21:00+03:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        series: Sari Valto
       - title: Romano mirits
         start_time: '2025-04-13T23:25:00+03:00'
-        end_time: '2025-04-13T23:39:30+03:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        end_time: '2025-04-13T23:38:44+03:00'
+        description: |+
+          Mitä Kansainvälinen romanipäivä 8. huhtikuuta todella merkitsee? Kuinka hyvin ihmiset oikeasti tuntevat sen taustan ja merkityksen? Dimitri Grönfors selvittää, kuinka romanijärjestöt ja yhteisön jäsenet kokevat tämän päivän – ja miksi se on tärkeä juuri nyt.
+
+
+        series: Romano mirits
       - title: Yöklassinen
         start_time: '2025-04-13T23:40:00+03:00'
         end_time: '2025-04-14T06:30:00+03:00'

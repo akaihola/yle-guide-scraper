@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-07T02:33:04.358698+00:00'
+  generated_at: '2025-04-08T02:32:03.688753+00:00'
   git:
     branch: main
-    commit: 7bb5246874484cdd9a6961c6da812789ec5cb2df
-  data_hash: 4f77f63e9386544790a267c16b289199be25400cfffa7761914a65bceed1366c
+    commit: c55f610e18c611836b89f1130af1444c34fc0e13
+  data_hash: bbd5c9653918a194c69918eee033cceb58151efb310dbf4bec37011d0d5a7e5f
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-04-21T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-04-21T06:30:00+03:00'
         end_time: '2025-04-21T08:00:00+03:00'
@@ -94,6 +93,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-21T16:10:00+03:00'
         end_time: '2025-04-21T16:59:00+03:00'
+        description: |
+          Sinding: Frühlingsrauschen (Kevään kohinaa) (Philip Martin, piano).
+
+          Händel: Johanneksen aaria "Così la tortorella" orat. La resurrezione (Ylösnousemus) (Ian Bostridge, tenori, ja Valistuksen ajan ork./Harry Bicket).
+
+          Grieg: Våren (Kevät) (Gürzenich-ork./Dmitri Kitajenko).
+
+          L. Boulanger: D'un matin de printemps (Kevätaamu) (Katharina Wimmer, viulu, ja Ingrid Wendel, piano).
+
+          Debussy: Le printemps (Kevät) (Brigitte Desnoues, sopraano, ja Pariisin Sorbonnen yliopiston kuoro ja ork./Jacques Grimbert).
+
+          Cairos-Rego: White cloud (Valkea pilvi) (Katie Zhukov, piano).
+
+          Mascagni: Pääsiäishymni "Regina Coeli, laetare alleluja - Inneggiamo, il Signor" oopp. Cavalleria rusticana (Elina Garanca, mezzosopraano, ja Saarlandin valtionoopperan kuoro sekä Deutsche Radio Philharmonie -ork./Karel Mark Chichon).
+
+          Andrée: Andante cantabile sonaatista B-duuri (Annette-Barbara Vogel, viulu, ja Durval Cesetti, piano).
+
+          Malmsten: Pieni pääsiäislaulu (Peppina, laulu, ja HMV-orkesteri/Georg Malmsten). 
+
+          Bridge: Spring song (Kevätlaulu) (Steven Isserlis, sello, ja Stephen Hough, piano).
+
+          Wagner: Pyhiinvaeltajien kuoro oopp. Tannhäuser (Leipzigin radiokuoro ja  Dresdenin valtionork./Silvio Varviso).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T17:00:00+03:00'
