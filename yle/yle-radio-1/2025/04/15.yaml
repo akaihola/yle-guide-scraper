@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-08T02:31:59.163569+00:00'
+  generated_at: '2025-04-09T02:32:25.995785+00:00'
   git:
     branch: main
-    commit: c55f610e18c611836b89f1130af1444c34fc0e13
-  data_hash: bbd5c9653918a194c69918eee033cceb58151efb310dbf4bec37011d0d5a7e5f
+    commit: d1572302549b1af057587a9cdc02eca6175a3280
+  data_hash: 3636ba498805db63c6abce823a93ee62f233414d7415064fa6b4f39864c33750
 data:
   Yle Radio 1:
     programmes:
@@ -79,11 +79,12 @@ data:
           Ruby: Nevertheless (Fred Astaire ja Anita Ellis).
           Styne: Make someone happy (Jimmy Durante). 
         series: Muistojen bulevardi
-      - title: Sari Valto
+      - title: 'Sari Valto: Paapooko nykyinen tunnepuhe meitä liikaa?'
         start_time: '2025-04-15T10:00:00+03:00'
         end_time: '2025-04-15T10:55:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        description: |-
+          Jari Sinkkonen ja Ville Merinen keskustelevat nykyisestä terapiakulttuurista. Puhutaanko meillä tunteista jo liikaa? 
+        series: Sari Valto
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-04-15T11:00:00+03:00'
         end_time: '2025-04-15T11:57:00+03:00'
@@ -166,6 +167,7 @@ data:
         end_time: '2025-04-15T17:34:20+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-04-15T17:35:00+03:00'
         end_time: '2025-04-15T18:30:00+03:00'

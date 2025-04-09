@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-08T02:32:03.688753+00:00'
+  generated_at: '2025-04-09T02:32:28.665231+00:00'
   git:
     branch: main
-    commit: c55f610e18c611836b89f1130af1444c34fc0e13
-  data_hash: bbd5c9653918a194c69918eee033cceb58151efb310dbf4bec37011d0d5a7e5f
+    commit: d1572302549b1af057587a9cdc02eca6175a3280
+  data_hash: 3636ba498805db63c6abce823a93ee62f233414d7415064fa6b4f39864c33750
 data:
   Yle Radio 1:
     programmes:
@@ -67,11 +67,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T12:00:00+03:00'
         end_time: '2025-04-21T12:05:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Keuhkotaudin kantajat: Kun kaikilla oli tuberkuloositartunta'
         start_time: '2025-04-21T12:05:00+03:00'
         end_time: '2025-04-21T12:55:00+03:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Keuhkotauti, eli tuttavallisemmin tubi oli tappava, bakteeriperäinen sairaus joka kuritti Eurooppaa erityisesti 1800- ja 1900-luvuilla. Suomi oli yksi pahimpia keuhkotaudin runtelemia maita ja 1900-luvulle tultaessa käytännössä kaikilla oli tartunta. Siitä huolimatta tauti leimattiin köyhien sairaudeksi. Asiantuntijat: dos. Agneta Rahikainen (HY) ja dos. Heini Hakosalo (OY)
+          Toimittaja, käsikirjoittaja: Liisa Vihmanen. Äänisuunnittelu: Panu Willman. Arkistotoimittaja: Outi Kortelainen.
         series: Elävä historia
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-21T13:00:00+03:00'

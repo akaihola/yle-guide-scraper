@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-08T02:31:57.895947+00:00'
+  generated_at: '2025-04-09T02:32:25.462435+00:00'
   git:
     branch: main
-    commit: c55f610e18c611836b89f1130af1444c34fc0e13
-  data_hash: bbd5c9653918a194c69918eee033cceb58151efb310dbf4bec37011d0d5a7e5f
+    commit: d1572302549b1af057587a9cdc02eca6175a3280
+  data_hash: 3636ba498805db63c6abce823a93ee62f233414d7415064fa6b4f39864c33750
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,41 @@ data:
         start_time: '2025-04-13T23:40:00+03:00'
         end_time: '2025-04-14T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Pierné: Sarja orkesterille n:o 2 näytelmämus. Ramuntcho (BBC:n FO/Juanjo Mena).
+
+          23:55 C. Schumann: Pianotrio g-molli (Beaux Arts -trio).
+
+          00:20 H. Jadin: Jousikvartetto C-duuri op.3/1 (Mosaïques-kvartetti).
+
+          00:44 Dett: Cinnamon grove, sarja pianolle (Clipper Erickson).
+
+          01:02 S. Tanejev: Suite de concert (Konserttisarja) g-molli (Pekka Kuusisto, viulu, ja HKO/Vladimir Ashkenazy).
+
+          01:45 Balakirev: Sinfonia n:o 2  d-molli (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          02:22 Onslow: Jousikvartetto C-duuri (Mandelring-kvartetti).
+
+          02:48 d'Indy: Saugefleurie (BBC:n Walesin kansallisork./Thierry Fischer).
+
+          03:07 A. Maier: Sonaatti viululle ja pianolle h-molli (Katharina Wimmer ja Ingrid Wendel).
+
+          03:26 Lalo: Norjalainen rapsodia (Baselin SO/Giancarlo Andretta).
+
+          03:37 Metner: Unohdettuja säveliä 1 (Marc-André Hamelin, piano).
+
+          04:17 Myslivecek: Sinfonia Es-duuri (Sinfonia a quattro voci) (Suk-kamariork./Josef Vlach).
+
+          04:32 Boccherini: Sellokonsertto B-duuri (Christophe Coin ja Limogesin barokkiyhtye).
+
+          04:53 J. Haydn: Jousikvartetto n:o 76 d-molli (Emerson-kvartetti).
+
+          05:16 Billings: Chesterfield (His Majestie's Clerkes/Paul Hillier). 
+
+          05:21 Weiss: Sarja luutulle g-molli (Konrad Junghänel).
+
+          05:51 Cererols: Missa de batalla (Taistelumessu) (La Capella Reial/Jordi Savall).
+
+          06:14 Hasse: Konsertto sellolle, jousille ja continuolle D-duuri (Aleksandr Rudin, sello, ja Musica Viva, Moskova).
         series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-04-14T06:30:50+03:00'
@@ -84,8 +118,8 @@ data:
       - title: Virtasen taloushistoria
         start_time: '2025-04-14T10:00:00+03:00'
         end_time: '2025-04-14T10:52:00+03:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |-
+          Mitä raha kertoo historiasta? Vieraina Marko Manninen ja Yrjö Hyötyniemi
         series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-14T10:52:00+03:00'
@@ -163,6 +197,7 @@ data:
         end_time: '2025-04-14T17:34:20+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+        series: Uutispodcast
       - title: 'Keinuva talo - Mika Kauhanen: Lauluäänen ihme'
         start_time: '2025-04-14T17:35:00+03:00'
         end_time: '2025-04-14T18:34:20+03:00'
@@ -187,7 +222,7 @@ data:
         start_time: '2025-04-14T19:02:40+03:00'
         end_time: '2025-04-14T19:52:00+03:00'
         description: |-
-          Julkisesta keskustelusta voisi joskus päätellä, että demokratia on kuollut ja politiikka kriisissä. Tämä dokumentti todistaa asioiden olevan aivan toisin - ainakin Vantaan nuorisovaltuustossa. Toimittaja Tuula Rajavaara
+          Julkisesta keskustelusta voisi joskus päätellä, että demokratia on kuollut ja politiikka kriisissä. Tuula Rajavaaran dokumentti todistaa asioiden olevan aivan toisin - ainakin Vantaan nuorisovaltuustossa. 
         series: Tosi tarina
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-14T19:52:00+03:00'
