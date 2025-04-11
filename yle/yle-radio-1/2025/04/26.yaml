@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-10T02:31:54.891391+00:00'
+  generated_at: '2025-04-11T02:32:17.315454+00:00'
   git:
     branch: main
-    commit: a20ffdcf1aa51aeb26b63953bb9fb74cda8c5e74
-  data_hash: e92649a97075f1946d70131ca9ff1117b29a0f9d6585e1f61ea9854faf725439
+    commit: d880fe597cab7e45627ad5ec1bb8b05f19a32fc6
+  data_hash: 3312947311fad05ca1945220d8d953286c5963a09c44c568859634408195dbb2
 data:
   Yle Radio 1:
     programmes:
@@ -32,6 +32,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-04-26T08:05:00+03:00'
         end_time: '2025-04-26T08:25:00+03:00'
+        description: |-
+          Tuntematon (sov. Nyman): Pilvimuurista valo välähtää (Hannele Juutinen ja Jakaranda/Pekka Nyman).
+
+          Simojoki (sov. Nyman): Jeesus, sinä huomaat (Jakaranda-kuoro ja -yhtye/Pekka Nyman).
+
+          Gerdmar: Leipä elämän (Lauluyhtye, sekä Mikko Iivanainen, kitara).
+
+          Sörlie (sov. Pyöriä): Jeesus, sä ainoa (Kampin Laulu ja Soli Deo Gloria/Juhani Lamminmäki).
+
+          V. Viitasalo: Muista joka päivä (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola).
+
+          Karttunen: Sinä kaipaatko täyteyttä Hengen sen (Jippu).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-04-26T08:25:00+03:00'
         end_time: '2025-04-26T08:35:00+03:00'
@@ -45,7 +58,6 @@ data:
         end_time: '2025-04-26T08:55:00+03:00'
         description: |
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-        series: Minne Rinne vie
       - title: Yle Uutiset ja sää
         start_time: '2025-04-26T09:00:00+03:00'
         end_time: '2025-04-26T09:05:00+03:00'
@@ -134,7 +146,6 @@ data:
           Tuotanto: Laura Jaakkola ja Eveliina Solja, Yle Draama 2023.
 
           Rooleissa: Petriikka Pohjanheimo, Juho Uusitalo, Miiko Toiviainen, Fanni Noroila, Ulla Tapaninen, Hannu-Pekka Björkman, Janne Raudaskoski, Sari Havas, Jani Toivola, Mikko Roiha, Tom Pöysti, Ronja Bado ja Lila Bado.
-        series: Kerran viel’ Suomisen perhe!
       - title: Yksi on hyvää seuraa
         start_time: '2025-04-26T15:15:00+03:00'
         end_time: '2025-04-26T15:30:00+03:00'
