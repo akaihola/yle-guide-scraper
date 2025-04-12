@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-11T02:32:12.880165+00:00'
+  generated_at: '2025-04-12T02:30:53.885415+00:00'
   git:
     branch: main
-    commit: d880fe597cab7e45627ad5ec1bb8b05f19a32fc6
-  data_hash: 3312947311fad05ca1945220d8d953286c5963a09c44c568859634408195dbb2
+    commit: aab113ac564708c702305e0cbb06f0e632e74a02
+  data_hash: bdc5043d653b0a74c70073edf5971a77bffc8bff8eedcc250d41985995265cd4
 data:
   Yle Radio 1:
     programmes:
@@ -60,15 +60,20 @@ data:
           Carl Philipp Emanuel Bach:  Sonaatti huilulle, viululle ja continuolle C-duuri Wq149 (Pauliina Fred, huilu, Minna Kangas, viulu, ja Aapo Häkkinen, cembalo). 
 
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-04-13T07:57:40+03:00'
+        end_time: '2025-04-13T08:00:00+03:00'
+        description: |-
+          Mendelssohn: Die Waldvögelein (Metsälintuset) (Octopus/Bart van Reyn).
       - title: Yle Uutiset ja sää
         start_time: '2025-04-13T08:00:00+03:00'
         end_time: '2025-04-13T08:05:05+03:00'
-      - title: Riston Valinta
-        start_time: '2025-04-13T08:05:35+03:00'
-        end_time: '2025-04-13T08:59:30+03:00'
+      - title: 'Narrin aamulaulu - Nuoren neuvostovaltion näkökulma emigrantti Rahmaninoviin '
+        start_time: '2025-04-13T08:05:30+03:00'
+        end_time: '2025-04-13T08:59:47+03:00'
         description: |
-          Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
-        series: Riston Valinta - Risto Nordell
+          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
         start_time: '2025-04-13T09:00:00+03:00'
         end_time: '2025-04-13T09:05:05+03:00'
@@ -146,6 +151,7 @@ data:
           Harry Palinin tarina on näkymä ensimmäiseen maailmansotaan sekä viktoriaaniseen Britanniaan ja sen imperiumiin.
           Haastateltavana Michael Palin.
           Toimittajana Harri Alanne. Äänisuunnittelijana Juha Sarkkinen. Harry Palin -sitaatit luki Ronan Browne.
+        series: Elävä historia
       - title: 'Viikon luontoääni: Harmaahaikara'
         start_time: '2025-04-13T15:50:00+03:00'
         end_time: '2025-04-13T15:55:00+03:00'
@@ -228,15 +234,17 @@ data:
       - title: Yle Uutiset
         start_time: '2025-04-13T21:00:00+03:00'
         end_time: '2025-04-13T21:02:05+03:00'
-      - title: Uutispodcast
-        start_time: '2025-04-13T21:02:37+03:00'
-        end_time: '2025-04-13T21:27:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+      - title: 'Uutispodcastin vaalisarja: Terveydenhuollon kolme kohtalonkysymystä – Ratkaiseeko lompakon paksuus, kuka saa hoitoa?'
+        start_time: '2025-04-13T21:03:05+03:00'
+        end_time: '2025-04-13T21:23:48+03:00'
+        description: |-
+          Ratkaiseeko raha jatkossa entistä enemmän, kuka saa hoitoa? Terveydenhuollon kolme kohtalonkysymystä -vaalisarjan viimeisessä jaksossa Marleena Pelli selvittää yhdessä THL:n johtavan tutkijan Liina-Kaisa Tynkkysen ja neljän suurimman puolueen kansanedustajien kanssa onko Suomessa yhteistä tahtoa muuttaa terveydenhuollon eriarvoisia rakenteita.
+
+          Sarjan kaksi aiempaa osaa on julkaistu Uutispodcastissa 29.3. ja 4.4.
         series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Oi kevät'
-        start_time: '2025-04-13T21:28:00+03:00'
-        end_time: '2025-04-13T22:23:11+03:00'
+        start_time: '2025-04-13T21:24:45+03:00'
+        end_time: '2025-04-13T22:19:56+03:00'
         description: |+
           Kevät saapuu ja sekös ilahduttaa polunraivaajaa. Klasariparatiisi kuulostelee vuodenajan musiikkia ja tarkistaa kasvillisuuden tilan.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -259,19 +267,30 @@ data:
 
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Kaksi tarinaa naisyrittäjyydestä: paineita, puurtamista ja periksiantamattomuutta'
-        start_time: '2025-04-13T22:24:00+03:00'
-        end_time: '2025-04-13T23:17:32+03:00'
+        start_time: '2025-04-13T22:20:45+03:00'
+        end_time: '2025-04-13T23:14:17+03:00'
         description: |-
           Naisyrittäjien määrä on laskenut Suomessa. Kohtaako nainen yrittäjänä miestä enemmän haasteita? Fadumo Ali ja Annamari Jukkola ovat esimerkkejä sinnikkäistä yrittäjistä, jotka molemmat ovat yritystoiminnallaan murtaneet oman yhteisönsä perinteitä.
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-04-13T23:14:17+03:00'
+        end_time: '2025-04-13T23:20:32+03:00'
+        description: |-
+          Mertz: Unkarilainen fantasia (David Russell, kitara).
       - title: Romano mirits
-        start_time: '2025-04-13T23:19:32+03:00'
-        end_time: '2025-04-13T23:33:16+03:00'
+        start_time: '2025-04-13T23:20:32+03:00'
+        end_time: '2025-04-13T23:34:16+03:00'
         description: |+
           Mitä Kansainvälinen romanipäivä 8. huhtikuuta todella merkitsee? Kuinka hyvin ihmiset oikeasti tuntevat sen taustan ja merkityksen? Dimitri Grönfors selvittää, kuinka romanijärjestöt ja yhteisön jäsenet kokevat tämän päivän – ja miksi se on tärkeä juuri nyt.
 
 
         series: Romano mirits
+      - title: 'Eilisen ääni: Pakina naisista, miehistä ja jääkaapeista'
+        start_time: '2025-04-13T23:34:58+03:00'
+        end_time: '2025-04-13T23:39:38+03:00'
+        description: |
+          Mediakoomikko Gilbert Granholm luo siltoja naisen, miehen sekä jääkaapin ja television välille - tai sitten polttaa niitä. Pakina on vuodelta 1994.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-04-13T23:40:00+03:00'
         end_time: '2025-04-14T06:30:00+03:00'
