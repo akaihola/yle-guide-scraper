@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-12T02:31:00.467659+00:00'
+  generated_at: '2025-04-13T03:02:21.673727+00:00'
   git:
     branch: main
-    commit: aab113ac564708c702305e0cbb06f0e632e74a02
-  data_hash: bdc5043d653b0a74c70073edf5971a77bffc8bff8eedcc250d41985995265cd4
+    commit: 0dae64a30e12329f9dfaaa17d8f7e13badc1043a
+  data_hash: 8bc5cbfbabbe7e211b4bf21e90751783b4653240a782d2ddc5fcae283bf18d1f
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-05T09:05:40+03:00'
         end_time: '2025-05-05T09:58:00+03:00'
+        description: |
+          Aznavour: Au printemps tu reviendras (Charles Aznavour).
+          Rodgers: Spring is here (Anita O'Day).
+          Dahlquist: Kevät Helsingissä (Olavi Virta).
+          Lordan: Apache (The Shadows).
+          Hebb: Sunny (Cher).
+          Valkama: Valkovuokot (Taisto Tammi). 
+          Phillips: San Francisco (Scott McKenzie).
+          Rodrigues/Machado: O gente da minha terra (Mariza).
+          Hefti: Flight of the foo birds (Count Basie).
+          Williams/Nichols: We've only just begun (The Carpenters).
+          Nadas: Du som bara har sett vårar (Doris).
+          Scott: A taste of honey (Tom Jones).
+          Moustaki: Hän, joka harvoin hymyilee (Cumulus).
+          Howard: Fly me to the moon (In other words) (Tony Bennett).
         series: Muistojen bulevardi
       - title: 'Virtasen taloushistoria: Entisaikojen kylpyläkulttuuri - vieraana Liisa Suvikumpu '
         start_time: '2025-05-05T10:00:00+03:00'
