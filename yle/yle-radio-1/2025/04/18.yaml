@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-13T03:02:17.498808+00:00'
+  generated_at: '2025-04-14T02:33:33.806055+00:00'
   git:
     branch: main
-    commit: 0dae64a30e12329f9dfaaa17d8f7e13badc1043a
-  data_hash: 8bc5cbfbabbe7e211b4bf21e90751783b4653240a782d2ddc5fcae283bf18d1f
+    commit: d2f99fc4d31781c65f2521fbfd60c9f1875aa566
+  data_hash: 36e94fcfac9f6fd9d979f2f22e5620d70c9d085c302d2c32f925624777c5675d
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,21 @@ data:
         start_time: '2025-04-17T23:30:00+03:00'
         end_time: '2025-04-18T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Elgar: The Apostles (Apostolit), oratorio (Rebecca Evans, sopraano, Alice Coote, mezzosopraano, Paul Groves, tenori, Jacques Imbrailo, baritoni, David Kempster, baritoni, ja Brindley Sherratt, basso, sekä Hallé-kuoro, Hallé-nuorisokuoro ja Hallé-ork./Mark Elder).
+
+          01:26 Schumann: Sinfonia n:o 2 C-duuri (Berliinin valtionork./Otmar Suitner).
+
+          02:03 Beethoven: Kvintetto pianolle ja puhaltimille Es-duuri (Daniel Barenboim, piano, Hansjörg Schellenberger, oboe, Larry Combs, klarinetti, Dale Clevenger, käyrätorvi, ja Daniele Damiano, fagotti).
+
+          02:29 Tshaikovski: Joutsenlampi, 4-näytöksinen baletti (Saint Louisin SO/Leonard Slatkin). 
+
+          04:53 Sibelius: Lemminkäinen, neljä legendaa (RSO/Jukka-Pekka Saraste, englannintorvisoolo: Päivi Kärkäs).
+
+          05:40 Weber: Klarinettikvintetto B-duuri (Kari Kriikku ja Uusi Helsinki-kvartetti).
+
+          06:07 Solnitz: Sinfonia A-duuri (Musica ad Rhenum).
+
+          06:19 Telemann: Sonaatti kahdelle huilulle E-duuri (Mindy Rosenfeld ja Stephen Schultz, traverso).
         series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-04-18T06:30:00+03:00'
@@ -173,3 +187,23 @@ data:
         description: |-
           Timo Teräsvuori Bachin suurteoksen keskellä 
         series: Kulttuurin kulmilla
+      - title: Yöklassinen
+        start_time: '2025-04-18T23:40:00+03:00'
+        end_time: '2025-04-19T06:30:00+03:00'
+        description: |-
+          Wagner: Parsifal (Plácido Domingo, tenori, James Morris, baritoni, Jan-Hendrik Rootering, basso, Kurt Moll, basso, Ekkerhard Wlaschiha, basso, Jessye Norman, sopraano, Allan Glassman, tenori ym. sekä Metropolitan-oopperan kuoro ja ork./James Levine).
+
+          04:14 von Martinez: Cembalokonsertto G-duuri (Nicoleta Paraschivescu ja La Floridiana).
+
+          04:33 Gesualdo: Pitkäperjantain matutinan responsoriot (A Sei Voci).
+
+          05:14 Festa: Lamentations Hieremieae Prophetae (Profeetta Jeremiaan valitusvirret) (Josquin Capella/Meinolf Brüser).
+
+          05:47 D. Scarlatti: Stabat mater c-molli (Les Arts Florissants/Paul Agnew).
+
+          06:10 Liszt: Lohdutus (Elissa Lee Koljonen, viulu, ja Robert Koenig, piano). 
+
+          06:15 Monteverdi: Crucifixus. (Cantus Cölln ja Concerto Palatino/Konrad Junghänel).
+
+          06:19 Erlebach: Triosonaatti kahdelle viululle ja continuolle n:o 2 (Le Banquet Céleste/Damien Guillon). 
+        series: Syventävää klassista
