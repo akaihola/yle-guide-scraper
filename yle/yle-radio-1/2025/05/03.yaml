@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-14T02:33:40.415151+00:00'
+  generated_at: '2025-04-15T02:33:13.472651+00:00'
   git:
     branch: main
-    commit: d2f99fc4d31781c65f2521fbfd60c9f1875aa566
-  data_hash: 36e94fcfac9f6fd9d979f2f22e5620d70c9d085c302d2c32f925624777c5675d
+    commit: ec5e095f6fbc6f5b263a07ba57ab79b1d06fb975
+  data_hash: d5a0ec0ab30671d74ea7a3ce4c593ed681505a79adba654eb3434382e2cbeed7
 data:
   Yle Radio 1:
     programmes:
@@ -25,13 +25,11 @@ data:
       - title: Kulttuurin kulmilla
         start_time: '2025-05-03T07:20:30+03:00'
         end_time: '2025-05-03T07:30:00+03:00'
-      - title: ' Luomiskertomus: Kale Puonti - Topi'
+      - title: 'Luomiskertomus: Hanna Lantto kertoo kirjastaan Bilbao'
         start_time: '2025-05-03T07:31:00+03:00'
         end_time: '2025-05-03T07:56:00+03:00'
         description: |
-          Mitkä asiat menestysdekkarissa ovat oikeasti totta ja mitkä kirjailijan keksimiä? Dekkaristi Kale Puonti kirjoittaa suuren suosion saaneessa Pasilan Myrkky sarjan Topi-osassa prostituution maailmasta. Helsingin hämärien katujen ja kansainvälisten liikemiesten lisäksi tarinassa osansa saavat myös valtion virkakoneiston byrokratia ja esimiehet.
-
-          Toimittaja Jukka Kuosmanen.
+          Suomessa itsensä vääränlaiseksi tunteva Elina muuttaa Bilbaoon etsimään itseään ja kaltaisiaan.  Vaikka asiat tuntuvat Bilbaossa alussa sujuvan, osuu Elinan kohdalle mies, jonka käytös ja toiminta sysää Elinan seksuaalisten hyväksikäyttöjen pyörteeseen. Jarmo Laitanevan haastattelussa Hanna Lantto kertoo, millaista on kirjoittaa yleensä vaietuista asioista.
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-03T07:56:00+03:00'
@@ -91,6 +89,7 @@ data:
         end_time: '2025-05-03T11:00:00+03:00'
         description: |
           Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+        series: Rytmikamari
       - title: Näistä levyistä en luovu
         start_time: '2025-05-03T11:00:00+03:00'
         end_time: '2025-05-03T11:55:00+03:00'
@@ -156,6 +155,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-03T16:10:00+03:00'
         end_time: '2025-05-03T16:59:00+03:00'
+        description: |
+          Williams: Rey's theme elok. Star Wars - The force awakens (Ork./William Ross).
+
+          Beethoven: Allegretto pianotriosta Es-duuri (Risto Lauriala, piano, Tero Latvala, viulu, ja Marko Ylönen, sello).
+
+          Tshaikovski: Den li tsarit (Päivä jos vallitsee) (Gerald Finley, baritoni, ja Julius Drake, piano). 
+
+          Kats-Chernin: Eliza Aria baletista Villijoutsenet (Angele Dubeau, viulu, ja kamariork. La Pietà).
+
+          Ravel: Serenade grotesque (Steven Osborne, piano). 
+
+          Makaroff: Silent love (The King's Singers).
+
+          O. Merikanto: Valse lente (Aale Lindgren, oboe, ja Jussi Siirala, piano).
+
+          Marianelli: Elegy for Dunkirk elok. Atonement (Caroline Dale, sello, Dunkirk Choir ja Bede College Choir sekä Englantilainen kamariork./Benjamin Wallfisch).
+
+          Rimski-Korsakov: Scherzo sekstetosta jousille (Kölnin Ensemble Classique). 
+
+          Schubert: Gretchen am Spinnrade (Dawn Upshaw, sopraano, ja Richard Goode, piano).
+
+          Brahms: Unkarilainen tanssi n:o 4 (RSO/Jukka-Pekka Saraste).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-03T17:00:00+03:00'

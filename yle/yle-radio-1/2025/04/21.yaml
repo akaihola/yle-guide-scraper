@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-14T02:33:35.249231+00:00'
+  generated_at: '2025-04-15T02:33:09.813357+00:00'
   git:
     branch: main
-    commit: d2f99fc4d31781c65f2521fbfd60c9f1875aa566
-  data_hash: 36e94fcfac9f6fd9d979f2f22e5620d70c9d085c302d2c32f925624777c5675d
+    commit: ec5e095f6fbc6f5b263a07ba57ab79b1d06fb975
+  data_hash: d5a0ec0ab30671d74ea7a3ce4c593ed681505a79adba654eb3434382e2cbeed7
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,43 @@ data:
         start_time: '2025-04-20T23:40:00+03:00'
         end_time: '2025-04-21T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Paisiello: Passio di San Giovanni (Johannespassio) (Trine Wilsberg Lund, sopraano, Monica Mauch, sopraano, ja Jörg Schneider, baritoni, sekä Vocalconsort Berlin ja L'Arte del mondo/Werner Ehrhard).
+
+          00:40 Rabaud (sov.): Englantilainen sarja n:o 3 G-duuri (Reininmaan ja Pfalzin valtiollinen FO/Leif Segerstam).
+
+          00:49 Anonyymi 600-700-luvulta: Terra tremuit (Maa järisi) (Organum-yhtye).
+
+          01:00 Anonyymi 1200-luvulta - Ropek: Muunnelmia Victimae paschali laudes -sekvenssin teemasta (Iain Quinn, urut).
+
+          01:16 Franck: Trio concertant n:o 1 (Pianotrio n:o 1) fis-molli (David Lively, piano, Tatiana Samouil, viulu, ja Justus Grimm, sello).
+
+          01:48 Selle: Surrexit Christus spes mea (Weser-Renaissance Bremen/Manfred Cordes).
+
+          01:57 Pfeiffer: Konsertto viola da gamballe, kahdelle viululle ja continuolle A-duuri (Hille Perl, viola da gamba, Petra Müllejans ja Christa Kittel, viulu, sekä Freiburgin barokkiork.).
+
+          02:12 Scheidt: Nun lob mein Seel den Herren (Kiitä Herraa, minun sieluni) (La Capella Ducale ja Musica Fiata/Roland Wilson).
+
+          02:29 Zuccari: Sonaatti sellolle ja continuolle n:o 6 C-duuri (Renato Criscuolo ja Musica Perduta).
+
+          02:44 Castelnuovo-Tedesco: Ecloghe (Paimenruno) (Chloe Dufossez, huilu, Leonard Becker, kitara, Eloi Huscenot, englannintorvi).
+
+          02:56 Knüpfer: Kyrie cum Gloria (Kyrie ja Gloria) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          03:13 Pichl: Kvartetto klarinetille ja jousille Es-duuri (Jirí Krejcí ja Po Arte Antiqua Praha,).
+
+          03:30 Strozzi: Finche tu spiri (Ensemble Poiesis).
+
+          03:40 Skrjabin: Poème Fis-duuri (Nelson Freire, piano). 
+
+          03:43 Glazunov: Jousikvartetto n:o 1 D-duuri (Shostakovitsh-kvartetti).
+
+          04:06 Legrenzi: La Morte del cor penitente (Katuvan sydämen kuolema), oratorio (Mario Cecchetti, tenori, Roberta Invernizzi, sopraano, ja Elisabetta de'Mircovich, sopraano, sekä Sonatori de la Gioiosa Marca).
+
+          05:15 G.J. Werner: Sarja kahdelle viululle ja continuolle (Reinin Bach-Collegium).
+
+          05:43 Andrée: Orkesterisarja oopp. Fritjofin taru (Tukholman SO/Gustaf Sjökvist).
+
+          06:13 Telemann: Jesus, meine Zuversicht (Jeesus, elät turvani) ( Ingrid Schmithüsen, sopraano, Claudia Schubert, altto, Howard Crook, tenori, ja Klaus Mertens, basso, sekä Rheinische Kantorei ja Das Kleine Konzert/Hermann Max).
         series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-04-21T06:30:00+03:00'
@@ -174,14 +210,26 @@ data:
         description: |
           Varjoisat nurkat kätkevät hämäräänsä meitä tarkkailevia olentoja, joiden aikeita emme ymmärrä. Väreileviä tikku-ukkoja taas ei voi olla huomaamatta, niin outoja ne ovat. Mustasilmäiset lapset ilmestyvät esittämään harmittoman oloisia pyyntöjä, mutta huokuvat luonnotonta uhkaa. Internet on tuonut yhteen hirviöiden näkijät ja tarinat. Outopodcastissa folkloristi ja historian harrastaja Katja Merituuli Salminen kertoo selittämättömistä tapauksista ja historiallisista mysteereistä, joista on tullut kuolemattomia kulkutarinoita.
         series: Outopodcast
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Pääsiäisen hyvät, pahat ja heikot'
         start_time: '2025-04-21T21:28:00+03:00'
         end_time: '2025-04-21T22:17:00+03:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
+        description: |-
+          Tiedeykkösessä otetaan lähempään tarkasteluun neljä henkilöä, jotka Raamatun mukaan vaikuttivat Jeesus Nasaretilaisen elämän tärkeimmissä kohtauksissa: Magdalan Maria, Simon Pietari, epäilevä Tuomas sekä Juudas Iskariot. 
+
+          Ohjelman haastateltavina ovat Kuopion hiippakunnan emerituspiispa ja eksegetiikan dosentti Wille Riekkinen sekä Helsingin yliopiston Uuden testamentin eksegetiikan dosentti ja yliopistonlehtori Outi Lehtipuu. Toimittaja on Riikka Suikkari. 
+
+          Ohjelmaan liittyy myös testi, joka kertoo, kuinka hyvin tunnet hiljaisen viikon henkilöhahmot.
+        series: Tiedeykkönen
+      - title: 'Suuren meriseikkailun jäljillä: Höyrylaiva päätyy rautaesiripun taakse'
         start_time: '2025-04-21T22:25:00+03:00'
         end_time: '2025-04-21T22:44:30+03:00'
+        description: |
+          Jatkosodan jälkeen Suomi joutui luovuttamaan monia omia laivojaan Neuvostoliittoon sotakorvauksina. Kun Neuvostoliitto sai tietää kuinka hyvä laiva jäätä Helsingin satamassa murtaa, se halusi listalle myös tämän uutukaisen laivan. Se nimi oli S/S Turso. Höyrykoneella käyvä satamajäänmurtaja. Miksi laiva teki niin suuren vaikutuksen entiseen viholliseen ja kuinka Turso sitten vuosia myöhemmin saatiin takaisin?
+
+          Höyrylaiva päätyy rautaesiripun taakse -osan vieraina ovat puheenjohtaja Pekka Snellman ja merihisrorian harrastaja Rami Wirrankoski.
+
+          Toimittaja Jukka Kuosmanen. 
+        series: Suuren meriseikkailun jäljillä
       - title: Näistä levyistä en luovu
         start_time: '2025-04-21T22:45:00+03:00'
         end_time: '2025-04-21T23:39:00+03:00'
