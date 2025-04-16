@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-15T02:33:09.813357+00:00'
+  generated_at: '2025-04-16T02:33:04.560279+00:00'
   git:
     branch: main
-    commit: ec5e095f6fbc6f5b263a07ba57ab79b1d06fb975
-  data_hash: d5a0ec0ab30671d74ea7a3ce4c593ed681505a79adba654eb3434382e2cbeed7
+    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
+  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
 data:
   Yle Radio 1:
     programmes:
@@ -95,11 +95,11 @@ data:
         description: |
           Liturgina saamelaispappi Mari Valjakka. Saarnaajana piispa Jukka Keskitalo. Kanttoreina Tarleena Ylönen ja Pasi Tikka. Sálbmagirji/Virret: Vk53; Sg396; Vk52:1-3; Sg140; Sg 926; Vk 959; Vk 910 (suomi/saame)
         series: Jumalanpalvelukset radiossa
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Der Herr ist Auferstanden!'
         start_time: '2025-04-21T11:00:00+03:00'
         end_time: '2025-04-21T11:57:00+03:00'
         description: |
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+          Miltä barokin ylösnousemus kuulostaa ilman Bachia? Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
         series: Välilevyjä - Kare Eskola
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T12:00:00+03:00'
@@ -114,8 +114,10 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-21T13:00:00+03:00'
         end_time: '2025-04-21T15:00:00+03:00'
+        description: |
+          Radio 1:n iltapäivän monipuolinen musiikkikattaus etnosta kevyen jazzin kautta populaarimusiikin helmiin. N. klo 13.15 studiovieraana Erätauko säätiön toimitusjohtaja Laura Arikka. N. klo 14 studiovieraana Benelux-maiden merimieskirkon johtaja ja merimiespappi Jaakko Heinimäki. 
         series: Radio 1:n iltapäivä
-      - title: 'Taiteilijatapaaminen: tanssiammattilaiset Helena Ahti-Hallberg & Nina Hyvärinen'
+      - title: 'Taiteilijatapaaminen: Helena Ahti-Hallberg & Nina Hyvärinen – tanssin kautta voi nousta kivusta iloon'
         start_time: '2025-04-21T15:00:00+03:00'
         end_time: '2025-04-21T15:55:00+03:00'
         description: |
@@ -235,3 +237,37 @@ data:
         end_time: '2025-04-21T23:39:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Yöklassinen
+        start_time: '2025-04-21T23:40:00+03:00'
+        end_time: '2025-04-22T06:30:00+03:00'
+        description: |-
+          Praetorius: Ostermesse (Pääsiäismessu) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          00:49 Schmitt: Suite en rocaille (Mirage-kvintetti).
+
+          01:03 Marais: La Sonnerie de Sainte-Geneviève du Mont de Paris (Alice Harnoncourt, viulu, Nikolaus Harnoncourt, viola da gamba, ja Herbert Tachezi,cembalo).
+
+          01:13 Loeffler: Rapsodia n:o 2 (Säkkipilli) (London Conchord Ensemble).
+
+          01:25 Schumann: Bunte Blätter -kokoelma pianolle (Arkadi Volodos). 
+
+          02:00 Wagner: Mignonne (Rakkaani) (Thomas Hampson, baritoni, ja Geoffrey Parsons, piano).
+
+          02:04 Revueltas: Jousikvartetto n:o 2 (Magueyes) (Cuarteto Latinoamericano).
+
+          02:15 Kalinnikov: Sinfonia n:o 2 A-duuri (Skotlannin kansallisork./Neeme Järvi).
+
+          02:53 Bortnjanski: Konsertot kuorolle n:ot 10-16 (Venäjän valtion sinfoniakuoro/Valeri Poljanski).
+
+          03:56 Heininen: Pääsiäispassacaglia (Jan Lehtola, urut).
+
+          04:06 W.A. Mozart: Sonaatti pianolle ja viululle n:o 34 A-duuri (Cérdic Tiberghien ja Alina Ibragimova).
+
+          04:32 Tshaikovski: Sarja orkesterille n:o 2 C-duuri (Detroitin SO/Neeme Järvi). 
+
+          05:13 Roman: Ruotsalainen messu (Anna Jobrant, sopraano, Amanda Flodin, mezzosopraano, Karl Peter Eriksson, basso, ja Göteborg Baroque/Magnus Kjellson, urkuklaveeri). 
+
+          06:01 Händel: Sarja cembalolle n:o 7 g-molli (Lisa Smirnova, piano).
+
+          06:17 Corelli: Sonaatti viululle ja continuolle n:o 3 C-duuri op.5/3 (Sigiswald Kuijken, viulu, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+        series: Syventävää klassista

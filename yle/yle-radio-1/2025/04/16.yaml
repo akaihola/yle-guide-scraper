@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-15T02:33:08.202038+00:00'
+  generated_at: '2025-04-16T02:32:47.215108+00:00'
   git:
     branch: main
-    commit: ec5e095f6fbc6f5b263a07ba57ab79b1d06fb975
-  data_hash: d5a0ec0ab30671d74ea7a3ce4c593ed681505a79adba654eb3434382e2cbeed7
+    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
+  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
 data:
   Yle Radio 1:
     programmes:
@@ -101,6 +101,16 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-16T08:10:00+03:00'
         end_time: '2025-04-16T09:00:00+03:00'
+        description: |
+          Perussuomalaiset on myllerryksessä alue- ja kuntavaalien jäljiltä. Puolueen kannatusromahduksen seurauksia analysoimassa politiikantoimittaja Marko Junkkari Helsingin Sanomista, yhteiskunta-toimituksen uutispäällikkö Elli Harju Iltalehdestä ja tutkijatohtori Theodora Helimäki Helsingin yliopistosta.   
+
+          Millaisia ovat korkeakouluopiskelijoiden lapsitoiveet ja esteet lasten hankkimiselle? Haastattelussa tutkimuspäällikkö Johanna Närvi Terveyden ja hyvinvoinnin laitoksesta.
+
+          Yhdysvaltain tuontitullikorotukset kurittaisivat eritoten köyhiä maita. Esimerkiksi Afrikassa riskit ovat nyt suurimmat Lesotholle, Madagaskarille, Etelä-Afrikalle ja Ghanalle. Kenian Nairobista raportoi kirjeenvaihtaja Eeva Eronen. Keskustelemassa maailmanpolitiikan professori Teivo Teivainen Helsingin yliopistosta ja 
+          vaikuttamistyön johtaja Ilmari Nalbantoglu kehitysyhteistyön kattojärjestöstä Fingosta. 
+
+          Juontaja Markus Liimatainen, toimittajat Roope Kariniemi ja Hinni Aarninsalo, tuottaja Anna-Maria Haarala. 
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-16T09:00:00+03:00'
         end_time: '2025-04-16T09:05:00+03:00'
@@ -144,14 +154,18 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-16T12:00:00+03:00'
         end_time: '2025-04-16T12:10:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Venäjä toimittaja Arja Paanasen silmin'
         start_time: '2025-04-16T12:10:00+03:00'
         end_time: '2025-04-16T12:59:30+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        series: Kalle Haatanen
       - title: Politiikkaradio
         start_time: '2025-04-16T13:00:00+03:00'
         end_time: '2025-04-16T13:30:00+03:00'
+        description: |
+          Mitä vaikutusta vaalien tuloksella on hallituksen politiikkaan? Haastattelussa politiikantutkijat Johanna Vuorelma ja Veikko Isotalo Helsingin yliopistosta. Toimittajana on Linda Pelkonen.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-16T13:30:00+03:00'
         end_time: '2025-04-16T15:00:00+03:00'
@@ -212,7 +226,7 @@ data:
         start_time: '2025-04-16T17:10:00+03:00'
         end_time: '2025-04-16T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kiina ja Yhdysvallat ovat olleet kauppasodassa jo vuosia, mutta Trumpin asettamat tullit lisäsivät siihen uusia kierroksia. Miten Kiina hyötyy kauppasodasta? Reetta Röngän vieraana on väistyvä Ylen Aasian-kirjeenvaihtaja Mika Hentunen. 
         series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Soljuvan lyyrisiä vähemmistökieliä'
         start_time: '2025-04-16T17:35:00+03:00'
@@ -255,12 +269,16 @@ data:
       - title: Politiikkaradio
         start_time: '2025-04-16T21:05:00+03:00'
         end_time: '2025-04-16T21:34:30+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Pitääkö lepo ansaita?'
         start_time: '2025-04-16T21:35:00+03:00'
         end_time: '2025-04-16T22:25:00+03:00'
+        description: |
+          Meillä on kulttuurissamme lukuisia aikaansaamista ja tekemistä arvostavia sanontoja kuten: Vie mennessä ja tuo tullessas. Ensin työ ja sitten huvi. Kuolema kuittaa univelat.
+          Mitä nämä sanonnat kertovat meidän kulttuuristamme? Lepo on meille välttämätöntä, mutta miksi pelkkä ajatuskin lepäämisestä voi tuntua pelottavalta? Toimittaja Satu Kivelä keskustelee levosta ja suorittamisesta yhteiskunnallisen ja kulttuuristen näkökulmien kautta yhdessä sosiologi Tiina Helinin ja tutkija Mona Mannevuon kanssa. 
+        series: Havaintoja muutoksesta
       - title: 'Radioteatteri esittää: Valumisia'
         start_time: '2025-04-16T22:30:00+03:00'
-        end_time: '2025-04-16T23:12:30+03:00'
+        end_time: '2025-04-16T23:24:05+03:00'
         description: |
           Valumisia on kuunnelma, joka vie läntisen Afrikan sivukujille, Punavuoreen, Kalkuttaan, hiekkaisille teille. Vie ja kysyy kuulijaltaan, mitä elämässä kulkee ruumiidemme ja talojemme läpi. Ja mitä meistä jää jäljelle?
       - title: Yöklassinen

@@ -1,12 +1,46 @@
 metadata:
-  generated_at: '2025-04-15T02:33:10.206096+00:00'
+  generated_at: '2025-04-16T02:33:05.118716+00:00'
   git:
     branch: main
-    commit: ec5e095f6fbc6f5b263a07ba57ab79b1d06fb975
-  data_hash: d5a0ec0ab30671d74ea7a3ce4c593ed681505a79adba654eb3434382e2cbeed7
+    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
+  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-04-21T23:40:00+03:00'
+        end_time: '2025-04-22T06:30:00+03:00'
+        description: |-
+          Praetorius: Ostermesse (Pääsiäismessu) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          00:49 Schmitt: Suite en rocaille (Mirage-kvintetti).
+
+          01:03 Marais: La Sonnerie de Sainte-Geneviève du Mont de Paris (Alice Harnoncourt, viulu, Nikolaus Harnoncourt, viola da gamba, ja Herbert Tachezi,cembalo).
+
+          01:13 Loeffler: Rapsodia n:o 2 (Säkkipilli) (London Conchord Ensemble).
+
+          01:25 Schumann: Bunte Blätter -kokoelma pianolle (Arkadi Volodos). 
+
+          02:00 Wagner: Mignonne (Rakkaani) (Thomas Hampson, baritoni, ja Geoffrey Parsons, piano).
+
+          02:04 Revueltas: Jousikvartetto n:o 2 (Magueyes) (Cuarteto Latinoamericano).
+
+          02:15 Kalinnikov: Sinfonia n:o 2 A-duuri (Skotlannin kansallisork./Neeme Järvi).
+
+          02:53 Bortnjanski: Konsertot kuorolle n:ot 10-16 (Venäjän valtion sinfoniakuoro/Valeri Poljanski).
+
+          03:56 Heininen: Pääsiäispassacaglia (Jan Lehtola, urut).
+
+          04:06 W.A. Mozart: Sonaatti pianolle ja viululle n:o 34 A-duuri (Cérdic Tiberghien ja Alina Ibragimova).
+
+          04:32 Tshaikovski: Sarja orkesterille n:o 2 C-duuri (Detroitin SO/Neeme Järvi). 
+
+          05:13 Roman: Ruotsalainen messu (Anna Jobrant, sopraano, Amanda Flodin, mezzosopraano, Karl Peter Eriksson, basso, ja Göteborg Baroque/Magnus Kjellson, urkuklaveeri). 
+
+          06:01 Händel: Sarja cembalolle n:o 7 g-molli (Lisa Smirnova, piano).
+
+          06:17 Corelli: Sonaatti viululle ja continuolle n:o 3 C-duuri op.5/3 (Sigiswald Kuijken, viulu, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-04-22T06:30:50+03:00'
         end_time: '2025-04-22T06:50:00+03:00'
@@ -101,6 +135,7 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-22T13:30:00+03:00'
         end_time: '2025-04-22T15:00:00+03:00'
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-04-22T15:00:00+03:00'
         end_time: '2025-04-22T15:02:00+03:00'
@@ -166,10 +201,10 @@ data:
         end_time: '2025-04-22T19:02:00+03:00'
       - title: 'Radioteatteri esittää:'
         start_time: '2025-04-22T19:02:40+03:00'
-        end_time: '2025-04-22T19:20:00+03:00'
+        end_time: '2025-04-22T19:22:00+03:00'
       - title: 'Radioteatteri esittää:'
-        start_time: '2025-04-22T19:20:00+03:00'
-        end_time: '2025-04-22T19:45:00+03:00'
+        start_time: '2025-04-22T19:22:00+03:00'
+        end_time: '2025-04-22T19:44:00+03:00'
       - title: Tiistain kulttuurisarja
         start_time: '2025-04-22T20:00:00+03:00'
         end_time: '2025-04-22T20:20:00+03:00'
@@ -203,4 +238,35 @@ data:
         start_time: '2025-04-22T23:40:00+03:00'
         end_time: '2025-04-23T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Vallet: Sarja luutulle (Toyohiko Satoh, renessanssiluuttu).
+
+          00:03 J. Haydn: Sinfonia n:o 59 A-duuri (Tuli) (St. Martin-in-the-Fields -kamariork./Neville Marriner).
+
+          00:20 Anonyymi: Ylistyslauluja Neitsyt Marialle 1200- ja 1300-luvuilta (Radion kamarikuoron naisäänet/Debra Gomez-Tapio ja Titta Lampela, sopraano).
+
+          01:14 Verdi: Balettimusiikkia oopp. Jérusalem (Bournemouthin SO/José Serebrier).
+
+          01:37 Schuncke: Pianosonaatti g-molli (Grande sonate) (Gregor Weichert).
+
+          02:02 Schubert: Sinfonia n:o 3 D-duuri (Les Musiciens du Louvre/Marc Minkowski).
+
+          02:26 Vasks: Te Deum (Tuomas Pyrhönen, Riian tuomiokirkon urut).
+
+          02:39 Bruch: Jousikvartetto c-molli (Diogenes-kvartetti).
+
+          03:07 Mendelssohn: Auf dem See (Järvellä) (Leipzigin radiokuoro/Horst Neumann).
+
+          03:10 Kuula: Kolme satukuvaa (Juhani Lagerspetz, piano).
+
+          03:25 Rodrigo: Fantasia para un gentilhombre (Fantasia aatelismiehelle) (Göran Söllscher, kitara, ja Orpheus-kamariork.).
+
+          03:49 Vaughan Williams: Leivo nousee korkeuksiin (Hilary Hahn, viulu, ja Lontoon SO/Colin Davis).
+
+          04:05 Saint-Saëns: Sinfonia n:o 2 a-molli (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          04:28 Franck: Sonaatti viululle ja pianolle A-duuri (Christian Ferras ja Pierre Barbizet).
+
+          04:59 Boccherini: Kitarakvintetto D-duuri, Kitarakvintetto e-molli ja Jousikvintetto A-duuri (David Starobin ja Marlboron musiikkijuhlien kamariyhtye).
+
+          05:59 Palestrina: Tu es Petrus (Sinä olet Pietari), messu (Cambridgen King's Collegen kuoro/Stephen Cleobury).
+        series: Syventävää klassista
