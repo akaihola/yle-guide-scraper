@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-16T02:33:11.116876+00:00'
+  generated_at: '2025-04-17T02:32:37.489822+00:00'
   git:
     branch: main
-    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
-  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
+    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
+  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
 data:
   Yle Radio 1:
     programmes:
@@ -107,10 +107,22 @@ data:
       - title: Yle Uutiset
         start_time: '2025-05-05T15:00:00+03:00'
         end_time: '2025-05-05T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Rajojen rikkojat-näyttely nostaa esille 1800-luvun naistaiteilijoiden aateliston joka maalasi nättejä teoksia'
         start_time: '2025-05-05T15:02:00+03:00'
         end_time: '2025-05-05T15:55:00+03:00'
         description: |
+          Millä tavalla 1800-luvun suomalaiset naistaiteilijat rahoittivat ulkomaanmatkansa? Millä tavalla he toivat oppinsa muille maamme naistaiteilijoille? Tänä aikana naiset joutuivat valitsemaan uran ja perheen välillä, eikä heillä ollut vielä äänioikeutta. Miten tämän ajan naistaiteilijat valitsivat aiheensa, näkyykö jo emansipaatio? Nämä taiteilijat opiskelivat ja työskentelivät Saksassa 1800-luvulla. 
+
+          Näyttelyn suomalaisia taiteilijoita ovat muun muassa Fanny Churberg, Alexandra Frosterus-Såltin, Ida Silfverberg ja Victoria Åberg. Miten he eroavat näyttelyssä esillä olevista tanskalaisista ja ruotsalaisista taiteilijoista? Näyttelyssä on herkullisia potretteja joissa puvut ja korut ovat keskiössä. Toisissa teoksissa kuvataan pyhiinvaelluksia, hartaita hetkiä ja toipilaita. Kaikkein rohkeinta oli kun naistaiteilija maalasi miehistä muotokuvia. Miksi miestaiteilijat kutsuivat naisten maalauksia näteiksi? Mitkä olivat suotavia siveitä aiheita? Millä tavalla tämä rajoitti naistaiteilijoiden kehitystä?
+
+          Ohjelman vieraina ovat amanuenssit Anne-Maria Pennonen ja Hanne Selkokari, taidehistorian dosentti Liisa Lindgren ja muotihistorioitsija Katri Pyysalo.
+
+          Rajojen rikkojat-näyttely tuo yhteen 1800-luvun matkustavien naistaiteilijoiden työtä, Ateneum 7.3.–24.8.2025. 
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+          Ohjelma on uusinta maaliskuulta 2025.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
         series: Kulttuuriykkönen
       - title: Yle News

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-16T02:32:58.694983+00:00'
+  generated_at: '2025-04-17T02:32:31.558251+00:00'
   git:
     branch: main
-    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
-  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
+    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
+  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
 data:
   Yle Radio 1:
     programmes:
@@ -30,12 +30,24 @@ data:
       - title: Aamuklassinen
         start_time: '2025-04-19T06:30:00+03:00'
         end_time: '2025-04-19T07:00:00+03:00'
+        description: |-
+          Sainz de la Maza: Aamun kellot (David Russell, kitara).
+
+          J.S. Bach: Pääsiäisen urkukoraalit kok. Orgelbüchlein 2 (BWV 625-630).
+          (Wolfgang Rübsam).
+
+          Tshaikovski: Serenade melancolique (James Ehnes, viulu, ja Sydneyn SO/Vladimir Ashkenazy).
+        series: Yle Klassinen
       - title: Yle Uutiset
         start_time: '2025-04-19T07:00:00+03:00'
         end_time: '2025-04-19T07:02:05+03:00'
-      - title: Kulttuurin kulmilla
+      - title: 'Kulttuurin kulmilla: Matteus'
         start_time: '2025-04-19T07:20:30+03:00'
         end_time: '2025-04-19T07:30:00+03:00'
+        description: |
+          Matteus 
+          Timo Teräsvuori Bachin suurteoksen keskellä. 
+        series: Kulttuurin kulmilla
       - title: 'Luomiskertomus: Laura Lähteenmäki kirjoitti kirjan Elias Lönnrotin vaimosta '
         start_time: '2025-04-19T07:31:00+03:00'
         end_time: '2025-04-19T07:56:00+03:00'
@@ -115,7 +127,7 @@ data:
         start_time: '2025-04-19T11:00:00+03:00'
         end_time: '2025-04-19T11:55:00+03:00'
         description: |
-          Géza Ellák Jenő Szilvay kertoo elämänsä tärkeistä musiikeista. Toimittaja on Miikkiapekka Heikkilä.
+          Géza Ellák Jenő Szilvay kertoo elämänsä tärkeistä musiikeista. Toimittaja on Miikkapekka Heikkilä.
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-04-19T11:57:00+03:00'
@@ -126,9 +138,19 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-19T12:00:00+03:00'
         end_time: '2025-04-19T12:05:00+03:00'
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Trumpin hallintoa arvostellut paavi saa kritiikkiä USA:sta'
         start_time: '2025-04-19T12:05:00+03:00'
         end_time: '2025-04-19T12:30:00+03:00'
+        description: |-
+          Katolisen kirkon johtaja paavi Franciscus on kritisoinut presidentti Donald Trumpin hallinnon maahanmuuttopolitiikkaa massakarkotuksineen. Samalla myös osa yhdysvaltalaisista katolilaisista arvostelee paavia liian vapaamieliseksi.
+
+          Ohjelmassa kuullaan paavia arvostelevan yhdysvaltalaisjärjestön edustajalta, miksi järjestö katsoo paavin epäonnistuneen kirkkoisänä. Järjestö on avoimesti Trumpin politiikan puolella.
+
+          Yhdysvaltalaistutkijan mukaan viime vaaleissa katoliset tukivat sankoin joukoin Trumpia. Tutkimusnäyttöä on myös siitä, että Yhdysvalloissa nuoremmat sukupolvet, etenkin miehet, ovat palaamassa perinteisempään ja konservatiivisempaan katolilaisuuteen.
+
+          Ohjelmassa käydään Vatikaanissa Pietarinkirkon aukiolla kysymässä katolilaisten ajatuksia paavistaan. Lisäksi kuullaan katolilaisuuden asiantuntijoilta Italiasta ja Suomesta, mihin suuntaan paavi Franciscus on kirkkoa vienyt.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Mikko Kymäläinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
         series: Maailmanpolitiikan arkipäivää
       - title: 'Siivekkäät J5:  Perhonen – toukka, joka oppii lentämään'
         start_time: '2025-04-19T12:30:00+03:00'
@@ -202,11 +224,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-19T17:00:00+03:00'
         end_time: '2025-04-19T17:10:00+03:00'
-      - title: Miia Krause
+      - title: 'Miia Krause '
         start_time: '2025-04-19T17:10:00+03:00'
         end_time: '2025-04-19T17:57:00+03:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Mikko Alatalo: "Kun tein "Siirtomaa-Suomen laulut" -trilogialevyn oli se vakava juttu. Sitten menin voittamaan neljä kertaa Syksyn Sävelen joka teki musta koko kansan Mikon. Se oli joillekin kriitikoille liikaa." Ohjelma on uusinta. 
+        series: Miia Krause
       - title: Iltahartaus
         start_time: '2025-04-19T18:00:00+03:00'
         end_time: '2025-04-19T18:10:00+03:00'
@@ -217,7 +240,7 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2025-04-19T18:10:00+03:00'
         end_time: '2025-04-19T19:00:00+03:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
         series: Lauantain toivotut levyt
       - title: Yle Uutiset ja sää
@@ -226,23 +249,28 @@ data:
       - title: Helsingin Barokkiorkesteri - Stabat Mater
         start_time: '2025-04-19T19:02:00+03:00'
         end_time: '2025-04-19T20:25:00+03:00'
-        description: |-
-          Neitsyt Marian kärsimystä poikansa ristin äärellä kuvaavat kristillisen hymnin aiheet 1200-luvulta  heräävät eloon renessanssin ja varhaisen barokin sävelin pitkäperjantaina soitetussa Stabat Mater -konsertissa. Solistina on barokkilaulun säteilevä tähti, portugalilainen sopraano Ana Vieira Leite. Helsingin Musiikkitalossa 18.4. tallennetun konsertin toimittaa Riikka Holopainen.
-
-          Ana Vieira Leite, sopraano
-          Helsingin Barokkiorkesteri, joht. Aapo Häkkinen
-          Buxtehude, Monteverdi, Victoria
-
-          Kuvassa: Ana Vieira Leite
+        description: |
+          Neitsyt Marian kärsimystä poikansa ristin äärellä kuvaavat kristillisen hymnin aiheet 1200-luvulta heräävät eloon renessanssin ja varhaisen barokin sävelin pitkäperjantaina soitetussa Stabat Mater -konsertissa. Ana Vieira Leite, sopraano. Helsingin barokkiorkesteri, joht. Aapo Häkkinen. -Helsingin musiikkitalossa 18.4. äänitetyn konsertin toimittaa Riikka Holopainen.
         series: Konsertteja
       - title: 'Outopodcast: E.T. lähtee kotiin'
         start_time: '2025-04-19T21:05:00+03:00'
         end_time: '2025-04-19T21:27:00+03:00'
         description: |
           Thaimaalaisella pellolla vierailee olento, jonka fysiikan lakien mukaan ei pitäisi olla olemassa. Flatwoodsin kylän laidalle tippuu yötaivaalta jotain kirkasta, jonka jäänteitä ryhmä nuoria lähtee uhkarohkeasti tutkimaan. Kaikki tuntematon ei kuitenkaan ole ystävällistä. Outopodcastissa folkloristi ja historian harrastaja Katja Merituuli Salminen kertoo selittämättömistä tapauksista ja historiallisista mysteereistä, joista on tullut kuolemattomia kulkutarinoita.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Trumpin hallintoa arvostellut paavi saa kritiikkiä USA:sta'
         start_time: '2025-04-19T21:29:00+03:00'
         end_time: '2025-04-19T21:54:00+03:00'
+        description: |-
+          Katolisen kirkon johtaja paavi Franciscus on kritisoinut presidentti Donald Trumpin hallinnon maahanmuuttopolitiikkaa massakarkotuksineen. Samalla myös osa yhdysvaltalaisista katolilaisista arvostelee paavia liian vapaamieliseksi.
+
+          Ohjelmassa kuullaan paavia arvostelevan yhdysvaltalaisjärjestön edustajalta, miksi järjestö katsoo paavin epäonnistuneen kirkkoisänä. Järjestö on avoimesti Trumpin politiikan puolella.
+
+          Yhdysvaltalaistutkijan mukaan viime vaaleissa katoliset tukivat sankoin joukoin Trumpia. Tutkimusnäyttöä on myös siitä, että Yhdysvalloissa nuoremmat sukupolvet, etenkin miehet, ovat palaamassa perinteisempään ja konservatiivisempaan katolilaisuuteen.
+
+          Ohjelmassa käydään Vatikaanissa Pietarinkirkon aukiolla kysymässä katolilaisten ajatuksia paavistaan. Lisäksi kuullaan katolilaisuuden asiantuntijoilta Italiasta ja Suomesta, mihin suuntaan paavi Franciscus on kirkkoa vienyt.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Mikko Kymäläinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+        series: Maailmanpolitiikan arkipäivää
       - title: 'Minne Rinne vie: Jeesus iholla'
         start_time: '2025-04-19T22:00:30+03:00'
         end_time: '2025-04-19T22:20:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-16T02:33:04.560279+00:00'
+  generated_at: '2025-04-17T02:32:32.305959+00:00'
   git:
     branch: main
-    commit: 9104da23b0fc768a2da6173b49775bc98b4b6398
-  data_hash: d676fde9bdf12b8a279a71178f6b52ab0b256837b4920e09d582567a85f568d1
+    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
+  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
 data:
   Yle Radio 1:
     programmes:
@@ -52,13 +52,26 @@ data:
       - title: Aamuklassinen
         start_time: '2025-04-21T06:30:00+03:00'
         end_time: '2025-04-21T08:00:00+03:00'
+        description: |-
+          Telemann: Meines Bleibens ist nicht hier (René Jacobs, kontratenori, ja Akademie für alte Musik Berlin)
+
+          Roman: Oboekonsertto B-duuri (Anthony Robson ja Valistuksen ajan ork./ Anthony Halstead).
+
+          Tallis: When shall my sorrowful sighing slake (The King's Noyse). 
+
+          Sarja orkesterille Georg Muffat'n ja Jean-Baptiste Lullyn teoksista. (Armonico Tributo Austria/Lorenz Duftschmid).
+
+          Anonyymi (1500-l.): Patientam muess ich han (Piffaro).
+
+          Vivaldi: Le Quattro stagioni (Neljä vuodenaikaa). (Elizabeth Blumenstock, viulu, ja Philharmonia-barokkiork.).
+        series: Yle Klassinen
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T08:00:00+03:00'
         end_time: '2025-04-21T08:05:00+03:00'
         series: Yle Uutiset
       - title: 'Tiedeykkönen: Pääsiäisen hyvät, pahat ja heikot'
         start_time: '2025-04-21T08:06:00+03:00'
-        end_time: '2025-04-21T08:53:00+03:00'
+        end_time: '2025-04-21T08:52:37+03:00'
         description: |-
           Tiedeykkösessä otetaan lähempään tarkasteluun neljä henkilöä, jotka Raamatun mukaan vaikuttivat Jeesus Nasaretilaisen elämän tärkeimmissä kohtauksissa: Magdalan Maria, Simon Pietari, epäilevä Tuomas sekä Juudas Iskariot. 
 
@@ -208,23 +221,20 @@ data:
         end_time: '2025-04-21T21:02:00+03:00'
       - title: 'Outopodcast: Varjo-olento valvoo vuoteesi vieressä'
         start_time: '2025-04-21T21:05:00+03:00'
-        end_time: '2025-04-21T21:27:00+03:00'
+        end_time: '2025-04-21T21:25:56+03:00'
         description: |
           Varjoisat nurkat kätkevät hämäräänsä meitä tarkkailevia olentoja, joiden aikeita emme ymmärrä. Väreileviä tikku-ukkoja taas ei voi olla huomaamatta, niin outoja ne ovat. Mustasilmäiset lapset ilmestyvät esittämään harmittoman oloisia pyyntöjä, mutta huokuvat luonnotonta uhkaa. Internet on tuonut yhteen hirviöiden näkijät ja tarinat. Outopodcastissa folkloristi ja historian harrastaja Katja Merituuli Salminen kertoo selittämättömistä tapauksista ja historiallisista mysteereistä, joista on tullut kuolemattomia kulkutarinoita.
         series: Outopodcast
-      - title: 'Tiedeykkönen: Pääsiäisen hyvät, pahat ja heikot'
+      - title: 'Tiedeykkönen: Kuolema - miten kaikki loppuu ja mitä sen jälkeen tapahtuu?'
         start_time: '2025-04-21T21:28:00+03:00'
-        end_time: '2025-04-21T22:17:00+03:00'
+        end_time: '2025-04-21T22:17:32+03:00'
         description: |-
-          Tiedeykkösessä otetaan lähempään tarkasteluun neljä henkilöä, jotka Raamatun mukaan vaikuttivat Jeesus Nasaretilaisen elämän tärkeimmissä kohtauksissa: Magdalan Maria, Simon Pietari, epäilevä Tuomas sekä Juudas Iskariot. 
-
-          Ohjelman haastateltavina ovat Kuopion hiippakunnan emerituspiispa ja eksegetiikan dosentti Wille Riekkinen sekä Helsingin yliopiston Uuden testamentin eksegetiikan dosentti ja yliopistonlehtori Outi Lehtipuu. Toimittaja on Riikka Suikkari. 
-
-          Ohjelmaan liittyy myös testi, joka kertoo, kuinka hyvin tunnet hiljaisen viikon henkilöhahmot.
+          Mitkä ovat kuoleman mekanismit ja millaiset ovat viimeiset hetket ennen kuolemaa. Millaisista merkeistä lääkäri osaa päätellä, että kuolema on lähellä? Mitä ruumiissa tapahtuu kuoleman jälkeen? 
+          Haastateltavina ovat palliatiivisen lääketieteen professori Reino Pöyhiä Itä-Suomen yliopistosta ja oikeuslääkäri, dosentti Lasse Pakanen Terveyden ja hyvinvoinnin laitokselta ja Oulun yliopistosta. Toimittaja Mari Heikkilä.
         series: Tiedeykkönen
       - title: 'Suuren meriseikkailun jäljillä: Höyrylaiva päätyy rautaesiripun taakse'
-        start_time: '2025-04-21T22:25:00+03:00'
-        end_time: '2025-04-21T22:44:30+03:00'
+        start_time: '2025-04-21T22:25:05+03:00'
+        end_time: '2025-04-21T22:42:24+03:00'
         description: |
           Jatkosodan jälkeen Suomi joutui luovuttamaan monia omia laivojaan Neuvostoliittoon sotakorvauksina. Kun Neuvostoliitto sai tietää kuinka hyvä laiva jäätä Helsingin satamassa murtaa, se halusi listalle myös tämän uutukaisen laivan. Se nimi oli S/S Turso. Höyrykoneella käyvä satamajäänmurtaja. Miksi laiva teki niin suuren vaikutuksen entiseen viholliseen ja kuinka Turso sitten vuosia myöhemmin saatiin takaisin?
 
@@ -232,11 +242,17 @@ data:
 
           Toimittaja Jukka Kuosmanen. 
         series: Suuren meriseikkailun jäljillä
-      - title: Näistä levyistä en luovu
-        start_time: '2025-04-21T22:45:00+03:00'
-        end_time: '2025-04-21T23:39:00+03:00'
+      - title: 'Näistä levyistä en luovu: Géza Szilvay '
+        start_time: '2025-04-21T22:43:19+03:00'
+        end_time: '2025-04-21T23:37:38+03:00'
+        description: |
+          Géza Ellák Jenő Szilvay kertoo elämänsä tärkeistä musiikeista. Toimittaja on Miikkapekka Heikkilä.
+        series: Näistä levyistä en luovu
+      - title: Radio 1 soi
+        start_time: '2025-04-21T23:37:38+03:00'
+        end_time: '2025-04-21T23:40:00+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Beethoven: Usko, rakkaus ja toivo pianolle F-duuri (Ralf Gothóni, piano).
       - title: Yöklassinen
         start_time: '2025-04-21T23:40:00+03:00'
         end_time: '2025-04-22T06:30:00+03:00'
