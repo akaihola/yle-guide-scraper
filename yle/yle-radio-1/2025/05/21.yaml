@@ -1,17 +1,19 @@
 metadata:
-  generated_at: '2025-04-17T02:32:42.791092+00:00'
+  generated_at: '2025-04-18T02:31:39.897137+00:00'
   git:
     branch: main
-    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
-  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
+    commit: dea5b08deef0204c7198dbf948d5e749af56c827
+  data_hash: 012f30659e3e4c551b7ab69afa0a8112b9cb0326987b0927f9925fc5acbd89aa
 data:
   Yle Radio 1:
     programmes:
       - title: Aamuhartaus
         start_time: '2025-05-21T06:50:00+03:00'
         end_time: '2025-05-21T06:59:59+03:00'
-        description: |-
-          Nuorisotyönohjaaja Mauno Nivala, Lahti
+        description: |+
+          "Kuuntelua, vierellä kulkemista ja ääneti olemista"
+          Nuorisotyönohjaaja Mauno Nivala Lahdesta muistelee omaelämäkerrallisen hartaussarjansa neljännessä osassa tiensä alkua kirkon työntekijänä sekä matkan varrella saamiaan oppeja nuorten kanssa toimimiseen. (Sarja jatkuu 4/6).
+
         series: Aamuhartaus
       - title: Aamusoitto
         start_time: '2025-05-21T07:10:00+03:00'

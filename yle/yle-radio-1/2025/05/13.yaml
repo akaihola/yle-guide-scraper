@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-17T02:32:40.213420+00:00'
+  generated_at: '2025-04-18T02:31:38.198515+00:00'
   git:
     branch: main
-    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
-  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
+    commit: dea5b08deef0204c7198dbf948d5e749af56c827
+  data_hash: 012f30659e3e4c551b7ab69afa0a8112b9cb0326987b0927f9925fc5acbd89aa
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-13T09:05:40+03:00'
         end_time: '2025-05-13T09:58:00+03:00'
+        description: |-
+          Carter Cash - Kilgore: Ring of fire (Johnny Cash).
+          Styne: It's magic (Doris Day).
+          Gilkyson: Heimweh (Freddy Quinn).
+          Pepper/James: Pillow talk (Doris Day).
+          Modugno: Lazzarella (Umberto Marcato).
+          Nevins/Nevins/Dunn: Kun hämärtää (Seija Simola). 
+          Carmichael: In the cool, cool, cool of the evening (Bing Crosby & Jane Wyman).
+          Tenco: Lontano lontano (Luigi Tenco).
+          Loewe: I dina kvarter (Monica Zetterlund).
+          H. Bergström: Laulajan polku, elok. Kipparikvartetti (Kipparikvartetti).
+          Emmanuel/Rose: Halfway home (Tommy Emmanuel).
+          Williams: Onko syytä itkeä (There'll be no teardrops tonite) (Annikki Tähti).
+          Aznavour: Hier encore (Charles Aznavour).
+          Jurva: Väliaikainen (Vesa-Matti Loiri).
+        series: Muistojen bulevardi
       - title: Sari Valto
         start_time: '2025-05-13T10:00:00+03:00'
         end_time: '2025-05-13T10:55:00+03:00'
@@ -126,12 +142,18 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-13T19:00:00+03:00'
         end_time: '2025-05-13T19:02:00+03:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Laskettua aikaa: Tšernihiv 7/10'
         start_time: '2025-05-13T19:02:40+03:00'
         end_time: '2025-05-13T19:20:00+03:00'
-      - title: 'Radioteatteri esittää:'
+        description: |-
+          Nora ja Kalle uhmaavat vaaroja ja pomoaan auttaakseen Olhaa pelastamaan perheensä Tšernihivistä pommitusten keskeltä. Kun pelastusoperaatio on vihdoin onnistumassa, paluumatka johtaa odottamattomaan käänteeseen. Jälleen yksi tarkastuspiste, mutta kumman puolen?
+        series: Laskettua aikaa
+      - title: 'Laskettua aikaa: Häkkieläin 8/10'
         start_time: '2025-05-13T19:20:00+03:00'
         end_time: '2025-05-13T19:45:00+03:00'
+        description: |-
+          Venäläisten sotilaiden otettua Noran ja hänen matkakumppaninsa kiinni, tilanne muuttuu hengenvaaralliseksi. Kun ryhmä viedään venäläisten tukikohtaan, heitä kuulustellaan ja epäillään vakoilusta. Tilanne kärjistyy lopulta pahimpaan mahdolliseen. 
+        series: Laskettua aikaa
       - title: Tiistain kulttuurisarja
         start_time: '2025-05-13T20:00:00+03:00'
         end_time: '2025-05-13T20:20:00+03:00'

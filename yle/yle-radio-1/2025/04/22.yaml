@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-17T02:32:32.555434+00:00'
+  generated_at: '2025-04-18T02:31:32.272230+00:00'
   git:
     branch: main
-    commit: 70318d88ea7777e7e59906b933cc0f75e00e2a5b
-  data_hash: 3650a30dfaac054b433b205344ed20cf7ae3a35286d9f70d099c78fe18a00d44
+    commit: dea5b08deef0204c7198dbf948d5e749af56c827
+  data_hash: 012f30659e3e4c551b7ab69afa0a8112b9cb0326987b0927f9925fc5acbd89aa
 data:
   Yle Radio 1:
     programmes:
@@ -68,12 +68,14 @@ data:
       - title: Aamusoitto
         start_time: '2025-04-22T07:10:00+03:00'
         end_time: '2025-04-22T07:59:59+03:00'
-        description: |-
+        description: |+
           Chaminade: Romanza appasionata D-duuri (Michael Gross, sello, ja Johann Blanchard, piano). 
 
-          Hoffstetter: Andante cantabile (Suomalainen harppukvartetti).
+          Hoffstetter: Andante cantabile (Orpheus-kamariork.). 
 
-          F. Doppler: Metsälintu (Jean-Louis Beaumadier, pikkolohuilu, sekä Jean-Marc Dalmasso, Pascal Pongy, Sandro Faita ja Didier Huot, käyrätorvi).
+          van den Bergh: Lied (Frans van Ruth, piano).
+
+          F. Doppler: Metsälintu (John Solum, huilu, ja Lontoon FO:n käyrätorvet/Neville Dilkes).
 
           Melartin: Aamurukous teoksesta Seitsemän pientä kappaletta viululle ja pianolle op.82 (Petri Aarnio, viulu ja Juhani Lagerspetz, piano).
 
@@ -86,6 +88,7 @@ data:
           Ginastera: Danza del trigo (Rafael Gintoli, viulu, ja Maria Isabel Siewers, kitara).
 
           Vivaldi: Konsertto jousille ja continuolle B-duuri (Accademia Bizantina/Ottavio Dantone).
+
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-04-22T08:00:00+03:00'
@@ -93,6 +96,11 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-22T08:10:00+03:00'
         end_time: '2025-04-22T09:00:00+03:00'
+        description: |-
+          Hallitus kokoontuu tänään ja huomenna puoliväliriiheen neuvottelemaan vuosien 2026–2029 julkisen talouden suunnitelmasta. Neuvotteluiden poliittisista ennakkoasetelmista kertoo politiikantoimittaja Hannu Tikkala. Taloustilannetta analysoivat toimitusjohtaja Aki Kangasharju Elinkeinoelämän tutkimuslaitoksesta ja johtaja Mika Maliranta Työn ja talouden tutkimus Laboresta. 
+
+          Yhdysvaltain presidentin Donald Trumpin hallinto on puuttunut kovalla kädellä paikallisten yliopistojen toimintaan leikkaamalla rahoitusta ja rajoittamalla tutkimuskohteita. Alkaako amerikkalaistutkijoiden pako Eurooppaan? Keskustelemassa Helsingin yliopiston vararehtori Kai Nordlund ja  Tampereen yliopiston apulaisprofessori Rinna Kullaa, joka opetti viime syksynä maineikkaassa yhdysvaltalaisyliopistossa Harvardissa ja on edelleen sen tutkijalistalla.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-22T09:00:00+03:00'
         end_time: '2025-04-22T09:05:00+03:00'
@@ -127,19 +135,35 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Tyttö ja kuolema'
         start_time: '2025-04-22T11:00:00+03:00'
         end_time: '2025-04-22T11:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Franz Schubert, 27 vuotta, oli sairastunut kuppaan. Elämä ei hymyillyt. Silti hän jatkuvasti sävelsi, ja hyvin. Jousikvartetto no 14, "Tyttö ja kuolema", on teos täynnä vimmaa, melkein raivoa, mutta myös suurta lempeyttä ja jatkuvaa tunneilmaisun vaihtelua. Se kolahtaa edelleen, 200 vuotta säveltämisensä jälkeen. Eva Tigerstedt avaa polkuja musiikkiin.
+
+
+          Ohjelman musiikit: 
+
+          Franz Schubert (san. Matthias Claudius): Der Tod und das Mädchen (Tyttö ja kuolema), yksinlaulu D.531 op.7/3 (Jessye Norman, sopraano, ja Phillip Moll, piano).
+
+          Franz Schubert: Jousikvartetto n:o 14 d-molli D.810 op.posth. “Tyttö ja kuolema” (Artemis-kvartetti). 
         series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-04-22T11:57:00+03:00'
         end_time: '2025-04-22T12:00:00+03:00'
+        description: |-
+          Ote Janne Saarikiven teoksesta Rakkaat sanat.
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-04-22T12:00:00+03:00'
         end_time: '2025-04-22T12:10:00+03:00'
-      - title: Tiistain kulttuurisarja
+      - title: 'Tarua ja totta toisesta maailmansodasta. Tuntematon sotilas '
         start_time: '2025-04-22T12:10:40+03:00'
         end_time: '2025-04-22T12:30:00+03:00'
+        description: |
+          Edvin Laine ohjasi vuonna 1955 sotaelokuvan, josta tuli tärkeä osa suomalaista kansallistraditiota. Miksi Natsi-Saksan rinnalla käyty ja hävitty hyökkäyssota on kelvannut niin hyvin suomalaisten omakuvaksi? Mitä tapahtuisi, jos Tuntematonta sotilasta ei itsenäisyyspäivinä enää näytettäisikään televisiosta? Ohjelman vieraana on historiantutkija Oula Silvennoinen. 
+
+          Sarjan on toimittanut Jukka Kuosmanen.
+
+          Sarjassa keskustellaan siitä kuinka toisesta maailmansodasta tehdyt elokuvat ovat vaikuttaneet maailmankuvaamme ja käsitykseemme historiallisista tosiasioista. Sarja on vuodelta 2021.
+        series: Tarua ja totta toisesta maailmansodasta
       - title: 'Aristoteleen kantapää: Tietyt numerot toistuvat Raamatussa'
         start_time: '2025-04-22T12:30:00+03:00'
         end_time: '2025-04-22T12:55:00+03:00'
@@ -151,6 +175,9 @@ data:
       - title: Politiikkaradio
         start_time: '2025-04-22T13:00:00+03:00'
         end_time: '2025-04-22T13:30:00+03:00'
+        description: |
+          Laskeeko hallitus veroja ja leikkaa palveluja puoliväliriihessä? Keskustelemassa kansanedustajat Pia Kauma (kok.), Jani Mäkelä (ps.) ja Tytti Tuppurainen (sd.). Toimittajana on Linda Pelkonen.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-22T13:30:00+03:00'
         end_time: '2025-04-22T15:00:00+03:00'
@@ -160,11 +187,13 @@ data:
       - title: Yle Uutiset
         start_time: '2025-04-22T15:00:00+03:00'
         end_time: '2025-04-22T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: Samuli Paulaharju oli aikansa kansatieteen superkerääjä
         start_time: '2025-04-22T15:02:00+03:00'
         end_time: '2025-04-22T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Samuli Paulaharju oli aikanaan kansanperinteen “superkerääjä”. Hänen pitkät keruumatkansa ja monipuolinen kirjallinen tuotanto ovat muokanneet suomalaisten käsitystä Lapista. Viime vuosina kansanperinteen tutkijat ovat löytäneet Paulaharjun tuotannon uusista näkökulmista. Kansanperinteen kerääjä Samuli Paulaharju täyttää tänä keväänä 150 vuotta.
+          Ohjelman juontaa Pietari Kylmälä.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-04-22T15:55:00+03:00'
         end_time: '2025-04-22T15:58:00+03:00'
@@ -176,6 +205,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-22T16:10:00+03:00'
         end_time: '2025-04-22T16:59:00+03:00'
+        description: |-
+          Shostakovitsh: Kevätvalssi (Skotlannin kansallisork./Neeme Järvi). 
+
+          Kajanus-Blenner: Largo (Katri Tikka, harppu).
+
+          O. Merikanto: Kevätlinnuille etelässä (Waltteri Torikka, baritoni, ja Marko Hilpo, piano). 
+
+          Barrios: Kevätvalssi (Alexander-Sergei Ramírez, kitara).
+
+          Rodgers: Climb every mountain (Masabane Cecilia Rangwanasha, sopraano, ja Aron Goldin, piano). 
+
+          Leiviskä: Intermezzo n:o 2 kahdelle huilulle, klarinetille, pianolle ja jousille (Lohjan kaupunginork./Jukka Untamala). 
+
+          Schumann: Langsam (2. osa) konsertosta sellolle ja orkesterille a-molli op.129 (Theodor Lyngstad, sello, ja Kööpenhaminan FO/Eva Ollikainen). 
+
+          Hüe: Fantasia huilulle ja pianolle (James Galway ja Phillip Moll).
+
+          Wolf: Kennst du das Land? (Iida Antola, sopraano, ja Anni Laukkanen, piano). 
+
+          Tshaikovski: Pas d'action (Ruusuadagio) bal. Prinsessa Ruusunen (Philharmonia Orchestra/Santtu-Matias Rouvali). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-22T17:00:00+03:00'
@@ -189,9 +238,27 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-04-22T17:35:00+03:00'
         end_time: '2025-04-22T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Tuhat paperilintua lähtee lentoon toivoa hakemaan, kuolinnaamio valmistuu murhasta tuomitulle, eräs elämänkumppani saa muistolaulun. Yksi askartelee itselleen uuden kampauksen kynsisaksilla, pikkuveli matkustaa Peräseinäjoelta Pariisiin ja televisiossa rikkaat amerikkalaiset koittavat mahtua neulansilmästä kuin Raamatun kamelit. 
 
+          Kissankehdon pääsiäisessä on menetyksen surua, mutta myös uusia heräämisiä. Aamuihmiset nousevat ammentamaan raikkaasta lähteestä, sillä aamu on aamuihmisten juhlaa. 
+
+          Air - Ce matin-là
+          J.Karjalainen - Aamuihmiset
+          Ullalintulampi - Yllykekone
+          Alabama 3 - Woke up this morning
+          The Moontwins - 1000 paper birds
+          BelVil Project - Petit frère
+          Musta Köksä - Surulta tuoksuva suu
+          A-ha - The Sun always shines on tv 
+          Cristobal Tapia De Veer - Enlightenment (Main title from The White Lotus season 3)
+          DJ Ibusal feat. Paperi T - Jahti
+          SUAD - Morning
+          Scandinavian Music Group - Vihreänä puuna kasvava rakkaus
+
+          Innoitusta saatiin 
+          The White Lotus -  tv-sarjasta (Max)
+        series: Kissankehto
       - title: 'Viikon luontoääni: Peippo'
         start_time: '2025-04-22T18:30:00+03:00'
         end_time: '2025-04-22T18:35:00+03:00'
@@ -220,15 +287,28 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-22T19:00:00+03:00'
         end_time: '2025-04-22T19:02:00+03:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Laskettua aikaa: Avunpyyntö 1/10'
         start_time: '2025-04-22T19:02:40+03:00'
-        end_time: '2025-04-22T19:22:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-04-22T19:22:00+03:00'
+        end_time: '2025-04-22T19:22:40+03:00'
+        description: |-
+          Kun Venäjä aloittaa hyökkäyksen Ukrainaan, Nora saa mahdollisuuden lähteä sotareportteriksi. Samalla vanha ystävä pyytää Noralta apua – Ukrainassa on lapsi, jonka kohtalo on epävarma. Nora ja kuvaaja Kalle lähtevät keskelle sodan myllerrystä, jossa henkilökohtaiset ja ammatilliset rajat hämärtyvät.
+        series: Laskettua aikaa
+      - title: 'Laskettua aikaa: May the force be with you 2/10'
+        start_time: '2025-04-22T19:22:40+03:00'
         end_time: '2025-04-22T19:44:00+03:00'
-      - title: Tiistain kulttuurisarja
+        description: |-
+          Nora ja Kalle saapuvat Ukrainaan, mutta toimittajana työskentely sodan keskellä osoittautuu pelottavammaksi kuin Nora odotti. Selviää, että sota on pakottanut Pertun käyttämän sijaissynnytysklinikan siirtymään Lviviin turvaan. Nora päättää selvittää voiko auttaa vanhaa ystävää keskellä kriisiä.
+        series: Laskettua aikaa
+      - title: 'Tarua ja totta toisesta maailmansodasta. Tuntematon sotilas '
         start_time: '2025-04-22T20:00:00+03:00'
-        end_time: '2025-04-22T20:20:00+03:00'
+        end_time: '2025-04-22T20:19:20+03:00'
+        description: |
+          Edvin Laine ohjasi vuonna 1955 sotaelokuvan, josta tuli tärkeä osa suomalaista kansallistraditiota. Miksi Natsi-Saksan rinnalla käyty ja hävitty hyökkäyssota on kelvannut niin hyvin suomalaisten omakuvaksi? Mitä tapahtuisi, jos Tuntematonta sotilasta ei itsenäisyyspäivinä enää näytettäisikään televisiosta? Ohjelman vieraana on historiantutkija Oula Silvennoinen. 
+
+          Sarjan on toimittanut Jukka Kuosmanen.
+
+          Sarjassa keskustellaan siitä kuinka toisesta maailmansodasta tehdyt elokuvat ovat vaikuttaneet maailmankuvaamme ja käsitykseemme historiallisista tosiasioista. Sarja on vuodelta 2021.
+        series: Tarua ja totta toisesta maailmansodasta
       - title: 'Romano mirits: Yhdessä hyvä tulee!'
         start_time: '2025-04-22T20:20:00+03:00'
         end_time: '2025-04-22T20:35:00+03:00'
@@ -258,11 +338,12 @@ data:
         end_time: '2025-04-22T22:29:30+03:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-      - title: Miia Krause
+      - title: 'Miia Krause '
         start_time: '2025-04-22T22:30:00+03:00'
         end_time: '2025-04-22T23:16:30+03:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Mikko Alatalo: "Kun tein "Siirtomaa-Suomen laulut" -trilogialevyn oli se vakava juttu. Sitten menin voittamaan neljä kertaa Syksyn Sävelen joka teki musta koko kansan Mikon. Se oli joillekin kriitikoille liikaa." Ohjelma on uusinta. 
+        series: Miia Krause
       - title: Yöklassinen
         start_time: '2025-04-22T23:40:00+03:00'
         end_time: '2025-04-23T06:30:00+03:00'
