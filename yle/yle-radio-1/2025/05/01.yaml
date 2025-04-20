@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-18T02:31:35.535291+00:00'
+  generated_at: '2025-04-20T02:33:58.929594+00:00'
   git:
     branch: main
-    commit: dea5b08deef0204c7198dbf948d5e749af56c827
-  data_hash: 012f30659e3e4c551b7ab69afa0a8112b9cb0326987b0927f9925fc5acbd89aa
+    commit: b60dacdb85143b4bc97e371960403490747f0fc4
+  data_hash: 8cdaff86fccceb51cdade09cc2bc853003f8c125222ab2195f58223ebd42c842
 data:
   Yle Radio 1:
     programmes:
@@ -67,11 +67,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-01T10:50:00+03:00'
         end_time: '2025-05-01T11:00:00+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Rennolla otteella soitellen'
         start_time: '2025-05-01T11:00:00+03:00'
         end_time: '2025-05-01T11:57:00+03:00'
-        description: |
+        description: |-
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+        series: Epäilyttävän uutta - Aki Yli-Salomäki
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-01T11:57:00+03:00'
         end_time: '2025-05-01T12:00:00+03:00'
