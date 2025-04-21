@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-20T02:33:54.514005+00:00'
+  generated_at: '2025-04-21T02:34:20.287370+00:00'
   git:
     branch: main
-    commit: b60dacdb85143b4bc97e371960403490747f0fc4
-  data_hash: 8cdaff86fccceb51cdade09cc2bc853003f8c125222ab2195f58223ebd42c842
+    commit: 9178ba7690eb87bea2c8a537347307bd7aa84e67
+  data_hash: b91b87afbd977922da3708589fa019c23aab3dab17f12deecc57a0241c8cf305
 data:
   Yle Radio 1:
     programmes:
@@ -68,7 +68,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-21T08:00:00+03:00'
         end_time: '2025-04-21T08:05:00+03:00'
-        series: Yle Uutiset
       - title: 'Tiedeykkönen: Pääsiäisen hyvät, pahat ja heikot'
         start_time: '2025-04-21T08:05:45+03:00'
         end_time: '2025-04-21T08:52:22+03:00'
