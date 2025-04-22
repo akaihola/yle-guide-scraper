@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-21T02:34:20.751627+00:00'
+  generated_at: '2025-04-22T02:32:27.130336+00:00'
   git:
     branch: main
-    commit: 9178ba7690eb87bea2c8a537347307bd7aa84e67
-  data_hash: b91b87afbd977922da3708589fa019c23aab3dab17f12deecc57a0241c8cf305
+    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
+  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
 data:
   Yle Radio 1:
     programmes:
@@ -124,6 +124,7 @@ data:
           Paoli: La gatta (Gino Paoli).
           Crolla: Cri du coeur (Edith Piaf).
           Karlin/Wilson/James: For all we know (Shirley Bassey).
+        series: Muistojen bulevardi
       - title: Sari Valto
         start_time: '2025-04-22T10:00:00+03:00'
         end_time: '2025-04-22T10:55:00+03:00'
@@ -187,7 +188,7 @@ data:
       - title: Yle Uutiset
         start_time: '2025-04-22T15:00:00+03:00'
         end_time: '2025-04-22T15:02:00+03:00'
-      - title: Samuli Paulaharju oli aikansa kansatieteen superkerääjä
+      - title: 'Kulttuuriykkönen: Samuli Paulaharju oli aikansa kansatieteen superkerääjä'
         start_time: '2025-04-22T15:02:00+03:00'
         end_time: '2025-04-22T15:55:00+03:00'
         description: |-
@@ -340,7 +341,7 @@ data:
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Miia Krause '
         start_time: '2025-04-22T22:30:00+03:00'
-        end_time: '2025-04-22T23:16:30+03:00'
+        end_time: '2025-04-22T23:16:43+03:00'
         description: |
           Mikko Alatalo: "Kun tein "Siirtomaa-Suomen laulut" -trilogialevyn oli se vakava juttu. Sitten menin voittamaan neljä kertaa Syksyn Sävelen joka teki musta koko kansan Mikon. Se oli joillekin kriitikoille liikaa." Ohjelma on uusinta. 
         series: Miia Krause
