@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:28.540748+00:00'
+  generated_at: '2025-04-23T02:32:59.375572+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -11,18 +11,49 @@ data:
         start_time: '2025-04-25T23:40:00+03:00'
         end_time: '2025-04-26T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Mascagni: Iris, ooppera (Ilona Tokody, sopraano, Plácido Domingo, tenori, Juan Pons, baritoni, Bonaldo Giaiotti, basso, ja Conchita Antuñano, sopraano, sekä Baijerin radion kuoro ja Münchenin RO/Giuseppe Patané).
+
+          01:48 Ranta: Kirsikankukkajuhla, japanilainen tanssipantomiimi. (RSO/George de Godzinsky).
+
+          02:02 W. A.Mozart: Jousikvartetto n:o 15 d-molli (Hagen-kvartetti).
+
+          02:35 d'Albert: Fünf Bagatellen (Viisi bagatellia) (Alexandra Oehler, piano).
+
+          02:52 Shostakovitsh: Sinfonia n:o 7 C-duuri (Leningrad) (Chicagon SO/Leonard Bernstein).
+
+          04:20 Korngold: Viel Lärm um Nichts (Paljon melua tyhjästä) (Mischa Elman, viulu, ja Joseph Seiger, piano).
+
+          04:34 M. Haydn: Kvintetto jousille G-duuri (L'Archibudelli).
+
+          04:59 Saint-Saëns: Sonaatti klarinetille ja pianolle Es-duuri (Gervase de Peyer ja Gwenneth Pryor).
+
+          05:14 Ries: La Capricciosa (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          05:18 Tabart: Requiem (Ensemble Jacques Moderne ja La Fenice/Jean Tubery).
+
+          05:58 Kozeluch: Sinfonia D-duuri (Pardubicen valtiollinen kamariork./Marek Stilec).
+
+          06:17 Jiránek: Sonaatti viululle ja continuolle C-duuri (Lenka Torgersen, viulu, ja Václav Luks, cembalo).
+        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-04-26T06:30:00+03:00'
         end_time: '2025-04-26T07:00:00+03:00'
       - title: Yle Uutiset
         start_time: '2025-04-26T07:00:00+03:00'
         end_time: '2025-04-26T07:02:05+03:00'
-      - title: Kulttuurin kulmilla
-        start_time: '2025-04-26T07:20:30+03:00'
-        end_time: '2025-04-26T07:30:00+03:00'
+      - title: Radio 1 soi
+        start_time: '2025-04-26T07:02:05+03:00'
+        end_time: '2025-04-26T07:24:16+03:00'
+        series: Yksi on hyvää seuraa
+      - title: 'Kulttuurin kulmilla: Takarivin turvaistuin'
+        start_time: '2025-04-26T07:24:16+03:00'
+        end_time: '2025-04-26T07:31:48+03:00'
+        description: |-
+          Takarivin turvaistuin  
+          Timo Teräsvuori koettaa rohkaistua istumaan eturiveille 
+        series: Kulttuurin kulmilla
       - title: 'Luomiskertomus: Mari Renko - Helmisormus kirjekuoressa'
-        start_time: '2025-04-26T07:31:00+03:00'
+        start_time: '2025-04-26T07:32:22+03:00'
         end_time: '2025-04-26T07:56:00+03:00'
         description: |
           Esikoiskirjailija Mari Rengon Helmisormus kirjekuoressa -romaani kertoo rakkaudesta ja kahden naisen vaikeista valinnoista. Naisia erottaa yli sadan vuoden aika, mutta yhdistää Titanicin tarina. Millainen rooli sattumuksilla, kohtalolla tai onnettomuuksilla voi olla oikean rakkauden löytämisessä? Toimittaja Jukka Kuosmanen. 
@@ -215,6 +246,7 @@ data:
         end_time: '2025-04-26T17:57:00+03:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+        series: Miia Krause
       - title: 'Ehtookellot: Hattulan kirkon kellot'
         start_time: '2025-04-26T18:00:00+03:00'
         end_time: '2025-04-26T18:01:00+03:00'
@@ -240,13 +272,49 @@ data:
         description: |
           Osvaldo Golijov (1960): Ainadamar. Ooppera nuorena kuolleen runoilijan Federico García Lorcan vaiheista fasistisessa Espanjassa. Metropolitan-oopperan orkesteri ja kuoro, joht. Miguel Harth-Bedoya. Rooleissa mm. sopraano Angel Blue, mezzosopraano Daniela Mack,  sopraano Elena Villalón ja flamencolaulaja Alfredo Tejada. Äänitetty New Yorkissa Metropolitan-oopperassa 22.10.2024. Illan aikana Ainadamarista keskustelevat sopraano Tuuli Lindeberg ja Lorca-kääntäjä Tuula Nuikka. Toimittajana Noora Hirn.
         series: Ooppera
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Jussi-Pekka Rantanen 3/3'
         start_time: '2025-04-26T22:20:30+03:00'
-        end_time: '2025-04-26T22:30:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
-      - title: Keinuva talo - Mika Kauhanen
-        start_time: '2025-04-26T22:30:30+03:00'
-        end_time: '2025-04-26T23:29:30+03:00'
+        end_time: '2025-04-26T22:29:30+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Toimittaja Jussi-Pekka Rantanen kertoo, millaista on hyvä sähköisen viestimen uutiskieli. Oikeakielisyys, välineenomaisuus ja tyylitaju ovat kaikki kaikessa. Kieli muuttuu, ja siinä ohessa myös uutisten kieli. Toimittajana on Jari Aula.
+        series: Kielen päällä
+      - title: 'Keinuva talo - Mika Kauhanen: Nuppu aukeaa musiikissa - esikoisen säihke'
+        start_time: '2025-04-26T22:30:30+03:00'
+        end_time: '2025-04-26T23:29:20+03:00'
+        description: |
+          Kun yhtye julkaisee esikoislevynsä, se paistattelee elämänsä keväässä. Kukoistuskausi on alkanut. Taskussa on jo paljon näkemystä, sanottavaa ja suunnitelmia, edessä siintää lupaava tulevaisuus. Onnistuneen kevätkylvön jälkeen saa hoitaa sarkaa ja odottaa runsasta satoa. Allegoriana keväälle kuuntelemme etnon erinomaisia debyyttialbumeja suomalaisilta yhtyeiltä. Toimittajana Mika Kauhanen.
+        series: Keinuva talo - Mika Kauhanen
+      - title: Yöklassinen
+        start_time: '2025-04-26T23:40:00+03:00'
+        end_time: '2025-04-27T07:00:00+03:00'
+        description: |-
+          J.G. Graun: Sinfonia grosso D-duuri (Wiener Akademie/Martin Haselböck).
+
+          23:51 Nicolai: Psalmi 31 (Stuttgartin kamarikuoro/Frieder Bernius).
+
+          00:00 Gipps: Ambarvalia (Liverpoolin kuninkaallinen FO/Charles Peebles).
+
+          00:10 Smetana: Jousikvartetto n:o 1 e-molli (Juilliard-kvartetti).
+
+          00:39 Danzi: Kvintetto puhaltimille F-duuri (Wien-Berlin -yhtye).
+
+          01:00 Tartini: Konsertto viululle, jousille ja continuolle E-duuri (La Serenissima/Adrian Chandler, viulu).
+
+          01:17 Brahms: Trio alttoviululle, sellolle ja pianolle a-molli (Juri Bashmet, Valentin Berlinski ja Mihail Muntjan).
+
+          01:43 Holzbauer - R. Levin: Sinfonia concertante Es-duuri (Baselin kamariork./Umberto Benedetti Michelangeli).
+
+          01:57 Schönberg: Jousikvartetto n:o 2 fis-molli (Dawn Upshaw, sopraano, ja Arditti-kvartetti).
+
+          02:27 Satie: Gymnopedie n:o 1 (Monte Carlon FO/Lawrence Foster).
+
+          02:33 Händel: Theodora, oratorio (David Thomas, Drew Minter, Jeffrey Thomas, Lorraine Hunt, Jennifer Lane, Neal Rogers ja Kalifornian yliopiston kamarikuoro sekä Philharmonia barokkiork./Nicholas McGegan).
+
+          05:24 Copland: Sinfonia n:o 3 (New Yorkin FO/Leonard Bernstein).
+
+          06:08 Borodin: Jousikvartetto n:o 1 A-duuri (Moskovan jousikvartetti).
+
+          06:48 Ortiz: Quinta pars viola da gamballe ja continuolle (Mika Suihkonen ja Ballo della Battalia).
+
+          06:51 Buxtehude: Sonaatti kahdelle viululle, viola da gamballe ja continuolle C-duuri (Kölnin Musica Antiqua/Reinhard Goebel).
+        series: Syventävää klassista

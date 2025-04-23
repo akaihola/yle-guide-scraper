@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:30.524942+00:00'
+  generated_at: '2025-04-23T02:33:12.580694+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,40 @@ data:
         start_time: '2025-05-02T00:00:00+03:00'
         end_time: '2025-05-02T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Schumann - Liszt: Kevätyö (Risto Lauriala, piano).
+
+          00:02 Gershwin: Alkusoitto musik. Girl Crazy (Buffalon FO/Michael Tilson Thomas).
+
+          00:09 Saint-Saëns: Balettimusiikkia oopp. Ascanio (Victoria-ork./Guillaume Tourniaire).
+
+          00:34 Leon (sov.): She moved through the fair (Andreas Scholl, kontratenori, Edin Karamazov, luuttu, ja Stacey Shames, harppu).
+
+          00:40 Chopin: Neljä masurkkaa pianolle op.17 (Peter Jablonski).
+
+          00:55 Tshaikovski: Vuosi 1812, juhla-alkusoitto (Philharmonia-ork./Herbert von Karajan).
+
+          01:13 Brahms: Kolme intermezzoa pianolle (Glenn Gould).
+
+          01:31 Händel: Sonaatit nokkahuilulle ja continuolle g-molli, a-molli, C-duuri, F-duuri ja B-duuri (Michala Petri, nokkahuilu, ja Keith Jarrett, cembalo). 
+
+          02:28 Sibelius: Sinfonia n:o 6 d-molli (RSO/Sakari Oramo).
+
+          02:55 Stravinsky: Oktetto puhaltimille (Orpheus-kamariork.).
+
+          03:10 Reger: Serenadi orkesterille G-duuri (Amsterdamin Concertgebouw-ork./Eugen Jochum).
+           
+          03:48 E. Wallen: Bertha (Sara Trickey, viulu, ja Rosie Bergonzi, handpan-rumpu).
+
+          03:57 Dvorák: Sinfonia n:o 9 e-molli (Uudesta maailmasta) (Chicagon SO/Fritz Reiner).
+
+          04:39 J.S. Bach: Konsertot cembalolle, jousille ja continuolle n:o 4 A-duuri, 3 D-duuri, 2 E-duuri, 5 f-molli ja 6 F-duuri (Angela Hewitt, piano, ja Australian kamariork./Richard Tognetti). 
+
+          05:55 Wolff: Sinfonia D-duuri (Franz Liszt -kamariork./Nicolas Pasquet).
+
+          06:02 Beethoven: Sonaatti n:o 5 F-duuri (Kevätsonaatti) (Pinchas Zukerman, viulu, ja Marc Neikrug, piano).
+
+          06:27 Dowland: Fortune My Foe (Paul O'Dette, luuttu).
+        series: Syventävää klassista
       - title: Hartaita säveliä
         start_time: '2025-05-02T06:30:50+03:00'
         end_time: '2025-05-02T06:50:00+03:00'
@@ -37,6 +70,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-02T07:10:00+03:00'
         end_time: '2025-05-02T07:59:59+03:00'
+        description: |-
+          Dowland: Fantasia g-molli (A fancy) (Mari Mäntylä, decacorde). 
+
+          Gounod: If thou art sleeping, maiden (Anthony Rolfe Johnson, tenori, ja Graham Johnson, piano). 
+
+          Engl. kansansäv. - Johnson: Greensleeves (Sharon Isbin, kitara).
+
+          Haydn: Menuetti divertimentosta jousille Es-duuri (The Angeles String Quartet).
+
+          Hyde: Ballerina (Jeanell Carrigan, piano).
+
+          Severac: Romanttinen valssi (Lily Laskine, harppu).
+
+          Palmgren: Kevätperhot (RKK/Matti Apajalahti).
+
+          Tshaikovski: Valssi sinfoniasta n:o 5 e-molli (RSO/Leif Segerstam).
+
+          J. Ch. Bach: Rondeau sinfonia concertantesta A-duuri (Pinchas Zukerman ja Yo-Yo Ma sekä Saint Paulin kamariork./Pichas Zukerman). 
+
+          Bor: Fuuga kok. Neljä fuugaa pianolle (Clara Rodriguez, piano).
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-02T08:00:00+03:00'
         end_time: '2025-05-02T08:10:00+03:00'
@@ -85,6 +139,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-02T13:30:00+03:00'
         end_time: '2025-05-02T15:00:00+03:00'
+        description: |
+          Radio 1:n iltapäivän monipuolinen musiikkikattaus kevyestä jazzista, populaarimusiikin helmien kautta etnoon. N. klo 14 Luomiskertomuksessa Hanna Lantto kertoo esikoiskirjansa Bilbao syntyvaiheista. Miia Lahti juontaa.
+        series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-05-02T15:00:00+03:00'
         end_time: '2025-05-02T15:02:00+03:00'
@@ -105,7 +162,29 @@ data:
         start_time: '2025-05-02T16:10:00+03:00'
         end_time: '2025-05-02T16:59:00+03:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Piazzolla: Libertango (Michel Camilo, piano ja Jose 'Tomatito' Fernandez Torres, kitara).
+
+          Syrjälahti: Keväisessä metsässä (Suvi-Anna Kärkönen, kantele). 
+
+          Madetoja: Taas kaukaa laulavat lauluaan (Aulikki Eerola, sopraano, ja Pertti Eerola, piano). 
+
+          Ketelbey: Bells across the meadows (The New London Orch./Ronald Corp). 
+
+          Offenbach: Duetto (Barcarolle) oopp. Hoffmannin kertomuksia (Maiju Kuusoja, altto, Marja Eskola, sopraano, ja Cyril Szalkiewicz, piano).
+
+          Kaski: Walamo (Jouni Somero, piano). 
+
+          Poulenc: Marie sarj. Sept chansons (DR VokalEnsemblet/Stephen Layton). 
+
+          W. A. Mozart: Larghetto (2. osa) pianokonsertosta n:o 24 c-molli (Lars Vogt, piano, ja Pariisin kamariork.)
+
+          Bizet: Don Josen kukkasaaria oopp. Carmen (Peter Lindroos, tenori, ja Suomen kansallisoopperan ork./Kari Tikka).
+
+          Liszt: Liebestraum n:o 3 (Arto Satukangas, piano). 
+
+          Vulpius: Die Beste Zeit im Jahr ist mein (Nyt saapui aika kukkasten) (Vanitatum Vanitas). 
+
+          J.S. Bach: Air orkesterisarjasta n:o 3 D-duuri (Keski-Pohjanmaan kamariork./Juha Kangas).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-02T17:00:00+03:00'
@@ -159,5 +238,31 @@ data:
         start_time: '2025-05-02T23:40:00+03:00'
         end_time: '2025-05-03T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Verdi: Rigoletto (Giuseppe Di Stefano, tenori, Tito Gobbi, baritoni, Maria Callas, sopraano, Nicola Zaccaria, basso, Adriana Lazzarini, altto, ja Giuse Gerbino, mezzosopraano, sekä Milanon La Scala -oopperan kuoro ja ork./Tullio Serafin).
+
+          01:40 Chausson: Konsertto pianolle, viululle ja jousikvartetille D-duuri (David Oistrah, viulu, ja Lev Oborin, piano, sekä Borodin-kvartetti).
+
+          02:22 Crusell: Kvartetto klarinetille ja jousille n:o 3 D-duuri (Paavo Lampinen, klarinetti, Jorma Ylönen, viulu, Ahti Pilvi, alttoviulu, ja Esko Valsta, sello).
+
+          02:49 Tshaikovski: Moskova-kantaatti (Aleksanteri III:n kruunajaiskantaatti) (Nina Terentjeva, mezzosopraano, ja Nikolai Surikov, baritoni sekä Moskovan kuoroakatemian poika- ja mieskuoro ja nimeämätön ork./Andrei Tshistjakov).
+
+          03:13 Ligeti: Atmosfäärejä suurelle orkesterille (RSO/Hannu Lintu).
+
+          03:24 Copland: Rodeo (San Franciscon SO/Michael Tilson Thomas).
+
+          03:44 Beethoven: Sonaatti sellolle ja pianolle n:o 1 F-duuri (Matt Haimovitz, sello, ja Christopher O'Riley, fortepiano).
+
+          04:08 Lalo: Alkusoitto oopp. Ysin kuningas (Chicagon SO/Jean Martinon).
+
+          04:20 Brahms: Unkarilainen tanssi n:o 5 fis-molli (Webster-trio).
+
+          04:22 S. Tanejev: Kvartetto pianolle ja jousille E-duuri (Marija Judina, piano, ja Beethoven-kvartetti).
+
+          04:58 W.A. Mozart: Sextuksen aariat Deh, per questo ja Parto, parto oopp. Tituksen lempeys. (Michael Maniaci, kontratenori, ja Bostonin barokkiork./Martin Pearlman).
+
+          05:14 Brahms: Sinfonia n:o 1 c-molli (Pittsburghin SO/Marek Janowski).
+
+          05:59 Händel: Otteita oopp. Alcina (Nancy Argenta, sopraano, ja Vancouverin radio-ork. jäseniä/Monica Huggett).
+
+          06:17 Muffat: Sonaatti viululle ja continuolle D-duuri (Sabine Lier, viulu, ja Salzburger Hofmusik/Wolfgang Brunner, cembalo).
         series: Syventävää klassista

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:30.695417+00:00'
+  generated_at: '2025-04-23T02:33:13.616989+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,33 @@ data:
         start_time: '2025-05-02T23:40:00+03:00'
         end_time: '2025-05-03T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Verdi: Rigoletto (Giuseppe Di Stefano, tenori, Tito Gobbi, baritoni, Maria Callas, sopraano, Nicola Zaccaria, basso, Adriana Lazzarini, altto, ja Giuse Gerbino, mezzosopraano, sekä Milanon La Scala -oopperan kuoro ja ork./Tullio Serafin).
+
+          01:40 Chausson: Konsertto pianolle, viululle ja jousikvartetille D-duuri (David Oistrah, viulu, ja Lev Oborin, piano, sekä Borodin-kvartetti).
+
+          02:22 Crusell: Kvartetto klarinetille ja jousille n:o 3 D-duuri (Paavo Lampinen, klarinetti, Jorma Ylönen, viulu, Ahti Pilvi, alttoviulu, ja Esko Valsta, sello).
+
+          02:49 Tshaikovski: Moskova-kantaatti (Aleksanteri III:n kruunajaiskantaatti) (Nina Terentjeva, mezzosopraano, ja Nikolai Surikov, baritoni sekä Moskovan kuoroakatemian poika- ja mieskuoro ja nimeämätön ork./Andrei Tshistjakov).
+
+          03:13 Ligeti: Atmosfäärejä suurelle orkesterille (RSO/Hannu Lintu).
+
+          03:24 Copland: Rodeo (San Franciscon SO/Michael Tilson Thomas).
+
+          03:44 Beethoven: Sonaatti sellolle ja pianolle n:o 1 F-duuri (Matt Haimovitz, sello, ja Christopher O'Riley, fortepiano).
+
+          04:08 Lalo: Alkusoitto oopp. Ysin kuningas (Chicagon SO/Jean Martinon).
+
+          04:20 Brahms: Unkarilainen tanssi n:o 5 fis-molli (Webster-trio).
+
+          04:22 S. Tanejev: Kvartetto pianolle ja jousille E-duuri (Marija Judina, piano, ja Beethoven-kvartetti).
+
+          04:58 W.A. Mozart: Sextuksen aariat Deh, per questo ja Parto, parto oopp. Tituksen lempeys. (Michael Maniaci, kontratenori, ja Bostonin barokkiork./Martin Pearlman).
+
+          05:14 Brahms: Sinfonia n:o 1 c-molli (Pittsburghin SO/Marek Janowski).
+
+          05:59 Händel: Otteita oopp. Alcina (Nancy Argenta, sopraano, ja Vancouverin radio-ork. jäseniä/Monica Huggett).
+
+          06:17 Muffat: Sonaatti viululle ja continuolle D-duuri (Sabine Lier, viulu, ja Salzburger Hofmusik/Wolfgang Brunner, cembalo).
         series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-05-03T06:30:00+03:00'
@@ -163,6 +189,8 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2025-05-03T15:30:00+03:00'
         end_time: '2025-05-03T15:55:00+03:00'
+        description: |-
+          Huumoriyhtye KAJ teki Vöyrin murteesta kertaheitolla kuuluisan. Pasi Heikura ja kielten opiskelija Eri Lassila keskustelevat Vöyrin murteesta ja sen erityispiirteistä. 
         series: Aristoteleen kantapää
       - title: Yle News
         start_time: '2025-05-03T15:55:00+03:00'
@@ -206,6 +234,7 @@ data:
         end_time: '2025-05-03T17:57:00+03:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+        series: Miia Krause
       - title: Ehtookellot
         start_time: '2025-05-03T18:00:00+03:00'
         end_time: '2025-05-03T18:01:00+03:00'

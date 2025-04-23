@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:33.320975+00:00'
+  generated_at: '2025-04-23T02:33:19.717669+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -43,9 +43,9 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-13T09:05:40+03:00'
         end_time: '2025-05-13T09:58:00+03:00'
-        description: |-
+        description: |
           Carter Cash - Kilgore: Ring of fire (Johnny Cash).
-          Styne: It's magic (Doris Day).
+          Kern: Smoke gets in your eyes (Dinah Shore).
           Gilkyson: Heimweh (Freddy Quinn).
           Pepper/James: Pillow talk (Doris Day).
           Modugno: Lazzarella (Umberto Marcato).
@@ -111,6 +111,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-13T16:10:00+03:00'
         end_time: '2025-05-13T16:59:00+03:00'
+        description: |-
+          Britten - Rossini: Marssi sarj. Soirées musicales (Helsingborgin SO/Okko Kamu).
+
+          C. Schumann: Scherzo pianotriosta g-molli op.17 (Dartington-pianotrio).
+
+          Berg: Traumgekrönt sarj. Seitsemän varhaista laulua (Anne Sofie von Otter, mezzosopraano, ja Wienin filharmonikot/Claudio Abbado).
+
+          W.A. Mozart: Allegro sonaatista pianolle ja viululle n:o 21 e-molli (Clara Haskil ja Arthur Grumiaux).
+
+          Massenet: Manonin aaria ja gavotti oopp. Manon (Renée Fleming, sopraano, ja Englantilainen kamariork./Jeffrey Tate).
+
+          Takemitsu (sov. Sato): Bad boy (John Williams ja Timothy Kain, kitara).
+
+          Beethoven: Adagio sekstetosta kahdelle klarinetille, kahdelle fagotille ja kahdelle käyrätorvelle Es-duuri (Mozzafiato).
+
+          Whitacre: A boy and a girl (The Eric Whitacre Singers/Eric Whitacre).
+
+          Rani: Glass (Mari Samuelsen, viulu, Julien Quentin, piano, ja Scoring Berlin/Jonathan Stockhammer).
+
+          Ravel: Teekannun ja teekupin tanssi oopp. Lumottu lapsi (World Saxophone Orchestra/Ed Bogaard).
+
+          Kreisler: Kiinalainen tamburiini (Yo-Yo Ma, sello, ja Patricia Zander, piano).
+        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-13T17:00:00+03:00'
         end_time: '2025-05-13T17:10:00+03:00'
@@ -184,6 +207,7 @@ data:
         end_time: '2025-05-13T23:16:30+03:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+        series: Miia Krause
       - title: Yöklassinen
         start_time: '2025-05-13T23:40:00+03:00'
         end_time: '2025-05-14T06:30:00+03:00'

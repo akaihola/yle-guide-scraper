@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:27.822249+00:00'
+  generated_at: '2025-04-23T02:32:53.670249+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -100,7 +100,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-04-24T09:05:40+03:00'
         end_time: '2025-04-24T09:58:00+03:00'
-        description: |-
+        description: |
           Saarniaho: Perhonen (Paula Koivuniemi).
           Celentano: Il ragazzo della via Gluck (Adriano Celentano). 
           Davis: Sunshine of love (Etta James).
@@ -111,7 +111,7 @@ data:
           Kärki: Alla tropiikin tähtien (Tuula Siponius).
           Popp/Thibault: L'amour c'est comme les bateaux (Sylvie Vartan).
           Barry: Ei aina käy niin kuin haaveillaan (Carola).
-          Giuffre: The Train and the River (Jimmy Giuffre).
+          Giuffre: The train and the river (Jimmy Giuffre).
           Dylan: Chimes of freedom (The Byrds).
         series: Muistojen bulevardi
       - title: 'Marko Gustafsson: Marko Gustafssonin vieraana balettitanssija Atte Kilpinen'
@@ -120,6 +120,9 @@ data:
         description: |
           Tanssija, koreografi Atte Kilpinen on pitänyt elämässään vain yhden tauon tanssista. "Olin ala-asteella hirmuinen Pikku Kakkos-fani. Kerran viikossa olleet tanssitreenit menivät päällekkäin Pikku Kakkosen kanssa ja päätin jättää treenit väliin ohjelman vuoksi. Olin poissa tanssista kokonaista kaksi kertaa.  Se kaksi viikkoa on edelleen pisin taukoni tanssissa", Atte nauraa.  
         series: Marko Gustafsson
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-04-24T10:50:00+03:00'
+        end_time: '2025-04-24T11:00:00+03:00'
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mielikuvien musiikkia'
         start_time: '2025-04-24T11:00:00+03:00'
         end_time: '2025-04-24T11:57:00+03:00'
@@ -187,6 +190,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-24T16:10:00+03:00'
         end_time: '2025-04-24T16:59:00+03:00'
+        description: |
+          Josef Strauss: Jockey-Polka (Cincinnati Pops -ork. ja Boston Pops Chorale/Erich Kunzel).
+
+          W.A. Mozart: Cherubinon aaria "Voi che sapete" oopp. Figaron häät (Anne Sofie von Otter, mezzosopraano, ja Metropolitan-oopperan ork./James Levine).
+
+          J. Haydn: Finaali sinfoniasta n:o 101 D-duuri (Les Musiciens du Louvre/Marc Minkowski).
+
+          A. Scarlatti: Al'arme si accesi guerrieri (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          Saint-Saëns: Alkusoitto oopp. La princesse jaune (Keltainen prinsessa) (Skotlannin kansallisork./Neeme Järvi).
+
+          Bacewicz: Masovialainen tanssi (David Juritz, viulu, ja Diana Ambache, piano).
+
+          Hensel: Lied pianolle Fis-duuri (Liana Serbescu, piano).
+
+          Adès: 1. osa teoksesta Märchentänze (Satutansseja) (Pekka Kuusisto, viulu, ja RSO/Nicholas Collon).
+
+          Larsson: Allegro Pienestä serenadista jousiorkesterille (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          C.P.E. Bach: Allegretto huilusonaatista G-duuri (Emmanuel Pahud, huilu, Jonathan Manson, sello, ja Trevor Pinnock, cembalo).
+
+          Schubert: Der Lindenbaum (Jonas Kaufmann, tenori, ja Helmut Deutsch, piano).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-24T17:00:00+03:00'
@@ -264,8 +289,8 @@ data:
           Rooleissa: Petriikka Pohjanheimo, Juho Uusitalo, Miiko Toiviainen, Fanni Noroila, Ulla Tapaninen, Hannu-Pekka Björkman, Janne Raudaskoski, Sari Havas, Jani Toivola, Mikko Roiha, Tom Pöysti, Ronja Bado ja Lila Bado.
         series: Kerran viel’ Suomisen perhe!
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mielikuvien musiikkia'
-        start_time: '2025-04-24T22:55:30+03:00'
-        end_time: '2025-04-24T23:51:49+03:00'
+        start_time: '2025-04-24T22:53:57+03:00'
+        end_time: '2025-04-24T23:50:16+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
         series: Epäilyttävän uutta - Aki Yli-Salomäki
@@ -273,4 +298,29 @@ data:
         start_time: '2025-04-25T00:00:00+03:00'
         end_time: '2025-04-25T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          de Viseé: Sarja kitaralle n:o 11 h-molli (Rafael Andia, barokkikitara).
+
+          00:09 von Martinez: Dixit Dominus (Marianna Herzig, sopraano, Nele Gramss, mezzosopraano, Christian Havel, tenori, ja Roland Faust, basso, sekä Salzburger Hofmusik/Wolfgang Brunner).
+
+          00:30 Offenbach: Sarja kahdelle sellolle n:o 2 E-duuri (Étienne Peclard ja Roland Pidoux).
+
+          00:53 Melartin: Sonatiini G-duuri (Tapani Valsta, piano).
+
+          01:04 Händel: Kleopatran aaria Piangeró la sorte mia oopp. Julius Caesar (Renata Tebaldi, sopraano, ja Giorgio Favaretto, piano).
+
+          01:11 J. Groneman: Sonaatti huilulle ja continuolle D-duuri (Jed Wentz, traverso, Balazs Mate, sello, ja Marcelo Bussi, cembalo).
+
+          01:26 Lalo: Espanjalainen sinfonia d-molli (Isaac Stern, viulu, ja Philadelphian ork./Eugene Ormandy).
+
+          02:00 Rossini: Sonaatit jousille n:o 1-6 (Kremlin kamariork./Misha Rahlevski).
+
+          03:20 Schumann: Fantasiestücke klarinetille ja pianolle (Reginald Kell ja Joel Rosen).
+
+          03:31 Tshaikovski: Joutsenlampi, 4-näytöksinen baletti (Saint Louisin SO/Leonard Slatkin). 
+
+          05:53 Heinichen: Konsertto oboe d'amorelle, jousille ja continuolle A-duuri (Paul Dombrecht ja Il Fondamento).
+
+          06:07 Zuccari: Sonaatti sellolle ja continuolle n:o 2 B-duuri (Renato Criscuolo ja Musica Perduta).
+
+          06:16 Telemann: Sarja puhaltimille ja continuolle F-duuri (Carin van Heerden, oboe, ja puhallinyhtye L' Orfeo).
+        series: Syventävää klassista

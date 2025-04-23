@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-22T02:32:31.688604+00:00'
+  generated_at: '2025-04-23T02:33:15.010923+00:00'
   git:
     branch: main
-    commit: 473c1e55bbe8f3e5480cda073de974c77a054b29
-  data_hash: 9baf071a7f421d391e5ad1048e25a7b0c0cf3c5e9614a58fe6c33a2fd5177f85
+    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
+  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
 data:
   Yle Radio 1:
     programmes:
@@ -127,6 +127,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-06T16:10:00+03:00'
         end_time: '2025-05-06T16:59:00+03:00'
+        description: |
+          Wolf-Ferrari: Alkusoitto oopp. Susannan salaisuus (Academy of St. Martin-in-the-Fields/Neville Marriner).
+
+          Hornborg-Helsingius: Maj (Toukokuu) (Kajsa Dahlbäck, sopraano, ja Juho Alakärppä, piano).
+
+          Grieg: Kevät (Orpheus-kamariork.).
+
+          Boulanger: Valoisa puutarha (Margit Rahkonen, piano).
+
+          Farrenc: Adagio - Allegro nonetosta Es-duuri (Philippe Bernold, huilu, Francois Leleux, oboe, Romain Guyot, klarinetti, Andre Cazalet, käyrätorvi, Gilbert Audin, fagotti, Guillaume Sutre, viulu, Miguel da Silva, alttoviulu, Francois Salque, sello, ja Vincent Pasquier, kontrabasso).
+
+          Fuchs: Allegretto serenadista jousille n:o 2 C-duuri (Kölnin kamariork./Christian Ludwig).
+
+          Kajanus-Blenner: Masurkka (Katri Tikka, harppu).
+
+          Krommer: Alla polacca konsertosta kahdelle klarinetille ja orkesterille Es-duuri (Sabine Meyer ja Julian Bliss sekä Academy of St. Martin-in-the-Fields/Kenneth Sillito).
+
+          Dahlström: Lied ohne Worte (Sanaton laulu) (Siljamari Heikinheimo, viulu, ja Salla Pynssi, piano).
+
+          Dvorák: Slaavilainen tanssi nro 7 c-molli (Clevelandin ork./Christoph von Dohnányi).
+
+          Price: Juba jousikvartetosta n:o 2 a-molli (Ragazze-kvartetti).
+
+          Puccini: Pieni rakkaustarina (Tine Thing Helseth, trumpetti, ja Kathryn Stott, piano).
+
+          Danglas: L'amour s'eveille (Les Siecles/Francois-Xavier Roth). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-06T17:00:00+03:00'
@@ -173,13 +199,13 @@ data:
         start_time: '2025-05-06T19:02:40+03:00'
         end_time: '2025-05-06T19:20:00+03:00'
         description: |-
-          Etsiessä Olhaa sairaaloista ja klinikoilta, Nora alkaa ymmärtää avuttomuutensa ja vastuunsa. Kun Olha lopulta löytää tiensä hotellille, Nora saa uuden mahdollisuuden auttaa. Samaan aikaan sodan uhka kasvaa Kiovassa, ja Nora joutuu miettimään omaa rooliaan ja motiivejaan.
+          Etsiessään Olhaa sairaaloista ja klinikoilta, Nora alkaa ymmärtää avuttomuutensa ja vastuunsa. Kun Olha lopulta löytää tiensä hotellille, Nora saa uuden mahdollisuuden auttaa. Samaan aikaan sodan uhka kasvaa Kiovassa, ja Nora joutuu miettimään omaa rooliaan ja motiivejaan.
         series: Laskettua aikaa
       - title: 'Laskettua aikaa: Ratkaiseva päätös 6/10'
         start_time: '2025-05-06T19:20:00+03:00'
         end_time: '2025-05-06T19:45:00+03:00'
         description: |-
-          Venäläisten piirityksen uhka kasvaa, Nora ja Kalle keskustelevat mahdollisuudesta palata Lvivin turvaan. Olha puolestaan haluaa pelastaa perheensä Tšernihivistä, vaikka se tarkoittaa vaarallista matkaa. Nora, Kalle ja Kyrolo ovat nyt kaikki äärimmäisen päätöksen edessä – auttaa vai ei. 
+          Venäläisten piirityksen uhka kasvaa. Nora ja Kalle keskustelevat mahdollisuudesta palata Lvivin turvaan. Olha puolestaan haluaa pelastaa perheensä Tšernihivistä, vaikka se tarkoittaa vaarallista matkaa. Nora, Kalle ja Kyrolo ovat nyt kaikki äärimmäisen päätöksen edessä – auttaako vai ei. 
         series: Laskettua aikaa
       - title: Tiistain kulttuurisarja
         start_time: '2025-05-06T20:00:00+03:00'
@@ -209,6 +235,7 @@ data:
         end_time: '2025-05-06T23:16:30+03:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+        series: Miia Krause
       - title: Yöklassinen
         start_time: '2025-05-06T23:40:00+03:00'
         end_time: '2025-05-07T06:30:00+03:00'
