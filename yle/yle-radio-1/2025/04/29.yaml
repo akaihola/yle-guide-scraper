@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-23T02:33:08.968751+00:00'
+  generated_at: '2025-04-24T02:33:25.212288+00:00'
   git:
     branch: main
-    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
-  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
+    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
+  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-04-29T06:30:50+03:00'
         end_time: '2025-04-29T06:50:00+03:00'
+        description: |-
+          Simojoki (sov. Nikkola): Jeesus, sinä huomaat (Oulaisten Nuorisokuoro/Tapani Tirilä ja soitinyhtye).
+
+          Tikka: Anokaa, niin teille annetaan (Hannu Jurmu, tenori, ja Amici Musici/Luis Ramirez).
+
+          Pohjola: Janoan lähteesi vettä (Elävät kivet/Päivi Pohjola).
+
+          Gesius - Haapasalo: Ei mikään niin voi virvoittaa (Esa Ruuttunen, baritoni, ja Risto Lauriala, piano).
+
+          Huhtala: Vapaa tuntemaan (Elina Vettenranta).
+        series: Hartaita säveliä
       - title: Aamuhartaus
         start_time: '2025-04-29T06:50:00+03:00'
         end_time: '2025-04-29T06:59:59+03:00'
@@ -120,14 +131,39 @@ data:
 
 
         series: Sari Valto
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Tansseja, karnevaaleja ja Härkä katolla'
         start_time: '2025-04-29T11:00:00+03:00'
         end_time: '2025-04-29T11:57:00+03:00'
-        description: |-
+        description: |
+          Vaikka sataisi, on kevät ja elämä herää. Elämäniloa tarjoaa myös musiikki ja tanssi.
+          Erilaiset tanssit ja karnevaalitunnelma ryydittävät menoa, mutta Klasariparatiisin tämänkertainen pihvi on Härkä katolla.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Francis Poulenc: Valssi orkesterille C-duuri (Ranskan kansallisorkesteri/Charles Dutoit).
+
+          Dmitri Shostakovich: Kolme fantastista tanssia, op 5 (Tatjana Nikolajeva, piano).
+
+          Claude Debussy: La plus que lent, sovitus orkesterille säveltäjän (San Franciscon sinfoniaorkesteri/Michael Tilson Thomas).
+
+          Heitor Villa-Lobos: Brasilialaisten lasten karnvevaali, sarja pianolle W157 
+          1. Pikku Pierrot’n hevonen
+          2. Vallaton pojanvekara
+          3. Pierretten kavaluus
+          4. Pikku Dominon kellot
+          5. Pikku lumpurin seikkailut
+          6. Naamioidun Mignonin kujeet
+          7. Naamiaispukuinen lapsi ja pilli
+          (Nelson Freire, piano).
+
+          Darius Milhaud: Le boeuf sur le toit - Härkä katolla (The New London Orchestra/Ronald Corp).
+        series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-04-29T11:57:00+03:00'
         end_time: '2025-04-29T12:00:00+03:00'
+        description: |-
+          Otteita Petri Tammisen romaanista Sinua sinua.
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-04-29T12:00:00+03:00'
@@ -173,6 +209,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-04-29T16:10:00+03:00'
         end_time: '2025-04-29T16:59:00+03:00'
+        description: |
+          Rameau: Alkusoitto oopperabal. Les Fetes de Polymnie (Les Talens Lyriques/Christophe Rousset).
+
+          Rossini: Myrskymusiikkia oopp. Sevillan parturi (Milanon La Scala -oopperan ork./Riccardo Chailly).
+
+          Dun: Allegro vivace konsertosta kontrabassolle ja orkesterille (Susi) (Dominic Seldis ja Amsterdamin Concertgebouw-ork./Tan Dun).
+
+          C. Schumann: Romanssi n:o 3 B-duuri (Lisa Batiashvili, viulu, ja Alice Sara Ott, piano).
+
+          Moreno Torroba: Allegretto - Allegro - Sostenuto teoksesta Homenaje a la Seguidilla (Narciso Yepes, kitara, ja Espanjan filharmoniaork./Rafael Frühbeck de Burgos).
+
+          Tailleferre: Arabeski klarinetille ja pianolle (Deborah Marshall ja Angela Gassenhuber).
+
+          Antheil: Archipelago (Rhumba) orkesterille (BBC:n FO/John Storgårds).  
+
+          Ravel: Assez lent teoksesta Yleviä ja tunteellisia valsseja (Clevelandin ork./Pierre Boulez).
+
+          Villa-Lobos: Aaria teoksesta Bachianas brasileiras n:o 5 (Karita Mattila, sopraano, ja Academy of St. Martin-in-the-Fields/Neville Marriner).
+
+          Janácek (sov. Smedvig): Allegretto sinfonietasta orkesterille (Empire Brass sekä Richard Jensen ja Frank Epstein, lyömäsoittimet).
+
+          L. Boulanger: Kulkue (Margit Rahkonen, piano). 
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-04-29T17:00:00+03:00'
@@ -197,6 +255,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-04-29T18:35:00+03:00'
         end_time: '2025-04-29T18:50:00+03:00'
+        description: |-
+          Lagi (sov. Lagi - Paukkeri): Anna Herra kansallemme (SRK:n kuoro/Matias Lahti, ja Juha Paukkeri, urut).
+
+          Erkkilä: Pienen iltarukous (Candomino/Tauno Satomaa).
+
+          Tuntematon (sov. Nyman): Nimessä Herran pyydämme (Maria Laakso, laulu, sekä yhtye).
+
+          Huhtala: Anna sade, Jumala (Nina Åström).
+        series: Hartaita säveliä
       - title: Iltahartaus
         start_time: '2025-04-29T18:50:00+03:00'
         end_time: '2025-04-29T19:00:00+03:00'

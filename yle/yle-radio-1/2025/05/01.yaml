@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-23T02:33:11.054972+00:00'
+  generated_at: '2025-04-24T02:33:25.931379+00:00'
   git:
     branch: main
-    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
-  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
+    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
+  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
 data:
   Yle Radio 1:
     programmes:
@@ -61,8 +61,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-05-01T07:50:00+03:00'
         end_time: '2025-05-01T07:59:59+03:00'
-        description: |-
-          Toimittaja Heli Karhumäki, Lapua
+        description: |
+          "Harhapoluillakin olet Jumalan näköpiirissä"
+          Toimittaja Heli Karhumäki Lapualta pohtii, miten eri asia on kokea olevansa eksyksissä pimeässä metsässä kuin leikkiä piilosta Isän kanssa.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-05-01T08:00:00+03:00'
@@ -93,7 +94,7 @@ data:
           Hou: Grazing in the grass (Hugh Masekela).
           Makeba/Ragovoy: Pata pata (Miriam Makeba).
           Gibb: Sunnuntaina me autoillaan (Katri Helena).
-          Riperton: Les fleur (Minnie Riperton).
+          Stepney/Rudolph: Les fleur (Minnie Riperton).
           Kansanlaulu: Sait multa kukkaset toukokuun (Eila Pellinen).
           Monnot: Enfin le printemps (Edith Piaf).
         series: Muistojen bulevardi
@@ -133,7 +134,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-01T12:59:30+03:00'
         end_time: '2025-05-01T13:00:00+03:00'
-      - title: Taiteilijatapaaminen
+      - title: 'Taiteilijatapaaminen: kuvataiteilija Katja Tukiainen ja muusikko Johanna Hytti'
         start_time: '2025-05-01T13:00:00+03:00'
         end_time: '2025-05-01T13:55:00+03:00'
         description: |2+
@@ -160,7 +161,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-01T16:10:00+03:00'
         end_time: '2025-05-01T16:59:00+03:00'
-        description: |-
+        description: |
           Kansansäv.: Oi terve, toukokuu (Tapiolan Yhteiskoulun kuoro/Erkki Pohjola).
 
           Respighi: Kevät sarj. Botticellin triptyykki (New Yorkin kamariork./Salvatore Di Vittorio).
@@ -179,11 +180,11 @@ data:
 
           Sibelius: Allegretto D-duuri (Tempera-kvartetti).
 
-          Palmgren: Kevätyö, pianosarjasta Toukokuu (Henri Sigfridsson, piano). 
+          Palmgren: Kevätyö sarj. Toukokuu (Henri Sigfridsson, piano). 
 
           Fambas: Sousta, kreikkalainen tanssi n:o 3 (Alison Stephens, mandoliini, ja Craig Ogden, kitara).
 
-          Kansansäv. (sov. Johansson/Hannonen): Sikermä kevään säveliä sekakuorolle ja orkesterille (Polyteknikkojen Kamarikuoro Dominante ja Polyteknikkojen ork./Hannu Norjanen).
+          Johansson - Hannonen (sov.): Sikermä kevään säveliä sekakuorolle ja orkesterille (Polyteknikkojen Kamarikuoro Dominante ja Polyteknikkojen ork./Hannu Norjanen).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-01T17:00:00+03:00'
@@ -234,6 +235,7 @@ data:
       - title: Etnokonsertteja
         start_time: '2025-05-01T19:02:00+03:00'
         end_time: '2025-05-01T21:00:00+03:00'
+        series: Etnokonsertteja
       - title: Yle Uutiset
         start_time: '2025-05-01T21:00:00+03:00'
         end_time: '2025-05-01T21:02:00+03:00'

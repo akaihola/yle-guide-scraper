@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-23T02:32:53.670249+00:00'
+  generated_at: '2025-04-24T02:33:23.413375+00:00'
   git:
     branch: main
-    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
-  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
+    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
+  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
 data:
   Yle Radio 1:
     programmes:
@@ -94,6 +94,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-24T08:10:00+03:00'
         end_time: '2025-04-24T09:00:00+03:00'
+        description: |-
+          Miten hallituksen päätökset näkyvät tavallisen veronmaksajan kukkarossa? Puhelimessa Veronmaksajain keskusliiton toimitusjohtaja Teemu Lehtinen.
+
+          Ovatko hallituksen talousneuvotteluiden päätökset onnistuneita? Asiaa puimassa kansanedustajat Tytti Tuppurainen (sd.), Matias Marttinen (kok.), Antti Kurvinen (kesk.) ja Miko Bergbom (ps.).
+
+          Lontoon rauhankokous lässähti. Kiovassa olevan toimittaja Justas Stasevskij kertoo, miten Ukrainan rauhaa nyt edistetään.
+
+          Mitä suomalaiset ajattelevat Natosta nyt? Studiossa professori Tuomas Forsberg Tampereen yliopistosta ja apulaisprofessori Hanna Wass Helsingin yliopistosta.
+
+          Juontaja Markus Liimatainen, toimittajat Pirjo Auvinen ja Seija Vaaherkumpu, tuottaja Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-24T09:00:00+03:00'
         end_time: '2025-04-24T09:05:00+03:00'
@@ -151,6 +162,9 @@ data:
       - title: Politiikkaradio
         start_time: '2025-04-24T13:00:00+03:00'
         end_time: '2025-04-24T13:30:00+03:00'
+        description: |-
+          Keventääkö hallitus veroja? Keskustelemassa kansanedustajat Ville Kaunisto (kok.), Sakari Puisto (ps.) ja Matias Mäkynen (sd.). Toimittajana on Linda Pelkonen. 
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-24T13:30:00+03:00'
         end_time: '2025-04-24T15:00:00+03:00'
@@ -220,7 +234,7 @@ data:
         start_time: '2025-04-24T17:10:00+03:00'
         end_time: '2025-04-24T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Millaisiin päätöksiin päädyttiin eilisissä kehysriihineuvotteluissa? Hallituksen talouspäätöksiä analysoimassa Ylen politiikan ja talouden toimituksen päällikkö Olli Lindqvist yhdessä Uutispodcastin Reetta Röngän kanssa. 
         series: Uutispodcast
       - title: Tuuli Saksalan keidas
         start_time: '2025-04-24T17:35:00+03:00'

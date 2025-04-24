@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-23T02:33:15.010923+00:00'
+  generated_at: '2025-04-24T02:33:27.544730+00:00'
   git:
     branch: main
-    commit: d5d506e2e280bb92bc5c4b3c3840426958b76521
-  data_hash: ae4774cc71e5385385913c38a5d9dc992fac519738b1c9c5f7f92c1a34b3bfea
+    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
+  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
 data:
   Yle Radio 1:
     programmes:
@@ -80,7 +80,6 @@ data:
         end_time: '2025-05-06T11:57:00+03:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
-        series: Klasariparatiisi - Eva Tigerstedt
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-06T11:57:00+03:00'
         end_time: '2025-05-06T12:00:00+03:00'
