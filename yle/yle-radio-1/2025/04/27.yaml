@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-24T02:33:24.495915+00:00'
+  generated_at: '2025-04-25T02:33:24.314475+00:00'
   git:
     branch: main
-    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
-  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
+    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
+  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
 data:
   Yle Radio 1:
     programmes:
@@ -174,7 +174,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-04-27T17:00:00+03:00'
         end_time: '2025-04-27T17:10:00+03:00'
-        series: Yle Uutiset
       - title: 'Laura Korhosen Jazzklubi: Klassikoiden nousu klassikoiksi'
         start_time: '2025-04-27T17:11:00+03:00'
         end_time: '2025-04-27T18:10:21+03:00'
@@ -192,7 +191,7 @@ data:
         end_time: '2025-04-27T19:02:05+03:00'
       - title: 'Jazzklubi: Tunti vapaalla - DJ Bunuel.'
         start_time: '2025-04-27T19:02:05+03:00'
-        end_time: '2025-04-27T20:00:00+03:00'
+        end_time: '2025-04-27T19:59:35+03:00'
         description: |
           Toimittajana DJ Bunuel.
         series: Jazzklubi
@@ -207,13 +206,13 @@ data:
         end_time: '2025-04-27T21:02:05+03:00'
       - title: Uutispodcast
         start_time: '2025-04-27T21:02:43+03:00'
-        end_time: '2025-04-27T21:28:06+03:00'
+        end_time: '2025-04-27T21:26:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
         series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Tyttö ja kuolema'
-        start_time: '2025-04-27T21:29:00+03:00'
-        end_time: '2025-04-27T22:23:17+03:00'
+        start_time: '2025-04-27T21:26:54+03:00'
+        end_time: '2025-04-27T22:21:11+03:00'
         description: |
           Franz Schubert, 27 vuotta, oli sairastunut kuppaan. Elämä ei hymyillyt. Silti hän jatkuvasti sävelsi, ja hyvin. Jousikvartetto no 14, "Tyttö ja kuolema", on teos täynnä vimmaa, melkein raivoa, mutta myös suurta lempeyttä ja jatkuvaa tunneilmaisun vaihtelua. Se kolahtaa edelleen, 200 vuotta säveltämisensä jälkeen. Eva Tigerstedt avaa polkuja musiikkiin.
 
@@ -225,16 +224,16 @@ data:
           Franz Schubert: Jousikvartetto n:o 14 d-molli D.810 op.posth. “Tyttö ja kuolema” (Artemis-kvartetti). 
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Henkisellä polulla haetaan yhteyttä näkymättömään maailmaan'
-        start_time: '2025-04-27T22:24:00+03:00'
-        end_time: '2025-04-27T23:16:34+03:00'
+        start_time: '2025-04-27T22:22:00+03:00'
+        end_time: '2025-04-27T23:14:34+03:00'
         description: |+
           Kaksi erilaista henkistä etsijää. Pappi Kaisa Kariranta koki hengellistä näivettymistä ja lähti kokeilemaan, mitä annettavaa vaikkapa shamanistisella rumpupiirillä voisi olla hänelle. Tietokirjailija Kaisa Kariranta taas etsii merkityksellisyyttä suomalaisesta muinaisuskosta.
 
 
         series: Sari Valto
       - title: 'Romano mirits: Yhdessä hyvä tulee!'
-        start_time: '2025-04-27T23:25:00+03:00'
-        end_time: '2025-04-27T23:39:39+03:00'
+        start_time: '2025-04-27T23:19:00+03:00'
+        end_time: '2025-04-27T23:33:39+03:00'
         description: |
           Kunta- ja aluevaaleissa oli ehdolla lukuisia romanitaustaisia ehdokkaita. Heitä myös meni läpi valtuustoihin. Romano miritsissä tavataan kolme eri maakunnissa ehdolla ollutta vaikuttajaa. Miksi he lähtivät kunnallis- ja aluepolitiikkaan ja minkälaisiin asioita he haluavat edistää? Toimittaja Jaakko Laakso kysyi tätä Kalle Hagertilta, Samuel Florinilta ja Katja Mäntyniemeltä.
         series: Romano mirits

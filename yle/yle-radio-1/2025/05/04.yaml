@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-24T02:33:27.101835+00:00'
+  generated_at: '2025-04-25T02:33:26.728804+00:00'
   git:
     branch: main
-    commit: 07a007b348d9cd95f511298c1684b87cf0c71cec
-  data_hash: 1dee62123647310bae312165f8de3b28036cbd694c7a946cc4de0f2fdb1a58b6
+    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
+  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
 data:
   Yle Radio 1:
     programmes:
@@ -53,6 +53,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-04T11:00:00+03:00'
         end_time: '2025-05-04T11:57:00+03:00'
+        description: |-
+          Steiner: Tara's theme (John Mauceri, Hollywood Bowl Orchestra).
+          Young: My foolish heart (Bill Evans ja Tony Bennett).
+          Evans: Ankin valssi (Anki).
+          Mayfield: Hit the road, Jack (Ray Charles).
+          Gainsbourg: L'Eau a la bouche (Serge Gainsbourg).
+          Tony Joe White: For ol' times sake (Elvis Presley).
+          Diamond: Sweet Caroline (Neil Diamond).
+          Swan: When your lover has gone (Ben Webster, Oscar Peterson).
+          Arlen: Over the rainbow (Ella Fitzgerald).
+          Donaggio: Io che non vivo (senza te) (Pino Donaggio).
+          Matos Rodriguez: La Cumparsita (Vieno Kekkonen).
+          Koskimaa: Syyspihlajan alla (Pedro's Heavy Gentlemen).
+          Mononen: Tähdet meren yllä tango (Reijo Taipale).
+          Strayhorn: Lush life (Nat King Cole).
+          Mancini: Mr. Lucky (Henry Mancini).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-05-04T12:00:00+03:00'
@@ -66,11 +82,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-04T12:55:00+03:00'
         end_time: '2025-05-04T13:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Paganineja kaikille soittimille'
         start_time: '2025-05-04T13:00:00+03:00'
         end_time: '2025-05-04T13:57:00+03:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        series: Välilevyjä - Kare Eskola
       - title: Marko Gustafssonin vieraana tanssija-koreografi ja lennonopettaja Sami Saikkonen
         start_time: '2025-05-04T14:00:00+03:00'
         end_time: '2025-05-04T14:50:00+03:00'
@@ -80,7 +97,6 @@ data:
           Häntä ei huolittu ilmavoimiin heinänuhan vuoksi.  “Se oli oikeastaan onnenpotku, sillä sen ansiosta minusta tuli ammattitanssija ja myös lentäjä”, Sami Saikkonen naurahtaa.
           Ilmailu oli myös koitua Samin kohtaloksi. Syksyllä 2021 Sami joutui pahaan lento-onnettomuuteen, jossa pilotti kuoli ja Sami taisteli hengestään kahdeksan päivää  teho-osastolla.
           Ohjelma on uusinta ajalta 3.10.2024.
-        series: Marko Gustafsson
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-04T14:50:00+03:00'
         end_time: '2025-05-04T15:00:00+03:00'
