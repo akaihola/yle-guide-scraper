@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:31.708649+00:00'
+  generated_at: '2025-04-26T02:31:26.935270+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -25,11 +25,11 @@ data:
       - title: Kulttuurin kulmilla
         start_time: '2025-05-24T07:20:30+03:00'
         end_time: '2025-05-24T07:30:00+03:00'
-      - title: 'Luomiskertomus: Marjo Heiskanen kertoo kirjastaanMagdan aaria'
+      - title: 'Luomiskertomus: Marjo Heiskanen kertoo kirjastaan Magdan aaria'
         start_time: '2025-05-24T07:31:00+03:00'
         end_time: '2025-05-24T07:56:00+03:00'
-        description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana. Toimittajana Jonni Roos.
+        description: |-
+          Kirjailija kertoo kirjan syntytarinan. Toimittajana on Jonni Roos.
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-24T07:56:00+03:00'

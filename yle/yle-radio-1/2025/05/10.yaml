@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:28.476132+00:00'
+  generated_at: '2025-04-26T02:31:22.310418+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -101,11 +101,11 @@ data:
           Swift: So long, London (Taylor Swift).
           Henson: Stuck down in Paris with you (Francis Henson).
         series: Rytmikamari
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Eero Tarasti'
         start_time: '2025-05-10T11:00:00+03:00'
         end_time: '2025-05-10T11:55:00+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Professori Eero Tarastin elämä musiikin merkitysten perässä on vienyt musiikkitieteen ja semiotiikan suomalaista suurmiestä mantereelta toiselle. Näistä levyistä en luovu -ohjelman toimittaa Tuija Kurvinen.
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-10T11:57:00+03:00'

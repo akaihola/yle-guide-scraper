@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:25.765599+00:00'
+  generated_at: '2025-04-26T02:31:18.988715+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -119,6 +119,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-01T11:57:00+03:00'
         end_time: '2025-05-01T12:00:00+03:00'
+        description: |-
+          Elvi Sinervon runo Vappumarssi. Kokoelmasta Runot 1931-56. Love kustannus 1977
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-05-01T12:00:00+03:00'
         end_time: '2025-05-01T12:10:00+03:00'
@@ -137,9 +140,16 @@ data:
         start_time: '2025-05-01T13:00:00+03:00'
         end_time: '2025-05-01T13:55:00+03:00'
         series: Taiteilijatapaaminen
-      - title: Klassisen musiikin iltakonsertti
+      - title: Helsingin kaupunginorkesterin vappumatinea
         start_time: '2025-05-01T14:00:00+03:00'
         end_time: '2025-05-01T15:10:00+03:00'
+        description: |-
+          Helsingin kaupunginorkesterin perinteinen vappumatinea soi tänä vuonna elokuvista ja musikaaleista tutun tanssimusiikin tahtiin. Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Riikka Holopainen.
+
+          Helsingin kaupunginorkesteri
+          Jukka Iisakkila, kapellimestari
+          Anna Danik, mezzosopraano
+          Markus Nieminen, baritoni
         series: Konsertteja
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-01T15:10:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:30.041685+00:00'
+  generated_at: '2025-04-26T02:31:24.475706+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-17T09:05:40+03:00'
         end_time: '2025-05-17T09:58:00+03:00'
+        description: |-
+          Westlake: All I see is you (Dusty Springfield).
+          Buarque de Hollanda: En katso naamion taa (Kristina Hautala).
+          Ben: Painajainen (Danny).
+          Russell: This masquerade (Carpenters).
+          D'Abo: Liian myöhään (Fredi).
+          Monnot: Milord (Milva).
+          Monnot: La goualante du pauvre Jean (Edith Piaf).
+          Adler: Köyhyydestä rikkauteen (Olavi Virta).
+          Ahbez: Nature boy (Bobby Darin).
+          Larionov: Kalinka (Tuula Ikäheimo).
+          Phillips: Pieni sana aamuin (Tuula Siponius).
+          Alihanka/Murtojärvi: Pienet sanat (Tuula Amberla).
+          Lara: Solamente una vez (Sara Montiel).
+          Kansansäv.: Yes, my darling daughter (Marion Hutton ja Glenn Miller).
+          Niska: Blue label (Heikki Laurila ja Nacke Johansson).
         series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-05-17T10:00:00+03:00'
@@ -67,6 +83,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-17T11:57:00+03:00'
         end_time: '2025-05-17T12:00:00+03:00'
+        description: |-
+          Ote Ivan Turgenevin romaanista Tarpeettoman ihmisen päiväkirja.
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-05-17T12:00:00+03:00'

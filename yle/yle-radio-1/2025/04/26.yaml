@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:24.119836+00:00'
+  generated_at: '2025-04-26T02:31:16.836561+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -53,6 +53,8 @@ data:
       - title: Radio 1 soi
         start_time: '2025-04-26T07:02:05+03:00'
         end_time: '2025-04-26T07:24:16+03:00'
+        description: |-
+          Beethoven: Duo klarinetille ja fagotille C-duuri (Mozzafiato). R. Schumann: Adagio ja Allegro As-duuri (Jiang Lin, käyrätorvi, ja Benjamin Martin, piano).
         series: Yksi on hyvää seuraa
       - title: 'Kulttuurin kulmilla: Takarivin turvaistuin'
         start_time: '2025-04-26T07:24:16+03:00'
@@ -67,6 +69,10 @@ data:
         description: |
           Esikoiskirjailija Mari Rengon Helmisormus kirjekuoressa -romaani kertoo rakkaudesta ja kahden naisen vaikeista valinnoista. Naisia erottaa yli sadan vuoden aika, mutta yhdistää Titanicin tarina. Millainen rooli sattumuksilla, kohtalolla tai onnettomuuksilla voi olla oikean rakkauden löytämisessä? Toimittaja Jukka Kuosmanen. 
         series: Luomiskertomus
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-04-26T07:56:00+03:00'
+        end_time: '2025-04-26T08:00:00+03:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-04-26T08:00:00+03:00'
         end_time: '2025-04-26T08:05:00+03:00'
@@ -102,6 +108,9 @@ data:
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
         series: Minne Rinne vie
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-04-26T08:55:00+03:00'
+        end_time: '2025-04-26T09:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-04-26T09:00:00+03:00'
         end_time: '2025-04-26T09:05:00+03:00'
@@ -164,6 +173,17 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-04-26T12:05:00+03:00'
         end_time: '2025-04-26T12:30:00+03:00'
+        description: |
+          Presidentti Donald Trump on toistuvasti puhunut Kanadasta mahdollisena Yhdysvaltain 51. osavaltiona. Trumpin uhmakkaat laajentumispuheet ja tuontitullit ovat mullistaneet Kanadan vaaliasetelmat.
+
+          Kanadalaiset ovat kannatuskyselyiden mukaan äänestämässä vaalivoittoon nykyisen pääministeripuolueen, liberaalit, jotka ovat tiukasti nousseet puolustamaan Kanadan valtiosuvereniteettia. Ohjelmassa kuullaan kanadalaisäänestäjien tuntoja vaalien alla.
+
+          Ohjelmassa haastateltavien kanadalaisasiantuntijoiden mukaan konservatiivit ovat epäonnistuneet vastaamaan Trumpin mullistamaan poliittiseen tilanteeseen. Vielä vuoden alussa, ennen Trumpin virkaanastumista näytti, että oppositiossa olevat konservatiivit purjehtivat vaaleissa selvään voittoon.
+
+          Lopuksi kysytään kanadalaiselta arktisen alueen tutkijalta, miten jännitteisessä maailmanpoliittisessa tilanteessa Suomi ja Kanada voisivat paremmin tehdä yhteistyötä arktisella.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Ilmari Reunamäki ja Paula Vilén. Äänitarkkailijana on Katri Koivula. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+        series: Maailmanpolitiikan arkipäivää
       - title: 'Siivekkäät J6: Lintuja jäljittämässä'
         start_time: '2025-04-26T12:30:00+03:00'
         end_time: '2025-04-26T13:05:00+03:00'
@@ -280,19 +300,38 @@ data:
         end_time: '2025-04-26T19:02:00+03:00'
       - title: 'Oopperailta Metropolitanista: Osvaldo Golijovin Ainadamar, ooppera Federico García Lorcasta'
         start_time: '2025-04-26T19:02:00+03:00'
-        end_time: '2025-04-26T20:30:00+03:00'
+        end_time: '2025-04-26T21:00:00+03:00'
         description: |-
           Osvaldo Golijov (1960): Ainadamar. Ooppera nuorena kuolleen runoilijan Federico García Lorcan vaiheista fasistisessa Espanjassa. Metropolitan-oopperan orkesteri ja kuoro, joht. Miguel Harth-Bedoya. Rooleissa mm. sopraano Angel Blue, mezzosopraano Daniela Mack, sopraano Elena Villalón ja flamencolaulaja Alfredo Tejada. Äänitetty New Yorkissa Metropolitan-oopperassa 22.10.2024. Illan aikana Ainadamarista keskustelevat sopraano Tuuli Lindeberg ja Lorca-kääntäjä Tuula Nuikka. Toimittajana Noora Hirn.
         series: Ooppera
+      - title: Yle Uutiset
+        start_time: '2025-04-26T21:00:00+03:00'
+        end_time: '2025-04-26T21:02:05+03:00'
       - title: 'Uutispodcast: Kahvipaketin kuuluisi maksaa 15 euroa – “Se olisi kohtuullista”'
-        start_time: '2025-04-26T21:03:03+03:00'
-        end_time: '2025-04-26T21:27:16+03:00'
+        start_time: '2025-04-26T21:03:00+03:00'
+        end_time: '2025-04-26T21:27:13+03:00'
         description: |-
           Kahvi on nyt ennätyskallista. Mutta tulisiko sen oikeasti olla vielä kalliimpaa? Kahvin kulutusta ja hinnanmuodostusta selventää kahvialan asiantuntija Lari Salomaa. Toimittajana on Atte Uusinoka. 
         series: Uutispodcast
       - title: Maailmanpolitiikan arkipäivää
-        start_time: '2025-04-26T21:28:09+03:00'
-        end_time: '2025-04-26T21:53:00+03:00'
+        start_time: '2025-04-26T21:28:06+03:00'
+        end_time: '2025-04-26T21:49:24+03:00'
+        description: |
+          Presidentti Donald Trump on toistuvasti puhunut Kanadasta mahdollisena Yhdysvaltain 51. osavaltiona. Trumpin uhmakkaat laajentumispuheet ja tuontitullit ovat mullistaneet Kanadan vaaliasetelmat.
+
+          Kanadalaiset ovat kannatuskyselyiden mukaan äänestämässä vaalivoittoon nykyisen pääministeripuolueen, liberaalit, jotka ovat tiukasti nousseet puolustamaan Kanadan valtiosuvereniteettia. Ohjelmassa kuullaan kanadalaisäänestäjien tuntoja vaalien alla.
+
+          Ohjelmassa haastateltavien kanadalaisasiantuntijoiden mukaan konservatiivit ovat epäonnistuneet vastaamaan Trumpin mullistamaan poliittiseen tilanteeseen. Vielä vuoden alussa, ennen Trumpin virkaanastumista näytti, että oppositiossa olevat konservatiivit purjehtivat vaaleissa selvään voittoon.
+
+          Lopuksi kysytään kanadalaiselta arktisen alueen tutkijalta, miten jännitteisessä maailmanpoliittisessa tilanteessa Suomi ja Kanada voisivat paremmin tehdä yhteistyötä arktisella.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Ilmari Reunamäki ja Paula Vilén. Äänitarkkailijana on Katri Koivula. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+        series: Maailmanpolitiikan arkipäivää
+      - title: Radio 1 soi
+        start_time: '2025-04-26T21:49:24+03:00'
+        end_time: '2025-04-26T21:57:29+03:00'
+        description: |-
+          Fauré: Allegro molto viulusonaatista n:o 1 A-duuri (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
       - title: 'Minne Rinne vie: Taideopetus on värejä ja itsensä löytämistä'
         start_time: '2025-04-26T21:57:29+03:00'
         end_time: '2025-04-26T22:16:06+03:00'
@@ -313,6 +352,12 @@ data:
         description: |
           Kun yhtye julkaisee esikoislevynsä, se paistattelee elämänsä keväässä. Kukoistuskausi on alkanut. Taskussa on jo paljon näkemystä, sanottavaa ja suunnitelmia, edessä siintää lupaava tulevaisuus. Onnistuneen kevätkylvön jälkeen saa hoitaa sarkaa ja odottaa runsasta satoa. Allegoriana keväälle kuuntelemme etnon erinomaisia debyyttialbumeja suomalaisilta yhtyeiltä. Toimittajana Mika Kauhanen.
         series: Keinuva talo - Mika Kauhanen
+      - title: 'Eilisen ääni: Kukkakedon perustaminen ja hoito'
+        start_time: '2025-04-26T23:26:35+03:00'
+        end_time: '2025-04-26T23:39:11+03:00'
+        description: |
+          Puutarhuri Aini Tähtinen Helsingin kaupungin talvipuutarhasta kertoo miten tehdään ja hoidetaan kukkiva niitty. Taltio on vuodelta 1999, toimittajana Leena Mattila.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-04-26T23:40:00+03:00'
         end_time: '2025-04-27T07:00:00+03:00'

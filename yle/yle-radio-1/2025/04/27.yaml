@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-25T02:33:24.314475+00:00'
+  generated_at: '2025-04-26T02:31:17.431193+00:00'
   git:
     branch: main
-    commit: e585c0c6ca210bb8d2ae75c5fb1071c4e45a4b5b
-  data_hash: e6666351fec0be37926c57c8022ae4f471151795aace7b33a795e959aeaa68e7
+    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
+  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
 data:
   Yle Radio 1:
     programmes:
@@ -57,14 +57,19 @@ data:
 
           Franz Schubert: Jousikvartetto n:o 14 d-molli D.810 op.posth. “Tyttö ja kuolema” (Artemis-kvartetti). 
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-04-27T07:56:41+03:00'
+        end_time: '2025-04-27T08:00:00+03:00'
+        description: |-
+          Janácek: Lennätti tuuli lehden sarj. Umpeenkasvaneella polulla (Eero Heinonen, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-04-27T08:00:00+03:00'
         end_time: '2025-04-27T08:05:05+03:00'
       - title: Narrin aamulaulu - Renata Tebaldi (1922-2004), vuosisadan Desdemona
-        start_time: '2025-04-27T08:05:35+03:00'
-        end_time: '2025-04-27T08:59:30+03:00'
+        start_time: '2025-04-27T08:05:36+03:00'
+        end_time: '2025-04-27T08:59:43+03:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Yleisönsä palavasti rakastama, kaunisääninen italialaissopraano oli tarkka rooleistaan ja lauloi vain äidinkielellään. Oopperamaailman rappiosta hänellä oli paljon sanottavaa. Renata Tebaldin äänitteiden äärellä on Outi Paananen.
         series: Narrin aamulaulu - Outi Paananen
       - title: Yle Uutiset ja sää
         start_time: '2025-04-27T09:00:00+03:00'
@@ -82,6 +87,7 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-04-27T09:56:00+03:00'
         end_time: '2025-04-27T09:59:00+03:00'
+        series: Jumalanpalvelukset radiossa
       - title: Jumalanpalvelus Pyhän Kolminaisuuden kirkosta Kempeleeltä
         start_time: '2025-04-27T10:00:00+03:00'
         end_time: '2025-04-27T10:59:20+03:00'
@@ -204,15 +210,15 @@ data:
       - title: Yle Uutiset
         start_time: '2025-04-27T21:00:00+03:00'
         end_time: '2025-04-27T21:02:05+03:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: “Venäjälle on tarjottu porkkanaa ja Ukrainalle keppiä”– rauhantutkija arvioi Ukrainan tilannetta '
         start_time: '2025-04-27T21:02:43+03:00'
-        end_time: '2025-04-27T21:26:00+03:00'
+        end_time: '2025-04-27T21:24:23+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Miten Ukrainan rauhanneuvottelut etenevät ja kuka sanoo rauhanneuvotteluissa viimeisen sanan? Uutispodcastin Atte Uusinokan haastattelussa tutkimusjohtaja Marko Lehti Tampereen yliopiston rauhan- ja konfliktintutkimuksen keskuksesta. 
         series: Uutispodcast
       - title: 'Klasariparatiisi - Eva Tigerstedt: Tyttö ja kuolema'
-        start_time: '2025-04-27T21:26:54+03:00'
-        end_time: '2025-04-27T22:21:11+03:00'
+        start_time: '2025-04-27T21:25:17+03:00'
+        end_time: '2025-04-27T22:19:34+03:00'
         description: |
           Franz Schubert, 27 vuotta, oli sairastunut kuppaan. Elämä ei hymyillyt. Silti hän jatkuvasti sävelsi, ja hyvin. Jousikvartetto no 14, "Tyttö ja kuolema", on teos täynnä vimmaa, melkein raivoa, mutta myös suurta lempeyttä ja jatkuvaa tunneilmaisun vaihtelua. Se kolahtaa edelleen, 200 vuotta säveltämisensä jälkeen. Eva Tigerstedt avaa polkuja musiikkiin.
 
@@ -224,19 +230,32 @@ data:
           Franz Schubert: Jousikvartetto n:o 14 d-molli D.810 op.posth. “Tyttö ja kuolema” (Artemis-kvartetti). 
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Henkisellä polulla haetaan yhteyttä näkymättömään maailmaan'
-        start_time: '2025-04-27T22:22:00+03:00'
-        end_time: '2025-04-27T23:14:34+03:00'
+        start_time: '2025-04-27T22:20:30+03:00'
+        end_time: '2025-04-27T23:13:04+03:00'
         description: |+
           Kaksi erilaista henkistä etsijää. Pappi Kaisa Kariranta koki hengellistä näivettymistä ja lähti kokeilemaan, mitä annettavaa vaikkapa shamanistisella rumpupiirillä voisi olla hänelle. Tietokirjailija Kaisa Kariranta taas etsii merkityksellisyyttä suomalaisesta muinaisuskosta.
 
 
         series: Sari Valto
+      - title: Radio 1 soi
+        start_time: '2025-04-27T23:13:04+03:00'
+        end_time: '2025-04-27T23:18:23+03:00'
+        description: |-
+          Popper: Espanjalainen karnevaali (Janos Starker, sello, ja Shigeo Neriki, piano).
       - title: 'Romano mirits: Yhdessä hyvä tulee!'
-        start_time: '2025-04-27T23:19:00+03:00'
-        end_time: '2025-04-27T23:33:39+03:00'
+        start_time: '2025-04-27T23:18:23+03:00'
+        end_time: '2025-04-27T23:33:02+03:00'
         description: |
           Kunta- ja aluevaaleissa oli ehdolla lukuisia romanitaustaisia ehdokkaita. Heitä myös meni läpi valtuustoihin. Romano miritsissä tavataan kolme eri maakunnissa ehdolla ollutta vaikuttajaa. Miksi he lähtivät kunnallis- ja aluepolitiikkaan ja minkälaisiin asioita he haluavat edistää? Toimittaja Jaakko Laakso kysyi tätä Kalle Hagertilta, Samuel Florinilta ja Katja Mäntyniemeltä.
         series: Romano mirits
+      - title: 'Eilisen ääni: Kuinka voi rotuerottelujärjestelmä Etelä-Afrikassa?'
+        start_time: '2025-04-27T23:33:52+03:00'
+        end_time: '2025-04-27T23:39:39+03:00'
+        description: |-
+          Tänään iltapäivällä -lähetyksessä kysyttiin vuonna 1994 oliko rotuerottelu Etelä-Afrikassa loppunut? Monien mielestä järjestelmä eli ja voi hyvin ainakin oikeuslaitoksessa ja vankilahallinnossa. Sven Stranden raportoi Kapkaupungista.
+
+          Ohjelman ensilähetys oli 31.5.1994.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-04-27T23:40:00+03:00'
         end_time: '2025-04-28T06:30:00+03:00'
