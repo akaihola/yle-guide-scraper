@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-26T02:31:19.395443+00:00'
+  generated_at: '2025-04-27T02:34:08.988674+00:00'
   git:
     branch: main
-    commit: 95b44dbfd4c6c322652122b44b6b1ebcea136d95
-  data_hash: e0e56d6c9ba42d70a8aaafcbc569b18eeb7857a9b6dc249a7d8d5c99b1a9a5b8
+    commit: 91ae57da2dcf6affa801ed383c0c4378ff8d98b0
+  data_hash: ab01f52d8cb7519aa5f2b3137800d7db10445ed6af4f464daec8aebb6b9844f6
 data:
   Yle Radio 1:
     programmes:
@@ -201,7 +201,6 @@ data:
         end_time: '2025-05-02T17:34:20+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-        series: Uutispodcast
       - title: Näistä levyistä en luovu
         start_time: '2025-05-02T17:35:00+03:00'
         end_time: '2025-05-02T18:30:00+03:00'
