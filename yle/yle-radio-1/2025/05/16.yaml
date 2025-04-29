@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-28T02:34:39.428305+00:00'
+  generated_at: '2025-04-29T02:33:22.198677+00:00'
   git:
     branch: main
-    commit: 20c0584fa27c79d242ee9013ee428bf5101ad98b
-  data_hash: ee49cf8e53988ab35275dd354fc2d3cc8877fbe83e4063fd2c55dac4edce96b7
+    commit: 51aa38749372eee5bcc99ea352476b6975cf0e41
+  data_hash: eb186bb37437b05bbd9c361d757ffa6f509585b3482fa38bb41fbbfa4fa0d253
 data:
   Yle Radio 1:
     programmes:
@@ -41,7 +41,6 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-16T09:05:40+03:00'
         end_time: '2025-05-16T09:58:00+03:00'
-        series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2025-05-16T10:00:00+03:00'
         end_time: '2025-05-16T10:55:00+03:00'
@@ -95,6 +94,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-16T16:00:00+03:00'
         end_time: '2025-05-16T16:10:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2025-05-16T16:10:00+03:00'
+        end_time: '2025-05-16T16:59:00+03:00'
+        description: |
+          Kuuntelijoiden toivemusiikkia
       - title: Uutispodcast
         start_time: '2025-05-16T17:10:00+03:00'
         end_time: '2025-05-16T17:34:20+03:00'

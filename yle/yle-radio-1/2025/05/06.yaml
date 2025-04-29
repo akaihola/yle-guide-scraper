@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-28T02:34:36.543610+00:00'
+  generated_at: '2025-04-29T02:33:19.295166+00:00'
   git:
     branch: main
-    commit: 20c0584fa27c79d242ee9013ee428bf5101ad98b
-  data_hash: ee49cf8e53988ab35275dd354fc2d3cc8877fbe83e4063fd2c55dac4edce96b7
+    commit: 51aa38749372eee5bcc99ea352476b6975cf0e41
+  data_hash: eb186bb37437b05bbd9c361d757ffa6f509585b3482fa38bb41fbbfa4fa0d253
 data:
   Yle Radio 1:
     programmes:
@@ -70,7 +70,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-06T09:05:40+03:00'
         end_time: '2025-05-06T09:58:00+03:00'
-        description: |-
+        description: |
           Richie: Hello (Lionel Richie).
           Gärdestad: Eiffeltornet (Ted Gärdestad).
           Di Paola: Come prima (Dalida).
@@ -80,7 +80,7 @@ data:
           Panzeri/Conti/Corrado/Pace/Pilat: Vasten auringon siltaa (Katri Helena). 
           Ronell: Willow weep for me (Duke Ellington and His Orchestra).
           Boulanger: Ennen kuolemaa (Olavi Virta).
-          Livingston: Buttons and bows (Dinah Shore, Happy Valley Boys). 
+          Livingston: Buttons and bows (Dinah Shore). 
           Lobo: Reza (Edu Lobo).
           Boyd: Guess who I saw today (Nancy Wilson).
           Walker: Mr. Bojangles (Jerry Jeff Walker).

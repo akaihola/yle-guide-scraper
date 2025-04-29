@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-28T02:34:36.733989+00:00'
+  generated_at: '2025-04-29T02:33:19.500233+00:00'
   git:
     branch: main
-    commit: 20c0584fa27c79d242ee9013ee428bf5101ad98b
-  data_hash: ee49cf8e53988ab35275dd354fc2d3cc8877fbe83e4063fd2c55dac4edce96b7
+    commit: 51aa38749372eee5bcc99ea352476b6975cf0e41
+  data_hash: eb186bb37437b05bbd9c361d757ffa6f509585b3482fa38bb41fbbfa4fa0d253
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-07T07:10:00+03:00'
         end_time: '2025-05-07T07:59:59+03:00'
+        description: |+
+          Fauré: Après un rêve (Unen jälkeen) (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          Brahms: Romanssi F-duuri (Antti Siirala, piano). 
+
+          Vivaldi: Danza pastorale viulukonsertosta E-duuri "Kevät" (Gil Shaham, viulu, ja Orpheus-kamariork.) 
+
+          Grainger: Air ja Finaali norjalaisista tansseista (Andreas Brantelid, sello, ja Christian Ihle Hadland, piano).
+
+          G. Holst: Menuetti kok. Kolme kappaletta oboelle ja jousikvartetille (Ensemble Arabesques).
+
+          Jadin: Alkusoitto F-duuri (The Wallace Collection/John Wallace).
+
+          Grieg: Anitran tanssi näyt. Peer Gynt (RSO/Sakari Oramo).
+
+          Ponce: Allegro non troppo sonaatista kitaralle n:o 3 (Juuso Nieminen).
+
+          M. Richter - Vivaldi: Spring 3 teoksesta Four seasons recomposed (Daniel Hope, viulu, ja Konzerthaus Kammerorchester Berlin/André de Ridder).
+
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-07T08:00:00+03:00'
@@ -53,20 +72,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-07T09:05:40+03:00'
         end_time: '2025-05-07T09:58:00+03:00'
-        description: |-
+        description: |
           Karas: The Harry Lime theme (Anton Karas).
           Mourao-Ferreira: Primavera (Mariza).
-          Koskimaa: Kirsikan kukat (Ramblers-orkesteri ja Matti Jurva).
+          Koskimaa: Kirsikan kukat (Matti Jurva).
           Hernandez: El Cumbanchero (Laila Kinnunen).
           Ferrari: Domino (André Claveau).
-          Kansansävelmä: Katinka (Brita Koivunen).
+          Kansansäv.: Katinka (Brita Koivunen).
           Kärki: Matalan torpan balladi (Joaquin Martinez).
           Berlin: They say it's wonderful (Quincy Jones).
-          Barclay & Stern: Tire l'aiguille (Line Renaud).
+          Barclay/Stern: Tire l'aiguille (Line Renaud).
           Stanley: Ikkunaprinsessa (Dallape ja Sami Saari).
           Marley: Turn your lights down low (Bob Marley & The Wailers).
-          Matamoros: Mustat kyyneleet (= Lagrimas negras) (Liisa Tavi).
-          Handman - Turk: Are you lonesome tonight (Elvis Presley & The Jordanaires)
+          Matamoros: Mustat kyyneleet (Liisa Tavi).
+          Handman/Turk: Are you lonesome tonight (Elvis Presley)
           Jones: Aaveratsastajat (Heikki Laurila).
         series: Muistojen bulevardi
       - title: 'Havaintoja muutoksesta: Tekoäly ja työn murrokset'
@@ -75,11 +94,11 @@ data:
         description: |
           Tekoälyyn ja robotiikkaan liittyvässä keskustelussa ovat yhtä aikaa läsnä niin uhkakuvat kuin utopiatkin. Joidenkin mielestä tekoäly synnyttää massatyöttömyyttä ja toisten mukaan taas se on enemmänkin työntekijän apuri. Miksi meidän on hyvä pohtia tekoälyä myös kriittisesti? Millaisia kysymyksiä emme vielä osaa edes pohtia? Toimittaja  Satu Kivelä etsii vastauksia kysymyksiin yhdessä Työterveyslaitoksen tutkimusprofessori Tuomo Alasoinin ja tutkija Mona Mannevuon kanssa. 
         series: Havaintoja muutoksesta
-      - title: Riston Valinta
+      - title: Riston Valinnan äänikirjeitä Tallinnasta I
         start_time: '2025-05-07T11:00:00+03:00'
         end_time: '2025-05-07T11:50:00+03:00'
         description: |
-          Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
+          Neliosaisen ohjelmansarjan ensimmäisessä osassa Risto Nordell ja tietokirjailija Tapio Mäkeläinen muistelevat Tallinnan laululavalla Laulavaa vallankumousta ja Estonia-teatterissa Georg Otsia. Ohjelman äänisuunnittelu: Antti Snellman. (U)
         series: Riston Valinta - Risto Nordell
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-07T11:57:00+03:00'
@@ -100,6 +119,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-07T13:30:00+03:00'
         end_time: '2025-05-07T15:00:00+03:00'
+        description: |
+          Radio 1:n iltapäivän monipuolinen musiikkikattaus kevyestä jazzista populaarimusiikin helmiin ja etnomusiikkiin. N. klo 14  Eri kulttuureissa alastomuuteen suhtaudutaan hyvinkin eri tavoilla, myös eri aikakaudet muokkaavat käsitystämme siitä, mikä on hyväksyttävää. Taiteilijat Heidi Laukka ja Pete Harju keskustelevat toimittaja Jarmo Laitanevan kanssa eroottisesta taiteesta. Lähetyksen juontaa Paula Jokimies.
         series: Radio 1:n iltapäivä
       - title: Yle Uutiset
         start_time: '2025-05-07T15:00:00+03:00'
