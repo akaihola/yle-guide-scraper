@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-29T02:33:20.536506+00:00'
+  generated_at: '2025-04-30T02:33:11.193600+00:00'
   git:
     branch: main
-    commit: 51aa38749372eee5bcc99ea352476b6975cf0e41
-  data_hash: eb186bb37437b05bbd9c361d757ffa6f509585b3482fa38bb41fbbfa4fa0d253
+    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
+  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-05-10T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Aamuklassinen
         start_time: '2025-05-10T06:30:00+03:00'
         end_time: '2025-05-10T07:00:00+03:00'
@@ -55,11 +54,15 @@ data:
         description: |-
           Pastori Alvari Stenroth, Helluntaiherätys, Ikaalinen
         series: Aamuhartaus
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Pyöräillen kesään Tiina Männistö-Funkin kanssa'
         start_time: '2025-05-10T08:35:00+03:00'
         end_time: '2025-05-10T08:55:00+03:00'
         description: |
+          Pyöräillen kohti kesää Tiina Männistö-Funk, osa 2/2.
+          Viisikymmentäluvulla luultiin pyöräilyn häviävän katukuvasta, mutta toisin kävi: nyt korjataan asemakaava-arkkitehtien valintoja.
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+        series: Minne Rinne vie
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-10T08:55:00+03:00'
         end_time: '2025-05-10T09:00:00+03:00'
@@ -110,6 +113,7 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-10T11:57:00+03:00'
         end_time: '2025-05-10T12:00:00+03:00'
+        series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-05-10T12:00:00+03:00'
         end_time: '2025-05-10T12:05:00+03:00'
@@ -119,9 +123,10 @@ data:
         series: Maailmanpolitiikan arkipäivää
       - title: 'Outopodcast: Kuolema tulee nopein siiveniskuin'
         start_time: '2025-05-10T12:30:00+03:00'
-        end_time: '2025-05-10T12:55:00+03:00'
+        end_time: '2025-05-10T12:56:00+03:00'
         description: |-
           Muumion kirous seuraa hautarauhan häiritsijöitä.
+        series: Outopodcast
       - title: Uudet levyt
         start_time: '2025-05-10T13:00:00+03:00'
         end_time: '2025-05-10T14:00:00+03:00'

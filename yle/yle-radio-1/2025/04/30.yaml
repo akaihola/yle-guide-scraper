@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-29T02:33:17.898373+00:00'
+  generated_at: '2025-04-30T02:33:06.204311+00:00'
   git:
     branch: main
-    commit: 51aa38749372eee5bcc99ea352476b6975cf0e41
-  data_hash: eb186bb37437b05bbd9c361d757ffa6f509585b3482fa38bb41fbbfa4fa0d253
+    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
+  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
 data:
   Yle Radio 1:
     programmes:
@@ -101,6 +101,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-04-30T08:10:00+03:00'
         end_time: '2025-04-30T09:00:00+03:00'
+        description: |-
+          Donald Trump on ollut Yhdysvaltain presidenttinä sata päivää. Mitä Trump on saanut aikaan? Keskustelemassa Ulkopoliittisen instituutin tutkija Maria Lindén ja Helsingin yliopiston Pohjois-Amerikan tutkimuksen dosentti Rani-Henrik Andersson.
+
+          Kunta- ja hyvinvointialan palkkaneuvottelut kiristyvät. Puhelimessa työntekijöitä edustavan ammattiliitto JHL:n puheenjohtaja Håkan Ekström.
+
+          Auttavatko hallituksen kasvutoimet yrityksiä? Keskustelemassa Tokmanni-konsernin toimitusjohtaja Mika Rautiainen ja Keitele Wood Productsin toimitusjohtaja Mikko Kylävainio.
+
+          Millä mielellä Turussa valmistaudutaan vappuaattoon? Toimittaja Minna Rosvallin haastattelussa on Turun yliopiston ylioppilaskunnan hallituksen puheenjohtaja Josefina Tuomala.
+
+          Juontajana Markus Liimatainen, toimittajana Petra Nykänen, tuottajana Annette Blencowe.
+        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-04-30T09:00:00+03:00'
         end_time: '2025-04-30T09:05:00+03:00'
@@ -129,7 +140,7 @@ data:
         end_time: '2025-04-30T10:50:00+03:00'
         description: |
           Tarmokkuus, omistautuminen ja uppoutuminen liittyvät työn imun kokemiseen ja myönteiseen hyvinvointiiin. Miten työn imua ja hyvinvointia voidaan vaalia työpaikoilla? Millä tavalla työelämän muutokset vaikuttavat ihmisten hyvinvointiin? Miten hyvinvointia on mahdollista vahvistaa niin omalla kuin yhteisönkin toiminnalla? 
-          Toimittaja Satu Kivelä etsii vastauksia kysymyksiin yhdessä  Työterveyslaitoksen tutkimusprofessori Jari Hakasen ja Tampereen yliopiston yhteiskuntatieteiden professori Anne Mäkikankaan kanssa.
+          Toimittaja Satu Kivelä etsii vastauksia kysymyksiin yhdessä  Työterveyslaitoksen tutkimusprofessori Jari Hakasen ja Työelämän tutkimuskeskuksen johtaja Anne Mäkikankaan kanssa.
         series: Havaintoja muutoksesta
       - title: Riston Valinta
         start_time: '2025-04-30T11:00:00+03:00'
@@ -151,9 +162,14 @@ data:
         description: |
           Suomalaisilla oli merkittävä rooli Pohjois-Amerikan sosialistisissa kokeiluissa, mutta se ei suinkaan ole suomalaisen utopia-ajan koko tarina. Monet utopiakokeilut toteutettiin luonnonoloiltaan karuissa ja syrjäisissä paikoissa, ja rakentajien joukko oli vähintäänkin eksentrinen. Teuvo Peltoniemi on perehtynyt 20:een suomalaiseen utopiayhteisöön aina 1700-luvulta näihin päiviin.
         series: Kalle Haatanen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Miten rahaministeriö perustelee yllätyskäännettä?'
         start_time: '2025-04-30T13:00:00+03:00'
         end_time: '2025-04-30T13:30:00+03:00'
+        description: |
+          Hallitus yllätti viime viikolla veroalella. Miten valtiovarainministeriö perustelee sitä, että veronalennukset maksavat itsensä takaisin? Miten käy Suomen velkaantumiselle?
+          Politiikkaradio pureutuu tuoreeltaan valtiovarainministeriön keskiviikkona julkistettaviin laskelmiin. 
+          Aiheesta keskustelevat johtaja Sami Pakarinen Elinkeinoelämän keskusliitosta EK:sta ja pääekonomisti Ilkka Kaukoranta ammattiliittojen keskusjärjestö SAK:sta. Toimittajana on Antti Pilke. Suora lähetys.
+        series: Politiikkaradio
       - title: Radio 1:n iltapäivä
         start_time: '2025-04-30T13:30:00+03:00'
         end_time: '2025-04-30T15:00:00+03:00'
@@ -211,7 +227,7 @@ data:
         start_time: '2025-04-30T17:10:00+03:00'
         end_time: '2025-04-30T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kelan pääjohtajan valinnasta kehkeytyi aikamoinen soppa. Mitä tämä prosessi kertoo poliittisten virkanimitysten historiasta ja nykyisyydestä? Uutispodcastin Reetta Röngän haastattelussa Ilta-Sanomien politiikan toimittaja Erno Laisi. 
         series: Uutispodcast
       - title: 'Laura Korhosen Jazzklubi: Juhlamieltä kansainväliseen jazzpäivään läpi-improvisoiduilla kappaleilla'
         start_time: '2025-04-30T17:35:00+03:00'
@@ -257,12 +273,18 @@ data:
       - title: Satu Kivelä
         start_time: '2025-04-30T21:35:00+03:00'
         end_time: '2025-04-30T22:25:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-04-30T22:30:00+03:00'
-        end_time: '2025-04-30T22:50:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-04-30T22:50:00+03:00'
-        end_time: '2025-04-30T23:12:30+03:00'
+      - title: 'Laskettua aikaa: Klinikka 3/10'
+        start_time: '2025-04-30T22:31:38+03:00'
+        end_time: '2025-04-30T22:51:03+03:00'
+        description: |-
+          Nora yrittää saada tietoja etsimästään sijaissynnyttäjästä, mutta joutuu käyttämään epätoivoisia keinoja. Samalla hän huomaa olevansa syvemmällä sodan ja henkilökohtaisen vastuun ristipaineessa. Miten hän onnistuu auttamaan ystäviään ja samalla selviytymään omasta tehtävästään toimittajana?
+        series: Laskettua aikaa
+      - title: 'Laskettua aikaa: Olha 4/10'
+        start_time: '2025-04-30T22:51:03+03:00'
+        end_time: '2025-04-30T23:12:00+03:00'
+        description: |-
+          Noran ja Kallen matka vie heidät lopulta Kiovaan, keskelle sodan runtelemaa kaupunkia. Noran omat ihmissuhdeongelmat ja ammatilliset haasteet sekoittuvat vaaralliseen todellisuuteen, kun hän pyrkii auttamaan Olhaa, jonka koti on tuhoutunut pommituksissa.
+        series: Laskettua aikaa
       - title: Yöklassinen
         start_time: '2025-04-30T23:40:00+03:00'
         end_time: '2025-05-01T06:30:00+03:00'
