@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:17.717231+00:00'
+  generated_at: '2025-05-01T02:36:33.864197+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -68,6 +68,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-25T16:10:00+03:00'
         end_time: '2025-05-25T16:59:00+03:00'
+        description: |
+          Gardel: Por una cabeza (Itzhak Perlman, viulu, ja Pittsburghin SO/John Williams).
+
+          Nielsen: Vokaliisietydi (Harry White, saksofoni, ja Edward Rushton, piano).
+
+          Dalla: Caruso (Luciano Pavarotti, tenori).
+
+          Chaminade: Romanza appasionata D-duuri (Michael Gross, sello, ja Johann Blanchard, piano). 
+
+          Price: Juba dance sinfoniasta n:o 1 e-molli (Philadelphian ork./Yannick Nézet-Séguin).
+
+          Esenvalds: Stars (Voces8).
+
+          Debussy: La danse de Puck (Puck tanssii) (Timo Mikkilä, piano).
+
+          M. Brouwer: Pulse (Liverpoolin kuninkaallinen FO/Gerard Schwarz).
+
+          Reinecke: Intermezzo huilusonaatista e-molli (Undine) (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
+
+          Hahn: À Chloris (Susan Graham, mezzosopraano, ja Roger Vignoles, piano).
+
+          Mendelssohn: Scherzo (Bostonin SO/Charles Munch).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-25T17:00:00+03:00'

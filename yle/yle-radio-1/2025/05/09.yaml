@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:10.908283+00:00'
+  generated_at: '2025-05-01T02:36:27.424985+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -70,8 +70,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-05-09T06:50:00+03:00'
         end_time: '2025-05-09T06:59:59+03:00'
-        description: |-
-          Seurakuntapastori Sami Marte, Espoo
+        description: |
+          "Joko ollaan perillä?"
+          Seurakuntapastori Sami Marte Espoosta muistuttaa matkanteon olevan itsessään tärkeätä sekä pohtii reitin varrelta löytyvien pysähdyspaikkojen arvoa.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-05-09T07:00:00+03:00'
@@ -136,6 +137,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-09T11:57:00+03:00'
         end_time: '2025-05-09T12:00:00+03:00'
+        description: |
+          Jenni Haukio: Ja he halusivat omistaa täällä kaiken 
+          kokoelmasta: Siellä minne kuuluisi vihreää ja maata;  2003 Savukeidas 
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
         start_time: '2025-05-09T12:00:00+03:00'
@@ -218,15 +222,23 @@ data:
       - title: Musiikkihartaus
         start_time: '2025-05-09T18:35:00+03:00'
         end_time: '2025-05-09T19:00:00+03:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Rakkaus kutsuu ulos haudasta"
+          Perjantai-iltaisin kuullaan Hartaat sävelet ja iltahartauden yhdistävä musiikkihartaus. Tässä musiikkihartaudessa vs. kappalainen Visa Viljamaa Helsingistä kehottaa viipymään Lasaruksen kertomuksen jalanjäljissä oman elämämme hautojen ja mädännäisyyden hajujen äärellä.
         series: Iltahartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-05-09T19:00:00+03:00'
         end_time: '2025-05-09T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Oma huone - Suomen säveltävien naisten tarinoita
         start_time: '2025-05-09T19:02:00+03:00'
-        end_time: '2025-05-09T21:00:00+03:00'
+        end_time: '2025-05-09T22:00:00+03:00'
+        description: |
+          "Naisella pitää olla rahaa ja oma huone jos hän aikoo kirjoittaa fiktiota." Tämän kuolemattoman lauseen tuotti kirjailija Virginia Woolf vuonna 1929. Teesi pätee kaikkeen luovaan työhön. Minkälaisen oman tilan säveltävät naiset nyky-Suomessa tarvitsevat? Entä ennen?
+
+          Oma huone -ohjelmassa tutustutaan historian säveltäviin naisiin ja tavataan neljä musiikin tekijää eri puolilta Suomea: Rovaniemeläinen Rosa Coste pukee tarinansa r’n’b-musiikkiin. Tänä vuonna ilmestyneen olen- esikoislevyn kappaleet käsittelevät identiteettiä ja elämää pohjoisessa kaupungissa. Petra "Pelkkä" Poutasen esikoisalbumi Pyhä veri vuotaa julkaistiin 2021 ja keräsi kehuja ja palkintoehdokkuuksia. Poutasen musiikki on sekoitus kansanmusiikkia ja elektroa. Hän työskentelee Tampereen Pispalassa. Outi Tarkiainen on kiinnostavimpia nykysäveltäjiämme. Hänen teoksiaan ovat tilanneet ja esittäneet monet kansainväliset huippuorkesterit. Hän asuu ja säveltää nykyään Rovaniemen maisemissa. Anna Näkkäläjärvi-Länsman eli Ánnámáret on pohjoissaamelainen joikaaja ja muusikko. Nuorgamissa asuva artisti yhdistelee musiikissaan elektronisia elementtejä joikuperinteeseen.
+
+          Asiantuntijana keskustelemassa on musiikintutkija Susanna Välimäki. Ohjelman toimittajat ovat Laura Korhonen, Susanna Vainiola ja Tuuli Saksala. 
+        series: Kotimaisia konsertteja
       - title: Yle Uutiset
         start_time: '2025-05-09T21:00:00+03:00'
         end_time: '2025-05-09T21:02:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:06.737948+00:00'
+  generated_at: '2025-05-01T02:36:23.261948+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -42,6 +42,19 @@ data:
       - title: Aamuklassinen
         start_time: '2025-05-01T06:30:00+03:00'
         end_time: '2025-05-01T07:30:00+03:00'
+        description: |
+          Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
+
+          Gabrieli: Canzon duo decimi toni (Rolf Smedvig, johtaja, trumpetti, ja Empire Brass Quintetin, Bostonin SO: ja New Yorkin FO:n jäseniä).
+
+          Paganini: Sonata concertata A-duuri (Monica Huggett, viulu, ja Richard Savino, kitara).
+
+          Beethoven: Kaksitoista saksalaista tanssia. (Tapiola Sinfonietta/John Storgårds).
+
+          Kuhlau: Mailied (Akademiska Sångföreningen/John Schultz).
+
+          Vaughan Williams: Fantasia sävelmästä Greensleeves (Cincinnati Pops/Erich Kunzel).
+        series: Yle Klassinen
       - title: Hartaita säveliä
         start_time: '2025-05-01T07:30:00+03:00'
         end_time: '2025-05-01T07:50:00+03:00'
@@ -62,7 +75,7 @@ data:
         start_time: '2025-05-01T07:50:00+03:00'
         end_time: '2025-05-01T07:59:59+03:00'
         description: |
-          "Harhapoluillakin olet Jumalan näköpiirissä"
+          "Eksyksissä vai piilossa?"
           Toimittaja Heli Karhumäki Lapualta pohtii, miten eri asia on kokea olevansa eksyksissä pimeässä metsässä kuin leikkiä piilosta Isän kanssa.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
@@ -118,7 +131,7 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-01T11:57:00+03:00'
         end_time: '2025-05-01T12:00:00+03:00'
-        description: |-
+        description: |
           Elvi Sinervon runo Vappumarssi. Kokoelmasta Runot 1931-56. Love kustannus 1977
         series: Päivän mietelause
       - title: Yle Uutiset ja sää
@@ -243,7 +256,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-01T19:00:00+03:00'
         end_time: '2025-05-01T19:02:00+03:00'
-      - title: Etnokonsertteja Kap Verdeltä ja Senegalista
+      - title: Etnokonsertteja Afrikasta
         start_time: '2025-05-01T19:02:00+03:00'
         end_time: '2025-05-01T21:00:00+03:00'
         description: |

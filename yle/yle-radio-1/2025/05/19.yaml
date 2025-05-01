@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:15.605098+00:00'
+  generated_at: '2025-05-01T02:36:32.036549+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -37,6 +37,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-19T09:05:40+03:00'
         end_time: '2025-05-19T09:58:00+03:00'
+        description: |
+          Warren: Chattanooga choo choo (Diana Miller).
+          Aava: Topparoikka tulee (Justeeri).
+          Welch: Ich werde dich lieben (Marlene Dietrich).
+          Dominguez: Frenesi (The Four Freshmen).
+          Kalmar: Itämaista rakkautta (Four Cats).
+          Sylvain: Det är den stora, stora kärleken (Ulla Billquist).
+          Green: I wanna be loved (The Andrews Sisters).
+          Carosone: Maruzzella (Janio Marti).
+          Alstone: Tähtien kertomaa (Rauni Pekkala).
+          Goering: A kiss to remember (Doris Day).
+          Monis: Faubourg Saint-Martin (Yves Montand).
+          Theodorakis: Sogno di liberta (Milva).
+          Goodman: City of New Orleans (Steve Goodman).
+          Forrest: Night train (Oscar Peterson trio).
         series: Muistojen bulevardi
       - title: Virtasen taloushistoria
         start_time: '2025-05-19T10:00:00+03:00'

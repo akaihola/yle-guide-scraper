@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:17.469898+00:00'
+  generated_at: '2025-05-01T02:36:33.388786+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -25,11 +25,11 @@ data:
       - title: Kulttuurin kulmilla
         start_time: '2025-05-24T07:20:30+03:00'
         end_time: '2025-05-24T07:30:00+03:00'
-      - title: 'Luomiskertomus: Marjo Heiskanen kertoo kirjastaan Magdan aaria'
+      - title: 'Luomiskertomus: Samae Koskinen Aina on itketty'
         start_time: '2025-05-24T07:31:00+03:00'
         end_time: '2025-05-24T07:56:00+03:00'
-        description: |-
-          Kirjailija kertoo kirjan syntytarinan. Toimittajana on Jonni Roos.
+        description: |
+          Samae Koskinen kertoo, että kiusaamisesta kertova tarina oli niin suuri, että normaalisti lauluihin havaintojaan kirjoittava muusikko päätti kirjoittaa laulun sijaan romaanin. Toimittajana on Jarmo Laitaneva. 
         series: Luomiskertomus
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-24T07:56:00+03:00'
@@ -62,6 +62,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-24T09:05:40+03:00'
         end_time: '2025-05-24T09:58:00+03:00'
+        description: |
+          Aznavour: Au printemps tu reviendras (Charles Aznavour).
+          Rodgers: Spring is here (Ella Fitzgerald).
+          Reinhardt: Swing 42 (Le Quintette du Hot Club de France).
+          Di Capua: O sole mio (Robertino Loreti).
+          Malmsten: Pikku-Pekan pajupilli (Georg Malmsten ja Heikki Juhani).
+          Porter: Divine biguine (Laura Fygi).
+          Valkama: Valkovuokot (Eino Grön).
+          Mitchell: Both sides now (Joni Mitchell).
+          Frontini: Hilpeä paimenhuilu (Annikki Tähti).
+          Rodgers: The lonely goatherd (Julie Andrews).
+          Dahlquist: Kevät Helsingissä (Olavi Virta).
+          Porter: Just one of those things (Doris Day).
+          J.S. Bach (sov. Anderson): Bourée (Jethro Tull).
+          O. Merikanto: Itkevä huilu (Vesa-Matti Loiri).
         series: Muistojen bulevardi
       - title: Yle Uutiset
         start_time: '2025-05-24T10:00:00+03:00'
@@ -142,6 +157,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-24T16:10:00+03:00'
         end_time: '2025-05-24T16:59:00+03:00'
+        description: |-
+          J. Strauss, nuor.: Taiteilijakatrilli (Cincinnati Pops/Erich Kunzel).
+
+          Fauré: Berceuse (Anne-Sophie Mutter, viulu, ja Wienin filharmonikot/James Levine).
+
+          Härma: Küll oli ilus mu öieke (Viron radion kuoro/Toomas Kapten).
+
+          Melartin: Barcarole (Marita Viitasalo, piano).
+
+          O. Merikanto: Annina (Jorma Hynninen, baritoni, ja Ralf Gothóni, piano).
+
+          Klami: Karjalaisia tansseja (RSO/Jussi Jalas).
+
+          Suk: Menuetti (Josef Suk, viulu, ja Josef Hála, piano).
+
+          Puccini: Laurettan aaria "O mio babbino caro" oopp. Gianni Schicchi (Irma Urrila, sopraano, ja RSO/Okko Kamu).
+
+          Vivaldi: Allegro huilukonsertosta D-duuri (Tikli) (Emmanuel Pahud ja Australian kamariork./Richard Tognetti).
+
+          C. Kreutzer: Frühlingsnahen (Die Singphoniker ja Berno Scharpf, fortepiano).
+
+          Dvorák: Prahalaisia valsseja (Budapestin musiikkijuhlien ork./Iván Fischer).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-24T17:00:00+03:00'

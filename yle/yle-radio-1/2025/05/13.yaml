@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-04-30T02:33:12.871517+00:00'
+  generated_at: '2025-05-01T02:36:29.441488+00:00'
   git:
     branch: main
-    commit: 50ab408b4d26bcf2bb6a1dd6d7f8afd4df7dfdfe
-  data_hash: a6120344ff1acd79faf05ed14875afe012d33afd44223000f84ab7b61c8698f2
+    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
+  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,30 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-13T07:10:00+03:00'
         end_time: '2025-05-13T07:59:59+03:00'
+        description: |+
+          Massenet: Meditaatio oopp. Thaïs (Michala Petri, alttonokkahuilu, ja Lars Hannibal, kitara).
+
+          Lalo: Aubade (Aamulaulu) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          MacDowell: Villiruusulle (Van Cliburn, piano).
+
+          Mendelssohn: Die Primel (Esikko) (Dresdner Kreuzchor/Roderich Kreile).
+
+          Raitio: Sinivuokko (Blue hepatica) viululle ja pianolle (Annemarie Åström ja Tiina Karakorpi). 
+
+          Nazareth: Floraux (Sharon Isbin, Larry Coryell ja Laurindo Almeida, kitara).
+
+          Melartin: Lumpeenkukka (Peter Lindroos, tenori, ja Gustav Djupsjöbacka, piano). 
+
+          Grieg: Sinfoninen tanssi n:o 2 (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          Servais: Allegro fantasiasta sellolle ja harpulle (Seeli Toivio ja Lily-Marlene Puusepp).
+
+          Böhme: Laulu (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Peterson-Berger (sov. Bergström - Bergqvist): Intåg i Sommarhagen (Tulo Sommarhageniin) (Juhani Palola, viulu, ja Roland Müller, kitara).
+
+        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-13T08:00:00+03:00'
         end_time: '2025-05-13T08:10:00+03:00'
@@ -104,7 +128,21 @@ data:
         start_time: '2025-05-13T15:02:00+03:00'
         end_time: '2025-05-13T15:55:00+03:00'
         description: |
+          Toimittaja Ida Kukkapuro kirjoitti avoimen, omaelämäkerrallisen kirjan omasta sukuhistoriastaan ainoana lapsena ja yhtenä kuudesta sisaruksesta. Sisaruuksia on kirja joka herättää lukijan miettimään omaa suhdettaan sisaruksiinsa ja avaa myös sisaruutta käsittelevää tutkimusta ja kulttuurihistoriaa. Onko sisaruus vanhempien vastuulla? Voiko kokea sisaruutta ystäväänsä? Millä tavalla kulttuurihistoria on käsitellyt sisaruutta?
+
+          Kirja on esseistinen ja siinä valotetaan sisaruutta Antiikin historian myyttien, Raamatun, filosofian, kasvatustieteiden ja lääketieteenkin kautta.  
+          Ida Kukkapuro on asunut suuren osan lapsuuttaan ja nuoruuttaan hänen äitinsä vanhempien luona. Isoisä oli legendaarinen muotoilija, äsken menehtynyt Yrjö Kukkapuro. Adoption myötä hänestä tuli Idan isä. Millainen isä hän oli?
+
+          Ohjelman vieraana on toimittaja, kirjailija Ida Kukkapuro.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        series: Kulttuuriykkönen
       - title: Yle News
         start_time: '2025-05-13T15:55:00+03:00'
         end_time: '2025-05-13T15:58:00+03:00'
