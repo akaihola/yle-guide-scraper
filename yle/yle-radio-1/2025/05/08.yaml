@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-01T02:36:26.920865+00:00'
+  generated_at: '2025-05-02T02:33:32.089870+00:00'
   git:
     branch: main
-    commit: 2338c5027c9f30f1acb34b3761ea09eee864b34d
-  data_hash: ae0cc986fa3eafdfa1661e6c2fda0c13bbac918adbd5e451f4847adb68f82544
+    commit: d5a8d1fccd9b05e3421c4250f652193b3dd8d1fd
+  data_hash: d1e41f3a7d3116779151d4bd78be65a17cf4197d36a9b37bd77e367ed254eb5c
 data:
   Yle Radio 1:
     programmes:
@@ -245,9 +245,20 @@ data:
       - title: Tosi tarina
         start_time: '2025-05-08T21:35:00+03:00'
         end_time: '2025-05-08T22:30:00+03:00'
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+      - title: "Radioteatteri esittää: Kerran viel' Suomisen perhe! osa 6"
         start_time: '2025-05-08T22:30:30+03:00'
-        end_time: '2025-05-08T22:49:30+03:00'
+        end_time: '2025-05-08T22:45:38+03:00'
+        description: |
+          Legendaarinen Suomisen perhe palaa yli 60 vuoden jälkeen! Suomisen perhesuhteet ovat yhtä moninaisia kuin perheenjäsenet, mutta elämän ydintä ovat yhä ne tärkeimmät asiat: huolenpito, ilo ja välittäminen. Vaikka perheessä ei kaikesta aina olla samaa mieltä, kaveria ei jätetä. Ja lopuksi syödään yhdessä täytekakkua.
+
+          Käsikirjoitus: Valto Kuuluvainen.
+          Dramaturgi: Paula Salminen.
+          Ohjaus: Laura Mattila.
+          Äänisuunnittelu: Anders Wiksten.
+          Tuotanto: Laura Jaakkola ja Eveliina Solja, Yle Draama 2023.
+
+          Rooleissa: Petriikka Pohjanheimo, Juho Uusitalo, Miiko Toiviainen, Fanni Noroila, Ulla Tapaninen, Hannu-Pekka Björkman, Janne Raudaskoski, Sari Havas, Jani Toivola, Mikko Roiha, Tom Pöysti, Ronja Bado ja Lila Bado.
+        series: Kerran viel’ Suomisen perhe!
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-05-08T23:00:00+03:00'
         end_time: '2025-05-08T23:56:30+03:00'
