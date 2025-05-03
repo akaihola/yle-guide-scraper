@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-02T02:33:34.157848+00:00'
+  generated_at: '2025-05-03T02:32:11.902616+00:00'
   git:
     branch: main
-    commit: d5a8d1fccd9b05e3421c4250f652193b3dd8d1fd
-  data_hash: d1e41f3a7d3116779151d4bd78be65a17cf4197d36a9b37bd77e367ed254eb5c
+    commit: 4708e9d95ac652cb01ed8fc5e897ad7874586b2e
+  data_hash: cf235f5b7ee54148ea3d0bcad9b48c25c4cd8ab3ca1020b278557f476ad22e1e
 data:
   Yle Radio 1:
     programmes:
@@ -27,8 +27,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-05-15T06:50:00+03:00'
         end_time: '2025-05-15T06:59:59+03:00'
-        description: |-
-          Aalto-Yliopiston oppilaitospappi Kristiina Huotari, Espoo
+        description: |
+          "Ystävyys on arvokasta"
+          Aalto-Yliopiston oppilaitospappi Kristiina Huotari Espoosta puhuu yksinäisyydestä ja pohtii keinoja, joilla yksinäisyyttä ja koti-ikävää voisi lievittää.
         series: Aamuhartaus
       - title: Yle Uutiset ja sää
         start_time: '2025-05-15T07:00:00+03:00'
@@ -49,6 +50,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-15T09:05:40+03:00'
         end_time: '2025-05-15T09:58:00+03:00'
+        description: |-
+          Carpenter: Top of the world (Carpenters).
+          Parks: Qualche stupido ti amo (Sacha Distel ja Joanna Shimkus).
+          Farrar: Sinut haluan vain (Anna ja Kirka).
+          Lavoie: Me and you and a dog named Boo (Lobo).
+          Kansansävelmä: Pojat (Laila ja Ritva Kinnunen).
+          Ramel: Vi sjunger så bra tillsammans (Alice Babs & Povel Ramel).
+          Goodhart/Hoffman/Freed: Who walks in, when I walk out (Ella Fitzgerald & Louis Armstrong).
+          Youmans: Tea for two (Stephane Grappelli ja Yehudi Menuhin).
+          Hector: Ake, Make, Pera ja mä (Hector).
+          Simon: Me and Julio down by the schoolyard (Paul Simon).
+          Grever: Cuando vuelva a tu lado (Eydie Gorme ja Los Panchos).
+          Mårtenson: Sua kutsun Maarit (Lasse Mårtenson & Maarit Hurmerinta).
+          Sainte-Marie/Nitzsche: Up where we belong (Joe Cocker & Jennifer Warnes).
+          Cutugno: Il etait une fois nous deux (Joe Dassin).
         series: Muistojen bulevardi
       - title: Marko Gustafssonin vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola
         start_time: '2025-05-15T10:00:00+03:00'

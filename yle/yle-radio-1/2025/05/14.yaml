@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-02T02:33:33.955424+00:00'
+  generated_at: '2025-05-03T02:32:11.707991+00:00'
   git:
     branch: main
-    commit: d5a8d1fccd9b05e3421c4250f652193b3dd8d1fd
-  data_hash: d1e41f3a7d3116779151d4bd78be65a17cf4197d36a9b37bd77e367ed254eb5c
+    commit: 4708e9d95ac652cb01ed8fc5e897ad7874586b2e
+  data_hash: cf235f5b7ee54148ea3d0bcad9b48c25c4cd8ab3ca1020b278557f476ad22e1e
 data:
   Yle Radio 1:
     programmes:
@@ -28,6 +28,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-14T07:10:00+03:00'
         end_time: '2025-05-14T07:59:59+03:00'
+        description: |+
+          J.S. Bach: Allemande Ranskalaisesta sarjasta n:o 6 E-duuri (Murray Perahia, piano).
+
+          Stanford: Kevät (Stephen Varcoe, baritoni, ja Clifford Benson, piano).
+
+          Halvorsen: Intrata (Norjan radio-orkesteri/Ari Rasilainen).
+
+          Beethoven (sov. Tarrega): Allegretto sinfoniasta n:o 7 A-duuri (Timo Korhonen, kitara).
+
+          Byström: Allegro vivace sonaatista B-duuri (Tatjana Grindenko, viulu, ja Aleksei Ljubimov, piano).
+
+          Carr-Boyd: Rhumba for two (Rumba kahdelle) (Amy Whyte, klarinetti, ja John Martin, piano).
+
+          Debussy: Balladi pianolle (Anna Kuvaja).
+
+          W.A. Mozart (sov. Sciarrino): Adagio lasiharmonikalle C-duuri (Ensemble Recherche). 
+
+          Chopin: Nokturni n:o 8 Des-duuri (John Browning, piano).
+
+          Falla: Myllärin tanssi bal. Kolmikolkkahattu (RSO/Sakari Oramo).
+
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-14T08:00:00+03:00'

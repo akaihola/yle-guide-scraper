@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-02T02:33:30.346626+00:00'
+  generated_at: '2025-05-03T02:32:08.597874+00:00'
   git:
     branch: main
-    commit: d5a8d1fccd9b05e3421c4250f652193b3dd8d1fd
-  data_hash: d1e41f3a7d3116779151d4bd78be65a17cf4197d36a9b37bd77e367ed254eb5c
+    commit: 4708e9d95ac652cb01ed8fc5e897ad7874586b2e
+  data_hash: cf235f5b7ee54148ea3d0bcad9b48c25c4cd8ab3ca1020b278557f476ad22e1e
 data:
   Yle Radio 1:
     programmes:
@@ -55,6 +55,9 @@ data:
       - title: Radio 1 soi
         start_time: '2025-05-03T07:02:05+03:00'
         end_time: '2025-05-03T07:24:13+03:00'
+        description: |-
+          W.A. Mozart: Kvartetto huilulle ja jousille A-duuri (Carol Wincenc ja Emerson-kvartetti). 
+          Tshaikovski: Serenade melancolique (James Ehnes, viulu, ja Sydneyn SO/Vladimir Ashkenazy).
         series: Yksi on hyvää seuraa
       - title: 'Kulttuurin kulmilla: Jokamiehen parrasvalot'
         start_time: '2025-05-03T07:24:13+03:00'
@@ -73,6 +76,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-03T07:56:00+03:00'
         end_time: '2025-05-03T08:00:00+03:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-05-03T08:00:00+03:00'
         end_time: '2025-05-03T08:05:00+03:00'
@@ -106,6 +110,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-03T08:55:00+03:00'
         end_time: '2025-05-03T09:00:00+03:00'
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-05-03T09:00:00+03:00'
         end_time: '2025-05-03T09:05:00+03:00'
@@ -146,7 +151,7 @@ data:
         start_time: '2025-05-03T11:00:00+03:00'
         end_time: '2025-05-03T11:55:00+03:00'
         description: |
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Musiikki oli ensirakkauteni, sanoo monipuolinen musiiikin ammattilainen Sami Pitkämö. Nykyisin hänellä on määreitä pasunistista sovittajaan ja orkesterinjohtajaan. Rakkainta on kuitenkin laulaminen. Sami Pitkämö kertoo ohjelmassa kappaleista, joiden kuuntelemiseen hän ei kyllästy. Toimittajana on Maija Salminen.
         series: Näistä levyistä en luovu
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-03T11:57:00+03:00'
@@ -160,6 +165,15 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-05-03T12:05:00+03:00'
         end_time: '2025-05-03T12:30:00+03:00'
+        description: |
+          Yhdysvalloissa Trumpin hallinto on ryhtynyt leikkaamaan yliopistojen rahoitusta. Leikkauksia ja rahoitusjäädytyksiä on perusteltu juutalaisvastaisuuden kitkemisellä.
+
+           Arvostelijoiden mukaan se on kuitenkin vain tekosyy yliopistojen rankaisemiseen, sillä perimmäinen motiivi olisi yrittää saada yliopisto-opetus hallinnon ideologiaa tukevaksi.
+
+           Ohjelmassa haastatellaan lukuisia yhdysvaltalaisprofessoreita, miten Trumpin hallinnon leikkaukset heidän yliopistoissaan näkyvät. Lisäksi kaksi Suomessa toimivaa professoria arvioi, kuinka Yhdysvaltain yliopistojen kuristamisella on myös rajat ylittäviä vaikutuksia. 
+
+           Maailmanpolitiikan arkipäivää -ohjelmassa pohditaan, mitä yliopistojen leikkaukset ovat Yhdysvalloille tekemässä. Ohjelman ovat toimittaneet Juri von Bonsdorff ja Paula Vilén. Äänitarkkailijana on Panu Willman.
+        series: Maailmanpolitiikan arkipäivää
       - title: 'Siivekkäät J7: Voisiko lohikäärme lentää?'
         start_time: '2025-05-03T12:30:00+03:00'
         end_time: '2025-05-03T13:05:00+03:00'
@@ -190,6 +204,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-03T14:55:00+03:00'
         end_time: '2025-05-03T15:00:00+03:00'
+        series: Yksi on hyvää seuraa
       - title: "Radioteatteri esittää: Kerran viel' Suomisen perhe! osa 6"
         start_time: '2025-05-03T15:00:00+03:00'
         end_time: '2025-05-03T15:16:00+03:00'
@@ -279,33 +294,39 @@ data:
         start_time: '2025-05-03T19:02:00+03:00'
         end_time: '2025-05-03T20:15:00+03:00'
         description: |-
-          Modernin pianomusiikin kulttiklassikko, Frederic Rzewskin (1938–2021) variaatiosarja The People United Will Never Be Defeated! vuodelta 1975 soi Musiikkitalon Paavo-salissa 29.4.2025 klo 19 pianisti Mirka Viitalan esittämänä. Teos pohjautuu tunnettuun chileläiseen protestilauluun El pueblo unido jamás será vencido! Konsertin toimittaa Lotta Emanuelsson.
-
-          Ohjelma:
-
-          Fredric Rzewski: The People United Will Never Be Defeated!
-          Mirka Viitala, piano
-
-          Kuvassa pianisti Mirka Viitala (Kuva: Maarit Kytöharju)
+          Frederic Rzewski: The People United Will Never Be Defeated: teema ja 36 muunnelmaa pianolle. Mirka Viitala, piano. - Musiikkitalon Paavo-salissa 29.4.2025 äänitetyn konsertin toimittaa Lotta Emanuelsson.
         series: Konsertteja
       - title: Yle Uutiset
         start_time: '2025-05-03T21:00:00+03:00'
         end_time: '2025-05-03T21:02:05+03:00'
       - title: 'Uutispodcast: Kelan pääjohtajan valinta päättyi rumasti – voiko poliittisista nimityksistä päästä eroon?'
         start_time: '2025-05-03T21:02:37+03:00'
-        end_time: '2025-05-03T21:24:11+03:00'
+        end_time: '2025-05-03T21:24:10+03:00'
         description: |-
           Kelan pääjohtajan valinnasta kehkeytyi aikamoinen soppa. Mitä tämä prosessi kertoo poliittisten virkanimitysten historiasta ja nykyisyydestä? Uutispodcastin Reetta Röngän haastattelussa Ilta-Sanomien politiikan toimittaja Erno Laisi. 
         series: Uutispodcast
       - title: Maailmanpolitiikan arkipäivää
-        start_time: '2025-05-03T21:24:54+03:00'
-        end_time: '2025-05-03T21:50:00+03:00'
-        series: Maailmanpolitiikan arkipäivää
-      - title: Minne Rinne vie
-        start_time: '2025-05-03T21:55:30+03:00'
-        end_time: '2025-05-03T22:15:30+03:00'
+        start_time: '2025-05-03T21:24:53+03:00'
+        end_time: '2025-05-03T21:49:22+03:00'
         description: |
-          Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
+          Yhdysvalloissa Trumpin hallinto on ryhtynyt leikkaamaan yliopistojen rahoitusta. Leikkauksia ja rahoitusjäädytyksiä on perusteltu juutalaisvastaisuuden kitkemisellä.
+
+           Arvostelijoiden mukaan se on kuitenkin vain tekosyy yliopistojen rankaisemiseen, sillä perimmäinen motiivi olisi yrittää saada yliopisto-opetus hallinnon ideologiaa tukevaksi.
+
+           Ohjelmassa haastatellaan lukuisia yhdysvaltalaisprofessoreita, miten Trumpin hallinnon leikkaukset heidän yliopistoissaan näkyvät. Lisäksi kaksi Suomessa toimivaa professoria arvioi, kuinka Yhdysvaltain yliopistojen kuristamisella on myös rajat ylittäviä vaikutuksia. 
+
+           Maailmanpolitiikan arkipäivää -ohjelmassa pohditaan, mitä yliopistojen leikkaukset ovat Yhdysvalloille tekemässä. Ohjelman ovat toimittaneet Juri von Bonsdorff ja Paula Vilén. Äänitarkkailijana on Panu Willman.
+        series: Maailmanpolitiikan arkipäivää
+      - title: Radio 1 soi
+        start_time: '2025-05-03T21:49:22+03:00'
+        end_time: '2025-05-03T21:56:17+03:00'
+        description: |-
+          Busoni: Suomalainen balladi (Eero Heinonen, piano).
+      - title: 'Minne Rinne vie: Polkimilla on Tiina Männistö-Funk'
+        start_time: '2025-05-03T21:56:17+03:00'
+        end_time: '2025-05-03T22:15:47+03:00'
+        description: |
+          Pyöräily on kätevä tapa liikkua paikasta toiseen. Se on myös paljon muuta: tunteita, muistoja, riemua, ärtymystä, ylä- ja alamäkiä, historiaa, tulevaisuutta ja nykyhetkeä. Polkimilla-sarjakuvakirjan tekijät tutkija Tiina Männistö-Funk ja Tiitu Takalo pureutuvat kirjassaan pyöräilyn olemukseen ja mahdollisuuksiin sekä yhteiskunnan että yksilön tasolla. Pyöräilyn kautta avautuu yllättäviä näkökulmia paitsi liikenteeseen, niin myös kaupunkisuunnitteluun ja -rakentamiseen. Teos havainnollistaa, miten yli 50 vuotta sitten tehdyt muutokset vaikuttavat yhä arkeemme, mutta kutsuu myös kuvittelemaan toisenlaista kaupunkia ja löytämään pyöräilyn ilot.
         series: Minne Rinne vie
       - title: 'Kielen päällä: Vappuohjelma huumorin kielestä'
         start_time: '2025-05-03T22:16:04+03:00'
@@ -319,125 +340,56 @@ data:
         description: |
           Mistä blues on kotoisin? Yhdysvalloista. Kyllä, muttei vain sieltä. Kun juuria tunnustelee syvemmältä, päädytään Länsi-Afrikkaan. Ja jos katsotaan tätä päivää, huomataan että blues soi monien eurooppalaisten kansanmusiikkien seassa, meillä Suomessakin. Entä miltä kuulostaa Kalkutan kovin slide-kitaristi Intiassa? Ja mitä tekemistä bluesilla ja katharsiksella on toistensa kanssa? Toimittajana Mika Kauhanen. (Uusinta marraskuulta 2024)
         series: Keinuva talo - Mika Kauhanen
+      - title: Radio 1 soi
+        start_time: '2025-05-03T23:23:46+03:00'
+        end_time: '2025-05-03T23:31:35+03:00'
+        description: |-
+          Fauré: Elegia sellolle ja pianolle c-molli (Susanna Mälkki ja Eero Heinonen).
+      - title: 'Eilisen ääni: Touhukas mieli valtaa ihmiset kevätpäivänä'
+        start_time: '2025-05-03T23:32:21+03:00'
+        end_time: '2025-05-03T23:39:21+03:00'
+        description: |-
+          Tänään iltapäivällä -lähetyksen toimittajat Terttu Lensu ja Erja Ekholm ulkoistivat itsensä huhtikuussa 1994 kevättunnelmia tutkailemaan. Juttua riitti sorsien ruokinnasta pihatöiden kautta rakkauteenkin asti.
+
+          Ohjelman ensilähetys oli 10.4.1994.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-05-03T23:40:00+03:00'
         end_time: '2025-05-04T07:00:00+03:00'
-        description: |-
+        description: |
           Vivaldi: Konsertto fagotille, jousille ja continuolle F-duuri RV485 (Sherman Walt ja Zimbler Sinfonietta).
 
+          23:52 Turina: Canto a Sevilla (Laulu Sevillalle) (María Espada, sopraano, ja BBC:n FO:n jouset/Juanjo Mena).
 
+          00:30 Ehrström: Vid en källa (RKK/Harald Andersén).
 
+          00:34 A. Zimmermann: Sonaatti viululle ja pianolle n:o 3 g-molli (Mathilde Milwidsky ja Sam Haywood).
 
+          01:03 Schumann: Fantasia pianolle C-duuri (Antti Siirala).
 
+          01:36 Brulé: Les oxeles de mon paix (Paul Hillier, baritoni, ja Andrew Lawrence-King, harppu).
 
-          Turina: Canto a Sevilla (Laulu Sevillalle) (María Espada, sopraano, ja BBC:n FO:n jouset/Juanjo Mena).
+          01:48 Wagner: Alkusoitto oopp. Tannhäuser (Bostonin SO/Andris Nelsons).
 
+          02:05 Debussy: Sonaatti huilulle, alttoviululle ja harpulle. (Jean-Pierre Rampal, Pierre Pasquier ja Lily Laskine).
 
+          02:23 Humperdinck: Pelimannin laulu oopp. Königskinder (Kuninkaan lapset) (Hermann Prey, baritoni, ja Berliinin Mozartkuoro sekä Berliinin sinfonikot/Horst Stein).
 
+          02:35 J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
 
-          Ehrström: Vid en källa (RKK/Harald Andersén).
+          03:04 Beethoven: Sonaatti sellolle ja pianolle n:o 2 g-molli (Janos Starker ja György Sebök).
 
+          03:27 J. Strauss (nuor.): Seid umschlungen, Millionen (RSO/Paavo Berglund).
 
+          03:39 Shostakovitsh: Sonaatti sellolle ja pianolle d-molli (Daniil Shafran ja Lidija Petsherskaja).
 
+          04:04 Mahler: Das Lied von der Erde (Laulu maasta) (Jon Villars, tenori, Michelle DeYoung, mezzosopraano, ja Minnesotan ork./Eiji Oue). 
 
+          05:11 Madetoja: Pienoiskuvia (Risto Kyrö, piano)
 
+          05:23 Bruckner: Sinfonia n:o 4 Es-duuri (Romanttinen) (Los Angelesin FO/Esa-Pekka Salonen). 
 
+          06:33 Schütz: Herzlich lieb hab ich dich, o Herr (Emmanuel Music/Craig Smith).
 
-
-          A. Zimmermann: Sonaatti viululle ja pianolle n:o 3 g-molli (Mathilde Milwidsky ja Sam Haywood).
-
-
-
-
-
-
-          Schumann: Fantasia pianolle C-duuri (Antti Siirala).
-
-
-
-
-
-
-          Brulé: Les oxeles de mon paix (Paul Hillier, baritoni, ja Andrew Lawrence-King, harppu).
-
-
-
-
-
-
-
-
-          Wagner: Alkusoitto oopp. Tannhäuser (Bostonin SO/Andris Nelsons).
-
-
-
-
-
-
-
-          Debussy: Sonaatti huilulle, alttoviululle ja harpulle. (Jean-Pierre Rampal, Pierre Pasquier ja Lily Laskine).
-
-
-
-          Humperdinck: Pelimannin laulu oopp. Königskinder (Kuninkaan lapset) (Hermann Prey, baritoni, ja Berliinin Mozartkuoro sekä Berliinin sinfonikot/Horst Stein).
-
-
-
-
-
-
-          J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
-
-
-
-
-
-
-          Beethoven: Sonaatti sellolle ja pianolle n:o 2 g-molli (Janos Starker ja György Sebök).
-
-
-
-          J. Strauss (nuor.): Seid umschlungen, Millionen (RSO/Paavo Berglund).
-
-
-
-
-
-
-          Shostakovitsh: Sonaatti sellolle ja pianolle d-molli (Daniil Shafran ja Lidija Petsherskaja).
-
-
-
-
-
-
-          Mahler: Das Lied von der Erde (Laulu maasta) (Jon Villars, tenori, Michelle DeYoung, mezzosopraano, ja Minnesotan ork./Eiji Oue). 
-
-
-
-
-
-
-          Madetoja: Pienoiskuvia (Risto Kyrö, piano)
-
-
-
-
-
-
-
-
-          Bruckner: Sinfonia n:o 4 Es-duuri (Romanttinen) (Los Angelesin FO/Esa-Pekka Salonen). 
-
-
-
-
-          Schütz: Herzlich lieb hab ich dich, o Herr (Emmanuel Music/Craig Smith).
-
-
-
-
-
-
-          Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
+          06:44 Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
         series: Syventävää klassista

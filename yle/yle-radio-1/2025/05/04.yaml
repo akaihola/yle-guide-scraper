@@ -1,133 +1,51 @@
 metadata:
-  generated_at: '2025-05-02T02:33:30.680148+00:00'
+  generated_at: '2025-05-03T02:32:08.916148+00:00'
   git:
     branch: main
-    commit: d5a8d1fccd9b05e3421c4250f652193b3dd8d1fd
-  data_hash: d1e41f3a7d3116779151d4bd78be65a17cf4197d36a9b37bd77e367ed254eb5c
+    commit: 4708e9d95ac652cb01ed8fc5e897ad7874586b2e
+  data_hash: cf235f5b7ee54148ea3d0bcad9b48c25c4cd8ab3ca1020b278557f476ad22e1e
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-05-03T23:40:00+03:00'
         end_time: '2025-05-04T07:00:00+03:00'
-        description: |-
+        description: |
           Vivaldi: Konsertto fagotille, jousille ja continuolle F-duuri RV485 (Sherman Walt ja Zimbler Sinfonietta).
 
+          23:52 Turina: Canto a Sevilla (Laulu Sevillalle) (María Espada, sopraano, ja BBC:n FO:n jouset/Juanjo Mena).
 
+          00:30 Ehrström: Vid en källa (RKK/Harald Andersén).
 
+          00:34 A. Zimmermann: Sonaatti viululle ja pianolle n:o 3 g-molli (Mathilde Milwidsky ja Sam Haywood).
 
+          01:03 Schumann: Fantasia pianolle C-duuri (Antti Siirala).
 
+          01:36 Brulé: Les oxeles de mon paix (Paul Hillier, baritoni, ja Andrew Lawrence-King, harppu).
 
-          Turina: Canto a Sevilla (Laulu Sevillalle) (María Espada, sopraano, ja BBC:n FO:n jouset/Juanjo Mena).
+          01:48 Wagner: Alkusoitto oopp. Tannhäuser (Bostonin SO/Andris Nelsons).
 
+          02:05 Debussy: Sonaatti huilulle, alttoviululle ja harpulle. (Jean-Pierre Rampal, Pierre Pasquier ja Lily Laskine).
 
+          02:23 Humperdinck: Pelimannin laulu oopp. Königskinder (Kuninkaan lapset) (Hermann Prey, baritoni, ja Berliinin Mozartkuoro sekä Berliinin sinfonikot/Horst Stein).
 
+          02:35 J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
 
-          Ehrström: Vid en källa (RKK/Harald Andersén).
+          03:04 Beethoven: Sonaatti sellolle ja pianolle n:o 2 g-molli (Janos Starker ja György Sebök).
 
+          03:27 J. Strauss (nuor.): Seid umschlungen, Millionen (RSO/Paavo Berglund).
 
+          03:39 Shostakovitsh: Sonaatti sellolle ja pianolle d-molli (Daniil Shafran ja Lidija Petsherskaja).
 
+          04:04 Mahler: Das Lied von der Erde (Laulu maasta) (Jon Villars, tenori, Michelle DeYoung, mezzosopraano, ja Minnesotan ork./Eiji Oue). 
 
+          05:11 Madetoja: Pienoiskuvia (Risto Kyrö, piano)
 
+          05:23 Bruckner: Sinfonia n:o 4 Es-duuri (Romanttinen) (Los Angelesin FO/Esa-Pekka Salonen). 
 
+          06:33 Schütz: Herzlich lieb hab ich dich, o Herr (Emmanuel Music/Craig Smith).
 
-
-          A. Zimmermann: Sonaatti viululle ja pianolle n:o 3 g-molli (Mathilde Milwidsky ja Sam Haywood).
-
-
-
-
-
-
-          Schumann: Fantasia pianolle C-duuri (Antti Siirala).
-
-
-
-
-
-
-          Brulé: Les oxeles de mon paix (Paul Hillier, baritoni, ja Andrew Lawrence-King, harppu).
-
-
-
-
-
-
-
-
-          Wagner: Alkusoitto oopp. Tannhäuser (Bostonin SO/Andris Nelsons).
-
-
-
-
-
-
-
-          Debussy: Sonaatti huilulle, alttoviululle ja harpulle. (Jean-Pierre Rampal, Pierre Pasquier ja Lily Laskine).
-
-
-
-          Humperdinck: Pelimannin laulu oopp. Königskinder (Kuninkaan lapset) (Hermann Prey, baritoni, ja Berliinin Mozartkuoro sekä Berliinin sinfonikot/Horst Stein).
-
-
-
-
-
-
-          J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
-
-
-
-
-
-
-          Beethoven: Sonaatti sellolle ja pianolle n:o 2 g-molli (Janos Starker ja György Sebök).
-
-
-
-          J. Strauss (nuor.): Seid umschlungen, Millionen (RSO/Paavo Berglund).
-
-
-
-
-
-
-          Shostakovitsh: Sonaatti sellolle ja pianolle d-molli (Daniil Shafran ja Lidija Petsherskaja).
-
-
-
-
-
-
-          Mahler: Das Lied von der Erde (Laulu maasta) (Jon Villars, tenori, Michelle DeYoung, mezzosopraano, ja Minnesotan ork./Eiji Oue). 
-
-
-
-
-
-
-          Madetoja: Pienoiskuvia (Risto Kyrö, piano)
-
-
-
-
-
-
-
-
-          Bruckner: Sinfonia n:o 4 Es-duuri (Romanttinen) (Los Angelesin FO/Esa-Pekka Salonen). 
-
-
-
-
-          Schütz: Herzlich lieb hab ich dich, o Herr (Emmanuel Music/Craig Smith).
-
-
-
-
-
-
-          Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
+          06:44 Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
         series: Syventävää klassista
       - title: Yle Uutiset
         start_time: '2025-05-04T07:00:00+03:00'
@@ -160,6 +78,12 @@ data:
 
           Darius Milhaud: Le boeuf sur le toit - Härkä katolla (The New London Orchestra/Ronald Corp).
         series: Klasariparatiisi - Eva Tigerstedt
+      - title: Radio 1 soi
+        start_time: '2025-05-04T07:57:16+03:00'
+        end_time: '2025-05-04T08:00:00+03:00'
+        description: |-
+          Dowland: Melancholy galliard (David Russell, kitara).
+        series: Yksi on hyvää seuraa
       - title: Yle Uutiset ja sää
         start_time: '2025-05-04T08:00:00+03:00'
         end_time: '2025-05-04T08:05:05+03:00'
@@ -318,7 +242,7 @@ data:
         start_time: '2025-05-04T19:02:05+03:00'
         end_time: '2025-05-04T19:59:51+03:00'
         description: |-
-          Keith Jarrett 80 vuotta ja Flame Jazz levy-yhtiön kevään uutuudet fokuksessa tämänkertaisessa Yle Jazzklubissa.
+          Keith Jarrett täyttää 80 vuotta eli onnittelut ovat paikallaan, Flame Jazz levy-yhtiön kevään uutuudet soivat fokuksessa tämänkertaisessa Jazzklubissa.
 
           1. Keith Jarrett: My Song / My Song (ECM)
           2. Keith Jarrett: Long As You Know Yours / Personal Mountains (ECM)
@@ -347,9 +271,14 @@ data:
         description: |
           Viime viikon kehysriihessä kuntien peruspalvelujen valtionosuuksia päätettiin leikata 75 miljoonalla. Millaisia vaikutuksia sillä on kuntien tulevaisuudennäkymiin? Atte Uusinokan haastattelussa Kuntaliiton kuntatalousasioiden johtaja Sanna Lehtonen. 
         series: Uutispodcast
+      - title: Radio 1 soi
+        start_time: '2025-05-04T21:26:24+03:00'
+        end_time: '2025-05-04T21:29:17+03:00'
+        description: |-
+          Rheinberger: Abendfriede (Illan rauha) (Octopus -kuoro/Bart van Reyn).
       - title: 'Klasariparatiisi: Tansseja, karnevaaleja ja Härkä katolla'
-        start_time: '2025-05-04T21:29:00+03:00'
-        end_time: '2025-05-04T22:23:54+03:00'
+        start_time: '2025-05-04T21:29:17+03:00'
+        end_time: '2025-05-04T22:24:11+03:00'
         description: |
           Vaikka sataisi, on kevät ja elämä herää. Elämäniloa tarjoaa myös musiikki ja tanssi.
           Erilaiset tanssit ja karnevaalitunnelma ryydittävät menoa, mutta Klasariparatiisin tämänkertainen pihvi on Härkä katolla.
@@ -376,8 +305,8 @@ data:
           Darius Milhaud: Le boeuf sur le toit - Härkä katolla (The New London Orchestra/Ronald Corp).
         series: Klasariparatiisi - Eva Tigerstedt
       - title: 'Sari Valto: Mistä löytyy vastavoimia stressille?'
-        start_time: '2025-05-04T22:24:54+03:00'
-        end_time: '2025-05-04T23:18:42+03:00'
+        start_time: '2025-05-04T22:24:31+03:00'
+        end_time: '2025-05-04T23:18:19+03:00'
         description: |+
           Resilienssivalmentaja Ulrika Björkstam ja filosofi Juha T.Hakala pohtivat, miksi työelämästä on tullut niin uuvuttavaa ja miten voisimme välttyä liialliselta stressaantumiselta.
 
@@ -389,8 +318,119 @@ data:
         description: |
           Romano miritsissä on pureuduttu Suomen romanien tekemään musiikkiin. Yhdeksänosaisessa sarjassa on kuultu niin romanien tekemästä tangosta, klassisesta musiikista, räpistä kuin rockistakin. Sarjan viimeisessä osassa toimittaja Jaakko Laakso pohtii yhdessä haastateltavien kanssa Suomen romanien musiikin merkitystä niin pääväestön ihmisille kuin romaneille itselleen. Voiko musiikilla vaikuttaa - ja mihin? Haastateltavina kuullaan niin Kurikan uimahallin asiakkaita kuin eturivin räppäreitä. Ohjelma on uusinta syyskuulta 2023.
         series: Romano mirits
+      - title: 'Eilisen ääni: Talon erikoinen. Jäätelö'
+        start_time: '2025-05-04T23:34:35+03:00'
+        end_time: '2025-05-04T23:39:06+03:00'
+        description: |-
+          Talon erikoinen -ohjelmasarjassa vuonna 1998 toimittaja Terttu Petäjä pakinoi ruokakulttuurista. Tällä kerralla aiheena on jäätelö.
+
+          Ohjelman ensilähetys oli 6.5.1998.
+        series: Eilisen ääni
       - title: Yöklassinen
         start_time: '2025-05-04T23:40:00+03:00'
         end_time: '2025-05-05T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |2-
+
+
+
+          Spohr: Nonetto F-duuri (Wieniläinen oktetti).
+
+
+
+
+
+
+          Dvorák: Sonatiini viululle ja pianolle G-duuri (Josef Suk ja Jan Panenka).
+
+
+
+
+          Ehrström: Svanen (Joutsen) (RKK/Harald Andersén).
+
+
+
+
+          Schubert: Adagio Es-duuri (The Mozartean Players).
+
+
+
+
+          Sorkocevic: Sinfonia D-duuri (Salzburger Hofmusik/Wolfgang Brunner).
+
+
+
+
+
+
+          Stenhammar: Pianokonsertto n:o 1 b-molli (Mats Widlund ja Tulkholman FO/Gennadi Rozhdestvenski).
+
+
+
+
+
+
+          Sarasate: Mustalaislauluja (Ruggiero Ricci, viulu, ja Lontoon SO/Piero Gamba).
+
+
+
+
+
+
+
+
+          Matthes: Sonaatti oboelle ja continuolle C-duuri (Vladimir Kurlin, oboe, ja Sergei Tsatsorin, urut).
+
+
+
+
+
+
+          W.A. Mozart: Serenadi B-duuri (Gran partita) (RSO:n puhaltajat/Sakari Oramo, ja Jukka Nuuttila, kontrabasso).
+
+
+
+
+          Kabalevski: Galoppi sarj. Ilveilijät (Cincinnati Pops/Erich Kunzel).
+
+
+
+
+
+
+          Villa-Lobos: Bachianas brasileiras n:o 4 (Uuden maailman SO/Michael Tilson Thomas).
+
+
+
+
+
+
+          Beethoven: Viulukonsertto D-duuri (Zino Francescatti ja Columbia-SO/Bruno Walter).
+
+
+
+
+          Liszt: Konserttietydi Des-duuri (Huokaus) (Annie Fischer, piano).
+
+
+
+
+
+
+          Cabanilles: Urkusävellyksiä (John Butt, urut).
+
+
+
+
+
+
+
+
+          Berwald: Konsertto kahdelle viululle ja orkesterille E-duuri (Johannes Lörstad ja Andreas Hagman sekä Malmön oopperaork./Niklas Willén).
+
+
+
+
+
+
+          1600-luvun englantilaisia balladeja ja tansseja. Säv. Byrd, Marchant, Baldwine, Stoning sekä tuntemattomia säveltäjiä (The King's Noyse/David Douglass).
+        series: Syventävää klassista
