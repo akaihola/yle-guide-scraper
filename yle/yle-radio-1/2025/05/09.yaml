@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-04T02:36:21.661780+00:00'
+  generated_at: '2025-05-05T02:35:29.562819+00:00'
   git:
     branch: main
-    commit: 2a3fcda1351f2f165c25029e3aef89567e4ab127
-  data_hash: 31d6bffe1103199562ea5977d45e3e9fd3f47304642eb979247ada64dedf2888
+    commit: 826f611557c8337cfb3a085bbddbadad1fd0f018
+  data_hash: a11156c4413cf560a5ab933809f551bfb2c87c5778224df405404c18b7e81666
 data:
   Yle Radio 1:
     programmes:
@@ -110,13 +110,26 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-09T08:10:00+03:00'
         end_time: '2025-05-09T09:00:00+03:00'
-        series: Ykkösaamu
       - title: Yle Uutiset
         start_time: '2025-05-09T09:00:00+03:00'
         end_time: '2025-05-09T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-05-09T09:05:40+03:00'
         end_time: '2025-05-09T09:58:00+03:00'
+        description: |-
+          Rixner: Sinitaivas (Olavi Virta ja Harmony Sisters).
+          Waller: Honeysuckle rose (Lena Horne).
+          Ortolani: Ei ajatella huomispäivää (Eija Merilä).
+          Aznavour: La Mamma (Charles Aznavour).
+          Billy Joel: Barpianisten (Helen Sjöholm ja Stockholm Session Strings).
+          Brown: Kastikevalssi (Lasse Mårtenson).
+          Pembroke: Aamun tulo (Maarit).
+          Bono/Mogol: Piccolo Ragazzo (Milva).
+          Paoli: Che cosa c'è (Gino Paoli).
+          Van Heusen: Come dance with me (Frank Sinatra).
+          Pinder: Melancholy man (The Moody Blues).
+          Raninen: Kukkia sinulle (Seija Simola).
+          Blackwell/Millet: All around the world (Little Richard).
         series: Muistojen bulevardi
       - title: Ruben Stiller
         start_time: '2025-05-09T10:00:00+03:00'
@@ -262,4 +275,33 @@ data:
         start_time: '2025-05-09T23:40:00+03:00'
         end_time: '2025-05-10T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          d'Albert: Tiefland (Alamaa), ooppera (Paul Schöffler, baritoni, Oskar Czerwenka, basso, Gré Brouwenstijn, sopraano, Judith Hellwig, sopraano, Ruth Nixa, sopraano, ja Kerttu Metsälä, mezzosopraano ym. sekä Wienin valtionoopperan kuoro ja Wienin sinfonikot/Rudolf Moralt).
+
+          Schubert: Rondo pianolle 4-kätisesti A-duuri (Grand rondeau) (Paul Lewis ja Steven Osborne).
+
+          Murrill: Sellokonsertto n:o 2 (The song of the birds) (Raphael Wallfish ja BBC:n konserttiork./Vernon Handley).
+
+          Mendelssohn: Oktetto Es-duuri (Janácek- ja Smetana-kvartetit). 
+
+          Dostal: Sikermä oper. Die Ungarische Hochzeit (Radion viihdeork./George de Godzinsky).
+
+          Nielsen: Jousikvartetto n:o 1 g-molli (Kamus-kvartetti).
+
+          Beethoven: Sonaatti käyrätorvelle ja pianolle F-duuri (Joseph Eger ja Victor Babin).
+
+          J.S. Bach: Partita klaveerille n:o 4 D-duuri  (Elina Mustonen, cembalo). 
+
+          Liszt: Preludi ja fuuga nimestä B-A-C-H (Robert Owen, urut).
+
+          Telemann: Deus judicium tuuum regi da (Jumala, anna kuninkaan tuomita, niinkuin sinä tuomitset, anna vanhurskautesi kuninkaan pojalle), motetti (Veronika Winter, sopraano, Andrea Stenzel, sopraano, Patrick van Goethem, kontratenori, Markus Schäfer, tenori, ja Ekkehard Abele, basso, sekä Rheinische Kantorei ja  Das Kleine Konzert/Hermann Max).
+
+          R. Strauss (sov. Ille): Sinfoninen rapsodia oopp. Elektra (Pittsburghin SO/Manfred Honeck).
+
+          Roussel: Serenadi huilulle, viululle, alttoviululle, sellolle ja harpulle (Jean-Pierre Rampal, huilu, Lily Laskine, harppu, sekä Pasquier-trio).
+
+          Stradella: Disperata rimembranza, lascia omai (Rosita Frisani, sopraano, ja Allessandro Stradella onsort/Estévan Velardi).
+
+          Zelenka: Sinfonia a-molli (La Stagione Frankfurt/Michael Schneider).
+
+          Giustini: Pianosonaatti n:o 10 f-molli (Wolfgang Brunner, fortepiano).
+        series: Syventävää klassista
