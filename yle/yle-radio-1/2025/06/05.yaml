@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-05T02:35:39.970491+00:00'
+  generated_at: '2025-05-06T02:34:00.209156+00:00'
   git:
     branch: main
-    commit: 826f611557c8337cfb3a085bbddbadad1fd0f018
-  data_hash: a11156c4413cf560a5ab933809f551bfb2c87c5778224df405404c18b7e81666
+    commit: d992862b4d58c906317c1e8413da4b7717d14286
+  data_hash: 63d474967dead89380c05d974d63e11ebae27a02f3b8559bb9d844ee425de5cd
 data:
   Yle Radio 1:
     programmes:
@@ -67,6 +67,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-05T16:10:00+03:00'
         end_time: '2025-06-05T16:59:00+03:00'
+        description: |-
+          Auric: Alkusoitto baletista Les mariés de la Tour Eiffel (Lontoon Philharmonia -ork./Geoffrey Simon).
+
+          Beethoven: Allegretto triosta pianolle, klarinetille ja sellolle B-duuri op.11 (Gassenhauer) (Emanuel Ax, Richard Stoltzman ja Yo-Yo Ma).
+
+          Kansanlaulu (sov. Cimze): Krauklit's sez ozola (Korppi istuu tammessa) (Latvian radion kuoro/Sigvards Klava).
+
+          Dussek: Johdanto ja valssi (Floraleda Sacch, harppu).
+
+          Balfe: Arlinen aaria "I dreamt I dwelt in marble halls" oopp. The Bohemian girl (Elina Garanca, mezzosopraano, ja Italian radion SO/Karel Mark Chichon).
+
+          Paganini: Sonaatti e-molli (Sarah Chang, viulu, ja Charles Abramovic, piano).
+
+          Ponchielli: Enzon aaria oopp. La Gioconda (Marcelo Alvarez, tenori, ja Dresdenin valtionork./Marcello Viotti).  
+
+          Sibelius: Campanula (Kellokukka) (Izumi Tateno, piano). 
+
+          Barrios: El sueño de la muñequita (Pienen nuken uni) (Enno Voorhorst, kitara).
+
+          Smetana: Ilveilijöiden tanssi oopp. Myyty morsian (Clevelandin ork./Christoph von Dohnányi).
         series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-06-05T17:00:00+03:00'

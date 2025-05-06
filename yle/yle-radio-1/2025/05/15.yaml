@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-05T02:35:31.990853+00:00'
+  generated_at: '2025-05-06T02:33:53.953170+00:00'
   git:
     branch: main
-    commit: 826f611557c8337cfb3a085bbddbadad1fd0f018
-  data_hash: a11156c4413cf560a5ab933809f551bfb2c87c5778224df405404c18b7e81666
+    commit: d992862b4d58c906317c1e8413da4b7717d14286
+  data_hash: 63d474967dead89380c05d974d63e11ebae27a02f3b8559bb9d844ee425de5cd
 data:
   Yle Radio 1:
     programmes:
@@ -37,6 +37,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-15T07:10:00+03:00'
         end_time: '2025-05-15T07:59:59+03:00'
+        description: |+
+          J.S. Bach: Trio uruille G-duuri (John Williams, kitara, ja Peter Hurford, urut).
+
+          Myslivecek: Presto assai Concertinosta Es-duuri (Concerto Köln/Werner Ehrhardt).
+
+          Mascagni: Intermezzo oopp. Cavalleria rusticana (Hannu Kiiski, sello, ja Risto Lauriala, piano).
+
+          Schubert: Der Wanderer an den Mond (Vaeltajan laulu kuulle) (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
+
+          Carreño: Balladi op.15 (Clara Rodriguez, piano).
+
+          R. Strauss: Andante (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          Grieg: Morgenstemning (Aamutunnelma) näyt. Peer Gynt (Bergenin FO/Ole Kristian Ruud).
+
+          Kansansäv. (sov. Kanga): Ash grove (Tommy Reilly, huuliharppu, ja Skaila Kanga, harppu).
+
+          Arenski: Älä sytytä tulta! (Misha Maisky, sello, ja Pavel Gililov, piano).
+
+          Nielsen: Aladdinin uni ja aamu-usvain tanssi näyt. Aladdin (San Franciscon SO/Herbert Blomstedt). 
+
         series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-15T08:00:00+03:00'

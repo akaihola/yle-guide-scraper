@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-05T02:35:29.562819+00:00'
+  generated_at: '2025-05-06T02:33:51.969555+00:00'
   git:
     branch: main
-    commit: 826f611557c8337cfb3a085bbddbadad1fd0f018
-  data_hash: a11156c4413cf560a5ab933809f551bfb2c87c5778224df405404c18b7e81666
+    commit: d992862b4d58c906317c1e8413da4b7717d14286
+  data_hash: 63d474967dead89380c05d974d63e11ebae27a02f3b8559bb9d844ee425de5cd
 data:
   Yle Radio 1:
     programmes:
@@ -103,7 +103,6 @@ data:
 
           Williams: Across the stars elok. Star wars - Attack of the clones (Anne-Sophie Mutter, viulu, ja Recording Arts Orchestra of Los Angeles/John Williams).
 
-        series: Aamusoitto
       - title: Yle Uutiset ja sää
         start_time: '2025-05-09T08:00:00+03:00'
         end_time: '2025-05-09T08:10:00+03:00'
@@ -241,8 +240,8 @@ data:
         start_time: '2025-05-09T19:00:00+03:00'
         end_time: '2025-05-09T19:02:00+03:00'
       - title: Oma huone - Suomen säveltävien naisten tarinoita
-        start_time: '2025-05-09T19:02:00+03:00'
-        end_time: '2025-05-09T22:00:00+03:00'
+        start_time: '2025-05-09T19:03:00+03:00'
+        end_time: '2025-05-09T22:01:00+03:00'
         description: |
           "Naisella pitää olla rahaa ja oma huone jos hän aikoo kirjoittaa fiktiota." Tämän kuolemattoman lauseen tuotti kirjailija Virginia Woolf vuonna 1929. Teesi pätee kaikkeen luovaan työhön. Minkälaisen oman tilan säveltävät naiset nyky-Suomessa tarvitsevat? Entä ennen?
 
@@ -250,27 +249,38 @@ data:
 
           Asiantuntijana keskustelemassa on musiikintutkija Susanna Välimäki. Ohjelman toimittajat ovat Laura Korhonen, Susanna Vainiola ja Tuuli Saksala. 
         series: Kotimaisia konsertteja
-      - title: Yle Uutiset
-        start_time: '2025-05-09T21:00:00+03:00'
-        end_time: '2025-05-09T21:02:00+03:00'
-      - title: Politiikkaradio
-        start_time: '2025-05-09T21:05:00+03:00'
-        end_time: '2025-05-09T21:34:30+03:00'
-      - title: Kalle Haatanen
-        start_time: '2025-05-09T21:35:00+03:00'
-        end_time: '2025-05-09T22:24:30+03:00'
-        description: |
-          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: 'Radioteatteri esittää: Viimeinen taulu'
+        start_time: '2025-05-09T22:01:30+03:00'
+        end_time: '2025-05-09T22:46:00+03:00'
+        description: |-
+          Viimeinen taulu - kuunnelma Ellen Thesleffistä
+
+          Lallukan ateljeekodissa, vuonna 1949 Ellen Thesleff yrittää maalata vielä yhden taulun. Hetkittäin maalaaminen sujuu, useimmiten ei. Työskentelyn keskeyttävät mieleen pyrkivät muistot, sisaren palkkaama kotiapulainen ja voimien puute. Mutta 79-vuotias taiteilija ei anna periksi, sillä hän haluaa vielä kerran löytää tekemisen palon, jolle on omistanut elämänsä.
+
+          Suomenruotsalaista Ellen Thesleffiä (1869-1954) pidetään yhtenä Suomen ensimmäisistä ekspressionisteista ja symbolisteista. Hän uudisti värimaalausta ja suomalaisen puugrafiikan ilmaisutapaa sekä lähentyi uransa viimeisinä vuosina myös abstraktia ilmaisua.
+
+          Käsikirjoitus ja ohjaus: Kirsi Porkka
+          Sävellys: Riikka Talvitie
+          Äänisuunnittelu: Hanna-Helena Kinnunen
+          Dramaturgi: Eeva-Maaria Halonen
+
+          Rooleissa:
+          Ellen Thesleff – Marja Packalén
+          Leena – Lumi Aunio
+          Nuori Ellen – Emilia Sinisalo
+          Gerda Thesleff – Meri Nenonen
+          Isä - Tuomas Rinta-Panttila
+          Gordon Craig - Timo Tuominen
+
+          Muusikot: Jarmo Julkunen (mandoliini), Max Savikangas (alttoviulu), Malla Vivolin (huilu)
+          Thesleffin kirjeiden suomennos: Hanna-Reetta Schreck
+          Tuottaja: Laura Jaakkola, Yle Draama 2021.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-05-09T22:25:00+03:00'
-        end_time: '2025-05-09T23:15:00+03:00'
+        start_time: '2025-05-09T22:50:00+03:00'
+        end_time: '2025-05-09T23:39:30+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kulttuurin kulmilla
-        start_time: '2025-05-09T23:30:30+03:00'
-        end_time: '2025-05-09T23:39:00+03:00'
-        description: |-
-          Miksi asiat ovat niinkuin ovat? Timo Teräsvuori hämmästelee musiikki- ja kulttuurimaailman tapoja ja käytänteitä.
+        series: Tuuli Saksalan keidas
       - title: Yöklassinen
         start_time: '2025-05-09T23:40:00+03:00'
         end_time: '2025-05-10T06:30:00+03:00'

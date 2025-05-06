@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-05T02:35:33.038022+00:00'
+  generated_at: '2025-05-06T02:33:54.801898+00:00'
   git:
     branch: main
-    commit: 826f611557c8337cfb3a085bbddbadad1fd0f018
-  data_hash: a11156c4413cf560a5ab933809f551bfb2c87c5778224df405404c18b7e81666
+    commit: d992862b4d58c906317c1e8413da4b7717d14286
+  data_hash: 63d474967dead89380c05d974d63e11ebae27a02f3b8559bb9d844ee425de5cd
 data:
   Yle Radio 1:
     programmes:
@@ -30,6 +30,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-18T11:00:00+03:00'
         end_time: '2025-05-18T11:57:00+03:00'
+        description: |-
+          Tuntematon: Sometimes I feel (Radion viihdeorkesteri/George de Godzinsky).
+          Legrand: Pääteema elok. Le sauvage (Morsian karkuteillä) (Ork./Michel Legrand).
+          Legrand: Cherbourgin sateenvarjot (Topi Sorsakoski,).
+          Mandel: Shadow of your smile (Dexter Gordon).
+          Lecuona: Siboney (Lecuona Cuban Boys).
+          Arlen: Come rain or come shine (Judy Garland).
+          Loewe/Previn: I talk to the trees (Clint Eastwood).
+          Morgan: Nuoruus on seikkailu (Katri-Helena).
+          Pettersson: Nuoruus (Petri Pettersson).
+          Valgre: Saaremaa valss (Georg Ots).
+          Puente: Oye cómo va (Santana).
+          Grant/Patrick: Yeh yeh (Mongo Santamaria).
+          Jones: Du måste ta det kallt (Monica Zetterlund).
+          Carmichael: Nearness of you (Sarah Vaughan).
         series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-05-18T12:00:00+03:00'
@@ -39,6 +54,7 @@ data:
         end_time: '2025-05-18T12:55:00+03:00'
         description: |
           Tarinoita talouden myllerryksistä.
+        series: Virtasen taloushistoria
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-18T12:55:00+03:00'
         end_time: '2025-05-18T13:00:00+03:00'
@@ -105,7 +121,6 @@ data:
           J. Haydn: The mermaid's song (Anne Sofie von Otter, mezzosopraano, ja Melvyn Tan, fortepiano).
 
           Zimmer: Drink up me hearties elok. Pirates of the Caribbean: At world's end (Metro Voices ja ork./Nick Glennie-Smith).
-        series: Faunin iltapäivä
       - title: Yle Uutiset ja sää
         start_time: '2025-05-18T17:00:00+03:00'
         end_time: '2025-05-18T17:10:00+03:00'
@@ -131,8 +146,9 @@ data:
       - title: Jumalanpalvelus Pelastusarmeijan Kuopion osastosta
         start_time: '2025-05-18T20:00:00+03:00'
         end_time: '2025-05-18T21:00:00+03:00'
-        description: |-
-          Puhujana majuri Tero Saajoranta
+        description: |
+          Liturgina majuri Metti Saajoranta. Puhujana majuri Tero Saajoranta. Yhteislaulut: Pelastusarmeijan laulukirjasta numerot 280, 122, 232, 95, 10 ja 224.
+        series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-05-18T21:00:00+03:00'
         end_time: '2025-05-18T21:02:05+03:00'
