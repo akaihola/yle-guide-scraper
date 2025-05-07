@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-06T02:33:54.801898+00:00'
+  generated_at: '2025-05-07T02:34:39.824459+00:00'
   git:
     branch: main
-    commit: d992862b4d58c906317c1e8413da4b7717d14286
-  data_hash: 63d474967dead89380c05d974d63e11ebae27a02f3b8559bb9d844ee425de5cd
+    commit: 2548d27684ea83666e4e4497afe4958a288753bd
+  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,6 @@ data:
         end_time: '2025-05-18T07:00:00+03:00'
         description: |-
           Klassista musiikkia.
-        series: Syventävää klassista
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-05-18T07:03:00+03:00'
         end_time: '2025-05-18T07:59:00+03:00'
@@ -23,7 +22,6 @@ data:
         end_time: '2025-05-18T08:59:30+03:00'
         description: |
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
-        series: Narrin aamulaulu - Outi Paananen
       - title: Tuomasmessu Mikael Agricolan kirkosta Helsingistä
         start_time: '2025-05-18T10:00:00+03:00'
         end_time: '2025-05-18T10:59:20+03:00'
@@ -45,16 +43,14 @@ data:
           Grant/Patrick: Yeh yeh (Mongo Santamaria).
           Jones: Du måste ta det kallt (Monica Zetterlund).
           Carmichael: Nearness of you (Sarah Vaughan).
-        series: Muistojen bulevardi
       - title: Yle Uutiset ja sää
         start_time: '2025-05-18T12:00:00+03:00'
         end_time: '2025-05-18T12:05:00+03:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Sijoittamisen ilot ja surut'
         start_time: '2025-05-18T12:05:00+03:00'
-        end_time: '2025-05-18T12:55:00+03:00'
+        end_time: '2025-05-18T12:57:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
-        series: Virtasen taloushistoria
+          Pörssikurssit yleensä nousevat hitaasti, mutta laskevat nopeasti. Pörssiosakkeita pidetään parhaimpina sijoituskohteina, mutta yritykset ovat erilaisia. Vieraana on Espoon-Kauniaisten ja myös Helsingin osakesäästäjien toiminnanjohtaja, yrittäjä Jaakko Ravald. Toimittajana Juha Virtanen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-18T12:55:00+03:00'
         end_time: '2025-05-18T13:00:00+03:00'
@@ -63,14 +59,12 @@ data:
         end_time: '2025-05-18T13:57:00+03:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
-        series: Välilevyjä - Kare Eskola
       - title: Marko Gustafssonin vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola
         start_time: '2025-05-18T14:00:00+03:00'
         end_time: '2025-05-18T14:50:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-18T14:50:00+03:00'
         end_time: '2025-05-18T14:55:00+03:00'
-        series: Yksi on hyvää seuraa
       - title: Ykköskolumni
         start_time: '2025-05-18T14:55:00+03:00'
         end_time: '2025-05-18T15:00:00+03:00'
@@ -82,13 +76,11 @@ data:
       - title: Viikon luontoääni
         start_time: '2025-05-18T15:50:00+03:00'
         end_time: '2025-05-18T15:55:00+03:00'
-        series: Viikon luontoääni
       - title: Yle News
         start_time: '2025-05-18T15:55:00+03:00'
         end_time: '2025-05-18T15:58:00+03:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
-        series: Yle News
       - title: Yle Uutiset ja sää
         start_time: '2025-05-18T16:00:00+03:00'
         end_time: '2025-05-18T16:10:00+03:00'
@@ -142,13 +134,11 @@ data:
         end_time: '2025-05-18T20:00:00+03:00'
         description: |2+
 
-        series: Jazzklubi
       - title: Jumalanpalvelus Pelastusarmeijan Kuopion osastosta
         start_time: '2025-05-18T20:00:00+03:00'
         end_time: '2025-05-18T21:00:00+03:00'
         description: |
           Liturgina majuri Metti Saajoranta. Puhujana majuri Tero Saajoranta. Yhteislaulut: Pelastusarmeijan laulukirjasta numerot 280, 122, 232, 95, 10 ja 224.
-        series: Jumalanpalvelukset radiossa
       - title: Yle Uutiset
         start_time: '2025-05-18T21:00:00+03:00'
         end_time: '2025-05-18T21:02:05+03:00'
