@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:42.913967+00:00'
+  generated_at: '2025-05-08T02:34:53.831180+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -34,6 +34,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-26T09:05:40+03:00'
         end_time: '2025-05-26T09:58:00+03:00'
+        description: |-
+          Malmsten: Nuoruuden sävel (Tauno Palo ja Ansa Ikonen).
+          Tepper/Bennett: The Young Ones (Cliff Richard).
+          Siegel: Kring de små husen i gränderna vid hamnen (Anita Lindblom). 
+          Bogoslovski: Ljubimyj gorod (Till Lindemann).
+          Solovjov-Sedoi: Kvällar i Moskvas förstäder (Jan Johansson).
+          Brassens: Tyttö kampaa märkää tukkaa (Tuula Amberla).
+          Alter: Manhattan serenade (Jo Stafford).
+          Monnot: Y'a qu' Paris pour ca (Colette Renard).
+          Dylan: Don't think twice, it's all right (Bob Dylan).
+          Dylan: Tuulelta vastauksen saan (Finntrio).
+          Durand: All my love (Patti Page).
+          Modugno: Nel blu dipinto di blu (Volare) (Domenico Modugno).
+          Loewe: Kotikadullasi (Laila Kinnunen).
+          Powell: Pack up your troubles in your old kit bag (Bob Crosby ja Martha Tilton).
       - title: Virtasen taloushistoria
         start_time: '2025-05-26T10:00:00+03:00'
         end_time: '2025-05-26T10:52:00+03:00'
@@ -106,8 +121,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-05-26T18:50:00+03:00'
         end_time: '2025-05-26T19:00:00+03:00'
-        description: |-
-          Toimittaja Mikko Kurenlahti lukee Paavalin kirjeitä
+        description: |
+          "Olen ruvennut kaikkien orjaksi"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee 1. kirjeestä Korinttilaisille (1. Kor. 9:1-10:13). Tässä jaksossa Paavali puhuu apostolin oikeuksista ja varoittaa epäjumalien palvelemisesta.
       - title: Yle Uutiset ja sää
         start_time: '2025-05-26T19:00:00+03:00'
         end_time: '2025-05-26T19:02:00+03:00'

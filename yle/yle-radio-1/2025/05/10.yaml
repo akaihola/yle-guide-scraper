@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:28.504492+00:00'
+  generated_at: '2025-05-08T02:34:43.644473+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,12 @@ data:
       - title: Aamuklassinen
         start_time: '2025-05-10T06:30:00+03:00'
         end_time: '2025-05-10T07:00:00+03:00'
+        description: |-
+          Ferlendis: Sonaatti puhaltimille F-duuri (Paolo Verrecchia, englannintorvi, ja Alessandro Verrecchia, fagotti).
+
+          Schelle: Gott, sende dein Licht (Herra, läheta valosi) (The King's Consort/Robert King):
+
+          Bonporti: Serenadi F-duuri (Bloomington Baroque/Stanley Ritchie). 
       - title: Yle Uutiset
         start_time: '2025-05-10T07:00:00+03:00'
         end_time: '2025-05-10T07:02:05+03:00'
@@ -121,7 +127,7 @@ data:
         start_time: '2025-05-10T10:05:00+03:00'
         end_time: '2025-05-10T10:45:00+03:00'
         description: |
-          Yhteislähetys TV1:n kanssa.
+          Maailmassa on menossa vallan uusjako, ja uutisten tulva kertoo juuri siitä. Onko demokratiaan nojautuvilla Suomella ja Euroopalla mahdollisuuksia pärjätä? Ykkösaamun vieras on Ulkopoliittisen instituutin johtaja Hiski Haukkala. Toimittajana on Pirjo Auvinen. Ykkösaamu (yhteislähetys TV1:n kanssa)
       - title: Rytmikamari
         start_time: '2025-05-10T10:45:00+03:00'
         end_time: '2025-05-10T11:00:00+03:00'
@@ -162,6 +168,8 @@ data:
       - title: Ykköskolumni
         start_time: '2025-05-10T14:55:00+03:00'
         end_time: '2025-05-10T15:00:00+03:00'
+        description: |
+          Tekoäly on paha haltiatarkummi, joka kirjoittaa kohta lempiromaanisi, kirjailija Joonas Konstig pohdiskelee.
       - title: "Radioteatteri esittää: Kerran viel' Suomisen perhe! osa 7"
         start_time: '2025-05-10T15:00:00+03:00'
         end_time: '2025-05-10T15:16:00+03:00'
@@ -221,7 +229,9 @@ data:
         start_time: '2025-05-10T17:10:00+03:00'
         end_time: '2025-05-10T17:57:00+03:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          "Tuntuu siltä että nykyään vanhemmuus otetaan vähän liiankin vakavasti. Etenkin alakouluikäisten vanhempien joukossa puututaan liian herkästi lasten koulunkäyntiin ja vaaditaan yksilöllisyyttä, ja sitten vanhempi on siellä rehtorin kansliassa kertomassa miten meidän lasta pitäisi opettaa."
+
+          -Roope Lipasti
       - title: 'Ehtookellot: Anjalan kirkon kellot'
         start_time: '2025-05-10T18:00:00+03:00'
         end_time: '2025-05-10T18:01:00+03:00'

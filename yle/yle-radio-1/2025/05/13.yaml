@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:36.424618+00:00'
+  generated_at: '2025-05-08T02:34:48.249312+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -182,9 +182,11 @@ data:
         description: |+
           Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
 
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Tulipäähippiäinen'
         start_time: '2025-05-13T18:30:00+03:00'
         end_time: '2025-05-13T18:35:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2025-05-13T18:35:00+03:00'
         end_time: '2025-05-13T18:50:00+03:00'
@@ -207,6 +209,9 @@ data:
         end_time: '2025-05-13T19:45:00+03:00'
         description: |-
           Venäläisten sotilaiden otettua Noran ja hänen matkakumppaninsa kiinni, tilanne muuttuu hengenvaaralliseksi. Kun ryhmä viedään venäläisten tukikohtaan, heitä kuulustellaan ja epäillään vakoilusta. Tilanne kärjistyy lopulta pahimpaan mahdolliseen. 
+      - title: Musiikkikamari
+        start_time: '2025-05-13T19:43:00+03:00'
+        end_time: '2025-05-13T20:00:00+03:00'
       - title: 'Tarua ja totta toisesta maailmansodasta. Paratiisisaarilta helvettiin '
         start_time: '2025-05-13T20:00:00+03:00'
         end_time: '2025-05-13T20:19:20+03:00'

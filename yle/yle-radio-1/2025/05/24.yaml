@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:42.191825+00:00'
+  generated_at: '2025-05-08T02:34:53.180899+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -178,8 +178,15 @@ data:
       - title: Iltahartaus
         start_time: '2025-05-24T18:01:00+03:00'
         end_time: '2025-05-24T18:10:00+03:00'
-        description: |-
-          Kappalainen Hannu Varkki, Helsinki
+        description: |+
+          "Lehtokerttu ja sydämen rukous"
+          Kappalainen Hannu Varkki Helsingistä johdattaa kuuntelemaan lehtokertun laulua rukouksena, joka kantaa Elämän lähteen ääntä Luojan luoman monimuotoisuuden keskellä.
+
+      - title: Lauantain toivotut levyt
+        start_time: '2025-05-24T18:10:00+03:00'
+        end_time: '2025-05-24T19:00:00+03:00'
+        description: |
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: Jazzin sävel on vapaa / 09 - 144 800
         start_time: '2025-05-24T19:02:00+03:00'
         end_time: '2025-05-24T21:00:00+03:00'

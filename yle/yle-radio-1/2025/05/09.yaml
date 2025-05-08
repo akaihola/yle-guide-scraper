@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:26.955756+00:00'
+  generated_at: '2025-05-08T02:34:42.852290+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -112,15 +112,15 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-09T09:05:40+03:00'
         end_time: '2025-05-09T09:58:00+03:00'
-        description: |-
+        description: |
           Rixner: Sinitaivas (Olavi Virta ja Harmony Sisters).
           Waller: Honeysuckle rose (Lena Horne).
           Ortolani: Ei ajatella huomispäivää (Eija Merilä).
           Aznavour: La Mamma (Charles Aznavour).
-          Billy Joel: Barpianisten (Helen Sjöholm ja Stockholm Session Strings).
+          Joel: Barpianisten (Helen Sjöholm).
           Brown: Kastikevalssi (Lasse Mårtenson).
           Pembroke: Aamun tulo (Maarit).
-          Bono/Mogol: Piccolo Ragazzo (Milva).
+          Bono: Piccolo Ragazzo (Milva).
           Paoli: Che cosa c'è (Gino Paoli).
           Van Heusen: Come dance with me (Frank Sinatra).
           Pinder: Melancholy man (The Moody Blues).
@@ -243,8 +243,8 @@ data:
 
           Asiantuntijana keskustelemassa on musiikintutkija Susanna Välimäki. Ohjelman toimittajat ovat Laura Korhonen, Susanna Vainiola ja Tuuli Saksala. 
       - title: 'Radioteatteri esittää: Viimeinen taulu'
-        start_time: '2025-05-09T22:02:00+03:00'
-        end_time: '2025-05-09T22:46:02+03:00'
+        start_time: '2025-05-09T22:03:58+03:00'
+        end_time: '2025-05-09T22:48:00+03:00'
         description: |-
           Viimeinen taulu - kuunnelma Ellen Thesleffistä
 
@@ -269,8 +269,8 @@ data:
           Thesleffin kirjeiden suomennos: Hanna-Reetta Schreck
           Tuottaja: Laura Jaakkola, Yle Draama 2021.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-05-09T22:50:00+03:00'
-        end_time: '2025-05-09T23:39:30+03:00'
+        start_time: '2025-05-09T22:48:12+03:00'
+        end_time: '2025-05-09T23:39:47+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

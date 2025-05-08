@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-07T02:34:39.155921+00:00'
+  generated_at: '2025-05-08T02:34:49.834321+00:00'
   git:
     branch: main
-    commit: 2548d27684ea83666e4e4497afe4958a288753bd
-  data_hash: 7fd8a8a4fd052e9e0106ea27363e0b6dcb3db914b4f0d925c63740325c045798
+    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
+  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
 data:
   Yle Radio 1:
     programmes:
@@ -19,6 +19,9 @@ data:
         description: |+
           Elokuvaohjaaja kirjailija Johanna Vuoksenmaan romaani kertoo suvun kipeästä menneisyydestä. Poikansa sodassa menettänyt Alma matkustaa kunniavieraana natsi-Saksaan ja kirjoittaa kotiin matkalla näkemistään asioista. Vuosikymmeniä myöhemmin Alman kotiin lähetämä, suvun perintönä kulkeva, kirje päätyy elokuvaohjaaja Johanna Vuoksenmaan käsiin ja hän kirjoittaa natsi-Saksasta lähetetyn kirjeen ympärille kietoutuvan Suurenmoinen matka -romaanin. Toimittaja Jukka Kuosmanen..Ohjelma on uusinta keväältä.
 
+      - title: Hartaita säveliä
+        start_time: '2025-05-17T08:05:00+03:00'
+        end_time: '2025-05-17T08:25:00+03:00'
       - title: Aamuhartaus
         start_time: '2025-05-17T08:25:00+03:00'
         end_time: '2025-05-17T08:35:00+03:00'
@@ -131,6 +134,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-17T16:10:00+03:00'
         end_time: '2025-05-17T16:59:00+03:00'
+        description: |-
+          Albinoni: Allegro konsertosta kahdelle oboelle, jousille ja continuolle F-duuri (Gail Hennessy ja Rachel Chaplin, oboe, sekä La Serenissima/Adrian Chandler).
+
+          A. Merikanto: Kesäyö (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Friedman: Menuetti Mozartin teemasta (Stephen Hough, piano).
+
+          Naukkarinen - Virta (sov. Hietala): Cha cha cha (RSO/Ruut Kiiski, ja Jan Lehtola, Musiikkitalon urut).
+
+          Liszt: Consolation Des-duuri (James Galway, huilu, ja Lontoon kansallinen FO/David Measham).
+
+          Händel: Allegro moderato konsertosta harpulle, orkesterille ja continuolle B-duuri (Ursula Holliger, harppu, ja The English Concert/Trevor Pinnock).
+
+          Marini: La Foscarina (Argo). 
+
+          Gnattali (sov. Almeida): Baion (Sharon Isbin, Larry Coryell, ja Laurindo Almeida, kitara).
+
+          Madetoja: Hän kulkevi kuin yli kukkien (Polyteknikkojen Kuoro/Saara Aittakumpu). 
+
+          Sibelius: Laulu ristilukista (Tom Krause, baritoni, RSO/Leif Segerstam).
+
+          Bizet: Finaali sinfoniasta nro 1 C-duuri (Cincinnatin SO/Jesús López-Cobos).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-17T17:00:00+03:00'
         end_time: '2025-05-17T17:10:00+03:00'
@@ -159,9 +184,6 @@ data:
       - title: Oopperailta
         start_time: '2025-05-17T19:02:00+03:00'
         end_time: '2025-05-17T22:00:00+03:00'
-      - title: Yle Uutiset
-        start_time: '2025-05-17T21:00:00+03:00'
-        end_time: '2025-05-17T21:02:05+03:00'
       - title: Uutispodcast
         start_time: '2025-05-17T21:03:00+03:00'
         end_time: '2025-05-17T21:28:00+03:00'
