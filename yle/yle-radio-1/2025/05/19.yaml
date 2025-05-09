@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:50.833360+00:00'
+  generated_at: '2025-05-09T02:34:22.307045+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -165,19 +165,26 @@ data:
 
       - title: 'Tosi tarina: Mitä muut eivät näe'
         start_time: '2025-05-19T19:02:40+03:00'
-        end_time: '2025-05-19T19:50:00+03:00'
+        end_time: '2025-05-19T19:53:00+03:00'
         description: |-
           Miia pystyy oman kertomansa mukaan näkemään ja tuntemaan asioita, joita muut eivät näe. Asioita, joita järjellä on mahdotonta selittää. Kuten kuolleita ihmisiä. Toimittaja Mervi Leino. (es. 17.7.2022)
-      - title: Ruben Stiller
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-05-19T19:53:00+03:00'
+        end_time: '2025-05-19T20:00:00+03:00'
+      - title: 'Ruben Stiller: '
         start_time: '2025-05-19T20:00:00+03:00'
         end_time: '2025-05-19T20:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Yle Uutiset
+        start_time: '2025-05-19T21:00:00+03:00'
+        end_time: '2025-05-19T21:02:00+03:00'
       - title: Tiedeykkönen
         start_time: '2025-05-19T21:35:00+03:00'
         end_time: '2025-05-19T22:24:30+03:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Kulttuurisarja
+        start_time: '2025-05-19T22:25:00+03:00'
+        end_time: '2025-05-19T22:44:30+03:00'
       - title: Näistä levyistä en luovu
         start_time: '2025-05-19T22:45:00+03:00'
         end_time: '2025-05-19T23:39:00+03:00'

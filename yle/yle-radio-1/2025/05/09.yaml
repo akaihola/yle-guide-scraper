@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:42.852290+00:00'
+  generated_at: '2025-05-09T02:34:17.650723+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -106,6 +106,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-09T08:10:00+03:00'
         end_time: '2025-05-09T09:00:00+03:00'
+        description: |-
+          Ykkösaamussa keskustellaan tänään Venäjän voitonpäivästä. Onko Putinilla varaa mahtailla Moskovan paraatilla ? Mistä löytyvät liittolaiset ? Studiokeskustelussa tutkija Sinikukka Saari ja Ylen ulkomaantoimittaja Heikki Heiskanen. Yhteys myös Moskovaan. Kuulemme lisäksi suoraan Oslosta, kuinka siellä puolustusliittouma JEFin valtionjohtajat kokoustavat Euroopan turvallisuustilanteesta. Toisessa keskustelussa puhutaan Eurooppapäivästä; europarlamentaarikot keskustelevat unionin tulevaisuudesta ja sitä jytisyttävistä voimista.
       - title: Yle Uutiset
         start_time: '2025-05-09T09:00:00+03:00'
         end_time: '2025-05-09T09:05:00+03:00'
@@ -126,11 +128,17 @@ data:
           Pinder: Melancholy man (The Moody Blues).
           Raninen: Kukkia sinulle (Seija Simola).
           Blackwell/Millet: All around the world (Little Richard).
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Saatana saapui Suomeen'
         start_time: '2025-05-09T10:00:00+03:00'
         end_time: '2025-05-09T10:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          1990-luvun Suomessa keskusteltiin saatananpalvonnasta. Kirkko teki ongelmasta opetusfilmin ja valistajat kiersivät kouluja. Vanhemmille kerrottiin saatananpalvonnan tunnusmerkeistä. 
+
+          Mistä oli oikeastaan kysymys? Oliko Suomi moraalisen paniikin vallassa?
+
+          Ja mitä yhteistä on saatananpalvontaan liittyvillä myyteillä ja QAnon-salaliittoteorialla?
+
+          Vieraina ovat tietokirjailijat Katri Ylinen ja Tuomas Äystö, jotka ovat kumpikin kirjoittaneet kirjan saatananpalvontailmiöstä 90-luvun Suomessa.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-09T10:55:00+03:00'
         end_time: '2025-05-09T11:00:00+03:00'
@@ -159,9 +167,11 @@ data:
            
           ”Sosiaalinen toimilupa on asenteen kaltainen, ja se pitää ansaita päivittäin”, sanoo puolestaan yliopistonlehtori Leena Suopajärvi Lapin yliopistosta. Hän on tutkinut kaivostoiminnan sosiaalisia vaikutuksia. 
           Toimittaja on Teija Peltoniemi. 
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2025-05-09T13:00:00+03:00'
         end_time: '2025-05-09T13:30:00+03:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-09T13:30:00+03:00'
         end_time: '2025-05-09T15:00:00+03:00'
@@ -217,7 +227,8 @@ data:
         start_time: '2025-05-09T17:10:00+03:00'
         end_time: '2025-05-09T17:34:20+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Vladimir Putin on rakentanut Venäjälle arkkivihollista lännestä, ja eritoten Yhdysvalloista. Donald Trumpin kanssa Putin näyttää kuitenkin löytäneen yhteisen arvopohjan. Millaiseen ideologiaan Putinin hallinto oikein nojaa?
+          Heikki Heiskanen soittaa ensimmäisessä jaksossa tutkija Ilja Budraitskisille, joka on verrannut Venäjän vallanpitäjien aatemaailmaa konservatiivisiin liikkeisiin lännessä. Heiskanen vastaa myös kysymykseen, miksi 9. toukokuuta on Putinille niin tärkeä päivämäärä.
       - title: 'Näistä levyistä en luovu: Eero Tarasti'
         start_time: '2025-05-09T17:35:00+03:00'
         end_time: '2025-05-09T18:30:00+03:00'

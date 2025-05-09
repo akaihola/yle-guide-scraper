@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:47.834305+00:00'
+  generated_at: '2025-05-09T02:34:19.022866+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-12T06:30:50+03:00'
         end_time: '2025-05-12T06:50:00+03:00'
+        description: |-
+          Koraalitoisinto: Jeesus, ilo elämäni (Seurakunta ja urut).
+
+          Koraalitoisinto: Kristus-kuningas, kaikkivaltias (Vox Cantorum, joht. Heikki Seppänen, ja Markku Mäkinen, urut).
+
+          Koraalitoisinto: Eijaa! Jo laulaa sielu kiitostansa (Kampin Laulu/Markku Pihlaja, ja Pertti Eerola, urut).
+
+          Koraalitoisinto: Oi Herra kaikkivaltias (Vox Sonora/Rauno Myllylä, Tapio Tiitu, urut, ja Tuula Honkanen, huilu).
       - title: Aamuhartaus
         start_time: '2025-05-12T06:50:00+03:00'
         end_time: '2025-05-12T06:59:59+03:00'
@@ -240,11 +248,17 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-12T19:57:00+03:00'
         end_time: '2025-05-12T20:00:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Saatana saapui Suomeen'
         start_time: '2025-05-12T20:00:00+03:00'
         end_time: '2025-05-12T20:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          1990-luvun Suomessa keskusteltiin saatananpalvonnasta. Kirkko teki ongelmasta opetusfilmin ja valistajat kiersivät kouluja. Vanhemmille kerrottiin saatananpalvonnan tunnusmerkeistä. 
+
+          Mistä oli oikeastaan kysymys? Oliko Suomi moraalisen paniikin vallassa?
+
+          Ja mitä yhteistä on saatananpalvontaan liittyvillä myyteillä ja QAnon-salaliittoteorialla?
+
+          Vieraina ovat tietokirjailijat Katri Ylinen ja Tuomas Äystö, jotka ovat kumpikin kirjoittaneet kirjan saatananpalvontailmiöstä 90-luvun Suomessa.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-12T20:55:00+03:00'
         end_time: '2025-05-12T21:00:00+03:00'

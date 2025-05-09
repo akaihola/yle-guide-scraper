@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:48.249312+00:00'
+  generated_at: '2025-05-09T02:34:19.579400+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-13T06:30:50+03:00'
         end_time: '2025-05-13T06:50:00+03:00'
+        description: |
+          Simojoki: Kiitos Jumalamme, kun annoit kauniin maan (Joose Vähäsöyrinki, baritoni, Katariina Kopsa, urut, ja Mikael Säily, sello).
+
+          Huhtala: Kansalleni (Nina Åström).
+
+          Irlantilainen kansansäv.: Tulkoon tie sinua vastaan (Mustarastas).
+
+          Kansansäv. (sov. M. Iivanainen): Silmäni aukaise, Jumalani (Johanna Iivanainen, laulu, ja Mikko Iivanainen, kitara).
       - title: Aamuhartaus
         start_time: '2025-05-13T06:50:00+03:00'
         end_time: '2025-05-13T06:59:59+03:00'
@@ -102,9 +110,11 @@ data:
           Joulukuussa vuonna 1941 Japanin Pearl Harboriin tekemän hyökkäyksen seurauksia on kuvattu useissa elokuvissa kuten Täältä ikuisuuteen ja Isiemme liput. Tyynenmeren saarille sijoittuvien sotaelokuvien  maailmankuvasta keskustelevat Paratiisisaarilta helvettiin -osassa kirjallisuudentutkija Markku Soikkeli ja toimittaja Jukka Kuosmanen. 
 
           Sarjassa keskustellaan siitä kuinka toisesta maailmansodasta tehdyt elokuvat ovat vaikuttaneet maailmankuvaamme ja käsitykseemme historiallisista tosiasioista.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Karsikot, pitämyspuut, pyhä paju – katajaisen kansan puuperinne on monipuolista'
         start_time: '2025-05-13T12:30:00+03:00'
         end_time: '2025-05-13T12:55:00+03:00'
+        description: |-
+          Pasi Heikura ja tietokirjailija Reetta Ranta tutustuvat suomalaiseen puita käsittelevään kansanperinteeseen ja puuaiheisiin sanontoihin. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-13T12:55:00+03:00'
         end_time: '2025-05-13T13:00:00+03:00'
@@ -114,6 +124,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-13T13:30:00+03:00'
         end_time: '2025-05-13T15:00:00+03:00'
+        description: |
+          Yle Radio 1:n iltapäivän musiikissa soi etno, kevyt jazz ja populaarimusiikki. N. klo 14 tapaamme Ylen euroviisuselostaja Mikko Silvennoisen. N. klo 14:30 Kielen päällä. Paula Jokimes juontaa.
       - title: Yle Uutiset
         start_time: '2025-05-13T15:00:00+03:00'
         end_time: '2025-05-13T15:02:00+03:00'
@@ -179,9 +191,22 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-05-13T17:35:00+03:00'
         end_time: '2025-05-13T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Tavaratalon kemppariosastolla voi paeta kaikkea, voi ajatella muuttavansa koko elämän vain vaihtamalla kynsilakan sävyä. Vaikka tiedetään, että se ei ole totta, leikitään Rebekka Holin kanssa että se olisi. Mielikuviin paetaan myös matkaamalla Tukholmaan, jossa on on aina kesä ja luokkaretki.
 
+          Ensin juhlitaan päivänsankaria. Äiti saa taas haparoivin viivoin piirretyn kuvan itsestään - ja ilahtuu tietysti. Yhtä lailla luonnostelmallisin vedoin eräs tunnettu räppäri tarjoilee pianolle säveltämänsä impromptun. 
+
+          Badly Drawn Boy - Something to talk about
+          Andre 3000 - blueberry mansions
+          Outi Popp - Tahdon
+          Rebekka Holi - Saippuoita haistelemaan
+          Catherine Deneuve & Malcolm McLaren - Paris, Paris
+          Muovikukat - Tukholma
+          Bo Kasper - Paradiset
+          Ghost - Satanized
+          Aija Puurtinen & Brooklynin satu - Amerikansuomalainen rukous pt1
+          Joska Josafat - Toisinaan
+          Gunter Kallman Choir - Daydream
       - title: 'Viikon luontoääni: Tulipäähippiäinen'
         start_time: '2025-05-13T18:30:00+03:00'
         end_time: '2025-05-13T18:35:00+03:00'
@@ -190,6 +215,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-13T18:35:00+03:00'
         end_time: '2025-05-13T18:50:00+03:00'
+        description: |-
+          Steurlein: Ah, kuinka kevät hohtaa (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Bravade).
+
+          Tikka (sov. Hämäläinen): Armolaulu (Petrus Schroderus, tenori, ja Kamariorkesteri Credo!/Kari Hämäläinen).
+
+          Simojoki: Suurin rakkaus (Jakaranda).
+
+          Giombini: Sylin täydeltä kukkia kannat (Aili Ikonen ja Lauluyhtye Viisveisaa, laulu, Laura Airola, viulu, Heikki Pohto, saksofoni, Ville Myllykoski, kosketinsoittimet, Mikko Iivanainen, kitara, Hannu Rantanen, basso, Pekka Nyman, lyömäsoittimet, sekä Sami Koskela, rummut).
       - title: Iltahartaus
         start_time: '2025-05-13T18:50:00+03:00'
         end_time: '2025-05-13T19:00:00+03:00'

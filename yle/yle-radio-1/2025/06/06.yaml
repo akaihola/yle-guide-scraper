@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2025-05-08T02:34:56.708574+00:00'
+  generated_at: '2025-05-09T02:34:29.947373+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
+      - title: Hartaita säveliä
+        start_time: '2025-06-06T06:30:50+03:00'
+        end_time: '2025-06-06T06:50:00+03:00'
       - title: Aamuhartaus
         start_time: '2025-06-06T06:50:00+03:00'
         end_time: '2025-06-06T06:59:59+03:00'
@@ -20,6 +23,9 @@ data:
         end_time: '2025-06-06T10:55:00+03:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-06-06T11:57:00+03:00'
+        end_time: '2025-06-06T12:00:00+03:00'
       - title: Tiedeykkönen
         start_time: '2025-06-06T12:10:00+03:00'
         end_time: '2025-06-06T12:59:30+03:00'

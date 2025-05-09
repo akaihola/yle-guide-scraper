@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:48.547000+00:00'
+  generated_at: '2025-05-09T02:34:20.502962+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-14T06:30:50+03:00'
         end_time: '2025-05-14T06:50:00+03:00'
+        description: |-
+          Maasalo: Aamuvirsi (Heikki Rainio, tenori, ja Matti Oikarinen, urut).
+
+          Koraalitoisinto (sov. Gustafsson): Voisinpa Jeesuksestani (Chorus cantorum Finlandiae/Kari Turunen).
+
+          Löytty: Kahden maan kansalainen (Herännäisnuorten kuoro/Samuli Korkalainen, ja Anna Hietala, viulu).
+
+          Schop: Herra, olet auttajamme - Korjuupäivän saapuessa (Markus Bäckman ja Maria Laakso, laulu, sekä yhtye).
+
+          Harju: Pyhän aallot (Maksetut viulut).
       - title: Aamuhartaus
         start_time: '2025-05-14T06:50:00+03:00'
         end_time: '2025-05-14T06:59:59+03:00'
@@ -76,9 +86,11 @@ data:
           Warren: Chica chica boom chic (Carmen Miranda).
           Weill: Mack the Knife (Frank Sinatra).
           Bechet: Si tu vois ma mere (Sidney Bechet).
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Koulutuksen tulevaisuus'
         start_time: '2025-05-14T10:00:00+03:00'
         end_time: '2025-05-14T10:50:00+03:00'
+        description: |
+          Uusia ammatteja syntyy ja vanhoja katoaa. Miten koulutuksessa kyetään huomioimaan alati muuttuva maailma, työelämä ja tulevaisuus? Millaisia taitoja tarvitaan? Millaisille aloille kannattaa kouluttautua? Toimittaja Satu Kivelä keskustelee aiheesta Helsingin yliopiston kasvatustieteen professori Minna Huotilaisen ja tulevaisuudentutkija Otto Tähkäpään kanssa.
       - title: Riston Valinnan äänikirjeitä Tallinnasta II
         start_time: '2025-05-14T11:00:00+03:00'
         end_time: '2025-05-14T11:50:00+03:00'
@@ -162,6 +174,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-14T18:35:00+03:00'
         end_time: '2025-05-14T18:50:00+03:00'
+        description: |-
+          Prichard (sov. Vintturi): Halleluja, kiitos Herran (Papas No Mamas/Juha Vintturi, ja Maija Sariola, laulu).
+
+          Springer (sov. Ridanpää): Tee meistä rukous (Lauluyhtye Haava).
+
+          Tin: Baba Yetu (Isä meidän) (Ron Ragin, laulu, Soweto Gospel Choir, Royal Philharmonic Orchestra).
+
+          Tansanialainen kansansäv.: Mwamba wangu - Kalliolinna (Amani/Terho Granlund).
       - title: Iltahartaus
         start_time: '2025-05-14T18:50:00+03:00'
         end_time: '2025-05-14T19:00:00+03:00'
@@ -173,38 +193,26 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-14T19:00:00+03:00'
         end_time: '2025-05-14T19:02:00+03:00'
-      - title: 'Ylen vuoden nuorisokuoron konsertti – Helsingin Konservatorion nuoret laulajat '
+      - title: Istun ja unelmoin – Ylen vuoden nuorisokuoron konsertti
         start_time: '2025-05-14T19:02:00+03:00'
-        end_time: '2025-05-14T21:00:00+03:00'
-        description: |-
-          Ylen vuoden nuorisokuoro 2025 Helsingin Konservatorion nuoret laulajat konsertoi, joht. Anna Nora ja Anna Sandström
+        end_time: '2025-05-14T20:10:00+03:00'
+        description: |
+          Helsingin Konservatorion nuoret laulajat, joht. Anna Nora ja Anna Sandström. Timo Latonen, piano. 
 
-          Yksi, kaksi, kolme, neljä, Suomalainen kansanmelodia, ransk. melodia, säv. & san. Marie-Claire Saindon                                                                                                                                                            
-
-          Mehiläislaulu + Mehiläinen meiän lintu, säv. Anna Nora, san. Juulia Tapola        
-
-          Jorden kan du inte göra om, säv. Pelle Olofsson, san. Stig Dagerman        
-
-          Soua sorsa, lieku lintu, suomalainen kansanlaulu, sov. Silja Kuoppala        
-
-          Noita laulan, suomalainen kansanlaulu, sov. Anna Nora      
-                                                  
-          Changes, säv. & san. Audrey Snyder 
-
-          Läksin minä kesäyönä, suomalainen kansanlaulu   
-
-          To Sit and Dream, säv. Rosephanye Powell, san. Langston Hughes         
-
-          Südame hääl, säv. Dagmar Õunap, san. Anu Röömel        
-                                                    
-          I Feel the same way: three songs of Lilian Moor
-          1. Rain rivers                                                
-          2. Hey Bug!                                                
-          3. Wind Song                                                
-
-          Et ole yksin, säv. & san. Mia Makaroff        
-
-          Kuva: Nelli Kivinen
+          trad./Marie-Claire Saindon: Yksi, kaksi, kolme, neljä (san. Élise Gauthier)
+          Anna Nora: Mehiläinen meiän lintu (san. Juulia Tapola)
+          Pelle Olofson: Jorden kan du inte göra om (san. Stig Dagerman)
+          trad. (sov. Silja Kuoppala): Soua sorsa, lieku lintu
+          trad. (sov. Anna Nora): Noita laulan
+          Audrey Snyder: Changes
+          trad. (sov.Matti Murto): Läksin minä kesäyönä
+          Rosephanye Powell: To Sit and Dream (san. Langston Hughes)
+          Dagmar Õunap: Südame hääl (san. Anu Röömel)
+          Alex Freeman: I Feel the same way (san. Lilian Moore)
+          (1. Rain rivers, 2. Hey Bug! 3. Wind Song)
+          Mia Makaroff: Et ole yksin
+              
+          Helsingin konservatorion konserttisalissa 4.5. äänitetyn konsertin toimittaa Ahti Paunu. Äänisuunnittelijana Antti Snellman.
       - title: Yle Uutiset
         start_time: '2025-05-14T21:00:00+03:00'
         end_time: '2025-05-14T21:02:00+03:00'

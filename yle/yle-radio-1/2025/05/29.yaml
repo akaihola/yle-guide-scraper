@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-08T02:34:54.759885+00:00'
+  generated_at: '2025-05-09T02:34:26.900335+00:00'
   git:
     branch: main
-    commit: 081a9fe98f57edde2bfeaf5eead1205d633670df
-  data_hash: 17deb30ba169a47cc2000c2414120d808890f192c51f358980b8b3d7e2a1d04b
+    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
+  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
 data:
   Yle Radio 1:
     programmes:
@@ -61,6 +61,9 @@ data:
           Keskustelu avaa kiinnostavan näkökulman siihen, miten tekoäly voi parhaimmillaan tehostaa juristin työtä, mutta myös siihen, miksi inhimillinen harkinta on edelleen korvaamatonta oikeudenkäytössä.
 
           Jakson tekoälysisällön tuotti ChatGPT 4.0 ja sen äänenä toimi ElevenLabs.
+      - title: Musiikkikamari
+        start_time: '2025-05-29T12:45:00+03:00'
+        end_time: '2025-05-29T13:00:00+03:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-29T13:00:00+03:00'
         end_time: '2025-05-29T15:00:00+03:00'
@@ -97,3 +100,13 @@ data:
       - title: Sibelius-viulukilpailun finaali III
         start_time: '2025-05-29T18:30:00+03:00'
         end_time: '2025-05-29T22:30:00+03:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-05-29T23:00:00+03:00'
+        end_time: '2025-05-29T23:56:30+03:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Yöklassinen
+        start_time: '2025-05-30T00:00:00+03:00'
+        end_time: '2025-05-30T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
