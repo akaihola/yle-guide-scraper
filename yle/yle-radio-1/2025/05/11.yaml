@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-09T02:34:18.491691+00:00'
+  generated_at: '2025-05-11T02:35:02.998422+00:00'
   git:
     branch: main
-    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
-  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
+    commit: 2a8917f98857166f1687c2ec9b664b65e28e2b9e
+  data_hash: 27a2a3bc610e7d48fb62c97a58b38de0614f4550437fb7e41fe3edece4ad8853
 data:
   Yle Radio 1:
     programmes:
@@ -74,6 +74,11 @@ data:
 
           Psalmi no 130: Du fond de l'abime - Syvyyksistä minä huudan
           (Ann Murray, mezzo-sopraano, Neil MacKenzie, tenori, Birminghamin sinfoniaoreksterin kuoro, BBC:n Filharmoninen orkesteri/Yan Pascal Tortelier).
+      - title: Radio 1 soi
+        start_time: '2025-05-11T07:57:05+03:00'
+        end_time: '2025-05-11T08:00:00+03:00'
+        description: |-
+          Dowland: The Humble complaint of a sinner (His Majestie's Clerkes/Paul Hillier). 
       - title: Yle Uutiset ja sää
         start_time: '2025-05-11T08:00:00+03:00'
         end_time: '2025-05-11T08:05:05+03:00'
@@ -142,7 +147,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-11T14:50:00+03:00'
         end_time: '2025-05-11T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Amani Al-mehsen: Kiitos äiti, että et luovuttanut'
         start_time: '2025-05-11T14:55:00+03:00'
         end_time: '2025-05-11T15:00:00+03:00'
         description: |-
@@ -213,17 +218,22 @@ data:
           Toimittajana Markus Partanen.
       - title: Akatistos Jumalansynnyttäjälle Nummelan Jumalansynnyttäjän Neitseen Marian syntymän rukoushuoneesta
         start_time: '2025-05-11T20:00:00+03:00'
-        end_time: '2025-05-11T21:00:00+03:00'
+        end_time: '2025-05-11T20:58:10+03:00'
         description: |-
           Palveluksen toimittaa rovasti Kalevi Kasala. Kirkkokuoroa johtaa kanttori Joakim Pietarinen
 
           .
+      - title: Radio 1 soi
+        start_time: '2025-05-11T20:58:10+03:00'
+        end_time: '2025-05-11T21:00:00+03:00'
+        description: |-
+          Melartin: Etydi pianolle E-duuri (Arto Satukangas, piano). 
       - title: Yle Uutiset
         start_time: '2025-05-11T21:00:00+03:00'
         end_time: '2025-05-11T21:02:05+03:00'
       - title: 'Radioteatteri esittää: Minua kiinnostaa valo'
-        start_time: '2025-05-11T21:04:48+03:00'
-        end_time: '2025-05-11T21:55:57+03:00'
+        start_time: '2025-05-11T21:04:47+03:00'
+        end_time: '2025-05-11T21:55:56+03:00'
         description: |
           Radioteatteri esittää: Minua kiinnostaa valo - kuunnelma Elin Danielson-Gambogista
 
@@ -235,22 +245,28 @@ data:
           Käsikirjoitus: Iira Halttunen. Ohjaus: Mirkka Kallio. Musiikki: Olli Aarni. Äänisuunnittelu: Tiina Luoma.
           Rooleissa: Elin Danielson-Gambogi - Manuela Bosco. Sekä Sirpa Järvenpää, Henri Waltter Rehnström, Anssi Kasitonni, Maria Stereo, Matteo Fantoni, Inkeri Wallenius, Henrika Nieminen. 
           Dramaturgi: Paula Salminen. Tuotanto: Laura Jaakkola, Yle Draama 2023.
-      - title: Uutispodcast
-        start_time: '2025-05-11T21:56:48+03:00'
-        end_time: '2025-05-11T22:21:00+03:00'
+      - title: 'Heikki Heiskanen & Putinin pilarit: Kylmä voitonpäivä koittaa taas'
+        start_time: '2025-05-11T21:56:47+03:00'
+        end_time: '2025-05-11T22:21:16+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Vladimir Putin on rakentanut Venäjälle arkkivihollista lännestä, ja eritoten Yhdysvalloista. Donald Trumpin kanssa Putin näyttää kuitenkin löytäneen yhteisen arvopohjan. Millaiseen ideologiaan Putinin hallinto oikein nojaa?
+          Heikki Heiskanen soittaa ensimmäisessä jaksossa tutkija Ilja Budraitskisille, joka on verrannut Venäjän vallanpitäjien aatemaailmaa konservatiivisiin liikkeisiin lännessä. Heiskanen vastaa myös kysymykseen, miksi 9. toukokuuta on Putinille niin tärkeä päivämäärä.
       - title: 'Sari Valto: Äiti kulkee aina mukanamme'
-        start_time: '2025-05-11T22:21:30+03:00'
-        end_time: '2025-05-11T23:15:36+03:00'
+        start_time: '2025-05-11T22:22:18+03:00'
+        end_time: '2025-05-11T23:16:24+03:00'
         description: |+
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
 
       - title: 'Romano mirits: Orvo Grönfors kertoo sukunsa tarinaa mielellään'
-        start_time: '2025-05-11T23:15:16+03:00'
-        end_time: '2025-05-11T23:29:33+03:00'
+        start_time: '2025-05-11T23:16:54+03:00'
+        end_time: '2025-05-11T23:31:11+03:00'
         description: |
           Tukholmalainen Orvo Grönforsin suku on kotoisin Pielavedeltä. Juualla syntynyt aktiivinen mies on asunut kuitenkin jo pian viisikymmentä vuotta Ruotsissa, minne asettui vierailtuaan siellä sukulaistensa luona. Romanisuku-sarjan jaksossa kuullaan Orvo Grönforsin perheestä ja keskustellaan mm. suomalaisten muuttoliikkeestä niin Ruotsiin kuin muualle maailmaan 1960-70 -luvuilla. Ohjelman toimittaja on Jaakko Laakso.
+      - title: 'Elisen ääni: Hampaankolossa. Työaika'
+        start_time: '2025-05-11T23:31:48+03:00'
+        end_time: '2025-05-11T23:39:07+03:00'
+        description: |-
+          Hampaankolossa-ohjelmassa vuonna 1986 oli J. P. Roosilla aiheenaan työaika.
       - title: Yöklassinen
         start_time: '2025-05-11T23:40:00+03:00'
         end_time: '2025-05-12T06:30:00+03:00'

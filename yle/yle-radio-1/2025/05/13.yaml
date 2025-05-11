@@ -1,17 +1,117 @@
 metadata:
-  generated_at: '2025-05-09T02:34:19.579400+00:00'
+  generated_at: '2025-05-11T02:35:03.821095+00:00'
   git:
     branch: main
-    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
-  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
+    commit: 2a8917f98857166f1687c2ec9b664b65e28e2b9e
+  data_hash: 27a2a3bc610e7d48fb62c97a58b38de0614f4550437fb7e41fe3edece4ad8853
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-05-12T23:40:00+03:00'
         end_time: '2025-05-13T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |2-
+
+
+
+          Delius: Intermezzo oopp. Fennimore ja Gerda (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+
+
+
+
+
+          Esterházy: Neljä kantaattia sopraanolle, kahdelle viululle ja continuolle (Kamila Zajiková-Vyskocilová, sopraano, ja Musica aeterna Bratislava/Peter Zajicek).
+
+
+
+
+
+
+          J. Haydn: Jousikvartetto n:o 41 G-duuri (Mosaïques-kvartetti).
+
+
+
+
+
+          Desprez: Missa Malheur me bat (The Clerks' Group/Edward Wickham).
+
+
+
+
+
+
+
+          Brahms: Sinfonia n:o 1 c-molli (Chicagon SO/Georg Solti).
+
+
+
+
+
+
+          Klami: Viulukonsertto (Olavi Pälli ja RSO/Okko Kamu).
+
+
+
+
+
+
+
+
+          Schumann: Kreisleriana, kahdeksan fantasiaa pianolle (Claudio Arrau).
+
+
+
+
+
+
+          Veracini: Sonaatti viululle ja continuolle d-molli (Trio Settecento).
+
+
+
+
+
+
+          J.S. Bach: Urkusonaatti n:o 5 C-duuri. (Heinrich Christensen).
+
+
+
+
+
+
+          Elgar: Sellokonsertto e-molli (Arto Noras ja RSO/Jukka-Pekka Saraste).
+
+
+
+
+
+
+
+
+          Händel: Katkelmia oopp. Floridante (Catherine Robbin ja Linda Maguire, mezzosopraano, Nancy Argenta ja Ingrid Attrot, sopraano, ja Mel Braun, baritoni, sekä Tafelmusik-barokkiork./Alan Curtis).
+
+
+
+
+
+
+          Giuliani: Rondo kitaralle (David Starobin).
+
+
+
+
+
+
+
+
+          Arkkiherttua Rudolf: Muunnelmia viululle ja pianolle F-duuri (Josef Suk ja Susan Kagan). 
+
+
+
+
+
+
+          Henry Purcellin lauluja (Drew Minter, kontratenori, ja Mitzi Meyerson, cembalo ja urut, sekä Mary Springfels, viola da gamba). 
       - title: Hartaita säveliä
         start_time: '2025-05-13T06:30:50+03:00'
         end_time: '2025-05-13T06:50:00+03:00'
@@ -85,16 +185,42 @@ data:
           Williams: Onko syytä itkeä (Annikki Tähti).
           Aznavour: Hier encore (Charles Aznavour).
           Jurva: Väliaikainen (Vesa-Matti Loiri).
-      - title: Sari Valto
+      - title: 'Sari Valto: Korkkarit kattoon! Mikä saa keski-ikäisen fanittamaan poptähteä?'
         start_time: '2025-05-13T10:00:00+03:00'
         end_time: '2025-05-13T10:55:00+03:00'
-        description: |
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+        description: |-
+          Musiikkifanituskulttuurista puhuvat yliopistonlehtori Janne Poikolainen sekä Kaija Koo -fani Heidi Hyytiäinen.
+      - title: 'Klasariparatiisi: Kyynel'
         start_time: '2025-05-13T11:00:00+03:00'
         end_time: '2025-05-13T11:57:00+03:00'
-        description: |-
+        description: |
+          Sitä erittyy yhdestä jos toisesta nisäkkäästä. Se puhdistaa ja kosteuttaa.
+          Ihminen antaa sille kaikenlaisia symbolisia merkityksiä.
+          Siitä syntyy musiikkia.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Modest Musorgski: Sleza (Maria Judina, piano).
+
+          Georg Friedrich Händel: Mi restano le lagrime, Alcinan aaria oopperasta Alcina (Jeanine de Bique, sopraano, ja Concerto Köln/Luca Quintavalle).
+
+          Robert Schumann: Was will die einsame Träne? (Gerald Finley, baritoni, ja Julius Drake, piano).
+          Franz Lachner: Die einsame Träne (Mark Padmore, tenori, ja Kristian Bezuidenhout, fortepiano).
+
+          Andrea Tarrodi: Sorg och glädje (Jussi Tuhkanen, alttoviulu, ja Petja Kainulainen, sello).
+
+          William Byrd: Lachrymae pavan, transkriptio d-molli MB54 kosketinsoittimelle Dowlandin luuttulaulusta Flow my tears (Aapo Häkkinen, cembalo).
+
+          Claudio Monteverdi: Lagrime d’amante al sepolcro dell’amata 
+          1. Incenerite spoglie / Tuhkaksi muuttunut tomumaja
+          2. Ditelo, o fiumi / Kertokaa, virrat
+          3. Dara la notte il sol / Ennemmin yö valoksi muuttuu
+          4. Ma te raccoglie, o ninfa, in grembo / Mutta sinut, oi Nymfi, ottaa taivas huomaansa
+          5. O chiome d'or / Oi kultaiset hiukset
+          6. Dunque, amate reliquie /(Niinpä, oi rakkaimpani tomu
+          (Voces8/Barnaby Smith).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-13T11:57:00+03:00'
         end_time: '2025-05-13T12:00:00+03:00'
@@ -257,9 +383,21 @@ data:
         end_time: '2025-05-13T20:35:00+03:00'
         description: |
           Heinäkuun ensimmäisenä 1959 Köyliön varavankilassa sattui suomen historian vakavin vankilapalo. 16 ihmistä menehtyi mielenterveysongelmista kärsineen vangin sytytettyä palon, joka levisi nopeasti puurakenteisessa vankilassa. Yksi vainajista oli Orvo Grönforsin isä. Tragedian seurauksena Grönfors varttui isovanhempiensa hoivissa. Erityisesti ukiltaan hän oppi suvun tarinat. Värikkäänä kertojana tunnettu Kalle Grönfors oli kauppamies, joka välitti hevosia ja karjaeläimiä. ”Illalla elukoita saattoi olla vaikka kuinka, mutta aamulla ei yhtään, kun ukki oli myynyt ne yön aikana pois”, Grönfors naurahtaa. Toimittaja on Jaakko Laakso
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Toisen maailmansodan päättymisestä 80 vuotta – maailma jälleen uuden edessä'
         start_time: '2025-05-13T20:35:00+03:00'
         end_time: '2025-05-13T21:00:00+03:00'
+        description: |-
+          Tällä viikolla on juhlittu toisen maailmansodan päättymistä 80 vuotta sitten. Voitonpäivän juhlallisuuksia varjosti Euroopassa maailmantilanteen epävakaus ja huoli transatlanttisten liittolaissuhteiden tulevaisuudesta.  
+
+          Ohjelmassa kuullaan kirjeenvaihtajan raportti Britannian voitonjuhlista. Siinä selviää, mikä brittejä ajassamme nyt huolettaa. Brittiläinen sotakirjailija näkee ajassamme yhtäläisyyksiä toiseen maailmansotaan.
+
+           Yhdysvalloissa nimekäs ulkopolitiikan asiantuntijoiden joukko varoittaa avoimessa kirjeessään maansa epädemokraattisesta suunnasta. Yksi allekirjoittajista, korkea-arvoinen yhdysvaltalaisdiplomaatti arvioi ohjelmassa, että Donald Trump uhkaa tehdä Yhdysvalloista maailman epävakauden lisääjän. 
+
+           Ulkopoliittisen instituutin tuoreessa raportissa annetaan EU:lle selviytymisohjeita menossa olevaan maailmanpoliittiseen myllerrykseen. EU:ta patistetaan pitämään kiinni sääntöperustaisesta maailmanjärjestyksestä ja vahvistamaan omia kyvykkyyksiään sekä yhteyksiä samanmielisten maiden kanssa globaalissa etelässä ja muualla. 
+
+          Yksi raportin laatijoista sanoo ohjelmassa, että ensimmäisenä on syytä ymmärtää, että transatlanttisissa suhteissa muutos on pysyvä, eikä Yhdysvallat Trumpinkaan jälkeen tule sitoutumaan entiseen tapaan Euroopan turvallisuuteen.
+
+          Maailmanpolitiikan arkipäivää -ohjelmassa pohditaan, millaiseen aikaan maailma on nyt siirtymässä ja millaisia yhtäläisyyksiä ajassamme on toiseen maailmansotaan.  Ohjelman ovat toimittaneet Kirsi Crowley ja Paula Vilén. Äänitarkkailijana on Juha Sarkkinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yle Uutiset
         start_time: '2025-05-13T21:00:00+03:00'
         end_time: '2025-05-13T21:02:00+03:00'
@@ -271,11 +409,13 @@ data:
         end_time: '2025-05-13T22:29:30+03:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-      - title: Miia Krause
+      - title: 'Miia Krause: Roope Lipasti: "Lapsi tarvitsee lähinnä ruokaa ja iltasadun"'
         start_time: '2025-05-13T22:30:00+03:00'
-        end_time: '2025-05-13T23:16:30+03:00'
+        end_time: '2025-05-13T23:16:55+03:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          "Tuntuu siltä että nykyään vanhemmuus otetaan vähän liiankin vakavasti. Etenkin alakouluikäisten vanhempien joukossa puututaan liian herkästi lasten koulunkäyntiin ja vaaditaan yksilöllisyyttä, ja sitten vanhempi on siellä rehtorin kansliassa kertomassa miten meidän lasta pitäisi opettaa."
+
+          -Roope Lipasti
       - title: Yöklassinen
         start_time: '2025-05-13T23:40:00+03:00'
         end_time: '2025-05-14T06:30:00+03:00'

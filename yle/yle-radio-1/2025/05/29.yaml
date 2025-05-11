@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-09T02:34:26.900335+00:00'
+  generated_at: '2025-05-11T02:35:08.683834+00:00'
   git:
     branch: main
-    commit: cedfff3f3be9faab151f1aa8d447acb977e450e6
-  data_hash: 3726726a32933db271d503053d0c2be0b1514e75f8dcb93e27028a2b8570a450
+    commit: 2a8917f98857166f1687c2ec9b664b65e28e2b9e
+  data_hash: 27a2a3bc610e7d48fb62c97a58b38de0614f4550437fb7e41fe3edece4ad8853
 data:
   Yle Radio 1:
     programmes:
@@ -30,13 +30,28 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-29T09:05:40+03:00'
         end_time: '2025-05-29T09:55:00+03:00'
+        description: |-
+          Salvador: Sävel rakkauden (Brita Koivunen).
+          Lennon/McCartney: Lyssna (Anita Lindblom).
+          Keti: A voz do morro  (Ze Keti).
+          Richie: Easy (Commodores).
+          Barry: Born free (Andy Williams).
+          Chydenius: Jos rakastat  (Kristiina Halkola).
+          Sloan: Wir sind am Ende (Christopher und Michael).
+          Mitchell: You turn me on, I'm a radio (Joni Mitchell).
+          Cassano/Cont/Argenio: Melodia (Isabella Iannetti).
+          Becaud: Dimanche a Orly (Gilbert Becaud).
+          Lipponen: Liisankadulla (Muksut).
+          Msarurgwa: Skokiaan (Louis Armstrong).
+          Kosonen: Muistan sua Elaine (Dallape).
+          Belle: A Sunday kind of love (Etta James).
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-29T09:55:00+03:00'
         end_time: '2025-05-29T09:56:00+03:00'
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-05-29T09:56:00+03:00'
         end_time: '2025-05-29T09:59:00+03:00'
-      - title: Kansanlaulukirkko – Raaseporin suomalaisen seurakunnan 10-vuotisjuhlamessu Pyhän Katariinan kirkosta Karjaalta
+      - title: Kansanlaulukirkko – Raaseporin suomalaisen seurakunnan 10-vuotisjuhlamessu Karjaan Pyhän Katariinan kirkosta
         start_time: '2025-05-29T10:00:00+03:00'
         end_time: '2025-05-29T10:59:20+03:00'
         description: |
@@ -81,6 +96,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-29T16:10:00+03:00'
         end_time: '2025-05-29T16:59:00+03:00'
+        description: |
+          Hook: The Nightingale (Deborah Riedel, sopraano, ja Arcadia Lane Orchestra/Richard Bonynge).
+
+          O. Merikanto (sov.): Jos voisin laulaa kuin lintu voi (Ilkka Paananen, piano). 
+
+          Muset: Toukokuussa, kun pieni satakieli (Jesse Lepkoff, huilu, Margriet Tindemans, gittern, ja Shira Kammen, harppu). 
+
+          J. Haydn: Allegro moderato jousikvartetosta nro 39 C-duuri "Lintukvartetto" (The Angeles String Quartet). 
+
+          Nielsen: Kukkotanssi oopp. Naamiaiset (Tanskan radion SO/Thomas Dausgaard).
+
+          Saint-Saëns: Joutsen sarj. Eläinten karnevaali (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
+
+          Melartin: Lintuseni (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          Josef Strauss: Itävallan kyläpääskysiä (Wienin sinfonikot/Robert Stolz).
+
+          Gutmann: Lintujen herääminen (Hubert Rutkowski, piano).
+
+          Granados: Rosarion aaria Porque entre sombras el ruisenor - Misterio es el cantar oopp. Goyescas (Kate Royal, sopraano, ja Academy of St. Martin-in-the-Fields/Edward Gardner).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-29T17:00:00+03:00'
         end_time: '2025-05-29T17:10:00+03:00'
@@ -99,10 +134,13 @@ data:
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Sibelius-viulukilpailun finaali III
         start_time: '2025-05-29T18:30:00+03:00'
-        end_time: '2025-05-29T22:30:00+03:00'
+        end_time: '2025-05-29T22:15:00+03:00'
+      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        start_time: '2025-05-29T22:20:30+03:00'
+        end_time: '2025-05-29T22:35:30+03:00'
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-05-29T23:00:00+03:00'
-        end_time: '2025-05-29T23:56:30+03:00'
+        start_time: '2025-05-29T22:52:30+03:00'
+        end_time: '2025-05-29T23:49:30+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen
