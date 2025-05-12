@@ -1,14 +1,86 @@
 metadata:
-  generated_at: '2025-05-11T02:35:12.096106+00:00'
+  generated_at: '2025-05-12T02:35:24.815566+00:00'
   git:
     branch: main
-    commit: 2a8917f98857166f1687c2ec9b664b65e28e2b9e
-  data_hash: 27a2a3bc610e7d48fb62c97a58b38de0614f4550437fb7e41fe3edece4ad8853
+    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
+  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-06-14T23:40:00+03:00'
         end_time: '2025-06-15T07:00:00+03:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Yle Uutiset
+        start_time: '2025-06-15T07:00:00+03:00'
+        end_time: '2025-06-15T07:02:05+03:00'
+      - title: Räisälä-juhlien jumalanpalvelus Kokemäeltä
+        start_time: '2025-06-15T10:00:00+03:00'
+        end_time: '2025-06-15T10:59:20+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-06-15T11:00:00+03:00'
+        end_time: '2025-06-15T11:57:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2025-06-15T12:05:00+03:00'
+        end_time: '2025-06-15T12:55:00+03:00'
+        description: |
+          Tarinoita talouden myllerryksistä.
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2025-06-15T13:00:00+03:00'
+        end_time: '2025-06-15T13:57:00+03:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+        start_time: '2025-06-15T14:00:00+03:00'
+        end_time: '2025-06-15T14:52:00+03:00'
+      - title: Ykköskolumni
+        start_time: '2025-06-15T14:55:00+03:00'
+        end_time: '2025-06-15T15:00:00+03:00'
+      - title: Elävä historia
+        start_time: '2025-06-15T15:00:00+03:00'
+        end_time: '2025-06-15T15:50:00+03:00'
+        description: |
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Viikon luontoääni
+        start_time: '2025-06-15T15:50:00+03:00'
+        end_time: '2025-06-15T15:55:00+03:00'
+      - title: 'Jazzklubin illan keikka: Superposition Tampere Jazz Happeningissä.'
+        start_time: '2025-06-15T18:11:00+03:00'
+        end_time: '2025-06-15T19:00:00+03:00'
+        description: |
+          Äänitetty Tullikamarin Pakkahuoneella 2.11.2024.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-15T19:00:00+03:00'
+        end_time: '2025-06-15T19:02:05+03:00'
+      - title: 'Jazzklubi: Klubi-isäntänä Eero Koski.'
+        start_time: '2025-06-15T19:02:05+03:00'
+        end_time: '2025-06-15T20:00:00+03:00'
+        description: |-
+          Toimittajan Eero Koski.
+      - title: Katolinen Pyhän kolminaisuuden päivän messu
+        start_time: '2025-06-15T20:00:00+03:00'
+        end_time: '2025-06-15T21:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-06-15T21:00:00+03:00'
+        end_time: '2025-06-15T21:02:05+03:00'
+      - title: Uutispodcast
+        start_time: '2025-06-15T21:03:00+03:00'
+        end_time: '2025-06-15T21:28:00+03:00'
+        description: |
+          Otsikoiden takana joka arkipäivä.
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2025-06-15T21:29:00+03:00'
+        end_time: '2025-06-15T22:26:00+03:00'
+        description: |
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Romano mirits
+        start_time: '2025-06-15T23:25:00+03:00'
+        end_time: '2025-06-15T23:39:30+03:00'
+        description: |
+          Ajankohtaista asiaa romaneista.
+      - title: Yöklassinen
+        start_time: '2025-06-15T23:40:00+03:00'
+        end_time: '2025-06-16T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
