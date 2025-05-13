@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:23.309933+00:00'
+  generated_at: '2025-05-13T02:34:56.338423+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -67,6 +67,11 @@ data:
         end_time: '2025-06-09T17:34:20+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+      - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikin pienet suuret idyllit: Verdal, Norja'
+        start_time: '2025-06-09T17:35:00+03:00'
+        end_time: '2025-06-09T18:34:20+03:00'
+        description: |
+          Norjan Verdal antaa paljon kansanmusiikin ystävälle. Pitäjällä on paljon yhtymäkohtia Kaustiseen, täälläkin pelimanniaktivistien pitkäjänteinen työ on muokannut maaperää musiikillisille tiluksille, joille löytyy jatkajia sukupolvenvaihdoksesta toiseen. Verdalin moninaisen viulismin jälkeen soi norjalaisen nykykansanmusiikin kavalkadi jazzillisesta pukinsarvesta saamelaiseen tunturimaisemaan. Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-06-09T18:35:00+03:00'
         end_time: '2025-06-09T18:50:00+03:00'

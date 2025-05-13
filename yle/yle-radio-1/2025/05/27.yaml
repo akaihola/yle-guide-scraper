@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:19.752488+00:00'
+  generated_at: '2025-05-13T02:34:53.432152+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-27T07:10:00+03:00'
         end_time: '2025-05-27T07:59:59+03:00'
+        description: |+
+          Sanz (sov. Lagoya): Canarios (Alexandre Lagoya, kitara, ja St. Martin-in-the-Fields/Kenneth Sillito).
+
+          Tshaikovski: Albuminlehti D-duuri (Kerava-kvartetti).
+
+          Debussy (sov. Harjanne): Arabeski n:o 1 (Jouko Harjanne, trumpetti, ja Anni Kuusimäki, harppu).
+
+          Herschel (sov. Briggs): Allegro sinfoniasta n:o 17 C-duuri (Lontoon Mozart-soittajat/Matthias Bamert)
+
+          Schubert: Valse noble (Gil Shaham ja Göran Söllscher).
+
+          Brahms: Allegro appassionato sonaatista Es-duuri (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
+
+          Sibelius: Morceau romantique sur un motif de M. Jacob de Julin (Turun filharmoninen ork./Leif Segerstam).
+
+          Griffes: Acqua Paolan suihkulähde sarj. Roomalaisia luonnoksia (Garrick Ohlsson, piano).
+
+          Albéniz (sov. Segovia): Asturias (Sharon Isbin, kitara).
+
+          W.A. Mozart: Alkusoitto oopp. Figaron häät (Metropolitan-oopperan ork./James Levine).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-05-27T08:00:00+03:00'
         end_time: '2025-05-27T08:10:00+03:00'

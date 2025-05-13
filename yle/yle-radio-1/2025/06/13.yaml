@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:24.370432+00:00'
+  generated_at: '2025-05-13T02:34:58.178635+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -77,9 +77,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-13T19:00:00+03:00'
         end_time: '2025-06-13T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Naantalin musiikkijuhlat: Bach - Viestejä tuonpuoleisesta'
         start_time: '2025-06-13T19:02:00+03:00'
         end_time: '2025-06-13T21:00:00+03:00'
+        description: |-
+          Kun Johann Sebastian Bach palasi konserttimatkaltaan kotiin vuonna 1720, häntä odotti järkytys: hänen vaimonsa oli kuollut ja jo haudattukin. Surutyönään Bach viimeisteli viulupartitan d-mollissa, joka päättyy monumentaaliseen chaconneen. Vuonna 1994 tutkija Helga Thoene teki mullistavan löydön: maallisena pidettyyn partitaan oli kätketty kuolemasta ja menetyksestä kertovien kuorokappaleiden säkeitä. Mitä Bach halusi sanoa? Onko kaiken takana seikkaperäinen suunnitelma, piilotajunnan ääni vai taivaallinen johdatus? Mysteerin äärelle johdattavat Tuuli Lindebergin kokoama lauluyhtye sekä Bach-tulkinnoistaan ylistetty viulisti Liza Ferschtman. 8.6. Rymättylän kirkossa tallenetun konsertin toimittaa Lotta Emanuelsson.
+
+          Johann Sebastian Bach: Kantaatteja
+          Johann Sebastian Bach: Partita sooloviululle d-molli BWV 1004
+
+          Kuvassa: Liza Ferschtman (Kuva: Marco Borggreve)
+
+          Kuvassa. Liza Ferschtman
+
+          Liza Ferschtman, viulu
+          Tuuli Lindeberg, sopraano
+          Teppo Lampela, kontratenori
+          Mats Lillhannus, tenori
+          Sampo Haapaniemi, baritoni
       - title: Yle Uutiset
         start_time: '2025-06-13T21:00:00+03:00'
         end_time: '2025-06-13T21:02:00+03:00'

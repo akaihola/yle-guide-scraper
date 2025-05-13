@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:16.386288+00:00'
+  generated_at: '2025-05-13T02:34:42.636274+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -159,8 +159,16 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-05-15T15:02:00+03:00'
         end_time: '2025-05-15T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Ihmiskaupan vastaisen aktivistin, papin ja kirjailijan Pia Rendicin tuore väitöskirjatutkimus esittää, että suomalaiset kristityt katsovat runsaasti pornoa, vaikka enemmistö pitää sitä kristinuskon vastaisena. Väitöskirjan mukaan tämä aiheuttaa ristiriitaa ja häpeää. 
+
+          Tutkija Pia Rendicin mukaan pornon katsominen koetaan kiihottavana mutta myös vahingollisena moraalisille arvoille. Nuoret naiset ovat aktiivisimpia pornon katsojia. 
+
+          Rendic toivoo, että kirkoissa keskusteltaisiin seksuaalisuudesta avoimemmin ja rakentavammin, sillä aiheesta keskustellaan liian vähän varsinkin herätyskristillisissä piireissä. Tutkimus on saanut ristiriitaisen vastaanoton kristityiltä.
+
+          Haastateltavana on Itä-Suomen yliopiston teologian tohtori Pia Rendic. 
+
+          Lähetyksen toimittaa Pauliina Grym. 
       - title: Yle News
         start_time: '2025-05-15T15:55:00+03:00'
         end_time: '2025-05-15T15:58:00+03:00'
@@ -208,8 +216,8 @@ data:
       - title: Kielen päällä
         start_time: '2025-05-15T18:25:00+03:00'
         end_time: '2025-05-15T18:34:20+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Finnairin chief purser Mika Saarelainen kertoo lentoalan kielestä. Mitä kieltä lentokoneen matkustamohenkilökunta CCM käyttää? Kieli pohjautuu suurelta osin englannin kieleen. Toimittajana on Jari Aula.
       - title: Hartaita säveliä
         start_time: '2025-05-15T18:35:00+03:00'
         end_time: '2025-05-15T18:50:00+03:00'

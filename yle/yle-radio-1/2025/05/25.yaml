@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:19.123591+00:00'
+  generated_at: '2025-05-13T02:34:52.974144+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -44,6 +44,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-25T11:00:00+03:00'
         end_time: '2025-05-25T11:57:00+03:00'
+        description: |-
+          Marchetti: Fascination (Jane Morgan).
+          Rascel: Romantica (Robertino).
+          Szentirmay: Miksi kuljen (Tuula-Anneli Rantanen).
+          Kern: Smoke gets in your eyes (Julian 'Cannonball' Adderley).
+          Boulanger: My prayer (Tom Jones).
+          Porter: I've got you under my skin (Wiola Talvikki, Radion tanssiorkesteri joht. Erkki Melakoski).
+          Kosma: Barbara (Neloset).
+          Green: Vie terveiset Ollille (Eila Pienimäki ja Tuulikki Pienimäki).
+          King: You've got a friend (Carole King).
+          Taylor: Fire and rain (James Taylor).
+          Lennon/McCartney: Hän lähtee pois (Maarit).
+          Lennon/McCartney: Let it be (The Beatles).
+          Baden: Samba triste (Stan Getz).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-25T12:00:00+03:00'
         end_time: '2025-05-25T12:05:00+03:00'

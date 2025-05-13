@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-12T02:35:15.663325+00:00'
+  generated_at: '2025-05-13T02:34:38.254214+00:00'
   git:
     branch: main
-    commit: 6e0272a56f6c549b3eddcd70879ba5aef28a85bf
-  data_hash: 55779933c9e2c484cdc4afb1c1151e538fb5534b72281f75e659eb18b99d0078
+    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
+  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
 data:
   Yle Radio 1:
     programmes:
@@ -90,6 +90,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-13T08:10:00+03:00'
         end_time: '2025-05-13T09:00:00+03:00'
+        description: |-
+          Ykkösaamussa keskustellaan Turmpin Lähi-idän matkasta; mitä hän sillä tavoittelee ? Minkälainen kansanvälisen politiikan viikko on edessä - mitä voimme odottaa tältä viikolta Gazaan tai Venäjän hyökkäyssodan rauhansuunnitelmiin. Studiossa Hannu Juusola ja Charley Salonius-Pasternak. Lähetyksessä kuullaan myös aamun tiedot Keniasta, missä tasavallan presidentti Alexander Stubb on virallisella valtiovierailulla. Kello 8.36. puhutaan Suomen sähkönkulutuksesta; kulutus kasvaa - riittääkö sähköä kuluttajille, vihreään siirtymään ja datakeskuksille ? Lähetyksen päätteksi yhteys Sveitsin Baseliin, euroviisujen karsinnassa esiintyy tänään Ruotsia edustava KAJ.
       - title: Yle Uutiset
         start_time: '2025-05-13T09:00:00+03:00'
         end_time: '2025-05-13T09:05:00+03:00'
@@ -173,6 +175,9 @@ data:
       - title: Politiikkaradio
         start_time: '2025-05-13T13:00:00+03:00'
         end_time: '2025-05-13T13:30:00+03:00'
+        description: |
+          Politiikkaradio pureutuu hallituksen päätöksiin koulutuksesta. Oliko virhe luvata korkeakoulupaikkojen lisäyksiä, mutta leikata pysyvää rahoitusta? Uhkaavatko koulutusleikkaukset talouskasvua? Miten käy pyrkimyksille nostaa korkeasti koulutettujen osuutta? 
+          Aiheesta keskustelevat kansanedustaja Sofia Vikman kokoomuksesta, Matias Mäkynen SDP:stä ja Sara Seppänen perussuomalaisista. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-13T13:30:00+03:00'
         end_time: '2025-05-13T15:00:00+03:00'
@@ -211,35 +216,37 @@ data:
         start_time: '2025-05-13T16:10:00+03:00'
         end_time: '2025-05-13T16:59:00+03:00'
         description: |
-          Britten - Rossini: Marssi sarj. Soirées musicales (Helsingborgin SO/Okko Kamu).
+          Huovinen: Kevätserenadi (Olli-Pekka Tuomisalo, saksofoni, ja Risto-Matti Marin, piano).
 
-          C. Schumann: Scherzo pianotriosta g-molli op.17 (Dartington-pianotrio).
+          Söderman: Majvisa (Toukokuun laulu) (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
 
-          Berg: Traumgekrönt sarj. Seitsemän varhaista laulua (Anne Sofie von Otter, mezzosopraano, ja Wienin filharmonikot/Claudio Abbado).
+          Sinding: Frühlingsrauschen (Kevään kohinaa) (Norjan radio-ork./Ari Rasilainen). 
 
-          W.A. Mozart: Allegro sonaatista pianolle ja viululle n:o 21 e-molli (Clara Haskil ja Arthur Grumiaux).
+          Vulpius: Die Beste Zeit im Jahr ist mein (Nyt saapui aika kukkasten) (Vanitatum Vanitas). 
 
-          Massenet: Manonin aaria ja gavotti oopp. Manon (Renée Fleming, sopraano, ja Englantilainen kamariork./Jeffrey Tate).
+          Byrd: This sweet and merry month of May (The King's Singers). 
 
-          Takemitsu (sov. Sato): Bad boy (John Williams ja Timothy Kain, kitara).
+          Lanner: Perhoset (Ensemble Wien).
 
-          Beethoven: Adagio sekstetosta kahdelle klarinetille, kahdelle fagotille ja kahdelle käyrätorvelle Es-duuri (Mozzafiato).
+          Pylkkänen: Poutapäiviä (RSO/Petri Sakari).
 
-          Whitacre: A boy and a girl (The Eric Whitacre Singers/Eric Whitacre).
+          F. Hensel: Die Mainacht (Toukokuun yö) (Susana Gaspar, sopraano, ja Malcolm Martineau, piano). 
 
-          Rani: Glass (Mari Samuelsen, viulu, Julien Quentin, piano, ja Scoring Berlin/Jonathan Stockhammer).
+          Lehár: Valse de fleurs (Kukkaisvalssi) oper. Frühling (Kevät) (Deutsche Kammerakademie Neuss/Johannes Goritzki).
 
-          Ravel: Five o'clock foxtrot (World Saxophone Orchestra/Ed Bogaard).
+          Kuhlau: Majsang (Toukokuun laulu) (Ars Nova Copenhagen/Paul Hillier).
 
-          Kreisler: Kiinalainen tamburiini (Yo-Yo Ma, sello, ja Patricia Zander, piano).
+          Jaell: Osia teoks. Voix du printemps (Kevään ääni) (Duo Korusa). 
+
+          J. Strauss, nuor.: Frühlingsstimmen (Kevään ääniä) (Erna Sack, sopraano, ja ork./Hans Schmidt-Isserstedt).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-13T17:00:00+03:00'
         end_time: '2025-05-13T17:10:00+03:00'
       - title: Uutispodcast
         start_time: '2025-05-13T17:10:00+03:00'
         end_time: '2025-05-13T17:34:20+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Suomeen on tulossa Tiktokin datakeskus. Uutinen herätti kansalaisissa huolta ja valtionjohdossa hämmennystä. Onko datakeskus aito uhka vai turhaa Kiina-paniikkia? Reetta Röngän vieraana on Oxfordin yliopiston taloussosiologian ja digitaalisen yhteiskuntatutkimuksen professori Vili Lehdonvirta. 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-05-13T17:35:00+03:00'
         end_time: '2025-05-13T18:30:00+03:00'
@@ -286,12 +293,12 @@ data:
         end_time: '2025-05-13T19:02:00+03:00'
       - title: 'Laskettua aikaa: Tšernihiv 7/10'
         start_time: '2025-05-13T19:02:40+03:00'
-        end_time: '2025-05-13T19:20:00+03:00'
+        end_time: '2025-05-13T19:23:00+03:00'
         description: |-
           Nora ja Kalle uhmaavat vaaroja ja pomoaan auttaakseen Olhaa pelastamaan perheensä Tšernihivistä pommitusten keskeltä. Kun pelastusoperaatio on vihdoin onnistumassa, paluumatka johtaa odottamattomaan käänteeseen. Jälleen yksi tarkastuspiste, mutta kumman puolen?
       - title: 'Laskettua aikaa: Häkkieläin 8/10'
-        start_time: '2025-05-13T19:20:00+03:00'
-        end_time: '2025-05-13T19:45:00+03:00'
+        start_time: '2025-05-13T19:23:00+03:00'
+        end_time: '2025-05-13T19:43:00+03:00'
         description: |-
           Venäläisten sotilaiden otettua Noran ja hänen matkakumppaninsa kiinni, tilanne muuttuu hengenvaaralliseksi. Kun ryhmä viedään venäläisten tukikohtaan, heitä kuulustellaan ja epäillään vakoilusta. Tilanne kärjistyy lopulta pahimpaan mahdolliseen. 
       - title: Musiikkikamari
@@ -336,8 +343,8 @@ data:
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Miia Krause: Roope Lipasti: "Lapsi tarvitsee lähinnä ruokaa ja iltasadun"'
-        start_time: '2025-05-13T22:30:00+03:00'
-        end_time: '2025-05-13T23:16:55+03:00'
+        start_time: '2025-05-13T22:30:30+03:00'
+        end_time: '2025-05-13T23:17:25+03:00'
         description: |
           "Tuntuu siltä että nykyään vanhemmuus otetaan vähän liiankin vakavasti. Etenkin alakouluikäisten vanhempien joukossa puututaan liian herkästi lasten koulunkäyntiin ja vaaditaan yksilöllisyyttä, ja sitten vanhempi on siellä rehtorin kansliassa kertomassa miten meidän lasta pitäisi opettaa."
 
