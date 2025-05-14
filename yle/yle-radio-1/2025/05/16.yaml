@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-13T02:34:43.851952+00:00'
+  generated_at: '2025-05-14T02:34:26.456979+00:00'
   git:
     branch: main
-    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
-  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
+    commit: ce4b3e71b9b22854aed2dd92f65668101d350d6d
+  data_hash: 5e7dd78e9d4c812f86d04439005147024d869c6645b94b6221c9038cd2fd4148
 data:
   Yle Radio 1:
     programmes:
@@ -96,19 +96,19 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-16T09:05:40+03:00'
         end_time: '2025-05-16T09:58:00+03:00'
-        description: |-
-          Lehtinen: Tanssivat kengät (Radion tanssiorkesteri).
+        description: |
+          Lehtinen: Tanssivat kengät (Radion tanssiork./Rauno Lehtinen).
           Springfield: I'll never find another you (The Seekers).
           Munro: Ich liebe das Leben (Vicky Leandros).
-          Johansson: Jag tycker inte om dej (Lill Lindfors)
-          Mancini:Yö katseessasi (Eija Merilä).
+          Johansson: Jag tycker inte om dej (Lill Lindfors).
+          Mancini: Yö katseessasi (Eija Merilä).
           Morricone: Le clan des Siciliens (Ennio Morricone).
-          Lucio Battisti: Pensieri e parole (Lucio Battisti)
-          Pace-Panzeri: Siffler sur la colline (Joe Dassin).
+          Battisti: Pensieri e parole (Lucio Battisti).
+          Pace/Panzeri: Siffler sur la colline (Joe Dassin).
           Reed: Kiss me goodbye (Petula Clark).
-          Jagger-Richards: Angie (The Rolling Stones).
+          Jagger/Richards: Angie (The Rolling Stones).
           Legrand: Devant le garage (Danielle Licari & José Bartel).
-          Sting: Fields of gold (Eva Cassidy)
+          Sting: Fields of gold (Eva Cassidy).
       - title: 'Ruben Stiller: '
         start_time: '2025-05-16T10:00:00+03:00'
         end_time: '2025-05-16T10:55:00+03:00'
@@ -162,27 +162,27 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-05-16T16:10:00+03:00'
         end_time: '2025-05-16T16:59:00+03:00'
-        description: |-
+        description: |
           Gluck: Autuaitten sielujen karkelo oopp. Orfeus ja Eurydike (Orpheus-kamariork.).
 
-          Melartin: Mirjamin laulu 3 (Laura Pyrrö, sopraano, Jouni Somero, piano).
+          Melartin: Mirjamin laulu 3 (Laura Pyrrö, sopraano, ja Jouni Somero, piano).
 
           Chopin: Nokturni n:o 20 cis-molli (Benjamin Grosvenor, piano).
 
-          Händel: Hornpipe sarjasta Vesimusiikkia (Philharmonia-barokkiork./Nicholas McGegan). 
+          Händel: Hornpipe sarj. Vesimusiikkia (Philharmonia-barokkiork./Nicholas McGegan). 
 
           Pärt: Spiegel im Spiegel (Viktoria Mullova, viulu, ja Liam Dunachie, piano). 
 
-          Sibelius: Humoreski nro 2 D-duuri (Heimo Haitto, viulu, ja RSO/Paavo Berglund).
+          Sibelius: Humoreski n:o 2 D-duuri (Heimo Haitto, viulu, ja RSO/Paavo Berglund).
 
-          Madetoja (sov.): Uni kysyy uunin päältä (Tapiolan Kamarikuoro, joht. Hannu Norjanen).
+          Kansanlaulu (sov. Madetoja): Uni kysyy uunin päältä (Tuomas Pursio, baritoni, ja Tapiolan Kamarikuoro/Hannu Norjanen).
 
-          Faure: Sicilienne sellolle ja pianolle g-molli (Susanna Mälkki, sello, ja Eero Heinonen, piano).
+          Fauré: Sicilienne g-molli (Susanna Mälkki, sello, ja Eero Heinonen, piano).
 
-          Ibert: Andantino teoksesta Viisi kappaleta (Päivi Kärkäs, oboe, Reijo Koskinen, klarinetti, ja Jussi Särkkä, fagotti).
+          Ibert: Andantino teoks. Cinq pieces en trio (Päivi Kärkäs, oboe, Reijo Koskinen, klarinetti, ja Jussi Särkkä, fagotti).
 
-          Schumann: Kvintetto pianolle ja jousille Es-duuri: 1. osa Allegro brillante (Leif Ove Andsnes ja Artemis-kvartetti). 
-      - title: Uutispodcast
+          R. Schumann: Allegro brillante kvintetosta pianolle ja jousille Es-duuri (Leif Ove Andsnes ja Artemis-kvartetti).
+      - title: 'Uutispodcast: Heikki Heiskanen & Putinin pilarit: Venäjän kansalaisyhteiskunnan jäljillä'
         start_time: '2025-05-16T17:10:00+03:00'
         end_time: '2025-05-16T17:34:20+03:00'
         description: |
@@ -212,7 +212,7 @@ data:
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-05-16T22:25:00+03:00'
+        start_time: '2025-05-16T22:25:30+03:00'
         end_time: '2025-05-16T23:15:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
@@ -220,7 +220,7 @@ data:
         start_time: '2025-05-16T23:21:30+03:00'
         end_time: '2025-05-16T23:29:30+03:00'
         description: |-
-          Miksi asiat ovat niinkuin ovat? Timo Teräsvuori hämmästelee musiikki- ja kulttuurimaailman tapoja ja käytänteitä.
+          Timo Teräsvuori ottaa selvää kritiikin kirjoittamisesta
       - title: Yöklassinen
         start_time: '2025-05-16T23:40:00+03:00'
         end_time: '2025-05-17T06:30:00+03:00'

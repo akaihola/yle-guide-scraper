@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-13T02:34:52.336409+00:00'
+  generated_at: '2025-05-14T02:34:39.644831+00:00'
   git:
     branch: main
-    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
-  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
+    commit: ce4b3e71b9b22854aed2dd92f65668101d350d6d
+  data_hash: 5e7dd78e9d4c812f86d04439005147024d869c6645b94b6221c9038cd2fd4148
 data:
   Yle Radio 1:
     programmes:
@@ -44,10 +44,13 @@ data:
         description: |
           "Rakkauden työ jatkuu kuoleman jälkeen"
           Professori Pekka Metso, Ortodoksinen kirkko, Helsingistä pohtii kuoleman ohittamatonta todellisuutta ja miten sekään ei voi erottaa rakkauden yhdistämiä sieluja toisistaan.
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Katuvalokuvaus - eettisyys ja säännöt'
         start_time: '2025-05-24T08:35:00+03:00'
         end_time: '2025-05-24T08:55:00+03:00'
         description: |
+          Katuvalokuvaus on yksi valokuvauksen alalajeista. Ohjelmassa pohditaan mm. katuvalokuvauksen eettisyyttä ja sääntöjä. Missä saa kuvata ja mitä saa kuvata. Voiko kuvan esim. julkaista somessa ilman kuvassa olevan ihmisen lupaa.
+          Katu- ja muotovalokuvaaja Oskar Wollsten opettaa mm. Vantaan aikuisoppilaitoksessa katuvalokuvausta. Kurssit ovat erittäin suosittuja ja ne täyttyvät silmän räpäyksessä valokuvauksesta kiinnostuneista ihmisistä.
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-24T08:55:00+03:00'

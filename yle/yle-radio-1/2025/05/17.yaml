@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-13T02:34:45.414643+00:00'
+  generated_at: '2025-05-14T02:34:28.038486+00:00'
   git:
     branch: main
-    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
-  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
+    commit: ce4b3e71b9b22854aed2dd92f65668101d350d6d
+  data_hash: 5e7dd78e9d4c812f86d04439005147024d869c6645b94b6221c9038cd2fd4148
 data:
   Yle Radio 1:
     programmes:
@@ -51,10 +51,12 @@ data:
           "Nimeltä kutsuttu"
           Sielunhoito-terapeutti Marketta Sundell, Baptistiyhdyskunta, Kokkolasta pohtii Jumalaa, joka tuntee meidät nimeltä ja kutsuu ihmistä monin eri tavoin.
 
-      - title: Minne Rinne vie
+      - title: 'Minne Rinne vie: Haamuverkkojen Itämeri'
         start_time: '2025-05-17T08:35:00+03:00'
         end_time: '2025-05-17T08:55:00+03:00'
         description: |
+          Kalastusperäisestä roskasta ja Itämeren tilasta kertoo Pidä Saaristo Siistinä ry:n projektipäällikkö meribiologi Jutta Vuolamo. Toimittaja on Petri Rinne.
+
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-17T08:55:00+03:00'
@@ -124,6 +126,8 @@ data:
       - title: Ykköskolumni
         start_time: '2025-05-17T14:55:00+03:00'
         end_time: '2025-05-17T15:00:00+03:00'
+        description: |-
+          "Sain lapsen – mukana tuli kokonainen kylä." Vapaa toimittaja Ronja Salmi muistelee, miten vanhemmuus muutti elämää.
       - title: "Radioteatteri esittää: Kerran viel' Suomisen perhe! osa 8"
         start_time: '2025-05-17T15:00:00+03:00'
         end_time: '2025-05-17T15:18:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-13T02:34:55.896522+00:00'
+  generated_at: '2025-05-14T02:34:46.980783+00:00'
   git:
     branch: main
-    commit: 4217c9190ee7bd37b89e5b9b4152b8c141eec3b9
-  data_hash: e9b63e3c8d444313dff2b0f061510feac0641f357efb0b324f10907e90be84f4
+    commit: ce4b3e71b9b22854aed2dd92f65668101d350d6d
+  data_hash: 5e7dd78e9d4c812f86d04439005147024d869c6645b94b6221c9038cd2fd4148
 data:
   Yle Radio 1:
     programmes:
@@ -143,6 +143,13 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-06-07T21:29:00+03:00'
         end_time: '2025-06-07T21:54:00+03:00'
+      - title: 'Salatut eläimet: Joutsen'
+        start_time: '2025-06-07T22:00:30+03:00'
+        end_time: '2025-06-07T22:20:00+03:00'
+        description: |
+          Kaisa Pulakan käsittelyssä ovat metsäneläimet karhusta hämähäkkiin ja oravasta käärmeeseen. Ensimmäisessä osassa syvennytään joutsenmytologiaan. Joutsenet ovat kuoleman sanansaattajia ja opastajia matkalla tuonpuoleiseen. Samalla ne ovat luovuuden ja puhtauden vertauskuvia.
+
+          Joutsenet ja ihmiset kietoutuvat myyteissä ja tarinoissa toisiinsa monin tavoin, esimerkkeinä joutsenhahmoisen Zeuksen viettelemä Leda-neito tai pohjoisten kansojen tarina joutsenmorsiamesta. Koska joutsenen höyhenpuvun alta saattoi paljastua ihminen, uhkasi joutsenen metsästäjää varma kuolema. Ohjelmasarjan on toimittanut Kaisa Pulakka ja lukijana on Pietari Kylmälä.
       - title: Kielen päällä
         start_time: '2025-06-07T22:20:30+03:00'
         end_time: '2025-06-07T22:30:00+03:00'
