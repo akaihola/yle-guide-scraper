@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:09.829342+00:00'
+  generated_at: '2025-05-16T02:34:58.349224+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-03T07:10:00+03:00'
         end_time: '2025-06-03T07:59:59+03:00'
+        description: |+
+          Händel: Allegro concerto grossosta G-duuri (Boston Baroque/Martin Pearlman).
+
+          Kapsperger: Toccata n:o 2 (Toccata arpeggiata) (Hank Heijink, teorbi).
+
+          Dowland: Now, o now, I needs must part (John Potter, tenori, Stephen Stubbs, luuttu, John Surman, sopraanosaksofoni, Maya Homburger, barokkiviulu, ja Barry Guy, kontrabsso).
+
+          Palmgren: Kesäkuu (Liisa Pohjola, piano).
+
+          Enghoff: Kaerlighed i Köbenhavn (Rakkautta Kööpenhaminassa) (Musica Ficta/Bo Holten).
+
+          Glazunov: Espanjalainen serenadi (Lynn Harrell, sello, ja Bruno Canino, piano).
+
+          Mendelssohn: Scherzo näytelmämusiikista Kesäyön unelma (Lontoon SO/Peter Maag).
+
+          Carreño: Un rêve en mer (Unelma merellä) (Sarah Cahill, piano).
+
+          Piazzolla (sov. Carli): Fuga y misterio ooppera-tangosta Maria de Buenos Aires (Berliinin FO:n selloyhtye).
+
+          Kats-Chernin: Eliza Aria baletista Villijoutsenet (Angele Dubeau, viulu, ja kamariork. La Pietà).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-03T08:00:00+03:00'
         end_time: '2025-06-03T08:10:00+03:00'

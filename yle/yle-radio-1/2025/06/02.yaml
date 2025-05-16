@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:09.476401+00:00'
+  generated_at: '2025-05-16T02:34:58.169832+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-02T07:10:00+03:00'
         end_time: '2025-06-02T07:59:59+03:00'
+        description: |+
+          Sor: Rondeau D-duuri (David Starobin). 
+
+          Glier: Romanssi (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          Händel: Xerxeen aaria oopp. Serse (Ralf Gothoni, piano).
+
+          Lalo: L'aube naît (Aamu herää) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          Berwald: Muunnelmia aariasta Home, sweet home ja Tempo I konserttikappaleesta F-duuri (Otto Virtanen, fagotti, ja RSO/Santtu-Matias Rouvali).
+
+          Albéniz: Tango (Pepe ja Celín Romero, kitara).
+
+          Kähärä: Laulu perunoiden kiehuessa (Jyväskylän Naislaulajat/Rita Varonen). 
+
+          Chopin: Valssi As-duuri (Byron Janis, piano).
+
+          Rodrigo: Allegretto andalusialaisesta konsertosta (Los Angelesin kitarakvartetti ja Delawaren SO/David Amado).
+
+          Richter: Whispers tv-sarjasta Loistava ystäväni (Air Lyndhurst Orchestra/Max Richter).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-02T08:00:00+03:00'
         end_time: '2025-06-02T08:10:00+03:00'
@@ -101,7 +122,11 @@ data:
         start_time: '2025-06-02T18:35:00+03:00'
         end_time: '2025-06-02T18:50:00+03:00'
         description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+          Spirituaali: Vie vuorille tää viesti (Gospel Covertajat).
+
+          Koraalitoisinto: Jeesus, kruunun kirkkaan kannat (Raimo Laukka, baritoni, ja Pekka Ainali, urut).
+
+          Laaksonen: Uskon salaisuus (lauluyhtye, soitinyhtye).
       - title: Iltahartaus
         start_time: '2025-06-02T18:50:00+03:00'
         end_time: '2025-06-02T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:07.784430+00:00'
+  generated_at: '2025-05-16T02:34:56.808840+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -13,8 +13,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-05-27T06:50:00+03:00'
         end_time: '2025-05-27T06:59:59+03:00'
-        description: |-
-          Laulaja Pekka Laukkarinen, Porvoo
+        description: |
+          "Kohtaa, kysy ja rakasta"
+          Laulaja Pekka Laukkarinen Porvoosta pohtii kristityn muusikon näkökulmasta seurakuntien yhteistyötä koulujen kanssa ja kysyy: miten voimme palvella näitä ihmisiä mahdollisimman hyvin?
       - title: Yle Uutiset ja sää
         start_time: '2025-05-27T07:00:00+03:00'
         end_time: '2025-05-27T07:10:00+03:00'

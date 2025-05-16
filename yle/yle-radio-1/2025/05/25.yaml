@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:07.236776+00:00'
+  generated_at: '2025-05-16T02:34:56.452184+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -46,26 +46,26 @@ data:
         end_time: '2025-05-25T11:57:00+03:00'
         description: |-
           Marchetti: Fascination (Jane Morgan).
-          Rascel: Romantica (Robertino).
+          Rascel: Romantica (Robertino Loreti).
           Szentirmay: Miksi kuljen (Tuula-Anneli Rantanen).
           Kern: Smoke gets in your eyes (Julian 'Cannonball' Adderley).
-          Boulanger: My prayer (Tom Jones).
-          Porter: I've got you under my skin (Wiola Talvikki, Radion tanssiorkesteri joht. Erkki Melakoski).
+          G. Boulanger: My prayer (Tom Jones).
+          Porter: I've got you under my skin (Wiola Talvikki).
           Kosma: Barbara (Neloset).
           Green: Vie terveiset Ollille (Eila Pienimäki ja Tuulikki Pienimäki).
           King: You've got a friend (Carole King).
           Taylor: Fire and rain (James Taylor).
           Lennon/McCartney: Hän lähtee pois (Maarit).
           Lennon/McCartney: Let it be (The Beatles).
-          Baden: Samba triste (Stan Getz).
+          Powell: Samba triste (Stan Getz ja Charlie Byrd).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-25T12:00:00+03:00'
         end_time: '2025-05-25T12:05:00+03:00'
       - title: Virtasen taloushistoria
         start_time: '2025-05-25T12:05:00+03:00'
-        end_time: '2025-05-25T12:55:00+03:00'
+        end_time: '2025-05-25T12:57:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Aero -osakeyhtiö perustettiin vuonna 1923. Nykyään Finnairina tunnettu reilu 100-vuotias yhtiö aloitti lehtoliikenteen koneella, jossa oli neljä matkustajapaikkaa - ja alla talvisin sukset ja kesällä ponttoonit. Ilmailun historiasta kertoo Ilmailumuseon näyttelypäällikkö Valeri Saltikoff. Ohjelma on vuodelta 2023.
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-25T12:55:00+03:00'
         end_time: '2025-05-25T13:00:00+03:00'

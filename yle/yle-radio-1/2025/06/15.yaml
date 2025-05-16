@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:13.610196+00:00'
+  generated_at: '2025-05-16T02:35:01.215323+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -61,11 +61,19 @@ data:
       - title: Ykköskolumni
         start_time: '2025-06-15T14:55:00+03:00'
         end_time: '2025-06-15T15:00:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Mätiä hampaita, löyhkääviä suita ja sietämätöntä särkyä - kuninkaallisten makeanhimon karmeat seuraukset'
         start_time: '2025-06-15T15:00:00+03:00'
-        end_time: '2025-06-15T15:50:00+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        end_time: '2025-06-15T15:49:30+03:00'
+        description: |+
+          Uuden ajan alussa 1500- ja 1600-luvuilla sokeri oli Euroopassa vielä melko harvinaista. Sitä oli kuitenkin yllin kyllin tarjolla kuninkaallisissa hoveissa, ja moni kruunupää oli perso makealle.
+          Sokerin vaikutusta hampaisiin ei kuitenkaan ymmärretty tai sen aiheuttamia haittoja hoitaa. Karieksen vuoksi kuninkaallisten hampaat mätänivät ja tulehtuivat, minkä vuoksi heidän suunsa haisivat hyvin pahalle.
+          Huono suunterveys oli monin tavoin vaarallista, ja tuskallinen hammassärky varmasti vaikutti myös kuninkaallisten päätöksentekoon.
+          Jaksossa vieraillaan Ruotsin kuninkaan Kustaa Vaasan, Englannin kuningattaren Elisabet I:n ja Ranskan kuninkaan Ludvig XIV:n hoveissa. Aikalaiset seurasivat tarkasti monarkkien terveydentilaa, myös heidän hampaidensa kuntoa.
+          Uuden ajan alun kuninkaallisten hampaiden kuntoa arvioi hammaslääkäri Terhi Palomäki.
+          Toimittaja: Harri Alanne
+          Äänisuunnittelija: Katja Kostiainen.
+          Lukijat: Jenni Stammeier ja Jukka Kuosmanen
+
       - title: Viikon luontoääni
         start_time: '2025-06-15T15:50:00+03:00'
         end_time: '2025-06-15T15:55:00+03:00'

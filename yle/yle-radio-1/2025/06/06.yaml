@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-15T02:34:10.743678+00:00'
+  generated_at: '2025-05-16T02:34:59.060062+00:00'
   git:
     branch: main
-    commit: aba23d616038c82fe77c976506d9a353a17c9a3f
-  data_hash: 7228cfd17ea3e842fd93d478bce8d49639843617be92d60247875da937916d17
+    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
+  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-06T07:10:00+03:00'
         end_time: '2025-06-06T07:59:59+03:00'
+        description: |+
+          Elgar: Aamulaulu (Uuden-Seelannin SO/James Judd).
+
+          Reinecke: Adagio konsertosta harpulle ja orkesterille e-molli (Lily Laskine ja Bambergin SO/Theodor Guschlbauer).
+
+          Raitio: Barcarole sarj. Kesäidyllejä (Jouni Somero, piano).
+
+          Faure: Dollyn puutarha E-duuri (Julian Bream ja John Williams, kitara).
+
+          Beethoven: Rondo sonaatista F-duuri (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          Bantock (sov. Hough): Song to the seals (Laulu valaille) (Stephen Hough, piano).
+
+          Piazzolla: Buenos Airesin kesä (Emanuel Ax ja Pablo Ziegler, piano).
+
+          C. Romero: Perhonen (Pepe Romero, kitara).
+
+          Rameau: Osia konsertosta n:o 4 B-duuri (Vikingur Olafsson, piano). 
+
+          Kuula (sov.): Kesäilta (Kaija Saarikettu, viulu, ja Raija Kerppo, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-06T08:00:00+03:00'
         end_time: '2025-06-06T08:10:00+03:00'
