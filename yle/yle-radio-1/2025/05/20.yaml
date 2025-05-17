@@ -1,12 +1,47 @@
 metadata:
-  generated_at: '2025-05-16T02:34:55.367148+00:00'
+  generated_at: '2025-05-17T02:33:03.977034+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-05-19T23:40:00+03:00'
+        end_time: '2025-05-20T06:30:00+03:00'
+        description: |-
+          Mendelssohn: Pianokonsertto n:o 1 g-molli (Helen Huang ja New Yorkin FO/Kurt Masur).
+
+          00:00 Rameau - d'Indy: Sarja orkesterille oopp. Dardanus (Chicagon SO/Charles Munch).
+
+          00:12 Wolf: Italienisches Liederbuch (Italialainen laulukirja) (Diana Damrau, sopraano, Jonas Kaufmann, tenori, ja Helmut Deutsch, piano).
+
+          01:30 Hofmann: Huilukonsertto D-duuri (Emmanuel Pahud ja Biennen SO/Marc Tardue).
+
+          01:49 Vecchi: Saltarello detto Trivella (The King's Noyse).
+
+          01:53 Nielsen: Mielikuvitusmatka Färsaarille (Philadelphian ork./Eugene Ormandy).
+
+          02:04 Ravel: Sonaatti viululle ja pianolle G-duuri (Leonidas Kavakos ja Anne Epperson).
+
+          02:24 Schumann: Konserttikappale neljälle käyrätorvelle ja orkesterille F-duuri (Robert Bonnevie, Mark Robbins, David C. Knapp, ja Scott Wilson sekä Seattlen SO/Gerard Schwarz). 
+
+          02:44 Prokofjev: Balettisarja n:o 1 orkesterille bal. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          03:11 Britten: Neljä meriaiheista välisoittoa oopp. Peter Grimes (RSO/Sakari Oramo).
+
+          03:27 Henselt: Kaksitoista karakteristista konserttietydiä (Esther Budiardjo, piano).
+
+          04:01 Tshaikovski: Sinfonia n:o 5 e-molli (Pietarin FO/Juri Temirkanov).
+
+          04:50 Sarasate: Faust-fantasia viululle ja pianolle Gounod'n oopperan Faust teemoista (Rachel Barton ja Patrick Sinozich).
+
+          05:07 Clementi: Pianosonaatteja (Vladimir Horowitz).
+
+          06:17 De Fesch: Konsertto viululle, jousille ja continuolle c-molli (Manfredo Kraemer, viulu, ja Musica ad Rhenum).
+
+          06:26 Zupan: Allegro sonaatista uruille ja jousille (Wolfgang Brunner, urut).
       - title: Hartaita säveliä
         start_time: '2025-05-20T06:30:50+03:00'
         end_time: '2025-05-20T06:50:00+03:00'
@@ -82,11 +117,9 @@ data:
           Lewis/Rose/Stock: Blueberry Hill (Louis Armstrong and his All-Stars).
           Sherman: Eso beso (Arja Tuomarila).
           John: Goodbye Yellow Brick Road (Elton John).
-      - title: Sari Valto
+      - title: 'Sari Valto:  Klassikkoromaani vai juorulehti? Miten kulttuurimakumme syntyy? '
         start_time: '2025-05-20T10:00:00+03:00'
         end_time: '2025-05-20T10:55:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-05-20T11:00:00+03:00'
         end_time: '2025-05-20T11:57:00+03:00'
@@ -95,6 +128,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-20T11:57:00+03:00'
         end_time: '2025-05-20T12:00:00+03:00'
+        description: |-
+          Ote Hannu Mäkelän kirjasta Runouden ylistys. WSOY 2025.
       - title: Yle Uutiset ja sää
         start_time: '2025-05-20T12:00:00+03:00'
         end_time: '2025-05-20T12:10:00+03:00'
@@ -198,6 +233,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-20T18:35:00+03:00'
         end_time: '2025-05-20T18:50:00+03:00'
+        description: |+
+          Kansansävelmä (sov. M. Makkonen): Mua siipeis suojaan kätke (Esa Ruuttunen, baritoni, sekä Seeli Toivio, Jussi Makkonen, Matti Makkonen ja Ulla Lampela, sello).
+
+          Kalenius: Ihmeellisesti tehty (Tommi Kalenius).
+
+          Arhangelski: Kiittäkää Herran nimeä (Turun ortodoksisen kirkon kuoro/Pasi Torhamo).
+
       - title: Iltahartaus
         start_time: '2025-05-20T18:50:00+03:00'
         end_time: '2025-05-20T19:00:00+03:00'
@@ -229,9 +271,12 @@ data:
         end_time: '2025-05-20T20:35:00+03:00'
         description: |
           Ajankohtaista asiaa romaneista.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Tuleeko Romaniasta vaaleissa EU:ta vihaava Trumplandia?'
         start_time: '2025-05-20T20:35:00+03:00'
         end_time: '2025-05-20T21:00:00+03:00'
+        description: |
+          Romanialaiset valitsevat tänä viikonloppuna vaaleissa joko äärinationalistisen tai Eurooppa-mielisen presidentin. Asiantuntijoiden mukaan Romaniassa päätetäänkin paitsi presidentistä, samalla myös maan suunnasta.
+          Millaisessa tienhaarassa Romania nyt on, ja voiko siitä tulla lisäjäsen Unkarin rinnalle unionin EU-vastaiseen blokkiin? Näitä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Teemu Juhola ja Paula Vilén. Äänitarkkailijana on Katri Koivula.
       - title: Yle Uutiset
         start_time: '2025-05-20T21:00:00+03:00'
         end_time: '2025-05-20T21:02:00+03:00'
@@ -243,8 +288,33 @@ data:
         end_time: '2025-05-20T22:29:30+03:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-      - title: Miia Krause
+      - title: 'Miia Krause: Eini: Nöyrä pitää olla mutta ei saa nöyristellä!'
         start_time: '2025-05-20T22:30:00+03:00'
-        end_time: '2025-05-20T23:16:30+03:00'
+        end_time: '2025-05-20T23:17:00+03:00'
         description: |
-          Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
+          Eini: "Olen joutunut opettelemaan sen, että olen ihan yhtä hyvä kuin kuka tahansa muu. Mä teen sen vain omalla tavallani!"
+      - title: Yöklassinen
+        start_time: '2025-05-20T23:40:00+03:00'
+        end_time: '2025-05-21T06:30:00+03:00'
+        description: |-
+          Telemann: Fantasia viola da gamballe n:o 9 C-duuri (Markus Kuikka).
+
+          23:49 Falla: Öitä Espanjan puutarhoissa (Jean-Efflam Bavouzet, piano, ja BBC:n FO/Juanjo Mena).
+
+          00:12 Giuliani: Kitarakonsertto n:o 2 A-duuri (Edoardo Catemario ja Wiener Akademie/Martin Haselböck).
+
+          00:42 Heise: Sonaatti sellolle ja pianolle a-molli (Henrik Brendstrup ja Per Salo).
+
+          01:07 Berg: Viulukonsertto (Erään enkelin muistolle) (Christian Ferras ja Berliinin filharmonikot/Joseph Keilberth).
+
+          01:34 Pixis: Pianotrio n:o 1 Es-duuri (Grand Piano Trio) (Leonore Piano Trio).
+
+          02:03 Delibes: Coppélia, baletti (Lyonin versio) (Lyonin oopperan ork./Kent Nagano).
+
+          03:43 V. Aulin: Jousikvartetto F-duuri (Tale-kvartetti).
+
+          04:09 J.S. Bach: Messu h-molli (Lucia Popp, sopraano, Carolyn Watkinson, altto, Erberhard Büchner, tenori, Siegfried Lorenz, baritoni, ja Theo Adam, basso, sekä Leipzigin radiokuoro ja Leipzigin uusi Bachin Collegium Musicum/Peter Schreier).
+
+          06:01 Biber: Sonaatti (1680) n:o 4 B-duuri (Purcell-kvartetti).
+
+          06:13 C.H. Graun: Urkukonsertto F-duuri (Franz Haselböck ja Wienin Capella Academica/Ernst Hinreiner).

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:34:59.532066+00:00'
+  generated_at: '2025-05-17T02:33:10.915440+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -42,9 +42,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-06-08T09:56:00+03:00'
         end_time: '2025-06-08T09:59:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Kesäkirkko Sipoon Vanhasta kirkosta
         start_time: '2025-06-08T10:00:00+03:00'
         end_time: '2025-06-08T10:59:20+03:00'
+        description: |
+          Pappina Aija Wist. Kanttorina Jukka Ahokas. Virret: 125; 119:1,2,7,8; 572:1,2,4.
       - title: Muistojen bulevardi
         start_time: '2025-06-08T11:00:00+03:00'
         end_time: '2025-06-08T11:57:00+03:00'
@@ -121,6 +123,8 @@ data:
       - title: 'Helluntain polvirukouspalvelus Valamon Kristuksen kirkastumisen luostarista '
         start_time: '2025-06-08T20:00:00+03:00'
         end_time: '2025-06-08T21:00:00+03:00'
+        description: |
+          Palveluksen toimittaa arkkimandriitta Mikael.
       - title: Yle Uutiset
         start_time: '2025-06-08T21:00:00+03:00'
         end_time: '2025-06-08T21:02:05+03:00'

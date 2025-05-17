@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:35:01.215323+00:00'
+  generated_at: '2025-05-17T02:33:13.313263+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -36,9 +36,11 @@ data:
         end_time: '2025-06-15T09:55:00+03:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
-      - title: Räisälä-juhlien jumalanpalvelus Kokemäeltä
+      - title: Jumalanpalvelus Turun Mikaelinkirkosta
         start_time: '2025-06-15T10:00:00+03:00'
         end_time: '2025-06-15T10:59:20+03:00'
+        description: |
+          Liturgina pastori Kirsi Hakanpää. Saarnaajana kirkkoherra Jouni Lehikoinen. Kanttorina Sami Nieminen. Urkurina Marko Hakanpää. Virret: 134; 726; 130; 953; 232.
       - title: Muistojen bulevardi
         start_time: '2025-06-15T11:00:00+03:00'
         end_time: '2025-06-15T11:57:00+03:00'
@@ -109,9 +111,11 @@ data:
         end_time: '2025-06-15T20:00:00+03:00'
         description: |-
           Toimittajan Eero Koski.
-      - title: Katolinen Pyhän kolminaisuuden päivän messu
+      - title: Katolinen Pyhän kolminaisuuden päivän messu Pyhän Henrikin katedraalista Helsingistä
         start_time: '2025-06-15T20:00:00+03:00'
         end_time: '2025-06-15T21:00:00+03:00'
+        description: |
+          Messun viettää kirkkoherra, yleisvikaari Jean Claude Kabeza.
       - title: Yle Uutiset
         start_time: '2025-06-15T21:00:00+03:00'
         end_time: '2025-06-15T21:02:05+03:00'

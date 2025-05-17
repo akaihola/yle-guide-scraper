@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:34:57.970951+00:00'
+  generated_at: '2025-05-17T02:33:08.260753+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -39,7 +39,7 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-06-01T09:56:00+03:00'
         end_time: '2025-06-01T09:59:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Joroisten kirkosta
         start_time: '2025-06-01T10:00:00+03:00'
         end_time: '2025-06-01T10:59:20+03:00'
       - title: Muistojen bulevardi
@@ -86,6 +86,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-01T16:10:00+03:00'
         end_time: '2025-06-01T16:59:00+03:00'
+        description: |
+          Glazunov: Masurkka balettisarj. A-duuri (Minnesotan ork./Edo de Waart).
+
+          Saint-Saëns: Joutsen (Jacqueline Du Pre, sello, ja Osian Elis, harppu).
+
+          Rossini: Don Ramiron ja Dandinin duetto "Zitto, zitto: piano, piano" oopp. La Cenerentola (Francisco Araiza, tenori, ja Domenico Trimarchi, baritoni, sekä Cappella Coloniensis/Gabriele Ferro).
+
+          J.S. Bach: Preludi ja fuuga n:o 5 kok. Das Wohltemperierte Klavier (Mie Miki, harmonikka). 
+
+          Glass (sov. Badzura): Opening teoks. Glassworks (Vikingur Olafsson, piano, sekä Siggi String Quartet).
+
+          J. Haydn: Divertimento G-duuri (Lontoolainen trio n:o 4) (Jean-Pierre Rampal, huilu, Isaac Stern, viulu, ja Mstislav Rostropovitsh, sello).
+
+          Offenbach: Finaali (Galoppi) oper. Matka kuuhun (Musiciens du Louvre -ork./Marc Minkowski).
+
+          Karlsson: Göta (The Real Group).
+
+          Andrée: Andante quasi recitativo jousiorkesterille (Göteborgin oopperan ork./David Bergström, viulu).
+
+          Puccini: Musettan valssi "Quando me'n vo"oopp. La Bohème (Anna Netrebko, sopraano, ja Wienin filharmonikot/Gianandrea Noseda).
+
+          V. Aulin: Impromptu kok. Fem tondikter för pianoforte (Lucia Negro, piano).
+
+          Morricone: Teema elok. The Untouchables (Lahjomattomat) (Ork./Ennio Morricone).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-01T17:00:00+03:00'
         end_time: '2025-06-01T17:10:00+03:00'
@@ -110,9 +134,8 @@ data:
       - title: 'Adventtikirkon jumalanpalvelus Helsingistä '
         start_time: '2025-06-01T20:00:00+03:00'
         end_time: '2025-06-01T21:00:00+03:00'
-        description: |+
+        description: |
           Puhujana nuorisopastori Mikael Takamaa
-
       - title: Yle Uutiset
         start_time: '2025-06-01T21:00:00+03:00'
         end_time: '2025-06-01T21:02:05+03:00'

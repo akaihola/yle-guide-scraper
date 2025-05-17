@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:34:57.663066+00:00'
+  generated_at: '2025-05-17T02:33:07.791713+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-05-31T08:05:00+03:00'
         end_time: '2025-05-31T08:25:00+03:00'
+        description: |+
+          Tuntematon: Kaunis aamuaurinkomme (Kajaanin rauhanyhdistyksen seurakansa sekä Ossi Säily, urut).
+
+          Berthier: Leipä syö, viini juo - Eat this bread (Lauluyhtye, Mikko Iivanainen, sähkökitara, ja Tuomas Karjalainen, urut).
+
+          Lowry: Koko tien hän kanssain kulkee (Braxen-kuoro/Harry Westerlund, ja Matti Pesonen, urut).
+
+          Koraalitoisinto: Oi Jeesus Kristus Herramme (Hannu Niemelä, baritoni, ja soitinyhtye).
+
+          Anonyymi: Jo joutui armas aika (Suvivirsi) (Club For Five).
+
       - title: Aamuhartaus
         start_time: '2025-05-31T08:25:00+03:00'
         end_time: '2025-05-31T08:35:00+03:00'
@@ -57,6 +68,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-31T09:05:40+03:00'
         end_time: '2025-05-31T09:58:00+03:00'
+        description: |-
+          Ager: Happy days are here again (Jack Hylton).
+          Weersma: Sérénade sans espoir (Lucienne Delyle).
+          Durso/Mitchell: Portugalin tuulispää (Olavi Virta).
+          Schroeder/Hawker: Walking back to happiness (Helen Shapiro).
+          Glaser/Nathanson/Antel: Penni (Eino Grön).
+          Pace/Panzeri/Pilat/Conti: Alle porte del sole (Gigliola Cinquetti).
+          Casadei: Loistaa, loistaa (Kai Lind ja Pirkko Mannola).
+          Ellington: I'm just a lucky so and so (Helen Merrill).
+          Roland: Marie, Marie (Max Raabe ja Palast-Orchester).
+          Luck/Szego: My girl Maria (Tom Jones).
+          Lippman: Liian nuori (Seija Lampila).
+          Legrand: Mellan dröm och verklighet (Lill Lindfors). 
+          Bart: Suostun mihin vain (Kristina Hautala ja Lasse Mårtenson).
+          Loesser: Luck be a lady (Frank Sinatra).
       - title: Yle Uutiset
         start_time: '2025-05-31T10:00:00+03:00'
         end_time: '2025-05-31T10:05:00+03:00'
@@ -132,6 +158,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-31T16:10:00+03:00'
         end_time: '2025-05-31T16:59:00+03:00'
+        description: |
+          Offenbach: Alkusoitto oper. Siniparta (Lontoon FO/Jean Martinon).
+
+          Rossini: Angelinan aaria ja rondo "Nacqui all'affanno - Non piu mesta" oopp. La Cenerentola (Tuhkimo) (Cecilia Bartoli, mezzosopraano, sekä Bolognan teatterin kuoro ja ork./Riccardo Chailly).
+
+          Reinecke: Ein Märchen (Satu) (Jasper De Waal, käyrätorvi, Hans Colbers, klarinetti, ja Frank van de Laar, piano).
+
+          Keiser: Sinfonia oopp. Naurettava prinssi Jodelet (Akademie für Alte Musik Berlin).
+
+          Klami: Intermezzo (Päivi Kärkäs, englannintorvi, ja RSO/Sakari Oramo).
+
+          Kuula: Satukuva n:o 3 (Liisa Pohjola, piano).
+
+          Alwyn: Peter Pan Suite (BBC:n konserttiork./John Wilson).
+
+          Kaski: Keijukainen lähteellä (Kimmo Hakasalo, piano).
+
+          Melartin: Juhlamarssi näyt. Prinsessa Ruusunen (The River Brass Band).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-31T17:00:00+03:00'
         end_time: '2025-05-31T17:10:00+03:00'

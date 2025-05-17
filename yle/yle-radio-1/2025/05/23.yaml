@@ -1,15 +1,24 @@
 metadata:
-  generated_at: '2025-05-16T02:34:55.889831+00:00'
+  generated_at: '2025-05-17T02:33:05.120836+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
       - title: Hartaita säveliä
         start_time: '2025-05-23T06:30:50+03:00'
         end_time: '2025-05-23T06:50:00+03:00'
+        description: |+
+          Anonyymi: Oi Pyhä Henki, Jumala (Matti Turunen, basso, ja Janne Piipponen, piano).
+
+          Koraalitoisinto: Vaivaisten turva ainoa (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Melartin - Hille: Improvisaatio virsisävelmästä Hyvyyden voiman ihmeelliseen suojaan (Sid Hille, piano).
+
+          Ippolitov-Ivanov: Katso, kiittäkää Herraa (Ortodoksinen kamarikuoro/Juhani Matsi).
+
       - title: Aamuhartaus
         start_time: '2025-05-23T06:50:00+03:00'
         end_time: '2025-05-23T06:59:59+03:00'
@@ -83,6 +92,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-23T11:57:00+03:00'
         end_time: '2025-05-23T12:00:00+03:00'
+        description: |-
+          J.H. Erkon runo Elämä on loputon.
       - title: Yle Uutiset ja sää
         start_time: '2025-05-23T12:00:00+03:00'
         end_time: '2025-05-23T12:10:00+03:00'

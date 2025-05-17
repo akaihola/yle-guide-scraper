@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:34:55.003254+00:00'
+  generated_at: '2025-05-17T02:33:02.982392+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -84,6 +84,11 @@ data:
           5. O chiome d'or / Oi kultaiset hiukset
           6. Dunque, amate reliquie /(Niinpä, oi rakkaimpani tomu
           (Voces8/Barnaby Smith).
+      - title: Radio 1 soi
+        start_time: '2025-05-18T07:57:31+03:00'
+        end_time: '2025-05-18T08:00:00+03:00'
+        description: |-
+          Gabrieli: Sonaatti n:o 13 (Kanadalainen vaskiyhtye ja Berliinin filharmonisen orkesterin vaskiyhtye).
       - title: Narrin aamulaulu - Boris Sirpo, lahja Suomen musiikille
         start_time: '2025-05-18T08:05:29+03:00'
         end_time: '2025-05-18T08:59:41+03:00'
@@ -221,27 +226,44 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-18T19:00:00+03:00'
         end_time: '2025-05-18T19:02:05+03:00'
-      - title: 'Jazzklubi: Klubi-isäntänä Eero Koski.'
+      - title: 'Jazzklubi: Our Man In Denmark - jazzin maanpakolaiset Euroopassa'
         start_time: '2025-05-18T19:02:05+03:00'
         end_time: '2025-05-18T19:59:52+03:00'
-        description: |2+
+        description: |-
+          Amerikkalaiset jazzmuusikot ovat vaikuttaneet Euroopassa jo sata vuotta. Vanhalta mantereelta muusikot löysivät vapaamman ilmapiirin ja kaipaamansa arvostuksen musiikilleen. Sanonta "Amerikan klassinen musiikki" oli mahdollista elää todeksi Pariisin ja Kööpenhaminan klubeilla ja konserttisaleissa.
 
+          1. Sahib Shihab: Charade / On the Spot vol. 2 (Ricky Tick)
+          2. Ben Webster: Cottontail / Ben Webster Plays Duke Ellington (Storyville)
+          3. Sidney Bechet: Petite Fleur / Deux Giants de Jazz (Vogue)
+          4. Dexter Gordon: Big Fat Butterfly / Love for Sale (Steeple Chase)
+          5. Tania Maria: Baião Improvisado / Tania Maria in Copenhagen (Stunt)
+          6. Art Ensemble of Chicago: Them de Yoyo / Americans Swinging in Paris (Emi France)
+          7. The Asmussen Thigpen Quartet: St. Louis Blues / Resource (Stunt)
+          8. Kurt Rosenwinkel and Orquestra Jazz de Matosinho: Use of Light / Our Secret World - Live At CARA (OJM/Cara)
+
+          Toimittajana Eero Koski.
       - title: Jumalanpalvelus Pelastusarmeijan Kuopion osastosta
         start_time: '2025-05-18T20:00:00+03:00'
         end_time: '2025-05-18T20:50:16+03:00'
         description: |
           Liturgina majuri Metti Saajoranta. Puhujana majuri Tero Saajoranta. Yhteislaulut: Pelastusarmeijan laulukirjasta numerot 280, 122, 232, 95, 10 ja 224.
+      - title: Radio 1 soi
+        start_time: '2025-05-18T20:50:16+03:00'
+        end_time: '2025-05-18T21:00:00+03:00'
+        description: |-
+          D. Scarlatti: Sonaatti G-duuri (Baccano).
       - title: Yle Uutiset
         start_time: '2025-05-18T21:00:00+03:00'
         end_time: '2025-05-18T21:02:05+03:00'
-      - title: Uutispodcast
-        start_time: '2025-05-18T21:03:00+03:00'
-        end_time: '2025-05-18T21:27:13+03:00'
+      - title: 'Heikki Heiskanen & Putinin pilarit: Passiivisten Venäjällä aktivistit löytyvät reunoilta'
+        start_time: '2025-05-18T21:02:42+03:00'
+        end_time: '2025-05-18T21:26:57+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Miksi venäläiset eivät lähteneet suurin joukoin kaduille vastustamaan Putinin hyökkäyssotaa Ukrainassa? Heikki Heiskanen avaa tässä jaksossa venäläisten passiivisuuden taustoja ja listaa keinoja, joilla Putin pitää kansalaiset epäpoliittisina.  
+          Tässä jaksossa matkustetaan myös venäläisen kansalaisaktivistin kanssa Mustallemerelle raivaamaan öljytuhoa. Matkalla Viktor Višnevetskin kanssa selviää, millaista aktivismia Venäjällä voi juuri ja juuri harjoittaa.
       - title: 'Klasariparatiisi: Kyynel'
-        start_time: '2025-05-18T21:28:53+03:00'
-        end_time: '2025-05-18T22:23:48+03:00'
+        start_time: '2025-05-18T21:27:47+03:00'
+        end_time: '2025-05-18T22:22:42+03:00'
         description: |
           Sitä erittyy yhdestä jos toisesta nisäkkäästä. Se puhdistaa ja kosteuttaa.
           Ihminen antaa sille kaikenlaisia symbolisia merkityksiä.
@@ -271,13 +293,18 @@ data:
           6. Dunque, amate reliquie /(Niinpä, oi rakkaimpani tomu
           (Voces8/Barnaby Smith).
       - title: 'Sari Valto: Korkkarit kattoon! Mikä saa keski-ikäisen fanittamaan poptähteä?'
-        start_time: '2025-05-18T22:25:00+03:00'
-        end_time: '2025-05-18T23:17:20+03:00'
+        start_time: '2025-05-18T22:23:54+03:00'
+        end_time: '2025-05-18T23:16:14+03:00'
         description: |-
           Musiikkifanituskulttuurista puhuvat yliopistonlehtori Janne Poikolainen sekä Kaija Koo -fani Heidi Hyytiäinen.
+      - title: Radio 1 soi
+        start_time: '2025-05-18T23:16:14+03:00'
+        end_time: '2025-05-18T23:24:59+03:00'
+        description: |-
+          Debussy: Rapsodia (Franklin Cohen, klarinetti, ja Clevelandin ork./Pierre Boulez).
       - title: 'Romano mirits: ”Illalla saattoi olla elukoita vaikka kuinka, aamulla ei yhtään”'
-        start_time: '2025-05-18T23:25:00+03:00'
-        end_time: '2025-05-18T23:39:25+03:00'
+        start_time: '2025-05-18T23:24:59+03:00'
+        end_time: '2025-05-18T23:39:24+03:00'
         description: |
           Heinäkuun ensimmäisenä 1959 Köyliön varavankilassa sattui suomen historian vakavin vankilapalo. 16 ihmistä menehtyi mielenterveysongelmista kärsineen vangin sytytettyä palon, joka levisi nopeasti puurakenteisessa vankilassa. Yksi vainajista oli Orvo Grönforsin isä. Tragedian seurauksena Grönfors varttui isovanhempiensa hoivissa. Erityisesti ukiltaan hän oppi suvun tarinat. Värikkäänä kertojana tunnettu Kalle Grönfors oli kauppamies, joka välitti hevosia ja karjaeläimiä. ”Illalla elukoita saattoi olla vaikka kuinka, mutta aamulla ei yhtään, kun ukki oli myynyt ne yön aikana pois”, Grönfors naurahtaa. Toimittaja on Jaakko Laakso
       - title: Yöklassinen

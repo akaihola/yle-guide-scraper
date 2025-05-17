@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-16T02:34:54.822869+00:00'
+  generated_at: '2025-05-17T02:33:02.502029+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
@@ -26,15 +26,21 @@ data:
           05:33 Crusell: Sinfonia concertante B-duuri (Reijo Koskinen, klarinetti, Esa Tukia, käyrätorvi, ja Pekka Katajamäki, fagotti, sekä RSO/Jukka-Pekka Saraste).
 
           06:02 W.A. Mozart: Sonaatti pianolle ja viululle n:o 34 A-duuri (Emil Gilels ja Jelizaveta Gilels).
+      - title: Aamuklassinen
+        start_time: '2025-05-17T06:30:00+03:00'
+        end_time: '2025-05-17T07:00:00+03:00'
       - title: Yle Uutiset
         start_time: '2025-05-17T07:00:00+03:00'
         end_time: '2025-05-17T07:02:05+03:00'
       - title: Radio 1 soi
         start_time: '2025-05-17T07:02:05+03:00'
-        end_time: '2025-05-17T07:20:00+03:00'
+        end_time: '2025-05-17T07:23:50+03:00'
+        description: |-
+          Ernst: Kaksi nokturnoa viululle ja pianolle (Sherban Lupu, viulu, ja Ian Hobson, piano)
+          Kansansäv. (sov. Buck): The last rose of summer (Kesän viime ruusu) (Simon Preston, urut).
       - title: 'Kulttuurin kulmilla: Kriittinen katse'
-        start_time: '2025-05-17T07:20:30+03:00'
-        end_time: '2025-05-17T07:30:00+03:00'
+        start_time: '2025-05-17T07:23:50+03:00'
+        end_time: '2025-05-17T07:32:00+03:00'
         description: |-
           Kriittinen katse 
           Timo Teräsvuori ottaa selvää kritiikin kirjoittamisesta 
@@ -44,6 +50,9 @@ data:
         description: |+
           Elokuvaohjaaja kirjailija Johanna Vuoksenmaan romaani kertoo suvun kipeästä menneisyydestä. Poikansa sodassa menettänyt Alma matkustaa kunniavieraana natsi-Saksaan ja kirjoittaa kotiin matkalla näkemistään asioista. Vuosikymmeniä myöhemmin Alman kotiin lähetämä, suvun perintönä kulkeva, kirje päätyy elokuvaohjaaja Johanna Vuoksenmaan käsiin ja hän kirjoittaa natsi-Saksasta lähetetyn kirjeen ympärille kietoutuvan Suurenmoinen matka -romaanin. Toimittaja Jukka Kuosmanen..Ohjelma on uusinta keväältä.
 
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-05-17T07:56:00+03:00'
+        end_time: '2025-05-17T08:00:00+03:00'
       - title: Hartaita säveliä
         start_time: '2025-05-17T08:05:00+03:00'
         end_time: '2025-05-17T08:25:00+03:00'
@@ -123,9 +132,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-17T12:00:00+03:00'
         end_time: '2025-05-17T12:05:00+03:00'
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Tuleeko Romaniasta vaaleissa EU:ta vihaava Trumplandia?'
         start_time: '2025-05-17T12:05:00+03:00'
         end_time: '2025-05-17T12:30:00+03:00'
+        description: |
+          Romanialaiset valitsevat tänä viikonloppuna vaaleissa joko äärinationalistisen tai Eurooppa-mielisen presidentin. Asiantuntijoiden mukaan Romaniassa päätetäänkin paitsi presidentistä, samalla myös maan suunnasta.
+          Millaisessa tienhaarassa Romania nyt on, ja voiko siitä tulla lisäjäsen Unkarin rinnalle unionin EU-vastaiseen blokkiin? Näitä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Teemu Juhola ja Paula Vilén. Äänitarkkailijana on Katri Koivula.
       - title: 'Outopodcast: Kuu paistaa heleästi, kuollut ajaa keveästi'
         start_time: '2025-05-17T12:30:00+03:00'
         end_time: '2025-05-17T12:55:00+03:00'
@@ -218,7 +230,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-17T17:00:00+03:00'
         end_time: '2025-05-17T17:10:00+03:00'
-      - title: Miia Krause
+      - title: 'Miia Krause: Eini: Nöyrä pitää olla mutta ei saa nöyristellä!'
         start_time: '2025-05-17T17:10:00+03:00'
         end_time: '2025-05-17T17:57:00+03:00'
         description: |
@@ -240,14 +252,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-17T19:00:00+03:00'
         end_time: '2025-05-17T19:02:00+03:00'
-      - title: Oopperailta
+      - title: Oopperailta New Yorkin Metropolitanissa - Richard Straussin Salome
         start_time: '2025-05-17T19:50:00+03:00'
         end_time: '2025-05-17T22:30:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+        description: |-
+          Libretto: Hedwig Lachmann, perustuu Oscar Wilden näytelmään Salomé. Musiikinjohto: Yannick Nézet-Séguin.Metropolitan-oopperan orkesteri. Rooleissa: Salome - Elza van den Heever, sopraano. Jokanaan (Johannes-kastaja) - Peter Mattel, bassobaritoni. Herodes - Gerhard Siegel, tenori. Herodias - Michelle DeYoung, sopraano. Narraboth - Piotr Buszewski, tenori. - Suora lähetys New Yorkin Metropolitanista. Lähetyksen aikana teoksesta ja sen esityksestä keskustelevat Risto Nordellin kanssa oopperalaulajat Esa Ruuttunen ja Sari Nordqvist.
+      - title: 'Keinuva talo - Mika Kauhanen: Syntymästä valon labyrinttiin ja valssiin junassa'
         start_time: '2025-05-17T22:40:00+03:00'
-        end_time: '2025-05-17T23:39:30+03:00'
+        end_time: '2025-05-17T23:39:15+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Kansanmusiikin ja maailmanmusiikin elinvoimaa ja monimuotoisuutta saa jälleen ihastella ja ihmetellä. Kuinka hienoa etnoa julkaistaankaan kaiken aikaa! Millaisia yllättäviä rooleja esimerkiksi huilu, sello ja bassoklarinetti voivat ottaa luovien tekijöiden käsissä? Tuoreita tuttavuuksia sekä konkarien uusia avauksia kuratoimassa Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2025-05-17T23:40:00+03:00'
         end_time: '2025-05-18T07:00:00+03:00'

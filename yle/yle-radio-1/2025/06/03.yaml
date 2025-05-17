@@ -1,15 +1,26 @@
 metadata:
-  generated_at: '2025-05-16T02:34:58.349224+00:00'
+  generated_at: '2025-05-17T02:33:09.019559+00:00'
   git:
     branch: main
-    commit: 64a9b24d03e59dff004269b15477a3fe01c45332
-  data_hash: 28ae2a84d477ae13f5618105f475a6c0f55559b8d3cdfb65914ded4d4bd8c8b7
+    commit: 388f0caa32cbe85edc4e5d78458f99935bc66253
+  data_hash: 7f56532ef85ba114ce7787eb3cff12fba9136312d164f54be9e99fd575f3cf47
 data:
   Yle Radio 1:
     programmes:
       - title: Hartaita säveliä
         start_time: '2025-06-03T06:30:50+03:00'
         end_time: '2025-06-03T06:50:00+03:00'
+        description: |+
+          Anonyymi: Nyt ylös vuoriin tiellä (Cantilene/Merja Lohilahti).
+
+          I. Krohn: Me riemumielin ylistämme (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
+          Toisinto: Nyt yhdessä jo lähtekää (Jämsän kristillisen kansanopiston kuoro/Merja Lohilahti).
+
+          Sontonga: Kuule, Isä taivaan, pyyntö tää (Katja Kallio ja Sami Kosola).
+
+          Tuntematon: Tulkoon tie sinua vastaan (Hannu Lehtikangas, laulu, ja Niko Kumpuvaara, harmonikka). 
+
       - title: Aamuhartaus
         start_time: '2025-06-03T06:50:00+03:00'
         end_time: '2025-06-03T06:59:59+03:00'
@@ -115,6 +126,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-03T18:35:00+03:00'
         end_time: '2025-06-03T18:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Kupiainen): Hei, siskot, veljet, kristityt (Histan veisaajat).
+
+          Venäläinen kansansäv.: Olen kuullut, on kaupunki tuolla (Sauli Ahvenjärvi, bassobaritoni, ja Pentti Kotiranta, piano).
+
+          Monk: Oi Herra, luoksein jää (CCF/Kari Turunen).
+
+          Bliss: Isä Jumala, nyt katso maamme puoleen (Human Organ).
+
       - title: Iltahartaus
         start_time: '2025-06-03T18:50:00+03:00'
         end_time: '2025-06-03T19:00:00+03:00'
