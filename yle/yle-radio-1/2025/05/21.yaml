@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:30.635623+00:00'
+  generated_at: '2025-05-20T02:34:54.731799+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -112,9 +112,8 @@ data:
       - title: 'Havaintoja muutoksesta: Yhteisöllisyyden muodot'
         start_time: '2025-05-21T10:00:00+03:00'
         end_time: '2025-05-21T10:50:00+03:00'
-        description: |
-          Ihminen on sosiaalinen olento. Millä tavalla yhteisöllisyyden muodot ovat aikojen kuluessa muuttuneet? Millainen merkitys yhteisöllisyydellä on meille? Mikä estää ja mikä mahdollistaa yhteisöllisyyden rakentumista?
-          Toimittaja Satu Kivelä keskustelee aiheesta yhdessä professori Helsingin yliopiston sosiaalietiikan professori Jaana Hallamaan ja sosiologi Tiina Helinin kanssa. 
+        description: |-
+          Ihminen on sosiaalinen olento. Millä tavalla yhteisöllisyyden muodot ovat aikojen kuluessa muuttuneet? Millainen merkitys yhteisöllisyydellä on meille? Mikä estää ja mikä mahdollistaa yhteisöllisyyden rakentumista? Toimittaja Satu Kivelä keskustelee aiheesta yhdessä Helsingin yliopiston sosiaalietiikan professori Jaana Hallamaan ja sosiologi Tiina Helinin kanssa. 
       - title: Riston Valinnan äänikirjeitä Tallinnasta III
         start_time: '2025-05-21T11:00:00+03:00'
         end_time: '2025-05-21T11:50:00+03:00'
@@ -160,6 +159,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-21T16:10:00+03:00'
         end_time: '2025-05-21T16:59:00+03:00'
+        description: |
+          Beethoven: Alkusoitto bal. Prometheuksen luomistyöt (RSO/Leif Segerstam).
+
+          Portman: Chocolat suite elok. Chocolat (Pieni suklaapuoti) teemoista (Raphaela Gromes, sello, ja Julian Riem, piano).
+
+          Puccini: Rinuccion aaria "Avete torto - Firenze e come un albero fiorito" oopp. Gianni Schicchi (Vittorio Grigolo, tenori, ja Parman Teatro Region ork./Pier Giorgio Morandi).
+
+          Tailleferre: Kaksi valssia kahdelle pianolle (Eveliina Sumelius-Lindblom ja Maija Parko).
+
+          Richter: Spring 2 teoks. Four seasons recomposed (Daniel Hope, viulu, ja Konzerthaus Kammerorchester Berlin/André De Ridder).
+
+          Stenhammar: I Seraillets have (Seraljin puutarhassa) (RKK/Anders Eby).
+
+          Gade: Scherzo oktetosta jousille F-duuri (L'Archibudelli ja Smithsonian Chamber Players).
+
+          Elgar: Serenade mauresque (Maurilainen serenadi) (Uuden-Seelannin SO/James Judd).
+
+          Mayer: Scherzo kvartetosta pianolle ja jousille G-duuri (Mariani-pianokvartetti).
+
+          W.A. Mozart: Despinan aaria "Una donna a quindici anni" oopp. Così fan tutte (Kathleen Battle, sopraano, ja Metropolitan-oopperan ork./James Levine).
+
+          Bright: Intermezzo - Andante espressivo kons. pianolle ja orkesterille n:o 1 a-molli (Samantha Ward ja Liverpoolin kuninkaallinen FO/Charles Peebles).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-21T17:00:00+03:00'
         end_time: '2025-05-21T17:10:00+03:00'
@@ -168,11 +189,11 @@ data:
         end_time: '2025-05-21T17:34:20+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Lyömättämiä lyöjiä lyömäsoittimineen'
         start_time: '2025-05-21T17:35:00+03:00'
         end_time: '2025-05-21T18:35:00+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Lumoutumista ja positiivista häkeltymistä aiheuttavat tällä kertaa käsiään, kapuloitaan ja mallettejaan käyttelevät rumpu- ja lyömäsoitintaiturit. (U)
       - title: Hartaita säveliä
         start_time: '2025-05-21T18:35:00+03:00'
         end_time: '2025-05-21T18:50:00+03:00'
@@ -201,12 +222,16 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2025-05-21T21:35:00+03:00'
         end_time: '2025-05-21T22:25:00+03:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Laskettua aikaa: Syntymä 9/10'
         start_time: '2025-05-21T22:30:00+03:00'
-        end_time: '2025-05-21T22:50:30+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-05-21T22:50:30+03:00'
-        end_time: '2025-05-21T23:12:30+03:00'
+        end_time: '2025-05-21T22:48:51+03:00'
+        description: |-
+          Kriisin keskellä tapahtuu odottamaton käänne, joka pakottaa Noran ja hänen kumppaninsa toimimaan nopeasti. Kun tilanne muuttuu yhä vaarallisemmaksi, ryhmä tekee kaikkensa selvitäkseen hengissä. Lopulta uudet ja vanhat ystävät kohtaavat.
+      - title: 'Laskettua aikaa: Kotiinpaluu 10/10'
+        start_time: '2025-05-21T22:48:51+03:00'
+        end_time: '2025-05-21T23:10:23+03:00'
+        description: |-
+          Nora ja Kalle palaavat Suomeen, normaali elämä tuntuu oudon etäiseltä, kun he yrittävät sopeutua arkeen. Nora käy läpi tunteitaan ja muistojaan, kun hän astuu terapeutin vastaanotolle. Voiko hän todella palata entiseen elämäänsä?
       - title: Yöklassinen
         start_time: '2025-05-21T23:40:00+03:00'
         end_time: '2025-05-22T06:30:00+03:00'

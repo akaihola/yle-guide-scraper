@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:33.256747+00:00'
+  generated_at: '2025-05-20T02:34:59.843910+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -69,7 +69,7 @@ data:
         end_time: '2025-05-29T12:05:00+03:00'
       - title: 'Ihminen vs. algoritmi: Kuka maksaa, kun tekoäly mokaa oikeussalissa?'
         start_time: '2025-05-29T12:05:00+03:00'
-        end_time: '2025-05-29T12:45:00+03:00'
+        end_time: '2025-05-29T12:38:00+03:00'
         description: |-
           Voiko tekoäly korvata juristin, ja mitä tapahtuu kun kone alkaa jakaa oikeutta? Asianajaja ja oikeustieteen tohtori Otto Meri pohtii Perttu Pölösen kanssa tekoälyn roolia juridiikan kentällä - sen mahdollisuuksia, rajoitteita ja eettisiä kysymyksiä. Jaksossa käsitellään konkreettisten esimerkkien kautta tekoälyn kykyä ratkaista oikeustapauksia, automatisoitua päätöksentekoa ja sitä, miten vastuukysymykset muuttuvat kun algoritmit astuvat mukaan kuvaan.
 
@@ -77,8 +77,17 @@ data:
 
           Jakson tekoälysisällön tuotti ChatGPT 4.0 ja sen äänenä toimi ElevenLabs.
       - title: Musiikkikamari
-        start_time: '2025-05-29T12:45:00+03:00'
+        start_time: '2025-05-29T12:38:00+03:00'
         end_time: '2025-05-29T13:00:00+03:00'
+        description: |+
+          Tuntematon (sov. Yavnai - Paquito): Improvisaatio teemasta Dona nobis pacem (Paquito D'Rivera, klarinetti, ja Alon Yavnai, piano).
+
+          Powell: Perfect time for a spring cleaning (Hyvä aika kevätsiivoukselle) (Hiyoli Togawa, alttoviulu).
+
+          Yeston: Unusual way musik. Nine (Thomas Hampson, baritoni, ja American Theatre Orchestra).
+
+          Stravinsky: Tango (Orpheus-kamariork.).
+
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-29T13:00:00+03:00'
         end_time: '2025-05-29T15:00:00+03:00'

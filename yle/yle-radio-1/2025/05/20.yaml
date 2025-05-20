@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:30.401152+00:00'
+  generated_at: '2025-05-20T02:34:51.836095+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,10 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-20T08:10:00+03:00'
         end_time: '2025-05-20T09:00:00+03:00'
+        description: |-
+          Israel tyhjentää Gazan aluetta täyden haltuunoton tieltä. Samaan aikaan Israel sanoo aikovansa päästää jonkin verran ruoka-apua Gazaan yli kaksi kuukautta kestäneen saarron jälkeen. Tel Avivista raportoi toimittaja Antti Kuronen. Gazan siviilien tilanteesta kertovat anestesiologian ja tehohoidon erikoislääkäri Henriikka Ollila Lääkärit ilman rajoja -järjestöstä ja kansainvälisen avustustoiminnan johtaja Tiina Saarikoski Suomen Punaisesta rististä. 
+          EU:n ulkoministerit päättävät tänään uusista pakotteista Venäjälle, joka jatkaa hyökkäystään Ukrainassa. Miten tehokas paketti on kasassa? Pakote-päätöksenteosta Brysselissä kertoo EU-kirjeenvaihtaja Hannele Muilu ja keskustelemassa ovat vanhempi neuvonantaja Laura Solanko Suomen Pankista sekä pakotejuristi Aleksi Pursiainen. 
+          Juontajana Markus Liimatainen. 
       - title: Yle Uutiset
         start_time: '2025-05-20T09:00:00+03:00'
         end_time: '2025-05-20T09:05:00+03:00'
@@ -120,11 +124,20 @@ data:
       - title: 'Sari Valto:  Klassikkoromaani vai juorulehti? Miten kulttuurimakumme syntyy? '
         start_time: '2025-05-20T10:00:00+03:00'
         end_time: '2025-05-20T10:55:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Sadelaulu'
         start_time: '2025-05-20T11:00:00+03:00'
         end_time: '2025-05-20T11:57:00+03:00'
-        description: |-
+        description: |
+          Minkälainen kappale silittää korvaa, puhuu kuin ystävä ystävälle, kuuntelee ja aavistelee?
+          Johannes Brahms sävelsi ensimmäisen viulu-pianosonaattinsa kypsässä 46-vuoden iässä.
+          Taustalla saattoi olla läheisen ihmisen kuolema.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman teos:
+          Johannes Brahms: Sonaatti viululle ja pianolle G-duuri (Leonidas Kavakos, viulu, ja Yuja Wang, piano).
+
+          Lisäksi kuullaan otteita seuraavista teoksista:
+          Johann Strauss: Cachucha-galoppi. Frantz Liszt: Sonaatti h-molli. Richard Wagner: Valkyyria. Johannes Brahms: Regenlied ja Nachklang.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-20T11:57:00+03:00'
         end_time: '2025-05-20T12:00:00+03:00'
@@ -148,6 +161,8 @@ data:
       - title: Politiikkaradio
         start_time: '2025-05-20T13:00:00+03:00'
         end_time: '2025-05-20T13:30:00+03:00'
+        description: |
+          Koska työllisyys Suomessa nousee? Haastattelussa TEM:n erityisasiantuntijat Erno Mähönen ja Liisa Larja. Toimittajana on Linda Pelkonen. 
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-20T13:30:00+03:00'
         end_time: '2025-05-20T15:00:00+03:00'
@@ -207,7 +222,7 @@ data:
         start_time: '2025-05-20T17:10:00+03:00'
         end_time: '2025-05-20T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Hallituksen puoliväliriihen antia on puitu julkisuudessa nyt jo lähes kuukauden päivät – eikä ihme. Hallituksen talouspoliittinen linjanmuutos oli mittava. Viime viikkoina huomio on kiinnittynyt erityisesti valtiovarainministeriöön ja sen rooliin poliittisissa linjauksissa. Mikä on ministeriön todellinen rooli politiikan teossa? Reetta Röngän vieraana on Ylen taloustoimittaja Petteri Lindholm. 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-05-20T17:35:00+03:00'
         end_time: '2025-05-20T18:30:00+03:00'

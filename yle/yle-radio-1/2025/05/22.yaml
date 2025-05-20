@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:31.030581+00:00'
+  generated_at: '2025-05-20T02:34:55.384445+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -186,6 +186,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-22T16:10:00+03:00'
         end_time: '2025-05-22T16:59:00+03:00'
+        description: |
+          Glinka: Alkusoitto D-duuri (BBC:n FO/Vasili Sinaiski).
+
+          Villa-Lobos: Schottish-choro (2. osa) Brasilialaisesta sarjasta (Juuso Nieminen, kitara).
+
+          R. Schumann: Nicht schnell sarj. Romansseja oboelle ja pianolle (Heinz Holliger ja Alfred Brendel).
+
+          O. Merikanto: Annina (Sauli Tiilikainen, baritoni, ja YL/Matti Hyökki).
+
+          Holst: Kevälaulu (Rupert Marshall-Luck, viulu, ja Matthew Rickard, piano).
+
+          Fauré: Perhonen (Paul Tortelier, sello, ja Shuku Iwasaki, piano).
+
+          Massenet: Intermède sarjasta orkesterille n:o 2 (Unkarilaisia kuvia) (Uuden-Seelannin SO/Jean-Yves Ossonce).
+
+          Fasch: Allegro konsertosta huilulle, oboelle, jousille ja continuolle h-molli (Il Gardellino).
+
+          Caccini: Amarilli (Andrew Lawrence-King, kaksoisharppu).
+
+          Puccini: Toscan rukous "Vissi d'arte" oopp. Tosca (Karita Mattila, sopraano, ja RSO/Jukka-Pekka Saraste). 
+
+          Mendelssohn: Scherzo oktetosta Es-duuri (Lontoon SO/Claudio Abbado).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-22T17:00:00+03:00'
         end_time: '2025-05-22T17:10:00+03:00'

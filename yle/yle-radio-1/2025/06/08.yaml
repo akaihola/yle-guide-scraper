@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:36.574782+00:00'
+  generated_at: '2025-05-20T02:35:04.055192+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -85,6 +85,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-08T16:10:00+03:00'
         end_time: '2025-06-08T16:59:00+03:00'
+        description: |
+          Kostiainen: Heilani on kuin helluntai (Klemetti-Opiston Naiskuoro/Marjukka Riihimäki).
+
+          Dvorák: Larghetto teoks. Romanttisia kappaleita (Isaac Stern, viulu, ja Robert McDonald, piano).
+
+          Saint-Saens: Aimons-nous (Rakastakaamme) (Yann Beuron, tenori, ja Italiankielisen Sveitsin ork./Markus Poschner). 
+
+          Sibelius (sov.): Suomalaisia kansanlaulusovituksia pianolle (Juho Pohjonen).
+
+          Tshaikovski: Valssi serenadista jousille C-duuri (Orpheus-kamariork.).
+
+          Ponce: Tres canciones populares mexicanas (Kolme meksikolaista kansanlaulua) (John Williams, kitara).
+
+          Graupner: Sarabande sarj. F-duuri (Petra Aminoff, traverso, Tindaro Capuano ja Asko Heiskanen, chalumeau, Krzysztof Stencel, barokkikäyrätorvi, sekä Suomalainen barokkiork./Sirkka-Liisa Kaakinen-Pilch, viola d'amore).
+
+          Hahn: L'heure exquise (Susan Graham, mezzosopraano, ja Roger Vignoles, piano).
+
+          Glazunov: Romanttinen intermezzo (Hongkongin FO/Antonio de Almeida).
+
+          O. Merikanto: Omenankukat (Karita Mattila, sopraano, ja Ilmo Ranta, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-08T17:00:00+03:00'
         end_time: '2025-06-08T17:10:00+03:00'

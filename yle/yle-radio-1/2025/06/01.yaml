@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-19T02:36:34.079485+00:00'
+  generated_at: '2025-05-20T02:35:01.585905+00:00'
   git:
     branch: main
-    commit: 869baaef15eb573ac35c0419b4c0c01dca36fd16
-  data_hash: 4df86da5174d014cc1d2a755906fa875aa2bb8d4c4c95f3e9cc0577385cfc18b
+    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
+  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-01T11:00:00+03:00'
         end_time: '2025-06-01T11:57:00+03:00'
+        description: |-
+          Hardy/Alpert/Howard: Soleil (Francoise Hardy).
+          Harrison: Something (Chet Baker).
+          Porter: Love for sale (Tony Bennett ja Lady Gaga).
+          Wonder: Sir Duke (Stevie Wonder).
+          Sundgren: Muistojen Bulevardi (Laila Kinnunen).
+          Taccani: Chella lla - hon är där! (Bibi Nyström).
+          Bonagura/Carosone: Maruzzella (Renato Carosone).
+          Merrill: Mambo italiano (Olavi Virta).
+          Livingston: Kenpä tietäis sen (Seija Lampila).
+          Jobim: Vivo sonhando (Joao Gilberto & Stan Getz).
+          Uhlenius: Pilvet karkaa - niin minäkin (Rauli 'Badding' Somerjoki).
+          Carmichael: Skylark (Carmen McRae).
+          Monnot: Hymne à l'amour (Päivi Paunu).
+          Chaplin: Naeratus (Georg Ots).
+          Sauter: A summer afternoon (Stan Getz).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-01T12:00:00+03:00'
         end_time: '2025-06-01T12:05:00+03:00'
@@ -133,7 +149,7 @@ data:
           Toimittajana...
       - title: 'Adventtikirkon jumalanpalvelus Helsingistä '
         start_time: '2025-06-01T20:00:00+03:00'
-        end_time: '2025-06-01T21:00:00+03:00'
+        end_time: '2025-06-01T20:54:15+03:00'
         description: |
           Puhujana nuorisopastori Mikael Takamaa
       - title: Yle Uutiset
