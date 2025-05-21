@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-20T02:34:54.731799+00:00'
+  generated_at: '2025-05-21T02:34:54.487061+00:00'
   git:
     branch: main
-    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
-  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
+    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
+  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
 data:
   Yle Radio 1:
     programmes:
@@ -86,6 +86,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-21T08:10:00+03:00'
         end_time: '2025-05-21T09:00:00+03:00'
+        description: |-
+          Ykkösaamussa keskustellaan tänään Gazan tilanteesta eduskunnan ulkoasianvaliokunnan jäsenten kanssa. Israel on tyhjentämässä Gazaa ja ottamassa alueen täydelliseen kontrolliin. Onko Suomella keinoja painostaa Israelia ? Noin kahdenkymmenen minuutin jälkeen keskustelun suuntana on Euroopan Unionin turvallisuus. Suuri valiokunta puoltaa EUn uuden yhteisen rahoitusvälineen luomista jäsenmaiden puolustushankintoja varten. Minkälainen apparaatti on syntymässä ja tuleeko se maksamaan Suomella jotakin ? Lähetyksen lopuksi yhteys Tampereelle; siellä toivutaan eilisestä koulussa tehdystä veitsi-iskusta. 
       - title: Yle Uutiset
         start_time: '2025-05-21T09:00:00+03:00'
         end_time: '2025-05-21T09:05:00+03:00'
@@ -127,14 +129,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-21T12:00:00+03:00'
         end_time: '2025-05-21T12:10:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Ruotsin kuningattaret'
         start_time: '2025-05-21T12:10:00+03:00'
         end_time: '2025-05-21T12:59:30+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kauppasodan rintamakatsaus'
         start_time: '2025-05-21T13:00:00+03:00'
         end_time: '2025-05-21T13:30:00+03:00'
+        description: |
+          Vieraina ovat Suomen Pankin vanhempi ekonomisti Juuso Kaaresvirta sekä johtaja Timo Vuori Elinkeinoelämän keskusliitosta. Toimittajana on Tapio Pajunen. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-05-21T13:30:00+03:00'
         end_time: '2025-05-21T15:00:00+03:00'
@@ -187,8 +191,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-05-21T17:10:00+03:00'
         end_time: '2025-05-21T17:34:20+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Perussuomalaisten kannatus romahti kuntavaaleissa. Nyt puolue etsii uutta nousua ja puheenjohtaja Riikka Purralle on jo ilmaantunut haastaja kesän puoluekokoukseen. Mikä on perussuomalaisten tilanne tällä hetkellä ja ajaako hallitusvastuu puoluetta jälleen uuteen kriisiin? Atte Uusinokan vieraana on Iltalehden politiikan toimittaja Lauri Nurmi. 
       - title: 'Laura Korhosen Jazzklubi: Lyömättämiä lyöjiä lyömäsoittimineen'
         start_time: '2025-05-21T17:35:00+03:00'
         end_time: '2025-05-21T18:35:00+03:00'
@@ -216,20 +220,23 @@ data:
           Hartaus jatkaa keskeisiä kristillisiä oppeja moniarvoissa maailmassa käsittelevää sarjaa. Tämä on 23. osa. 
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-05-21T19:02:00+03:00'
-        end_time: '2025-05-21T21:00:00+03:00'
+        end_time: '2025-05-21T21:35:00+03:00'
         description: |
           Nicholas Collon, kapellimestari, ja Pekka Kuusisto, viulu. - Helen Grime: Fanfares. Sebastian Hilli: 1977 - a Violin Concerto, kantaesitys (Ylen tilaus). Anton Bruckner: Sinfonia nro 4 Es-duuri WAB 104. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson. 
+      - title: Politiikkaradio
+        start_time: '2025-05-21T21:36:00+03:00'
+        end_time: '2025-05-21T22:06:00+03:00'
       - title: Havaintoja muutoksesta
-        start_time: '2025-05-21T21:35:00+03:00'
-        end_time: '2025-05-21T22:25:00+03:00'
+        start_time: '2025-05-21T22:06:30+03:00'
+        end_time: '2025-05-21T22:56:30+03:00'
       - title: 'Laskettua aikaa: Syntymä 9/10'
-        start_time: '2025-05-21T22:30:00+03:00'
-        end_time: '2025-05-21T22:48:51+03:00'
+        start_time: '2025-05-21T22:58:48+03:00'
+        end_time: '2025-05-21T23:17:39+03:00'
         description: |-
           Kriisin keskellä tapahtuu odottamaton käänne, joka pakottaa Noran ja hänen kumppaninsa toimimaan nopeasti. Kun tilanne muuttuu yhä vaarallisemmaksi, ryhmä tekee kaikkensa selvitäkseen hengissä. Lopulta uudet ja vanhat ystävät kohtaavat.
       - title: 'Laskettua aikaa: Kotiinpaluu 10/10'
-        start_time: '2025-05-21T22:48:51+03:00'
-        end_time: '2025-05-21T23:10:23+03:00'
+        start_time: '2025-05-21T23:17:39+03:00'
+        end_time: '2025-05-21T23:39:11+03:00'
         description: |-
           Nora ja Kalle palaavat Suomeen, normaali elämä tuntuu oudon etäiseltä, kun he yrittävät sopeutua arkeen. Nora käy läpi tunteitaan ja muistojaan, kun hän astuu terapeutin vastaanotolle. Voiko hän todella palata entiseen elämäänsä?
       - title: Yöklassinen

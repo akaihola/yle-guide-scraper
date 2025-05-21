@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-20T02:34:58.611330+00:00'
+  generated_at: '2025-05-21T02:34:56.297848+00:00'
   git:
     branch: main
-    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
-  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
+    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
+  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
 data:
   Yle Radio 1:
     programmes:
@@ -81,7 +81,7 @@ data:
         start_time: '2025-05-26T10:00:00+03:00'
         end_time: '2025-05-26T10:52:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Perintöverot ja niiden minimointi - vieraana Kati Hannikainen
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-26T10:52:00+03:00'
         end_time: '2025-05-26T11:00:00+03:00'
@@ -98,7 +98,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-05-26T12:00:00+03:00'
         end_time: '2025-05-26T12:10:00+03:00'
-      - title: 'Elävä historia: Syömättömyyden ihme – Sarah Jacob ja viktoriaanisen ajan paastoavat tytöt'
+      - title: 'Elävä historia: Walesin paastoava tyttö - Sarah Jacob ei syönyt, ja se kuohutti viktoriaanista Britanniaa'
         start_time: '2025-05-26T12:10:00+03:00'
         end_time: '2025-05-26T12:59:30+03:00'
         description: |
@@ -134,26 +134,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-26T16:10:00+03:00'
         end_time: '2025-05-26T16:59:00+03:00'
-        description: |-
+        description: |
           Denza - Bellstedt: Napoli (Wynton Marsalis, kornetti, ja Eastman-puhallinork./Donald Hunsberger).
 
           Sgambati: Napolilainen serenadi (Alban Gerhardt, sello, ja Cecile Licad, piano). 
 
           Pacini: Stellan aaria "Ove t'aggiri, o barbaro" oopp. Stella di Napoli (Joyce DiDonato, mezzosopraano, sekä Heloise Mas, mezzosopraano, ja Lyonin oopperan kuoro ja ork./Riccardo Minasi).
 
-          Schulhoff: Alla napoletana jousikvartetille (Alma Quartet). 
+          Schulhoff: Alla napoletana (Alma Quartet). 
 
           Poulenc: Nocturni sarj. Napoli (Charles Owen, piano). 
 
-          Gasparini: Ernelindan aaria Empia mano oopp. La Fede tradita e vendicata (Nathalie Stutzmann, altto, ja Orfeo 55 -kamariork.). 
+          Gasparini: Ernelindan aaria "Empia mano" oopp. La fede tradita e vendicata (Nathalie Stutzmann, altto, ja Orfeo 55 -kamariork.). 
 
           Casella: Napolilainen laulu (Henry-David Varema, sello, ja Heiki Mätlik, kitara).  
 
           Wolf-Ferrari: Napolilainen tanssi oopp. Madonnan jalokivet (BBC:n FO/Gianandrea Noseda).
 
-          Rossini (sov. Friedel): La Danza (Fritz Wunderlich, tenori ja Symphonie-Orchester Kurt Graunke/Hans Carste). 
+          Rossini (sov. Friedel): La danza (Fritz Wunderlich, tenori, ja Symphonie-Orchester Kurt Graunke/Hans Carste). 
 
-          Di Capua: O Sole mio, napolilainen laulu (Beniamino Gigli, tenori, Milanon La Scala -oopperan ork./Dino Olivieri). 
+          Di Capua: O sole mio (Beniamino Gigli, tenori, ja Milanon La Scala -oopperan ork./Dino Olivieri). 
       - title: Yle Uutiset ja sää
         start_time: '2025-05-26T17:00:00+03:00'
         end_time: '2025-05-26T17:10:00+03:00'
@@ -197,11 +197,19 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-26T19:50:00+03:00'
         end_time: '2025-05-26T20:00:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Paavo tulee. Oletko valmis?'
         start_time: '2025-05-26T20:00:00+03:00'
         end_time: '2025-05-26T20:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Mitä Paavo Väyrynen ajattelee Suomen geopoliittisesta asemasta vuonna 2025?
+
+          Mistä hän haluaisi keskustella Putinin ja Trumpin kanssa?
+
+          Minkä neuvon Paavo antaisi, jos tapaisi 18-vuotiaan Paavo Väyrysen?
+
+          Paavo tulee. Oletko valmis?
+
+          Sisältövaroitus: Ohjelma sisältää asiaa. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-26T20:55:00+03:00'
         end_time: '2025-05-26T21:00:00+03:00'

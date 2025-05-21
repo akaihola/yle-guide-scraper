@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-20T02:35:05.507793+00:00'
+  generated_at: '2025-05-21T02:35:00.562694+00:00'
   git:
     branch: main
-    commit: 9020f82abda55ad347f7b0d8f2da565a7874bde9
-  data_hash: cd0bbf55e18eba8b69946e5bca799935d25e0d3f6b853d8f6e4a841eb2ffcc46
+    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
+  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-12T07:10:00+03:00'
         end_time: '2025-06-12T07:59:59+03:00'
+        description: |+
+          Pierné: Canzonetta klarinetille ja pianolle (Jelizaveta Shkljaver ja Jos van Immerseel). 
+
+          Engl. kansansävelmä (sov. S. Kanneh-Mason): Blow the wind southerly (Sheku Kanneh-Mason, sello).
+
+          Bartling: Minä yksin ja meri (Suomen Nuorisokuoro/Elisa Huovinen).
+
+          Vivaldi: Allegro molto fagottikonsertosta F-duuri (Sergio Azzolini ja L'Aura Soave Cremona).
+
+          Dowland: Fine knacks for ladies (Houkutuksia rouvasväelle) (The King's Singers ja Anthony Rooley, luuttu).
+
+          J.S. Bach: Jesus bleibet meine Freude (Kristus, valo valkeuden) (Angela Hewitt, piano).
+
+          Beethoven - Kreisler: Rondino (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          Dvorák: Rusalkan laulu kuulle (Jouko Harjanne, trumpetti, ja Norjan radio-orkesteri/Ari Rasilainen) 
+
+          Klami: Helsinki-marssi (Paavali Jumppanen, piano).
+
+          C. Assad: Bluezilian kitarakvartetille (Aquarelle Guitar Quartet).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-12T08:00:00+03:00'
         end_time: '2025-06-12T08:10:00+03:00'
@@ -87,6 +108,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-12T16:10:00+03:00'
         end_time: '2025-06-12T16:59:00+03:00'
+        description: |-
+          Suk: Joutsenten ja riikinkukkojen leikkiä sarj. Keijukaissatu (Buffalon FO/JoAnn Falletta).
+
+          J.S. Bach: Preludi ja fuuga n:o 5 kok. Das Wohltemperierte Klavier (Mie Miki, harmonikka). 
+
+          Vivaldi: Konsertto jousille ja continuolle B-duuri (Accademia Bizantina/Ottavio Dantone).
+
+          von Bingen: O frondens virga, antifoni (Ensemble Gamut). 
+
+          Monteverdi: Io son pur vezzosetta pastorella. (Jolle Greenleaf ja Molly Quinn, sopraano, Robert Mealy ja Daniel Lee, viulu, Hank Heijink, teorbi, Daniel Swenberg barokkikitara, ja Avi Stein, cembalo).
+
+          Y. Desportes: Normandialainen balladi (Tanja Nisonen, käyrätorvi, ja Emil Holmström, piano). 
+
+          Debussy: De reve laulusarj. Proses lyriques (Iida Antola, sopraano, ja Anni Laukkanen, piano). 
+
+          Ibert: Heijastuksia vedessä (Lavinia Meijer, harppu).
+
+          Melartin: Scherzo sinfoniasta n:o 4 "Kesäsinfonia" (Tampereen KO/Leonid Grin).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-12T17:00:00+03:00'
         end_time: '2025-06-12T17:10:00+03:00'
