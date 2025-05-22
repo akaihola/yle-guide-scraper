@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-21T02:34:55.887509+00:00'
+  generated_at: '2025-05-22T02:34:40.892714+00:00'
   git:
     branch: main
-    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
-  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
+    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
+  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
 data:
   Yle Radio 1:
     programmes:
@@ -33,6 +33,14 @@ data:
       - title: Aamuklassinen
         start_time: '2025-05-24T06:30:00+03:00'
         end_time: '2025-05-24T07:00:00+03:00'
+        description: |-
+          Piae Cantiones: Aetas carmen melodiae (RKK/Timo Nuoranne).
+
+          Dowland: Walsingham-muunnelmia (Paul O'Dette, luuttu).
+
+          Lanzetti: Sonaatti sellolle ja continuolle D-duuri (Gaetano Nasillo, sello, Andrea Marchiol, cembalo, ja Sara Bennici, sello).
+
+          Marenzio: Solo e pensoso (The Deller Consort).
       - title: Yle Uutiset
         start_time: '2025-05-24T07:00:00+03:00'
         end_time: '2025-05-24T07:02:05+03:00'
@@ -123,6 +131,10 @@ data:
         end_time: '2025-05-24T11:55:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Inari Tillin vieraana säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo.
+
+          Säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo on jo ehtinyt täyttää 80 vuotta, mutta ikä ei tunnu menoa haittaavan. Helasvuo soittaa pianoa edelleen vähintään tunnin verran päivässä pitääkseen sormet vetreinä tulevia keikkoja varten. Piano ja kosketinsoittimet kuuluvat paljon myös Näistä levyistä en luovu -ohjelman musiikkivalinnoissa, monessa eri muodossa.
+
+          Monen musiikin tyylilajin ohella jazzmusiikki on ollut Helasvuon elämässä mukana jo nuoruudesta lähtien. Useat ohjelmassa esiintyvistä artisteista ovat vaikuttaneet hänen omaan tyyliinsä ja tapaansa tehdä musiikkia.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-05-24T11:57:00+03:00'
         end_time: '2025-05-24T12:00:00+03:00'

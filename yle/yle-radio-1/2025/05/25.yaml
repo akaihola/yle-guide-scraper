@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-21T02:34:56.087815+00:00'
+  generated_at: '2025-05-22T02:34:41.543224+00:00'
   git:
     branch: main
-    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
-  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
+    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
+  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
 data:
   Yle Radio 1:
     programmes:
@@ -135,9 +135,11 @@ data:
         end_time: '2025-05-25T15:49:30+03:00'
         description: |-
           Idänkaupan veteraanit kertovat, mitä Suomen ja Neuvostoliiton kauppaneuvottelujen kulisseissa tapahtui. Toimittajana Simo Sipola. Äänisuunnittelu Joonatan Kotila.
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Pikkukuovi'
         start_time: '2025-05-25T15:50:00+03:00'
         end_time: '2025-05-25T15:55:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Pentti Halenius.
       - title: Yle News
         start_time: '2025-05-25T15:55:00+03:00'
         end_time: '2025-05-25T15:58:00+03:00'
@@ -189,7 +191,7 @@ data:
         end_time: '2025-05-25T19:02:05+03:00'
       - title: 'Jazzklubi: Tunti vapaalla - DJ Bunuel.'
         start_time: '2025-05-25T19:02:05+03:00'
-        end_time: '2025-05-25T20:00:00+03:00'
+        end_time: '2025-05-25T19:59:37+03:00'
         description: |-
           Kumarrus Ramsey Lewisille, muutama keikkavinkki ja sitten tunti rytmin juhlaa ennen loppumeditaatiota.
 
@@ -208,7 +210,7 @@ data:
           Toimittajana DJ Bunuel.
       - title: Akatistos ylösnousseelle Kristukselle Kuopion pyhän Nikolaoksen katedraalista
         start_time: '2025-05-25T20:00:00+03:00'
-        end_time: '2025-05-25T21:00:00+03:00'
+        end_time: '2025-05-25T20:44:53+03:00'
         description: |
           Palveluksen toimittaa pastori Otto Laukkarinen 
           Kirkkokuoroa johtaa kanttori Sofia Laukkanen
@@ -252,3 +254,28 @@ data:
           Suomen Romaniyhdistys on hankkeen kumppanijärjestö ja heidän tehtävänään hankkeessa on romanilähtöinen vaikuttamistyö sekä tehdä tutummaksi antirasistista työtä sekä romanien omaa historiaa romaniväestölle. 
 
           Ohjelmassa keskustellaan hankkeessa suunnittelijana työskentelevän Ramona Schwartzin sekä kahden opiskelijan, Jessica Schwartzin ja Angelica Anki Frimanin kanssa. He kertovat kokemuksiaan kevään aikana tehdyistä useista maakunta vierailuista, niiden tunnelmista ja niissä käydyistä keskusteluista. Haastateltavien kanssa pohditaan myös osallisuuden merkitystä ja mitä se käytännössä tarkoittaa. Toimittaja on Janette Grönfors.
+      - title: Yöklassinen
+        start_time: '2025-05-25T23:40:00+03:00'
+        end_time: '2025-05-26T06:30:00+03:00'
+        description: |-
+          Salieri: Urkukonsertto C-duuri (Franz Haselböck ja Wienin Capella Academica/Ernst Hinreiner).
+
+          23:56 Dvorák: Viulukonsertto a-molli (Augustin Hadelich ja Baijerin radion SO/Jakub Hrusa).
+
+          00:30 Zelenka: Sub olea pacis et palma virtutis (Noémi Kiss, sopraano, Anna Hlavenková, sopraano, Markus Forster, kontratenori, Jaroslav Brezina, tenori, Adam Zdunikowski, tenori, ja Ales Procházka, basso, sekä Musica Florea, Musica Aeterna, Philidor Ensemble ja Boni Pueri/Marek Stryncl).
+
+          02:07 Bartók: Improvisaatioita unkarilaisista talonpoikaislauluista (Charles Rosen, piano).
+
+          02:18 Sibelius: Viisi talonpoikaistanssia. (Erkki Kantola, viulu, ja Eero Heinonen, piano).
+
+          02:36 Danning: Rokokoomenuetti (Etelä-Jyllannin SO/Frans Rasmussen).
+
+          02:39 Madetoja: Sinfonia n:o 2 (RSO/Okko Kamu).
+
+          03:23 Schubert: Jousikvartetto n:o 15 G-duuri (Tetzlaff-kvartetti).
+
+          04:17 Useita säveltäjiä: La Primera Víspera (Gabrieli Consort ja Gabrieli Players/Paul McCreesh).
+
+          06:09 Zipoli: Sarja kosketinsoittimelle n:o 2 g-molli (Giovanni Nesi, piano).
+
+          06:20 Aufschnaiter: Sonaatti n:o 1 (Pyhälle Gregoriukselle) (Ars Antiqua Austria/Gunar Letzbor).

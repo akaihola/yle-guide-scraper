@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-21T02:34:55.121599+00:00'
+  generated_at: '2025-05-22T02:34:40.546920+00:00'
   git:
     branch: main
-    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
-  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
+    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
+  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
 data:
   Yle Radio 1:
     programmes:
@@ -176,7 +176,27 @@ data:
         start_time: '2025-05-23T16:10:00+03:00'
         end_time: '2025-05-23T16:59:00+03:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Reverberi: Alla Turca sarj. huuliharpulle ja jousille (Willi Burger sekä Ljubljanan Radion ja Television kamariork./Nevio Zanardi).
+
+          Melartin: Barcarola (Venelaulu) balet. Sininen helmi (Rita Bergman, sopraano, Kai Airinen, baritoni, ja Mart Lille, piano).
+
+          Händel: Menuetti sarj. Vesimusiikkia (Philharmonia-barokkiork./Nicholas McGegan).
+
+          Mendelssohn: Andante con moto tranquillo pianotriosta n:o 1 d-molli (Atlantis Trio).
+
+          Bellini: Pollionen aaria oopp. Norma (Franco Corelli, tenori, ja Piero De Palma, tenori, sekä Milanon La Scalan kuoro ja ork./Tullio Serafin).
+
+          Benda: Presto huilukonsertosta e-molli (Patrick Gallois ja Carl Philipp Emanuel Bach -kamariork./Peter Schreier).
+
+          Madetoja: Soita somer, helkä hiekka (YL/Matti Hyökki).
+
+          Grieg (sov. Tarrega): Åsen kuolema näyt. Peer Gynt (Anders Clemens Öien, kitara).
+
+          Kansanlaulu (sov. Kostiainen): Veret tuli mun silimihini (Musica-kuoro/Pekka Kostiainen).
+
+          Franck: Les plaintes d'une poupée (Nuken valitukset) (Kalevi Kiviniemi, urut).
+
+          Sjöberg: Tonerna (Jussi Björling, tenori, ja ork./Nils Grevillius).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-23T17:00:00+03:00'
         end_time: '2025-05-23T17:10:00+03:00'
@@ -190,6 +210,10 @@ data:
         end_time: '2025-05-23T18:30:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Inari Tillin vieraana säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo.
+
+          Säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo on jo ehtinyt täyttää 80 vuotta, mutta ikä ei tunnu menoa haittaavan. Helasvuo soittaa pianoa edelleen vähintään tunnin verran päivässä pitääkseen sormet vetreinä tulevia keikkoja varten. Piano ja kosketinsoittimet kuuluvat paljon myös Näistä levyistä en luovu -ohjelman musiikkivalinnoissa, monessa eri muodossa.
+
+          Monen musiikin tyylilajin ohella jazzmusiikki on ollut Helasvuon elämässä mukana jo nuoruudesta lähtien. Useat ohjelmassa esiintyvistä artisteista ovat vaikuttaneet hänen omaan tyyliinsä ja tapaansa tehdä musiikkia.
       - title: Musiikkihartaus
         start_time: '2025-05-23T18:35:00+03:00'
         end_time: '2025-05-23T19:00:00+03:00'
@@ -210,19 +234,19 @@ data:
       - title: Politiikkaradio
         start_time: '2025-05-23T21:05:00+03:00'
         end_time: '2025-05-23T21:34:30+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Ruotsin kuningattaret'
         start_time: '2025-05-23T21:35:00+03:00'
-        end_time: '2025-05-23T22:24:30+03:00'
+        end_time: '2025-05-23T22:21:57+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-05-23T22:25:00+03:00'
-        end_time: '2025-05-23T23:15:00+03:00'
+        start_time: '2025-05-23T22:23:00+03:00'
+        end_time: '2025-05-23T23:11:16+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Kulttuurin kulmilla: Oopperaa kännyköiden valossa'
-        start_time: '2025-05-23T23:30:30+03:00'
-        end_time: '2025-05-23T23:39:00+03:00'
+        start_time: '2025-05-23T23:18:20+03:00'
+        end_time: '2025-05-23T23:26:17+03:00'
         description: |
           Kännykät pois kun oopperan alkusoitto alkaa, komentaa Timo Teräsvuori. Ohjelma on uusinta helmikuulta 2025.
       - title: Yöklassinen

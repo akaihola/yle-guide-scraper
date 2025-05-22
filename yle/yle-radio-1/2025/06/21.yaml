@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-21T02:35:02.405037+00:00'
+  generated_at: '2025-05-22T02:34:49.675886+00:00'
   git:
     branch: main
-    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
-  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
+    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
+  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
 data:
   Yle Radio 1:
     programmes:
@@ -31,8 +31,8 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-21T08:25:00+03:00'
         end_time: '2025-06-21T08:35:00+03:00'
-        description: |-
-          Maanantaista lauantaihin
+        description: |
+          Seurakuntatyöntekijä Mikael Takamaa, Adventtikirkko, Helsinki
       - title: 'Salatut eläimet: Susi'
         start_time: '2025-06-21T08:35:00+03:00'
         end_time: '2025-06-21T08:55:00+03:00'
@@ -45,9 +45,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-21T09:00:00+03:00'
         end_time: '2025-06-21T09:05:00+03:00'
-      - title: Muistojen bulevardi
+      - title: Juhannuksen Muistojen bulevardi
         start_time: '2025-06-21T09:05:40+03:00'
         end_time: '2025-06-21T09:58:00+03:00'
+        description: |-
+          Jora: Hauskaa, hauskaa (Arvi Tikkala).
+          Kansansäv.: Karjalan kunnailla (Ulla Katajavuori).
+          Gershwin: Kesäyö (Laila Kinnunen).
+          Valgre: Saaremaa valss (Georg Ots).
+          Ahlert: Sakta vi går genom stan (Monica Zetterlund).
+          Tolonen: Summer games (Jukka Tolonen).
+          Kansansäv.: Scarborough fair (Simon and Garfunkel).
+          Glanzberg: Padam, padam (Edith Piaf).
+          O. Merikanto: Kesäillan valssi (Kauko Käyhkö).
+          Vesterinen: Sirkkojen tanssi (Viljo Vesterinen).
+          Kuusi: Tämän kylän likat (Pihasoittajat). 
+          Alfven: Schweden-Mädel (Lys Assia ja Fred Weyrich).
+          Dimitriu: Maria lapsi auringon (Päivi Paunu).
+          Jones/Salvador: The midnight sun never sets (Arne Domnérus).
       - title: Yle Uutiset
         start_time: '2025-06-21T10:00:00+03:00'
         end_time: '2025-06-21T10:05:00+03:00'
@@ -114,7 +129,8 @@ data:
         start_time: '2025-06-21T18:00:00+03:00'
         end_time: '2025-06-21T18:10:00+03:00'
         description: |
-          Seurakuntapastori Sanna Hassinen, Järvenpää
+          "Kiitollisuus on sydämen asenne"
+          Lauantai-illan rukoushetkessä Seurakuntapastori Sanna Hassinen Järvenpäästä tarttuu ryteikön edessä raivaussahaan ja pohtii millaiseen maailmaan Johannes Kastaja tuli raivaamaan Jeesukselle tietä.
       - title: Lauantain toivotut levyt
         start_time: '2025-06-21T18:10:00+03:00'
         end_time: '2025-06-21T19:00:00+03:00'

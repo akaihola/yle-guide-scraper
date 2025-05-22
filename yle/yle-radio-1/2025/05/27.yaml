@@ -1,12 +1,49 @@
 metadata:
-  generated_at: '2025-05-21T02:34:56.488269+00:00'
+  generated_at: '2025-05-22T02:34:42.100970+00:00'
   git:
     branch: main
-    commit: 1724f9bc42962c9a2585833e58de19e4413b61ab
-  data_hash: 23b50adef937d46ff23ae494b14c3ce658a45f8d7d4454c3fc391db80a5be35b
+    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
+  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-05-26T23:40:00+03:00'
+        end_time: '2025-05-27T06:30:00+03:00'
+        description: |-
+          Meyerbeer: Gli Amori di Teolinda (Teolindan rakkaudet) (Júlia Várady, sopraano, Jorg Fadle, klarinetti,ja RIAS-kamarikuoron miesäänet sekä Berliinin radion SO/Gerd Albrecht).
+
+          00:17 Rahmaninov: Muunnelmia Chopinin teemasta (Daniil Trifonov, piano).
+
+          00:42 W.A. Mozart: Jousikvartetto n:o 21 D-duuri (Hagen-kvartetti).
+
+          01:06 Melartin: Piccola gavotta (Seppo Tukiainen, viulu, ja Tapani Valsta, piano).
+
+          01:10 Händel: Sonaatti nokkahuilulle ja continuolle C-duuri op.1/7 (Michel Piguet, nokkahuilu, Charles Medlam, sello, ja John Toll, cembalo).
+
+          01:21 Tshaikovski: Rokokoo-muunnelmia (Arto Noras, sello, ja RSO/Jukka-Pekka Saraste).
+
+          01:41 Witt: Concertino oboelle ja puhaltimille C-duuri (Paolo Grazzi ja Zefiro/Afredo Bernardini).
+
+          01:49 Hasse: Miserere d-molli (Simona Houda-Saturová, sopraano, Britta Schwarz, altto, sekä Dresdenin kamarikuoron naisäänet ja Dresdenin barokkiork./Hans-Christoph Rademann).
+
+          02:13 M. Haydn: Kvintetto jousille C-duuri (L'Archibudelli).
+
+          02:33 Dunhill: Fantasiasarja klarinetille ja pianolle (Einar Jóhannesson ja Philip Jenkins).
+
+          02:44 Castelnuovo-Tedesco: Osia sarj. Platero y yo (Harmo ja minä) (Andrés Segovia, kitara).
+
+          03:24 Hellendaal: Concerto grossot n:o 1-6 (Combattimento Consort Amsterdam/Jan Willem de Vriend).
+
+          04:40 Wilms: Sinfonia n:o 6 d-molli (Concerto Köln/Werner Ehrhardt).
+
+          05:13 Weber: Muunnelmia klarinetille ja pianolle B-duuri Silvana-oopperan teemasta (Gervase de Peyer ja Gwenneth Pryor).
+
+          05:23 Jiránek: Sonaatti kahdelle viululle ja continuolle B-duuri (Lenka Torgersen ja Helena Zemanová sekä Collegium Marianum/Jana Semerádová.
+
+          05:35 Ockeghem: De plus en plus, messu (The Tallis Scholars/Peter Phillips).
+
+          06:10 Vivaldi: Sonaatti viululle ja continuolle D-duuri (Baltic Baroque).
       - title: Hartaita säveliä
         start_time: '2025-05-27T06:30:50+03:00'
         end_time: '2025-05-27T06:50:00+03:00'
@@ -64,14 +101,14 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-05-27T09:05:40+03:00'
         end_time: '2025-05-27T09:58:00+03:00'
-        description: |-
-          Pockriss - Vance: Itsi Bitsi, Petit Bikini (Dalida).
-          Marsden: Ferry cross the Mersey  (Gerry and the Pacemakers)
-          Ellington: E and D blues (Ella Fitzgerald).
+        description: |
+          Vance/Pockriss: Itsi bitsi, petit bikini (Dalida).
+          Marsden: Ferry across the Mersey (Gerry and the Pacemakers).
+          Ellington: The E and D blues (Ella Fitzgerald ja Duke Ellington).
           Lennon/McCartney: Eleanor Rigby (The Beatles).
           Leander/Seago: Illasta aamuun (Jouko ja Kosti).
           Migliacci/Zambrini: Non son degno di te (Gianni Morandi).
-          Andersson/Ulvaeus: I Have a Dream (Abba).
+          Andersson/Ulvaeus: I have a dream (Abba).
           Käyhkö: Rempallaan (Justeeri).
           Wyche: Alright, okay, you win (Peggy Lee).
           Williams: Jambalaya (Juha Eirto).
