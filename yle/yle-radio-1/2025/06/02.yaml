@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-22T02:34:44.040113+00:00'
+  generated_at: '2025-05-23T02:34:44.947078+00:00'
   git:
     branch: main
-    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
-  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
+    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
+  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
 data:
   Yle Radio 1:
     programmes:
@@ -24,8 +24,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-02T06:50:00+03:00'
         end_time: '2025-06-02T06:59:59+03:00'
-        description: |-
-          Rovasti Riikka Wikström, Hankasalmi 
+        description: |
+          "Jumalan kämmenellä"
+          Rovasti Riikka Wikström Hankasalmelta kertoo mikä saa mummonsydämen muljahtelemaan ja huomaa levollisuuden lopulta löytyvän Jumalan kämmeneltä.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-02T07:00:00+03:00'
         end_time: '2025-06-02T07:10:00+03:00'

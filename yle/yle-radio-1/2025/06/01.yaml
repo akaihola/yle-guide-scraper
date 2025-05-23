@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-22T02:34:43.697373+00:00'
+  generated_at: '2025-05-23T02:34:44.701646+00:00'
   git:
     branch: main
-    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
-  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
+    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
+  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
 data:
   Yle Radio 1:
     programmes:
@@ -57,7 +57,7 @@ data:
           Bonagura/Carosone: Maruzzella (Renato Carosone).
           Merrill: Mambo italiano (Olavi Virta).
           Livingston: Kenpä tietäis sen (Seija Lampila).
-          Jobim: Vivo sonhando (Joao Gilberto & Stan Getz).
+          Jobim: Vivo sonhando (Joao Gilberto ja Stan Getz).
           Uhlenius: Pilvet karkaa - niin minäkin (Rauli 'Badding' Somerjoki).
           Carmichael: Skylark (Carmen McRae).
           Monnot: Hymne à l'amour (Päivi Paunu).
@@ -66,7 +66,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-01T12:00:00+03:00'
         end_time: '2025-06-01T12:05:00+03:00'
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Perintöverot ja niiden minimointi '
         start_time: '2025-06-01T12:05:00+03:00'
         end_time: '2025-06-01T12:57:00+03:00'
         description: |
@@ -79,6 +79,12 @@ data:
         end_time: '2025-06-01T13:57:00+03:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Marko Gustafsson
+        start_time: '2025-06-01T14:00:00+03:00'
+        end_time: '2025-06-01T14:50:00+03:00'
+        description: |
+          "On todella hämmentävää, että me uskomme näyttelijöiden esittämiin hahmoihin. Jännitämme ja iloitsemme heidän puolestaan, vaikka tiedämme, että he vain näyttelevät",  sanoo Kansallisteatterin pääohjaaja Esa Leskinen.
+          Hän muistuttaa, että ihminen on kautta historiansa ollut riippuvainen tarinoista ja on edelleen. "Me kulutamme valtavasti esimerkiksi erilaista suoratoistoviihdettä.  Olemme suorastaan riippuvaisia erilaisista tarinoista ja tämäkin pitäisi ottaa huomioon, kun kulttuurista leikataan", Leskinen muistuttaa.
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-01T14:50:00+03:00'
         end_time: '2025-06-01T14:55:00+03:00'

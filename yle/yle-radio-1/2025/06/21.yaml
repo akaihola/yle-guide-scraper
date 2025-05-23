@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-22T02:34:49.675886+00:00'
+  generated_at: '2025-05-23T02:34:51.116450+00:00'
   git:
     branch: main
-    commit: c15a6e214449aeb7e535f8e2670fa6b524752e5f
-  data_hash: 839b079b67efe37658dc7e0546ac2893fc7fc8f08a350fb0ba60621267c77d6b
+    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
+  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
 data:
   Yle Radio 1:
     programmes:
@@ -116,9 +116,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-21T16:00:00+03:00'
         end_time: '2025-06-21T16:10:00+03:00'
-      - title: Faunin iltapäivä
+      - title: Faunin iltapäivän juhannus
         start_time: '2025-06-21T16:10:00+03:00'
         end_time: '2025-06-21T16:59:00+03:00'
+        description: |
+          I. Hannikainen: Helvin ja Heikuran duetto "Oli juhla ja juhannusilta" näyt. Talkootanssit (Merja Wirkkala, sopraano, ja Juha Kotilainen, baritoni, sekä RSO/Petri Sakari).
+
+          Andrée: Allegro grazioso pastorale teoks. Sommarminnen (Kesämuistoja) (David Bergström ja Mattias Johansson, viulu, Bengt Ersson, alttoviulu, Lars-Erik Persson, sello, sekä Mats Larsson, kontrabasso).
+
+          Nykänen (sov.): Jo joutui armas aika (Jukka Nykänen, piano). 
+
+          O. Merikanto: Onnelliset (YL/Matti Hyökki, sekä Christoffer Sundqvist, klarinetti).
+
+          Backer-Gröndahl: Sommervise (Kesälaulu) (Islannin SO/Bjarte Engeset).
+
+          Linsén: Kesäpäivä Kangasalla (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano).
+
+          Brynnel: Midsommarvals (Sunniva Brynnel, harmonikka, Timo Alakotila, piano, Risto Salmi, sopraanosaksofoni, ja Hannu Rantanen, kontrabasso).
+
+          Peterson-Berger: Suvilaulu sarj. Frösön kukkia (Berliinin valtionoopperan ork./Armas Järnefelt).
+
+          Kuula (sov.): Kesäilta (Kaija Saarikettu, viulu, ja Raija Kerppo, piano).
+
+          M. Richter - Vivaldi: Summer 2 teoks. Four seasons recomposed (Daniel Hope, viulu, Max Richter, syntetisaattori, ja Konzerthaus Kammerorchester Berlin/André De Ridder).
+
+          Kilpinen: Kesäyö (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Pylkkänen: Sydänsuvella sarj. Kesäisiä kuvia (RSO/Petri Sakari). 
+
+          O. Merikanto (sov. J. Kuusisto): Kesäillan valssi (Pekka Kuusisto, viulu, ja Jaakko Kuusisto, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-21T17:00:00+03:00'
         end_time: '2025-06-21T17:10:00+03:00'
