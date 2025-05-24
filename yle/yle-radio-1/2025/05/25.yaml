@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:41.837824+00:00'
+  generated_at: '2025-05-24T02:32:51.560617+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: 411f352bef02488e70fa2c3a586aeb97cecf6f86
+  data_hash: f73732be2de429f0ab5700349dc22623ba2f078a39ef7b4fcc0da0a6e8127e52
 data:
   Yle Radio 1:
     programmes:
@@ -61,6 +61,11 @@ data:
 
           Lisäksi kuullaan otteita seuraavista teoksista:
           Johann Strauss: Cachucha-galoppi. Frantz Liszt: Sonaatti h-molli. Richard Wagner: Valkyyria. Johannes Brahms: Regenlied ja Nachklang.
+      - title: Radio 1 soi
+        start_time: '2025-05-25T07:51:35+03:00'
+        end_time: '2025-05-25T08:00:00+03:00'
+        description: |-
+          Respighi: Gianicolo-kukkulan pinjat sinf. runosta Rooman pinjoja (Pittsburghin SO/Lorin Maazel).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-25T08:00:00+03:00'
         end_time: '2025-05-25T08:05:05+03:00'
@@ -130,7 +135,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-25T14:50:00+03:00'
         end_time: '2025-05-25T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Julia Thurén: Näin varmistat, ettet joudu toista kertaa kesähäissä juhlapuhujaksi'
         start_time: '2025-05-25T14:55:00+03:00'
         end_time: '2025-05-25T15:00:00+03:00'
         description: |-
@@ -219,17 +224,22 @@ data:
         description: |
           Palveluksen toimittaa pastori Otto Laukkarinen 
           Kirkkokuoroa johtaa kanttori Sofia Laukkanen
+      - title: Radio 1 soi
+        start_time: '2025-05-25T20:44:53+03:00'
+        end_time: '2025-05-25T21:00:00+03:00'
+        description: |-
+          F. Lithander: Muunnelmia Haydnin teemasta A-duuri (Juhani Lagerspetz, piano).
       - title: Yle Uutiset
         start_time: '2025-05-25T21:00:00+03:00'
         end_time: '2025-05-25T21:02:05+03:00'
-      - title: Uutispodcast
-        start_time: '2025-05-25T21:03:00+03:00'
-        end_time: '2025-05-25T21:28:00+03:00'
+      - title: 'Uutispodcast: Heikki Heiskanen & Putinin pilarit: Sotarunoutta ja kivikasvoisia agentteja - näin kovaotteiset miehet omivat Venäjän kulttuurin'
+        start_time: '2025-05-25T21:03:11+03:00'
+        end_time: '2025-05-25T21:27:32+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
       - title: 'Klasariparatiisi: Sadelaulu'
-        start_time: '2025-05-25T21:29:00+03:00'
-        end_time: '2025-05-25T22:18:00+03:00'
+        start_time: '2025-05-25T21:28:51+03:00'
+        end_time: '2025-05-25T22:17:51+03:00'
         description: |
           Minkälainen kappale silittää korvaa, puhuu kuin ystävä ystävälle, kuuntelee ja aavistelee?
           Johannes Brahms sävelsi ensimmäisen viulu-pianosonaattinsa kypsässä 46-vuoden iässä.
@@ -241,9 +251,14 @@ data:
 
           Lisäksi kuullaan otteita seuraavista teoksista:
           Johann Strauss: Cachucha-galoppi. Frantz Liszt: Sonaatti h-molli. Richard Wagner: Valkyyria. Johannes Brahms: Regenlied ja Nachklang.
+      - title: Radio 1 soi
+        start_time: '2025-05-25T22:17:51+03:00'
+        end_time: '2025-05-25T22:22:58+03:00'
+        description: |-
+          J.S. Bach: Ich esse mit Freuden mein weniges Brot - aaria kantaatista n:o 84 (Kathleen Battle, sopraano, Itzhak Perlman, viulu, Stephen Taylor, oboe, Anthony Newman, cembalo, Daire Fitzgerald, sello, ja Lewis Paer, kontrabasso). 
       - title: 'Sari Valto:  Klassikkoromaani vai juorulehti? Miten kulttuurimakumme syntyy? '
-        start_time: '2025-05-25T22:27:00+03:00'
-        end_time: '2025-05-25T23:20:55+03:00'
+        start_time: '2025-05-25T22:22:58+03:00'
+        end_time: '2025-05-25T23:16:53+03:00'
         description: |-
           Millaisesta musiikista, kirjoista tai elokuvista pidät? Ei ole sattumaa, millainen kulttuurimaku meillä on. Osittain kulttuurimaku on jopa periytyvää.
 
@@ -251,14 +266,21 @@ data:
 
           Yliopistonlehtori Jarmo Kallunki Tampereen yliopistosta ja professori Sonja Kosunen Itä-Suomen yliopistosta keskustelevat.
       - title: 'Romano mirits: Puhutaan osallisuudesta'
-        start_time: '2025-05-25T23:24:40+03:00'
-        end_time: '2025-05-25T23:39:30+03:00'
+        start_time: '2025-05-25T23:17:52+03:00'
+        end_time: '2025-05-25T23:32:42+03:00'
         description: |-
           Vuoden 2025 alusta käynnistyi kaksivuotinen sosiaali- ja terveysministeriön hallinnoima Euroopan komission osarahoituksella hanke nimeltään 'Puhutaan osallisuudesta', romanikielellä Rakkavaha dielibosta. 
 
           Suomen Romaniyhdistys on hankkeen kumppanijärjestö ja heidän tehtävänään hankkeessa on romanilähtöinen vaikuttamistyö sekä tehdä tutummaksi antirasistista työtä sekä romanien omaa historiaa romaniväestölle. 
 
           Ohjelmassa keskustellaan hankkeessa suunnittelijana työskentelevän Ramona Schwartzin sekä kahden opiskelijan, Jessica Schwartzin ja Angelica Anki Frimanin kanssa. He kertovat kokemuksiaan kevään aikana tehdyistä useista maakunta vierailuista, niiden tunnelmista ja niissä käydyistä keskusteluista. Haastateltavien kanssa pohditaan myös osallisuuden merkitystä ja mitä se käytännössä tarkoittaa. Toimittaja on Janette Grönfors.
+      - title: 'Eilisen ääni: Katuhaastattelu Toijalassa: Kaipaatteko paikallisradiota?'
+        start_time: '2025-05-25T23:33:29+03:00'
+        end_time: '2025-05-25T23:39:10+03:00'
+        description: |-
+          Pirkko Kuopan juontamassa Päiväkatsauksessa kysyttiin lokakuussa 1983 Toijalan asukkaiden mielipidettä paikallisradioista ja radiomainoksista. Lisäksi Yleisradion ohjelmajohtaja Pekka Silvola kertoi Ylen paikallisradiosuunnitelmista. 
+
+          Ohjelman ensilähetys oli 19.10.1983.
       - title: Yöklassinen
         start_time: '2025-05-25T23:40:00+03:00'
         end_time: '2025-05-26T06:30:00+03:00'
