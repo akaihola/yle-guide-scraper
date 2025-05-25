@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:44.317401+00:00'
+  generated_at: '2025-05-25T02:38:18.938267+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: dc9580b10d8e03b34c504762d5b3ebbbbf9dd663
+  data_hash: c6a71ac2837439210577d1829920970d39db84134704576871f906ec026d7097
 data:
   Yle Radio 1:
     programmes:
@@ -148,9 +148,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-31T15:17:00+03:00'
         end_time: '2025-05-31T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Segoilla, kravatti, äijän pillu – karjalan kielen harhaanjohtavat sanat'
         start_time: '2025-05-31T15:30:00+03:00'
         end_time: '2025-05-31T15:55:00+03:00'
+        description: |-
+          ​Suomen ja karjalan kielen sanojen eroja pohtivat Pasi Heikuran kanssa kääntäjä Natalia Giloeva ja näyttelijä Timoi Munne.
       - title: Yle News
         start_time: '2025-05-31T15:55:00+03:00'
         end_time: '2025-05-31T15:58:00+03:00'
@@ -242,11 +244,11 @@ data:
           Viekö tekoäly ammattivalokuvaajien työt? Ja mitä pohtii ammattivalokuvaaja netistä löytyvistä kuvapalveluista, joista voi ladata ilmaiseksi laadukkaita valokuvia ja käyttää niitä omissa julkaisuissa. Ohjelmassa valokuvaajan ammatin ihanuutta ja kurjuutta pohtii katu- ja muotovalokuvaaja Oscar Wollsten.
 
           Maailmankuva avartuu, sivistys kasvaa ja historia valottaa tulevaisuutta. Toimittaja Petri Rinne reissaa perehtyneen uteliaasti kiinnostavien ilmiöiden ja haastateltavien luo.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Hyvä juontaminen'
         start_time: '2025-05-31T22:20:30+03:00'
         end_time: '2025-05-31T22:30:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Audiotuottaja Samuli Aaltonen puhuu juontamisen ja kielen välisestä suhteesta. Kuuluttajalla ja juontajalla tärkein asia on yhteys kuulijaan. Toimittajana on Jari Aula. Uusinta toukokuulta 2024.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2025-05-31T22:30:30+03:00'
         end_time: '2025-05-31T23:29:30+03:00'

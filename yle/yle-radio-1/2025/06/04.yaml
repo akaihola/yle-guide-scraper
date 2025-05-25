@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:45.712157+00:00'
+  generated_at: '2025-05-25T02:38:20.206368+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: dc9580b10d8e03b34c504762d5b3ebbbbf9dd663
+  data_hash: c6a71ac2837439210577d1829920970d39db84134704576871f906ec026d7097
 data:
   Yle Radio 1:
     programmes:
@@ -101,6 +101,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-04T16:10:00+03:00'
         end_time: '2025-06-04T16:59:00+03:00'
+        description: |
+          Kozeluch: Menuetti sinfoniasta C-duuri (Pardubicen valtiollinen kamariork./Marek Stilec).
+
+          W. A. Mozart: Andante ma adagio fagottikonsertosta B-duuri (Bram van Sambeek, fagotti, ja Ruotsalainen kamariork./Aleksei Ogrintshuk). 
+
+          Borodin: Serenadi espanjalaiseen tapaan (Borodin-kvartetti).
+
+          Iradier: La Paloma (Pepe Romero, kitara).
+
+          Bizet: Toreadorin aaria oopp. Carmen (Erwin Schrott, bassobaritoni, Wienin valtionoopperan kuoro ja Itävallan radion SO/Daniele Rustioni).
+
+          Rahmaninov: Danse orientale a-molli (Alban Gerhardt, sello, ja Markus Becker, piano). 
+
+          Chopin: Valssi n:o 4 F-duuri op.34/3 (Stephen Hough, piano).
+
+          Brescianello: Chaconne A-duuri (La Cetra).
+
+          J.S. Bach (sov. Rahmaninov): Gavotte en Rondeau, 3. osa partitasta nro 3 E-duuri (Vikingur Olafsson, piano). 
+
+          Händel: Piaceren aaria "Lascia la spina" orat. Il Trionfo del Tempo e del Disinganno (Julia Lezhneva, sopraano, ja Il Giardino Armonico/Giovanni Antonini). 
       - title: Yle Uutiset ja sää
         start_time: '2025-06-04T17:00:00+03:00'
         end_time: '2025-06-04T17:10:00+03:00'

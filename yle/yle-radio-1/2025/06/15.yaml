@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:49.629657+00:00'
+  generated_at: '2025-05-25T02:38:23.497215+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: dc9580b10d8e03b34c504762d5b3ebbbbf9dd663
+  data_hash: c6a71ac2837439210577d1829920970d39db84134704576871f906ec026d7097
 data:
   Yle Radio 1:
     programmes:
@@ -52,11 +52,6 @@ data:
         end_time: '2025-06-15T12:55:00+03:00'
         description: |
           Tarinoita talouden myllerryksistä.
-      - title: Välilevyjä - Kare Eskola
-        start_time: '2025-06-15T13:00:00+03:00'
-        end_time: '2025-06-15T13:57:00+03:00'
-        description: |
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Maarit Tastula - Yksi maailma, kaksi katsetta
         start_time: '2025-06-15T14:00:00+03:00'
         end_time: '2025-06-15T14:52:00+03:00'

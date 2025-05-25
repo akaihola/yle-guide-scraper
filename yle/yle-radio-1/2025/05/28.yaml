@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:43.021013+00:00'
+  generated_at: '2025-05-25T02:38:17.987411+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: dc9580b10d8e03b34c504762d5b3ebbbbf9dd663
+  data_hash: c6a71ac2837439210577d1829920970d39db84134704576871f906ec026d7097
 data:
   Yle Radio 1:
     programmes:
@@ -139,6 +139,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-05-28T16:10:00+03:00'
         end_time: '2025-05-28T16:59:00+03:00'
+        description: |
+          Weber: Henkien hallitsija, alkusoitto orkesterille (Venäjän kansallinen ork./Mihail Pletnjov).
+
+          Satie: Gnossienne nro 1 (Alexandre Tharaud, piano).
+
+          Hummel: Rondo konsertosta E-duuri (New Yorkin kamariork./Gerard Schwarz, trumpetti).
+
+          Gade: Allegro jousikvartetille a-molli (Kontra-kvartetti).
+
+          Milhaud: Segoviana (Osmo Palmu, kitara).
+
+          Schubert: Des Baches Wiegenlied laulusarj. Die schöne Müllerin (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          Reys: Ballet (Paul O'dette, luuttu). 
+
+          Paganini: Muunnelmia Mooses-oopperan teemasta viululle ja pianolle (David Oistrah ja Vladimir Jampolski).
+
+          Beethoven: Allegretto alla polacca serenadista D-duuri (Alexa Still, huilu, Robert Alemany, klarinetti, ja JoAnn Falletta, kitara).
+
+          Grieg: Preludi sarjasta Holbergin ajoilta (Australian kamariork./Richard Tognetti).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-28T17:00:00+03:00'
         end_time: '2025-05-28T17:10:00+03:00'

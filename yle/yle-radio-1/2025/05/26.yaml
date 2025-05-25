@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-23T02:34:42.244840+00:00'
+  generated_at: '2025-05-25T02:38:17.257257+00:00'
   git:
     branch: main
-    commit: d7d049f67cb4f1c159ae9706425a54445c7c1562
-  data_hash: 77f882d14d0ca6868abc3d85b4fee918968e1e50ff8643f3485923dea108786f
+    commit: dc9580b10d8e03b34c504762d5b3ebbbbf9dd663
+  data_hash: c6a71ac2837439210577d1829920970d39db84134704576871f906ec026d7097
 data:
   Yle Radio 1:
     programmes:
@@ -81,6 +81,9 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-26T08:10:00+03:00'
         end_time: '2025-05-26T09:00:00+03:00'
+        description: |-
+          Pohjoismaiden pääministerit kokoontuvat tänään Paimioon ja Turkuun epäviralliseen kesäkokoukseen.  Tapaamisen teemana on mm. kokonaisturvallisuuden vahvistaminen. Kysymme asiantuntijoilta, mitä tämä Pohjoismaiden yhteistyö merkitsee käytännössä. Toimittajamme Kiovasta kertoo, mitä tiedetään Ukrainan aseleponeuvotteluiden mahdollisesta etenemisestä. 
+          Lisäksi keskustelemme siitä, miten koulutyö sujuu, kun yhä suurempi osa oppimateriaaleista on digitaalisessa muodossa. Juontajana Markus Liimatainen. 
       - title: Yle Uutiset
         start_time: '2025-05-26T09:00:00+03:00'
         end_time: '2025-05-26T09:05:00+03:00'
@@ -110,7 +113,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-05-26T10:52:00+03:00'
         end_time: '2025-05-26T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Pohjoismaiden musiikinmestaruuskisat'
         start_time: '2025-05-26T11:00:00+03:00'
         end_time: '2025-05-26T11:57:00+03:00'
         description: |
@@ -137,7 +140,7 @@ data:
         start_time: '2025-05-26T13:30:00+03:00'
         end_time: '2025-05-26T15:00:00+03:00'
         description: |
-          Radio 1:n iltapäivän musiikissa soi etno, kevyt jazz ja populaarimusiikki. 
+          Radio 1:n iltapäivän musiikissa soi etno, kevyt jazz ja populaarimusiikki. N. klo 14 Heikki Puskalan haastattelussa on Kennelliiton toiminnanjohtaja Pirjo Onza. Suomessa arvoidaan olevan jopa 800 000 koiraa. Mitä koiraa hankkiessa on pohdittava? Uusinta tammikuulta. Juontajana Joni Timonen.
       - title: Yle Uutiset
         start_time: '2025-05-26T15:00:00+03:00'
         end_time: '2025-05-26T15:02:00+03:00'
@@ -145,11 +148,11 @@ data:
         start_time: '2025-05-26T15:02:00+03:00'
         end_time: '2025-05-26T15:55:00+03:00'
         description: |-
-          Mistä haavoittuvassa narsismissa on kysymys, ja miksi sitä havaitaan nyt enemmän? 
+          Miksi haavoittuva narsismi kiinnostaa juuri nyt, ja miten se näkyy yksilökeskeisessä digikulttuurissa? Miten erottaa haavoittuva narsismi tavallisesta herkkyydestä – ja voiko kulttuuri ruokkia uutta narsismia?
 
-          Keskustelemassa ovat HUS-psykiatrian kouluttajapsykoterapeutti Jan-Henry Stenberg ja yliopisto-opettaja, psykologian dosentti jarno Tuominen. Lähetyksessä kuullaan myös kokeellisen persoonallisuustutkimuksen uranuurtajaa, psykologia Liisa Keltikangas-Järvistä ja psykologia Jane-Veera Paakkolanvaaraa, joka käsittelee narsismia myös musiikin kautta levyllään”Ohutnahkainen narkissos”.
+          Keskustelemassa ovat HUS-psykiatrian kouluttajapsykoterapeutti Jan-Henry Stenberg ja yliopisto-opettaja, psykologian dosentti jarno Tuominen. Lähetyksessä kuullaan myös kokeellisen persoonallisuustutkimuksen uranuurtajaa, psykologia Liisa Keltikangas-Järvistä ja psykologia Jane-vaara Paakkolanvaaraa, joka käsittelee narsismia myös musiikin kautta levyllään”Ohutnahkainen narkissos”.
 
-          Toimittajana on Pauliina Grym. 
+          Lähetyksen toimittaa Pauliina Grym. 
       - title: Yle News
         start_time: '2025-05-26T15:55:00+03:00'
         end_time: '2025-05-26T15:58:00+03:00'
@@ -187,8 +190,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-05-26T17:10:00+03:00'
         end_time: '2025-05-26T17:34:20+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Gazan tilanne on synnyttänyt paljon puhetta, mutta tuleeko myös tekoja? Pöydällä ovat assosiaatiosopimus, Palestiinan tunnustaminen ja pakotteet Israelia kohtaan. Saako kansainvälinen yhteisö ja EU rivinsä suoraksi?  Atte Uusinokan vieraana on Tampereen yliopiston apulaisprofessori Rinna Kullaa. 
       - title: 'Keinuva talo - Mika Kauhanen: Joillekin muu maa on mansikka'
         start_time: '2025-05-26T17:35:00+03:00'
         end_time: '2025-05-26T18:34:20+03:00'
@@ -246,19 +249,30 @@ data:
       - title: Politiikkaradio
         start_time: '2025-05-26T21:05:00+03:00'
         end_time: '2025-05-26T21:34:30+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Näin kosketus vaikuttaa aivoihin - ihokontakti on ihmislajille elintärkeää'
         start_time: '2025-05-26T21:35:00+03:00'
-        end_time: '2025-05-26T22:24:30+03:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
+        end_time: '2025-05-26T22:21:21+03:00'
+        description: |+
+          Tutkimukset osoittavat, että jo kuukauden ikäisenä vauvan aivot reagoivat kosketukseen samalla tavalla kuin aikuisilla, mikä korostaa fyysisen läheisyyden merkitystä varhaisessa vuorovaikutuksessa. 
+
+          Miksi iholla on näin keskeinen merkitys? Haastateltavana: aivotutkija Jetro Tuulari ja ihotautien erikoislääkäri Carl Kyrklund. Toimittajana Minna Korhonen.
+
+      - title: Tarua ja totta toisesta maailmansodasta. Tähtiä ja konnia Pariisissa
         start_time: '2025-05-26T22:25:00+03:00'
-        end_time: '2025-05-26T22:44:30+03:00'
+        end_time: '2025-05-26T22:43:29+03:00'
+        description: |
+          Pariisi vapautettiin Natsi-Saksan vallasta elokuussa 1944. Näitä dramaattisia tapahtumia ja päiviä kuvaavaksi merkkiteokseksi on noussut Palaako Pariisi? -elokuva vuodelta 1966. Elokuvan tarinan ja historiallisten tosiasioiden taakse katsovat taidehistorioitsija kirjailija Anna Kortelainen ja toimittaja Jukka Kuosmanen. 
+
+          Sarjassa keskustellaan siitä kuinka toisesta maailmansodasta tehdyt elokuvat ovat vaikuttaneet maailmankuvaamme ja käsitykseemme historiallisista tosiasioista.
       - title: Näistä levyistä en luovu
         start_time: '2025-05-26T22:45:00+03:00'
-        end_time: '2025-05-26T23:39:00+03:00'
+        end_time: '2025-05-26T23:39:16+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Inari Tillin vieraana säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo.
+
+          Säveltäjä, pianisti ja musiikkipedagogi Esa Helasvuo on jo ehtinyt täyttää 80 vuotta, mutta ikä ei tunnu menoa haittaavan. Helasvuo soittaa pianoa edelleen vähintään tunnin verran päivässä pitääkseen sormet vetreinä tulevia keikkoja varten. Piano ja kosketinsoittimet kuuluvat paljon myös Näistä levyistä en luovu -ohjelman musiikkivalinnoissa, monessa eri muodossa.
+
+          Monen musiikin tyylilajin ohella jazzmusiikki on ollut Helasvuon elämässä mukana jo nuoruudesta lähtien. Useat ohjelmassa esiintyvistä artisteista ovat vaikuttaneet hänen omaan tyyliinsä ja tapaansa tehdä musiikkia.
       - title: Yöklassinen
         start_time: '2025-05-26T23:40:00+03:00'
         end_time: '2025-05-27T06:30:00+03:00'
