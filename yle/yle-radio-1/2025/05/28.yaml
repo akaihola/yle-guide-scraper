@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-26T02:35:53.121327+00:00'
+  generated_at: '2025-05-27T02:34:19.588298+00:00'
   git:
     branch: main
-    commit: 0492d82a2be7387a28e5cad6916473e3e8b37a11
-  data_hash: b135f773534319c85e5e58ef5149dae86399e04776fc57a7bad9c632fe4eef12
+    commit: 958533e2961b5b575765db86709153f6775b090d
+  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
 data:
   Yle Radio 1:
     programmes:
@@ -64,6 +64,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-05-28T07:10:00+03:00'
         end_time: '2025-05-28T07:59:59+03:00'
+        description: |+
+          L. Mozart: Allegro pasuunakonsertosta D-duuri (Teppo Alestalo, pasuuna, ja RSO/Dima Slobodeniouk).
+
+          Anton Rubinstein: Barcarolle G-duuri (Zora Mihailovich, piano).
+
+          Lachner: Im Mai (Mark Padmore, tenori, ja Kristian Bezuidenhout, fortepiano).
+
+          Falconieri: Gallarda (Matteo Mela ja Lorenzo Micheli, barokkikitara, sekä Massimo Lonardi, arkkiluuttu).
+
+          Batchelor: Preludi (Jeanell Carrigan, piano).
+
+          Pustinek Rakar: Remember (Singer Pur).
+
+          Aulin: Humoreski (Con Sordino).
+
+          Carreno: Lapsen uni (Clara Rodriguez, piano).
+
+          Netzel: Kehtolalulu ja Tarantella (Paula Gudmundson, huilu, ja Tracy Lipke-Perry, piano).
+
+          Fauré: Kitty-valssi sarjasta Dolly (Bostonin SO/Seiji Ozawa).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-05-28T08:00:00+03:00'
         end_time: '2025-05-28T08:10:00+03:00'
@@ -127,7 +148,10 @@ data:
         start_time: '2025-05-28T15:02:00+03:00'
         end_time: '2025-05-28T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Tanssia on pidetty nuoruuden ammattina, josta siirrytään viimeistään 40-vuotiaana katsomon puolelle. Tämä ei pidä enää paikkansa. Ikääntynet tanssijat ovat löytäneet takaisin lavalle. Heille on kysyntää ja myös yleisö on löytänyt heidät. Mistä ilmiössä on kyse? Ja mitä ikä tekee tanssijuudelle ja ajatukselle tanssista? 
+
+          Studiovieraina ovat 50+ kollektiivin perustanut Alpo Aaltokoski, ikäihmisten kanssa nykytanssiesityksiä tehnyt koreografi Susanna Leinonen sekä entinen balettitanssija Nina Hyvärinen, joka vuosien jälkeen palasi lavalle kahdella sooloteoksella. Eläköityneen, mutta täystyöllistetyn tähtitanssija Minna Tervamäen ajatuksia baletista ja ikääntymisestä kuullaan insertissä. 
+          Toiminttaja Liisa Vihmanen
       - title: Yle News
         start_time: '2025-05-28T15:55:00+03:00'
         end_time: '2025-05-28T15:58:00+03:00'
@@ -152,7 +176,7 @@ data:
 
           Schubert: Des Baches Wiegenlied laulusarj. Die schöne Müllerin (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
 
-          Reys: Ballet (Paul O'dette, luuttu). 
+          Reys: Ballet (Paul O'Dette, luuttu). 
 
           Paganini: Muunnelmia Mooses-oopperan teemasta viululle ja pianolle (David Oistrah ja Vladimir Jampolski).
 
@@ -177,18 +201,80 @@ data:
         end_time: '2025-05-28T22:00:00+03:00'
         description: |-
           Suorassa lähetyksessä mukana neljä finalistia, Radion sinfoniaorkesteri ja Helsingin kaupunginorkesteri johtajinaan Dima Slobodeniouk ja Pekka Kuusisto. Kilpailusuorituksia kommentoi viulisti-kapellimestari Jukka Untamala.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-05-28T22:00:00+03:00'
+        end_time: '2025-05-28T22:15:00+03:00'
       - title: Iltahartaus
         start_time: '2025-05-28T22:15:00+03:00'
         end_time: '2025-05-28T22:25:00+03:00'
         description: |
           "25. Minä uskon - auta minua epäuskossani"
           Professori Veli-Matti Kärkkäinen, Temple City, Kalifornia kysyy, miten kirkkoa voi kutsua parhaalla tahdollakaan pyhäksi? Hartaus jatkaa keskeisiä kristillisiä oppeja moniarvoissa maailmassa käsittelevää sarjaa. Tämä on 25. osa.
-      - title: 'Radioteatteri esittää:'
+      - title: 'Jussi Halla-aho - kylmä peli: Jakso 1 Kitara ja kissapaita '
         start_time: '2025-05-28T22:30:00+03:00'
-        end_time: '2025-05-28T22:50:30+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-05-28T22:50:30+03:00'
-        end_time: '2025-05-28T23:12:30+03:00'
+        end_time: '2025-05-28T22:54:11+03:00'
+        description: |+
+          Koulukiusattu Jussi Halla-aho päättää tulla kaikkien ihailemaksi metallikitaristiksi. Yliopistossa Jussi rakastuu Hillaansa – mutta tuntee, ettei kukaan ymmärrä hänen radikaaleja ajatuksiaan ihmisten tasa-arvosta ja rodusta. Verkossa on toisin ja Jussi perustaa sivustonsa Scripta – kirjoituksia uppoavasta lännestä. Siellä hän saa sivaltaa sanan säilällä kaikkia molopäitä.
+
+          Jussi Halla-aho - 		Jussi Vatanen	
+          Timo Soini - 			Hannu-Pekka Björkman	
+          Hilla Halla-aho - 		Nora Rinne	
+          Jussin äiti - 			Heli Sutela	
+          Ylli Halla-aho, Jussin isä - 	Jouko Puolanto	
+          Matias Turkkila - 		Ylermi Rajamaa	
+          Irwin Goodman - 		Jukka Puotila	
+          Jussi lapsena - 			Aaron Hukka	
+          Kiusaaja poika 1 - 		 Eino Korhonen	
+          Kiusaaja poika 2 - 		Jyrki Hakanen	
+          Kiusaaja poika 3 - 		 Lauri Koivisto	
+          Leopold Bergroth - 		Jukka Puotila	
+          Matkalainen 1 - 			Pekka Ruohoranta	
+          Matkalainen 2 - 			Risto Karhula	
+          Rehtori - 			Mika Ojamies	
+          Fear metallilehden toimittaja - 	Akseli Iivisniemi	
+          Rumpali Janne - 		Tuure Ollila	
+          Basisti - 			Eemeli Saminen	
+          Uutistenlukijat:                     
+          Annukka Vastela
+          Lauri Koivisto	
+          	                               	Miikkapekka Heikkilä	
+
+      - title: 'Jussi Halla-aho - kylmä peli: Jakso 2  Rakkaus ja Tony Halme '
+        start_time: '2025-05-28T22:54:11+03:00'
+        end_time: '2025-05-28T23:17:07+03:00'
+        description: |+
+          Kannatusta hamuava Timo Soini pyytää Tony Halmetta Perussuomalaisiin, vaikka tietää sen isoksi riskiksi. Tony Halme saa äänivyöryn, myös Jussi Halla-aho äänestää häntä. Jussilla on rakkauden kesä ja häät. Tunnelma yliopistolla kiristyy ja Jussi uskoo, että länsimaiden on valittava sodan ja tuhoutumisensa välillä. 
+
+          Jussi Halla-aho - 		Jussi Vatanen
+          Hilla Halla-aho - 		Nora Rinne
+          Timo Soini - 			Hannu-Pekka Björkman
+          Tony Halme - 			Severi Saarinen
+          Matias Turkkila - 		Ylermi Rajamaa
+          Jussi Niinistö - 			Ilkka Villi
+          Elisa - 				Sara Soulié
+          Nahkapää - 			Anssi Tamminen
+          Nahkapää - 			Niko Kelkka
+          Ruben Stiller - 			Ruben Stiller
+          Leif Salmén - 			Jukka Puotila
+          Pikku poika - 			Aaron Hukka
+          	
+          Humanistit:	
+          	                       		Venla Airaksinen
+          	                       		Lauri Airaksinen
+                                                  Caro Aho
+          	                       		Miikapekka Heikkilä
+          	
+          Uutistenlukijat: 
+                                       		Annukka Vastela
+          	                     		Venla Airaksinen
+          	                    		Antti Karhumäki
+          	                     		Lauri Airaksinen
+          	                     		Matti Kajander
+          	                    		Miikapekka Heikkilä
+          	                    		Mika Ojamies
+
+
+
       - title: Yöklassinen
         start_time: '2025-05-28T23:40:00+03:00'
         end_time: '2025-05-29T06:30:00+03:00'

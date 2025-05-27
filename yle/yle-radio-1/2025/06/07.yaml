@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-26T02:35:58.490615+00:00'
+  generated_at: '2025-05-27T02:34:22.379422+00:00'
   git:
     branch: main
-    commit: 0492d82a2be7387a28e5cad6916473e3e8b37a11
-  data_hash: b135f773534319c85e5e58ef5149dae86399e04776fc57a7bad9c632fe4eef12
+    commit: 958533e2961b5b575765db86709153f6775b090d
+  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
 data:
   Yle Radio 1:
     programmes:
@@ -44,12 +44,29 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-07T09:05:40+03:00'
         end_time: '2025-06-07T09:58:00+03:00'
+        description: |-
+          Chaplin: Smile (Ferrante and Teicher).
+          W.A. Mozart: Mozart 40 (Päivi Paunu ja Aarno Raninen).
+          Delpech/Vincent: Pour un flirt (Michel Delpech).
+          Coots: You go to my head (Judy Garland).
+          Calvi: One of those songs (Liza Minnelli).
+          Mäkinen: Kotkan ruusu (Pauli Räsänen).
+          Kansansäv.: El condor pasa (Simon and Garfunkel ja Los Incas).
+          Kärki: Jos vielä oot vapaa (Markus).
+          Frizzi: Ibo lele (Fabio Frizzi). 
+          Lecuona: Siboney (Caterina Valente).
+          Coleman: Venezuela (Harry Belafonte).
+          Azevedo: Delicado (Percy Faith).
+          Buarque de Hollanda: En katso naamion taa (Kristina Hautala).
+          Kansansäv.: When Johnny comes marching home (Pihasoittajat).
       - title: Yle Uutiset
         start_time: '2025-06-07T10:00:00+03:00'
         end_time: '2025-06-07T10:05:00+03:00'
-      - title: KC Kirjat
+      - title: 'KC Kirjat: Kirjoja uskosta ja totuudesta'
         start_time: '2025-06-07T10:05:00+03:00'
         end_time: '2025-06-07T10:35:00+03:00'
+        description: |
+          Terhi Törmälehdon romaanissa He ovat suolaa ja valoa uskotaan ehdoitta Jumalaan. Matti Kangaskosken kirja Kosmos ja kuolema kuvaa virtuaalitodellisuuden vaikutusta. Johannes Anyurun Ixellesissä totuus peittyy tarinalla.
       - title: Rytmikamari
         start_time: '2025-06-07T10:35:00+03:00'
         end_time: '2025-06-07T11:00:00+03:00'
@@ -132,7 +149,7 @@ data:
         end_time: '2025-06-07T17:57:00+03:00'
         description: |
           Miia Krause - kiinnostavia ajattelijoita ja oivaltavaa keskustelua. Maailma ei ole vielä valmis, mutta tämän jälkeen piirun verran parempi. Liity seuraan!
-      - title: Ehtookellot
+      - title: 'Ehtookellot: Haapaveden kirkon kellot '
         start_time: '2025-06-07T18:00:00+03:00'
         end_time: '2025-06-07T18:01:00+03:00'
       - title: Iltahartaus

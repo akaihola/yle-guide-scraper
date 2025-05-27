@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-26T02:35:56.538236+00:00'
+  generated_at: '2025-05-27T02:34:21.257112+00:00'
   git:
     branch: main
-    commit: 0492d82a2be7387a28e5cad6916473e3e8b37a11
-  data_hash: b135f773534319c85e5e58ef5149dae86399e04776fc57a7bad9c632fe4eef12
+    commit: 958533e2961b5b575765db86709153f6775b090d
+  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
 data:
   Yle Radio 1:
     programmes:
@@ -100,7 +100,7 @@ data:
         start_time: '2025-06-03T12:00:00+03:00'
         end_time: '2025-06-03T12:10:00+03:00'
       - title: 'Tarua ja totta toisesta maailmansodasta. Natsi-Saksan sankareita '
-        start_time: '2025-06-03T12:10:40+03:00'
+        start_time: '2025-06-03T12:10:00+03:00'
         end_time: '2025-06-03T12:30:00+03:00'
         description: |
           Natsi-Saksassa tehtiin sodan aikana paljon elokuvia. Propagandakoneisto suorastaan tehtaili niitä. Millaisia olivat näiden elokuvien sankarit? Voisiko näitä elokuvia taas näyttää Suomessa? Natsi-Saksan näkökulmaa edustavista elokuvista keskustelevat Kavin erikoistutkija Jari Sedergren ja toimittaja Jukka Kuosmanen. 
@@ -167,48 +167,54 @@ data:
       - title: 'Radioteatteri esittää:'
         start_time: '2025-06-03T19:02:40+03:00'
         end_time: '2025-06-03T19:28:00+03:00'
-        description: |
+        description: |+
           Jussi Halla-ahon tuomio uskonrauhan rikkomisesta kovenee hovioikeudessa, mutta hän näkee tuomiossa myös paljon mahdollisuuksia. Suomen Sisun keskustelupiirissä Jussi ystävystyy Matias Turkkilan kanssa. Hän myös tapaa kiinnostavan nuoren naisen, Elisan, joka tuntuu jakavan hänen arvonsa. Jussi jatkaa kärjekkäitä kirjoituksiaan Hommaforumissa ja kerää yhä laajempaa kannatusta sekä kasvavaa vastustusta. Timo Soini hyväksyy Jussin puolueen jäseneksi ja saa riesakseen maahanmuuttoa vastustavat nuivat. 
 
-          Jussi Halla-aho  -	Jussi Vatanen
-          Hilla Halla-aho	  - Nora Rinne
-          Timo Soini	 - Hannu-Pekka Björkman
-          Riikka Purra	 -  Elena Leeve
-          Matias Turkkila  -	Ylermi Rajamaa
-          Matti Putkonen  -	Kari Hietalahti
-          Elisa   -	Sara Soulié
-          Juho Eerola  -	Kris Gummerus
-          Teuvo Hakkarinen  -	Jarkko Tamminen
-          Hyppymestari  -	Akseli Iivisniemi
-          Jäsen 1	 - Antti Karhumäki
-          Jäsen 2	 - Tatu Tamminen
-          Jäasen	 - Paavo Rytsä
+          Jussi Halla-aho - 		Jussi Vatanen
+          Hilla Halla-aho - 		Nora Rinne
+          Timo Soini - 			Hannu-Pekka Björkman
+          Riikka Purra - 			Elena Leeve
+          Matias Turkkila - 		Ylermi Rajamaa
+          Matti Putkonen - 		Kari Hietalahti
+          Elisa - 				Sara Soulié
+          Juho Eerola - 			Kris Gummerus
+          Teuvo Hakkarainen - 		Jarkko Tamminen
+          Hyppymestari - 			Akseli Iivisniemi
+          Jäsen 1	 - 			Antti Karhumäki
+          Jäsen 2	 - 			Tatu Tamminen
+          Jäsen 3 - 			Paavo Rytsä
+          Tuomari - 			 Lauri Koivisto
+          Ravikuuluttaja - 			Jukka Puotila
+          Vartija - 			Suvi Salokoski
+
           Kannattajat:	
           Antti Karhumäki
           Teemu Sipilä
-          Tuomari	 - Lauri Koivisto
-          Ravikuuluttaja	 -Jukka Puotila
-          Vartija	 - Suvi Salokoski
 
           Sukulaiset:
-          	Laura Jaakkola
-          	Esa Kerttula
-          	Tatu Tamminen
-          	Niina Hosiasluoma
+          				Laura Jaakkola
+          				Pekka Vitikka
+          				Tatu Tamminen
+          				Niina Hosiasluoma
           	
           Persut: 	
           Laura Jaakkola
-          	Matti Kajander
-          	Paula Salminen
+          Matti Kajander
+          Rainer Korhonen
           	
           Uutistenlukijat ja toimittajat:
-          	Eveliina Solja
-          	Venla Airaksinen
-          	Lauri Airaksinen
-          	Matti Kajander
-          	Miira Karhula
-          	Mikkapekka Heikkilä
-          		Niina Hosiasluoma
+          				Eveliina Solja
+          				Venla Airaksinen
+          				Lauri Airaksinen
+          Maija Salminen
+          				Matti Kajander
+          				Miira Karhula
+          				Miikkapekka Heikkilä
+          				Niina Hosiasluoma
+                  
+                  
+
+
       - title: 'Radioteatteri esittää:'
         start_time: '2025-06-03T19:28:00+03:00'
         end_time: '2025-06-03T19:53:00+03:00'
@@ -216,31 +222,32 @@ data:
           Jussi Halla-aho, Matias Turkkila ja Matti Putkonen ihmettelevät Timo Soinia, joka ei ole entisensä, mutta salaa syyt. Jussi on meppinä Brysselissä, mutta Hilla ja lapset Suomessa. Jussin ja Elisan suhde jatkuu. Jussi ja muut maahanmuuttovastaiset julkaisevat Nuivan manifestin, jolla he haluavat muuttaa puolueen suuntaa. Jatkojytky vie Perussuomalaiset eduskuntaan ja puolueen sisäinen hajaannus pahenee. Jussille ja Elisalle syntyy lapsi, ja Jussin pitää tehdä isoja valintoja avioliittonsa ja tulevaisuutensa suhteen. 
 
 
-          Jussi Halla-aho -	Jussi Vatanen
-          Hilla Halla-aho  - 	Nora Rinne
-          Timo Soin  -i	Hannu-Pekka Björkman
-          Riikka Purra  -	Elena Leeve
-          Matias Turkkila  -	Ylermi Rajamaa
-          Matti Putkonen  -	Kari Hietalahti
-          Elisa   -	Sara Soulié
-          Stephen Sackur  -	Kris Gummerus
-          Jari Lindström  -	Matti Ristinen
-          Teuvo Hakkarainen  -	Jarkko Tamminen
-          Juho Eerola  -	Kris Gummerus
-          Sebastian Tynkkynen  -	Aleksi Sariola
-          Kansalainen   -	Matti Kajander
-          Timo Soinin vaimo  -	Annukka Vastela
-          Kätilö  -	Niina Hosiasluoma
-          Persurouva - Hansku Kurkela
+          Jussi Halla-aho - 		Jussi Vatanen
+          Hilla Halla-aho - 		Nora Rinne
+          Timo Soini - 			Hannu-Pekka Björkman
+          Riikka Purra - 			Elena Leeve
+          Matias Turkkila - 		Ylermi Rajamaa
+          Matti Putkonen - 		Kari Hietalahti
+          Elisa - 				Sara Soulié
+          Stephen Sackur - 		Kris Gummerus
+          Jari Lindström - 			Matti Ristinen
+          Teuvo Hakkarainen - 		Jarkko Tamminen
+          Juho Eerola - 			Kris Gummerus
+          Sebastian Tynkkynen - 		Aleksi Sariola
+          Kansalainen - 			Matti Kajander
+          Timo Soinin vaimo - 		Annukka Vastela
+          Kätilö - 				Niina Hosiasluoma
+          Persurouva - 			Hansku Kurkela
           	
           	
-          Uutistenlukijat ja toimittajat:
-          	Antti Karhumäki
-          	Anne Haaja
-          	Sanna Pirkkalainen
-          	Paavo Häikiö
-          	Kati Turtola
-          	Olli Junes
+          Uutistenlukijat ja toimittajat
+           				Tiina Lundberg:
+          				Antti Karhumäki
+          				Anne Haaja
+          				Sanna Pirkkalainen
+          				Paavo Häikiö
+          				Kati Turtola
+          				Olli Junes
 
       - title: 'Tarua ja totta toisesta maailmansodasta. Natsi-Saksan sankareita '
         start_time: '2025-06-03T20:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-26T02:36:03.019635+00:00'
+  generated_at: '2025-05-27T02:34:24.874629+00:00'
   git:
     branch: main
-    commit: 0492d82a2be7387a28e5cad6916473e3e8b37a11
-  data_hash: b135f773534319c85e5e58ef5149dae86399e04776fc57a7bad9c632fe4eef12
+    commit: 958533e2961b5b575765db86709153f6775b090d
+  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-17T06:50:00+03:00'
         end_time: '2025-06-17T06:59:59+03:00'
-        description: |-
-          Teologian tohtori Marjukka Laiho, Hämeenlinna
+        description: |
+          "Pysähtymisen hetki"
+          Teologian tohtori Marjukka Laiho Hämeenlinnasta sanoittaa lähestyvän juhannuksen tuomaa pysähtymisen kaipuuta ja pohtii mökkisaunan lämmöstä löytyvää ajatonta pyhän kosketusta.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-17T07:00:00+03:00'
         end_time: '2025-06-17T07:10:00+03:00'
@@ -134,30 +135,33 @@ data:
         description: |+
           Jussi Halla-aho tajuaa näytelleensä sivuosaa poliittisessa teatterissa, jossa kokeneet pelin poliitikot pettivät hänet. Perussuomalainen puolue hajoaa, kun Soinilaiset loikkaavat puolueesta ja perustavat uuden eduskuntaryhmän. Pääministeri lentää yksityiskoneellaan Kultarantaan tekemään eroilmoitusta, mutta kääntyy takaisin, kun kuulee, että hallitus voi sittenkin jatkaa. Perussuomalaisten kannatus romahtaa ja Eduskuntavaaleihin on enää pari vuotta. Ehtiikö Jussi nostaa puolueen suurten joukkoon, missä Suomea hallitaan? 
 
-          Jussi Halla-aho  - 	Jussi Vatanen	
-          Hilla Halla-aho  - 	Nora Rinne	
-          Timo Soini  - 	Hannu-Pekka Björkman	
-          Riikka Purra  - 	Elena Leeve	
-          Matias Turkkila  - 	Ylermi Rajamaa	
-          Matti Putkonen  -	Kari Hietalahti	
-          Simon Elo  - 	Johannes Holopainen	
-          Samuli Virtanen  -  	Pelle Heikkilä	
-          Sampo Terho  - 	Jussi Nikkilä	
-          Juha Sipilä  - 	Jukka Puotila	
-          Laura Huhtasaari  - 	Katariina Havukainen	
-          Toimi Kankaanniemi	Pekka Ruohoranta	
-          Sauli Niinistö  - 	Jukka Puotila	
-          Juha Sipilä	  -Jukka Puotila	
-          Petteri Orpo  -	Jarkko Tamminen	
-          Sebastian Tynkkynen  -	Aleksi Sariola	
-          Lennonjohto  -  	Inka Hannonen	
+          Jussi Halla-aho - 		Jussi Vatanen	
+          Hilla Halla-aho - 		Nora Rinne	
+          Timo Soini - 			Hannu-Pekka Björkman	
+          Riikka Purra - 			Elena Leeve	
+          Matias Turkkila - 		Ylermi Rajamaa	
+          Matti Putkonen - 		Kari Hietalahti	
+          Simon Elo - 			Johannes Holopainen	
+          Samuli Virtanen - 		Pelle Heikkilä	
+          Sampo Terho - 			Jussi Nikkilä	
+          Juha Sipilä - 			Jukka Puotila	
+          Laura Huhtasaari - 		Katariina Havukainen	
+          Toimi Kankaanniemi - 		Pekka Ruohoranta	
+          Sauli Niinistö - 			Jukka Puotila	
+          Juha Sipilä - 			Jukka Puotila	
+          Petteri Orpo - 			Jarkko Tamminen	
+          Hotellivirkailija - 		Laura Jaakkola
+          Lennonjohto - 			Inka Hannonen	
+          Kuljettaja - 			Paavo Häikiö
           		
           Uutistenlukijat ja toimittajat:
-          	Kati Turtola	
-          	Heli Vartiainen	
-          	Aino Töllinen	
-          	Antti Karhumäki	
-          	Hanna Laakkonen	
+          Hanna Laakkonen
+          Outi Roivainen
+          Paavo Rytsä
+          Kati Turtola	
+          Heli Vartiainen	
+          Aino Töllinen	
+
 
       - title: 'Radioteatteri esittää:'
         start_time: '2025-06-17T19:28:00+03:00'
@@ -165,42 +169,43 @@ data:
         description: |+
           Perussuomalaiset ja SDP vaaleissa lähes tasoissa ja tarkastuslaskennan jälkeen Perussuomalaiset on toiseksi suurin puolue. Jussi Halla-aho valitaan eduskunnan puhemieheksi, mikä hivelee häntä. Jussi on herra ja puhemies, tasavallan hierarkiassa toisena heti presidentin jälkeen. Vaikka Jussi tietää, että on satuttanut läheisiään taistellessaan vallasta, hän haluaa perheen tukevan häntä vielä kerran - presidentinvaalissa. Vaalikiertueella Jussi ystävystyy muiden ehdokkaiden kanssa ja lähes nauttii vierailusta Elämäni biisi -ohjelmassa. Jussi toivoo, että Riikka Purra kestää paineen niin kauan, että Jussin tärkeät tavoitteet toteutuvat. 
 
-          Jussi Halla-aho  - 	Jussi Vatanen
-          Hilla Halla-aho  - 	Nora Rinne
-          Timo Soini  - 	Hannu-Pekka Björkman
-          Riikka Purra  - 	Elena Leeve
-          Matias Turkkila  - 	Ylermi Rajamaa
-          Matti Putkonen  - 	Kari Hietalahti
-          Laura Huhtasaari  - 	Katariina Havukainen
-          Tarja Filatov  - 	Niina Hosiasluoma
-          Pekka Kataja  - 	Lauri Koivisto
-          Mies  -  	Anders Wiksten
-          Alepan kassa  - 	Annukka Vastela
-          Turkulainen kaveri  - 	Eemeli Salminen
-          Katja Ståhl  - 	Katja Ståhl
-          Ylioppilas	  - Inka Hannonen
 
-          Äänestäjät:
-          	Pekka Vitikka
-          	Risto Karhula
-          	Olli Aimola
-          	Laura Jaakkola
+          Jussi Halla-aho - 			Jussi Vatanen
+          Hilla Halla-aho - 			Nora Rinne
+          Timo Soini - 				Hannu-Pekka Björkman
+          Riikka Purra - 				Elena Leeve
+          Matias Turkkila - 			Ylermi Rajamaa
+          Matti Putkonen - 			Kari Hietalahti
+          Laura Huhtasaari - 			Katariina Havukainen
+          Tarja Filatov - 				Niina Hosiasluoma
+          Pekka Kataja - 				Lauri Koivisto
+          Mies - 					Anders Wiksten
+          Alepan kassa - 				Annukka Vastela
+          Turkulainen kaveri - 			Eemeli Salminen
+          Katja Ståhl - 				Katja Ståhl
 
-          Anttifantit:: 
-          	Tuure Ollilla
-          	Eveliina Solja
-          	Frida Lähdesmäki
-          	Olga Lähdesmäki
+          Äänestäjät / puolueen jäsenet		Pekka Vitikka
+          					Risto Karhula
+          					Olli Aimola
+          					Laura Jaakkola
+          Paavo Rytsä
+          Kati Turtola
+
+          Anttifantit: 
+          					Tuure Ollila
+          					Eveliina Solja
+          					Frida Lähdesmäki
+          					Olga Lähdesmäki
 
           	
-          Uutistenlukijat jatoimittajat:
-          	Hanna Laakkoen
-          	Paavo Häikiö
-          	Antti Karhumäki
-          	Esa Kerttula
-          	Risto Karhula
-          	Kati Turtola
-          	Tatu Tamminen
+          Uutistenlukijat ja toimittajat:
+          					Hanna Laakkonen
+          					Antti Karhumäki
+          Laura Jaakkola
+          					Paavo Rytsä
+          					Kati Turtola
+          					Tatu Tamminen
+
 
 
       - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Täydellinen keksintö'

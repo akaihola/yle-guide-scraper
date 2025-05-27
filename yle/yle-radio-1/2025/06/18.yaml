@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-26T02:36:03.676565+00:00'
+  generated_at: '2025-05-27T02:34:25.064326+00:00'
   git:
     branch: main
-    commit: 0492d82a2be7387a28e5cad6916473e3e8b37a11
-  data_hash: b135f773534319c85e5e58ef5149dae86399e04776fc57a7bad9c632fe4eef12
+    commit: 958533e2961b5b575765db86709153f6775b090d
+  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-18T07:10:00+03:00'
         end_time: '2025-06-18T07:59:59+03:00'
+        description: |+
+          Carreño: Pieni valssi (Alexandra Oehler, piano).
+
+          W.A. Mozart: Tertsetto sarjasta puhaltimille oopperan Figaron häät kohtauksista (Mozzafiato).
+
+          Mendelssohn: Intermezzo näyt. Kesäyön unelma (Chicagon SO/James Levine).
+
+          Grovlez: Sicilienne ja Allegro giocoso (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
+
+          Massenet: Meditaatio oopp. Thaïs (Reka Szilvay, viulu, ja Naoko Ichihashi, piano).
+
+          Gaubert: Nokturni ja Allegro scherzando (Susan Milan, huilu, ja Ian Brown, piano).
+
+          Giordani: Caro mio ben (Jozsef Mukk, tenori, ja Camerata Budapest/Laszlo Kovacs).
+
+          Gnattali: Ballad samba (Sharon Isbin, Larry Coryell ja Laurindo Almeida, kitara).
+
+          Tshaikovski: Espanjalainen tanssi bal. Joutsenlampi (Chicagon SO/Georg Solti).
+
+          Satie: Le Piccadilly (Janne Mertanen, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-18T08:00:00+03:00'
         end_time: '2025-06-18T08:10:00+03:00'
@@ -84,6 +105,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-18T16:10:00+03:00'
         end_time: '2025-06-18T16:59:00+03:00'
+        description: |
+          J.S. Bach: Alttoaaria "Kommt, ihr angeflochtnen Sünder" Johannes Kastajan päivän kantaatista (Magdalena Kozena, mezzosopraano, ja Musica Florea/Marek Stryncl). 
+
+          Madetoja: Suvi-illan vieno tuuli (PK/Juha Kuivanen).
+
+          Schubert (sov. Lee) Die Sommernacht (Kesäyö) (Trey Lee, sello, ja Georgi Tshaidze, piano). 
+
+          Mendelssohn: Notturno musiikista näytelmään Kesäyön unelma (Ruotsalainen kamariork., joht. Thomas Dausgaard).
+
+          Schumann: Balladi n:o 3 (Den Runenstein in der Sommernacht) sarj. Vom Pagen und der Königstochter (Viron filharmonian kamarikuoro ja Helsingin barokkiork./Aapo Häkkinen). 
+
+          Sibelius: Sommarnatten (Kesäyö) (Hedvig Paulig, sopraano, ja Folke Gräsbeck, piano). 
+
+          Vierne: Air á danser (Sergio Monteiro, piano). 
+
+          Malibran: La Voix qui dit: je t'aime (Cristina Bayon, sopraano, ja Jesus Pineda, kitara). 
+
+          Prokofjev (sov. Pletnjov): Galoppi bal. Tuhkimo (Martha Argerich ja Mihail Pletnjov, piano).
+
+          Kaski: Preludi orkesterille Ges-duuri (Oulu Sinfonia/Rumon Gamba). 
+
+          Merikanto (sov. Sjöblom): Kesäillan valssi (Radiosekstetti 2020). 
       - title: Yle Uutiset ja sää
         start_time: '2025-06-18T17:00:00+03:00'
         end_time: '2025-06-18T17:10:00+03:00'
@@ -92,11 +135,11 @@ data:
         end_time: '2025-06-18T17:34:20+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Jazz ja juhannusyön tanssi'
         start_time: '2025-06-18T17:35:00+03:00'
         end_time: '2025-06-18T18:35:00+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Juhannusöisin saattaa tanssia jopa niin myöhälle, että näkee sumun nousevan veden ylle ja lintujen alkavan laulamaan. Tämä on Laura Korhosen Jazzklubin tanssiinkutsu, tervetuloa mukaan!
       - title: Hartaita säveliä
         start_time: '2025-06-18T18:35:00+03:00'
         end_time: '2025-06-18T18:50:00+03:00'
