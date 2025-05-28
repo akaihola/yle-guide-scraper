@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-27T02:34:23.006533+00:00'
+  generated_at: '2025-05-28T02:35:05.703443+00:00'
   git:
     branch: main
-    commit: 958533e2961b5b575765db86709153f6775b090d
-  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
+    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
+  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
 data:
   Yle Radio 1:
     programmes:
@@ -140,8 +140,8 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-10T19:00:00+03:00'
         end_time: '2025-06-10T19:02:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-06-10T19:02:40+03:00'
+      - title: 'Jussi Halla-aho - kylmä peli: Peli kylmenee'
+        start_time: '2025-06-10T19:02:00+03:00'
         end_time: '2025-06-10T19:28:00+03:00'
         description: |
           Jussi Halla-aho työskentelee Brysselissä. Hän ja hänen kannattajansa ovat päättäneet, että Timo Soinin aika on ohi. Maahanmuuttovastaisten pitää päästä valtaan. Hillalle tulee yllätyksenä, että Jussi aikoo päästä puolueen johtoon. Pääministeri Juha Sipilä sanoo, etteivät Perussuomalaiset voi jatkaa hallituksessa, jos Halla-aho valitaan. Muutama viikko ennen puoluekokousta yksi facebook-päivitys tekee Jussin aviottoman lapsen julkiseksi. Jussi epäilee, onko ajankohta sattumaa.  
@@ -178,7 +178,7 @@ data:
           					Aino Töllinen
           					Heli Vartiainen
                                                   Paavo Rytsä
-      - title: 'Radioteatteri esittää:'
+      - title: 'Jussi Halla-aho - kylmä peli: Kitkerä voitto'
         start_time: '2025-06-10T19:28:00+03:00'
         end_time: '2025-06-10T19:53:00+03:00'
         description: |+

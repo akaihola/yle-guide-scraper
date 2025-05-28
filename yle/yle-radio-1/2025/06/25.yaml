@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-27T02:34:27.307149+00:00'
+  generated_at: '2025-05-28T02:35:10.311803+00:00'
   git:
     branch: main
-    commit: 958533e2961b5b575765db86709153f6775b090d
-  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
+    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
+  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
 data:
   Yle Radio 1:
     programmes:
@@ -13,8 +13,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-25T06:50:00+03:00'
         end_time: '2025-06-25T06:59:59+03:00'
-        description: |-
-          Aloitteleva eläkeläinen Riitta Kalliorinne, Helsinki
+        description: |
+          "Nuoruus on vaikeaa aikaa"
+          Aloitteleva eläkeläinen ja jouluradion muorina tunnettu Riitta Kalliorinne Helsingistä kertoo omaelämänkerrallisen hartaussarjansa toisessa osassa nuoruusvuosistaan ja kertoo miten kaveriporukalla pohdittiin Jeesus-asiaa. Sarja jatkuu (2/6).
       - title: Muistojen bulevardi
         start_time: '2025-06-25T09:05:40+03:00'
         end_time: '2025-06-25T09:58:00+03:00'

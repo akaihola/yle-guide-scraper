@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-27T02:34:21.822937+00:00'
+  generated_at: '2025-05-28T02:35:03.787584+00:00'
   git:
     branch: main
-    commit: 958533e2961b5b575765db86709153f6775b090d
-  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
+    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
+  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,37 @@ data:
         start_time: '2025-06-04T23:40:00+03:00'
         end_time: '2025-06-05T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Caldara: Sinfonia C-duuri (La Serenissima/Adrian Chandler, viulu).
+
+          23:56 Stenhammar: Idyll och epigram (Peter Mattei, baritoni, ja Bengt-Åke Lundin, piano).
+
+          00:05 J.S. Bach: Sarja A-duuri BWV1025 (Giuliano Carmignola, barokkiviulu, ja Lutz Kirchhof, luuttu).
+
+          00:37 Hatshaturjan: Sellokonsertto (Daniel Müller-Schott ja Birminghamin SO/Sakari Oramo).
+
+          01:10 Brahms: Sonaatti alttoviululle ja pianolle f-molli (Juri Bashmet ja Mihail Muntjan).
+
+          01:32 Schubert: Jousikvartetto n:o 15 G-duuri (Quartetto Italiano).
+
+          02:29 Sibelius: Lemminkäinen, neljä legendaa (RSO/Jukka-Pekka Saraste, englannintorvisoolo: Päivi Kärkäs).
+
+          03:15 Draeseke: Pianokonsertto Es-duuri (Markus Becker ja Berliinin RSO/Michael Sanderling).
+
+          03:46 Nielsen: Humoreski (Steinar Hannevold, oboe, ja Leif Ove Andsnes, piano).
+
+          03:49 Schubert: Schwanengesang (Joutsenlaulu) (Hans Hotter, baritoni, ja Gerald Moore, piano).
+
+          04:38 Janácek: Capriccio (Juhani Lagerspetz, piano, ja RSO:n kamariyhtye/Petri Sakari).
+
+          04:57 Spohr: Viulukonsertto n:o 8 a-molli (In modo di scena cantante) (Elisabeth Wallfish ja The Brandenburg Consort/Roy Goodman).
+
+          05:18 Ponce: Sonata romantica (Romanttinen sonaatti) (Andrés Segovia, kitara).
+
+          05:41 Huré: Kvintetto pianolle ja jousille (Marie-Josèphe Jude, piano, ja Louvigny-kvartetti).
+
+          06:12 Reusner (nuor.): Sarja d-molli (Lutz Kirchhof, barokkiluuttu).
+
+          06:23 Torelli: Concerto grosso n:o 8 c-molli (Baselin kamariork.).
       - title: Hartaita säveliä
         start_time: '2025-06-05T06:30:50+03:00'
         end_time: '2025-06-05T06:50:00+03:00'
@@ -186,9 +216,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-05T19:00:00+03:00'
         end_time: '2025-06-05T19:02:00+03:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertteja - OK Boomer
         start_time: '2025-06-05T19:02:00+03:00'
-        end_time: '2025-06-05T21:00:00+03:00'
+        end_time: '2025-06-05T20:40:00+03:00'
+        description: |
+          Ranskalaisen Orchester Tous Dehors -yhtyeen OK Boomer -konsertissa kuullaan vauhdikasta vaskijazzia huumorilla höystettynä. Yhtyeessä soittaa 12 eri ikäistä ja taustaista muusikkoa. Mukana on sekä kokeneita muusikoita että nuoria konservatoriosta valmistuneita. Orkesteria johtaa Laurent Dehors. Konserttitaltiointi Leibnitzin jazz-festivaalilla Itävallassa 27.9.2024. 
+
+          Englantilainen laulaja-kitaristi Piers Faccini ja malilainen koran soittaja Ballaké Sissoko konsertoivat Ranskan radion studiolla Pariisissa. He julkaisivat viime vuonna levyn Our Calling, joka juhlistaa dialogia sekä muuttoliikettä, oli kyse sitten kasveista, ihmisistä tai eläimistä. Konserttitaltiointi Musiques Métisses -festivaalilla Pariisissa 17.3.2025. 
+
+          Toimittajana on Miika Lauriala. 
       - title: Yle Uutiset
         start_time: '2025-06-05T21:00:00+03:00'
         end_time: '2025-06-05T21:02:00+03:00'

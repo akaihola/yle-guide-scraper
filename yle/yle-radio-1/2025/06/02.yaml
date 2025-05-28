@@ -1,12 +1,49 @@
 metadata:
-  generated_at: '2025-05-27T02:34:21.056673+00:00'
+  generated_at: '2025-05-28T02:35:02.753205+00:00'
   git:
     branch: main
-    commit: 958533e2961b5b575765db86709153f6775b090d
-  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
+    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
+  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-06-01T23:40:00+03:00'
+        end_time: '2025-06-02T06:30:00+03:00'
+        description: |-
+          H. Neumann: Teema ja muunnelmia Paisiellon duetosta (Dieter Klöcker, klarinetti, ja Sonja Prunnbauer, kitara).
+
+          23:50 Mjaskovski: Sonaatti sellolle ja pianolle n:o 2 a-molli (Yuli Turovsky ja Luba Edlina).
+
+          00:13 Tallis: Spem in alium (The Tallis Scholars/Peter Phillips).
+
+          00:23 Kraus: Sinfonia A-duuri (Ruotsalainen kamariork./Petter Sundkvist).
+
+          00:43 W. A.Mozart: Jousikvartetto n:o 15 d-molli (Hagen-kvartetti).
+
+          01:15 Platti: Sellokonsertto D-duuri (Edgar Moreau ja Il Pomo d'oro/Riccardo Minasi).
+
+          01:28 Bridge: A Prayer (Rukous) (BBC:n Walesin kansalliskuoro ja -ork./Richard Hickox).
+
+          01:47 Bartók: Sonaatti viululle ja pianolle n:o 1 (James Ehnes ja Andrew Armstrong).
+
+          02:21 Sobeck: Kvintetto puhaltimille n:o 3 g-molli (Albert Schweitzer Quintett).
+
+          02:42 Glazunov: Sinfonia n:o 6 c-molli (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          03:21 Elgar: Kvintetto pianolle ja jousille a-molli (Piers Lane ja Goldner-kvartetti).
+
+          04:00 Wagner: Wotanin kertomus oopp. Valkyyria (Simon Estes, bassobaritoni, Eva-Maria Bundschuch, sopraano, ja Berliinin valtionork./Heinz Fricke).
+
+          04:26 W.A. Mozart: Pianokonsertto n:o 21 C-duuri (Helen Huang ja New Yorkin FO/Kurt Masur).
+
+          04:54 Cui: Valse melancolique (Melankolinen valssi) (Sophie Lemonnier-Wallez, viulu, ja Philippa Neuteboom, piano).
+
+          05:00 Vivaldi: Neljä vuodenaikaa (Gil Shaham, viulu, ja Orpheus-kamariork.).
+
+          05:39 Graupner: Herrn die Wasserströme erheben sich (Herra, vesi nousee) (Collegium Vocale/Philippe Herreweghe).
+
+          05:56 Rameau: Dardanus, balettisarja (Euroopan Unionin barokkiork./Roy Goodman).
       - title: Hartaita säveliä
         start_time: '2025-06-02T06:30:50+03:00'
         end_time: '2025-06-02T06:50:00+03:00'
@@ -84,8 +121,9 @@ data:
       - title: Virtasen taloushistoria
         start_time: '2025-06-02T10:00:00+03:00'
         end_time: '2025-06-02T10:52:00+03:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |+
+          Talousmies Väinö Tanner - vieraana Lasse Lehtinen
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-02T10:52:00+03:00'
         end_time: '2025-06-02T11:00:00+03:00'
@@ -114,11 +152,12 @@ data:
       - title: Yle Uutiset
         start_time: '2025-06-02T15:00:00+03:00'
         end_time: '2025-06-02T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: Önningebyn taiteilijasiirtokunta ja muuttuva taiteilijuus 1800-1900-lukujen vaihteessa
         start_time: '2025-06-02T15:02:00+03:00'
         end_time: '2025-06-02T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Önningebyn taiteilijasiirtokunta Ahvenanmaalla oli yksi tärkeistä kuvataiteilijoiden yhteenliittymistä 1800-luvun lopulla. Kuvataiteilijat kokoontuivat pieneen Önningebyn kylään kesäkuukausiksi maalaamaan ja ideoimaan uutta. Tuohon aikaan luotiin monia niistä taiteilija-ammatin ja luovan yhteisöllisyyden muodoista, jotka ovat tuttuja nykyisestäkin taidemaailmasta. Taiteilijasiirtokunnista ja taiteilijuuden muutoksista ovat keskustelemassa taidehistorioitsija Salla Leponiemi ja syksyllä Didrichsenin taidemuseon johtajana aloittava Anna-Maria Wiljanen.
+          Juontaja on Pietari Kylmälä.
       - title: Yle News
         start_time: '2025-06-02T15:55:00+03:00'
         end_time: '2025-06-02T15:58:00+03:00'
@@ -179,8 +218,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-06-02T18:50:00+03:00'
         end_time: '2025-06-02T19:00:00+03:00'
-        description: |-
-          Toimittaja Mikko Kurenlahti lukee Paavalin kirjeitä
+        description: |
+          "Oma vapaus ja toisten paras"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee 1. kirjeestä Korinttilaisille (10:14-11:34). Tässä jaksossa Paavali antaa ohjeita Herran aterian oikeaan viettoon.
+          Paavalin kirjeitä luetaan maanantai-iltaisin kesän ja syksyn aikana.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-02T19:00:00+03:00'
         end_time: '2025-06-02T19:02:00+03:00'
@@ -189,6 +230,11 @@ data:
         end_time: '2025-06-02T19:50:00+03:00'
         description: |
           Kaksi vuotta teini-isän elämää. Toimittaja Reetta Arvila. (es. 13.11.2022)
+      - title: 'Ruben Stiller: Kuka oli Jeesuksen veli?'
+        start_time: '2025-06-02T20:00:00+03:00'
+        end_time: '2025-06-02T20:55:00+03:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-02T20:55:00+03:00'
         end_time: '2025-06-02T21:00:00+03:00'
@@ -215,3 +261,40 @@ data:
         end_time: '2025-06-02T23:39:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Yöklassinen
+        start_time: '2025-06-02T23:40:00+03:00'
+        end_time: '2025-06-03T06:30:00+03:00'
+        description: |-
+          Saïnt-Saens: Odelette (Clara Novakova, huilu, ja Ensemble Orchestral de Paris/Jean-Jacques Kantorow).
+
+          23:48 Brahms: Konsertto viululle, sellolle ja orkesterille a-molli (Anne-Sophie Mutter ja Antônio Meneses, sekä Berliinin filharmonikot/Herbert von Karajan).
+
+          00:23 Berwald: Teema ja muunnelmia B-duuri (Johannes Lörstad, viulu, ja Malmön oopperaork./Niklas Willén).
+
+          00:38 Schumann: Fantasiakappaleita (Inbal Segev, sello, ja Juho Pohjonen, piano).
+
+          00:49 Cartellieri: Divertimento n:o 1 F-duuri (Consortium Classicum).
+
+          01:12 Palmgren: Kolmikohtainen pastoraali, sarja orkesterille (Pori Sinfonietta/Jan Söderblom).  
+
+          01:27 Brunetti: Jousikvartetto A-duuri (Schuppanzigh-kvartetti).
+
+          01:44 Schubert: Pianotrio n:o 1 B-duuri (The Mozartean Players). 
+
+          02:24 V. Hannikainen (sov.): Ikävä on olla kartanolla (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano). 
+
+          02:28 Lazzari: Jousikvartetto a-molli (Pariisin jousikvartetti).
+
+          03:09 Boccherini: Kvintetto pianolle ja jousille D-duuri (Patrick Cohen, fortepiano, ja Quatuor Mosaïques).
+
+          03:31 Rahmaninov: Sinfonia n:o 3 a-molli (Detroitin SO/Leonard Slatkin).
+
+          04:12 Giordano: Loppukohtaus oopp. Andrea Chénier (Jonas Kaufmann, tenori,  ja Eva-Maria Westbrook, sopraano, sekä Rooman Santa Cecilia -akatemian ork./Antonio Pappano).
+
+          04:20 J. Haydn: Pianosonaatit n:o 56 D-duuri, n:o 58 C-duuri ja 59 Es-duuri (Glenn Gould).
+
+          05:07 Fuchs: Serenadi jousille n:o 2 C-duuri (Kölnin kamariork./Christian Ludwig).
+
+          05:24 Obrecht: Missa Rose playsante (The Sound and The Fury).
+
+          06:10 Lebrun: Oboekonsertto n:o 4 B-duuri (Bart Schneemann ja Alankomaiden radion kamariork./Jan Willem de Vriend).

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-27T02:34:24.113170+00:00'
+  generated_at: '2025-05-28T02:35:07.144385+00:00'
   git:
     branch: main
-    commit: 958533e2961b5b575765db86709153f6775b090d
-  data_hash: 6b85a4479ce4b14b9a383a3bdcb1a13bee83e685401077e744d33a659e204bed
+    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
+  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
 data:
   Yle Radio 1:
     programmes:
@@ -50,8 +50,11 @@ data:
       - title: Rytmikamari
         start_time: '2025-06-14T10:35:00+03:00'
         end_time: '2025-06-14T11:00:00+03:00'
-        description: |
-          Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+        description: |-
+          Knopfler: Romeo and Juliet (Dire Straits).
+          Pinder: Melancholy man (The Moody Blues).
+          Springsteen: Waitin' on a Sunny Day (Bruce Springsteen & The E Street Band)
+          Dominguez: Perfidia (The Ventures).
       - title: 'Näistä levyistä en luovu: Markku "Rive" Kanerva'
         start_time: '2025-06-14T11:00:00+03:00'
         end_time: '2025-06-14T11:55:00+03:00'
@@ -97,6 +100,19 @@ data:
       - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja'
         start_time: '2025-06-14T15:00:00+03:00'
         end_time: '2025-06-14T15:20:00+03:00'
+        description: |-
+          2/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
+          Puutarhakaupungin murhamysteerit, tapaus rönsylilja on kahdeksanosainen dekkarikuunnelmasarja, joka tarjoilee komediallista jännitystä aiemmilta kausilta (tapaus perunamurhat, tapaus viheltävä pankkiiri) tutuissa kuvioissa. Mutta murhamysteerit, ne ovat joka kerta erilaiset.
+
+          Käsikirjoitus: Jarkko Pajunen.
+          Dramaturgi: Eeva-Maaria Halonen.
+          Ohjaus: Erja Manto.
+          Äänisuunnittelu: Hanna-Helena Kinnunen.
+          Teemamusiikki: Geraldine (Denny) Green: Bass Clarinet Concerto.
+          Bassoklarinetti: Arto Vainio.
+          Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
+          Tuotantokoordinaattori: Eveliina Solja.
+          Tuotanto: Laura Jaakkola, Yle Draama 2025.
       - title: Aristoteleen kantapää
         start_time: '2025-06-14T15:30:00+03:00'
         end_time: '2025-06-14T15:55:00+03:00'
