@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:03.109480+00:00'
+  generated_at: '2025-05-29T02:34:57.549895+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -133,6 +133,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-03T11:57:00+03:00'
         end_time: '2025-06-03T12:00:00+03:00'
+        description: |-
+          Ote Marko Leppäsen ja Adela Pajusen kirjasta Luonnon rytmissä yli vaikeiden aikojen, Gummerus 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-06-03T12:00:00+03:00'
         end_time: '2025-06-03T12:10:00+03:00'
@@ -155,6 +157,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-03T13:30:00+03:00'
         end_time: '2025-06-03T15:00:00+03:00'
+        description: |-
+          Radio 1:n iltapäivän musiikissa soi etno, kevyt jazz ja populaarimusiikki. Janne Palkisto juontaa. N. klo 14 Kati Turtolan vieraana toimittaja, kirjailija Henna Mäkelin, joka kirjoittaa huumoria kipeiksi koetuista aiheista. N. klo 14:30 Kielen päällä, toimittajana Jari Aula.
       - title: Yle Uutiset
         start_time: '2025-06-03T15:00:00+03:00'
         end_time: '2025-06-03T15:02:00+03:00'
@@ -182,6 +186,37 @@ data:
         end_time: '2025-06-03T17:34:20+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2025-06-03T17:35:00+03:00'
+        end_time: '2025-06-03T18:30:00+03:00'
+        description: |
+          Jotkut rakastavat toisiaan ja vielä enemmän tulivuoria. Sitten he päätyvät nukkumaan laavaa puskevan kraaterin ääressä ja lopulta hautautumaan tuhkaan kuin Pompeijin rakastavaiset. Kuka siis viitsisi alkaa rakastumaan, kun sen sijaan voi mukavasti makoilla sohvalla jätskipurkki ja kaukosäädin kädessä.
+          Onneksi meillä on tarinoita ja mahtavia lauluja, joiden kautta pääsee kokemaan kaikenlaisia intohimoja ennen hammaspesua ja nukkumaanmenoa. Pääsemme elämään matalalla liekillä käriseviä kostotarinoita, todistamaan vain yhden yön kerrallaan kukkivaa yön kuningatarta ja sitä kuinka seitsemänkymppinen poppari tanssii yksin keittiössään.
+          Nuoruus, kauneus ja rakkaudenhuuma ovat katoavaisia asioita, mutta lauluissa ne säilyvät ainiaan.
+
+          (ohjelma on uusinta kesäkuulta 2024)
+
+          The Waitresses: Wasn't tomorrow wonderful?
+          V.Härkönen: En viitsi alkaa rakastumaan
+          Arooj Aftab: Raat ki rani
+          Dusty Springfield: Spooky
+          HIM: Wicked game
+          Rosita Luu: Sadie Carter July
+          Tricky: Aftermath
+          Cécile Hercule: Deux amoureux
+          Martta Maa: Rappukäytävä
+          Pet Shop Boys: Why am I dancing?
+
+          Innoitusta ammennettiin tällä kertaa mm. näistä:
+
+          Fire of love - dokumenttielokuva 
+          Liv Strömquist: Peilisalissa (sarjakuva-albumi, suomentanut Helena Kulmala
+          Bridgerton - tv-sarja (Netflix)
+      - title: 'Viikon luontoääni: Turturikyyhky'
+        start_time: '2025-06-03T18:30:00+03:00'
+        end_time: '2025-06-03T18:35:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2025-06-03T18:35:00+03:00'
         end_time: '2025-06-03T18:50:00+03:00'

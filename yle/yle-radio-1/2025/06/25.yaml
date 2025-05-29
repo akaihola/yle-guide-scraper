@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:10.311803+00:00'
+  generated_at: '2025-05-29T02:35:04.431151+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -43,11 +43,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-25T17:00:00+03:00'
         end_time: '2025-06-25T17:10:00+03:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Kolmen kauppa – Jazztriojen klassikoita ja uusia tuulia'
         start_time: '2025-06-25T17:35:00+03:00'
         end_time: '2025-06-25T18:35:00+03:00'
-        description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+        description: |-
+          Perinteisiä ja vähemmän perinteisiä jazzkokoonpanoja kolmen muusikon yhteispelinä. Tällä kertaa luvassa jazztriojen klassikoita ja uusia tuulia.
       - title: Hartaita säveliä
         start_time: '2025-06-25T18:35:00+03:00'
         end_time: '2025-06-25T18:50:00+03:00'

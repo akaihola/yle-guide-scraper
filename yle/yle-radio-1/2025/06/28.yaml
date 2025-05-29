@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:11.047610+00:00'
+  generated_at: '2025-05-29T02:35:05.360306+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -76,6 +76,18 @@ data:
       - title: Uudet levyt
         start_time: '2025-06-28T13:00:00+03:00'
         end_time: '2025-06-28T14:00:00+03:00'
+        description: |-
+          Huhtala: The Base is hectic (Jori Huhtala Basis). 
+          Huhtala: Mellowcoly (Jori Huhtala Basis). 
+          Vija: Swirlin’ (Kadi Vija, Mikael Saastamoinen, Ville Luukkonen). 
+          Antila: New sun (Ilmari Rönkä, saksofoni, ja Mikko Antila, vibrafoni).  
+          Rönkä: Green darner (Ilmari Rönkä, saksofoni, ja Mikko Antila, vibrafoni).  
+          Toivanen - Louhivuori: Green model (Joona Toivanen Trio). 
+          Toivanen - Louhivuori: Implications and consequences (Joona Toivanen Trio). 
+          Kiviniemi: Mengi (Anni Kiviniemi Trio). 
+          Kalima: Ballad of a moose (Kalle Kalima ja Antti Lötjönen). 
+          Lötjönen: Factory boy (Kalle Kalima ja Antti Lötjönen). 
+          Heinola: Space ship (Vid Šketa Quartet). 
       - title: Raha-Suomen henkilökuvat - Björn Wahlroos
         start_time: '2025-06-28T14:00:00+03:00'
         end_time: '2025-06-28T14:30:00+03:00'
@@ -146,8 +158,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-06-28T18:01:00+03:00'
         end_time: '2025-06-28T18:10:00+03:00'
-        description: |-
-          Seurakuntapastori Sanna Hassinen, Järvenpää
+        description: |+
+          "Valo löytää tiensä"
+          Seurakuntapastori Sanna Hassinen Järvenpäästä lukee psalmista 18 ja pohtii, miten Jumala tarttuu kauaskin eksyneen käteen ja vetää tämän ylös syvistä vesistä.
+
       - title: Lauantain toivotut levyt
         start_time: '2025-06-28T18:10:00+03:00'
         end_time: '2025-06-28T19:00:00+03:00'

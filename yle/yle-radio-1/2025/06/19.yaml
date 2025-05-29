@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:08.675873+00:00'
+  generated_at: '2025-05-29T02:35:02.484893+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,11 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-19T06:50:00+03:00'
         end_time: '2025-06-19T06:59:59+03:00'
-        description: |-
-          Aalto-Yliopiston oppilaitospappi Kristiina Huotari, Espoo
+        description: |+
+          "Ihmisyys vaatii minua edes katsomaan"
+          Aalto-Yliopiston oppilaitospappi Kristiina Huotari Espoosta suree Gazan sodan järjettömyyttä ja kokee erityisesti lapsen elämän särkymisen olevan sietämätön ajatus.
+
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-19T07:00:00+03:00'
         end_time: '2025-06-19T07:10:00+03:00'

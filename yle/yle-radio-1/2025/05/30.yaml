@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:01.803035+00:00'
+  generated_at: '2025-05-29T02:34:56.349992+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -79,12 +79,27 @@ data:
       - title: Ykkösaamu
         start_time: '2025-05-30T08:10:00+03:00'
         end_time: '2025-05-30T09:00:00+03:00'
+        description: |-
+          Ykkösaamun aluksi keskustellaan kansanedustajien kanssa Ylen politiikkakyselystä, jossa tiedusteltiin kansanedustajien kantoja Palestiinan tunnustamiseen. Lähetyksen puolenvälin jälkeen yhteys Lontooseen. Iso-Britannia on perinteisesti ollut suomalaisten opiskelijoiden suosiossa. Nyt Britteihin lähtijöiden määrä on romahtunut - minkälaisessa myllerryksessä on brittiläinen  koulujärjestelmä ? Koulutusaiheella jatketaan studiokeskustelussa, kun kysytään päättäjäisviikonlopun alla: Minkälaiset eväät tulevaisuuteen saa lukiossa ja ammattikouluissa ? Lähetyksen päätteeksi yhteys Operaatio Saappaaseen. Saapas auttaa taas liikaa juhlineita nuoria tulevana viikonloppuna.
       - title: Yle Uutiset
         start_time: '2025-05-30T09:00:00+03:00'
         end_time: '2025-05-30T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-05-30T09:05:40+03:00'
         end_time: '2025-05-30T09:58:00+03:00'
+        description: |-
+          Fuhrmann/Lindström: Rautalankatango (Tauno Suojanen).
+          Webb: Up, up and away (The 5th Dimension).
+          John: Mona Lisas and mad hatters (Elton John).
+          Legrand: The summer knows (Monica Mancini).
+          Polnareff: Sous quelle etoile suis-je ne? (Michel Polnareff).
+          Hazlewood: Your sweet love (Lee Hazlewood).
+          Rascel/Garinei/Giovannini: Arrivederci Roma (Claudio Villa).
+          Mann/Weil: Cuore (Rita Pavone).
+          Vreeswijk: Roskisdyykkarin balladi (Folk-Fredi).
+          Simon: Late in the evening (Paul Simon).
+          Vangelis: Rain and tears (Aphrodite's Child).
+          Rota: Amarcord (Prahan FO/Derek Wadsworth).
       - title: 'Ruben Stiller: Kuka oli Jeesuksen veli?'
         start_time: '2025-05-30T10:00:00+03:00'
         end_time: '2025-05-30T10:55:00+03:00'
@@ -141,11 +156,31 @@ data:
         start_time: '2025-05-30T16:10:00+03:00'
         end_time: '2025-05-30T16:59:00+03:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Bellman: Tuuli hiljaa henkäilee (Candomino/Tauno Satomaa).
+
+          W.A. Mozart: Fiordiligin, Dorabellan ja Don Alfonson tertsetto "Soave sia il vento" oopp. Cosí fan tutte (Miah Persson, sopraano, Christine Rice, mezzosopraano, Bryn Terfel, bassobaritoni, ja Skotlantilainen kamariork./Charles Mackerras).
+
+          O. Merikanto: Valse lente (Eero Heinonen, piano).
+
+          Tárrega: Recuerdos de la Alhambra (Muistoja Alhambrasta) (John Williams, kitara).
+
+          Rossini: Alkusoitto oopp. Varasteleva harakka (Atlantan SO/Yoel Levi).
+
+          Adam: Postiljooni Chapeloun aaria "Mes amis, ecoutez l'histoire" oopp. Longjumeaun postiljooni (Nicolai Gedda, tenori, ja Ranskan radio-ork./Georges Prêtre).
+
+          Mascagni: Intermezzo oopp. Fritz-ystävä (BBC:n FO/Gianandrea Noseda).
+
+          Verdi: Germontin aaria "Milloin saatoit unhoittaa" oopp. La Traviata (Usko Viitanen, baritoni, ja RSO/Kari Tikka).
+
+          Palmgren: Kevätyö sarj. Toukokuu (Henri Sigfridsson, piano).
+
+          Backer-Gröndahl: Sommervise (Kesälaulu) (Islannin SO/Bjarte Engeset).
+
+          Kansansäv.: Karjalan kunnailla (Martti Talvela, basso, sekä soitinyhtye/Pertti Eerola).
       - title: Yle Uutiset ja sää
         start_time: '2025-05-30T17:00:00+03:00'
         end_time: '2025-05-30T17:10:00+03:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Heikki Heiskanen & Putinin pilarit: Putinin sota kahlitsi Venäjän talouden'
         start_time: '2025-05-30T17:10:00+03:00'
         end_time: '2025-05-30T17:34:20+03:00'
         description: |
@@ -167,11 +202,9 @@ data:
       - title: 'Konsertti-ilta: Bösendorfer 1882 - Beethovenin läpimurto'
         start_time: '2025-05-30T19:02:00+03:00'
         end_time: '2025-05-30T20:47:00+03:00'
-        description: |+
+        description: |
           Ludwig van Beethoven: Trio pianolle, klarinetille ja sellolle Es-duuri op. 38; Rita Strohl: Solitude; Louise Farrenc: Trio pianolle, klarinetille ja sellolle Es-duuri op. 44 (Christoffer Sundqvist, klarinetti,
           Kati Raitinen, sello ja Emil Holmström, piano). Angelicum-salissa 13.5. äänitetyn konsertin toimittaa Lotta Emanuelsson.
-
-
       - title: Musiikkikamari
         start_time: '2025-05-30T20:47:00+03:00'
         end_time: '2025-05-30T21:00:00+03:00'
@@ -188,7 +221,7 @@ data:
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
         start_time: '2025-05-30T22:25:00+03:00'
-        end_time: '2025-05-30T23:15:00+03:00'
+        end_time: '2025-05-30T23:14:28+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Kulttuurin kulmilla: Esirippu alas'

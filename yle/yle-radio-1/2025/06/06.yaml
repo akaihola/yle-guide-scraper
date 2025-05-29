@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:04.284349+00:00'
+  generated_at: '2025-05-29T02:34:58.515326+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-06T11:57:00+03:00'
         end_time: '2025-06-06T12:00:00+03:00'
+        description: |-
+          Ote Marko Leppäsen ja Adela Pajusen kirjasta Luonnon rytmissä yli vaikeiden aikojen, Gummerus 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-06-06T12:00:00+03:00'
         end_time: '2025-06-06T12:10:00+03:00'
@@ -103,7 +105,7 @@ data:
         start_time: '2025-06-06T13:30:00+03:00'
         end_time: '2025-06-06T15:00:00+03:00'
         description: |
-          Radio 1:n iltapäivän monipuolinen musiikkikattaus kevyestä jazzista etnoon ja populaarimusiikin helmiin. N. klo 14 Luomiskertomus: Kirjailija Riko Saatsin uuden kahdella kielellä kirjoitetun Yönistujat-romaanin tarinan taustalla on hänen oman sukunsa tarina.
+          Radio 1:n iltapäivän monipuolinen musiikkikattaus kevyestä jazzista etnoon ja populaarimusiikin helmiin. Paula Jokimies juontaa. N. klo 14 Luomiskertomus: Kirjailija Riko Saatsin uuden kahdella kielellä kirjoitetun Yönistujat-romaanin tarinan taustalla on hänen oman sukunsa tarina.
           Toimittaja Jukka Kuosmanen.
       - title: Yle Uutiset
         start_time: '2025-06-06T15:00:00+03:00'
@@ -168,40 +170,15 @@ data:
         end_time: '2025-06-06T19:02:00+03:00'
       - title: Grandiose Améfrica Ladina
         start_time: '2025-06-06T19:02:00+03:00'
-        end_time: '2025-06-06T21:00:00+03:00'
-        description: |
-          Grandiose Améfrica Ladina -konsertti käynnisti Utrechtin vanhan musiikin festivaalin viime kesänä. Konsertissa kuullaan seuraavat teokset:
+        end_time: '2025-06-06T20:22:00+03:00'
+        description: |+
+          Grandiose Améfrica Ladina -konsertti nostaa esiin 1600-luvulla Latinalaisessa Amerikassa sävelletyn musiikin, jolle Adrián Rodriguez Van der Spoelin perustama Ensemble Música Temprana on omistautunut. 
+          Konsertin nimi - Grandiose Améfrica Ladina - viittaa tähän monikulttuuriseen alueeseen, jossa länsimainen taidemusiikki soi niin alkuperäiskansojen, afrikkalaistaustaisten muusikoiden kuin espanjalaisten asukkaiden toteuttamana.
 
+          Konsertti käynnisti Utrechtin vanhan musiikin festivaalin viime kesänä ja siinä esiintyvät Ensemble Música Temprana sekä Capella Gregoriana johtajanaan Adrián Rodriguez Van der Spoel.
 
-          Francisco Guerrero (1528-1599): Duo seraphim
+          Utrechtin tuomiokirkossa 23.8.2024 äänitetyn konsertin toimittaa Ainomaija Pennanen.
 
-          Juan de Araujo (1646-1712): Dixit Dominus
-
-          Antonio de Salazar (1650-1715): Arde afable hermosura
-
-          Anon.: Ne recorderis (Codex Santa Eulalia 7) 
-
-          Anon.: Miserere mei deus 
-
-          Anon.: Esta es la cena de amor llenoa / Hoi nace la nueva estiella (Codex Santa Eulalia 7) 
-           
-          Anon.: De la sagrada Maria (Codex Santa Eulalia 7) 
-
-          Antonio de Salazar: Credidi propter quod 
-
-          Juan de Araujo: Oigan, escuchen, atiendan
-
-          Anon.: La Salve para la Virgen
-
-          Anon.: Hanacpachap cussicuinin (encore)
-
-
-
-          Konsertissa esiintyvät Ensemble Música Temprana sekä Capella Gregoriana johtajanaan Adrián Rodriguez Van der Spoel.
-
-          Konsertti on äänitetty 23.8.2024 Utrechtin tuomiokirkossa. Toimittajana on Ainomaija Pennanen.
-
-          Kuvassa Adrián Rodriguez Van der Spoel ©Eduardo Hernández Pérez
       - title: Yle Uutiset
         start_time: '2025-06-06T21:00:00+03:00'
         end_time: '2025-06-06T21:02:00+03:00'

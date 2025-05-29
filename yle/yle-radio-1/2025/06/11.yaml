@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-28T02:35:06.094786+00:00'
+  generated_at: '2025-05-29T02:35:00.073089+00:00'
   git:
     branch: main
-    commit: 7e127a87399bcfbdfcf2f379bbb9eaa7ce05483d
-  data_hash: 1664c141cc9346d965fce4f6fee55d8e989510765a29607a26479814047bfb0b
+    commit: 2fa9907c7ff8af307f8d1a7b8eb5916f56cf8a10
+  data_hash: 70f70b730bb278bc7759c0837e04752ca8038f5c187ffddba60f9a6e1477569d
 data:
   Yle Radio 1:
     programmes:
@@ -94,8 +94,19 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-06-11T15:02:00+03:00'
         end_time: '2025-06-11T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Aura Koiviston uutuusromaani Lahottajat (Into, 2025) kertoo sienten ja ihmisten yhteiselosta syrjäkylässä. Tarinassa pappi näkee sienissä jumaluutta, muusikko kuuntelee sienisinfonioita ja mummo kietoutuu sienirihmastoon. Kirja tarkastelee ihmisyyttä uusista näkökulmista ja esittelee hämmästyttävää sienitietoa – niiden kyvyt ja lajit ovat moninaiset, ja sienet voivat olla yhteistyökumppaneita tai loisia.
+
+          Sienistä voisi olla apua myös mielenterveysongelmien hoidossa. Psilobiinit ovat luonnossa esiintyviä, erityisesti tietyissä sienissä esiintyviä psykoaktiivisia yhdisteitä, jotka vaikuttavat aivojen serotoniinireseptoreihin. Tutkimusten mukaan psilobiini voi lievittää vaikeaa masennusta ohjatun psykoterapian yhteydessä.Tutkimus kuitenkin takkuaa, esteitä on monia. 
+
+          Sienet ovat läsnä myös suositussa pelissä The Last of Us -draamasarjassa, jossa ihmiskunta kamppailee ihmiset tunnistamattomiksi hirviöiksi muuttavan tartunnan kautta. Tartunnan saanut ihminen alkaa puskea ruumistaan sienimäisiä ulokkeita menettäen omat piirteensä, ja rihmastot ja ilmassa leijailevat itiöt tekevät taistelusta entistä epätoivoisempaa sarjan toisella kaudella.
+
+          Mikä on ihmisen ja sienten suhde, ja kumpi voittaisi taistelussa, sienet vai ihmiset?
+
+          Haastateltavana on kirjailija Aura Koivisto. 
+
+          Lähetyksen toimittaa Pauliina Grym.
+
       - title: Yle News
         start_time: '2025-06-11T15:55:00+03:00'
         end_time: '2025-06-11T15:58:00+03:00'
