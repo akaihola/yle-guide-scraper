@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-05-30T02:34:39.274789+00:00'
+  generated_at: '2025-05-31T02:33:45.317210+00:00'
   git:
     branch: main
-    commit: 815d45567d036cfb585643e500155193d08eaf3f
-  data_hash: fc4e131d8ba9b7273d48b9522ab58855a015daa984238773fb650e5b99012a55
+    commit: d92de49ea553bd40b06d409c1a7089f916a6383f
+  data_hash: 3a0b9cad0380a44d25486bdda8d934e99b6e9746a496811d32d02ec541f27e89
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-23T07:10:00+03:00'
         end_time: '2025-06-23T07:59:59+03:00'
+        description: |+
+          L. Mozart: Menuetti konsertosta pasuunalle ja orkesterille D-duuri (Christian Lindberg ja Australian kamariork./Richard Tognetti).
+
+          Chabrier: Aubade (Aamulaulu) (Angela Hewitt, piano).
+
+          Collan: Morgenlied (Helsingin kamarikuoro/Nils Schweckendiek). 
+
+          Weiss: Allegro konsertosta luutulle ja huilulle B-duuri (Richard Stone, luuttu, Gwyn Roberts, huilu, ja Ann Marie Morgan, viola da gamba).
+
+          Monteverdi: Poppean ja Neron duetto oopp. Poppean kruunaus (Molly Quinn ja Jolle Greenleaf, sopraano, sekä Avi Stein, cembalo).
+
+          Beethoven: Alkusoitto bal. Prometheuksen luomistyöt (Wienin filharmonikot/Claudio Abbado).  
+
+          Silvestrov: Augenblicke der Serenade sarj. Hiljaista musiikkia  (Kiev Virtuosi/Dmitri Jablonski).
+
+          Melartin: Perhosvalssi näyt. Prinsessa Ruusunen (Arto Satukangas, piano).
+
+          Paganini: Cantabile (Joshua Bell, viulu, ja Samuel Sanders, piano).
+
+          Faure: Pastoraali sarjasta Masques et bergamasques, op.112 (Orpheus-kamariorkesteri).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-23T08:00:00+03:00'
         end_time: '2025-06-23T08:10:00+03:00'
@@ -65,14 +86,22 @@ data:
       - title: Politiikkaradio
         start_time: '2025-06-23T13:00:00+03:00'
         end_time: '2025-06-23T13:30:00+03:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-06-23T13:30:00+03:00'
+        end_time: '2025-06-23T15:00:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-06-23T16:10:00+03:00'
         end_time: '2025-06-23T16:59:00+03:00'
+      - title: 'Ulkolinja-podcast: Vapautuneessa Syyriassa nuoret naiset uskaltavat puolustaa oikeuksiaan.  '
+        start_time: '2025-06-23T17:10:00+03:00'
+        end_time: '2025-06-23T17:30:00+03:00'
+        description: |-
+          Syyriassa hengitetään juuri nyt vapaammin kuin ihmismuistiin. Diktaattori Bashar al-Assad syrjäytettiin joulukuussa 2024 ja samalla loppui Assadien suvun vuosikymmeniä kestänyt julma hallinto. Ulkolinjan Viivi Berghem tapasi Damaskoksessa vapaudesta nauttivia nuoria naisia.
       - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikin pienet suuret idyllit: Kaustinen, Suomi'
         start_time: '2025-06-23T17:35:00+03:00'
         end_time: '2025-06-23T18:34:20+03:00'
         description: |
-          Jos jostain suomalaisesta pitäjästä voi sanoa, että sen vaikutus on kokoaan suurempi, mieleen pomppaa ensimmäisenä kodikas Kaustinen. Kansanmusiikin tuntijat kautta maailman tiesivät kaustislaisen viulunsoiton jo muutenkin, mutta valinta UNESCO:n aineettoman kulttuuriperinnön kohteeksi auttaa muitakin matkailijoita löytämään oikeaan osoitteeeseen. Kaustisella on pidetty huolta omasta perinteestä, ei vain kesäisten festivaalien aikana, vaan kaikkina vuodenaikoina arkea kohottamassa. Toimittajana Mika Kauhanen.
+          Jos jostain suomalaisesta pitäjästä voi sanoa, että sen vaikutus on kokoaan suurempi, mieleen pomppaa ensimmäisenä kodikas Kaustinen. Kansanmusiikin tuntijat kautta maailman tiesivät kaustislaisen viulunsoiton jo muutenkin, mutta valinta UNESCO:n aineettoman kulttuuriperinnön kohteeksi auttaa muitakin matkailijoita löytämään oikeaan osoitteeseen. Kaustisella on pidetty huolta omasta perinteestä, ei vain kesäisten festivaalien aikana, vaan kaikkina vuodenaikoina arkea kohottamassa. Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-06-23T18:35:00+03:00'
         end_time: '2025-06-23T18:50:00+03:00'
