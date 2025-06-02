@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-01T02:47:06.056498+00:00'
+  generated_at: '2025-06-02T02:37:53.628116+00:00'
   git:
     branch: main
-    commit: 852a4aef53b246ee6004f754e300c5bf414d8568
-  data_hash: ebf09c074d7e32672aa1554c337554dec4e3a82d51a5beda894449327b9a21a2
+    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
+  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
 data:
   Yle Radio 1:
     programmes:
@@ -169,7 +169,12 @@ data:
         start_time: '2025-06-03T15:02:00+03:00'
         end_time: '2025-06-03T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Firenzeläinen 1500-luvulla elänyt diplomaatti Niccolo Macchiavelli tunnetaan teoksestaan Ruhtinas, joka toi tekijälleen maineen kyynisenä, vallanpitäjiä imartelevana pragmaatikkona. Nyt on ensimmäistä kertaa suomennettu toinen hänen teoksensa nimeltään Sotataidosta, Dell’ arte della Guerra (suom. Antti Immonen). Se oli ainoa Macchiavellin teoksista joka julkaistiin vielä tekijän eläessä. Kirjaa ovat käyttäneet oppaanaan monet maailman suurista sotapäälliköistä, muun muassa Fredrik Suuri, Napoleon ja pohjolan leijona Kustaa II Aadolf, samoin sotateoreetikko Carl von Clausewitz.
+
+          Vieraina ovat kirjaan esipuheet laatineet Macchiavelli-asiantuntijat Maanpuolustuskorkeakoulun dosentti Markku Palokangas sekä valtio-opin yliopistonlehtori Mikko Lahtinen Tampereen yliopistosta.
+
+
+          Ohjelman juontaa Nicklas Wancke.
       - title: Yle News
         start_time: '2025-06-03T15:55:00+03:00'
         end_time: '2025-06-03T15:58:00+03:00'
@@ -181,6 +186,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-06-03T16:10:00+03:00'
         end_time: '2025-06-03T16:59:00+03:00'
+        description: |-
+          Rameau: Alkusoitto komediabal. Kiertelevät ritarit (Les Talens Lyriques/Christophe Rousset).
+
+          Brescianello (sov. Buscemi): Partita kitaralle n:o 7 C-duuri (Giuseppe Buscemi).
+
+          Mozart: Sarastron aaria oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
+
+          Sweeney: Duo (John Finucane, klarinetti, ja Elisaveta Blumina, piano).
+
+          Wagner: Elisabethin tervehdys oopp. Tannhäuser (Karita Mattila, sopraano, ja RSO/Jukka-Pekka Saraste). 
+
+          Fauré: Perhonen (Heinrich Schiff, sello, ja Samuel Sanders, piano).
+
+          Händel: Alla hornpipe sarjasta nro 2 D-duuri (Kanadalainen vaskiyhtye).
+
+          Bottesini (sov. Katrama): Elegia (Jorma Katrama, kontrabasso, ja Margit Rahkonen, piano).
+
+          Kuula: Kesäyö kirkkomaalla (Jorma Silvasti, tenori, ja Pentti Kotiranta, piano).
+
+          Mendelssohn: Saltarello sinfoniasta n:o 4 A-duuri "Italialainen" (Atlantan SO/Yoel Levi).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-03T17:00:00+03:00'
         end_time: '2025-06-03T17:10:00+03:00'
@@ -362,8 +387,8 @@ data:
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Miia Krause: Hanna Sumari: "Sanasokeana sain avuksi lähinnä jokakeväiset ehdot"'
-        start_time: '2025-06-03T22:30:00+03:00'
-        end_time: '2025-06-03T23:14:51+03:00'
+        start_time: '2025-06-03T22:30:24+03:00'
+        end_time: '2025-06-03T23:15:15+03:00'
         description: |
           Hanna Sumari: "Ei mua koskaan ammatillisesti kannustettu mihinkään. Olisin halunnut vain maata pehmeässä pylvässängyssä, syödä suklaata ja juoruta puhelimessa."
       - title: Yöklassinen
