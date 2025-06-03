@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-02T02:37:57.563903+00:00'
+  generated_at: '2025-06-03T02:35:26.721502+00:00'
   git:
     branch: main
-    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
-  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
+    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
+  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
 data:
   Yle Radio 1:
     programmes:
@@ -63,6 +63,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-19T09:05:40+03:00'
         end_time: '2025-06-19T09:58:00+03:00'
+        description: |
+          Jones: Keskiyön aurinko (Laila Kinnunen).
+          Mayer: Der Sommerwind (Peggy March).
+          Schonberger: Whispering (Lena Horne).
+          Subway/Gilsby: Kesän lapsi (Katri Helena).
+          Simon: Solen, du och jag (Sylvia Vrethammar).
+          Kansansävelmä: Läksin minä kesäyönä käymään (Brita Koivunen).
+          Abreu: Tico tico (Charlie Parker).
+          Ahbez: Nature boy (Nat King Cole).
+          Fain: Niin paljon kuuluu rakkauteen (Harmony Sisters).
+          Carmichael: Lazy river (The Mills Brothers).
+          Mogol/Battisti: Acqua azzurra, acqua chiara (Lucio Battisti).
+          Jagger: She's a rainbow (The Rolling Stones).
+          Enya: Caribbean blue (Enya).
+          Gibb: Olet mulle maailmain (Pepe Willberg).
       - title: Maarit Tastula - Yksi maailma, kaksi katsetta
         start_time: '2025-06-19T10:00:00+03:00'
         end_time: '2025-06-19T10:52:00+03:00'
@@ -102,8 +117,14 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-06-19T15:02:00+03:00'
         end_time: '2025-06-19T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Psykologista jännitystä kirjoittava Martta Kaukonen hämmästyi, kun ulkomaalaiset lukijat pyysivät hänen kirjoihinsa sisältövaroituksia. Ne kertoisivat lukijalle ennalta, mitä mahdollisesti vaikeita ja pelottavia aineksia romaanit sisältävät. “Eräs ystäväni vitsaili, että Terapiassa näitä teemoja on niin monia, että sisältövaroituksia varten pitäisi painattaa oma vihkosensa”, kirjoitti Kaukonen vuoden 2021 esikoisestaan Kirjailija-lehden blogissa. 
+
+          Kotimaisessa kirjallisuudessa sisältövaroituksia ei vielä juuri näy, mutta mihin niitä tarvitaan ja miten ne vaikuttavat vastaanottajan kokemukseen? Miten paljon kirjailijan pitää ajatella lukijan mahdollista traumatisoitumista?
+
+          Haastateltavana on kirjailija Martta Kaukonen.
+
+          Toimittajana on Pauliina Grym.
       - title: Yle News
         start_time: '2025-06-19T15:55:00+03:00'
         end_time: '2025-06-19T15:58:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-02T02:37:59.150810+00:00'
+  generated_at: '2025-06-03T02:35:28.281633+00:00'
   git:
     branch: main
-    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
-  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
+    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
+  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-06-26T07:10:00+03:00'
         end_time: '2025-06-26T07:59:59+03:00'
+        description: |+
+          Delibes: Valse lente bal. Coppélia (Cincinnati Pops/Erich Kunzel).
+
+          S.Schultz: Keskikesän laulu (Niels Eje, oboe, Inge Mulvad Eje, sello, ja Kristian Buhl-Mortensen, kitara). 
+
+          Peterson-Berger: Tennis kok. Frösön kukkia 1 (Östersundin serenadiyhtye/Lennart Hedwall).
+
+          Linnala: Saariretki (Laulu-Miehet/Matti Hyökki).
+
+          Villa-Lobos: Choros n:o 1 (Eduardo Fernandez, kitara).
+
+          Saint-Saëns: Joutsen sarj. Eläinten karnevaali (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
+
+          Sihvola: Liikettä kalossiin, polkka saksofonille ja pianolle (Olli-Pekka Tuomisalo ja Risto-Matti Marin).
+
+          Melartin: Pastorale (RSO/Ilpo Mansnerus).
+
+          O. Merikanto: Valse lente (Tapani Valsta, piano).
+
+          Tshaikovski: Sävelmä (Riitta Pesola, sello, ja Vox Artis/Lev Markiz).
+
+          Delius: Air and dance jousille (Lontoon FO/Vernon Handley).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-06-26T08:00:00+03:00'
         end_time: '2025-06-26T08:10:00+03:00'
@@ -52,29 +75,59 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-26T11:57:00+03:00'
         end_time: '2025-06-26T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-26T12:00:00+03:00'
+        end_time: '2025-06-26T12:10:00+03:00'
       - title: 12 diktaattoria K9 J1
         start_time: '2025-06-26T12:10:00+03:00'
         end_time: '2025-06-26T12:50:00+03:00'
         description: |-
           Taleban nousi uudelleen valtaan Afganistanissa vuonna 2021. Tämän sunnilaisen konservatiivisen ääriliikkeen ylin johtaja on Hibatullah Akhundzada ”uskollisten emiiri”. Hänen johdollaan Afganistanissa on käynnissä sukupuoli-apartheid. YK:n mukaan Afganistanista on tullut Taleban-hallinnon alla kaikkein eniten naisten oikeuksia sortava valtio koko maailmassa.
           Asiantuntijana on Kauppalehti Option toimituspäällikkö Mikko Metsämäki. Toimittajana Raimo Tyykiluoto. 
+      - title: Politiikkaradio
+        start_time: '2025-06-26T13:00:00+03:00'
+        end_time: '2025-06-26T13:30:00+03:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-26T13:30:00+03:00'
         end_time: '2025-06-26T15:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-06-26T15:00:00+03:00'
+        end_time: '2025-06-26T15:02:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-06-26T15:02:00+03:00'
+        end_time: '2025-06-26T15:55:00+03:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-06-26T15:55:00+03:00'
+        end_time: '2025-06-26T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-26T16:00:00+03:00'
+        end_time: '2025-06-26T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-06-26T16:10:00+03:00'
         end_time: '2025-06-26T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-26T17:00:00+03:00'
+        end_time: '2025-06-26T17:10:00+03:00'
       - title: 'Ulkolinja-podcast: USA:ssa tiukimmat abortinvastustajat pitävät ehkäisypilleriäkin murhana'
         start_time: '2025-06-26T17:10:00+03:00'
-        end_time: '2025-06-26T17:35:00+03:00'
+        end_time: '2025-06-26T17:37:30+03:00'
         description: |
           Aborttioikeus on keskeinen kysymys Yhdysvaltain presidentinvaaleissa. Se voi jopa ratkaista vaalit, sillä suhtautuminen aborttiin jakaa voimakkaasti amerikkalaisia. Abortinvastustajien mielestä raskaudenkeskeytys on aina murha. He toivovat, että abortti kiellettäisiin Yhdysvaltain kaikissa osavaltioissa. Ulkolinjan Minna Pye tapasi kiihkeitä abortinvastustajia Teksasin sydänmailla.
           Ohjelma on viime syyskuulta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-06-26T17:35:00+03:00'
-        end_time: '2025-06-26T18:25:00+03:00'
+        start_time: '2025-06-26T17:37:30+03:00'
+        end_time: '2025-06-26T18:27:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Kielen päällä
+        start_time: '2025-06-26T18:27:00+03:00'
+        end_time: '2025-06-26T18:35:00+03:00'
+        description: |-
+          Toimittajana on Jari Aula.
       - title: Hartaita säveliä
         start_time: '2025-06-26T18:35:00+03:00'
         end_time: '2025-06-26T18:50:00+03:00'
@@ -89,3 +142,16 @@ data:
         description: |
           Miten isät ovat muovanneet meitä ihmisinä? Miitta ja Sanna keskustelevat isistään, joiden kanssa on ajettu kippuraisilla teillä, oltu mukana kirkonmenoissa - ja opittu huumorista.
           Miten isät ovat vaikuttaneet molempien elämään ja miten isien perintö elää heissä edelleen? Jaksossa käydään läpi lämpimiä muistoja lapsuudesta, mutta myös vaikeita hetkiä elämän varrelta. 
+      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        start_time: '2025-06-26T22:30:30+03:00'
+        end_time: '2025-06-26T22:49:30+03:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-06-26T23:00:00+03:00'
+        end_time: '2025-06-26T23:56:30+03:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Yöklassinen
+        start_time: '2025-06-27T00:00:00+03:00'
+        end_time: '2025-06-27T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.

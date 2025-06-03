@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-02T02:38:00.177385+00:00'
+  generated_at: '2025-06-03T02:35:29.402156+00:00'
   git:
     branch: main
-    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
-  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
+    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
+  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-01T09:05:40+03:00'
         end_time: '2025-07-01T09:58:00+03:00'
+      - title: Sari Valto
+        start_time: '2025-07-01T10:00:00+03:00'
+        end_time: '2025-07-01T10:55:00+03:00'
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: '8 klasaria: Lili Boulanger: Syvyyksistä minä huudan – Elämä joka loppui liian aikaisin'
         start_time: '2025-07-01T11:00:00+03:00'
         end_time: '2025-07-01T11:21:00+03:00'
@@ -64,6 +69,9 @@ data:
         end_time: '2025-07-01T12:00:00+03:00'
         description: |-
           Ote Georg Simmelin teoksesta Rahan filosofia, jonka on suomentanut Panu Turunen.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-01T12:00:00+03:00'
+        end_time: '2025-07-01T12:10:00+03:00'
       - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Näkymätön polkupyörä'
         start_time: '2025-07-01T12:10:00+03:00'
         end_time: '2025-07-01T12:30:00+03:00'
@@ -85,9 +93,28 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-07-01T13:35:00+03:00'
         end_time: '2025-07-01T15:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-07-01T15:00:00+03:00'
+        end_time: '2025-07-01T15:02:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-07-01T15:02:00+03:00'
+        end_time: '2025-07-01T15:55:00+03:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-07-01T15:55:00+03:00'
+        end_time: '2025-07-01T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-01T16:00:00+03:00'
+        end_time: '2025-07-01T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-07-01T16:10:00+03:00'
         end_time: '2025-07-01T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-01T17:00:00+03:00'
+        end_time: '2025-07-01T17:10:00+03:00'
       - title: 'Variksenmarjasta vaapukkaan: Puolukka – naiseutta, painonhallintaa ja poikalapsia'
         start_time: '2025-07-01T17:10:00+03:00'
         end_time: '2025-07-01T17:30:20+03:00'
@@ -110,6 +137,9 @@ data:
         end_time: '2025-07-01T19:00:00+03:00'
         description: |-
           Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-01T19:00:00+03:00'
+        end_time: '2025-07-01T19:02:00+03:00'
       - title: Ääniversumi
         start_time: '2025-07-01T19:02:00+03:00'
         end_time: '2025-07-01T19:40:00+03:00'
@@ -136,6 +166,11 @@ data:
 
           Sarjan toimittaa Jari Aula.
           Tuottaja Salla Matusiak.
+      - title: Sari Valto
+        start_time: '2025-07-01T21:35:00+03:00'
+        end_time: '2025-07-01T22:29:30+03:00'
+        description: |
+          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: Yöklassinen
         start_time: '2025-07-01T23:40:00+03:00'
         end_time: '2025-07-02T06:30:00+03:00'

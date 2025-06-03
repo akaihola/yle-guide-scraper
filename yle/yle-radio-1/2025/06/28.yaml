@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-02T02:37:59.541436+00:00'
+  generated_at: '2025-06-03T02:35:28.666807+00:00'
   git:
     branch: main
-    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
-  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
+    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
+  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,9 @@ data:
           Ihmisen mielikuvitus on muovannut mytologisia petoja yllättävistäkin eläimistä - niin kuin vaikka oravasta! Aikojen alussa orava oli raivoisa jättiläinen, jonka jumalat kutistivat ihmistä suojellakseen. Sekä skandinaavinen mytologia, että useat intiaanilegendat ovat nähneet oravan pahasuisena suupalttina. Intialainen tarusto puolestaan arvostaa oravien puuhakasta ahkeruutta. 
 
           Kalevalassa oravat liitetään oluen syntyyn. Sen kunniaksi Kaisa Pulakka selvittää ohjelmassaan, kuinka monta tuoppia olutta saisi yhdellä oravannahalla. Lukijana on Pietari Kylmälä.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-28T09:00:00+03:00'
+        end_time: '2025-06-28T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-06-28T09:05:40+03:00'
         end_time: '2025-06-28T09:58:00+03:00'
@@ -65,6 +68,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-28T11:57:00+03:00'
         end_time: '2025-06-28T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-28T12:00:00+03:00'
+        end_time: '2025-06-28T12:05:00+03:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-06-28T12:05:00+03:00'
         end_time: '2025-06-28T12:30:00+03:00'
@@ -123,6 +129,14 @@ data:
       - title: Aristoteleen kantapää
         start_time: '2025-06-28T15:30:00+03:00'
         end_time: '2025-06-28T15:55:00+03:00'
+      - title: Yle News
+        start_time: '2025-06-28T15:55:00+03:00'
+        end_time: '2025-06-28T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-28T16:00:00+03:00'
+        end_time: '2025-06-28T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-06-28T16:10:00+03:00'
         end_time: '2025-06-28T16:59:00+03:00'
@@ -146,6 +160,9 @@ data:
           S. Webbe, vanh.: When winds breathe soft (Handel and Haydn Society/Harry Christophers).
 
           Zarzycki: Masurkka G-duuri (Eugene Ugorski, viulu, ja BBC:n Skotlannin SO/Michal Dworzynski). 
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-28T17:00:00+03:00'
+        end_time: '2025-06-28T17:10:00+03:00'
       - title: 'Kuninkaansalista savupirttiin - suomalaista elämää keskiajalla 1/4: Linnat'
         start_time: '2025-06-28T17:10:00+03:00'
         end_time: '2025-06-28T17:57:00+03:00'
@@ -167,6 +184,9 @@ data:
         end_time: '2025-06-28T19:00:00+03:00'
         description: |
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-06-28T19:00:00+03:00'
+        end_time: '2025-06-28T19:02:00+03:00'
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2025-06-28T19:02:00+03:00'
         end_time: '2025-06-28T21:00:00+03:00'
@@ -179,14 +199,36 @@ data:
 
           Mozart: "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
 
-      - title: Vaihtuva sarja
-        start_time: '2025-06-28T21:02:00+03:00'
-        end_time: '2025-06-28T21:32:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-06-28T21:00:00+03:00'
+        end_time: '2025-06-28T21:02:05+03:00'
+      - title: 'Ulkolinja-podcast: Vapautuneessa Syyriassa nuoret naiset uskaltavat puolustaa oikeuksiaan.  '
+        start_time: '2025-06-28T21:03:00+03:00'
+        end_time: '2025-06-28T21:23:00+03:00'
+        description: |-
+          Syyriassa hengitetään juuri nyt vapaammin kuin ihmismuistiin. Diktaattori Bashar al-Assad syrjäytettiin joulukuussa 2024 ja samalla loppui Assadien suvun vuosikymmeniä kestänyt julma hallinto. Ulkolinjan Viivi Berghem tapasi Damaskoksessa vapaudesta nauttivia nuoria naisia.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-06-28T21:29:00+03:00'
         end_time: '2025-06-28T21:54:00+03:00'
+      - title: 'Salatut eläimet: Orava'
+        start_time: '2025-06-28T22:00:30+03:00'
+        end_time: '2025-06-28T22:20:00+03:00'
+        description: |
+          Ihmisen mielikuvitus on muovannut mytologisia petoja yllättävistäkin eläimistä - niin kuin vaikka oravasta! Aikojen alussa orava oli raivoisa jättiläinen, jonka jumalat kutistivat ihmistä suojellakseen. Sekä skandinaavinen mytologia, että useat intiaanilegendat ovat nähneet oravan pahasuisena suupalttina. Intialainen tarusto puolestaan arvostaa oravien puuhakasta ahkeruutta. 
+
+          Kalevalassa oravat liitetään oluen syntyyn. Sen kunniaksi Kaisa Pulakka selvittää ohjelmassaan, kuinka monta tuoppia olutta saisi yhdellä oravannahalla. Lukijana on Pietari Kylmälä.
       - title: Kielen päällä
         start_time: '2025-06-28T22:20:30+03:00'
         end_time: '2025-06-28T22:30:00+03:00'
         description: |-
           Toimittajana on Jari Aula.
+      - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikin pienet suuret idyllit: Kaustinen, Suomi'
+        start_time: '2025-06-28T22:30:30+03:00'
+        end_time: '2025-06-28T23:29:30+03:00'
+        description: |
+          Jos jostain suomalaisesta pitäjästä voi sanoa, että sen vaikutus on kokoaan suurempi, mieleen pomppaa ensimmäisenä kodikas Kaustinen. Kansanmusiikin tuntijat kautta maailman tiesivät kaustislaisen viulunsoiton jo muutenkin, mutta valinta UNESCO:n aineettoman kulttuuriperinnön kohteeksi auttaa muitakin matkailijoita löytämään oikeaan osoitteeseen. Kaustisella on pidetty huolta omasta perinteestä, ei vain kesäisten festivaalien aikana, vaan kaikkina vuodenaikoina arkea kohottamassa. Toimittajana Mika Kauhanen.
+      - title: Yöklassinen
+        start_time: '2025-06-28T23:40:00+03:00'
+        end_time: '2025-06-29T07:00:00+03:00'
+        description: |-
+          Klassista musiikkia.

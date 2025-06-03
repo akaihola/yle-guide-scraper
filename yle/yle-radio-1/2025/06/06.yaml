@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-02T02:37:54.165295+00:00'
+  generated_at: '2025-06-03T02:35:23.714077+00:00'
   git:
     branch: main
-    commit: d9112cdbee33b1a1192adccb79570e80fc2a5c45
-  data_hash: 20746eabd8a792f8b3a128c00be30bffb6b0f5fe8d504f5278e2ef27bb0d5d7e
+    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
+  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-06T06:30:50+03:00'
         end_time: '2025-06-06T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Sonninen): Nyt kuule, kutsuvasti (Seppo Laamanen, sello, ja Jouni Somero, piano).
+
+          Neumark: Sinussa, Kristus, luotiin kerran (SRK:n kuoro/Tauno Satomaa).
+
+          Hollantilainen sävelmä: Jeesus, luona armopöydän sinut löydän (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Sormunen: Tule luokse Jeesuksesi (Jukka Leppilampi).
+
       - title: Aamuhartaus
         start_time: '2025-06-06T06:50:00+03:00'
         end_time: '2025-06-06T06:59:59+03:00'
@@ -158,15 +167,25 @@ data:
         start_time: '2025-06-06T17:35:00+03:00'
         end_time: '2025-06-06T18:30:00+03:00'
         description: |-
-          Laulaja, etnomusikologi Karoliina Kantelinen taitaa niin vienankarjalaiset joikut, itkuvirret, loitsut kuin suomalais-ugrilaiset laulutyylitkin. Tässä pisteessä ei oltaisi ilman tiettyä, käänteentekevää kappaletta. Lempimusiikkiin ja elämään kuuluvat suuret tunteet, joita temperamentikas artisti selittää karjalaisilla juurillaan. Unohtumattomimmat esiitymiset liittyvät hetkiin, jolloin musiikki ja yhteys yleisöön nousee itseä suuremmaksi. Opettajan roolissa monipuolinen musiikin ammattilainen korostaa omista taidoista ja musiikista nauttimista. Toimittajana Marja Vehkanen.
+          Värttinä-yhtyeestäkin tuttu laulaja, etnomusikologi Karoliina Kantelinen taitaa niin vienankarjalaiset joikut, itkuvirret, loitsut kuin suomalais-ugrilaiset laulutyylitkin. Tässä pisteessä ei oltaisi ilman tiettyä, käänteentekevää kappaletta. Lempimusiikkiin ja elämään kuuluvat suuret tunteet, joita temperamentikas artisti selittää karjalaisilla juurillaan. Unohtumattomimmat esiitymiset liittyvät hetkiin, jolloin musiikki ja yhteys yleisöön nousee itseä suuremmaksi. Opettajan roolissa monipuolinen musiikin ammattilainen korostaa omista taidoista ja musiikista nauttimista. Toimittajana Marja Vehkanen.
       - title: Hartaita säveliä
         start_time: '2025-06-06T18:35:00+03:00'
         end_time: '2025-06-06T18:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Törmälä): Jeesus, sana elämän (Timotei/Pekka Perko).
+
+          Simojoki: Rukoile ja työtä tee (Markku Norovuori ja Tuula Sunnarborg, laulu, Jakaranda/ Pekka Simojoki, ja yhtye).
+
+          Leppänen: Kiittäkää Herran nimeä (Kamarikuoro Krysostomos/Mikko Sidoroff).
+
+          J. Kela: Jeesus jos huomaat (Pro Fide).
+
       - title: Iltahartaus
         start_time: '2025-06-06T18:50:00+03:00'
         end_time: '2025-06-06T19:00:00+03:00'
         description: |
-          Tuottaja-toimittaja Hilkka Nevala, Vantaa
+          "Järvessä uidessa sielukin puhdistuu"
+          Kesän perjantai-illoissa kuullaan terveisiä mökiltä. Tänään tuottaja-toimittaja Hilkka Nevala Vantaalta kuvaa mökkiluonnon kauneutta ja pyhyyttä.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-06T19:00:00+03:00'
         end_time: '2025-06-06T19:02:00+03:00'
