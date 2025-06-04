@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-03T02:35:24.385655+00:00'
+  generated_at: '2025-06-04T02:35:36.640822+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,35 @@ data:
         start_time: '2025-06-07T23:40:00+03:00'
         end_time: '2025-06-08T07:00:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Beethoven: Trio jousille n:o 2 G-duuri (Zürichin jousitrio).
+
+          00:06 Mendelssohn: Konsertto kahdelle pianolle ja orkesterille E-duuri (Katia ja Marielle Labèque ja Lontoon Philharmonia-ork./Semjon Bytshkov).
+
+          00:40 Schubert: Adagio pianolle, viululle ja sellolle Es-duuri (Anne-Sophie Mutter, viulu, Maximilian Hornung, sello, ja Daniil Trifonov, piano).  
+
+          00:48 Sibelius: Satu, sävelruno orkesterille (Göteborgin SO/Santtu-Matias Rouvali).  
+
+          01:08 Couperin: Messe pour les couvents (Kati Hämäläinen ja Ville Urponen, Helsingin Hyvän Paimenen kirkon urut, sekä vokaaliyhyte Plein-Jeu).
+
+          02:05 Raff: Jousikvartetto n:o 1 d-molli (Milanon jousikvartetti).
+
+          02:45 Smetana: Isänmaani, sarja sinfonisia runoja (Bostonin SO/Rafael Kubelik).
+
+          04:02 Reger: Viulukonsertto A-duuri (Tanja Becker-Bender ja Berliinin konserttitalon ork./Lothar Zagrosek).
+
+          04:45 Villa-Lobos: Bachianas brasileiras n:o 7 (Uuden maailman SO/Michael Tilson Thomas).
+
+          05:15 Saint-Saëns: Balettimusiikkia oopp. Ascanio (Victoria-ork./Guillaume Tourniaire).
+
+          05:40 Gouvy: Serenadi n:o 1 G-duuri (Markus Brönnimann, huilu, ja Ilka Emmert, kontrabasso, sekä Kreisler-kvartetti).
+
+          06:03 Sibelius: Dialogi (Cyril Szalkiewicz, piano).
+
+          06:06 J. Haydn (sov. Stegmann): Sinfonia n:o 75 D-duuri (Ivan Ilic, piano).
+
+          06:30 Leclair: Sonaatti viululle ja continuolle g-molli op.5/11 (Adrian Butterfield, viulu, Sarah McMahon, sello, ja Silas Wollston, cembalo).
+
+          06:46 C.P.E. Bach: Triosonaatti C-duuri (Merlin-yhtye).
       - title: Yle Uutiset
         start_time: '2025-06-08T07:00:00+03:00'
         end_time: '2025-06-08T07:02:05+03:00'
@@ -101,9 +129,11 @@ data:
         description: |-
           Neuvostoliittoon matkustettiin monesta syystä. Tässä ohjelmassa kerrotaan monenlaisia tarinoita Neuvostoliitosta. Miten ulkomaalaisena selvisi oudoista tilanteista.? Mitä me ylipäätään muistamme ja kuinka muistomme rakentuvat? Entä miten Putinin hyökkäys Ukrainaan muutti tapaamme muistaa Neuvostoliittoa?
           Toimittaja: Liisa Vihmanen. Haastateltavat: Raimo O Niemi, Venäjän ja Neuvostoliiton historian dosentti Pia Koivunen, Turun yliopisto. Äänisuunnittelija: Panu Willman.
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Metsäviklo'
         start_time: '2025-06-08T15:50:00+03:00'
         end_time: '2025-06-08T15:55:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Pentti Halenius.
       - title: Yle News
         start_time: '2025-06-08T15:55:00+03:00'
         end_time: '2025-06-08T15:58:00+03:00'
@@ -194,11 +224,12 @@ data:
 
           (Johanna Rusanen, sopraano, Ville Rusanen, baritoni, 
           Viron kansallinen mieskuoro, Polyteknikkojen Kuoro, sekä Radion sinfoniaorkesteri/Hannu Lintu).
-      - title: Sari Valto
+      - title: 'Sari Valto:  Vaikeat tunteet pitää kohdata, mutta aina se ei onnistu psykoterapiassa'
         start_time: '2025-06-08T22:27:00+03:00'
-        end_time: '2025-06-08T23:22:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        end_time: '2025-06-08T23:21:05+03:00'
+        description: |+
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+
       - title: Romano mirits
         start_time: '2025-06-08T23:25:00+03:00'
         end_time: '2025-06-08T23:39:30+03:00'
@@ -207,5 +238,27 @@ data:
       - title: Yöklassinen
         start_time: '2025-06-08T23:40:00+03:00'
         end_time: '2025-06-09T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Diabelli: Serenata concertante (Mikael Helasvuo, huilu, Jouko Mansnerus, alttoviulu, ja Jukka Savijoki, kitara).
+
+          00:03 Weigl: Jousikvartetto n:o 8 D-duuri (Thomas Christian Ensemble).
+
+          00:29 De Fesch: Joosef, oratorio (Claron McFadden, sopraano, Roberta Alexander, sopraano, Susanna von Mocayo Hase, altto, Nico van der Meel, tenori, Tom Sol, basso, Susanne ten Wolde, tyttösopraano, Jasper Schweppe, baritoni, ja Alankomaiden lapsikuoro sekä mieskuoro Viri Cantores, ja Musica ad Rhenum/Jed Wentz).
+
+          02:51 Farrenc: Sinfonia n:o 3 g-molli (Bretagnen ork./Stefan Sanderling).
+
+          03:26 Debussy: Viulusonaatti g-molli (Arthur Grumiaux, viulu, ja Riccardo Castagnone, piano).
+
+          03:39 Gernsheim: Jousikvartetto n:o 1 c-molli (Diogenes-kvartetti).
+
+          04:15 Liszt (sov.): Zwölf Lieder (Kaksitoista laulua) (Leslie Howard, piano).
+
+          05:12 Reger: Kvintetto klarinetille ja jousille A-duuri (Eduard Brunner ja Wilanow-kvartetti).
+
+          05:48 Gratiani: Ecco aperto l'abisso (Consortium Carissimi/Garrick Comeaux).
+
+          06:03 Tárrega: Preludi n:o 2 a-molli (Mattias Jacobsson, kitara).
+
+          06:06 Roman: Hautajaismusiikkia Fredrik I:lle, osia (Christina Högman, sopraano, ja Eric Ericsonin kamarikuoro sekä Drottningholmin barokkiyhtye/Eric Ericson).
+
+          06:16 Heinichen: Alkusoitto G-duuri (Il Fondamento/Paul Dombrecht).

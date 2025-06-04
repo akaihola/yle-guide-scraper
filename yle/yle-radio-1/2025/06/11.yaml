@@ -1,17 +1,41 @@
 metadata:
-  generated_at: '2025-06-03T02:35:25.147834+00:00'
+  generated_at: '2025-06-04T02:35:37.306415+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-06-10T23:40:00+03:00'
         end_time: '2025-06-11T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          J.S. Bach: Goldberg-muunnelmat (Minna Pensola, viulu, Antti Tikkanen, alttoviulu, ja Sergei Malov, viola da spalla).
+
+          00:31 Onslow: Kvintetto puhaltimille F-duuri (Stalder-kvintetti).
+
+          00:54 Brahms: Sinfonia n:o 1 c-molli (Philharmonia-ork./Otto Klemperer).
+
+          01:39 W.A. Mozart: Sonaatti pianolle ja viululle n:o 23 D-duuri (Fabio Biondi, viulu, ja Olga Tverskaja, fortepiano).
+
+          02:08 Veit: Jousikvartetto n:o 2 E-duuri (Kertész-kvartetti).
+
+          02:39 Palmgren: Tähdet tuikkivat (Risto Lauriala, piano).
+
+          02:43 Prokofjev: Balettisarja n:o 3 orkesterille bal. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          03:01 Beethoven: Sonaatti pianolle n:o 17 d-molli (Myrsky) (Svjatoslav Richter).
+
+          03:25 Messiaen: Aikojen lopun kvartetto viululle, klarinetille, sellolle ja pianolle (Ilja Kaler, Jonathan Cohler, Andrew Mark ja Janice Weber).
+
+          04:16 Tshaikovski: Tunteellinen valssi (Elissa Lee Koljonen, viulu, ja Robert König, piano).
+
+          04:20 Norman: Sinfonia n:o 2 Es-duuri (Helsingborgin SO/Hans-Peter Frank).
+
+          04:56 Brentner: Vesperae cum ordinariis psalmiis (Ensemble Inegal ja Prahan barokkisolistit/Adam Viktora).
+
+          05:26 Chopin: 24 etydiä pianolle op.10 ja op.25 (Nikita Magaloff).
       - title: Hartaita säveliä
         start_time: '2025-06-11T06:30:50+03:00'
         end_time: '2025-06-11T06:50:00+03:00'
@@ -146,7 +170,7 @@ data:
         end_time: '2025-06-11T19:02:00+03:00'
       - title: 'Hietsu is Happening! nro 62: Jokainen HiH!-minen on laulun arvoinen'
         start_time: '2025-06-11T19:02:00+03:00'
-        end_time: '2025-06-11T21:00:00+03:00'
+        end_time: '2025-06-11T20:45:00+03:00'
         description: |+
           Ei tule kesää ennen perinteistä Hietsu is Happeningin kesäkonserttia, joka kuullaan keskiviikkona 11.6. suorana Yle Radio 1:ssä ja Yle Areenassa. 
 

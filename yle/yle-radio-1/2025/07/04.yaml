@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-03T02:35:30.126894+00:00'
+  generated_at: '2025-06-04T02:35:42.325145+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-07-04T07:10:00+03:00'
         end_time: '2025-07-04T07:59:59+03:00'
+        description: |+
+          Vivaldi: Allegro konsertosta D-duuri (Marion Verbruggen, nokkahuilu, Dennis Godburn, fagotti, Paul Goodwin, oboe, John Holloway, viulu, ja John Toll, cembalo).
+
+          Finger: Sonaatti trumpetille, oboelle ja continuolle C-duuri (Ludwig Güttler ja Klaus-Peter Gutz sekä Leipzigin Bach-Collegium).
+
+          Ponce: Estrellita (Eliot Fiski, kitara).
+
+          T. Aulin: Idylli teoksesta Neljä akvarellia (Annemarie Åström, viulu, ja Sonja Fräki, piano).
+
+          Faure: Aurore (Aamunkoitto) (Stephen Varcoe, baritoni, ja Graham Johnson, piano).
+
+          Walter-Kühne - Tshaikovski: Fantasia harpulle Tshaikovskin oopp. Jevgeni Onegin teemoista (Emmanuel Ceysson). 
+
+          Heise: Fantasiakappale käyrätorvelle ja pianolle (Ib Lanzky-Otto ja Wilhelm Lanzky-Otto).
+
+          Morel: Jugueteando (David Russell, kitara).
+
+          Foster: Jeanie with the light brown hair (Chanticleer/Joseph Jennings). 
+
+          Falla: Naapurien tanssi bal. Kolmikolkkahattu (Chicagon SO/Fritz Reiner). 
+
       - title: Yle Uutiset ja sää
         start_time: '2025-07-04T08:00:00+03:00'
         end_time: '2025-07-04T08:10:00+03:00'

@@ -1,17 +1,43 @@
 metadata:
-  generated_at: '2025-06-03T02:35:24.792125+00:00'
+  generated_at: '2025-06-04T02:35:37.135264+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-06-09T23:40:00+03:00'
         end_time: '2025-06-10T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Tshaikovski: Jousikvartetto n:o 1 D-duuri (Lafayette-kvartetti). 
+
+          00:13 Roman: Viulukonsertto d-molli (Elizabeth Wallfisch ja Valistuksen ajan ork/Anthony Halstead, cembalo).
+
+          00:26 Rorem: From an unknown past (Tuntemattomasta menneisyydestä) (Brian Asawa, kontratenori, ja Los Angelesin kamariork./Jeffrey Kahane).
+
+          00:36 Brahms: Sonaatti klarinetille ja pianolle Es-duuri (Michael Collins ja Michael McHale).
+
+          00:58 Bridge: Meri (RSO/Sakari Oramo).
+
+          01:20 J.S. Bach: Das Wohltemperierte Klavier 2 (András Schiff, piano).
+
+          03:41 Lully: Divertissement n:o 2 (Patrice Michaels Bedi, sopraano, ja Chicagon barokkiyhtye).
+
+          03:51 Tshaikovski (sov. Shkolnik): Napolilainen tanssi (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          03:54 Beethoven: Serenadi huilulle, viululle ja alttoviululle D-duuri (Ransom Wilson, Ani Kavafian ja Paul Neubauer).
+
+          04:19 Bruckner: Sinfonia n:o 3 d-molli (Dresdenin valtionork./Giuseppe Sinopoli).
+
+          05:20 Melartin: Jousikvartetto n:o 1 e-molli (Meta4-kvartetti).
+
+          05:45 Moszkowski: Sarja kahdelle viululle ja pianolle (Ilja Gringolts, Aleksandr Bulov ja Irina Rjumina).
+
+          06:04 Salieri: Muunnelmia aiheesta La folia di Spagna (Wizards! -puhallinyhtye).
+
+          06:16 Janitsch: Sonata da chiesa d-molli (Epoca Barocca).
       - title: Hartaita säveliä
         start_time: '2025-06-10T06:30:50+03:00'
         end_time: '2025-06-10T06:50:00+03:00'
@@ -73,21 +99,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-10T09:05:40+03:00'
         end_time: '2025-06-10T09:58:00+03:00'
-        description: |-
-          Martin: Trolley song (Judy Garland).
+        description: |
+          Martin: The trolley song (Judy Garland).
           Alf: Ilusao a toa (Sylvia Telles).
-          G. Malmstén: Pot-pot-pot-pot (Potkut sain) (Ansa Ikonen ja Tauno Palo, laulu, sekä Dallapé).
+          G. Malmstén: Pot-pot-pot-pot (Potkut sain) (Ansa Ikonen ja Tauno Palo).
           Loewe: On the street where you live (Quincy Jones).
           Gullmar: Swing it, magistern (Alice Babs).
           Weisman: Moonlight swim (Anthony Perkins). 
           Mancini: Für immer (Lys Assia). 
-          Young: Around the world in eighty days valssi (Nat King Cole). 
+          Young: Around the world in eighty days (Nat King Cole). 
           Ortolani: Taas (Lilja Luukkanen).
           Schobben: Trumpet tango (Eddie Calvert).
-          Bernstein: Maria (Dave Grusin, Jonathan Butler).
+          Bernstein: Maria (Jonathan Butler).
           Stroll/Gottehrer: Hetki lyö (Kirka & The Islanders).
           Dumont: Flons flons du bal (Edith Piaf).
-          Compari/Cozzoli: Keskiyö (Seppo Pirhonen ja E. Bossen ork.).
+          Compari/Cozzoli: Keskiyö (Seppo Pirhonen).
           Sundgren: Kesän laulu (Marion Rung).
       - title: Sari Valto
         start_time: '2025-06-10T10:00:00+03:00'
@@ -126,8 +152,12 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-06-10T15:02:00+03:00'
         end_time: '2025-06-10T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Kalakukotkin pistävät jalalla koreasti kun kesäfestarit starttaavat Kuopiossa. 
+          Kuopio tanssii ja soi -festivaalien uusi johtaja Kenneth Kvarnström on modernisoinut tapahtuman ilmeen. Festivaalien kesto on pysynyt entisellään mutta eri esityksiä on aiempaa vähemmän. Miltä tapahtuman tulevaisuus näyttää ja mihin suuntaan Kvarnström haluaa festivaalia viedä?
+
+          Toimittajana on Liisa Vihmanen
+
       - title: Yle News
         start_time: '2025-06-10T15:55:00+03:00'
         end_time: '2025-06-10T15:58:00+03:00'
@@ -173,9 +203,11 @@ data:
         description: |+
           Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
 
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Metsäviklo'
         start_time: '2025-06-10T18:30:00+03:00'
         end_time: '2025-06-10T18:35:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Pentti Halenius.
       - title: Hartaita säveliä
         start_time: '2025-06-10T18:35:00+03:00'
         end_time: '2025-06-10T18:50:00+03:00'
@@ -296,5 +328,29 @@ data:
       - title: Yöklassinen
         start_time: '2025-06-10T23:40:00+03:00'
         end_time: '2025-06-11T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          J.S. Bach: Goldberg-muunnelmat (Minna Pensola, viulu, Antti Tikkanen, alttoviulu, ja Sergei Malov, viola da spalla).
+
+          00:31 Onslow: Kvintetto puhaltimille F-duuri (Stalder-kvintetti).
+
+          00:54 Brahms: Sinfonia n:o 1 c-molli (Philharmonia-ork./Otto Klemperer).
+
+          01:39 W.A. Mozart: Sonaatti pianolle ja viululle n:o 23 D-duuri (Fabio Biondi, viulu, ja Olga Tverskaja, fortepiano).
+
+          02:08 Veit: Jousikvartetto n:o 2 E-duuri (Kertész-kvartetti).
+
+          02:39 Palmgren: Tähdet tuikkivat (Risto Lauriala, piano).
+
+          02:43 Prokofjev: Balettisarja n:o 3 orkesterille bal. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          03:01 Beethoven: Sonaatti pianolle n:o 17 d-molli (Myrsky) (Svjatoslav Richter).
+
+          03:25 Messiaen: Aikojen lopun kvartetto viululle, klarinetille, sellolle ja pianolle (Ilja Kaler, Jonathan Cohler, Andrew Mark ja Janice Weber).
+
+          04:16 Tshaikovski: Tunteellinen valssi (Elissa Lee Koljonen, viulu, ja Robert König, piano).
+
+          04:20 Norman: Sinfonia n:o 2 Es-duuri (Helsingborgin SO/Hans-Peter Frank).
+
+          04:56 Brentner: Vesperae cum ordinariis psalmiis (Ensemble Inegal ja Prahan barokkisolistit/Adam Viktora).
+
+          05:26 Chopin: 24 etydiä pianolle op.10 ja op.25 (Nikita Magaloff).

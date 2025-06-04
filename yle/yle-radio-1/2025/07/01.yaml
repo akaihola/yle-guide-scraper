@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-03T02:35:29.402156+00:00'
+  generated_at: '2025-06-04T02:35:41.556411+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-07-01T07:10:00+03:00'
         end_time: '2025-07-01T07:59:59+03:00'
+        description: |+
+          Eisler: Laulu rahan kiihottavasta vaikutuksesta (Holger Falk, baritoni ja Steffen Schleiermacher, piano).
+
+          Satie: Poudre d'or (Kultapölyä) (Lamoureux-ork./Yutaka Sado).
+
+          J. Chydenius: Ei runo rahatta laula (Ahjo Ensemble/Paavo Hyökki).
+
+          Puccini: Musettan valssi oopp. La Bohème (Boston Pops/Arthur Fiedler).
+
+          Rota: Teema elokuvasta Kummisetä (Naoko Yoshino, harppu).
+
+          Lehár: Kultaa ja hopeaa (Cincinnati Pops/Erich Kunzel).
+
+          Head: Money, O! (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+
+          Beethoven: Rondo a capriccio G-duuri "Kiukku kadonneen kolikon takia" (Berliinin saksal. sinf.ork./Roland Kluttig).
+
+          Andersson, Ulvaeus: Money, money, money (Cellomania).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-07-01T08:00:00+03:00'
         end_time: '2025-07-01T08:10:00+03:00'
@@ -38,6 +57,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-01T09:05:40+03:00'
         end_time: '2025-07-01T09:58:00+03:00'
+        description: |-
+          Kristofferson: Laulun pienen laulaisin (Ami Aspelund).
+          Sarstedt: Where do you go to my lovely  (Peter Sarstedt).
+          Theodorakis: Un fiume amaro (Iva Zanicchi).
+          Smith: Back water blues (Dinah Washington).
+          Soikkeli: Bushwick stomp (Rhythm Future Quartet). 
+          McTell: Streets of London (Harry Belafonte).
+          Botkin: Kaipuun kukka (Tuula Ikäheimo).
+          Brassens: Les deux oncles (Georges Brassens, Barthelemy Rosso, Pierre Nicolas).
+          Sundgren:  En enää vaieta mä voi (Eino Grön).
+          Parton: I will always love you (Dolly Parton).
+          Christopher/Thompson/James: Always on My Mind (Elvis Presley.)
       - title: Sari Valto
         start_time: '2025-07-01T10:00:00+03:00'
         end_time: '2025-07-01T10:55:00+03:00'

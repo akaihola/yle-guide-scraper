@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-03T02:35:28.281633+00:00'
+  generated_at: '2025-06-04T02:35:40.536478+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
@@ -136,6 +136,11 @@ data:
         end_time: '2025-06-26T19:00:00+03:00'
         description: |-
           Maanantaista lauantaihin
+      - title: Etnokonsertteja
+        start_time: '2025-06-26T19:02:00+03:00'
+        end_time: '2025-06-26T20:37:00+03:00'
+        description: |
+          Tänä vuonna tulee kuluneeksi 100 vuotta kuubalaisen laulajattaren, Salsan kuningattaren, Celia Cruzin (1925–2003) syntymästä. Kuulemme laulajatar Celia Cruzin ja Tito Puenten -orkesterin konsertin Fabrik -klubilla Hampurissa heinäkuussa 1990. Konsertin on taltioinut Pohjois-Saksan yleisradioyhtiö NDR. Toimittajana on Miika Lauriala. 
       - title: 'Sorvali & Stellan - päätapahtumia: “Kattokaa ny plikat, tuolla on hirvi”'
         start_time: '2025-06-26T21:35:00+03:00'
         end_time: '2025-06-26T22:08:00+03:00'

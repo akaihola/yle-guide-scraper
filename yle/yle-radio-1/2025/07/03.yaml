@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-03T02:35:29.786780+00:00'
+  generated_at: '2025-06-04T02:35:41.955289+00:00'
   git:
     branch: main
-    commit: fc9a4c761e2138b16f0045766068d1558f1ed44b
-  data_hash: be371f937c6ca4aeec77f8df07c92e7df672f3b22079bd0606a98bbb15f6e011
+    commit: 5af4512e3abce5c61757bd316f43c6104353c6e0
+  data_hash: 53380207dd3a91eb94a30640db1b85b4422d5be8e512c62b8607699714db9d73
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-07-03T07:10:00+03:00'
         end_time: '2025-07-03T07:59:59+03:00'
+        description: |+
+          W.A. Mozart: Finaali sinfoniasta n:o 38 "Prahalainen" (RSO/Sakari Oramo).
+
+          Bon: Divertimento n:o 6 A-duuri (Sabine Dreier ja Peter Spohr, traverso, Rhoda Patrick, fagotti, Tatjana Geiger, cembalo, ja Thorsten Bleich, arkkiluuttu).
+
+          Grieg: Koti-ikävä e-molli op.57/6 sarj. Lyyrisiä kappaleita (Stephen Hough, piano).
+
+          Dvorak: Allegro appassionato sarjasta Romanttisia kappaleita op.75 (Isaac Stern, viulu, ja Robert McDonald, piano).
+
+          Erkel: Palotache (czardas) oopp. Hunyadi László (Tonavan SO/Domonkos Héja).
+
+          Schubert: Der Gondelfahrer (Robert Shaw Chamber Singers/Robert Shaw, sekä Norman Mackenzie, piano). 
+
+          Doucet: Chopinata viihdesovitus (Marc-Andre Hamelin, piano).
+
+          Lehár: llonan ja Dragotinin duetto oper. Mustalaisrakkautta (Angelika Kirchschlager, mezzosopraano, ja Simon Keenlyside, baritoni, sekä Tonkünstler-Orchester Niederösterreich, joht. Alfred Eschwé).
+
+          Desplat: It's romance elok. Little women (Pikku naisia) (Ork./Alexandre Desplat).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-07-03T08:00:00+03:00'
         end_time: '2025-07-03T08:10:00+03:00'
