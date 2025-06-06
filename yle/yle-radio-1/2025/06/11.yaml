@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-05T02:35:27.435012+00:00'
+  generated_at: '2025-06-06T02:35:32.546866+00:00'
   git:
     branch: main
-    commit: 9e8a8140dc804c705243872a7e4fb102fc99fa2c
-  data_hash: bc4720e7c2105c6a5d6bd3abb7d1f073ad38bc8818c4a6fbce2d74003a5de89a
+    commit: 838b5c0bf102e1f7278ca627b5ee290cdd64ef89
+  data_hash: 38c37d23988077a097a8f701c2076c4e6fada1786ae6bf4ded035874792ae2d4
 data:
   Yle Radio 1:
     programmes:
@@ -144,14 +144,15 @@ data:
         description: |-
           Aura Koiviston uutuusromaani Lahottajat (Into, 2025) kertoo sienten ja ihmisten yhteiselosta syrjäkylässä. Tarinassa pappi näkee sienissä jumaluutta, muusikko kuuntelee sienisinfonioita ja mummo kietoutuu sienirihmastoon. Kirja tarkastelee ihmisyyttä uusista näkökulmista ja esittelee hämmästyttävää sienitietoa – niiden kyvyt ja lajit ovat moninaiset, ja sienet voivat olla yhteistyökumppaneita tai loisia.
 
-          Sienistä voisi olla apua myös mielenterveysongelmien hoidossa. Psilobiinit ovat luonnossa esiintyviä, erityisesti tietyissä sienissä esiintyviä psykoaktiivisia yhdisteitä, jotka vaikuttavat aivojen serotoniinireseptoreihin. Tutkimusten mukaan psilobiini voi lievittää vaikeaa masennusta ohjatun psykoterapian yhteydessä.Tutkimus kuitenkin takkuaa, esteitä on monia. 
+          Sienistä voisi olla apua myös mielenterveysongelmien hoidossa. Psilobiinit ovat luonnossa esiintyviä, erityisesti tietyissä sienissä esiintyviä psykoaktiivisia yhdisteitä, jotka vaikuttavat aivojen serotoniinireseptoreihin. Tutkimusten mukaan psilobiini voi lievittää vaikeaa masennusta ohjatun psykoterapian yhteydessä. Hannu Alhon johtama tutkimus selvitti, miten psilobysiineillä voitaisiin hoitaa alkoholiriippuvuutta.
 
           Sienet ovat sopeutumisen mestareita. Biokemistin ja Jyväskylän yliopiston biokemian emeritusprofessorin Matti Vuennon uusi tietokirja Hämmästyttävät sienet (Gaudeamus, 2025) kertoo sienten viihtyvien yhtä lailla kuivissa ja märissä sekä kuumissa ja kylmissä ympäristöissä - myös meissä ihmisissäkin.
 
           Sienet ovatkin läsnä myös suositussa pelissä The Last of Us ja sen pohjalta tuotetussa draamasarjassa (MAX), jossa ihmiskunta kamppailee ihmiset tunnistamattomiksi hirviöiksi muuttavan tartunnan kautta. Tartunnan saanut ihminen alkaa puskea ruumistaan sienimäisiä ulokkeita menettäen oman kehonsa ja mielensä hallinnan.
 
-          Mikä on ihmisen ja sienten suhde, ja kumpi voittaisi taistelussa, sienet vai ihmiset? Voiko sienistä todellisuudessa kasvaa uhka ihmiskunnalle? Ja voivatko sienet olla apuna mielenterveysongelmien hoidossa?
-          Haastateltavana on kirjailija Aura Koivisto ja biokemisti, Jyväskylän yliopiston biokemian emeritusprofessori Matti Vuento.
+          Mikä on ihmisen ja sienten suhde, ja kumpi voittaisi taistelussa, sienet vai ihmiset? Voiko sienistä todellisuudessa kasvaa uhka ihmiskunnalle? Ja voivatko sienet olla apuna mielenterveysongelmien ja päihdeongelmien hoidossa?
+
+          Haastateltavina ovat kirjailija Aura Koivisto, päihdelääketieteen professori emeritus Hannu Alho ja biokemisti ja Jyväskylän yliopiston biokemian emeritusprofessori Matti Vuento.
 
           Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
@@ -215,27 +216,24 @@ data:
         end_time: '2025-06-11T19:02:00+03:00'
       - title: 'Hietsu is Happening! nro 62: Jokainen HiH!-minen on laulun arvoinen'
         start_time: '2025-06-11T19:02:00+03:00'
-        end_time: '2025-06-11T20:45:00+03:00'
+        end_time: '2025-06-11T21:30:00+03:00'
         description: |+
           Ei tule kesää ennen perinteistä Hietsu is Happeningin kesäkonserttia, joka kuullaan keskiviikkona 11.6. suorana Yle Radio 1:ssä ja Yle Areenassa. 
 
           Kesäkonsertin ohjelmisto on komea kattaus klassista, jazzia ja kansanmusiikkia. On sooloa, duoa, trioa, kvartettia ja ilta huipentuu, kun koko porukasta kootaan lopussa suuri Hietsun Orkesteri. Veikko Lavin hengessä käymme löysin rantein silakka-apajalle ja jokainen HiH!-minen todellakin on laulun arvoinen!
 
-      - title: Yle Uutiset
-        start_time: '2025-06-11T21:00:00+03:00'
-        end_time: '2025-06-11T21:02:00+03:00'
       - title: Politiikkaradio
-        start_time: '2025-06-11T21:05:00+03:00'
-        end_time: '2025-06-11T21:34:30+03:00'
-      - title: Havaintoja muutoksesta
         start_time: '2025-06-11T21:35:00+03:00'
-        end_time: '2025-06-11T22:25:00+03:00'
+        end_time: '2025-06-11T22:05:00+03:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2025-06-11T22:05:30+03:00'
+        end_time: '2025-06-11T22:55:00+03:00'
       - title: 'Radioteatteri esittää:'
-        start_time: '2025-06-11T22:30:00+03:00'
-        end_time: '2025-06-11T22:50:30+03:00'
+        start_time: '2025-06-11T22:55:30+03:00'
+        end_time: '2025-06-11T23:15:30+03:00'
       - title: 'Radioteatteri esittää:'
-        start_time: '2025-06-11T22:50:30+03:00'
-        end_time: '2025-06-11T23:12:30+03:00'
+        start_time: '2025-06-11T23:15:30+03:00'
+        end_time: '2025-06-11T23:37:30+03:00'
       - title: Yöklassinen
         start_time: '2025-06-11T23:40:00+03:00'
         end_time: '2025-06-12T06:30:00+03:00'
