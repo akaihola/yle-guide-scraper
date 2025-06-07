@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-06T02:35:43.147462+00:00'
+  generated_at: '2025-06-07T02:34:46.225897+00:00'
   git:
     branch: main
-    commit: 838b5c0bf102e1f7278ca627b5ee290cdd64ef89
-  data_hash: 38c37d23988077a097a8f701c2076c4e6fada1786ae6bf4ded035874792ae2d4
+    commit: fe928beaf1e7a3088e2bdeb1ba789b4bb0099d3a
+  data_hash: 75e6cdbebc15ed765ee01898cef5ad5ca9b31245602f1865b06c5df48fc0e8aa
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-07-08T07:10:00+03:00'
         end_time: '2025-07-08T07:59:59+03:00'
+        description: |+
+          Schubert: Saksalainen tanssi D-duuri (Göran Söllscher, kitara).
+
+          Brahms: Allegro appassionato sonaatista klarinetille ja pianolle Es-duuri (Franklin Cohen ja Vladimir Ashkenazy).
+
+          Whitacre: The Seal lullaby (Voces8 ja Lavinia Meijer, harppu).
+
+          Viviani: Sonaatti trumpetille ja continuolle n:o 1 C-duuri (Håkan Hardenberger ja I Musici).
+
+          Durante: Konsertto jousille ja continuolle n:o 9  B-duuri (Accademia dell'Annunciata/Riccardo Doni).
+
+          Chopin - Godowsky: Etydi n:o 45 E-duuri (Marc-André Hamelin, piano).
+
+          Drigo: Serenadi bal. Harlekiinin miljoonat (James Galway, huilu, ja Lontoon kansallinen FO/Charles Gerhardt). 
+
+          de Falla: Myllärin tanssi bal. Kolmikolkkahattu (Petri Kumela ja Joonas Widenius, kitara).
+
+          Squire: Vanha ruotsalaissävelmä (Susanna Mälkki, sello, ja Martti Rautio, piano).
+
+          Fauré: Le jardin de Dolly (Dollyn puutarha) sarjasta Dolly (Bostonin SO/Seiji Ozawa).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-07-08T08:00:00+03:00'
         end_time: '2025-07-08T08:10:00+03:00'
@@ -110,7 +131,7 @@ data:
         start_time: '2025-07-08T18:50:00+03:00'
         end_time: '2025-07-08T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Timo Koivisto, Vapaaseurakunta, Jyväskylä
       - title: Ääniversumi
         start_time: '2025-07-08T19:02:00+03:00'
         end_time: '2025-07-08T19:40:00+03:00'

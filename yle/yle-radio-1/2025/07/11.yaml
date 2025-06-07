@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-06T02:35:44.001865+00:00'
+  generated_at: '2025-06-07T02:34:47.012686+00:00'
   git:
     branch: main
-    commit: 838b5c0bf102e1f7278ca627b5ee290cdd64ef89
-  data_hash: 38c37d23988077a097a8f701c2076c4e6fada1786ae6bf4ded035874792ae2d4
+    commit: fe928beaf1e7a3088e2bdeb1ba789b4bb0099d3a
+  data_hash: 75e6cdbebc15ed765ee01898cef5ad5ca9b31245602f1865b06c5df48fc0e8aa
 data:
   Yle Radio 1:
     programmes:
@@ -12,3 +12,142 @@ data:
         end_time: '2025-07-11T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-07-11T06:30:50+03:00'
+        end_time: '2025-07-11T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2025-07-11T06:50:00+03:00'
+        end_time: '2025-07-11T06:59:59+03:00'
+        description: |-
+          Seurakuntapastori Elias Riikonen, Hämeenlinna
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-11T07:00:00+03:00'
+        end_time: '2025-07-11T07:10:00+03:00'
+      - title: Aamusoitto
+        start_time: '2025-07-11T07:10:00+03:00'
+        end_time: '2025-07-11T07:59:59+03:00'
+        description: |+
+          Vivaldi: Allegro konsertosta D-duuri (Tikli) (Maurice Steger, nokkahuilu, ja I Barocchisti/Diego Fasolis).
+
+          W.A. Mozart: Neljä kontratanssia (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          J.S. Bach: Sarabande soolosellosarjasta n:o 1 G-duuri (Gavriel Lipkind, sello).
+
+          Brahms: Finaali triosta Es-duuri (Sukjun Lee, Hojin Jung, ja Sujin Park).
+
+          L. Boulanger: Vanha puutarha (Margit Rahkonen, piano).
+
+          Rossini: Balettimusiikkia oopp. Wilhelm Tell (Milanon Giuseppe Verdi -SO/Riccardo Chailly).
+
+          Madetoja: Aamu (Eeva Rysä, sello, ja Jouko Laivuori, piano).
+
+          Mertz: Keijukaisten karkelo (Richard Savino, kitara).
+
+          Granados: Espanjalainen tanssi n:o 7 (Alicia de Larrocha, piano).
+
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-11T08:00:00+03:00'
+        end_time: '2025-07-11T08:10:00+03:00'
+      - title: Ykkösaamu
+        start_time: '2025-07-11T08:10:00+03:00'
+        end_time: '2025-07-11T09:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-07-11T09:00:00+03:00'
+        end_time: '2025-07-11T09:05:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-07-11T09:05:40+03:00'
+        end_time: '2025-07-11T09:58:00+03:00'
+      - title: Raha-Suomen henkilökuvat - Ilkka Paananen
+        start_time: '2025-07-11T10:00:00+03:00'
+        end_time: '2025-07-11T10:30:00+03:00'
+        description: |-
+          Ilkka Paananen tunnetaan mobiilipeliyhtiö Supercellin ja koko Suomen peliteollisuuden keulakuvana ja kovimpien veronmaksajien listan vakionimenä. Raha-Suomi-dokumenttisarjaa varten Ilkka Paanasta haastatteli ja hänen henkilökuvansa toimitti Pekka Laine.
+      - title: Raha-Suomen henkilökuvat - Jaajo Linnonmaa
+        start_time: '2025-07-11T10:30:00+03:00'
+        end_time: '2025-07-11T11:00:00+03:00'
+        description: |-
+          Jaajo Linnonmaa on tullut tunnetuksi sarjayrittäjänä sekä radio- ja televisiojuontajana. Linnonmaata haastatteli ja hänen henkilökuvansa toimitti Simo Sipola. 
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-07-11T11:57:00+03:00'
+        end_time: '2025-07-11T12:00:00+03:00'
+        description: |-
+          Larin-Kyöstin runo Koko maailman polska. Kokoelmasta Kylän lauluja 1898.
+      - title: 'Tuntematon Ruotsi: Katsaus Ruotsin 500-vuotiseen historiaan'
+        start_time: '2025-07-11T13:00:00+03:00'
+        end_time: '2025-07-11T13:35:00+03:00'
+        description: |
+          Sarjan ensimmäisessä osassa on vieraana Euroopan historian professori Laura Kolbe. Hän kertaa toimittaja Jari Aulan haastattelussa Ruotsin 500-vuotiseen historiaan liittyviä asioita Kustaa Vaasasta perintösäännön kautta Janten lakiin.
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-07-11T13:35:00+03:00'
+        end_time: '2025-07-11T15:00:00+03:00'
+        description: |2+
+
+
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2025-07-11T16:10:00+03:00'
+        end_time: '2025-07-11T16:59:00+03:00'
+        description: |
+          Vivaldi: Allegro (1. osa) konsertosta kahdelle viululle, jousille ja continuolle a-molli (Kreeta-Maria Kentala, Siiri Virkkala ja Barocco Boreale). 
+
+          Sermisy: Jouyssance vous donneray (Clare Wilkinson, sopraano, ja Jacob Heringman, luuttu). 
+
+          Elfving: Vaggsång för Märtha (Kehtolaulu Märtalle) (Maria Suokas, piano).
+
+          Rangström: Vinden och trädet (Miah Persson, sopraano, ja Roger Vignoles, piano). 
+
+          Kuula: Lampaanpolska (Ralf Gothóni, piano).
+
+          Ranta: Kansansävelmä (Mauno Kuusisto, tenori, ja ork./George de Godzinsky). 
+
+          Corelli: Allemanda (2. osa) Concerto grossosta n:o 10 C-duuri (Pavlo Beznosiuk, viulu, ja The Avison Ensemble). 
+
+          Lysenko (sov. Olli): Nitsh jaka misjatshna (Kirkas kuutamoyö) (Petrus Schroderus, tenori, Kampin Laulu, ja Vantaan Viihdeork./Alberto Hold-Garrido), 
+
+          Mahler: Adagietto (Sehr langsam) (4. osa) Sinfoniasta n:o 5 cis-molli (Kölnin radion sinfoniaork./Jukka-Pekka Saraste). 
+
+          Schubert: Ständchen kok. Schwanengesang (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+      - title: 'Nappikukasta nokkoseen: Takiainen - lintujen talviruokaa ja selkäkipuja'
+        start_time: '2025-07-11T17:10:00+03:00'
+        end_time: '2025-07-11T17:34:20+03:00'
+        description: |
+          Lähde mukaan Tiina Harpfin luotsaamille retkille, joissa tutustutaan erilaisten kasvien olemukseen ja kulttuurihistoriaan. Tiklien suosiossa olevat takiaiset saattavat kasvaa korkeiksi ja komeiksi. Niitä on käytetty lääkinnällisiin tarkoituksiin ja kelpaavatpa ne ruokapöytäänkin. Takiaisia Tiina Harpfin kanssa etsivät professori Kari Heliövaara, dosentti Ari-Pekka Huhta, arkistotutkija Liisa Lehto, nimistöasiantuntija Tiina Manni-Lindqvist ja opettaja Tiina Hihnavaara.   
+      - title: Näistä levyistä en luovu
+        start_time: '2025-07-11T17:35:00+03:00'
+        end_time: '2025-07-11T18:30:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Hartaita säveliä
+        start_time: '2025-07-11T18:35:00+03:00'
+        end_time: '2025-07-11T18:50:00+03:00'
+      - title: Iltahartaus
+        start_time: '2025-07-11T18:50:00+03:00'
+        end_time: '2025-07-11T19:00:00+03:00'
+        description: |-
+          Tuottaja-toimittaja Elina Vaittinen, Helsinki
+      - title: Barokin tulkintoja Eevan, Juditin ja Batseban tarinoista
+        start_time: '2025-07-11T19:02:00+03:00'
+        end_time: '2025-07-11T21:00:00+03:00'
+        description: |+
+          Alessandro Scarlatti (1660-1725): Kohtauksia oratoriosta “Cain, overo Il primo omicidio”
+
+          Antonio Caldara (ca 1670-1736): Kohtauksia oratoriosta “La morte d'Abele”
+
+          Nicola Porpora (1686-1768): Kohtauksia oratoriosta “'Davide e Bersabea”
+
+          Antonio Vivaldi (1678-1741): Konsertto viola d'amorelle d-molli, RV 394
+
+          Antonio Vivaldi: Kohtauksia oratoriosta “Juditha Triumphans” RV 644
+
+
+          Shira Patchornik, sopraano
+          Accademia Bizantina, joht. Ottavio Dantone
+
+          Äänitetty 7.6.2025 Melkin barokkimusiikkijuhlilla, Itävallassa. Toimittajana Ainomaija Pennanen. 
+
+          Kuvassa Shira Patchornik © Dirk Brzoska.
+
+      - title: 'Tuntematon Ruotsi: Katsaus Ruotsin 500-vuotiseen historiaan'
+        start_time: '2025-07-11T21:05:00+03:00'
+        end_time: '2025-07-11T21:38:34+03:00'
+        description: |
+          Sarjan ensimmäisessä osassa on vieraana Euroopan historian professori Laura Kolbe. Hän kertaa toimittaja Jari Aulan haastattelussa Ruotsin 500-vuotiseen historiaan liittyviä asioita Kustaa Vaasasta perintösäännön kautta Janten lakiin.
