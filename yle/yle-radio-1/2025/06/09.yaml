@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-08T02:40:54.967666+00:00'
+  generated_at: '2025-06-09T02:39:34.306800+00:00'
   git:
     branch: main
-    commit: 8ba9312cad64f93c7e757f2f4929b9c904fd730e
-  data_hash: 6b830c13d2412bbcb6c798b64aeda225e10499adcafe7454fd92d03f21005480
+    commit: a45b9b15674ab25d0e4f92184954b71519ab3986
+  data_hash: 3073db2ca253da0be861d720e705a2ce469dce8d637ef39bc63bea4312cf68de
 data:
   Yle Radio 1:
     programmes:
@@ -122,6 +122,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-09T11:57:00+03:00'
         end_time: '2025-06-09T12:00:00+03:00'
+        description: |-
+          Lukijana Kaisa Ranta
       - title: Yle Uutiset ja sää
         start_time: '2025-06-09T12:00:00+03:00'
         end_time: '2025-06-09T12:10:00+03:00'
@@ -260,22 +262,22 @@ data:
         start_time: '2025-06-09T21:05:00+03:00'
         end_time: '2025-06-09T21:34:30+03:00'
       - title: 'Tiedeykkönen: Näin melu saa kehon epäkuntoon'
-        start_time: '2025-06-09T21:35:00+03:00'
-        end_time: '2025-06-09T22:15:48+03:00'
+        start_time: '2025-06-09T21:35:20+03:00'
+        end_time: '2025-06-09T22:16:08+03:00'
         description: |+
           Melu on tutkimusten mukaan yhteydessä sydänsairauksiin ja jopa ylipainoon. Mitä elimistössämme tapahtuu, kun altistumme melulle? Haasteltavina THL:n tutkija Timo Lanki ,erikoislääkäri Marja Heinonen-Guzejev ja äänentutkija Meri Kytö. Toimittajana Minna Korhonen.
 
 
       - title: 'Tarua ja totta toisesta maailmansodasta: Natsi-Saksan sankareita '
-        start_time: '2025-06-09T22:25:00+03:00'
-        end_time: '2025-06-09T22:44:46+03:00'
+        start_time: '2025-06-09T22:24:09+03:00'
+        end_time: '2025-06-09T22:43:55+03:00'
         description: |
           Natsi-Saksassa tehtiin sodan aikana paljon elokuvia. Propagandakoneisto suorastaan tehtaili niitä. Millaisia olivat näiden elokuvien sankarit? Voisiko näitä elokuvia taas näyttää Suomessa? Natsi-Saksan näkökulmaa edustavista elokuvista keskustelevat Kavin erikoistutkija Jari Sedergren ja toimittaja Jukka Kuosmanen. 
 
           Sarjassa keskustellaan siitä kuinka toisesta maailmansodasta tehdyt elokuvat ovat vaikuttaneet maailmankuvaamme ja käsitykseemme historiallisista tosiasioista.
       - title: Näistä levyistä en luovu
-        start_time: '2025-06-09T22:45:00+03:00'
-        end_time: '2025-06-09T23:39:35+03:00'
+        start_time: '2025-06-09T22:44:43+03:00'
+        end_time: '2025-06-09T23:39:18+03:00'
         description: |-
           Värttinä-yhtyeestäkin tuttu laulaja, etnomusikologi Karoliina Kantelinen taitaa niin vienankarjalaiset joikut, itkuvirret, loitsut kuin suomalais-ugrilaiset laulutyylitkin. Tässä pisteessä ei oltaisi ilman tiettyä, käänteentekevää kappaletta. Lempimusiikkiin ja elämään kuuluvat suuret tunteet, joita temperamentikas artisti selittää karjalaisilla juurillaan. Unohtumattomimmat esiitymiset liittyvät hetkiin, jolloin musiikki ja yhteys yleisöön nousee itseä suuremmaksi. Opettajan roolissa monipuolinen musiikin ammattilainen korostaa omista taidoista ja musiikista nauttimista. Toimittajana Marja Vehkanen.
       - title: Yöklassinen
