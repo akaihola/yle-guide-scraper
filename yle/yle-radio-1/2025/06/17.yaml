@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-09T02:39:37.151639+00:00'
+  generated_at: '2025-06-10T02:36:32.921333+00:00'
   git:
     branch: main
-    commit: a45b9b15674ab25d0e4f92184954b71519ab3986
-  data_hash: 3073db2ca253da0be861d720e705a2ce469dce8d637ef39bc63bea4312cf68de
+    commit: db93f54f5a36ba5b5814a3c63e377755a3585269
+  data_hash: db37b77ff05677a6c4dda60d6218407d3ac3351e5d42586fa9b04db82f097522
 data:
   Yle Radio 1:
     programmes:
@@ -81,11 +81,29 @@ data:
         end_time: '2025-06-17T10:55:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Riemua rintaan'
         start_time: '2025-06-17T11:00:00+03:00'
         end_time: '2025-06-17T11:57:00+03:00'
-        description: |-
+        description: |
+          Minkälainen musiikki voisi tehdä vaikutuksen työpaikkaa anoessa?
+          Carl Philipp Emanuel Bach oli tympääntynyt Fredrik Suuren hovimuusikkona toimimiseen, ja halusi uuteen pestiin. Näyttääkseen taitonsa hän sävelsi ensimmäisen suurimuotoisen teoksensa, Magnificatin. Se on täynnä riemua, herkkyyttä ja voimaa, surumieltäkin. Loisteliaat kuoronumerot, herkät ja virtuoosiset sooloaariat ja moninainen orkesterinkäyttö tekee teoksesta musiikkia, josta jokainen voi saada iloa päiväänsä.
+
+
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikki:
+
+          Carl Philipp Emanuel Bach:
+          Magnificat Wq215 
+
+          (Elizabeth Watts, sopraano,
+          Wiebke Lehmkuhl, altto 
+          Lothar Odinius, tenori, 
+          Markus Eiche, basso,
+          RIAS-kamarikuoro ja Akademie für alte Musik Berlin joht. Hans-Christoph Rademann).
+
+          Lisäksi ote Et misericordia eius- osasta vuoden 1749 version mukaan (Joélle Harvey, sopraano, Olivia Vermeulen, mezzosopraano, Arcangelo-kuoro ja -kamariorkesteri/Jonathan Cohen).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-17T11:57:00+03:00'
         end_time: '2025-06-17T12:00:00+03:00'
@@ -168,9 +186,11 @@ data:
           Mike Oldfield: To France
           M: Puhu mut pyörryksiin
           Grace Jones: La vie en rose
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Muuttohaukka'
         start_time: '2025-06-17T18:30:00+03:00'
         end_time: '2025-06-17T18:35:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Pekka Toikka.
       - title: Hartaita säveliä
         start_time: '2025-06-17T18:35:00+03:00'
         end_time: '2025-06-17T18:50:00+03:00'

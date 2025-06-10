@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-09T02:39:34.652648+00:00'
+  generated_at: '2025-06-10T02:36:31.482527+00:00'
   git:
     branch: main
-    commit: a45b9b15674ab25d0e4f92184954b71519ab3986
-  data_hash: 3073db2ca253da0be861d720e705a2ce469dce8d637ef39bc63bea4312cf68de
+    commit: db93f54f5a36ba5b5814a3c63e377755a3585269
+  data_hash: db37b77ff05677a6c4dda60d6218407d3ac3351e5d42586fa9b04db82f097522
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-10T08:10:00+03:00'
         end_time: '2025-06-10T09:00:00+03:00'
+        description: |-
+          Ykkösaamussa keskustellaan Yhdysvaltain Kaliforniassa puhjenneista rajuista mellakoista. Mistä kaikesta on kyse? Studiossa Yhdysvaltoja tutkija Benita Heiskanen ja Ylen Maailmanpolitiikan arkipäivää tuottava Paula Vilen. Keskustelun aluksi kuullaan raportointia suoraan Yhdysvalloista. Reilun parinkymmenen minuutin keskustelun jälkeen kuullaan tuoreesta tutkimuksesta, jossa on tarkasteltu suomalaisten hiilijalanjälkeä, keillä se on isoin ja mitkä asiat siihen vaikuttavat? Lähetyksen toisessa keskustelussa kysytääm: Mikä on Suomessa lihavuuden hinta? Studiossa asiantuntijoina Kirsi Pietiläinen (HUS) ja Terhi Koivumäki (Tampereen yliopisto): Toimittajana on Linda Vettanen.
       - title: Yle Uutiset
         start_time: '2025-06-10T09:00:00+03:00'
         end_time: '2025-06-10T09:05:00+03:00'
@@ -121,34 +123,34 @@ data:
         description: |
           Voimmeko hidastaa ikääntymisprosessiamme?
           Vieraina kokeellisen neurologian dosentti  Kaisa Hartikainen ja terveyden edistämisen apulaisprofessori, gerontologian dosentti Elina Sillanpää Jyväskylän yliopistosta.
-      - title: 'Klasariparatiisi - Eva Tigerstedt: Vermeerin maalauksissa soi musiikki'
+      - title: 'Klasariparatiisi: Riemua rintaan'
         start_time: '2025-06-10T11:00:00+03:00'
         end_time: '2025-06-10T11:57:00+03:00'
         description: |
-          Johannes Vermeer oli Hollannin kultakauden taiteilija. Usein hänen tauluissaan näkyy soittimia. Virginaaleja, gamboja, luuttuja. Mitä taulujen hahmot olisivat voineet soittaa? Eva Tigerstedt avaa polkuja musiikkiin.
+          Minkälainen musiikki voisi tehdä vaikutuksen työpaikkaa anoessa?
+          Carl Philipp Emanuel Bach oli tympääntynyt Fredrik Suuren hovimuusikkona toimimiseen, ja halusi uuteen pestiin. Näyttääkseen taitonsa hän sävelsi ensimmäisen suurimuotoisen teoksensa, Magnificatin. Se on täynnä riemua, herkkyyttä ja voimaa, surumieltäkin. Loisteliaat kuoronumerot, herkät ja virtuoosiset sooloaariat ja moninainen orkesterinkäyttö tekee teoksesta musiikkia, josta jokainen voi saada iloa päiväänsä.
 
-          Ohjelman musiikit:
 
-          Jacob Van Eyck: Englantilainen satakieli (Dorothee Oberlinger, nokkahuilu).
 
-          Jacob Van Eyck/John Dowland: Pavane lacryme muunnelmia Dowlandin sävelmästä Lachrimae pavan luutulle (Nigel North, luuttu, Mathieu Langlois, huilu).
+          Eva Tigerstedt avaa polkuja musiikkiin.
 
-          Thomas Morley: It was a lover and his lass (Barbara Bonney, sopraano, Jacob Heringman, luuttu). 
+          Ohjelman musiikki:
 
-          Jan Pieterszoon Sweelinck: Ab Oriente venerunt Magi (Theatre of voices, Allan Rasmussen, urut/Paul Hillier).
+          Carl Philipp Emanuel Bach:
+          Magnificat Wq215 
 
-          Jan Pieterszoon Sweelinck: Fantasia chromatica (Christopher Herrick, urut).
+          (Elizabeth Watts, sopraano,
+          Wiebke Lehmkuhl, altto 
+          Lothar Odinius, tenori, 
+          Markus Eiche, basso,
+          RIAS-kamarikuoro ja Akademie für alte Musik Berlin joht. Hans-Christoph Rademann).
 
-          Thomas Tomkins: Gaillard Earl Strafford (Carole Cerasi, virginaali).
-
-          Giulio Caccini: Amarill, mia bella (Monika Mauch, sopraano, Nigel North, luuttu).
-
-          Mathias van den Gheyn: Preludi n:o 8 a-molli (jacques Maassen, carillon).
-
-          Henry Purcell: Sound the trumpet, oodista Come, ye sons of art, away (Iestyn Davies, kontratenori, Alison Balsom, luonnontrumpetti, The English Concert/Trevor Pinnock).
+          Lisäksi ote Et misericordia eius- osasta vuoden 1749 version mukaan (Joélle Harvey, sopraano, Olivia Vermeulen, mezzosopraano, Arcangelo-kuoro ja -kamariorkesteri/Jonathan Cohen).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-10T11:57:00+03:00'
         end_time: '2025-06-10T12:00:00+03:00'
+        description: |
+          Ote Leea Lakan teoksesta Kapina pulpetissa.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-10T12:00:00+03:00'
         end_time: '2025-06-10T12:10:00+03:00'
@@ -162,9 +164,14 @@ data:
         end_time: '2025-06-10T12:55:00+03:00'
         description: |
           Pasi Heikura selvittää arkeologi Ulla Nordforsin kanssa, mitä muinaisen dna:n tutkimus kertoo suomenniemellä asuneiden ihmisten alkuperästä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Miten tasokasta on poliitikkojen talousväittely?'
         start_time: '2025-06-10T13:00:00+03:00'
         end_time: '2025-06-10T13:30:00+03:00'
+        description: |
+          Politiikkaradio pureutuu hämmentävään talouskeskusteluun, jossa hallitus- ja oppositiopoliitikot tuntuvat olevan välillä eri linjoilla jopa perusasioista.
+          Aiheesta keskustelevat Talouspolitiikan arviointineuvoston puheenjohtaja, professori Niku Määttänen ja ylijohtaja Tuulia Hakola-Uusitalo Valtion taloudellisesta tutkimuskeskuksesta VATT:ista.
+          Mitä pitäisi ajatella siitä, että hallitus esittää väitteitä, jotka tutkijat tyrmäävät? Entä torjuuko oppositio hallituksen toimet välittämättä vaikeasta tilanteesta? 
+          Toimittajana on Antti Pilke.
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-10T13:30:00+03:00'
         end_time: '2025-06-10T15:00:00+03:00'
@@ -220,7 +227,7 @@ data:
         start_time: '2025-06-10T17:10:00+03:00'
         end_time: '2025-06-10T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Yhdysvaltain siirtolaispolitiikka on ajanut ihmiset Los Angelesin kaduilla mellakoimaan. Presidentti Donald Trump komensi kansalliskaartin Los Angelesiin, jonka uskotaan lietsoneen mellakoita entisestään. Kymmeniä mielenosoittajia on tähän mennessä otettu kiinni. Mitä on mellakoiden taustalla ja voivatko ne kiihtyä? Atte Uusinokan haastattelussa Ulkopoliittisen instituutin tutkija Maria Lindén. 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-06-10T17:35:00+03:00'
         end_time: '2025-06-10T18:30:00+03:00'
@@ -345,11 +352,15 @@ data:
         end_time: '2025-06-10T20:19:20+03:00'
         description: |
           Kertomuksia täydellisestä keksinnöstä. Toimittaja JP Pulkkinen
-      - title: Romano mirits
+      - title: 'Romano mirits: Karhu kulki, kalasti ja pelasi pesäpalloa'
         start_time: '2025-06-10T20:20:00+03:00'
         end_time: '2025-06-10T20:35:00+03:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Feija Florin sai nuorena kaksikin kutsumanimeä. ”Kiitolinja” tai ”Karhu”, millä nimellä hänet nykyäänkin tunnetaan,  kiersi innokkaasti niin Pohjoiseen kuin Etelään mm. liftaten.  Liikkuvainen mies nautti paitsi matkustamisesta, myös metsässä samoilusta ja sienestämisestä. Kalastusta rakastanut mies pelasi myös pitkään pesäpalloa sarjatasolla.
+           
+          Romanisuku-sarjan jaksossa Feija ”Karhu” Florin muistelee elämäänsä, kertoo perheestään ja keskisuomalaisista romaneista. Mukana ovat myös hänen kasvattipoikansa Keijo Baltzar ja serkun poika Samuel Florin. Karhun luona Jyväskylässä vieraili toimittaja Jaakko Laakso.
+
+
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-06-10T20:35:00+03:00'
         end_time: '2025-06-10T21:00:00+03:00'
@@ -367,14 +378,15 @@ data:
       - title: Politiikkaradio
         start_time: '2025-06-10T21:05:00+03:00'
         end_time: '2025-06-10T21:34:30+03:00'
-      - title: Sari Valto
+      - title: 'Sari Valto: Voiko ikääntymistä hidastaa?'
         start_time: '2025-06-10T21:35:00+03:00'
-        end_time: '2025-06-10T22:29:30+03:00'
+        end_time: '2025-06-10T22:29:48+03:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+          Voimmeko hidastaa ikääntymisprosessiamme?
+          Vieraina kokeellisen neurologian dosentti  Kaisa Hartikainen ja terveyden edistämisen apulaisprofessori, gerontologian dosentti Elina Sillanpää Jyväskylän yliopistosta.
       - title: 'Miia Krause: Toimittaja Sanna Ukkola: "Sote-kriisi näkyy netissä törkypuheena"'
-        start_time: '2025-06-10T22:30:00+03:00'
-        end_time: '2025-06-10T23:15:32+03:00'
+        start_time: '2025-06-10T22:30:30+03:00'
+        end_time: '2025-06-10T23:16:02+03:00'
         description: |-
           Toimittaja Sanna Ukkola: "Britanniassa poliittinen keskustelu ja retoriikka on paljon kovempaa kuin Suomessa, täällä ollaan kuitenkin aika kilttejä. Sometunkio on sitten asia erikseen."
       - title: Yöklassinen

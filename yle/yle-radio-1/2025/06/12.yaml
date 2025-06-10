@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-09T02:39:35.637436+00:00'
+  generated_at: '2025-06-10T02:36:31.857362+00:00'
   git:
     branch: main
-    commit: a45b9b15674ab25d0e4f92184954b71519ab3986
-  data_hash: 3073db2ca253da0be861d720e705a2ce469dce8d637ef39bc63bea4312cf68de
+    commit: db93f54f5a36ba5b5814a3c63e377755a3585269
+  data_hash: db37b77ff05677a6c4dda60d6218407d3ac3351e5d42586fa9b04db82f097522
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,37 @@ data:
         start_time: '2025-06-11T23:40:00+03:00'
         end_time: '2025-06-12T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Jadassohn: Pianotrio n:o 3 c-molli (Syrius Trio).
+
+          00:01 Schumann: Sonaatti viululle ja pianolle n:o 1 a-molli (Eriikka Maalismaa ja Emil Holmström). 
+
+          00:21 Hummel: Balettisarja Sappho von Mitilene (Mytilenen Sapfo) (Lontoon Mozart-soittajat/Howard Shelley).
+
+          01:09 Schubert (sov. Mahler): Jousikvartetto n:o 14 d-molli (Tyttö ja kuolema) (Salzburgin Mozarteumin akateemisen kamariorkesterin jouset/Franz Welser-Möst).
+
+          01:55 Janácek: Blaníkin balladi (BBC:n Skotlannin SO/Ilan Volkov).
+
+          02:04 Pärt: Tabula rasa (Gidon Kremer, viulu, Tatjana Grindenko, viulu, ja Alfred Schnittke, preparoitu piano, sekä Liettuan kamariork./Saulius Sondeckis).
+
+          02:31 Bax: Tintagel (Minnesotan ork./Neville Marriner).
+
+          02:48 Schönberg: Die Jakobsleiter (Jaakobin tikapuut) Julian Patrick, baritoni, William Johns, tenori, Jaroslav Kachel, tenori, Andrew Foldi, bassobaritoni, Oskar Hillebrandt, baritoni, Richard Brunner, tenori, Helga Pilarczyk, sopraano, Celina Lindsley, sopraano, Clevelandin orkesterin kuoro, ja Clevelandin ork./Christoph von Dohnanyi). 
+
+          03:35 Stenhammar: Snöfrid (Ulrika Åhlen, sopraano, Gunvor Nilsson, mezzosopraano, ja Göstä Zackrisson, tenori, sekä Göteborgin konserttitalon kuoro ja Göteborgin SO/Neeme Järvi).
+
+          03:57 J. Haydn (sov. Stegmann): Sinfonia n:o 92 G-duuri (Oxford) (Ivan Ilic, piano).
+
+          04:22 Desprez: Deus Miserere mei (Jumala, ole minulle armollinen) (Cappella Amsterdam/Daniel Reuss). 
+
+          04:37 Brahms: Kuusi kappaletta pianolle op. 118 (Antti Siirala).
+
+          05:05 Schumann (sov. Auer): Widmung (Omistus) (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          05:10 L. Mozart: Trio pianolle, viululle ja sellolle n:o 3 A-duuri (Christine Schornsheim, fortepiano, Rüdiger Lotter, barokkiviulu, ja Sebastian Hess, barokkisello).
+
+          05:24 Kuhlau: Sonaatti huilulle ja pianolle a-molli (Grande Sonate concertante) (Peter-Lukas Graf ja Zsuzsanna Sirokay).
+
+          05:55 Rameau: Sarja oopp. Les Fêtes d'Hébé (Heben juhlat) (18. vuosisadan ork./Frans Brüggen).
       - title: Hartaita säveliä
         start_time: '2025-06-12T06:30:50+03:00'
         end_time: '2025-06-12T06:50:00+03:00'
@@ -94,11 +124,14 @@ data:
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-06-12T11:00:00+03:00'
         end_time: '2025-06-12T11:57:00+03:00'
-        description: |
+        description: |+
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-12T11:57:00+03:00'
         end_time: '2025-06-12T12:00:00+03:00'
+        description: |
+          Konstantinos Kavafiksen runo Minkä ikinä voit valikoimasta Barbaarit tulevat tänään. Suomentanut Tuomas Anhava.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-12T12:00:00+03:00'
         end_time: '2025-06-12T12:10:00+03:00'
@@ -203,7 +236,7 @@ data:
         end_time: '2025-06-12T19:02:00+03:00'
       - title: 'Naantalin musiikkijuhlat: Frigg & Kamus'
         start_time: '2025-06-12T19:02:00+03:00'
-        end_time: '2025-06-12T21:00:00+03:00'
+        end_time: '2025-06-12T20:40:00+03:00'
         description: |-
           Kun kansanmusiikin ja klassisen jousisoinnin kotimaiset kärkinimet lyöttäytyvät yhteen, ollaan ennenkokemattoman äärellä! Aiemmin vain satunnaisesti toistensa reviireillä vierailleet Kamus-kvartetti ja kansanmusiikkiyhtye Frigg tekevät kauan odotetun yhteiskiertueen, jossa taidemusiikin tasarytmit vääntyvät mutkalle, folk kohtaa barokin ja ikiaikaiset klassikot uudestisyntyvät tuoreina, rohkeina sovituksina. Yllätysten illan kruunaa Marzi Nymanin mittatilaustyö tälle kymmenhenkiselle pelimannipoppoolle. Naantalin kirkossa 7.6. tallennetun konsertin toimittaa Lotta Emanuelsson.
 
@@ -241,8 +274,8 @@ data:
         description: |
           Sanna Stellan ja Miitta Sorvali sukeltavat menneisyyteen ja jakavat keskenään hauskoja ja koskettavia tarinoita lapsuudestaan, perheistään ja yhteisistä työvuosista. Matkan varrelta ovat jääneet mieleen ainakin homehtuneet autot ja keltaiset silmät sekä rakkaus vanhojen miesten niskakarvoihin.
       - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Viherkasvin varoitus'
-        start_time: '2025-06-12T22:10:30+03:00'
-        end_time: '2025-06-12T22:39:17+03:00'
+        start_time: '2025-06-12T22:09:13+03:00'
+        end_time: '2025-06-12T22:38:00+03:00'
         description: |
           1/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
           Puutarhakaupungin murhamysteerit, tapaus rönsylilja on kahdeksanosainen dekkarikuunnelmasarja, joka tarjoilee komediallista jännitystä aiemmilta kausilta (tapaus perunamurhat, tapaus viheltävä pankkiiri) tutuissa kuvioissa. Mutta murhamysteerit, ne ovat joka kerta erilaiset.
@@ -257,12 +290,35 @@ data:
           Tuotantokoordinaattori: Eveliina Solja.
           Tuotanto: Laura Jaakkola, Yle Draama 2025.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-06-12T22:47:30+03:00'
-        end_time: '2025-06-12T23:44:00+03:00'
-        description: |
+        start_time: '2025-06-12T22:46:24+03:00'
+        end_time: '2025-06-12T23:40:36+03:00'
+        description: |+
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+
       - title: Yöklassinen
         start_time: '2025-06-13T00:00:00+03:00'
         end_time: '2025-06-13T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Molino: Kitarakonsertto e-molli (Pepe Romero ja Academy of St. Martin-in-the-Fields/Iona Brown).
+
+          00:25 Fauré: Impromptu harpulle Des-duuri (Isabelle Moretti).
+
+          00:34 Dvorák: Sinfonia n:o 2 B-duuri (Deutsche Radio Philharmonie/Pietari Inkinen).
+
+          01:27 Skrjabin: Yhdeksän masurkkaa (Eric Le Van, piano).
+
+          02:01 Brunetti: Sinfonia n:o 36 A-duuri (Concerto Köln).
+
+          02:28 Smyth: Jousikvartetto e-molli (Mannheimin jousikvartetti).
+
+          03:11 Barber: Medea's meditation and dance of vengeance (Bostonin SO/Charles Munch).
+
+          03:24 Respighi: Sinfonia drammatica (Liègen kuninkaallinen FO/John Neschling).
+
+          04:24 von Dittersdorf: Jousikvartetot n:o 1-6 (Gewandhaus-kvartetti).
+
+          05:49 Backofen: Concertante op.7 (Ursula Holliger, harppu, Hans Rudolf Stalder, basettitorvi, ja Andreas Schmid, sello).
+
+          06:03 Salieri: Sarja oopp. Palmira, regina di Persia (Palmyra, Persian kuningatar) teemoista (Consortium Classicum /Dieter Klöcker, klarinetti).
+
+          06:22 Compère: Seray je vostre mieulx amée (Orlando Consort).
