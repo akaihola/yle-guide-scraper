@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-10T02:36:32.083846+00:00'
+  generated_at: '2025-06-11T02:35:33.468805+00:00'
   git:
     branch: main
-    commit: db93f54f5a36ba5b5814a3c63e377755a3585269
-  data_hash: db37b77ff05677a6c4dda60d6218407d3ac3351e5d42586fa9b04db82f097522
+    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
+  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
 data:
   Yle Radio 1:
     programmes:
@@ -94,11 +94,17 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-13T09:05:40+03:00'
         end_time: '2025-06-13T09:58:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Väittely Elokapinasta'
         start_time: '2025-06-13T10:00:00+03:00'
         end_time: '2025-06-13T10:55:00+03:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Ohjelmassa väitellään Elokapinan toiminnasta ja kansalaistottelemattomuuden rajoista.
+
+          Otto Meri on asianajaja ja Kokoomuksen kaupunginvaltuutettu Helsingissä. Hänen mielestään Elokapinan toiminta pitää kieltää yhdistyslain perusteella.
+
+          Panu Puhakka Elokapinasta puolustaa omaa liikettään ja sen mielenosoituksia.
+
+          Tervetuloa mukaan väittelyyn!
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-13T10:55:00+03:00'
         end_time: '2025-06-13T11:00:00+03:00'
@@ -213,19 +219,27 @@ data:
       - title: Politiikkaradio
         start_time: '2025-06-13T21:05:00+03:00'
         end_time: '2025-06-13T21:34:30+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Unkarilaisen autoritarismin nousu'
         start_time: '2025-06-13T21:35:00+03:00'
-        end_time: '2025-06-13T22:24:30+03:00'
+        end_time: '2025-06-13T22:22:47+03:00'
         description: |
-          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+          Unkarin vallitsevaa poliittista järjestelmää kutsutaan myös nimellä "kansallisen yhteistyön järjestelmä". Eihän se pahalta kuulosta, mutta asian ydin on siinä, että normaalit oikeusvaltiolliset ja liberaalidemokratian prosessit ovat nyt uhanalaisia.
+
+          Samalla Unkarista on tullut paha ongelma EU:lle; niin dramaattisiksi erot ovat kasvaneet.
+
+          Valtio-opin yliopistonlehtori Heino Nyyssönen on tarkastellut itäisen Euroopan politiikkaa yli kolmen vuosikymmenen ajan. Hän valottaa tavallaan ikuisuuskysymystä, miksi demokratia ei maistu ja kansat edelleen haikailevat vahvoja johtajia.
+
+          Heino Nyyssönen on nyt Kalle Haatasen vieraana.
       - title: Tuuli Saksalan keidas
         start_time: '2025-06-13T22:25:00+03:00'
-        end_time: '2025-06-13T23:15:00+03:00'
+        end_time: '2025-06-13T23:14:03+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Muinais-DNA kertoo, että suomalaisten perimä on lännestä ja kieli idästä'
         start_time: '2025-06-13T23:15:30+03:00'
-        end_time: '2025-06-13T23:39:30+03:00'
+        end_time: '2025-06-13T23:39:51+03:00'
+        description: |
+          Pasi Heikura selvittää arkeologi Ulla Nordforsin kanssa, mitä muinaisen dna:n tutkimus kertoo suomenniemellä asuneiden ihmisten alkuperästä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen
         start_time: '2025-06-13T23:40:00+03:00'
         end_time: '2025-06-14T07:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-10T02:36:35.068453+00:00'
+  generated_at: '2025-06-11T02:35:37.388177+00:00'
   git:
     branch: main
-    commit: db93f54f5a36ba5b5814a3c63e377755a3585269
-  data_hash: db37b77ff05677a6c4dda60d6218407d3ac3351e5d42586fa9b04db82f097522
+    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
+  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
 data:
   Yle Radio 1:
     programmes:
@@ -76,9 +76,11 @@ data:
           Rothrock/Yakus/ Jeffrey: Old Cape Cod (Patti Page).
           Brel: Je suis un soir d'ete (Jacques Brel).
           Tikanmäki: Kesäranta etelä-Saimaalla (Anssi Tikanmäki).
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi kaksetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
         start_time: '2025-06-26T10:00:00+03:00'
         end_time: '2025-06-26T10:52:00+03:00'
+        description: |-
+          Arja Saijonmaan ensimmäinen vapaustaistelu käytiin Mikkelissä, kun isä valvoi Arjaa kuin haukka. Arja kuitenkin karkasi Amerikkaan   maailmankiertueelle Mikis Theodorakiksen kanssa. Toimittaja on Maarit Tastula.
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-26T10:52:00+03:00'
         end_time: '2025-06-26T11:00:00+03:00'
@@ -183,9 +185,22 @@ data:
         description: |
           Miten isät ovat muovanneet meitä ihmisinä? Miitta ja Sanna keskustelevat isistään, joiden kanssa on ajettu kippuraisilla teillä, oltu mukana kirkonmenoissa - ja opittu huumorista.
           Miten isät ovat vaikuttaneet molempien elämään ja miten isien perintö elää heissä edelleen? Jaksossa käydään läpi lämpimiä muistoja lapsuudesta, mutta myös vaikeita hetkiä elämän varrelta. 
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+      - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Kosto kiehuu sydämessä'
         start_time: '2025-06-26T22:30:30+03:00'
         end_time: '2025-06-26T22:49:30+03:00'
+        description: |-
+          3/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
+          Puutarhakaupungin murhamysteerit, tapaus rönsylilja on kahdeksanosainen dekkarikuunnelmasarja, joka tarjoilee komediallista jännitystä aiemmilta kausilta (tapaus perunamurhat, tapaus viheltävä pankkiiri) tutuissa kuvioissa. Mutta murhamysteerit, ne ovat joka kerta erilaiset.
+
+          Käsikirjoitus: Jarkko Pajunen.
+          Dramaturgi: Eeva-Maaria Halonen.
+          Ohjaus: Erja Manto.
+          Äänisuunnittelu: Hanna-Helena Kinnunen.
+          Teemamusiikki: Geraldine (Denny) Green: Bass Clarinet Concerto.
+          Bassoklarinetti: Arto Vainio.
+          Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
+          Tuotantokoordinaattori: Eveliina Solja.
+          Tuotanto: Laura Jaakkola, Yle Draama 2025.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-06-26T23:00:00+03:00'
         end_time: '2025-06-26T23:56:30+03:00'
