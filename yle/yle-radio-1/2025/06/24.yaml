@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-11T02:35:36.767511+00:00'
+  generated_at: '2025-06-12T02:35:45.323354+00:00'
   git:
     branch: main
-    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
-  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
+    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
+  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
 data:
   Yle Radio 1:
     programmes:
@@ -70,11 +70,11 @@ data:
         end_time: '2025-06-24T10:55:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hildegardin taivaalliset näyt'
         start_time: '2025-06-24T11:00:00+03:00'
         end_time: '2025-06-24T11:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Klasariparatiisi: Hildegardin taivaalliset näyt - Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-24T11:57:00+03:00'
         end_time: '2025-06-24T12:00:00+03:00'
@@ -97,6 +97,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-24T13:30:00+03:00'
         end_time: '2025-06-24T15:00:00+03:00'
+        description: |-
+          Radio 1:n iltapäivän musiikkikattauksessa populaarumusiikin helmiä, kevyttä jazzia ja etnomusiikkia. Paula Jokimies juontaa. N. klo 14 puhetta keskittymisestä ja aivoista. Aivotutkija Mona Moisalalta ilmestyi viime talvena kirja Tyhmä työelämä. Moisalaa haastattelee Heikki Puskala (uus). N. klo 14:30 Kielen päällä.
       - title: Yle Uutiset
         start_time: '2025-06-24T15:00:00+03:00'
         end_time: '2025-06-24T15:02:00+03:00'

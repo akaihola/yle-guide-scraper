@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-11T02:35:33.134101+00:00'
+  generated_at: '2025-06-12T02:35:30.261079+00:00'
   git:
     branch: main
-    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
-  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
+    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
+  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
 data:
   Yle Radio 1:
     programmes:
@@ -94,6 +94,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-12T08:10:00+03:00'
         end_time: '2025-06-12T09:00:00+03:00'
+        description: |-
+          Kesä tuo muassaan valoisat yöt, kesäautot ja rohkeat nuoret kuljettajat. Mitä tämä merkitsee liikenneturvallisuudelle? Tätä kysytään Traficomin ja Onnettomuustietoinstituutin asiantuntijoilta. Reilun parinkymmenenminuutin keskustelun jälkeen yhteys Kiovaan. Ulkomaantoimittajamme Antti Kuronen on käynyt lähellä sotarintamaa; näkeekö siellä sodan sumun läpi, mitä rintamalla on tapahtumassa? Toisessa keskustelussa EKn ja SAKn lääkärit keskustelevat työterveydesta. Minkälaisia tietoja työntekijöiden terveydestä saadaan ja kuka niitä saa katsoa ? Uusi terveystesti paljastaa muun muassa sen, kuinka paljon tutkittava on käyttänyt alkoholia viimeisen kuukauden aikan? Toimittajana on Linda Vettanen.
       - title: Yle Uutiset
         start_time: '2025-06-12T09:00:00+03:00'
         end_time: '2025-06-12T09:05:00+03:00'
@@ -119,7 +121,7 @@ data:
         start_time: '2025-06-12T10:00:00+03:00'
         end_time: '2025-06-12T10:52:00+03:00'
         description: |-
-          Oopperalaulaja Anu Komsin ja kapellimestari Sakari Oramon matka kansainvälisiksi tähdiksi on vaatinut tuhansia harjoitustunteja ja armotonta kilpailua paikasta auringossa.
+          Laulutaiteilija Anu Komsin ja kapellimestari Sakari Oramon matka kansainvälisiksi tähdiksi on vaatinut tuhansia harjoitustunteja ja armotonta kilpailua paikasta auringossa.
           Ohjelman toimittaja on Maarit Tastula.
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-12T10:52:00+03:00'
@@ -145,9 +147,13 @@ data:
           San Franciscossa työskentelevä koodari Julius Hietala pohtii Perttu Pölösen kanssa tekoälyn vaikutusta ohjelmistokehitykseen ja koodarin työhön. ChatGPT ja muuut tekoälytyökalut mullistavat alaa, mutta Hietala ei pelkää tulevansa tarpeettomaksi. Suurin vaara liittyy hänestä laiskistumiseen: ihminen saattaa päästää itsensä liian helpolla, kun algoritmit tarjoavat tarjoavat ongelmiin helppoja ratkaisuja. Lisäksi kuullaan, miten tekoäly on muuttanut Piilaakson arkea ja mikä voisi olla seuraava suuri teknologinen läpimurto. 
 
           Jakson koodidemot luotiin Claude 3.5 Sonnetilla ja niiden äänenä toimi ElevenLabs.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Hallituksen hajoavat rivit ja taistelu saamelaislaista'
         start_time: '2025-06-12T13:00:00+03:00'
         end_time: '2025-06-12T13:30:00+03:00'
+        description: |-
+          Neljän kauden hallitukset ovat yrittäneet uudistaa saamelaiskäräjälain, ja nyt se on onnistumassa. 
+          Osa hallituspuolueiden edustajista vastustaa kuitenkin lakia ja haluaa äänestää sitä vastaan. Miten solmuun hallitus saamelaisasian kanssa menee? Saavatko saamelaiset mitä haluavat?
+          Aiheesta keskustelevat lakia vastustava perussuomalaisten kansanedustaja Sara Seppänen, kokoomuksen varapuheenjohtaja, perustuslakivaliokunnan jäsen Karoliina Partanen sekä SDP:n puoluesihteeri Mikkel Näkkäläjärvi, inarilaislähtöinen saamelainen. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-12T13:30:00+03:00'
         end_time: '2025-06-12T15:00:00+03:00'
@@ -203,7 +209,7 @@ data:
         start_time: '2025-06-12T17:10:00+03:00'
         end_time: '2025-06-12T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mikä ihmeen italian brainrot? Löikö Zelenskyi oikeasti Donald Trumpia. Vauhdilla kehittyvät ja viraaleiksi lähtevät tekoälyvideot ovat arkipäiväistyneet, mutta mitä se tuo tullessaan? Minkälaisessa AI-todellisuudessa ja vaihtoehtoisen totuuden maailmassa elämme nyt ja lähivuosina ja onko kehitykselle tehtävissä mitään? Atte Uusinokan vieraana on tietoturva-asiantuntija Laura Kankaala. 
       - title: Tuuli Saksalan keidas
         start_time: '2025-06-12T17:35:00+03:00'
         end_time: '2025-06-12T18:25:00+03:00'
@@ -240,31 +246,10 @@ data:
       - title: 'Naantalin musiikkijuhlat: Frigg & Kamus'
         start_time: '2025-06-12T19:02:00+03:00'
         end_time: '2025-06-12T20:40:00+03:00'
-        description: |-
-          Kun kansanmusiikin ja klassisen jousisoinnin kotimaiset kärkinimet lyöttäytyvät yhteen, ollaan ennenkokemattoman äärellä! Aiemmin vain satunnaisesti toistensa reviireillä vierailleet Kamus-kvartetti ja kansanmusiikkiyhtye Frigg tekevät kauan odotetun yhteiskiertueen, jossa taidemusiikin tasarytmit vääntyvät mutkalle, folk kohtaa barokin ja ikiaikaiset klassikot uudestisyntyvät tuoreina, rohkeina sovituksina. Yllätysten illan kruunaa Marzi Nymanin mittatilaustyö tälle kymmenhenkiselle pelimannipoppoolle. Naantalin kirkossa 7.6. tallennetun konsertin toimittaa Lotta Emanuelsson.
+        description: |
+          Antonio Vivaldi: Allegro konsertosta jousille C-duuri; Gjermund Larsen: Fjig; Magnus Samuelsson: Bussen; Edvard Grieg: Gavotti Holberg-sarjasta; Tero Hyväluoma: Västkusten Twist; Pehr Henrik Nordgren: Tuumiskelija sarjasta Pelimannimuotokuvia; Trad. (sov. Topi Korhonen): Taklax G; Gabriella Smith: Carrot Revolution; Joseph Haydn: Adagio jousikvartetosta C-duuri; Esko Järvelä: Maanitus; Alina Kivivuori: Allikko; Béla Bártok: Duoja; Marzi Nyman: Kommunio (k.e.). - Naantalin kirkossa 7.6. äänitetyn konsertin toimittaa Lotta Emanuelsson.
 
-          Ohjelma:
-
-          Antonio Vivaldi: Konsertto jousille C-duuri, RV 114, 1. osa Allegro
-          Gjermund Larsen: Fjig
-          Magnus Samuelsson: Bussen
-          Edvard Grieg: Holberg-sarja, 1. osa Gavotte
-          Tero Hyväluoma: Västkusten Twist
-          Pehr Henrik Nordgren: Pelimannimuotokuvia, 2. osa Tuumiskelija
-          Trad.: Taklax G (sov. Topi Korhonen)
-          Gabriella Smith: Carrot Revolution
-
-          Joseph Haydn: Jousikvartetto op. 54, 2. osa Adagio
-          Esko Järvelä: Maanitus
-          Alina Kivivuori: Allikko
-          Béla Bártok: Duoja
-          -Ontuva tanssi
-          -Pizzicato
-          -Uusi vuosi
-          -Rutenialainen kolomejka
-          Marzi Nyman: Tilausteoksen kantaesitys
-
-          Kuvassa: Frigg (kuva: Marek Sabogal)
+           
       - title: Yle Uutiset
         start_time: '2025-06-12T21:00:00+03:00'
         end_time: '2025-06-12T21:02:00+03:00'
@@ -272,8 +257,8 @@ data:
         start_time: '2025-06-12T21:05:00+03:00'
         end_time: '2025-06-12T21:34:30+03:00'
       - title: 'Sorvali & Stellan - päätapahtumia: "Yhtäkkiä mul oli lampaan paskaa suussa"'
-        start_time: '2025-06-12T21:35:00+03:00'
-        end_time: '2025-06-12T22:00:45+03:00'
+        start_time: '2025-06-12T21:35:13+03:00'
+        end_time: '2025-06-12T22:00:58+03:00'
         description: |
           Sanna Stellan ja Miitta Sorvali sukeltavat menneisyyteen ja jakavat keskenään hauskoja ja koskettavia tarinoita lapsuudestaan, perheistään ja yhteisistä työvuosista. Matkan varrelta ovat jääneet mieleen ainakin homehtuneet autot ja keltaiset silmät sekä rakkaus vanhojen miesten niskakarvoihin.
       - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Viherkasvin varoitus'

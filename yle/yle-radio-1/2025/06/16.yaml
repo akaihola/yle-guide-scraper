@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-11T02:35:34.397723+00:00'
+  generated_at: '2025-06-12T02:35:40.581493+00:00'
   git:
     branch: main
-    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
-  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
+    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
+  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
 data:
   Yle Radio 1:
     programmes:
@@ -108,11 +108,11 @@ data:
           Vivanco: Taita inty (Yma Sumac).
           Panzeri/Conti/Pace/Pilat: Vasten auringon siltaa (Katri Helena). 
           Kirk: Serenade to a cuckoo (Roland Kirk).
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Pariutumisen historia - vieraana Eija Stark'
         start_time: '2025-06-16T10:00:00+03:00'
         end_time: '2025-06-16T10:52:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Rahaa ja rakkauttakin. Paritumisen historiasta ja taloudesta  kertoo filosofian tohtori, folkloristiikan dosentti Eija Stark, joka on Suomalaisen Kirjallisuuden Seuran kehittämispäällikkö. Toimittaja on Juha Virtanen. Ohjelma on uusinta kesäkuulta 2023.
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-16T10:52:00+03:00'
         end_time: '2025-06-16T11:00:00+03:00'
@@ -152,6 +152,13 @@ data:
         start_time: '2025-06-16T15:02:00+03:00'
         end_time: '2025-06-16T15:55:00+03:00'
         description: |
+          Billnäsin, vanhassa ruukkikylässä, Helsingin länsipuolella avautuu Sommarstilleben -näyttely. Käsitöistä ja designista kootut runolliset asetelmat kertovat pohjoismaisen kesän maagisuudesta. Hanni Koroma, joka vastaa näyttelyarkkitehtuurista, on todennut että kauneus ympärillämme on ainoa asia joka lohduttaa kun maailma on sekaisin. Taidehistoriastakin tutut asetelmat, stillebenit ja nature mortet voivat koostua myös perunoista, sitruunoista, tillistä, kananmunista ja kukista. Asetelmat kertovat kunnioituksesta elämän ja arjen kauneutta kohtaan.  Näyttely koostuu useiden suomalaisten
+          nykytaiteilijoiden ja muotoilijoiden teoksista. Mitkä aihepiirit ovat inspiroineet heitä? Millaisen sanoman he haluavat tuoda esille kauniiden ja myös yllättävien yhdistelmien kautta?
+
+          Ohjelman vieraina ovat näyttelyn kuraattori Katja Hagelstam ja näyttelyarkkitehtuurista vastaava Hanni Koroma.
+
+          Ohjelman juontaa Pia-Maria Lehtola
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-06-16T15:55:00+03:00'

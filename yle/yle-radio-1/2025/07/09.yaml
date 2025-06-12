@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-11T02:35:41.523643+00:00'
+  generated_at: '2025-06-12T02:35:51.679464+00:00'
   git:
     branch: main
-    commit: 56ed5c0a187f3d68089a921ad628e70c6d303c53
-  data_hash: 036358dd07c44c551e743034e7cbb0e3b6aec6f8a19f51684fd63707a3db8dfa
+    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
+  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
 data:
   Yle Radio 1:
     programmes:
@@ -57,9 +57,28 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-09T09:05:40+03:00'
         end_time: '2025-07-09T09:58:00+03:00'
-      - title: Havaintoja muutoksesta
+        description: |-
+          O. Merikanto: Kesäilta (Metro-tytöt).
+          Berlin: Alexander's ragtime band (Ray Charles).
+          Yarrow: Lohikäärme Puff (Brita Koivunen ja Four Cats).
+          Adler, Albert & Cooke: Wonderful world (Sam Cooke).
+          Mononen: Sagolandet (Arja Saijonmaa).
+          Kämpfert & Gabler: Love (Gregory Porter).
+          Lipponen: Niityllä missä sirkat soi (Muksut).
+          Chaplin: Dedicated to you (Ella Fitzgerald & The Mills Brothers).
+          Dorset: In the summertime (Mungo Jerry).
+          Addinsell: Meidän maailmamme (World outside) (Vieno Kekkonen).
+          Warren: Kissa vieköön (Bruno Laakko).
+          Morrow: Ich will keine Schokolade (Trude Herr).
+          Lindholm: Pieni ja hento ote (Dave Lindholm).
+          Abreu: Tico tico (Oscar Aleman).
+      - title: 'Havaintoja muutoksesta: Metsän syli ja puiden viisaus'
         start_time: '2025-07-09T10:00:00+03:00'
         end_time: '2025-07-09T10:50:00+03:00'
+        description: |
+          Luontoyhteys mahdollistaa luonnon hyvinvointivaikutukset ja ympäristöystävällisen käyttäytymisen. Vahva luontoyhteys lisää elämäntyytyväisyyttä. Luontosuhteisiin liittyy myös ristiriitaisuus ja ihmiskeskeisyys. Miten voimme ruokkia hedonismin sijaan eudaimoniaa suhteessamme luontoon ja toisiin lajeihin? Mikä saa ihmisen toimimaan ympäristöään kunnioittaen ja suojelemaan sitä?
+
+          Toimittaja Satu Kivelä keskustelee luontosuhteista, metsien merkityksestä ja tulevaisuudesta yhdessä ekopsykologi Kirsi Salosen ja Luontoliiton Kotimetsän puolustajat -hankkeen koordinaattori Reija Mikkolan kanssa. Ohjelma on uusinta huhtikuulta 2025.
       - title: Riston Valinta
         start_time: '2025-07-09T11:00:00+03:00'
         end_time: '2025-07-09T11:50:00+03:00'
@@ -160,9 +179,13 @@ data:
       - title: Yle Uutiset
         start_time: '2025-07-09T21:00:00+03:00'
         end_time: '2025-07-09T21:02:00+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Metsän syli ja puiden viisaus'
         start_time: '2025-07-09T21:35:00+03:00'
         end_time: '2025-07-09T22:25:00+03:00'
+        description: |
+          Luontoyhteys mahdollistaa luonnon hyvinvointivaikutukset ja ympäristöystävällisen käyttäytymisen. Vahva luontoyhteys lisää elämäntyytyväisyyttä. Luontosuhteisiin liittyy myös ristiriitaisuus ja ihmiskeskeisyys. Miten voimme ruokkia hedonismin sijaan eudaimoniaa suhteessamme luontoon ja toisiin lajeihin? Mikä saa ihmisen toimimaan ympäristöään kunnioittaen ja suojelemaan sitä?
+
+          Toimittaja Satu Kivelä keskustelee luontosuhteista, metsien merkityksestä ja tulevaisuudesta yhdessä ekopsykologi Kirsi Salosen ja Luontoliiton Kotimetsän puolustajat -hankkeen koordinaattori Reija Mikkolan kanssa. Ohjelma on uusinta huhtikuulta 2025.
       - title: Ääniversumi
         start_time: '2025-07-09T22:35:00+03:00'
         end_time: '2025-07-09T23:12:30+03:00'
