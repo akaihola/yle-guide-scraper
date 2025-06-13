@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-12T02:35:42.932203+00:00'
+  generated_at: '2025-06-13T02:35:56.194889+00:00'
   git:
     branch: main
-    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
-  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
+    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
+  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
 data:
   Yle Radio 1:
     programmes:
@@ -52,8 +52,8 @@ data:
         start_time: '2025-06-20T12:10:00+03:00'
         end_time: '2025-06-20T12:59:30+03:00'
         description: |+
-          Lapin viime kesä oli lämpimin 2000:een vuoteen. Tutkimuksen mukaan lämpötiloja voimisti ilmastonmuutos. Kuinka saadaan selville
-          jilmastonmuutoksen osuus sään ääri-ilmiöihin? Haasteltavana Ilmatieteen laitoksen tutkija Mika Rantanen. Toimittajana Minna Korhonen.
+          Lapin viime kesä oli poikkeuksellisen lämmin. Tuoreen huippututkimuksen mukaan syy oli ilmastonmuutos. Entä voimistaako se myös muita sään ääri-ilmiötä kuten rajuja rankkasateita ja hurjia myrskyjä? Onko meidän syytä olla huolissaan? 
+          Kuinka ilmastonmuutoksen osuutta äärisääilmiöihin on ylipäätään mahdollista arvioida? Haasteltavana Ilmatieteen laitoksen tutkija Mika Rantanen. Toimittajana Minna Korhonen.
 
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-20T13:00:00+03:00'
@@ -97,7 +97,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-20T17:00:00+03:00'
         end_time: '2025-06-20T17:10:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Miitta Sorvali - hiljaisuudessa viihtyvä musiikinrakastaja'
         start_time: '2025-06-20T17:35:00+03:00'
         end_time: '2025-06-20T18:30:00+03:00'
         description: |-
@@ -124,16 +124,16 @@ data:
         end_time: '2025-06-20T21:55:00+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Juhannustaikoja ja kukkakimppuja'
         start_time: '2025-06-20T21:55:30+03:00'
-        end_time: '2025-06-20T22:45:30+03:00'
+        end_time: '2025-06-20T22:46:05+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Taiteilijatapaaminen
+      - title: 'Taiteilijatapaaminen: Lyyti ja Sepikka laulavat planeettamme palamisesta'
         start_time: '2025-06-20T22:46:00+03:00'
-        end_time: '2025-06-20T23:39:30+03:00'
-        description: |2+
-
+        end_time: '2025-06-20T23:39:22+03:00'
+        description: |
+          Laulaja-lauluntekijät Lydia Lehtola ja Joni Seppänen kertovat Tatu Tammisen haastattelussa, millaisen ajattelun pohjalta heidän tarkkanäköinen aikalaiskerrontansa on syntynyt. Molemmille on täysin luontevaa kirjoittaa ja esittää lauluja, jotka kommentoivat ilmastonmuutoksen ja luontokadon kaltaisia asioita.
       - title: Yöklassinen
         start_time: '2025-06-20T23:40:00+03:00'
         end_time: '2025-06-21T07:30:00+03:00'

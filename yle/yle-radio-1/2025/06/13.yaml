@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-12T02:35:34.978211+00:00'
+  generated_at: '2025-06-13T02:35:44.361110+00:00'
   git:
     branch: main
-    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
-  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
+    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
+  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
 data:
   Yle Radio 1:
     programmes:
@@ -88,27 +88,33 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-13T08:10:00+03:00'
         end_time: '2025-06-13T09:00:00+03:00'
+        description: |-
+          Uuden konfliktin pelätään jälleen muhivan Lähi-idässä. Yhdysvaltalaismedian mukaan Israel olisi jo täysin valmis sotilasoperaatioon Irania vastaan. Samaan aikaan Yhdysvallat evakuoi suurlähetystöjensä henkilökuntaa Lähi-idässä. Mistä on kyse?
+          Kysymme myös, mikä on viikonloppuna Tukholmassa kokoontuva Bilderberg-ryhmä. Tapaamiseen osallistuu myös tasavallan presidentti Alexander Stubb. 
+          Viikonloppuna puoluekokoukseen kokoontuvat RKP ja Perussuomalaiset, joiden tilanne on erityisen mielenkiintoinen mm. kannatuksen hupenemisen takia. 
+          Kahta kansallispuistoa puolestaan on viime aikoina piinannut kävijöiden keskuudessa ärhäkästi levinnyt vatsatauti. Miten näin on päässyt käymään?
+          Juontajana Pirjo Auvinen
       - title: Yle Uutiset
         start_time: '2025-06-13T09:00:00+03:00'
         end_time: '2025-06-13T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-06-13T09:05:40+03:00'
         end_time: '2025-06-13T09:58:00+03:00'
-        description: |-
-          Gershwin: Kesäyö (Vieno Kekkonen).
+        description: |
+          Wilson: God Only Knows (The Beach Boys)
           Kansanlaulu: Ack Värmeland du sköna (Monica Zetterlund).
           Hebb: Sunny (Georgie Fame).
-          Endrigo: Canzone per te (Giancarlo Chiaramello)
-          Kemppi: Lennä mun lempeni laulu (Four Cats)
-          Bacharach: I'll never fall in love again (Bobbie Gentry)
+          Endrigo/Bardotti: Canzone per te (Sergio Endrigo).
+          Kemppi: Lennä mun lempeni laulu (Four Cats).
+          Bacharach: I'll never fall in love again (Bobbie Gentry).
           Alejandro: Sevilla (Placido Domingo & Paco de Lucia).
-          Lightfoot: Early mornin' rain (Paul and Mary Peter)
+          Lightfoot: Early mornin' rain (Peter, Paul and Mary).
           Semjonov: Laulu virran rannalla (Tamara Lund).
           Miller/Hirsch: En tunne itseäin (Seija Simola).
           Lindholm: Puhtaat laivat (Isokynä Lindholm).
-          Herbert: Indian Summer (Frank Sinatra).
+          Herbert: Indian summer (Frank Sinatra).
           Mårtenson: Kaikki paitsi purjehdus on turhaa (Lasse Mårtenson).
-          Merikanto: Kesäillan valssi (Ensio Kosta ja orkesteri)
+          O. Merikanto: Kesäillan valssi (Ensio Kosta).
       - title: 'Ruben Stiller: Väittely Elokapinasta'
         start_time: '2025-06-13T10:00:00+03:00'
         end_time: '2025-06-13T10:55:00+03:00'
@@ -202,11 +208,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-13T17:00:00+03:00'
         end_time: '2025-06-13T17:10:00+03:00'
-      - title: Uutispodcast
+      - title: 'Heikki Heiskanen & Putinin pilarit: Venäjän vallanpitäjät rakentavat epäystävällisen ajan Suomi-kuvaa'
         start_time: '2025-06-13T17:10:00+03:00'
         end_time: '2025-06-13T17:34:20+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Kun Venäjä hyökkäsi Ukrainaan helmikuussa 2022, jäätyivät myös Suomen ja Venäjän suhteet. Nato-Suomi on Venäjällä luokiteltu epäystävällisten maiden joukkoon, ja Suomi taas on sulkenut Venäjän-rajansa. Sarjan viimeisessä jaksossa Heikki Heiskanen tarkastelee, miten virallinen Venäjä nyt rakentaa uutta suurta kertomusta Suomen ja Venäjän suhteista. Ja miten hyvin uusi linja menee läpi tavallisille venäläisille? Heiskanen matkustaa Pietariin ja haastattelee pitkän linjan kielitieteilijää ja opettajaa Olga Milovidovaa suomalaisuudesta Pietarin kulttuurissa.
       - title: 'Näistä levyistä en luovu: Markku "Rive" Kanerva'
         start_time: '2025-06-13T17:35:00+03:00'
         end_time: '2025-06-13T18:30:00+03:00'
@@ -236,21 +242,8 @@ data:
       - title: 'Naantalin musiikkijuhlat: Bach - Viestejä tuonpuoleisesta'
         start_time: '2025-06-13T19:02:00+03:00'
         end_time: '2025-06-13T20:15:00+03:00'
-        description: |-
-          Kun Johann Sebastian Bach palasi konserttimatkaltaan kotiin vuonna 1720, häntä odotti järkytys: hänen vaimonsa oli kuollut ja jo haudattukin. Surutyönään Bach viimeisteli viulupartitan d-mollissa, joka päättyy monumentaaliseen chaconneen. Vuonna 1994 tutkija Helga Thoene teki mullistavan löydön: maallisena pidettyyn partitaan oli kätketty kuolemasta ja menetyksestä kertovien kuorokappaleiden säkeitä. Mitä Bach halusi sanoa? Onko kaiken takana seikkaperäinen suunnitelma, piilotajunnan ääni vai taivaallinen johdatus? Mysteerin äärelle johdattavat Tuuli Lindebergin kokoama lauluyhtye sekä Bach-tulkinnoistaan ylistetty viulisti Liza Ferschtman. 8.6. Rymättylän kirkossa tallenetun konsertin toimittaa Lotta Emanuelsson.
-
-          Johann Sebastian Bach: Kantaatteja
-          Johann Sebastian Bach: Partita sooloviululle d-molli BWV 1004
-
-          Kuvassa: Liza Ferschtman (Kuva: Marco Borggreve)
-
-          Kuvassa. Liza Ferschtman
-
-          Liza Ferschtman, viulu
-          Tuuli Lindeberg, sopraano
-          Teppo Lampela, kontratenori
-          Mats Lillhannus, tenori
-          Sampo Haapaniemi, baritoni
+        description: |
+          Johann Sebastian Bach: katkelmia eri teoksista; Chaconne partitasta sooloviululle d-molli. Liza Ferschtman, viulu, Tuuli Lindeberg, sopraano, Teppo Lampela, kontratenori, Mats Lillhannus, tenori ja Sampo Haapaniemi, baritoni. - Rymättylän kirkossa 8.6. äänitetyn konsertin toimittaa Lotta Emanuelsson.
       - title: Yle Uutiset
         start_time: '2025-06-13T21:00:00+03:00'
         end_time: '2025-06-13T21:02:00+03:00'

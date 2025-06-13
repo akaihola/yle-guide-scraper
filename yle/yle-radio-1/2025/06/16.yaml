@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-12T02:35:40.581493+00:00'
+  generated_at: '2025-06-13T02:35:53.708488+00:00'
   git:
     branch: main
-    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
-  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
+    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
+  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
 data:
   Yle Radio 1:
     programmes:
@@ -110,11 +110,11 @@ data:
           Kirk: Serenade to a cuckoo (Roland Kirk).
       - title: 'Virtasen taloushistoria: Pariutumisen historia - vieraana Eija Stark'
         start_time: '2025-06-16T10:00:00+03:00'
-        end_time: '2025-06-16T10:52:00+03:00'
+        end_time: '2025-06-16T10:54:00+03:00'
         description: |
           Rahaa ja rakkauttakin. Paritumisen historiasta ja taloudesta  kertoo filosofian tohtori, folkloristiikan dosentti Eija Stark, joka on Suomalaisen Kirjallisuuden Seuran kehittämispäällikkö. Toimittaja on Juha Virtanen. Ohjelma on uusinta kesäkuulta 2023.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-06-16T10:52:00+03:00'
+        start_time: '2025-06-16T10:54:00+03:00'
         end_time: '2025-06-16T11:00:00+03:00'
       - title: 'Välilevyjä: Historian tilaa täyttämässä'
         start_time: '2025-06-16T11:00:00+03:00'
@@ -252,19 +252,26 @@ data:
       - title: Politiikkaradio
         start_time: '2025-06-16T21:05:00+03:00'
         end_time: '2025-06-16T21:34:30+03:00'
-      - title: Tiedeykkönen
-        start_time: '2025-06-16T21:35:00+03:00'
-        end_time: '2025-06-16T22:24:30+03:00'
+      - title: 'Tiedeykkönen: Kuulutko ylemmän vai alemman statuksen suomalaisiin?'
+        start_time: '2025-06-16T21:35:17+03:00'
+        end_time: '2025-06-16T22:24:37+03:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Sosiaalisen statuksen merkitys on suuri. Se, miten ihminen asemoi itsensä yhteiskunnan sosiaalisessa hierarkiassa, on yhteydessä mm. elämänlaatuun ja mielipiteisiin.
+
+          Eriarvoisuutta vuosikymmeniä tutkinut Juho Saari näkee isoja muutoksia suomalaisen yhteiskunnan sosiaalisessa rakenteessa. Monet muutoksista ovat tapahtuneet vasta hiljattain.
+
+          Haastateltavana jaksossa on Tampereen yliopiston sosiaali- ja terveyspoltiikan professori Juho Saari
+
+          Toimittajana on Juuso Pekkinen
+          Äänisuunnittelija Katja Kostiainen
       - title: 'MItä polkupyörä tarkoittaa - kertomuksia täydellisestä keksinnöstä: Ensimmäinen polkaisu'
-        start_time: '2025-06-16T22:25:00+03:00'
-        end_time: '2025-06-16T22:44:30+03:00'
+        start_time: '2025-06-16T22:25:21+03:00'
+        end_time: '2025-06-16T22:44:42+03:00'
         description: |
           Kertomuksia täydellisestä keksinnöstä. Toimittaja JP Pulkkinen
       - title: 'Näistä levyistä en luovu: Markku "Rive" Kanerva'
-        start_time: '2025-06-16T22:45:00+03:00'
-        end_time: '2025-06-16T23:39:00+03:00'
+        start_time: '2025-06-16T22:45:11+03:00'
+        end_time: '2025-06-16T23:39:33+03:00'
         description: |
           Jalkapallovalmentaja Markku "Rive" Kanervan rinnassa sykkii pallon muotoinen sydän. Ohjelmassa soivat kappaleet, jotka ovat olleet mieleenpainuvia ja merkittäviä Riven elämän polulla. Toimittaja on Tuija Kurvinen. 
       - title: Yöklassinen

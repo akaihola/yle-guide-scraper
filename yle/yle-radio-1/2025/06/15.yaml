@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-12T02:35:38.434765+00:00'
+  generated_at: '2025-06-13T02:35:51.548688+00:00'
   git:
     branch: main
-    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
-  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
+    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
+  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
 data:
   Yle Radio 1:
     programmes:
@@ -41,31 +41,29 @@ data:
       - title: Yle Uutiset
         start_time: '2025-06-15T07:00:00+03:00'
         end_time: '2025-06-15T07:02:05+03:00'
-      - title: 'Klasariparatiisi - Eva Tigerstedt: Vermeerin maalauksissa soi musiikki'
-        start_time: '2025-06-15T07:02:23+03:00'
-        end_time: '2025-06-15T07:54:34+03:00'
+      - title: 'Klasariparatiisi: Riemua rintaan'
+        start_time: '2025-06-15T07:02:20+03:00'
+        end_time: '2025-06-15T07:58:39+03:00'
         description: |
-          Johannes Vermeer oli Hollannin kultakauden taiteilija. Usein hänen tauluissaan näkyy soittimia. Virginaaleja, gamboja, luuttuja. Mitä taulujen hahmot olisivat voineet soittaa? Eva Tigerstedt avaa polkuja musiikkiin.
+          Minkälainen musiikki voisi tehdä vaikutuksen työpaikkaa anoessa?
+          Carl Philipp Emanuel Bach oli tympääntynyt Fredrik Suuren hovimuusikkona toimimiseen, ja halusi uuteen pestiin. Näyttääkseen taitonsa hän sävelsi ensimmäisen suurimuotoisen teoksensa, Magnificatin. Se on täynnä riemua, herkkyyttä ja voimaa, surumieltäkin. Loisteliaat kuoronumerot, herkät ja virtuoosiset sooloaariat ja moninainen orkesterinkäyttö tekee teoksesta musiikkia, josta jokainen voi saada iloa päiväänsä.
 
-          Ohjelman musiikit:
 
-          Jacob Van Eyck: Englantilainen satakieli (Dorothee Oberlinger, nokkahuilu).
 
-          Jacob Van Eyck/John Dowland: Pavane lacryme muunnelmia Dowlandin sävelmästä Lachrimae pavan luutulle (Nigel North, luuttu, Mathieu Langlois, huilu).
+          Eva Tigerstedt avaa polkuja musiikkiin.
 
-          Thomas Morley: It was a lover and his lass (Barbara Bonney, sopraano, Jacob Heringman, luuttu). 
+          Ohjelman musiikki:
 
-          Jan Pieterszoon Sweelinck: Ab Oriente venerunt Magi (Theatre of voices, Allan Rasmussen, urut/Paul Hillier).
+          Carl Philipp Emanuel Bach:
+          Magnificat Wq215 
 
-          Jan Pieterszoon Sweelinck: Fantasia chromatica (Christopher Herrick, urut).
+          (Elizabeth Watts, sopraano,
+          Wiebke Lehmkuhl, altto 
+          Lothar Odinius, tenori, 
+          Markus Eiche, basso,
+          RIAS-kamarikuoro ja Akademie für alte Musik Berlin joht. Hans-Christoph Rademann).
 
-          Thomas Tomkins: Gaillard Earl Strafford (Carole Cerasi, virginaali).
-
-          Giulio Caccini: Amarill, mia bella (Monika Mauch, sopraano, Nigel North, luuttu).
-
-          Mathias van den Gheyn: Preludi n:o 8 a-molli (jacques Maassen, carillon).
-
-          Henry Purcell: Sound the trumpet, oodista Come, ye sons of art, away (Iestyn Davies, kontratenori, Alison Balsom, luonnontrumpetti, The English Concert/Trevor Pinnock).
+          Lisäksi ote Et misericordia eius- osasta vuoden 1749 version mukaan (Joélle Harvey, sopraano, Olivia Vermeulen, mezzosopraano, Arcangelo-kuoro ja -kamariorkesteri/Jonathan Cohen).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-15T08:00:00+03:00'
         end_time: '2025-06-15T08:05:05+03:00'
@@ -213,7 +211,7 @@ data:
           4. Josef Leimberg: Little Church / Mystic Journey (Alpha Pup)
           5. Terri Lyne Carrington & Christie Dashiell: Tears for Johannesburg / We Insist 2025! (Candid)
           6. Kamasi Washington & Andre 3000: Dream State / Fearless Movement (Young UK)
-          7. Mike Stern: Out of the Blue / All Over the Place (Heads Up International)
+          7. Hamilton de Holanda Trio & Chris Potter: Flying Chicken / Live in NYC (Sony)
           8. Badbadnotgood & Tim Bernard: Poeira Cosmica (XL)
 
           Toimittajana Eero Koski.
@@ -227,43 +225,41 @@ data:
         end_time: '2025-06-15T21:02:05+03:00'
       - title: Uutispodcast
         start_time: '2025-06-15T21:03:05+03:00'
-        end_time: '2025-06-15T21:28:00+03:00'
+        end_time: '2025-06-15T21:27:20+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: 'Klasariparatiisi - Eva Tigerstedt: Vermeerin maalauksissa soi musiikki'
-        start_time: '2025-06-15T21:28:44+03:00'
-        end_time: '2025-06-15T22:20:55+03:00'
+      - title: 'Klasariparatiisi: Riemua rintaan'
+        start_time: '2025-06-15T21:28:04+03:00'
+        end_time: '2025-06-15T22:24:23+03:00'
         description: |
-          Johannes Vermeer oli Hollannin kultakauden taiteilija. Usein hänen tauluissaan näkyy soittimia. Virginaaleja, gamboja, luuttuja. Mitä taulujen hahmot olisivat voineet soittaa? Eva Tigerstedt avaa polkuja musiikkiin.
+          Minkälainen musiikki voisi tehdä vaikutuksen työpaikkaa anoessa?
+          Carl Philipp Emanuel Bach oli tympääntynyt Fredrik Suuren hovimuusikkona toimimiseen, ja halusi uuteen pestiin. Näyttääkseen taitonsa hän sävelsi ensimmäisen suurimuotoisen teoksensa, Magnificatin. Se on täynnä riemua, herkkyyttä ja voimaa, surumieltäkin. Loisteliaat kuoronumerot, herkät ja virtuoosiset sooloaariat ja moninainen orkesterinkäyttö tekee teoksesta musiikkia, josta jokainen voi saada iloa päiväänsä.
 
-          Ohjelman musiikit:
 
-          Jacob Van Eyck: Englantilainen satakieli (Dorothee Oberlinger, nokkahuilu).
 
-          Jacob Van Eyck/John Dowland: Pavane lacryme muunnelmia Dowlandin sävelmästä Lachrimae pavan luutulle (Nigel North, luuttu, Mathieu Langlois, huilu).
+          Eva Tigerstedt avaa polkuja musiikkiin.
 
-          Thomas Morley: It was a lover and his lass (Barbara Bonney, sopraano, Jacob Heringman, luuttu). 
+          Ohjelman musiikki:
 
-          Jan Pieterszoon Sweelinck: Ab Oriente venerunt Magi (Theatre of voices, Allan Rasmussen, urut/Paul Hillier).
+          Carl Philipp Emanuel Bach:
+          Magnificat Wq215 
 
-          Jan Pieterszoon Sweelinck: Fantasia chromatica (Christopher Herrick, urut).
+          (Elizabeth Watts, sopraano,
+          Wiebke Lehmkuhl, altto 
+          Lothar Odinius, tenori, 
+          Markus Eiche, basso,
+          RIAS-kamarikuoro ja Akademie für alte Musik Berlin joht. Hans-Christoph Rademann).
 
-          Thomas Tomkins: Gaillard Earl Strafford (Carole Cerasi, virginaali).
-
-          Giulio Caccini: Amarill, mia bella (Monika Mauch, sopraano, Nigel North, luuttu).
-
-          Mathias van den Gheyn: Preludi n:o 8 a-molli (jacques Maassen, carillon).
-
-          Henry Purcell: Sound the trumpet, oodista Come, ye sons of art, away (Iestyn Davies, kontratenori, Alison Balsom, luonnontrumpetti, The English Concert/Trevor Pinnock).
+          Lisäksi ote Et misericordia eius- osasta vuoden 1749 version mukaan (Joélle Harvey, sopraano, Olivia Vermeulen, mezzosopraano, Arcangelo-kuoro ja -kamariorkesteri/Jonathan Cohen).
       - title: 'Sari Valto: Voiko ikääntymistä hidastaa?'
-        start_time: '2025-06-15T22:22:02+03:00'
-        end_time: '2025-06-15T23:16:50+03:00'
+        start_time: '2025-06-15T22:25:30+03:00'
+        end_time: '2025-06-15T23:20:18+03:00'
         description: |
           Voimmeko hidastaa ikääntymisprosessiamme?
           Vieraina kokeellisen neurologian dosentti  Kaisa Hartikainen ja terveyden edistämisen apulaisprofessori, gerontologian dosentti Elina Sillanpää Jyväskylän yliopistosta.
       - title: 'Romano mirits: Karhu kulki, kalasti ja pelasi pesäpalloa'
-        start_time: '2025-06-15T23:19:01+03:00'
-        end_time: '2025-06-15T23:32:48+03:00'
+        start_time: '2025-06-15T23:25:34+03:00'
+        end_time: '2025-06-15T23:39:21+03:00'
         description: |+
           Feija Florin sai nuorena kaksikin kutsumanimeä. ”Kiitolinja” tai ”Karhu”, millä nimellä hänet nykyäänkin tunnetaan,  kiersi innokkaasti niin Pohjoiseen kuin Etelään mm. liftaten.  Liikkuvainen mies nautti paitsi matkustamisesta, myös metsässä samoilusta ja sienestämisestä. Kalastusta rakastanut mies pelasi myös pitkään pesäpalloa sarjatasolla.
            

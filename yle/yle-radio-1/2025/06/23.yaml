@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-12T02:35:44.661501+00:00'
+  generated_at: '2025-06-13T02:35:57.687082+00:00'
   git:
     branch: main
-    commit: e2245d665f0b038f8a78f611c7dfa91fb7ae7eac
-  data_hash: 3bea00d318e9cd16e0768314de522746a25135a3b59142865c2334dc2550ae4f
+    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
+  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
 data:
   Yle Radio 1:
     programmes:
@@ -187,3 +187,8 @@ data:
         end_time: '2025-06-23T22:44:30+03:00'
         description: |
           Kertomuksia täydellisestä keksinnöstä. Toim. JP Pulkkinen.
+      - title: 'Näistä levyistä en luovu: Miitta Sorvali - hiljaisuudessa viihtyvä musiikinrakastaja'
+        start_time: '2025-06-23T22:45:00+03:00'
+        end_time: '2025-06-23T23:39:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
