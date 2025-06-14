@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-13T02:35:54.663622+00:00'
+  generated_at: '2025-06-14T02:34:21.237680+00:00'
   git:
     branch: main
-    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
-  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
+    commit: d06d406151425bd135ed05fde1af618b8c95a093
+  data_hash: 5bd300d5066cdc7ea60d6f3c2caa0012f6dc4e8af0f7edeba8c15e5211fd5e1a
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-17T06:30:50+03:00'
         end_time: '2025-06-17T06:50:00+03:00'
+        description: |+
+          Bradbury: Jeesus meitä rakastaa (Merja Wirkkala, sopraano, ja Gustav Djupsjöbacka, piano).
+
+          Koraalitoisinto: Nyt yhdessä jo lähtekää (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Rahmaninov: Isä meidän (Uspenskin katedraalikuoro/Jarmo Lehto).
+
+          Karanko: Sydämellä Jeesuksen (Päivi Sini Ristimäki, laulu, ja Jere Ristimäki, kitara).
+
       - title: Aamuhartaus
         start_time: '2025-06-17T06:50:00+03:00'
         end_time: '2025-06-17T06:59:59+03:00'
@@ -231,11 +240,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-17T18:35:00+03:00'
         end_time: '2025-06-17T18:50:00+03:00'
+        description: |+
+          Farrell: Loistamaan jää (Tuomaskuoro).
+
+          Koraalitoisinto Lapualta: Oi Herra, ilo suuri (Jaakko Kortekangas, baritoni, ja Matti Hannula, urut).
+
+          Koraalitoisinto (sov. Lehtovaara): Kun Herra hoitaa, paimentaa (Kampin Laulu/Jussi Lehtipuu).
+
+          Valamon luostarin sävelmä: Ehtoohymni (Krysostomos/Mikko Sidoroff).
+
       - title: Iltahartaus
         start_time: '2025-06-17T18:50:00+03:00'
         end_time: '2025-06-17T19:00:00+03:00'
         description: |-
-          Pastori Ioannis Lampropoulos, Ortodoksinen kirkko, Turku
+          "Jos on rakkautta, on rauhaa"
+          Pastori Ioannis Lampropoulos, Ortodoksinen kirkko, Turku puhuu ihmisen rauhan kaipuusta ja sotien ja levottumuuksien aiheuttamasta epävarmuuden ja pelon tunteista.
       - title: 'Jussi Halla-aho - kylmä peli: Taas ulkokehällä'
         start_time: '2025-06-17T19:02:00+03:00'
         end_time: '2025-06-17T19:26:00+03:00'
@@ -325,9 +344,19 @@ data:
         end_time: '2025-06-17T20:35:00+03:00'
         description: |
           Ajankohtaista asiaa romaneista.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Ukrainan halvoilla drooneilla Venäjälle nöyryyttävä oppitunti'
         start_time: '2025-06-17T20:35:00+03:00'
         end_time: '2025-06-17T21:00:00+03:00'
+        description: |-
+          Ukrainan drooni-iskut Venäjälle kuun alussa aiheuttivat miljardien kalustotuhot Venäjän asevoimille. Pommi- ja tutkavalvontakoneisiin kohdistuneet iskut toteutettiin halvoilla, muutaman satasen maksavilla drooneilla.
+
+          Ukraina on noussut Venäjän hyökkäyssodan myötä merkittäväksi droonivalmistajaksi. Sen tavoitteena on valmistaa kuluvana vuonna jopa kolme miljoonaa droonia.  Ohjelmassa käydään Kiovassa tutustumassa yhteen Ukrainan lukuisista droonivalmistajista.
+
+          Ohjelmassa haastateltavien asiantuntijoiden mukaan iskut osoittivat Ukrainalta kekseliäisyyttä ja kyvykkyyttä. Samalla Ukraina näytti venäläisille, että syvälläkään Venäjällä ei olla turvassa drooneilta.
+
+          Moderni sodankäynti drooneineen edellyttää ketteryyttä ja nopeaa muutoskykyä alan toimijoilta. Suomessa yli 40 yritystä ja tutkimuslaitosta tekee yhteistyötä Digital Defence ekosyysteemiksi. Suomesta löytyy jo maailman huippuosaamista droonin havaitsemis- ja torjuntajärjestelmien valmistamisessa. Sensofusion-yhtiön toimitusjohtaja arvioi ohjelmassa, mihin suuntaan droonit ovat parhaillaan kehittymässä ja kuinka tähän vastata.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Politiikkaradio
         start_time: '2025-06-17T21:05:00+03:00'
         end_time: '2025-06-17T21:34:30+03:00'

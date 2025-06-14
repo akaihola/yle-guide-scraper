@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-13T02:35:53.708488+00:00'
+  generated_at: '2025-06-14T02:34:21.003839+00:00'
   git:
     branch: main
-    commit: 45d0af64c2182297c1548882a256c3bbf2ccbcca
-  data_hash: 6c97d67de90ba7f779544d8ad42580df9eb957f2e9d5eeea7a970c5410529157
+    commit: d06d406151425bd135ed05fde1af618b8c95a093
+  data_hash: 5bd300d5066cdc7ea60d6f3c2caa0012f6dc4e8af0f7edeba8c15e5211fd5e1a
 data:
   Yle Radio 1:
     programmes:
@@ -87,6 +87,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-16T08:10:00+03:00'
         end_time: '2025-06-16T09:00:00+03:00'
+        description: |-
+          Lähetyksen aluksi Suomen Lähi-idän instituutin johtaja Susanne Dahlgren kertoo näkökulmia Israelin Iraniin tekemien iskujen vaikutuksiin. Studiokeskustelussa syvennetään tilannekuvaa Puolustusvoimien Juha Mäkelän ja Ulkopoliittisen instituutin Toni Alarannan kanssa. Erikoistoimittaja Ari Hakahuhta kertoo terveiset Naantalin Kultaranta -keskusteluista. Toisessa keskustelussa Siirtolaisinstituutin vastaava tutkija Markku Mattila kertoo; kuinka hyvin Sotaa paenneet ukrainalaiset ovat sopeutuneet Suomeen? Lähetyksen päätteeksi vielä tiiviisti tänään alkavasta suuresta ilmasotaharjoituksesta.  
       - title: Yle Uutiset
         start_time: '2025-06-16T09:00:00+03:00'
         end_time: '2025-06-16T09:05:00+03:00'
@@ -116,11 +118,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-16T10:54:00+03:00'
         end_time: '2025-06-16T11:00:00+03:00'
-      - title: 'Välilevyjä: Historian tilaa täyttämässä'
+      - title: 'Välilevyjä: Syystäkin marginaalissa?'
         start_time: '2025-06-16T11:00:00+03:00'
         end_time: '2025-06-16T11:57:00+03:00'
         description: |
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Ohjelma on uusinta elokuulta 2021.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-16T11:57:00+03:00'
         end_time: '2025-06-16T12:00:00+03:00'
@@ -155,7 +157,7 @@ data:
           Billnäsin, vanhassa ruukkikylässä, Helsingin länsipuolella avautuu Sommarstilleben -näyttely. Käsitöistä ja designista kootut runolliset asetelmat kertovat pohjoismaisen kesän maagisuudesta. Hanni Koroma, joka vastaa näyttelyarkkitehtuurista, on todennut että kauneus ympärillämme on ainoa asia joka lohduttaa kun maailma on sekaisin. Taidehistoriastakin tutut asetelmat, stillebenit ja nature mortet voivat koostua myös perunoista, sitruunoista, tillistä, kananmunista ja kukista. Asetelmat kertovat kunnioituksesta elämän ja arjen kauneutta kohtaan.  Näyttely koostuu useiden suomalaisten
           nykytaiteilijoiden ja muotoilijoiden teoksista. Mitkä aihepiirit ovat inspiroineet heitä? Millaisen sanoman he haluavat tuoda esille kauniiden ja myös yllättävien yhdistelmien kautta?
 
-          Ohjelman vieraina ovat näyttelyn kuraattori Katja Hagelstam ja näyttelyarkkitehtuurista vastaava Hanni Koroma.
+          Ohjelman vieraina ovat näyttelyn kuraattori Katja Hagelstam, näyttelyarkkitehtuurista vastaava Hanni Koroma ja taiteilijat Hanna-Kaisa Korolainen ja Outi Martikainen.
 
           Ohjelman juontaa Pia-Maria Lehtola
 
@@ -197,8 +199,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-06-16T17:10:00+03:00'
         end_time: '2025-06-16T17:34:20+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Miten kokonainen minibussillinen ihmisiä katoaa? Miten lasten oikeudet toteutuvat ja miksi tapaus ylipäätään kiinnostaa niin paljon? Reetta Rönkä pohtii Uutispodcastissa katoamismysteeriä kolmen kysymyksen ja vieraan kanssa. Jaksossa kuullaan Lastensuojelun keskusliiton ohjelma- ja vaikuttamistyön johtaja Annukka Paasivirtaa, mediatutkija Pauliina Tuomea sekä Iltasanomien rikostoimittaja Sanni Mattilaa. 
       - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikin pienet suuret idyllit: Clejani, Romania'
         start_time: '2025-06-16T17:35:00+03:00'
         end_time: '2025-06-16T18:34:20+03:00'
