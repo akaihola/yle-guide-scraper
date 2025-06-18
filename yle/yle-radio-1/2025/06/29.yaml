@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-17T02:36:20.385585+00:00'
+  generated_at: '2025-06-18T02:36:09.076589+00:00'
   git:
     branch: main
-    commit: 0534b9c952a16af6a511f70b2f91f905b94cbd45
-  data_hash: ff8ffedb5c0ac3902e7ea285d6dd9b7f60601b0ac3d0727d4940ff7eef8ba739
+    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
+  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,35 @@ data:
         start_time: '2025-06-28T23:40:00+03:00'
         end_time: '2025-06-29T07:00:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Netzel: Sonaatti sellolle ja pianolle (Petja Kainulainen, sello, ja Salla Pynssi, piano).
+
+          23:59 Sibelius (sov. Eskelinen): Melodinen ajatus op.40/6 (Ismo Eskelinen, kitara).
+
+          00:03 Dvorák: Sinfonia n:o 9 (Uudesta maailmasta) (RSO/Jukka-Pekka Saraste).
+
+          00:44 d'Indy: Souvenirs (Monte Carlon FO/James DePreist).
+
+          01:04 Torelli: Sonaatti trumpetille, jousille ja continuolle D-duuri (Gerard Schwartz ja New Yorkin kamariork.).
+
+          01:13 Debussy: Douze etudes pour le piano (12 etydiä pianolle) (Charles Rosen).
+
+          01:56 Beethoven: Sonaatti sellolle ja pianolle n:o 1 F-duuri (Matt Haimovitz, sello, ja Christopher O'Riley, fortepiano).
+
+          02:20 Sallinen: Three adagios (Kalevi Kiviniemi, Turun tuomiokirkon urut).
+
+          02:32 W.A. Mozart: Divertimentot jousille D-duuri, B-duuri ja F-duuri. (Moskovan virtuoosit/Vladimir Spivakov).
+
+          03:18 Gottschalk: Sinfonia n:o 1 (Tropiikin yö) (Utahin SO/Maurice Abravanel).
+
+          03:40 Mahler: Des Knaben Wunderhorn (Christa Ludwig, mezzosopraano, ja Walter Berry, baritoni, sekä New Yorkin FO/Leonard Bernstein).
+
+          04:38 Liszt: Sinfoniset runot Festklänge; Hamlet; Hungaria (Neuvostoliiton kulttuuriministeriön SO/Mark Ermler).
+
+          05:34 Brahms: Sonaatti sellolle ja pianolle n:o 2 F-duuri (Jacqueline Du Pré ja Ernest Lush).
+
+          06:01 Marvia: Kuulutusmatka (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          06:05 J.S. Bach: Sonaatit viululle ja kosketinsoittimelle n:o 4 c-molli, n:o 5 f-molli ja n:o 6 G-duuri (Richard Tognetti, viulu, Neal Peres da Costa, cembalo ja kamariurut sekä  Daniel Yeadon, sello ja viola da gamba).
       - title: Yle Uutiset
         start_time: '2025-06-29T07:00:00+03:00'
         end_time: '2025-06-29T07:02:05+03:00'
@@ -186,3 +214,40 @@ data:
         end_time: '2025-06-29T23:39:30+03:00'
         description: |
           Ajankohtaista asiaa romaneista.
+      - title: Yöklassinen
+        start_time: '2025-06-29T23:40:00+03:00'
+        end_time: '2025-06-30T06:30:00+03:00'
+        description: |
+          Dvorák: Kvintetto pianolle ja jousille A-duuri (Clifford Curzon ja Wienin filharmoninen jousikvartetti).
+
+          00:16 David - Vieuxtemps: Yö (James Ehnes, alttoviulu, ja Eduard Laurel, piano).
+
+          00:21 Liszt (sov. Doppler): Unkarilainen rapsodia n:o 1 f-molli (RSO/Neeme Järvi).
+
+          00:34 Vaughan Williams: Kuusi tutkielmaa englantilaisesta kansanlaulusta (Reginald Kell, klarinetti, ja Brooks Smith, piano).
+
+          00:44 Brahms: Sonaatti viululle ja pianolle n:o 3 d-molli (David Oistrah ja Vladimir Jampolski).
+
+          01:09 Debussy: Vasnier-laulukirja (Dawn Upshaw, sopraano, ja James Levine, piano.)
+
+          01:41 Bernstein: West Side Story, sinfonisia tansseja musikaalista orkesterille (Los Angelesin FO/Leonard Bernstein).
+
+          02:05 Villa-Lobos: Concerto grosso puhallinkvartetille ja puhallinorkesterille. (Gail Gillespie, huilu, Leslye Barrett, oboe, Lisa Kadala, klarinetti, Christopher McFarlane, fagotti, ja Yhdysvaltain merivoimien puhallinork./Jose Serebrier).
+
+          02:22 Ginastera: Jousikvartetto n:o 1 (Cuarteto Latinoamericano).
+
+          02:43 Nielsen: Alkusoitto ja preludi oopp. Naamiaiset (Philadelphian ork./Eugene Ormandy).
+
+          02:53 Bartók: Unkarilaisia kuvia (Chicagon SO/Pierre Boulez). 
+
+          03:05 W.A. Mozart: Serenadi B-duuri (Gran Partita) (St.Luken ork./Charles Mackerras).
+
+          03:56 Saint-Saëns: Sarja sellolle ja orkesterille (Misha Maisky ja Orpheus-kamariork.).
+
+          04:17 Grieg: Pianosonaatti e-molli (Ilkka Paananen).
+
+          04:39 J.S. Bach: Orgelbüchlein (Olli Porthan, urut).
+
+          06:00 J. Haydn: Sinfonia n:o 57 D-duuri (Philharmonia-barokkiork./Nichols McGegan).
+
+          06:26 Castaldi: Un Bocconcino di fantasia (Mielikuvituksen herkkupala) (Daniel Swenberg, tiorbino).

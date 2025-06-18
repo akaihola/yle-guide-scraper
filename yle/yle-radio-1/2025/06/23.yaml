@@ -1,17 +1,47 @@
 metadata:
-  generated_at: '2025-06-17T02:36:18.209240+00:00'
+  generated_at: '2025-06-18T02:36:03.617002+00:00'
   git:
     branch: main
-    commit: 0534b9c952a16af6a511f70b2f91f905b94cbd45
-  data_hash: ff8ffedb5c0ac3902e7ea285d6dd9b7f60601b0ac3d0727d4940ff7eef8ba739
+    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
+  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-06-22T23:40:00+03:00'
         end_time: '2025-06-23T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Lully: Kuninkaan kamaritrioja (Chatham Baroque).
+
+          23:53 Bruch: Viulukonsertto n:o 1 g-molli (David Oistrah ja Lontoon SO/Lovro von Matacic).
+
+          00:18 Chausson: Andante ja allegro (Céleste Zewald, klarinetti, ja David Kuyken, piano).
+
+          00:27 Liszt: Les Preludes, sinfoninen runo n:o 3 (Minnesotan ork./Eiji Oue). 
+
+          00:45 Tshaikovski: Katkelmia bal. Joutsenlampi (Philadelphian ork./Eugene Ormandy).
+
+          01:38 Bartók: Kossuth (Buffalon filharmoninen orkesteri, joht. JoAnn Falletta).
+
+          01:59 Elgar: Sinfoninen alkusoitto Polonia (Uuden-Seelannin SO/James Judd).
+
+          02:14 Kokkonen: Sinfonia n:o 1 (RSO/Paavo Berglund).
+
+          02:35 Kansansäv. (sov. Niles/Berio): Black is the colour of my true love's hair (Dawn Upshaw, sopraano, ja The Andalucian Dogs).
+
+          02:38 James Price Johnson: Pianokonsertto As-duuri (Jassamine) (Leslie Stifelman ja Concordia-ork./Marin Alsop).
+
+          02:56 Foote: Pianotrio n:o 1 c-molli (Arden-trio).
+
+          03:29 Castello: Sonata ottava d-molli (Trio Settecento).
+
+          03:35 Bruckner: Sinfonia n:o 9 d-molli (Minnesotan ork./Stanislaw Skrowaczewski). 
+
+          04:35 Beethoven: Jousikvartetto n:o 1 F-duuri ja n:o 2 G-duuri op.18 (Guarneri-kvartetti).
+
+          05:31 Lanier: No more shall meads be deck'd with flow'rs (Niityt eivät enää peity kukkiin) (Nicholas Phan, tenori, Michael Leopold, luuttu, ja Ann Marie Morgan, viola da gamba).
+
+          05:39 J.S. Bach: Inventiot ja sinfoniat klaveerille (Glenn Gould, piano).
       - title: Hartaita säveliä
         start_time: '2025-06-23T06:30:50+03:00'
         end_time: '2025-06-23T06:50:00+03:00'
@@ -179,11 +209,15 @@ data:
         end_time: '2025-06-23T20:00:00+03:00'
         description: |2+
 
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Veteraanit rulettavat!'
         start_time: '2025-06-23T20:00:00+03:00'
         end_time: '2025-06-23T20:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Juhannuksen kunniaksi studioon saapuvat politiikan veteraanit Esko Aho ja Ben Zyskowicz. Mitä neuvoja he antavat 18-vuotiaalle nuorelle, joka suunnittelee tulevaisuuttaan?
+
+          Millaisia nuoria olivat 18- vuotiaat Ben ja Esko?
+
+          Puhumme myös suomettumisen sukupolvikokemuksesta. Miksi Z- ja Y-sukupolven kannattaa tutustua suomettuneen Suomen historiaan?
       - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Täydellinen keksintö'
         start_time: '2025-06-23T22:25:00+03:00'
         end_time: '2025-06-23T22:44:30+03:00'
@@ -194,3 +228,34 @@ data:
         end_time: '2025-06-23T23:39:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Yöklassinen
+        start_time: '2025-06-23T23:40:00+03:00'
+        end_time: '2025-06-24T06:30:00+03:00'
+        description: |
+          W.A. Mozart: Sonaatti pianolle ja viululle n:o 32 B-duuri (David Oistrah, viulu, ja Vladimir Jampolski, piano).
+
+          00:02 Melartin: Trio huilulle, klarinetille ja fagotille. (Mikael Helasvuo, Reino Simola ja Juhani Tapaninen).
+
+          00:17 Anonyymi: Ylistyslauluja Neitsyt Marialle 1200- ja 1300-luvuilta (Radion kamarikuoron naisäänet/Debra Gomez-Tapio ja Titta Lampela, sopraano).
+
+          01:11 Tshaikovski: Sinfonia n:o 6 h-molli (Pateettinen) (RSO/Sakari Oramo).: 
+
+          01:58 Brahms: Viulukonserton D-duuri pianoversio. (Dejan Lazic, piano ja Atlantan SO/Robert Spano).
+
+          02:38 Beethoven: Jousikvartetto n:o 12 Es-duuri (Brentano-kvartetti).
+
+          03:16 Schumann: Carnaval (Karnevaali) (Joyce Yang, piano).
+
+          03:50 Offenbach - Rosenthal: Osia bal. Gaîté Parisienne (Cincinnati Pops -ork./Erich Kunzel).
+
+          04:14 Borodin: Sinfonia n:o 1 Es-duuri (Seattlen SO/Gerard Schwarz).
+
+          04:49 Mendelssohn: Jousikvartetto n:o 1 Es-duuri (Emerson-kvartetti).
+
+          05:15 Dvorák: Pianotrio n:o 4 e-molli (Dumky) (Rembrandt-trio). 
+
+          05:46 Glenn: Crying in the chapel (Kalevi Kiviniemi, urut).
+
+          05:50 Carissimi: Jephte (Jefta), oratorio (Jos van Veldhoven, baritoni, Nicola Wemyss, sopraano, ja Alankomaiden Bach-yhtye/van Veldhoven).
+
+          06:16 Veracini: Sonaatti viululle ja continuolle d-molli (Trio Settecento).
