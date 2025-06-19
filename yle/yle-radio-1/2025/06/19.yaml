@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-18T02:35:51.394982+00:00'
+  generated_at: '2025-06-19T02:36:28.912211+00:00'
   git:
     branch: main
-    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
-  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
+    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
+  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,10 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-19T08:10:00+03:00'
         end_time: '2025-06-19T09:00:00+03:00'
+        description: |-
+          Israel ja Iran jatkavat iskujaan toisiaan vastaan, ja samalla uhittelu kovenee. Nyt odotetaan myös Yhdysvaltain reaktioita ja mahdollista liittymistä Israelin rinnalle. Asiantuntijamme keskustelevat erilaisista skenaarioista. 
+          Monilla työntekijöillä alkaa juhannuksena kesäloma: kerromme, miten lomasta voisi saada mahdollisimman palauttavan. Lopuksi vielä asiaa turvallisesta juhannuksenvietosta vesillä. 
+          Juontaja Linda Vettanen, tuottaja Anna-Maria Haarala. 
       - title: Muistojen bulevardi
         start_time: '2025-06-19T09:05:40+03:00'
         end_time: '2025-06-19T09:58:00+03:00'
@@ -205,7 +209,7 @@ data:
         start_time: '2025-06-19T17:10:00+03:00'
         end_time: '2025-06-19T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Juhannuksen alla kansa vaeltaa ruokakauppoihin. Vaihtoehtoja eri ketjujen välillä ei ole paljon. Kesko ja S-ryhmä jakavat yhdessä yli 82% koko Suomen ruokakaupasta. Suomessa on Euroopan ja jopa maailman keskittynein ruokakauppamarkkina, mutta miksi? Ja pystyvätkö pienemmät ketjut haastamaan suurempia? Atte Uusinokan haastattelussa on Turun yliopiston työelämäprofessori Arhi Kivilahti. 
       - title: 'Tuuli Saksalan keidas: Juhannustaikoja ja kukkakimppuja'
         start_time: '2025-06-19T17:35:00+03:00'
         end_time: '2025-06-19T18:25:00+03:00'
@@ -271,8 +275,8 @@ data:
           Tuotantokoordinaattori: Eveliina Solja.
           Tuotanto: Laura Jaakkola, Yle Draama 2025.
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Vuoristonäkymiä ja hiljaista syvyyttä'
-        start_time: '2025-06-19T22:52:30+03:00'
-        end_time: '2025-06-19T23:48:40+03:00'
+        start_time: '2025-06-19T22:53:08+03:00'
+        end_time: '2025-06-19T23:49:18+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen

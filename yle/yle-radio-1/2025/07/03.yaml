@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-18T02:36:11.452077+00:00'
+  generated_at: '2025-06-19T02:36:56.184981+00:00'
   git:
     branch: main
-    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
-  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
+    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
+  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
 data:
   Yle Radio 1:
     programmes:
@@ -44,8 +44,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-07-03T06:50:00+03:00'
         end_time: '2025-07-03T06:59:59+03:00'
-        description: |-
-          Toimittaja Heli Karhumäki, Lapua
+        description: |
+          "Kiukkumöykkyjä ja rakkautta janoava sydän"
+          Toimittaja Heli Karhumäki Lapualta kertoo kuvataideterapiasta avun vaikeisiin tunteisiin löytäneestä pojasta ja syistä vaikeuksien takana.
       - title: Yle Uutiset ja sää
         start_time: '2025-07-03T07:00:00+03:00'
         end_time: '2025-07-03T07:10:00+03:00'
@@ -83,11 +84,28 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-03T09:05:40+03:00'
         end_time: '2025-07-03T09:58:00+03:00'
+        description: |
+          Morrison: Brown eyed girl (Van Morrison).
+          Lehtinen: Muistan kesän (Agents).
+          Helsingius: Kahlaajatyttö (Barbara Helsingius).
+          Öst: Du ser mej inte (Inger Öst).
+          Wilson: Taivas vain tietää (Jormas).
+          Lennon/McCartney: Penny lane (The Beatles).
+          Kärki: Pieni katu (Ritva Mustonen).
+          Bechet: Promenade aux Champs-Elysees (Sidney Bechet).
+          Crolla: Du soleil plein la tete (Jacqueline Francois). 
+          Howard: Fly me to the moon (In other words) (Frank Sinatra).
+          Shaw/Harding: The grabtown grapple (Artie Shaw and his Gramercy Five).
+          Goodman: En minäkään kerro, kuinka jouduin naimisiin (Sirkka Keiski).
+          Capotosti - De Simone: Nessuno (Mina).
+          Lecuona: The breeze and I (Caterina Valente).
+          Lyra/Boscoli: Saudade fez um samba (Joao Gilberto).
+          Chinn/Chapman: Viisitoista kesää (Kari Tapio).
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Pekka Haavisto: Istuta nyt kuitenkin se omenapuu'
         start_time: '2025-07-03T10:00:00+03:00'
         end_time: '2025-07-03T10:52:00+03:00'
         description: |
-          Pekka Haavisto on käynyt Suviseuroissa, se on hänen tapansa hypätä ulos omasta kuplasta. Ohjelman toimittaja on Maarit Tastula.
+          Puolan biisonit, demokratian tila, yhden miehen pride ja vihapuheen perintö. Maarit Tastulan vieraana kansanedustaja Pekka Haavisto.
       - title: Yksi on hyvää seuraa
         start_time: '2025-07-03T10:52:00+03:00'
         end_time: '2025-07-03T11:00:00+03:00'
@@ -104,7 +122,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-03T12:00:00+03:00'
         end_time: '2025-07-03T12:10:00+03:00'
-      - title: 12 diktaattoria K9 J2
+      - title: 12 diktaattoria
         start_time: '2025-07-03T12:10:00+03:00'
         end_time: '2025-07-03T12:45:00+03:00'
         description: |

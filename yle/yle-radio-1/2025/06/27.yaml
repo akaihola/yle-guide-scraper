@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-18T02:36:06.755407+00:00'
+  generated_at: '2025-06-19T02:36:51.775465+00:00'
   git:
     branch: main
-    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
-  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
+    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
+  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
 data:
   Yle Radio 1:
     programmes:
@@ -44,8 +44,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-27T06:50:00+03:00'
         end_time: '2025-06-27T06:59:59+03:00'
-        description: |-
-          Seurakuntapastori Sami Marte, Espoo
+        description: |
+          "Kutsu syntisten pöytään"
+          Seurakuntapastori Sami Marte Espoosta johdattelee seuraavan pyhän aiheeseen "Kutsu Jumalan valtakuntaan" Erika Vikmanin Syntisten pöytä -hitin tunnelmissa.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-27T07:00:00+03:00'
         end_time: '2025-06-27T07:10:00+03:00'
@@ -101,6 +102,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-27T11:57:00+03:00'
         end_time: '2025-06-27T12:00:00+03:00'
+        description: |-
+          Eeva Kilpi: Ote runosta: Laulu rakkaudesta puihin ja eläimiin
+          kokoelmasta: Perhonen ylittää tien - Kootut runot 1972–2000; 2020 WSOY
       - title: Yle Uutiset ja sää
         start_time: '2025-06-27T12:00:00+03:00'
         end_time: '2025-06-27T12:10:00+03:00'
@@ -136,8 +140,28 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-06-27T16:10:00+03:00'
         end_time: '2025-06-27T16:59:00+03:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          J.S. Bach: Vivace konsertosta kahdelle viululle, jousille ja continuolle d-molli (Hilary Hahn ja Margaret Batjer, viulu, sekä Los Angelesin kamariork./Jeffrey Kahane).
+
+          Monti: Csardas (Roby Lakatos ja yhtye).
+
+          Puccini: Calafin aaria oopp. Turandot (Pekka Nuotio, tenori, ja RSO/Kari Tikka).
+
+          Moberg: Masurkka (Marita Viitasalo, piano).
+
+          I. Hannikainen: Pentin serenadi (Jaakko Ryhänen, basso, Janne Hovi, piano, Seppo Hovi, harmonikka). 
+
+          Kansanlaulu: Krinjitsa (Hiljainen tienoo) (Oulun Kamarikuoro/Markku Jounela).
+
+          O. Merikanto: Romanssi (Risto Lauriala, piano).
+
+          Bizet: Nadirin ja Zurgan resit. ja duetto oopp. Helmenkalastajat (Jonas Kaufmann, tenori, ja Ludovic Tezier, baritoni, sekä Baijerin valtionork./Bertrand de Billy).
+
+          Liszt: Consolation n:o 4 Des-duuri (Helmut Deutsch, urut).
+
+          Mendelssohn: Auf Flügeln des Gesanges (Laulun siivin) (Sarah Chang, viulu, ja Charles Abramovic, piano).
+
+          Lehár: Hannan ja Danilon duetto oper. Iloinen leski (Renée Fleming, sopraano, ja Placido Domingo, tenori, sekä Chicagon SO/Daniel Barenboim).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-27T17:00:00+03:00'
         end_time: '2025-06-27T17:10:00+03:00'

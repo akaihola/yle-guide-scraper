@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-18T02:36:18.722855+00:00'
+  generated_at: '2025-06-19T02:37:05.122247+00:00'
   git:
     branch: main
-    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
-  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
+    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
+  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
 data:
   Yle Radio 1:
     programmes:
@@ -92,14 +92,44 @@ data:
       - title: Näistä levyistä en luovu
         start_time: '2025-07-18T17:35:00+03:00'
         end_time: '2025-07-18T18:30:00+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Mikko Kouki: Päivä Stingin kanssa ja muita musiikkimuistoja
+
+          Näyttelijä-ohjaaja Mikko Kouki on tuttu monilta lavoilta, elokuvista ja tv-sarjoista. Viimeiset kymmenen vuotta Kouki on toiminut Turun kaupunginteatterin taiteellisena johtajana. Koukin oopperaohjaukset Aulis Sallisen Punaisesta viivasta ja Joonas Kokkosen Viimeisistä kiusauksista ovat saaneet paljon kiitosta.
+
+          Moni Koukin mielimusiikeista liittyy nuoruuden ihastumisiin, Japaniin ja Islannin väreihin. Kouki saattaa ohjausta suunnitellessaan kuunnella musiikkia ja saada kuulemastaan vaikutteita näytelmän rytmitykseen. Lopulliseen ohjaukseen kuunneltu musiikki ei kuitenkaan välttämättä päädy.
+
+          Yhtä päivää Kouki ei koskaan unohda: sen hän vietti Stingin kanssa Turussa, kun Sting lensi sinne katsomaan musikaaliaan. Väliajalla miehet nauttivat gin toniceja ja esityksen jälkeen Sting palkitsi yleisön yllätysesityksellä.
+
+          Mikko Koukin kanssa musiikkia kuuntelee toimittaja Janne Palkisto.
+
+
+          Ohjelmassa kuultavat musiikit:
+
+          Joni Mitchell: Edith and the kingpin. Joni Mitchell, laulu ja kitara.
+
+          Ellas McDaniel: Road Runner. Hurriganes.
+
+          Ryuichi Sakamoto: Merry Christmas Mr Lawrence. Ryuichi Sakamoto, piano, Everton Nelson, viulu, ja Jaques Morelenbaum, sello.
+
+          Olafur Arnalds: Epilogue. Olafur Arnalds, piano.
+
+          Toni Edelmann: Soi laulu hiljaa (teksti: Einari Vuorela). Samuli Edelmann yhteineen sekä Tshekin kansallinen sinfoniaorkesteri.
+
+          Sting: Walking on the moon. Police-yhtye.
+
+          Sade Adu ja Martin Ditcham: The Sweetest Taboo. Sade yhtyeineen.
+
+          Samuel Barber: Adagio jousille. Turun filharmoninen orkesteri, joht. Petri Sakari.
       - title: Hartaita säveliä
         start_time: '2025-07-18T18:35:00+03:00'
         end_time: '2025-07-18T18:50:00+03:00'
       - title: Iltahartaus
         start_time: '2025-07-18T18:50:00+03:00'
         end_time: '2025-07-18T19:00:00+03:00'
+        description: |
+          "Jumalan puut"
+          Kesän perjantai-illoissa kuullaan terveisiä mökiltä. Tuottaja-toimittaja Mikko Kurenlahti Helsingistä pohtii puiden teologiaa ja ihmiskunnan suurta vaellusta elämän puulta elämän puun luo.
       - title: Romantikkojen matkassa
         start_time: '2025-07-18T19:02:00+03:00'
         end_time: '2025-07-18T21:00:00+03:00'

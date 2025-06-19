@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-18T02:36:05.711068+00:00'
+  generated_at: '2025-06-19T02:36:50.643688+00:00'
   git:
     branch: main
-    commit: 72ae8fb10d24e6776c44c295ccba7fb63ae87a36
-  data_hash: fe8366fe869ab78e42277b41dd34e49af9211f52127e2a942dd239db0682dfbd
+    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
+  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
 data:
   Yle Radio 1:
     programmes:
@@ -44,8 +44,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-06-26T06:50:00+03:00'
         end_time: '2025-06-26T06:59:59+03:00'
-        description: |-
-          Toimittaja Heli Karhumäki, Lapua
+        description: |
+          "Virret on aartehia"
+          Toimittaja Heli Karhumäki Lapualta pohtii minkä varassa usko Jumalaan on vaikeina aikoina kestänyt. 
       - title: Yle Uutiset ja sää
         start_time: '2025-06-26T07:00:00+03:00'
         end_time: '2025-06-26T07:10:00+03:00'
@@ -118,10 +119,13 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-06-26T11:57:00+03:00'
         end_time: '2025-06-26T12:00:00+03:00'
+        description: |
+          Viljo Kajava: Me emme milloinkaan tavoita
+          kokoelmasta: Hyvä on meri; 1950 Otava
       - title: Yle Uutiset ja sää
         start_time: '2025-06-26T12:00:00+03:00'
         end_time: '2025-06-26T12:10:00+03:00'
-      - title: 12 diktaattoria K9 J1
+      - title: 12 diktaattoria
         start_time: '2025-06-26T12:10:00+03:00'
         end_time: '2025-06-26T12:50:00+03:00'
         description: |-
@@ -188,11 +192,11 @@ data:
         end_time: '2025-06-26T18:27:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kielen päällä - Tietotekniikka ja some ovat tehneet lukemisesta tekstin sivelyä
+      - title: 'Kielen päällä: Tv:n komentokieli'
         start_time: '2025-06-26T18:27:00+03:00'
         end_time: '2025-06-26T18:35:00+03:00'
         description: |
-          Tietoteknistynyt maailma on tehnyt lukemisesta tekstin sivelyä. Maailma muuttuu, mutta samalla kieli köyhtyy. Moni ei enää muista lukemaansa. Onko syytä olla huolissaan nuorten kielen kehittymisestä? Vieraana on äidinkielenopettaja Irene Bonsdorff Töölön yhteiskoulusta Helsingistä. Toimittajana on Jari Aula. Ohjelma on uusinta lokakuulta 2024.
+          YLE:n ohjaaja Rami Lindholm kertoo tv:n komentokielestä. Tv-tuotannoissa vaaditaan lukuisa määrä eri ammattilaisia. Tärkeintä on toimintojen oikea-aikaisuus. Toimittajana on Jari Aula. Ohjelma on uusinta tammikuulta 2025.
       - title: Hartaita säveliä
         start_time: '2025-06-26T18:35:00+03:00'
         end_time: '2025-06-26T18:50:00+03:00'
