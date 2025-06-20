@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-19T02:36:44.628414+00:00'
+  generated_at: '2025-06-20T02:35:39.898141+00:00'
   git:
     branch: main
-    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
-  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
+    commit: 9fe60c2cc8c6f8680f582ab7a4c80c345422fb48
+  data_hash: 72b985fab86f5a2f0f62b57587d8d44aad9f52c221141190b122dcdedc2fbcd5
 data:
   Yle Radio 1:
     programmes:
@@ -83,6 +83,11 @@ data:
           Mathias van den Gheyn: Preludi n:o 8 a-molli (jacques Maassen, carillon).
 
           Henry Purcell: Sound the trumpet, oodista Come, ye sons of art, away (Iestyn Davies, kontratenori, Alison Balsom, luonnontrumpetti, The English Concert/Trevor Pinnock).
+      - title: Radio 1 soi
+        start_time: '2025-06-22T07:54:45+03:00'
+        end_time: '2025-06-22T08:00:00+03:00'
+        description: |-
+          Chopin: Berceuse Des-duuri (Murray Perahia, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-22T08:00:00+03:00'
         end_time: '2025-06-22T08:05:05+03:00'
@@ -91,6 +96,11 @@ data:
         end_time: '2025-06-22T08:56:36+03:00'
         description: |
           ”Kumma kyllä, vaatelias ja vaatimaton voimamies ei ole oopperalaulaja, vaan teki laulu-uransa kiertävänä konserttilaulajana. Ja kun kurkistamme hänen elämäänsä, erityisesti uran huippuvaiheeseen, joka sijoittuu 1920-luvulle, saamme mainion tilaisuuden yrittää hahmottaa, minkälaista oli konserttielämä sata vuotta sitten.” - Minna Lindgren esitelmöi.
+      - title: Radio 1 soi
+        start_time: '2025-06-22T08:56:36+03:00'
+        end_time: '2025-06-22T09:00:00+03:00'
+        description: |-
+          Gesualdo: Ardita zanzaretta (Rohkea hyttynen) (Gösta Ohlin -kuoro/Ohlin).
       - title: Yle Uutiset ja sää
         start_time: '2025-06-22T09:00:00+03:00'
         end_time: '2025-06-22T09:05:05+03:00'
@@ -224,8 +234,8 @@ data:
         start_time: '2025-06-22T19:00:00+03:00'
         end_time: '2025-06-22T19:02:05+03:00'
       - title: 'Mustan musiikin sosiaalihistoriaa: Musta kansanvaellus – etelästä pohjoiseen ja myöhemmin Eurooppaan'
-        start_time: '2025-06-22T19:02:05+03:00'
-        end_time: '2025-06-22T19:58:39+03:00'
+        start_time: '2025-06-22T19:02:20+03:00'
+        end_time: '2025-06-22T19:58:54+03:00'
         description: |
           Toimittajana Esa Kuloniemi.
       - title: Tampereen metodistiseurakunnan jumalanpalvelus Uusi Elämä -keskuksesta
@@ -237,14 +247,14 @@ data:
       - title: Yle Uutiset
         start_time: '2025-06-22T21:00:00+03:00'
         end_time: '2025-06-22T21:02:05+03:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Muistatko vielä Siwan tai Ruokavaraston? Näin Suomesta tuli maailman keskittynein ruokakauppamaa'
         start_time: '2025-06-22T21:03:13+03:00'
-        end_time: '2025-06-22T21:28:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        end_time: '2025-06-22T21:22:26+03:00'
+        description: |-
+          Juhannuksen alla kansa vaeltaa ruokakauppoihin. Vaihtoehtoja eri ketjujen välillä ei ole paljon. Kesko ja S-ryhmä jakavat yhdessä yli 82% koko Suomen ruokakaupasta. Suomessa on Euroopan ja jopa maailman keskittynein ruokakauppamarkkina, mutta miksi? Ja pystyvätkö pienemmät ketjut haastamaan suurempia? Atte Uusinokan haastattelussa on Turun yliopiston työelämäprofessori Arhi Kivilahti. 
       - title: 'Klasariparatiisi - Eva Tigerstedt: Vermeerin maalauksissa soi musiikki'
-        start_time: '2025-06-22T21:29:00+03:00'
-        end_time: '2025-06-22T22:21:11+03:00'
+        start_time: '2025-06-22T21:23:06+03:00'
+        end_time: '2025-06-22T22:15:17+03:00'
         description: |
           Johannes Vermeer oli Hollannin kultakauden taiteilija. Usein hänen tauluissaan näkyy soittimia. Virginaaleja, gamboja, luuttuja. Mitä taulujen hahmot olisivat voineet soittaa? Eva Tigerstedt avaa polkuja musiikkiin.
 
@@ -268,10 +278,15 @@ data:
 
           Henry Purcell: Sound the trumpet, oodista Come, ye sons of art, away (Iestyn Davies, kontratenori, Alison Balsom, luonnontrumpetti, The English Concert/Trevor Pinnock).
       - title: 'Sari Valto: Miksi ranskalaiset eivät liho? Voisimmeko oppia jotain heiltä?'
-        start_time: '2025-06-22T22:22:00+03:00'
-        end_time: '2025-06-22T23:15:25+03:00'
+        start_time: '2025-06-22T22:16:06+03:00'
+        end_time: '2025-06-22T23:09:31+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Radio 1 soi
+        start_time: '2025-06-22T23:09:31+03:00'
+        end_time: '2025-06-22T23:20:20+03:00'
+        description: |-
+          Ravel: Tzigane (Arthur Grumiaux, viulu, ja István Hajdu, piano).
       - title: 'Romano mirits: Maailmanmatkaaja Feija Florin on nähnyt niin Karibian kuin Moskovan'
         start_time: '2025-06-22T23:20:20+03:00'
         end_time: '2025-06-22T23:34:44+03:00'
@@ -281,6 +296,13 @@ data:
           Romanisuku-sarjan kaksiosaisen jakson jälkimmäisessä osassa  tarinointia Florinin suvusta ja keskisuomalaisten romanien elämästä jatkavat Feija Florin, hänen kasvattipoikansa Keijo Baltzar ja serkun poika Samuel Florin.
            
           Toimittaja on Jaakko Laakso
+      - title: 'Eilisen ääni: Pöytäpuhetta. Kuluttajavalistusta koulukirjoihin'
+        start_time: '2025-06-22T23:35:16+03:00'
+        end_time: '2025-06-22T23:39:34+03:00'
+        description: |-
+          Runoilija Tuomas Anhava kaipasi vuonna 1965 Pöytäpuhetta-ohjelmasarjassa kuluttajavalistusta koulukirjoihin.
+
+          Ohjelman ensilähetys oli 18.11.1965.
       - title: Yöklassinen
         start_time: '2025-06-22T23:40:00+03:00'
         end_time: '2025-06-23T06:30:00+03:00'

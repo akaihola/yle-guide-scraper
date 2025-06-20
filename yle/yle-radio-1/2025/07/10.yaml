@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-19T02:37:00.486673+00:00'
+  generated_at: '2025-06-20T02:35:47.433614+00:00'
   git:
     branch: main
-    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
-  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
+    commit: 9fe60c2cc8c6f8680f582ab7a4c80c345422fb48
+  data_hash: 72b985fab86f5a2f0f62b57587d8d44aad9f52c221141190b122dcdedc2fbcd5
 data:
   Yle Radio 1:
     programmes:
@@ -57,6 +57,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-10T09:05:40+03:00'
         end_time: '2025-07-10T09:58:00+03:00'
+        description: |
+          Aznavour: Le temps (Charles Aznavour).
+          Kansanlaulu: Tuoll' on mun kultani (Brita Koivunen).
+          Hebb: Sunny (Carola).
+          Hector: Heinäpellolla (Hector).
+          Mitchell: Tidig sommarmorgon (Family Four).
+          Davies: Sunny afternoon (The Kinks).
+          Polnareff: Holidays (Raymond Lefevre et Son Grand Orchestre).
+          Legrand: Once upon a summertime (Blossom Dearie).
+          Oit: Suveöö (Jaak Joala).
+          North: Kuuma kesä (Eino Grön).
+          Holland/Dozier/Holland: (Love is like a) heat wave (Martha Reeves and the Vandellas).
+          Perales: Porqué te vas? (Jeanette).
+          Saksala: Kaupunki on niinkuin äiti (Katri Helena).
+          Gouldman: Bus Stop (The Hollies).
+          Karjalainen: Ah quelle belle soiree (Irina Björklund).
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Hilkka Olkinuora: Demokratia hauras, ihminen katoavainen'
         start_time: '2025-07-10T10:00:00+03:00'
         end_time: '2025-07-10T10:52:00+03:00'
@@ -93,6 +109,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-07-10T13:35:00+03:00'
         end_time: '2025-07-10T15:00:00+03:00'
+        description: |-
+          Radio 1:n iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikki. Miia Lahti juontaa. N. klo 14 studiovieraana Savonlinnan Oopperajuhlien Boris Godunoviin valmistautuva tenori Tuomas Katajala. Kati Turtola toimittaa. N. klo 14:30 toimittaja Seija Vaaherkumpu kertoo kulttuurikokemustensa keräilystä.
       - title: Yle Uutiset
         start_time: '2025-07-10T15:00:00+03:00'
         end_time: '2025-07-10T15:02:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-19T02:36:58.841897+00:00'
+  generated_at: '2025-06-20T02:35:46.375535+00:00'
   git:
     branch: main
-    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
-  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
+    commit: 9fe60c2cc8c6f8680f582ab7a4c80c345422fb48
+  data_hash: 72b985fab86f5a2f0f62b57587d8d44aad9f52c221141190b122dcdedc2fbcd5
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-08T06:30:50+03:00'
         end_time: '2025-07-08T06:50:00+03:00'
+        description: |+
+          Hakanpää: Improvisaatio uruille virrestä Jumalan kämmenellä (Marko Hakanpää, urut).
+
+          Kansansävelmä (sov. Rohkimainen): Nyt saavun, Jeesus, köyhänä (Mustarastas).
+
+          Koraalitoisinto: Jo joudu, mun sieluni, heräämähän (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
+          Tuntematon: Oi Luoja, lohduttajamme (Lumen Valo).
+
       - title: Aamuhartaus
         start_time: '2025-07-08T06:50:00+03:00'
         end_time: '2025-07-08T06:59:59+03:00'
@@ -129,7 +138,7 @@ data:
         start_time: '2025-07-08T13:35:00+03:00'
         end_time: '2025-07-08T15:00:00+03:00'
         description: |
-          Radio 1:n iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikki. Miia Lahti juontaa. N. klo 14 vieraana yliopisto- ja kisapappi, kirjailija Leena Huovinen, jolta ilmestyi tänä keväänä kirja Suorituksesta vapaa alue. Huovinen oli Miia Lahden haastateltavana. Ohjelman ensilähetys on ollut maaliskuussa. N. klo 14.30 Kielen päällä. Jari Aula toimittaa.
+          Radio 1:n iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikki. Miia Lahti juontaa. N. klo 14 vieraana yliopisto- ja kisapappi, kirjailija Leena Huovinen, jolta ilmestyi tänä keväänä kirja Suorituksesta vapaa alue. Huovinen oli Miia Lahden haastateltavana. Ohjelman ensilähetys maaliskuussa. N. klo 14.30 Kielen päällä, Jari Aula toimittaa.
       - title: Yle Uutiset
         start_time: '2025-07-08T15:00:00+03:00'
         end_time: '2025-07-08T15:02:00+03:00'
@@ -186,6 +195,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-08T18:35:00+03:00'
         end_time: '2025-07-08T18:50:00+03:00'
+        description: |+
+          Tuntematon: Sinua, Jeesus, rakastan (Cetus Noster ja Jarmo Julkunen, teorbi).
+
+          Kalenius: Herra on minun paimeneni (Minna Pyysalo).
+
+          E. Mäki-Reini - O. Mäki-Reini: Sä olet tie (Eve ja Ossi).
+
       - title: Iltahartaus
         start_time: '2025-07-08T18:50:00+03:00'
         end_time: '2025-07-08T19:00:00+03:00'

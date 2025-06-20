@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-19T02:36:40.534545+00:00'
+  generated_at: '2025-06-20T02:35:39.226691+00:00'
   git:
     branch: main
-    commit: 9110c7bd3d38f8d65339d933159e70c29ffec45a
-  data_hash: 0d5e3c97794fc3da5c8f79ec9d5dcf933c5d51ede3ffd84748d7963d86302c6d
+    commit: 9fe60c2cc8c6f8680f582ab7a4c80c345422fb48
+  data_hash: 72b985fab86f5a2f0f62b57587d8d44aad9f52c221141190b122dcdedc2fbcd5
 data:
   Yle Radio 1:
     programmes:
@@ -146,7 +146,7 @@ data:
         start_time: '2025-06-21T12:05:00+03:00'
         end_time: '2025-06-21T13:00:00+03:00'
         description: |
-          Radio 1:n juhannuspäivän kesäisessä musiikissa soi etno, kevyt jazz ja populaarimusiikin helmet. Juontajana Jari Aula. N. klo 12:15 Miikkapekka Heikkilän haastattelussa näyttelijä Mikko Virtanen.
+          Radio 1:n juhannuspäivän kesäisessä musiikissa soi etno, kevyt jazz ja populaarimusiikin helmet. Juontajana Jari Aula. N. klo 12:15 Miikkapekka Heikkilän haastattelussa näyttelijä Mikko Virtanen (uus.).
       - title: Uudet levyt
         start_time: '2025-06-21T13:00:00+03:00'
         end_time: '2025-06-21T14:00:00+03:00'
@@ -304,32 +304,44 @@ data:
         start_time: '2025-06-21T21:00:00+03:00'
         end_time: '2025-06-21T21:02:05+03:00'
       - title: 'KC Kirjat: Kirjoja luopumisesta ja pyhän kaipuusta'
-        start_time: '2025-06-21T21:03:00+03:00'
-        end_time: '2025-06-21T21:30:51+03:00'
+        start_time: '2025-06-21T21:02:38+03:00'
+        end_time: '2025-06-21T21:30:29+03:00'
         description: |
           Annastiina Heikkilän romaanissa Rakkaus ja armo ajaudutaan etsimään vastauksia uskonnollisesta kultista. Hannu Väisäsen Viisikossa sisaruksilla on omat rituaalit. Sanna Karlströmin runoissa ruumiillinen kohtaa pyhän.
       - title: 'KC Kirjat: Kirjasarjan salaisuudet'
-        start_time: '2025-06-21T21:32:00+03:00'
-        end_time: '2025-06-21T22:00:14+03:00'
+        start_time: '2025-06-21T21:31:34+03:00'
+        end_time: '2025-06-21T21:59:50+03:00'
         description: |
           Niklas Ahnbergin Daniel Dark -nuortensarja on inspiroitunut mangasta. Virpi Hämeen-Anttila matkaa Synnyinmaa-sarjassa sata vuotta Suomen historiaa. Donna Leon on kirjoittanut etsivä Brunettista yli 30 vuotta.
       - title: 'Salatut eläimet: Susi'
-        start_time: '2025-06-21T22:01:30+03:00'
-        end_time: '2025-06-21T22:20:57+03:00'
+        start_time: '2025-06-21T22:00:37+03:00'
+        end_time: '2025-06-21T22:20:04+03:00'
         description: |2
            Kautta vuosisatojen sudet on nähty villeinä ja kesyttämättöminä yhteiskunnan outolaisina.
           Suurin susivihan lietsoja on ollut kristinusko. Raamatussa susi on yksiselitteisesti paha. Ohjelmasta selviää myös, mitä piirteitä kannattaa tarkkailla, jos epäilet naapurisi hiipivän öisin ihmissutena! Ohjelmasarjan on toimittanut Kaisa Pulakka ja lukijana on Pietari Kylmälä.
       - title: 'Kielen päällä: Kielitaitoa tulee pystyä myös ylläpitämään'
-        start_time: '2025-06-21T22:21:30+03:00'
-        end_time: '2025-06-21T22:29:47+03:00'
+        start_time: '2025-06-21T22:20:24+03:00'
+        end_time: '2025-06-21T22:28:41+03:00'
         description: |-
           Kielen päällä
           Suomen kielen opettaja Mari Nikonen opettaa aikuisopiskelijoita. Puhutun kielen oppiminen on tärkeää, samoin kuin oikean ääntämisen. Kielitaitoa täytyy myös ylläpitää. Toimittajana on Jari Aula.
       - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikin pienet suuret idyllit: Clejani, Romania'
-        start_time: '2025-06-21T22:30:30+03:00'
-        end_time: '2025-06-21T23:29:29+03:00'
+        start_time: '2025-06-21T22:29:25+03:00'
+        end_time: '2025-06-21T23:28:24+03:00'
         description: |
           Kansanmusiikin pienet suuret idyllit löydetään tällä kertaa Romaniasta, lăutarien eli romanimusiikin mestaripelimannien kotikonnuilta. Maailma sai kuulla ensin Clejanin keikkuvat viulut ja harmonikat, sitten Zece Prăjinin pyörremyrskymäiset puhallinsoittimet. Molemmista tuli maailmanmusiikin suurimpia menestystarinoita. Toimittajana Mika Kauhanen.
+      - title: Radio 1 soi
+        start_time: '2025-06-21T23:28:24+03:00'
+        end_time: '2025-06-21T23:33:51+03:00'
+        description: |-
+          Haydn: Adagio viulukonsertosta n:o 1 C-duuri (Cho-Liang Lin ja Minnesotan ork./Neville Marriner).
+      - title: 'Eilisen ääni: Juhannusjuomat ja -ruoat  '
+        start_time: '2025-06-21T23:34:35+03:00'
+        end_time: '2025-06-21T23:39:33+03:00'
+        description: |-
+          Makkara piti vuonna 1995 pintansa suomalaiskansallisena juhannusruokana. Mutta mitä muuta ruokaa ja juomaa suomalaiset nauttivat juhannuksena ja ylipäätään kesäisin, siitä otti selvää Tänään iltapäivällä -lähetyksen toimittaja Juha Pekka Virtanen.
+
+          Ohjelman ensilähetys oli 22.6.1995.
       - title: Juhannuspäivän Yöklassinen
         start_time: '2025-06-21T23:40:00+03:00'
         end_time: '2025-06-22T07:00:00+03:00'
