@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-21T02:34:34.972458+00:00'
+  generated_at: '2025-06-22T02:42:12.313173+00:00'
   git:
     branch: main
-    commit: f5a4bd0946321fd726b266770f9fe8603f3820b1
-  data_hash: 0d3e406e2c043ab577635e3a18933570d750464b23999da9d3abfe4cd8bc563b
+    commit: 19ec6a3313e2034e30d6253e39a9804edc633809
+  data_hash: 9cd81702f1b09974bd0649120bcdeaca9851abda5f0cd1977b58f0cb041416bc
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-24T06:30:50+03:00'
         end_time: '2025-06-24T06:50:00+03:00'
+        description: |+
+          Simojoki: Sinun vain on valtakunta (Lauluyhtye Caritas).
+
+          Faltin: Mä elän laupeudesta (Ranuan kristillisen kansanopiston kuoro/Arto Heikkilä, sekä Katri Ristolainen, huilu, Anna Savolainen, viulu, Eveliina Holma, viulu, Mikael Säily, sello, ja Juha Hakulinen, kontrabasso).
+
+          Keskiajalta: Jumala, anna Henkesi (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Piitulainen: Tie valmis on, voin löytää sen (Oulaisten Nuorisokuoro/Tapani Tirilä ja Ilkka Virta, kitara).
+
+          Lemmel (sov. Siponkoski): Käännä katseesi Jeesukseen (Tuomas Laatu, laulu, ja yhtye).
+
       - title: Aamuhartaus
         start_time: '2025-06-24T06:50:00+03:00'
         end_time: '2025-06-24T06:59:59+03:00'
@@ -209,6 +220,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-24T18:35:00+03:00'
         end_time: '2025-06-24T18:50:00+03:00'
+        description: |+
+          Kekäle: Laula ihmisille (Jukka Leppilampi, laulu ja kitara, ja Jouko Kantola, piano).
+
+          Koraalitoisinto (sov. Bartling): Koska valaissee kointähtönen (Histan veisaajat).
+
+          Kekäle: Tulkaa tänne (Jari Kekäle ja C).
+
       - title: Iltahartaus
         start_time: '2025-06-24T18:50:00+03:00'
         end_time: '2025-06-24T19:00:00+03:00'

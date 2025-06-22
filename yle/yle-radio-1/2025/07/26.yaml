@@ -1,14 +1,229 @@
 metadata:
-  generated_at: '2025-06-21T02:34:44.197027+00:00'
+  generated_at: '2025-06-22T02:42:21.114140+00:00'
   git:
     branch: main
-    commit: f5a4bd0946321fd726b266770f9fe8603f3820b1
-  data_hash: 0d3e406e2c043ab577635e3a18933570d750464b23999da9d3abfe4cd8bc563b
+    commit: 19ec6a3313e2034e30d6253e39a9804edc633809
+  data_hash: 9cd81702f1b09974bd0649120bcdeaca9851abda5f0cd1977b58f0cb041416bc
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-07-25T23:40:00+03:00'
         end_time: '2025-07-26T07:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
+      - title: 'Luomiskertomus: Antti Hyyrynen - Kouvola 2000'
+        start_time: '2025-07-26T07:31:00+03:00'
+        end_time: '2025-07-26T07:56:00+03:00'
+        description: |+
+          Antti Hyyrysen Kouvola 2000 -romaanissa tietokoneet ovat jo tulleet ja Suomen valtion valvontamekanismit kansalaisia kohtaan alkavat tiukentua. Virkanainen Kyllikki Mars saa siirron Asianhoitokeskukseen, jonne on tarkoitus tallettaa kaikki Suomen tieto. Pian Mars huomaa, että kadonneen työntekijän tapaukseen liittyy ehkä myös hänen oma menneisyytensä. 
+
+          Stam1nan laulajakitaristi kirjailija Antti Hyyrynen opiskeli nuorena Kouvolassa ja oppi näkemään betonin takaa kaupungin pieniä ja suuria tarinoita. Vuosikymmeniä myöhemmin muistot jalostuivat osin Kouvola 2000 -romaanin sivuille. 
+
+          Luomiskertomuksen vieraana kirjailija Antti Hyyrynen.
+
+          Toimittaja Jukka Kuosmanen.
+
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-07-26T07:56:00+03:00'
+        end_time: '2025-07-26T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-26T08:00:00+03:00'
+        end_time: '2025-07-26T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2025-07-26T08:05:00+03:00'
+        end_time: '2025-07-26T08:25:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2025-07-26T08:25:00+03:00'
+        end_time: '2025-07-26T08:35:00+03:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: 'Salatut eläimet: Lepakot'
+        start_time: '2025-07-26T08:35:00+03:00'
+        end_time: '2025-07-26T08:55:00+03:00'
+        description: |
+          Lepakot ovat outoja yön lapsia, jotka on liitetty noitiin, kuolemaan ja pahuuden voimiin. Nahkasiivet lentävät vain öisin - myyteissä tätä on selitetty sillä, että lepakoilla on jotain hävettävää. Häpeän syy vaihtelee kulttuurista toiseen. 
+
+          Suomessa lepakoita on käytetty apuvälineenä erilaisiin taikoihin, mm. lemmen nostatukseen. Vaikka lepakot ovat nykyään vähentyneet runsaasti, saattaa niiden kanssa joskus joutua yllättävän läheisiin tekemisiin. Salatut eläimet -sarjan on toimittanut Kaisa Pulakka. Lukijana on Pietari Kylmälä.
+      - title: Muistojen bulevardi
+        start_time: '2025-07-26T09:05:40+03:00'
+        end_time: '2025-07-26T09:58:00+03:00'
+      - title: 'KC Kirjat: Kirjoja muistamisesta ja selittämättömästä surusta'
+        start_time: '2025-07-26T10:05:00+03:00'
+        end_time: '2025-07-26T10:35:00+03:00'
+        description: |
+          Emmi-Liia Sjöholmin Kaskaat kuvaa tyttöjen kipeää ystävyyttä ja muistoa lomasta Kreikassa. Petri Tammisen Sinua sinua muistelee nuoruuden rakkautta Prahassa. Brittiläinen Olivia Laing pohtii esseissään yksinäisyyttä.
+      - title: Rytmikamari
+        start_time: '2025-07-26T10:35:00+03:00'
+        end_time: '2025-07-26T11:00:00+03:00'
+        description: |
+          Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+      - title: Näistä levyistä en luovu
+        start_time: '2025-07-26T11:00:00+03:00'
+        end_time: '2025-07-26T11:55:00+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-07-26T11:57:00+03:00'
+        end_time: '2025-07-26T12:00:00+03:00'
+        description: |-
+          Ote Anna Tommolan esseestä “Nyt on näin, että olenkin delfiini” kokoelmasta Yövartiossa, Wsoy 2025
+      - title: 'Outopodcast: Kuollut rouva kulkee seinien läpi'
+        start_time: '2025-07-26T12:30:00+03:00'
+        end_time: '2025-07-26T12:55:00+03:00'
+        description: |-
+          Kummitustarinoita kuninkaiden linnoista.
+      - title: Raha-Suomen henkilökuvat - Heikki Herlin
+        start_time: '2025-07-26T14:00:00+03:00'
+        end_time: '2025-07-26T14:30:00+03:00'
+        description: |-
+          Heikki Herlinin kuuluminen Suomen varakkaimpaan sukuun on fakta, jota hän alkoi hahmottaa viimeistään esiteininä. Herliniä haastatteli Pekka Laine. 
+      - title: Raha-Suomen henkilökuvat - Thomas Zilliacus
+        start_time: '2025-07-26T14:30:00+03:00'
+        end_time: '2025-07-26T15:00:00+03:00'
+        description: |-
+          Yrittäjä-liikemies Thomas Zilliacuksen tarina on kuin pikakelaus Suomen talouselämän muutoksesta, teknologian tuomasta murroksesta ja yhteiskunnan vaurastumisesta. Raha-Suomi-sarjaan Thomas Zilliacusta haastatteli Pekka Laine. Hänen henkilökuvansa on toimittanut Simo Sipola. 
+      - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Antaa varjojen puhua '
+        start_time: '2025-07-26T15:00:00+03:00'
+        end_time: '2025-07-26T15:20:00+03:00'
+        description: |-
+          8/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
+          Puutarhakaupungin murhamysteerit, tapaus rönsylilja on kahdeksanosainen dekkarikuunnelmasarja, joka tarjoilee komediallista jännitystä aiemmilta kausilta (tapaus perunamurhat, tapaus viheltävä pankkiiri) tutuissa kuvioissa. Mutta murhamysteerit, ne ovat joka kerta erilaiset.
+
+          Käsikirjoitus: Jarkko Pajunen.
+          Dramaturgi: Eeva-Maaria Halonen.
+          Ohjaus: Erja Manto.
+          Äänisuunnittelu: Hanna-Helena Kinnunen.
+          Teemamusiikki: Geraldine (Denny) Green: Bass Clarinet Concerto.
+          Bassoklarinetti: Arto Vainio.
+          Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
+          Tuotantokoordinaattori: Eveliina Solja.
+          Tuotanto: Laura Jaakkola, Yle Draama 2025.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-07-26T15:20:00+03:00'
+        end_time: '2025-07-26T15:25:00+03:00'
+      - title: Ykköskolumni
+        start_time: '2025-07-26T15:25:00+03:00'
+        end_time: '2025-07-26T15:30:00+03:00'
+        description: |
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+      - title: 'Aristoteleen kantapää: Suomen hassujen paikannimien taustat ovat aivan tavallisia'
+        start_time: '2025-07-26T15:30:00+03:00'
+        end_time: '2025-07-26T15:55:00+03:00'
+        description: |
+          Pasi Heikura seikkailee Suomen hassujen paikannimien seuduilla professori Terhi Ainialan kanssa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+      - title: Faunin iltapäivä
+        start_time: '2025-07-26T16:10:00+03:00'
+        end_time: '2025-07-26T16:59:00+03:00'
+        description: |
+          G. Williams: Rondo for dancing (Madeleine Mitchell ja Gordon Mackay, viulu, sekä Joseph Spooner, sello).
+
+          Madetoja: Heinäväen polska sarj. Maalaiskuvia (Tampere Filharmonia/John Storgårds).
+
+          Kuula: Kesäkuva (YL/Pasi Hyökki).
+
+          Levitzki: Lumottu nymfi (Stephen Hough, piano).
+
+          Svendsen: Norjalainen taiteilijakarnevaali (Islannin SO/Bjarte Engeset).  
+
+          Shostakovitsh: Lyyrinen valssi (Lisa Batiashvili, viulu, ja Baijerin radion SO/Esa-Pekka Salonen).
+
+          Gonzaga: Meditacao (Meditaatio) (Luciana Soares, piano).
+
+          Bizet: Chant d'amour (Cecilia Bartoli, mezzosopraano, ja Myung-Whun Chung, piano).
+
+          Pleyel: Rondo sekstetosta puhaltimille Es-duuri (Mozzafiato sekä Marji Danilow, kontrabasso).
+
+          Beach: Romanssi (Midori, viulu, ja Robert McDonald, piano).
+
+          Korngold: Glückwunsch (Onnentoivotus) kok. Fünf Lieder (Viisi laulua) (Thomas Hampson, baritoni, ja Malcolm Martineau, piano).
+
+          Gismonti: Infancia (Sergio Assad ja Odair Assad, kitara).
+      - title: 'Ehtookellot: Haukiputaan kirkon kellot'
+        start_time: '2025-07-26T18:00:00+03:00'
+        end_time: '2025-07-26T18:01:00+03:00'
+      - title: Iltahartaus
+        start_time: '2025-07-26T18:01:00+03:00'
+        end_time: '2025-07-26T18:10:00+03:00'
+        description: |
+          "Korkean kallion päällä kohoaa ristinpuu"
+          Lauantai-illan rukoushetkessä seurakuntapastori Sanna Hassinen Järvenpäästä kulkee mummilleen tärkeän mökkimetsän polkuja pyhän ihmeen äärelle.
+      - title: 'Kuhmon kamarimusiikki: Pohjolan tähtiä'
+        start_time: '2025-07-26T19:02:00+03:00'
+        end_time: '2025-07-26T21:00:00+03:00'
+        description: |-
+          Kuhmon kamarimusiikin Pohjolan tähtiä -konsertissa kuullaan klassisen musiikin supertähtien musiikkia: Sibeliusta, Nielseniä, Saariahoa ja Griegiä, mutta tähtien joukkoon nostetaan myös unohtuneita ja uuden polven tähtiä. 21.7. Kuhmo-talossa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Ohjelma:
+
+
+          Agnes Tschetschulin: 
+          Berceuse (Kehtolaulu) viululle ja pianolle
+          Réka Szilvay ja 
+          Heini Kärkkäinen
+
+
+          Jean Sibelius: 
+          Souvenir op. 79 nro 1 teoksesta Kuusi kappaletta viululle ja pianolle
+          Réka Szilvay ja 
+          Heini Kärkkäinen
+
+
+
+          Edvard Grieg: 
+          Pianosonaatti e-molli op. 7
+
+          Irina Zahharenkova
+
+
+
+          Ole Bull: 
+          Polacca Guerriera viululle ja pianolle 
+          Sergey Malov ja 
+          Matilda Kärkkäinen
+
+
+
+
+
+          Kaija Saariaho:
+          Canvas soolohuilulle
+          Kaisa Kortelainen
+
+
+
+          Daníel Bjarnason: 
+          Four Portraits pianolle 
+          Matilda Kärkkäinen
+
+
+
+          Franz Berwald:
+           Septetto B-duuri klarinetille, fagotille, käyrätorvelle, viululle, 
+          alttoviululle, sellolle ja kontrabassolle 
+          Hanna Hujanen, 
+          Jaakko Luoma
+          ,Tero Toivonen
+          , Minna Pensola, 
+          Yuval Gotlibovich, 
+          Jakob Koranyi, 
+          Jani Pensola
+
+          Kuva: ©Kuhmon kamarimusiikki / Jonas Kukkonen
+      - title: 'Nappikukasta nokkoseen: Nokkonen - perhosten ruokaa ja kankaankudontaa'
+        start_time: '2025-07-26T21:02:00+03:00'
+        end_time: '2025-07-26T21:32:00+03:00'
+        description: |-
+          Toimittajana Tiina Harpf.
+      - title: 'Salatut eläimet: Lepakot'
+        start_time: '2025-07-26T22:00:30+03:00'
+        end_time: '2025-07-26T22:20:00+03:00'
+        description: |
+          Lepakot ovat outoja yön lapsia, jotka on liitetty noitiin, kuolemaan ja pahuuden voimiin. Nahkasiivet lentävät vain öisin - myyteissä tätä on selitetty sillä, että lepakoilla on jotain hävettävää. Häpeän syy vaihtelee kulttuurista toiseen. 
+
+          Suomessa lepakoita on käytetty apuvälineenä erilaisiin taikoihin, mm. lemmen nostatukseen. Vaikka lepakot ovat nykyään vähentyneet runsaasti, saattaa niiden kanssa joskus joutua yllättävän läheisiin tekemisiin. Salatut eläimet -sarjan on toimittanut Kaisa Pulakka. Lukijana on Pietari Kylmälä.
+      - title: Yöklassinen
+        start_time: '2025-07-26T23:40:00+03:00'
+        end_time: '2025-07-27T07:00:00+03:00'
         description: |-
           Klassista musiikkia.
