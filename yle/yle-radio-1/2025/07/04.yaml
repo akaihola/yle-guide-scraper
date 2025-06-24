@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-23T02:42:04.122677+00:00'
+  generated_at: '2025-06-24T02:37:13.980265+00:00'
   git:
     branch: main
-    commit: 50ad6febfbafd40e367cf6138f69e225084b9648
-  data_hash: 96397c7607497444a3571e315bad783f03e215dd64ab7ab02b8b1e1b598e73b1
+    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
+  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
 data:
   Yle Radio 1:
     programmes:
@@ -84,6 +84,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-04T09:05:40+03:00'
         end_time: '2025-07-04T09:58:00+03:00'
+        description: |-
+          Morricone: Metti una sera a cena bella (Edda Dell'Orso & Bruno Nicolai).
+          Kärki: Helsingin kesä (Henry Theel).
+          Fisher: When sunny gets blue (Johnny Mathis).
+          Alexandra: Mein Freund, der Baum (Alexandra).
+          Siikavire: Neidonryöstö (Kirka).
+          Cabral: La foule (Edith Piaf).
+          Porter: Miss Otis regrets (Ella Fitzgerald).
+          Kansansävelmä: Ack Värmeland du sköna (Stan Getz).
+          Warren: Dig, dig, dig for your dinner (Gene Kelly ja Phil Silvers).
+          Riccardi: Mediterraneo (Milva).
+          Hoffman: Ken parantaa rakkauden (Vieno Kekkonen).
+          Charles: Blackjack (Ray Charles).
+          Hurmerinta: Kun nainen rakastaa miestä (Maarit).
+          Arlen: Magia negra (Omara Portuondo).
       - title: Raha-Suomen henkilökuvat - Auri Kananen
         start_time: '2025-07-04T10:00:00+03:00'
         end_time: '2025-07-04T10:30:00+03:00'
@@ -178,11 +193,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-07-04T17:34:20+03:00'
         end_time: '2025-07-04T17:35:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Jonna Järnefelt - rakastan elokuvista tehtyjä soundtrack-levyjä'
         start_time: '2025-07-04T17:35:00+03:00'
         end_time: '2025-07-04T18:30:00+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Näyttelijä Jonna Järnefeltin syvällisempi musiikillinen herätys tapahtui Maaritin Hymypoika -kappaleen myötä. Ensimmäistä kertaa tekstin sisältö teki suuren vaikutuksen, se oli enemmän kuin vain poppia. Maaritia Jonna kuitenkin fanitti vähän salaa, koska Maarit liikkui eri piireissä kuin hän itse. Jonna paljastuu myös suureksi elokuvamusiikin kuluttajaksi, siitäkin huolimatta, että soundtrackeillä on usein vain pari hittibiisiä ja loput on jotain täytemusiikkia. Ohjelman toimittaa Petri Rinne.
       - title: Hartaita säveliä
         start_time: '2025-07-04T18:35:00+03:00'
         end_time: '2025-07-04T18:50:00+03:00'

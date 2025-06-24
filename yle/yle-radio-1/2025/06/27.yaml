@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-23T02:42:00.712444+00:00'
+  generated_at: '2025-06-24T02:37:06.163177+00:00'
   git:
     branch: main
-    commit: 50ad6febfbafd40e367cf6138f69e225084b9648
-  data_hash: 96397c7607497444a3571e315bad783f03e215dd64ab7ab02b8b1e1b598e73b1
+    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
+  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-06-27T09:05:40+03:00'
         end_time: '2025-06-27T09:58:00+03:00'
+        description: |-
+          Bacharach: Walk on by (Gabor Szabo,kitara)
+          Jansen: Net als toen (Corry Brokken)
+          Hurmerinta: Lennä mun lempeni laulu (Laila Kinnunen).
+          Aznavour: Brasilian fiesta (Vieno Kekkonen).
+          Valle: Crickets sing for for Ana Maria (Os Grilos) (Walter Wanderley)
+          Gilgyson - Roaring Lion: Marianne (Henri Salvador)
+          Dylan: Itke siis, siitä viis (Johnny & The Sounds).
+          Bellman: Så lunka vi så småningom (Fred Åkerström).
+          Kansansäv.: Early one morning (Roger Whittaker).
+          Branduardi: La pulce d'acqua (Angelo Branduardi).
+          Jara: Deja la vida volar (Victor Jara).
+          Bergman: Samarkandiin ehkä tiesi vie (Anki).
+          O. Merikanto: Soi vienosti murheeni soitto (Piirpauke).
       - title: Raha-Suomen henkilökuvat - Björn Wahlroos
         start_time: '2025-06-27T10:00:00+03:00'
         end_time: '2025-06-27T10:30:00+03:00'
@@ -180,11 +194,11 @@ data:
         description: |-
           Gideon Levy on luultavasti Israelin vihatuin toimittaja. Vihat Levy on saanut niskaansa kirjoittamalla sanomalehti Haaretziin Israelin toimista Gazassa ja miehitetyllä Länsirannalla. Hän ei epäröi kutsua Israelin hallintoa miehitysalueilla apartheidiksi ja hän puolustaa väsymättä palestiinalaisten ihmisoikeuksia. Levy on saanut monia kansainvälisiä palkintoja työstään, mutta Israelissa häntä ei haluta kuulla. Gideon Levyn tapasi Tel Avivissa Ulkolinjan Pertti Pesonen.
           Ohjelma on maaliskuulta.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Sanna Stellan'
         start_time: '2025-06-27T17:35:00+03:00'
         end_time: '2025-06-27T18:25:00+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Näyttelijä ja kirjailija Sanna Stellan on omien sanojensa mukaan maaninen Radio 1:n kuuntelija. Hän on valinnut ohjelmaan elämänsä varrelta ne levyt, joista hän ei luovu. Iloa ja viihdettä monissa muodoissa Stellanin kanssa löytää toimittaja Miikkapekka Heikkilä.
       - title: Hartaita säveliä
         start_time: '2025-06-27T18:35:00+03:00'
         end_time: '2025-06-27T18:50:00+03:00'
@@ -209,6 +223,9 @@ data:
         end_time: '2025-06-27T20:50:00+03:00'
         description: |
           Frankfurtin radion sinfoniaorkesteri, joht. Alain Altinoglu, sol. Hanna-Elisabeth Müller, sopraano. - Wolfgang Amadeus Mozart: Alkusoitto oopp. Ryöstö seraljista; Ah, lo previdi - Ah, t’invola agl’occhi miei KV 272; Alkusoitto oopp. Figaron häät; Kreivittären aaria "Dove sono i bei momenti" oopp. Figaron häät; Elettran aaria "Oh smania! - D’Oreste, d’Ajace" oopp. Idomeneo. Nikolai Rimski-Korsakov: Sheherazade op. 35. - Grafeneggin festivaalilla 24.8.2024 äänitetyn konsertin toimittaa Ahti Paunu.
+      - title: Musiikkikamari
+        start_time: '2025-06-27T20:50:00+03:00'
+        end_time: '2025-06-27T21:00:00+03:00'
       - title: Yle Uutiset
         start_time: '2025-06-27T21:00:00+03:00'
         end_time: '2025-06-27T21:02:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-23T02:41:59.697320+00:00'
+  generated_at: '2025-06-24T02:36:53.855355+00:00'
   git:
     branch: main
-    commit: 50ad6febfbafd40e367cf6138f69e225084b9648
-  data_hash: 96397c7607497444a3571e315bad783f03e215dd64ab7ab02b8b1e1b598e73b1
+    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
+  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
 data:
   Yle Radio 1:
     programmes:
@@ -86,6 +86,11 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-24T08:10:00+03:00'
         end_time: '2025-06-24T09:00:00+03:00'
+        description: |
+          Nato-maat kokoontuvat tänään huippukokoukseen Alankomaiden Haagiin. Tärkeimpänä tavoitteena on puolustusmenojen noston hyväksyminen. Miten yhtenäiseltä Nato näyttää? Kirjeenvaihtajamme raportti kokouspaikalta ja keskustelemassa Rinna Kullaa ja Iro Särkkä. 
+          Yhdysvaltain liittyminen Israelin rinnalle iskuihin Irania vastaan jakaa myös presidentti Trumpin kannattajia. Millaisia seurauksia iskuilla voi olla sisäpoliittisesti? Vieraanamme Benita Heiskanen. 
+          Piipahdamme myös Porissa, jossa alkaa keskustelutapahtuma Suomi-areena. 
+          Juontaja Seija Vaaherkumpu, tuottaja Anna-Maria Haarala. 
       - title: Yle Uutiset
         start_time: '2025-06-24T09:00:00+03:00'
         end_time: '2025-06-24T09:05:00+03:00'
@@ -136,9 +141,17 @@ data:
         end_time: '2025-06-24T12:55:00+03:00'
         description: |-
           Villiyrtti siankärsämöllä on 160 erilaista nimimuunnosta suomen kielessä. Yrttien nimien taustaa ja tarpeellisuutta avaa biologi ja puutarhuri Helena Ahonen. Toimittaja on Pasi Heikura.
-      - title: Politiikkaradio
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-06-24T12:55:00+03:00'
+        end_time: '2025-06-24T13:00:00+03:00'
+      - title: 'Politiikkaradio: Mitkä kaikki periaatteet Trump heitti romukoppaan?'
         start_time: '2025-06-24T13:00:00+03:00'
         end_time: '2025-06-24T13:30:00+03:00'
+        description: |-
+          Trump lupasi olla ”rauhan presidentti”, joka vetää Yhdysvallat sodista maailmalla, mutta määräsi armeijan iskemään ennennäkemättömällä tavalla Iraniin. 
+          Sotatoimille ei ollut Yhdysvaltain kongressin tai YK:n turvallisuusneuvoston valtuutusta.
+          Mitkä kaikki vaalipuheet ja periaatteet Trump heitti romukoppaan? Mikä hänen toimintaansa voi selittää? Millainen linjanmuutos Iranin pommittaminen on? Voiko mikään estää sodan kiihtymistä?
+          Aiheesta keskustelevat kansainvälisen oikeuden emeritusprofessori Martti Koskenniemi ja johtava tutkija Ville Sinkkonen Ulkopoliittisesta instituutista. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-24T13:30:00+03:00'
         end_time: '2025-06-24T15:00:00+03:00'
@@ -147,11 +160,11 @@ data:
       - title: Yle Uutiset
         start_time: '2025-06-24T15:00:00+03:00'
         end_time: '2025-06-24T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: Gunnar Björlingin runous ja elämä
         start_time: '2025-06-24T15:02:00+03:00'
         end_time: '2025-06-24T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          ”Björling on ainut tapaamani ihminen joka on ratkaissut elämän arvoituksen”, sanoi Gunnar Björlingin (1887-1960) ystävä Olof Enckell. Runoilija Gunnar Björling on jäänyt vähälle huomiolle kotimaassaan. Fredrik Hertzbergin teos ”Kieleni ei ole sanoissa” - Gunnar Björlingin elämä ja teokset (suom. Juhani Ihanus ja Hannimari Heino; Parkko 2025) on ensimmäinen kattava selvitys runoilijamestarin elämästä ja runoudesta. Kulttuuriykkösessä runoilijan perinnöstä ovat keskustelemassa kirjallisuudentutkija Fredrik Hertzberg ja kääntäjä, runoilija Hannimari Heino. Juontaja on Pietari Kylmälä.
       - title: Yle News
         start_time: '2025-06-24T15:55:00+03:00'
         end_time: '2025-06-24T15:58:00+03:00'
@@ -238,7 +251,7 @@ data:
         end_time: '2025-06-24T19:02:00+03:00'
       - title: Ääniversumi
         start_time: '2025-06-24T19:02:00+03:00'
-        end_time: '2025-06-24T19:40:00+03:00'
+        end_time: '2025-06-24T19:46:00+03:00'
         description: |
           Stadin kadonneet styget
           Millainen oli Helsingin äänimaisema 1900-luvun alussa? Ainakin kaduilla ja kahviloissa soi huuliharppu sekä harmonikka torvisoittokuntien lisäksi. Ja laulu oli osana ihmisten arkea. Kadunkulmat kaikuivat historian käännekohdista ja kaduilla kohtasivat myös yhteiskuntaluokat. 
@@ -255,11 +268,11 @@ data:
         end_time: '2025-06-24T20:19:20+03:00'
         description: |
           Kertomuksia täydellisestä keksinnöstä. Toimittajana on JP Pulkkinen.
-      - title: Romano mirits
+      - title: 'Romano mirits: Nurmijärveläisnuoret haluavat vaikuttaa '
         start_time: '2025-06-24T20:20:00+03:00'
         end_time: '2025-06-24T20:35:00+03:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Antony Grönstrand ja Melissa Friman ovat vastavalittuja Nurmijärven kunnan nuorisovaltuutettuja. He kertovat haluavansa tuoda kuntapäätöksentekoon nuorten näkökulmaa ja samalla he tehdä romanikulttuuria tutummaksi muille kuntalaisille. Heidän tärkeä viestinsä on, että romanitkin ovat yksilöitä ja tavallisia suomalaisia, vaikka pukeutuvatkin usein hieman pääväestöstä poikkeavalla tavalla. Aikuisille nurmijärveläisille romaneille on ylpeyden aihe, että nuoret ovat lähteneet mukaan vaikuttamistyöhön.Toimittaja Jaakko Laakso tapasi Melissa Frimanin, Anthony Grönstrandin ja Anthonyn äidin Janet Grönstrandin kesäkuun alussa Nurmijärvellä.
       - title: Yle Uutiset
         start_time: '2025-06-24T21:00:00+03:00'
         end_time: '2025-06-24T21:02:00+03:00'
