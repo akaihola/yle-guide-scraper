@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-24T02:37:19.331561+00:00'
+  generated_at: '2025-06-25T02:37:20.160074+00:00'
   git:
     branch: main
-    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
-  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
+    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
+  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
 data:
   Yle Radio 1:
     programmes:
@@ -45,8 +45,8 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-15T09:05:40+03:00'
         end_time: '2025-07-15T09:58:00+03:00'
-        description: |-
-          Hurmerinta: Yö Riossa (Reino Armio, Sonoran tango-ork.).
+        description: |
+          Hurmerinta: Yö Riossa (Reino Armio).
           Spielman: Paper roses (Anita Bryant).
           Kaye: Speedy Gonzales (Pat Boone).
           Essen: Missä yösi vietitkään (Arvi Tikkala).
@@ -54,16 +54,17 @@ data:
           Pisano: Arvid (Siw Malmkvist).
           Barbour/Lee: I don't know enough about you (Brook Benton).
           Stoller: Is that all there is (Peggy Lee).
-          Santana: Samba pa ti (Angelique Kidjo)
-          Lee/Kretzmer: Voi hyvä tavaton (Brita Koivunen, Eino Virtanen).
+          Santana: Samba pa ti (Angelique Kidjo).
+          Lee: Voi hyvä tavaton (Brita Koivunen ja Eino Virtanen).
           Dylan: Si tu dois partir (Fairport Convention).
           Dylan: A Hard rain's a-gonna fall (Bob Dylan).
-          Kansanlaulu: When the saints go marching in (Louis Armstrong & Danny Kaye).
-      - title: Sari Valto
+          Kansanlaulu: The five pennies saints (Louis Armstrong ja Danny Kaye).
+      - title: 'Sari Valto: Käsityöharrastaja voi sekä meditoida että sosialisoida'
         start_time: '2025-07-15T10:00:00+03:00'
         end_time: '2025-07-15T10:55:00+03:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Käsityön harrastaminen on yleistynyt vuosi vuodelta. 85 % suomalaisista siis tekee ainakin silloin tällöin käsitöitä, rakentelee tai nikkaroi. 
+          Sari Valton vieraina käsityötieteen professori Sirpa Kokko sekä Vuoden 2024 käsityöharrastajaksi valittu salolainen Markus Moisio.
       - title: '8 klasaria: John Dowland: Flow my tears – Laulu kyyneleistä, josta tuli hitti ja tunnari'
         start_time: '2025-07-15T11:00:00+03:00'
         end_time: '2025-07-15T11:21:00+03:00'

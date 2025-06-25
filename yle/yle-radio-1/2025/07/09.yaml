@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-24T02:37:16.574865+00:00'
+  generated_at: '2025-06-25T02:37:18.746764+00:00'
   git:
     branch: main
-    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
-  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
+    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
+  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
 data:
   Yle Radio 1:
     programmes:
@@ -18,7 +18,7 @@ data:
       - title: Aamuhartaus
         start_time: '2025-07-09T06:50:00+03:00'
         end_time: '2025-07-09T06:59:59+03:00'
-        description: |-
+        description: |
           Aloitteleva eläkeläinen Riitta Kalliorinne, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2025-07-09T07:00:00+03:00'
@@ -57,13 +57,13 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-09T09:05:40+03:00'
         end_time: '2025-07-09T09:58:00+03:00'
-        description: |-
+        description: |
           O. Merikanto: Kesäilta (Metro-tytöt).
           Berlin: Alexander's ragtime band (Ray Charles).
           Yarrow: Lohikäärme Puff (Brita Koivunen ja Four Cats).
-          Adler, Albert & Cooke: Wonderful world (Sam Cooke).
+          Adler/Alpert/Cooke: Wonderful world (Sam Cooke).
           Mononen: Sagolandet (Arja Saijonmaa).
-          Kämpfert & Gabler: Love (Gregory Porter).
+          Kämpfert/Gabler: Love (Gregory Porter).
           Lipponen: Niityllä missä sirkat soi (Muksut).
           Chaplin: Dedicated to you (Ella Fitzgerald & The Mills Brothers).
           Dorset: In the summertime (Mungo Jerry).
@@ -130,6 +130,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-07-09T16:10:00+03:00'
         end_time: '2025-07-09T16:59:00+03:00'
+        description: |-
+          Nazareth: Odeon, tango pianolle (Izumi Tateno). 
+
+          Puccini: Rodolfon aaria "Che gelida manina" oopp. La Bohème (Joseph Calleja, tenori, ja Ranskankielisen Sveitsin ork./Marco Armiliato).
+
+          Aaltoila: Akselin ja Elinan häävalssi (Tampere Filharmonia/John Storgårds).
+
+          Madetoja: Valssi Pastoraalisarjasta (Oulu Sinfonia/Arvo Volmer).
+
+          de Falla: Espanjalainen tanssi n:o 1 oopp. La vida breve (Katona Twins sekä David Garcia Mir, lyömäsoittimet).
+
+          Tshaikovski: Valssi-Scherzo (Leila Josefowicz, viulu, ja Montrealin SO/Charles Dutoit).
+
+          Piazzolla (sov. Carli): Libertango (Berliinin filharmonikkojen selloyhtye).
+
+          Brouwer: Kehtolaulu (John Williams, kitara).
+
+          Gonzaga: Cananea, valssi pianolle (Hiroko Ishimoto).
+
+          Villa-Lobos: Aria sarj. Bachianas brasileiras n:o 5 (Dawn Upshaw, sopraano, ja Orfeus-kamariork.). 
+
+          Ginastera: Danza final balettisarj. Estancia (Simon Bolivar -nuorisosinfoniaork./Gustavo Dudamel).
       - title: Yle Uutiset ja sää
         start_time: '2025-07-09T17:00:00+03:00'
         end_time: '2025-07-09T17:10:00+03:00'

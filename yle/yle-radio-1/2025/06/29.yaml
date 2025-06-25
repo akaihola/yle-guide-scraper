@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-24T02:37:10.162206+00:00'
+  generated_at: '2025-06-25T02:37:16.277514+00:00'
   git:
     branch: main
-    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
-  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
+    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
+  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
 data:
   Yle Radio 1:
     programmes:
@@ -43,11 +43,11 @@ data:
       - title: Yle Uutiset
         start_time: '2025-06-29T07:00:00+03:00'
         end_time: '2025-06-29T07:02:05+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hildegardin taivaalliset näyt'
         start_time: '2025-06-29T07:03:00+03:00'
         end_time: '2025-06-29T07:59:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Klasariparatiisi: Hildegardin taivaalliset näyt - Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Yle Uutiset ja sää
         start_time: '2025-06-29T08:00:00+03:00'
         end_time: '2025-06-29T08:05:05+03:00'
@@ -199,21 +199,21 @@ data:
         description: |-
           Ukrainalainen sotilas Oleh Stahanov haavoittui vakavasti kranaatti-iskussa. Hän ehti tehdä juoksuhaudassa vaimolleen jäähyväisvideon, mutta jäi kuin jäikin henkiin.
           Ulkolinjan toimittaja Viivi Berghem seurasi Stahanovin evakuointia ja hoitoa Pokrovskin rintamalla.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hildegardin taivaalliset näyt'
         start_time: '2025-06-29T21:29:00+03:00'
         end_time: '2025-06-29T22:26:00+03:00'
         description: |
-          Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Sari Valto
+          Klasariparatiisi: Hildegardin taivaalliset näyt - Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: 'Sari Valto: Onko mielenosoitus toimiva keino vaikuttaa?'
         start_time: '2025-06-29T22:27:00+03:00'
         end_time: '2025-06-29T23:22:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-      - title: Romano mirits
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: 'Romano mirits: Nurmijärveläisnuoret haluavat vaikuttaa '
         start_time: '2025-06-29T23:25:00+03:00'
         end_time: '2025-06-29T23:39:30+03:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Antony Grönstrand ja Melissa Friman ovat vastavalittuja Nurmijärven kunnan nuorisovaltuutettuja. He kertovat haluavansa tuoda kuntapäätöksentekoon nuorten näkökulmaa ja samalla he tehdä romanikulttuuria tutummaksi muille kuntalaisille. Heidän tärkeä viestinsä on, että romanitkin ovat yksilöitä ja tavallisia suomalaisia, vaikka pukeutuvatkin usein hieman pääväestöstä poikkeavalla tavalla. Aikuisille nurmijärveläisille romaneille on ylpeyden aihe, että nuoret ovat lähteneet mukaan vaikuttamistyöhön.Toimittaja Jaakko Laakso tapasi Melissa Frimanin, Anthony Grönstrandin ja Anthonyn äidin Janet Grönstrandin kesäkuun alussa Nurmijärvellä.
       - title: Yöklassinen
         start_time: '2025-06-29T23:40:00+03:00'
         end_time: '2025-06-30T06:30:00+03:00'

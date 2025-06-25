@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-24T02:37:20.031027+00:00'
+  generated_at: '2025-06-25T02:37:20.693564+00:00'
   git:
     branch: main
-    commit: da525a9295a24d4fdbbcf513c3fb83f9ad665f44
-  data_hash: 359a7b4e26fd90dcfa554ec62c0d59995629144141163f11d17fb41a033b14ab
+    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
+  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
 data:
   Yle Radio 1:
     programmes:
@@ -51,16 +51,16 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-07-17T09:05:40+03:00'
         end_time: '2025-07-17T09:58:00+03:00'
-        description: |-
-          kansansävelmä: Niin aikaisin (Anki).
+        description: |
+          Kansansäv.: Niin aikaisin (Anki).
           Mayer: Sommarvind (Östen Warnerbring).
           Kansanlaulu: Iko iko (The Dixie Cups).
           Maxwell: Ebb Tide (Frank Chacksfield )
           Ojakäär: Rannakolhoosis (Georg Ots).
           De Andre: Il pescatore (Fabrizio De Andre).
-          Wainwright: Swimming song (Kate & Anna McGarrigle).
+          Wainwright: Swimming song (Kate ja Anna McGarrigle).
           Vance: Pikku-pikku bikinissä (Laila Kinnunen). 
-          Rota-Prado: Why wait - La Dolce vita (Carlo Savinan orkesteri).
+          Rota/Prado: Why wait - La dolce vita (Carlo Savina).
           Gershwin: Sumuinen päivä (Seija Lampila).
           Kern: Look for the silver lining (Chet Baker).
           Kansanlaulu: Niin minä neitonen sinulle laulan (Tapio Rautavaara).
@@ -106,6 +106,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-07-17T16:10:00+03:00'
         end_time: '2025-07-17T16:59:00+03:00'
+        description: |-
+          Powell: Romantic flight (Ray Chen, viulu, ja Lontoon kuninkaallinen FO/Cristian Macelaru).
+
+          C. Schumann: Beim Abschied (Stephan Loges, baritoni, ja Eugene Asti, piano). 
+
+          Moberg: Stillhet teoks. Tondikt n:o 1 (Soluppgång) (Göteborgin SO/Johannes Gustavsson).
+
+          Chaminade: Toccata (Marie-Catherine Girod, piano).
+
+          Heap: Hide and seek (The King's Singers).
+
+          Gregson: Sequence 4 (Mari Samuelsen, viulu, ja Berliinin konserttitalon ork./Jonathan Stockhammer).
+
+          Viardot: En barque (Soutuveneessä) (Reto Kuppel, viulu, ja Wolfgang Manz, piano).
+
+          Malibran: Rataplan kok. Album lyrique (Cecilia Bartoli, mezzosopraano, Benjamin Forster, rumpu, ja Orchestra La Scintilla/Adam Fischer).
+
+          Kennedy - Bawol - Kukurba - Lato: Lullaby for Kamila (Sheku Kanneh-Mason, sello, ja Harry Baker, piano).
+
+          Borodin: Scherzo jousikvartetosta n:o 2 D-duuri (Emerson-kvartetti). 
+
+          Piazzolla: Libertango (Ksenija Sidorova, harmonikka, ja BBC:n Walesin kansallisork./Clark Rundell).
       - title: 'Nappikukasta nokkoseen: Puna-apila - maanparannusta, onnen etsintää ja kuukautisvaivoja'
         start_time: '2025-07-17T17:10:00+03:00'
         end_time: '2025-07-17T17:34:20+03:00'
