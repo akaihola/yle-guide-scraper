@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-25T02:37:21.773503+00:00'
+  generated_at: '2025-06-26T02:36:44.363452+00:00'
   git:
     branch: main
-    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
-  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
+    commit: e709cedb82e6b57a504a888b14b69124747f81f1
+  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
 data:
   Yle Radio 1:
     programmes:
@@ -66,11 +66,11 @@ data:
           Loesser: On a slow boat to China (Bette Midler & Barry Manilow).
           Castro: No encuentro palabras (Celia Cruz).
           Aznavour (sov. Kershaw): She, elok. Notting Hill (Elvis Costello, laulu, ja Lontoon SO/Geoffrey Alexander).
-      - title: Sari Valto
+      - title: 'Sari Valto: Olemme sairastuneet yksilöllisyyteen'
         start_time: '2025-07-22T10:00:00+03:00'
         end_time: '2025-07-22T10:55:00+03:00'
-        description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+        description: |
+          Enää kirkko, suku tai tiukat normit eivät määrittele sitä, miten ihmisen pitäisi elää. Olemme vapaita, voimme toteuttaa itseämme ihan miten haluamme. Yksilökeskeisyys on kuitenkin muuttunut minä-minä -ajatteluksi ja se ei tee meistä onnellisia. Tästä keskustelevat psykologian professori emerita Liisa Keltikangas-Järvinen sekä filosofi Samuel Salovuori.
       - title: '8 klasaria: Johann Strauss nuorempi: Tonava kaunoinen – Valssien valssi'
         start_time: '2025-07-22T11:00:00+03:00'
         end_time: '2025-07-22T11:20:00+03:00'
@@ -128,8 +128,12 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-07-22T15:02:00+03:00'
         end_time: '2025-07-22T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Tosielämän oikeista rikoksista kertova True Crime-kirjallisuus ja aiheesta tehdyt dokumentit ja podcastit ovat olleet jo pitkään tavattoman suosittuja. Rikokset ovat sinällään aina kiehtoneet lukijoita. Tästä on osoituksena fiktiivisen rikoskirjallisuuden ikiaikainen suosio. 
+
+          Kulttuuriykkösessä on vieraana kolme tosielämän rikoksista kirjoittavaa tietokirjailijaa. Pauli Jokinen on tehnyt tuoreen tietokirjan 65 vuotta sitten tapahtuneesta Bodom-järven kolmoissurmasta. Mikä Suomen rikoshistorian tunnetuimmassa ja ratkaisemattomaksi jääneessä tapauksessa edelleen kiinnostaa yleisöä? Rami Mäkinen on pitkän linjan rikostoimittaja ja hänen tuorein teoksensa Oikeusmurha pohtii Anneli Auerin saamaa tuomiota lasten törkeästä seksuaalisesta hyväksikäytöstä. Toimittaja Linda Rantanen on kirjoittanut muun muassa perhe- ja poliisisurmista. Rantanen on myös toimittajana suosituissa podcasteissa.
+
+          Pauli Jokinen, Rami Mäkinen ja Linda Rantanen pohtivat ohjelmassa lajityypin suosiota, sen suhdetta rikosjournalismiin, siihen liittyviä eettisiä valintoja sekä sitä, mihin True Crime lajityyppinä on matkalla. Toimittajana on Ville Talola.
       - title: Faunin iltapäivä
         start_time: '2025-07-22T16:10:00+03:00'
         end_time: '2025-07-22T16:59:00+03:00'
@@ -206,6 +210,11 @@ data:
         description: |
           Maailman nopein kaunotar
           Toimittajina Arto Teronen ja Jouko Vuolle.
+      - title: 'Sari Valto: Olemme sairastuneet yksilöllisyyteen'
+        start_time: '2025-07-22T21:35:00+03:00'
+        end_time: '2025-07-22T22:29:30+03:00'
+        description: |
+          Enää kirkko, suku tai tiukat normit eivät määrittele sitä, miten ihmisen pitäisi elää. Olemme vapaita, voimme toteuttaa itseämme ihan miten haluamme. Yksilökeskeisyys on kuitenkin muuttunut minä-minä -ajatteluksi ja se ei tee meistä onnellisia. Tästä keskustelevat psykologian professori emerita Liisa Keltikangas-Järvinen sekä filosofi Samuel Salovuori.
       - title: 'Kuninkaansalista savupirttiin - suomalaista elämää keskiajalla 4/4: Kodit'
         start_time: '2025-07-22T22:30:00+03:00'
         end_time: '2025-07-22T23:16:00+03:00'

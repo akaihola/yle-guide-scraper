@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-25T02:37:16.713542+00:00'
+  generated_at: '2025-06-26T02:36:39.139867+00:00'
   git:
     branch: main
-    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
-  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
+    commit: e709cedb82e6b57a504a888b14b69124747f81f1
+  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-01T06:30:50+03:00'
         end_time: '2025-07-01T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto: Herraa hyvää kiittäkää (Kampin Laulu/Eric-Olof Söderström).
+
+          Koraalitoisinto: Immanuel, mun valoni (Cantilene/Merja Lohilahti).
+
+          I. Krohn: Kirkkautta kohti kulje (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Koraalitoisinto: Herra Jeesus kun täällä vain kanssamme on (Rinki).
+
       - title: Aamuhartaus
         start_time: '2025-07-01T06:50:00+03:00'
         end_time: '2025-07-01T06:59:59+03:00'
@@ -98,11 +107,11 @@ data:
           Sundgren:  En enää vaieta mä voi (Eino Grön).
           Parton: I will always love you (Dolly Parton).
           Christopher/Thompson/James: Always on My Mind (Elvis Presley.)
-      - title: Sari Valto
+      - title: 'Sari Valto: Minuutemme rakentuu muistin varaan - voiko muistiin luottaa?'
         start_time: '2025-07-01T10:00:00+03:00'
         end_time: '2025-07-01T10:55:00+03:00'
-        description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+        description: |
+          Kuka minä olen? Miten muisti ja muistot muokkaavat identiteettiämme? Entä jos muistot eivät olekaan totta? Tai jos muistot häviävät mielestämme, keitä me silloin olemme? Vieraina psykoterapeutti Marja Saarenheimo ja psykologi Julia Korkman.
       - title: '8 klasaria: Lili Boulanger: Syvyyksistä minä huudan – Elämä joka loppui liian aikaisin'
         start_time: '2025-07-01T11:00:00+03:00'
         end_time: '2025-07-01T11:22:00+03:00'
@@ -144,6 +153,9 @@ data:
         end_time: '2025-07-01T12:55:00+03:00'
         description: |
           Aristoteleen kantapää penkoo suomalaisten sukunimien syntyhistoriaa Kotimaisten kielten keskuksen nimistönhuollon erityisasiantuntija Petra Saarniston kanssa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-07-01T12:55:00+03:00'
+        end_time: '2025-07-01T13:00:00+03:00'
       - title: 'Tuntematon Afrikka: Eswatini, piskuinen eteläafrikkalainen kuningaskunta'
         start_time: '2025-07-01T13:00:00+03:00'
         end_time: '2025-07-01T13:35:00+03:00'
@@ -162,7 +174,7 @@ data:
       - title: Yle Uutiset
         start_time: '2025-07-01T15:00:00+03:00'
         end_time: '2025-07-01T15:02:00+03:00'
-      - title: 'Kulttuuriykkönen: Tappajahai demonisoi valkohait ja teki Spielbergistä Hollywood-tähden'
+      - title: 'Kulttuuriykkönen: Tappajahai ja eläinten representaatio elokuvissa'
         start_time: '2025-07-01T15:02:00+03:00'
         end_time: '2025-07-01T15:55:00+03:00'
         description: |-
@@ -170,7 +182,7 @@ data:
 
           Millainen vaikutus pieneen kalifornialaiseen rantakaupunkiin sijoittuvalla tarinalla jättimäisestä valkohaista sekä sitä metsästävistä ihmisistä oikein on ollut kulttuurillemme? Millaisen eläinfobiaelokuvien sarjan Tappajahai aloitti, ja miten ne ovat vaikuttaneet meidän eläin- ja luontosuhteeseemme? Miksi Tappajahai kiinnostaa edelleen ajassamme, ja miten se on onnistunut kestämään aikaa? Miten 50 vuotta sitten julkaistu tarina vertautuu 50 vuotta myöhemmin julkaistuun uuteen australialaiseen haielokuvaan Dangerous Animals?
 
-          Kulttuuriykkönen sukeltaa syviin sinisiin vesiin yhdessä haiasiantuntija Harri-Pekka Pietikäisen sekä elokuviin erikoistuneen toimittaja Tero Kartastenpään kanssa. Juhani Kenttämaa toimittaa.
+          Kulttuuriykkönen sukeltaa syviin sinisiin vesiin yhdessä haiasiantuntija Harri-Pekka Pietikäisen, elokuva- ja nuorisotutkija Heta Mularin sekä elokuviin erikoistuneen toimittaja Tero Kartastenpään kanssa. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-07-01T15:55:00+03:00'
         end_time: '2025-07-01T15:58:00+03:00'
@@ -215,9 +227,18 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-07-01T17:35:00+03:00'
         end_time: '2025-07-01T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
-
+        description: |
+          Sergio Mendes & Brasil '66: Righteous life
+          Liisa Tavi: Kaupungin aamu
+          Pulp: Farmers market 
+          Monica Zetterlund: Sakta vi gå genom stan
+          Poni: Vuoristorata
+          Rickie Lee Jones: Tried to be a man 
+          Miika Leivo: Pannukakkuja
+          Jeff Buckley: Lover, you should've come over 
+          Big Thief: Incomprehensible
+          Duo Ruut: Suvi rannas
+          PENT: Vanamoita
       - title: 'Viikon luontoääni: Riskilä'
         start_time: '2025-07-01T18:30:00+03:00'
         end_time: '2025-07-01T18:35:00+03:00'
@@ -226,6 +247,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-01T18:35:00+03:00'
         end_time: '2025-07-01T18:50:00+03:00'
+        description: |+
+          Kansansävelmä (sov. M. Makkonen): Mua siipeis suojaan kätke (Esa Ruuttunen, baritoni, sekä Seeli Toivio, Jussi Makkonen, Matti Makkonen ja Ulla Lampela, sello).
+
+          Bortnjanski: Meidän kanssamme on Jumala (Joensuun yliopiston ort. teologian laitoksen kuoro/Risto Matsi).
+
+          Ahnfelt (sov. Lindell): Päivä vain ja hetki kerrallansa (Maksetut viulut).
+
       - title: Iltahartaus
         start_time: '2025-07-01T18:50:00+03:00'
         end_time: '2025-07-01T19:00:00+03:00'
@@ -250,11 +278,13 @@ data:
         end_time: '2025-07-01T20:19:20+03:00'
         description: |-
           Kertomuksia täydellisestä keksinnöstä. Toimittajana JP Pulkkinen.
-      - title: Romano mirits
+      - title: 'Romano mirits: Kyösti Lindeman haluaa laulaa perinteistä tangoa ja iskelmää'
         start_time: '2025-07-01T20:20:00+03:00'
         end_time: '2025-07-01T20:35:00+03:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+        description: |-
+          Alajärveläinen Kyösti Lindeman on nuoresta iästään huolimatta ehtinyt jo voittaa Iskelmämestari-laulukilpailun Kiuruvedellä vuonna 2022 ja kilpailla kertaalleen Tangomarkkinoitten semifinaalissa. Tänä vuonna hänet nähdään Tangomarkkinoiden finaalissa heinäkuun puolivälissä. ”Ihmiset toivovat kuulevansa perinteistä tangoa ja iskelmää”, Lindeman toteaa ja kertoo, että niitä hän myös mieluiten laulaa. 
+           
+          Toimittaja Jaakko Laakso tapasi Kyösti Lindemanin juhannusaattona Alajärvellä.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-07-01T20:35:00+03:00'
         end_time: '2025-07-01T21:00:00+03:00'
@@ -271,11 +301,11 @@ data:
 
           Sarjan toimittaa Jari Aula.
           Tuottaja Salla Matusiak.
-      - title: Sari Valto
+      - title: 'Sari Valto: Minuutemme rakentuu muistin varaan - voiko muistiin luottaa?'
         start_time: '2025-07-01T21:35:00+03:00'
         end_time: '2025-07-01T22:29:30+03:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+          Kuka minä olen? Miten muisti ja muistot muokkaavat identiteettiämme? Entä jos muistot eivät olekaan totta? Tai jos muistot häviävät mielestämme, keitä me silloin olemme? Vieraina psykoterapeutti Marja Saarenheimo ja psykologi Julia Korkman.
       - title: 'Kuninkaansalista savupirttiin - suomalaista elämää keskiajalla 1/4: Linnat'
         start_time: '2025-07-01T22:30:00+03:00'
         end_time: '2025-07-01T23:16:00+03:00'

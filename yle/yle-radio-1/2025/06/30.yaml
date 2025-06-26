@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-25T02:37:16.493221+00:00'
+  generated_at: '2025-06-26T02:36:38.760035+00:00'
   git:
     branch: main
-    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
-  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
+    commit: e709cedb82e6b57a504a888b14b69124747f81f1
+  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
 data:
   Yle Radio 1:
     programmes:
@@ -47,6 +47,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-06-30T06:30:50+03:00'
         end_time: '2025-06-30T06:50:00+03:00'
+        description: |+
+          Maasalo: Boade muinna (=Tule kanssani, Herra Jeesus) (Wimme Saari, laulu).
+
+          Simojoki: Hän ohitse ei kulje (Sauli Ahvenjärvi, baritoni, ja Pentti Kotiranta, piano).
+
+          Nyberg (sov. Matveinen): Silmäisi eteen, Jeesus (Tellu Turkka ja Suden Aika).
+
+          Selnecker: Herää sielun' ja mielell' (Sauli Tiilikainen, baritoni, ja Pertti Eerola, urut).
+
+          Nicolai: Kaikkivoipa Jumalamme (Cetus Noster, ja Pekka Suikkanen, urut).
+
       - title: Aamuhartaus
         start_time: '2025-06-30T06:50:00+03:00'
         end_time: '2025-06-30T06:59:59+03:00'
@@ -219,8 +230,12 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-06-30T18:35:00+03:00'
         end_time: '2025-06-30T18:50:00+03:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          Lüders: Anna meille rauhasi (Kuusankosken kirkon nuorisokuoro/Tapani Rautasuo).
+
+          Koraalitoisinto: Jos maatamme ei rakenna (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Kansansäv. (sov. Koskinen - Haapaniemi): On kaupunki aivan hiljainen (Johanna Kurkela, laulu, ja yhtye).
       - title: Iltahartaus
         start_time: '2025-06-30T18:50:00+03:00'
         end_time: '2025-06-30T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-25T02:37:15.333936+00:00'
+  generated_at: '2025-06-26T02:36:37.689782+00:00'
   git:
     branch: main
-    commit: 0954b667d3b1f9ec6e7eff0d007923ed3f8b3f92
-  data_hash: 659ed4ed454a39e6bcb7c1ba5735ab7a0c62c19a74b8742ca2e2e5f911bc7258
+    commit: e709cedb82e6b57a504a888b14b69124747f81f1
+  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,12 @@ data:
       - title: Ykkösaamu
         start_time: '2025-06-26T08:10:00+03:00'
         end_time: '2025-06-26T09:00:00+03:00'
+        description: |-
+          Muuttuuko EU:n ulko- ja turvallisuuspolitiikka Naton huippukokouksen jälkeen?
+          Kittilän Levillä alkaa EU:n tärkein arktisen alueen kehityksen suuntaviivoja luova keskustelutapahtuma.
+          Toimivatko Venäjän vastaiset pakotteet?
+          Maailman toiseksi rikkaimman miehen Jeff Bezosin häät ovat saaneet aikaan ennennäkemättömän protestiaallon Italiassa.
+          Juontajana Seija Vaaherkumpu, tuottajana Annette Blencowe.
       - title: Yle Uutiset
         start_time: '2025-06-26T09:00:00+03:00'
         end_time: '2025-06-26T09:05:00+03:00'
@@ -145,9 +151,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-06-26T12:36:00+03:00'
         end_time: '2025-06-26T13:00:00+03:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Naton uusi aika'
         start_time: '2025-06-26T13:00:00+03:00'
         end_time: '2025-06-26T13:30:00+03:00'
+        description: |
+          Mistä velka-Suomi ottaa rahat uusiin aseisiin ja Naton kasvaviin puolustusmenotavoitteisiin? Politiikkaradion SuomiAreena-debatissa Porissa keskustelemassa on kolme kansanedustajaa: entinen ulkoministeri, vihreiden Pekka Haavisto, eduskunnan valtiovarainvaliokunnan verojaoston puheenjohtaja, kokoomuksen Ville Valkonen sekä SDP:n varapuheenjohtaja, talousvaliokunnan jäsen Matias Mäkynen. SuomiAreena-debatin juontaa Antti Pilke.
       - title: Radio 1:n iltapäivä
         start_time: '2025-06-26T13:30:00+03:00'
         end_time: '2025-06-26T15:00:00+03:00'
@@ -164,7 +172,7 @@ data:
 
           Tietokirjailija Jutta Ylä-Mononen on opiskellut antiikkia ja modernia sisustussuunnittelua ja arkkitehtuuria Firenzessä. Hän tuntee tyylisuunnat 1400-luvusta eteenpän. Ylä-Mononen kirjoittaa parhaillaan kirjaa roomalaisista kodeista. 
 
-          Ohjelman vieraina ovat tietokirjailija Jutta Ylä-Mononen, Sisiliassa vierailleet sisustustoimittaja Maija-Liisa Mustonen ja mainostoimisto- ja verkkokauppayrittäjä Mari Tauler.
+          Ohjelman vieraina ovat tietokirjailija Jutta Ylä-Mononen, Sisiliassa vierailleet sisustustoimittaja Maija-Riitta Mustonen ja mainostoimisto- ja verkkokauppayrittäjä Mari Tauler.
 
           Ohjelman juontaa Pia-Maria Lehtola.
 
