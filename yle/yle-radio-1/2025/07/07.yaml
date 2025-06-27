@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-26T02:36:40.753934+00:00'
+  generated_at: '2025-06-27T02:37:11.324985+00:00'
   git:
     branch: main
-    commit: e709cedb82e6b57a504a888b14b69124747f81f1
-  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
+    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
+  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
 data:
   Yle Radio 1:
     programmes:
@@ -147,9 +147,10 @@ data:
       - title: 'Tuntematon Latinalainen Amerikka: Panama on riittävän lämmin paikka ja siihen kyllä tottuu, sanoo matkailujulkkis Folke West'
         start_time: '2025-07-07T13:00:00+03:00'
         end_time: '2025-07-07T13:35:00+03:00'
-        description: |
+        description: |-
           Matkailujulkkis Folke Westillä on kolme kotimaata: Suomi, Kuuba ja Panama. Hän kertoo viime mainitusta maasta, miten siihen ihastui ja millainen maa se on. Panaman kanava on maalle kaikki kaikessa. Toimittajana on Jari Aula.  
           Arkistotoimittajana on ollut Samuli Kunttu. Osa: 2/5.
+          v. 2021
       - title: Radio 1:n iltapäivä
         start_time: '2025-07-07T13:35:00+03:00'
         end_time: '2025-07-07T15:00:00+03:00'
@@ -245,9 +246,10 @@ data:
       - title: 'Tuntematon Latinalainen Amerikka: Panama on riittävän lämmin paikka ja siihen kyllä tottuu, sanoo matkailujulkkis Folke West'
         start_time: '2025-07-07T21:05:00+03:00'
         end_time: '2025-07-07T21:34:30+03:00'
-        description: |
+        description: |-
           Matkailujulkkis Folke Westillä on kolme kotimaata: Suomi, Kuuba ja Panama. Hän kertoo viime mainitusta maasta, miten siihen ihastui ja millainen maa se on. Panaman kanava on maalle kaikki kaikessa. Toimittajana on Jari Aula.  
           Arkistotoimittajana on ollut Samuli Kunttu. Osa: 2/5.
+          v. 2021
       - title: Tiedeykkönen
         start_time: '2025-07-07T21:35:00+03:00'
         end_time: '2025-07-07T22:24:30+03:00'
@@ -258,11 +260,11 @@ data:
         end_time: '2025-07-07T22:44:30+03:00'
         description: |-
           Kertomuksia täydellisestä keksinnöstä. Toimittajana JP Pulkkinen.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Jonna Järnefelt - rakastan elokuvista tehtyjä soundtrack-levyjä'
         start_time: '2025-07-07T22:45:00+03:00'
         end_time: '2025-07-07T23:39:00+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+        description: |
+          Näyttelijä Jonna Järnefeltin syvällisempi musiikillinen herätys tapahtui Maaritin Hymypoika -kappaleen myötä. Ensimmäistä kertaa tekstin sisältö teki suuren vaikutuksen, se oli enemmän kuin vain poppia. Maaritia Jonna kuitenkin fanitti vähän salaa, koska Maarit liikkui eri piireissä kuin hän itse. Jonna paljastuu myös suureksi elokuvamusiikin kuluttajaksi, siitäkin huolimatta, että soundtrackeillä on usein vain pari hittibiisiä ja loput on jotain täytemusiikkia. Ohjelman toimittaa Petri Rinne.
       - title: Yöklassinen
         start_time: '2025-07-07T23:40:00+03:00'
         end_time: '2025-07-08T06:30:00+03:00'

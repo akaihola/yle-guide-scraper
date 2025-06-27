@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-26T02:36:38.432429+00:00'
+  generated_at: '2025-06-27T02:37:05.493712+00:00'
   git:
     branch: main
-    commit: e709cedb82e6b57a504a888b14b69124747f81f1
-  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
+    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
+  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
 data:
   Yle Radio 1:
     programmes:
@@ -111,7 +111,7 @@ data:
         end_time: '2025-06-29T13:57:00+03:00'
         description: |-
           Mitä pitäisi ajatella siitä, että do re mi fa so ja la ovat arabian aakkosia? Tai siitä, että suurin osa länsimaisista soittimista on peräisin islamilaisen kulttuurin alueelta? Tai siitä että koko taidemusiikin konsepti tuli Eurooppaan vasta kun maurit valloittivat Espanjan? Siitä pitäisi ajatella, että jako meihin ja muihin on erityisen turha musiikissa. Toimittajana Kare Eskola. 
-      - title: 'Maarit Tastula - Yksi maailma, kaksi kaksetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Arja Saijonmaa: Leija lentää parhaiten vastatuulessa'
         start_time: '2025-06-29T14:00:00+03:00'
         end_time: '2025-06-29T14:52:00+03:00'
         description: |-
@@ -122,6 +122,9 @@ data:
       - title: Ykköskolumni
         start_time: '2025-06-29T14:55:00+03:00'
         end_time: '2025-06-29T15:00:00+03:00'
+        description: |-
+          Ukrainassa käytettävät strategiat ovat surkeita, mutta sellainen voi riittää Venäjälle.
+          Ukrainan sota osoittaa, että nopeaa ja halpaa voittoa toivotaan sodassa useammin kuin saavutetaan, sanoo sotatieteiden dosentti Ilmari Käihkö kolumnissaan.
       - title: 'Elävä historia: Elsa Heporauta – Kalevalakorun luoja on unohdettu mahtinainen'
         start_time: '2025-06-29T15:00:00+03:00'
         end_time: '2025-06-29T15:49:30+03:00'
@@ -168,13 +171,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-06-29T17:00:00+03:00'
         end_time: '2025-06-29T17:10:00+03:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Kolmen kauppa – Jazztriojen klassikoita ja uusia tuulia'
         start_time: '2025-06-29T17:11:00+03:00'
-        end_time: '2025-06-29T18:11:00+03:00'
-        description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+        end_time: '2025-06-29T18:09:52+03:00'
+        description: |-
+          Perinteisiä ja vähemmän perinteisiä jazzkokoonpanoja kolmen muusikon yhteispelinä. Tällä kertaa luvassa jazztriojen klassikoita ja uusia tuulia.
       - title: 'Jazzklubin illan keikka: Daydream - The Music of Duke Ellington Tampere Jazz Happeningissä.'
-        start_time: '2025-06-29T18:11:00+03:00'
+        start_time: '2025-06-29T18:09:52+03:00'
         end_time: '2025-06-29T19:00:00+03:00'
         description: |-
           Äänitetty Tullikamarin Pakkahuoneella 2.11.2024.
@@ -182,21 +185,26 @@ data:
         start_time: '2025-06-29T19:00:00+03:00'
         end_time: '2025-06-29T19:02:05+03:00'
       - title: 'Mustan musiikin sosiaalihistoriaa: Mustaa tykinruokaa – puhvelisotilaita ja pasifisteja'
-        start_time: '2025-06-29T19:02:20+03:00'
-        end_time: '2025-06-29T20:00:00+03:00'
+        start_time: '2025-06-29T19:03:45+03:00'
+        end_time: '2025-06-29T19:59:30+03:00'
         description: |
           Toimittajana Esa Kuloniemi.
       - title: Helluntaiseurakuntien juhannuskonferenssi Iso Kirja -opistolta Keuruulta
         start_time: '2025-06-29T20:00:00+03:00'
-        end_time: '2025-06-29T21:00:00+03:00'
+        end_time: '2025-06-29T20:56:00+03:00'
         description: |
           Liturgina Damaris Diaz. Saarnaajana pastori Tero Ojasalo. 
+      - title: Radio 1 soi
+        start_time: '2025-06-29T20:56:00+03:00'
+        end_time: '2025-06-29T21:00:00+03:00'
+        description: |-
+          Melartin: Barcarola (Venelaulu) balet. Sininen helmi (Rita Bergman, sopraano, Kai Airinen, baritoni, ja Mart Lille, piano).
       - title: Yle Uutiset
         start_time: '2025-06-29T21:00:00+03:00'
         end_time: '2025-06-29T21:02:05+03:00'
       - title: 'Ulkolinja-podcast: Elämä ei loppunut vaikka kranaatti vei jalan'
-        start_time: '2025-06-29T21:03:00+03:00'
-        end_time: '2025-06-29T21:28:00+03:00'
+        start_time: '2025-06-29T21:02:40+03:00'
+        end_time: '2025-06-29T21:19:00+03:00'
         description: |-
           Ukrainalainen sotilas Oleh Stahanov haavoittui vakavasti kranaatti-iskussa. Hän ehti tehdä juoksuhaudassa vaimolleen jäähyväisvideon, mutta jäi kuin jäikin henkiin.
           Ulkolinjan toimittaja Viivi Berghem seurasi Stahanovin evakuointia ja hoitoa Pokrovskin rintamalla.

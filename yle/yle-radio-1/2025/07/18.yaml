@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-26T02:36:43.478434+00:00'
+  generated_at: '2025-06-27T02:37:14.718396+00:00'
   git:
     branch: main
-    commit: e709cedb82e6b57a504a888b14b69124747f81f1
-  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
+    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
+  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
 data:
   Yle Radio 1:
     programmes:
@@ -69,11 +69,17 @@ data:
         end_time: '2025-07-18T12:00:00+03:00'
         description: |-
           Uuno Kailaan Laulu kesäillassa -runo kokoelmasta Tuuli ja tähkä.
+      - title: Tiedeykkönen
+        start_time: '2025-07-18T12:10:00+03:00'
+        end_time: '2025-07-18T12:59:30+03:00'
+        description: |
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
       - title: 'Tuntematon Ruotsi: Historiallisten paikkojen kävelykierroksella Tukholmassa'
         start_time: '2025-07-18T13:00:00+03:00'
         end_time: '2025-07-18T13:35:00+03:00'
-        description: |
+        description: |-
           Sveriges Radio Finskan toimittaja Soili Huokuna kertoo tarinoita historiasta ja nykypäivän Ruotsista ja erityisesti Tukholmasta. Kävelyllä Tukholmassa yhtenä etappina on suomalaisten sota-aikana Ruotsiin evakuoitujen lasten muistomerkki osoitteessa Skeppsbron 28.Toimittajana on Jari Aula.
+          v. 2023
       - title: Radio 1:n iltapäivä
         start_time: '2025-07-18T13:35:00+03:00'
         end_time: '2025-07-18T15:00:00+03:00'
@@ -82,8 +88,28 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-07-18T16:10:00+03:00'
         end_time: '2025-07-18T16:59:00+03:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Carwithen: Suffolk Morris sarj. Suffolk (London Symphony Orchestra/Richard Hickox).
+
+          Vivaldi: Anastasion aaria "Vedró con mio diletto" oopp. Giustino (Philippe Jaroussky, kontratenori, ja Ensemble Matheus/Jean-Christophe Spinosi).
+
+          Reverberi: Siciliana sarj. huuliharpulle ja jousille (Willi Burger, huuliharppu, ja Ljubljanan Radion ja Television kamariork./Nevio Zanardi).
+
+          Kilpinen: Jänkä (Ville Rusanen, baritoni, ja Pami Karvonen, piano).
+
+          Deutscher: In memoriam (Alma Deutscher, piano).
+
+          Kansansäv. (sov. Alfvén): Glädjens blomster (The Real Group/Eric Ericson).
+
+          Poulenc: Les chemins de l'amour (Lemmenpolut) (Ransom Wilson, huilu, ja Christopher O'Riley, piano).
+
+          Aboulker: Je t'aime (Kiihkeä vokaliisi seonneelle sopraanolle) (Petricia Petibon, sopraano, ja Lyonin oopperan ork./Yves Abel). 
+
+          Dylan (sov. Lapwood): Make you feel my love (The Pembroke College Chapel Choir/Anna Lapwood, sekä Molly Hord, urut).
+
+          Rameau (sov. Olafsson): The arts and the hours (Vikingur Olafsson, piano).
+
+          Verdi: Kohtaus "Padre eterno Signor" oopp. La forza del destino (Kohtalon voima) (Natalija Kreslina, mezzosopraano, Jekaterina Kitshigina, sopraano, Andrei Fetisov, basso, sekä Savonlinnan Oopperajuhlakuoro ja Moskovan Novaja Operan ork./Kyösti Haatanen). 
       - title: 'Nappikukasta nokkoseen: Voikukka  - kulinaarisia nautintoja, kahvinkorviketta ja haavanhoitoa'
         start_time: '2025-07-18T17:10:00+03:00'
         end_time: '2025-07-18T17:34:20+03:00'
@@ -153,8 +179,9 @@ data:
       - title: 'Tuntematon Ruotsi: Historiallisten paikkojen kävelykierroksella Tukholmassa'
         start_time: '2025-07-18T21:05:00+03:00'
         end_time: '2025-07-18T21:35:00+03:00'
-        description: |
+        description: |-
           Sveriges Radio Finskan toimittaja Soili Huokuna kertoo tarinoita historiasta ja nykypäivän Ruotsista ja erityisesti Tukholmasta. Kävelyllä Tukholmassa yhtenä etappina on suomalaisten sota-aikana Ruotsiin evakuoitujen lasten muistomerkki osoitteessa Skeppsbron 28.Toimittajana on Jari Aula.
+          v. 2023
       - title: Kalle Haatanen
         start_time: '2025-07-18T21:35:00+03:00'
         end_time: '2025-07-18T22:24:30+03:00'

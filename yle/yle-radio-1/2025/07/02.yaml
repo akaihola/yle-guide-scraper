@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-26T02:36:39.487847+00:00'
+  generated_at: '2025-06-27T02:37:09.044326+00:00'
   git:
     branch: main
-    commit: e709cedb82e6b57a504a888b14b69124747f81f1
-  data_hash: e98d9a30bbe1c039389c8c3cf6f2e07226176be6ec406bf45ca89e41d2616d12
+    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
+  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
 data:
   Yle Radio 1:
     programmes:
@@ -136,6 +136,7 @@ data:
 
           Sarjan toimittaa Jari Aula.
           Tuottaja Salla Matusiak.
+          v. 2020
       - title: Radio 1:n iltapäivä
         start_time: '2025-07-02T13:35:00+03:00'
         end_time: '2025-07-02T15:00:00+03:00'
@@ -191,11 +192,11 @@ data:
         end_time: '2025-07-02T17:30:20+03:00'
         description: |
           Ihminen on hyödyntänyt marjoja ravinnokseen jo vuosituhansia. Marjoihin liittyy paljon kansanperinnettä. Tiina Harpfin seurassa tehdään marjaretkiä ympäri vuoden Marjakasveja etsitään metsistä, niityiltä ja hylkymailta, pohjoisen vaaleassa valossa ja soilla syksyn hämärissä, loisteputkien alla arkistoissa sekä kirjastoissa. 
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Kukkien salattuja viestejä jazzin kuiskuttelemana'
         start_time: '2025-07-02T17:35:00+03:00'
         end_time: '2025-07-02T18:35:00+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Mitä kukat kuiskailevat lajillaan, värillään tai lukumäärällään? Kukkakimppu voi kertoa jotain, mitä et ehkä osannut huomatakaan; toivoa, muistoja tai hiljaisen rakkauden eleen. Luvassa kukkien salaisia viestejä ja kukikasta jazzia.
       - title: Hartaita säveliä
         start_time: '2025-07-02T18:35:00+03:00'
         end_time: '2025-07-02T18:50:00+03:00'
@@ -229,14 +230,22 @@ data:
 
           Sarjan toimittaa Jari Aula.
           Tuottaja Salla Matusiak.
+          v. 2020
       - title: 'Havaintoja muutoksesta: Taloudellinen niukkuus on arkipäivää monille'
         start_time: '2025-07-02T21:35:00+03:00'
         end_time: '2025-07-02T22:25:00+03:00'
         description: |
           Inflaatio, arjen kallistuminen ja yleinen taloudellinen epävarmuus on vaikuttanut ihmisten elämään ja toiminnan mahdollisuuksiin. Taloudelliseen niukkuuteen liittyy usein myös häpeää ja se vaikuttaa myös kielteisesti elämänlaatuun ja oman talouden suunnitteluun. Elämme menestys- ja sijoituspuheiden aikakautta, jossa taloudelliset haasteet ja köyhyys saattavat joidenkin silmissä vaikuttaa vain omilta valinnoilta, mutta usein kyse on huomattavasti monimutkaisemmista asioista. Toimittaja Satu Kivelän kanssa keskustelemassa ovat ekonomi Anni Marttinen ja Takuusäätiöstä sosiaalisten rahoituspalveluiden johtaja Minna Backman. Ohjelma on uusinta maaliskuulta 2025.
-      - title: Ääniversumi
+      - title: 'Ääniversumi: Atmosfärg Travelogue, 1. osa, Kaukokaipuu'
         start_time: '2025-07-02T22:35:00+03:00'
         end_time: '2025-07-02T23:12:30+03:00'
+        description: |-
+          - Äänimatkalla Euroopassa trumpetisti Eero Savelan kanssa. 
+
+          Atmosfärg Travelogue - viisi osaisessa teos-sarjassa yhdistyy muusikoiden todelliset kohtaamiset mielikuvitusmaisemiin. Teoksen lähtökohtana oli taltioida toisilleen tuntemattomien muusikoiden kohtaaminen ensimmäisistä äänistä alkaen - edeten kohti moniosaista äänellistä matkapäiväkirjaa. 
+
+          Atmosfärg Travelogue koostuu viidestä kollaasista, joissa kohtaamiset on yhdistelty erilaisiin ympäristön ääniin luoden kuulijan ajatuksille vapaan maaston vaeltaa. 
+          Teoksen suunnittelu ja toteutus Eero Savela 
       - title: Yöklassinen
         start_time: '2025-07-02T23:40:00+03:00'
         end_time: '2025-07-03T06:30:00+03:00'
