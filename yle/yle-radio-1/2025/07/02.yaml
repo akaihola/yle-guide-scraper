@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-27T02:37:09.044326+00:00'
+  generated_at: '2025-06-28T02:34:47.249218+00:00'
   git:
     branch: main
-    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
-  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
+    commit: 3c37d93a18a51d37f8a3c2d5a66e0041dec3f6a5
+  data_hash: d5dc1b3c23810c611c330ebf34abe4d7f69253a96be3b6f322cb023828eb173f
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-02T06:30:50+03:00'
         end_time: '2025-07-02T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto: Soi, virteni, kiitosta Herran (Lauluyhtye Toisinto ja Sinikka Kontio, veisuu).
+
+          Voipio: Niityn kukat ihanat (Risto Lauriala, piano).
+
+          Kalenius (sov. Vuori): Jumalani, Jumalani (Psalmi 22) (Maria Laakso, laulu, Matti Kallio, harmonikka, Antti Vuori, kitara, Jaakko Kämäräinen, basso, ja Tuomo Huhdanpää, lyömäsoittimet).
+
       - title: Aamuhartaus
         start_time: '2025-07-02T06:50:00+03:00'
         end_time: '2025-07-02T06:59:59+03:00'
@@ -200,6 +207,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-02T18:35:00+03:00'
         end_time: '2025-07-02T18:50:00+03:00'
+        description: |+
+          Ruottinen: Muodonmuutos (NSV Revisited).
+
+          Tuntematon (sov. Perkola - Julkunen - Knif): Ylistän Herran nimeä (Topi Lehtipuu, tenori, Jarmo Julkunen, teorbi, Mikko Perkola, viola da gamba, ja Jonte Knif, cembalo).
+
+          Koraalitoisinto (sov. Airola): Nyt kiitän, Herra, kaikesta (Venla Lankinen ja yhtye).
+
       - title: Iltahartaus
         start_time: '2025-07-02T18:50:00+03:00'
         end_time: '2025-07-02T19:00:00+03:00'

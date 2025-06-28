@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-06-27T02:37:13.819644+00:00'
+  generated_at: '2025-06-28T02:34:51.184880+00:00'
   git:
     branch: main
-    commit: a79907a7d9b49c1114fcbb1d6ce92090e8891e94
-  data_hash: 497cd5d7735bb85fd655e8cf178c150e7c09092449cd18b20f77d4fc149f194c
+    commit: 3c37d93a18a51d37f8a3c2d5a66e0041dec3f6a5
+  data_hash: d5dc1b3c23810c611c330ebf34abe4d7f69253a96be3b6f322cb023828eb173f
 data:
   Yle Radio 1:
     programmes:
@@ -96,11 +96,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-14T12:00:00+03:00'
         end_time: '2025-07-14T12:10:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Valtapelejä ja vodkaa valvontakomissiossa - miten Suomeen saapuneista briteistä tuli Neuvostoliiton pelinappuloita'
         start_time: '2025-07-14T12:10:00+03:00'
         end_time: '2025-07-14T12:59:30+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |+
+          Vuonna 1944 jatkosodan jälkeen välirauhan ehtoja valvomaan saapuneessa valvontakomissiossa oli mukana myös joukko brittejä.Mikä oli brittien rooli neuvostoliittolaisten dominoimassa valvontakomissiossa? Oliko Suomelle mitään hyötyä siitä, että britit olivat mukana valvontakomissiossa? Haastateltava: Ville Jalovaara. Toimittaja: Harri Alanne. Äänisuunnittelija: Katri Koivula. Lukija: Nicklas Wancke.
+
       - title: 'Tuntematon Ruotsi: Vapaamuurarien rooli yhteiskunnassa ja kunniamerkkien jakamisen paluu '
         start_time: '2025-07-14T13:00:00+03:00'
         end_time: '2025-07-14T13:35:00+03:00'
