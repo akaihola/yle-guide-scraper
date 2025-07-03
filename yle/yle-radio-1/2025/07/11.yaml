@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-02T02:37:07.805770+00:00'
+  generated_at: '2025-07-03T02:37:59.283235+00:00'
   git:
     branch: main
-    commit: 2ece1dec19bd1c33ffbe840dfe6e33a0820fc644
-  data_hash: e840d10084fa5e6ab1819d18deda6fa57ae9abb4fc17c3bcc7808b8ae0cec894
+    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
+  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
 data:
   Yle Radio 1:
     programmes:
@@ -95,7 +95,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-11T12:00:00+03:00'
         end_time: '2025-07-11T12:10:00+03:00'
-      - title: 'Tiedeykkönen: Kohti uutta sekuntia –  Suomessa kehitetään maailman tarkimpia atomikelloja'
+      - title: 'Tiedeykkönen: Kohti uutta sekuntia - Suomessa kehitetään maailman tarkimpia atomikelloja'
         start_time: '2025-07-11T12:10:00+03:00'
         end_time: '2025-07-11T12:59:30+03:00'
         description: |+
@@ -164,7 +164,7 @@ data:
       - title: Näistä levyistä en luovu
         start_time: '2025-07-11T17:35:00+03:00'
         end_time: '2025-07-11T18:30:00+03:00'
-        description: |-
+        description: |
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
       - title: Hartaita säveliä
         start_time: '2025-07-11T18:35:00+03:00'
