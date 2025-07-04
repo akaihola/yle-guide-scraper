@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-03T02:38:05.842147+00:00'
+  generated_at: '2025-07-04T02:36:41.366594+00:00'
   git:
     branch: main
-    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
-  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
+    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
+  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
 data:
   Yle Radio 1:
     programmes:
@@ -90,6 +90,11 @@ data:
         end_time: '2025-07-30T11:50:00+03:00'
         description: |
           Riston Valinta vierailee Siuntiossa ja tutustuu kanttori ja pianotaiteilija Pami Karvosen virtuaaliurkuihin. Mitä virtuaaliuruilla voi tehdä, miten ne toimivat ja miten ne eroavat  tavallisista kirkkouruista? Pami Karvonen ja  Risto Nordell vievät kuulijat kiehtovalle urkumatkalle ympäri Eurooppaa. (U)
+      - title: 'Kalle Haatanen: Miksi katsoa eläimiä?'
+        start_time: '2025-07-30T12:10:00+03:00'
+        end_time: '2025-07-30T12:59:30+03:00'
+        description: |
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: 'Kiveen hakatut: Mestarihiihtäjä Eero Mäntyranta'
         start_time: '2025-07-30T13:00:00+03:00'
         end_time: '2025-07-30T13:30:00+03:00'

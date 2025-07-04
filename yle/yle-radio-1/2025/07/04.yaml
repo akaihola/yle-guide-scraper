@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-03T02:37:57.145418+00:00'
+  generated_at: '2025-07-04T02:36:35.056287+00:00'
   git:
     branch: main
-    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
-  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
+    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
+  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
 data:
   Yle Radio 1:
     programmes:
@@ -89,6 +89,10 @@ data:
       - title: Ykkösaamu
         start_time: '2025-07-04T08:10:00+03:00'
         end_time: '2025-07-04T09:00:00+03:00'
+        description: |2+
+
+          Yhdysvallat viettää kansallispäiväänsä sekavissa tunnelmissa: Presidentti Trump yrittää saada kiisteltyä suurta lakipakettia läpi ja vastustajaksi kääntynyt Elon Musk uhittelee uuden puolueen perustamisella. Millaisessa ilmapiirissä Yhdysvallat nyt elää, siitä kertovat Yle Uutisten Yhdysvaltain kirjeenvaihtaja Ilmari Reunamäki ja Clayton State Universityn professori Marko Maunula. Masentaako kolea kesä? Tutkimusprofessori Timo Partonen kertoo, kuinka Suomessa on tutkittu sään yhteyttä mielenterveyteen. 
+
       - title: Yle Uutiset
         start_time: '2025-07-04T09:00:00+03:00'
         end_time: '2025-07-04T09:05:00+03:00'
@@ -233,7 +237,7 @@ data:
         end_time: '2025-07-04T19:02:00+03:00'
       - title: 'Viitasaaren Musiikin aika: Yarn/Wire'
         start_time: '2025-07-04T19:02:00+03:00'
-        end_time: '2025-07-04T21:00:00+03:00'
+        end_time: '2025-07-04T20:24:00+03:00'
         description: |
           Aikapiirroksia-konsertissa kuullaan kaksi teosta, jotka on sävelletty newyorkilaiselle Yarn/Wire -yhtyeelle. 
 

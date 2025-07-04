@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-03T02:37:59.627251+00:00'
+  generated_at: '2025-07-04T02:36:36.915022+00:00'
   git:
     branch: main
-    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
-  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
+    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
+  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,7 @@ data:
         end_time: '2025-07-12T08:35:00+03:00'
         description: |
           "Luomakunnan huokaus ja kiitosveisu" 
-          Ortodoksisen kirkon teologinen sihteeri Jelisei Heikkilä, Helsingistä, puhuu ihmisen ja luomakunnan suhteesta. Hartaudessa kuullaan Kamarikuoro Krysostomoksen kantanauhoituksesta Apostolit Pietari ja Paavali kesäkuun 29. päivänä, osat tropari, kunnia ja kontakki.
+          Ortodoksisen kirkon teologinen sihteeri Jelisei Heikkilä, Helsingistä, puhuu ihmisen ja luomakunnan suhteesta.
       - title: 'Salatut eläimet: Hämähäkit'
         start_time: '2025-07-12T08:35:00+03:00'
         end_time: '2025-07-12T08:55:00+03:00'
@@ -75,7 +75,7 @@ data:
           Scocco: Himlen runt hörnet (Lisa Nilsson).
           Debout, Le Senechal, Anderson: Den första sommaren (Lill LIndfors).
           Osei, Tontoh, Amarfio: Sunshine day (Osibisa).
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Elena Leeve – musiikkia kuunteleva rooleihin valmistautuja'
         start_time: '2025-07-12T11:00:00+03:00'
         end_time: '2025-07-12T11:55:00+03:00'
         description: |
@@ -117,17 +117,17 @@ data:
           Hyväluoma: Daydream 2 (Frigg). 
       - title: Raha-Suomen henkilökuvat - Ilkka Paananen
         start_time: '2025-07-12T14:00:00+03:00'
-        end_time: '2025-07-12T14:30:00+03:00'
+        end_time: '2025-07-12T14:29:00+03:00'
         description: |-
           Ilkka Paananen tunnetaan mobiilipeliyhtiö Supercellin ja koko Suomen peliteollisuuden keulakuvana ja kovimpien veronmaksajien listan vakionimenä. Raha-Suomi-dokumenttisarjaa varten Ilkka Paanasta haastatteli ja hänen henkilökuvansa toimitti Pekka Laine.
       - title: Raha-Suomen henkilökuvat - Jaajo Linnonmaa
-        start_time: '2025-07-12T14:30:00+03:00'
-        end_time: '2025-07-12T15:00:00+03:00'
+        start_time: '2025-07-12T14:29:00+03:00'
+        end_time: '2025-07-12T14:58:00+03:00'
         description: |-
           Jaajo Linnonmaa on tullut tunnetuksi sarjayrittäjänä sekä radio- ja televisiojuontajana. Linnonmaata haastatteli ja hänen henkilökuvansa toimitti Simo Sipola. 
       - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Hitaasti etenevä älyttömyys'
-        start_time: '2025-07-12T15:00:00+03:00'
-        end_time: '2025-07-12T15:20:00+03:00'
+        start_time: '2025-07-12T14:58:00+03:00'
+        end_time: '2025-07-12T15:25:00+03:00'
         description: |-
           6/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
           Puutarhakaupungin murhamysteerit, tapaus rönsylilja on kahdeksanosainen dekkarikuunnelmasarja, joka tarjoilee komediallista jännitystä aiemmilta kausilta (tapaus perunamurhat, tapaus viheltävä pankkiiri) tutuissa kuvioissa. Mutta murhamysteerit, ne ovat joka kerta erilaiset.
@@ -141,9 +141,6 @@ data:
           Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
           Tuotantokoordinaattori: Eveliina Solja.
           Tuotanto: Laura Jaakkola, Yle Draama 2025.
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-07-12T15:20:00+03:00'
-        end_time: '2025-07-12T15:25:00+03:00'
       - title: Ykköskolumni
         start_time: '2025-07-12T15:25:00+03:00'
         end_time: '2025-07-12T15:30:00+03:00'
@@ -243,16 +240,16 @@ data:
           Tiedemiehet etsivät viisautta tutkimalla hämähäkkejä ja niiden verkkoja. Hämähäkille itselleen roolissa viisauden lähettiläänä ei ole mitään uutta. Eri kansojen mytologioissa se on toiminut maailman luojana sekä valon ja viisauden tuojana. 
 
           Toisaalta hämähäkit on liitetty pimeyden voimiin ja noituuteen. Jaksossa tutustutaan myös pelottaviin japanilaisiin hämähäkkihirviöihin, joiden seurassa hämähäkkikammoisilla jalat tutisevat! Salatut eläimet -sarjan on toimittanut Kaisa Pulakka. Lukijana on Pietari Kylmälä.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Futuureja, riskejä ja haavereita - italian kielen finanssisanastoa'
         start_time: '2025-07-12T22:20:30+03:00'
         end_time: '2025-07-12T22:30:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
-      - title: Keinuva talo - Mika Kauhanen
+        description: |
+          Italia on paljon muutakin kuin ruokaa, muotia, turismia tai taidetta. Italia on myös rahamaailman kielen syntysija. Väitöskirjatutkija Mattia Retta Helsingin yliopistosta kertoo. Tuttuja sanoja ovat mm. futuuri, riski, haaveri, optio ja valuutta, mutta lisääkin löytyy. Toimittajana on Jari Aula.
+      - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Lontoo'
         start_time: '2025-07-12T22:30:30+03:00'
         end_time: '2025-07-12T23:29:30+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Keinuvan talon heinäkuun sarjassa sukelletaan suurkaupunkien sulatusuuniin. Ahjoon, josta tulee ulos mitä ihmeellisimpiä musiikkifuusioita mahdottoman monien musiikkikulttuurien mosaiikista. Etnofanille metropolit tarjoavat ehtymättömän runsaudensarven. Ensimmäisessä jaksossa kohteena Lontoo, todellinen kansojen maailmankaupunki. Toimittajana Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2025-07-12T23:40:00+03:00'
         end_time: '2025-07-13T07:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-03T02:38:00.306496+00:00'
+  generated_at: '2025-07-04T02:36:37.507437+00:00'
   git:
     branch: main
-    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
-  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
+    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
+  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
 data:
   Yle Radio 1:
     programmes:
@@ -206,11 +206,13 @@ data:
         end_time: '2025-07-14T21:37:38+03:00'
         description: |
           Tutkija Tom C. Bergroth kertoo Ruotsin vapaamuurareista ja siitä, että onko heillä piilotettua valtaa yhteiskunnassa. Lisäksi 50 vuoden tauon jälkeen Ruotsissa aletaan uudelleen jakaa kunniamerkkejä kansalaisille. Vuodesta 1975 tähän päivään asti kunniamerkin on voinut saada vain ulkomaalainen, mutta ei ruotsalainen. Nyt vanhaan käytäntöön palataan, mutta uudistetuin säännöin. Suomella on ollut roolia tässä Ruotsin kunniamerkkien jaon palauttamisessa. Muun muassa tästä kertoo tutkija Tom C. Bergroth. Toimittajana on Jari Aula. Uusinta vuodelta 2023.
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Kohti uutta sekuntia - Suomessa kehitetään maailman tarkimpia atomikelloja'
         start_time: '2025-07-14T21:38:00+03:00'
         end_time: '2025-07-14T22:27:30+03:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |+
+          Mittayksikköjärjestelmä, SI-järjestelmä sai alkunsa 1800-luvun lopulla Ranskassa. Miten SI-järjestelmä taipuu nykytutkimuksen tarpeisiin? Entä miksi Yhdysvallat eivät ole SI-järjestelmässä vieläkään? 
+          Asiantuntijoina ovat VTT Mittatekniikan keskuksen johtaja Martti Heinonen sekä erikoistutkijat Virpi Korpelainen ja Anders Wallin. Toimittajana on Pirjo Koskinen. 
+
       - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Pyörällä joka säässä'
         start_time: '2025-07-14T22:28:00+03:00'
         end_time: '2025-07-14T22:47:30+03:00'

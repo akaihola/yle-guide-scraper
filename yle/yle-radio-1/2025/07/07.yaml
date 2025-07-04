@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-03T02:37:58.053504+00:00'
+  generated_at: '2025-07-04T02:36:35.879604+00:00'
   git:
     branch: main
-    commit: 6bb6662c6bd28d9e72baf790066653a3562243c8
-  data_hash: af1df436f367f0f41d269393467a60b8e5071ae842b4108db389f81466b1589d
+    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
+  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
 data:
   Yle Radio 1:
     programmes:
@@ -166,8 +166,13 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-07-07T15:02:00+03:00'
         end_time: '2025-07-07T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Kulttuuriykkösessä sukelletaan tänään japanilaisen huumorin maailmaan ja erityisesti manzai-komiikkaan. Mikä tekee tästä perinteisestä, kaksikon vuoropuheluun perustuvasta komiikan muodosta niin suositun Japanissa – ja voisiko siitä tulla seuraava hitti Suomessa? Keskustelemme manzain perinteistä, kilpailuista ja siitä, kuinka huumori rakentaa siltoja kulttuurien välillä. Mikä naurattaa Japanissa – ja miten manzai taipuu suomalaisille lavoille?
+
+          Studiossa ovat japanilainen koomikko Gen Takagi, manzai-kilpailun voittajat Aapo Alare ja Daniel Selin sekä tietokirjailija ja Japani-asiantuntija Liisa Karvinen.
+
+          Ohjelman juontaa Nicklas Wancke.
+
       - title: Yle Uutiset ja sää
         start_time: '2025-07-07T16:00:00+03:00'
         end_time: '2025-07-07T16:10:00+03:00'
@@ -257,11 +262,12 @@ data:
         description: |
           Matkailujulkkis Folke Westillä on kolme kotimaata: Suomi, Kuuba ja Panama. Hän kertoo viime mainitusta maasta, miten siihen ihastui ja millainen maa se on. Panaman kanava on maalle kaikki kaikessa. Toimittajana on Jari Aula.  
           Arkistotoimittajana on ollut Samuli Kunttu. Osa: 2/5. Uusinta vuodelta 2021.
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Faktan vaarat - elämmekö maailmanlopun reunalla vai ihmiskunnan parasta aikaa?'
         start_time: '2025-07-07T21:35:00+03:00'
         end_time: '2025-07-07T22:24:30+03:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |+
+          Mikä olisi mielekäs tapa hahmottaa, miten maailma ihan oikeasti makaa? Onko nurkan takana häämöttävä maailmaloppu aivan yhtä ontto tarina kuin ihmisen päättymätön voittokulku? Jaksossa ovat asiantuntijoina ympäristöfilosofi ja BIOS-tutkimusyksikön tutkija Ville Lähde ja Syken johtava tutkija Jari Lyytimäki. Toimittajana on Jaro Asikainen. Äänisuunnittelu: Katja Kostiainen.
+
       - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Näkymätön polkupyörä'
         start_time: '2025-07-07T22:25:00+03:00'
         end_time: '2025-07-07T22:44:30+03:00'
