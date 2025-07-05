@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-04T02:36:40.607275+00:00'
+  generated_at: '2025-07-05T02:34:58.422921+00:00'
   git:
     branch: main
-    commit: c124847f2bd5cff7f0638dfe83e35b02cf4ded6f
-  data_hash: 955d2e884b139128f641c69b041cf4afe8868afee1ac97b8856037af43a9ce17
+    commit: 41ae4e9eb12883bd9cbd0fe8b95f0d5aa0c2bbb0
+  data_hash: 1689ac1942f88106b314b2e2c2b30181d0c288479b8b8aa7399ef565d78011f4
 data:
   Yle Radio 1:
     programmes:
@@ -15,24 +15,37 @@ data:
       - title: Yle Uutiset
         start_time: '2025-07-27T07:00:00+03:00'
         end_time: '2025-07-27T07:02:05+03:00'
-      - title: '8 klasaria '
+      - title: '8 klasaria: Johann Strauss nuorempi: Tonava kaunoinen – Valssien valssi'
         start_time: '2025-07-27T07:03:00+03:00'
         end_time: '2025-07-27T07:22:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        description: |-
+          Mikä on suurinta kansanhuvia keisarikaupunki Wienissä 1800-luvulla? No pyöriminen lennokkaan musiikin tahtiin tottakai!
+
+          Ihmiset taviksista aatelisiin harrastivat muotitanssi valssia. Valssi soi kahviloissa, tanssihalleissa, puistoissa, kaduilla ja palatseissa. 
+
+          Valssikuningas ylitse muiden oli Johann Strauss Nuorempi (1825-1899), jonka Tonava kaunoinen on lähes synonyymi wienerwalzille. Strauss nuorempi oli tanssimusiikkisuvun kirkkain tähti ja äärettömän suosittu valsseineen ja operetteineen.  
+
+          Silti hänestä ei alun perin pitänyt tulla säveltäjää. Eikä Tonava kaunoista aluksi tarkoitettu tanssittavaksi.
+
+          Miten se sai alkunsa?
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-07-27T07:22:00+03:00'
         end_time: '2025-07-27T07:59:30+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-07-27T08:00:00+03:00'
         end_time: '2025-07-27T08:05:05+03:00'
-      - title: Maisteri Lindgrenin musiikkiesitelmä
+      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Traaginen tenori, joka ei oppinut laulamaan oikein'
         start_time: '2025-07-27T08:05:35+03:00'
         end_time: '2025-07-27T08:59:30+03:00'
+        description: |
+          "Adolphe Nourrit sai tenorit kuolemaan näyttämöllä aatteen tai naisen tähden ja yleisön kyynelehtimään. Samettisella äänellä, taitavalla voimakkuuden vaihtelulla, kepeällä koristelulla ja harvinaisen korkeilla falsettiäänillä hän hurmasi yleisön illasta toiseen. Mutta sitten tapahtui jotain kerrassaan hirveätä Luccassa Pohjois-Italiassa, jossa esitettiin ensimmäisen kerran italialainen versio Rossinin Pariisiin säveltämästä oopperasta Wilhelm Tell. Tenoriroolia lauloi ranskalainen Gilbert Duprez, ja pian kaikkialle Eurooppaan kantautui huhu, jonka mukaan Duprez oli vetäissyt tenoriosaan kirjoitetun korkean c:n rintaäänellä, siis ikään kuin täydellä äänellä falsetin sijaan." - Minna Lindgren esitelmöi.
       - title: Yle Uutiset ja sää
         start_time: '2025-07-27T09:00:00+03:00'
         end_time: '2025-07-27T09:05:05+03:00'
-      - title: Riston Valinta
+      - title: 'Riston Valinta: Musiikki Thames-joen varrelta ja Varsovasta'
         start_time: '2025-07-27T09:05:35+03:00'
         end_time: '2025-07-27T09:55:00+03:00'
         description: |
@@ -141,11 +154,22 @@ data:
         end_time: '2025-07-27T21:28:00+03:00'
         description: |
           Miten lomamatkalla olo eroaa tavallisesta kotona ja kotikaupungissa elettävästä lomasta? Veikko Halmetojan matkailuvinkkiohjelma kertoo hyvistä ja huonoista matkakokemuksista, auttaa selviytymään lentohäpeästä ja paljastaa parhaat some-viestintävinkit.
-      - title: '8 klasaria '
+      - title: '8 klasaria: Johann Strauss nuorempi: Tonava kaunoinen – Valssien valssi'
         start_time: '2025-07-27T21:29:00+03:00'
         end_time: '2025-07-27T21:49:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        description: |-
+          Mikä on suurinta kansanhuvia keisarikaupunki Wienissä 1800-luvulla? No pyöriminen lennokkaan musiikin tahtiin tottakai!
+
+          Ihmiset taviksista aatelisiin harrastivat muotitanssi valssia. Valssi soi kahviloissa, tanssihalleissa, puistoissa, kaduilla ja palatseissa. 
+
+          Valssikuningas ylitse muiden oli Johann Strauss Nuorempi (1825-1899), jonka Tonava kaunoinen on lähes synonyymi wienerwalzille. Strauss nuorempi oli tanssimusiikkisuvun kirkkain tähti ja äärettömän suosittu valsseineen ja operetteineen.  
+
+          Silti hänestä ei alun perin pitänyt tulla säveltäjää. Eikä Tonava kaunoista aluksi tarkoitettu tanssittavaksi.
+
+          Miten se sai alkunsa?
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-07-27T21:49:30+03:00'
         end_time: '2025-07-27T22:26:00+03:00'
