@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-07T02:41:33.881985+00:00'
+  generated_at: '2025-07-08T02:38:01.386544+00:00'
   git:
     branch: main
-    commit: d771fa441c6d5570c5ae20193ab190f9a4a3cf74
-  data_hash: 39b89433b8783ea65657ee98480866285dace0728df2b9947ad444098f21d995
+    commit: f9d6af5a254bc074e1639d1c9878e8aff3d7e5dd
+  data_hash: 44360e365e8d1d757fed23abe1fe55abae19191f97e036b430648abcfbdb0455
 data:
   Yle Radio 1:
     programmes:
@@ -12,3 +12,99 @@ data:
         end_time: '2025-08-11T06:30:00+03:00'
         description: |-
           Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-08-11T06:30:50+03:00'
+        end_time: '2025-08-11T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2025-08-11T06:50:00+03:00'
+        end_time: '2025-08-11T06:59:59+03:00'
+        description: |-
+          Teologi Amu Urhonen, Tampere
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-11T07:00:00+03:00'
+        end_time: '2025-08-11T07:10:00+03:00'
+      - title: Ykkösaamu
+        start_time: '2025-08-11T08:10:00+03:00'
+        end_time: '2025-08-11T09:00:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-08-11T09:05:40+03:00'
+        end_time: '2025-08-11T09:58:00+03:00'
+        description: |-
+          Taylor: Palanen maata (Tapio Heinonen). 
+          Bunnell: A horse with no name (America). 
+          Kansa/Kuittinen: Balladi James Deanista (Tapani Kansa).
+          Hardy: Voilà (Francoise Hardy).
+          Velho: Barco negro (Amalia Rodrigues). 
+          Baker: Motivo su raggio di luna (Chet Baker).
+          Farres: Quizas, quizas, quizas (Gregory Porter). 
+          Dylan: Boots of spanish leather (Joan Baez).
+          Hebb: Sunny (Carola).
+          Somerjoki: Paratiisi (Ville Valo).
+          Springsteen: The river (Bruce Springsteen).
+      - title: 'Välilevyjä retkellä: Itärajan kadonnutta aikaa'
+        start_time: '2025-08-11T11:00:00+03:00'
+        end_time: '2025-08-11T11:57:00+03:00'
+        description: |-
+          Musiikkitoimittaja Kare Eskola palaa maastopyörällä itärajalle, muttei maisemien tai polkujen takia. Vaan siksi että Suomen syrjäisin seutu on luonto-, kulttuuri- ja yhteiskuntakysymysten ytimessä juuri nyt. Hossan ja Syötteen välillä tervahaudat ja savotat ovat vaihtuneet kansallispuistoiksi ja matkailuksi, ja silti Iijoki virtaa uomassaan - entä elämä? Elokuun neljät Välilevyt on tehty kesän aikana retkillä.
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-08-11T13:30:00+03:00'
+        end_time: '2025-08-11T15:00:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-08-11T16:10:00+03:00'
+        end_time: '2025-08-11T16:59:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2025-08-11T17:35:00+03:00'
+        end_time: '2025-08-11T18:34:20+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2025-08-11T18:35:00+03:00'
+        end_time: '2025-08-11T18:50:00+03:00'
+        description: |
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2025-08-11T18:50:00+03:00'
+        end_time: '2025-08-11T19:00:00+03:00'
+        description: |+
+          "Paavalin kärsimykset"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee 2. kirjeestä korinttilaisille (11:7-12:10). Tässä jaksossa Paavali kertoo näyistä ja ilmestyksistä.
+
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-11T19:00:00+03:00'
+        end_time: '2025-08-11T19:02:00+03:00'
+      - title: 'Sorvali & Stellan - päätapahtumia: ‘’Kulkisitko mädäntyneiden silakoiden kanssa vuoden? ‘’'
+        start_time: '2025-08-11T19:02:00+03:00'
+        end_time: '2025-08-11T19:38:00+03:00'
+        description: |
+          Sanna on lukinnut itsensä kolmesti ulos samana aamupäivänä, ja Miitta herätti koko hotellin oudolla surinalla. Pohditaan myös elämän ja kuoleman suuria kysymyksiä, samalla kun unelmoidaan miljoonista. Entä digitaidot? “Samperi vie, en ole masentuvaista sorttia, mutta tää ahdistaa mua aika paljon”. 
+      - title: Musiikkikamari
+        start_time: '2025-08-11T19:38:00+03:00'
+        end_time: '2025-08-11T20:00:00+03:00'
+        description: |2+
+
+      - title: Raha-Suomen henkilökuvat - Marianne Vikkula
+        start_time: '2025-08-11T20:00:00+03:00'
+        end_time: '2025-08-11T20:30:00+03:00'
+        description: |-
+          Marianne Vikkula oli viime vuonna Suomen kovatuloisin nainen. Minne Pye on toimittanut Marianne Vikkulan henkilökuvan Pekka Laineen tekemästä haastattelusta.
+      - title: Raha-Suomen henkilökuvat - Ilkka Taipale
+        start_time: '2025-08-11T20:30:00+03:00'
+        end_time: '2025-08-11T21:00:00+03:00'
+        description: |-
+          Ilkka Taipale on psykiatri, poliitikko ja väsymätön kansalaisaktivisti.  Taipaletta haastatteli ja henkilökuvan toimitti Minna Pye.
+      - title: Yle Uutiset
+        start_time: '2025-08-11T21:00:00+03:00'
+        end_time: '2025-08-11T21:02:00+03:00'
+      - title: Politiikkaradio
+        start_time: '2025-08-11T21:05:00+03:00'
+        end_time: '2025-08-11T21:34:30+03:00'
+      - title: Tiedeykkönen
+        start_time: '2025-08-11T21:35:00+03:00'
+        end_time: '2025-08-11T22:24:30+03:00'
+        description: |
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: 'Mitä polkupyörä tarkoittaa: kertomuksia täydellisestä keksinnöstä. Fillarikommunisti.'
+        start_time: '2025-08-11T22:25:00+03:00'
+        end_time: '2025-08-11T22:44:30+03:00'
+        description: |
+          Kertomuksia täydellisestä keksinnöstä. Toimittajana JP Pulkkinen.

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-07T02:41:21.152902+00:00'
+  generated_at: '2025-07-08T02:37:52.470805+00:00'
   git:
     branch: main
-    commit: d771fa441c6d5570c5ae20193ab190f9a4a3cf74
-  data_hash: 39b89433b8783ea65657ee98480866285dace0728df2b9947ad444098f21d995
+    commit: f9d6af5a254bc074e1639d1c9878e8aff3d7e5dd
+  data_hash: 44360e365e8d1d757fed23abe1fe55abae19191f97e036b430648abcfbdb0455
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-11T06:30:50+03:00'
         end_time: '2025-07-11T06:50:00+03:00'
+        description: |+
+          Piiparinen (sov. Järvinen): Oi, katso mikä aamu (Lasse Riutamaa, tenori, ja ork./Seppo J. Järvinen, piano).
+
+          Koraalitoisinto (sov. Bartling): Nyt ylös, sieluni (Histan veisaajat).
+
+          Hagfors (sov. Viitasalo): Oi, Herra, jos mä matkamies maan (Veisuuveljet/Samuli Korkalainen).
+
       - title: Aamuhartaus
         start_time: '2025-07-11T06:50:00+03:00'
         end_time: '2025-07-11T06:59:59+03:00'
@@ -149,6 +156,10 @@ data:
         start_time: '2025-07-11T15:02:00+03:00'
         end_time: '2025-07-11T15:55:00+03:00'
         description: |
+          Kulttuuriykkösen Perjantaistudio kokoaa vakioraatilaiset liikemies Sami Kuuselan, tietokirjailija Tiina Raevaaran ja mainonnan asiantuntija Jussi Turhalan kulttuurin ja median ajankohtaisilmiöiden ja arvokysymyksien äärelle. 
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-07-11T15:55:00+03:00'
@@ -197,6 +208,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-11T18:35:00+03:00'
         end_time: '2025-07-11T18:50:00+03:00'
+        description: |+
+          P. Nyman: Astukaa valoon (Maria Laakso ja Jakaranda).
+
+          Pekkarinen: Yksin en kulje (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Simojoki: Ylitse merten (Kaarle Mannila, laulu, ja yhtye).
+
       - title: Iltahartaus
         start_time: '2025-07-11T18:50:00+03:00'
         end_time: '2025-07-11T19:00:00+03:00'
@@ -206,25 +224,44 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-11T19:00:00+03:00'
         end_time: '2025-07-11T19:02:00+03:00'
-      - title: Barokin tulkintoja Eevan, Juditin ja Batseban tarinoista
+      - title: Barokin tulkintoja Vanhan testamentin vahvoista naisista
         start_time: '2025-07-11T19:02:00+03:00'
-        end_time: '2025-07-11T21:00:00+03:00'
+        end_time: '2025-07-11T20:38:00+03:00'
         description: |+
+          Euroradiokonsertin päähenkilöitä ovat Vanhan Testamentin vahvat naiset. Barokin aarioita tulkitsevat sopraano Shira Patchornik ja Accademia Bizantina johtajanaan Ottavio Dantone.
+
+
           Alessandro Scarlatti (1660-1725): Kohtauksia oratoriosta “Cain, overo Il primo omicidio”
+          Sinfonia 
+          Eevan resitatiivit ja aariat “Di serpe ingannator” – “Caro sposo, prole amata” sekä “Ferma del figlio mio” – “Madre tenera”
 
-          Antonio Caldara (ca 1670-1736): Kohtauksia oratoriosta “La morte d'Abele”
+          Alessandro Stradella (1643-1682): Kohtauksia kantaatista “Esule dalle sfere“
+          Sinfonia
+          Enkelin aariat “Su, su spariscano” ja “A cor supplicante” 
 
-          Nicola Porpora (1686-1768): Kohtauksia oratoriosta “'Davide e Bersabea”
+          Antonio Caldara (ca 1670-1736): Kohtauksia oratoriosta “La morte d'Abel”
+          Sinfonia
+          Josheban aaria “Sento che il gran contento“
+
+          Alessandro Scarlatti: Concerto grosso nro 5 d-molli, R. 533b
+
+          Nicola Porpora (1686-1768): Batseban aaria “Bel Pianeta de‘fulgidi rai“ oratoriosta “'Davide e Bersabea”
+
+          Pasquale Cafaro (1716-1787): Giudittan aaria “Del pari infeconda“ oratoriosta “La Betulia liberata“
 
           Antonio Vivaldi (1678-1741): Konsertto viola d'amorelle d-molli, RV 394
+          Allegro – Largo – Allegro
 
           Antonio Vivaldi: Kohtauksia oratoriosta “Juditha Triumphans” RV 644
+          Abran aaria “Si fulgida per te“
+          Vagausin aaria “Armatae face“
 
 
           Shira Patchornik, sopraano
+          Alessandro Tampieri, alttoviulu
           Accademia Bizantina, joht. Ottavio Dantone
 
-          Äänitetty 7.6.2025 Melkin barokkimusiikkijuhlilla, Itävallassa. Toimittajana Ainomaija Pennanen. 
+          Äänitetty 7.6.2025 Melkin barokkimusiikkijuhlilla, Itävallassa. Toimittajana on Ainomaija Pennanen. 
 
           Kuvassa Shira Patchornik © Dirk Brzoska.
 
@@ -235,18 +272,18 @@ data:
           Sarjan ensimmäisessä osassa on vieraana Euroopan historian professori Laura Kolbe. Hän kertaa toimittaja Jari Aulan haastattelussa Ruotsin 500-vuotiseen historiaan liittyviä asioita Kustaa Vaasasta perintösäännön kautta Janten lakiin.
           Uusinta vuodelta 2023.
       - title: 'Kalle Haatanen: Britit Suomen valvontakomissiossa'
-        start_time: '2025-07-11T21:35:00+03:00'
-        end_time: '2025-07-11T22:24:30+03:00'
+        start_time: '2025-07-11T21:38:40+03:00'
+        end_time: '2025-07-11T22:27:49+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: 'Tuuli Saksalan keidas: Keitaan kesämatkat – Sinuhe egyptiläinen'
-        start_time: '2025-07-11T22:25:00+03:00'
-        end_time: '2025-07-11T23:15:00+03:00'
+        start_time: '2025-07-11T22:28:00+03:00'
+        end_time: '2025-07-11T23:15:07+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Aristoteleen kantapää: Vesi eri olomuodoissaan on vanhojen suomalaisten sananlaskujen suosikkiaihe'
-        start_time: '2025-07-11T23:15:30+03:00'
-        end_time: '2025-07-11T23:39:30+03:00'
+        start_time: '2025-07-11T23:15:28+03:00'
+        end_time: '2025-07-11T23:39:50+03:00'
         description: |-
           Pasi Heikura sukeltaa perinteentutkimuksen dosentti Tiina Sepän kanssa suomalaiseen vettä käsittelevään kansanviisauteen.Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen

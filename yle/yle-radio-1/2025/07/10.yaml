@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-07T02:41:20.489412+00:00'
+  generated_at: '2025-07-08T02:37:52.101221+00:00'
   git:
     branch: main
-    commit: d771fa441c6d5570c5ae20193ab190f9a4a3cf74
-  data_hash: 39b89433b8783ea65657ee98480866285dace0728df2b9947ad444098f21d995
+    commit: f9d6af5a254bc074e1639d1c9878e8aff3d7e5dd
+  data_hash: 44360e365e8d1d757fed23abe1fe55abae19191f97e036b430648abcfbdb0455
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-10T06:30:50+03:00'
         end_time: '2025-07-10T06:50:00+03:00'
+        description: |+
+          Händel: Oi Herra, henkesi valo suo (Seinäjoen tyttökuoro/Tuulikki Orrenmaa, sekä Katri Järventausta, piano).
+
+          Koraalitoisinto (sov. Lehtoaho): Joutukaa, sielut, on aikamme kallis (Mikko Salakari, tenori, ja Miikka Lehtoaho, urut).
+
+          Sormunen: Tule luokse Jeesuksesi (Jukka Leppilampi).
+
+          Tuntematon: Oi armon merta ihmeellistä (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
+
       - title: Aamuhartaus
         start_time: '2025-07-10T06:50:00+03:00'
         end_time: '2025-07-10T06:59:59+03:00'
@@ -136,15 +145,15 @@ data:
         start_time: '2025-07-10T13:35:00+03:00'
         end_time: '2025-07-10T15:00:00+03:00'
         description: |-
-          Radio 1:n iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikki. Miia Lahti juontaa. N. klo 14 studiovieraana Savonlinnan Oopperajuhlien Boris Godunoviin valmistautuva tenori Tuomas Katajala. Kati Turtola toimittaa. N. klo 14:30 toimittaja Seija Vaaherkumpu kertoo kulttuurikokemustensa keräilystä.
+          Radio 1:n iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikki. Janne Palkisto juontaa. N. klo 14 studiovieraana Savonlinnan Oopperajuhlien Boris Godunoviin valmistautuva tenori Tuomas Katajala. Kati Turtola toimittaa. N. klo 14:30 toimittaja Seija Vaaherkumpu kertoo kulttuurikokemustensa keräilystä.
       - title: Yle Uutiset
         start_time: '2025-07-10T15:00:00+03:00'
         end_time: '2025-07-10T15:02:00+03:00'
       - title: Kulttuuriykkönen
         start_time: '2025-07-10T15:02:00+03:00'
         end_time: '2025-07-10T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Some tukehtuu fraaseihin. Keskustelemassa toimittaja Virpi Salmi, ekonomisti Heikki Pursiainen sekä somekuplien tutkija Arttu Siltala. Jakke Holvas juontaa.
       - title: Yle News
         start_time: '2025-07-10T15:55:00+03:00'
         end_time: '2025-07-10T15:58:00+03:00'
@@ -200,6 +209,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-10T18:35:00+03:00'
         end_time: '2025-07-10T18:50:00+03:00'
+        description: |+
+          Löytty: Edessäsi uudistun (Jouko Mäki-Lohiluoma ja Teppo Nuorva, laulu, sekä Juhlaorkesteri).
+
+          Vulpius: Oi Herra, ilo suuri (Cetus Noster, sekä Teppo Lampela, baritoni, ja Jarmo Julkunen, teorbi).
+
+          Karttunen: Sinä kaipaatko täyteyttä Hengen sen (Jippu).
+
       - title: Iltahartaus
         start_time: '2025-07-10T18:50:00+03:00'
         end_time: '2025-07-10T19:00:00+03:00'
