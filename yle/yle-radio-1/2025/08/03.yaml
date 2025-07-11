@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-09T02:38:58.174161+00:00'
+  generated_at: '2025-07-11T02:41:42.115919+00:00'
   git:
     branch: main
-    commit: 5e2b653cabec3925321eb10c861dcbf6bcbe4ce9
-  data_hash: 23a1e2f2070fad1b955396751ba7a489a490d685c72851e73bddec76b5228b47
+    commit: 6e7340410ea508d10b51d6e840054ca97d0015ba
+  data_hash: 123406ec360f34e09f5452c5993312da957b01418fa85750b537015fabdeda8e
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-03T11:00:00+03:00'
         end_time: '2025-08-03T11:57:00+03:00'
+      - title: 'Virtasen taloushistoria: Vessapaperi, talouspaperi ja paperinenäliina ennen ja nyt'
+        start_time: '2025-08-03T12:05:00+03:00'
+        end_time: '2025-08-03T12:57:00+03:00'
+        description: |
+          Suomessa on tehty vessapaperia jo reilusti yli sadan vuoden ajan. Pehmopapereiden historiasta ja tulevaisuudesta kertoo toimitusjohtaja Esa Kaikkonen. Toimittaja on Juha Virtanen. Ohjelma on uusinta joulukuulta 2024.
       - title: 'Välilevyjä: Ristivedossa'
         start_time: '2025-08-03T13:00:00+03:00'
         end_time: '2025-08-03T13:57:00+03:00'
@@ -41,11 +46,11 @@ data:
         end_time: '2025-08-03T15:00:00+03:00'
         description: |
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
-      - title: 'Elävä historia: Muinais-DNA'
+      - title: 'Elävä historia: Menneisyyden kasvot - pääkallo ja DNA piirtävät muinaissuomalaiset kasvonpiirteet'
         start_time: '2025-08-03T15:00:00+03:00'
         end_time: '2025-08-03T15:49:30+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |-
+          Muinais-DNA-tutkimusta on kutsuttu tiedemaailman julkkikseksi sen saaman hurjan kiinnostuksen vuoksi. Mitä kaikkea ihmeellistä uusien menetelmien avulla voidaan selvittää menneisyyden ihmisistä? Haastateltavat: arkeologi Ulla Nordfors sekä taiteilija Hew Morrison, joka luo kasvoennallistuksia. Äänisuunnittelija: Panu Willman. Toimittaja: Riikka Suikkari. 
       - title: 'Viikon luontoääni: Kyy'
         start_time: '2025-08-03T15:50:00+03:00'
         end_time: '2025-08-03T15:55:00+03:00'

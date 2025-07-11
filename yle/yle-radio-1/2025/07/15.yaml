@@ -1,12 +1,17 @@
 metadata:
-  generated_at: '2025-07-09T02:38:51.825401+00:00'
+  generated_at: '2025-07-11T02:41:31.401112+00:00'
   git:
     branch: main
-    commit: 5e2b653cabec3925321eb10c861dcbf6bcbe4ce9
-  data_hash: 23a1e2f2070fad1b955396751ba7a489a490d685c72851e73bddec76b5228b47
+    commit: 6e7340410ea508d10b51d6e840054ca97d0015ba
+  data_hash: 123406ec360f34e09f5452c5993312da957b01418fa85750b537015fabdeda8e
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-07-14T23:40:00+03:00'
+        end_time: '2025-07-15T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
       - title: Hartaita säveliä
         start_time: '2025-07-15T06:30:50+03:00'
         end_time: '2025-07-15T06:50:00+03:00'
@@ -119,7 +124,7 @@ data:
         start_time: '2025-07-15T13:35:00+03:00'
         end_time: '2025-07-15T15:00:00+03:00'
         description: |
-          Radio 1:n iltapäivän musiikkia kevyestä jazzista etnoon ja populaarimusiikkiin. Paula Jokimies juontaa. N.klo 14 tietokirjailija, kouluttajapsykoterapeutti Maaret Kallio on sanonut, että mielenrauha ymmärretään usein väärin. Miia Lahti haastattelee. N. klo 14.30 Kielen päällä.
+          Radio 1:n iltapäivän musiikkia kevyestä jazzista etnoon ja populaarimusiikkiin. Paula Jokimies juontaa. N.klo 14 haastattelussa tietokirjailija, kouluttajapsykoterapeutti Maaret Kallio, joka on sanonut, että mielenrauha ymmärretään usein väärin. Miia Lahti haastattelee. N. klo 14.30 Kielen päällä. Kielenhuoltaja Riitta Hyvärinen on toimittaja Jari Aulan vieraana ja aiheena on luova kirjoittaminen.
       - title: Yle Uutiset
         start_time: '2025-07-15T15:00:00+03:00'
         end_time: '2025-07-15T15:02:00+03:00'
@@ -127,7 +132,11 @@ data:
         start_time: '2025-07-15T15:02:00+03:00'
         end_time: '2025-07-15T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          On kulunut 20 vuotta siitä, kun sukupolvensa parhaaksi sotakirjailijaksi tituleerattu Esa Sirén julkaisi ensimmäisen sotakirjansa. Sen jälkeen hänen kirjojaan on ilmestynyt tiuhaan tahtiin ja niitä on myyty yli 400 000 kappaletta. Elokuussa ilmestyy hänen 21. sotakirjansa Taisteluosasto Rasi. Samalla ilmestyy myös 20-vuotisjuhlapainos Sirénin esikoisromaanista Iskujoukkue. 
+
+          Esa Sirén kertoo miten rakentaa tarinansa ja miten dokumentaarisia teokset ovat. Lisäksi vieraana on sotahistorian dosentti Lasse Laaksonen.
+
+          Ohjelman juontaa Nicklas Wancke.
       - title: Yle News
         start_time: '2025-07-15T15:55:00+03:00'
         end_time: '2025-07-15T15:58:00+03:00'
@@ -172,9 +181,20 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-07-15T17:35:00+03:00'
         end_time: '2025-07-15T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Ajassa jossa yleensä turvaudutaan teknologiaan tai kauneuskosmetiikkaan, voikin tuntua vankemmalta maaperältä seistä muinaistarujen päällä. Kun ihmisyys ja elämä ovat hankalasti selittyviä asioita, miksei turvautuisi vanhoihin loitsuihin.
+          Kissankehdon rakkauden kesä '25 loihditaan paitsi taikojen myös poplaulujen avulla. Rakkausasioissa saattaa auttaa lemmennostajaämmän piiska, mutta myös särkyneellä äänellä lausuttu 'pliis'.
 
+          Lambchop: Hustle unlimited
+          Vilma Jää: Lemmennostajaämmä
+          Natacha Atlas: I put a spell on you
+          Ilmi Veera: Kuinka lopulta käy
+          Anna Tivel: Animal poem
+          Blur: Universal
+          Figaro: Rakkauden kesä '25
+          U2: With or without you
+          Ethel Cain: Fuck me eyes
+          Kim Carnes: Bette Davis eyes
       - title: 'Viikon luontoääni: Pensaskerttu'
         start_time: '2025-07-15T18:30:00+03:00'
         end_time: '2025-07-15T18:35:00+03:00'
@@ -192,7 +212,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-15T19:00:00+03:00'
         end_time: '2025-07-15T19:02:00+03:00'
-      - title: Atmosfärg Travelogue, 3. osa, Kuhina
+      - title: 'Ääniversumi: Atmosfärg Travelogue, 3. osa, Kuhina'
         start_time: '2025-07-15T19:02:00+03:00'
         end_time: '2025-07-15T19:38:00+03:00'
         description: |-

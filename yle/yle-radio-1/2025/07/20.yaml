@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-09T02:38:53.580278+00:00'
+  generated_at: '2025-07-11T02:41:34.493358+00:00'
   git:
     branch: main
-    commit: 5e2b653cabec3925321eb10c861dcbf6bcbe4ce9
-  data_hash: 23a1e2f2070fad1b955396751ba7a489a490d685c72851e73bddec76b5228b47
+    commit: 6e7340410ea508d10b51d6e840054ca97d0015ba
+  data_hash: 123406ec360f34e09f5452c5993312da957b01418fa85750b537015fabdeda8e
 data:
   Yle Radio 1:
     programmes:
@@ -74,11 +74,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-20T12:00:00+03:00'
         end_time: '2025-07-20T12:05:00+03:00'
-      - title: 'Virtasen taloushistoria: Mitä tulee mieleen 1980-luvusta?'
-        start_time: '2025-07-20T12:05:00+03:00'
-        end_time: '2025-07-20T12:57:00+03:00'
-        description: |
-          1980-luvun historiaa. Vieraana on Helsingin kaupunginmuseon tutkimuspäällikkö Minna Sarantola-Weiss, joka on kirjoittanut kirjan Me halusimme kaiken - 1980-luvun historia. Ohjelma on uusinta maaliskuulta 2023.
       - title: Yksi on hyvää seuraa
         start_time: '2025-07-20T12:57:00+03:00'
         end_time: '2025-07-20T13:00:00+03:00'
@@ -150,11 +145,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-20T17:00:00+03:00'
         end_time: '2025-07-20T17:10:00+03:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Jazzin värikartta – rumbaa, bossa novaa ja afrokuubalaisia rytmejä'
         start_time: '2025-07-20T17:11:00+03:00'
         end_time: '2025-07-20T18:11:00+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Lattarjazz ei ole vain yhden maan, rytmin tai muusikkosukupolven juttu, se on jatkuvaa vuoropuhelua esimerkiksi New Orleansin, Havannan, Rio de Janeiron ja jopa Helsingin välillä.
       - title: 'Jazzklubin illan keikka: aja monet Tampere Jazz Happeningissä.'
         start_time: '2025-07-20T18:11:00+03:00'
         end_time: '2025-07-20T19:00:00+03:00'
@@ -173,11 +168,18 @@ data:
       - title: Yle Uutiset
         start_time: '2025-07-20T21:00:00+03:00'
         end_time: '2025-07-20T21:02:05+03:00'
-      - title: '8 klasaria '
+      - title: '8 klasaria: John Dowland: Flow my tears – Laulu kyyneleistä, josta tuli hitti ja tunnari'
         start_time: '2025-07-20T21:29:00+03:00'
         end_time: '2025-07-20T21:49:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        description: |-
+          Englantilainen John Dowland oli aikansa parhaita luutunsoittajia ja kovapalkkainen säveltäjä. Mutta Dowlandia riivasi tavoite, jota eivät hillinneet edes 500 taaleria ja lahjat Tanskan kuninkaalta.
+
+          Shakespearen ja Elizabeth I:n ajan Englannissa Dowland sävelsi laulun valuvista kyynelistä. Jo 1600-luvun alussa hän ymmärsi brändäämisen merkityksen. Melankolinen sävellys on sekä surullinen että lohdullinen. Siitä tuli valtaisa hitti, joka levisi ympäri Eurooppaa. 
+
+          Dowland (1563- 1626) hyödynsi kyynel-lauluaan vielä monesti, ja hänestä tuli aikansa pop-idoli. Kappale on kelvannut The Police- yhteen Stingillekin, joka on levyttänyt paljon Dowlandin musiikkia.
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-07-20T21:49:30+03:00'
         end_time: '2025-07-20T22:26:30+03:00'
