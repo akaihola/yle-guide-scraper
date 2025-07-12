@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-11T02:41:26.297184+00:00'
+  generated_at: '2025-07-12T02:40:57.083789+00:00'
   git:
     branch: main
-    commit: 6e7340410ea508d10b51d6e840054ca97d0015ba
-  data_hash: 123406ec360f34e09f5452c5993312da957b01418fa85750b537015fabdeda8e
+    commit: 1fd96743d0fbe3e397b9ef210811b45b04735b2c
+  data_hash: a1e3ee5c05c62066c9db39f40223c3781376ed6eeb29e68934ceba44cc8b0bdb
 data:
   Yle Radio 1:
     programmes:
@@ -74,6 +74,9 @@ data:
           Tiedemiehet etsivät viisautta tutkimalla hämähäkkejä ja niiden verkkoja. Hämähäkille itselleen roolissa viisauden lähettiläänä ei ole mitään uutta. Eri kansojen mytologioissa se on toiminut maailman luojana sekä valon ja viisauden tuojana. 
 
           Toisaalta hämähäkit on liitetty pimeyden voimiin ja noituuteen. Jaksossa tutustutaan myös pelottaviin japanilaisiin hämähäkkihirviöihin, joiden seurassa hämähäkkikammoisilla jalat tutisevat! Salatut eläimet -sarjan on toimittanut Kaisa Pulakka. Lukijana on Pietari Kylmälä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-07-12T08:55:00+03:00'
+        end_time: '2025-07-12T09:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-07-12T09:00:00+03:00'
         end_time: '2025-07-12T09:05:00+03:00'
@@ -126,9 +129,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-07-12T12:00:00+03:00'
         end_time: '2025-07-12T12:05:00+03:00'
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Euroopan puolustuksen suuret setelit'
         start_time: '2025-07-12T12:05:00+03:00'
         end_time: '2025-07-12T12:30:00+03:00'
+        description: |-
+          Euroopan Nato-maat paisuttavat puolustusmenojaan viiteen prosenttiin bruttokansantuotteesta.
+          Se merkitsee satojen miljardien eurojen satsausta aseisiin.
+
+          Maailmanpolitiikan arkipäivää -ohjelma pohtii sitä, millaiseen Euroopan puolustusteollisuuden uusjakoon kisa kasvavista markkinoista johtaa. Oletettavaa on, että poliittisessa keskustelussa satsaukset sosiaalimenoihin ja puolustukseen joutuvat vastakkain.
+
+          Ohjelmassa haastatellut asiantuntijat pitävät viiden prosentin tavoitetta osin ylimitoitettuna. He myös näkevät vanhentuneen eurooppalaisen puolustusteollisuuden joutuvan todelliseen mankeliin. Tehostamistoimet seulovat jyvät akanoista ja ala jakautuu voittajiin ja häviäjiin.
+
+          Bruegel-ajatushautomon asiantuntija Francesco Nicoli muistuttaa, että puolustusteollisuus on  syvästi kansallista ja maat suhtautuvat yrityksiinsä myös hyvin mustasukkaisesti.
+
+          Yhdysvaltalainen asiantuntija Max Bergmann sanoo, että Eurooppa pelkää kyllä Yhdysvaltain sitoutumista Euroopan puolustukseen, mutta Euroopassa ei puhuta juuri lainkaan puolustusrakenteiden uudistamisesta.
+
+          SIPRIN tutkija Lorenzo Scarazzato taas muistuttaa, että maat, jotka käyttävät viisi prosenttia bruttokansantuotteestaan puolustukseen tuppaavat olevaan maita, jotka käyvät sotaa tai ovat diktatuureja.
+
+          Ohjelman toimittavat Heikki Heiskanen ja Sampo Vaarakallio. Äänitarkkailija on Matias Puumala.
       - title: 'Outopodcast: Sininen pää joka ei unohdu'
         start_time: '2025-07-12T12:30:00+03:00'
         end_time: '2025-07-12T12:55:00+03:00'
@@ -179,7 +197,7 @@ data:
           Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
           Tuotantokoordinaattori: Eveliina Solja.
           Tuotanto: Laura Jaakkola, Yle Draama 2025.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Alexander Puutio: Mitä tapahtui sukuni uhripuulle?'
         start_time: '2025-07-12T15:25:00+03:00'
         end_time: '2025-07-12T15:30:00+03:00'
         description: |-
@@ -270,9 +288,29 @@ data:
         end_time: '2025-07-12T21:21:40+03:00'
         description: |
           Ihminen on hyödyntänyt marjoja ravinnokseen jo vuosituhansia. Marjoihin liittyy paljon kansanperinnettä. Tiina Harpfin seurassa tehdään marjaretkiä ympäri vuoden Marjakasveja etsitään metsistä, niityiltä ja hylkymailta, pohjoisen vaaleassa valossa ja soilla syksyn hämärissä, loisteputkien alla arkistoissa sekä kirjastoissa. 
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Euroopan puolustuksen suuret setelit'
         start_time: '2025-07-12T21:22:30+03:00'
-        end_time: '2025-07-12T21:47:00+03:00'
+        end_time: '2025-07-12T21:46:46+03:00'
+        description: |-
+          Euroopan Nato-maat paisuttavat puolustusmenojaan viiteen prosenttiin bruttokansantuotteesta.
+          Se merkitsee satojen miljardien eurojen satsausta aseisiin.
+
+          Maailmanpolitiikan arkipäivää -ohjelma pohtii sitä, millaiseen Euroopan puolustusteollisuuden uusjakoon kisa kasvavista markkinoista johtaa. Oletettavaa on, että poliittisessa keskustelussa satsaukset sosiaalimenoihin ja puolustukseen joutuvat vastakkain.
+
+          Ohjelmassa haastatellut asiantuntijat pitävät viiden prosentin tavoitetta osin ylimitoitettuna. He myös näkevät vanhentuneen eurooppalaisen puolustusteollisuuden joutuvan todelliseen mankeliin. Tehostamistoimet seulovat jyvät akanoista ja ala jakautuu voittajiin ja häviäjiin.
+
+          Bruegel-ajatushautomon asiantuntija Francesco Nicoli muistuttaa, että puolustusteollisuus on  syvästi kansallista ja maat suhtautuvat yrityksiinsä myös hyvin mustasukkaisesti.
+
+          Yhdysvaltalainen asiantuntija Max Bergmann sanoo, että Eurooppa pelkää kyllä Yhdysvaltain sitoutumista Euroopan puolustukseen, mutta Euroopassa ei puhuta juuri lainkaan puolustusrakenteiden uudistamisesta.
+
+          SIPRIN tutkija Lorenzo Scarazzato taas muistuttaa, että maat, jotka käyttävät viisi prosenttia bruttokansantuotteestaan puolustukseen tuppaavat olevaan maita, jotka käyvät sotaa tai ovat diktatuureja.
+
+          Ohjelman toimittavat Heikki Heiskanen ja Sampo Vaarakallio. Äänitarkkailija on Matias Puumala.
+      - title: Radio 1 soi
+        start_time: '2025-07-12T21:46:46+03:00'
+        end_time: '2025-07-12T22:00:00+03:00'
+        description: |-
+          Bizet: Sarja orkesterille oopp. Perthin kaunotar (Melbournen SO/John Lanchbery).
       - title: 'Salatut eläimet: Hämähäkit'
         start_time: '2025-07-12T22:00:00+03:00'
         end_time: '2025-07-12T22:19:18+03:00'

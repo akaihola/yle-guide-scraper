@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-11T02:41:26.559078+00:00'
+  generated_at: '2025-07-12T02:40:57.290740+00:00'
   git:
     branch: main
-    commit: 6e7340410ea508d10b51d6e840054ca97d0015ba
-  data_hash: 123406ec360f34e09f5452c5993312da957b01418fa85750b537015fabdeda8e
+    commit: 1fd96743d0fbe3e397b9ef210811b45b04735b2c
+  data_hash: a1e3ee5c05c62066c9db39f40223c3781376ed6eeb29e68934ceba44cc8b0bdb
 data:
   Yle Radio 1:
     programmes:
@@ -130,7 +130,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-07-13T14:52:00+03:00'
         end_time: '2025-07-13T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Ulla Järvi: Toiminnassa olevan sairaalan luulisi olevan kriisitilanteessa suljettua sairaalaa parempi'
         start_time: '2025-07-13T14:55:00+03:00'
         end_time: '2025-07-13T15:00:00+03:00'
         description: |-
@@ -210,13 +210,13 @@ data:
         description: |
           Alkujuonto: Meri Toivanen. Juhlapuhe: Herättäjä-Yhdistyksen puheenjohtaja Tapani Rantala. Muut puhujat: presidentti Sauli Niinistö, apulaisprofessori Anna Lintunen, piispa emeritus Kaarlo Kalliala. Yhteislaulut: Virsi 170:1,4 sekä Siionin virsi, joka valitaan seurojen aikana.
       - title: 'Variksenmarjasta vaapukkaan: Karpalo – kurkia, kangasta ja keräilylautasia'
-        start_time: '2025-07-13T21:03:00+03:00'
-        end_time: '2025-07-13T21:28:00+03:00'
+        start_time: '2025-07-13T21:02:24+03:00'
+        end_time: '2025-07-13T21:21:29+03:00'
         description: |
           Ihminen on hyödyntänyt marjoja ravinnokseen jo vuosituhansia. Marjoihin liittyy paljon kansanperinnettä. Tiina Harpfin seurassa tehdään marjaretkiä ympäri vuoden Marjakasveja etsitään metsistä, niityiltä ja hylkymailta, pohjoisen vaaleassa valossa ja soilla syksyn hämärissä, loisteputkien alla arkistoissa sekä kirjastoissa. 
       - title: '8 klasaria: Einojuhani Rautavaara: Cantus arcticus – Arktisessa laulussa Suomen linnut soivat solisteina'
-        start_time: '2025-07-13T21:29:00+03:00'
-        end_time: '2025-07-13T21:49:00+03:00'
+        start_time: '2025-07-13T21:22:29+03:00'
+        end_time: '2025-07-13T21:44:07+03:00'
         description: |-
           Einojuhani Rautavaara kulkee Limingan soilla äänittämässä linnunlaulua. Tekeillä on uusi sävellys, jota esittäjät tai huono kuoro eivät pilaisi. Joutsenet pääsevät myös mukaan.
 
@@ -229,13 +229,18 @@ data:
           Toimittaja ja käsikirjoittaja: Eva Tigerstedt
           Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-07-13T21:49:30+03:00'
-        end_time: '2025-07-13T22:26:30+03:00'
+        start_time: '2025-07-13T21:44:07+03:00'
+        end_time: '2025-07-13T22:17:54+03:00'
       - title: 'Sari Valto: Onko rakkaus vain illuusiota?'
-        start_time: '2025-07-13T22:27:00+03:00'
-        end_time: '2025-07-13T23:22:00+03:00'
+        start_time: '2025-07-13T22:18:34+03:00'
+        end_time: '2025-07-13T23:12:57+03:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+      - title: 'Eilisen ääni: Onnea metsästämässä'
+        start_time: '2025-07-13T23:13:36+03:00'
+        end_time: '2025-07-13T23:39:41+03:00'
+        description: |-
+          Kouluttaja Mari Aulanko oli vuonna 1996 vakuuttunut siitä, että ihmiseltä löytyy voimavaroja hyvään elämään. Hänet tapasi Teija Peltoniemi.
       - title: Yöklassinen
         start_time: '2025-07-13T23:40:00+03:00'
         end_time: '2025-07-14T06:30:00+03:00'
