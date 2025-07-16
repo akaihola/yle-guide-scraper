@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-15T02:44:04.853738+00:00'
+  generated_at: '2025-07-16T02:41:59.063786+00:00'
   git:
     branch: main
-    commit: 06f79dd6410e4f55694c3869adf400b4a0244aac
-  data_hash: 4ba0354f75e9e95fc767a9ce044026a4778cfcff19a78fdad2c8a52101c464ac
+    commit: 95382ebbdc1f0baaa12ab71718e2bbc80dc4d408
+  data_hash: 8ca5f7255508ca96277856a7ba63678941fb30f19918f0d7ea69e0c33a18b62c
 data:
   Yle Radio 1:
     programmes:
@@ -55,6 +55,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-08-09T11:57:00+03:00'
         end_time: '2025-08-09T12:00:00+03:00'
+        description: |-
+          Saima Harmajan runo Koivu ja tähti kokoelmasta Sateen jälkeen (1935).
       - title: 'Outopodcast: Jonain päivänä heidän on pakko uskoa'
         start_time: '2025-08-09T12:30:00+03:00'
         end_time: '2025-08-09T12:55:00+03:00'

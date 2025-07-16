@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-15T02:44:04.243208+00:00'
+  generated_at: '2025-07-16T02:41:58.463642+00:00'
   git:
     branch: main
-    commit: 06f79dd6410e4f55694c3869adf400b4a0244aac
-  data_hash: 4ba0354f75e9e95fc767a9ce044026a4778cfcff19a78fdad2c8a52101c464ac
+    commit: 95382ebbdc1f0baaa12ab71718e2bbc80dc4d408
+  data_hash: 8ca5f7255508ca96277856a7ba63678941fb30f19918f0d7ea69e0c33a18b62c
 data:
   Yle Radio 1:
     programmes:
@@ -55,6 +55,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-08-07T11:57:00+03:00'
         end_time: '2025-08-07T12:00:00+03:00'
+        description: |-
+          Ote Helmi Kekkosen kirjasta Näin minä sen kirjoitin (Kosmos, 2025)
       - title: '12 diktaattoria: Valontuoja Ho Tshi Minh '
         start_time: '2025-08-07T12:10:00+03:00'
         end_time: '2025-08-07T12:48:00+03:00'
