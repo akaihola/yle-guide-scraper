@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-18T02:43:38.563668+00:00'
+  generated_at: '2025-07-19T02:38:28.041197+00:00'
   git:
     branch: main
-    commit: 93366a747b110c8d20fcc5b251a3977c2dc6a5be
-  data_hash: d093655c751c19a90334420aeb3bb55bce1ef85e750087ef96946807bf0c7349
+    commit: 20a80e6e46d455ae78cc735a0776b9e092729fc8
+  data_hash: 993c981dba159bc0ac27cd69cda0210ed7a035dfebe18480697df727c45f7810
 data:
   Yle Radio 1:
     programmes:
@@ -35,6 +35,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-23T06:30:50+03:00'
         end_time: '2025-07-23T06:50:00+03:00'
+        description: |+
+          Tuntematon: Nyt, Herra, aamun tullen (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          Kansansäv.: Mfurahini, haleluya - Aurinko tanssii, halleluja (virsi 942) (Jakaranda ja soitinyhtye/Pekka Nyman).
+
+          Karanko: Laula, kansa Jumalan (Heini Heide, laulu, ja Olli Kinnunen, urut).
+
+          Smith: Herra avaa meille (Braxén-kuoro/Harry Westerlund, sekä Matti Pesonen, urut).
+
+          Schop: Kirkkaat riemun äänet soivat (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
       - title: Aamuhartaus
         start_time: '2025-07-23T06:50:00+03:00'
         end_time: '2025-07-23T06:59:59+03:00'
@@ -190,6 +201,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-23T18:35:00+03:00'
         end_time: '2025-07-23T18:50:00+03:00'
+        description: |+
+          T. Ahonen: Puhallamme yhteen hiileen (Katajainen Kansa).
+
+          Doane: Jeesus, ristin juurella (Musica Fidei/Tomi Aalto, sekä Matti Pesonen, piano).
+
+          Mendelssohn: Kiitä Herraa, yö ja päivä (Maria Laakso, laulu, ja Pekka Nyman Ensemble).
+
       - title: Iltahartaus
         start_time: '2025-07-23T18:50:00+03:00'
         end_time: '2025-07-23T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-18T02:43:38.377699+00:00'
+  generated_at: '2025-07-19T02:38:27.512589+00:00'
   git:
     branch: main
-    commit: 93366a747b110c8d20fcc5b251a3977c2dc6a5be
-  data_hash: d093655c751c19a90334420aeb3bb55bce1ef85e750087ef96946807bf0c7349
+    commit: 20a80e6e46d455ae78cc735a0776b9e092729fc8
+  data_hash: 993c981dba159bc0ac27cd69cda0210ed7a035dfebe18480697df727c45f7810
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-22T06:30:50+03:00'
         end_time: '2025-07-22T06:50:00+03:00'
+        description: |+
+          Tuntematon: On Jeesus nimi ihanin (Risto Saarman, tenori, ja Jorma Tiainen, urut).
+
+          Tuntematon: Älä sure, sielu parka (Kampin laulu/Markku Pihlaja, ja Pertti Eerola, urut).
+
+          Ahnfelt (sov. Peltokangas): Joka aamu on armo uus (SRK:n sekakuoro/Reetta Vasalampi).
+
+          Löytty: Maailman kaikissa kylissä (Maksetut viulut).
+
       - title: Aamuhartaus
         start_time: '2025-07-22T06:50:00+03:00'
         end_time: '2025-07-22T06:59:59+03:00'
@@ -244,6 +253,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-22T18:35:00+03:00'
         end_time: '2025-07-22T18:50:00+03:00'
+        description: |+
+          Shea: Mieluummin Jeesus (Viktor Klimenko).
+
+          Salminen: Ristin luona (Pro Fide).
+
+          Skotlantilainen kansansäv.: On armo suuri ihmeinen (Palo-yhtye).
+
       - title: Iltahartaus
         start_time: '2025-07-22T18:50:00+03:00'
         end_time: '2025-07-22T19:00:00+03:00'
