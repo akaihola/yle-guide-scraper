@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-19T02:38:26.772254+00:00'
+  generated_at: '2025-07-20T02:48:52.671133+00:00'
   git:
     branch: main
-    commit: 20a80e6e46d455ae78cc735a0776b9e092729fc8
-  data_hash: 993c981dba159bc0ac27cd69cda0210ed7a035dfebe18480697df727c45f7810
+    commit: 77fda4c211610b54311f97518ef53fda0eaff2de
+  data_hash: e654b14ec3d4ded9c8b42ff6c7cb42055c1e320a79d4836f6b269730a85d1717
 data:
   Yle Radio 1:
     programmes:
@@ -54,6 +54,16 @@ data:
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-07-20T07:22:15+03:00'
         end_time: '2025-07-20T07:58:10+03:00'
+        description: |-
+          Dowland: Mr John Langton's pavan (Paul O'Dette, luuttu).
+
+          Dowland: His golden locks (Drew Minter, kontratenori, ja Jacob Herringman, luuttu).
+
+          Dowland: Lachrimae tristes pavana (Hesperion XX).
+
+          Dowland: Tell me, true love (Kerro, tosi rakkaus) (The Consort of Musicke).
+
+          Dowland: Thou mightie God (Hilliard-yhtye).
       - title: Yle Uutiset ja sää
         start_time: '2025-07-20T08:00:00+03:00'
         end_time: '2025-07-20T08:05:05+03:00'
@@ -184,6 +194,9 @@ data:
         end_time: '2025-07-20T19:00:00+03:00'
         description: |
           Äänitetty Tullikamarin Pakkahuoneella 2.11.2024.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-07-20T19:00:00+03:00'
+        end_time: '2025-07-20T19:02:05+03:00'
       - title: 'Mustan musiikin sosiaalihistoriaa: Musta seksuaalisuus – voodoo-rytmejä ja suoria sanoja'
         start_time: '2025-07-20T19:02:20+03:00'
         end_time: '2025-07-20T19:59:32+03:00'
@@ -212,6 +225,16 @@ data:
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-07-20T21:41:08+03:00'
         end_time: '2025-07-20T22:17:02+03:00'
+        description: |-
+          Dowland: Mr John Langton's pavan (Paul O'Dette, luuttu).
+
+          Dowland: His golden locks (Drew Minter, kontratenori, ja Jacob Herringman, luuttu).
+
+          Dowland: Lachrimae tristes pavana (Hesperion XX).
+
+          Dowland: Tell me, true love (Kerro, tosi rakkaus) (The Consort of Musicke).
+
+          Dowland: Thou mightie God (Hilliard-yhtye).
       - title: 'Sari Valto: Käsityöharrastaja voi sekä meditoida että sosialisoida'
         start_time: '2025-07-20T22:17:38+03:00'
         end_time: '2025-07-20T23:10:07+03:00'
