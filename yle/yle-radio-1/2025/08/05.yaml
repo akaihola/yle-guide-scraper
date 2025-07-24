@@ -1,15 +1,26 @@
 metadata:
-  generated_at: '2025-07-23T02:43:53.920820+00:00'
+  generated_at: '2025-07-24T02:43:24.717253+00:00'
   git:
     branch: main
-    commit: 19846f966102a2169012440f1dcb554f88cdbe1c
-  data_hash: 0740ac5df4d33c602c6981a48d6433437b2b4ef0fd0ea0951378de1ec5c6b983
+    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
+  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
 data:
   Yle Radio 1:
     programmes:
       - title: Hartaita säveliä
         start_time: '2025-08-05T06:30:50+03:00'
         end_time: '2025-08-05T06:50:00+03:00'
+        description: |+
+          O. Merikanto (sov. I. Kuusisto): Oi, kiitos sa Luojani armollinen (Raili Kostia, mezzosopraano, ja Kim Borg, basso, sekä orkesteri/Ilkka Kuusisto).
+
+          Scandello: Hyvä on Herra (SRK:n lauluyhtye/Mikko Niinikoski, Eero Hartikainen, tenori, ja Sheldon Ylioja, urut).
+
+          Löytty: Lahjoillasi meitä siunaat (Lahjalaulu) (Simo Mäkinen, laulu, Mikko Iivanainen, sähkökitara, ja Pekka Suikkanen, urut).
+
+          Madetoja: Ei mitään multa puutu (CCF/Kari Turunen).
+
+          Koraalitoisinto (sov. Alakotila): Nyt nouse, kiitä Luojaa (Minsku Tammela, laulu, Tommi Asplund, viulu, Senni Valtonen, kantele, Maria Kalaniemi, harmonikka, Hannu Rantanen, kontrabasso, ja Timo Alakotila, piano).
+
       - title: Aamuhartaus
         start_time: '2025-08-05T06:50:00+03:00'
         end_time: '2025-08-05T06:59:59+03:00'

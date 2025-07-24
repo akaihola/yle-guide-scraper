@@ -1,12 +1,39 @@
 metadata:
-  generated_at: '2025-07-23T02:43:51.617612+00:00'
+  generated_at: '2025-07-24T02:43:21.472127+00:00'
   git:
     branch: main
-    commit: 19846f966102a2169012440f1dcb554f88cdbe1c
-  data_hash: 0740ac5df4d33c602c6981a48d6433437b2b4ef0fd0ea0951378de1ec5c6b983
+    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
+  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-07-27T23:40:00+03:00'
+        end_time: '2025-07-28T06:30:00+03:00'
+        description: |
+          Beethoven: Pianosonaatit n:o 8 c-molli (Pateettinen), n:o 9 E-duuri, n:o 10 G-duuri, n:o 13 Es-duuri ja n:o 14 cis-molli (Kuutamo) (Walter Gieseking).
+
+          00:56 Tshaikovski: Viulukonsertto D-duuri (Viktor Tretjakov ja Moskovan FO/Neeme Järvi).
+
+          01:30 W.A. Mozart: Konserttiaaria Misero, o sogno (Cesare Valletti, tenori, ja Leo Taubman, piano).
+
+          01:39 Vivaldi: Konsertto jousille ja continuolle C-duuri (Australian Brandenburg-ork./Paul Dyer).
+
+          01:45 Schubert: Arpeggione-sonaatti (John Williams, kitara, ja Australian kamariork.)
+
+          02:08 Glazunov: Sinfonia n:o 3 D-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov). 
+
+          03:00 Shostakovitsh: Sinfonia n:o 1 f-molli (Clevelandin ork./Christoph von Dohnanyi.
+
+          03:32 Melartin: Lyyrillisiä kappaleita (Marita Viitasalo, piano)
+
+          03:49 Respighi: Linnut, sarja pienelle orkesterille (Atlantan SO/Louis Lane).
+
+          04:08 O. Merikanto: Mä haaveksin näin (Pekka Nuotio, tenori, ja Ralf Gothóni, piano). 
+
+          04:11 J.S. Bach: Brandenburgilainen konsertto n:o 5 D-duuri, konsertto kahdelle cembalolle C-duuri, ja orkesterisarja n:o 2 h-molli (Akademie für Alte Musik Berlin).
+
+          05:11 Biber: Harmonia artificioso-ariosa, partitat n:ot 1-7 (Tafelmusik/Jeanne Lamon). 
       - title: Hartaita säveliä
         start_time: '2025-07-28T06:30:50+03:00'
         end_time: '2025-07-28T06:50:00+03:00'
@@ -165,10 +192,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-07-28T18:50:00+03:00'
         end_time: '2025-07-28T19:00:00+03:00'
-        description: |+
-          "Korintilaisten mielenmuutos"
+        description: |
+          "Korinttilaisten mielenmuutos"
           Tuottaja-toimittaja Mikko Kurenlahti lukee 2. kirjeestä korinttilaisille (7:1-8:24). Tässä jaksossa Paavali neuvoo avustamaan Jerusalemin kristittyjä runsaskätisesti. 
-
       - title: 'Sorvali & Stellan - päätapahtumia: ’’Pääsykokeessa revenneet housut’’'
         start_time: '2025-07-28T19:02:00+03:00'
         end_time: '2025-07-28T19:42:00+03:00'
@@ -213,4 +239,26 @@ data:
         start_time: '2025-07-28T23:40:00+03:00'
         end_time: '2025-07-29T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Beethoven: Pianotrio G-duuri op.1/2 (Eugene Istomin, piano, Isaac Stern, viulu, ja Leonard Rose, sello).
+
+          00:19 Crusell: Duo kahdelle klarinetille n:o 1 F-duuri (Reino Simola ja Hans Rudolf Stalder).
+
+          00:31 Beethoven: Missa solemnis (Sylvia McNair, sopraano, Janice Taylor, mezzosopraano, John Aler, tenori, Tom Krause, baritoni, Atlantan sinfoniakuoro ja Atlantan SO/Robert Shaw).
+
+          01:52 Schubert: Impromptut pianolle op. 99 ja op.142 (Murray Perahia, piano).
+
+          02:56 Mendelssohn: Sinfoniat jousiorkesterille n:o 7 d-molli, 9 C-duuri ja 10 h-molli (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          04:00 Skrjabin: Viisi preludia pianolle (Emil Gilels).
+
+          04:07 Gershwin: Catfish Row sarja orkesterille oopp. Porgy and Bess (William Tritt, piano, Timothy Berens, banjo, Cincinnati Pops -ork./Erich Kunzel). 
+
+          04:33 J. Strauss: Furioso-polkka (RSO/Ralf Kircher).
+
+          04:37 Saint-Saëns: Sonaatti klarinetille ja pianolle Es-duuri (Reginald Kell ja Brooks Smith).
+
+          04:56 Chopin: Masurkka n:o 20 Des-duuri (Gergely Bogányi, piano).
+
+          05:01 Tristan ja Isolde, keskiaikainen laulunäytelmä (Andrea von Ramm, kertoja, Henri Ledroit, kontratenori, Anne Azema ja Ellen Hargis, sopraano, Richard Morrison, baritoni, ja William Hite, tenori, sekä The Boston Camerata/Joel Cohen). 
+
+          06:11 J.S. Bach (sov. Verbrüggen): Sarja soolosellolle n:o 2 d-molli (Marion Verbrüggen, nokkahuilu)

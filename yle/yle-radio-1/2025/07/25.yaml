@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-23T02:43:50.608447+00:00'
+  generated_at: '2025-07-24T02:43:19.900436+00:00'
   git:
     branch: main
-    commit: 19846f966102a2169012440f1dcb554f88cdbe1c
-  data_hash: 0740ac5df4d33c602c6981a48d6433437b2b4ef0fd0ea0951378de1ec5c6b983
+    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
+  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
 data:
   Yle Radio 1:
     programmes:
@@ -221,40 +221,29 @@ data:
         end_time: '2025-07-25T19:02:00+03:00'
       - title: 'Kuhmon kamarimusiikki: Jatkotarinoita'
         start_time: '2025-07-25T19:02:00+03:00'
-        end_time: '2025-07-25T21:00:00+03:00'
+        end_time: '2025-07-25T19:53:00+03:00'
         description: |-
-          Kuhmo-talossa 21.7. tallennetun konsertin toimittaa Ainomaija Pennanen.
-
-          Improvisaatio,
-
-          Sergey Malov
+          Kuhmon kamarimusiikin Jatkotarinoita-konsertissa Johann Sebastian Bachin teokset kohtaavat improvisaation ja meidän aikamme musiikin. Konsertissa esiintyvät viulisti Sergey Malov sekä sellisti-säveltäjä Josefine Opsahl.
 
 
+          Improvisaatio 
 
+          J. S. Bach (1685–1750):
+          Preludi sellosarjasta nro 1 G-duuri BWV 1007 (1717-23)
+          Sergey Malov, violoncello da spalla
 
-          J. S. Bach: 
-          Preludi sellosarjasta nro 1 G-duuri BWV 1007
-
-          Sergey Malov
-
-
-
-          Josefine Opsah: Tide soolosellolle
-
-          Josefine Opsahl
-
-          , sello 
-
-          Josefine Opsahl: 
+          Josefine Opsahl (1992–):
+          Tide soolosellolle
           Core soolosellolle
-
           Josefine Opsahl, sello
 
-
-
-          J. S. Bach: 
-          Sonaatti nro 3 C-duuri BWV 1005 sooloviululle,
+          J. S. Bach (1685–1750):
+          Sonaatti nro 3 C-duuri BWV 1005 sooloviululle (1720) 
           Sergey Malov, viulu
+
+
+          Kuhmo-talossa 21.7. äänitetyn konsertin toimittaa Ainomaija Pennanen. Äänisuunnittelu ja sen toteutus: Antti Snellman ja Hannu Perälä. 
+
 
           Kuva: ©Kuhmon kamarimusiikki / Juuso Westerlund
       - title: Yle Uutiset
@@ -262,25 +251,25 @@ data:
         end_time: '2025-07-25T21:02:00+03:00'
       - title: 'Kiveen hakatut: Sylvi Saimo'
         start_time: '2025-07-25T21:05:00+03:00'
-        end_time: '2025-07-25T21:30:00+03:00'
+        end_time: '2025-07-25T21:33:05+03:00'
         description: |+
           Kuin karhun kädenpuristus - Sylvi Saimo.
           Toimittajina Arto Teronen ja Jouko Vuolle.
 
 
       - title: 'Kalle Haatanen: Jumalan synty'
-        start_time: '2025-07-25T21:35:00+03:00'
-        end_time: '2025-07-25T22:24:30+03:00'
+        start_time: '2025-07-25T21:34:27+03:00'
+        end_time: '2025-07-25T22:23:42+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: 'Tuuli Saksalan keidas: Keitaan kesämatkat – Napoli-sarja'
-        start_time: '2025-07-25T22:25:00+03:00'
-        end_time: '2025-07-25T23:15:00+03:00'
+        start_time: '2025-07-25T22:24:00+03:00'
+        end_time: '2025-07-25T23:14:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Aristoteleen kantapää: Suomen hassujen paikannimien taustat ovat aivan tavallisia'
-        start_time: '2025-07-25T23:15:30+03:00'
-        end_time: '2025-07-25T23:39:30+03:00'
+        start_time: '2025-07-25T23:14:54+03:00'
+        end_time: '2025-07-25T23:39:08+03:00'
         description: |
           Pasi Heikura seikkailee Suomen hassujen paikannimien seuduilla professori Terhi Ainialan kanssa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen

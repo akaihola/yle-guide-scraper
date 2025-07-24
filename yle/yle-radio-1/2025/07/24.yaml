@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-23T02:43:50.217338+00:00'
+  generated_at: '2025-07-24T02:43:19.348255+00:00'
   git:
     branch: main
-    commit: 19846f966102a2169012440f1dcb554f88cdbe1c
-  data_hash: 0740ac5df4d33c602c6981a48d6433437b2b4ef0fd0ea0951378de1ec5c6b983
+    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
+  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
 data:
   Yle Radio 1:
     programmes:
@@ -92,6 +92,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-07-24T08:10:00+03:00'
         end_time: '2025-07-24T09:00:00+03:00'
+        description: |-
+          Kolmas kertako toden sanoo? Ukrainan ja Venäjän rauhanneuvottelijat ovat Istanbulissa katsastamassa mahdollisuuksia edetä rauhan tielle. Kuinka käy, ovatko edellytykset muuttuneet yhtään suosiollisemmiksi sitten edellisen tapaamisen? Lomalla ei välttämättä ole mieli aurinkoinen, jos rahasta tekee tiukkaa ja lomailua joutuu rahoittamaan jopa velaksi. Kuinka väistää lomavelkaantumista? 
       - title: Yle Uutiset
         start_time: '2025-07-24T09:00:00+03:00'
         end_time: '2025-07-24T09:05:00+03:00'
@@ -240,19 +242,26 @@ data:
         start_time: '2025-07-24T19:02:00+03:00'
         end_time: '2025-07-24T20:15:00+03:00'
         description: |-
-          Ohjelmassa:
+          Kuhmon kamarimusiikin Sodan uhreille -konsertti tarjoaa kaksi kiehtovaa näkökulmaa sielunmessuun. 
+          Motetin “Libera me Domine” on säveltänyt belgialainen Joseph-Hector Fiocco, jonka musiikkia Scherzi Musicali -yhtye on esittänyt ja levyttänyt enemmänkin. 
+          Wolfgang Amadeus Mozartin “Requiem” lienee yksi maailman soitetuimmista teoksista. Kuhmossa siitä kuultiin uusi kamarimusiikillinen sovitus, jossa esiintyivät Theatre of Voices - ja Meta4-yhtyeet. 
 
-          Joseph-Hector Fiocco: Libera me domine
-          Scherzi Musicali -yhtye
+          Konsertti on omistettu maailmassa tällä hetkellä käytävien sotien uhreille. 
 
 
+          Joseph-Hector Fiocco (1703–1741): Libera me Domine 
+          Scherzi Musicali
 
-          W. A. Mozart: Requiem (Sielunmessu) d-molli KV 626 
-          (sov. vokaalikvartetille ja jousikvartetille Atte Kilpeläinen ja Meta4)
+          W. A. Mozart (1756–1791):
+          Requiem (Sielunmessu) d-molli KV 626 (1791, sov. vokaalikvartetille ja jousikvartetille Atte Kilpeläinen ja Meta4)
 
-          Theatre of Voices ja Meta4
+          Theatre of Voices
+          Meta4
 
-          Kuhmon kirkossa 20.7. tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Kuhmon kirkossa 20.7. äänitetyn konsertin on toimittanut Ainomaija Pennanen. 
+          Äänisuunnittelu ja sen toteutus: Antti Snellman ja Hannu Perälä. 
+
 
           Kuva: Meta4 ja Theatre of Voices (©Kuhmon kamarimusiikki / Jonas Kukkonen)
       - title: Yle Uutiset
@@ -260,16 +269,16 @@ data:
         end_time: '2025-07-24T21:02:00+03:00'
       - title: 'Kiveen hakatut: Jorma Pilkevaara'
         start_time: '2025-07-24T21:05:00+03:00'
-        end_time: '2025-07-24T21:30:00+03:00'
+        end_time: '2025-07-24T21:33:11+03:00'
         description: |
           Jorma Pilkevaara. Toimittajina Arto Teronen ja Jouko Vuolle.
       - title: 'Sorvali & Stellan - päätapahtumia: ‘’Hugh Grant yritti just iskeä sut!’’'
-        start_time: '2025-07-24T21:35:00+03:00'
-        end_time: '2025-07-24T22:08:00+03:00'
+        start_time: '2025-07-24T21:33:51+03:00'
+        end_time: '2025-07-24T22:16:49+03:00'
         description: |
           Miitan tie vei nuoruudessa au pairiksi Yhdysvaltoihin, Sanna suuntasi ensin Englantiin ja myöhemmin kiertämään maailmaa. Molemmat ovat  kohdanneet matkoillaan vaarallisia tilanteita, mutta myös odottamattomia onnenpotkuja. Molemmat uskalsivat lähteä kohti tuntematonta ja rakentaa omaa polkuaan perinteisten roolimallien ulkopuolella. 
       - title: 'Radioteatteri esittää: Puutarhakaupungin murhamysteerit, tapaus rönsylilja: Tuonelan tulvaoja'
-        start_time: '2025-07-24T22:30:30+03:00'
+        start_time: '2025-07-24T22:24:30+03:00'
         end_time: '2025-07-24T22:49:30+03:00'
         description: |-
           7/8. Puutarhakaupungissa on aikainen kesä, luonto tuntuu kuin räjähtävän kukkineen ja pesivine lintuineen. Aikainen kesä aiheuttaa puutarhakaupunkilaisissa myös poikkeuksellista levottomuutta. Paikallisen syväkurkun, Pike Puustisen parvekkeella kasvava rönsylilja alkaa rönsyillä epäilyttävän runsaasti, aivan kuin kasvi haluaisi kertoa jotain. Samaan aikaan metsästä löytyvät verinen teltta ja tavarat, mutta ei ruumista. Onko joku kuitenkin murhattu? Näin poliisipäällikkö Mirva Paukulla on jälleen edessään koko Puutarhakaupunkia ravisteleva mysteeri. Ja paikalle on kutsuttava salapoliisi Klaus “Lasu” Forsblom sekä työpari Ugge Imbo. Ehtiikö kaksikko viettää myös kesälomaa mysteerin selvittämisen tuoksinnassa?
@@ -284,6 +293,11 @@ data:
           Rooleissa: Jarkko Pajunen, Emilia Sinisalo, Ursula Salo, Sari Mällinen, Antti Lang, Vilma Hartikainen, Jukka Pitkänen, Sarah Puukka, Kaija Kärkinen, Tero Koponen ja Pekka Autiovuori.
           Tuotantokoordinaattori: Eveliina Solja.
           Tuotanto: Laura Jaakkola, Yle Draama 2025.
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Pienet liikkeet, syvät jäljet'
+        start_time: '2025-07-24T22:54:31+03:00'
+        end_time: '2025-07-24T23:50:48+03:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen
         start_time: '2025-07-25T00:00:00+03:00'
         end_time: '2025-07-25T06:30:00+03:00'

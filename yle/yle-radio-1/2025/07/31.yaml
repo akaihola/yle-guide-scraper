@@ -1,15 +1,24 @@
 metadata:
-  generated_at: '2025-07-23T02:43:52.572048+00:00'
+  generated_at: '2025-07-24T02:43:22.762628+00:00'
   git:
     branch: main
-    commit: 19846f966102a2169012440f1dcb554f88cdbe1c
-  data_hash: 0740ac5df4d33c602c6981a48d6433437b2b4ef0fd0ea0951378de1ec5c6b983
+    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
+  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
 data:
   Yle Radio 1:
     programmes:
       - title: Hartaita säveliä
         start_time: '2025-07-31T06:30:50+03:00'
         end_time: '2025-07-31T06:50:00+03:00'
+        description: |+
+          Klemetti (sov. Turpela): Taas siunattu päivä nyt luo valoaan (Reisjärven kristillisen opiston kuoro/Susanna Pöyhtäri, Lassi Mäkelä, laulu, ja soitinyhtye).
+
+          Koraalitoisinto: Ah herää, sydämeni (Martti Talvela, basso, ja Pentti Savolainen, urut).
+
+          Tallis - Ravenscroft: Tuo siunaus nyt koteihin (Tapiolan kamarikuoro/Timo Pihkanen, sekä Pekka Suikkanen, urut).
+
+          Laaksonen: Valon hymni (Sauli Ahvenjärvi, bassobaritoni, ja Jouko Kantola, piano).
+
       - title: Aamuhartaus
         start_time: '2025-07-31T06:50:00+03:00'
         end_time: '2025-07-31T06:59:59+03:00'
@@ -160,6 +169,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-07-31T18:35:00+03:00'
         end_time: '2025-07-31T18:50:00+03:00'
+        description: |+
+          Tallis: O nata lux de lumine (Cambridgen Clare Collegen kuoro/Timothy Brown).
+
+          Krank (sov. Turpela): Kirkasta, oi Kristus (Mieskuoro Weljet, Heikki Rainio, tenori, ja kam.ork. Religioso/Olli Heikkilä).
+
+          Moberg: Nyt pelko pois (Gospel Covertajat).
+
+          Huhtala: Rinnallakulkija (Nina Åström).
+
       - title: Iltahartaus
         start_time: '2025-07-31T18:50:00+03:00'
         end_time: '2025-07-31T19:00:00+03:00'
