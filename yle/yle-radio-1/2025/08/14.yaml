@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-24T02:43:27.901651+00:00'
+  generated_at: '2025-07-25T02:43:05.093766+00:00'
   git:
     branch: main
-    commit: 3298ed101ef5f5637fe28cedd00cec63595105af
-  data_hash: a9886d14b3f91af4828f286cf7fea5344b98c3dbf341bb57bd9481b07a5cf720
+    commit: ec1edaf8a872cacc475a448f8798f6b0c5e06ee2
+  data_hash: a642bf9ff64a2108adf645f104f8d57288262b1d076f9f685f7bc5347c6b5fff
 data:
   Yle Radio 1:
     programmes:
@@ -21,6 +21,30 @@ data:
         description: |
           "Hyviä siemeniä"
           Päätoimittaja Ilkka Enkenberg Siuntiosta puhuu demokratian ja kristinuskon suhteesta.
+      - title: Aamusoitto
+        start_time: '2025-08-14T07:10:00+03:00'
+        end_time: '2025-08-14T07:59:59+03:00'
+        description: |+
+          Popper: Piiritanssi (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Beethoven: Allegro con brio - Presto baletista Die Geschöpfe des Prometheus (Orpheus-kamariorkesteri).
+
+          F. Couperin: Herätyskello (Angela Hewitt, piano).
+
+          Anna Bon: Divertimento n:o 2 D-duuri (Sabine Dreier, traverso, Peter Spohr, traverso, Rhoda Patrick, fagotti, Tatjana Geiger, cembalo, ja Thorsten Bleich, arkkiluuttu).
+
+          Satie (sov. Debussy): Gymnopedie nro 1 (Orpheus-kamariork.).
+
+          Tosti: L' Alba separa dalla luce l'ombra (Auringonnousu valollaan karkottaa yön varjot) (Freddie De Tommaso, tenori, ja Lontoon FO/Renato Balsadonna). 
+
+          Debussy: La Plus que lente, valssi pianolle (Izumi Tateno). 
+
+          Prokofjev: Aamusoitto bal. Romeo ja Julia (Tshaikovski-kamariork./Lazar Gosman).
+
+          Melartin: Perhosvalssi (Tampere Filharmonia/Leif Segerstam).
+
+          Ries: La Capricciosa (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
       - title: Ykkösaamu
         start_time: '2025-08-14T08:10:00+03:00'
         end_time: '2025-08-14T09:00:00+03:00'
