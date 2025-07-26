@@ -1,12 +1,17 @@
 metadata:
-  generated_at: '2025-07-25T02:43:02.664330+00:00'
+  generated_at: '2025-07-26T02:40:04.409074+00:00'
   git:
     branch: main
-    commit: ec1edaf8a872cacc475a448f8798f6b0c5e06ee2
-  data_hash: a642bf9ff64a2108adf645f104f8d57288262b1d076f9f685f7bc5347c6b5fff
+    commit: d23fb7a25c541a602624f9a52351725ddcd6260d
+  data_hash: 73da04c0c17ef16753264e5fbe2ab3203738e0237dea2a5028451ab58b2d24d5
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-08-04T23:40:00+03:00'
+        end_time: '2025-08-05T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
       - title: Hartaita säveliä
         start_time: '2025-08-05T06:30:50+03:00'
         end_time: '2025-08-05T06:50:00+03:00'
@@ -253,3 +258,8 @@ data:
         end_time: '2025-08-05T22:29:30+03:00'
         description: |-
           Miten saavuttaa mielenrauha, kun maailma ympärillä myrskyää? Onko se edes mahdollista? Kyllä, sanovat kouluttajapsykoterapeutti Maaret Kallio sekä stoalaiseen filosofiaan perehtynyt kirjailija, kouluttaja Juhana Torkki.
+      - title: Yöklassinen
+        start_time: '2025-08-05T23:40:00+03:00'
+        end_time: '2025-08-06T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
