@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-26T02:40:01.926845+00:00'
+  generated_at: '2025-07-27T02:49:47.498609+00:00'
   git:
     branch: main
-    commit: d23fb7a25c541a602624f9a52351725ddcd6260d
-  data_hash: 73da04c0c17ef16753264e5fbe2ab3203738e0237dea2a5028451ab58b2d24d5
+    commit: 010950d9b2fff2fe6c2a1c929ad080e05ee0057e
+  data_hash: df58ca07ef34c9f9db28d0ac7668ffbb959af0c9ed0e0f328ffd22754637b973
 data:
   Yle Radio 1:
     programmes:
@@ -190,6 +190,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-08-02T17:00:00+03:00'
         end_time: '2025-08-02T17:10:00+03:00'
+      - title: 'Tavallisten ihmisten historia 2/3: Ruotsalaiset ruotusotilaat Hämeessä'
+        start_time: '2025-08-02T17:10:00+03:00'
+        end_time: '2025-08-02T17:57:00+03:00'
+        description: |
+          Syksyllä 1721 Suomeen tuli tuhansia uusia ulkomaalaisia. Suuri Pohjansota oli syönyt miehiä Ruotsin armeijan suomalaisista joukko-osastoista. Heitä korvaamaan lähetettiin ruotsalaisia ruotusotilaita.
+
+          Heikki Vuorimies on väitöskirjassaan selvittänyt, kuinka nuoret, vierasta kieltä puhuvat miehet kotoutuivat Hämeen maaseutukyliin. Ohjelman toimittaa Virpi Väisänen.
       - title: Hankasalmen kirkon kellot
         start_time: '2025-08-02T18:00:00+03:00'
         end_time: '2025-08-02T18:01:00+03:00'
