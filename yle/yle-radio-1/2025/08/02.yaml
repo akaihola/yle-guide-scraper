@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-28T02:48:18.979981+00:00'
+  generated_at: '2025-07-29T02:50:29.535393+00:00'
   git:
     branch: main
-    commit: 2b89a12632fcd517b07ea1fa24d1ac46c62a6a29
-  data_hash: 6afbf9a5e6964faa298f98f18e189ab022011afc3c4878042f0c13b0540a614c
+    commit: 23fcf601b16b5e11d2bd1e3a386eace44a072d20
+  data_hash: 166e8b1a4858c3c65f6bdb28fce72e6e300c5afc2bbadeeb380355e903a00c26
 data:
   Yle Radio 1:
     programmes:
@@ -252,22 +252,27 @@ data:
           Kuvassa: Jukka Untamala ja Niko Kumpuvaara (Kuva: Maarit Kytöharju)
       - title: 'Kiveen hakatut: Jalkapalloilija, näyttelijä-ohjaaja Åke Lindman'
         start_time: '2025-08-02T21:03:00+03:00'
-        end_time: '2025-08-02T21:32:00+03:00'
+        end_time: '2025-08-02T21:32:04+03:00'
         description: |
           Haudan äärellä Taitelijakukkulalla ovat Arto Teronen ja Jouko Vuolle. 
-      - title: Maailman tärkein pieni asia
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2025-08-02T21:32:30+03:00'
+        end_time: '2025-08-02T21:57:00+03:00'
+      - title: 'Maailman tärkein pieni asia: Arto Satonen rakastaa shakkia'
         start_time: '2025-08-02T22:00:30+03:00'
-        end_time: '2025-08-02T22:20:00+03:00'
+        end_time: '2025-08-02T22:18:40+03:00'
+        description: |
+          Shakki on avannut kansanedustaja Arto Satoselle maailmaa jo teini-iästä lähtien. Toimittajana Maija Salminen.  
       - title: 'Kielen päällä: Kirjoittamalla voi avata oman mielen solmujaan'
         start_time: '2025-08-02T22:20:30+03:00'
         end_time: '2025-08-02T22:30:00+03:00'
         description: |
           Sanataideohjaaja ja Ylen kielenhuoltaja Riitta Hyvärinen kertoo kirjoittamisen terapeuttisesta vaikutuksesta. Toimittajana on Jari Aula. Ohjelma on uusinta lokakuulta 2024.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Lissabon'
         start_time: '2025-08-02T22:30:30+03:00'
-        end_time: '2025-08-02T23:29:30+03:00'
+        end_time: '2025-08-02T23:29:33+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Heinäkuun teemasarjan viimeisessä jaksossa saavumme fadon kotikaupunkiin. Täällä asuivat fadon kansalliset ikonit Amália Rodrigues ja Carlos do Carmo, mutta myös lajin nykyiset suosikit, kuten Mariza, Cristina Branco ja Carminho. Vaikka ei Lissabon ole pelkkää fadoa, merelliset yhteydet Lusofonian musiikkeihin ovat vahvat. Toimittaja Mika Kauhanen kipusi Alfaman kukkuloille viimeksi toukokuussa.
       - title: Yöklassinen
         start_time: '2025-08-02T23:40:00+03:00'
         end_time: '2025-08-03T07:00:00+03:00'

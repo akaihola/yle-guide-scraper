@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-28T02:48:20.351520+00:00'
+  generated_at: '2025-07-29T02:50:30.745899+00:00'
   git:
     branch: main
-    commit: 2b89a12632fcd517b07ea1fa24d1ac46c62a6a29
-  data_hash: 6afbf9a5e6964faa298f98f18e189ab022011afc3c4878042f0c13b0540a614c
+    commit: 23fcf601b16b5e11d2bd1e3a386eace44a072d20
+  data_hash: 166e8b1a4858c3c65f6bdb28fce72e6e300c5afc2bbadeeb380355e903a00c26
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,35 @@ data:
         start_time: '2025-08-05T23:40:00+03:00'
         end_time: '2025-08-06T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Cimarosa: Huilukvartetto n:o 1 D-duuri (Laura Pontecorvo, huilu, ja Arte dell'arco).
+
+          23:54 Mascagni: Ratcliffin monologi oopp. Guglielmo Ratcliff (José Cura, tenori, ja Philharmonia-ork.).
+
+          00:04 Schumann: Kvintetto pianolle ja jousille Es-duuri (Robert Schumann -yhtye).
+
+          00:34 Beethoven: Sinfonia n:o 4 B-duuri (Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          01:11 Schubert: Kuusi yksinlaulua kok. Schwanengesang (Jaakko Ryhänen, basso, ja Pentti Kotiranta, piano).
+
+          01:29 W.A. Mozart: Sinfonia n:o 39 Es-duuri (Clevelandin ork./Christoph von Dohnanyi). 
+
+          01:58 Händel: 12 Concerto grossoa op. 6 (Orpheus-kamariork.)
+
+          04:42 Gluck: Autuaitten sielujen karkelo oopp. Orfeus ja Eurydike (Yuval Yaron, viulu, ja Jeremy Denk, piano).
+
+          04:46 Dvorák: Scherzo capriccioso (Baltimoren SO/Marin Alsop)
+
+          05:02 Bartók: Ihmeellinen mandariini (Rotterdamin FO/Valeri Gergijev).
+
+          05:23 Ewald: Kvintetto vaskipuhaltimille n:o 1 b-molli (Philadelphian orkesterin vaskiyhtye/Christoph Eschenbach).
+
+          05:38 J. Haydn: Jousikvartetto n:o 30 D-duuri (The Angeles String Quartet). 
+
+          05:57 Joachim: Heprealaisia sävelmiä (Michael Gieler, alttoviulu, ja Lauretta Bloomer, piano).
+
+          06:15 Stolz: Valssi elok. Kaksi sydäntä valssin tahdissa (Cincinnati Pops/Erich Kunzel).
+
+          06:19 J.S. Bach: Osia kantaatista n:o 51 (Jauchzet Gott in allen Landen) (Kathleen Battle, sopraano, Wynton Marsalis, trumpetti, ja St. Luken ork./John Nelson).
       - title: Hartaita säveliä
         start_time: '2025-08-06T06:30:50+03:00'
         end_time: '2025-08-06T06:50:00+03:00'
@@ -27,8 +55,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-08-06T06:50:00+03:00'
         end_time: '2025-08-06T06:59:59+03:00'
-        description: |-
-          Dosentti, viininviljelijä Kari Latvus, Tampere
+        description: |
+          "Jumalan ja totuuden etsijä"
+          Dosentti, viininviljelijä Kari Latvus Tampereelta muistelee omaelämäkerrallisen hartaussarjansa toisessa osassa tietään raamatuntutkijaksi sekä nuoruutensa kysymystä: Onko Jumala totta?
       - title: Aamusoitto
         start_time: '2025-08-06T07:10:00+03:00'
         end_time: '2025-08-06T07:59:59+03:00'
