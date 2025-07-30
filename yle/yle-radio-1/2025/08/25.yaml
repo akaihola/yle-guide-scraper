@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-07-29T02:50:34.654935+00:00'
+  generated_at: '2025-07-30T02:46:05.518075+00:00'
   git:
     branch: main
-    commit: 23fcf601b16b5e11d2bd1e3a386eace44a072d20
-  data_hash: 166e8b1a4858c3c65f6bdb28fce72e6e300c5afc2bbadeeb380355e903a00c26
+    commit: 5be87b025f3d2c477f791ed1e7bcade50840bdd4
+  data_hash: b53a3876d7d39f4ef57243e60c2f7b2e83911c45fac1f3509e29b38a6d0c353c
 data:
   Yle Radio 1:
     programmes:
@@ -75,6 +75,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-08-25T16:10:00+03:00'
         end_time: '2025-08-25T16:59:00+03:00'
+        description: |-
+          J.S. Bach: Bourree 1 ja 2 sarjasta orkesterille n:o 4 D-duuri  (Zefiro/Alfredo Bernardini).
+
+          Bronsart: Elegie C-duuri (Senja Rummukainen, sello, ja Kirill Kozlovski, piano).
+
+          Graf: Allegro jousikvartetosta G-duuri (Kokkola-kvartetti).
+
+          Verdi: Ebolin huntulaulu "Nei giardin del bello" oopp. Don Carlos (Elina Garanca, mezzosopraano, Jennifer O'Loughlin, sopraano, sekä Cor de la Generalitat Valenciana ja Orquestra de la Comunitat Valenciana/Roberto Abbado).
+
+          Ravel: Habaneran tapaan (Nadege Rochat, sello, Rafael Aguirre, kitara).
+
+          Palmgren: Eksoottinen marssi (Pori Sinfonietta/Jan Söderblom). 
+
+          Händel: Ombra mai fu - aaria oopperasta Serse (Franco Fagioli, kontratenori, ja Il Pomo d'oro -kamariork./Zefira Valova, viulu). 
+
+          Schumann: Adagio As-duuri käyrätorvelle ja pianolle (Alec Frank-Gemmill ja Alasdair Beatson).
+
+          Meyerbeer: Pays merveilleux - O paradis -aaria oopperasta Afrikatar (Jonas Kaufmann, tenori, ja Baijerin valtionork./Bertrand de Billy). 
+
+          Saint-Säens: Allegro appassionato (Alexandre Kantorow, piano, ja Tapiola Sinfonietta/Jean-Jacques Kantorow). 
       - title: Yle Uutiset ja sää
         start_time: '2025-08-25T17:00:00+03:00'
         end_time: '2025-08-25T17:10:00+03:00'
@@ -91,8 +111,12 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-08-25T18:35:00+03:00'
         end_time: '2025-08-25T18:50:00+03:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |-
+          Häkkinen: Saanhan, Herra, huolta vailla (Juha Vintturi, laulu,  Inna Vintturi, huilu ja laulu, sekä Miika Vintturi, piano). 
+
+          Koraalitoisinto Pohjois-Savosta: Sinuhun turvaan, Jumala, virsi 382 (Jorma Hynninen, baritoni, ja Kalevi Kiviniemi, urut).
+
+          Salminen (sov. A.-L. Ranta): Tuulien teitä (Ylöjärven Seurakunnan Lapsikuoro/Aija-Leena Ranta, Hanna-Riikka Syrjälä, piano, Inkeri Rapio, kellot, ja Vilhelmiina Kiviniemi, ksylofoni).
       - title: Iltahartaus
         start_time: '2025-08-25T18:50:00+03:00'
         end_time: '2025-08-25T19:00:00+03:00'
