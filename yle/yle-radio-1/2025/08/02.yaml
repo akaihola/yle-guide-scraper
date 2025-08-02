@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-01T02:52:17.058381+00:00'
+  generated_at: '2025-08-02T02:40:17.397617+00:00'
   git:
     branch: main
-    commit: 466bf84188b1e770004d0aa20a63791e9cebd04a
-  data_hash: eba312681b77f2b46d17b61b8b062824e704e5e21718f42031687896d43d5c76
+    commit: 8b589bc331fca339293a217d0491e20b347e15f5
+  data_hash: 6cfb849b91ac6d283938e8913f9dc0d6b1158204baa1431f84e3cbf2c577bad5
 data:
   Yle Radio 1:
     programmes:
@@ -42,7 +42,7 @@ data:
         description: |
           Toimittajana Jarmo Laitaneva. 
       - title: Yksi on hyvää seuraa
-        start_time: '2025-08-02T07:54:25+03:00'
+        start_time: '2025-08-02T07:54:19+03:00'
         end_time: '2025-08-02T08:00:00+03:00'
       - title: Hartaita säveliä
         start_time: '2025-08-02T08:05:00+03:00'
@@ -112,6 +112,17 @@ data:
         end_time: '2025-08-02T12:00:00+03:00'
         description: |-
           Liisa Laukkarisen runo On opittava ymmärtämään kokoelmasta Huomisen tausta. 
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2025-08-02T12:05:00+03:00'
+        end_time: '2025-08-02T12:30:00+03:00'
+        description: |-
+          EU yrittää säädellä asuntojen lyhytvuokrausta matkailijoille, jotta alan ongelmat saataisiin aisoihin.
+
+          Monessa eurooppalaiskaupungissa vuokrataso on noussut paikallisille kestämättömäksi lyhytvuokrauksen vauhdittamana. Samaan aikaan myös ilmastonmuutos pakottaa turismialaa muutokseen, kun helleaallot vaikeuttavat eteläisen Euroopan kesäsesonkia.
+
+          Millaisessa muutoksessa matkailuala massaturismin ja ilmastonmuutoksen paineessa on?
+
+          Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Jenny Matikainen, Erja Tuomaala, Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko.
       - title: 'Outopodcast: Kuulijatarinat: Vainajia liikkeellä'
         start_time: '2025-08-02T12:30:00+03:00'
         end_time: '2025-08-02T13:02:00+03:00'
@@ -222,15 +233,18 @@ data:
         start_time: '2025-08-02T18:10:00+03:00'
         end_time: '2025-08-02T19:00:00+03:00'
         description: |
-          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-02T19:00:00+03:00'
         end_time: '2025-08-02T19:02:00+03:00'
       - title: 'Meidän Festivaali: Loppukonsertti Lillyn Hengessä'
         start_time: '2025-08-02T19:02:00+03:00'
-        end_time: '2025-08-02T20:40:00+03:00'
-        description: |-
+        end_time: '2025-08-02T20:56:00+03:00'
+        description: |
           Meidän Festivaali 2025 huipentuu jo legendaariseen maineeseen kohonneisiin iltamiin Jokelan tiilitehtaalla. Sokerina pohjalla on Marzi Nymanin uuden teoksen maailmankantaesitys. 31.7. Jokelan tiilitehtaalla tallennetun konsertin toimittaa Ahti Paunu.
+      - title: Yle Uutiset
+        start_time: '2025-08-02T21:00:00+03:00'
+        end_time: '2025-08-02T21:02:05+03:00'
       - title: 'Kiveen hakatut: Jalkapalloilija, näyttelijä-ohjaaja Åke Lindman'
         start_time: '2025-08-02T21:02:41+03:00'
         end_time: '2025-08-02T21:31:45+03:00'
@@ -238,22 +252,42 @@ data:
           Haudan äärellä Taitelijakukkulalla ovat Arto Teronen ja Jouko Vuolle.  
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-08-02T21:32:23+03:00'
-        end_time: '2025-08-02T21:57:00+03:00'
+        end_time: '2025-08-02T21:56:47+03:00'
+        description: |-
+          EU yrittää säädellä asuntojen lyhytvuokrausta matkailijoille, jotta alan ongelmat saataisiin aisoihin.
+
+          Monessa eurooppalaiskaupungissa vuokrataso on noussut paikallisille kestämättömäksi lyhytvuokrauksen vauhdittamana. Samaan aikaan myös ilmastonmuutos pakottaa turismialaa muutokseen, kun helleaallot vaikeuttavat eteläisen Euroopan kesäsesonkia.
+
+          Millaisessa muutoksessa matkailuala massaturismin ja ilmastonmuutoksen paineessa on?
+
+          Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Jenny Matikainen, Erja Tuomaala, Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko.
       - title: 'Maailman tärkein pieni asia: Arto Satonen rakastaa shakkia'
-        start_time: '2025-08-02T21:57:20+03:00'
-        end_time: '2025-08-02T22:15:30+03:00'
+        start_time: '2025-08-02T21:57:18+03:00'
+        end_time: '2025-08-02T22:15:28+03:00'
         description: |
           Shakki on avannut kansanedustaja Arto Satoselle maailmaa jo teini-iästä lähtien. Toimittajana Maija Salminen.  
       - title: 'Kielen päällä: Kirjoittamalla voi avata oman mielen solmujaan'
-        start_time: '2025-08-02T22:16:00+03:00'
-        end_time: '2025-08-02T22:25:30+03:00'
+        start_time: '2025-08-02T22:15:42+03:00'
+        end_time: '2025-08-02T22:25:12+03:00'
         description: |
           Sanataideohjaaja ja Ylen kielenhuoltaja Riitta Hyvärinen kertoo kirjoittamisen terapeuttisesta vaikutuksesta. Toimittajana on Jari Aula. Ohjelma on uusinta lokakuulta 2024.
       - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Lissabon'
-        start_time: '2025-08-02T22:25:59+03:00'
-        end_time: '2025-08-02T23:25:00+03:00'
+        start_time: '2025-08-02T22:25:54+03:00'
+        end_time: '2025-08-02T23:24:57+03:00'
         description: |
           Heinäkuun teemasarjan viimeisessä jaksossa saavumme fadon kotikaupunkiin. Täällä asuivat fadon kansalliset ikonit Amália Rodrigues ja Carlos do Carmo, mutta myös lajin nykyiset suosikit, kuten Mariza, Cristina Branco ja Carminho. Vaikka ei Lissabon ole pelkkää fadoa, merelliset yhteydet Lusofonian musiikkeihin ovat vahvat. Toimittaja Mika Kauhanen kipusi Alfaman kukkuloille viimeksi toukokuussa.
+      - title: Radio 1 soi
+        start_time: '2025-08-02T23:24:57+03:00'
+        end_time: '2025-08-02T23:28:38+03:00'
+        description: |-
+          Mascagni: Intermezzo oopp. Cavalleria rusticana (Boston Pops/Arthur Fiedler). 
+      - title: 'Eilisen ääni: Naiset keksijöinä'
+        start_time: '2025-08-02T23:29:22+03:00'
+        end_time: '2025-08-02T23:39:00+03:00'
+        description: |-
+          Naiset hakevat kohtuuttoman harvoin hyville ideoileen patentin. Vuonna 1999 julistettiinkin valtakunnallinen naisten ideakilpailu ja esiteltiin suomalaisten naiskeksijöiden tuotantoa näyttelyssä. Petteri Savolainen alusti aiheeseen Tänään iltapäivällä-lähetyksessä.
+
+          Ohjelman ensilähetys oli 7.6.1999.
       - title: Yöklassinen
         start_time: '2025-08-02T23:40:00+03:00'
         end_time: '2025-08-03T07:00:00+03:00'
