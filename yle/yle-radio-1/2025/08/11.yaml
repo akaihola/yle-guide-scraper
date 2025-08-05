@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:51:55.482857+00:00'
+  generated_at: '2025-08-05T02:47:57.148391+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -54,7 +54,8 @@ data:
         start_time: '2025-08-11T06:50:00+03:00'
         end_time: '2025-08-11T06:59:59+03:00'
         description: |-
-          Teologi Amu Urhonen, Tampere
+          "Sanat rakentavat todellisuutta"
+          Teologi Amu Urhonen Tampereelta puhuu sanojen ja kielen valtavasta vallasta sekä sanojen käyttöön liittyvästä suuresta vastuusta.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-11T07:00:00+03:00'
         end_time: '2025-08-11T07:10:00+03:00'
@@ -125,11 +126,17 @@ data:
       - title: Yle Uutiset
         start_time: '2025-08-11T15:00:00+03:00'
         end_time: '2025-08-11T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Hakaristin historiaa'
         start_time: '2025-08-11T15:02:00+03:00'
         end_time: '2025-08-11T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Maailmanpolitiikan professori Teivo Teivaisen kirja hakaristin historiasta julkaistaan tänään maanantaina. Yksinkertainen kuvio tunnetaan kautta maailman eri kulttuureissa ja sen merkitys vaihtelee onnenamuletista äärimmäisen poliittisen ideologian symboliksi. 
+
+          Natsi-Saksa löysi hakaristin kuvaamaan arjalaisia juuria, mutta samainen tunnus - tosin hakakuvio kyljelleen kääntyneenä koristi Suomen ilmavoimien tunnusta vielä 1990-luvulle asti. Mikä tämän selitti?
+
+          Hakaristin historiasta, käytöstä ja kulttuurisesta latauksesta on keskustelemassa Teivo Teivaisen kanssa symbolitutkija, tietokirjailija Liisa Väisänen, jolta on myös ilmestynyt tuore teos Suomi-neito ja leijona. Kirjassa käsitellään myyttisten naisten symbolista roolia kansakuntien omissa kertomuksissa. Kolmas keskustelija ohjelmassa on tutkija Tuomas Tepora Helsingin yliopistosta.
+
+          Ville Talola toimittaa.
       - title: Yle News
         start_time: '2025-08-11T15:55:00+03:00'
         end_time: '2025-08-11T15:58:00+03:00'

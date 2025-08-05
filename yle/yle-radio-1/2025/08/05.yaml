@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:51:53.878462+00:00'
+  generated_at: '2025-08-05T02:47:55.010520+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -80,6 +80,11 @@ data:
       - title: Ykkösaamu
         start_time: '2025-08-05T08:10:00+03:00'
         end_time: '2025-08-05T09:00:00+03:00'
+        description: |
+          Hallitus valmistautuu syksyn budjettiriiheen. Sitä pohjustaakseen valtiovarainministeriön budjettipäällikkö Mika Niemelä sanoi viime viikolla, että julkiseen talouteen tarvitaan vielä noin miljardin euron lisäsopeutukset tällä vaalikaudella. Niemelä kehotti "perkaamaan" vielä mm. yritystuet. Ajatus ei ole uusi, mutta onko nyt toimien aika. Keskustelemassa kansanedustajat Pauli Aalto-Setälä (kok.), Tuomas Kettunen (kesk.) ja Miapetra Kumpula-Natri (sd.). 
+          Toimittaja Rain Kooli Tallinnasta kertoo, miten afrikkalainen sikarutto leviää taas Viron sikaloissa. 
+          Lisäksi keskustelemme yleistyvien pitkien hellejaksojen vaikutuksesta Suomen luontoon ja ruoantuotantoon. Vierainamme ympäristönmuutoksen professori Atte Korhola Helsingin yliopistosta ja erikoistutkija Marja Jalli Luonnonvarakeskuksesta. 
+          Juontaja Markus Liimatainen.
       - title: Yle Uutiset
         start_time: '2025-08-05T09:00:00+03:00'
         end_time: '2025-08-05T09:05:00+03:00'
@@ -205,7 +210,7 @@ data:
         start_time: '2025-08-05T17:10:00+03:00'
         end_time: '2025-08-05T17:34:20+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Keskustelu Palestiinan tunnustamisesta on kiihtynyt viime päivinä. Tunnustaminen on herättänyt tunteita puolesta ja vastaan. Nyt isot länsimaat, kuten Kanada, Ranska ja Iso-Britannia ovat tunnustamassa Palestiinan, mutta mikä merkitys tällä on? Tuoko Palestiinan tunnustaminen muutoksen konfliktiin, ja miten Suomi tunnustamiskysymyksessä asemoituu? Atte Uusinokan vieraana on Helsingin yliopiston väitöskirjatutkija Bruno Jäntti. 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-08-05T17:35:00+03:00'
         end_time: '2025-08-05T18:30:00+03:00'
@@ -248,7 +253,7 @@ data:
         description: |
           "Myrskypilvien takaa paljastuu kirkas taivas"
           Opiskelija Annu-Tuulia Kehusmaa, Babtistiyhdyskunta, Turusta puhuu elämän myrskyjenkin keskellä askeleitamme johdattavasta Jeesuksesta.
-      - title: 'A Floating Body of  a Cloud '
+      - title: 'Ääniversumi: A Floating Body of a Cloud'
         start_time: '2025-08-05T19:02:00+03:00'
         end_time: '2025-08-05T19:30:00+03:00'
         description: |
@@ -264,23 +269,23 @@ data:
         description: |
           Kertomuksia täydellisestä keksinnöstä. Toimittajana JP Pulkkinen.
       - title: 'Romanitarinoita - Dimitri Grönfors: Seppo Lindgrenin matka lastenkodista lähetystyöntekijäksi'
-        start_time: '2025-08-05T20:20:00+03:00'
-        end_time: '2025-08-05T20:45:00+03:00'
+        start_time: '2025-08-05T20:19:20+03:00'
+        end_time: '2025-08-05T20:46:20+03:00'
         description: |
           Seppo Lindgren on pienestä pitäen joutunut selviytymään itsekseen. Jo varhaislapsuudessa Seppo sijoitettiin lastenkotiin. Sieltä tie kulki ankaraan sijoitusperheeseen ja jälleen lastenkotiin. Vaikka elämä oli turvatonta, Seppo oivalsi, että katkeruus ei auta häntä eteenpäin.
       - title: Musiikkikamari
-        start_time: '2025-08-05T20:45:00+03:00'
+        start_time: '2025-08-05T20:46:20+03:00'
         end_time: '2025-08-05T21:00:00+03:00'
         description: |2+
 
       - title: 'Kiveen hakatut: Timo Mäkinen - rallimaestro'
         start_time: '2025-08-05T21:05:00+03:00'
-        end_time: '2025-08-05T21:30:00+03:00'
+        end_time: '2025-08-05T21:34:02+03:00'
         description: |-
           Arto Teronen ja Jouko Vuolle muistelevat mestarikuljettaja Timo Mäkistä, jonka upeat voitot nostivat Suomessa 1960-luvulla todellisen rallikuumeen.
       - title: 'Sari Valto: Kaipaatko mielenrauhaa? Ota stoalaisilta oppia'
         start_time: '2025-08-05T21:35:00+03:00'
-        end_time: '2025-08-05T22:29:30+03:00'
+        end_time: '2025-08-05T22:29:35+03:00'
         description: |-
           Miten saavuttaa mielenrauha, kun maailma ympärillä myrskyää? Onko se edes mahdollista? Kyllä, sanovat kouluttajapsykoterapeutti Maaret Kallio sekä stoalaiseen filosofiaan perehtynyt kirjailija, kouluttaja Juhana Torkki.
       - title: Yöklassinen

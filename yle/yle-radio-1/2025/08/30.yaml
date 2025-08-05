@@ -1,17 +1,19 @@
 metadata:
-  generated_at: '2025-08-04T02:52:00.051640+00:00'
+  generated_at: '2025-08-05T02:48:03.247360+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Juha Itkonen - Kerron sinulle kaiken'
         start_time: '2025-08-30T07:31:00+03:00'
         end_time: '2025-08-30T07:56:00+03:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Kirjailija Juha Itkosen uudessa Kerron sinulle kaiken -romaanissa viisikymppinen päähenkilö Lasse kohtaa sattumalta nuoruudenrakkautensa Marjan. Rakkaus syttyy uudestaan. Aluksi onnen tiellä ei tunnu olevan mitään, mutta sitten käy niin kuin rakkausushteissa usein. Ensin tulee pientä hankausta ja sitten ongelmia, jotka pakottavat rakastavaiset kysymään itseltään mikä elämässä on olennaista: vapaus, sitoutuminen, totuus vai pieni valhe. Suhteen syventyessä ja sivujen edetessä lukijakin alkaa pohtia omaa elämäänsä ja pääsee Lassen tavoin kurkistamaan omien rakkaussuhteidensa ja valintojensa taakse.
+
+          Luomiskertomuksen vieraana on kirjailija Juha Itkonen ja toimittaja Jukka Kuosmanen.
       - title: Hartaita säveliä
         start_time: '2025-08-30T08:05:00+03:00'
         end_time: '2025-08-30T08:25:00+03:00'

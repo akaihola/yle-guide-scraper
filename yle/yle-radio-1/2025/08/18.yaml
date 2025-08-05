@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:51:57.208608+00:00'
+  generated_at: '2025-08-05T02:47:59.795464+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -37,6 +37,25 @@ data:
       - title: Aamusoitto
         start_time: '2025-08-18T07:10:00+03:00'
         end_time: '2025-08-18T07:59:59+03:00'
+        description: |+
+          Rameau: Alkusoitto orkesterisarjasta Zoroastre (Les Concert des Nations/Jordi Savall).
+
+          Toselli: Serenata (Kerava-kvartetti sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso).
+
+          J. Haydn: Allegretto G-duuri (Ronald Brautigam, fortepiano).
+
+          Chopin - Tárrega: Preludi n:o 15 Des-duuri (Timo Korhonen, kitara).
+
+          Busoni: Moderato ma con brio Pienestä sarjasta sellolle ja pianolle (Dorothy Lawson ja Steven Blier). 
+
+          D. Scarlatti: Sonaatti D-duuri (John Browning).
+
+          Vivaldi: Allegro konsertosta huilulle, jousille ja continuolle e-molli (Academia Montis Regalis/Barthold Kuijken, huilu).
+
+          Grieg: Romanssi jousikvartetosta g-molli (Australian kamariork./Richard Tognetti).
+
+          Elgar: Nelly (Innovation Chamber Ensemble).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-08-18T08:00:00+03:00'
         end_time: '2025-08-18T08:10:00+03:00'

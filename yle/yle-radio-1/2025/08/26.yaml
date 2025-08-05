@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:51:59.088648+00:00'
+  generated_at: '2025-08-05T02:48:01.870233+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -22,8 +22,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-08-26T06:50:00+03:00'
         end_time: '2025-08-26T06:59:59+03:00'
-        description: |-
-          Kirkkomuusikko Hanna Penttinen, Jyväskylä
+        description: |
+          "Kotiin ja työhön kutsuttuina"
+          Kirkkomuusikko Hanna Penttinen Jyväskylästä pohtii kutsua viedä ilosanomaa maailmaan sekä kutsua tulla kotiin, Jumalan lapseksi.
       - title: Ykkösaamu
         start_time: '2025-08-26T08:10:00+03:00'
         end_time: '2025-08-26T09:00:00+03:00'
@@ -107,7 +108,7 @@ data:
         start_time: '2025-08-26T18:50:00+03:00'
         end_time: '2025-08-26T19:00:00+03:00'
         description: |
-          Opiskelija Mandi Vehkavuori, Adventtikirkko, Turku
+          Opiskelija Mandi Vehkavuori, Adventtikirkko, Turusta lukee kertomuksen fariseuksesta ja publikaanista sekä pohtii niitä kertoja, jolloin on itseensä keskittyen kuvitellut olevansa paljon muita parempi kristitty.
       - title: Ääniversumi
         start_time: '2025-08-26T19:02:00+03:00'
         end_time: '2025-08-26T19:40:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:52:01.661711+00:00'
+  generated_at: '2025-08-05T02:48:05.324098+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -123,9 +123,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-05T19:00:00+03:00'
         end_time: '2025-09-05T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Helsingin kaupunginorkesterin konsertti: Jälleennäkeminenn'
         start_time: '2025-09-05T19:02:00+03:00'
         end_time: '2025-09-05T21:00:00+03:00'
+        description: |
+          Helsingin kaupunginorkesterin taiteellinen johtotiimi – Jukka-Pekka Saraste, Pekka Kuusisto ja Anna Thorvaldsdottir – avaa ovet inspiroivaan konserttisyksyyn. 
+
+          Nykymusiikin islantilainen supertähti Anna Thorvaldsdottir on alkavalla konserttikaudella Helsingin kaupunginorkesterin residenssisäveltäjä. Aeriality on hänen soiva käyntikorttinsa. ”Teos, jonka kuullakseni matkustaisin pitkän matkan.” (Ateş Orga, Classical Source) Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Riikka Holopainen.
+
+          Helsingin kaupunginorkesteri
+          Jukka-Pekka Saraste, kapellimestari
+          Pekka Kuusisto, kapellimestari/viulu
+          Kreeta-Julia Heikkilä, viulu
+
+          Ohjelma:
+
+          Anna Thorvaldsdottir: Aeriality (ensiesitys Suomessa)
+          Samy Moussa: Stasis for eight spatialised French horns with gongs (ensiesitys Suomessa)
+          Anna Clyne: Prince of Clouds
+          Johannes Brahms: Sinfonia nro 2
+
+          Kuva: Anna Thorvaldsdottir (© Anna Maggý) 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-05T21:00:00+03:00'
         end_time: '2025-09-05T21:05:00+03:00'

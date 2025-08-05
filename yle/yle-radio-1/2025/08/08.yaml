@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-04T02:51:54.769373+00:00'
+  generated_at: '2025-08-05T02:47:56.128558+00:00'
   git:
     branch: main
-    commit: 4367808ecf896b930fd4745dfc938f527553fea1
-  data_hash: e7d9380c963ac719a1b7ba6d6445dc40b9cd6b9522ee388a81eecec7425b2674
+    commit: c56ee6d2312e716ade119fe125821b15f6176b38
+  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
 data:
   Yle Radio 1:
     programmes:
@@ -87,6 +87,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-08T09:05:40+03:00'
         end_time: '2025-08-08T09:58:00+03:00'
+        description: |-
+          Ketelbey: Persialaisella torilla (Olli Häme)
+          Nisa: Liian nuori rakkauteen (Anneli Sari).
+          Brooker-Fisher-Reid: A whiter shade of pale (Procol Harum).
+          Polnareff: Love me, please love me (Michel Polnareff).
+          John: Tiny dancer (Elton John).
+          Modugno: Volare (David Bowie).
+          Beretta. Celentano: Asfalttia ja sementtiä (Kari Kuuva)
+          Paoli: Je me sens vivre (Dalida).
+          Cohen: Famous blue raincoat (Leonard Cohen).
+          Davis: In the ghetto (Elvis Presley).
+          Baker: Il mio domani (Chet Baker)
       - title: Raha-Suomen henkilökuvat - Marianne Vikkula
         start_time: '2025-08-08T10:00:00+03:00'
         end_time: '2025-08-08T10:30:00+03:00'
@@ -135,8 +147,24 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-08-08T16:10:00+03:00'
         end_time: '2025-08-08T16:59:00+03:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Elgar: Serenade mauresque (Maurilainen serenadi) (Uuden-Seelannin SO/James Judd).
+
+          Kansansäv.: The last rose of summer (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Hynninen: Ratsut (Laura Hynninen, harppu ja live-elektroniikka). 
+
+          Bizet: Nadirin romanssi "Je crois entendre encore" oopp. Les Pêcheurs de perles (Helmenkalastajat) (Jussi Björling, tenori, ja Tukholman kuninkaallisen oopperan ork./Nils Grevillius).
+
+          Sibelius: Granen (Kuusi) (Matleena Nyman, piano).
+
+          Chaminade: Concertino huilulle ja orkesterille (Sharon Bezaly ja Haagin Residentie-ork./Neeme Järvi). 
+
+          Chopin: Masurkka n:o 36 a-molli (Jon Nakamatsu, piano). 
+
+          Puccini: Un bel di vedremo oopp. Madama Butterfly (Maria Luigia Borsi, Lontoon SO/Yves Abel).
+
+          Grovlez: Sicilienne ja Allegro giocoso (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-08-08T17:00:00+03:00'
         end_time: '2025-08-08T17:10:00+03:00'
