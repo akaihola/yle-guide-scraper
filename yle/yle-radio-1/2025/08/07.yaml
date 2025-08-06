@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-05T02:47:55.824948+00:00'
+  generated_at: '2025-08-06T02:46:33.391189+00:00'
   git:
     branch: main
-    commit: c56ee6d2312e716ade119fe125821b15f6176b38
-  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
+    commit: 6871301000855a451fc8e04851f37a02e5fe91ef
+  data_hash: 1bfbe031bfc75ab2f50297c9b8e7879cc248a317e302cdc53c48a1166cc4c431
 data:
   Yle Radio 1:
     programmes:
@@ -153,8 +153,8 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2025-08-07T15:02:00+03:00'
         end_time: '2025-08-07T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Ilmastonmuutos on saanut tutkijat pohtimaan kauneuskäsitysten kestävyyttä. Maisema kertoo siitä, miten sitä käytetään, ja millaista toimintaa, esimerkiksi ruuantuotantoa sen lähellä harjoitetaan. Millaista on kestävä kauneus maalaismaisemassa? Millaisia arvoja maisemassa voi nähdä, ja millaisia merkityksiä esimerkiksi puilla on nähty olevan. Keskustelemassa ovat esteettisestä kestävyydestä kirjoittanut tutkija Sanna Lehtinen, puiden kulttuurihistoriasta kirjoittanut Reetta Ranta ja Maaseudun tulevaisuuden päätoimittaja Jouni Kemppainen.
       - title: Yle News
         start_time: '2025-08-07T15:55:00+03:00'
         end_time: '2025-08-07T15:58:00+03:00'
@@ -231,7 +231,7 @@ data:
         end_time: '2025-08-07T21:02:00+03:00'
       - title: 'Kiveen hakatut: Matti "Mölli" Keinonen - kiekkotaituri'
         start_time: '2025-08-07T21:05:00+03:00'
-        end_time: '2025-08-07T21:30:00+03:00'
+        end_time: '2025-08-07T21:34:09+03:00'
         description: |
           Arto Teronen ja Jouko Vuolle vierailevat Monnan hautausmaalla, Raumalla muistelemassa todellista kiekkotaituria ja maalintekijää Matti "Mölli" Keinosta.
       - title: 'Sorvali & Stellan - päätapahtumia: ’’Mähän oon siis täysin himosynnyttäjä’’'
@@ -239,12 +239,31 @@ data:
         end_time: '2025-08-07T22:08:00+03:00'
         description: |
           Synnytyksiä ja vauvoja, burleski-klubeja ja ylileveitä maantiekuljetuksia. Miita ja Sanna muistelevat aikaa, jolloin heistä tuli äitejä. Mikä trendasi ja miltä tuntui saada ensimmäinen lapsi? Entä kumman lapsi antoi äidilleen tunnustusta: “Mamma, sä olet kyllä tosi kiva, kun suhun tutustuu”. 
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
-        start_time: '2025-08-07T22:30:30+03:00'
-        end_time: '2025-08-07T22:49:30+03:00'
+      - title: 'Taistelevat Kärpäset: Paljastusjournalismia'
+        start_time: '2025-08-07T22:17:30+03:00'
+        end_time: '2025-08-07T22:32:04+03:00'
+        description: |
+          On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta.
+
+          Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
+
+          Näiden totuudentorvien tulilinjalta ei säästy mikään tai kukaan, vaikka osumatarkkuus saattaa vähän hakea. Wanna be -kirjailijan (Tiina) ja matkatavarakäsittelijän (Jari) kokemuksella heillä on omasta mielestään täydelliset edellytykset olla Suomen tarkimpia tutkivia journalisteja. Jos kukaan muu ei valaise tämän yhteiskunnan vääryyksiä, niin sitten sen on oltava he. Jonkun se taakka pitää kantaa.  
+
+          Rooleissa: Anna Airola (Tiina) ja Heikki Ranta (Jari)
+          Muissa rooleissa: Kari Hietalahti, Pia Andersson, Anna-Leena Sipilä
+
+          Tuotanto: TACK Films
+          Ohjaus: Teppo Airaksinen
+          Käsikirjoitus: Melli Maikkula
+          Tuottaja: John Lundsten
+          Äänisuunnittelu: Panu Riikonen
+          Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
+          Valokuvaus: Ilkka Saastamoinen
+          Grafiikka: Mia Selin
+          Tuottaja: Jonni Haasanen, Yle Draama 2024
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-08-07T23:00:00+03:00'
-        end_time: '2025-08-07T23:56:30+03:00'
+        start_time: '2025-08-07T22:41:44+03:00'
+        end_time: '2025-08-07T23:37:50+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen

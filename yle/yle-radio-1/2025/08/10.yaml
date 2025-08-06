@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-05T02:47:56.901985+00:00'
+  generated_at: '2025-08-06T02:46:34.220475+00:00'
   git:
     branch: main
-    commit: c56ee6d2312e716ade119fe125821b15f6176b38
-  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
+    commit: 6871301000855a451fc8e04851f37a02e5fe91ef
+  data_hash: 1bfbe031bfc75ab2f50297c9b8e7879cc248a317e302cdc53c48a1166cc4c431
 data:
   Yle Radio 1:
     programmes:
@@ -46,15 +46,26 @@ data:
           06:11 J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
 
           06:44 Telemann: Huilukonsertto D-duuri (Robert Stallman ja Philadelphian kamariork.).
-      - title: '8 klasaria '
-        start_time: '2025-08-10T07:03:00+03:00'
-        end_time: '2025-08-10T07:22:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+      - title: '8 klasaria: Camille Saint-Saëns: Eläinten karnevaali – Joutsen, kilpikonna-can-can, ja luurankojen letkajenkkaa'
+        start_time: '2025-08-10T07:02:23+03:00'
+        end_time: '2025-08-10T07:23:42+03:00'
+        description: |-
+          Camille Saint-Saëns (1835-1921) oli nuorena hämmästyttävä varhaislahjakkuus ja uuden musiikin intoilija. Vanhana moni piti häntä ranskalaisen musiikin änkyräkonservatiivina.
+
+          Saint-Saëns syntyi aikana, kun Pariisissa rakennettiin ensimmäiset rautatiet. Kuollessaan 86-vuotiaana hän oli nähnyt elokuvat, autot ja ensimmäisen maailmansodan.
+
+          Mitä teki vakava säveltäjämme, kun halusi irrotella kavereiden kanssa? 
+
+          Hän sävelsi karnevaalikappaleen porukan laskiaisillanviettoon! (Sillä Saint-Saëns oli huumormies.) Kappaleessa soittimet kiljuvat, kaakattavat, juoksentelevat ja sekoilevat eläimellisesti. Kriitikot ja ajan hittibiisit saavat myös kyytiä. Elegantisti lipuvasta Joutsenesta tuli ikisuosittu. 
+
+          Ja eikö 1880-luvun Pariisissa tanssiminen kuulu myös elefantille? 
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-08-10T07:22:00+03:00'
-        end_time: '2025-08-10T07:59:30+03:00'
-      - title: Sohvakirkko Mikael Agricolan kirkosta Helsingistä
+        start_time: '2025-08-10T07:23:42+03:00'
+        end_time: '2025-08-10T07:57:35+03:00'
+      - title: Sohvakirkko Puotilan kappelista Helsingistä
         start_time: '2025-08-10T10:00:00+03:00'
         end_time: '2025-08-10T10:59:20+03:00'
         description: |
@@ -145,14 +156,19 @@ data:
           Hensel: Allegretto jousikvartetosta Es-duuri (Ébène-kvartetti).
 
           Fauré: Pavane (Alankomaiden kamarikuoro ja Limburgin SO/Ed Spanjaard).
+      - title: 'Laura Korhosen Jazzklubi: Hammond-jazz elää ja hengittää traditiosta moderniin'
+        start_time: '2025-08-10T17:11:00+03:00'
+        end_time: '2025-08-10T18:09:17+03:00'
+        description: |
+          Urkujazz on laaja kenttä, jossa Hammond-urut ovat soittimen tunnetuin ja rakastetuin ilmentymä. Mutta urkujazzin maailma on monipuolisempi kuin yksi soitin. Jaksossa perehdytään urkujazzin historiaan, Hammond-jazzin legendoihin ja suomalaisiin muusikoihin, jotka pitävät perinnettä elossa ja vievät sitä eteenpäin.
       - title: 'Jazzklubin illan keikka: Oskar Gudjönsson Move Quartet Reykjavik Jazz Festivalilla.'
-        start_time: '2025-08-10T18:11:00+03:00'
+        start_time: '2025-08-10T18:09:17+03:00'
         end_time: '2025-08-10T19:00:00+03:00'
         description: |
           Äänitetty Harpa-konserttisalissa 29.8.2024.
       - title: 'Mustan musiikin sosiaalihistoriaa: Mustat vastaan poliisi – outoja hedelmiä ja raivokkaita lauluja'
         start_time: '2025-08-10T19:02:20+03:00'
-        end_time: '2025-08-10T20:00:00+03:00'
+        end_time: '2025-08-10T19:58:09+03:00'
         description: |
           Toimittajana Esa Kuloniemi.
       - title: Ortodoksinen liturgia Pyhittäjä Trifon Petsamolaisen kirkosta Inarista
@@ -165,14 +181,25 @@ data:
         end_time: '2025-08-10T21:28:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: '8 klasaria '
+      - title: '8 klasaria: Camille Saint-Saëns: Eläinten karnevaali – Joutsen, kilpikonna-can-can, ja luurankojen letkajenkkaa'
         start_time: '2025-08-10T21:29:00+03:00'
-        end_time: '2025-08-10T21:49:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        end_time: '2025-08-10T21:50:19+03:00'
+        description: |-
+          Camille Saint-Saëns (1835-1921) oli nuorena hämmästyttävä varhaislahjakkuus ja uuden musiikin intoilija. Vanhana moni piti häntä ranskalaisen musiikin änkyräkonservatiivina.
+
+          Saint-Saëns syntyi aikana, kun Pariisissa rakennettiin ensimmäiset rautatiet. Kuollessaan 86-vuotiaana hän oli nähnyt elokuvat, autot ja ensimmäisen maailmansodan.
+
+          Mitä teki vakava säveltäjämme, kun halusi irrotella kavereiden kanssa? 
+
+          Hän sävelsi karnevaalikappaleen porukan laskiaisillanviettoon! (Sillä Saint-Saëns oli huumormies.) Kappaleessa soittimet kiljuvat, kaakattavat, juoksentelevat ja sekoilevat eläimellisesti. Kriitikot ja ajan hittibiisit saavat myös kyytiä. Elegantisti lipuvasta Joutsenesta tuli ikisuosittu. 
+
+          Ja eikö 1880-luvun Pariisissa tanssiminen kuulu myös elefantille? 
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-08-10T21:49:30+03:00'
-        end_time: '2025-08-10T22:26:30+03:00'
+        start_time: '2025-08-10T21:50:19+03:00'
+        end_time: '2025-08-10T22:24:12+03:00'
       - title: 'Sari Valto: Kaipaatko mielenrauhaa? Ota stoalaisilta oppia'
         start_time: '2025-08-10T22:27:00+03:00'
         end_time: '2025-08-10T23:21:35+03:00'

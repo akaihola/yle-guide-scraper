@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-05T02:47:57.905617+00:00'
+  generated_at: '2025-08-06T02:46:35.061082+00:00'
   git:
     branch: main
-    commit: c56ee6d2312e716ade119fe125821b15f6176b38
-  data_hash: 74d5d2b6334c9f73eae7881a06168b55e3c3f8769be9cbc158743cb934fee2b1
+    commit: 6871301000855a451fc8e04851f37a02e5fe91ef
+  data_hash: 1bfbe031bfc75ab2f50297c9b8e7879cc248a317e302cdc53c48a1166cc4c431
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,31 @@ data:
         start_time: '2025-08-12T23:40:00+03:00'
         end_time: '2025-08-13T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Schubert: Impromptut pianolle op. 99 ja op.142 (Murray Perahia, piano).
+
+          00:44 Tyberg: Messu n:o 2 F-duuri (Etelä-Dakotan kuoro/Brian A. Schmidt, ja Christopher Jacobson, urut).
+
+          01:07 Mansurjan: Konsertto viululle ja jousiorkesterille (Leonidas Kavakos ja Münchenin kamariork./Christoph Poppen).
+
+          01:33 Massenet: Wertherin aaria oopp. Werther (Alfredo Kraus, tenori, ja Metropolitan-oopperan ork./James Levine).
+
+          01:37 Tshaikovski: Myrsky (St.Luken ork./Pablo Heras-Casado).
+
+          02:02 Bellini: Aminan unissakävelykohtaus oopp. La Sonnambula (Renee Fleming, sopraano, Firenzen musiikkijuhlien kuoro, ja Orchestra of St. Luke's/Patrick Summers). 
+
+          02:19 Roussel: Bacchus ja Ariadne, balettisarja n:o 2 (Chicagon SO/Jean Martinon).
+
+          02:38 Granados: Danzas espanolas (Alicia de Larrocha, piano). 
+
+          03:33 Bruckner: Sinfonia n:o 1 c-molli (Chicagon SO/ Georg Solti).
+
+          04:20 Chopin: Scherzot pianolle n:ot 1-4 (Garrick Ohlsson).
+
+          05:08 R. Strauss: Tod und Verklärung (Kuolema ja kirkastus) (Wienin filharmonikot/Herbert von Karajan).
+
+          05:33 Rahmaninov: Muunnelmia Corellin teemasta (Daniil Trifonov, piano).
+
+          05:52 Beethoven: Jousikvartetto n:o 7 F-duuri (Amadeus-kvartetti).
       - title: Hartaita säveliä
         start_time: '2025-08-13T06:30:50+03:00'
         end_time: '2025-08-13T06:50:00+03:00'
@@ -58,7 +82,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-13T09:05:40+03:00'
         end_time: '2025-08-13T09:58:00+03:00'
-        description: |-
+        description: |
           Gade: Jalousie (Mantovani).
           Newley: Feeling good (Nina Simone).
           Gardel: El dia que me quieras (Luis Miguel).
@@ -72,7 +96,7 @@ data:
           Kansansäv.: Tytön huivi (Tapio Rautavaara).
           Gershwin: Summertime (Janis Joplin).
           Rautee: Elokuun varjot (Neilikka).
-          Lauper & Hyman: Time after time (Miles Davis).
+          Lauper/Hyman: Time after time (Miles Davis).
       - title: 'Havaintoja muutoksesta: Työn imu tukee hyvinvointia'
         start_time: '2025-08-13T10:00:00+03:00'
         end_time: '2025-08-13T10:50:00+03:00'
@@ -222,4 +246,34 @@ data:
         start_time: '2025-08-13T23:40:00+03:00'
         end_time: '2025-08-14T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Griffes: Roomalaisia luonnoksia (Michael Lewin, piano).
+
+          00:00 Mendelssohn: Konsertto viululle, pianolle ja jousiorkesterille d-molli (Richard Tognetti ja Polina Leschenko, sekä Australian kamariork.).
+
+          00:36 Beethoven: Sinfonia n:o 7 A-duuri (Vallankumouksen ja Romantiikan ork./John Eliot Gardiner).
+
+          01:15 Puccini: Krysanteemit (Orpheus-kamariork.).
+
+          01:22 Saint-Saëns: Papitarten tanssi oopp. Simson ja Delila (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          01:52 Rahmaninov: Pianokonsertto n:o 3 d-molli (Andrei Gavrilov ja Philadelphian ork./Riccardo Muti).
+
+          02:11 Dvorák: Sinfonia n:o 6 D-duuri (Baltimoren SO/Marin Alsop).
+
+          02:57 Metner: Unohdettuja säveliä 1 (Marc-André Hamelin, piano).
+
+          03:37 Vieuxtemps: Viulukonsertto n:o 5 a-molli (Grétry) (Pinchas Zukerman ja Lontoon SO/Charles Mackerras).
+
+          03:57 Falla (sov. Muro): Noiduttu rakkaus (Suomalainen kitaratrio).
+
+          04:23 Chopin: Grand duo concertant Meyerbeerin Robert Le Diable -oopperan teemoista (Carter Brey, sello, ja Garrick Ohlsson, piano).
+
+          04:37 Berlioz: Kuninkaallinen metsästys ja myrsky oopp. Troijalaiset (Tanglewoodin musiikkijuhlien kuoro ja Bostonin SO/Colin Davis).
+
+          04:50 Tshaikovski: Sinfonia n:o 3 D-duuri (Puolalainen) (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          05:36 Fleischmann (sov. Schubert): Kvartetto huilulle, alttoviululle, kitaralle ja sellolle G-duuri (Alexa Still, Paul Neubauer, JoAnn Falletta ja Ronald Thomas). 
+
+          06:05 Händel - Longhurst: Konsertto n:o 4 F-duuri uruille 4-kätisesti (Robert Cundick ja John Longhurst).
+
+          06:22 Geminiani: Sonaatti oboelle ja continuolle e-molli op.1/3 (Dusan Foltýn, oboe, ja Tomás Thon, urut).
