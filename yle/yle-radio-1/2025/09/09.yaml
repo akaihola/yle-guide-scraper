@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-06T02:46:40.393663+00:00'
+  generated_at: '2025-08-07T02:46:48.630404+00:00'
   git:
     branch: main
-    commit: 6871301000855a451fc8e04851f37a02e5fe91ef
-  data_hash: 1bfbe031bfc75ab2f50297c9b8e7879cc248a317e302cdc53c48a1166cc4c431
+    commit: b001b89b0803b4640ceee452a8955abb96f89baa
+  data_hash: a55ea61760e72c06f2b16b23b307eb8192ad53e73615cee622cd0858a96acbe5
 data:
   Yle Radio 1:
     programmes:
@@ -19,7 +19,7 @@ data:
         start_time: '2025-09-09T06:50:00+03:00'
         end_time: '2025-09-09T06:59:59+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Teologian tohtori Taina Kalliokoski, Hämeenlinna
       - title: Yle Uutiset ja sää
         start_time: '2025-09-09T07:00:00+03:00'
         end_time: '2025-09-09T07:05:00+03:00'
@@ -106,7 +106,7 @@ data:
         start_time: '2025-09-09T18:50:00+03:00'
         end_time: '2025-09-09T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Ari Korolainen, Vapaaseurakunta, Hanko
       - title: Yle Uutiset ja sää
         start_time: '2025-09-09T19:00:00+03:00'
         end_time: '2025-09-09T19:02:00+03:00'

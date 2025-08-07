@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-06T02:46:34.750126+00:00'
+  generated_at: '2025-08-07T02:46:42.475145+00:00'
   git:
     branch: main
-    commit: 6871301000855a451fc8e04851f37a02e5fe91ef
-  data_hash: 1bfbe031bfc75ab2f50297c9b8e7879cc248a317e302cdc53c48a1166cc4c431
+    commit: b001b89b0803b4640ceee452a8955abb96f89baa
+  data_hash: a55ea61760e72c06f2b16b23b307eb8192ad53e73615cee622cd0858a96acbe5
 data:
   Yle Radio 1:
     programmes:
@@ -100,7 +100,7 @@ data:
           Brown: The blues walk (Clifford Brown).
           Merrill: (How Much Is) That Doggie in the Window? (Lita Roza).
           Weiss/Peretti/Creatore: Can't help falling in love (Elvis Presley). 
-      - title: Sari Valto
+      - title: 'Sari Valto: Oikea sukupuolirooli on elämän ja kuoleman kysymys'
         start_time: '2025-08-12T10:00:00+03:00'
         end_time: '2025-08-12T10:55:00+03:00'
         description: |-
@@ -145,11 +145,19 @@ data:
       - title: Yle Uutiset
         start_time: '2025-08-12T15:00:00+03:00'
         end_time: '2025-08-12T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Ruotsinsuomalaiset — suomimamujen kurimus ja arvonpalautus Svea-mamman maassa'
         start_time: '2025-08-12T15:02:00+03:00'
         end_time: '2025-08-12T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuuriykkönen tarkastelee ruotsinsuomalaisuutta ja sen kulttuurillista muutosta sekä kantaruotsalaisten että Ruotsissa asuvien suomenkielisten kannalta.
+
+          Keskiössä kysymykset, millaisessa murroksessa suomalaistausta tai suomenkielisyys on ollut Ruotsissa, ja miten suhtautuminen suomalaisuuteen tai vaikkapa "moominsvenskan" puhumiseen on muuttunut? 
+
+          Miksi suomalaisuus ja suomenkielisyys on tänä päivänä enemmän cool ja tavoiteltu juttu kuin vaikka vuosikymmeniä sitten, kun siihen liittyi häpeää ja stigmaa? Miten se näkyy vaikkapa ruotsalaisissa elokuvissa, musiikissa tai muussa populaarikulttuurista? 
+
+          Ovatko suomalaistaustaiset viimein integroituneet Ruotsalaiseen yhteiskuntaan, mikä on siihen vaikuttanut vai mistä oikein on kyse? Kuinka syvällä Ruotsissa epäluulo suomalaistaustaisia kohtaan on, ja mistä syystä suomalaisuutta vielä kenties piilotellaan?
+
+          Keskustelussa mukana Siirtolaisuusinstituutin erikoistutkija Tuire Liimatainen sekä Ruotsissa vuosikymmeniä asunut suomenkielisten kulttuuriyhdistysten toimintaan perehtynyt Kai Kangassalo ja suomenkielistä musiikkia Ruotsissa tekevä muusikko Hanna Kangassalo. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-08-12T15:55:00+03:00'
         end_time: '2025-08-12T15:58:00+03:00'
