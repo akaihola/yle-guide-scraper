@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-08T02:46:24.010503+00:00'
+  generated_at: '2025-08-09T02:37:03.784505+00:00'
   git:
     branch: main
-    commit: c42f0dfd1c316a39e6244a365a3e10fe68c0b9ae
-  data_hash: f0643232b93a7cff3a9a8732678c3e31b1729723c0d8d87545d314f79fd340ab
+    commit: 8ea6706a7b2ad28a823f0ca881a97e2a7d97070f
+  data_hash: 65ee3ccfb0f86729642d46acc11b26aa6f8443bc609872ade536e4dcc4bb0d7b
 data:
   Yle Radio 1:
     programmes:
@@ -84,6 +84,9 @@ data:
         end_time: '2025-08-09T08:55:00+03:00'
         description: |
           Meteorologi Anne Borgström viettää ison osan vapaa-ajastaan kirkkonummelaisella tallilla, missä asuu hänen islanninhevosensa. Toimittajana Maija Salminen.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-08-09T08:55:00+03:00'
+        end_time: '2025-08-09T09:00:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-08-09T09:05:40+03:00'
         end_time: '2025-08-09T09:58:00+03:00'
@@ -130,6 +133,10 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-08-09T12:05:00+03:00'
         end_time: '2025-08-09T12:30:00+03:00'
+        description: |
+          Eri puolilla maailmaa haetaan keinoja suojata lapsia älypuhelinten ja sosiaalisen median haitoilta. Australia on päättänyt ensimmäisenä maana maailmassa kieltää sosiaalisen median alle 16-vuotiailta. Euroopassa useampi maa, Suomi mukaan lukien rajoittaa älypuhelimien käyttöä kouluissa.
+
+          Millaisin keinoin lapsille yritetään nyt tehdä digiturvallista arkea? Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Karoliina Kantola ja Paula Vilén. Äänitarkkailijana on Tuomas Vauhkonen.
       - title: 'Outopodcast: Jonain päivänä heidän on pakko uskoa'
         start_time: '2025-08-09T12:30:00+03:00'
         end_time: '2025-08-09T12:55:00+03:00'
@@ -260,7 +267,16 @@ data:
           Miksi juuri peukusta tuli Suomessa ongelmahuume? Suomi on ollut perinteisesti amfetamiini-maa, mutta nyt peukku on vallannut katukuvan ja ruuhkauttanut terveydenhuollon. Miksi juuri peukku valtasi koukutti käyttäjät ja valtasi kadut? Reetta Röngän haastattelussa Helsingin poliisin rikostarkastaja Kimmo Sainio. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-08-09T21:24:54+03:00'
-        end_time: '2025-08-09T21:50:00+03:00'
+        end_time: '2025-08-09T21:49:21+03:00'
+        description: |
+          Eri puolilla maailmaa haetaan keinoja suojata lapsia älypuhelinten ja sosiaalisen median haitoilta. Australia on päättänyt ensimmäisenä maana maailmassa kieltää sosiaalisen median alle 16-vuotiailta. Euroopassa useampi maa, Suomi mukaan lukien rajoittaa älypuhelimien käyttöä kouluissa.
+
+          Millaisin keinoin lapsille yritetään nyt tehdä digiturvallista arkea? Tätä pohditaan seuraavaksi Maailmanpolitiikan arkipäivää -ohjelmassa. Sen ovat toimittaneet Karoliina Kantola ja Paula Vilén. Äänitarkkailijana on Tuomas Vauhkonen.
+      - title: Radio 1 soi
+        start_time: '2025-08-09T21:49:21+03:00'
+        end_time: '2025-08-09T21:57:00+03:00'
+        description: |-
+          Saint-Saëns: Bakkanaali oopp. Simson ja Delila (Cincinnati Pops/Erich Kunzel).
       - title: Maailman tärkein pieni asia
         start_time: '2025-08-09T21:57:00+03:00'
         end_time: '2025-08-09T22:14:53+03:00'
@@ -276,6 +292,16 @@ data:
         end_time: '2025-08-09T23:24:58+03:00'
         description: |
           Tunnelma sähköistyi kansanmusiikissa. Tämä on trendi, joka näyttää yhä vain vahvistuvan. Elektroninen musiikki on asettunut pysyvästi perinneainesten rinnalle monen musiikintekijän muovailuvahassa. Mutta mikä naapurimaistamme on omaksunut elektro-etnon valtavirtaansa? Entä mikä saarivaltio näytti suuntaa lajin suurvaltana? Ja ketkä ovat sähköisen kansanmusiikin edelläkävijöitä ja toisaalta nykytekijöitä meillä kotimaassa? (Uusinta lokakuulta 2024)
+      - title: Radio 1 soi
+        start_time: '2025-08-09T23:24:58+03:00'
+        end_time: '2025-08-09T23:29:16+03:00'
+        description: |-
+          de Zéspedes: Ay que me abroso (Capella Reial de Catalunya ja Hesperion XXI/ Jordi Savall).
+      - title: 'Eilisen ääni: Kouluradiossa keskustellaan teatterista'
+        start_time: '2025-08-09T23:29:49+03:00'
+        end_time: '2025-08-09T23:39:03+03:00'
+        description: |-
+          Kerstin Niemelä jututtaa oppilaita teatterikäynnin jälkeen vuonna 1974.
       - title: Yöklassinen
         start_time: '2025-08-09T23:40:00+03:00'
         end_time: '2025-08-10T07:00:00+03:00'

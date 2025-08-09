@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-08T02:46:26.327727+00:00'
+  generated_at: '2025-08-09T02:37:06.065468+00:00'
   git:
     branch: main
-    commit: c42f0dfd1c316a39e6244a365a3e10fe68c0b9ae
-  data_hash: f0643232b93a7cff3a9a8732678c3e31b1729723c0d8d87545d314f79fd340ab
+    commit: 8ea6706a7b2ad28a823f0ca881a97e2a7d97070f
+  data_hash: 65ee3ccfb0f86729642d46acc11b26aa6f8443bc609872ade536e4dcc4bb0d7b
 data:
   Yle Radio 1:
     programmes:
@@ -54,6 +54,17 @@ data:
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-08-17T07:22:00+03:00'
         end_time: '2025-08-17T07:59:30+03:00'
+      - title: Maisteri Lindgrenin musiikkiesitelmä
+        start_time: '2025-08-17T08:05:35+03:00'
+        end_time: '2025-08-17T08:59:30+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-17T09:00:00+03:00'
+        end_time: '2025-08-17T09:05:05+03:00'
+      - title: Riston Valinta
+        start_time: '2025-08-17T09:05:35+03:00'
+        end_time: '2025-08-17T09:55:00+03:00'
+        description: |
+          Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
       - title: Karkun Laaportaan kodan kirkkohetki Sastamalasta
         start_time: '2025-08-17T10:00:00+03:00'
         end_time: '2025-08-17T10:59:20+03:00'
@@ -64,6 +75,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-17T11:00:00+03:00'
         end_time: '2025-08-17T11:57:00+03:00'
+        description: |-
+          Mancini: The Days of wine and roses (Mantovani).
+          Wood: Les roses de Picardie (Yves Montand).
+          Kuoppamäki: Niin kaikki on kuin ennenkin (Katri Helena)
+          Samuli: Syysunelma (Katri Helena).
+          Holmström: Kuiskaan hyvän huomenen (Carita Holmström).
+          Jokela/Raivio: Kun maailma elää (Kaseva).
+          Pembroke: Nuclear nightclub (Wigwam).
+          Järvinen: Katselen kaunista iltaa (Matti Järvinen).
+          König: Paradiso (Connie Francis).
+          Schifrin: Hän joka määrää (Four Cats).
+          Nakamura: Sukiyaki (Brita Koivunen).
+          Durand: Habanera (Seija Lampila).
+          Strayhorn: Lush life (Sammy Davis, Jr.).
+          Stole/Del Roma: Chariot (Sul mio carro) (Betty Curtis).
+          Coppola: Sydämesi ääni (Seija Simola).
+          Petkere: Lullaby of the Leaves (The Gerry Mulligan Quartet).
       - title: Yle Uutiset ja sää
         start_time: '2025-08-17T12:00:00+03:00'
         end_time: '2025-08-17T12:05:00+03:00'
@@ -73,7 +101,7 @@ data:
         description: |
           Kauneudenhoidon historiasta kertoo Puuteria ja papiljotteja -kirjan kirjoittaja Saija Kannisto-Junka. Ohjelma on uusinta marraskuulta 2023.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-08-17T12:55:00+03:00'
+        start_time: '2025-08-17T12:57:00+03:00'
         end_time: '2025-08-17T13:00:00+03:00'
       - title: 'Välilevyjä retkellä: Itärajan kadonnutta aikaa'
         start_time: '2025-08-17T13:00:00+03:00'
