@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:22.813005+00:00'
+  generated_at: '2025-08-12T02:36:18.897336+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -83,6 +83,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-08-12T08:10:00+03:00'
         end_time: '2025-08-12T09:00:00+03:00'
+        description: |-
+          Meneekö Euroopan turvallisuusarkkitehtuuri tällä viikolla uusiksi? Minkälaisiin rajoihin, valvontaan ja sopimuksiin maanosan turvallisuus mahdollisesti nojaa Trumpin ja Putin jäljiltä? Tästä Ykkösaamu -podcastin aluks,i akatemiatutkija Timo Miettinen ja tutkija Joel Linnainmäki. Suomi varustautuu Venäjän uhkaan liittoutumisen lisäksi aseellisesti. Onko vielä tilaa eettisille pohdinnoille, tästä keskustelua kolmen kansanedustajan kanssa (Hanna Räsänen, kesk. Mika Kari, sdp. Jarno Limnell kok.). Podcastin toimittaa Markus Liimatainen.
       - title: Muistojen bulevardi
         start_time: '2025-08-12T09:05:40+03:00'
         end_time: '2025-08-12T09:58:00+03:00'
@@ -137,6 +139,13 @@ data:
         end_time: '2025-08-12T12:55:00+03:00'
         description: |-
           Väitöskirjatutkija Maria Sarhemaa tutustuttaa Pasi Heikuran kielen ilmiöön, jossa ihmisen nimestä tulee yleisnimi – kuten sanassa eräjorma. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+      - title: 'Politiikkaradio: Purran ”ruma provokaatio”'
+        start_time: '2025-08-12T13:00:00+03:00'
+        end_time: '2025-08-12T13:30:00+03:00'
+        description: |
+          Riikka Purran leikkauslista sai hallituskumppanit takajaloilleen. RKP:stä ehdotusta on moitittu perussuomalaisten märäksi uneksi, rumaksi provokaatioksi ja epäisänmaalliseksi. 
+          Mihin valtiovarainministerin irtiotto johtaa? 
+          Aiheesta keskustelevat kokoomuksen eduskuntaryhmän puheenjohtaja Jukka Kopra, perussuomalaisten eduskuntaryhmän varapuheenjohtaja Miko Bergbom ja RKP:n varapuheenjohtaja, ex-ministeri Sandra Bergqvist. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-08-12T13:30:00+03:00'
         end_time: '2025-08-12T15:00:00+03:00'
@@ -169,6 +178,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-08-12T16:10:00+03:00'
         end_time: '2025-08-12T16:59:00+03:00'
+        description: |-
+          Vivaldi: Huilukonsertto F-duuri (Myrsky merellä) (Jean-Pierre Rampal ja Veneton solistit/Claudio Scimone).
+
+          Chopin: Masurkka n:o 38 fis-molli (Piotr Anderszewski, piano).
+
+          Turrin: Kapriisi (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Morley: It was a lover and his lass (Barbara Bonney, sopraano, Jacob Heringman, luuttu).
+
+          J. Strauss: Ikiliikkuja (Budapestin musiikkijuhlien ork./Iván Fischer).
+
+          Ehrström: Joutsen (Klemetti-Opiston kamarikuoro/Harald Andersén).
+
+          Madetoja: Menuetti C-duuri (Arto Noras, sello, ja Tapani Valsta, piano).
+
+          Giuliani: Menuetti Duo concertantesta e-molli (Itzhak Perlman, viulu, ja John Williams, kitara).
+
+          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (New Yorkin FO/Kurt Masur).
+      - title: Uutispodcast
+        start_time: '2025-08-12T17:10:00+03:00'
+        end_time: '2025-08-12T17:34:20+03:00'
+        description: |-
+          Onko tämä viikko Ukrainan kohtalonviikko? Yhdysvaltain presidentti Donald Trump tapaa Venäjän presidentti Vladimir Putinin tulevana perjantaina Alaskassa.Sopivatko valtionpäät Ukrainaan rauhan, millä ehdoilla ja jääkö Ukraina ja Eurooppa kokonaan neuvotteluiden ulkokehälle? Reetta Röngän haastattelussa on Ulkopoliittisen instituutin johtava tutkija Sinikukka Saari. 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-08-12T17:35:00+03:00'
         end_time: '2025-08-12T18:30:00+03:00'
@@ -212,7 +244,7 @@ data:
         end_time: '2025-08-12T19:02:00+03:00'
       - title: Iran, Savior or Threatener
         start_time: '2025-08-12T19:02:00+03:00'
-        end_time: '2025-08-12T19:40:00+03:00'
+        end_time: '2025-08-12T19:33:00+03:00'
         description: |-
           Iran, pelastaja vai uhka?
           Historian varjot ulottuvat kauas menneisyyteen. Liitot, petokset ja valtataistelut ovat muokanneet sivilisaatioita - ja niiden vaikutus jatkuu nykypäivään. Toistaako historia itseään vai olemmeko uuden luvun kynnyksellä?

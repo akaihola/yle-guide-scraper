@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:29.004050+00:00'
+  generated_at: '2025-08-12T02:36:33.855372+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -27,8 +27,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-09-02T06:50:00+03:00'
         end_time: '2025-09-02T06:59:59+03:00'
-        description: |-
-          Teologian tohtori Taina Kalliokoski, Hämeenlinna
+        description: |
+          "Arvokas ilman suorituksia"
+          Teologian tohtori Taina Kalliokoski Hämeenlinnasta pohtii, miten tekoäly haastaa meidän ihmisten suhdetta itseemme ja tuo eteen vanhan kysymyksen: kuka minä olen?
       - title: Yle Uutiset ja sää
         start_time: '2025-09-02T07:00:00+03:00'
         end_time: '2025-09-02T07:05:00+03:00'
@@ -47,6 +48,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-02T09:05:00+03:00'
         end_time: '2025-09-02T09:58:00+03:00'
+        description: |-
+          Cymbal: Kaunein aamuisin (Tapio Heinonen).
+          Silver: The Cape Verdean blues (Horace Silver Quintet).
+          Naissoo: Neil päevil polnud algust (Silvi Vrait).
+          Gullmar: Med dej i mina armar (Sven-Olof Sandberg).
+          Hadzidakis: Pame mia volta sto fengari (Melina Mercouri).
+          Becaud: Mademoiselle Lise (Gilbert Becaud).
+          Hebb: Sunny (Anki).
+          Paxton: Ramblin' boy (Tom Paxton).
+          Callander/Murray: Itke vaan jos helpottaa (Anita Hirvonen). 
+          Cook/Greenaway: Where the rainbow ends (Roger Whittaker, vihellys, ja ork./Leon Young).
+          Kemppi: Pustan poika (Reino Armio).
+          Maduri: Hula Hoop (Dani Mann)
+          Mononen: Suvesta syksyyn (Eino Grön). 
+          Berlin: Change partners (Fred Astaire).
       - title: Sari Valto
         start_time: '2025-09-02T10:00:00+03:00'
         end_time: '2025-09-02T10:55:00+03:00'
@@ -60,6 +76,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-02T11:57:00+03:00'
         end_time: '2025-09-02T12:00:00+03:00'
+        description: |-
+          Joel Lehtosen Hyvästijättö lintukodolle -runokokoelman runo Ruiskukka minulle aina oli rakkaampi kuin ruis.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-02T12:00:00+03:00'
         end_time: '2025-09-02T12:05:00+03:00'
@@ -131,9 +149,6 @@ data:
       - title: Radioteatteri esittää
         start_time: '2025-09-02T19:02:00+03:00'
         end_time: '2025-09-02T19:22:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-09-02T19:02:00+03:00'
-        end_time: '2025-09-02T19:45:00+03:00'
       - title: Radioteatteri esittää
         start_time: '2025-09-02T19:22:00+03:00'
         end_time: '2025-09-02T19:45:00+03:00'

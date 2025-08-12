@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:24.183674+00:00'
+  generated_at: '2025-08-12T02:36:28.166287+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -46,11 +46,18 @@ data:
           06:23 J.G. Graun: Konsertto viola da gamballe, jousille ja continuolle G-duuri (Hille Perl ja Freiburgin barokkiork./Petra Müllejans, viulu).
 
           06:46 Blavet: Huilusonaatti a-molli (Robert Stallman, huilu, Edwin Swanborn, cembalo, ja Karl Bennion, sello).
-      - title: '8 klasaria '
+      - title: '8 klasaria: Michael Praetorius: Es ist ein Ros entsprungen/Tuo armon valkokyyhky – Hymni keskiajalta tuo joulun valon'
         start_time: '2025-08-17T07:03:00+03:00'
-        end_time: '2025-08-17T07:22:00+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        end_time: '2025-08-17T07:21:52+03:00'
+        description: |-
+          Kuulas ja levollinen hymni antaa kuulijan laskeutua joulun rauhaan. Hymniteksti kertoo Ruususta, joka avautuu keskitalvella. Ruusu oli keskiaikainen symboli Neitsyt Marialle. Mutta miksi me Suomessa laulamme Armon valkokyyhkystä?
+
+          Säveltäjä on tuntematon, mutta hymnin soinnutti saksalainen Michael Praetorius 1600-luvun alussa. Hän oli Saksan tuotteliain säveltäjä, joka sovitti valtavasti kansansävelmiä luterilaisen kirkon käyttöön. Praetoriuksen kauniina sovituksena hymni levisi ympäri Eurooppaa. 
+
+          Suomalaisten sanojen alkuperä on selvitettävä. Jäljet johtavat Helsinkiin, jossa  presidentinrouva Ester Ståhlberg ja muuan maisteri Jalkanen tapaavat.
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-08-17T07:22:00+03:00'
         end_time: '2025-08-17T07:59:30+03:00'
@@ -117,16 +124,16 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-17T14:52:00+03:00'
         end_time: '2025-08-17T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Jos haluamme oppia alkuperäiskansoilta, annetaan niiden johtaa'
         start_time: '2025-08-17T14:55:00+03:00'
         end_time: '2025-08-17T15:00:00+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Miksi Helsingissä tiedettäisiin parhaiten, miten Saamenmaan luontoa hyödynnetään kestävästi? Annetaan alkuperäiskansoille valtaa päättää itse alueidensa käytöstä, tiedetoimittaja ja kirjailija Mia Rönkä ehdottaa.
       - title: 'Elävä historia: Jeesuksen seuraajasta pedofiliaskandaaleihin: paaviuden tuhatvuotinen tarina'
         start_time: '2025-08-17T15:00:00+03:00'
         end_time: '2025-08-17T15:49:30+03:00'
         description: |
-          Kuka, tai oikeastaan mikä on paavi? Mihin hänen asemansa perustuu?  Haastateltavina ovat tietokirjailija Jaro Kaskinen sekä yliopistolehtori Mikko Ketola. Toimittajana on Ville Talola. Äänisuunnittelijana on Matias Puumala.
+          Kuka, tai oikeastaan mikä on paavi? Mihin hänen asemansa perustuu?  Haastateltavina ovat tietokirjailija Jaro Karkinen sekä yliopistolehtori Mikko Ketola. Toimittajana on Ville Talola. Äänisuunnittelijana on Matias Puumala.
       - title: 'Viikon luontoääni: Pikku-uikku'
         start_time: '2025-08-17T15:50:00+03:00'
         end_time: '2025-08-17T15:55:00+03:00'
@@ -171,7 +178,7 @@ data:
           Äänitetty Korjaamon Vaunusalissa 30.11.2024.
       - title: 'Mustan musiikin sosiaalihistoriaa: Musta vastarinta – Fight the power!'
         start_time: '2025-08-17T19:02:20+03:00'
-        end_time: '2025-08-17T20:00:00+03:00'
+        end_time: '2025-08-17T19:59:30+03:00'
         description: |
           Toimittajana Esa Kuloniemi.
       - title: Jumalanpalvelus Mikkelin vapaaseurakunnasta
@@ -184,11 +191,18 @@ data:
         end_time: '2025-08-17T21:28:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: '8 klasaria '
+      - title: '8 klasaria: Michael Praetorius: Es ist ein Ros entsprungen/Tuo armon valkokyyhky – Hymni keskiajalta tuo joulun valon'
         start_time: '2025-08-17T21:29:00+03:00'
-        end_time: '2025-08-17T22:26:30+03:00'
-        description: |
-          Musiikin herkkupaloja, joita olet kuullut mutta joista haluat tietää enemmän. Toimittajana on Eva Tigerstedt.
+        end_time: '2025-08-17T21:47:52+03:00'
+        description: |-
+          Kuulas ja levollinen hymni antaa kuulijan laskeutua joulun rauhaan. Hymniteksti kertoo Ruususta, joka avautuu keskitalvella. Ruusu oli keskiaikainen symboli Neitsyt Marialle. Mutta miksi me Suomessa laulamme Armon valkokyyhkystä?
+
+          Säveltäjä on tuntematon, mutta hymnin soinnutti saksalainen Michael Praetorius 1600-luvun alussa. Hän oli Saksan tuotteliain säveltäjä, joka sovitti valtavasti kansansävelmiä luterilaisen kirkon käyttöön. Praetoriuksen kauniina sovituksena hymni levisi ympäri Eurooppaa. 
+
+          Suomalaisten sanojen alkuperä on selvitettävä. Jäljet johtavat Helsinkiin, jossa  presidentinrouva Ester Ståhlberg ja muuan maisteri Jalkanen tapaavat.
+
+          Toimittaja ja käsikirjoittaja: Eva Tigerstedt
+          Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-08-17T21:49:30+03:00'
         end_time: '2025-08-17T22:26:30+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:30.155408+00:00'
+  generated_at: '2025-08-12T02:36:34.671836+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-05T11:57:00+03:00'
         end_time: '2025-09-05T12:00:00+03:00'
+        description: |-
+          Joel Lehtosen Nuoruus-runokokoelman runot Maljakko ja Kuollut lempi.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-05T12:00:00+03:00'
         end_time: '2025-09-05T12:05:00+03:00'

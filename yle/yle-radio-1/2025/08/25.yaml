@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:26.627139+00:00'
+  generated_at: '2025-08-12T02:36:31.831256+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -32,6 +32,30 @@ data:
         description: |
           "Iso hali ja menoksi"
           Tuottaja-toimittaja Riitta-Sisko Aartolahti Hämeenlinnasta pohtii lapsen aikuiselle opettamaa suhdetta anteeksipyytämiseen ja anteeksiantamiseen.
+      - title: Aamusoitto
+        start_time: '2025-08-25T07:10:00+03:00'
+        end_time: '2025-08-25T07:59:59+03:00'
+        description: |+
+          L. Mozart: Allegro pasuunakonsertosta D-duuri (Teppo Alestalo, pasuuna, ja RSO/Dima Slobodeniouk).
+
+          J.S.Bach: Vivace sonaatista viola da gamballe ja klaveerille n:o 3 g-molli (Yo-Yo Ma, sello, ja Kenneth Cooper, cembalo).
+
+          Telemann: Fantasia n:o 5 C-duuri (Eleonore Pameijer, huilu).
+
+          Beck: Allegro sinfoniasta F-duuri (Uuden-Seelannin kamariork./Donald Armstrong).
+
+          Kansansäv.: The last rose of summer (Wynton Marsalis, kornetti, ja Eastman-puhallinork./Donald Hunsberger).
+
+          Elgar: Serenade mauresque (Maurilainen serenadi) (Uuden-Seelannin SO/James Judd).
+
+          Dillon: Birds at dawn (Lintuja sarastuksen aikaan) (Sarah Cahill, piano).
+
+          Tshaikovski: Ken kaihon tuntee (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Piazzolla: Yo soy Maria (Denyce Graves, mezzosopraano, Pablo Ziegler, piano, Hector del Curto, bandoneon, Pablo Aslan, kontrabasso, ja Susan Palma, huilu).
+
+          Menken: Tuulen värit elok. Pocahontas (Cincinnati Pops/Erich Kunzel).
+
       - title: Ykkösaamu
         start_time: '2025-08-25T08:10:00+03:00'
         end_time: '2025-08-25T09:00:00+03:00'
@@ -128,9 +152,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-08-25T19:00:00+03:00'
         end_time: '2025-08-25T19:02:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Isoäitini konstit - karjalaisia loitsuja ja arkistonauhaa'
         start_time: '2025-08-25T19:02:00+03:00'
         end_time: '2025-08-25T19:50:00+03:00'
+        description: |
+          Toimittaja Tuula Rajavaara muistaa vain hataria lapsen muistikuvia karjalaisesta isoäidistään. Yllättäen paljastuu, että on olemassa kieliarkiston haastattelunauha vuodelta 1964, jolla puhuu juuri hänen isoäitinsä, Jefimia. Löytö työntää toimittajan yli sadan vuoden takaiselle aikamatkalle isoäitinsä elämään pienestä paimenesta yhdeksän lapsisen perheen emännäksi Raja-Karjalassa. (es. 7.1.2024)
       - title: Musiikkikamari
         start_time: '2025-08-25T19:35:00+03:00'
         end_time: '2025-08-25T20:00:00+03:00'

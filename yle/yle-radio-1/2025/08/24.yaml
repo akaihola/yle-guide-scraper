@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:26.395805+00:00'
+  generated_at: '2025-08-12T02:36:31.492734+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -40,9 +40,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-24T11:00:00+03:00'
         end_time: '2025-08-24T11:57:00+03:00'
-      - title: Taiteilijatapaaminen
+      - title: 'Taiteilijatapaaminen: Outi Pieski ja Pauliina Feodoroff pyrkivät taiteellaan ratkaisemaan globaaleja ongelmia'
         start_time: '2025-08-24T12:00:00+03:00'
         end_time: '2025-08-24T12:52:00+03:00'
+        description: |
+          Kuvataiteilija Outi Pieski ja ohjaaja, käsikirjoittaja Pauliina Feodoroff keskustelevat taiteesta, luontosuhteesta ja alkuperäiskansojen oikeuksista. Ohjelman on toimittanut Tina Cavén.
       - title: 'Välilevyjä retkellä: Suora viiva'
         start_time: '2025-08-24T13:00:00+03:00'
         end_time: '2025-08-24T13:57:00+03:00'

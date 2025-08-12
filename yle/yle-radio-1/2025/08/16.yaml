@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-11T02:46:23.905019+00:00'
+  generated_at: '2025-08-12T02:36:26.770237+00:00'
   git:
     branch: main
-    commit: 73bf3327c0b37c70b37c888e1f386e2f2f90d2e6
-  data_hash: 04e6564d1536137268f2ad30b4f0a20296e067bdfbda8c886ba31d4bbcc3e366
+    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
+  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
 data:
   Yle Radio 1:
     programmes:
@@ -62,6 +62,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-08-16T08:35:00+03:00'
         end_time: '2025-08-16T08:55:00+03:00'
+        description: |
+          Näyttelijä Ritva Oksanen maalaa akvarelleja tunteen palosta ja omaksi ilokseen. Toimittajana Maija Salminen
       - title: Muistojen bulevardi
         start_time: '2025-08-16T09:05:40+03:00'
         end_time: '2025-08-16T09:58:00+03:00'
@@ -146,11 +148,11 @@ data:
         end_time: '2025-08-16T14:30:00+03:00'
         description: |-
           Kyösti Kakkonen on luonut mittavan omaisuutensa hyvän bisnesvainun, maalaisjärjen ja hieman myös onnen avulla. Raha-Suomi-sarjaan Kyösti Kakkosta haastatteli Pekka Laine. Hänen henkilökuvansa toimitti Simo Sipola. 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Ennustaminen ponnistaa nykyisyydestä, ja siksi isot muutokset tulevat aina yllätyksenä'
         start_time: '2025-08-16T14:55:00+03:00'
         end_time: '2025-08-16T15:00:00+03:00'
-        description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+        description: |-
+          Ennusteiden pohjana on visio, kuinka valtiot ja ihmiset turvaavat etujaan. Mutta historiallisten mullistusten moottori on usein vain järkyttävän suuri munaus, emeritusprofessori Kari Enqvist pohtii.
       - title: 'Taistelevat Kärpäset: Isän, pojan ja smoothien nimeen'
         start_time: '2025-08-16T15:00:00+03:00'
         end_time: '2025-08-16T15:14:00+03:00'
@@ -172,6 +174,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-16T15:14:00+03:00'
         end_time: '2025-08-16T15:30:00+03:00'
+      - title: 'Aristoteleen kantapää: Kellokalle, mustamaija, asiapertti – miten erisnimestä tulee yleissana'
+        start_time: '2025-08-16T15:30:00+03:00'
+        end_time: '2025-08-16T15:55:00+03:00'
+        description: |-
+          Väitöskirjatutkija Maria Sarhemaa tutustuttaa Pasi Heikuran kielen ilmiöön, jossa ihmisen nimestä tulee yleisnimi – kuten sanassa eräjorma. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-08-16T15:55:00+03:00'
         end_time: '2025-08-16T15:58:00+03:00'
@@ -221,8 +228,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-08-16T18:01:00+03:00'
         end_time: '2025-08-16T18:10:00+03:00'
-        description: |-
-          Tunnelukkoterapeutti, tietokirjailija Miia Moisio, Ylöjärvi
+        description: |
+          "Lupa hengähtää"
+          Lauantai-illan rukoushetkessä tunnelukkoterapeutti, tietokirjailija Miia Moisio Ylöjärveltä puhuu luottamuksesta luoden samalla tilaa rauhalle sekä hiljaisuudelle.
       - title: Klassisen musiikin iltakonsertti
         start_time: '2025-08-16T19:02:00+03:00'
         end_time: '2025-08-16T21:00:00+03:00'
