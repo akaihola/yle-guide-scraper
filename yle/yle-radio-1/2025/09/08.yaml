@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-12T02:36:35.985520+00:00'
+  generated_at: '2025-08-13T02:37:29.277943+00:00'
   git:
     branch: main
-    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
-  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
+    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
+  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
 data:
   Yle Radio 1:
     programmes:
@@ -107,9 +107,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-08T19:00:00+03:00'
         end_time: '2025-09-08T19:02:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Jongunjoen kohtalon syksy'
         start_time: '2025-09-08T19:02:00+03:00'
         end_time: '2025-09-08T19:50:00+03:00'
+        description: |-
+          Annukka Kaltiainen, kyläbaarin pitäjä Lieksan Jongunjoelta, valmistautuu jäämään eläkkeelle. Reilun sadan asukkaan kylälle baari on elintärkeä ja kaikilla on huoli sen jatkosta. Sieltä saa paitsi kahvia ja pullaa, myös lievitystä yksinäisyyteen ja apuja moniin käytännön asioihin. Reetta Arvilan dokumentti piirtää kuvaa elämästä pienessä pohjoiskarjalaisessa yhteisössä, jossa muita autetaan ja kaikki tuntevat toisensa.
+          (es. 16.12.2024)
       - title: Musiikkikamari
         start_time: '2025-09-08T19:35:00+03:00'
         end_time: '2025-09-08T20:05:00+03:00'

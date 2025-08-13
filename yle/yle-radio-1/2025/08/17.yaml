@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-12T02:36:28.166287+00:00'
+  generated_at: '2025-08-13T02:37:23.050295+00:00'
   git:
     branch: main
-    commit: 95b6f7f6fe64e2faaafb6df89227e50ccc7b796b
-  data_hash: 5d7b710669dd7e8d1373e8206def38a9cd867fcb8ef326c67661e3655821c5a4
+    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
+  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
 data:
   Yle Radio 1:
     programmes:
@@ -47,8 +47,8 @@ data:
 
           06:46 Blavet: Huilusonaatti a-molli (Robert Stallman, huilu, Edwin Swanborn, cembalo, ja Karl Bennion, sello).
       - title: '8 klasaria: Michael Praetorius: Es ist ein Ros entsprungen/Tuo armon valkokyyhky – Hymni keskiajalta tuo joulun valon'
-        start_time: '2025-08-17T07:03:00+03:00'
-        end_time: '2025-08-17T07:21:52+03:00'
+        start_time: '2025-08-17T07:02:22+03:00'
+        end_time: '2025-08-17T07:21:13+03:00'
         description: |-
           Kuulas ja levollinen hymni antaa kuulijan laskeutua joulun rauhaan. Hymniteksti kertoo Ruususta, joka avautuu keskitalvella. Ruusu oli keskiaikainen symboli Neitsyt Marialle. Mutta miksi me Suomessa laulamme Armon valkokyyhkystä?
 
@@ -59,11 +59,13 @@ data:
           Toimittaja ja käsikirjoittaja: Eva Tigerstedt
           Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-08-17T07:22:00+03:00'
-        end_time: '2025-08-17T07:59:30+03:00'
-      - title: Maisteri Lindgrenin musiikkiesitelmä
-        start_time: '2025-08-17T08:05:35+03:00'
-        end_time: '2025-08-17T08:59:30+03:00'
+        start_time: '2025-08-17T07:21:13+03:00'
+        end_time: '2025-08-17T07:58:22+03:00'
+      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Ei juhlia ilman musiikkia!'
+        start_time: '2025-08-17T08:05:40+03:00'
+        end_time: '2025-08-17T08:59:22+03:00'
+        description: |
+          "Musiikin tehtävä on universaali, ja siksi kaikki ihmiset tunnistavat musiikin tunnetilat ja siten niiden määrittämät tapahtumat, kuten juhlat, seremoniat, ilon ja surun, fiktion lajityypin, ja siksi kaikki ihmiset käyttävät musiikkia samalla tavalla samoissa tilanteissa, kun heimopäällikkö tai presidentti astuu kansan eteen, kun haluamme vauhdittaa itseämme tai urheilujoukkuetta ennen ottelua tai kun rauhoitamme lapsen uneen ja laulamme kehtolaulun – teemme sen kaikkialla kaikkina aikoina samanlaisella musiikilla." - Minna Lindgren esitelmöi.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-17T09:00:00+03:00'
         end_time: '2025-08-17T09:05:05+03:00'
@@ -171,8 +173,13 @@ data:
           V. Aulin: Romanza (Romanssi) (Lucia Negro, piano).
 
           Tabakova: Orpheus' comet (Hallé-ork./Delyana Lazarova).
+      - title: 'Laura Korhosen Jazzklubi: Liveä levyillä – eli parhaiksi luokiteltuja livejazzalbumeita'
+        start_time: '2025-08-17T17:11:00+03:00'
+        end_time: '2025-08-17T18:09:07+03:00'
+        description: |
+          Live-levyjen viehätys piilee usein odottamattomissa hetkissä, mikä lienee se suurin taika, miksi live-albumeilla on monille niin suuri merkitys. Ja vaikka livekokemus on livekokemus, pyrkii tämä jakso saamaan sellaisen aikaiseksi soittamalla liveä levyiltä.
       - title: 'Jazzklubin illan keikka: Timo Lassy Trio We Jazz -festivaalilla.'
-        start_time: '2025-08-17T18:11:00+03:00'
+        start_time: '2025-08-17T18:09:07+03:00'
         end_time: '2025-08-17T19:00:00+03:00'
         description: |-
           Äänitetty Korjaamon Vaunusalissa 30.11.2024.
@@ -187,13 +194,13 @@ data:
         description: |
           Juontajana Manu Rantanen. Saarnaajana pastori Mikko Ohra-aho.
       - title: Uutispodcast
-        start_time: '2025-08-17T21:03:00+03:00'
+        start_time: '2025-08-17T21:03:22+03:00'
         end_time: '2025-08-17T21:28:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
       - title: '8 klasaria: Michael Praetorius: Es ist ein Ros entsprungen/Tuo armon valkokyyhky – Hymni keskiajalta tuo joulun valon'
         start_time: '2025-08-17T21:29:00+03:00'
-        end_time: '2025-08-17T21:47:52+03:00'
+        end_time: '2025-08-17T21:47:51+03:00'
         description: |-
           Kuulas ja levollinen hymni antaa kuulijan laskeutua joulun rauhaan. Hymniteksti kertoo Ruususta, joka avautuu keskitalvella. Ruusu oli keskiaikainen symboli Neitsyt Marialle. Mutta miksi me Suomessa laulamme Armon valkokyyhkystä?
 
@@ -204,13 +211,13 @@ data:
           Toimittaja ja käsikirjoittaja: Eva Tigerstedt
           Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-08-17T21:49:30+03:00'
-        end_time: '2025-08-17T22:26:30+03:00'
-      - title: Sari Valto
+        start_time: '2025-08-17T21:47:51+03:00'
+        end_time: '2025-08-17T22:25:00+03:00'
+      - title: 'Sari Valto: Oikea sukupuolirooli on elämän ja kuoleman kysymys'
         start_time: '2025-08-17T22:27:00+03:00'
         end_time: '2025-08-17T23:22:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: Yöklassinen
         start_time: '2025-08-17T23:40:00+03:00'
         end_time: '2025-08-18T06:30:00+03:00'
