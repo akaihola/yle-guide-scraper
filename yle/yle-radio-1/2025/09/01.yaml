@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-13T02:37:27.351668+00:00'
+  generated_at: '2025-08-14T02:38:07.050036+00:00'
   git:
     branch: main
-    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
-  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
+    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
+  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
 data:
   Yle Radio 1:
     programmes:
@@ -117,8 +117,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-01T18:50:00+03:00'
         end_time: '2025-09-01T19:00:00+03:00'
-        description: |-
-          Tuottaja-toimittaja Mikko Kurenlahti, Helsinki
+        description: |
+          "Vain usko Kristukseen tekee vanhurskaaksi"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee Galatalaiskirjeestä (2:15-3:29). Paavali puhuu lain tarkoituksesta.
+          Paavalin kirjeitä luetaan maanantai-iltaisin syksyn aikana.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-01T19:00:00+03:00'
         end_time: '2025-09-01T19:02:00+03:00'

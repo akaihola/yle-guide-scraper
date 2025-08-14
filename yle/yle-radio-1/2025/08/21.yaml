@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-13T02:37:24.483386+00:00'
+  generated_at: '2025-08-14T02:38:05.064739+00:00'
   git:
     branch: main
-    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
-  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
+    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
+  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,9 @@ data:
         end_time: '2025-08-21T06:59:59+03:00'
         description: |-
           Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-21T07:00:00+03:00'
+        end_time: '2025-08-21T07:10:00+03:00'
       - title: Aamusoitto
         start_time: '2025-08-21T07:10:00+03:00'
         end_time: '2025-08-21T07:59:59+03:00'
@@ -51,6 +54,9 @@ data:
 
           Hurlstone: Allegro comodo pianotriosta G-duuri (Trio Anima Mundi).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-21T08:00:00+03:00'
+        end_time: '2025-08-21T08:10:00+03:00'
       - title: Ykkösaamu
         start_time: '2025-08-21T08:10:00+03:00'
         end_time: '2025-08-21T09:00:00+03:00'
@@ -77,6 +83,9 @@ data:
           Gold/Goland: Comment te dire adieu? (Francoise Hardy).
 
           Toimittajana Susanna Vainiola.
+      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+        start_time: '2025-08-21T10:00:00+03:00'
+        end_time: '2025-08-21T10:52:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-21T10:52:00+03:00'
         end_time: '2025-08-21T11:00:00+03:00'
@@ -114,6 +123,22 @@ data:
         end_time: '2025-08-21T15:00:00+03:00'
         description: |-
           Radio 1:n iltapäivän musiikissa keinuvat niin kevyt jazz, etnomusiikki kuin populaarimusiikin helmetin. Juontajana Miia Lahti. Kello 14:n jälkeen torstaisin puhumme elokuussa harrastusten aloittamisesta aikuisiällä. Tänään pohditaan balettitanssin aloittamisesta aikuisena. Toi. Tatu Tamminen (uus.). N. klo 14:30  Värttinästäkin tuttu laulaja Karoliina Kantelinen pohtii omaa kulttuurikokemustaan. Toimittajana Marja Vehkanen.
+      - title: Yle Uutiset
+        start_time: '2025-08-21T15:00:00+03:00'
+        end_time: '2025-08-21T15:02:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-08-21T15:02:00+03:00'
+        end_time: '2025-08-21T15:55:00+03:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-08-21T15:55:00+03:00'
+        end_time: '2025-08-21T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-21T16:00:00+03:00'
+        end_time: '2025-08-21T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-08-21T16:10:00+03:00'
         end_time: '2025-08-21T16:59:00+03:00'
@@ -141,6 +166,14 @@ data:
           Granados (sov. de Godzinsky): Danza espanola n:o 5 (Arto Juusela, kitara, Radion viihdeork./George de Godzinsky). 
 
           Turina: Villi juhla (Dallasin SO/Eduardo Mata).  
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-21T17:00:00+03:00'
+        end_time: '2025-08-21T17:10:00+03:00'
+      - title: Uutispodcast
+        start_time: '2025-08-21T17:10:00+03:00'
+        end_time: '2025-08-21T17:34:20+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
       - title: Tuuli Saksalan keidas
         start_time: '2025-08-21T17:35:00+03:00'
         end_time: '2025-08-21T18:25:00+03:00'
@@ -162,11 +195,17 @@ data:
         description: |
           "Äiti, saanko minäkin Kristuksen keksin?"
           Uskontokasvatuksen tutkija Saila Poulter Vihdistä on pienen lapsen kanssa ehtoollisjonossa ja pohtii ruoan, aterioimisen sekä elämän leivän merkityksiä kristinuskossa.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-21T19:00:00+03:00'
+        end_time: '2025-08-21T19:02:00+03:00'
       - title: Terveisiä Ijahid Idjasta Inarista
         start_time: '2025-08-21T19:02:00+03:00'
         end_time: '2025-08-21T21:00:00+03:00'
         description: |-
           Ijahis Idja on alkuperäiskansojen musiikkitapahtuma, jota on Inarin kirkonkylällä järjestetty vuodesta 2004 alkaen. Toimittaja Laura Korhonen vieraili festivaalilla viikonloppuna. Hän tapasi esiintyjiä, järjestäjiä ja yleisöä. Pääsemme myös mukaan Kajsa Balton konserttiin.
+      - title: Yle Uutiset
+        start_time: '2025-08-21T21:00:00+03:00'
+        end_time: '2025-08-21T21:02:00+03:00'
       - title: Kurkistus intiaanikieliin - mayakielet
         start_time: '2025-08-21T21:05:00+03:00'
         end_time: '2025-08-21T21:25:00+03:00'
@@ -178,4 +217,16 @@ data:
         end_time: '2025-08-21T22:30:00+03:00'
         description: |2+
 
-...
+      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        start_time: '2025-08-21T22:30:30+03:00'
+        end_time: '2025-08-21T22:49:30+03:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-08-21T23:00:00+03:00'
+        end_time: '2025-08-21T23:56:30+03:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Yöklassinen
+        start_time: '2025-08-22T00:00:00+03:00'
+        end_time: '2025-08-22T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.

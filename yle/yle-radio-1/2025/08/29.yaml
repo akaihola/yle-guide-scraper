@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-13T02:37:26.604466+00:00'
+  generated_at: '2025-08-14T02:38:06.518195+00:00'
   git:
     branch: main
-    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
-  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
+    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
+  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
 data:
   Yle Radio 1:
     programmes:
@@ -25,6 +25,28 @@ data:
         description: |
           "Fariseus on vaikea sana – mitä sen tilalle?"
           Pastori, tutkija Jarkko Vikman Keravalta kehottaa Raamattua lukiessa pysähtymään sanan "fariseus" äärelle ja etsimään tälle vaihtoehtoja.
+      - title: Aamusoitto
+        start_time: '2025-08-29T07:10:00+03:00'
+        end_time: '2025-08-29T07:59:59+03:00'
+        description: |+
+          Dvorák (sov. Shilkret): Humoreski n:o 7 Ges-duuri (Detroitin SO/Neeme Järvi).
+
+          Satie (sov. Milhaud): Viisi irvausta näyt. Kesäyön unelma (Jean-Yves Thibaudet, piano).
+
+          Pujol: Romanza (Pepe Romero, kitara). 
+
+          Mozart: Rondo (Carol Wincenc, huilu, ja Emerson-kvartetti).
+
+          Falla: Jota, aragonialainen laulu (Jaime Laredo, viulu, ja Vladimir Sokolov, piano). 
+
+          Piazzolla (sov. Carli): Fuga y misterio ooppera-tangosta Maria de Buenos Aires (Berliinin FO:n selloyhtye).
+
+          Koskinen: Vesireittejä (Philomela/Marjukka Riihimäki).
+
+          Sinding: Kapriisi (Jerome Lowenthal, piano).
+
+          J. Haydn: Rondo (Allegro) sellokonsertosta nro 2 D-duuri (Heinrich Schiff, sello, ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
+
       - title: Ykkösaamu
         start_time: '2025-08-29T08:10:00+03:00'
         end_time: '2025-08-29T09:00:00+03:00'
@@ -100,16 +122,9 @@ data:
         end_time: '2025-08-29T19:02:00+03:00'
       - title: BRQ Vantaa – Lepohetkikonsertti - ranskalaisia sävyjä
         start_time: '2025-08-29T19:02:00+03:00'
-        end_time: '2025-08-29T20:00:00+03:00'
-        description: |-
-          BRQ Vantaa festivaalin lepohetkikonsertti kutsuu pysähtymään kiireen keskellä ja antautumaan ranskalaisen barokin hienovaraiseen kauneuteen. Viola da gamban ja luutun muodostama pehmeä sointi kietoutuu yhteen kuin lämmin peitto. 10.8. Vantaan Pyhän Laurin kirkossa tallennetun konsertin toimittaa Riikka Holopainen.
-
-          Sergio Bucheli, arkkiluuttu
-          Jonathan Manson, viola da gamba
-
-          Marin Marais – Robert Ballard – Georg Philip Telemann – Antoine Forqueray
-
-          Kuvassa: Sergio Bucheli
+        end_time: '2025-08-29T20:05:00+03:00'
+        description: |
+          Jonathan Manson, viola da gamba, Sergio Bucheli, arkkiluuttu. Marin Marais: Suite in A major from Pièces de viole. Robert Ballard: Entrée de Luth; Ballet de M. Le Dauphin; Courante de Princes; Bransles de Village. Georg Philipp Telemann: Fantasia no. 6 in G major for viola da gamba solo. Antoine Forqueray: Suite in D major from Pièces de viole. -Vantaan Pyhän Laurin kirkossa 10.8.25 äänitetyn konsertin toimittaa Riikka Holopainen.
       - title: Yle Uutiset
         start_time: '2025-08-29T21:00:00+03:00'
         end_time: '2025-08-29T21:02:00+03:00'

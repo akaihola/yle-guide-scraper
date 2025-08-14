@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-13T02:37:27.602187+00:00'
+  generated_at: '2025-08-14T02:38:07.229789+00:00'
   git:
     branch: main
-    commit: 42e6f9d52a2a6572581ae7943c6e81d9c513c939
-  data_hash: b38c5aca5cb129021adfcd39a237559a85300c496eda172b0d58e56e5652ab8e
+    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
+  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
 data:
   Yle Radio 1:
     programmes:
@@ -81,9 +81,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-02T12:00:00+03:00'
         end_time: '2025-09-02T12:05:00+03:00'
-      - title: Tiistain kulttuurisarja
+      - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Ilmastokauhua ja pakolaispelkoa 500 vuoden takaa'
         start_time: '2025-09-02T12:05:00+03:00'
         end_time: '2025-09-02T12:25:00+03:00'
+        description: |+
+          Ilmastokauhua ja pakolaispelkoa 500 vuoden takaa. Uuden ajan alun pelkoihin johdattaa historian professori Raisa Toivo Tampereen yliopistosta. Pelon kulttuurihistoriaan matkataan toimittaja Kaisa Pulakan seurassa ja matkaoppaina toimivat eri aikakausien kulttuurihistorian tutkijat.
+
       - title: Aristoteleen kantapää
         start_time: '2025-09-02T12:25:00+03:00'
         end_time: '2025-09-02T12:50:00+03:00'
