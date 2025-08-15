@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-14T02:38:04.903071+00:00'
+  generated_at: '2025-08-15T02:39:23.620682+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,29 @@ data:
         start_time: '2025-08-19T23:40:00+03:00'
         end_time: '2025-08-20T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Respighi: Vanhoja aarioita ja tansseja, sarja n:o 2 (Los Angelesin kamariork./Neville Marriner).
+
+          23:58 F. Doppler: Amerikkalainen duettino (Alain Marion ja Jean-Louis Beaumadier, huilu, sekä Edouard Exerjean, piano).
+
+          00:07 Arenski: Balettisarja Egyptin öitä (Neuvostoliiton radion SO/Boris Demtshenko).
+
+          00:27 Reinecke: Kvartetto pianolle ja jousille n:o 2 D-duuri (Linos-yhtye).
+
+          00:46 Elgar: The Light of Life (Elämän valo) (Judith Howarth, sopraano, Linda Finnie, altto, Arthur Davies, tenori, ja John Shirley-Quirk, baritoni, sekä Lontoon sinfoniakuoro ja Lontoon SO/Richard Hickox).
+
+          01:50 Beethoven: Pianosonaatit n:o 8 c-molli (Pateettinen), n:o 9 E-duuri, n:o 10 G-duuri, n:o 13 Es-duuri ja n:o 14 cis-molli (Kuutamo) (Walter Gieseking).
+
+          03:06 Tshaikovski: Sarja orkesterille n:o 3 G-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          03:49 Chadwick: Sinfonisia luonnoksia (Detroitin SO/Neeme Järvi).
+
+          04:18 Saint-Saëns: Viulukonsertto n:o 2 C-duuri (Jean-Jacques Kantorow  ja Tapiola Sinfonietta/Tuomas Ollila).
+
+          04:45 Dukas: Villanelle (Esa Tukia, käyrätorvi, ja RSO/Michael Adelson).
+
+          04:54 J.S. Bach: Viulusonaatit n:o 1-6 (Elisabeth Blumenstock, viulu ja John Butt, cembalo).
+
+          06:26 Anonyymi: Tom Scarlett (David Douglass, viulu, Paul O´Dette, teorbi, ja Andrew Lawrence-King, harppu).
       - title: Hartaita säveliä
         start_time: '2025-08-20T06:30:50+03:00'
         end_time: '2025-08-20T06:50:00+03:00'
@@ -29,8 +51,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-08-20T06:50:00+03:00'
         end_time: '2025-08-20T06:59:59+03:00'
-        description: |-
-          Dosentti, viininviljelijä Kari Latvus, Tampere
+        description: |
+          "Taloudellisen laman teologiaa"
+          Dosentti, viininviljelijä Kari Latvus Tampereelta kertoo omaelämäkerrallisen hartaussarjansa neljännessä osassa lama-ajan avaamaa näkymää Jumalan valtakunnan merkitykseen. Sarja jatkuu (4/6).
       - title: Aamusoitto
         start_time: '2025-08-20T07:10:00+03:00'
         end_time: '2025-08-20T07:59:59+03:00'
@@ -205,5 +228,35 @@ data:
       - title: Yöklassinen
         start_time: '2025-08-20T23:40:00+03:00'
         end_time: '2025-08-21T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Zelenka: Sonaatti n:o 5 kahdelle oboelle, fagotille ja continuolle F-duuri (Ensemble Berlin Prag).
+
+          23:56 Huuskonen: Konsertto harmonikalle ja jousiorkesterille (Baltic) (Matti Rantanen ja RSO/Jorma Panula).
+
+          00:16 Chopin: Fantasia f-molli (Artur Rubinstein, piano).
+
+          00:29 Brahms: Sinfonia n:o 1 c-molli (Bostonin SO/Andris Nelsons).
+
+          01:15 Mendelssohn: Sonaatti sellolle ja pianolle n:o 1 B-duuri (Terry King ja Robert Moeling).
+
+          01:42 Franck: Pianokvintetto f-molli (Claudio Arrau, piano, ja Juilliard-kvartetti).
+
+          02:18 Sibelius: Kullervo (Marianne Rörholm, mezzosopraano, Jorma Hynninen, baritoni, sekä YL ja Los Angelesin FO/Esa-Pekka Salonen).
+
+          03:29 Kokkonen: Sinfonia n:o 4 (RSO/Paavo Berglund).
+
+          03:50 Byström: Sonaatti n:o 3 Es-duuri (John Storgårds, viulu, ja Tuija Hakkila, fortepiano)
+
+          04:10 Kuula: Orjan poika (Inari Gebhard, sopraano, Mikko Pasanen, baritoni, ja Suomen Laulu sekä RSO/Jussi Jalas).
+
+          04:35 Weingartner: Sekstetto pianolle ja jousille e-molli (Oliver Triendl ja Ensemble Acht).
+
+          05:19 Mendelssohn: Kuusi laulua (RKK/Heikki Liimola).
+
+          05:32 Debussy: Danse sacree et Danse profane (Lisa Wellbaum, harppu, ja Clevelandin ork./Pierre Boulez).
+
+          05:43 Hasse: Alta nubes illustrata (Monique Zanetti, sopraano, ja Le Parlement de Musique/Martin Gester).
+
+          06:04 J.S. Bach: Partita klaveerille n:o 5 G-duuri (Elina Mustonen, cembalo).
+
+          06:27 Byrd: Non vos relinquam orphanos (Rolf Smedvig, trumpetti, johtaja, Empire Brass Quintet, sekä jäseniä: Bostonin SO, New FO ja Boston Pops Esplande Orchestra). 

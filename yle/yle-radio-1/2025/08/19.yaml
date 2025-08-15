@@ -1,12 +1,39 @@
 metadata:
-  generated_at: '2025-08-14T02:38:04.726310+00:00'
+  generated_at: '2025-08-15T02:39:23.010876+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
+      - title: Yöklassinen
+        start_time: '2025-08-18T23:40:00+03:00'
+        end_time: '2025-08-19T06:30:00+03:00'
+        description: |-
+          Händel: Figlio d'alte speranze (Suurien toiveiden poika) (Emma Kirkby, sopraano, ja London Baroque). 
+
+          23:51 Krieger: Sonaatti viululle, viola da gamballe ja continuolle (Trio Settecento).
+
+          00:02 Schubert: Pianosonaatti n:o 16 a-molli (Radu Lupu).
+
+          00:40 J. Haydn: Missa Sancti Bernardi von Offida (Heiligmesse) messu B-duuri (Keith Lewis, Doris Soffel, Petteri Salomaa, Carol Vaness, Dagmar Schellenberger ja Hermann Christian Polster sekä Leipzigin radiokuoro ja Dresdenin valtionork./Neville Marriner).
+
+          01:18 Berlioz: Surumarssi Hamletin viimeistä kohtausta varten (Clevelandin kuoro ja ork./Pierre Boulez).
+
+          01:26 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraalisinfonia) (Baijerin valtionork./Carlos Kleiber).
+
+          02:03 J.S. Bach: Das Wohltemperierte Klavier II, preludit ja fuugat n:o 1-24 (Rosalyn Tureck, piano).
+
+          04:50 Lolli: Viulukonsertto C-duuri op.2/2 (Giuliano Carmignola ja Venetsian barokkiork./Andrea Marcon).
+
+          05:17 E.T.A. Hoffmann: Arlequin (Harlekiini), balettimusiikkia (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          05:49 Marais: Sonate à la Maresienne C-duuri (Le Trio Royal).
+
+          06:03 Förster: Repleta est malis animia nostra (La Capella Ducale ja Musica Fiata Köln/Roland Wilson).
+
+          06:15 J.B. Bach: Sarja orkesterille ja continuolle G-duuri (Freiburgin barokkiork./Thomas Hengelbrock).
       - title: Hartaita säveliä
         start_time: '2025-08-19T06:30:50+03:00'
         end_time: '2025-08-19T06:50:00+03:00'
@@ -69,7 +96,7 @@ data:
           Kansanlaulu: Dry bones (The Delta Rhythm Boys).
           Ellington: It don't mean a thing (Lady Gaga ja Tony Bennett).
           Sedaka/Copy: Kortit (Fredi).
-      - title: Sari Valto
+      - title: 'Sari Valto: Saamelaisidentiteetti voi kukoistaa kaupungissakin'
         start_time: '2025-08-19T10:00:00+03:00'
         end_time: '2025-08-19T10:55:00+03:00'
         description: |-
@@ -121,11 +148,12 @@ data:
         end_time: '2025-08-19T15:00:00+03:00'
         description: |-
           Radio 1:n iltapäivän musiikkikattauksessa on kevyttä jazzia, etnomusiikkia ja populaarimusiikin helmiä. Juontajana Miia Lahti. N. klo 14 puhumme siitä, missä vaiheessa neljä vuotta toimineen saamelaisten totuus- ja sovintokomissiokomission työ on nyt. Toimittaja Suvi King tapasi komission puheenjohtajan Hannele Pokan. N. klo 14:30 Kielen päällä.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Alkuperäiskansat arvostavat luontoa, keskinäistä kunnioitusta ja asioiden jakamista'
         start_time: '2025-08-19T15:02:00+03:00'
         end_time: '2025-08-19T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Kuinka kohdata alkuperäiskansa Amazoniassa, Keniassa ja Fidžin saaristovaltiossa? Keskustelemassa alkuperäiskansatutkimuksen professori Pirjo Kristiina Virtanen, sosiaali- ja kulttuuriantropologian apulaisprofessori Matti Eräsaari sekä Siemenpuusäätiön viestintä- ja ohjelmakoordinaattori Timo Kuronen. Toimittajana Jakke Holvas.
+
       - title: Yle News
         start_time: '2025-08-19T15:55:00+03:00'
         end_time: '2025-08-19T15:58:00+03:00'
@@ -184,11 +212,14 @@ data:
       - title: Iltahartaus
         start_time: '2025-08-19T18:50:00+03:00'
         end_time: '2025-08-19T19:00:00+03:00'
-        description: |-
-          Arkkipiispa Elia, Ortodoksinen kirkko, Helsinki
-      - title: Ääniversumi
+        description: |
+          "Älä vaikene vääryyden edessä"
+          Arkkipiispa Elia, Ortodoksinen kirkko, Helsingistä muistaa marttyyrikuoleman kärsineitä ja maan hiljaisia sekä kehottaa selkeästi tuomitsemaan vääryyden.
+      - title: Sailboat Galiola Nuria  - keskeneräinen päiväkirja
         start_time: '2025-08-19T19:02:00+03:00'
         end_time: '2025-08-19T19:40:00+03:00'
+        description: |-
+          Teos on keväällä kuolleen  serbialaisen äänitaiteen pioneerin Arsenije Jovanovićin viimeiseksi jäänyt ja ehkä rakkain ääniteos. Se on Jovanovicin purjehduspäiväkirjoihin pohjautuva äänimatka hänen menneisyytensä merille.
       - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Jos on pelkoa, on oltava myös toivoa.'
         start_time: '2025-08-19T20:00:00+03:00'
         end_time: '2025-08-19T20:20:00+03:00'
@@ -219,4 +250,26 @@ data:
         start_time: '2025-08-19T23:40:00+03:00'
         end_time: '2025-08-20T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Respighi: Vanhoja aarioita ja tansseja, sarja n:o 2 (Los Angelesin kamariork./Neville Marriner).
+
+          23:58 F. Doppler: Amerikkalainen duettino (Alain Marion ja Jean-Louis Beaumadier, huilu, sekä Edouard Exerjean, piano).
+
+          00:07 Arenski: Balettisarja Egyptin öitä (Neuvostoliiton radion SO/Boris Demtshenko).
+
+          00:27 Reinecke: Kvartetto pianolle ja jousille n:o 2 D-duuri (Linos-yhtye).
+
+          00:46 Elgar: The Light of Life (Elämän valo) (Judith Howarth, sopraano, Linda Finnie, altto, Arthur Davies, tenori, ja John Shirley-Quirk, baritoni, sekä Lontoon sinfoniakuoro ja Lontoon SO/Richard Hickox).
+
+          01:50 Beethoven: Pianosonaatit n:o 8 c-molli (Pateettinen), n:o 9 E-duuri, n:o 10 G-duuri, n:o 13 Es-duuri ja n:o 14 cis-molli (Kuutamo) (Walter Gieseking).
+
+          03:06 Tshaikovski: Sarja orkesterille n:o 3 G-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          03:49 Chadwick: Sinfonisia luonnoksia (Detroitin SO/Neeme Järvi).
+
+          04:18 Saint-Saëns: Viulukonsertto n:o 2 C-duuri (Jean-Jacques Kantorow  ja Tapiola Sinfonietta/Tuomas Ollila).
+
+          04:45 Dukas: Villanelle (Esa Tukia, käyrätorvi, ja RSO/Michael Adelson).
+
+          04:54 J.S. Bach: Viulusonaatit n:o 1-6 (Elisabeth Blumenstock, viulu ja John Butt, cembalo).
+
+          06:26 Anonyymi: Tom Scarlett (David Douglass, viulu, Paul O´Dette, teorbi, ja Andrew Lawrence-King, harppu).

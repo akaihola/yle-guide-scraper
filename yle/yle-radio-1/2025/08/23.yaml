@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-14T02:38:05.411395+00:00'
+  generated_at: '2025-08-15T02:39:24.838055+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
@@ -11,12 +11,55 @@ data:
         start_time: '2025-08-22T23:40:00+03:00'
         end_time: '2025-08-23T07:30:00+03:00'
         description: |-
-          Klassista musiikkia.
-      - title: Luomiskertomus
+          Händel: Imeneo (Julianne Baird, sopraano, D´Anna Fortunato, mezzosopraano, Beverly Hoch, sopraano, Jan Opalach, basso, John Ostendorf, basso, sekä Edward Brewer, cembalo, Brewer-kamarikuoro ja Brewer-kamariork./Rudolph Palmer).
+
+          01:35 Fitzenhagen: Sellokonsertto n:o 2 a-molli (Fantastinen) (Alban Gerhardt ja Berliinin saksalainen SO/Stefan Blunier).
+
+          01:55 Chaminade: Pianotrio g-molli (Trio Parnassus).
+
+          02:17 Wilms: Jousikvartetto g-molli (Nomos-kvartetti)
+           
+          02:42 Verdi: Alkusoitto oopp. Kohtalon voima (Amsterdamin Concertgebouw-ork./Riccardo Chailly).
+
+          02:51 Emilie Mayer: Konsertto pianolle ja pienelle orkesterille B-duuri (Ewa Kupiec ja Neubrandenburger Philharmonie/Sebastian Tewinkel).
+
+          03:22 Tshaikovski: Sinfonia n:o 5 e-molli (Philadelphian ork./Christoph Eschenbach).
+
+          04:13 Schumann: Der Arme Peter (Peter Schreier, tenori, ja Norman Shetler, piano).
+
+          04:18 Schumann: Karnevaalikujeilua Wienissä (Piotr Anderszewski, piano).
+
+          04:41 Maw: Sonatiini huilulle ja pianolle (Jeffrey Khaner ja Charles Abramovic).
+
+          04:49 Brunetti: Jousikvartetto n:o 1 g-molli (Schuppanzigh-kvartetti).
+
+          05:10 Schubert - Liszt: Fantasia pianolle ja orkesterille C-duuri "Wanderer" (Michel Béroff ja Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:30 Saint-Saëns: Havanaise (Lisa Batiashvili, viulu, ja RSO/Sakari Oramo).
+
+          05:41 Beethoven: Pianotrio D-duuri (Aavetrio) (Castle-trio).
+
+          06:09 Schubert: Widerspruch (Robert Shaw Chamber Singers/Robert Shaw).
+
+          06:13 Vivaldi: Konsertto kahdelle huilulle, jousille ja continuolle C-duuri (Janet See ja Stephen Schulz, traverso, sekä Philharmonia-barokkiork./Nicholas McGegan).
+
+          06:21 Fuchs: Serenadi jousille n:o 3 e-molli (Camerata Bern/Thomas Füri).
+
+          06:40 Lebrun: Oboekonsertto n:o 5 C-duuri (Bart Schneemann ja Alankomaiden radion kamariork./Jan Willem de Vriend).
+
+          07:04 J.S. Bach: Konsertto A-duuri (Burkhard Glaetzner, oboe d'amore, ja Neues Bachisches Collegium Musicum Leipzig/Max Pommer).
+
+          07:19 de Boismortier: Sonaatti fagotille ja continuolle G-duuri (Peter Whelan ja Ensemble Marsyas).
+      - title: 'Luomiskertomus: Emmi Itäranta - Lumenlaulaja'
         start_time: '2025-08-23T07:31:00+03:00'
         end_time: '2025-08-23T07:56:00+03:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Kirjailija Emmi Itärannan uudessa Lumenlaulaja-romaanissa Kalevalasta tutun Louhen tarina vie lukijan Pohjolaan ja Karjalan laulumaille maailmaan, jossa ihmisillä on taikavoimia, eläinten ominaisuuksia, loitsuhahmoja. 
+          Tosin kuin Kalevalassa, Lumenlaulajan Louhi ei ole paha ja ilkeä. Hän on nuori Lauha-tyttö, joka elää Pohjolassa. Kun Pohjola joutuu sotaan,  aikoo Lauha kostaa hyökkääjille ja ottaa samalla kotinsa takaisin. Silloin kuvaan astuu Louhi.
+
+          Luomiskertomuksen vieraana Lumenlaulaja -romaanin kirjoittanut Emmi Itäranta. 
+
+          Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-23T07:56:00+03:00'
         end_time: '2025-08-23T08:00:00+03:00'
@@ -79,7 +122,7 @@ data:
         start_time: '2025-08-23T10:45:00+03:00'
         end_time: '2025-08-23T11:00:00+03:00'
         description: |
-          Musiikkia lauantain ratoksi. Toimittajana Petri Rinne.
+          Musiikkia lauantain ratoksi.
       - title: Näistä levyistä en luovu
         start_time: '2025-08-23T11:00:00+03:00'
         end_time: '2025-08-23T11:55:00+03:00'
@@ -105,6 +148,22 @@ data:
       - title: Uudet levyt
         start_time: '2025-08-23T13:00:00+03:00'
         end_time: '2025-08-23T14:00:00+03:00'
+        description: |-
+          Hautamäki: Airin pelimannipolkka (Airi Hautamäki ja Alavuden Kaksiriviset). 
+          Kansanlaulu/Ottilia: Rommipottu (Airi ja Pojat). 
+          Hautamäki/Asunmaa: Surumielinen polska (Airi Hautamäki ja El' Milano). 
+          Hautamäki: Airi Hautamäen kurttupolkka (Airi ja Sakalaiskat). 
+          Ojala: Ruusun taival (Kaiunsäde). 
+          Ojala: Koiranelämää (Kaiunsäde). 
+          Taskila: Venny-koiran aamu (Kaiunsäde). 
+          Virkkala: Nuclear ufoo (Veikko Virkkala Band). 
+          Immonen: Kun kaikki seisahtuu (Viba). 
+          Murtola/Venäläinen: Nana - Tuutulaulu (Anna Murtola, Jenni Venäläinen, Lotta-Maria Heiskanen, Joonas Widenius, Ricardo Padilla). 
+          Kallio: Meirami (The world awaits) (Lauri Kallio, Matleena Koivusaari, Ville Rauhala, Ekow Alabi Savage, Jesse Ojajärvi, Jimi Tenor, Joona Kilponen, ja Heikki Tuhkanen). 
+          Lindgren: Mitras (Aition). 
+          Lindgren: Torques (Aition). 
+          Poutanen: Kalliolle, kukkulalle, suolle, tielle, sillan alle (Petra Poutanen, Kielo Kärkkäinen, Laura Moisio, Juha Viitala, Henrika Nieminen). 
+          Metsä: Utuna ulos (Tytti Metsä ja Hyypiöt). 
       - title: Ruben Stiller
         start_time: '2025-08-23T14:00:00+03:00'
         end_time: '2025-08-23T14:55:00+03:00'
@@ -115,7 +174,7 @@ data:
         end_time: '2025-08-23T15:00:00+03:00'
         description: |-
           Metsäyhtiön puukauppatarjous kertoi, miten kaukana viherpesupuheet ja todelliset teot ovat toisistaan, kirjailija Tuomo Pirttimaa toteaa.
-      - title: 'Taistelevat Kärpäset: Pakkotervehtimiskulttuuri ja koirien huonetuoksut'
+      - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Pakkotervehtimiskulttuuri ja koirien huonetuoksut'
         start_time: '2025-08-23T15:00:00+03:00'
         end_time: '2025-08-23T15:18:00+03:00'
         description: |

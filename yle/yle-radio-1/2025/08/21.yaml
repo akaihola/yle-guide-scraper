@@ -1,17 +1,47 @@
 metadata:
-  generated_at: '2025-08-14T02:38:05.064739+00:00'
+  generated_at: '2025-08-15T02:39:23.908864+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-08-20T23:40:00+03:00'
         end_time: '2025-08-21T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Zelenka: Sonaatti n:o 5 kahdelle oboelle, fagotille ja continuolle F-duuri (Ensemble Berlin Prag).
+
+          23:56 Huuskonen: Konsertto harmonikalle ja jousiorkesterille (Baltic) (Matti Rantanen ja RSO/Jorma Panula).
+
+          00:16 Chopin: Fantasia f-molli (Artur Rubinstein, piano).
+
+          00:29 Brahms: Sinfonia n:o 1 c-molli (Bostonin SO/Andris Nelsons).
+
+          01:15 Mendelssohn: Sonaatti sellolle ja pianolle n:o 1 B-duuri (Terry King ja Robert Moeling).
+
+          01:42 Franck: Pianokvintetto f-molli (Claudio Arrau, piano, ja Juilliard-kvartetti).
+
+          02:18 Sibelius: Kullervo (Marianne Rörholm, mezzosopraano, Jorma Hynninen, baritoni, sekä YL ja Los Angelesin FO/Esa-Pekka Salonen).
+
+          03:29 Kokkonen: Sinfonia n:o 4 (RSO/Paavo Berglund).
+
+          03:50 Byström: Sonaatti n:o 3 Es-duuri (John Storgårds, viulu, ja Tuija Hakkila, fortepiano)
+
+          04:10 Kuula: Orjan poika (Inari Gebhard, sopraano, Mikko Pasanen, baritoni, ja Suomen Laulu sekä RSO/Jussi Jalas).
+
+          04:35 Weingartner: Sekstetto pianolle ja jousille e-molli (Oliver Triendl ja Ensemble Acht).
+
+          05:19 Mendelssohn: Kuusi laulua (RKK/Heikki Liimola).
+
+          05:32 Debussy: Danse sacree et Danse profane (Lisa Wellbaum, harppu, ja Clevelandin ork./Pierre Boulez).
+
+          05:43 Hasse: Alta nubes illustrata (Monique Zanetti, sopraano, ja Le Parlement de Musique/Martin Gester).
+
+          06:04 J.S. Bach: Partita klaveerille n:o 5 G-duuri (Elina Mustonen, cembalo).
+
+          06:27 Byrd: Non vos relinquam orphanos (Rolf Smedvig, trumpetti, johtaja, Empire Brass Quintet, sekä jäseniä: Bostonin SO, New FO ja Boston Pops Esplande Orchestra). 
       - title: Hartaita säveliä
         start_time: '2025-08-21T06:30:50+03:00'
         end_time: '2025-08-21T06:50:00+03:00'
@@ -66,7 +96,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-21T09:05:40+03:00'
         end_time: '2025-08-21T09:58:00+03:00'
-        description: |-
+        description: |
           Gillespie/Simons/Whiting: Breezin' along with the breeze (Brook Benton).
           Salvador/Pon: Le loup, la biche et le chevalier (Henri Salvador).
           Stolz: Älä suukkoa pelkää (Tutta Jew).
@@ -81,8 +111,6 @@ data:
           Trenet: Das Meer (Caterina Valente). 
           Popp: Love is blue (Paul Mauriat).
           Gold/Goland: Comment te dire adieu? (Francoise Hardy).
-
-          Toimittajana Susanna Vainiola.
       - title: Maarit Tastula - Yksi maailma, kaksi katsetta
         start_time: '2025-08-21T10:00:00+03:00'
         end_time: '2025-08-21T10:52:00+03:00'
@@ -122,7 +150,7 @@ data:
         start_time: '2025-08-21T13:30:00+03:00'
         end_time: '2025-08-21T15:00:00+03:00'
         description: |-
-          Radio 1:n iltapäivän musiikissa keinuvat niin kevyt jazz, etnomusiikki kuin populaarimusiikin helmetin. Juontajana Miia Lahti. Kello 14:n jälkeen torstaisin puhumme elokuussa harrastusten aloittamisesta aikuisiällä. Tänään pohditaan balettitanssin aloittamisesta aikuisena. Toi. Tatu Tamminen (uus.). N. klo 14:30  Värttinästäkin tuttu laulaja Karoliina Kantelinen pohtii omaa kulttuurikokemustaan. Toimittajana Marja Vehkanen.
+          Radio 1:n iltapäivän musiikissa keinuvat niin kevyt jazz, etnomusiikki kuin populaarimusiikin helmetin. Juontajana Miia Lahti. Kello 14:n jälkeen torstaisin puhumme elokuussa harrastusten aloittamisesta aikuisiällä. Tänään pohditaan balettitanssin aloittamisesta aikuisena. Toim. Tatu Tamminen (uus.). N. klo 14:30  Värttinästäkin tuttu laulaja Karoliina Kantelinen pohtii omaa kulttuurikokemustaan. Toimittajana Marja Vehkanen.
       - title: Yle Uutiset
         start_time: '2025-08-21T15:00:00+03:00'
         end_time: '2025-08-21T15:02:00+03:00'
@@ -179,6 +207,11 @@ data:
         end_time: '2025-08-21T18:25:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Kielen päällä
+        start_time: '2025-08-21T18:25:00+03:00'
+        end_time: '2025-08-21T18:34:20+03:00'
+        description: |-
+          Toimittajana on Jari Aula.
       - title: Hartaita säveliä
         start_time: '2025-08-21T18:35:00+03:00'
         end_time: '2025-08-21T18:50:00+03:00'
@@ -212,6 +245,9 @@ data:
         description: |
           Esittelyssä mayojen kielet.
           Haastateltavana Amerikan tutkimuksen dosentti Harri Kettunen. Toimittajana Jari Aula. Uusinta.
+      - title: Tosi tarina
+        start_time: '2025-08-21T21:35:00+03:00'
+        end_time: '2025-08-21T22:17:00+03:00'
       - title: Musiikkikamari
         start_time: '2025-08-21T22:08:00+03:00'
         end_time: '2025-08-21T22:30:00+03:00'
@@ -229,4 +265,38 @@ data:
         start_time: '2025-08-22T00:00:00+03:00'
         end_time: '2025-08-22T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Buxtehude: Ich suchte des Nachts (Yöllä minä vuoteellani etsin häntä) (Andreas Karasiak, tenori, ja Klaus Mertens, basso, sekä Amsterdamin barokkiork./Ton Koopman).
+
+          00:15 Sjögren: Sonaatti viululle ja pianolle n:o 2 e-molli (Per Enoksson ja Kathryn Stott).
+
+          00:49 J. Haydn: Sellokonsertto n:o 1 C-duuri (Steven Isserlis ja Euroopan kamariork./Roger Norrington).
+
+          01:14 Henselt: Fantasia böömiläis-venäläisestä sävelmästä (Daniel Grimwood, piano).
+
+          01:23 Straube: Sonaatti kitaralle ja continuolle n:o 1 C-duuri (John Williams, kitara, Rafael Puyana, cembalo, ja Jordi Savall, viola da gamba).
+
+          01:39 W.A. Mozart: Käyrätorvikonsertto n:o 2 Es-duuri (William Purvis ja Orpheus-kamariork.).
+
+          01:53 Lanner: Die Mozartisten (Bostonin SO/Erich Leinsdorf).
+
+          02:03 J. Haydn: Sinfonia n:o 67 F-duuri (Philharmonia-barokkiork./Nicholas McGegan).
+
+          02:28 C. Lithander: Divertimento n:o 1 (Mikael Helasvuo, huilu, ja Tuija Hakkila, fortepiano).
+
+          02:38 Fauré: Masques et bergamasques (Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          02:52 Tshaikovski: Viulukonsertto D-duuri (Christian Ferras ja Philharmonia-ork./Constantin Silvestri).
+
+          03:25 Martin: Balladi alttosaksofonille ja orkesterille (Christian Roellinger ja Bernin SO/Dmitri Kitajenko).
+
+          03:41 Brahms: Sinfonia n:o 3 F-duuri (Bostonin SO/Andris Nelsons).
+
+          04:21 Dvorák: Pianotrio n:o 3 f-molli (Emanuel Ax, piano, Young Uck Kim, viulu, ja Yo-Yo Ma, sello).
+
+          05:04 Schubert: Jousikvartetto n:o 15 G-duuri (Quartetto Italiano).
+
+          06:00 Locatelli: Sonaatti huilulle ja continuolle C-duuri op.2/1 (Barthold Kuijken, traverso, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+
+          06:08 Dowland: Resolution-pavana (Paul O'Dette, luuttu).
+
+          06:14 Hammerschmidt: Sarja d-molli (Jordi Savall/Hesperion XX)

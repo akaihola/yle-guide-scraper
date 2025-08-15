@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-14T02:38:04.004111+00:00'
+  generated_at: '2025-08-15T02:39:15.653657+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
@@ -99,6 +99,11 @@ data:
       - title: Ykkösaamu
         start_time: '2025-08-15T08:10:00+03:00'
         end_time: '2025-08-15T09:00:00+03:00'
+        description: |-
+          Ukrainan tulevaisuudesta neuvotellaan Alaskassa tänä iltana, kun Yhdysvaltain ja Venäjän presidentit tapaavat toisensa. Ennakko-odotuksia analysoivat 
+          Viron kansainvälisen puolustustutkimuskeskuksen johtaja Kristi Raik, kansainvälisen politiikan professori Tuomas Forsberg ja Ylen Venäjän-kirjeenvaihtaja Mika Hentunen.
+          Keskustelemme myös vuokralaisen oikeuksista tilanteessa, jossa edessä on pakkomuutto. Esimerkiksi Mikkelin kaupunki on irtisanonut asukkaiden vuokrasopimuksia vastaanottokeskuksen tieltä ja tarjonnut asukkaille uusia koteja. Miten poikkeuksellisesta asiasta on kyse?
+          Lopuksi Ylen musiikkitoimittaja Pekka Laine käy läpi laulaja Katri Helenan 62-vuotista uraa, joka päättyy huomenna viimeiseen konserttiin Olympiastadionilla. Juontajana Pirjo Auvinen.
       - title: Muistojen bulevardi
         start_time: '2025-08-15T09:05:40+03:00'
         end_time: '2025-08-15T09:58:00+03:00'
@@ -117,7 +122,7 @@ data:
       - title: Raha-Suomen henkilökuvat - Kyösti Kakkonen
         start_time: '2025-08-15T10:00:00+03:00'
         end_time: '2025-08-15T10:30:00+03:00'
-        description: |-
+        description: |
           Kyösti Kakkonen on luonut mittavan omaisuutensa hyvän bisnesvainun, maalaisjärjen ja hieman myös onnen avulla. Raha-Suomi-sarjaan Kyösti Kakkosta haastatteli Pekka Laine. Hänen henkilökuvansa toimitti Simo Sipola. 
       - title: 'Maisteri Lindgrenin musiikkiesitelmä: Ei juhlia ilman musiikkia!'
         start_time: '2025-08-15T11:00:00+03:00'
@@ -184,8 +189,11 @@ data:
       - title: Uutispodcast
         start_time: '2025-08-15T17:10:00+03:00'
         end_time: '2025-08-15T17:25:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |+
+          Salatut elämät on pysynyt suosiossa jo yli 25 vuotta. Millainen koneisto ja luova työ takaavat kuusi jaksoa viikossa, ja miksi salkkarit on sukupolvikokemus, josta riittää aina uusia juonenkäänteitä? 
+
+          Uutispodcastissa kuullaan tänään Ylen Kulttuuricocktailin toimittaja Piritta Räsäsen juttu ”Salkkarit mullisti television”. Räsänen sukelsi salkkarien kulisseihin, haastatteli lukuisia käsikirjoittajia ja ymmärsi juttuprosessin aikana, miten valtavalla koneistolla sarjaa tehdään. Atte Uusinoka haastattelee.  
+
       - title: 'Näistä levyistä en luovu: Puheenjohtaja Minja Koskela - uusien sointien etsijä'
         start_time: '2025-08-15T17:35:00+03:00'
         end_time: '2025-08-15T18:30:00+03:00'
@@ -245,19 +253,19 @@ data:
       - title: Politiikkaradio
         start_time: '2025-08-15T21:05:00+03:00'
         end_time: '2025-08-15T21:34:30+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Maailmanpolitiikka'
         start_time: '2025-08-15T21:35:00+03:00'
-        end_time: '2025-08-15T22:24:30+03:00'
+        end_time: '2025-08-15T22:23:25+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-08-15T22:25:00+03:00'
-        end_time: '2025-08-15T23:15:00+03:00'
+        start_time: '2025-08-15T22:23:56+03:00'
+        end_time: '2025-08-15T23:14:07+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Aristoteleen kantapää: Kellokalle, mustamaija, asiapertti – miten erisnimestä tulee yleissana'
-        start_time: '2025-08-15T23:15:08+03:00'
-        end_time: '2025-08-15T23:39:30+03:00'
+        start_time: '2025-08-15T23:14:58+03:00'
+        end_time: '2025-08-15T23:39:20+03:00'
         description: |-
           Väitöskirjatutkija Maria Sarhemaa tutustuttaa Pasi Heikuran kielen ilmiöön, jossa ihmisen nimestä tulee yleisnimi – kuten sanassa eräjorma. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen

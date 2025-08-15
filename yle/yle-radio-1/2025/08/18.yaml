@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-14T02:38:04.552364+00:00'
+  generated_at: '2025-08-15T02:39:22.385691+00:00'
   git:
     branch: main
-    commit: fcd6d844b49b6aa30da7a28856d4c8dea973a0d2
-  data_hash: ca37aaace72f8854f06936f3497b9da5fdfce5d0c9823ad1347037e53240fb77
+    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
+  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
 data:
   Yle Radio 1:
     programmes:
@@ -188,7 +188,7 @@ data:
           Paavalin kirjeitä luetaan maanantai-iltaisin kesän ja syksyn aikana.
       - title: 'Tosi tarina: Tahko - luontodokumentti ihmisistä'
         start_time: '2025-08-18T19:02:00+03:00'
-        end_time: '2025-08-18T19:50:00+03:00'
+        end_time: '2025-08-18T19:44:00+03:00'
         description: |
           Ihminen tarvitsee lajitoveriensa seuraa tavalla tai toisella…
 
@@ -202,17 +202,15 @@ data:
           Äänisuunnittelu: Hanna-Helena Kinnunen ja Pauliina Motturi
           Tuottajat: Heikki Soini ja Sami Hahtala
       - title: Musiikkikamari
-        start_time: '2025-08-18T19:35:00+03:00'
+        start_time: '2025-08-18T19:44:00+03:00'
         end_time: '2025-08-18T20:00:00+03:00'
-        description: |2+
-
       - title: Raha-Suomen henkilökuvat - Kyösti Kakkonen
-        start_time: '2025-08-18T20:30:00+03:00'
-        end_time: '2025-08-18T21:00:00+03:00'
-        description: |-
+        start_time: '2025-08-18T20:00:00+03:00'
+        end_time: '2025-08-18T20:30:00+03:00'
+        description: |
           Kyösti Kakkonen on luonut mittavan omaisuutensa hyvän bisnesvainun, maalaisjärjen ja hieman myös onnen avulla. Raha-Suomi-sarjaan Kyösti Kakkosta haastatteli Pekka Laine. Hänen henkilökuvansa toimitti Simo Sipola. 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-08-18T20:55:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2025-08-18T20:30:00+03:00'
         end_time: '2025-08-18T21:00:00+03:00'
       - title: Kurkistus intiaanikieliin - yleiskatsaus
         start_time: '2025-08-18T21:05:00+03:00'
@@ -234,3 +232,30 @@ data:
         end_time: '2025-08-18T23:39:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Yöklassinen
+        start_time: '2025-08-18T23:40:00+03:00'
+        end_time: '2025-08-19T06:30:00+03:00'
+        description: |-
+          Händel: Figlio d'alte speranze (Suurien toiveiden poika) (Emma Kirkby, sopraano, ja London Baroque). 
+
+          23:51 Krieger: Sonaatti viululle, viola da gamballe ja continuolle (Trio Settecento).
+
+          00:02 Schubert: Pianosonaatti n:o 16 a-molli (Radu Lupu).
+
+          00:40 J. Haydn: Missa Sancti Bernardi von Offida (Heiligmesse) messu B-duuri (Keith Lewis, Doris Soffel, Petteri Salomaa, Carol Vaness, Dagmar Schellenberger ja Hermann Christian Polster sekä Leipzigin radiokuoro ja Dresdenin valtionork./Neville Marriner).
+
+          01:18 Berlioz: Surumarssi Hamletin viimeistä kohtausta varten (Clevelandin kuoro ja ork./Pierre Boulez).
+
+          01:26 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraalisinfonia) (Baijerin valtionork./Carlos Kleiber).
+
+          02:03 J.S. Bach: Das Wohltemperierte Klavier II, preludit ja fuugat n:o 1-24 (Rosalyn Tureck, piano).
+
+          04:50 Lolli: Viulukonsertto C-duuri op.2/2 (Giuliano Carmignola ja Venetsian barokkiork./Andrea Marcon).
+
+          05:17 E.T.A. Hoffmann: Arlequin (Harlekiini), balettimusiikkia (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          05:49 Marais: Sonate à la Maresienne C-duuri (Le Trio Royal).
+
+          06:03 Förster: Repleta est malis animia nostra (La Capella Ducale ja Musica Fiata Köln/Roland Wilson).
+
+          06:15 J.B. Bach: Sarja orkesterille ja continuolle G-duuri (Freiburgin barokkiork./Thomas Hengelbrock).
