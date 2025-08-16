@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-15T02:39:25.041080+00:00'
+  generated_at: '2025-08-16T02:35:19.911287+00:00'
   git:
     branch: main
-    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
-  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
+    commit: d19bdbcd8a9ec22b2181528d554e5df32cc31816
+  data_hash: aa2e424eeb3c690805e26db3c5c5ef554a5f30391acc5672c40bbfb3db4cb935
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-24T11:00:00+03:00'
         end_time: '2025-08-24T11:57:00+03:00'
+        description: |-
+          Grieg: Aamutunnelma orkesterisarjasta Peer Gynt (Boston Pops -orkesteri/Arthur Fiedler).
+          Lindfors: Musik ska byggas utav glädje (Lill Lindfors).
+          Jobim: Wave (Frank Sinatra).
+          Jobim: So tinha de ser com voce (Branford Marsalis Quartet).
+          Bonfa: A day in a life of a fool (Henry Mancinin orkesteri).
+          Rodgers: Manhattan (Jörgen Petersen).
+          Bernstein: America (Carola).
+          Lindström: Sininen laguuni (Helena Siltala).
+          Loke: Asfalttikukka (Topi Aaltonen ja Suomi Jazz Orkesteri).
+          Wehle: Tee nyt jotakin (Terttu Raija ja Matti Jurva).
+          Trenet: Menilmontant (Charles Trenet).
+          De Moraes: Berceuse (Francoise Hardy).
+          Rodgers: My favorite things (Julie Andrews).
+          Duke; What is there to say? (Bill Evans).
       - title: Yle Uutiset ja sää
         start_time: '2025-08-24T12:00:00+03:00'
         end_time: '2025-08-24T12:05:00+03:00'
@@ -61,9 +76,11 @@ data:
         end_time: '2025-08-24T13:57:00+03:00'
         description: |
           Valitse piste ja lähde siitä retkelle pitkin suoraa viivaa, arpomaasi suuntaan. Älä poikkea viivalta. Voiko näin retkeillä? Mitä silloin näkee? Miltä se tuntuu? Musiikkitoimittaja Kare Eskolan ihmiskoe porautuu retkeilyn, leikin ja suomalaisen metsän läpi niin suoraan kuin mahdollista. Elokuun neljät Välilevyt on tehty kesän aikana retkillä.
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Hannu Lauerma: Miksi ihminen massamurhaa lajitovereitaan?'
         start_time: '2025-08-24T14:00:00+03:00'
         end_time: '2025-08-24T14:52:00+03:00'
+        description: |-
+          Voivatko vanhempien traumat siirtyä geeneissä eteenpäin? Maarit Tastulan vieraana oikeuspsykiatrin ylilääkäri Hannu Lauerma.
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-24T14:52:00+03:00'
         end_time: '2025-08-24T14:55:00+03:00'

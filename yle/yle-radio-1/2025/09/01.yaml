@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-15T02:39:27.206869+00:00'
+  generated_at: '2025-08-16T02:35:21.850259+00:00'
   git:
     branch: main
-    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
-  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
+    commit: d19bdbcd8a9ec22b2181528d554e5df32cc31816
+  data_hash: aa2e424eeb3c690805e26db3c5c5ef554a5f30391acc5672c40bbfb3db4cb935
 data:
   Yle Radio 1:
     programmes:
@@ -35,6 +35,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-01T07:05:00+03:00'
         end_time: '2025-09-01T07:59:59+03:00'
+        description: |+
+          Rubinstein: Sävelmä F-duuri (Kerava-kvartetti).
+
+          Schubert: An Silvia (Gérard Souzay, baritoni, ja Dalton Baldwin, piano).
+
+          Reger: Albuminlehti Es-duuri (Eduard Brunner, klarinetti, ja Gerhard Oppitz, piano).
+
+          Stefani: Amante felice (Marco Beasley, laulu, ja Accordone/Guido Morini).
+
+          J. S. Bach: Allegro cembalokonsertosta 4 A-duuri (Angela Hewitt, piano, ja Australian kamariork./Richard Tognetti).
+
+          Grandjany: Automne (Syksy) (Lily Laskine, harppu).
+
+          Flotow - Offenbach: Au bord de la mer (Meren rannalla) sarj. Six chants du soir (Estera Rajnicka, sello, ja Carl Petersson, piano).
+
+          Grieg: Alkusoitto sarjasta orkesterille Sigurd Jorsalfar op. 56 näytelmämusiikista (Kölnin radion SO/Eivind Aadland).
+
+          Wagner (sov. Tarrega): Vieraiden saapuminen oopp. Tannhäuser (Timo Korhonen, kitara).
+
+          Williams: Across the stars elok. Star wars - Attack of the clones (Anne-Sophie Mutter, viulu, ja Recording Arts Orchestra of Los Angeles/John Williams).
+
+          George Luther Henderson: The Man I love musik. Lady be good.(Kanadalainen vaskiyhtye).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-01T08:00:00+03:00'
         end_time: '2025-09-01T08:07:00+03:00'

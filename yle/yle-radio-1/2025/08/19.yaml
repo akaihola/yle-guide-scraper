@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-15T02:39:23.010876+00:00'
+  generated_at: '2025-08-16T02:35:18.714443+00:00'
   git:
     branch: main
-    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
-  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
+    commit: d19bdbcd8a9ec22b2181528d554e5df32cc31816
+  data_hash: aa2e424eeb3c690805e26db3c5c5ef554a5f30391acc5672c40bbfb3db4cb935
 data:
   Yle Radio 1:
     programmes:
@@ -52,6 +52,9 @@ data:
         description: |
           "Rukouksen sillalla tavataan"
           Kirkkomuusikko Hanna Penttinen Jyväskylästä puhuu jäähyväisten jättämisen vaikeudesta ja tärkeydestä sekä rukouksen yhdistävästä siteestä.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-19T07:00:00+03:00'
+        end_time: '2025-08-19T07:10:00+03:00'
       - title: Aamusoitto
         start_time: '2025-08-19T07:10:00+03:00'
         end_time: '2025-08-19T07:59:59+03:00'
@@ -74,9 +77,15 @@ data:
 
           Sibelius: Morceau romantique sur un motif de M. Jacob de Julin (Turun filharmoninen ork./Leif Segerstam).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-19T08:00:00+03:00'
+        end_time: '2025-08-19T08:10:00+03:00'
       - title: Ykkösaamu
         start_time: '2025-08-19T08:10:00+03:00'
         end_time: '2025-08-19T09:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-08-19T09:00:00+03:00'
+        end_time: '2025-08-19T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-08-19T09:05:40+03:00'
         end_time: '2025-08-19T09:58:00+03:00'
@@ -148,6 +157,9 @@ data:
         end_time: '2025-08-19T15:00:00+03:00'
         description: |-
           Radio 1:n iltapäivän musiikkikattauksessa on kevyttä jazzia, etnomusiikkia ja populaarimusiikin helmiä. Juontajana Miia Lahti. N. klo 14 puhumme siitä, missä vaiheessa neljä vuotta toimineen saamelaisten totuus- ja sovintokomissiokomission työ on nyt. Toimittaja Suvi King tapasi komission puheenjohtajan Hannele Pokan. N. klo 14:30 Kielen päällä.
+      - title: Yle Uutiset
+        start_time: '2025-08-19T15:00:00+03:00'
+        end_time: '2025-08-19T15:02:00+03:00'
       - title: 'Kulttuuriykkönen: Alkuperäiskansat arvostavat luontoa, keskinäistä kunnioitusta ja asioiden jakamista'
         start_time: '2025-08-19T15:02:00+03:00'
         end_time: '2025-08-19T15:55:00+03:00'
@@ -196,9 +208,29 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-08-19T17:35:00+03:00'
         end_time: '2025-08-19T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Katri Helena tuntuu aina olleen olemassa. Häntä ei ole tarvinnut erikseen ajatella, hän on yhtä selvä asia kuin se että maapallo pyörii. 70-luvulla syntyneelle hän on lapsuuden sankari joka lauloi Pupu Tupunasta ja katsoi sineen taivaan. Aikakaudet ja vuosiluvut poimuttuvat Katri Helenaa kuunnellessa. Niin että tänään vähän kaikki Kissankehdossa liittyy Katri Helenaan -  jopa se kirahvi joka opettelee ajamaan polkupyörää. 
 
+          Vuokko Piironen: Ihailemani iskelmätähdet
+          Katri Helena: Sunnuntaina me autoillaan
+          Bab 'l Bluz: AmmA
+          Litku Klemetti: Kimaltava mekko
+          Bob Dylan: Jokerman
+          Rebekka Holi: Tämä kirahvi
+          The Divine Comedy: The last time I saw the old man
+          David Bowie: Five years
+          Kristiina: Kala vedessä
+          Katri Helena: Jotain suurta tapahtuu
+
+          Taustaksi on luettu (ja kuunneltu):
+
+          Elina Hirvonen: Katri Helena - laulaja (elämäkerta)
+          Mitä Katri Helena teki iässäsi? (Mari Koppinen / HS)
+      - title: 'Viikon luontoääni: pikku-uikku'
+        start_time: '2025-08-19T18:30:00+03:00'
+        end_time: '2025-08-19T18:35:00+03:00'
+        description: |
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2025-08-19T18:35:00+03:00'
         end_time: '2025-08-19T18:50:00+03:00'
@@ -215,11 +247,17 @@ data:
         description: |
           "Älä vaikene vääryyden edessä"
           Arkkipiispa Elia, Ortodoksinen kirkko, Helsingistä muistaa marttyyrikuoleman kärsineitä ja maan hiljaisia sekä kehottaa selkeästi tuomitsemaan vääryyden.
-      - title: Sailboat Galiola Nuria  - keskeneräinen päiväkirja
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-19T19:00:00+03:00'
+        end_time: '2025-08-19T19:02:00+03:00'
+      - title: 'Ääniversumi: Arsenije Jovanović - Sailboat Galiola Nuria'
         start_time: '2025-08-19T19:02:00+03:00'
-        end_time: '2025-08-19T19:40:00+03:00'
+        end_time: '2025-08-19T19:43:00+03:00'
         description: |-
           Teos on keväällä kuolleen  serbialaisen äänitaiteen pioneerin Arsenije Jovanovićin viimeiseksi jäänyt ja ehkä rakkain ääniteos. Se on Jovanovicin purjehduspäiväkirjoihin pohjautuva äänimatka hänen menneisyytensä merille.
+      - title: Musiikkikamari
+        start_time: '2025-08-19T19:43:00+03:00'
+        end_time: '2025-08-19T20:00:00+03:00'
       - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Jos on pelkoa, on oltava myös toivoa.'
         start_time: '2025-08-19T20:00:00+03:00'
         end_time: '2025-08-19T20:20:00+03:00'
@@ -235,11 +273,19 @@ data:
         end_time: '2025-08-19T21:00:00+03:00'
         description: |2+
 
+      - title: Yle Uutiset
+        start_time: '2025-08-19T21:00:00+03:00'
+        end_time: '2025-08-19T21:02:00+03:00'
       - title: Kurkistus intiaanikieliin - nahuatl
         start_time: '2025-08-19T21:05:00+03:00'
         end_time: '2025-08-19T21:25:00+03:00'
         description: |
           Asteekkikieli nahuatlin esittely. Amerikan alkuperäiskulttuurien dosentti Juha Hiltunen Oulun yliopistosta. Toimittajana Jari Aula. Uusinta.
+      - title: Sari Valto
+        start_time: '2025-08-19T21:35:00+03:00'
+        end_time: '2025-08-19T22:29:30+03:00'
+        description: |
+          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Matkalla Euroopassa 1/3: Runoilija Franzen vallankumouksellisessa Pariisissa'
         start_time: '2025-08-19T22:30:00+03:00'
         end_time: '2025-08-19T23:16:00+03:00'

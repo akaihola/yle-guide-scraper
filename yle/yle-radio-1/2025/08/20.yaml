@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-15T02:39:23.620682+00:00'
+  generated_at: '2025-08-16T02:35:19.023135+00:00'
   git:
     branch: main
-    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
-  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
+    commit: d19bdbcd8a9ec22b2181528d554e5df32cc31816
+  data_hash: aa2e424eeb3c690805e26db3c5c5ef554a5f30391acc5672c40bbfb3db4cb935
 data:
   Yle Radio 1:
     programmes:
@@ -54,6 +54,9 @@ data:
         description: |
           "Taloudellisen laman teologiaa"
           Dosentti, viininviljelijä Kari Latvus Tampereelta kertoo omaelämäkerrallisen hartaussarjansa neljännessä osassa lama-ajan avaamaa näkymää Jumalan valtakunnan merkitykseen. Sarja jatkuu (4/6).
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-20T07:00:00+03:00'
+        end_time: '2025-08-20T07:10:00+03:00'
       - title: Aamusoitto
         start_time: '2025-08-20T07:10:00+03:00'
         end_time: '2025-08-20T07:59:59+03:00'
@@ -78,9 +81,15 @@ data:
 
           Nedbal: Die Glocken des Waldes (Tshekkiläinen FO/Václav Neumann).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-20T08:00:00+03:00'
+        end_time: '2025-08-20T08:10:00+03:00'
       - title: Ykkösaamu
         start_time: '2025-08-20T08:10:00+03:00'
         end_time: '2025-08-20T09:00:00+03:00'
+      - title: Yle Uutiset
+        start_time: '2025-08-20T09:00:00+03:00'
+        end_time: '2025-08-20T09:05:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-08-20T09:05:40+03:00'
         end_time: '2025-08-20T09:58:00+03:00'
@@ -141,7 +150,7 @@ data:
         description: |
           Uusi japanilainen elokuva tulee kovaa vauhtia myös Suomen valtavirtaan. Laajaan elokuvateatterilevitykseen loppukesään tulleet Junichi Yasudan ohjaama Samurai in Time sekä Kiyoshi Kurosawan ohjaama Cloud ovat molemmat arvostettuja ja palkittuja uutuusteoksia. 
 
-          Millaista Japanilainen moderni elokuva on? Miten se vertautuu perinteiseen japanilaiseen elokuvaan á la Akira Kurosawa? Mitkä ovat tämän hetken kovimmat elokuvantekijät Japanista, ja millaisia teemoja ne käsittelevät sekä millaisia rajoja rikkovat? Miten japanilainen elokuva vertautuu länsimaiseen elokuvaperinteeseen?
+          Millaista Japanilainen moderni elokuva on? Miten se vertautuu perinteiseen japanilaiseen elokuvaan á la Akira Kurosawa? Mitkä ovat tämän hetken kovimmat elokuvantekijät Japanista, ja millaisia teemoja ne käsittelevät sekä millaisia rajoja ne rikkovat? Miten japanilainen elokuva vertautuu länsimaiseen elokuvaperinteeseen?
 
           Vieraina japanilaista elokuvaa maahantuovan TabiCinen Petteri Uusitalo, Helsinki Aasian Film Festivaalin Eija Niskanen sekä elokuvatoimittaja ja japanologi Viktoria Murskaja. Juhani Kenttämaa toimittaa.
       - title: Yle News
@@ -149,6 +158,9 @@ data:
         end_time: '2025-08-20T15:58:00+03:00'
         description: |-
           Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-20T16:00:00+03:00'
+        end_time: '2025-08-20T16:10:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2025-08-20T16:10:00+03:00'
         end_time: '2025-08-20T16:59:00+03:00'
@@ -170,6 +182,14 @@ data:
           Chopin: Balladi nro 2 F-duuri (Erik T. Tawaststjerna, piano). 
 
           Wiren: Scherzo serenadista jousiorkesterille (Stockholm Sinfonietta/Esa-Pekka Salonen).
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-20T17:00:00+03:00'
+        end_time: '2025-08-20T17:10:00+03:00'
+      - title: Uutispodcast
+        start_time: '2025-08-20T17:10:00+03:00'
+        end_time: '2025-08-20T17:34:20+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
       - title: 'Laura Korhosen Jazzklubi: Kirjeitä maapallolle alkuperäiskansojen jazzin sävelin'
         start_time: '2025-08-20T17:35:00+03:00'
         end_time: '2025-08-20T18:35:00+03:00'
@@ -192,6 +212,9 @@ data:
           "Äänetön huutosi kuultiin"
           Kestävyysasiantuntija Anssi Almgren Helsingistä puhuu toivosta erityisesti sinulle, joka kirjoitit seinään tekstin: Huomenna on toivoton päivä.
 
+      - title: Yle Uutiset ja sää
+        start_time: '2025-08-20T19:00:00+03:00'
+        end_time: '2025-08-20T19:02:00+03:00'
       - title: 'Mäntän musiikkijuhlat: Juho Pohjosen konsertti'
         start_time: '2025-08-20T19:02:00+03:00'
         end_time: '2025-08-20T21:00:00+03:00'
@@ -213,6 +236,9 @@ data:
           Le baiser de l'Enfant-Jésus
 
           Kuva: c Marco Borggreve
+      - title: Yle Uutiset
+        start_time: '2025-08-20T21:00:00+03:00'
+        end_time: '2025-08-20T21:02:00+03:00'
       - title: Kurkistus intiaanikieliin - quetschua
         start_time: '2025-08-20T21:05:00+03:00'
         end_time: '2025-08-20T21:25:00+03:00'

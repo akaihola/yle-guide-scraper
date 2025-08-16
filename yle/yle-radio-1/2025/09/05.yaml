@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-15T02:39:28.118625+00:00'
+  generated_at: '2025-08-16T02:35:22.459092+00:00'
   git:
     branch: main
-    commit: b1a8ff7b9b0b02ad6b70bd7ca0a374d5b5f72654
-  data_hash: ddfca61660779ad7bb142eaf28e9919acff2b46b291330cc5a88dbd93586bad3
+    commit: d19bdbcd8a9ec22b2181528d554e5df32cc31816
+  data_hash: aa2e424eeb3c690805e26db3c5c5ef554a5f30391acc5672c40bbfb3db4cb935
 data:
   Yle Radio 1:
     programmes:
@@ -122,32 +122,18 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-05T18:50:00+03:00'
         end_time: '2025-09-05T19:00:00+03:00'
-        description: |-
-          Projektipäällikkö Heikki Nenonen, Helsinki
+        description: |
+          "Elämän Henki puuskuttaa ylämäkeen" 
+          Loppukesän perjantai-illoissa puhutaan juoksemisen hengellisyydestä. Projektipäällikkö Heikki Nenonen Helsingistä kiittää hengästyneenä juostessaan Jumalaa elämän Hengestä.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-05T19:00:00+03:00'
         end_time: '2025-09-05T19:02:00+03:00'
       - title: 'Helsingin kaupunginorkesterin konsertti: Jälleennäkeminenn'
         start_time: '2025-09-05T19:02:00+03:00'
         end_time: '2025-09-05T21:00:00+03:00'
-        description: |
-          Helsingin kaupunginorkesterin taiteellinen johtotiimi – Jukka-Pekka Saraste, Pekka Kuusisto ja Anna Thorvaldsdottir – avaa ovet inspiroivaan konserttisyksyyn. 
-
-          Nykymusiikin islantilainen supertähti Anna Thorvaldsdottir on alkavalla konserttikaudella Helsingin kaupunginorkesterin residenssisäveltäjä. Aeriality on hänen soiva käyntikorttinsa. ”Teos, jonka kuullakseni matkustaisin pitkän matkan.” (Ateş Orga, Classical Source) Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Riikka Holopainen.
-
-          Helsingin kaupunginorkesteri
-          Jukka-Pekka Saraste, kapellimestari
-          Pekka Kuusisto, kapellimestari/viulu
-          Kreeta-Julia Heikkilä, viulu
-
-          Ohjelma:
-
-          Anna Thorvaldsdottir: Aeriality (ensiesitys Suomessa)
-          Samy Moussa: Stasis for eight spatialised French horns with gongs (ensiesitys Suomessa)
-          Anna Clyne: Prince of Clouds
-          Johannes Brahms: Sinfonia nro 2
-
-          Kuva: Anna Thorvaldsdottir (© Anna Maggý) 
+        description: |-
+          Jukka-Pekka Saraste, kapellimestari, Pekka Kuusisto, kapellimestari/viulu, Kreeta-Julia Heikkilä, viulu. - Anna Thorvaldsdottir: Aeriality (ekS). Samy Moussa: Stasis for eight spatialised French horns with gongs (ekS). Anna Clyne: Prince of Clouds. Johannes Brahms: Sinfonia nro 2. 
+          -Suoran lähetyksen musiikkitalosta toimittaa Riikka Holopainen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-05T21:00:00+03:00'
         end_time: '2025-09-05T21:05:00+03:00'
