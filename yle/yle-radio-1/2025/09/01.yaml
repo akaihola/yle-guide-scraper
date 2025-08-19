@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-18T02:43:53.265940+00:00'
+  generated_at: '2025-08-19T02:34:51.753028+00:00'
   git:
     branch: main
-    commit: f6182eda9940bb2070bb772e9967e9167ed531bf
-  data_hash: 30643fdd27bd1e2a255d17a7da3b6a15cdde92d3845c31f9d38c59ece271bb75
+    commit: 55eb50cf576e6b2962fbfece5e126b5ad4e85fa3
+  data_hash: bf87fb6a289e90e0126497f4e408006e763b97096cba3c2ea1d9d5ba351feda6
 data:
   Yle Radio 1:
     programmes:
@@ -74,7 +74,7 @@ data:
         start_time: '2025-09-01T10:00:00+03:00'
         end_time: '2025-09-01T10:52:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Huumorilla rahaa - vieraana Valtteri Lindholm
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-01T10:52:00+03:00'
         end_time: '2025-09-01T11:00:00+03:00'
@@ -118,6 +118,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-01T16:07:00+03:00'
         end_time: '2025-09-01T16:59:00+03:00'
+        description: |-
+          Pachelbel: Kaanon ja gigue D-duuri (John Holloway, Stanley Ritchie ja Andrew Manze, viulu, sekä John Toll, cembalo, Nigel North, teorbi, ja Mary Springfels, viola da gamba).
+
+          Gouvy: Aubade (Aamusoitto) (Andreas Groethuysen, piano, ja Yaara Tal, piano).
+
+          A. Mahler: Bei dir ist es traut (Sinun luonasi on hyvä) kokoelmasta Fünf Lieder (Viisi laulua) (Lilli Paasikivi, mezzosopraano, ja Tampere Filharmonia/Jorma Panula).
+
+          Walter-Kühne - Tshaikovski: Fantasia harpulle Tshaikovskin oopp. Jevgeni Onegin teemoista (Emmanuel Ceysson). 
+
+          Kuula: Merimieslaulu näyt. Meripoikia (YL/Pasi Hyökki).
+
+          Granados: Intermezzo oopp. Goyescas (Barcelonan SO/Pablo Gonzalez).  
+
+          Cawrse: Con fuoco teoksesta Imperfect fourth (Aleksandr Tsiboulski, kitara, Cameron Hill ja Helen Ayres, viulu, Martin Alexander, alttoviulu, sekä Ewen Bramble, sello).
+
+          Beach: Chanson d'amour (Emma Kirkby, sopraano, ja The Romantic Chamber Group of London).
+
+          Narita: Merenrannan laulu (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Korngold: Mariettan laulu "Glück, das mir verblieb" oopp. Kuollut kaupunki (Camilla Nylund, sopraano, ja RSO/Gregor Bühl).
+
+          Schmitt: A tour d'anches (Solisten-Ensemble Berlin).
+
+          Merikanto: Scherzo pianolle (Uusi Radiosekstetti). 
       - title: Uutispodcast
         start_time: '2025-09-01T17:00:00+03:00'
         end_time: '2025-09-01T17:25:00+03:00'
@@ -151,7 +175,7 @@ data:
         start_time: '2025-09-01T19:02:00+03:00'
         end_time: '2025-09-01T19:52:00+03:00'
         description: |-
-          Kun lemmikki kuolee, surun ja järkytyksen voima yllättää. Miten eläinystävän menetyksestä voi selviytyä? Hyvästi ystäväni - audiodokumentti tutkii surun syvyyksiä ja tarjoaa lohtua menetyksen hetkellä. Toteutus: Päivi Leino ja Hanna-Helena Kinnunen.
+          Kun lemmikki kuolee, surun ja järkytyksen voima yllättää. Miten eläinystävän menetyksestä voi selviytyä? Hyvästi ystäväni - audiodokumentti tutkii surun syvyyksiä ja tarjoaa lohtua menetyksen hetkellä. Toteutus Päivi Leino ja Hanna-Helena Kinnunen.
       - title: Musiikkikamari
         start_time: '2025-09-01T19:52:00+03:00'
         end_time: '2025-09-01T20:05:00+03:00'

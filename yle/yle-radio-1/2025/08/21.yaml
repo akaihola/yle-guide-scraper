@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-18T02:43:48.030915+00:00'
+  generated_at: '2025-08-19T02:34:49.067481+00:00'
   git:
     branch: main
-    commit: f6182eda9940bb2070bb772e9967e9167ed531bf
-  data_hash: 30643fdd27bd1e2a255d17a7da3b6a15cdde92d3845c31f9d38c59ece271bb75
+    commit: 55eb50cf576e6b2962fbfece5e126b5ad4e85fa3
+  data_hash: bf87fb6a289e90e0126497f4e408006e763b97096cba3c2ea1d9d5ba351feda6
 data:
   Yle Radio 1:
     programmes:
@@ -57,8 +57,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-08-21T06:50:00+03:00'
         end_time: '2025-08-21T06:59:59+03:00'
-        description: |-
-          Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+        description: |
+          "Jokaisen kupissa on töhnää"
+          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta jakaa saman tien kylkiluittensa väliin iskeytyneen tarinan ja pohtii muiden tuomitsemista.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-21T07:00:00+03:00'
         end_time: '2025-08-21T07:10:00+03:00'
@@ -236,8 +237,8 @@ data:
       - title: Terveisiä Ijahid Idjasta Inarista
         start_time: '2025-08-21T19:02:00+03:00'
         end_time: '2025-08-21T21:00:00+03:00'
-        description: |-
-          Ijahis Idja on alkuperäiskansojen musiikkitapahtuma, jota on Inarin kirkonkylällä järjestetty vuodesta 2004 alkaen. Toimittaja Laura Korhonen vieraili festivaalilla viikonloppuna. Hän tapasi esiintyjiä, järjestäjiä ja yleisöä. Pääsemme myös mukaan Kajsa Balton konserttiin.
+        description: |
+          Ijahis Idja on alkuperäiskansojen musiikkitapahtuma, jota on Inarin kirkonkylällä järjestetty vuodesta 2004 alkaen. Toimittaja Laura Korhonen vieraili festivaalilla viikonloppuna. Hän tapasi festivaalin esiintyjiä ja järjestäjiä. Pääsemme myös mukaan Kajsa Balton konserttiin.
       - title: Yle Uutiset
         start_time: '2025-08-21T21:00:00+03:00'
         end_time: '2025-08-21T21:02:00+03:00'
