@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-19T02:34:50.648008+00:00'
+  generated_at: '2025-08-20T02:34:23.282490+00:00'
   git:
     branch: main
-    commit: 55eb50cf576e6b2962fbfece5e126b5ad4e85fa3
-  data_hash: bf87fb6a289e90e0126497f4e408006e763b97096cba3c2ea1d9d5ba351feda6
+    commit: be1493dc7f05adfe040eb23cb810a1c8bfdf4d44
+  data_hash: 5b70ead241613db128629a0332a0910c3ab64d71756982c73ccae1b255334744
 data:
   Yle Radio 1:
     programmes:
@@ -68,6 +68,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-08-27T09:05:40+03:00'
         end_time: '2025-08-27T09:58:00+03:00'
+        description: |-
+          Lehtinen: Muistan kesän (Kai Hyttinen).
+          Coslow: Romance in the dark (Billie Holiday).
+          Edwards/Wayne: Kohtalon tähti (Timo Jämsen).
+          Morricone:  Per un pugno di dollari (Ennio Morricone).
+          Gainsbourg: La Javanaise (Madeleine Peyroux).
+          Velazquez: Besame mucho (Trio Los Panchos).
+          Fomin: Ja, det var då... (Anita Lindblom).
+          Daffan: Unten kaunis tie (Olavi Virta).
+          Migliacci: Sentimento (Patty Pravo).
+          Gilkyson: Muistoja näin muodostuu (Reijo Kallio).
+          Hatch: Kenen syy, kenen syy (Kristina Hautala).
+          Arlen: It's only a paper moon (Jackie Paris).
+          Walli: En tahdo muistaa (= End of a poem) (Sinikka Sokka).
+          Barbieri: Viimeinen tango Pariisissa (= Last tango in Paris) (Tapani Kansa). 
+          Womack: Quicksand (Bobby Womack & Peace).
       - title: Havaintoja muutoksesta
         start_time: '2025-08-27T10:00:00+03:00'
         end_time: '2025-08-27T10:50:00+03:00'
@@ -98,6 +114,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-08-27T13:30:00+03:00'
         end_time: '2025-08-27T15:00:00+03:00'
+        description: |-
+          Radio 1:n iltapäivässä soivat kevyt jazz, etnomusiikki ja populaarimusiikin helmet. Juontajana Miia Lahti. N. klo14 studiovieraana ensitanssija Linda Haakana. N. klo 14:30 tietokirjailija Reetta Ranta pohtii, boisimmeko me kaikki alkaa halailla puita ja onko siitä mitään iloa? Sari Valto toimittaa.
       - title: Yle Uutiset
         start_time: '2025-08-27T15:00:00+03:00'
         end_time: '2025-08-27T15:02:00+03:00'

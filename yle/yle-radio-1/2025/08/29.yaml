@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-19T02:34:51.091739+00:00'
+  generated_at: '2025-08-20T02:34:23.853862+00:00'
   git:
     branch: main
-    commit: 55eb50cf576e6b2962fbfece5e126b5ad4e85fa3
-  data_hash: bf87fb6a289e90e0126497f4e408006e763b97096cba3c2ea1d9d5ba351feda6
+    commit: be1493dc7f05adfe040eb23cb810a1c8bfdf4d44
+  data_hash: 5b70ead241613db128629a0332a0910c3ab64d71756982c73ccae1b255334744
 data:
   Yle Radio 1:
     programmes:
@@ -85,6 +85,9 @@ data:
         end_time: '2025-08-29T10:55:00+03:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-08-29T10:55:00+03:00'
+        end_time: '2025-08-29T11:00:00+03:00'
       - title: Maisteri Lindgrenin musiikkiesitelmä
         start_time: '2025-08-29T11:00:00+03:00'
         end_time: '2025-08-29T11:55:00+03:00'

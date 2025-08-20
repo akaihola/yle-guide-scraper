@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-19T02:34:53.882952+00:00'
+  generated_at: '2025-08-20T02:34:27.088935+00:00'
   git:
     branch: main
-    commit: 55eb50cf576e6b2962fbfece5e126b5ad4e85fa3
-  data_hash: bf87fb6a289e90e0126497f4e408006e763b97096cba3c2ea1d9d5ba351feda6
+    commit: be1493dc7f05adfe040eb23cb810a1c8bfdf4d44
+  data_hash: 5b70ead241613db128629a0332a0910c3ab64d71756982c73ccae1b255334744
 data:
   Yle Radio 1:
     programmes:
@@ -103,6 +103,9 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-10T19:00:00+03:00'
         end_time: '2025-09-10T19:02:00+03:00'
+      - title: Kotimainen konsertti
+        start_time: '2025-09-10T19:02:00+03:00'
+        end_time: '2025-09-10T21:00:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-10T21:00:00+03:00'
         end_time: '2025-09-10T21:05:00+03:00'
