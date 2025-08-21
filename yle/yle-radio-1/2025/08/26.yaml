@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-20T02:34:22.382326+00:00'
+  generated_at: '2025-08-21T02:34:34.173419+00:00'
   git:
     branch: main
-    commit: be1493dc7f05adfe040eb23cb810a1c8bfdf4d44
-  data_hash: 5b70ead241613db128629a0332a0910c3ab64d71756982c73ccae1b255334744
+    commit: 98075d28f1e414697da32c09d7ed1ebec14c2907
+  data_hash: 351b4c0c80fb2c405d11fb3bc41d1160b71ea89395d12756c684d0d05b6725c6
 data:
   Yle Radio 1:
     programmes:
@@ -123,11 +123,17 @@ data:
       - title: Yle Uutiset
         start_time: '2025-08-26T15:00:00+03:00'
         end_time: '2025-08-26T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: Kulttuuriykkönen. Länsimainen filosofia ja buddhalaisuus – mikä vaikutus itämaisella uskonnolla on ollut lännen suuriin ajattelijoihin?
         start_time: '2025-08-26T15:02:00+03:00'
         end_time: '2025-08-26T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Uutuuskirja Kirje Buddhalta – Länsimaisen filosofian buddhalainen historia väittää, että buddhalainen ajatusmaailma olisi uinut länsimaalaiseen filosofiaan jo antiikin aikana Aleksanteri Suuren valloittaessa nykyisen Intian alueita osaksi valtakuntaansa. Filosofi Pyrrhon kulki mukana näillä sotaretkillä ja opiskeli mm. persialaisten maagien sekä intialaisten filosofien alaisuudessa parisataa vuotta ennen ajanlaskumme alkua, ja otti buddhalaisilta vaikutteita suhtautua toisella tavalla ajattelevaan mieleen. 
+
+          Kirje Buddhalta -teoksen kirjoittaja, filosofiaa opiskellut ja vajrayana-buddhalaisuutta tunnustava toimittaja-tietokirjailija Jussi Ahlroth sukeltaa kirjassaan syvälle sekä länsimaisen filosofian historiaan että buddhalaisuuden perusperiaatteiden äärelle tehden vertauksia ja rinnastuksia näiden kahden välille. Hänen pyrkimyksenään on osoittaa, miten "kirje Buddhalta" on kulkeutunut jo esifilosofien ajoista länsimaiselta filosofilta toiselle vaikuttaen siihen, miten he ovat muodostaneet tunteamiamme ajatuksia sekä teorioita todellisuudesta. 
+
+          Mitkä ajatukset kohtaavat buddhalaisessa dzogchen-perinteessä ja länsimaisessa filosofiassa, ja mitkä eivät? Mitä eri filosofisten teorioiden, buddhalaisuuden sekä meditaation välisestä dialogista voidaan oppia? Kuinka uskottavia Ahlrothin teoriat ja oivallukset näiden kahden toisiaan perinteisesti hylkivänä pidetyn uskon- ja ajatusmaailman välillä ovat?
+
+          Kulttuuriykkösessä aiheesta keskustelemassa Jussi Ahlrothin lisäksi filosofi Elisa Aaltola sekä uskontotieteilijä Jyri Komulainen. Juhani Kenttämaa toimittaa. 
       - title: Yle News
         start_time: '2025-08-26T15:55:00+03:00'
         end_time: '2025-08-26T15:58:00+03:00'

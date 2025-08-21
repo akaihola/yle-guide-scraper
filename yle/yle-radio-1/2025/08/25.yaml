@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-20T02:34:21.817757+00:00'
+  generated_at: '2025-08-21T02:34:33.625442+00:00'
   git:
     branch: main
-    commit: be1493dc7f05adfe040eb23cb810a1c8bfdf4d44
-  data_hash: 5b70ead241613db128629a0332a0910c3ab64d71756982c73ccae1b255334744
+    commit: 98075d28f1e414697da32c09d7ed1ebec14c2907
+  data_hash: 351b4c0c80fb2c405d11fb3bc41d1160b71ea89395d12756c684d0d05b6725c6
 data:
   Yle Radio 1:
     programmes:
@@ -121,11 +121,15 @@ data:
       - title: Yle Uutiset
         start_time: '2025-08-25T15:00:00+03:00'
         end_time: '2025-08-25T15:02:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Jouko Turkka - hullu, nero vai pelle?'
         start_time: '2025-08-25T15:02:00+03:00'
         end_time: '2025-08-25T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Teatterikorkeakoulun näyttelijäntyön professori, teatteriohjaaja Jouko Turkka (1942-2016) on jättänyt lähtemättömän jäljen suomalaiseen kulttuurielämään. Hänen perintönsä koetaan ristiriitaisena ja monet Turkan oppilaat vuosien varrella purkaneet traumaattista suhdettaan opettajaansa. Toisaalta monelle Jouko Turkka on edelleen idoli ja nero.
+
+          Jouko Turkan vaiheet on koottu yksiin kansiin tuoreessa, Kai Häggmanin kirjoittamassa elämäkerrassa. Myöhemmin syksyllä Turkasta ilmestyy toinenkin, Hannu Harjun kirjoittama teos. Kuka Jouko Turkka oli ja miksi hänestä tuli lähes kyseenalaistamaton teatterityön auktoriteetti?
+
+          Kai Häggman ja Hannu Harju ovat keskustelemassa aiheesta lähetyksessä. Toimittajana on Ville Talola.
       - title: Yle News
         start_time: '2025-08-25T15:55:00+03:00'
         end_time: '2025-08-25T15:58:00+03:00'
@@ -197,11 +201,17 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-25T19:56:00+03:00'
         end_time: '2025-08-25T20:00:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Valkoisen miehen katse'
         start_time: '2025-08-25T20:00:00+03:00'
         end_time: '2025-08-25T20:55:00+03:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Millainen on valkoisen miehen rodullistava katse?
+
+          Onko Ruben Stiller rodullistavan valtakoneiston sätkynukke, joka ei itse tajua omaa valta-asemaansa?
+
+          Puhetta valkoisesta valtarakenteesta , rodullistamisesta ja identiteettipolitiikan mielekkyydestä.
+
+          Vieraina Uuden Jutun toimittaja Oskari Onninen ja Valokuvataiteen museon kuraattori, filosofi Päiviö Omwami.
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-25T20:55:00+03:00'
         end_time: '2025-08-25T21:00:00+03:00'
@@ -211,19 +221,21 @@ data:
       - title: Politiikkaradio
         start_time: '2025-08-25T21:05:00+03:00'
         end_time: '2025-08-25T21:34:30+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: DNA-viivakoodaus paljasti kotimaisen hirvenlihan saksanhirveksi - ja toi esiin puoli miljoonaa uutta hyönteislajia'
         start_time: '2025-08-25T21:35:00+03:00'
         end_time: '2025-08-25T22:24:30+03:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: 'Kaisa Pulakan tutkimuksia: Pelko!'
+          Ruokaväärennökset ovat kannattava ja kasvava bisnes. DNA-viivakoodausta on ryhdytty käyttämään yhä enemmän ruokaväärennösten selvittämisessä. Ruokavirastossa menetelmällä selvitetään muun muassa lihanäytteistä, mikä eläinlaji on kyseessä. Viime aikoina tutkijat ovat ryhtyneet käyttämään yhä enemmän myös DNA-metaviivakoodausta, jolla näytteestä voidaan tutkia useiden eri lajien esiintymistä samanaikaisesti. Haastateltavina ovat erikoistutkija Hanna Help Ruokavirastosta sekä professori Otso Ovaskainen Jyväskylän yliopistosta. Toimittaja on Mari Heikkilä.
+      - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Jos on pelkoa, on oltava myös toivoa.'
         start_time: '2025-08-25T22:25:00+03:00'
         end_time: '2025-08-25T22:44:30+03:00'
-      - title: Näistä levyistä en luovu
+        description: |
+          Pelon kulttuurihistoriaan matkataan toimittaja Kaisa Pulakan seurassa ja matkaoppaina toimivat eri aikakausien kulttuurihistorian tutkijat. Ensimmäisessä jaksossa pohditaan pelon olemusta ja Aristoteleen ajatusta pelon ja toivon yhteenkuulumisesta. 
+      - title: 'Näistä levyistä en luovu: Eija Ahvo – soitinkin voi laulaa'
         start_time: '2025-08-25T22:45:00+03:00'
         end_time: '2025-08-25T23:39:00+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Inari Tillin haastateltavana näyttelijä ja laulaja Eija Ahvo.
       - title: Yöklassinen
         start_time: '2025-08-25T23:40:00+03:00'
         end_time: '2025-08-26T06:30:00+03:00'
