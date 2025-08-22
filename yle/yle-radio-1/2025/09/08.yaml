@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-21T02:34:38.506206+00:00'
+  generated_at: '2025-08-22T02:34:11.401165+00:00'
   git:
     branch: main
-    commit: 98075d28f1e414697da32c09d7ed1ebec14c2907
-  data_hash: 351b4c0c80fb2c405d11fb3bc41d1160b71ea89395d12756c684d0d05b6725c6
+    commit: 4c654b6b1cec25dafed4a94c22ab1326bea4c96c
+  data_hash: e01733540dc95b2b34bc88bd3c3397fe38b273db7629a25a32decb17fa204f64
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-08T07:05:00+03:00'
         end_time: '2025-09-08T07:59:59+03:00'
+        description: |+
+          Bellini: 1. osa konsertosta käyrätorvelle ja jousiorkesterille (Zbigniew Zuk, ja Wroclawin Leopoldinum-kamariork./Jan Stanienda).
+
+          Mahler: Ging heut' morgen übers Feld (Andreas Schmidt, baritoni, ja Cincinnatin SO/Jesús Lóbez-Cobos).
+
+          Chopin: Valssi n:o 7 cis-molli (Byron Janis, piano).
+
+          Rameau: Kana (Les Musiciens du Louvre/Marc Minkowski).
+
+          Castro Herrera: Menuetti jousille (Orquesta de las Americas/Benjamin Juarez Echenique).
+
+          Bonis: Invocation (Helene Guilmette, sopraano, Martin Dube, piano).
+
+          Vivaldi: Syksy osa 1: Allegro (Ballo e canto de' villanelli) neljän konserton sarjasta Vuodenajat (Viktorija Mullova, viulu, ja Euroopan kamariork./Claudio Abbado).
+
+          Popper: Kotiinpaluu (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Dring: Festival scherzo (Martin Roscoe, piano, ja Guildhall Strings/Robert Salter).
+
+          Villa-Lobos: Mazurka-choro (Göran Söllscher).
+
+          Gershwin: They all laughed (Sharon Kam, klarinetti, ja Lontoon SO/Gregor Bühl)
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-08T08:00:00+03:00'
         end_time: '2025-09-08T08:07:00+03:00'

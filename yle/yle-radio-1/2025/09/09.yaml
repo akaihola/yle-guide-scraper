@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-21T02:34:38.718500+00:00'
+  generated_at: '2025-08-22T02:34:11.600143+00:00'
   git:
     branch: main
-    commit: 98075d28f1e414697da32c09d7ed1ebec14c2907
-  data_hash: 351b4c0c80fb2c405d11fb3bc41d1160b71ea89395d12756c684d0d05b6725c6
+    commit: 4c654b6b1cec25dafed4a94c22ab1326bea4c96c
+  data_hash: e01733540dc95b2b34bc88bd3c3397fe38b273db7629a25a32decb17fa204f64
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-09T07:05:00+03:00'
         end_time: '2025-09-09T07:59:59+03:00'
+        description: |+
+          Kraus: Aamuhetket karkottavat tähdet näyt. Amphitryon (L' Arte del mondo/Werner Ehrhardt).
+
+          Grieg: Norjalainen hääkulkue (Edvard Grieg, piano).
+
+          Fougstedt: Larghetto sellokonsertosta (Tuomas Lehto ja RSO/Hannu Lintu)
+
+          C. Shaw: Cant voi l'aube (Caroline Shaw, laulu, ja Attacca Quartet).
+
+          Quilter: Kolme englantilaista tanssia (Northern Sinfonia/Richard Hickox).
+
+          Sibelius: Lulu-valssi (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          Musorgski: Ompelijatar (Liisa Pohjola, piano).
+
+          Marianelli: Alkusoitto musiikista elok. Anna Karenina (London Session Orchestra/Benjamin Wallfisch).
+
+          Fauré: Kehtolaulu Dolly-sarjasta (Julian Bream, kitara, ja John Williams, kitara).
+
+          Wagner: Waldweben (Metsän huminaa) (Risto-Matti Marin, piano).
+
+          Glazunov: Espanjalainen serenadi (Steven Isserlis, sello, ja Euroopan kamariork./John Eliot Gardiner).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-09T08:00:00+03:00'
         end_time: '2025-09-09T08:07:00+03:00'

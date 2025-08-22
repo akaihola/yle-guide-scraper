@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-21T02:34:31.658600+00:00'
+  generated_at: '2025-08-22T02:34:07.652105+00:00'
   git:
     branch: main
-    commit: 98075d28f1e414697da32c09d7ed1ebec14c2907
-  data_hash: 351b4c0c80fb2c405d11fb3bc41d1160b71ea89395d12756c684d0d05b6725c6
+    commit: 4c654b6b1cec25dafed4a94c22ab1326bea4c96c
+  data_hash: e01733540dc95b2b34bc88bd3c3397fe38b273db7629a25a32decb17fa204f64
 data:
   Yle Radio 1:
     programmes:
@@ -46,8 +46,8 @@ data:
         start_time: '2025-08-24T07:00:00+03:00'
         end_time: '2025-08-24T07:02:05+03:00'
       - title: '8 klasaria: Richard Strauss: Näin puhui Zarathustra – Maailman kuuluisin musiikkiteoksen alku?'
-        start_time: '2025-08-24T07:03:00+03:00'
-        end_time: '2025-08-24T07:22:00+03:00'
+        start_time: '2025-08-24T07:02:25+03:00'
+        end_time: '2025-08-24T07:24:20+03:00'
         description: |-
           Saksalaisen musiikin komeetta ja tulevaisuuden toivo! Nuori Richard Strauss sävelsi 1896  valtavan orkesterirunoelman, joka perustui Friedrich Nietzschen ideoihin yli-ihmisyydestä ja ihmisen ja luonnon suhteesta.
 
@@ -60,26 +60,33 @@ data:
           Toimittaja ja käsikirjoittaja: Eva Tigerstedt
           Äänisuunnittelija: Jani Orbinski
       - title: Musiikkia 8 klasarin jälkimainingeissa
-        start_time: '2025-08-24T07:22:00+03:00'
-        end_time: '2025-08-24T07:59:30+03:00'
+        start_time: '2025-08-24T07:24:20+03:00'
+        end_time: '2025-08-24T07:57:51+03:00'
+        description: |-
+          R. Strauss: Kahvitanssi ja Nokturni bal. Kuohukermaa (Wienin sinfonikot/Manfred Honeck, sekä Florian Zwiauer, viulu). R. Strauss: Sarja kolmelletoista puhaltimelle B-duuri (RSO:n puhaltajat/Michael Hölzel).
+      - title: Radio 1 soi
+        start_time: '2025-08-24T07:57:51+03:00'
+        end_time: '2025-08-24T08:00:00+03:00'
+        description: |-
+          Debussy: Etydi n:o 6 (Kahdeksan sormen etydi) (Pierre-Laurent Aimard). 
       - title: Yle Uutiset ja sää
         start_time: '2025-08-24T08:00:00+03:00'
         end_time: '2025-08-24T08:05:05+03:00'
       - title: 'Maisteri Lindgrenin musiikkiesitelmä: Kuinka Luigi Boccherini joutui marginaaliin?'
         start_time: '2025-08-24T08:05:35+03:00'
-        end_time: '2025-08-24T08:59:30+03:00'
+        end_time: '2025-08-24T08:59:28+03:00'
         description: |
           "Boccherini jäi oudoksi erilaisuudeksi, sellaiseksi, jonka kekseliäisyyttä pidetään groteskina tai barbaarina ellei peräti taidottomuutena, sillä jos kamarimusiikkisävellyksen ensimmäinen osa ei noudata sonaattimuotoa vaan kertoo eloisaa tarinaa, kyse on oppimattomuudesta. Sen Preussin kuningas sai kuitenkin aikaan, että Boccherini sävelsi sinfonioita orkesterille – ehkä 30, ettekä te kuule niitäkään koskaan konsertissa, koska orkestereiden ohjelmistot ovat niin täynnä Haydnia ja Mozartia, ettei joukkoon mahdu muuta musiikkia 1700-luvun lopulta." - Minna Lindgren esitelmöi.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-24T09:00:00+03:00'
         end_time: '2025-08-24T09:05:05+03:00'
-      - title: Riston Valinta
-        start_time: '2025-08-24T09:05:35+03:00'
-        end_time: '2025-08-24T09:55:00+03:00'
+      - title: 'Riston Valinta: Omenapuita ja suon lumo'
+        start_time: '2025-08-24T09:05:25+03:00'
+        end_time: '2025-08-24T09:53:50+03:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
       - title: Yksi on hyvää seuraa
-        start_time: '2025-08-24T09:55:00+03:00'
+        start_time: '2025-08-24T09:53:50+03:00'
         end_time: '2025-08-24T09:56:00+03:00'
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-08-24T09:56:00+03:00'
@@ -184,13 +191,26 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-08-24T17:00:00+03:00'
         end_time: '2025-08-24T17:10:00+03:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Kirjeitä maapallolle alkuperäiskansojen jazzin sävelin'
         start_time: '2025-08-24T17:11:00+03:00'
-        end_time: '2025-08-24T18:11:00+03:00'
+        end_time: '2025-08-24T18:10:14+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Alkuperäiskansojen musiikissa soi heidän viisautensa siitä, että olemme kaikki osa samaa planeettaa, samaa historiaa, ja että musiikki voi olla viesti mennestä tulevaan. Tule mukaan lähettämään kirjeitä maapallolle.
+
+          Ohjelmassa kuultavat kappaleet:
+
+          Mali Obomsawin: Lineage
+          Ánnámáret: Bálvvosbáiki
+          Goldsmith Baynes: Maranga ake
+          Jim Pepper: Our Quiet Place
+          William Barton & Véronique Serret: Heartland
+          Joy Harjo: How Love Blows Through the Trees
+          The Delbert Anderson Trio: Totah
+          Jason Marsalis, Reuel Lubag, Ed Littlefield & Christian Fabian: The Hook Song
+
+          Ohjelman toimittaa Laura Korhonen.
       - title: "Jazzklubin illan keikka: David Helbock's Random/Control Tampere Jazz Happeningissä."
-        start_time: '2025-08-24T18:11:00+03:00'
+        start_time: '2025-08-24T18:10:14+03:00'
         end_time: '2025-08-24T19:00:00+03:00'
         description: |-
           Äänitetty Tullikamarin Pakkahuoneella 1.11.2024.
@@ -199,14 +219,19 @@ data:
         end_time: '2025-08-24T19:02:05+03:00'
       - title: 'Mustan musiikin sosiaalihistoriaa: Musta turvasatama – lauluja taikakaluista ja Titanicista'
         start_time: '2025-08-24T19:02:20+03:00'
-        end_time: '2025-08-24T20:00:00+03:00'
+        end_time: '2025-08-24T19:58:20+03:00'
         description: |
           Toimittajana Esa Kuloniemi.
       - title: Akatistos luomakunnalle Pyhien profeetta Sakariaan ja vanhurskaan Elisabetin kirkosta Savonlinnasta
         start_time: '2025-08-24T20:00:00+03:00'
-        end_time: '2025-08-24T21:00:00+03:00'
+        end_time: '2025-08-24T20:51:18+03:00'
         description: |
           Palveluksen toimittaa rovasti Bogdan Grosu.
+      - title: Radio 1 soi
+        start_time: '2025-08-24T20:51:18+03:00'
+        end_time: '2025-08-24T21:00:00+03:00'
+        description: |-
+          Dvorák: Rondo g-molli op.94 (Gaspar Cassadó, sello, ja Wienin Pro Musica -ork./Jonel Perlea).
       - title: Yle Uutiset
         start_time: '2025-08-24T21:00:00+03:00'
         end_time: '2025-08-24T21:02:05+03:00'
@@ -232,11 +257,11 @@ data:
       - title: Musiikkia 8 klasarin jälkimainingeissa
         start_time: '2025-08-24T21:49:30+03:00'
         end_time: '2025-08-24T22:26:30+03:00'
-      - title: Sari Valto
+      - title: 'Sari Valto: Saamelaisidentiteetti voi kukoistaa kaupungissakin'
         start_time: '2025-08-24T22:27:00+03:00'
         end_time: '2025-08-24T23:22:00+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: Yöklassinen
         start_time: '2025-08-24T23:40:00+03:00'
         end_time: '2025-08-25T06:30:00+03:00'
