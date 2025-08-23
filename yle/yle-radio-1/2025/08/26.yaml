@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-22T02:34:08.250156+00:00'
+  generated_at: '2025-08-23T02:32:28.700536+00:00'
   git:
     branch: main
-    commit: 4c654b6b1cec25dafed4a94c22ab1326bea4c96c
-  data_hash: e01733540dc95b2b34bc88bd3c3397fe38b273db7629a25a32decb17fa204f64
+    commit: 127f5c123f9d39d8e94a52e9fc20743af16cf12f
+  data_hash: 8288dd4fa6e6a5d43b67c43d9f69fc7674447628690838ba33095ac342c966d4
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,39 @@ data:
         start_time: '2025-08-25T23:40:00+03:00'
         end_time: '2025-08-26T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          J. S. Bach: Sonaatti uruille n:o 3 d-molli (Markku Ketola, Lahden Ristinkirkon urut).
+
+          23:53 Graf: Kvartetto huilulle ja jousille d-molli (Mikael Helasvuo ja  Kokkola-kvartetti).
+
+          00:08 Rejcha: Pianotrio d-molli (Trio concertante) (Medici-trio).
+
+          00:40 Ponce: Tres canciones populares mexicanas (Kolme meksikolaista kansanlaulua) (John Williams, kitara).
+
+          00:46 Dyfay: Missa L'homme armé (Cut Circle/Jesse Rodin).
+
+          01:22 Shostakovitsh: Sinfonia n:o 10 e-molli (Bostonin SO/Andris Nelsons).
+
+          02:19 Röntgen: Sonaatti viululle ja pianolle fis-molli (Alexander Kerr ja Sepp Grotenhuis).
+
+          02:40 Borodin: Sinfonia n:o 2 h-molli (Sankarillinen) (Stuttgartin radion SO/Carlos Kleiber).
+
+          03:06 Schubert: Winterreise (Talvinen matka) (Hermann Prey, baritoni, ja Karl Engel, piano).
+
+          04:18 Murschhauser: Praeambulum duodecimi toni (Hans Leenders, urut).
+
+          04:26 Schumann (sov. Auer): Widmung (Omistus) (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          04:29 Bruch: Viulukonsertto n:o 1 g-molli (David Oistrah ja Lontoon SO/Lovro von Matacic).
+
+          04:54 Delius: Brigg fair (Boston Pops/John Williams).
+
+          05:13 W.A. Mozart: Jousikvartetto n:o 23 F-duuri (Hagen-kvartetti). 
+
+          05:41 Anonyymi 1700-luvulta: Contredanses parisiennes (Pariisilaisia kontratansseja) (Ensemble Caprice).
+
+          05:55 Roman: Osia sarj. Drottningholmsmusiken (Häämusiikkia) (Concerto Köln).
+
+          06:17 Purcell: Sarja näytelmämus. Abdelazer, or the moor's revenge (The Parley of Instruments/Peter Holman).
       - title: Hartaita säveliä
         start_time: '2025-08-26T06:30:50+03:00'
         end_time: '2025-08-26T06:50:00+03:00'
@@ -90,8 +122,28 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Aloituksia'
         start_time: '2025-08-26T11:00:00+03:00'
         end_time: '2025-08-26T11:57:00+03:00'
-        description: |-
+        description: |+
+          Jos olisit säveltäjä, miten aloittaisit teoksesi?
+          Mahdollisuuksia on...giljoona.
+          Klasariparatiisi kuulostelee erilaisia alkuja, ja miettii kertooko alku aina siitä, mitä tuleman pitää?
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelmassa soi otteita seuraavista teoksista:
+
+          Ludwig van Beethoven: Sinfonia no 5 c-molli, osa 1 Allegro con brio. (Euroopan kamariorkesteri/Nikolaus Harnoncourt).
+          György Ligeti: Lontano (Berliinin filharmonikot/Jonathan Nott).
+          Maurice Ravel: Daphnis ja Chloe, balettisarja n:o 2 orkesterille (Concertgebouw-orkesteri/Mariss Jansons).
+          Jean-Féry Rebel: Les élémens; Chaos (Le Concert des Nations/Jordi Savall).
+          Frédéric Chopin: Nokturni no 17 H-duuri (Artur Rubinstein, piano).
+          Steve Reich: Music for 18 musicians (Ensemble Signal/Brad Lubman).
+          Antti Auvinen: Turbo aria orkesterille (Radion sinfoniaorkesteri/Hannu Lintu).
+          Gustav Mahler: Sinfonia no 1 D-duuri “Titaani” (San Franciscon sinfoniaorkesteri/Michael Tilson Thomas).
+          Richard Strauss: Also sprach Zarathustra (Philharmonia Orchestra/Santtu-Matias Rouvali).
+          Leos Janacek: Pohadka (Satu) (Steven Isserlis, sello, ja Thomas Ades, piano).
+
+
+
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-08-26T11:57:00+03:00'
         end_time: '2025-08-26T12:00:00+03:00'
@@ -176,9 +228,25 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-08-26T17:35:00+03:00'
         end_time: '2025-08-26T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Vanhat lastenlorut kätkevät usein näennäisen viehättävän pinnan alle pelottavia, pimeitä voimia. Ei ole ihme että loruja käytetään tehokeinona kauhutarinoissa ja dekkareissa - ja tietysti myös monissa poplauluissa. Upea kesätuliainen innostaa Kissankehdossa sukeltamaan ihanan karmeiden lorujen maailmaan ja sattumoisin myös sesongin uusista biiseistä löytyy samoja teemoja. Vanhoista kauhutarinoista poimitaan kyytiin susi-ihmisiä ja Sanoita Linnunlaulu- runokilpailusta löytyy syksyn muotiväri; tilhenharmaa
 
+          Wolf Alice: White horses
+          Ruusut: Bubo bubo
+          Jaakko Laitinen & Väärä raha: Lapis philosophorum
+          Tania Saleh: Matrah
+          RODEO: Häkkilintu
+          Monna Kamu: Metsässä nukkuu suuri hirvi   
+          Neko Case: Winchester mansion of sound
+          Little Anthony & The Imperials: Shimmy shimmy ko ko bop
+          Tom Waits: Jockey full of bourbon
+          kukkatalo: Mut unohdettiin
+          Florence & the Machine: Everybody scream
+
+          Erityiskiitokset Soilelle runosta Tilhenharmaa!
+
+          Innoitusta antoi myös:
+          Paula Rego: Nursery rhymes (taidekirja)
       - title: 'Viikon luontoääni: pikkuvarpunen'
         start_time: '2025-08-26T18:30:00+03:00'
         end_time: '2025-08-26T18:35:00+03:00'
@@ -204,11 +272,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-08-26T19:00:00+03:00'
         end_time: '2025-08-26T19:02:00+03:00'
-      - title: Minun Syyriani
+      - title: Meidän Syyriamme
         start_time: '2025-08-26T19:02:00+03:00'
-        end_time: '2025-08-26T19:40:00+03:00'
+        end_time: '2025-08-26T19:45:00+03:00'
         description: |-
-          "Minun Syyriani" on Jani Orbinskin ääniteos. Teoksen lähtökohtana on  Fatima Naddafin samanniminen runo, joka peilautuu päähenkilöittemme; neljän vahvan naisen kokemuksiin ja tuntemuksiin suhteessaan Syyriaan. On muistojen Syyria, Syyria nyt ja abstrakti Syyria, sydämen kotimaa. 
+          "Meidän Syyriamme" on Jani Orbinskin ääniteos. Teoksen lähtökohtana on  Fatima Naddafin samanniminen runo, joka peilautuu päähenkilöittemme; neljän vahvan naisen kokemuksiin ja tuntemuksiin suhteessaan Syyriaan. On muistojen Syyria, Syyria nyt ja abstrakti Syyria, sydämen kotimaa. 
       - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Keskiajalla yliluonnollisen pelko on täyttä totta'
         start_time: '2025-08-26T20:00:00+03:00'
         end_time: '2025-08-26T20:20:00+03:00'
