@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-25T02:36:11.650365+00:00'
+  generated_at: '2025-08-26T02:34:28.147380+00:00'
   git:
     branch: main
-    commit: d20ca8d5f7b7dcdbe16542c994cef0de4448b3ee
-  data_hash: f497f57ed652a9c22fd543545ab8126236de84fd2a4cd27f9b1f767fc0ccaa35
+    commit: 9af5825a565cd43fc3d266356c849b993ef149bf
+  data_hash: d30313d4873372d0bec799eed9fda221c2be73a5a357f1b69ea44ea22b0f742a
 data:
   Yle Radio 1:
     programmes:
@@ -135,6 +135,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-08-28T11:57:00+03:00'
         end_time: '2025-08-28T12:00:00+03:00'
+        description: |-
+          Kristiina Juustin runo nimeltä Suru. Ylen Sanoita linnunlaulu -kilpailun satoa.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-28T12:00:00+03:00'
         end_time: '2025-08-28T12:10:00+03:00'
@@ -166,6 +168,16 @@ data:
         start_time: '2025-08-28T15:02:00+03:00'
         end_time: '2025-08-28T15:55:00+03:00'
         description: |
+          Tuuli-Tytti Koivula voitti Finnish Fashion Awards-muotipalkinnon, joka jaettiin toukokuussa. Hän voitti Talent-osion ja on hyvä esimerkki siitä että taidetta lähentelevillä mallistoilla voi luoda kansainvälisen uran. Koivula on voittanut Alpha fashion awardin muutama vuosi sitten topatulla, kukkakuvioisella "hiihto"mallistolla. Hänen vaatteitaan kuvataan näin: Niissä on huumoria, positiivisuutta ja iloa ja omalaatuista muotokieltä. Koivula on ollut töissä merkittävillä kansainvälisillä taloilla, kuten Pradalla, Raf Simonsilla ja Coureggesilla. Hänellä on aikaisempi ura kilpaurheilijana. 
+
+          Mitä vaaditaan muotisuunnittelijalta kansainvälisissä luksusmuotitalossa työskentelyyn? Miksi suuret kansainväliset muotibrändit palkkaavat suomalaisen muotisuunnittelijan? Kuinka paljon joutuu tekemään kompromisseja oman taiteellisuuden ja muotitalon linjan kanssa?
+
+          Nuutajärven lasikylän muotoilija Paula Pääkkösen suunnittelemat pastellinsävyiset lasista tehdyt jäätelöt näkyvät kesänä Benettonin myymälöiden ikkunoissa eri puolilla maailmaa. Kiiltävät ja värikkäät lasista tehdyt jäätelöt saivat Benettonin johdon riemastumaan. Tästä alkoi tilaustöiden tekeminen vauhdilla. Millaista on saada kansainvälinen suuri vaatebrändi työnantajaksi? Millaisia uusia kontakteja on mahdollista saada nyt maailmalla?
+
+          Vieraina ovat muotisuunnittelija Tuuli-Tytti Koivula, lasitaiteilija Paula Pääkkönen ja muotoiluun erikoistunut toimittaja Sari Peltonen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-08-28T15:55:00+03:00'
@@ -251,15 +263,30 @@ data:
         end_time: '2025-08-28T21:34:30+03:00'
       - title: 'Tosi tarina: Isoäitini konstit - karjalaisia loitsuja ja arkistonauhaa'
         start_time: '2025-08-28T21:35:00+03:00'
-        end_time: '2025-08-28T22:25:00+03:00'
+        end_time: '2025-08-28T22:28:22+03:00'
         description: |
           Toimittaja Tuula Rajavaara muistaa vain hataria lapsen muistikuvia karjalaisesta isoäidistään. Yllättäen paljastuu, että on olemassa kieliarkiston haastattelunauha vuodelta 1964, jolla puhuu juuri hänen isoäitinsä, Jefimia. Löytö työntää toimittajan yli sadan vuoden takaiselle aikamatkalle isoäitinsä elämään pienestä paimenesta yhdeksän lapsisen perheen emännäksi Raja-Karjalassa. (es. 7.1.2024)
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
-        start_time: '2025-08-28T22:30:30+03:00'
-        end_time: '2025-08-28T22:49:30+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-08-28T23:00:00+03:00'
-        end_time: '2025-08-28T23:56:30+03:00'
+      - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Pakkotervehtimiskulttuuri ja koirien huonetuoksut'
+        start_time: '2025-08-28T22:36:35+03:00'
+        end_time: '2025-08-28T22:53:30+03:00'
+        description: |
+          On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
+
+          Näiden totuudentorvien tulilinjalta ei säästy mikään tai kukaan, vaikka osumatarkkuus saattaa vähän hakea. Wanna be -kirjailijan (Tiina) ja matkatavarakäsittelijän (Jari) kokemuksella heillä on omasta mielestään täydelliset edellytykset olla Suomen tarkimpia tutkivia journalisteja. Jos kukaan muu ei valaise tämän yhteiskunnan vääryyksiä, niin sitten sen on oltava he. Jonkun se taakka pitää kantaa.  
+
+          Rooleissa: Anna Airola (Tiina) ja Heikki Ranta (Jari)
+          Muissa rooleissa: Kari Hietalahti, Pia Andersson, Anna-Leena Sipilä
+
+          Tuotanto: TACK Films
+          Ohjaus: Teppo Airaksinen
+          Käsikirjoitus: Melli Maikkula
+          Tuottaja: John Lundsten
+          Äänisuunnittelu: Panu Riikonen
+          Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
+          Tuottaja: Jonni Haasanen, Yle Draama 2024.
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mielen avaruuksissa'
+        start_time: '2025-08-28T22:54:23+03:00'
+        end_time: '2025-08-28T23:50:28+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen

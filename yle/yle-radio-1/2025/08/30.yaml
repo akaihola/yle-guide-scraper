@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-25T02:36:12.435693+00:00'
+  generated_at: '2025-08-26T02:34:29.947408+00:00'
   git:
     branch: main
-    commit: d20ca8d5f7b7dcdbe16542c994cef0de4448b3ee
-  data_hash: f497f57ed652a9c22fd543545ab8126236de84fd2a4cd27f9b1f767fc0ccaa35
+    commit: 9af5825a565cd43fc3d266356c849b993ef149bf
+  data_hash: d30313d4873372d0bec799eed9fda221c2be73a5a357f1b69ea44ea22b0f742a
 data:
   Yle Radio 1:
     programmes:
@@ -107,6 +107,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-08-30T11:57:00+03:00'
         end_time: '2025-08-30T12:00:00+03:00'
+        description: |-
+          Ylen Sanoita linnunlaulu -kilpailun voittajaruno luetaan tänään Päivän mietelauseena.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-30T12:00:00+03:00'
         end_time: '2025-08-30T12:05:00+03:00'
@@ -258,11 +260,11 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-08-30T22:00:30+03:00'
         end_time: '2025-08-30T22:20:00+03:00'
-      - title: Kielen päällä
+      - title: 'Kielen päällä: suomen kielen seuraavat sata vuotta'
         start_time: '2025-08-30T22:20:30+03:00'
         end_time: '2025-08-30T22:30:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Suomen kieltä puhutaan vielä sadan vuoden kuluttuakin. Vieraana on suomen kielen professori Tiina Onikki-Rantajääskö. Ohjelman toimittaa Jari Aula. (Uusinta joulukuulta 2024.)
       - title: 'Keinuva talo - Mika Kauhanen: Musiikin myrsky'
         start_time: '2025-08-30T22:30:30+03:00'
         end_time: '2025-08-30T23:29:30+03:00'
