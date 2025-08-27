@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-26T02:34:38.947221+00:00'
+  generated_at: '2025-08-27T02:32:34.586011+00:00'
   git:
     branch: main
-    commit: 9af5825a565cd43fc3d266356c849b993ef149bf
-  data_hash: d30313d4873372d0bec799eed9fda221c2be73a5a357f1b69ea44ea22b0f742a
+    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
+  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
 data:
   Yle Radio 1:
     programmes:
@@ -103,9 +103,26 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-24T19:00:00+03:00'
         end_time: '2025-09-24T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Lontoon BBC Proms -festivaali 2025: Klaus Mäkelä johtaa Amsterdamin Concertgebouw-orkesteria'
         start_time: '2025-09-24T19:02:00+03:00'
         end_time: '2025-09-24T21:00:00+03:00'
+        description: |
+          Klaus Mäkelän ja Amsterdamin Concertgebouw-orkesterin kanssa esiintyy
+          viulisti Janine Jansen, joka soittaa Prokofjevin ensimmäisessä viulukonserton solistina. Konserttoa voi luonnehtia pakopaikaksi Venäjän vallankumouksen myrskyistä ja sellaisena se on vastakohta tummasävyiselle Bartókin orkesterikonsertolle. 
+          Proms-konsertin aluksi kuullaan musiikillinen käyntikortti 22-vuotiaalta Mozartilta, sinfonia nro 31 “Pariisilainen”. 
+
+
+          Wolfgang Amadeus Mozart (1756-1791): Sinfonia nro 31 D-duuri, KV297 “'Pariisilainen” 
+          Sergei Prokofjev (1891-1953): Viulukonsertto nro 1 D-duuri, op. 19
+          Béla Bartók (1881-1945): Konsertto orkesterille Sz. 116 
+
+          Janine Jansen, viulu
+          Amsterdamin Concertgebouw-orkesteri
+          Klaus Mäkelä
+
+          Äänitetty Lontoon Royal Albert Hallissa 24.8.2025. Toimittajana Ainomaija Pennanen.
+
+          Kuvassa Klaus Mäkelä ja Amsterdamin Concertgebouw-orkesteri © BBC / Chris Christodoulou.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-24T21:00:00+03:00'
         end_time: '2025-09-24T21:05:00+03:00'

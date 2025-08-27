@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-26T02:34:28.147380+00:00'
+  generated_at: '2025-08-27T02:32:28.092729+00:00'
   git:
     branch: main
-    commit: 9af5825a565cd43fc3d266356c849b993ef149bf
-  data_hash: d30313d4873372d0bec799eed9fda221c2be73a5a357f1b69ea44ea22b0f742a
+    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
+  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
 data:
   Yle Radio 1:
     programmes:
@@ -59,8 +59,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-08-28T06:50:00+03:00'
         end_time: '2025-08-28T06:59:59+03:00'
-        description: |-
-          Toimittaja, muusikko Ariel Neulaniemi, Seinäjoki
+        description: |
+          "Jumalan lähelle kulkee monenlaisia reittejä"
+          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta pohtii mitä uskominen ihmiseltä vaatii.
       - title: Yle Uutiset ja sää
         start_time: '2025-08-28T07:00:00+03:00'
         end_time: '2025-08-28T07:10:00+03:00'
@@ -117,13 +118,11 @@ data:
           Bacharach: The look of love (Dusty Springfield).
           Kuivalainen: Haaveissa vainko oot mun (Riki Sorsa).
           Kaartamo: You break my heart (Broadcast).
-      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Samuli Putro: Kannattaa mennä juuri siitä, missä alkaa upottaa'
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Venäjä-toimittaja Arja Paananen: Itänaapuri on kuin narsistinen aviopuoliso'
         start_time: '2025-08-28T10:00:00+03:00'
         end_time: '2025-08-28T10:52:00+03:00'
         description: |-
-          Ota nuo rillit pois, niin voin vetää sua turpaan, sanoi tarkkiksen poika Samuli Putrolle Raahen mukulakivikadulla. Se oli ensimmäisiä oppitunteja miesten maailmasta. 
-          Vuosikymmeniä myöhemmin Putro meni terapiaan tutkiakseen suhdettaan elämänsä miehiin. Pintaan nousi negatiivisia tunteita: kateus, kilpailullisuus, mustasukkaisuus ja miehen kunnia. Yksi asia kävi selväksi: aika on arvokkainta, mitä meille on annettu.
-          Maarit Tastulan vieraana muusikko ja lauluntekijä Samuli Putro. 
+          Maarit Tastulan vieraana entinen Venäjän kirjeenvaihtaja Arja Paananen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-28T10:52:00+03:00'
         end_time: '2025-08-28T11:00:00+03:00'

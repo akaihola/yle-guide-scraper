@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-26T02:34:37.717092+00:00'
+  generated_at: '2025-08-27T02:32:33.224353+00:00'
   git:
     branch: main
-    commit: 9af5825a565cd43fc3d266356c849b993ef149bf
-  data_hash: d30313d4873372d0bec799eed9fda221c2be73a5a357f1b69ea44ea22b0f742a
+    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
+  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
 data:
   Yle Radio 1:
     programmes:
@@ -110,9 +110,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-19T19:00:00+03:00'
         end_time: '2025-09-19T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Kaivos-festivaali 2025: Viimeinen kohtaaminen – In Memoriam'
         start_time: '2025-09-19T19:02:00+03:00'
         end_time: '2025-09-19T21:00:00+03:00'
+        description: |-
+          Giovanni Sollima (1962-): Lamentatio (1998) 
+          Sirja Nironen, sello
+
+          Veli Kujala (1976-): L’harmonie éternelle (2009)
+          Veli Kujala, mikroaskelharmonikka
+
+          Leoš Janáček (1854 –1928): Pianosonaatti 1.X.1905 ”Z Ulice” (1905) 
+          Aleksei Zaitsev, piano
+
+          Cecilia Damström (1988-): Aveo (2022)
+          Senja Rummukainen, sello & Riveria Outokummun tanssinkoulutuksen toisen ja kolmannen vuosikurssin opiskelijat. Koreografia: Katariina Vähäkallio.
+
+          Dmitri Šostakovitš (1906-1975): Pianokvintetto g-molli, op. 57 (1940)
+          Tami Pohjola, viulu, Maria Puusaari, viulu, Mari Viluksela, alttoviulu, Sirja Nironen, sello, ja Aleksei Zaitsev, piano		
+
+
+          Äänitetty Outokummun Teatteri Kiisussa 7.9.2025. Toimittajana on Ainomaija Pennanen. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-19T21:00:00+03:00'
         end_time: '2025-09-19T21:05:00+03:00'
