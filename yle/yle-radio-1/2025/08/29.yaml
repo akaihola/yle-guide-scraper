@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-27T02:32:28.429052+00:00'
+  generated_at: '2025-08-28T02:32:25.919764+00:00'
   git:
     branch: main
-    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
-  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
+    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
+  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
 data:
   Yle Radio 1:
     programmes:
@@ -102,11 +102,16 @@ data:
           Westlake: I close my eyes and count to ten (Dusty Springfield).
           Vuori: Tuhat laulua lemmestä (Lasse Liemola, Seija Lampila, Wiola Talvikki ja Helena Siltala).
           Tempchin: Peaceful easy feeling (Eagles).
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Terminaattori Trump?'
         start_time: '2025-08-29T10:00:00+03:00'
         end_time: '2025-08-29T10:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |+
+          Onko Donald Trumpin tavoitteena spektaakkeli, jossa mielenosoittajat ja kansalliskaarti taistelevat Chicagon kaduilla? Näemmekö vuoden 1968 toistuvan uutena versiona?
+
+          Ohjelmassa keskustellaan USA:n demokratian tulevaisuudesta. Onko USA:n myyttinen asema läntisen demokratian majakkana  vain huono vitsi? Menettääkö USA asemansa läntisen maailman johtajana?
+
+          Vieraina Ulkopoliittisen instituutin tutkija Maria Linden ja  European Business Leaders Conventionin johtaja Risto E:J Penttilä.
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-08-29T10:55:00+03:00'
         end_time: '2025-08-29T11:00:00+03:00'
@@ -219,19 +224,22 @@ data:
       - title: Politiikkaradio
         start_time: '2025-08-29T21:05:00+03:00'
         end_time: '2025-08-29T21:34:30+03:00'
-      - title: Kalle Haatanen
-        start_time: '2025-08-29T21:35:00+03:00'
-        end_time: '2025-08-29T22:24:30+03:00'
+      - title: 'Kalle Haatanen: Alkuperäisyyden kaipuu ja alkukantaisuuden pelko'
+        start_time: '2025-08-29T21:34:50+03:00'
+        end_time: '2025-08-29T22:24:08+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
         start_time: '2025-08-29T22:25:00+03:00'
-        end_time: '2025-08-29T23:15:00+03:00'
+        end_time: '2025-08-29T23:14:30+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Aristoteleen kantapää
-        start_time: '2025-08-29T23:15:30+03:00'
-        end_time: '2025-08-29T23:39:30+03:00'
+      - title: 'Aristoteleen kantapää: Mikseivät hohtimet hohda? – työkalujen nimet kertovat Suomen historiasta'
+        start_time: '2025-08-29T23:15:17+03:00'
+        end_time: '2025-08-29T23:39:23+03:00'
+        description: |
+          Työkalujen nimet, kuten vasara, kirves ja saha, kertovat työtapojen ja kauppasuhteiden historiasta. Pasi Heikuran vieraana on emeritaprofessori ja tieteen akateemikko Kaisa Häkkinen.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen
         start_time: '2025-08-29T23:40:00+03:00'
         end_time: '2025-08-30T07:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-27T02:32:28.092729+00:00'
+  generated_at: '2025-08-28T02:32:25.710410+00:00'
   git:
     branch: main
-    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
-  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
+    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
+  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
 data:
   Yle Radio 1:
     programmes:
@@ -97,6 +97,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-08-28T08:10:00+03:00'
         end_time: '2025-08-28T09:00:00+03:00'
+        description: |
+          Politiikan kesärauha loppui puolueiden kesäkokousten latvarajähdyksiin. Oppositio ripitti hallituspuolueita ja hallitus naputti takaisin. puolueiden syyskauden ensimmäisen kokoontumisajon pölyä pöyhii ykkösaamu -podcastin aluksi politiikan toimittajien raati. Entisten nuorten suosikkiyhtye lauloi takavuosikymmeninä:Eikä vieläkään tuulivoimaa! No on tullut, mutta nyt puskee samanlaisessa puhurissa aurinkovoima. Kunnat haluavat alueilleen suuria aurinkovoimapuistoja, onko aurinko uusi tuuli? Tästäkin keskustelua Ykkösaamu podcastissa, juontajana Linda Vettanen.
       - title: Yle Uutiset
         start_time: '2025-08-28T09:00:00+03:00'
         end_time: '2025-08-28T09:05:00+03:00'
@@ -120,11 +122,11 @@ data:
           Kaartamo: You break my heart (Broadcast).
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Venäjä-toimittaja Arja Paananen: Itänaapuri on kuin narsistinen aviopuoliso'
         start_time: '2025-08-28T10:00:00+03:00'
-        end_time: '2025-08-28T10:52:00+03:00'
+        end_time: '2025-08-28T10:53:00+03:00'
         description: |-
           Maarit Tastulan vieraana entinen Venäjän kirjeenvaihtaja Arja Paananen.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-08-28T10:52:00+03:00'
+        start_time: '2025-08-28T10:53:00+03:00'
         end_time: '2025-08-28T11:00:00+03:00'
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mielen avaruuksissa'
         start_time: '2025-08-28T11:00:00+03:00'
@@ -155,6 +157,8 @@ data:
       - title: Politiikkaradio
         start_time: '2025-08-28T13:00:00+03:00'
         end_time: '2025-08-28T13:30:00+03:00'
+        description: |
+          Miten Suomi voitaisiin pelastaa? Haastattelussa sosiaali- ja terveyspolitiikan professori Juho Saari ja taloushistorian professori Jari Eloranta. Toimittajana on Linda Pelkonen. 
       - title: Radio 1:n iltapäivä
         start_time: '2025-08-28T13:30:00+03:00'
         end_time: '2025-08-28T15:00:00+03:00'
@@ -216,8 +220,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-08-28T17:10:00+03:00'
         end_time: '2025-08-28T17:34:20+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Suomalaisista tuli alle 10 vuodessa Euroopan kolmanneksi lihavin kansa. Lihavuudesta on tullut niin kansanterveydellinen kuin -taloudellinen ongelma, joka kustantaa yhteiskunnalle miljardeja euroja vuosittain. Miksi lihavuutta ei hoideta tarpeeksi Suomessa? Reetta Röngän vieraana on lihavuutta tutkinut kliinisen metabolian professori Kirsi Pietiläinen. 
       - title: Tuuli Saksalan keidas
         start_time: '2025-08-28T17:35:00+03:00'
         end_time: '2025-08-28T18:24:00+03:00'
@@ -262,7 +266,7 @@ data:
         end_time: '2025-08-28T21:34:30+03:00'
       - title: 'Tosi tarina: Isoäitini konstit - karjalaisia loitsuja ja arkistonauhaa'
         start_time: '2025-08-28T21:35:00+03:00'
-        end_time: '2025-08-28T22:28:22+03:00'
+        end_time: '2025-08-28T22:28:21+03:00'
         description: |
           Toimittaja Tuula Rajavaara muistaa vain hataria lapsen muistikuvia karjalaisesta isoäidistään. Yllättäen paljastuu, että on olemassa kieliarkiston haastattelunauha vuodelta 1964, jolla puhuu juuri hänen isoäitinsä, Jefimia. Löytö työntää toimittajan yli sadan vuoden takaiselle aikamatkalle isoäitinsä elämään pienestä paimenesta yhdeksän lapsisen perheen emännäksi Raja-Karjalassa. (es. 7.1.2024)
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Pakkotervehtimiskulttuuri ja koirien huonetuoksut'

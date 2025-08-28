@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-27T02:32:31.785986+00:00'
+  generated_at: '2025-08-28T02:32:29.302290+00:00'
   git:
     branch: main
-    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
-  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
+    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
+  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,31 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-12T07:05:00+03:00'
         end_time: '2025-09-12T07:59:59+03:00'
+        description: |+
+          Tshaikovski: Syyskuu sarj. Vuodenajat (Yefim Bronfman, piano). 
+
+          Asheim: Bä bä, vita lamm, fuuga Bachin tyyliin kuorolle a cappella (Vox Aurea/Sanna Salminen).
+
+          Sor: Cantabile kok. kitaralle (Petri Kumela). 
+
+          Niittykoski (sov. L. Pulakka): Vauhdin hurmaa (Keski-Pohjanmaan Kamariork.).
+
+          Donizetti: Belcoren aaria "Come paride vezzoso" oopp. Lemmenjuoma (Dmitri Hvorostovski, baritoni, ja Philharmonia-ork./Ion Marin).
+
+          Beethoven: Allegretto alla polacca serenadista D-duuri (Alexa Still, huilu, Robert Alemany, klarinetti, ja JoAnn Falletta, kitara).
+
+          Satie (sov. Debussy): Gymnopedie n:o 3 (Orpheus-kamariork.).
+
+          Gragnani: Allegro triosta D-duuri op.12 kolmelle kitaralle (Dagoberto Linhares, Joaquim Freire, Raymond Migy).
+
+          Debussy (sov. Harjanne): Arabeski n:o 1 (Jouko Harjanne, trumpetti, ja Anni Kuusimäki, harppu).
+
+          Gaubert: Nokturni ja Allegro scherzando (Susan Milan, huilu, ja Ian Brown, piano).
+
+          Mana-Zucca: Nostalgia (Nanette Kaplan Solomon, piano).
+
+          Collins: Preludi ja valssimuunnelmia orkesterille musiikista elokuvaan The lady with a lamp (BBC:n konserttiork./John Wilson).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-12T08:00:00+03:00'
         end_time: '2025-09-12T08:07:00+03:00'
@@ -46,13 +71,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-12T10:55:00+03:00'
         end_time: '2025-09-12T11:00:00+03:00'
-      - title: Narrin aamulaulu - Igor Stravinsky, Suomi ja Koskenkorva
+      - title: Narrin aamulaulu -  Igor Stravinsky, Suomi ja Koskenkorva
         start_time: '2025-09-12T11:00:00+03:00'
         end_time: '2025-09-12T11:55:00+03:00'
         description: |
-          Aikansa tunnetuin säveltäjä vieraili Suomessa syyskuussa 1961. Hän johti Radion sinfoniaorkesteria, kävi Ainolassa ja löysi aarteen, joka muistutti häntä rakkaasta kotimaastaan. 
-          Professori Tuomas Haapanen, tuon aikaisen orkesterin toinen konserttimestari, muistelee työskentelyä Stravinskyn ja tämän assistentin Robert Craftin kanssa. Ohjelmassa kuullaan myös osia Brita Heleniuksen tekemästä Stravinskyn haastattelusta. 
-          Historiallisen vierailun vaiheita käy läpi Outi Paananen.  
+          Aikansa tunnetuin säveltäjä vieraili Suomessa syyskuussa 1961, johti Radion sinfoniaorkesteria, kävi Ainolassa ja löysi aarteen. Vierailun vaiheita käy läpi Outi Paananen. (U)
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-12T11:57:00+03:00'
         end_time: '2025-09-12T12:00:00+03:00'

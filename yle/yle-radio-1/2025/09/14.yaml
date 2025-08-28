@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-27T02:32:32.220116+00:00'
+  generated_at: '2025-08-28T02:32:29.746360+00:00'
   git:
     branch: main
-    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
-  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
+    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
+  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
 data:
   Yle Radio 1:
     programmes:
@@ -71,6 +71,14 @@ data:
         end_time: '2025-09-14T15:00:00+03:00'
         description: |
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+      - title: 'Maailman paras Tarja Turunen: Kotiseudulle Pohjois-Karjalaan'
+        start_time: '2025-09-14T15:00:00+03:00'
+        end_time: '2025-09-14T15:34:00+03:00'
+        description: |-
+          Tarja Turunen esittelee lapsuutensa ja nuoruutensa tärkeitä paikkoja. Tapaamme myös Tarjan veljet Timon ja Tonin, jotka ovat olleet siskostaan tämän uran aikana sekä ylpeitä että huolissaan. 
+      - title: Musiikkikamari
+        start_time: '2025-09-14T15:34:00+03:00'
+        end_time: '2025-09-14T15:55:00+03:00'
       - title: Yle News
         start_time: '2025-09-14T15:55:00+03:00'
         end_time: '2025-09-14T15:58:00+03:00'

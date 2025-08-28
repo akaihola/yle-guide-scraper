@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-27T02:32:34.907924+00:00'
+  generated_at: '2025-08-28T02:32:32.164034+00:00'
   git:
     branch: main
-    commit: d7c718e2e9aa171f5aff2ea4b2d5920711770570
-  data_hash: 78266b1caf7009a71b3e31bf551533beca7ad03cb9d0464555dee82549566be3
+    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
+  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
 data:
   Yle Radio 1:
     programmes:
@@ -57,7 +57,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-25T12:00:00+03:00'
         end_time: '2025-09-25T12:05:00+03:00'
-      - title: Vakoojat K3J7
+      - title: 'Vakoojat: Josif Stalinin Himmlerit'
         start_time: '2025-09-25T12:05:00+03:00'
         end_time: '2025-09-25T12:45:00+03:00'
         description: |-
@@ -103,9 +103,29 @@ data:
         end_time: '2025-09-25T18:30:00+03:00'
         description: |-
           Kappalainen Jaakko Sääskilahti, Laukaa
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Sinfonia Lahti & John Adams: Hetkiä hurmoksessa'
         start_time: '2025-09-25T18:30:00+03:00'
         end_time: '2025-09-25T20:30:00+03:00'
+        description: |-
+          Legendaarinen amerikkalaissäveltäjä John Adams palaa Sinfonia Lahden kapellimestarivieraaksi neljän vuoden tauon jälkeen. Tällä kertaa Adams johdattelee yleisön ohituskaistalle alitajunnan tiloja kohti; hallitsematon into ja hetken huuma lomittuvat levon ja rauhan kokemuksiin.
+
+          Adamsin tuore orkesterikiihdyttely Frenzy: a short symphony on kuin 18-minuuttinen minisinfonia, joka sykkii keskittymiskykymme kaapanneen informaatioähkyn tahtiin. Toisenlaista todellisuutta edustaa Gabriela Smithin Tumblebird  Contrails, merellistä tyyneyttä tavoitteleva tuokiokuvaus, jossa ihmisen pienuus kohtaa luonnonvoimien suuruuden.
+
+          Claude Debussyn utuinen tyyli määritteli ranskalaismusiikin suunnan viime vuosisadan vaihteessa. Hänen kansainvälinen läpimurtoteoksensa, vuonna 1905 syntynyt La Mer on sinfoninen aallokko ja impressionistisen musiikin klassikko, jonka kuohuissa kimmeltävät kaikki orkesterin värit.
+
+          Suoran lähetyksen Lahden Sibeliustalosta toimittaa Ainomaija Pennanen.
+
+          Ohjelma:
+
+          John Adams, kapellimestari
+          Nora Niskanen, klarinetti
+
+          Claude Debussy: Rapsodia klarinetille ja orkesterille
+          John Adams: Frenzy: a short symphony (Pohjoismaiden ensiesitys)
+          Gabriela Smith: Tumblebird Contrails
+          Claude Debussy: La Mer
+
+          Kuvassa: John Adams (©Riccardo Musacchio)
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-25T21:00:00+03:00'
         end_time: '2025-09-25T21:05:00+03:00'
