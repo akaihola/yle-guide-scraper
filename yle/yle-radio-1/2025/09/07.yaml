@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-28T02:32:28.044729+00:00'
+  generated_at: '2025-08-29T02:32:54.513933+00:00'
   git:
     branch: main
-    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
-  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
+    commit: 1ac73a9632aa124773a341764eb7020206b966b7
+  data_hash: 75ab2d4336791b2ae4a22091e0eb34d4772319254311f84a75dc6ffc6797b5c0
 data:
   Yle Radio 1:
     programmes:
@@ -47,14 +47,30 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-07T11:00:00+03:00'
         end_time: '2025-09-07T11:57:00+03:00'
+        description: |-
+          Tikanmäki: Kiutaköngäs (Anssi Tikanmäki).
+          Jarre: Paris en colere (Mireille Mathieu).
+          Aznavour: Yesterday when I was young (Shirley Bassey).
+          Nemo: 'Tis autumn (Nat King Cole Trio).
+          Laitinen: C'est drole un grand amour (Hannele Widomski).
+          Laitinen: Kun syksy saapuu Helsinkiin (Maynie Siren).
+          Kansansävelmä: Bossa Santiago (Radion tanssiorkesteri).
+          Greene: Don't let the sun catch you crying (Louis Jordan).
+          Rodgers: You'll never walk alone (Gerry and the Pacemakers).
+          Ahbez: Nature Boy (Tommy Körberg).
+          Siitonen: Katso luontoa ja huomaa (Markku Aro).
+          Fox: Jokainen päivä on liikaa (Päivi Paunu).
+          Duarte: Donde estabas tu? (Omara Portuondo).
+          Van Heusen: But beautiful (Gregory Porter).
       - title: Yle Uutiset ja sää
         start_time: '2025-09-07T12:00:00+03:00'
         end_time: '2025-09-07T12:05:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Kuinka sokeiden pistekirjoitus synnytti vastutusta ja kirjarovioita: sokean ja sinnikkään teinipojan tarina'
         start_time: '2025-09-07T12:05:00+03:00'
         end_time: '2025-09-07T12:55:00+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |+
+          Sokea Louis Braille keksi pistekirjoituksen vain 15-vuotiaana – siitä alkoi 200 vuotta sortoa, kirjarovioita ja uudenlaista itsenäisyyttä. Haastateltavana: Kari Huuskonen. Toimittaja: Hanna Asikainen. Äänisuunnittelu: Panu Willman. Arkistomateriaali: Aatu Moilanen haastattelee Fredrik von Zansenia, näkövammaismuseon arkisto.
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-07T12:55:00+03:00'
         end_time: '2025-09-07T13:00:00+03:00'

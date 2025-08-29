@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-28T02:32:27.372574+00:00'
+  generated_at: '2025-08-29T02:32:53.012004+00:00'
   git:
     branch: main
-    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
-  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
+    commit: 1ac73a9632aa124773a341764eb7020206b966b7
+  data_hash: 75ab2d4336791b2ae4a22091e0eb34d4772319254311f84a75dc6ffc6797b5c0
 data:
   Yle Radio 1:
     programmes:
@@ -177,9 +177,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-04T19:00:00+03:00'
         end_time: '2025-09-04T19:02:00+03:00'
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja Rudolstadt 2025 '
         start_time: '2025-09-04T19:02:00+03:00'
         end_time: '2025-09-04T21:00:00+03:00'
+        description: |
+          Euroopan yleisradioyhtiöt lähettävät Rudolstadtin maailmanmusiikkifestivaalille vuosittain oman esiintyjänsä. Vuonna 2025 Suomea edusti Luomuduo ja Norjaa Kalejdoskop Trio. Luvassa on mm. mäntyharjulaisen Hassun-Pekon pelimannimusiikkia ja norjalaisia synkkiä kansantarinoita. Konsertit on taltioitu Rudolstadtin kirkossa 4.-5. heinäkuuta 2025. Toimittajana Miika Lauriala. 
+
+
+          Kokkolan konservatoriossa vuonna 2015 perustetun Luomuduon jäsenet ovat kitaristi Sakari Keipi ja viulisti Olli Sippola. Duo säveltää vauhdikkaita pelimannikappaleita ja sovittaa mäntyharjulaisen Hassun-Pekon sävellyksiä. Saksalaisyleisö villiintyi Luomuduosta ja konsertissa kuultiin kaksi ylimääräistä. Ohjelman aluksi kuullaan Sakari Keipin haastattelu. 
+
+          Norjalais-ruotsalaisen Kalejdoskop Trion jäsenet ovat perehtyneet pohjoismaisiin kansanlauluihin ja erityisesti Länsi-Götanmaan ja Norjan Mandalenin ja Agderin soittoperinteisiin. Rudolstadtissa he esittävät vanhoja norjalaisia kansanlauluja ja niiden hurjia kansantarinoita. Kalejdoskop Trio konsertoi Rudolstadtin kirkossa lauantaina 5. heinäkuuta. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-04T21:00:00+03:00'
         end_time: '2025-09-04T21:05:00+03:00'

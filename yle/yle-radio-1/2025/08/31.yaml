@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-08-28T02:32:26.367142+00:00'
+  generated_at: '2025-08-29T02:32:49.243869+00:00'
   git:
     branch: main
-    commit: 20cbbe21a91f8eb3a53d4c820d895f3bf284fef0
-  data_hash: e7b2ec081807c70267dd3837537160ba5da7c606636d4ae828ef2e8aa3ca676f
+    commit: 1ac73a9632aa124773a341764eb7020206b966b7
+  data_hash: 75ab2d4336791b2ae4a22091e0eb34d4772319254311f84a75dc6ffc6797b5c0
 data:
   Yle Radio 1:
     programmes:
@@ -216,20 +216,20 @@ data:
           Jazzklubi: Tunti vapaalla - DJ Bunuel.
       - title: Jumalanpalvelus Pelastusarmeijan Tampereen osastosta
         start_time: '2025-08-31T20:00:00+03:00'
-        end_time: '2025-08-31T21:00:00+03:00'
+        end_time: '2025-08-31T20:57:33+03:00'
         description: |
           Jumalanpalveluksen johtaa sotilas Henna Hurinki. Saarnaajana kapteeni Riku Leino. Musiikki: Pelastusarmeijan Tampereen osaston staff bänd. Yhteislaulut: Olet valveilla, Koko tien hän kanssain kulkee, Niin suuri hän on, Kuljeta ja johda.
       - title: Yle Uutiset
         start_time: '2025-08-31T21:00:00+03:00'
         end_time: '2025-08-31T21:02:05+03:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Pohjoismaiden painavin kansa – paljonko lihavuus saa Suomelle maksaa?'
         start_time: '2025-08-31T21:03:00+03:00'
-        end_time: '2025-08-31T21:25:00+03:00'
+        end_time: '2025-08-31T21:26:25+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Suomalaisista tuli alle 10 vuodessa Euroopan kolmanneksi lihavin kansa. Lihavuudesta on tullut niin kansanterveydellinen kuin -taloudellinen ongelma, joka kustantaa yhteiskunnalle miljardeja euroja vuosittain. Miksi lihavuutta ei hoideta tarpeeksi Suomessa? Reetta Röngän vieraana on lihavuutta tutkinut kliinisen metabolian professori Kirsi Pietiläinen. 
       - title: 'Klasariparatiisi - Eva Tigerstedt: Aloituksia'
-        start_time: '2025-08-31T21:26:00+03:00'
-        end_time: '2025-08-31T22:20:14+03:00'
+        start_time: '2025-08-31T21:27:20+03:00'
+        end_time: '2025-08-31T22:22:34+03:00'
         description: |+
           Jos olisit säveltäjä, miten aloittaisit teoksesi?
           Mahdollisuuksia on...giljoona.
@@ -253,8 +253,8 @@ data:
 
 
       - title: 'Sari Valto: "Traumat eivät ole todellisia" ja muita erikoisia väitteitä'
-        start_time: '2025-08-31T22:21:00+03:00'
-        end_time: '2025-08-31T23:15:41+03:00'
+        start_time: '2025-08-31T22:23:00+03:00'
+        end_time: '2025-08-31T23:17:41+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: Yöklassinen
