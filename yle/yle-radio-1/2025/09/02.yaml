@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-01T02:39:41.907887+00:00'
+  generated_at: '2025-09-02T02:33:37.775962+00:00'
   git:
     branch: main
-    commit: a0751a008842bbf44911baeb40106124b0c6bd16
-  data_hash: 9231e59021e621a856dcaac3ae2195f08a4e53653558cdb316e64d330edf09bd
+    commit: 0fa6fa5a3a559babce39758fdfb74cd304909619
+  data_hash: d9de1fab859880912a6ce0365da26327cc80bbb3b25dfd26a94961fff4863860
 data:
   Yle Radio 1:
     programmes:
@@ -105,11 +105,17 @@ data:
       - title: Ykkösaamu
         start_time: '2025-09-02T08:10:00+03:00'
         end_time: '2025-09-02T09:00:00+03:00'
+        description: |-
+          Mistä hallitus leikkaa ensi vuonna? Entä päästäänkö hallituksessa yhteisymmärrykseen siitä, minkälainen puhe maahanmuuttajista on hyväksyttävää? Kekustelemassa kansanedustajat Ville Valkonen (kok.), Ville Vähämäki (ps.), Hilkka Kemppi (kesk.) ja Joona Räsänen (sd.). 
+
+          Mikä on asuntomarkkinoiden tilanne, kun mennään kohti syksyä? Vieraina Nordean ekonomisti Juho Kostiainen ja Vuokraturvan hallituksen puheenjohtaja Timo Metsola.
+
+          Juontajana Mika Kriikku.
       - title: Yle Uutiset
         start_time: '2025-09-02T09:00:00+03:00'
         end_time: '2025-09-02T09:03:00+03:00'
       - title: Muistojen bulevardi
-        start_time: '2025-09-02T09:05:00+03:00'
+        start_time: '2025-09-02T09:04:00+03:00'
         end_time: '2025-09-02T09:58:00+03:00'
         description: |
           Cymbal: Kaunein aamuisin (Tapio Heinonen).
@@ -171,13 +177,16 @@ data:
         start_time: '2025-09-02T12:25:00+03:00'
         end_time: '2025-09-02T12:50:00+03:00'
         description: |
-          Pasi Heikura istuu koulunpenkille ja selvittää opettaja ja kirjailija Tea Mäkipereen kanssa, miten nasevia, osuvia ja hauskoja oppilaiden koevastaukset voivat olla. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+          Pasi Heikura istuu koulunpenkille ja selvittää opettaja, kirjailija Tea Mäkipereen kanssa, miten nasevia, osuvia ja hauskoja oppilaiden koevastaukset voivat olla. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-02T12:50:00+03:00'
         end_time: '2025-09-02T13:00:00+03:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Rasismikiistan tahraama riihi'
         start_time: '2025-09-02T13:00:00+03:00'
         end_time: '2025-09-02T13:30:00+03:00'
+        description: |
+          Välttikö hallitus umpikujan sillä, että pääministeri Orpon mukaan rasistisesta puheesta tulee jatkossa seuraamuksia? Millainen rangaistus rasisteja odottaa?
+          Politiikkaradiossa aiheena hallituksen budjettiriihi ja sen varastanut kiista. Studiossa perussuomalaisten eduskuntaryhmän puheenjohtaja Jani Mäkelä, hallituksen budjettityöryhmää vetänyt Ville Valkonen (kok.) ja SDP:n varapuheenjohtaja Matias Mäkynen. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-02T13:30:00+03:00'
         end_time: '2025-09-02T15:00:00+03:00'
@@ -230,8 +239,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-09-02T17:00:00+03:00'
         end_time: '2025-09-02T17:25:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Venäjän epäillään käyttäneen elektronista häirintää EU-komission puheenjohtajaa Ursula von der Leyeniä kuljettanutta lentokonetta vastaan maanantaina. Viime viikolla Vaasan satamaan saapunutta HAV-Dolphin-alusta taas epäiltiin venäläisten vakoiludroonien tukialukseksi. Samaan aikaan oikeudessa on käsitelty Venäjän varjolaivastoon kuuluvan Eagle S -aluksen epäiltyä kaapelirikkoja. Millaista Venäjän hybriditoiminta juuri nyt on ja ovatko julki tulleet tapaukset vain jäävuoren huippu? Atte Uusinokan vieraana on Euroopan hybridiuhkien torjunnan osaamiskeskuksen analyytikko Aleksi Aho 
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-09-02T17:35:00+03:00'
         end_time: '2025-09-02T18:30:00+03:00'
@@ -321,11 +330,11 @@ data:
         end_time: '2025-09-02T20:20:00+03:00'
         description: |
           Viestintäyrittäjä Tomi Lindblom kerää nimikirjoituksia. Toimittajana Maija Salminen.
-      - title: Romano mirits
+      - title: 'Romano mirits: Nurmijärven romaniyhdistys haluaa luoda siltaa romanien ja pääväestön välille'
         start_time: '2025-09-02T20:20:00+03:00'
         end_time: '2025-09-02T20:35:00+03:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          "Olemme aika leikkisää porukkaa", naurahtaa Teresa Koivisto-Bollström kertoessaan Nurmijärven Romanit Ry:n toiminnasta. Toteamuksellaan hän viittaa ainakin siihen, että yhdistyksen jäsenet tykkäävät liikunnasta ja kilpailullisuudesta, mutta toimintaa tehdään hymyssä suin ja monen ikäisten osallistujien kesken. Porukalla pelataan lentopalloa, heitetään saapasta tai leikitään kirkonrottaa. Ja viikoittain kokoonnutaan kahvilaan, jossa pelataan Unoa ja vietetään teemailtoja. Yhdistystoiminnalla on kuitenkin taustallaan merkittäviä tavoitteita kuten nurmijärveläisten romanien terveyden ja osallisuuden edistäminen. Toimittaja Jaakko Laakso vieraili Nurmijärvellä tapaamassa romaniyhdistyksen aktiiveja.
       - title: 'Maailmanpolitiikan arkipäivää: Millaiset turvatakuut suojaisivat Ukrainaa?'
         start_time: '2025-09-02T20:35:00+03:00'
         end_time: '2025-09-02T21:00:00+03:00'

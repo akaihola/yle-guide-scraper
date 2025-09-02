@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-01T02:39:43.988213+00:00'
+  generated_at: '2025-09-02T02:33:40.071333+00:00'
   git:
     branch: main
-    commit: a0751a008842bbf44911baeb40106124b0c6bd16
-  data_hash: 9231e59021e621a856dcaac3ae2195f08a4e53653558cdb316e64d330edf09bd
+    commit: 0fa6fa5a3a559babce39758fdfb74cd304909619
+  data_hash: d9de1fab859880912a6ce0365da26327cc80bbb3b25dfd26a94961fff4863860
 data:
   Yle Radio 1:
     programmes:
@@ -60,18 +60,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-10T09:05:00+03:00'
         end_time: '2025-09-10T09:58:00+03:00'
-        description: |-
-          Solano: El Porompompero (Laila Kinnunen).
+        description: |
+          Solano: El porompompero (Laila Kinnunen).
           Kärki: Lapin jenkka (Tapio Rautavaara). 
           Berlin: Puttin' on the Ritz (Ella Fitzgerald).
-          Arlen, Harold: Come rain or come shine (Ray Charles).
+          Arlen: Come rain or come shine (Ray Charles).
           Manjome: Tokyo kid (Hibari Misora).
           Bacharach: Make it easy on yourself (The Walker Brothers).
-          Menescal, Boscoli & Gimbel: Telephone song (Stan Getz & Astrud Gilberto).
+          Menescal/Boscoli/Gimbel: Telephone song (Stan Getz & Astrud Gilberto).
           Coates: J'ai rêvé de vous (Lucienne Delyle).
-          Lennon, McCartney: Let it be (Gregory Porter).
+          Lennon/McCartney: Let it be (Gregory Porter).
           Tarsala: Pienen pieni tuli-tulitikku (Stidit).
-          Villoldo: Kiss of fire (El choclo) (Georgia Gibbs).
+          Villoldo: Kiss of fire (Georgia Gibbs).
           Laihanen: Syysiltana (Georg Malmsten ja Dallape).
           Ramirez: Malagueña salerosa (Chingon).
           Warren: September in the rain (Julie London).
@@ -141,8 +141,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-10T18:50:00+03:00'
         end_time: '2025-09-10T19:00:00+03:00'
-        description: |-
-          Kestävyysasiantuntija Anssi Almgren, Helsinki
+        description: |
+          "Tanssiva pyhyys ja keinuva sielu"
+          Kestävyysasiantuntija Anssi Almgren Helsingistä kutsuu pysähtymään musiikin vapauttavan ja yhdistävän voiman sekä sielua liikuttavan kauneuden äärelle.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-10T19:00:00+03:00'
         end_time: '2025-09-10T19:02:00+03:00'

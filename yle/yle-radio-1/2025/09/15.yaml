@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-01T02:39:45.288344+00:00'
+  generated_at: '2025-09-02T02:33:41.315103+00:00'
   git:
     branch: main
-    commit: a0751a008842bbf44911baeb40106124b0c6bd16
-  data_hash: 9231e59021e621a856dcaac3ae2195f08a4e53653558cdb316e64d330edf09bd
+    commit: 0fa6fa5a3a559babce39758fdfb74cd304909619
+  data_hash: d9de1fab859880912a6ce0365da26327cc80bbb3b25dfd26a94961fff4863860
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-09-15T06:50:00+03:00'
         end_time: '2025-09-15T06:59:59+03:00'
-        description: |-
-          Tuottaja-toimittaja Riitta-Sisko Aartolahti, Hämeenlinna
+        description: |+
+          "Isä meidän"
+          Tuottaja-toimittaja Riitta-Sisko Aartolahti Hämeenlinnasta löytää Isä meidän -rukouksesta yhteyden koko maailmaan ja menneisiin sukupolviin aina ensimmäisiin opetuslapsiin asti.
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-15T07:00:00+03:00'
         end_time: '2025-09-15T07:05:00+03:00'
@@ -117,11 +119,11 @@ data:
         end_time: '2025-09-15T17:25:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Bändidemokratiaa'
         start_time: '2025-09-15T17:35:00+03:00'
         end_time: '2025-09-15T18:35:00+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Tänäkin vuonna 15. syyskuuta vietetään YK:n asettamaa kansainvälistä demokratian päivää. Juhlapäivää heijastellen toimittaja Mika Kauhanen on valinnut kaikki jakson musiikit bändidemokratian ehdoilla. Tasavahvoilta levyiltä, joiden kansiin kaikkien osallistuvien muusikoiden nimet on painettu yhtä isolla, aseteltuina yhdenvertaisesti rinnakkain. Huomaamme myös, että taivas on kaikkialla samanvärinen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-09-15T18:35:00+03:00'
         end_time: '2025-09-15T18:50:00+03:00'
