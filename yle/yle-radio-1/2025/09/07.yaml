@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-02T02:33:39.301099+00:00'
+  generated_at: '2025-09-03T02:29:20.917857+00:00'
   git:
     branch: main
-    commit: 0fa6fa5a3a559babce39758fdfb74cd304909619
-  data_hash: d9de1fab859880912a6ce0365da26327cc80bbb3b25dfd26a94961fff4863860
+    commit: 0a5d73d42bec0871a8f9f052b36d8a9f01445c27
+  data_hash: ab0a75b367157412d76a9a226b7ed0b7d0304812d4e42fa4a3ef3e803952dd64
 data:
   Yle Radio 1:
     programmes:
@@ -56,11 +56,28 @@ data:
           06:41 J.S. Bach: Partita klaveerille n:o 3 a-molli (Glenn Gould, piano).
 
           06:54 Sarti: Sonaatti huilulle ja cembalolle e-molli (Musica Petropolitana).
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Bachin arvoituksellisin poika'
         start_time: '2025-09-07T07:01:00+03:00'
-        end_time: '2025-09-07T07:58:00+03:00'
-        description: |-
+        end_time: '2025-09-07T07:57:23+03:00'
+        description: |
+          Hulivilipoika. Eli miten sattuu ja törsäsi rahansa.
+          Tällaisia juttuja levisi suuren Bachin vanhimmasta pojasta Friedemannista. Samalla hän oli loistava urkuri ja hieno, omintakeinen säveltäjä. Pitävätkö hunsvottijutut paikkansa, ja miten ne saivat alkunsa?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Wilhelm Friedemann Bach:
+
+          Fantasia d-molli FV19 (Maude Gratton, cembalo).
+
+          Sinfonia F-duuri FV67 (Riitasointusinfonia), osa I Vivace (Akademie für alte Musik Berlin/Stephan Mai).
+
+          Konsertto cembalolle, jousille ja continuolle f-molli (Jean Rondeau, cembalo, sekä Sophie Gent ja Louis Creac'h, viulu, Fanny Paccoud, alttoviulu, Antoine Touche, sello, Thomas de Pierrefeu, kontrabasso, Evolene Kiener, fagotti).
+
+          Gottes suesse Seelenlehre, duetto sopraanolle ja altolle Kantaatista FV76 Autuas on jokainen, joka pelkää Herraa (Dorothee Mields, sopraano, Gerhild Romberger, altto, ja L’ Arpa Festante-kamariorkesteri/Ralf Otto).
+
+          Duo kahdelle huilulle f-molli FV58 (Barthold Kuijken ja Marc Hantai, traverso).
       - title: Yle Uutiset ja sää
         start_time: '2025-09-07T08:00:00+03:00'
         end_time: '2025-09-07T08:05:05+03:00'
@@ -141,11 +158,11 @@ data:
           Öunapuu/Teeäär/Piirsalu/Kask: See on see maa (Metsatöll ja Tallinna Politseiorkester). 
           Talsi/Niller/Hirtentreu: Poissmees (Curly Strings). 
           Jögeda: Maimu's sönderhoning (Maimu Jögeda). 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Metsästäjä tappaa, mutta niin tapat sinäkin'
         start_time: '2025-09-07T14:55:00+03:00'
         end_time: '2025-09-07T15:00:00+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Jokasyksyinen metsästäjäraivo kertoo yhteiskunnasta, joka piilotti osallisuutensa eläinten massamurhaan, kirjailija Pekka Juntti pohtii.
       - title: 'Maailman paras Tarja Turunen: Tarja tulee kylään'
         start_time: '2025-09-07T15:00:00+03:00'
         end_time: '2025-09-07T15:32:00+03:00'
@@ -193,11 +210,11 @@ data:
           Williams: Hedwig's theme elok. Harry Potter ja viisasten kivi (Anne-Sophie Mutter, viulu, ja Recording Arts Orchestra of Los Angeles/John Williams).
       - title: Laura Korhosen Jazzklubi
         start_time: '2025-09-07T17:00:00+03:00'
-        end_time: '2025-09-07T18:00:00+03:00'
+        end_time: '2025-09-07T17:59:10+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Katseemme kiinnittyy nyt vuoteen 1959 – jazzin kiistattomaan järkälevuoteen, jolloin jazzin suunta muuttui vallankumouksellisesti. Legendaarisimpia levytyksiä tuolta vuodelta kuuntelussa tässä jaksossa. (U)
       - title: 'Jazzklubin illan keikka: Mäensivu – Berliner – McCabe – Wiening April Jazz -festivaalilla.'
-        start_time: '2025-09-07T18:00:00+03:00'
+        start_time: '2025-09-07T17:59:10+03:00'
         end_time: '2025-09-07T19:00:00+03:00'
         description: |-
           Äänitetty Espoon Louhisalissa 24.4.2025.
@@ -215,25 +232,42 @@ data:
         description: |
           Palveluksen toimittaa pastori Pentti Potkonen. Kanttorina toimii Tiina Sormunen.
       - title: Uutispodcast
-        start_time: '2025-09-07T21:00:00+03:00'
+        start_time: '2025-09-07T21:01:00+03:00'
         end_time: '2025-09-07T21:25:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Bachin arvoituksellisin poika'
         start_time: '2025-09-07T21:29:00+03:00'
-        end_time: '2025-09-07T22:26:00+03:00'
+        end_time: '2025-09-07T22:25:23+03:00'
         description: |
+          Hulivilipoika. Eli miten sattuu ja törsäsi rahansa.
+          Tällaisia juttuja levisi suuren Bachin vanhimmasta pojasta Friedemannista. Samalla hän oli loistava urkuri ja hieno, omintakeinen säveltäjä. Pitävätkö hunsvottijutut paikkansa, ja miten ne saivat alkunsa?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Sari Valto
+
+          Ohjelman musiikit:
+
+          Wilhelm Friedemann Bach:
+
+          Fantasia d-molli FV19 (Maude Gratton, cembalo).
+
+          Sinfonia F-duuri FV67 (Riitasointusinfonia), osa I Vivace (Akademie für alte Musik Berlin/Stephan Mai).
+
+          Konsertto cembalolle, jousille ja continuolle f-molli (Jean Rondeau, cembalo, sekä Sophie Gent ja Louis Creac'h, viulu, Fanny Paccoud, alttoviulu, Antoine Touche, sello, Thomas de Pierrefeu, kontrabasso, Evolene Kiener, fagotti).
+
+          Gottes suesse Seelenlehre, duetto sopraanolle ja altolle Kantaatista FV76 Autuas on jokainen, joka pelkää Herraa (Dorothee Mields, sopraano, Gerhild Romberger, altto, ja L’ Arpa Festante-kamariorkesteri/Ralf Otto).
+
+          Duo kahdelle huilulle f-molli FV58 (Barthold Kuijken ja Marc Hantai, traverso).
+      - title: 'Sari Valto: Kaipaammeko vapautta jostakin vai vapautta johonkin?'
         start_time: '2025-09-07T22:27:00+03:00'
-        end_time: '2025-09-07T23:22:00+03:00'
+        end_time: '2025-09-07T23:20:33+03:00'
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: 'Romano mirits: Nurmijärven romaniyhdistys haluaa luoda siltaa romanien ja pääväestön välille'
+        start_time: '2025-09-07T23:24:43+03:00'
+        end_time: '2025-09-07T23:39:20+03:00'
         description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
-      - title: Romano mirits
-        start_time: '2025-09-07T23:25:00+03:00'
-        end_time: '2025-09-07T23:39:30+03:00'
-        description: |
-          Ajankohtaista asiaa romaneista.
+          "Olemme aika leikkisää porukkaa", naurahtaa Teresa Koivisto-Bollström kertoessaan Nurmijärven Romanit Ry:n toiminnasta. Toteamuksellaan hän viittaa ainakin siihen, että yhdistyksen jäsenet tykkäävät liikunnasta ja kilpailullisuudesta, mutta toimintaa tehdään hymyssä suin ja monen ikäisten osallistujien kesken. Porukalla pelataan lentopalloa, heitetään saapasta tai leikitään kirkonrottaa. Ja viikoittain kokoonnutaan kahvilaan, jossa pelataan Unoa ja vietetään teemailtoja. Yhdistystoiminnalla on kuitenkin taustallaan merkittäviä tavoitteita kuten nurmijärveläisten romanien terveyden ja osallisuuden edistäminen. Toimittaja Jaakko Laakso vieraili Nurmijärvellä tapaamassa romaniyhdistyksen aktiiveja.
       - title: Yöklassinen
         start_time: '2025-09-07T23:40:00+03:00'
         end_time: '2025-09-08T06:30:00+03:00'
