@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-03T02:29:29.038533+00:00'
+  generated_at: '2025-09-04T02:29:44.612308+00:00'
   git:
     branch: main
-    commit: 0a5d73d42bec0871a8f9f052b36d8a9f01445c27
-  data_hash: ab0a75b367157412d76a9a226b7ed0b7d0304812d4e42fa4a3ef3e803952dd64
+    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
+  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-26T07:05:00+03:00'
         end_time: '2025-09-26T07:59:59+03:00'
+        description: |+
+          Schumann: Romanssi Fis-duuri (Tuija Hakkila, piano).
+
+          Erkel: Palotache (czardas) oopp. Hunyadi László (Tonavan SO/Domonkos Héja).
+
+          Musorgski: Papitarten kuoro oopp. Salammbô (Lontoon sinfoniakuoro ja Lontoon SO/Claudio Abbado).
+
+          Kajanus: Sanaton laulu (Elisabeth Leistola, harppu).
+
+          Kuula: Aamulaulu (Jorma Silvasti, tenori, ja Pentti Kotiranta, piano).
+
+          Händel - Sarasate: Ombra mai fu oopp. Serse. (Tianwa Yang viulu, ja Markus Hadulla, piano).
+
+          Villa-Lobos: Choro n:o 1 (Timo Korhonen, kitara).
+
+          Piazzolla (sov. Ziegler): Adios Nonino (Emanuel Ax ja Pablo Ziegler, piano).
+
+          Rubinstein: Enkeli (Julian Lloyd Webber ja Jiaxin Lloyd Webber, sello, sekä John Lenehan, piano).
+
+          Offenbach: Valssi oper. Orfeus Manalassa (Laajennettu 2. versio) (Berliinin saksalainen SO/Howard Griffiths).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-26T08:00:00+03:00'
         end_time: '2025-09-26T08:07:00+03:00'
@@ -99,6 +120,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-26T17:25:00+03:00'
         end_time: '2025-09-26T17:35:00+03:00'
+        description: |2+
+
       - title: Näistä levyistä en luovu
         start_time: '2025-09-26T17:35:00+03:00'
         end_time: '2025-09-26T18:30:00+03:00'

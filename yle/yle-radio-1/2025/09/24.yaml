@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-03T02:29:28.285434+00:00'
+  generated_at: '2025-09-04T02:29:44.092754+00:00'
   git:
     branch: main
-    commit: 0a5d73d42bec0871a8f9f052b36d8a9f01445c27
-  data_hash: ab0a75b367157412d76a9a226b7ed0b7d0304812d4e42fa4a3ef3e803952dd64
+    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
+  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-24T07:05:00+03:00'
         end_time: '2025-09-24T07:59:59+03:00'
+        description: |+
+          Vivaldi: Allegro konsertosta D-duuri (Marion Verbruggen, nokkahuilu, Dennis Godburn, fagotti, Paul Goodwin, oboe, John Holloway, viulu, ja John Toll, cembalo).
+
+          Bon: Sonaatti cembalolle B-duuri (Hiroko Ishimoto, piano).
+
+          J. Strauss, nuor.: Neue Pizzicato-Polka (Wienin Bella Musica/Michael Dittrich).
+
+          Tshaikovski: Sävelmä (Riitta Pesola, sello, ja Vox Artis/Lev Markiz).
+
+          Carreño: Vals gayo (Clara Rodriguez, piano).
+
+          Faure: Aurore (Aamunkoitto) (Stephen Varcoe, baritoni, ja Graham Johnson, piano).
+
+          Ahvenainen: Syyslehtien tanssi sarj. Syksy (Veikko Ahvenainen, harmonikka, ja Kouvolan kaupunginork./Kalervo Kulmala).
+
+          Parker: A Water colour (Vesiväri) (Jeanell Carrigan, piano).
+
+          Sonninen: Hiirten häävalssi bal. Pessi ja Illusia (RSO/Ilpo Mansnerus).
+
+          Schubert:  Ave Maria (Anne-Sophie Mutter, viulu ja Daniil Trifonov, piano).
+
+          Mendelssohn: Presto konserttikappaleesta n:o 1 F-duuri (Daniel Ottensamer, klarinetti, ja Andreas Ottensamer, basettitorvi, sekä Wiener Virtuosen).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-09-24T08:00:00+03:00'
         end_time: '2025-09-24T08:07:00+03:00'
@@ -90,6 +113,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-24T17:25:00+03:00'
         end_time: '2025-09-24T17:35:00+03:00'
+        description: |2+
+
       - title: 'Laura Korhosen Jazzklubi: Rakkautta ja elämää jazzklassikoiden lyriikoissa'
         start_time: '2025-09-24T17:35:00+03:00'
         end_time: '2025-09-24T18:35:00+03:00'

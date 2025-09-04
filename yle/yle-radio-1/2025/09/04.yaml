@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-03T02:29:16.831564+00:00'
+  generated_at: '2025-09-04T02:29:29.710171+00:00'
   git:
     branch: main
-    commit: 0a5d73d42bec0871a8f9f052b36d8a9f01445c27
-  data_hash: ab0a75b367157412d76a9a226b7ed0b7d0304812d4e42fa4a3ef3e803952dd64
+    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
+  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
 data:
   Yle Radio 1:
     programmes:
@@ -66,7 +66,7 @@ data:
       - title: Aamusoitto
         start_time: '2025-09-04T07:05:00+03:00'
         end_time: '2025-09-04T07:59:59+03:00'
-        description: |+
+        description: |-
           Herschel: Allegro assai sinfoniasta n:o 12 D-duuri (Lontoon Mozart-soittajat/Matthias Bamert).
 
           Collan: Fåfäng önskan (Walton Grönroos, baritoni, ja Pentti Koskimies, piano).
@@ -89,12 +89,23 @@ data:
 
           Verdi: Balettimusiikkia oopp. Aida (Metropolitan-oopperan ork./James Levine).
 
+          Juontajana Marja Vehkanen.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-04T08:00:00+03:00'
         end_time: '2025-09-04T08:07:00+03:00'
       - title: Ykkösaamu
         start_time: '2025-09-04T08:07:00+03:00'
         end_time: '2025-09-04T09:00:00+03:00'
+        description: |-
+          Mitä budjettiriihestä ja hallituksen pelisääntökeskustelusta jäi käteen? Politiikan viimeisimpiä käänteitä ruotimassa Ylen politiikan toimittaja Petri Raivio, MTV:n politiikan toimittaja Maria Nykänen ja Itä-Suomen yliopiston yliopistolehtori Kimmo Elo.
+
+          Libyan rannikkovartiosto avasi elokuun lopulla tulen kohti avustusjärjestön pelastusalusta Välimerellä. Avustusjärjestön alus oli matkalla kohti Italiaa mereltä pelastetut siirtolaiset ja pakolaiset kyydissään. Italian-toimittaja Jenna Vehviläinen kertoo, mistä oli kyse.
+
+          Millaisin perustein ihmisiä voidaan karkottaa Suomesta? Keskustelemassa Maahanmuuttoviraston  valvontaosaston johtaja Tirsa Forsell ja Siirtolaisuusinstituutin erikoistutkija Erna Bodström.
+
+          Ranskan presidentti Emmanuel Macron ja Iso-Britannian pääministeri Keir Starmer isännöivät Pariisissa järjestettävää halukkaiden koalition kokousta. Ranskan-toimittajamme Miina Väisänen kertoo, mihin kokouksella pyritään.
+
+          Juontajana Mari Sarolahti.
       - title: Yle Uutiset
         start_time: '2025-09-04T09:00:00+03:00'
         end_time: '2025-09-04T09:03:00+03:00'
@@ -150,6 +161,8 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-04T13:00:00+03:00'
         end_time: '2025-09-04T13:30:00+03:00'
+        description: |-
+          Alfa-PVP:n käyttö on lisääntynyt räjähdysmäisesti. Keskustelemassa kansanedustajat Ville Väyrynen (kok.), Aki Lindén (sd.) ja Päivi Räsänen (kd.). Toimittajana on Linda Pelkonen.
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-04T13:30:00+03:00'
         end_time: '2025-09-04T15:00:00+03:00'
@@ -159,9 +172,7 @@ data:
         start_time: '2025-09-04T15:00:00+03:00'
         end_time: '2025-09-04T15:55:00+03:00'
         description: |-
-          Taiteilija joutuu monenlaisiin tilanteisiin työelämässään. Miten hankkia rahoitusta, miten pitää taiteellisen sisällön puolta kaupallisten intressien maailmassa ja miten säilyttää järkensä siinä samalla. Keskustelemassa mm. pitkän uransa opit opaskirjaksi tiivistänut monialainen taiteilija Marita Liulia.
-
-          Ohjelman juontaa Jonni Roos.
+          Taiteilija joutuu monenlaisiin tilanteisiin työelämässään. Miten hankkia rahoitusta, miten pitää taiteellisen sisällön puolta kaupallisten intressien maailmassa ja miten säilyttää järkensä siinä samalla. Keskustelemassa pitkän uransa opit opaskirjaksi tiivistänut monialainen taiteilija Marita Liulia, Taidemaalariliiton toiminnanjohtaja Elisa Lientola sekä kuvataiteilija Markus Heikkerö, jolla on pitkä kokemus taiteen opetuksesta niin Suomessa kuin ulkomaillakin. Toimittajana on Jonni Roos.
       - title: Yle News
         start_time: '2025-09-04T15:55:00+03:00'
         end_time: '2025-09-04T15:58:00+03:00'
@@ -184,24 +195,26 @@ data:
 
           Verdi: Filipin monologi oopp. Don Carlos (Martti Talvela, basso, ja RSO/Jussi Jalas).
 
-          Cabanilles-Kerrl: Batalla nro 1 (Hesperion XXI/Jordi Savall).  
+          Cabanilles: Batalla nro 1 (Hesperion XXI/Jordi Savall).  
 
           Kuula: Virta venhettä vie (RKK/Hannu Norjanen).
 
+          Melartin: Kesäyö kirkkomaalla (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
           Palmgren: Iltaääniä (Risto Lauriala, piano).
 
-          Vivaldi: Huilukonsertto G-duuri op.10/4. (Emmanuel Pahud ja Australian kamariork./Richard Tognetti).
+          Vivaldi: Huilukonsertto G-duuri op.10/4 (Emmanuel Pahud ja Australian kamariork./Richard Tognetti).
       - title: Uutispodcast
         start_time: '2025-09-04T17:00:00+03:00'
         end_time: '2025-09-04T17:25:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Uutispodcastissa kuullaan tänään Ylen Helsingin toimituksen toimittaja Katri Kirsin juttu Peukkuhuume: vainoharhoja, paiseita ja kuolemaa. Juttu vei Kirsin Helsingin Sörnäisiin,  Vaasanpuistikkoon, tuttavallisemmin ”piritorille” tapaamaan Alfa-PVP:n käyttäjiä. Tunteet käyttäjien keskuudessa vaihtelivat ilon ja epätoivon välillä. Katri Kirsiä haastattelee Atte Uusinoka. 
       - title: Tuuli Saksalan keidas
         start_time: '2025-09-04T17:35:00+03:00'
         end_time: '2025-09-04T18:25:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: 'Kielen päällä: tekoälyä pukkaa'
+      - title: 'Kielen päällä: Tekoälyä pukkaa'
         start_time: '2025-09-04T18:25:00+03:00'
         end_time: '2025-09-04T18:35:00+03:00'
         description: |
