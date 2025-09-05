@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-04T02:29:43.342905+00:00'
+  generated_at: '2025-09-05T02:31:15.216634+00:00'
   git:
     branch: main
-    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
-  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
+    commit: 64e2ed4fb594d2029327c1931c086238fec26125
+  data_hash: c6e55061beb80a4c43a0b5f0c51f936170553fd92fc39f9cd859e9b274a14dd4
 data:
   Yle Radio 1:
     programmes:
@@ -120,6 +120,8 @@ data:
       - title: Jazzklubin illan keikka
         start_time: '2025-09-21T18:00:00+03:00'
         end_time: '2025-09-21T19:00:00+03:00'
+        description: |-
+          Bushman's Revenge Tampere Jazz Happeningissa 2024. Toimittajana Laura Korhonen.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-21T19:00:00+03:00'
         end_time: '2025-09-21T19:02:05+03:00'
@@ -127,7 +129,7 @@ data:
         start_time: '2025-09-21T19:02:05+03:00'
         end_time: '2025-09-21T20:00:00+03:00'
         description: |
-          Toimittajana...
+          Toimittajana Eero Koski
       - title: Ehtoopalvelus Kotikirkosta Helsingistä
         start_time: '2025-09-21T20:00:00+03:00'
         end_time: '2025-09-21T21:00:00+03:00'

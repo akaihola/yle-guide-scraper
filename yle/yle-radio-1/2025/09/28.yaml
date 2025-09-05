@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-04T02:29:45.260017+00:00'
+  generated_at: '2025-09-05T02:31:16.958424+00:00'
   git:
     branch: main
-    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
-  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
+    commit: 64e2ed4fb594d2029327c1931c086238fec26125
+  data_hash: c6e55061beb80a4c43a0b5f0c51f936170553fd92fc39f9cd859e9b274a14dd4
 data:
   Yle Radio 1:
     programmes:
@@ -121,6 +121,10 @@ data:
       - title: Jazzklubin illan keikka
         start_time: '2025-09-28T18:00:00+03:00'
         end_time: '2025-09-28T19:00:00+03:00'
+        description: |
+          Jazzklubin illan keikka: Emma Rawicz & UMO Helsinki Jazz Orchestra Korjaamolla maaliskuussa 2025 
+
+          Moninkertaisesti palkittu brittiläinen saksofonisti ja säveltäjä Emma Rawicz nousi kansainväliseen suosioon julkaistessaan ensimmäisen äänitteensä arvostetun ACT-labelin kautta vain 21-vuotiaana. Nyt esiinnyttyään Euroopan merkittävimmillä lavoilla ja festivaaleilla hänestä on tullut yksi sukupolvensa johtavista artisteista jazzin saralla. Korjaamon yhteiskonsertissa UMO Helsinki Jazz Orchestran kanssa kuullaan Emma Rawiczin sävellyksiä omalle Jazz Orchestralleen. Toimittajana Laura Korhonen.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-28T19:00:00+03:00'
         end_time: '2025-09-28T19:02:05+03:00'
@@ -128,7 +132,7 @@ data:
         start_time: '2025-09-28T19:02:05+03:00'
         end_time: '2025-09-28T20:00:00+03:00'
         description: |
-          Toimittajana...
+          Tunti vapaalla - DJ Bunuel
       - title: Jumalanpalvelus Kokkolan Helluntaiseurakunnasta
         start_time: '2025-09-28T20:00:00+03:00'
         end_time: '2025-09-28T21:00:00+03:00'

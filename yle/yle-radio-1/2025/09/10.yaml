@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-04T02:29:39.407461+00:00'
+  generated_at: '2025-09-05T02:31:10.811981+00:00'
   git:
     branch: main
-    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
-  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
+    commit: 64e2ed4fb594d2029327c1931c086238fec26125
+  data_hash: c6e55061beb80a4c43a0b5f0c51f936170553fd92fc39f9cd859e9b274a14dd4
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-10T06:30:50+03:00'
         end_time: '2025-09-10T06:50:00+03:00'
+        description: |+
+          Tuntematon: Sinua enkeleistä (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Sweney (sov. S.J. Järvinen): Jeesuksen voitosta kerro (Viktor Klimenko ja Seppo J. Järvisen orkesteri).
+
+          Salminen: Siipi enkelin (Jukka Salminen, laulu, ja Markku Perttilä, kitara).
+
+          Harju: Sinun on valta (Maksetut viulut).
+
+          Anonyymi: Sun haltuus rakas isäni (Henna Nieminen).
+
       - title: Aamuhartaus
         start_time: '2025-09-10T06:50:00+03:00'
         end_time: '2025-09-10T06:59:59+03:00'
@@ -92,6 +103,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-10T11:57:00+03:00'
         end_time: '2025-09-10T12:00:00+03:00'
+        description: |-
+          Ote Ilja Lehtisen esseestä ”Olin mykologi, itseoppinut” - harha-askelia sivilisaation reunalla”, Nuori Voima 2/2018. Nuoren Voiman Liitto
       - title: Yle Uutiset ja sää
         start_time: '2025-09-10T12:00:00+03:00'
         end_time: '2025-09-10T12:05:00+03:00'
@@ -138,6 +151,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-10T18:35:00+03:00'
         end_time: '2025-09-10T18:50:00+03:00'
+        description: |+
+          O. Merikanto: Oi muistatko vielä sen virren (Esa Ruuttunen ja Osmo Vänskän johtama yhtye).
+
+          Nykybysanttilainen säv.: Ehtooveisu (Lahden ortodoksinen kirkkokuoro/Petri Huttu).
+
+          Albert: Rakkaus, kun kuvaksesi (Psallamus/Ilmo Riihimäki ja Juhani Haapasalo, urut).
+
       - title: Iltahartaus
         start_time: '2025-09-10T18:50:00+03:00'
         end_time: '2025-09-10T19:00:00+03:00'

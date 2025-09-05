@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-04T02:29:41.111682+00:00'
+  generated_at: '2025-09-05T02:31:12.759592+00:00'
   git:
     branch: main
-    commit: c2d6f7f3aa15b81f5f2a01a2b81bbb497419879c
-  data_hash: a778ef6da35907458d8f9e2657c1a76679342235f963b7a78711bfa30eed363f
+    commit: 64e2ed4fb594d2029327c1931c086238fec26125
+  data_hash: c6e55061beb80a4c43a0b5f0c51f936170553fd92fc39f9cd859e9b274a14dd4
 data:
   Yle Radio 1:
     programmes:
@@ -48,6 +48,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-14T11:00:00+03:00'
         end_time: '2025-09-14T11:59:00+03:00'
+        description: |-
+          Herrmann: Memory waltz (Prahan FO/Paul Bateman).
+          Jobim: Chega de saudade (Elizeth Cardoso).
+          Sutherland: Sailing (Rod Stewart).
+          Joyce: Syysunelmia (Olavi Virta ja Harmony Sisters).
+          Cowan: Mathilda (Yves Montand).
+          Brel: Päivät kuin unta (Arto Sotavalta).
+          Brel: Jos nyt menet pois (Anki).
+          Kuoppamäki: Paljon sanomatta jää (Jukka Kuoppamäki).
+          Mayfield: Painu pois, Jack (Four Cats).
+          Schifrin: The Cat (Jimmy Smith).
+          Stewart, Wood: Year of the cat (Al Stewart).
+          McHugh: On the sunny side of the street (Peggy Lee).
+          McHugh: Samum (Annikki Tähti).
+          Rodgers: Ystävyytesi (Timo Kiiskinen).
       - title: Yle Uutiset ja sää
         start_time: '2025-09-14T12:00:00+03:00'
         end_time: '2025-09-14T12:05:00+03:00'
@@ -122,9 +137,11 @@ data:
         end_time: '2025-09-14T18:00:00+03:00'
         description: |
           Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-      - title: Jazzklubin illan keikka
+      - title: 'Jazzklubin illan keikka: Post Koma Saalfeldenin jazzfestivaalilla.'
         start_time: '2025-09-14T18:00:00+03:00'
         end_time: '2025-09-14T19:00:00+03:00'
+        description: |
+          Äänitetty Saalfeldenin kongressikeskuksessa 25.8.2024.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-14T19:00:00+03:00'
         end_time: '2025-09-14T19:02:05+03:00'
