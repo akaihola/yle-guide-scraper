@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-05T02:31:12.568648+00:00'
+  generated_at: '2025-09-06T02:28:35.986093+00:00'
   git:
     branch: main
-    commit: 64e2ed4fb594d2029327c1931c086238fec26125
-  data_hash: c6e55061beb80a4c43a0b5f0c51f936170553fd92fc39f9cd859e9b274a14dd4
+    commit: c971438d06b91c65dacf07ba70ebfc55a88c7d42
+  data_hash: 65dff139010e3d1e334afb40c147e5733a244fa4d1a92de66c897c3da54a090a
 data:
   Yle Radio 1:
     programmes:
@@ -65,7 +65,7 @@ data:
 
       - title: 'Virtasen taloushistoria: Matkaruoan historiaa'
         start_time: '2025-09-13T11:00:00+03:00'
-        end_time: '2025-09-13T11:52:00+03:00'
+        end_time: '2025-09-13T11:50:00+03:00'
         description: |
           Maistuuko matkalla huonompikin ruoka? Vieraana historian dosentti Ritva Kylli.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
@@ -120,9 +120,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-13T15:20:00+03:00'
         end_time: '2025-09-13T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Artist, dinner ja shoppailu – finglish on monitahoinen ilmiö'
         start_time: '2025-09-13T15:30:00+03:00'
         end_time: '2025-09-13T15:55:00+03:00'
+        description: |
+          Pasi Heikura pohtii finglish-asintuntija Ville Elorannan ja Laura Niemen kanssa, miksi englannin kielestä suomen kieleen tulleet sanat ärsyttävät niin monia. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-09-13T15:55:00+03:00'
         end_time: '2025-09-13T15:58:00+03:00'
@@ -160,7 +163,7 @@ data:
           North: Rakkausteema elok. Spartacus (Cincinnati Pops/Erich Kunzel).
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sophia Jansson: Lapsuus ei ollut mikään Muumilaakso – äidin tragedia varjosti elämää'
         start_time: '2025-09-13T17:00:00+03:00'
-        end_time: '2025-09-13T17:52:00+03:00'
+        end_time: '2025-09-13T17:53:00+03:00'
         description: |-
           Sophia Jansson kasvoi suvussa, jossa satu ja todellisuus kulkivat rinnakkain. Muumien lämmin maailma tunnetaan maailmalla, mutta oman perheen sisällä elettiin myös varjoissa. Maarit Tastulan vieraana esikoiskirjailija Sophia Jansson. 
       - title: 'Ehtookellot: Iitin kirkon kellot'
