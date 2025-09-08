@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-07T02:32:40.713890+00:00'
+  generated_at: '2025-09-08T02:33:44.080396+00:00'
   git:
     branch: main
-    commit: e85810c51fdf04ae054fdc23bbb4d32184cf2349
-  data_hash: 94fa5fbf07840f0c866caec2086051528895ca99428280f1d5dbb1eb517c0079
+    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
+  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
 data:
   Yle Radio 1:
     programmes:
@@ -269,20 +269,25 @@ data:
         end_time: '2025-09-08T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-09-08T21:05:00+03:00'
-        end_time: '2025-09-08T21:30:30+03:00'
-      - title: Tiedeykkönen
+        end_time: '2025-09-08T21:34:30+03:00'
+      - title: 'Tiedeykkönen: Mitä ihmisestä saa irti? Kilpasoutaja Joel Naukkarinen tutkii väsymystä'
         start_time: '2025-09-08T21:35:00+03:00'
-        end_time: '2025-09-08T22:24:30+03:00'
+        end_time: '2025-09-08T22:24:05+03:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
+          Kilpasoutaja, aivotutkija ja lääkäri Joel Naukkarinen tähtää tieteen avulla olympialaisiin. Kun tavoitteena on kultamitali, pitää olympialaisissa saada kaikki irti itsestä. Naukkarinen etsiikin maksimaalisen suorituskykynsä rajoja ja puskee kerta toisensa jälkeen läpi väsymyksen.  Toimittajana on Pirjo Koskinen. Äänisuunnittelijana Matias Puumala.
+      - title: 'Kaisa Pulakan tutkimuksia: Pelko! - Ilmastokauhua ja pakolaispelkoa 500 vuoden takaa'
         start_time: '2025-09-08T22:25:00+03:00'
-        end_time: '2025-09-08T22:44:30+03:00'
+        end_time: '2025-09-08T22:44:09+03:00'
+        description: |+
+          Ilmastokauhua ja pakolaispelkoa 500 vuoden takaa. Uuden ajan alun pelkoihin johdattaa historian professori Raisa Toivo Tampereen yliopistosta. Pelon kulttuurihistoriaan matkataan toimittaja Kaisa Pulakan seurassa ja matkaoppaina toimivat eri aikakausien kulttuurihistorian tutkijat.
+
       - title: Näistä levyistä en luovu
         start_time: '2025-09-08T22:45:00+03:00'
         end_time: '2025-09-08T23:39:00+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Inari Tillin haastateltavana säveltäjä Pekka Jalkanen.
+
+          Pekka Jalkasen syntymästä on tullut kuluneeksi tasan 80 vuotta 5.9.2025. Jalkasen ura säveltäjänä sekä musiikkitieteilijänä on ulottunut huomattavan moniin teostyyppeihin ja soiviin ympäristöihin. Säveltämään oppimisessa romaneilla sekä lapsilla on ollut Jalkaselle suuri rooli. Flamenco on hänelle ”tauti, josta ei parannu”. Virolainen minimalismi on puolestaan avannut Jalkaselle aivan uuden, toisenlaisen modernin tavan säveltää. Kiinnostuksen kohteina ja inspiraation lähteinä ovat toimineet myös Balkanin kansanmusiikki, bysanttilainen kirkkolaulu sekä Väinämöisen kantele.
       - title: Yöklassinen
         start_time: '2025-09-08T23:40:00+03:00'
         end_time: '2025-09-09T06:30:00+03:00'
