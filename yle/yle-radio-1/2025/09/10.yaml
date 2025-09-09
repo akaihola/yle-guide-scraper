@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-08T02:33:44.824453+00:00'
+  generated_at: '2025-09-09T02:32:37.171377+00:00'
   git:
     branch: main
-    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
-  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
+    commit: 1e1264d639a53a9ac397f5c1d8a99cfa5bd96625
+  data_hash: 450c752d4c9c22152725c2c5b6427502ad1e6efc15eecd8990b0b22d8dc8bbaa
 data:
   Yle Radio 1:
     programmes:
@@ -136,9 +136,7 @@ data:
         start_time: '2025-09-10T10:00:00+03:00'
         end_time: '2025-09-10T10:50:00+03:00'
         description: |
-          Muotialaan vaikuttavat niin digitalisaatio, ilmastokriisi kuin talouden epävarmuudet.
-          Kenkäsuunnittelija Minna Parikalla on kokemusta kiviljakakaupan sulkemisesta ja kaupan siirtämisestä kokonaan verkkoon. Parikka avasi tänä vuonna uuden kivijalkaliikkeen ja uskoo sen päihittävän verkkoshoppailun. Miten muotiala ja kulutus ovat muuttuneet? Ovatko vastuullisuus ja kestävyys muotialan valtteja nyt ja tulevaisuudessa?
-          Toimittaja Satu Kivelä keskustelee aiheesta kenkäsuunnittelija Minna Parikan ja tutkija Riikka Franzénin kanssa
+          Kenkäsuunnittelija Minna Parikka perusti 25-vuotiaana oman kenkämerkin ja yrityksen. Parikka lopetti viisi vuotta sitten suositun kenkäbrändinsä ja piti luovan tauon. Tänä vuonna Parikka on perustanut uuden merkin ja avannut kivijalkamyymälän Helsingin keskustaan. Turun yliopistossa ja Turun Ammattikorkeakoulussa työskentelevä tutkija Riikka Franzénin mukaan Parikan esimerkki viestii uskosta tulevaisuuteen. Suomessa voin vapaasti tehdä sitä mitä haluan ja tekemistäni arvostetaan, kertoo Parikka.
       - title: Riston Valinta
         start_time: '2025-09-10T11:00:00+03:00'
         end_time: '2025-09-10T11:50:00+03:00'
@@ -166,11 +164,13 @@ data:
         description: |+
           Radio1:n iltapäivän musiikkitarjottimella on etnomusiikkia, kevyttä jazzia ja populaarimusiikin helmiä. N. klo 14 kysymme, kuka meillä on yksinäinen? Studiovieraana Helsinki Mission yksinäisyystyön päällikkö Maria Lähteenmäki. N. klo 14:30 Kirjailija Niina Kivilä kertoo kuoroharrastuksestaan. Toimittajana Satu Kivelä.
 
-      - title: Kulttuuriykkönen
+      - title: Kulttuurin paskoontuminen
         start_time: '2025-09-10T15:00:00+03:00'
         end_time: '2025-09-10T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Tekeekö meidän aikamme kaikkein huonointa kulttuuria ikinä? Amerikassa keskustellaan nykykulttuurin rappiosta, jota vauhdittavat datavetoinen tuotantomalli, tekoäly, tekijänoikeuksilla rahastaminen, suoratoistopalveluiden toimintalogiikka. Internetin piti saada luovuus kaikkien aikojen lentoon, mutta toisin kävi: amerikkalaisen kyselyn mukaan nyt tuotetaan vain keskimääräistä paskaa elokuvan, musiikin, urheilun, muodin ja television aloilla. Taide ei enää ole yhteiskuntaa uudistava voima, vaan massaviihteen köyhä pikkuserkku.  Alkoiko alamäki jo siitä kun 1990-luvulla haluttiin nostaa populaarikulttuuri taiteen rinnalle? 
+
+          Keskustelemassa toimittaja Oskari Onninen, tutkija Riie Heikkilä ja kirjailija Minna Lindgren. Toimittajana Jonni Roos.
       - title: Yle News
         start_time: '2025-09-10T15:55:00+03:00'
         end_time: '2025-09-10T15:58:00+03:00'
@@ -182,24 +182,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-10T16:07:00+03:00'
         end_time: '2025-09-10T16:59:00+03:00'
-        description: |-
+        description: |
+          Händel: Alkusoitto sarj. Ilotulitusmusiikkia (The Cleveland Symphonic Winds/Frederick Fennell).
+
           Saint-Saëns: Joutsen sarj. Eläinten karnevaali (Jan-Erik Gustafsson, sello, ja HKO/Leif Segerstam).
 
           Couperin: Le rossignol en amour (Rakastunut satakieli) (Angela Hewitt, piano).
 
           Tárrega: Gran vals A-duuri (Suuri valssi) (Timo Korhonen, kitara).
 
-          Korngold: Mariettan aaria oopp. Kuollut kaupunki (Renée Fleming, sopraano, ja Englantilainen kamariork./Jeffrey Tate).
+          Korngold: Mariettan laulu "Glück das mir verblieb" oopp. Kuollut kaupunki (Renée Fleming, sopraano, ja Englantilainen kamariork./Jeffrey Tate).
 
           Sibelius: Kehtolaulu (Yuval Yaron, viulu, ja Rena Sharon, piano).
 
           Monteverdi: Laudate pueri Dominum (ExTempore/Florian Heyerick). 
 
-          Kansansäv.: Fantasia laulusta I saw three ships (James Galway, huilu, ja Lontoon kuninkaallinen FO).
+          Kansansäv.: Fantasia laulusta I saw three ships (Lontoon kuninkaallinen FO/James Galway, huilu).
 
-          Strauss (sov. Gray): Nokturni käyrätorvelle ja pianolle (Harri Lidsle ja Tuomas Turriago). 
+          F. Strauss (sov. Gray): Nokturni käyrätorvelle ja pianolle (Harri Lidsle ja Tuomas Turriago). 
 
-          C.P.E. Bach: Allegretto Sinfoniasta C-duuri (Berliinin sinfoniaorkesterin kamariorkesteri/Hans-Peter Frank).
+          C.P.E. Bach: Allegretto sinfoniasta C-duuri (Berliinin SO:n kamariork./Hans-Peter Frank).
       - title: Uutispodcast
         start_time: '2025-09-10T17:00:00+03:00'
         end_time: '2025-09-10T17:25:00+03:00'
@@ -229,9 +231,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-10T19:00:00+03:00'
         end_time: '2025-09-10T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Helsingin Poliisisoittokunnan konsertti: Parasta klassista'
         start_time: '2025-09-10T19:02:00+03:00'
-        end_time: '2025-09-10T21:00:00+03:00'
+        end_time: '2025-09-10T20:38:00+03:00'
+        description: |
+          Sami Ruusuvuori, kapellimestari, Eeva Oksala, viulu. -Rossano Galante: Victory. Timo Hietala: Polar Fire, konsertto viululle ja sinfoniselle puhallinorkesterille (ke). Mathias Wehr: Earthen Echoes Unveiled. Juha Pisto: Gravitone. Martin Ellerby: Paris Sketches. - 4.9.25 Temppeliaukion kirkossa äänitetyn konsertin toimittaa Riikka Holopainen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-10T21:00:00+03:00'
         end_time: '2025-09-10T21:05:00+03:00'
@@ -243,7 +247,7 @@ data:
         end_time: '2025-09-10T22:25:00+03:00'
       - title: 'Naisen kosto: Passiivisaggressiivisin terveisin'
         start_time: '2025-09-10T22:26:00+03:00'
-        end_time: '2025-09-10T22:43:49+03:00'
+        end_time: '2025-09-10T22:43:52+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 
@@ -259,8 +263,8 @@ data:
           Esiintyjät: Pirjo Heikkilä, Tuomas Skopa, Antto Hinkkanen, Arvi Lind, Irina Pulkka, Miiko Toiviainen, Emma Mattila, Saana Peltola, Anna Rimpelä, Ville Leppilahti, Elli Salo, Eve Mantu, Kimmo Koskinen, Anttoni Palm, Antti Soulanto, Jussi Rautaniemi, Suvi Ahoniemi, Suvi Tuuli Kataja, Eerik Purdon.
           Asiantuntijat: Elina Reenkola, Antti Paakkari, Milka Hirvaskero, Nora Horn, Terhi Ketola-Huttunen, Tytti Shemeikka, Ruusu Haarla, Aino Vesikansa, Sami Pihlström.
       - title: 'Naisen kosto: Be gorgeous'
-        start_time: '2025-09-10T22:43:49+03:00'
-        end_time: '2025-09-10T23:13:50+03:00'
+        start_time: '2025-09-10T22:43:52+03:00'
+        end_time: '2025-09-10T23:11:56+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 

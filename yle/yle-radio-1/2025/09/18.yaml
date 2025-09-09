@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-08T02:33:47.412358+00:00'
+  generated_at: '2025-09-09T02:32:39.586667+00:00'
   git:
     branch: main
-    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
-  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
+    commit: 1e1264d639a53a9ac397f5c1d8a99cfa5bd96625
+  data_hash: 450c752d4c9c22152725c2c5b6427502ad1e6efc15eecd8990b0b22d8dc8bbaa
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-09-18T06:50:00+03:00'
         end_time: '2025-09-18T06:59:59+03:00'
-        description: |-
-          Piispa Matti Salomäki, Lapua
+        description: |
+          "Anna meille Sinun rauhasi"
+          Piispa Matti Salomäki Lapualta katsoo Lapuan tuomiokirkon kattolaipioon maalattuja ilmestyskirjan hevosia  ja kehottaa meistä jokaista olemaan vaikeuksista huolimatta rauhanrakentaja.
+          Luterilaisen kirkon piispat julkaisevat perjantaina 19.9.2025 piispainkirjeen rauhasta. Hartaus liittyy kirjaan "Kutsu rauhaan".
       - title: Yle Uutiset ja sää
         start_time: '2025-09-18T07:00:00+03:00'
         end_time: '2025-09-18T07:05:00+03:00'
@@ -63,6 +65,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-18T09:04:00+03:00'
         end_time: '2025-09-18T09:59:00+03:00'
+        description: |-
+          De Angelis: Swingin' on a rainbow (Frankie Avalon).
+          James: Pakoon, pakoon (Eila Pellinen).
+          Cramer: Last date (The Travelers).
+          Paoli: Sapore di sale (Gino Paoli).
+          Rahkola: Suurkaupungin valot (Seija Simola).
+          Debussy/Clinton: My reverie (Betty Carter).
+          Troxel/Christopher/Ellis: Tout doux, tout doucement (Marcel Amont).
+          Godzinsky: Hymyillen (Harmony Sisters)
+          Haid,/Whiting/Bernier: 'Tain't good (like a nickel made of wood) (Jimmie Lunceford and his orchestra).
+          Broberg: Medan årstider kommer och går (Robert 'Robban' Broberg).
+          Seeger: Turn! Turn! Turn! (The Byrds).
+          Thomas: The naughty little flea (Miriam Makeba).
+          Livingston/Evans: Lovely weather for ducks (Rosemary Clooney).
+          Kosma: Las hojas muertas (Los Tres Diamantes).
+          West: Viimeinen vihellys (Anki, Bosse ja Robert).
+          Hendrix: May this be love (Jimi Hendrix).
       - title: Marko Gustafssonin vieraana toimittaja, tietokirjailija Ville Vilén
         start_time: '2025-09-18T10:00:00+03:00'
         end_time: '2025-09-18T10:50:00+03:00'
@@ -159,14 +178,18 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-18T18:50:00+03:00'
         end_time: '2025-09-18T19:00:00+03:00'
-        description: |-
-          Piispa Matti Salomäki, Lapua
+        description: |
+          "Autuaita ovat rauhantekijät"
+          Piispa Matti Salomäki Lapualta muistuttaa, ettei rauha synny itsestään, vaan vaatii jatkuvaa työtä.
+          Luterilaisen kirkon piispat julkaisevat perjantaina 19.9.2025 piispainkirjeen rauhasta. Hartaus liittyy kirjaan "Kutsu rauhaan".
       - title: Yle Uutiset ja sää
         start_time: '2025-09-18T19:00:00+03:00'
         end_time: '2025-09-18T19:02:00+03:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertteja Latviasta
         start_time: '2025-09-18T19:02:00+03:00'
-        end_time: '2025-09-18T21:00:00+03:00'
+        end_time: '2025-09-18T20:50:00+03:00'
+        description: |
+          Latvian yleisradion Baltica 2025 -festivaalin konsertissa kuullaan Latvian eri alueiden, vähemmistökansojen ja -kielien musiikkia. Rudolstadtin maailmanmusiikkifestivaalilla latvialaisia kansanlauluja esittää Saucējas -yhtye. Toimittajana Miika Lauriala. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-18T21:00:00+03:00'
         end_time: '2025-09-18T21:05:00+03:00'

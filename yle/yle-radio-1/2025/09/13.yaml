@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-08T02:33:45.847916+00:00'
+  generated_at: '2025-09-09T02:32:37.889667+00:00'
   git:
     branch: main
-    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
-  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
+    commit: 1e1264d639a53a9ac397f5c1d8a99cfa5bd96625
+  data_hash: 450c752d4c9c22152725c2c5b6427502ad1e6efc15eecd8990b0b22d8dc8bbaa
 data:
   Yle Radio 1:
     programmes:
@@ -59,8 +59,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-09-13T08:30:00+03:00'
         end_time: '2025-09-13T08:40:00+03:00'
-        description: |-
-          Helsingin ja koko Suomen arkkipiispa Elia, Ortodoksinen kirkko, Helsinki
+        description: |+
+          "Katso rohkeasti paradoksia silmiin"
+          Helsingin ja koko Suomen arkkipiispa Elia, Ortodoksinen kirkko, Helsingistä puhuu ristin korottamisesta kuoleman symbolista elämän lähteeksi.
+
       - title: Maailman tärkein pieni asia
         start_time: '2025-09-13T08:40:00+03:00'
         end_time: '2025-09-13T09:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-08T02:33:45.464864+00:00'
+  generated_at: '2025-09-09T02:32:37.684333+00:00'
   git:
     branch: main
-    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
-  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
+    commit: 1e1264d639a53a9ac397f5c1d8a99cfa5bd96625
+  data_hash: 450c752d4c9c22152725c2c5b6427502ad1e6efc15eecd8990b0b22d8dc8bbaa
 data:
   Yle Radio 1:
     programmes:
@@ -111,6 +111,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-12T09:04:00+03:00'
         end_time: '2025-09-12T09:59:00+03:00'
+        description: |
+          Lindström: Höstens sång (Maynie Siren).
+          Aznavour: Eilen kun mä tiennyt en (Aili Ikonen).
+          Cutugno: Il etait une fois nous deux (Joe Dassin).
+          Goodman: Hyvää huomenta Suomi (Karma).
+          Layton: 'Way down yonder in New Orleans (The Andrews Sisters & Al Jolson).
+          Alter: Do you know what it means to miss New Orleans (Louis Armstrong).
+          Sarmanto: Syksy (Maija Hapuoja).
+          Trejo: Tata Dios (Linda Ronstadt).
+          Wechter: The Spanish flea (Herb Alpert and The Tijuana Brass).
+          Jagger/Richards: Miss you (Carla Bruni).
+          Syksyn lehdet (Oili Vainio).
+          Marley: Turn your lights down low (Bob Marley & The Wailers).
+          Nash: I can see clearly now (Johnny Nash).
+          Battisti: Il mio canto libero (Laura Pausini ja Juanes).
       - title: Ruben Stiller
         start_time: '2025-09-12T10:00:00+03:00'
         end_time: '2025-09-12T10:55:00+03:00'
@@ -242,19 +257,22 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-12T21:05:00+03:00'
         end_time: '2025-09-12T21:35:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Keskiajan linnaelämää Suomessa'
         start_time: '2025-09-12T21:36:00+03:00'
-        end_time: '2025-09-12T22:26:00+03:00'
+        end_time: '2025-09-12T22:24:24+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-09-12T22:27:00+03:00'
-        end_time: '2025-09-12T23:17:00+03:00'
+        start_time: '2025-09-12T22:24:30+03:00'
+        end_time: '2025-09-12T23:14:30+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Aristoteleen kantapää
-        start_time: '2025-09-12T23:18:00+03:00'
+      - title: 'Aristoteleen kantapää: Artist, dinner ja shoppailu – finglish on monitahoinen ilmiö'
+        start_time: '2025-09-12T23:15:08+03:00'
         end_time: '2025-09-12T23:39:30+03:00'
+        description: |
+          Pasi Heikura pohtii finglish-asintuntija Ville Elorannan ja Laura Niemen kanssa, miksi englannin kielestä suomen kieleen tulleet sanat ärsyttävät niin monia. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yöklassinen
         start_time: '2025-09-12T23:40:00+03:00'
         end_time: '2025-09-13T07:30:00+03:00'

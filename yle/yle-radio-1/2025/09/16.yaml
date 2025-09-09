@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-08T02:33:46.675804+00:00'
+  generated_at: '2025-09-09T02:32:38.888521+00:00'
   git:
     branch: main
-    commit: 459bfd10f891e42d678552e78fc60ca368483e4f
-  data_hash: 56d65ddde535a1d3527741e6142d943617cae79ae2c1ea843feb322d54b87d5b
+    commit: 1e1264d639a53a9ac397f5c1d8a99cfa5bd96625
+  data_hash: 450c752d4c9c22152725c2c5b6427502ad1e6efc15eecd8990b0b22d8dc8bbaa
 data:
   Yle Radio 1:
     programmes:
@@ -63,17 +63,17 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-16T09:04:00+03:00'
         end_time: '2025-09-16T09:59:00+03:00'
-        description: |-
+        description: |
           Malmsten: Baby (Greta Pitkänen).
-          Kansansävelmä: Vid foten av fjället (Sve Göran Jonsson).
+          Kansansäv.: Vid foten av fjället (Sven Gösta Jonsson).
           Bechet: Pequeña flor (Sara Montiel).
           Juntunen: Vesipisaroiden laulu (Jamppa Tuominen).
-          Gall: Le Temps de la rentree (France Gall, Alain Goraguer).
+          Gall: Le temps de la rentrée (France Gall).
           Dylan: I shall be released (Nina Simone).
           Brown: Temptation (Oscar Aleman). 
           Fain: Secret love (Vic Damone).
           Durrill: Tumma nainen (Lea Laven).
-          Nikodemus: Tule kanssani Kallioon, revyystä Hei heipparalla, Helsinki (Hannes Kettunen & Salonkiorkesteri Graco).
+          Nikodemus: Tule kanssani Kallioon (Hannes Kettunen).
           Pintucci: È scesa ormai la sera (Gabriella Ferri).
           Lennon/McCartney: Ticket to ride (Carpenters).
           Kern: Kun rakastunut on (Pepe Willberg).
@@ -83,11 +83,52 @@ data:
         end_time: '2025-09-16T10:55:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Lyhyet ja pitkät'
         start_time: '2025-09-16T11:00:00+03:00'
         end_time: '2025-09-16T11:57:00+03:00'
-        description: |-
+        description: |
+          Ovatko lyhyet kappaleet nykypäivän keksintö?
+          Kuinka lyhyttä ns. taidemusiikissa on sävelletty, ja onko pituudella tekemistä musiikin laadun tai puhuttelevuuden kanssa?
+
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+           Ludwig van Beethoven: Bagatellit A-duuri ja c-molli op.119 (Steven Osborne, piano).
+
+          Jean Sibelius: Vattendroppar (Vesipisaroita) JS216, viululle ja sellolle (Janine Jansen, viulu, Klaus Mäkelä, sello.)
+
+          Josquin Desprez: Petite camusette a la mort mavez mis (Pikku nöpönenäni) (Ensemble Clement Janequin/Dominique Visse.)
+
+          Philippe Verdelot:  O dolce notte (Alamire).
+
+          Georg Caspar Schürmann: Sinfonia pour la tempete (Ensemble Jupiter/Thomas Dunford).
+
+          J.S. Bach: Preludi klaveerille F-duuri BWV927 (Joseph Payne, cembalo).
+          J.S. Bach: Inventio n:o 8 F-duuri BWV779 (Andrea Bacchetti, piano).
+
+          Georg Philipp Telemann: Raha ja Onni (Peter Schreier, tenori, Robert Köbler, cembalo, Werner Jaroslawski, viola da gamba).
+
+          Robert Schumann:  Jasminenstrauch (Jasmiinipensas) (Carolyn Sampson, sopraano, Joseph Middleton, piano).
+
+          Johannes Brahms: Nachtwache 2 (Somnium Ensemble/Tatu Erkkilä).
+          Johannes Brahms: Valssi pianolle n:o 3 gis-molli op.39/3 (Alexander Brailowsky, piano).
+
+          Richard Wagner Lied des Mephistopheles (Mefistofeleen laulu) (Dietrich Fischer-Dieskau, baritoni, Jörg Demus, fortepiano).
+
+          Edward Elgar: Smoking cantata (Tupakointikantaatti)  (Roderick Williams, baritoni, BBC:n filharmoninen orkesteri/Andrew Davis).
+
+          Gustav Mahler: Sinfonia n:o 10 fis-molli: 1. Adagio (Clevelandin orkesteri/Pierre Boulez).
+
+          Anton Webern:  Kuusi kappaletta orkesterille op.6, alkuperäisversio, osat 1 ja 2.  (Amsterdamin Concertgebouw-orkesteri/Pierre Boulez). 
+
+          Erik Satie: Urheilua ja huvituksia, osat Kilpajuoksut ja Piknik (Susan Manoff, piano).
+
+          John Cage: Five (Latvian radion kuoro/Sigvards Klava).
+
+          Poul Ruders: Rattus rattus (Rotta) (Petri Kumela, kitara).
+          Joachim W. Schneider: Calypte anna (Rubiinipartakolibri) (Petri Kumela, kitara).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-16T11:57:00+03:00'
         end_time: '2025-09-16T12:00:00+03:00'
@@ -133,7 +174,7 @@ data:
         description: |-
           Otsikoiden takana joka arkipäivä.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-09-16T17:25:00+03:00'
+        start_time: '2025-09-16T17:20:00+03:00'
         end_time: '2025-09-16T17:35:00+03:00'
         description: |2+
 
