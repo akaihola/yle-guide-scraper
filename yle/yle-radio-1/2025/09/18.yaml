@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-11T02:31:40.499971+00:00'
+  generated_at: '2025-09-12T02:29:04.043046+00:00'
   git:
     branch: main
-    commit: 201bdefe17caa78473e6373548d6cf12b8574007
-  data_hash: a5d3cf85b96dc2c5b0a1596115cd0adf75cc1c7ccd8fcc805365324936dca2e1
+    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
+  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,39 @@ data:
         start_time: '2025-09-17T23:40:00+03:00'
         end_time: '2025-09-18T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Brahms (sov.): Lauluja kokoelmasta Deutsche Volkslieder (Irmgard Seefried, sopraano, ja Erik Werba, piano).
+
+          00:03 Fuchs: Serenadi jousille n:o 2 C-duuri (Kölnin kamariork./Christian Ludwig).
+
+          00:20 Gershwin: Kolme preludia (Michael Tilson Thomas, piano).
+
+          00:28 Pleyel: Huilukonsertto C-duuri (Emmanuel Pahud ja Baselin kamariork./Giovanni Antonini).
+
+          00:52 Rangström: Divertimento elegiaco (Tukholman kuninkaallisen oopperan orkesteri/Stig Westerberg).
+
+          01:10 Paulli: Konservatoriet, baletti (Aalborgin SO/Peter Ernst Lassen).
+
+          02:17 Henze: Royal Winter Music (Otto Tolonen, kitara).
+
+          03:14 Dvorák: Slaavilainen tanssi n:o 13 b-molli (Webster-trio).
+
+          03:18 I. Hannikainen: Kvartetto pianolle ja jousille fis-molli (Nina Karmon, viulu, Luke Turrell, alttoviulu, Roi Ruottinen, sello, ja Terhi Dostal, piano).
+
+          03:54 Händel: The Triumph of Time and Truth (Ajan ja Totuuden riemuvoitto), oratorio (Sophie Bevan, sopraano, Mary Bevan, sopraano, Tim Mead, kontratenori, Ed Lyon, tenori, ja William Berger, basso, sekä Ludus Baroque/Richard Neville-Towle).
       - title: Hartaita säveliä
         start_time: '2025-09-18T06:30:50+03:00'
         end_time: '2025-09-18T06:50:00+03:00'
+        description: |+
+          Lagi: Mä silmät luon ylös taivaaseen (Eve ja Ossi).
+
+          Koraalitoisinto: Nyt anna, Herra, tultasi (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Koraalitoisinto (sov. Matis Metsala): Sinulle kiitos, Isä maan ja taivaan (Mehis Metsala, sello, ja yhtye).
+
+          Ahnfelt: Päivä vain ja hetki kerrallansa (Henna Nieminen, laulu ja piano, sekä Janne-Tapani Simola, laulu).
+
+          Hovland: Jumala loi auringon, kuun (Tapiolan kuoro/Kari Ala-Pöllänen, ja Kaisa-Leena Harjunmaa, piano).
+
       - title: Aamuhartaus
         start_time: '2025-09-18T06:50:00+03:00'
         end_time: '2025-09-18T06:59:59+03:00'
@@ -65,7 +94,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-18T09:04:00+03:00'
         end_time: '2025-09-18T09:59:00+03:00'
-        description: |-
+        description: |
           De Angelis: Swingin' on a rainbow (Frankie Avalon).
           James: Pakoon, pakoon (Eila Pellinen).
           Cramer: Last date (The Travelers).
@@ -74,7 +103,7 @@ data:
           Debussy/Clinton: My reverie (Betty Carter).
           Troxel/Christopher/Ellis: Tout doux, tout doucement (Marcel Amont).
           Godzinsky: Hymyillen (Harmony Sisters)
-          Haid,/Whiting/Bernier: 'Tain't good (like a nickel made of wood) (Jimmie Lunceford and his orchestra).
+          Haid/Whiting/Bernier: 'Tain't good (like a nickel made of wood) (Jimmie Lunceford and his orchestra).
           Broberg: Medan årstider kommer och går (Robert 'Robban' Broberg).
           Seeger: Turn! Turn! Turn! (The Byrds).
           Thomas: The naughty little flea (Miriam Makeba).
@@ -116,7 +145,7 @@ data:
         end_time: '2025-09-18T15:00:00+03:00'
         description: |-
           Iltapäivässä soivat kevyt jazz, etno ja populaarimusiikin helmet. Juontajana Paula Jokimies. N. klo 14 Kati Turtola tapaa "Lotta ja pappa" -lauluvideoilla ihastuttaneen Lotta-Sofia ja Jorma Saahkon, jotka nyt ovat mukana Ylen Unohtumattomat – muistikuoron matka -sarjassa. N. klo 14:30 kirjailija Johanna Sinisalo kertoo koskettavimmistasta kulttuurikkokemuksistaan toimittaja Sari Valtolle.
-      - title: 'Pohjoismaisia ateljeekoteja ja pohjoismainen sisustustyyli '
+      - title: 'Kulttuuriykkönen: Pohjoismaisia ateljeekoteja ja pohjoismainen sisustustyyli '
         start_time: '2025-09-18T15:00:00+03:00'
         end_time: '2025-09-18T15:55:00+03:00'
         description: |
@@ -143,7 +172,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-18T16:07:00+03:00'
         end_time: '2025-09-18T16:59:00+03:00'
-        description: |-
+        description: |
           Saint-Saëns: Fossiilit teoksesta Eläinten karnevaali (Martha Argerich ja Nelson Freire, piano, Gidon Kremer ja Isabelle van Keulen, viulu, Tabea Zimmermann, alttoviulu, Misha Maisky, sello, Georg Hörtnagel, kontrabasso, Irena Grafenauer, huilu, Eduard Brunner, klarinetti, Markus Steckeler, ksylofoni, ja Edith Salmen-Weber, kellopeli).
 
           Bernstein: Vanhan rouvan tango "I am easily assimilated" oper. Candide (Elina Garanca, mezzosopraano, sekä Torinon oopperan kuoro ja Italian radion SO/Karel Mark Chichon).
@@ -158,15 +187,15 @@ data:
 
           Farrenc: Adagio - Allegro nonetosta Es-duuri (Philippe Bernold, huilu, Francois Leleux, oboe, Romain Guyot, klarinetti, Andre Cazalet, käyrätorvi, Gilbert Audin, fagotti, Guillaume Sutre, viulu, Miguel da Silva, alttoviulu, Francois Salque, sello, ja Vincent Pasquier, kontrabasso).
 
-          W.A.Mozart: Muunnelmia pianolle F-duuri Grétryn teemasta (Walter Gieseking).
+          W.A. Mozart: Muunnelmia F-duuri Grétryn teemasta (Walter Gieseking, piano).
 
-          Offenbach: Giuliettan ja Niklauksen duetto oopp. Hoffmannin kertomukset (Anne Sofie von Otter, sopraano, ja Stephanie d' Oustrac, sopraano, sekä  Les Musiciens du Louvre/Marc Minkowski).
+          Offenbach: Giuliettan ja Niklauksen duetto "Belle nuit" oopp. Hoffmannin kertomukset (Stephanie d'Oustrac, sopraano, Anne Sofie von Otter, mezzosopraano, sekä Les Musiciens du Louvre/Marc Minkowski).
 
           Pierne: Impromptu-kapriisi As-duuri (Isabelle Moretti, harppu). 
 
           Le Beau: Kolme pianokappaletta op.1 (Ana-Marija Markovina).
 
-          Netzel: Humoreski sarj. viululle ja jousiorkesterille (Musica Vitae/Malin Broman).
+          Netzel: Humoreski sarj. viululle ja jousiorkesterille (Musica Vitae/Malin Broman, viulu).
       - title: Uutispodcast
         start_time: '2025-09-18T17:00:00+03:00'
         end_time: '2025-09-18T17:20:00+03:00'
@@ -188,6 +217,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-18T18:35:00+03:00'
         end_time: '2025-09-18T18:50:00+03:00'
+        description: |+
+          S. Heikkilä: Neuvonantaja (Sakari Heikkilä).
+
+          Palviainen (sov.): On hyvyydessään Jumala (Cetus Noster -vokaaliyhtye, ja Eero Palviainen, arkkiluuttu).
+
+          Koraalitoisinto: Nyt vielä etehesi (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
       - title: Iltahartaus
         start_time: '2025-09-18T18:50:00+03:00'
         end_time: '2025-09-18T19:00:00+03:00'
@@ -203,9 +239,6 @@ data:
         end_time: '2025-09-18T20:50:00+03:00'
         description: |
           Latvian yleisradion Baltica 2025 -festivaalin konsertissa kuullaan Latvian eri alueiden, vähemmistökansojen ja -kielien musiikkia. Rudolstadtin maailmanmusiikkifestivaalilla latvialaisia kansanlauluja esittää Saucējas -yhtye. Toimittajana Miika Lauriala. 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-09-18T21:00:00+03:00'
-        end_time: '2025-09-18T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-09-18T21:05:00+03:00'
         end_time: '2025-09-18T21:35:00+03:00'
@@ -224,4 +257,26 @@ data:
         start_time: '2025-09-19T00:00:00+03:00'
         end_time: '2025-09-19T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Sibelius: Kymmenen kappaletta pianolle op.58 (Risto-Matti Marin).
+
+          00:35 Respighi: La Pentola magica (Taikakattila), baletti (BBC:n FO/Gianandrea Noseda, ja Hannah Sawle, tyttösopraano).
+
+          01:01 Cherubini: Jousikvartetto n:o 2 C-duuri (Quartetto David).
+
+          01:29 Glazunov: Kvintetto jousille A-duuri (Gringolts-kvartetti ja Christian Poltéra, sello).
+
+          01:59 Prokofjev: Pianokonsertto n:o 5 G-duuri (Olli Mustonen ja RSO/Hannu Lintu).
+
+          02:24 Rangström: Sinfonia n:o 1 cis-molli (August Strindberg in memoriam) (Ruotsin radion SO/Leif Segerstam).
+
+          03:02 Conti: Daavid, oratorio (Marijana Mijanovic, altto, Furio Zanasi, baritoni, Simone Kermes sopraano, Birgitte Christensen, sopraano, Sonia Prina, altto, ja Vito Priante, baritoni, sekä Complesso Barocco -kuoro ja -ork./Alan Curtis).
+
+          05:40 Nielsen: Nuoren taiteilijan paarien äärellä (Emerson-kvartetti).
+
+          05:44 Fauré: Kehrääjätär näyt. Pelléas ja Mélisande (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          05:47 Bonporti: Konsertto F-duuri (Bloomington Baroque/Stanley Ritchie).
+
+          05:59 J.S. Bach: Ranskalainen sarja n:o 2 c-molli (Murray Perahia, piano).
+
+          06:14 Falckenhagen: Sonaatti luutulle c-molli (Joachim Held).

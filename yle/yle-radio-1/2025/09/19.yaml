@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-11T02:31:40.708544+00:00'
+  generated_at: '2025-09-12T02:29:04.326297+00:00'
   git:
     branch: main
-    commit: 201bdefe17caa78473e6373548d6cf12b8574007
-  data_hash: a5d3cf85b96dc2c5b0a1596115cd0adf75cc1c7ccd8fcc805365324936dca2e1
+    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
+  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,39 @@ data:
         start_time: '2025-09-19T00:00:00+03:00'
         end_time: '2025-09-19T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Sibelius: Kymmenen kappaletta pianolle op.58 (Risto-Matti Marin).
+
+          00:35 Respighi: La Pentola magica (Taikakattila), baletti (BBC:n FO/Gianandrea Noseda, ja Hannah Sawle, tyttösopraano).
+
+          01:01 Cherubini: Jousikvartetto n:o 2 C-duuri (Quartetto David).
+
+          01:29 Glazunov: Kvintetto jousille A-duuri (Gringolts-kvartetti ja Christian Poltéra, sello).
+
+          01:59 Prokofjev: Pianokonsertto n:o 5 G-duuri (Olli Mustonen ja RSO/Hannu Lintu).
+
+          02:24 Rangström: Sinfonia n:o 1 cis-molli (August Strindberg in memoriam) (Ruotsin radion SO/Leif Segerstam).
+
+          03:02 Conti: Daavid, oratorio (Marijana Mijanovic, altto, Furio Zanasi, baritoni, Simone Kermes sopraano, Birgitte Christensen, sopraano, Sonia Prina, altto, ja Vito Priante, baritoni, sekä Complesso Barocco -kuoro ja -ork./Alan Curtis).
+
+          05:40 Nielsen: Nuoren taiteilijan paarien äärellä (Emerson-kvartetti).
+
+          05:44 Fauré: Kehrääjätär näyt. Pelléas ja Mélisande (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          05:47 Bonporti: Konsertto F-duuri (Bloomington Baroque/Stanley Ritchie).
+
+          05:59 J.S. Bach: Ranskalainen sarja n:o 2 c-molli (Murray Perahia, piano).
+
+          06:14 Falckenhagen: Sonaatti luutulle c-molli (Joachim Held).
       - title: Hartaita säveliä
         start_time: '2025-09-19T06:30:50+03:00'
         end_time: '2025-09-19T06:50:00+03:00'
+        description: |+
+          P. Viitanen: Rauhan laulu (Viitasen Piia).
+
+          Tuntematon: Oi iloitkaa, te kristityt (Kampin Laulu/Tuomas Sidoroff, sekä Pertti Eerola, urut).
+
+          Knapp (sov. Siponkoski): Varmana laulaa Herrasta saan (Tuomas Laatu ja yhtye).
+
       - title: Aamuhartaus
         start_time: '2025-09-19T06:50:00+03:00'
         end_time: '2025-09-19T06:59:59+03:00'
@@ -114,19 +143,19 @@ data:
         start_time: '2025-09-19T16:07:00+03:00'
         end_time: '2025-09-19T16:59:00+03:00'
         description: |
-          Schubert: Allegro con fuoco ma non troppo, sarj. Wandererfantasie (Svjatoslav Richter, piano). 
+          Schubert: Allegro con fuoco ma non troppo sarj. Wandererfantasie (Svjatoslav Richter, piano). 
 
           Pärt: Summa (Viron valtion SO/Paavo Järvi).
 
-          Mozart: Romanssi pianokonsertosta n:o 20 d-molli (Martha Argerich, piano, ja Orchestra Mozart/Claudio Abbado).
+          W.A. Mozart: Romanssi pianokonsertosta n:o 20 d-molli (Martha Argerich ja Orchestra Mozart/Claudio Abbado).
 
           Piazzolla (sov. Kiviniemi): Ave Maria (Tanti anni prima) (Tarja Turunen, sopraano, Marius Järvi, sello, ja Kalevi Kiviniemi, urut). 
 
           Piana: Milonga triste (Hector De Rosas, laulu, ja Astor Piazzolla y su quinteto Nuevo Tango). 
 
-          A. Zuckermann: Preludi pianolle (Nanette Kaplan Solomon). 
+          Mana-Zucca: Preludi pianolle (Nanette Kaplan Solomon). 
 
-          Tormis: Syysmaisemia, sarja sekakuorolle a cappella (Viron radion kuoro/Toomas Kapten). 
+          Tormis: Sügismaastikud (Syysmaisemia) (Viron radion kuoro/Toomas Kapten). 
 
           Dvorák: Slaavilainen tanssi n:o 10 e-molli (Tshekkiläinen FO/Jirí Belohlávek).
       - title: 'Manipuloinnin mestarit 3/3: Epätoivoisen uhrin viimeinen oljenkorsi'
@@ -154,6 +183,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-19T18:35:00+03:00'
         end_time: '2025-09-19T18:50:00+03:00'
+        description: |+
+          Bluetree: Tämän kaupungin Herra (Sakari Heikkilä).
+
+          I. Hannikainen: Kaikki Jeesukselle (Oulun konservatorion kirkkomusiikin opiskelijoiden kuoro/Tuomo Nikkola).
+
+          Simojoki: Jobin laulu (Et Cetera, Pekka Simojoki, laulu, ja yhtye).
+
+          Tuntematon: Maat, metsät hiljenneinä (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
       - title: Iltahartaus
         start_time: '2025-09-19T18:50:00+03:00'
         end_time: '2025-09-19T19:00:00+03:00'
@@ -165,7 +203,7 @@ data:
         end_time: '2025-09-19T19:02:00+03:00'
       - title: 'Kaivos-festivaali 2025: Viimeinen kohtaaminen – In Memoriam'
         start_time: '2025-09-19T19:02:00+03:00'
-        end_time: '2025-09-19T21:00:00+03:00'
+        end_time: '2025-09-19T20:27:00+03:00'
         description: |-
           Kaivos-festivaali herättää Outokummun Vanhan Kaivoksen eloon aina syyskuun ensimmäisenä viikonloppuna. Elokuvan, musiikin, tanssin ja valokuvataiteen ympärille rakentuva kokonaisuus on kulttuuriyhdistys Äänisen tuotantoa. Vuonna 2025 Kaivos-festivaalin taiteellisina suunnittelijoina toimivat sellisti Sirja Nironen, koreografi Katariina Vähäkallio sekä elokuvaohjaaja Niko Väistö. 
 
@@ -191,9 +229,6 @@ data:
           Konsertti on äänitetty Outokummun Teatteri Kiisussa 7.9.2025. Toimittajana on Ainomaija Pennanen ja konserttitaltioinnin äänisuunnittelija on Jari Rantakaulio. 
 
           Kuvassa Outokummun Teatteri Kiisu. (©Outokummun kaupunki/Henri Elsinen)
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-09-19T21:00:00+03:00'
-        end_time: '2025-09-19T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-09-19T21:05:00+03:00'
         end_time: '2025-09-19T21:35:00+03:00'
@@ -214,4 +249,20 @@ data:
         start_time: '2025-09-19T23:40:00+03:00'
         end_time: '2025-09-20T07:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Meyerbeer: Les Huguenots (Hugenotit), ooppera (Joan Sutherland, sopraano, Anastasios Vrenios, tenori, Gabriel Bacquier, baritoni, Martina Arroyo, sopraano, Huguette Tourangeau, mezzosopraano, Nikola Gjuzelev, basso, Dominic Cossa, baritoni, John Wakefield, tenori, Joseph Ward, baritoni, Kiri Te Kanawa, sopraano, ym. sekä Ambrosian-oopperakuoro ja Lontoon New Philharmonia orchestra/Richard Bonygne).
+
+          03:23 J.D. Braun: Sonaatti n:o 3 d-molli (Marion Treupel-Franck, huilu, Sergio Azzolini, fagotti, Francesco Galligioni, viola da gamba, ja Axel Wolf, luuttu).
+
+          03:35 W.A. Mozart: Kassaatio G-duuri (Salzburgin Mozarteumin akateeminen kamariork./Sándor Végh).
+
+          04:00 M. Danzi: Sonaatti pianolle ja viululle n:o 2 B-duuri (Vaughan Schlepp ja Antoinette Lohmann).
+
+          04:20 Paderewski: Sinfonia h-molli (BBC:n Skotlannin SO/Jerzy Maksymiuk).
+
+          05:37 Glinka: Jousikvartetto D-duuri (Shostakovitsh-kvartetti).
+
+          06:13 de Morales: Missa pro defunctis (La Capella Reial de Catalunya ja Hespèrion XX/Jordi Savall).
+
+          06:59 Telemann: Kvartetto huilulle, viululle, viola da gamballe ja continuolle n:o 6 e-molli (Pariisilaiskvartetto) (Amsterdamin Quadro-yhtye).
+
+          07:17 Veracini: Sonaatti viululle ja continuolle n:o 1 D-duuri (John Holloway, viulu, Jaap ter Linden, sello, ja Lars Ulrik Mortensen, cembalo).

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-11T02:31:41.290256+00:00'
+  generated_at: '2025-09-12T02:29:04.850083+00:00'
   git:
     branch: main
-    commit: 201bdefe17caa78473e6373548d6cf12b8574007
-  data_hash: a5d3cf85b96dc2c5b0a1596115cd0adf75cc1c7ccd8fcc805365324936dca2e1
+    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
+  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,39 @@ data:
         start_time: '2025-09-20T23:40:00+03:00'
         end_time: '2025-09-21T07:00:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Hahn: Le Ruban dénoué (Avattu nauha) (Huseyin Sermet ja Kun Woo Paik, piano).
+
+          00:12 Kuhlau: Sonaatti viululle ja pianolle a-molli (Christina Åstrand ja Per Salo).
+
+          00:28 Schmelzer: Vesperae sollennes (Juhlavesper) (Vasiljka Jezovsek, sopraano, Mieke van der Sluis, sopraano, Pascal Bertin, kontratenori, Lena Susanne Norin, altto, Jörg Dürmüller, tenori, Wilfried Jochens, tenori, Matthias Gerchen, basso, ja Stephan Schreckenberger, basso, sekä Choralschola der Wiener Hofburgkapelle, Gradus ad Parnassum ja Concerto Palatino/Konrad Junghänel).
+
+          00:59 Spohr: Concertante n:o 2 e-molli (Christoph Poppen, viulu, ja Ursula Holliger, harppu, sekä Englantilainen kamariork./Heinz Holliger).
+
+          01:25 Beethoven: Pianokonsertto n:o 1 C-duuri (Friedrich Gulda ja Wienin filharmonikot/Horst Stein).
+
+          02:04 Zandonai: Francescan ja Paolon duetto oopp. Francesca da Rimini (Renata Tebaldi, sopraano, ja Franco Corelli, tenori, sekä Geneven kuoro ja Ranskankielisen Sveitsin ork./Anton Guadagno).
+
+          02:23 Ponce: Sonata romantica (Romanttinen sonaatti) (Andrés Segovia, kitara).
+
+          02:23 J.L. Adams: Become Ocean (Seattlen SO/Ludovic Morlot).
+
+          03:29 Honegger: Sonatiini viululle ja sellolle (Josef Suk ja André Navarra).
+
+          03:44 Schubert: Pianosonaatti n:o 16 a-molli (Radu Lupu).
+
+          04:21 Nelhybel: Scherzo concertante (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          04:25 W.A. Mozart: Sinfonia concertante Es-duuri ja Concertone C-duuri (Smithsonian-kamariork./Jaap Schröder).
+
+          05:23 Boëllmann: Goottilainen sarja uruille (Daniel Chorzempa).
+
+          05:39 Granados: Valses poeticos (Runollisia valsseja) (Benjamin Grosvenor, piano).
+
+          05:50 J. S. Bach: Kantaatti n:o 207 (Auf, schmetternde Töne der muntern Trompeten) (Joanne Lunn, sopraano, Robin Blaze, kontratenori, Nicholas Phan, tenori, ja Dominik Wörner, basso, sekä Bach Collegium Japan/Masaaki Suzuki).
+
+          06:24 Rameau: Pigmalion, balettisarja (Euroopan Unionin barokkiork./Roy Goodman).
+
+          06:44 W. F. E. Bach: Sinfonia C-duuri (Das Kleine Konzert/Hermann Max).
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-09-21T07:01:00+03:00'
         end_time: '2025-09-21T07:58:00+03:00'
@@ -58,7 +90,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-21T12:55:00+03:00'
         end_time: '2025-09-21T13:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kaikki mikä nuoteista puuttuu'
         start_time: '2025-09-21T13:00:00+03:00'
         end_time: '2025-09-21T13:57:00+03:00'
         description: |

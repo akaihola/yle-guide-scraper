@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-11T02:31:40.094608+00:00'
+  generated_at: '2025-09-12T02:29:03.366056+00:00'
   git:
     branch: main
-    commit: 201bdefe17caa78473e6373548d6cf12b8574007
-  data_hash: a5d3cf85b96dc2c5b0a1596115cd0adf75cc1c7ccd8fcc805365324936dca2e1
+    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
+  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,57 @@ data:
         start_time: '2025-09-15T23:40:00+03:00'
         end_time: '2025-09-16T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Anonyymi 1700-luvulta: Balletti di Venezia, tanssisarja soittimille (Ensemble Caprice).
+
+          23:54 Dowland: Mr. Henry Noell, his funerall psalmes (Hilliard-yhtye).
+
+          00:12 van Noordt: Psalmi 38 (Riennä avukseni, Herra, minun pelastukseni) (Manuel TOmadin, Lyypekin Pyhän Jaakobin kirkon urut).
+
+          00:21 Brahms: Sonaatti viululle ja pianolle n:o 1 G-duuri (Regenlied) (David Oistrah ja Frida Bauer).
+
+          00:49 Godard: Goottilainen sinfonia (Münchenin RO/David Reiland).
+
+          01:09 Telemann: Sonaatti kahdelle huilulle D-duuri (Mindy Rosenfeld ja Stephen Schultz, traverso).
+
+          01:21 Tshaikovski: Pianokonsertto n:o 2 G-duuri (Gary Graffman ja Philadelphian ork./Eugene Ormandy).
+
+          01:58 Pingoud: Le Fetich (RSO/Sakari Oramo).
+
+          02:13 Fauré: Nell (Renée Fleming, sopraano, ja Jean-Yves Thibaudet, piano).
+
+          02:16 Couperin: Konsertto n:o 12 (Markku Luolajan-Mikkola ja Mikko Perkola, bassogamba).
+
+          02:24 Granados: Yksinlaulut El majo timido (Ujo poika), Amor y odio (Rakkaus ja viha) sekä El majo discreto (Vaitelias poika) (Irja Auroora, sopraano, ja Pentti Koskimies, piano).
+
+          02:31 Meder: Sinfonia n:o 4 (Alankomaiden radion kamariork./Anthony Halstead).
+
+          02:44 Copland: Teatterimusiikkia (Harmonie Ensemble/Steven Richman).
+
+          03:06 Adams: The Wound-dresser (Sanford Sylvan, baritoni, ja Clevelandin ork./Christoph von Dohnanyi). 
+
+          03:28 Beethoven: Pianosonaatit n:o 1 f-molli, 6 F-duuri ja 12 As-duuri (Rudolf Serkin). 
+
+          04:23 W.A. Mozart: Pianosonaatti n:o 4 Es-duuri (Friedrich Gulda).
+
+          04:39 F.X. Richter: Jousikvartetto C-duuri op.5/1 (Casal-kvartetti).
+
+          04:59 Rameau: Dardanus, balettisarja (Euroopan Unionin barokkiork./Roy Goodman).
+
+          05:33 Byrd: Messu, 4-ääninen a cappella (The Pro Arte Singers/Paul Hillier).
+
+          05:56 Forqueray: Sarja cembalolle n:o 5 c-molli (Justin Taylor).
       - title: Hartaita säveliä
         start_time: '2025-09-16T06:30:50+03:00'
         end_time: '2025-09-16T06:50:00+03:00'
+        description: |+
+          P.J. Hannikainen (sov. Koskinen): Maan korvessa kulkevi lapsosen tie (Samuli Edelmann ja yhtye).
+
+          Maasalo: Oi Jeesus, lohdutukseni (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Koraalitoisinto: Kaikkien silmät tarkkaavat (RKK/Timo Nuoranne, ja Harri Viitanen, urut). 
+
+          I. Kuusisto (sov. Luukkonen): Syttyköön nyt laulun riemu (Rantsilan Stellat ja Pulkkilan Stellat/Arja Leinonen, sekä Aino Liikanen ja Henri Pigg, viulu, Vanamo Lahti, sello, ja Pekka Luukkonen, piano).
+
       - title: Aamuhartaus
         start_time: '2025-09-16T06:50:00+03:00'
         end_time: '2025-09-16T06:59:59+03:00'
@@ -78,7 +125,7 @@ data:
           Lennon/McCartney: Ticket to ride (Carpenters).
           Kern: Kun rakastunut on (Pepe Willberg).
           Jones: Carry on (Norah Jones). 
-      - title: Sari Valto
+      - title: 'Sari Valto: Mikä meitä ohjaa: aivot vai mieli?'
         start_time: '2025-09-16T10:00:00+03:00'
         end_time: '2025-09-16T10:55:00+03:00'
         description: |-
@@ -140,9 +187,12 @@ data:
         end_time: '2025-09-16T12:25:00+03:00'
         description: |-
           Pelon kulttuurihistoriaa Kaisa Pulakan seurassa. Valistusaika toi eurooppalaisille sananvapauden-, ajattelunvapauden- ja tasa-arvon käsitteet ja opetti meidät pelkäämään niiden menettämisen puolesta. Asiantuntijana Charlotta Wolff.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Äksynlääke, kummallisvero, kerhotaulu – merimiesten kasvattama Peppi Pitkätossu muistuttaa apinoiden kasvattamaa Tarzania'
         start_time: '2025-09-16T12:25:00+03:00'
         end_time: '2025-09-16T12:50:00+03:00'
+        description: |
+          Pasi Heikura matkustaa Huvikumpuun Merkki-museon Peppi-näyttelyn käsikirjoittaja Kirsi Kolarin kanssa selvittämään Astrid Lindgrenin rakastetun Peppi- hahmon omaperäisen kielen ja käytöksen taustoja. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-16T12:50:00+03:00'
         end_time: '2025-09-16T13:00:00+03:00'
@@ -184,12 +234,35 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-09-16T17:35:00+03:00'
         end_time: '2025-09-16T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Mitä sitä osaisi sanoa Buddhalle, jos häneen törmäisi bileissä? Milloin Metsolat tuleekaan telkkarista? Mistä musiikki tulee ja onko se ääneksi muuttunutta aikaa? Ole huoleti. 
+          Kissankehdossa annetaan kerrankin vastauksia. 
 
+          Tänään ikivanhoja loitsuja kaivetaan ryytimaasta ja herkkuja mättävälle Buddhalle annetaan ohjeita terveellisempiin ruokailutapoihin. Brassaillaan musalöydöillä ihan niinkuin vuosikymmeniä sitten ja selataan tuttujen lomakuvia Facebookissa hamaan loppuun saakka. 
+
+          Saint Etienne: The last time
+          Ben E. King: Stand by me
+          kukkatalo: Skene
+          Regina: Päivät valuvat
+          Midlake: The ghouls
+          Pekko Käppi & KHHL: Ole huoleti 
+          David Byrne: I met the Buddha at a downtown party
+          Moloko: The time is now
+          Wolf Alice: The sofa
+          Sur-Rur: En tiedä mitä on tulossa
+          1961: Sä oot kaukana
       - title: Hartaita säveliä
         start_time: '2025-09-16T18:35:00+03:00'
         end_time: '2025-09-16T18:50:00+03:00'
+        description: |+
+          Kallunki: Jumalan luona kaikuu (SRK:n sekakuoro, joht. Reetta Vasalampi, sekä Harri Hytönen, huilu, ja Anna-Maija Valjus, piano).
+
+          Tuntematon: Jeesus Kristus, elämämme (Papas No Mamas/Juha Vintturi).
+
+          Lybäck: Nyt tartu käteen, Herra (Sauli Tiilikainen, baritoni, ja Jukka Savijoki, kitara).
+
+          Krasnostovski: Ehtooveisu (Ortodoksinen kamarikuoro/Juhani Matsi).
+
       - title: Iltahartaus
         start_time: '2025-09-16T18:50:00+03:00'
         end_time: '2025-09-16T19:00:00+03:00'
@@ -236,6 +309,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-09-16T20:00:00+03:00'
         end_time: '2025-09-16T20:20:00+03:00'
+        description: |
+          Jokaisella 600 kasetilla on tarinansa, sanoo c-kasettikeräilija Teemu Artukka. Toimittajana Maija Salminen.
       - title: Romano mirits
         start_time: '2025-09-16T20:20:00+03:00'
         end_time: '2025-09-16T20:35:00+03:00'
@@ -259,4 +334,30 @@ data:
         start_time: '2025-09-16T23:40:00+03:00'
         end_time: '2025-09-17T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          R. Schumann: Kahdeksan poloneesia pianolle 4-kätisesti (Hector Moreno ja Norberto Capelli).
+
+          00:15 Zuccari: Messu c-molli (Anna Piroli, sopraano, Arianna Stornello, sopraano, Camilla Biraga, altto, Salvatore Gaias, tenori, ja Marco Piretta, basso, sekä Il Concento -kuoro ja Cremonan barokkiork./Giovanni Battista Columbro).
+
+          01:11 Brahms: Konsertto viululle, sellolle ja orkesterille a-molli (David Oistrah ja Pierre Fournier sekä Philharmonia-ork./Alceo Galliera).
+
+          01:44 Wagner: Alkusoitto oopp. Das Liebesverbot (Lemmenkielto) (Philadelphian ork./Wolfgang Sawallisch).
+
+          01:53 Fauré: Sonaatti viululle ja pianolle n:o 1 A-duuri (Gil Shaham ja Akira Eguchi).
+
+          02:20 Beethoven: Jousikvartetto n:o 4 c-molli, n:o 5 A-duuri ja n:o 6 B-duuri (Unkarilainen jousikvartetti).
+
+          03:35 Tshaikovski: Ooppera-aarioita ja yksinlauluja (Olga Gurjakova, sopraano, ja  Moskovan kamariork./Constantine Orbelian).
+
+          04:19 Barber: Sonaatti sellolle ja pianolle c-molli (Zuill Bailey ja Lara Downes).
+
+          04:40 Bruch: Sinfonia n:o 1 Es-duuri (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:09 Busoni: Huvinäytelmäalkusoitto (Chicagon SO/Daniel Barenboim).
+
+          05:18 Weber: Concertino käyrätorvelle ja orkesterille e-molli (Peter Damm ja Dresdenin valtionork./Siegfried Kurz).
+
+          05:35 Händel: La Lucrezia, kantaatti (Patrice Michaels, sopraano, ja Chicagon barokkiyhtye).
+
+          05:54 Bartolotti: Sarja kitaralle g-molli (Gordon Ferries, barokkikitara).
+
+          06:27 Falconieri: Sinfonia quarta a tre (Marion Verbruggen, nokkahuilu, David Douglas, viulu, ja Mary Springfels, viola da gamba). 

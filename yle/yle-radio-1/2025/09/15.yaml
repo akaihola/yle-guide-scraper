@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-11T02:31:39.730932+00:00'
+  generated_at: '2025-09-12T02:29:02.922253+00:00'
   git:
     branch: main
-    commit: 201bdefe17caa78473e6373548d6cf12b8574007
-  data_hash: a5d3cf85b96dc2c5b0a1596115cd0adf75cc1c7ccd8fcc805365324936dca2e1
+    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
+  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,33 @@ data:
         start_time: '2025-09-14T23:40:00+03:00'
         end_time: '2025-09-15T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Franck: Duo n:o 1  B-duuri (Duo concertant) (Tatiana Samouil, viulu, ja David Lively, piano).
+
+          23:53 Rimski-Korsakov: Sinfonietta venäläisistä teemoista a-molli (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          00:18 Bizet: Carmenin seguidilla oopp. Carmen (Monica Groop, mezzosopraano, ja RSO/Muhai Tang).
+
+          00:21 Chopin: Pianotrio g-molli (Garrick Ohlsson, piano, Carter Brey, sello, ja Leila Josefowicz, viulu).
+
+          00:48 Wagner: Syreenikohtaus ja Hans Sachsin monologi oopp. Nürnbergin mestarilaulajat (George London, bassobaritoni, ja Wienin filharmonikot/Hans Knappertsbusch).
+
+          01:03 Hummel: Septetto d-molli op.74 (Capricorn).
+
+          01:42 Ravel: Hanhiemo-sarja (RSO/Sakari Oramo). 
+
+          02:00 Czerny: Johdanto, seitsemän muunnelmaa ja finaali (Peter-Lukas Graf, huilu, ja Zsuzsanna Sirokay, piano).
+
+          02:17 Tshaikovski: Katkelmia bal. Joutsenlampi (Philadelphian ork./Eugene Ormandy).
+
+          03:11 J. Haydn: Luominen, oratorio (Dawn Upshaw, Jon Humphrey, John Cheek, Heidi Grant Murphy ja James Michael McGuire sekä Atlantan kamarikuoro ja Atlantan SO/Robert Shaw).
+
+          05:00 Nielsen: Sinfonia n:o 6 (Sinfonia semplice) (Philadelphian ork./Eugene Ormandy).
+
+          05:33 Schumann: Liederkreis op.39 (Håkan Hagegård, baritoni ja Thomas Schuback, piano).
+
+          06:00 J.S. Bach: Triosonaatti n:o 5 C-duuri (Karl Richter, urut).
+
+          06:18 de Visée: Sarja kitaralle n:o 9 d-molli (Rafel Andia, barokkikitara).
       - title: Hartaita säveliä
         start_time: '2025-09-15T06:30:50+03:00'
         end_time: '2025-09-15T06:50:00+03:00'
@@ -76,12 +102,12 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-15T09:04:00+03:00'
         end_time: '2025-09-15T09:59:00+03:00'
-        description: |-
+        description: |
           Mann: Let's twist again (Chubby Checker).
           Renliden: Härlig är vår jord (Anni-Frid Lyngstad).
           DePaul: Teach me tonight (Ann-Margret).
           Darin: Kertomataulu (Rauni Pekkala).
-          Conti/Cassano/ Argenio: Vain ulkopuolelle jään (Simon Scott). 
+          Conti/Cassano/Argenio: Vain ulkopuolelle jään (Simon Scott). 
           Brown/Levine: Tie a yellow ribbon round the ole oak tree (Frank Sinatra).
           Alexandra: Mein Freund, der Baum (Alexandra).
           Shearing: Lullaby of Birdland (Ella Fitzgerald).
@@ -100,7 +126,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-15T10:53:00+03:00'
         end_time: '2025-09-15T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kaikki mikä nuoteista puuttuu'
         start_time: '2025-09-15T11:00:00+03:00'
         end_time: '2025-09-15T11:57:00+03:00'
         description: |
@@ -129,7 +155,9 @@ data:
         start_time: '2025-09-15T15:00:00+03:00'
         end_time: '2025-09-15T15:55:00+03:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          KGB:n illegaaliosasto oli yhden maailman salamyhkäisimmistä organisaatioista kaikkein salaisin osa. Sen tehtävänä oli kouluttaa vakoojia joita kutsuttiin illegaaliksi, jotka soluttautuivat  muihin maihin valehenkilöllisyyksien turvin. Edes heidän lapsensa eivät tienneet heidän olevan venäläisiä vakoojia. Britttoimittaja Shaun Walkerin vastikään suomennetussa kirjassa Soluttautumisen mestarit, Moskovan uskaliain vakoojaohjelma, Walker on kaivellut esille illegaalien elämäntarinoita Venäjän vallankumouksesta Putinin aikaan.
+
+          Ohjelman juontaa Nicklas Wancke. 
       - title: Yle News
         start_time: '2025-09-15T15:55:00+03:00'
         end_time: '2025-09-15T15:58:00+03:00'
@@ -214,4 +242,42 @@ data:
         start_time: '2025-09-15T23:40:00+03:00'
         end_time: '2025-09-16T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Anonyymi 1700-luvulta: Balletti di Venezia, tanssisarja soittimille (Ensemble Caprice).
+
+          23:54 Dowland: Mr. Henry Noell, his funerall psalmes (Hilliard-yhtye).
+
+          00:12 van Noordt: Psalmi 38 (Riennä avukseni, Herra, minun pelastukseni) (Manuel TOmadin, Lyypekin Pyhän Jaakobin kirkon urut).
+
+          00:21 Brahms: Sonaatti viululle ja pianolle n:o 1 G-duuri (Regenlied) (David Oistrah ja Frida Bauer).
+
+          00:49 Godard: Goottilainen sinfonia (Münchenin RO/David Reiland).
+
+          01:09 Telemann: Sonaatti kahdelle huilulle D-duuri (Mindy Rosenfeld ja Stephen Schultz, traverso).
+
+          01:21 Tshaikovski: Pianokonsertto n:o 2 G-duuri (Gary Graffman ja Philadelphian ork./Eugene Ormandy).
+
+          01:58 Pingoud: Le Fetich (RSO/Sakari Oramo).
+
+          02:13 Fauré: Nell (Renée Fleming, sopraano, ja Jean-Yves Thibaudet, piano).
+
+          02:16 Couperin: Konsertto n:o 12 (Markku Luolajan-Mikkola ja Mikko Perkola, bassogamba).
+
+          02:24 Granados: Yksinlaulut El majo timido (Ujo poika), Amor y odio (Rakkaus ja viha) sekä El majo discreto (Vaitelias poika) (Irja Auroora, sopraano, ja Pentti Koskimies, piano).
+
+          02:31 Meder: Sinfonia n:o 4 (Alankomaiden radion kamariork./Anthony Halstead).
+
+          02:44 Copland: Teatterimusiikkia (Harmonie Ensemble/Steven Richman).
+
+          03:06 Adams: The Wound-dresser (Sanford Sylvan, baritoni, ja Clevelandin ork./Christoph von Dohnanyi). 
+
+          03:28 Beethoven: Pianosonaatit n:o 1 f-molli, 6 F-duuri ja 12 As-duuri (Rudolf Serkin). 
+
+          04:23 W.A. Mozart: Pianosonaatti n:o 4 Es-duuri (Friedrich Gulda).
+
+          04:39 F.X. Richter: Jousikvartetto C-duuri op.5/1 (Casal-kvartetti).
+
+          04:59 Rameau: Dardanus, balettisarja (Euroopan Unionin barokkiork./Roy Goodman).
+
+          05:33 Byrd: Messu, 4-ääninen a cappella (The Pro Arte Singers/Paul Hillier).
+
+          05:56 Forqueray: Sarja cembalolle n:o 5 c-molli (Justin Taylor).
