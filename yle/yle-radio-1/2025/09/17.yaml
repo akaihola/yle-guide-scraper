@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-12T02:29:03.793017+00:00'
+  generated_at: '2025-09-13T02:24:53.678575+00:00'
   git:
     branch: main
-    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
-  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
+    commit: ca7b99653822757a14ec3e88cd0e77379afa251b
+  data_hash: cf753c53eefae816fc81d0f817e902c2658094d2184b9cb7781c395e99c038ca
 data:
   Yle Radio 1:
     programmes:
@@ -139,11 +139,17 @@ data:
         end_time: '2025-09-17T15:00:00+03:00'
         description: |-
           Iltapäivän musiikkikattauksessa on etnoa, kevyttä jazzia ja populaarimusiikkia. Juontajana Miia Lahti. N. klo 14 studiovieraana on tänä syksynä 30-vuotitaiteilijajuhlaansa viettävä näyttelijä Sari Puumalainen. N. klo 14:30 työterveyslaitoksen erityisasiantuntija Kirsi Yli-Kaitala valottaa, mitä on työpaikan psykologinen turvallisuus. Toim. Kati Turtola.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: B-elokuvien viehätys: The Toxic Avenger, Backwood Madness & Prey. Kill. Fuck. Repeat.'
         start_time: '2025-09-17T15:00:00+03:00'
         end_time: '2025-09-17T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Mikä matalan budjetin amatöörimäisissä, usein väkivaltaa ja seksiä ronskisti yhdistelevissä genre-elokuvissa viehättää? 
+
+          Elokuvateattereihin tuli uudelleenfilmatisointi yhdestä 80-luvun tunnetuimmasta b-elokuvaklassikosta Toxic Avengerista. Se kertoo kiusatusta teinistä, joka muuttuu ydinjätteen vaikutuksesta epämuodostuneeksi kostajaksi. Uudessa The Toxic Avenger -elokuvassa näyttelee kavalkaadi Hollywoodin kärkikaartia Elijah Woodista Kevin Baconiin ja Peter Dinklageen. Kyseessä ei ole pienen budjetin raina, mutta se on kaikin puolin kunnianosoitus b-elokuvien estetiikalle ja juonenkäänteille. Miksi nimekkäät tekijät halusivat tehdä nk. “roskaelokuvan”?
+
+          Amatöörimäisten b-elokuvien tuotanto on vahvaa edelleen myös Suomessa. Elokuvateatterilevityksessä tuli vast’ikään peikkojen ja ihmisten yhteenotosta kertova Backwood Madness. Lyhytelokuvien saralla kansainvälisesti palkittu Prey. Kill. Fuck. Repeat. edustaa myös modernia b-elokuvaa. Mistä inspiraatio tällaisten elokuvien tekemiseen kumpuaa, ja kenelle elokuvat ovat pääsääntöisesti tarkoitettu? Miten b-elokuvagenre on kehittynyt vuosien varrella? Millainen on sen historia?
+
+          Kulttuuriykkönen saa vieraaksi keskustelemaan aiheesta elokuvohjaajat Rauli Ylitalon sekä Christer Lindströmin. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-09-17T15:55:00+03:00'
         end_time: '2025-09-17T15:58:00+03:00'
@@ -207,19 +213,17 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-17T18:50:00+03:00'
         end_time: '2025-09-17T19:00:00+03:00'
-        description: |-
-          Piispa Kaisamari Hintikka, Espoo
+        description: |
+          "Jumala haluaa rauhaa"
+          Espoon piispa Kaisamari Hintikka rukoilee rauhan puolesta lakkaamatta ja pohtii millainen olisi maailma, jossa aseet taottaisiin auroiksi.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-17T19:00:00+03:00'
         end_time: '2025-09-17T19:02:00+03:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-09-17T19:02:00+03:00'
-        end_time: '2025-09-17T21:00:00+03:00'
+        end_time: '2025-09-17T20:50:00+03:00'
         description: |
           Susanna Mälkki, kapellimestari, Karine Deshayes, mezzosopraano. - Hector Berlioz: "Kuningatar Mabin Scherzo" draamallisesta sinfoniasta Romeo ja Julia; Kleopatra, lyyrinen kohtaus. Kaija Saariaho: Laterna Magica. Paul Dukas: Noidan oppipoika. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson. 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-09-17T21:00:00+03:00'
-        end_time: '2025-09-17T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-09-17T21:05:00+03:00'
         end_time: '2025-09-17T21:34:30+03:00'

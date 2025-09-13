@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-12T02:29:02.165034+00:00'
+  generated_at: '2025-09-13T02:24:44.294888+00:00'
   git:
     branch: main
-    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
-  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
+    commit: ca7b99653822757a14ec3e88cd0e77379afa251b
+  data_hash: cf753c53eefae816fc81d0f817e902c2658094d2184b9cb7781c395e99c038ca
 data:
   Yle Radio 1:
     programmes:
@@ -41,14 +41,14 @@ data:
 
           07:14 J.C. Bach: Kvartetto kahdelle huilulle, alttoviululle ja sellolle C-duuri (Camerata Köln).
       - title: 'Luomiskertomus: Hanna Rytin Kaatuminen kuvaa 90-luvun laman vaikutuksia'
-        start_time: '2025-09-13T07:31:00+03:00'
-        end_time: '2025-09-13T07:56:00+03:00'
+        start_time: '2025-09-13T07:30:46+03:00'
+        end_time: '2025-09-13T07:54:58+03:00'
         description: |
           Luomiskertomus: Kaatuminen on romaani 90-luvun laman tunnelmasta, ja sen vaikutuksista kasvaviin lapsiin. Eme, Heljä ja Timppa kasvoivat maailmaan, jossa vanhemmuus oli hukassa ja aikuiset olivat enemmän tai vähemmän sekaisin omista huolistaan. Vuosikymmeniä myöhemmin he elävät omaa aikuisuuttaan ja heidän elämänkohtalonsa kietoutuvat yhteen ikävän katuselkkauksen kautta.
 
           Luomiskertomus-ohjelman vieraana on kirjailija, näytelmäkirjailija ja teatteriohjaaja Hanna Ryti. Toimittajana on Jonni Roos.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-09-13T07:56:00+03:00'
+        start_time: '2025-09-13T07:54:58+03:00'
         end_time: '2025-09-13T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-09-13T08:00:00+03:00'
@@ -126,6 +126,27 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-09-13T12:05:00+03:00'
         end_time: '2025-09-13T12:30:00+03:00'
+        description: |-
+          Palestiinan valtion tunnustamista pohditaan YK:n yleiskokouksessa loppukuusta.
+          Osa Euroopan maista aikoo tunnustaa Palestiinan - osa on jo tunnustanut. Suomi empii.
+          Kansainvälisen oikeuden emeritusprofessori Martti Koskenniemi sanoo, että jos valtio kannattaa vakavasti kahden valtion mallia, sen on välittömästi tunnustettava Palestiina.
+
+          Tunnustamisasia etenee rinta rinnan sen kanssa, että Israel jatkaa Gazan tuhoamista.
+          Koskenniemi jättää YK:n kansainvälisen tuomioistuimen ratkottavaksi sen, onko Israel syyllistynyt Gazassa kansanmurhaan.
+          Hän toteaa, että jos Palestiinan kansan mahdollisuus elää kansana tuhotaan, niin silloin on kyseessä kansanmurha.
+
+          Ohjelmassa pohditaan sitä, miksi EU-maat suhtautuvat monella eri tavalla Palestiinan tunnustamiseen ja Israel-Palestiina -konfliktiin.
+          Esimerkiksi Liettua suhtautuu Israeliin hyvin myötämielisesti ja Slovenia on puolestaan voimakkaasti Palestiinan kannalla.
+
+          Ulkopoliittisen instituutin tutkija Timo R. Stewart arvioi, että Palestiinan tunnustamista puoltavat Euroopan maat pitävät tunnustamista eräänlaisen rohkaisuryyppynä ennen hakemista tanssiin.
+          Jatkoaskelten vaikeus on siinä, että mitä tehdään sitten, kun Israel ei suostu Palestiinan itsenäistymiseen tai palestiinalaisalueiden miehittämisen päättämiseen.
+
+          Stewart muistuttaa, että Israelin tukijoissa on heitä, joiden mielestä Jumala on luvannut kiistellyt maat Israelille sekä heitä, joiden mukaan Israelin valtio on raamatussa ennustettu.
+          Israelin taaske on ryhmittynyt myös etnonationalistista ja maahanmuuttovastaista liikehdintää, joka liittää Israelin puolustamisen eräänlaiseen sivilisaatioiden kamppailuun.
+
+          Ohjelman toimittavat Maria Tolsa ja Sampo Vaarakallio. Äänitarkkailija on Juha Sarkkinen.
+
+          Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Outopodcast: Veljessodan aaveet eivät saa rauhaa'
         start_time: '2025-09-13T12:30:00+03:00'
         end_time: '2025-09-13T12:57:00+03:00'
@@ -136,6 +157,7 @@ data:
         end_time: '2025-09-13T13:55:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Reilun viikon kuluttua (21.9.2025) 60 vuotta täyttävä maailmanpolitiikan professori Teivo Teivainen on Marko Miettisen vieraana.
       - title: 'Ruben Stiller: Toveri Anna Kontula'
         start_time: '2025-09-13T14:00:00+03:00'
         end_time: '2025-09-13T14:55:00+03:00'
@@ -148,11 +170,11 @@ data:
 
           Tervetuloa taistojen tielle!
 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Laihdutuslääke voi auttaa, mutta sen hinta pahentaa hyvinvointieroja'
         start_time: '2025-09-13T14:55:00+03:00'
         end_time: '2025-09-13T15:00:00+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Moni laihduttaja on löytänyt avun uusista lääkkeistä, mutta niiden hinta syventää kierrettä, joka muuttaa lihavuuden yhä selvemmin alaluokkaisuuden merkiksi, vapaa kirjoittaja Auli Viitala pohtii.
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Epäreilut saunavuorot ja 2020-luvun Jim Carrey'
         start_time: '2025-09-13T15:00:00+03:00'
         end_time: '2025-09-13T15:16:00+03:00'
@@ -258,6 +280,7 @@ data:
 
           Last Night of the Proms on tänäkin vuonna todellinen spektaakkeli, täynnä musiikillisia perinteitä mutta myös yllätyksiä.
           BBC:n sinfoniaorkesteria ja kuoroa johtaa Elim Chan, ja solisteina esiintyvät sopraano Louise Alder ja trumpetisti Alison Balsom.
+          Royal Albert Hallin lavalle nousevat myös Queen-yhtyeen kitaristi Brian May ja rumpali Roger Taylor. He esittävät yhdessä BBC:n sinfoniaorkesterin ja -kuoron, BBC Singersin ja National Youth Choirin kanssa uuden orkesterisovituksen Queenin Bohemian Rhapsody -kappaleesta, joka julkaistiin 50 vuotta sitten.
 
           Pasilan studiossa suoran lähetyksen toimittaa Ainomaija Pennanen. Tervetuloa mukaan juhlahumuun!
       - title: Yöklassinen

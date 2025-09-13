@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-12T02:29:02.464352+00:00'
+  generated_at: '2025-09-13T02:24:49.058798+00:00'
   git:
     branch: main
-    commit: c69cd4a241f193ad111a9f2631e6c3047a4263de
-  data_hash: f752020fc4a223c8776cf1823e11c1e38dbf6dd9e718b48ebe6a78fd50d1d14b
+    commit: ca7b99653822757a14ec3e88cd0e77379afa251b
+  data_hash: cf753c53eefae816fc81d0f817e902c2658094d2184b9cb7781c395e99c038ca
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,11 @@ data:
           Leevi Madetoja:  Pastoraalisarja, sarja op.34 (Oulu Sinfonia/Rumon Gamba).
 
           Bernhard Henrik Crusell: Concertino fagotille ja orkesterille B-duuri (Jaakko Luoma, fagotti,  ja Tapiola Sinfonietta/Janne Nisonen).
+      - title: Radio 1 soi
+        start_time: '2025-09-14T07:56:49+03:00'
+        end_time: '2025-09-14T08:00:00+03:00'
+        description: |-
+          Offenbach: Alkusoitto oper. Siniparta (Lontoon FO/Jean Martinon).
       - title: Yle Uutiset ja sää
         start_time: '2025-09-14T08:00:00+03:00'
         end_time: '2025-09-14T08:05:05+03:00'
@@ -136,11 +141,11 @@ data:
           Lindberg: Konsertto klarinetille ja orkesterille (Julian Bliss ja BBC:n Skotlannin SO/Taavi Oramo).
 
           Aho: Konsertto alttohuilulle ja jousille (Sharon Bezaly ja Mikkelin kaupunginork./Erkki Lasonpalo).
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Henkilömiinapäätöksen salailu ei ennusta hyvää keskustelua tulevista puolustusmenoista'
         start_time: '2025-09-14T14:55:00+03:00'
         end_time: '2025-09-14T15:00:00+03:00'
-        description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+        description: |-
+          Puolustusmenot tulevat kasvamaan – ja paljon. Sitä tärkeämpää olisi pitää päätöksenteossa kunniassaan hyvän julkisen keskustelun vaatimukset, sotatieteilijä Ilmari Käihkö pohtii.
       - title: 'Maailman paras Tarja Turunen: Kotiseudulle Pohjois-Karjalaan'
         start_time: '2025-09-14T15:00:00+03:00'
         end_time: '2025-09-14T15:34:00+03:00'
@@ -207,14 +212,24 @@ data:
         end_time: '2025-09-14T20:49:40+03:00'
         description: |
           Saarnaajana pastori Atte Helminen. Juontajana Suvi Rasi McIntosh. Pianistina Sirpa Marjanen. Yhteislaulut: Seurakunta laulaa -kirjasta numerot 18, 293, 83.
+      - title: Radio 1 soi
+        start_time: '2025-09-14T20:49:40+03:00'
+        end_time: '2025-09-14T21:00:00+03:00'
+        description: |-
+          Händel: Triosonaatti h-molli (Tempesta di Mare).
       - title: 'Uutispodcast: Selviääkö suomalainen elokuva leikkauksista? “Koko ajan tulee takapakkia”'
         start_time: '2025-09-14T21:00:33+03:00'
         end_time: '2025-09-14T21:19:31+03:00'
         description: |-
           Elokuva-ala tyrmistyi haliituksen budjettiriihipäätöksestä. Opetus- ja kulttuuriministeriöltä lähtisi lähes 8 miljoonaa, joista pääosa elokuvatuotannon tuista. Minkälainen kolaus leikkaukset ovat suomalaiselle elokuvateollisuudelle? Reetta Röngän vieraana on APFI:n toiminnanjohtaja Laura Kuulasmaa. 
+      - title: Radio 1 soi
+        start_time: '2025-09-14T21:19:31+03:00'
+        end_time: '2025-09-14T21:23:38+03:00'
+        description: |-
+          Dowland: In darknesse let mee dwell (Ellen Hargis ja The Newberry Consort).
       - title: 'Klasariparatiisi - Eva Tigerstedt: Hidasta kesää'
-        start_time: '2025-09-14T21:24:11+03:00'
-        end_time: '2025-09-14T22:20:30+03:00'
+        start_time: '2025-09-14T21:23:38+03:00'
+        end_time: '2025-09-14T22:19:57+03:00'
         description: |
           Mikä on nykypäivänä radikaalia?
           Ehkä hitaus ja säntäilemättömyys?
@@ -234,15 +249,22 @@ data:
 
           Bernhard Henrik Crusell: Concertino fagotille ja orkesterille B-duuri (Jaakko Luoma, fagotti,  ja Tapiola Sinfonietta/Janne Nisonen).
       - title: 'Sari Valto: Perhe on kiehtova kupla'
-        start_time: '2025-09-14T22:21:27+03:00'
-        end_time: '2025-09-14T23:16:00+03:00'
+        start_time: '2025-09-14T22:20:47+03:00'
+        end_time: '2025-09-14T23:15:20+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: 'Romano mirits: Miska Lundberg – musiikki verissä, taide tähtäimessä'
-        start_time: '2025-09-14T23:16:45+03:00'
-        end_time: '2025-09-14T23:31:45+03:00'
+        start_time: '2025-09-14T23:16:20+03:00'
+        end_time: '2025-09-14T23:31:20+03:00'
         description: |-
           20-vuotias Miska Lundberg on nuori ja määrätietoinen muusikko, joka opiskelee Sibelius-Akatemiassa sekä viulua että klassista laulua. Musiikki on kulkenut hänen mukanaan lapsuudesta saakka – hän on kasvanut musikaalisessa perheessä, ja hänen äitinsä on viulisti Miritza Lundberg. Miskan polku on kulkenut Cantores Minores kuorosta tanssin ja viulun kautta akateemisiin musiikkiopintoihin, joissa vaaditaan kurinalaisuutta, omistautumista ja päivittäistä harjoittelua. Haastattelussa Miska kertoo opintojen haasteista, lapsuuden musiikkimuistoista ja halustaan kehittyä taiteilijana. Hän on valoisa ja monilahjakas nuori mies, jonka intohimo musiikkiin näkyy ja kuuluu. Toimittaja Dimitri Grönfors
+      - title: 'Eilisen ääni: Soutaen ympäri Suomea'
+        start_time: '2025-09-14T23:32:24+03:00'
+        end_time: '2025-09-14T23:39:00+03:00'
+        description: |-
+          Porvoossa työskennellyt, pohjoisesta kotoisin oleva Matti Pietilä päätti lähteä eläkkeelle päästyään käymään kotipaikkakunnalla ja mikäpä sopi paremmin matkavarusteeksi kuin soutuvene. Soututoveri Per Olof Smeds oli sitä mieltä, että on myös soudettava takaisin. Maata soutaen kiertäneellä parivaljakolla oli heinäkuussa 1989 takana jo 3000 kilometriä. Kaksikkoa haastatteli Tänään iltapäivällä -lähetykseen Minna-Mari Parkkinen.
+
+          Ohjelman ensilähetys oli 20.7.1989.
       - title: Yöklassinen
         start_time: '2025-09-14T23:40:00+03:00'
         end_time: '2025-09-15T06:30:00+03:00'
