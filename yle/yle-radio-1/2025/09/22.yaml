@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-15T02:34:17.014378+00:00'
+  generated_at: '2025-09-16T02:29:51.645183+00:00'
   git:
     branch: main
-    commit: c58cc25dc7745c4acc250d44892f397e9cf86401
-  data_hash: e09d8a68a3eee925a5b1cbb5d01db5e4fc728d8921ce951ebbda1db4f053b277
+    commit: 121c30b32021a73c6dfdab3b6378f62286b5ef01
+  data_hash: c5797cf10951c75256f75bea7f8cd3b5b5a9f369924d81c13073853d90cd5fe0
 data:
   Yle Radio 1:
     programmes:
@@ -146,9 +146,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-22T19:00:00+03:00'
         end_time: '2025-09-22T19:02:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Muistisairaat'
         start_time: '2025-09-22T19:02:00+03:00'
         end_time: '2025-09-22T19:50:00+03:00'
+        description: |
+          Millaista on elämä muistisairausdiagnoosin jälkeen? Se mullistaa kaiken: suhde työhön, perheeseen ja puolisoon muuttuu. Silti sairaus ei ole pelkkää menetystä: Näille ihmisille se on tuonut uusia ystäviä, harrastuksia ja uuden, erilaisen elämän. Dokumentissa kuljetaan muistisairaiden mukana vertaistukiryhmissä. Sieltä sairastuneet ovat löytäneet kohtalotovereita, uusia siskoja ja veljiä ja vapautta olla oma itsensä.Toteutus: Hanna Asikainen, Jukka Herva, Heikki Soini.
       - title: Musiikkikamari
         start_time: '2025-09-22T19:35:00+03:00'
         end_time: '2025-09-22T20:05:00+03:00'

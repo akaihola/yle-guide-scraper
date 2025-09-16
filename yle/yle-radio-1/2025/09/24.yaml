@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-15T02:34:17.781769+00:00'
+  generated_at: '2025-09-16T02:29:52.162800+00:00'
   git:
     branch: main
-    commit: c58cc25dc7745c4acc250d44892f397e9cf86401
-  data_hash: e09d8a68a3eee925a5b1cbb5d01db5e4fc728d8921ce951ebbda1db4f053b277
+    commit: 121c30b32021a73c6dfdab3b6378f62286b5ef01
+  data_hash: c5797cf10951c75256f75bea7f8cd3b5b5a9f369924d81c13073853d90cd5fe0
 data:
   Yle Radio 1:
     programmes:
@@ -62,16 +62,16 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-24T09:04:00+03:00'
         end_time: '2025-09-24T09:59:00+03:00'
-        description: |-
-          Mores: Uno (George de Godzinsky).
+        description: |
+          Discepolo/Mores: Uno (RSO/George de Godzinsky).
           Jobim: Yhden nuotin samba (Laila Kinnunen).
           Hoyer: To lys på et bord (Otto Brandenburg).
-          Alguero: Tres caravelas (Gilberto Gil).
+          Alguero: Tres caravelas (Gilberto Gil ja Caetano Veloso).
           Tyson: Neljä vahvaa tuulta (Barbara Helsingius).
           Desmond: Take five (The Dave Brubeck Quartet).
           Salo: Jos kuusi kertaa sun pyssys laukeaa (Tamara Lund).
           Salo: Seitsemän kertaa seitsemän (Danny).
-          Rota: Otto e mezzo (Carlo Savina).
+          Rota: La passerella di otto e mezzo (Carlo Savina).
           Nakamura: Sukiyaki (Kyu Sakamoto).
           Rodgers: Ten cents a dance (Ella Fitzgerald).
           Vreeswijk: Ballad om 100 år (Cornelis Vreeswijk).
@@ -174,7 +174,7 @@ data:
         end_time: '2025-09-24T19:02:00+03:00'
       - title: 'Lontoon BBC Proms -festivaali 2025: Klaus Mäkelä johtaa Amsterdamin Concertgebouw-orkesteria'
         start_time: '2025-09-24T19:02:00+03:00'
-        end_time: '2025-09-24T21:00:00+03:00'
+        end_time: '2025-09-24T20:36:00+03:00'
         description: |
           Klaus Mäkelän ja Amsterdamin Concertgebouw-orkesterin kanssa esiintyy
           viulisti Janine Jansen, joka soittaa Prokofjevin ensimmäisessä viulukonserton solistina. Konserttoa voi luonnehtia pakopaikaksi Venäjän vallankumouksen myrskyistä ja sellaisena se on vastakohta tummasävyiselle Bartókin orkesterikonsertolle. 
@@ -192,9 +192,6 @@ data:
           Äänitetty Lontoon Royal Albert Hallissa 24.8.2025. Toimittajana Ainomaija Pennanen.
 
           Kuvassa Klaus Mäkelä ja Amsterdamin Concertgebouw-orkesteri © BBC / Chris Christodoulou.
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-09-24T21:00:00+03:00'
-        end_time: '2025-09-24T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-09-24T21:05:00+03:00'
         end_time: '2025-09-24T21:34:30+03:00'

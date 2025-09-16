@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-15T02:34:15.169978+00:00'
+  generated_at: '2025-09-16T02:29:50.601234+00:00'
   git:
     branch: main
-    commit: c58cc25dc7745c4acc250d44892f397e9cf86401
-  data_hash: e09d8a68a3eee925a5b1cbb5d01db5e4fc728d8921ce951ebbda1db4f053b277
+    commit: 121c30b32021a73c6dfdab3b6378f62286b5ef01
+  data_hash: c5797cf10951c75256f75bea7f8cd3b5b5a9f369924d81c13073853d90cd5fe0
 data:
   Yle Radio 1:
     programmes:
@@ -127,6 +127,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-18T11:57:00+03:00'
         end_time: '2025-09-18T12:00:00+03:00'
+        description: |-
+          Kaskuja kirjasta Ilokontti, toim. Juha Nirkko. 
       - title: Yle Uutiset ja sää
         start_time: '2025-09-18T12:00:00+03:00'
         end_time: '2025-09-18T12:05:00+03:00'
@@ -149,7 +151,15 @@ data:
         start_time: '2025-09-18T15:00:00+03:00'
         end_time: '2025-09-18T15:55:00+03:00'
         description: |-
-          Vieraina kirjailijat Anne Moilanen ja Inari Fernadez.
+          Kaksi uutta romaania käsittelevät parisuhteen päättymistä ja uuden rakastetun etsimistä. Kirjailija Inari Fernándezin esikoisromaani Vapaus on osa trilogiaa. Kirjassa pohditaan millaista on deittailla pitkien välimatkojen Lapissa. Anne Moilasen esikoisromaani Uhma käy läpi päähenkilön Marian rakkauksia, menneitä ja nykyisiä. Päähenkilö toteaa että kukaan ei voi rakastua monta kertaa elämässään. Yksikin kerta on jo paljon.
+           
+          Molemmissa romaaneissa kuvaillaan seksiä naisen näkökulmasta. Romaanien naiset nauttivat seksistä ja osaavat vaatia myös miehiltä ihailua ja hellyyttä. Onko suomalaisen häpeän kulttuurin aika jo ohi?
+
+          Millaista on kirjoittaa seksistä? Millaisia haasteita kirjailijat ovat kokeneet? Onko seksistä kirjoittaminen osa omaa vapautumista vai halutaanko tuottaa lukijoille rohkeita fantasioita? Millaisia lukijapalautteita kirjailijat ovat saaneet?
+
+          Mikä on ominaista tämän päivän deittailukulttuurille, onko nettisovellukset ainoa tie kun ystävät ovat naimisissa ja eivät lähde sinkkunaisen kanssa baariin? Keski-ikäinen nainen ei halua muuttua näkymättömäksi. 
+
+          Vieraina ovat kirjailijat Inari Fernández ja Anne Moilanen.
 
           Ohjelman juontajana on Pia-Maria Lehtola.
       - title: Yle News
@@ -233,12 +243,29 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-18T21:05:00+03:00'
         end_time: '2025-09-18T21:35:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Läheisyyshoidossa'
         start_time: '2025-09-18T21:36:00+03:00'
-        end_time: '2025-09-18T22:26:00+03:00'
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+        end_time: '2025-09-18T22:15:29+03:00'
+        description: |-
+          Marjo on tantrisen elämäntaidon valmentaja ja kosketuksen ammattilainen, joka tarjoaa läheisyyshoitoja. Intiimeissä kohtaamisissa ei ole kyse seksistä, vaan jostain paljon syvemmästä. Kahdenkeskisissä tapaamisissa etsitään sylikkäin universaalia rakkautta ja aitoa yhteyttä toiseen ihmiseen. Toteutus: Aija Salovaara.
+      - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Epäreilut saunavuorot ja 2020-luvun Jim Carrey'
         start_time: '2025-09-18T22:30:00+03:00'
         end_time: '2025-09-18T22:50:00+03:00'
+        description: |-
+          On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
+
+          Näiden totuudentorvien tulilinjalta ei säästy mikään tai kukaan, vaikka osumatarkkuus saattaa vähän hakea. Wanna be -kirjailijan (Tiina) ja matkatavarakäsittelijän (Jari) kokemuksella heillä on omasta mielestään täydelliset edellytykset olla Suomen tarkimpia tutkivia journalisteja. Jos kukaan muu ei valaise tämän yhteiskunnan vääryyksiä, niin sitten sen on oltava he. Jonkun se taakka pitää kantaa.  
+
+          Rooleissa: Anna Airola (Tiina) ja Heikki Ranta (Jari)
+          Muissa rooleissa: Kari Hietalahti, Pia Andersson, Anna-Leena Sipilä
+
+          Tuotanto: TACK Films
+          Ohjaus: Teppo Airaksinen
+          Käsikirjoitus: Melli Maikkula
+          Tuottaja: John Lundsten
+          Äänisuunnittelu: Panu Riikonen
+          Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
+          Tuottaja: Jonni Haasanen, Yle Draama 2024.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2025-09-18T23:00:00+03:00'
         end_time: '2025-09-18T23:56:30+03:00'

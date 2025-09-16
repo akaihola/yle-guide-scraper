@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-15T02:34:14.905948+00:00'
+  generated_at: '2025-09-16T02:29:50.367697+00:00'
   git:
     branch: main
-    commit: c58cc25dc7745c4acc250d44892f397e9cf86401
-  data_hash: e09d8a68a3eee925a5b1cbb5d01db5e4fc728d8921ce951ebbda1db4f053b277
+    commit: 121c30b32021a73c6dfdab3b6378f62286b5ef01
+  data_hash: c5797cf10951c75256f75bea7f8cd3b5b5a9f369924d81c13073853d90cd5fe0
 data:
   Yle Radio 1:
     programmes:
@@ -123,6 +123,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-17T11:57:00+03:00'
         end_time: '2025-09-17T12:00:00+03:00'
+        description: |-
+          François de La Rochefoucauldin mietelmä Itsekkyydestä -teoksesta. Suomentanut Sampsa Laurinen.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-17T12:00:00+03:00'
         end_time: '2025-09-17T12:05:00+03:00'
@@ -139,17 +141,17 @@ data:
         end_time: '2025-09-17T15:00:00+03:00'
         description: |-
           Iltapäivän musiikkikattauksessa on etnoa, kevyttä jazzia ja populaarimusiikkia. Juontajana Miia Lahti. N. klo 14 studiovieraana on tänä syksynä 30-vuotitaiteilijajuhlaansa viettävä näyttelijä Sari Puumalainen. N. klo 14:30 työterveyslaitoksen erityisasiantuntija Kirsi Yli-Kaitala valottaa, mitä on työpaikan psykologinen turvallisuus. Toim. Kati Turtola.
-      - title: 'Kulttuuriykkönen: B-elokuvien viehätys: The Toxic Avenger, Backwood Madness & Prey. Kill. Fuck. Repeat.'
+      - title: 'Kulttuuriykkönen: Roskaelokuvien viehätys: The Toxic Avenger, Backwood Madness & Prey. Kill. Fuck. Repeat.'
         start_time: '2025-09-17T15:00:00+03:00'
         end_time: '2025-09-17T15:55:00+03:00'
         description: |-
           Mikä matalan budjetin amatöörimäisissä, usein väkivaltaa ja seksiä ronskisti yhdistelevissä genre-elokuvissa viehättää? 
 
-          Elokuvateattereihin tuli uudelleenfilmatisointi yhdestä 80-luvun tunnetuimmasta b-elokuvaklassikosta Toxic Avengerista. Se kertoo kiusatusta teinistä, joka muuttuu ydinjätteen vaikutuksesta epämuodostuneeksi kostajaksi. Uudessa The Toxic Avenger -elokuvassa näyttelee kavalkaadi Hollywoodin kärkikaartia Elijah Woodista Kevin Baconiin ja Peter Dinklageen. Kyseessä ei ole pienen budjetin raina, mutta se on kaikin puolin kunnianosoitus b-elokuvien estetiikalle ja juonenkäänteille. Miksi nimekkäät tekijät halusivat tehdä nk. “roskaelokuvan”?
+          Elokuvateattereihin tuli uudelleenfilmatisointi yhdestä 80-luvun tunnetuimmasta b-elokuvaklassikosta Toxic Avengerista. Se kertoo kiusatusta teinistä, joka muuttuu ydinjätteen vaikutuksesta epämuodostuneeksi kostajaksi. Uudessa The Toxic Avenger -elokuvassa näyttelee kavalkaadi Hollywoodin kärkikaartia Elijah Woodista Kevin Baconiin ja Peter Dinklageen. Kyseessä ei ole pienen budjetin raina, mutta se on kaikin puolin kunnianosoitus b-elokuvien estetiikalle ja juonenkäänteille. Miksi nimekkäät tekijät halusivat tehdä nk. roskaelokuvan?
 
           Amatöörimäisten b-elokuvien tuotanto on vahvaa edelleen myös Suomessa. Elokuvateatterilevityksessä tuli vast’ikään peikkojen ja ihmisten yhteenotosta kertova Backwood Madness. Lyhytelokuvien saralla kansainvälisesti palkittu Prey. Kill. Fuck. Repeat. edustaa myös modernia b-elokuvaa. Mistä inspiraatio tällaisten elokuvien tekemiseen kumpuaa, ja kenelle elokuvat ovat pääsääntöisesti tarkoitettu? Miten b-elokuvagenre on kehittynyt vuosien varrella? Millainen on sen historia?
 
-          Kulttuuriykkönen saa vieraaksi keskustelemaan aiheesta elokuvohjaajat Rauli Ylitalon sekä Christer Lindströmin. Juhani Kenttämaa toimittaa.
+          Kulttuuriykkönen saa vieraaksi keskustelemaan aiheesta elokuvohjaajat Rauli Ylitalon ja Christer "CHRZU" Lindströmin sekä Trash Video -tuotantoyhtiön Ville Lähteen. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-09-17T15:55:00+03:00'
         end_time: '2025-09-17T15:58:00+03:00'
@@ -227,12 +229,15 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-17T21:05:00+03:00'
         end_time: '2025-09-17T21:34:30+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Tunteet työssä ja työelämässä'
         start_time: '2025-09-17T21:35:00+03:00'
-        end_time: '2025-09-17T22:25:00+03:00'
+        end_time: '2025-09-17T22:25:38+03:00'
+        description: |
+          Tunteita ja tunnekuorman kokemista ja merkitystä tutkitaan eri aloilla. Miten tunteet liittyvät työkykyyn? Millaisia eroja eri sukupolvien välillä on suhtautumisessa työhön? Miten yhteiskunnan ja kulttuurin muutokset muovaavat työelämää?
+          Toimittaja Satu Kivelä keskustelee aiheestaTyöterveyslaitoksen tutkija Kristiina Lehmuskosken ja Helsingin yliopiston sosiaalipsykologian dosentti ja yliopistonlehtori Jaana-Piia Mäkiniemen kanssa. 
       - title: 'Naisen kosto: Kamalan seksikäs'
-        start_time: '2025-09-17T22:26:00+03:00'
-        end_time: '2025-09-17T22:47:52+03:00'
+        start_time: '2025-09-17T22:26:44+03:00'
+        end_time: '2025-09-17T22:48:39+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 
@@ -248,8 +253,8 @@ data:
           Esiintyjät: Pirjo Heikkilä, Tuomas Skopa, Antto Hinkkanen, Arvi Lind, Irina Pulkka, Miiko Toiviainen, Emma Mattila, Saana Peltola, Anna Rimpelä, Ville Leppilahti, Elli Salo, Eve Mantu, Kimmo Koskinen, Anttoni Palm, Antti Soulanto, Jussi Rautaniemi, Suvi Ahoniemi, Suvi Tuuli Kataja, Eerik Purdon.
           Asiantuntijat: Elina Reenkola, Antti Paakkari, Milka Hirvaskero, Nora Horn, Terhi Ketola-Huttunen, Tytti Shemeikka, Ruusu Haarla, Aino Vesikansa, Sami Pihlström.
       - title: 'Naisen kosto: Moottorisahahippa'
-        start_time: '2025-09-17T22:47:52+03:00'
-        end_time: '2025-09-17T23:09:25+03:00'
+        start_time: '2025-09-17T22:48:39+03:00'
+        end_time: '2025-09-17T23:10:14+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 
