@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-16T02:29:56.393310+00:00'
+  generated_at: '2025-09-17T02:29:46.895553+00:00'
   git:
     branch: main
-    commit: 121c30b32021a73c6dfdab3b6378f62286b5ef01
-  data_hash: c5797cf10951c75256f75bea7f8cd3b5b5a9f369924d81c13073853d90cd5fe0
+    commit: 70c436473b5b4544f6cec837998c49504a35c3b9
+  data_hash: cc72d938a8770463484a3db6c014855c5fb1f1019d378fb58334f3aae57815e5
 data:
   Yle Radio 1:
     programmes:
@@ -64,6 +64,9 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-11T12:00:00+03:00'
         end_time: '2025-10-11T12:05:00+03:00'
+      - title: Maailma tarinoina
+        start_time: '2025-10-11T12:05:00+03:00'
+        end_time: '2025-10-11T13:00:00+03:00'
       - title: Näistä levyistä en luovu
         start_time: '2025-10-11T13:00:00+03:00'
         end_time: '2025-10-11T13:55:00+03:00'
@@ -79,9 +82,29 @@ data:
         end_time: '2025-10-11T15:00:00+03:00'
         description: |
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
+      - title: 'Radioteatteri esittää: Kallion kimppa osa 1/8'
         start_time: '2025-10-11T15:00:00+03:00'
         end_time: '2025-10-11T15:20:00+03:00'
+        description: |-
+          Kallio on paikka, jossa epätodennäköiset kohtaamiset ovat todennäköisiä.
+          Sen monimuotoinen mikrokosmos luo arkeen kiihkoa ja tunnetta, mutta myös eheytymistä ja ymmärrystä.
+          Tule mukaan sellaisena kuin olet - mutta älä ole olevinasi mitään.
+
+          8-osaisen audiosarjan rooleissa ovat:
+          Aurinko Tuulenhalaaja - Elena Leeve
+          Juki - Pyry Nikkilä
+          Maj-Lis - Johanna af Schultén
+          Märt - Timo Teern
+          Ricardo - Manoel Pinto
+          Tarmo - Ilkka Heiskanen
+
+          Käsikirjoitus - Petri Piispanen
+          Ohjaus - Jarno Kuosa
+          Musiikin sävellys ja äänisuunnittelu - Anders Wiksten
+          Apulaistuottaja - Eveliina Solja
+          Dramaturgi: Liila Jokelin
+          Muusikot: Anders Wiksten, Pekka Savolainen, Eero Savela, Rutger Orjatsalo, Kari Kuivalainen ja Outi Wiksten
+          Tuotanto - Pekka Savolainen / Yle Draama 2022.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-11T15:20:00+03:00'
         end_time: '2025-10-11T15:30:00+03:00'
