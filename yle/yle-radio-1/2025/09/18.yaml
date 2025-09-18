@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-17T02:29:40.478413+00:00'
+  generated_at: '2025-09-18T02:30:13.311845+00:00'
   git:
     branch: main
-    commit: 70c436473b5b4544f6cec837998c49504a35c3b9
-  data_hash: cc72d938a8770463484a3db6c014855c5fb1f1019d378fb58334f3aae57815e5
+    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
+  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,12 @@ data:
       - title: Ykkösaamu
         start_time: '2025-09-18T08:07:00+03:00'
         end_time: '2025-09-18T09:00:00+03:00'
+        description: |-
+          Yhdysvaltain presidentti Donald Trump tapaa Britannian pääministerin Keir Starmerin. Mitä tapaamiselta odotetaan ja millaiset maiden väliset suhteet ovat tällä hetkellä? Studiossa keskustelemssa apulaisprofessori Rinna Kullaa Tampereen yliopistosta sekä entinen Lontoon-suurlähettiläs Pertti Salolainen. Lähetyksessä kuullaan myös Britannian kirjeenvaihtajan Kirsi Crowleyn raportti Lontoosta.
+
+          Onko käytettyjen vaatteiden kiertokauppa kasvanut? Pääekonomisti Jaana Kurjenoja kertoo Kaupan liiton tuoreesta tutkimuksesta. Studiossa keskustelemassa johtava asiantuntija Emilia Gädda etujärjestö Suomen Tekstiili & Muoti Oy:sta sekä Emmy Clothing Companyn hallituksen jäsen Timo Huhtamäki.
+
+          Saaristomeren ekologinen tila on monilla alueilla luokiteltu heikoksi. Varsinais-Suomen Ely-keskuksen Saaristomeri-ohjelman erityisasiantuntija Mikko Jaakkola kertoo, miksi meren tilaa on niin vaikea kohentaa.
       - title: Yle Uutiset
         start_time: '2025-09-18T09:00:00+03:00'
         end_time: '2025-09-18T09:03:00+03:00'
@@ -142,6 +148,8 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-18T13:00:00+03:00'
         end_time: '2025-09-18T13:30:00+03:00'
+        description: |-
+          Hallituksen ilmastostrategia etenee. Keskustelemassa kansanedustajat Saara-Sofia Sirén (kok.), Sara Seppänen (ps.) ja Jenni Pitko (vihr.). Toimittajana on Linda Pelkonen.
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-18T13:30:00+03:00'
         end_time: '2025-09-18T15:00:00+03:00'
@@ -201,7 +209,7 @@ data:
         start_time: '2025-09-18T17:00:00+03:00'
         end_time: '2025-09-18T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          MAGA-aktivistin ja mediapersoonan Charlie Kirkin salamurhan pelätään lisäävän jännitteitä Yhdysvalloissa. Presidentti Trumpinkin suosiossa ollut oikeistovaikuttaja ja -aktivisti oli kiistanalainen, radikaaleista mielipiteistään tunnettu hahmo. Minkälaisia seurauksia salamurha aiheuttaa? Reetta Röngän vieraana on Ylen Yhdysvaltain kirjeenvaihtaja Ilmari Reunamäki. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-18T17:20:00+03:00'
         end_time: '2025-09-18T17:35:00+03:00'
@@ -239,7 +247,7 @@ data:
         start_time: '2025-09-18T19:02:00+03:00'
         end_time: '2025-09-18T20:50:00+03:00'
         description: |
-          Latvian yleisradion Baltica 2025 -festivaalin konsertissa kuullaan Latvian eri alueiden, vähemmistökansojen ja -kielien musiikkia. Rudolstadtin maailmanmusiikkifestivaalilla latvialaisia kansanlauluja esittää Saucējas -yhtye. Toimittajana Miika Lauriala. 
+          Latvian yleisradion Baltica 2025 -festivaalin konsertissa kuullaan Latvian historiallisten alueiden, etnisten ryhmien ja -kielien musiikkia. Rudolstadtin maailmanmusiikkifestivaalilla latvialaisia kansanlauluja esittää Saucējas -yhtye. Toimittajana Miika Lauriala. 
       - title: Politiikkaradio
         start_time: '2025-09-18T21:05:00+03:00'
         end_time: '2025-09-18T21:35:00+03:00'
@@ -249,8 +257,8 @@ data:
         description: |-
           Marjo on tantrisen elämäntaidon valmentaja ja kosketuksen ammattilainen, joka tarjoaa läheisyyshoitoja. Intiimeissä kohtaamisissa ei ole kyse seksistä, vaan jostain paljon syvemmästä. Kahdenkeskisissä tapaamisissa etsitään sylikkäin universaalia rakkautta ja aitoa yhteyttä toiseen ihmiseen. Toteutus: Aija Salovaara.
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Epäreilut saunavuorot ja 2020-luvun Jim Carrey'
-        start_time: '2025-09-18T22:30:00+03:00'
-        end_time: '2025-09-18T22:50:00+03:00'
+        start_time: '2025-09-18T22:22:00+03:00'
+        end_time: '2025-09-18T22:37:13+03:00'
         description: |-
           On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
 
@@ -267,8 +275,8 @@ data:
           Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
           Tuottaja: Jonni Haasanen, Yle Draama 2024.
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Entä jos'
-        start_time: '2025-09-18T23:00:00+03:00'
-        end_time: '2025-09-18T23:55:57+03:00'
+        start_time: '2025-09-18T22:42:38+03:00'
+        end_time: '2025-09-18T23:38:35+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen
