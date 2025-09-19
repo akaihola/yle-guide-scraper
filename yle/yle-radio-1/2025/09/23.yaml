@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:14.813780+00:00'
+  generated_at: '2025-09-19T02:32:21.283027+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,39 @@ data:
         start_time: '2025-09-22T23:40:00+03:00'
         end_time: '2025-09-23T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Brahms: Schaffe in mir, Gott (Jumala luo minuun puhdas sydän) (Cambridgen King's Collegen kuoro/Stephen Cleobury).
+
+          23:52 de Visée: Sarja kitaralle n:o 4 g-molli (Rafael Andia, barokkikitara).
+
+          00:04 Schubert: Sinfonia n:o 7 h-molli (New Yorkin FO/Kurt Masur).
+
+          00:31 Veracini: Sonaatti viululle ja continuolle A-duuri ( John Holloway, viulu, Jaap ter Linden, sello, ja Lars Ulrik Mortensen, cembalo).
+
+          00:52 Beethoven. Muunnelmia pianolle Es-duuri (Eroica-muunnelmat) (Alfred Brendel).
+
+          01:16 W.A. Mozart: Klarinettikonsertto A-duuri (Bernard Walton ja Philharmonia-ork./Herbert von Karajan).
+
+          01:47 Vaughan Williams: Sinfonia n:o 1 (Merisinfonia) (Felicity Lott, sopraano, ja Jonathan Summers, baritoni, sekä Lontoon filharmoninen kuoro ja Lontoon FO/Bernard Haitink).
+
+          03:00 Montsalvatge: Canciones negras (Lilli Paasikivi, mezzosopraano, ja Tuija Hakkila, piano).
+
+          03:12 Schumann: Carnaval (Karnevaali) (Aleck Karis, piano).
+
+          03:41 Shostakovitsh - Shafran: Sonaatti alttoviululle ja pianolle C-duuri (Daniil Shafran, sello, ja Anton Ginzburg, piano).
+
+          04:12 Klami: Sinfonia n:o 2 (RSO/Neeme Järvi).
+
+          04:48 Debussy: Iberia (Cincinnatin SO/Jesus Lopez-Cobos). 
+
+          05:09 Gabrieli: Canzona n:o 11 (Empire Brass sekä Bostonin SO:n ja New Yorkin FO:n jäseniä/Rolf Smedvig, trumpetti).
+
+          05:12 J. Haydn: Pianosonaatti n:o 49 Es-duuri (Vladimir Horowitz).
+
+          05:31 Aufschnaiter: Sonaatti n:o 4 (Pyhälle Hieronymukselle) (Ars Antiqua Austria/Gunar Letzbor).
+
+          05:44 J.S. Bach: Dir, dir, Jehova, will ich singen (RKK/Andrew Lawrence-King, urut, ja Mika Suihkonen, violone).
+
+          05:47 Biber: Mysteerisonaatit n:ot 10-15 (Evan Johnson, barokkiviulu, Loretta O'Sullivan, barokkisello, sekä Eric Milnes, cembalo ja urut).
       - title: Hartaita säveliä
         start_time: '2025-09-23T06:30:50+03:00'
         end_time: '2025-09-23T06:50:00+03:00'
@@ -102,6 +134,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-23T11:57:00+03:00'
         end_time: '2025-09-23T12:00:00+03:00'
+        description: |-
+          Ote Sami Oskari Lahtisen kirjasta Dinosaureeni (Aula & CO, 2024)
       - title: Yle Uutiset ja sää
         start_time: '2025-09-23T12:00:00+03:00'
         end_time: '2025-09-23T12:05:00+03:00'
@@ -110,9 +144,12 @@ data:
         end_time: '2025-09-23T12:25:00+03:00'
         description: |-
           Pelon kultturihistoriaa Kaisa Pulakan seurassa. Kun levoton maailmantilanne kärjistyi maailmansodiksi, joutuivat 1900-luvun alkupuolen eurooppalaiset elämään suoranaisen kauhun vallassa . Liitoksistaan natisevan yhteiskuntajärjestyksen lisäksi huolta aiheuttivat kehittyvä teknologia ja uusi taidemuoto elokuva. Haastateltavana kulttuurihistorian professori Hannu Salmi Turun yliopistosta.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Verbaalinen väkivalta verkossa on vallankäyttöä – vihapuheella voidaan kiusata, uhata ja eristää'
         start_time: '2025-09-23T12:25:00+03:00'
         end_time: '2025-09-23T12:50:00+03:00'
+        description: |
+          Pasi Heikura miettii Kriittisen korkeakoulun Puhujakoulun vastaava opettaja ja tohtorikoulutettava Severi Hämärin kanssa, miltä vihapuhe-ilmiö näyttää, jos sitä ajattelee sanallisena väkivaltana. Ohjelmassa tartutaan myös elinkorteen ja lopuksi vietetään siirtolapuutarhaelämää sosialisoimalla.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-23T12:50:00+03:00'
         end_time: '2025-09-23T13:00:00+03:00'
@@ -175,9 +212,22 @@ data:
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-09-23T17:35:00+03:00'
         end_time: '2025-09-23T18:30:00+03:00'
-        description: |+
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Eräällä on päässään puutarha, toisella hullu unelma vuoren kokoisesta albumista, jolla soittaisi kamariorkesteri. Kissankehdossa iloitaan tänään mm. Rebekka Holin ja Aili Järvelän uusista levyistä. 
 
+          Holin levyllä vyörytään, tulvitaan ja lauluissa on salaista voimaa kuin näennäisen hennoissa kasveissa. Järvelän levyllä jättiläinen samaistuu Game of Thronesin Cersei Lannisteriin ja nyt se juo Itämeren tyhjäksi. Apollo hymyilee ja kohtaa lumisessa yössä Sinkkuelämää sarjan Carrien ja Mirandan. Aili Järvelän kappaleiden innoittajat tulevat niin telkkarista kuin klassisesta runoudestakin ja myös Yle Radio 1:n kuuluttajista. 
+
+          Belle and Sebastian: Another sunny day
+          Rebekka Holi: Tuhat karttaa
+          Anna von Hausswolff: Stardust
+          R.E.M.: It's the end of the world as we know it (and I feel fine)
+          A. Reikko & Kaupungin ääni: Oi, Anhedonia!
+          Aili Järvelä: Jättiläinen
+          Aili Järvelä (Juha Salomaa): ote Eino Leinon runosta Hymyilevä Apollo
+          Aili Järvelä: Apollo
+          Radiohead: High and dry
+          The Last Dinner Party: The scythe
+          Metsäheikki: Uu aika
       - title: Hartaita säveliä
         start_time: '2025-09-23T18:35:00+03:00'
         end_time: '2025-09-23T18:50:00+03:00'
@@ -192,7 +242,7 @@ data:
         end_time: '2025-09-23T19:02:00+03:00'
       - title: 'Naisen kosto: Kärsimysten tie'
         start_time: '2025-09-23T19:02:00+03:00'
-        end_time: '2025-09-23T19:22:00+03:00'
+        end_time: '2025-09-23T19:25:00+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 
@@ -208,7 +258,7 @@ data:
           Esiintyjät: Pirjo Heikkilä, Tuomas Skopa, Antto Hinkkanen, Arvi Lind, Irina Pulkka, Miiko Toiviainen, Emma Mattila, Saana Peltola, Anna Rimpelä, Ville Leppilahti, Elli Salo, Eve Mantu, Kimmo Koskinen, Anttoni Palm, Antti Soulanto, Jussi Rautaniemi, Suvi Ahoniemi, Suvi Tuuli Kataja, Eerik Purdon.
           Asiantuntijat: Elina Reenkola, Antti Paakkari, Milka Hirvaskero, Nora Horn, Terhi Ketola-Huttunen, Tytti Shemeikka, Ruusu Haarla, Aino Vesikansa, Sami Pihlström.
       - title: 'Naisen kosto: Myrkytetty lahja'
-        start_time: '2025-09-23T19:22:00+03:00'
+        start_time: '2025-09-23T19:25:00+03:00'
         end_time: '2025-09-23T19:45:00+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
@@ -250,4 +300,38 @@ data:
         start_time: '2025-09-23T23:40:00+03:00'
         end_time: '2025-09-24T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Alkan: Sonate de concert E-duuri (Moray Welsh, sello, ja Ronald Smith, piano).
+
+          00:14 Devienne: Huilukonsertto n:o 7 e-molli (Emmanuel Pahud ja Baselin kamariork./Giovanni Antonini).
+
+          00:33 Gounod: Petite symphonie (Pieni sinfonia) (Norske Blåsere/Gerard Oskamp).
+
+          00:52 Stradella: Sonaatti trumpetille, kahdeksalle jousisoittimelle ja continuolle (Crispian Steele-Perkins, trumpetti, ja Parley of  Instruments).
+
+          00:59 Tshaikovski: Italialainen kapriisi (Minnesotan ork./Eiji Oue). 
+
+          01:16 Aufschnaiter: Serenade alla pace (Concerto Armonico Budapest/Bernhardt Sieberer).
+
+          01:38 Collan: Emmalle (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          01:42 Infante: Andalusialaisia luonnoksia 1 (Eugenia Gabrieluk, piano).
+
+          02:04 Lövenskiold: Sylfiden (Keijukainen), baletti (Aalborgin SO/Peter Ernst Lassen).
+
+          03:14 Chopin: 17 yksinlaulua op. 74 (Ewa Podles, altto, ja Garrick Ohlsson, piano).
+
+          04:01 Linkola: Mieliteko (Lauluyhtye Talla).
+
+          04:13 Clementi: Sonaatti kaksille uruille (Luigi Celeghin ja Bianka Pezic).
+
+          04:24 Blumenfeld: Allegro de concert A-duuri (Jevgeni Soifertis, piano, ja BBC:n Skotlannin SO/Aleksandr Titov).
+
+          04:41 J. Haydn: Yhdeksän vokaalikvartettoa (New York Vocal Arts Ensemble ja Raymond Beegle, piano).
+
+          05:12 Brahms: Sonaatti sellolle ja pianolle n:o 1 e-molli (André Navarra ja Alfred Holecek).
+
+          05:38 Stanford (sov. Gee): Songs of the sea (Meren lauluja) (Matthew Gee, pasuuna, ja Christopher Glynn, piano, sekä Lontoon kuninkaallisen FO:n pasuunat).
+
+          05:55 Myslivecek: Divertimento F-duuri (Suk-kamariork.).
+
+          06:08 J.S. Bach: Partita sooloviululle n:o 3 E-duuri (Jennifer Koh).

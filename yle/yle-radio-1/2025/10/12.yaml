@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:21.004635+00:00'
+  generated_at: '2025-09-19T02:32:29.431778+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -39,9 +39,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-10-12T09:56:00+03:00'
         end_time: '2025-10-12T09:59:00+03:00'
-      - title: Formaattijumalanpalvelus
+      - title: Sohvakirkko Viikin kirkosta Helsingistä
         start_time: '2025-10-12T10:00:00+03:00'
         end_time: '2025-10-12T10:59:20+03:00'
+        description: |
+          Liturgina ja juontajana pastori Kimmo Saares. Kristityn vapaudesta keskustelemassa Oulun tuomiorovasti Satu Saarinen ja uskontodialogin asiantuntija Pekka Y. Hiltunen. Musiikki: Make Perttilä, Teri Mantere ja Heikki Pohto. Virret: 415; 903; 938; 933; 332.
       - title: Muistojen bulevardi
         start_time: '2025-10-12T11:00:00+03:00'
         end_time: '2025-10-12T11:59:00+03:00'

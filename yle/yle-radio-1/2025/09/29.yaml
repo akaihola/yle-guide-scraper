@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:16.987269+00:00'
+  generated_at: '2025-09-19T02:32:24.584642+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -11,15 +11,34 @@ data:
         start_time: '2025-09-28T23:40:00+03:00'
         end_time: '2025-09-29T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Zelenka: Missa votiva e-molli (Votiivimessu) (Hana Blaziková, sopraano, Stanislava Mihalcová, sopraano, Markéta Cukrová, altto, Tomás Korínek, tenori, Tomás Král, basso, ja Lisandro Abadie, basso, sekä Collegium Vocale 1704 -kuoro ja -ork./Václav Luks).
+
+          00:53 W.A. Mozart: Viulukonsertto n:o 1 B-duuri (Arthur Grumiaux ja Lontoon SO/Colin Davis).
+
+          01:12 Beethoven: Sonaatti viululle ja pianolle n:o 2 A-duuri (Christian Ferras ja Pierre Barbizet).
+
+          01:31 Wegelius: Daniel Hjort -alkusoitto (RSO/Petri Sakari).
+
+          01:44 J.S. Bach: Duetto a-molli (Anastasia Injushina, piano).
+
+          01:50 Napravnik: Sinfoninen konsertto a-molli (Jevgeni Soifertis, piano, ja BBC:n Skotlannin SO/Aleksandr Titov).
+
+          02:21 Infante: Gracia, teema ja muunnelmia kansansäv. El vito jerezano (Eugenia Gabrieluk, piano).
+
+          02:31 Berlioz: Faustin tuomio (Suzanne Danco, sopraano, David Poleri, tenori, Martial Singher, baritoni, Donald Gramm, basso, McHenry Boatwright, basso ja Harvard Glee Club -kuoro, Radcliffe Choral Society -kuoro sekä Bostonin SO/Charles Munch).
+
+          04:36 Rameau: Sarja orkesterille oopp. Le Temple de la gloire (Philharmonia Baroque -ork./Nicholas McGegan).
+
+          05:11 J.S. Bach: Soolosellosarjat n:o 2 d-molli, n:o 3 C-duuri, n:o 4 Es-duuri ja n:o 5 c-molli (Daniil Shafran).
       - title: Hartaita säveliä
         start_time: '2025-09-29T06:30:50+03:00'
         end_time: '2025-09-29T06:50:00+03:00'
       - title: Aamuhartaus
         start_time: '2025-09-29T06:50:00+03:00'
         end_time: '2025-09-29T06:59:59+03:00'
-        description: |-
-          Teologi Amu Urhonen, Tampere
+        description: |
+          "Auttaminen johdattaa ihmisiä yhteen"
+          Teologi Amu Urhonen Tampereelta puhuu tarpeesta olla avuksi muille ihmisille ja kysyy, miksi joiltain pyydetään apua usein ja toisilta ei koskaan?
       - title: Yle Uutiset ja sää
         start_time: '2025-09-29T07:00:00+03:00'
         end_time: '2025-09-29T07:05:00+03:00'

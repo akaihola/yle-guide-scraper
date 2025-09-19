@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:21.898567+00:00'
+  generated_at: '2025-09-19T02:32:31.094304+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-10-15T06:50:00+03:00'
         end_time: '2025-10-15T06:59:59+03:00'
-        description: |-
-          Rovasti Tuula Paasivirta, Helsinki
+        description: |
+          "Pappislupaus, uuden elämänvaiheen alku"
+          Rovasti Tuula Paasivirta Helsingistä muistelee omaelämäkerrallisen hartaussarjansa viidennessä osassa pappislupauksen päiväänsä ja tästä alkaneita vuosiaan papin töissä. Sarja jatkuu (5/6).
       - title: Yle Uutiset ja sää
         start_time: '2025-10-15T07:00:00+03:00'
         end_time: '2025-10-15T07:05:00+03:00'
@@ -38,9 +39,13 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-15T09:04:00+03:00'
         end_time: '2025-10-15T09:59:00+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Asunnottomuusriski koskettaa yhä useampaa'
         start_time: '2025-10-15T10:00:00+03:00'
         end_time: '2025-10-15T10:50:00+03:00'
+        description: |
+          Suomi oli pitkään ainoita maita maailmassa, joka onnistui vähentämään asunnottomuutta. Tällä hetkellä asunnottomuuden riski kasvaa ja koskettaa myös laajempaa osaa kansalaisista työssäkäyviin, nuoriin, perheellisiin ja eläkeläisiin.
+          Mitä asunnottomuuden kasvusta seuraa? Millaista oikeaikaista apua ja ennaltaehkäisyä tarvitaan? 
+          Toimittaja Satu Kivelä keskustelee Vailla vakinaista asuntoa ry:n  mentori Jenni Erosen ja palvelupäällikkö Jussi Lehtosen kanssa.
       - title: Riston Valinta
         start_time: '2025-10-15T11:00:00+03:00'
         end_time: '2025-10-15T11:50:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:13.962215+00:00'
+  generated_at: '2025-09-19T02:32:14.967630+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,7 @@ data:
           06:59 Telemann: Kvartetto huilulle, viululle, viola da gamballe ja continuolle n:o 6 e-molli (Pariisilaiskvartetto) (Amsterdamin Quadro-yhtye).
 
           07:17 Veracini: Sonaatti viululle ja continuolle n:o 1 D-duuri (John Holloway, viulu, Jaap ter Linden, sello, ja Lars Ulrik Mortensen, cembalo).
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: “Nobelistia ei voi sensuroida”, sanoo suomentaja Einari Aaltonen'
         start_time: '2025-09-20T07:31:00+03:00'
         end_time: '2025-09-20T07:56:00+03:00'
         description: |-
@@ -95,6 +95,10 @@ data:
       - title: Rytmikamari
         start_time: '2025-09-20T10:45:00+03:00'
         end_time: '2025-09-20T11:00:00+03:00'
+        description: |-
+          Kosma: Les feuilles mortes (Yves Montand).
+          Carmichael:  Mulla menee hyvin ilman sua (Timo Kiiskinen). 
+          Clapton, Gordon: Layla (Eric Clapton).
       - title: 'Virtasen taloushistoria: Tulli syynää ja suojelee'
         start_time: '2025-09-20T11:00:00+03:00'
         end_time: '2025-09-20T11:53:00+03:00'
@@ -137,8 +141,8 @@ data:
           Esa-Pekka Salonen: Toisen kohtauksen Teema teoksesta Kinema (Radion sinfoniaork./Esa-Pekka Salonen).
 
       - title: 'Ruben Stiller: Martti Suosalo puhuu, talar'
-        start_time: '2025-09-20T14:00:00+03:00'
-        end_time: '2025-09-20T14:55:00+03:00'
+        start_time: '2025-09-20T14:01:30+03:00'
+        end_time: '2025-09-20T14:56:30+03:00'
         description: |-
           Studiossa Martti Suosalo, näyttelijä.
 
@@ -155,14 +159,14 @@ data:
           Turkan oppilas, kertoo oman näkemyksensä Turkan metodista.
 
           Tervetuloa näyttämölle!
-      - title: Ykköskolumni
-        start_time: '2025-09-20T14:55:00+03:00'
-        end_time: '2025-09-20T15:00:00+03:00'
+      - title: 'Ykköskolumni: Muumimukit eivät riitä mihinkään – Tarvitsemme muumitorin ja lisää muumipatsaita!'
+        start_time: '2025-09-20T14:56:30+03:00'
+        end_time: '2025-09-20T15:01:30+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Muumeilla myydään perunoita ja verkkareita, mutta ilman oheisroinaa koko peikkoperhe saattaisi olla jo mennyttä, vapaa toimittaja Laura Hallamaa kirjoittaa.
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Systeemin marionetit ja käteisen kuolema'
-        start_time: '2025-09-20T15:00:00+03:00'
-        end_time: '2025-09-20T15:20:00+03:00'
+        start_time: '2025-09-20T15:01:30+03:00'
+        end_time: '2025-09-20T15:15:00+03:00'
         description: |-
           On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
 
@@ -179,7 +183,7 @@ data:
           Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
           Tuottaja: Jonni Haasanen, Yle Draama 2024.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-09-20T15:20:00+03:00'
+        start_time: '2025-09-20T15:15:00+03:00'
         end_time: '2025-09-20T15:30:00+03:00'
       - title: 'Aristoteleen kantapää: Äksynlääke, kummallisvero, kerhotaulu – merimiesten kasvattama Peppi Pitkätossu muistuttaa apinoiden kasvattamaa Tarzania'
         start_time: '2025-09-20T15:30:00+03:00'
@@ -238,7 +242,7 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2025-09-20T18:10:00+03:00'
         end_time: '2025-09-20T19:00:00+03:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: Yle Uutiset ja sää
         start_time: '2025-09-20T19:00:00+03:00'
@@ -248,11 +252,11 @@ data:
         end_time: '2025-09-20T21:00:00+03:00'
         description: |
           Juontajina Kuhmon kamarimusiikin taiteellinen johtaja, viulisti Minna Pensola sekä musiikkitoimittaja Risto Nordell. Ohjelman suunnittelusta vastaa Annina Aho.
-      - title: Uutispodcast
+      - title: 'Uutispodcast: "Suomalaiset loppuvat pian" – Onko taistelu syntyvyyden lisäämiseksi jo hävitty?'
         start_time: '2025-09-20T21:00:30+03:00'
         end_time: '2025-09-20T21:26:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Kaikkialla kuollaan, koululaisia pian 100 000 vähemmän. Suomen väestöennuste on synkkä. Suomen syntyvyys laski poikkeuksellisen voimakkaasti vuosien 2010–2024 aikana. Syntyvyyden merkittävää kasvua ei ole näköpiirissä. Miksi syntyvyyden kääntäminen nousuun on niin hankalaa? Atte Uusinokan vieraana on Väestöliiton johtava tutkija Venla Berg. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-09-20T21:27:00+03:00'
         end_time: '2025-09-20T21:52:00+03:00'

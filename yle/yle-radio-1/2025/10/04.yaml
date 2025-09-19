@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:18.589241+00:00'
+  generated_at: '2025-09-19T02:32:26.348739+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -121,7 +121,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-04T16:07:00+03:00'
         end_time: '2025-10-04T17:00:00+03:00'
-      - title: Marko Gustafssonin vieraana toimittaja Justas Stasevskij
+      - title: 'Marko Gustafsson: Vieraana toimittaja Justas Stasevskij'
         start_time: '2025-10-04T17:00:00+03:00'
         end_time: '2025-10-04T17:53:00+03:00'
       - title: 'Ehtookellot: Suomenlinnan kirkon kellot'
@@ -130,8 +130,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-10-04T18:01:00+03:00'
         end_time: '2025-10-04T18:10:00+03:00'
-        description: |-
-          Muusikkopastori Severi Laakso, Kangasala
+        description: |
+          "Jumalan suojelusenkeli on myös sinua varten"
+          Muusikkopastori Severi Laakso Kangasalta puhuu enkeleiden monista rooleista Raamatussa ja kirkon opetuksessa.
       - title: Lauantain toivotut levyt
         start_time: '2025-10-04T18:10:00+03:00'
         end_time: '2025-10-04T19:00:00+03:00'

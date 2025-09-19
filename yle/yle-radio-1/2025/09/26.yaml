@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:15.611206+00:00'
+  generated_at: '2025-09-19T02:32:23.571416+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,39 @@ data:
         start_time: '2025-09-26T00:00:00+03:00'
         end_time: '2025-09-26T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Glazunov: Kvartetto saksofoneille (Quatuor Habanera).
+
+          00:25 Eccles: The Judgment of Paris (Parisin tuomio) (Roderick Williams, baritoni, Benjamin Hulett, tenori, Susan Bickley, mezzosopraano, Claire Booth, sopraano, ja Lucy Crowe, sopraano, sekä Early Opera Companyn kuoro, ja Early Opera Company/Christian Curnyn).
+
+          01:16 Beethoven: Pianotrio c-molli op.1/3 (Borodin-trio).
+
+          01:50 Glinka: Muunnelmia Mozartin teemasta (Helga Storck, harppu).
+
+          01:59 J.S. Bach: Konsertto kahdelle viululle, jousille ja continuolle d-molli (Christian Ferras ja Yehudi Menuhin sekä Bathin musiikkijuhlien ork.).
+
+          02:17 Foster: Jeanie with the light brown hair (Chanticleer/Joseph Jennings).
+
+          02:21 Milhaud: Le Boeuf sur le toit (Härkä katolla), baletti (The New London Orchestra/Ronald Corp).
+
+          02:43 D. Bright: Muunnelmia pianolle ja orkesterille (Samantha Ward ja Liverpoolin kuninkaallinen FO/Charles Peebles).
+
+          03:00 Shostakovitsh: Sinfonia n:o 14 g-molli (Karita Mattila, sopraano, ja Thomas Quasthoff, basso, sekä Berliinin filharmonikot/Simon Rattle).
+
+          03:55 Zemlinsky: Trio d-molli (Ensemble Liaison).
+
+          04:25 Sibelius: Sinfonia n:o 3 C-duuri (RSO/Esa-Pekka Salonen).
+
+          04:55 Borodin: Jousikvartetto n:o 1 A-duuri (Borodin-kvartetti).
+
+          05:35 von Dittersdorf: Konsertto cembalolle, kahdelle viululle ja continuolle A-duuri. (Linda Nicholson, fortepiano, ja  Florilegium Collinda).
+
+          05:53 Delius - Beecham: Intermezzo oopp. A Village Romeo and Juliet (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          06:03 Händel: Sonaatti huilulle ja continuolle h-molli (Fitzwilliam-sonaatti n:o 3) (Camerata Köln).
+
+          06:17 Tunder: Dominus illuminatio mea (Jumala on valoni) (Collegium Vocale/Philippe Herreweghe).
+
+          06:26 Corkine: Break of day (Paul Hillier, baritoni, ja Nigel North, luuttu).
       - title: Hartaita säveliä
         start_time: '2025-09-26T06:30:50+03:00'
         end_time: '2025-09-26T06:50:00+03:00'
@@ -79,8 +111,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-26T11:57:00+03:00'
         end_time: '2025-09-26T12:00:00+03:00'
-        description: |2+
-
+        description: |
+          Ote Sami Oskari Lahtisen kirjasta Dinosaureeni (Aula & CO, 2024)
       - title: Yle Uutiset ja sää
         start_time: '2025-09-26T12:00:00+03:00'
         end_time: '2025-09-26T12:05:00+03:00'
@@ -131,11 +163,12 @@ data:
           Hatshaturjan: Spartacuksen ja Fryygian adagio bal. Spartacus. (Skotlannin kansallisork/Neeme Järvi).
 
           Puccini: Nessun dorma (Luciano Pavarotti, tenori, John Alldis -kuoro, ja Lontoon FO/Zubin Mehta).
-      - title: Uutispodcast
+      - title: 'Iida Tikka & mureneva maa 1/6: Satatonnia tienaava köyhä'
         start_time: '2025-09-26T17:00:00+03:00'
         end_time: '2025-09-26T17:20:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Amerikkalainen keskiluokka kamppailee selviytyäkseen, vaikka palkat ovat suomalaisiin verrattuna tähtitieteellisen suuret. Sarjan ensimmäisessä jaksossa Iida Tikka matkustaa Indianaan ja tapaa satatonnia vuodessa tienaavan Joen, joka on raadollisten ratkaisujen edessä. 
+          Miksi Yhdysvaltojen keskiluokan elämästä on tullut selviytymistaistelua maailman rikkaimmassa maassa, ja miten se horjuttaa koko demokratian perustaa?
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-26T17:20:00+03:00'
         end_time: '2025-09-26T17:35:00+03:00'
@@ -184,4 +217,28 @@ data:
         start_time: '2025-09-26T23:40:00+03:00'
         end_time: '2025-09-27T07:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Massenet: Thaïs, ooppera (Andreé Esposito, sopraano, Robert Massard, baritoni, Jean Mollien, tenori, Christiane Harbell, sopraano, Andreé Gabriel, mezzosopraano, Lucien Lovano, basso, ja Michel Solange, mezzosopraano, sekä Ranskan radion oopperakuoro ja -ork./Albert Wolff).
+
+          01:21 Berlioz: Fantastinen sinfonia (Baltimoren SO/David Zinman).
+
+          02:13 H. Liebmann: Sonaatti sellolle ja pianolle B-duuri (Grande sonate) (Thomas Blees ja Maria Bergmann).
+
+          02:34 W.A. Mozart: Pianokonsertto n:o 8 C-duuri (Lützow-konsertto) (Wilhelm Kempff ja Berliinin filharmonikot/Ferdinand Leitner).
+
+          02:57 Ika Peyron: Kaksi karaktäärikappaletta (Cecilia Zilliacus, viulu, ja Bengt Forsberg, piano).
+
+          03:07 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraalisinfonia) (Berliinin FO/Wilhelm Furtwängler).
+
+          03:52 Hadley: Salome, sävelruno E-duuri (Lontoon kuninkaallinen FO/Karl Krüger).
+
+          04:24 Revueltas (sov. Limantour): Mayain yö (Los Angelesin FO/Esa-Pekka Salonen).
+
+          04:56 Brahms: Sonaatti viululle ja pianolle n:o 3 d-molli. (Josef Suk ja Jan Panenka).
+
+          05:17 J. Haydn: Sinfonia n:o  85 B-duuri (Kuningatar) (Handel and Haydn Society/Harry Christophers).
+
+          05:43 Schubert: Neljä impromptua pianolle (Rudolf Serkin).
+
+          06:24 J.S. Bach: Urkukonsertot n:o 1 G-duuri, 2 a-molli, 3 C-duuri, 4 C-duuri ja 5 d-molli (Johannes-Ernst Köhler).
+
+          07:19 Hildegard von Bingen: O Ecclesia, oculi tui similes saphiro sunt (Anonymous 4).

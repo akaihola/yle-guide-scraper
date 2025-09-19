@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-18T02:30:16.166204+00:00'
+  generated_at: '2025-09-19T02:32:23.846461+00:00'
   git:
     branch: main
-    commit: d69914ba441212e3c9bf6ca392855b41aa9332eb
-  data_hash: e7e5d56aa35881b25c7f37f3726ec2369b13fbc4d28e10045d68829fbb6e67c2
+    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
+  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,31 @@ data:
         start_time: '2025-09-26T23:40:00+03:00'
         end_time: '2025-09-27T07:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Massenet: Thaïs, ooppera (Andreé Esposito, sopraano, Robert Massard, baritoni, Jean Mollien, tenori, Christiane Harbell, sopraano, Andreé Gabriel, mezzosopraano, Lucien Lovano, basso, ja Michel Solange, mezzosopraano, sekä Ranskan radion oopperakuoro ja -ork./Albert Wolff).
+
+          01:21 Berlioz: Fantastinen sinfonia (Baltimoren SO/David Zinman).
+
+          02:13 H. Liebmann: Sonaatti sellolle ja pianolle B-duuri (Grande sonate) (Thomas Blees ja Maria Bergmann).
+
+          02:34 W.A. Mozart: Pianokonsertto n:o 8 C-duuri (Lützow-konsertto) (Wilhelm Kempff ja Berliinin filharmonikot/Ferdinand Leitner).
+
+          02:57 Ika Peyron: Kaksi karaktäärikappaletta (Cecilia Zilliacus, viulu, ja Bengt Forsberg, piano).
+
+          03:07 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraalisinfonia) (Berliinin FO/Wilhelm Furtwängler).
+
+          03:52 Hadley: Salome, sävelruno E-duuri (Lontoon kuninkaallinen FO/Karl Krüger).
+
+          04:24 Revueltas (sov. Limantour): Mayain yö (Los Angelesin FO/Esa-Pekka Salonen).
+
+          04:56 Brahms: Sonaatti viululle ja pianolle n:o 3 d-molli. (Josef Suk ja Jan Panenka).
+
+          05:17 J. Haydn: Sinfonia n:o  85 B-duuri (Kuningatar) (Handel and Haydn Society/Harry Christophers).
+
+          05:43 Schubert: Neljä impromptua pianolle (Rudolf Serkin).
+
+          06:24 J.S. Bach: Urkukonsertot n:o 1 G-duuri, 2 a-molli, 3 C-duuri, 4 C-duuri ja 5 d-molli (Johannes-Ernst Köhler).
+
+          07:19 Hildegard von Bingen: O Ecclesia, oculi tui similes saphiro sunt (Anonymous 4).
       - title: Luomiskertomus
         start_time: '2025-09-27T07:31:00+03:00'
         end_time: '2025-09-27T07:56:00+03:00'
@@ -41,6 +65,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-09-27T09:04:00+03:00'
         end_time: '2025-09-27T09:59:00+03:00'
+        description: |-
+          Lai: A man and a woman (Johnny Mathis).
+          Weil/Mann: Schuld war nur der bossa nova (Manuela).
+          Bonfa: Manha de carnaval (Quincy Jones). 
+          Worrell: Monday morning (Helen Forrest).
+          Capotosti: Maliziusella (Laila Kinnunen).
+          Laitinen: L'automne à Paris (Anthony Perkins).
+          Wertmüller/Bacalov: Solo tu (Rita Pavone). 
+          Waller: Ain't misbehavin' (Fats Waller).
+          Jimenez: Adios, Marquita linda (Artie Shaw and his Orchestra).
+          Taube: Sjuttonde balladen (Cornelis Vreeswijk).
+          Olivieri: Saavuthan (Ritva Oksanen).
+          Fain: I'll be seeing you (Vera Lynn). 
+          Barbieri: Viimeinen tango Pariisissa (Eino Grön).
+          Emer: J'en ai tant vu (Edith Piaf).
+          Lewis/Wright: When a man loves a woman (Percy Sledge).
       - title: Yle Uutiset
         start_time: '2025-09-27T10:00:00+03:00'
         end_time: '2025-09-27T10:03:00+03:00'
@@ -58,7 +98,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-27T11:57:00+03:00'
         end_time: '2025-09-27T12:00:00+03:00'
-        description: |2+
+        description: |+
+          Maria Jotunin aforismi kokoelmasta Avonainen lipas (Otava, 1929)
 
       - title: Yle Uutiset ja sää
         start_time: '2025-09-27T12:00:00+03:00'
@@ -88,7 +129,7 @@ data:
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Liian vapaa sanajärjestys'
         start_time: '2025-09-27T15:00:00+03:00'
-        end_time: '2025-09-27T15:20:00+03:00'
+        end_time: '2025-09-27T15:16:00+03:00'
         description: |-
           On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
 
@@ -105,11 +146,14 @@ data:
           Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
           Tuottaja: Jonni Haasanen, Yle Draama 2024.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-09-27T15:20:00+03:00'
+        start_time: '2025-09-27T15:16:00+03:00'
         end_time: '2025-09-27T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Verbaalinen väkivalta verkossa on vallankäyttöä – vihapuheella voidaan kiusata, uhata ja eristää'
         start_time: '2025-09-27T15:30:00+03:00'
         end_time: '2025-09-27T15:55:00+03:00'
+        description: |
+          Pasi Heikura miettii Kriittisen korkeakoulun Puhujakoulun vastaava opettaja ja tohtorikoulutettava Severi Hämärin kanssa, miltä vihapuhe-ilmiö näyttää, jos sitä ajattelee sanallisena väkivaltana. Ohjelmassa tartutaan myös elinkorteen ja lopuksi vietetään siirtolapuutarhaelämää sosialisoimalla.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-09-27T15:55:00+03:00'
         end_time: '2025-09-27T15:58:00+03:00'
@@ -143,9 +187,9 @@ data:
           Kansansäv.: Danny boy (Dublinin yliopiston Choral Scholars -kuoro/Desmond Earley).
 
           Leiviskä: Humoreski sarj. n:o 2 (Sinfonia Lahti/Dalia Stasevska).
-      - title: Marko Gustafssonin vieraana taiteilija Anna Eriksson
+      - title: 'Marko Gustafsson: Vieraana taiteilija Anna Eriksson'
         start_time: '2025-09-27T17:00:00+03:00'
-        end_time: '2025-09-27T17:53:00+03:00'
+        end_time: '2025-09-27T17:55:00+03:00'
         description: |
           “Todellisuus, jossa elämme on hyvin pirstoutunutta. On hyvin vaikeaa hahmottaa, mikä on totta ja mikä on oikeasti merkityksellistä ja millaisessa todellisuudessa elämme suhteessa muihin", Anna  Eriksson toteaa.
           Hänen syyskuussa ensi-iltaansa tuleva elokuva E  käsittelee muun muassa  pahuutta, valtaa ja ihmisen katoamista  merkityksettömyyden maailmaan.  “Me myös usein unohdamme, että tuhoisia asioita tekevät päättäjät ovat tavallisten ihmisten valitsemia.”, Eriksson muistuttaa.
@@ -155,8 +199,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-09-27T18:01:00+03:00'
         end_time: '2025-09-27T18:10:00+03:00'
-        description: |-
-          Muusikkopastori Severi Laakso, Kangasala
+        description: |
+          "Kasvatus on vaikea laji"
+          Lauantai-illan rukoushetkessä muusikkopastori Severi Laakso Kangasalta puhuu lasten kasvatuksesta pohtien maallista ja taivaallista isyyttä.
       - title: Lauantain toivotut levyt
         start_time: '2025-09-27T18:10:00+03:00'
         end_time: '2025-09-27T19:00:00+03:00'
@@ -165,9 +210,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-27T19:00:00+03:00'
         end_time: '2025-09-27T19:02:00+03:00'
-      - title: Oopperailta
+      - title: 'Oopperailta Lontoossa: Ludwig van Beethovenin Fidelio'
         start_time: '2025-09-27T19:02:00+03:00'
         end_time: '2025-09-27T22:00:00+03:00'
+        description: |-
+          Ludwig van Beethovenin Fidelio op. 72, kaksinäytöksinen ooppera. Libretto: Joseph von Sonnleithner. Alexander Soddy, kapellimestari. Lontoon kuninkaallisen oopperan orkesteri ja kuoro. 
+          - Rooleissa: Leonore - Jennifer Davis, sopraano. Florestan - Eric Cutler, tenori. Rocco - Peter Rose, basso. Marzelline - Christina Gansch, sopraano. Jaquino - Michael Gibson, tenori. Pizarro - Jochen Schmeckenbecher, baritoni. Don Fernando - Phillip Rhodes, baritoni. 1. vanki - Siphe Kwani, baritoni. 2. vanki - Eugene Dillon-Hooper, basso. - Äänitetty Lontoon Covent Gardenissa 23.10.2024. Illan kuluessa oopperalaulajat Mari Palo ja Matti Turunen keskustelevat Risto Nordellin kanssa teoksesta ja sen esityksestä.
       - title: Uutispodcast
         start_time: '2025-09-27T21:00:30+03:00'
         end_time: '2025-09-27T21:26:00+03:00'
@@ -193,4 +241,36 @@ data:
         start_time: '2025-09-27T23:40:00+03:00'
         end_time: '2025-09-28T07:00:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Aufschnaiter: Sonaatti n:o 6 (Pyhälle Markukselle) (Ars Antiqua Austria/Gunar Letzbor).
+
+          23:52 Karlowicz: Sinfonia e-molli (Uudestisyntyminen) (BBC:n FO/Gianandrea Noseda).
+
+          00:33 Boieldieu: Duo harpulle ja pianolle n:o 2 B-duuri (Lily Laskine ja Robert Veyron-Lacroix).
+
+          00:43 Albinoni: Oboekonsertto d-molli (Anthony Robson ja Collegium Musicum 90/Simon Standage).
+
+          00:56 Rahmaninov: Ruhtinas Rostislav, sinfoninen runo (Venäjän valtion SO/Valeri Poljanski).
+
+          01:15 Schumann: Fantasia pianolle C-duuri (Vladimir Horowitz).
+
+          01:47 Prokofjev: Aleksanteri Nevski, kantaatti (Vera Soukupová, mezzosopraano, sekä Prahan filharmoninen kuoro Tshekkiläinen FO/Karel Ancerl).
+
+          02:26 Mendelssohn: Pianotrio n:o 1 d-molli (Artur Rubinstein, piano, Jascha Heifetz, viulu, ja Gregor Piatigorsky, sello).
+
+          02:54 Lindberg: Aura (RSO/Hannu Lintu).
+
+          03:33 Kontratenori Jochen Kowalski laulaa aarioita oopperoista Rinaldo, Julius Caesar, Xerxes, Giustino, Alcina, Rodelinda ja Mitridate (C.Ph.E. Bach-kamariork./Hartmut Haenchen). 
+
+          04:35 Villa-Lobos: Konsertto huuliharpulle ja orkesterille a-molli (Robert Bonfiglio ja New Yorkin kamariork./Gerard Schwarz).
+
+          04:57 Stravinsky: Kevätuhri (Chicagon SO/Daniel Barenboim).
+
+          05:34 R. Strauss: Don Juan (Pittsburghin SO/Manfred Honeck).
+
+          05:53 Romberg: Sonaatti sellolle ja pianolle n:o 1 Es-duuri (Anner Bylsma, sello, ja Stanley Hoogland, fortepiano).
+
+          06:15 Bellman (sov. O.Merikanto): Ukko Nooa, muunnelmia pianolle (George de Godzinsky).
+
+          06:24 Benda: Konsertto huilulle, jousille ja continuolle e-molli (Karl Kaiser ja La Stagione Frankfurt/Michael Schneider).
+
+          06:43 Tallis: Salve intemerata virgo (The Cardinall's Musick/Andrew Carwood).
