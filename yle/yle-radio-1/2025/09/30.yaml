@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-19T02:32:25.053808+00:00'
+  generated_at: '2025-09-20T02:28:49.030156+00:00'
   git:
     branch: main
-    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
-  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
+    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
+  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
 data:
   Yle Radio 1:
     programmes:
@@ -133,6 +133,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-30T16:07:00+03:00'
         end_time: '2025-09-30T16:59:00+03:00'
+        description: |-
+          Lourie: Marssi pianolle kokoelmasta Quatre pieces (Moritz Ernst).
+
+          Auber: Tao-Jinin resitatiivi ja aaria oopp. Pronssihevonen (Huguette Tourangeau, mezzosopraano, sekä Ranskankielisen Sveitsin orkesteri/Richard Bonynge ).
+
+          Reinecke: Intermezzo huilusonaatista e-molli (Undine) (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
+
+          Dārziņs: Sapnu taluma (Unien kaukaisuudessa) (Latvian radion kuoro/Sigvards Kļava).
+
+          Rossini (sov. Sedlak): Basilion juoruaaria oopp. Il Barbiere di Siviglia (Mozzafiato-yhtye).
+
+          Bruch: Andante con moto jousikvintetosta Es-duuri (Nash-yhtye).
+
+          Cilea: Federicon valitus E la solita storia oopp. L'Arlesiana (Marcelo Alvarez, Dresdenin valtionork./Marcello Viotti).
+
+          Zimmermann: Scherzo sonaatista n:o 3 g-molli (Mathilde Milwidsky, viulu, ja Sam Haywood, piano).
+
+          Barrios: Un sueño en la floresta (David Russell, kitara).
+
+          Dvorak (sov. Ben-Ari): Finaali jousikvartetosta n:o 12 mandoliinille, jousille ja harmonikalle (Avi Avital, mandoliini, Simone Bernardini, viulu, Amihai Grosz, alttoviulu, Zvi Plesser, sello, Klaus Stoll, kontrabasso, ja Ivano Battiston, harmonikka).
       - title: Uutispodcast
         start_time: '2025-09-30T17:00:00+03:00'
         end_time: '2025-09-30T17:20:00+03:00'
@@ -199,6 +219,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-09-30T20:00:00+03:00'
         end_time: '2025-09-30T20:20:00+03:00'
+        description: |-
+          Sari Puumalaiselle hyvä ruoka on rakkauden teko. Toimittajana Maija Salminen. 
       - title: 'Romano mirits: Kokista hammashoitajaksi – Nadja Tamminen seurasi unelmaansa'
         start_time: '2025-09-30T20:20:00+03:00'
         end_time: '2025-09-30T20:35:00+03:00'

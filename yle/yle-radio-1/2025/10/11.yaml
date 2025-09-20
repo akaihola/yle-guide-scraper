@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-19T02:32:28.625891+00:00'
+  generated_at: '2025-09-20T02:28:52.169489+00:00'
   git:
     branch: main
-    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
-  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
+    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
+  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
 data:
   Yle Radio 1:
     programmes:
@@ -122,9 +122,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-11T16:07:00+03:00'
         end_time: '2025-10-11T17:00:00+03:00'
+        description: |
+          Jaëll: Vivace molto konsertosta sellolle ja orkesterille F-duuri (Xavier Phillips ja Brysselin FO/Hervé Niquet).
+
+          de Falla: Serenata andaluza (Andalusialainen serenadi) (Mirka Viitala, piano).
+
+          Nicolai: Falstaffin juomalaulu "Als Büblein klein an der Mutter Brust" oopp. Windsorin iloiset rouvat (Kim Borg, basso, ja Baijerin radion kuoro sekä Münchenin FO/Ferdinand Leitner).
+
+          Einaudi: Divenire (Ludovico Einaudi, piano, ja Liverpoolin kuninkaallinen FO/Robert Ziegler).
+
+          Dowland: The Earl of Essex Galliard (Essexin jaarlin gagliarda) (Ronn McFarlane, luuttu).
+
+          Kuula: Purjein kuutamolla (Tuuli Takala, sopraano, ja Tuula Hällström, piano).
+
+          Mascagni: Intermezzo oopp. Cavalleria rusticana (Turun FO/Petri Sakari).
+
+          Andrée: Allegro grazioso pastorale teoks. Sommarminnen (Kesämuistoja) (David Bergström ja Mattias Johansson, viulu, Bengt Ersson, alttoviulu, Lars-Erik Persson, sello, sekä Mats Larsson, kontrabasso).
+
+          Lauridsen: Ya eres mia (Euroopan kamarikuoro/Nicol Matt, ja Morten Lauridsen, piano).
+
+          Brescianello: Presto sinfoniasta n:o 1 D-duuri (La Cetra).
+
+          Mechelin: Nocturno (Maria Suokas, piano).
       - title: 'Marko Gustafsson: Vieraana muusikko Tuure Kilpeläinen'
         start_time: '2025-10-11T17:00:00+03:00'
         end_time: '2025-10-11T17:50:00+03:00'
+        description: |
+          Muusikko Tuure Kilpeläinen tietää miltä tuntuu tulla nöyryytetyksi ja hän tietää myös, miten vaikea on päästä häpeän tunteesta yli. Hän muistuttaa, että häpeä on osa suomalaisuutta. “Häpeän voittamisesta voi saada hirveästi rohkeutta ja energiaa, todellista supervoimaa!” 
       - title: 'Ehtookellot: Tampereen Pispalan kirkon kellot'
         start_time: '2025-10-11T18:00:00+03:00'
         end_time: '2025-10-11T18:01:00+03:00'

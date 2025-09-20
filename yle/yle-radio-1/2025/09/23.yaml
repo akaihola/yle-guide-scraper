@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-19T02:32:21.283027+00:00'
+  generated_at: '2025-09-20T02:28:47.016721+00:00'
   git:
     branch: main
-    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
-  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
+    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
+  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
 data:
   Yle Radio 1:
     programmes:
@@ -47,6 +47,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-23T06:30:50+03:00'
         end_time: '2025-09-23T06:50:00+03:00'
+        description: |+
+          S. Heikkilä: Minä uskon Jumalaan (Sakari Heikkilä).
+
+          Tuntematon: Maan ja taivaan Luojan (Jorma Hynninen, baritoni, ja Pertti Eerola, urut).
+
+          T. Kuusisto (sov. J. Kuusisto): Siunaa ja varjele meitä (Lahden KO/Osmo Vänskä ja Ari Heinonen, trumpetti).
+
+          Sontonga: Kuule, Isä taivaan, pyyntö tää (Katja Kallio ja Sami Kosola).
+
       - title: Aamuhartaus
         start_time: '2025-09-23T06:50:00+03:00'
         end_time: '2025-09-23T06:59:59+03:00'
@@ -107,7 +116,7 @@ data:
           Polizzy/Natili/Ramoino: Tornerò (I Santo California).
           Tuomisaari: Ennakoi tuleva tilanne (Kai Lind ja Ragni Malmsten).
           Dylan: Don't think twice, it's all right (Chris Thile ja Brad Mehldau).
-      - title: Sari Valto
+      - title: 'Sari Valto: “Keski-ikä on naisen elämässä kuin vuoristoradan huippu”'
         start_time: '2025-09-23T10:00:00+03:00'
         end_time: '2025-09-23T10:55:00+03:00'
         description: |-
@@ -161,11 +170,17 @@ data:
         end_time: '2025-09-23T15:00:00+03:00'
         description: |
           Radio 1:n iltapäivässä soi etno, kevyt jazz ja populaarimusiikki. Tekniikan tohtori, tietokirjailija ja valokuvaaja Sami Karjalainen on vieraana klo 14. Karjalainen on saanut lukuisia palkintoja työstään hyönteismaailman salojen avaajana. Miksi hepokatit, korennot ja muut hyönteiset kiinnostavat Karjalaista yhä uudelleen? Ja miksi kaikkien kannattaisi niistä kiinnostua? N. klo 14:30 Kielen päällä. Paula Jokimies juontaa.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Anna Erikssonin E ja kokeellinen kotimainen elokuva'
         start_time: '2025-09-23T15:00:00+03:00'
         end_time: '2025-09-23T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Elokuvantekijä-muusikko Anna Erikssonin kolmas kokopitkä elokuva E julkaistaan pian. E kertoo skandaaliin joutuneesta Suomen ex-pääministeristä, joka katoaa autiomaahan, jossa hän kohtaa kaksoisolentonsa ja muita alueelle eksyneitä. 
+
+          Erikssonin elokuvatrilogian päättävä teos poikkeaa monilta osin Marilyn Monroen elämästä inspiroituneesta M (2018) sekä Euroopan rappiosta kertovasta W (2022) -elokuvista. Eriksson on julistanut, että kolminäytöksinen, tarinaan pohjautuva elokuvakerronta on tiensä päässä. Hän haluaa tehdä tulevaisuuden elokuvaa, joka on visionääristä, vaarallista ja hypnoottista. 
+
+          Mitä hän tällä tarkoittaa, ja millaista elokuvakerrontaa hän onnistuu tarjoamaan aristoteelisen draaman kaaren tilalle? Onko tässä mitään uutta ja ihmeellistä? Millaisen kokonaisuuden trilogia tarjoaa, ja millainen taiteellinen matka ja kasvutarina elokuvien tekeminen on ollut Erikssonille? Mihin kokeellisen elokuvan perinteeseen teokset asettuvat, vai onko Eriksson onnistunut luomaan jotain ainutlaatuista? Miten Erikssonin keinot ja näkemykset vertautuvat maamme arvostetuimpien kokeellisen elokuvan tekijöiden tekotapoihin?
+
+          Kulttuuriykkönen sukeltaa kokeellisen elokuvan perinteisiin, nykyisyyteen ja tulevaisuuteen yhdessä Anna Erikssonin, elokuvantekijä Mika Taanilan sekä Espoo Cinén toiminnanjohtaja Tytti Rantasen kanssa. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-09-23T15:55:00+03:00'
         end_time: '2025-09-23T15:58:00+03:00'
@@ -231,6 +246,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-23T18:35:00+03:00'
         end_time: '2025-09-23T18:50:00+03:00'
+        description: |+
+          Haapala: Aivan turhaan (Mustarastas).
+
+          Tallis: Benedictus (Theatre of Voices/Paul Hillier).
+
+          Kankaanniemi: Halleluja, tunnet sydämeni (Lahko-yhtye).
+
       - title: Iltahartaus
         start_time: '2025-09-23T18:50:00+03:00'
         end_time: '2025-09-23T19:00:00+03:00'
@@ -274,9 +296,11 @@ data:
            
           Esiintyjät: Pirjo Heikkilä, Tuomas Skopa, Antto Hinkkanen, Arvi Lind, Irina Pulkka, Miiko Toiviainen, Emma Mattila, Saana Peltola, Anna Rimpelä, Ville Leppilahti, Elli Salo, Eve Mantu, Kimmo Koskinen, Anttoni Palm, Antti Soulanto, Jussi Rautaniemi, Suvi Ahoniemi, Suvi Tuuli Kataja, Eerik Purdon.
           Asiantuntijat: Elina Reenkola, Antti Paakkari, Milka Hirvaskero, Nora Horn, Terhi Ketola-Huttunen, Tytti Shemeikka, Ruusu Haarla, Aino Vesikansa, Sami Pihlström.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Ritva Oksanen maalaa akvarelleja'
         start_time: '2025-09-23T20:00:00+03:00'
         end_time: '2025-09-23T20:20:00+03:00'
+        description: |
+          Näyttelijä Ritva Oksanen maalaa akvarelleja tunteen palosta ja omaksi ilokseen. Toimittajana Maija Salminen
       - title: 'Romano mirits: Tero Roininen – supertähti Mirellan isä ja G. G. Caravanin perustaja paljastaa musiikkibisneksen raadollisuuden'
         start_time: '2025-09-23T20:20:00+03:00'
         end_time: '2025-09-23T20:35:00+03:00'
@@ -285,6 +309,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-09-23T20:35:00+03:00'
         end_time: '2025-09-23T21:00:00+03:00'
+        description: |
+          Sudanin julmaan sisällissotaan on yritetty löytää ratkaisua monta kertaa, mutta turhaan. Tuorein rauhanehdotus tuli syyskuussa Yhdysvaltain, Egyptin, Yhdistyneiden Arabiemiirikuntien ja Saudi-Arabian maaryhmältä.
+
+          Kolmatta vuotta käyvä sisällissota on ajanut kodeistaan yli 10 miljoonaa ihmistä. YK:n mukaan kyse on maailman pahimmasta humanitaarisesta kriisistä. Ohjelmassa käydään sudanilaispakolaisten leirillä Tšadissa.
+
+          YK:n entinen Sudan-koordinaattori arvioi, että pysyvän rauhan edellytykset ovat tällä hetkellä heikot. Hänen mukaansa Sudanin hajoaminen kahtia voisikin olla ihmisten kannalta hyvä ratkaisu, jos se toisi turvaa ja vakautta.
+
+          Unicef Sudanin suomalainen viestintäjohtaja avaa ohjelmassa Sudanin avuntarpeen mittakaavaa ja kuinka useat miljoonat lapset kärsivät raa’asta sodasta. Heidän hätänsä on kuitenkin jäänyt osin muiden kriisien varjoon, suomalainen avustusammattilainen arvioi.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Eeva Eronen ja Paula Vilén. Äänitarkkailijana on Katri Koivula. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-23T21:00:00+03:00'
         end_time: '2025-09-23T21:05:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-19T02:32:22.139349+00:00'
+  generated_at: '2025-09-20T02:28:47.309800+00:00'
   git:
     branch: main
-    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
-  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
+    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
+  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
 data:
   Yle Radio 1:
     programmes:
@@ -49,6 +49,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-24T06:30:50+03:00'
         end_time: '2025-09-24T06:50:00+03:00'
+        description: |+
+          I. Hannikainen (sov. I Kuusisto): Matkamiehen virsi (Soile Isokoski, sopraano, ja HKO/John Storgårds).
+
+          Kalenius: Avaimet kädessään (Turvakytkin).
+
+          Crüger (sov. Rissanen): Ei itää eikä länttäkään (Human Organ). 
+
+          Lybäck - Voipio: Mua tartu käteen Herra (Risto Lauriala, piano).
+
+          Jaatinen: Ylistän (Taina Jaatinen, laulu, ja Pirjo Pohjavirta, piano).
+
       - title: Aamuhartaus
         start_time: '2025-09-24T06:50:00+03:00'
         end_time: '2025-09-24T06:59:59+03:00'
@@ -145,10 +156,21 @@ data:
         description: |+
           Radio 1:n iltapäivässä tapaamme klo 14 aikaan Mari Rengon, joka työskentelee Lieksassa vanhusten hoitokotien vastuulääkärinä, vapaa-ajallaan hän kirjoittaa kirjoja. Mikä yhdistää kirjojen kirjoittamista ja lääkärin työtä? Kati Turtola haastattelee. N. klo 14:30 kuulemme elokuvaohjaaja Anna Erikssonin ajatuksia hänen uusimman elokuvansa synnystä. Toimittajana on Marko Gustafsson. Lähetyksen juontajana on Miia Lahti.
 
-      - title: Kulttuuriykkönen
+      - title: 'Pohjoismaisia ateljeekoteja ja pohjoismainen sisustustyyli '
         start_time: '2025-09-24T15:00:00+03:00'
         end_time: '2025-09-24T15:55:00+03:00'
         description: |
+          Toimittaja Anna-Kaisa Huusko on dokumentoinut suomalaisia, ruotsalaisia ja tanskalaisia taiteilijakoteja. Millä tavalla koti voi toimia sekä inspiroivana ateljeena, ideoiden laboratoriona ja omana kotina? Huusko on tutkinut 12 ateljeekotia, joukossa on tunnettuja muotoilijoita Finn Juhl, Bruno Mathsson, Tove Jansson, Gunnar Asplund ja tukholmalainen kuvanveistäjä Carl Eldh. Mikä näiden kotien tilaratkaisuissa ja esineissä tekevät niistä poikkeuksellisia? Miten Huusko joutui matkallaan hakemaan edesmenneiden taiteilijoiden sukulaisilta lupaa päästä näihin tiloihin? Millä tavalla ruotslaiset ja tanskalaiset ateljeekodit eroavat esimerkiksi suomalaisista?
+
+          Pohjoismainen sisustustyyli mielletään moderniksi, valoisaksi ja joskus jopa steriiliksi. Toimittaja Piia Kalliomäki ja valokuvaaja Pauliina Salonen ovat jo kolmetoista vuotta kuvanneet pohjoismaisia koteja. Mikä on ominaista Scandi design-käsitteelle? Mitkä designklassikot löytyvät näistä kodeista? Millä tavalla pimeä vuodenaika vaikuttaa kodin ilmeeseen? 
+
+          Ohjelman vieraina ovat uusien kirjojen tekijät, toimittajat Anna-Kaisa Huusko, Piia Kalliomäki ja valokuvaaja Pauliina Salonen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-09-24T15:55:00+03:00'
@@ -201,6 +223,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-24T18:35:00+03:00'
         end_time: '2025-09-24T18:50:00+03:00'
+        description: |+
+          Kettunen: Aika on (Miisamaria).
+
+          Koraalitoisinto: Herraa hyvää kiittäkää (Kampin Laulu/Eric-Olof Söderström).
+
+          Regnart: Jos, Jeesus, Herrani (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
+
+          Simojoki (sov. Mannila): Elämä on nyt (Kaarle Mannila yhtyeineen).
+
       - title: Iltahartaus
         start_time: '2025-09-24T18:50:00+03:00'
         end_time: '2025-09-24T19:00:00+03:00'

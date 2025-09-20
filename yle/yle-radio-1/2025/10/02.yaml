@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-19T02:32:25.606310+00:00'
+  generated_at: '2025-09-20T02:28:49.588528+00:00'
   git:
     branch: main
-    commit: 5b5030e778f486d3f885ddb7cc464855c4174cd2
-  data_hash: 120c99a613ac7fd05a374ca58d1e753a48bf34fb295f8ade6bb5fb7acefe7dc7
+    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
+  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
 data:
   Yle Radio 1:
     programmes:
@@ -61,9 +61,27 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-02T09:04:00+03:00'
         end_time: '2025-10-02T09:59:00+03:00'
+        description: |-
+          Gummoe: Rhythm of the rain (The Cascades).
+          Canfora: Conversazione (Mina).
+          Lindström: Etkö uskalla mua rakastaa (Helena Siltala).
+          Rodgers: It never entered my mind (The Miles Davis Quintet). 
+          Vreeswijk: Roskisdyykkarin balladi (Folk-Fredi).
+          Styne: Diamonds are a girl's best friend  (Marilyn Monroe).
+          Gainsbourg: La nuit d'octobre (Serge Gainsbourg).
+          Westerholm: Tuo tumma ilta lokakuun (Vieno Kekkonen).
+          Bayly: Long, long ago (Dean Martin & Nat King Cole).
+          Godoy: Sou sem paz (Elis Regina).
+          Sting: Moon over Bourbon Street (Sting).
+          Raivio: Syksy (Kaseva).
+          Hartford: This eve of parting  (John Hartford).
+          Hatch: Öppna ditt hjärta (Inger Öst).
+          Kansansävelmä: Muisto kesästä (Anki). 
       - title: 'Marko Gustafsson: Vieraana toimittaja Justas Stasevskij'
         start_time: '2025-10-02T10:00:00+03:00'
         end_time: '2025-10-02T10:50:00+03:00'
+        description: |
+          Justas Stasevskij toimi ammattimuusikkona kun Venäjä hyökkäsi Ukrainaan. Hänellä oli valtava halu tehdä jotain, josta olisi hyötyä Ukrainalle. Ylen Uutiskouluun kautta hän päätyi toimittajaksi Ukrainaan.  
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-02T10:50:00+03:00'
         end_time: '2025-10-02T11:00:00+03:00'
