@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-20T02:28:46.466533+00:00'
+  generated_at: '2025-09-21T02:34:28.165492+00:00'
   git:
     branch: main
-    commit: 00690c3401f7eb861216fe427a5e6b821dff038a
-  data_hash: 4462c3b494f4794db1a6304ec3387ea475a81b7f394f87f1d3c31b953e3d9331
+    commit: 198b9739675489120bec98a4b221969559493016
+  data_hash: 787fdc20ea79a4e7ed9a5cbb2ddcdd9ead3c07ee299115d1a7147649425716a5
 data:
   Yle Radio 1:
     programmes:
@@ -190,6 +190,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-22T16:07:00+03:00'
         end_time: '2025-09-22T16:59:00+03:00'
+        description: |-
+          Charpentier: Kaksi marssia (Le Concert Spirituel/Hervé Niquet).
+
+          Ravel: Pavane kuolleen prinsessan muistolle (Petri Alanko, huilu, ja Juhani Lagerspetz, piano).
+
+          Pujol: Romanza (Pepe Romero, kitara). 
+
+          Albinoni: Oboekonsertto F-duuri (Anthony Robson, oboe, ja Collegium Musicum 90/Simon Standage).
+
+          Shostakovitsh: Kiertoajelu Moskovan ympäri (Berliinin radion SO/Steven Sloane).
+
+          W.A. Mozart: Kreivittären resitatiivi ja aaria oopp. Figaron häät (Leontyne Price, sopraano, ja Metropolitan-oopperan ork./James Levine).
+
+          Chopin (sov. Jedynecki): Nokturni n:o 2 (Karolina Mikolajczyk, viulu, ja Iwo Jedynecki, harmonikka).
+
+          Rameau: Le rappel des oiseaux (Angela Hewitt, piano).
+
+          Bach: Allegro assai Konsertosta a-molli (Viktorija Mullova, viulu, ja Accademia Bizantina -kamariork./Ottavio Dantone).
+
+          Elgar: Pomp and Circumstance n:o 1, marssi D-duuri (Uuden-Seelannin SO/James Judd).
       - title: Uutispodcast
         start_time: '2025-09-22T17:00:00+03:00'
         end_time: '2025-09-22T17:20:00+03:00'
@@ -260,16 +280,42 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-22T21:05:00+03:00'
         end_time: '2025-09-22T21:34:30+03:00'
-      - title: Tiedeykkönen
-        start_time: '2025-09-22T21:35:00+03:00'
-        end_time: '2025-09-22T22:24:30+03:00'
+      - title: 'Tiedeykkönen: Menikö taas hermo teknologian takia? Tekoäly auttaa suunnittelemaan parempia käyttöliittymiä'
+        start_time: '2025-09-22T21:35:12+03:00'
+        end_time: '2025-09-22T22:21:58+03:00'
         description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
-        start_time: '2025-09-22T22:45:00+03:00'
-        end_time: '2025-09-22T23:39:00+03:00'
+          Aalto-yliopiston professori Antti Oulasvirta tutkii ihmisen ja tietokoneen välistä vuorovaikutusta. Tässä Tiedeykkösen jaksossa Oulasvirta avaa mm. sitä, miten tekoälyn avulla voidaan suunnitella parempia käyttöliittymiä.
+
+          Haastateltavana: Antti Oulasvirta
+          Toimittaja: Juuso Pekkinen
+          Äänisuunnittelija: Matias Puumala
+      - title: 'Näistä levyistä en luovu: Erkki Liikanen - Suomalainen musiikki on täynnä suuria tarinoita'
+        start_time: '2025-09-22T22:46:20+03:00'
+        end_time: '2025-09-22T23:39:21+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Politiikan ja talouden alojen pitkän linjan vaikuttaja Erkki Liikanen johdattaa suomalaisen musiikin elävään maailmaan. Musiikinharrastaja Erkki Liikanen on laaja-alaisesti perehtynyt aikamme taidemusiikkiin, sen säveltäjiin ja esittäjiin. 
+
+          Erkki Liikanen antaa ohjelmassa myös pienen diplomatian oppitunnin sekä arvioi suomalaisen musiikkikulttuurin tilaa ja kulttuurin julkisen tukemisen leikkauksia. 
+
+          Toimittaja on Tuija Kurvinen.
+
+          Ohjelmassa kuultava musiikki:
+
+          Juha Vainio: Vanhojapoikia viiksekkäitä (Juha Vainio).
+
+          Severi Pyysalo: Bangladesh (Perko-Pyysalo Poppoo).
+
+          Lotta Wennäkoski: Susurrus-konsertto (katkelma) (Petri Kumela ja Tapiola Sinfonietta/Dima Slobodeniuk).
+
+          Esa-Pekka Salonen: Toisen kohtauksen Teema teoksesta Kinema (Radion sinfoniaork./Esa-Pekka Salonen).
+
+          Cecilia Damström: ICE (katkelma) (Radion sinfoniaork./Nicholas Collon).
+
+          Kalevi Aho: Samaanit (katkelma) sinfoniasta nro 12 eli Luosto-sinfoniasta (Sinfonia Lahti ja Lapin kamariork./John Storgårds).
+
+          Kaija Saariaho: Morning Wind teoksesta Circle Map (Concertgebouw-ork./Susanna Mälkki).
+
+          Jean Sibelius: Finaali (katkelma) sinfoniasta nro 5 Es-duuri (Sinfonia Lahti/Osmo Vänskä).
       - title: Yöklassinen
         start_time: '2025-09-22T23:40:00+03:00'
         end_time: '2025-09-23T06:30:00+03:00'
