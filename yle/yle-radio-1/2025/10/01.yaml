@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:19.672784+00:00'
+  generated_at: '2025-09-23T02:30:18.292219+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -15,11 +15,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-01T06:30:50+03:00'
         end_time: '2025-10-01T06:50:00+03:00'
+        description: |+
+          Tuntematon: Uskon Isään Jumalaan (Tapiolan kuoro/Kari Ala-Pöllänen, ja Kaisa-Leena Harjunmaa, urut).
+
+          Koskimäki: Syliisi hellään sulje (Joose Vähäsöyrinki, baritoni, ja Katariina Kopsa, urut).
+
+          Ahnfelt: Päivä vain ja hetki kerrallansa (Psallamus-kuoro/Ilmo Riihimäki, ja Juhani Haapasalo).
+
+          Koraalitoisinto: Armon lähde, Jeesuksemme (RKK/Timo Nuoranne, sekä Harri Viitanen, urut).
+
+          Koraalitoisinto (sov. Jaakkola - Turpeinen): Jeesus armon soi (Tulus/Esa Jaakkola ja Anu Mäki-Latvala).
+
       - title: Aamuhartaus
         start_time: '2025-10-01T06:50:00+03:00'
         end_time: '2025-10-01T06:59:59+03:00'
         description: |
-          Kansanedustaja Inka Hopsu, Espoo
+          "Rauha on jokaisen asia"
+          Kansanedustaja Inka Hopsu Espoosta puhuu kansalaisvaikuttaja, ministeri Miina Sillanpäästä sekä avoimen kansalaisyhteiskunnan merkityksestä epävakaina aikoina.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-01T07:00:00+03:00'
         end_time: '2025-10-01T07:05:00+03:00'
@@ -164,6 +176,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-01T18:35:00+03:00'
         end_time: '2025-10-01T18:50:00+03:00'
+        description: |+
+          Kansansäv.: Isä nyt vie rakastamaan - Now go in peace (Jakaranda ja soitinyhtye/Pekka Nyman).
+
+          P. Nyman: Sanasi on meille leipää (Gospel Covertajat).
+
+          Tikka: Johanneksen kirje (Hannu Holma, baritoni, ja kamariyhtye).
+
+          Mason: Ylistän, Luoja, voimaasi (Raimo Laukka, baritoni, ja Pertti Eerola, urut).
+
       - title: Iltahartaus
         start_time: '2025-10-01T18:50:00+03:00'
         end_time: '2025-10-01T19:00:00+03:00'

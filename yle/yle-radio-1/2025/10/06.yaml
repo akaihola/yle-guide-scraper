@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:20.781735+00:00'
+  generated_at: '2025-09-23T02:30:19.703378+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-06T07:05:00+03:00'
         end_time: '2025-10-06T07:59:59+03:00'
+        description: |+
+          Mozart: Marssi oopp. Mithridates, Pontoksen kuningas (Norjan oopperan ork./Rinaldo Alessandrini).
+
+          Kapsperger: Toccata n:o 2 (Toccata arpeggiata) (Hank Heijink, teorbi).
+
+          Schubert: Morgengruss (Fritz Wunderlich, tenori, ja Hubert Giesen, piano). 
+
+          Brahms: Valssi nro 15 As-duuri (Jouko Harjanne, trumpetti, ja Juhani Lagerspetz, piano).
+
+          Händel: Sonaatti viululle ja continuolle G-duuri (Andrew Manze, viulu, ja Richard Egarr, cembalo). 
+
+          Engl. kansansävelmä (sov. S. Kanneh-Mason): Blow the wind southerly (Sheku Kanneh-Mason, sello).
+
+          Vierne: Impression d'automne (Sergio Monteiro, piano).
+
+          Delibes: Bacchuksen kulkue bal. Sylvia (Cincinnati Pops/Erich Kunzel).
+
+          Albeniz: Cadiz Espanjalaisesta sarjasta nro 1 (David Russell, kitara).
+
+          Piazzolla: Otono porteno (Syksy) (Izumi Tateno Trio).
+
+          Beethoven: Onnittelumenuetti (Tapiola Sinfonietta/John Storgårds).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-06T08:00:00+03:00'
         end_time: '2025-10-06T08:07:00+03:00'
@@ -132,17 +155,14 @@ data:
         end_time: '2025-10-06T19:02:00+03:00'
       - title: 'Tosi tarina: Kimppakoti'
         start_time: '2025-10-06T19:02:00+03:00'
-        end_time: '2025-10-06T19:50:00+03:00'
+        end_time: '2025-10-06T19:44:00+03:00'
         description: |
           Turun lähistöllä sijaitsevassa asumisyhteisössä asuu 12 ihmistä. Heistä jokaisella on vapaus olla oma itsensä omassa rauhassaan, mutta elämä jaetaan arjen askareissa niin ilossa kuin surussakin niin, ettei kenenkään tarvitse olla maailmassa yksin. Yhteisölliseen asumisen idylliin kävi tutustumassa toimittaja Riikka Rahi. (es. 5.11.2023)
       - title: Musiikkikamari
-        start_time: '2025-10-06T19:35:00+03:00'
+        start_time: '2025-10-06T19:44:00+03:00'
         end_time: '2025-10-06T20:05:00+03:00'
         description: |2+
 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-10-06T19:50:00+03:00'
-        end_time: '2025-10-06T20:05:00+03:00'
       - title: Ruben Stiller
         start_time: '2025-10-06T20:05:00+03:00'
         end_time: '2025-10-06T21:00:00+03:00'
@@ -159,9 +179,6 @@ data:
         end_time: '2025-10-06T22:24:30+03:00'
         description: |
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Kulttuurisarja
-        start_time: '2025-10-06T22:25:00+03:00'
-        end_time: '2025-10-06T22:44:30+03:00'
       - title: Näistä levyistä en luovu
         start_time: '2025-10-06T22:45:00+03:00'
         end_time: '2025-10-06T23:39:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:19.445837+00:00'
+  generated_at: '2025-09-23T02:30:18.077273+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-30T06:30:50+03:00'
         end_time: '2025-09-30T06:50:00+03:00'
+        description: |+
+          Mason: Nyt kulkee halki korpimaan (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Sormunen: Kysytkö palvelushintaa (Jukka Leppilampi, laulu ja kitara, sekä Jouko Kantola, piano).
+
+          Berthier: Leipä syö, viini juo - Eat this bread (Lauluyhtye, Mikko Iivanainen, sähkökitara, ja Tuomas Karjalainen, urut).
+
+          Kuula: Oi riemun rikkautta (SRK:n nuorten kuoro, ja Juha Soranta, urut).
+
       - title: Aamuhartaus
         start_time: '2025-09-30T06:50:00+03:00'
         end_time: '2025-09-30T06:59:59+03:00'
@@ -83,11 +92,39 @@ data:
         end_time: '2025-09-30T10:55:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Stravinsky ja sotilas, joka möi sielunsa paholaiselle'
         start_time: '2025-09-30T11:00:00+03:00'
         end_time: '2025-09-30T11:57:00+03:00'
         description: |-
+          Mitä tehdä kun on sota, rahat loppu ja perhe pitää elättää?
+          Igor Stravinsky ja kirjailija Charles-Ferdinand Ramuz kehittelivät  niukan ajan musiikkiteatteriesityksen, joka  soitetaan, kerrotaan ja tanssitaan. Syntyi Sotilaan tarina. Musiikki on sekoitus kaikenlaisista musiikkityyleistä, mutta Stravinskyn aivokopan läpi myllytettyä. Siis omanlaistaan. Mutta saako paha pirulainen palkkansa?
+
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Igor Stravinsky:
+
+          Ote baletista Petrouchka (Cincinnatin sinfoniaorkesteri/Paavo Järvi).
+
+          Ote balettisarjasta Pulcinella (Tapiola Sinfonietta/Masaaki Suzuki).
+
+          Epitafi, Hautakirjoitus (Melkorka Olafsdottir, huilu, Anna Turmeau, oboe, Gunnhildur Einarsdottir, harppu).
+
+          Sotilaan tarina, sarja klarinetille, fagotille, kornetille, pasuunalle, viululle, lyömäsoittimille ja kontrabassolle koreografisesta musiikkidraamasta
+          1. Sotilaan marssi 
+          2. Puron rannalla 
+          3. Pastoraali
+          4. Kuninkaallinen marssi
+          5. Pieni konsertti
+          6. Kolme tanssia 
+          7. Paholaisen tanssi
+          8. Koraali
+          9. Paholaisen voitonmarssi
+          (Reijo Koskinen, klarinetti, Jussi Särkkä, fagotti, Jouko Harjanne, kornetti, Teppo Alestalo, pasuuna, Tim Ferchen. lyömäsoittimet, Zoltan Takács, viulu, Jukka Nuuttila, kontrabasso, joht.Petri Sakari).
+
+          Kuulemme myös otteen Ylen Radioteatterin esityksestä vuodelta 1985.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-09-30T11:57:00+03:00'
         end_time: '2025-09-30T12:00:00+03:00'
@@ -173,6 +210,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-09-30T18:35:00+03:00'
         end_time: '2025-09-30T18:50:00+03:00'
+        description: |+
+          Maasalo: Tule kanssani, Herra Jeesus (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
+
+          J.S. Bach: Fantasia G-duuri (Kalevi Kiviniemi, urut).
+
+          Baloche: Juudan leijona (Maksetut viulut).
+
       - title: Iltahartaus
         start_time: '2025-09-30T18:50:00+03:00'
         end_time: '2025-09-30T19:00:00+03:00'
@@ -201,7 +245,7 @@ data:
           Asiantuntijat: Elina Reenkola, Antti Paakkari, Milka Hirvaskero, Nora Horn, Terhi Ketola-Huttunen, Tytti Shemeikka, Ruusu Haarla, Aino Vesikansa, Sami Pihlström.
       - title: 'Naisen kosto: Pimeä puoli'
         start_time: '2025-09-30T19:22:00+03:00'
-        end_time: '2025-09-30T19:45:00+03:00'
+        end_time: '2025-09-30T19:43:00+03:00'
         description: |-
           Naisen kosto yhdistelee komediaa ja asiantuntijanäkemystä yhteiskuntamme suuresta tabusta: naisen aggressiosta. Sarjan sankaritar Saila (Pirjo Heikkilä) tekee totaalisen elämänmuutoksen: hän hylkää lammasmaisen kiltteyden, alkaa tutkia omaa aggressiotaan sekä ennen kaikkea – hän alkaa tasoittaa tilejä. Karma is a bitch. Ja niin on Sailakin.
 

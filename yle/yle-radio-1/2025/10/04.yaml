@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:20.320570+00:00'
+  generated_at: '2025-09-23T02:30:18.993709+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-04T08:05:00+03:00'
         end_time: '2025-10-04T08:30:00+03:00'
+        description: |+
+          Tuntematon: Jumala kolmiyhteinen (Lumen Valo ja Markku Hietaharju, positiiviurut).
+
+          Hovland - Kajava: Kun luova tahto kaikkeuden Herran (Joose Vähäsöyrinki, laulu, ja Vesa Kajava, urut).
+
+          Koraalitoisinto (sov. Airas): Salli Jeesus, että saisin vilpittömän sydämen (Suden Aika).
+
+          Malotte: Isä meidän (Jorma Elorinne, baritoni, ja Tapio Tiitu, piano).
+
+          Knapp: Siunattu varmuus (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Krasnostovski: Kiitä, sieluni, Herraa (RKK/Peter Mirolybov).
+
       - title: Aamuhartaus
         start_time: '2025-10-04T08:30:00+03:00'
         end_time: '2025-10-04T08:40:00+03:00'
@@ -88,7 +101,7 @@ data:
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Freudilainen dreijaus'
         start_time: '2025-10-04T15:00:00+03:00'
-        end_time: '2025-10-04T15:20:00+03:00'
+        end_time: '2025-10-04T15:16:00+03:00'
         description: |-
           On aika ottaa laput pois silmiltä, korjata koko kansan vahvuudet kuntoon ja paljastaa totuus tämän maan nykytilasta. Tiina ja Jari Kärpänen käyvät henkilökohtaiseen taisteluun totuuden puolesta ja ovat valmiita käymään - journalismin keinoja kaihtamatta - kaikki ne taistelut arjen vääryyksiä vastaan, jotta muiden suomalaisten ei tarvitse. 
 
@@ -105,7 +118,7 @@ data:
           Äänittäjät: Vesa Meriläinen ja Mikko Mäkelä
           Tuottaja: Jonni Haasanen, Yle Draama 2024.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-10-04T15:20:00+03:00'
+        start_time: '2025-10-04T15:16:00+03:00'
         end_time: '2025-10-04T15:30:00+03:00'
       - title: Aristoteleen kantapää
         start_time: '2025-10-04T15:30:00+03:00'
@@ -143,14 +156,33 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-04T19:00:00+03:00'
         end_time: '2025-10-04T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Joensuun kaupunginorkesterin konsertti: Rakkauden vuodenajat'
         start_time: '2025-10-04T19:02:00+03:00'
         end_time: '2025-10-04T21:00:00+03:00'
+        description: |-
+          Joensuun kaupunginorkesterin residenssitaiteilijana keväällä 2025 aloittanut Outi Tarkiainen kertoo teoksestaan The Seasons of Love:
+
+          "Klarinettikvintetto The Seasons of Love juhlii rakkauden voimaa, joka muuttuu elämän vuodenaikojen mukana. Olen omistanut sen elämäni rakkaudelle, aviopuolisolleni ja lasteni isälle Lauri Salliselle. The Seasons of Love on samalla eräänlainen muotokuva juuri hänestä – elämän eri aikoina, menneinä ja tulevina – klarinetistina ja miehenä; sellaisena, jona häntä rakastan."
+
+          Joensuun kaupunginorkesterin konsertissa Tarkaisen teoksen solistina soittaa hänen aviopuolisonsa Lauri Sallinen. 2.10. Joensuun Carealia-salissa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Ohjelma ja esiintyjät:
+
+          Jukka Untamala, kapellimestari
+          Lauri Sallinen, klarinetti
+          Joensuun kaupunginorkesteri
+
+          Felix Mendelssohn: Die Schöne Melusine, op. 32
+          Outi Tarkiainen: The Seasons of Love, klarinetille ja jousille
+          Felix Mendelssohn: Sinfonia nro 4, op. 90 A‑duuri “Italialainen”
       - title: Uutispodcast
         start_time: '2025-10-04T21:00:30+03:00'
         end_time: '2025-10-04T21:26:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-10-04T21:26:00+03:00'
+        end_time: '2025-10-04T21:50:00+03:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-04T21:27:00+03:00'
         end_time: '2025-10-04T21:52:00+03:00'

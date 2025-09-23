@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:19.899201+00:00'
+  generated_at: '2025-09-23T02:30:18.577370+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -15,11 +15,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-02T06:30:50+03:00'
         end_time: '2025-10-02T06:50:00+03:00'
+        description: |+
+          Brahms: Ave maria (Radion lapsikuoro/Heinz Hofmann ja Tapio Tiitu).
+
+          Voipio: Ken on luonut sinitaivaan (Risto Lauriala, piano).
+
+          Koraalitoisinto: Kun Herra hoitaa, paimentaa (SRK:n nuorten kuoro/Matias Lahti).
+
+          V. Viitasalo: Muista joka päivä (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola).
+
+          Bradbury: Jeesus meitä rakastaa (Merja Wirkkala, sopraano, ja Gustav Djupsjöbacka, piano).
+
       - title: Aamuhartaus
         start_time: '2025-10-02T06:50:00+03:00'
         end_time: '2025-10-02T06:59:59+03:00'
         description: |
-          Johtava sairaalapastori Artturi Kivineva, Seinäjoki
+          "Tämä hetki ja ikuisuus"
+          Sairaalasielunhoito alkoi suomalaisissa sairaaloissa sata vuotta sitten. Johtava sairaalapastori Artturi Kivineva Seinäjoelta kuvaa hartaudessaan kuinka ikuisuus ja tämä hetki kohtaavat sairaalassa arkisissa asioissa.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-02T07:00:00+03:00'
         end_time: '2025-10-02T07:05:00+03:00'
@@ -148,6 +160,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-02T18:35:00+03:00'
         end_time: '2025-10-02T18:50:00+03:00'
+        description: |+
+          Keskiaikainen hymni: Isämme, kiitos päivästä (Cetus Noster).
+
+          Koraalitoisinto: Annoit, Herra, tehtävän (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Tallis: In jejunio et fletu (Theatre of Voices/Paul Hillier).
+
+          Tuntematon: Jeesus sanoi omillensa (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
       - title: Iltahartaus
         start_time: '2025-10-02T18:50:00+03:00'
         end_time: '2025-10-02T19:00:00+03:00'

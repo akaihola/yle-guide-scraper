@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:21.445647+00:00'
+  generated_at: '2025-09-23T02:30:20.472422+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-09T07:05:00+03:00'
         end_time: '2025-10-09T07:59:59+03:00'
+        description: |+
+          Dowland: His golden locks (Drew Minter, kontratenori, ja Jacob Herringman, luuttu).
+
+          C.Ph.E. Bach: Allegro sonaatista huilulle ja continuolle G-duuri (Leta Miller, huilu, Linda Burman-Hall, cembalo, ja Roland Hutchinson, viola da gamba).
+
+          Pacius: Alkusoitto Es-duuri (RSO/Jukka-Pekka Saraste).
+
+          O. Lindberg: Morgonen (Aamu) (Ruotsin radiokuoron ja Eric Ericsonin kamarikuoron naislaulajat/Gustaf Sjökvist, sekä Maria Wieslander, piano).
+
+          Weber: Alkusoitto oopp. Abu Hassan (Alexander Paley ja Brian Zeger, piano).
+
+          Hoffstetter: Andante cantabile (Orpheus-kamariork.). 
+
+          Paisiello: Andante (Sören Hermansson, käyrätorvi, ja Erica Goodman, harppu).
+
+          Debussy: Kiitokseksi aamusateesta (Noriko Ogawa, piano).
+
+          Dvorak: Allegro appassionato sarjasta Romanttisia kappaleita op.75 (Isaac Stern, viulu, ja Robert McDonald, piano).
+
+          Saint-Saëns: Romanssi Des-duuri (James Galway, huilu, ja Phillip Moll, piano).
+
+          O. Merikanto: Merikanto-potpuri (Toselli-orkesteri).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-09T08:00:00+03:00'
         end_time: '2025-10-09T08:07:00+03:00'

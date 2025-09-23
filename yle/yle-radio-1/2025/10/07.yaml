@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:21.011767+00:00'
+  generated_at: '2025-09-23T02:30:19.925480+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-07T07:05:00+03:00'
         end_time: '2025-10-07T07:59:59+03:00'
+        description: |+
+          Aagesen: Kolme madrigaalia lauluäänille ja continuolle (Cantus Cölln/Konrad Junghänel). 
+
+          Vivaldi: Allegro konsertosta D-duuri (Tikli) (Maurice Steger, nokkahuilu, ja I Barocchisti/Diego Fasolis).
+
+          J.S. Bach: Aaria Goldberg-muunnelmista (Mika Suihkonen, viola da gamba, ja Johannes Vesterinen, urut).  
+
+          Grieg (sov. Wirth): Rigaudon sarj. Holbergin ajoilta (Quatuor Habanera). 
+
+          Chopin: Preludi n:o 15 Des-duuri "Sadepisara" (Murray Perahia, piano).
+
+          Hensel: Andante espressivo pianotriosta d-molli (Ambache-kamariyhtye).
+
+          Howard: Dappled light (Jess Gillam, sopraanosaksofoni, ja yhtye).
+
+          Fauré: Papillon (Perhonen)  (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
+
+          Respighi: Valle Giulian suihkulähde aamunkoitteessa sinf. runosta Rooman suihkulähteitä (Chicagon SO/Fritz Reiner).
+
+          de Falla: Myllärin tanssi bal. Kolmikolkkahattu (Petri Kumela ja Joonas Widenius, kitara).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-07T08:00:00+03:00'
         end_time: '2025-10-07T08:07:00+03:00'

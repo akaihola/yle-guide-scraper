@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-22T02:34:23.420880+00:00'
+  generated_at: '2025-09-23T02:30:22.466977+00:00'
   git:
     branch: main
-    commit: 719e74a27dcf0eedb29de9161c204962626f1b3c
-  data_hash: ee8a3f1d78df845ced5ee353c6ae7c67e1f66b77db4425cd796ab9879570a738
+    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
+  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
 data:
   Yle Radio 1:
     programmes:
@@ -48,11 +48,11 @@ data:
         end_time: '2025-10-18T10:55:00+03:00'
         description: |-
           Mitä tapahtuu, kun katsomme pintaa syvemmälle? Tässä jaksossa sukellamme queer-kulttuurin unohdettuun historiaan, sen säröihin, salaisuuksiin ja syihin, miksi niin moni tarina on jäänyt varjoihin. Miksi sateenkaariyhteisön historiaa on piilotettu, ja kuka päättää, mitä muistetaan?
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Hangon sotilasleiri'
         start_time: '2025-10-18T11:00:00+03:00'
         end_time: '2025-10-18T11:52:00+03:00'
         description: |
-          Tarinoita talouden myllerryksistä.
+          Saksalaisten sotilasleiri Hangossa -haastateltavana Jan Fast
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-18T11:57:00+03:00'
         end_time: '2025-10-18T12:00:00+03:00'
@@ -79,7 +79,7 @@ data:
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
       - title: 'Radioteatteri esittää: Kallion kimppa osa 2/8'
         start_time: '2025-10-18T15:00:00+03:00'
-        end_time: '2025-10-18T15:25:00+03:00'
+        end_time: '2025-10-18T15:14:00+03:00'
         description: |+
           Kallio on paikka, jossa epätodennäköiset kohtaamiset ovat todennäköisiä.
           Sen monimuotoinen mikrokosmos luo arkeen kiihkoa ja tunnetta, mutta myös eheytymistä ja ymmärrystä.
@@ -102,7 +102,7 @@ data:
           Tuotanto - Pekka Savolainen / Yle Draama 2022.
 
       - title: Yksi on hyvää seuraa
-        start_time: '2025-10-18T15:25:00+03:00'
+        start_time: '2025-10-18T15:14:00+03:00'
         end_time: '2025-10-18T15:30:00+03:00'
       - title: Aristoteleen kantapää
         start_time: '2025-10-18T15:30:00+03:00'
@@ -120,7 +120,10 @@ data:
         end_time: '2025-10-18T17:00:00+03:00'
       - title: 'Marko Gustafsson: Vieraana koreografi Alpo Aaltokoski'
         start_time: '2025-10-18T17:00:00+03:00'
-        end_time: '2025-10-18T17:53:00+03:00'
+        end_time: '2025-10-18T17:50:00+03:00'
+        description: |
+          Alpo Aaltokoski on pitkän tanssija- ja koreografiuransa aikana tehnyt paljon töitä myös syrjäytyneiden nuorten ja pakolaisten parissa. Unelmien todellisen tärkeyden tajuaa silloin, kun kohtaa ihmisen, joka ei osaa enää unelmoida.  
+           
       - title: 'Ehtookellot: Turun Ylösnousemuskappelin kellot'
         start_time: '2025-10-18T18:00:00+03:00'
         end_time: '2025-10-18T18:01:00+03:00'
@@ -145,9 +148,9 @@ data:
         end_time: '2025-10-18T21:26:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2025-10-18T21:27:00+03:00'
-        end_time: '2025-10-18T21:52:00+03:00'
+        end_time: '2025-10-18T21:50:00+03:00'
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-18T22:00:30+03:00'
         end_time: '2025-10-18T22:20:00+03:00'
