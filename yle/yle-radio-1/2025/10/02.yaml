@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-23T02:30:18.577370+00:00'
+  generated_at: '2025-09-24T02:31:13.751454+00:00'
   git:
     branch: main
-    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
-  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
+    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
+  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
 data:
   Yle Radio 1:
     programmes:
@@ -180,7 +180,9 @@ data:
         end_time: '2025-10-02T19:02:00+03:00'
       - title: Etnokonsertteja
         start_time: '2025-10-02T19:02:00+03:00'
-        end_time: '2025-10-02T21:00:00+03:00'
+        end_time: '2025-10-02T20:30:00+03:00'
+        description: |
+          Miltä kuulostaa flamenco, kun sen juurille palaa yksi lajinsa suurimmista? Miguel Poveda tulkitsee Federico García Lorcan runoja yhdessä kitaristi Jesús Guerreron, perkussionisti Paquito Gonzalesin ja tanssija Sonia Povedan kanssa. Konsertti vie kuulijan Andalusian romanien ja flamencolaulun, cante jondon, ytimeen. Konsertti on äänitetty Espoon April Jazzissa 26.4.2025. Toimittajana on Miika Lauriala. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-02T21:00:00+03:00'
         end_time: '2025-10-02T21:05:00+03:00'

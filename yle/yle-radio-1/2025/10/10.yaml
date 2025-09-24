@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-23T02:30:20.680634+00:00'
+  generated_at: '2025-09-24T02:31:17.500176+00:00'
   git:
     branch: main
-    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
-  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
+    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
+  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-10T07:05:00+03:00'
         end_time: '2025-10-10T07:59:59+03:00'
+        description: |+
+          Pujol: Tonadilla (David Russell, kitara).
+
+          Schubert: Allegro molto sonatiinista viululle ja pianolle n:o 1 D-duuri (Zefira Valova ja Aapo Häkkinen).
+
+          Rautavaara: Laulu oravasta sarj. Halavan himmeän alla (RKK/Timo Nuoranne).
+
+          Cairos-Rego: Valssi E-duuri (Jeanell Carrigan, piano).
+
+          Gardel (sov. Halasz): Mi Buenos Aires querido (Franz Halasz, kitara).
+
+          Sarasate: Habanera (Midori, viulu ja Robert McDonald, piano).
+
+          Ravel: Pavane pour une infante defunte (Minnesotan ork./Eiji Oue).
+
+          Brahms: Finaali triosta Es-duuri (Sukjun Lee, Hojin Jung, ja Sujin Park).
+
+          Kreutzer: Alla polacca triosta A-duuri (Alexa Still, huilu, Robert Alemany, klarinetti, ja JoAnn Falletta, kitara).
+
+          Joyce: Songe d'automne (Syysunelma) (The New London Orchestra/Donald Corp).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-10T08:00:00+03:00'
         end_time: '2025-10-10T08:07:00+03:00'
@@ -114,6 +135,8 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-10-10T19:02:00+03:00'
         end_time: '2025-10-10T21:00:00+03:00'
+        description: |
+          Elim Chan, kapellimestari, Nikita Boriso-Glebsky, viulu. - John Adams: The Chairman Dances. Sauli Zinovjev: World Bearer, viulukonsertto nro 2, kantaesitys (Ylen tilaus). Sofia Gubaidulina: Saturunoelma. John Adams: Doctor Atomic Symphony. Suoran lähetyksen Musiikkitalosta toimittaa Riikka Holopainen
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-10T21:00:00+03:00'
         end_time: '2025-10-10T21:05:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-23T02:30:18.292219+00:00'
+  generated_at: '2025-09-24T02:31:13.465672+00:00'
   git:
     branch: main
-    commit: 4fa043940fe98c4b006ec88b13698f0e5d52478c
-  data_hash: 16820973ae1809f2129436846b8f3f6e155671d8f667880b2231ed929b482d88
+    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
+  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
 data:
   Yle Radio 1:
     programmes:
@@ -120,11 +120,17 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-10-01T13:30:00+03:00'
         end_time: '2025-10-01T15:00:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: Tulta syöksevä lohikäärme on irti ーPalava maa-dokumentti näyttää suomalaiset Portugalin maastopaloja suitsimassa
         start_time: '2025-10-01T15:00:00+03:00'
         end_time: '2025-10-01T15:55:00+03:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Elokuvaohjaaja John Websterin uutuusdokumentti vie meidät keskelle Etelä-Euroopan liekehtiviä metsiä, missä suomalaiset pelastajat kohtaavat Portugalin tuhoisat maastopalot vuosina 2023 ja 2024. Palava maa kertoo Kymenlaakson, Etelä-Karjalan, Pohjois-Karjalan, Etelä-Savon ja Pohjois-Savon pelastuslaitosten sekä Nurmeksen sopimuspalokunnan ammattilaisten ja vapaaehtoisten matkasta, jossa suomalaiset taistelevat yhdessä portugalilaisten pelastajien kanssa tulta vastaan.
+
+          Dokumentti tarjoaa intensiivisen, dramaattisen ja realistisen näkymän pelastustyöhön, jossa tulipalo näyttäytyy Portugalissa lähes myyttisenä vastustajana – lohikäärmeenä, jolla on oma tahto ja arvaamaton luonne. Elokuvassa korostuvat paitsi luonnonvoimien arvaamattomuus, myös pelastajien vahva yhteisöllisyys, solidaarisuus ja kansainvälinen yhteistyö, jotka ovat avainasemassa äärimmäisissä olosuhteissa.
+
+          Haastateltavana ovat ohjaaja John Webster, Etelä-Karjalan pelastuslaitoksen pelastusjohtaja Jani Kareinen ja Keski-Suomen pelastuslaitoksen itäisen toiminta-alueen aluepalomestari Mika Siitonen.
+
+          Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
         start_time: '2025-10-01T15:55:00+03:00'
         end_time: '2025-10-01T15:58:00+03:00'
@@ -197,6 +203,8 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-10-01T19:02:00+03:00'
         end_time: '2025-10-01T21:00:00+03:00'
+        description: |-
+          Dima Slobodeniouk, kapellimestari, Olli Mustonen, piano. - Alban Berg (sov. Theo Verbey): Pianosonaatti op. 1. Magnus Lindberg: Pianokonsertto nro 3, Suomen ensiesitys. Sergei Prokofjev: Sinfonia nro 6 es-molli op. 111. Suoran lähetyksen Musiikkitalosta toimittaa Riikka Holopainen
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-01T21:00:00+03:00'
         end_time: '2025-10-01T21:05:00+03:00'
