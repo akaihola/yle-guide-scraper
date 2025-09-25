@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-24T02:31:14.576205+00:00'
+  generated_at: '2025-09-25T02:32:32.993454+00:00'
   git:
     branch: main
-    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
-  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
+    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
+  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
 data:
   Yle Radio 1:
     programmes:
@@ -65,19 +65,26 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-03T09:04:00+03:00'
         end_time: '2025-10-03T09:59:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Valkoisen miehen katse'
         start_time: '2025-10-03T10:00:00+03:00'
         end_time: '2025-10-03T10:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Millainen on valkoisen miehen rodullistava katse?
+
+          Onko Ruben Stiller rodullistavan valtakoneiston sätkynukke, joka ei itse tajua omaa valta-asemaansa?
+
+          Puhetta valkoisesta valtarakenteesta , rodullistamisesta ja identiteettipolitiikan mielekkyydestä.
+
+          Vieraina Uuden Jutun toimittaja Oskari Onninen ja Valokuvataiteen museon kuraattori, filosofi Päiviö Omwami.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-03T10:55:00+03:00'
         end_time: '2025-10-03T11:00:00+03:00'
-      - title: Narrin aamulaulu - Dietrich Fischer-Dieskau, mestarilaulajan vuosisata
+      - title: Narrin aamulaulun huolituolissa vieraana Jorma Hynninen
         start_time: '2025-10-03T11:00:00+03:00'
         end_time: '2025-10-03T11:55:00+03:00'
-        description: |
-          7 kertaa Schubertin Winterreise ja 400 muuta levytystä. Suuren saksalaislaulajan (1925-2012) elämää valottaa Outi Paananen.
+        description: |-
+          Onko laulutaito katoavaa kansanperinnettä? Vaivaako suomalaisen laulun kenttää sama ongelma kuin suomalaista yleisurheilua? Entä miksi pyrkiä ammattilaiseksi, jos töitä ei ole? 
+          Aiheesta keskustelevat Jorma Hynninen ja Outi Paananen. 
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-03T11:57:00+03:00'
         end_time: '2025-10-03T12:00:00+03:00'

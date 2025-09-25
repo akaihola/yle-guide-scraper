@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-24T02:31:12.501762+00:00'
+  generated_at: '2025-09-25T02:32:32.094014+00:00'
   git:
     branch: main
-    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
-  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
+    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
+  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
 data:
   Yle Radio 1:
     programmes:
@@ -130,24 +130,31 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-29T12:00:00+03:00'
         end_time: '2025-09-29T12:05:00+03:00'
-      - title: Elävä historia
+      - title: Elävä historia:Passin historia - Kun yhdet saivat liikkua vapaasti, piti toisia valvoa tiukemmin
         start_time: '2025-09-29T12:05:00+03:00'
         end_time: '2025-09-29T12:55:00+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |-
+          Varhaisia ulkomaanpasseja kirjoitettiin lähinnä säätyläisille, sillä rahvaalla oli harvoin asiaa ulkomaille. Vielä 1800-luvun Suomessa myös maan sisäisillä matkoilla tarvittiin liikkumislupa. Asiantuntijat: prof. Asko Lehmuskallio, Tampereen yliopisto, väitöstutkija Paula Haara Tampereen yliopisto. Toimittaja: Liisa Vihmanen. Äänisuunnittelija: Laura Koso. Arkistotoimittaja: Outi Kortelainen
       - title: Politiikkaradio
         start_time: '2025-09-29T13:00:00+03:00'
         end_time: '2025-09-29T13:30:00+03:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-29T13:30:00+03:00'
         end_time: '2025-09-29T15:00:00+03:00'
-        description: |2+
-
-
+        description: |-
+          Radio 1:n iltapäivässä soi monipuolinen musiikki kevyestä jazzista populaarimusiikin helmiin ja etnoon. Juontajana Jarmo Laitaneva. N. klo 14 studiovieaana Oneviolin -taiteilijanimellä esiintyvä viuluvirtuoosi Pekka Niemi. 
       - title: Kulttuuriykkönen
         start_time: '2025-09-29T15:00:00+03:00'
         end_time: '2025-09-29T15:55:00+03:00'
         description: |
+          Espanja myyttien takaa-näyttely Sinebrychoffin taidemuseossa, avaa kuuluisien, espanjalaisten kuvataiteilijoiden, kuten Pablo Picasson ja Francisco de Goyan maisemia ja tyyliä. Välimeren valo kiehtoi taiteilijoita kaikkialta Euroopasta jo 1700-luvulla. Valenciassa ja Kataloniassa kehittyi suuntauksia, joissa tutkittiin valon merkitystä. Yksi tämän näyttelyn teemoista on Espanjan vahvan kulttuuri-identiteetin tutkiminen teosten kautta. Millaisia eksoottisuutta korostavia aiheita taiteilijat suosivat? Millä tavalla kuvataiteesta ja elokuvistakin tuttu myytti espanjattaresta on syntynyt?
+
+          Tänään kuvataiteilija Marika Mäkelä inspiroituu Espanjasta. Hänen värikkäät ja mausteiset teoksensa ovat syntyneet Espanjan auringon alla ja ovat nyt esillä Galerie Forsblomissa, Helsingissä. Mitä Espanja on tuonut hänen sisäiseen maailmaansa ja maalauskankaalle?
+
+          Ohjelman vieraina ovat kuvataiteilija Marika Mäkelä ja intendentti Salla Heino.
+
+          Ohjelman juontaa Pia-Maria Lehtola
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-09-29T15:55:00+03:00'
@@ -160,33 +167,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-09-29T16:07:00+03:00'
         end_time: '2025-09-29T16:59:00+03:00'
-        description: |-
-          Weber: Alkusoitto oopp. Abu Hassan (Alexander Paley ja Brian Zeger, piano).
+        description: |
+          Weber: Alkusoitto (Alla turca) oopp. Abu Hassan (Alexander Paley ja Brian Zeger, piano).
 
           Brahms: Andante jousikvartetosta n:o 3 B-duuri (Emerson-kvartetti).
 
-          Rebel: Trop faible Ismene, helas! -aaria oopp. Ballet de la paix (Juliette Perret, sopraano, ja Les Surprises/Juliette Guignard). 
+          Rebel: Aaria "Trop faible Ismene, helas!" oopp. Ballet de la paix (Juliette Perret, sopraano, ja Les Surprises/Juliette Guignard). 
 
           Moreno Torroba: Kyläjuhla sarj. Estampas neljälle kitaralle (EMO-kitarakvartetti).
 
           V. Aulin: Scène de bal sarj. Pariisilaisia kuvia (Göteborgin SO/Johannes Gustavsson).
 
-          Schubert: Paimenten kuoro näyt. Rosamunde (Leipzigin radiokuoro ja Gewandhaus-ork./Kurt Masur).
+          Schubert: Paimenten kuoro "Hier auf den Fluren" näyt. Rosamunde (Leipzigin radiokuoro ja Gewandhaus-ork./Kurt Masur).
 
           Chopin: Valssi n:o 2 As-duuri (Jevgeni Kisin, piano).
 
-          Madetoja: Valssi Pastoraalisarjasta (Oulu Sinfonia/Arvo Volmer).
+          Madetoja: Valssi teoks. Pastoraalisarja (Oulu Sinfonia/Arvo Volmer).
 
           Sarasate: Jota Navarra, espanjalainen tanssi (Julia Fischer, viulu, ja Milana Tshernjavskaja, piano). 
 
-          W.A. Mozart: Leporellon luetteloaaria oopp. Don Giovanni (Bryn Terfel ja Metropolitan-oopperan ork./James Levine).
+          W.A. Mozart: Leporellon luetteloaaria "Madamina, il catalogo è questo" oopp. Don Giovanni (Bryn Terfel, baritoni, ja Metropolitan-oopperan ork./James Levine).
 
-          Debussy: Kuutamo (Detroitin SO/Neeme Järvi).
+          Debussy: Clair de lune (Kuutamo) (Detroitin SO/Neeme Järvi).
       - title: Uutispodcast
         start_time: '2025-09-29T17:00:00+03:00'
         end_time: '2025-09-29T17:20:00+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Kaikki eivät ole yhdenvertaisia lain edessä. Tällainen kuva piirtyy, kun lukee tutkivan toimittajan Paavo Teittisen uutuskirjan, modernia orjuutta käsittelevän Pitkä vuoro -teoksen. Teittinen on jo vuosia tutkinut Helsingin Sanomissa ulkomaalaisen työvoiman hyväksikäyttöä. Millaista on moderni orjuus Suomessa? Teittistä haastattelee Atte Uusinoka. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-29T17:20:00+03:00'
         end_time: '2025-09-29T17:35:00+03:00'
@@ -215,7 +222,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-09-29T19:00:00+03:00'
         end_time: '2025-09-29T19:02:00+03:00'
-      - title: 'Tosi tarina: Omaa napaa etsimässä'
+      - title: 'Tosi tarina: Omaa pohjoisnapaa etsimässä'
         start_time: '2025-09-29T19:02:00+03:00'
         end_time: '2025-09-29T19:53:00+03:00'
         description: |
@@ -223,11 +230,17 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-29T19:53:00+03:00'
         end_time: '2025-09-29T20:05:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Kymmenen oppia sodasta'
         start_time: '2025-09-29T20:05:00+03:00'
         end_time: '2025-09-29T21:00:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Studiossa vieraana sotatieteiden dosentti, tutkija Ilmari Käihkö.
+
+          Millaisia ajatusharhoja Venäjän ja Ukrainan välinen sota synnytti Suomessa? Miten määritellään sodan voitto ja häviö?
+
+          Käihkön kirja ”Kymmenen  oppia sodasta” analysoi Venäjän ja Ukrainan välisen sodan synnyttämiä ajatusharhoja ja tabuja.
+
+          Suosittelemme kirjaa kaikille sohvalla makaaville maallikoille, jotka luulevat tietävänsä kaiken sodasta ja sotimisesta. Myös lippua liehuttavien asiantuntijoiden kannattaa ottaa oppia kirjan kirkkaasta analyysistä.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-29T21:00:00+03:00'
         end_time: '2025-09-29T21:05:00+03:00'

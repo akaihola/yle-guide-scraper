@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-24T02:31:20.824031+00:00'
+  generated_at: '2025-09-25T02:32:36.194657+00:00'
   git:
     branch: main
-    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
-  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
+    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
+  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
 data:
   Yle Radio 1:
     programmes:
@@ -19,7 +19,8 @@ data:
         start_time: '2025-10-16T06:50:00+03:00'
         end_time: '2025-10-16T06:59:59+03:00'
         description: |
-          Johtava sairaalapastori Artturi Kivineva, Seinäjoki
+          "Mistä ahdistus kertoo?"
+          Johtava sairaalapastori Artturi Kivineva Seinäjoelta puhuu ahdistuksesta sekä tämän kantamista merkityksistä medikalisoituneen kulttuurin keskellä.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-16T07:00:00+03:00'
         end_time: '2025-10-16T07:05:00+03:00'

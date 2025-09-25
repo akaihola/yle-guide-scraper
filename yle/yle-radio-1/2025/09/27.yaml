@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-24T02:31:07.342468+00:00'
+  generated_at: '2025-09-25T02:32:31.589105+00:00'
   git:
     branch: main
-    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
-  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
+    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
+  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
 data:
   Yle Radio 1:
     programmes:
@@ -69,10 +69,10 @@ data:
         description: |
           "Jumala haluaa olla sinun kanssasi"
           Nuorisopastori Joni Siimes, Vapaakirkko, Rauma kertoo Raamatuntekstien avulla Jumalan haluavan olla ihmisen lähellä. 
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Sari Puumalaiselle hyvä ruoka on rakkauden teko'
         start_time: '2025-09-27T08:40:00+03:00'
         end_time: '2025-09-27T09:00:00+03:00'
-        description: |-
+        description: |
           Sari Puumalaiselle hyvä ruoka on rakkauden teko. Toimittajana Maija Salminen. 
       - title: Yle Uutiset ja sää
         start_time: '2025-09-27T09:00:00+03:00'
@@ -102,6 +102,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-09-27T10:05:00+03:00'
         end_time: '2025-09-27T10:45:00+03:00'
+        description: |-
+          Venäjä kiihdyttää iskujaan Ukrainassa ja härnää länttä. Mistä kaikesta Suomessa tingitään, jotta armeija saa lisämiljardinsa? Ykkösaamussa entinen puolustusministeri, keskustan puheenjohtaja Antti Kaikkonen. Pirjo Auvinen haastattelee.
       - title: Rytmikamari
         start_time: '2025-09-27T10:45:00+03:00'
         end_time: '2025-09-27T11:00:00+03:00'
@@ -138,16 +140,22 @@ data:
         end_time: '2025-09-27T13:55:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Kymmenen oppia sodasta'
         start_time: '2025-09-27T14:00:00+03:00'
         end_time: '2025-09-27T14:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-      - title: Ykköskolumni
+        description: |
+          Studiossa vieraana sotatieteiden dosentti, tutkija Ilmari Käihkö.
+
+          Millaisia ajatusharhoja Venäjän ja Ukrainan välinen sota synnytti Suomessa? Miten määritellään sodan voitto ja häviö?
+
+          Käihkön kirja ”Kymmenen  oppia sodasta” analysoi Venäjän ja Ukrainan välisen sodan synnyttämiä ajatusharhoja ja tabuja.
+
+          Suosittelemme kirjaa kaikille sohvalla makaaville maallikoille, jotka luulevat tietävänsä kaiken sodasta ja sotimisesta. Myös lippua liehuttavien asiantuntijoiden kannattaa ottaa oppia kirjan kirkkaasta analyysistä.
+      - title: 'Ykköskolumni: Kun vanha arvokiinteistö myydään, kyse ei ole vain seinistä – rakennuksella on myös tarina'
         start_time: '2025-09-27T14:55:00+03:00'
         end_time: '2025-09-27T15:00:00+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Valtio haluaa eroon arvorakennuksista, mutta kiinteistökauppojen mukana voi kadota osa suomalaista kulttuurihistoriaa, yliopistotutkija Mona Mannevuo pohtii.
       - title: 'Radioteatteri esittää: Taistelevat Kärpäset - Liian vapaa sanajärjestys'
         start_time: '2025-09-27T15:00:00+03:00'
         end_time: '2025-09-27T15:16:00+03:00'
@@ -237,19 +245,21 @@ data:
         description: |-
           Ludwig van Beethovenin Fidelio op. 72, kaksinäytöksinen ooppera. Libretto: Joseph von Sonnleithner. Alexander Soddy, kapellimestari. Lontoon kuninkaallisen oopperan orkesteri ja kuoro. 
           - Rooleissa: Leonore - Jennifer Davis, sopraano. Florestan - Eric Cutler, tenori. Rocco - Peter Rose, basso. Marzelline - Christina Gansch, sopraano. Jaquino - Michael Gibson, tenori. Pizarro - Jochen Schmeckenbecher, baritoni. Don Fernando - Phillip Rhodes, baritoni. 1. vanki - Siphe Kwani, baritoni. 2. vanki - Eugene Dillon-Hooper, basso. - Äänitetty Lontoon Covent Gardenissa 23.10.2024. Illan kuluessa oopperalaulajat Mari Palo ja Matti Turunen keskustelevat Risto Nordellin kanssa teoksesta ja sen esityksestä.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Sari Puumalaiselle hyvä ruoka on rakkauden teko'
         start_time: '2025-09-27T22:00:30+03:00'
         end_time: '2025-09-27T22:20:00+03:00'
+        description: |
+          Sari Puumalaiselle hyvä ruoka on rakkauden teko. Toimittajana Maija Salminen. 
       - title: 'Kielen päällä: Sienten nimien alkuperästä'
         start_time: '2025-09-27T22:20:30+03:00'
         end_time: '2025-09-27T22:30:00+03:00'
         description: |
           Mistä sienten nimet ovat peräisin, voiko nimistä päätellä mihin ryhmään ne kuuluvat? Voiko sienen nimi olla harhaanjohtava. Kielenhuoltaja Riitta Hyvärinen on Jari Aulan haastateltavana. Ohjelma on uusinta syyskuulta 2023.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Ken mäntyyn kurkottaa, voi yltää latvaan asti'
         start_time: '2025-09-27T22:30:30+03:00'
         end_time: '2025-09-27T23:29:30+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Uutuuksien jakso alkaa vahvojen kotimaisten naistekijöiden tuotannolla. Aili Järvelän uutuuslevy Vuori osoittaa, kuinka korkealle voi yltää kun on taitoa ja kunnianhimoa. Debytantti Sanna Sällinen liikkuu sulavasti etnon ja jazzin molemmin puolin. Ida Elina svengaa tapansa mukaan loistokkaasti. Anna Dantchev omisti albuminsa kiitollisuudelle. Kuulemme uutuuksia myös Ruotsista, Bosniasta, Espanjasta, Kreikasta, Korsikalta, Sisiliasta ja Pohjois-Amerikasta. Toimittajana Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2025-09-27T23:40:00+03:00'
         end_time: '2025-09-28T07:00:00+03:00'

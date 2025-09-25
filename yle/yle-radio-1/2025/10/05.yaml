@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-24T02:31:15.142406+00:00'
+  generated_at: '2025-09-25T02:32:33.510698+00:00'
   git:
     branch: main
-    commit: d4b2319796ade4b803aea1ae8b4988a97c29e4d1
-  data_hash: 707039eef8f6b90442bbfc833cb80534d4d309aebcb39739758cf888b3267b1d
+    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
+  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
 data:
   Yle Radio 1:
     programmes:
@@ -48,14 +48,30 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-05T11:00:00+03:00'
         end_time: '2025-10-05T11:59:00+03:00'
+        description: |-
+          Arlen: Stormy weather (Kay Starr).
+          Kärki: Sade ruutuun soittaa (Tamara Hramova).
+          Kansanlaulu: En gång i vårt sommarland (Gunnar Wiklund).
+          Nikolajev: Laivat (Rauli 'Badding' Somerjoki).
+          Bolan: Il faut trouver son coin de ciel (Sylvie Vartan).
+          Bouwens: Una paloma blanca (George Baker Selection).
+          Carpenter: Käy luonain eilinen (Katri Helena).
+          Russell/Bramlett: Superstar (Carpenters).
+          Lyra/Boscoli: Se e tarde me pardoa (Forgive me if I'm late) (Quincy Jones).
+          Styne: Diamonds are a girl's best friend  (Julie London).
+          Kern: All the things you are (Harmony Sisters).
+          Gardel: El dia que me quieras (Carlos Gardel).
+          Strok: Mustat silmät (Eugen Malmsten).
+          E. Malmsten: Sä muistatko metsätien (Freija-yhtye).
+          Kansansäv.: Emigrantvisa (Jan Johansson).
       - title: Yle Uutiset ja sää
         start_time: '2025-10-05T12:00:00+03:00'
         end_time: '2025-10-05T12:05:00+03:00'
-      - title: Elävä historia
+      - title: Elävä historia:Passin historia - Kun yhdet saivat liikkua vapaasti, piti toisia valvoa tiukemmin
         start_time: '2025-10-05T12:05:00+03:00'
         end_time: '2025-10-05T12:55:00+03:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |-
+          Varhaisia ulkomaanpasseja kirjoitettiin lähinnä säätyläisille, sillä rahvaalla oli harvoin asiaa ulkomaille. Vielä 1800-luvun Suomessa myös maan sisäisillä matkoilla tarvittiin liikkumislupa. Asiantuntijat: prof. Asko Lehmuskallio, Tampereen yliopisto, väitöstutkija Paula Haara Tampereen yliopisto. Toimittaja: Liisa Vihmanen. Äänisuunnittelija: Laura Koso. Arkistotoimittaja: Outi Kortelainen
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-05T12:55:00+03:00'
         end_time: '2025-10-05T13:00:00+03:00'
