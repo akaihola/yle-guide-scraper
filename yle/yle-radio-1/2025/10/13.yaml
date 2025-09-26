@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-25T02:32:35.472402+00:00'
+  generated_at: '2025-09-26T02:31:21.493885+00:00'
   git:
     branch: main
-    commit: c7c586b5082eac221cafa8d5f2dff0ec5159eda1
-  data_hash: 73058f3f3fcf752dcdf5ff6c2e0c265232997db7c9b077ccf334e9789d4116bd
+    commit: 5ac8fec962c87b2e359cfb37832fedc29dff1170
+  data_hash: 72761996f547b524a5bc35bdd76ae92848bbe90302ac3d8d9e28fb8016b82e8c
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-10-13T06:50:00+03:00'
         end_time: '2025-10-13T06:59:59+03:00'
-        description: |-
-          Erikoistoimittaja, lääketieteen tohtori h. c. Tiina Merikanto, Helsinki
+        description: |
+          "Elämä ja kuolema eivät ole vastakohtia"
+          Erikoistoimittaja, lääketieteen kunniatohtori Tiina Merikanto Helsingistä pohtii, miten kuoleman läheisyys voi antaa uuden tavan olla elossa.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-13T07:00:00+03:00'
         end_time: '2025-10-13T07:05:00+03:00'
@@ -102,8 +103,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-10-13T18:50:00+03:00'
         end_time: '2025-10-13T19:00:00+03:00'
-        description: |-
-          Tuottaja-toimittaja Mikko Kurenlahti lukee Paavalin kirjeitä
+        description: |
+          "Varmuus pelastuksesta"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee Roomalaiskirjeestä (5:1-6:14). Paavali puhuu kasteesta ja uudesta elämästä.
+          Paavalin kirjeitä luetaan maanantai-iltaisin syksyn aikana.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-13T19:00:00+03:00'
         end_time: '2025-10-13T19:02:00+03:00'
