@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-26T02:31:17.954619+00:00'
+  generated_at: '2025-09-27T02:28:35.550579+00:00'
   git:
     branch: main
-    commit: 5ac8fec962c87b2e359cfb37832fedc29dff1170
-  data_hash: 72761996f547b524a5bc35bdd76ae92848bbe90302ac3d8d9e28fb8016b82e8c
+    commit: 15cb90aebccdca65a47d88f05cf7e0802cb08f00
+  data_hash: c8d1fabaa782518353fca5c3da989599feab13e83b53af22a84ee42410e220d8
 data:
   Yle Radio 1:
     programmes:
@@ -87,6 +87,8 @@ data:
       - title: Ykkösaamu
         start_time: '2025-09-29T08:07:00+03:00'
         end_time: '2025-09-29T09:00:00+03:00'
+        description: |-
+          Moldovassa järjestettiin eilen vaalit. Kuinka paljon vaaleihin vaikutettiin? Tästä kuulemme näkemyksiä maassa olevalta ETYJin vaalitarkkalijalta, kansanedustaja Mika Lintilältä, laaja-alaiseen vaikuttamiseen perehtyneeltä, päätoimittaja Markku Mantilalta ja Aleksanteri-instituutin johtaja Markku Kangaspurolta. Toisessa keskustelussa kysytään; kuinka tarkasti pankit tutkivat nykyään lainanottajan elämäntilannetta? Keskustelemassa ovat S-pankin Annemari Airaksinen, Osuuspankin Laura Hakamies ja Nordea-pankin Jussi Pajala. Ykkösaamun juontaa Mari Sarolahti.
       - title: Yle Uutiset
         start_time: '2025-09-29T09:00:00+03:00'
         end_time: '2025-09-29T09:03:00+03:00'
@@ -137,9 +139,13 @@ data:
         end_time: '2025-09-29T12:55:00+03:00'
         description: |-
           Varhaisia ulkomaanpasseja kirjoitettiin lähinnä säätyläisille, sillä rahvaalla oli harvoin asiaa ulkomaille. Vielä 1800-luvun Suomessa myös maan sisäisillä matkoilla tarvittiin liikkumislupa. Asiantuntijat: prof. Asko Lehmuskallio, Tampereen yliopisto, väitöstutkija Paula Haara Tampereen yliopisto. Toimittaja: Liisa Vihmanen. Äänisuunnittelija: Laura Koso. Arkistotoimittaja: Outi Kortelainen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Pienen Moldovan tärkeät vaalit'
         start_time: '2025-09-29T13:00:00+03:00'
         end_time: '2025-09-29T13:30:00+03:00'
+        description: |
+          Moldovan sunnuntaiset parlamenttivaalit ovat äänestys siitä, jatkaako maa EU-myönteisellä linjalla vai lähentyykö se Venäjää.
+          Moldovan johto on syyttänyt äänestyksen alla Venäjää laajasta vaalivaikuttamisesta.
+          Moldovan vaaleja analysoivat tutkijatohtori Kristiina Silvan Ulkopoliittisesta instituutista sekä ulko- ja turvallisuuspolitiikan asiantuntija, resilienssitutkimuksen työelämäprofessori Hanna Smith. Toimittajana on Antti Pilke.
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-29T13:30:00+03:00'
         end_time: '2025-09-29T15:00:00+03:00'
@@ -263,4 +269,32 @@ data:
         start_time: '2025-09-29T23:40:00+03:00'
         end_time: '2025-09-30T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Saint-Saëns: Violons dans le soir (Viuluja illanhämyssä) Philippe Jaroussky, kontratenori, Renaud Capucon, viulu, ja Jérôme Ducros, piano).
+
+          23:46 Netzel: Sonaatti sellolle ja pianolle e-molli (Ola Karlsson, sello, ja Lucia Negro, piano). 
+
+          00:02 F.X. Richter: Sinfonia n:o 6 B-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          00:16 Tshaikovski: Sinfonia n:o 4 f-molli (Leningradin FO/Jevgeni Mravinski).
+
+          00:58 Smetana: Kolme salonkipolkkaa (Jitka Cechová, piano).
+
+          01:11 T. Aulin: Viulukonsertto n:o 3 c-molli (Christian Bergqvist ja Ruotsin radion SO/Okko Kamu).
+
+          01:45 Hasse: Requiem (Simona Houda-Saturová, sopraano, Britta Schwarz, altto, Eric Stoklossa, tenori, ja Gotthold Schwarz, basso, sekä Dresdenin kamarikuoro ja Dresdenin barokkiork./Hans-Christoph Rademann).
+
+          02:28 Casella: Sinfonia n:o 1 h-molli (BBC:n FO/Gianandrea Noseda).
+
+          03:07 Rautavaara: Serenades of the Unicorn (Yksisarvisen serenadeja) (Ismo Eskelinen, kitara).
+
+          03:15 Schubert: Sinfonia n:o 8 C-duuri (Die Grosse) (Amsterdamin Concertgebouw-ork./John Eliot Gardiner).
+
+          04:03 Nápravník: Pianotrio g-molli (Spyros Piano Trio).
+
+          04:43 Verdi: Balettimusiikkia oopperoista Sisilialainen vesper, Macbeth, Don Carlos, Otello ja Aïda (Metropolitan oopperan ork./James Levine).
+
+          05:49 Popper: Perhonen (Janos Starker, sello, ja Shigeo Neriki, piano).
+
+          05:52 Widor: Sarja huilulle ja pianolle (Marina Piccinini ja Anne Epperson).
+
+          06:11 J.S. Bach: Sonaatti viululle ja klaveerille n:o 5 f-molli (Michelle Makarski, viulu, ja Keith Jarrett, piano).

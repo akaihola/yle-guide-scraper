@@ -1,14 +1,188 @@
 metadata:
-  generated_at: '2025-09-26T02:31:25.464347+00:00'
+  generated_at: '2025-09-27T02:28:44.418482+00:00'
   git:
     branch: main
-    commit: 5ac8fec962c87b2e359cfb37832fedc29dff1170
-  data_hash: 72761996f547b524a5bc35bdd76ae92848bbe90302ac3d8d9e28fb8016b82e8c
+    commit: 15cb90aebccdca65a47d88f05cf7e0802cb08f00
+  data_hash: c8d1fabaa782518353fca5c3da989599feab13e83b53af22a84ee42410e220d8
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-10-31T00:00:00+02:00'
         end_time: '2025-10-31T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-10-31T06:30:50+02:00'
+        end_time: '2025-10-31T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2025-10-31T06:50:00+02:00'
+        end_time: '2025-10-31T06:59:59+02:00'
+        description: |-
+          Seurakuntapastori Remo Ronkainen, Helsinki
+      - title: Yle Uutiset ja sää
+        start_time: '2025-10-31T07:00:00+02:00'
+        end_time: '2025-10-31T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2025-10-31T07:05:00+02:00'
+        end_time: '2025-10-31T07:59:59+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-10-31T08:00:00+02:00'
+        end_time: '2025-10-31T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2025-10-31T08:07:00+02:00'
+        end_time: '2025-10-31T09:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-10-31T09:00:00+02:00'
+        end_time: '2025-10-31T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-10-31T09:04:00+02:00'
+        end_time: '2025-10-31T09:59:00+02:00'
+      - title: Ruben Stiller
+        start_time: '2025-10-31T10:00:00+02:00'
+        end_time: '2025-10-31T10:55:00+02:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-31T10:55:00+02:00'
+        end_time: '2025-10-31T11:00:00+02:00'
+      - title: Narrin aamulaulu - Outi Paananen
+        start_time: '2025-10-31T11:00:00+02:00'
+        end_time: '2025-10-31T11:55:00+02:00'
+        description: |
+          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-10-31T11:57:00+02:00'
+        end_time: '2025-10-31T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-10-31T12:00:00+02:00'
+        end_time: '2025-10-31T12:05:00+02:00'
+      - title: Tiedeykkönen
+        start_time: '2025-10-31T12:05:00+02:00'
+        end_time: '2025-10-31T12:55:00+02:00'
+        description: |
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Politiikkaradio
+        start_time: '2025-10-31T13:00:00+02:00'
+        end_time: '2025-10-31T13:30:00+02:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-10-31T13:30:00+02:00'
+        end_time: '2025-10-31T15:00:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-10-31T15:00:00+02:00'
+        end_time: '2025-10-31T15:55:00+02:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-10-31T15:55:00+02:00'
+        end_time: '2025-10-31T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-10-31T16:00:00+02:00'
+        end_time: '2025-10-31T16:07:00+02:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2025-10-31T16:07:00+02:00'
+        end_time: '2025-10-31T16:59:00+02:00'
+        description: |
+          Kuuntelijoiden toivemusiikkia
+      - title: Uutispodcast
+        start_time: '2025-10-31T17:00:00+02:00'
+        end_time: '2025-10-31T17:20:00+02:00'
+        description: |
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-31T17:20:00+02:00'
+        end_time: '2025-10-31T17:35:00+02:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2025-10-31T17:35:00+02:00'
+        end_time: '2025-10-31T18:30:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Hartaita säveliä
+        start_time: '2025-10-31T18:35:00+02:00'
+        end_time: '2025-10-31T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2025-10-31T18:50:00+02:00'
+        end_time: '2025-10-31T19:00:00+02:00'
+        description: |
+          Seurakuntapastori Vilppu Huomo, Helsinki
+      - title: Yle Uutiset ja sää
+        start_time: '2025-10-31T19:00:00+02:00'
+        end_time: '2025-10-31T19:02:00+02:00'
+      - title: Musiikkia trilleriklassikoista
+        start_time: '2025-10-31T19:02:00+02:00'
+        end_time: '2025-10-31T21:00:00+02:00'
+        description: |
+          Preludi elokuvasta Vaarallinen romanssi (1959)
+          Bernard Herrmann 
+
+          Sarja jousille musiikista elokuvaan Psyko (1960)
+          Bernard Herrmann 
+
+          Laura elokuvasta Laura (1944)
+          David Raksin/ sov. Juliette Pochin 
+
+          Sarja musiikista elokuvaan Vertigo - Punainen kyynel (1958)
+          Bernard Herrmann 
+
+          Sellokonsertto op. 37, konserttiversio musiikista elokuvaan Deception (1946)  
+          Erich Wolfgang Korngold
+
+          Teema televisiosarjasta Ironside (1967)
+          Quincy Jones/ sov. Callum Au
+
+          In the Heat of the Night – Yön kuumuudessa (1967)
+          Quincy Jones/ sov. Guy Barker
+
+          Teema elokuvasta Twisted Nerve (1968)
+          Bernard Herrmann/ sov. Callum Au
+
+          A Night Piece elokuvasta Taxi Driver (1976)
+          Bernard Herrmann/ sov. Christopher Palmer
+
+          Teema elokuvasta Shaft – kivikova dekkari (1971)
+          Isaac Hayes/ sov. Fiona Brice
+
+          On Days Like These elokuvasta The Italian Job – Riehakas ryöstö (1969)
+          Quincy Jones
+
+          Shifting Gears elokuvasta Bullitt (1968)
+          Lalo Schifrin/ sov. Juliette Pochin
+
+          It’s Caper Time elokuvasta The Italian Job – Riehakas ryöstö (1969)
+          Quincy Jones/ sov. Callum Au
+
+
+          Sterling Elliott, sello
+          Ashton Jones, laulu
+          Lance Ellington, laulu 
+          Jonas Pap, vihellys
+          BBC:n konserttiorkesteri
+          Edwin Outwater, kapellimestari
+
+
+          Äänitetty BBC:n Proms-festivaalin konsertissa Royal Albert Hallissa 4.9.2025. Toimittajana Ainomaija Pennanen.
+
+          Kuvassa laulaja Lance Ellington ja kapellimestari Edwin Outwater © Andy Paradise
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-31T21:00:00+02:00'
+        end_time: '2025-10-31T21:05:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-10-31T21:05:00+02:00'
+        end_time: '2025-10-31T21:35:00+02:00'
+      - title: Kalle Haatanen
+        start_time: '2025-10-31T21:36:00+02:00'
+        end_time: '2025-10-31T22:26:00+02:00'
+        description: |
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Tuuli Saksalan keidas
+        start_time: '2025-10-31T22:27:00+02:00'
+        end_time: '2025-10-31T23:17:00+02:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2025-10-31T23:40:00+02:00'
+        end_time: '2025-11-01T07:30:00+02:00'
         description: |-
           Klassista musiikkia.
