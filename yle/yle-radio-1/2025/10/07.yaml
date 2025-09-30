@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-29T02:33:24.895281+00:00'
+  generated_at: '2025-09-30T02:30:30.678894+00:00'
   git:
     branch: main
-    commit: b9475b6f77a69a69295cdfb8a818f08619f356b1
-  data_hash: 986a657d68afced3bc576184f23df750f3f80ca996c8be0e4dded44c2bec7b1f
+    commit: e499fd294aa3f2277f41c2806d79c5939cb33965
+  data_hash: 9dc1e87af524eaad7404747f72619fed0bce91142fb9295da73561cd3df9a291
 data:
   Yle Radio 1:
     programmes:
@@ -65,14 +65,31 @@ data:
         end_time: '2025-10-07T10:55:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Oudot metsät ja sielun puutarhat'
         start_time: '2025-10-07T11:00:00+03:00'
         end_time: '2025-10-07T11:57:00+03:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Erkki Melartin: Den tysta skogen (Hiljainen metsä) (Risto Lauriala, piano).
+
+          Ludwig Senfl: Entlaubet ist der Walde (Metsä on pudottanut lehtensä) (Stephan Scherpe, tenori, ja Lautten Compagney/Wolfgang Katschner).
+
+          Albert Roussel: Foret d'hiver (Talvinen metsä), ensimmäinen osa Sinfoniasta n:o 1 d-molli op.7 (Pariisin orkesteri/Christoph Eschenbach).
+
+          Philippe Verdelot: Veni in ortum meum (Minä tulen yrttitarhaani)(The Song Company/Roland Peelman). 
+            
+          Georg Friedrich Händel: osat Rauha ja Riemu teoksesta Ilotulitusmusiikkia (alkuperäisversio) (The English Concert/Trevor Pinnock).
+
+          Caroline Shaw: Plan and elevation jousikvartetille 
+          1.The ellipse 2.The cutting garden 3.The herbaceous border 4.The orangery 5.The beech tree (Attacca-jousikvartetti).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-07T11:57:00+03:00'
         end_time: '2025-10-07T12:00:00+03:00'
+        description: |-
+          Matti Pulkkinen: Romaanihenkilön kuolema. Tarua ja totta eli ihmisen kuvaus, Gummerus, 1985.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-07T12:00:00+03:00'
         end_time: '2025-10-07T12:05:00+03:00'
@@ -147,8 +164,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-10-07T18:50:00+03:00'
         end_time: '2025-10-07T19:00:00+03:00'
-        description: |-
-          Seurakunnan johtaja Aulis Pettersson, Baptistiyhdyskunta, Turku
+        description: |+
+          "Jumala pysyy uskollisena"
+          Seurakunnan johtaja Aulis Pettersson, Baptistiyhdyskunta, Turusta puhuu ihmisen oman uskonratkaisun merkityksestä ja Jumalan pelastussuunnitelman todellisuudesta.
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-07T19:00:00+03:00'
         end_time: '2025-10-07T19:02:00+03:00'

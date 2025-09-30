@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-29T02:33:27.022728+00:00'
+  generated_at: '2025-09-30T02:30:32.625810+00:00'
   git:
     branch: main
-    commit: b9475b6f77a69a69295cdfb8a818f08619f356b1
-  data_hash: 986a657d68afced3bc576184f23df750f3f80ca996c8be0e4dded44c2bec7b1f
+    commit: e499fd294aa3f2277f41c2806d79c5939cb33965
+  data_hash: 9dc1e87af524eaad7404747f72619fed0bce91142fb9295da73561cd3df9a291
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-14T07:05:00+03:00'
         end_time: '2025-10-14T07:59:59+03:00'
+        description: |+
+          J.S. Bach: Trio uruille G-duuri (John Williams, kitara, ja Peter Hurford, urut).
+
+          Monteverdi: Sonata sopra Sancta Maria (Gabrieli Consort ja Gabrieli Players/Paul McCreesh).
+
+          Beethoven (sov. Diabelli): Andenken (Muisto) (Päivi Kantola, sopraano, ja Jari Tarjasalo, kitara). 
+
+          Holst: Brook Green -sarja (Royal Ballet SO/David Lloyd-Jones).
+
+          Janácek: Lennätti tuuli lehden sarj. Umpeenkasvaneella polulla (Eero Heinonen, piano).
+
+          Head: Money, O! (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+
+          Fauré: Gavotti sarj. Masques et Bergamasques (Orpheus-kamariork.).
+
+          Rossini: Rosinan aaria oopp. Sevillan parturi (Jouko Harjanne, trumpetti, ja Juhani Lagerspetz, piano).
+
+          Schumann: Unelmointia (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          Saint-Saëns: Allegretto moderato fagottisonaatista G-duuri (Christopher Millard, fagotti, ja Stéphane Lemelin, piano).
+
+          Rahmaninov: Scherzo jousikvartetosta n:o 1 (Goldner-kvartetti). 
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-14T08:00:00+03:00'
         end_time: '2025-10-14T08:07:00+03:00'

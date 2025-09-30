@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-29T02:33:22.393830+00:00'
+  generated_at: '2025-09-30T02:30:28.659587+00:00'
   git:
     branch: main
-    commit: b9475b6f77a69a69295cdfb8a818f08619f356b1
-  data_hash: 986a657d68afced3bc576184f23df750f3f80ca996c8be0e4dded44c2bec7b1f
+    commit: e499fd294aa3f2277f41c2806d79c5939cb33965
+  data_hash: 9dc1e87af524eaad7404747f72619fed0bce91142fb9295da73561cd3df9a291
 data:
   Yle Radio 1:
     programmes:
@@ -179,6 +179,10 @@ data:
       - title: Politiikkaradio
         start_time: '2025-09-30T13:00:00+03:00'
         end_time: '2025-09-30T13:30:00+03:00'
+        description: |-
+          Hallitus uudistaa toimeentulotukea. Keskustelemassa kansanedustajat Krista Kiuru (sdp.), Mia Laiho (kok.) ja Henrik Wickström (rkp).
+
+          Toimittajana on Linda Pelkonen
       - title: Radio 1:n iltapäivä
         start_time: '2025-09-30T13:30:00+03:00'
         end_time: '2025-09-30T15:00:00+03:00'
@@ -228,7 +232,7 @@ data:
         start_time: '2025-09-30T17:00:00+03:00'
         end_time: '2025-09-30T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Venäjä pyrki vaikuttamaan Moldovan sunnuntaisiin parlamenttivaaleihin poikkeuksellisen rajusti. Vaaleissa voiton vei kuitenkin länsimielinen puolue. Millaisia Venäjän pyrkimykset Moldovassa voivat olla vaalien jälkeen? Reetta Röngän vieraana Moldovassa vaaleja seurannut ulkomaantoimittaja Erkka Mikkonen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-09-30T17:20:00+03:00'
         end_time: '2025-09-30T17:35:00+03:00'

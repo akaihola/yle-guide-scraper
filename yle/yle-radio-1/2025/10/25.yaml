@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-29T02:33:30.331815+00:00'
+  generated_at: '2025-09-30T02:30:35.031750+00:00'
   git:
     branch: main
-    commit: b9475b6f77a69a69295cdfb8a818f08619f356b1
-  data_hash: 986a657d68afced3bc576184f23df750f3f80ca996c8be0e4dded44c2bec7b1f
+    commit: e499fd294aa3f2277f41c2806d79c5939cb33965
+  data_hash: 9dc1e87af524eaad7404747f72619fed0bce91142fb9295da73561cd3df9a291
 data:
   Yle Radio 1:
     programmes:
@@ -48,11 +48,12 @@ data:
         end_time: '2025-10-25T10:51:00+03:00'
         description: |-
           Lasse Kekin katoaminen olisi voinut jäädä unohduksiin, ellei omaisten painostus olisi pakottanut poliisia toimimaan. Mitä viranomaiset todella saivat selville ja miten tutkinta eteni? Oliko jotain, mikä jäi pimentoon ja voiko asialle yhä tehdä jotain? Tässä jaksossa ääneen pääsee tapauksen tutkinnanjohtaja Jussi Wahe.
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Hyvä, paha valtionvelka'
         start_time: '2025-10-25T11:00:00+03:00'
         end_time: '2025-10-25T11:52:00+03:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |+
+          Hyvä, paha valtionvelka -vieraina Sakari Heikkinen ja Mika Arola
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-25T11:57:00+03:00'
         end_time: '2025-10-25T12:00:00+03:00'

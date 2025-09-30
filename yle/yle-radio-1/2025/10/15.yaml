@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-09-29T02:33:27.279047+00:00'
+  generated_at: '2025-09-30T02:30:32.817166+00:00'
   git:
     branch: main
-    commit: b9475b6f77a69a69295cdfb8a818f08619f356b1
-  data_hash: 986a657d68afced3bc576184f23df750f3f80ca996c8be0e4dded44c2bec7b1f
+    commit: e499fd294aa3f2277f41c2806d79c5939cb33965
+  data_hash: 9dc1e87af524eaad7404747f72619fed0bce91142fb9295da73561cd3df9a291
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,31 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-15T07:05:00+03:00'
         end_time: '2025-10-15T07:59:59+03:00'
+        description: |+
+          Vivaldi: Allegro konsertosta F-duuri (La tempesta di mare) (Emmanuel Pahud, huilu, ja Australian kamariork./Richard Tognetti).
+
+          Monteverdi: Si dolce e'l tormento (Marco Beasley, tenori, ja Accordone).
+
+          Süssmayr: Menuetti - Trio teoks. Sinfonia turchesca (Turkkilainen sinfonia) (Concerto Köln ja Sarband).
+
+          Rubinstein: Barcarolle G-duuri (Zora Mihailovich, piano).
+
+          Händel: Saaban kuningattaren tulo oratoriosta Salomon (Orpheus-kamariork.).
+
+          Crusell: Romanssi klarinettikvartetosta Es-duuri (Kari Kriikku ja Avanti!-kamariorkesterin jäseniä).
+
+          Kansanlaulu: The Skye boat song (Glenn Murphy, tenori, ja Dublinin yliopiston Choral Scholars -kuoro/Desmond Earley).
+
+          Paganini: Cantabile D-duuri (Gil Shaham, viulu, ja Göran Söllscher, kitara).
+
+          R. Strauss: Andante (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          Tárrega: Rosita (Timo Korhonen, kitara).
+
+          Puccini: Intermezzo oopp. Manon Lescaut (RSO/Kari Tikka).
+
+          Chopin: Valssi n:o 4 F-duuri (Stephen Hough, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-15T08:00:00+03:00'
         end_time: '2025-10-15T08:07:00+03:00'
