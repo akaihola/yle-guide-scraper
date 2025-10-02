@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-01T02:35:21.458220+00:00'
+  generated_at: '2025-10-02T02:30:18.171410+00:00'
   git:
     branch: main
-    commit: 79fe4a46bbc1cc8f1d2aa03ff03978b96c1d718f
-  data_hash: 015a24df315476ec1770cc142bebec6e967540dc6545535594f1526b7ff1bc8b
+    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
+  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-11T08:05:00+03:00'
         end_time: '2025-10-11T08:30:00+03:00'
+        description: |+
+          Heikkilä: Sinä olet rakkaus (Sakari Heikkilä).
+
+          I. Krohn: Me riemumielin ylistämme (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
+          Ahnfelt (sov. Matis Metsala): Joka aamu on armo uus' (Mehis Metsala, sello, ja yhtye).
+
+          Arhangelski: Herra, kuule rukoukseni (Joensuun Ortodoksinen Mieskuoro/Istvan Zaborszky).
+
+          Soinne: Tuonne, tuonne kaipaan (Kuopion tuomiokirkon kamarikuoro/Pertti Rusanen).
+
+          Tapio: Minun ikäväni näyt (Juha Tapio).
+
       - title: Aamuhartaus
         start_time: '2025-10-11T08:30:00+03:00'
         end_time: '2025-10-11T08:40:00+03:00'
@@ -56,7 +69,7 @@ data:
         start_time: '2025-10-11T11:00:00+03:00'
         end_time: '2025-10-11T11:54:00+03:00'
         description: |+
-          Iloinen 1980-luku -astianpesukoneen ja videonauhurin vuosikymmen
+          Iloinen 1980-luku - astianpesukoneen ja videonauhurin vuosikymmen. 1980-luku on jäänyt mieleen vaurastumisen ja kuluttamisen iloisena vuosikymmenenä. Keskustelemassa kuluttamista tutkinut professori emeritus Visa Heinonen ja toimittaja Juha Virtanen.
 
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-11T11:57:00+03:00'
@@ -66,9 +79,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-11T12:00:00+03:00'
         end_time: '2025-10-11T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: White Lotus: buddhalaisuutta pakettimatkalla'
         start_time: '2025-10-11T12:05:00+03:00'
         end_time: '2025-10-11T13:00:00+03:00'
+        description: |
+          White Lotus -sarjan kolmas kausi sijoittuu Thaimaan Koh Samuille luksushotelliin ja on buddhalaisuuden lävistämä. Länsimaisissa hotellivieraissa näkyy inhimillinen ja tunnistettava pyrkimys etsiä milloin mitäkin lääkettä pärjätäkseen maailman, itsen ja toisten kanssa. Keinoja etsitään myös buddhalaisuuden piiristä. Millaisia piirteitä White Lotus nostaa tästä uskonnollis-filosofisesta järjestelmästä esiin? Omistaako kukaan buddhalaisuutta? Vaikka haluihin takertumisen nähdään luovan kärsimystä, voiko niitä kohti kulkeminen olla buddhalaisuuden piirissä tavoite? 
+          Marja Vehkasen vieraina ovat modernin buddhalaisuuden väitöskirjatutkija Ari-Pekka Jääskeläinen ja antropologi, uskontotieteilijä ja akatemiatutkija Mitra Härkönen Helsingin yliopistosta.
       - title: Näistä levyistä en luovu
         start_time: '2025-10-11T13:00:00+03:00'
         end_time: '2025-10-11T13:55:00+03:00'

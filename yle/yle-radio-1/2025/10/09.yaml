@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-01T02:35:20.441632+00:00'
+  generated_at: '2025-10-02T02:30:17.325221+00:00'
   git:
     branch: main
-    commit: 79fe4a46bbc1cc8f1d2aa03ff03978b96c1d718f
-  data_hash: 015a24df315476ec1770cc142bebec6e967540dc6545535594f1526b7ff1bc8b
+    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
+  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-09T06:30:50+03:00'
         end_time: '2025-10-09T06:50:00+03:00'
+        description: |+
+          Gastorius: Nyt kansat kaikki laulakaa (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, kitara, ja Mikko Perkola, viola da gamba).
+
+          Maukonen: Elävää vettä (Jarkko Maukonen).
+
+          Stenius: Insignis est figura (Maailma katoovainen) (Peter Peitsalo, urut).
+
+          Haapala: Niin kaukana, niin lähellä (Mustarastas).
+
+          Spirituaali: He's got the whole world in his hands (On koko maailma hänen kädessään) (Jeanne Lee, laulu).
+
       - title: Aamuhartaus
         start_time: '2025-10-09T06:50:00+03:00'
         end_time: '2025-10-09T06:59:59+03:00'
@@ -55,13 +66,15 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-09T08:07:00+03:00'
         end_time: '2025-10-09T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jota et kuule mistään muualta. Radio 1:n aamu kutsuu matkalle maailman ympäri herättelevän musiikin ja ajatuksien kanssa.  Arkiaamuisin kahdeksasta yhdeksään. Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-10-09T09:00:00+03:00'
         end_time: '2025-10-09T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-10-09T09:04:00+03:00'
         end_time: '2025-10-09T09:59:00+03:00'
-        description: |-
+        description: |
           Rose/Jolson: Avalon (The Pied Pipers & Paul Weston orchestra).
           Benatzky: Seison sateessa (Marketta Joutsi).
           May/Vivanco: Bo mambo (Yma Sumac).
@@ -69,13 +82,13 @@ data:
           S. Farina/J. Farina/A. Farina: Sleep walk (Santo and Johnny).
           Marchetti/Satti: Se piangi, se ridi (Bobby Solo).
           Alihanka: Lulu (Tuula Amberla).
-          Piron:I wish I could shimmy like my sister Kate (The Ditty Bops).
+          Piron: I wish I could shimmy like my sister Kate (The Ditty Bops).
           Gardel: Por una cabeza (Carlos Gardel).
           Kansansäv.: Juokse sinä humma (Tapio Rautavaara).
           South: En dans på rosor (Inger Öst).
-          Payne/ Carroll: Just one look (Doris Troy).
+          Payne/Carroll: Just one look (Doris Troy).
           Browne: Helmet kyynelten (Maarit).
-          Le Senechal: Des ronds dans l'eau (Françoise Hardy).
+          Senechal: Des ronds dans l'eau (Françoise Hardy).
           Walker: Mr. Bojangles (Nina Simone).
           Lennon: Imagine (John Lennon).
       - title: 'Marko Gustafsson: Vieraana muusikko Tuure Kilpeläinen'
@@ -99,17 +112,20 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-09T12:00:00+03:00'
         end_time: '2025-10-09T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: White Lotus: buddhalaisuutta pakettimatkalla'
         start_time: '2025-10-09T12:05:00+03:00'
         end_time: '2025-10-09T13:00:00+03:00'
+        description: |
+          White Lotus -sarjan kolmas kausi sijoittuu Thaimaan Koh Samuille luksushotelliin ja on buddhalaisuuden lävistämä. Länsimaisissa hotellivieraissa näkyy inhimillinen ja tunnistettava pyrkimys etsiä milloin mitäkin lääkettä pärjätäkseen maailman, itsen ja toisten kanssa. Keinoja etsitään myös buddhalaisuuden piiristä. Millaisia piirteitä White Lotus nostaa tästä uskonnollis-filosofisesta järjestelmästä esiin? Omistaako kukaan buddhalaisuutta? Vaikka haluihin takertumisen nähdään luovan kärsimystä, voiko niitä kohti kulkeminen olla buddhalaisuuden piirissä tavoite? 
+          Marja Vehkasen vieraina ovat modernin buddhalaisuuden väitöskirjatutkija Ari-Pekka Jääskeläinen ja antropologi, uskontotieteilijä ja akatemiatutkija Mitra Härkönen Helsingin yliopistosta.
       - title: Politiikkaradio
         start_time: '2025-10-09T13:00:00+03:00'
         end_time: '2025-10-09T13:30:00+03:00'
       - title: Radio 1:n iltapäivä
         start_time: '2025-10-09T13:30:00+03:00'
         end_time: '2025-10-09T15:00:00+03:00'
-        description: |2+
-
+        description: |
+          Radio 1:n iltapäivässä soivat kevyt jazz, populaarimusiikin helmet ja etnomusiikki. Miia Lahti juontaa. 
       - title: Kulttuuriykkönen
         start_time: '2025-10-09T15:00:00+03:00'
         end_time: '2025-10-09T15:55:00+03:00'
@@ -134,6 +150,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-09T17:20:00+03:00'
         end_time: '2025-10-09T17:35:00+03:00'
+        description: |2+
+
+
       - title: Tuuli Saksalan keidas
         start_time: '2025-10-09T17:35:00+03:00'
         end_time: '2025-10-09T18:25:00+03:00'
@@ -147,6 +166,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-09T18:35:00+03:00'
         end_time: '2025-10-09T18:50:00+03:00'
+        description: |+
+          Tuntematon: Oi Jeesus Kristus, autuuden (Cetus Noster, ja Jarmo Julkunen, teorbi).
+
+          Löytty: Tuuli työntää kulkijaa (Kuopion tuomiokirkon kamarikuoro/Pertti Rusanen).
+
+          Koraalitoisinto (sov. Bartling): Koska valaissee kointähtönen (Histan veisaajat).
+
+          Wilson (sov. Bartling): Nyt on aika kiitoksen (Human Organ).
+
       - title: Iltahartaus
         start_time: '2025-10-09T18:50:00+03:00'
         end_time: '2025-10-09T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-01T02:35:13.765532+00:00'
+  generated_at: '2025-10-02T02:30:06.738771+00:00'
   git:
     branch: main
-    commit: 79fe4a46bbc1cc8f1d2aa03ff03978b96c1d718f
-  data_hash: 015a24df315476ec1770cc142bebec6e967540dc6545535594f1526b7ff1bc8b
+    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
+  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
 data:
   Yle Radio 1:
     programmes:
@@ -96,7 +96,13 @@ data:
         start_time: '2025-10-02T08:07:00+03:00'
         end_time: '2025-10-02T09:00:00+03:00'
         description: |-
-          Ajankohtaista politiikkaa ja taloutta Suomessa ja maailmalla. 
+          Poliittinen retoriikka ja Palestiinan tunnustaminen ovat herättäneet kiivasta keskustelua alkusyksystä myös hallituspuolueiden kesken. Onko hallitus saanut rivinsä suoriksi? Keskustelemassa yliopistotutkija Jenni Karimäki Itä-Suomen yliopistosta ja toimitusjohtaja Karina Jutila E2 Tutkimuksesta.
+
+          Eurooppa yrittää löytää keinoja turvallisuutensa takaamiseen. Saadanko Kööpenhaminan huippukokouksessa päätöksiä aikaan? Keskustelemassa akatemiatutkija Timo Miettinen Helsingin yliopistosta ja tutkija Tyyne Karjalainen Ulkopoliittisesta instituutista. EU-kirjeenvaihtaja Hannele Muilu raportoi Kööpenhaminasta.
+
+          Päijät-Hämeessä hyvinvointialue on saanut hyviä kokemuksia uudesta kumppanuusmallista, jolla tuotetaan yhteisöllistä asumista iäkkäille. Toimittaja Petri Niemi haastattelee Lahden Onnelanpolun palvelukeskuksessa hyvinvointialueen projektipäällikkö Marko Hiekkasta.
+
+          Juontajana Markus Liimatainen.
       - title: Yle Uutiset
         start_time: '2025-10-02T09:00:00+03:00'
         end_time: '2025-10-02T09:03:00+03:00'
@@ -160,7 +166,7 @@ data:
         start_time: '2025-10-02T15:00:00+03:00'
         end_time: '2025-10-02T15:55:00+03:00'
         description: |
-          Kulttuuriykkösen elokuvaraati kokoontuu jälleen kerran katsastaakseen tämän hetken mieelnkiintoisimmat elokuvat. Raatiin kuuluvat Matti Rämö, Olli Kangassalo ja Silja Sahlgren-Fodstad.
+          Kulttuuriykkösen elokuvaraati kokoontuu jälleen kerran katsastaakseen tämän hetken mielenkiintoisimmat elokuvat. Raatiin kuuluvat Matti Rämö, Olli Kangassalo ja Silja Sahlgren-Fodstad.
 
           Ohjelman juontaa Nicklas Wancke.
       - title: Yle News
@@ -174,11 +180,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-02T16:07:00+03:00'
         end_time: '2025-10-02T16:59:00+03:00'
+        description: |
+          Josef Strauss: Velocipede (Polkupyörä) nopea polkka (Wienin filharmonikot/Lorin Maazel).
+
+          J. Haydn: Finaali jousikvartetosta n:o 61 f-molli (Partaveitsikvartetto) (Meta4).
+
+          Chopin: Masurkka n:o 17 b-molli (Gergely Bogányi, piano).
+
+          Anonyymi: Bonny sweet boy (Ronn McFarlane, luuttu). 
+
+          Verdelot: Veni in ortum meum (Minä tulen yrttitarhaani) (The Song Company/Roland Peelman).
+
+          Tye: In Nomine n:o 12 (Empire Brass/Rolf Smedvig). 
+
+          M. Lindberg: Coyote Blues kamariorkesterille (Avanti!/Sakari Oramo).
+
+          Leiviskä: Kehtolaulu orkesterisarjasta n:o 2 (Sinfonia Lahti/Dalia Stasevska).
+
+          Crusell: Rondo klarinettikonsertosta n:o 1 Es-duuri (Kari Kriikku ja RSO/Sakari Oramo).
+
+          Beethoven: Adagio cantabile pianosonaatista n:o 8 c-molli (Vladimir Ashkenazy).
+
+          Brahms: Finaali Triosta käyrätorvelle, viululle ja pianolle Es-duuri op. 40 (Marie-Luise Neunecker, Antje Weithaas ja Silke Avenhaus).
       - title: Uutispodcast
         start_time: '2025-10-02T17:00:00+03:00'
         end_time: '2025-10-02T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Israelin pääministeri Benjamin Netanjahu kertoi maanantaina tukevansa Donald Trumpin rauhansuunnitelmaa Gazaan. Hamas ei ole vielä kertonut hyväksyykö se ehdotuksen. Mitä Trumpin ehdotuksesta pitäisi ajatella? Reetta Röngän vieraana on Lähi-idän tutkija Antti Tarvainen. 
       - title: Tuuli Saksalan keidas
         start_time: '2025-10-02T17:35:00+03:00'
         end_time: '2025-10-02T18:25:00+03:00'
