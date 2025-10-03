@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-02T02:30:16.994146+00:00'
+  generated_at: '2025-10-03T02:29:52.494851+00:00'
   git:
     branch: main
-    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
-  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
+    commit: 508419a24cedb664bbad03f168ca909c3c790c17
+  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,33 @@ data:
         start_time: '2025-10-07T23:40:00+03:00'
         end_time: '2025-10-08T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Tshaikovski: Andante funebre e doloroso, ma con moto (Oleg Kagan, viulu, ja Vasili Lobanov, piano).
+
+          23:52 Hasse: Messu g-molli (Dagmar Schellenberger, sopraano, Axel Köhler, altto, Ralph Eschrig, tenori, ja Egbert Junghanns, basso, sekä Thüringischer Akademischer Singkreis -kuoro ja Virtuosi Saxoniae/Ludwig Güttler).
+
+          00:55 Chausson: Konsertto pianolle, viululle ja jousikvartetille D-duuri (David Oistrah, viulu, ja Lev Oborin, piano, sekä Borodin-kvartetti).
+
+          01:37 Delius: North country sketches (Luonnoksia ylämaasta) (Ulsterin ork./Vernon Handley).
+
+          02:07 Lalo: Concerto russe (Venäläinen konsertto) (Jean-Jacques Kantorow, viulu, ja Tapiola Sinfonietta/Kees Bakels).
+
+          02:37 W.A. Mozart: Huilukvartetot n:o 1-4 (Carol Wincenc ja Emerson-kvartetti).
+
+          03:32 C.P.E. Bach: Muunnelmia teemasta La Folia d-molli (Tuija Hakkila, fortepiano).
+
+          03:41 Englund: Sinfonia n:o 2 (Mustarastassinfonia) (RSO/Okko Kamu).
+
+          04:14 Saint-Saëns: Persialainen yö, draamallinen kantaatti (Steve Davislim, tenori, Zan McKendree-Wright, altto,  ja Amanda Mouellic, puhe, sekä Belle Epoque -kuoro ja Victoria-ork./Guillaume Tourniaire).
+
+          04:47 Beethoven: Pianotrio B-duuri (Arkkiherttua) (Mirecourt-trio).
+
+          05:31 Garcia Tolsa: Maruja (Pentti Hildén, kitara).
+
+          05:34 J.S. Bach: Partita klaveerille n:o 6 e-molli (Elina Mustonen, cembalo). 
+
+          06:07 Viviani: Sonaatti trumpetille ja continuolle n:o 1 C-duuri (Håkan Hardenberger ja I Musici).
+
+          06:13 Orschler: Sonaatti kahdelle viululle ja continuolle F-duuri (Collegium 1704/Vaclav Luks).
       - title: Hartaita säveliä
         start_time: '2025-10-08T06:30:50+03:00'
         end_time: '2025-10-08T06:50:00+03:00'
@@ -147,6 +173,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-08T16:07:00+03:00'
         end_time: '2025-10-08T16:59:00+03:00'
+        description: |
+          Lully: Passacaille d'Armide sarj. Kuninkaalliset huvitukset (Chatham Baroque).
+
+          Sermisy: Jouyssance vous donneray (Clare Wilkinson, sopraano, ja Jacob Heringman, luuttu). 
+
+          Rameau: Contredanse en rondeau oopp. Boreadit (Les Ambassadeurs/Alexis Kossenko).
+
+          Farrenc: Allegro vivace sekstetosta puhallinkvintetille ja pianolle (Les Vents Français ja Eric Le Sage). 
+
+          Berlioz: Le spectre de la rose (Ruusun kuvajainen) sarj. Les Nuits d'ete (Kesäyöt) (Soile Isokoski, sopraano, ja HKO/John Storgårds).  
+
+          Debussy: Anacaprin kukkulat (Eero Heinonen, piano).
+
+          Saint-Saëns: Alkusoitto oopp. Keltainen prinsessa (Lontoon FO/Geoffrey Simon).
+
+          Poulenc: Cantilena sonaatista huilulle ja pianolle (Emmanuel Pahud ja Eric Le Sage).
+
+          Ravel: Finaali (Anime) Pianotriosta a-molli (The Arden Trio).
+
+          Stravinsky: Finaali baletista Tulilintu (Birminghamin SO/Simon Rattle).
       - title: Uutispodcast
         start_time: '2025-10-08T17:00:00+03:00'
         end_time: '2025-10-08T17:20:00+03:00'
@@ -174,7 +220,8 @@ data:
         start_time: '2025-10-08T18:50:00+03:00'
         end_time: '2025-10-08T19:00:00+03:00'
         description: |
-          Vs. kappalainen Meri Ala-Kokko, Tampere
+          "Elämä virtaa juuresta juureen, rungosta runkoon" 
+          Vs. kappalainen Meri Ala-Kokko Tampereelta puhuu puista omalla tavallaan Jumalan kuvina elävistä puista, jotka kertovat elämän syvistä merkityksistä.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-08T19:00:00+03:00'
         end_time: '2025-10-08T19:02:00+03:00'
@@ -215,4 +262,34 @@ data:
         start_time: '2025-10-08T23:40:00+03:00'
         end_time: '2025-10-09T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Händel: L'Allegro, il Penseroso ed il Moderato (Nancy Armstrong, sopraano, Mary Westbrook-Geha, mezzosopraano, Sharon Baker, sopraano, Frank Kelley, tenori, ja James Maddalena, baritoni, sekä  Banchetto Musicale -kuoro ja -ork./Martin Pearlman).
+
+          01:45 Saint-Saëns: Pianokonsertto n:o 2 g-molli (Bella Davidovitsh ja Amsterdamin Concertgebouw-ork./Neeme Järvi).
+
+          02:09 Dvorák: Jousikvartetto n:o 7 a-molli (Prahan jousikvartetti).
+
+          02:39 Hubay: Csárdá-kohtaus n:o 3 (Chloe Hanslip, viulu, ja Bournemouthin SO/Andrew Mogrelia)
+
+          02:47 Beethoven: Sinfonia n:o 1 C-duuri (Berliinin filharmonikot/Herbert von Karajan).
+
+          03:13 Ernst: Fantaisie brillante (Sherban Lupu, viulu, ja Ian Hobson, piano).
+
+          03:26 Butterworth: Bredon Hill ja muita lauluja (Simon Keenlyside, baritoni, ja Malcolm Martineau, piano).
+
+          03:40 Mendelssohn: Jousikvartetto n:o 1 Es-duuri (Emerson-kvartetti).
+
+          04:04 Bartók: Konsertto orkesterille (RSO/Sakari Oramo).
+
+          04:43 Sarasate: Faust-fantasia viululle ja pianolle Gounod'n oopperan Faust teemoista (Rachel Barton ja Patrick Sinozich).
+
+          04:57 Bloch: Schelomo (Salomo), heprealainen rapsodia sellolle ja orkesterille (Leonard Rose ja Philadelphian ork./Eugene Ormandy).
+
+          05:21 W.A. Mozart: Pianokonsertto n:o 9 Es-duuri (Jenamy) (Clevelandin ork./Mitsuko Uchida, piano ja joht.).
+
+          05:54 Sibelius: Kavaljeren (Eero Heinonen, piano). 
+
+          05:57 Lasso: Ad te levavi oculos meos (Minä nostan silmäni sinun puoleesi, joka taivaissa asut) (The King's Singers).
+
+          06:06 Lanzetti: Sonaatti sellolle ja continuolle F-duuri (Gaetano Nasillo, sello, Andrea Marchiol, cembalo, ja Sara Bennici, sello).
+
+          06:21 Granata: Sonaatti kitaralle ja continuolle (Stephen Stubbs, chitarra spagnola, ja Maxine Eilander, harppu).

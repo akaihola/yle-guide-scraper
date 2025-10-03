@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-02T02:30:17.325221+00:00'
+  generated_at: '2025-10-03T02:29:52.828614+00:00'
   git:
     branch: main
-    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
-  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
+    commit: 508419a24cedb664bbad03f168ca909c3c790c17
+  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,37 @@ data:
         start_time: '2025-10-08T23:40:00+03:00'
         end_time: '2025-10-09T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Händel: L'Allegro, il Penseroso ed il Moderato (Nancy Armstrong, sopraano, Mary Westbrook-Geha, mezzosopraano, Sharon Baker, sopraano, Frank Kelley, tenori, ja James Maddalena, baritoni, sekä  Banchetto Musicale -kuoro ja -ork./Martin Pearlman).
+
+          01:45 Saint-Saëns: Pianokonsertto n:o 2 g-molli (Bella Davidovitsh ja Amsterdamin Concertgebouw-ork./Neeme Järvi).
+
+          02:09 Dvorák: Jousikvartetto n:o 7 a-molli (Prahan jousikvartetti).
+
+          02:39 Hubay: Csárdá-kohtaus n:o 3 (Chloe Hanslip, viulu, ja Bournemouthin SO/Andrew Mogrelia)
+
+          02:47 Beethoven: Sinfonia n:o 1 C-duuri (Berliinin filharmonikot/Herbert von Karajan).
+
+          03:13 Ernst: Fantaisie brillante (Sherban Lupu, viulu, ja Ian Hobson, piano).
+
+          03:26 Butterworth: Bredon Hill ja muita lauluja (Simon Keenlyside, baritoni, ja Malcolm Martineau, piano).
+
+          03:40 Mendelssohn: Jousikvartetto n:o 1 Es-duuri (Emerson-kvartetti).
+
+          04:04 Bartók: Konsertto orkesterille (RSO/Sakari Oramo).
+
+          04:43 Sarasate: Faust-fantasia viululle ja pianolle Gounod'n oopperan Faust teemoista (Rachel Barton ja Patrick Sinozich).
+
+          04:57 Bloch: Schelomo (Salomo), heprealainen rapsodia sellolle ja orkesterille (Leonard Rose ja Philadelphian ork./Eugene Ormandy).
+
+          05:21 W.A. Mozart: Pianokonsertto n:o 9 Es-duuri (Jenamy) (Clevelandin ork./Mitsuko Uchida, piano ja joht.).
+
+          05:54 Sibelius: Kavaljeren (Eero Heinonen, piano). 
+
+          05:57 Lasso: Ad te levavi oculos meos (Minä nostan silmäni sinun puoleesi, joka taivaissa asut) (The King's Singers).
+
+          06:06 Lanzetti: Sonaatti sellolle ja continuolle F-duuri (Gaetano Nasillo, sello, Andrea Marchiol, cembalo, ja Sara Bennici, sello).
+
+          06:21 Granata: Sonaatti kitaralle ja continuolle (Stephen Stubbs, chitarra spagnola, ja Maxine Eilander, harppu).
       - title: Hartaita säveliä
         start_time: '2025-10-09T06:30:50+03:00'
         end_time: '2025-10-09T06:50:00+03:00'
@@ -30,7 +60,8 @@ data:
         start_time: '2025-10-09T06:50:00+03:00'
         end_time: '2025-10-09T06:59:59+03:00'
         description: |
-          Sairaalapastori Elina Pöysti, Helsinki
+          "Kun ihminen on lopussa, Jumala voi alkaa"
+          Sairaalasielunhoito alkoi suomalaisissa sairaaloissa sata vuotta sitten. Sairaalapastori Elina Pöysti Helsingistä puhuu äärimmäisen hädän ja toivottomuuden keskellä kohdattavasta Jumalasta.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-09T07:00:00+03:00'
         end_time: '2025-10-09T07:05:00+03:00'
@@ -130,6 +161,17 @@ data:
         start_time: '2025-10-09T15:00:00+03:00'
         end_time: '2025-10-09T15:55:00+03:00'
         description: |
+          Kirjailija ja taidehistorioitsija Anna Kortelainen on tutkinut arkistoja ja löytänyt kymmenen kiinnostavaa ja hurjaakin tarinaa unohdetuista stadilaisista. Stadin väkeä - kirja haluaa elävöittää Helsinkiä kertomalla kuinka sen asukkaat olivat värikkäitä ja aikaansaavia persoonia. Tarinat sijoittuvat 1900-luvun alkupuolelle. Kuka oli ylihoitajatar Tyra Strömberg ja miksi hän menetti maineensa? Selim Rödlin opetti helsinkiläiset juomaan jaavalaista teetä. Helsingin lehdistö seurasi naisyrittäjän Sofia Sjöstedtin vaiheita kymmenen vuoden ajan. Sitten tapahtui skandaali. 
+
+          Millä tavalla nämä persoonat rikkoivat rajoja? Miten nämä tarinat voivat muuttaa omaa kuvaa Helsingin kaduista? Onko ajassamme vastaavia kaupunkia elävöittäviä persoonia? Millä tavalla kaupungin ja kylän erityiset persoonat eroavat toisistaan?
+
+          Vieraana on kirjailija Anna Kortelainen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-10-09T15:55:00+03:00'
@@ -195,9 +237,13 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-09T21:05:00+03:00'
         end_time: '2025-10-09T21:35:00+03:00'
-      - title: Tosi tarina
+      - title: 'Juurien kesän Elävä Historia: 1980-luku - ihana vuosikymmen'
         start_time: '2025-10-09T21:36:00+03:00'
-        end_time: '2025-10-09T22:26:00+03:00'
+        end_time: '2025-10-09T22:24:10+03:00'
+        description: |
+          1980-luku oli viimeinen vanhan ajan vuosikymmen ennen internettiä ja älypuhelia. Aikalaisten muistossa 80-luku näyttäytyy värikkäänä ja iloisena vuosikymmenenä, jolloin tavallisillakin ihmisillä oli rahaa pieneen ylellisyyteen.
+
+          Haastateltavana tutkimuspäällikö Minna Sarantola-Weiss Helsingin kaupunginmuseosta. Toimittaja Virpi Väisänen.
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-10-09T22:30:00+03:00'
         end_time: '2025-10-09T22:50:00+03:00'
@@ -210,4 +256,28 @@ data:
         start_time: '2025-10-10T00:00:00+03:00'
         end_time: '2025-10-10T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Salieri: Sarja oopp. Palmira, regina di Persia (Palmyra, Persian kuningatar) teemoista (Consortium Classicum /Dieter Klöcker, klarinetti).
+
+          00:19 W.A. Mozart - R. Levin: Sinfonia concertante Es-duuri (Baselin kamariork./Umberto Benedetti Michelangeli).
+
+          00:47 Madetoja: Lintu sininen (Jorma Hynninen, baritoni, ja Ilkka Paananen, piano).
+
+          00:50 Glazunov: Idylli käyrätorvelle ja jousikvartetille (Christoph Ess ja Zemlinsky-kvartetti).
+
+          00:58 Parish Alvars: Harppukonsertto g-molli (Marielle Nordmann ja Franz Liszt -kamariork./Jean-Pierre Rampal).
+
+          01:28 Sinding: Sonaatti viululle ja pianolle A-duuri (Stephan Barratt-Due ja Eva Knardahl).
+
+          01:56 A. Tanejev: Jousikvartetot n:o 1 G-duuri, 2 C-duuri ja 3 A-duuri (Talan-kvartetti). 
+
+          03:06 Shostakovitsh: Sarja Michelangelo Buonarrotin runoihin (Ildar Abdrazakov, basso, ja Chicagon SO/Riccardo Muti).
+
+          03:49 Smetana: Unelmia, kuusi karakteristista kappaletta pianolle (Antonin Kubalek). 
+
+          04:17 Paganini: Sonaatti alttoviululle ja kitaralle (Scott St. John ja Simon Wynberg).
+
+          04:31 Respighi: Botticellin triptyykki (Orpheus-kamariork.).
+
+          04:53 de Machaut: Messe de Nostre Dame (Neitsyt Marian messu) (Graindelavoix/Björn Schmelzer).
+
+          06:07 J.S. Bach: Partita klaveerille n:o 3 a-molli (Elina Mustonen, cembalo).

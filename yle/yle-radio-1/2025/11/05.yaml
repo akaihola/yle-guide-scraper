@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-02T02:30:25.212286+00:00'
+  generated_at: '2025-10-03T02:30:01.536911+00:00'
   git:
     branch: main
-    commit: 05c4110c42c24d9f54b936466ce02ccf18097fe1
-  data_hash: 467185bb851032a43d61e8432ce2b788e039a79b69232be81947a7dce6aa1c94
+    commit: 508419a24cedb664bbad03f168ca909c3c790c17
+  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
 data:
   Yle Radio 1:
     programmes:
@@ -118,6 +118,11 @@ data:
       - title: 'Radioteatteri esittää:'
         start_time: '2025-11-05T22:26:00+02:00'
         end_time: '2025-11-05T23:05:00+02:00'
+      - title: 'Kairossa kadonnut J4: Populaarin lumo'
+        start_time: '2025-11-05T23:15:00+02:00'
+        end_time: '2025-11-05T23:39:00+02:00'
+        description: |-
+          Mitä tapahtuu, kun otsikot ja huhut vievät totuudelta tilaa? Lasse Kekin ystävä ja kollega Tom Linkinen kumoaa osan katoamiseen liittyvistä huhupuheista. Lisäksi mediatutkija Pauliina Tuomi pohtii, mitä Lasse Kekin tapauksesta kertoo se, että siitä on kirjoitettu niin vähän. Miksi jotkut tarinat jäävät kertomatta?
       - title: Yöklassinen
         start_time: '2025-11-05T23:40:00+02:00'
         end_time: '2025-11-06T06:30:00+02:00'
