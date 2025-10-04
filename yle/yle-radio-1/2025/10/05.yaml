@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:51.501089+00:00'
+  generated_at: '2025-10-04T02:26:50.760256+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -75,6 +75,11 @@ data:
           (Reijo Koskinen, klarinetti, Jussi Särkkä, fagotti, Jouko Harjanne, kornetti, Teppo Alestalo, pasuuna, Tim Ferchen. lyömäsoittimet, Zoltan Takács, viulu, Jukka Nuuttila, kontrabasso, joht.Petri Sakari).
 
           Kuulemme myös otteen Ylen Radioteatterin esityksestä vuodelta 1985.
+      - title: Radio 1 soi
+        start_time: '2025-10-05T07:52:50+03:00'
+        end_time: '2025-10-05T08:00:00+03:00'
+        description: |-
+          W.A. Mozart: Adagio B-duuri (Reijo Koskinen ja Jyri Nissilä, klarinetti, sekä Kullervo Kojo, Marja Haapamäki ja Antti Koskela, basettitorvi).
       - title: Yle Uutiset ja sää
         start_time: '2025-10-05T08:00:00+03:00'
         end_time: '2025-10-05T08:05:05+03:00'
@@ -263,10 +268,20 @@ data:
 
           Kuulemme myös otteen Ylen Radioteatterin esityksestä vuodelta 1985.
       - title: 'Sari Valto: Amerikkalainen elämä suomalaisin silmin'
-        start_time: '2025-10-05T22:18:00+03:00'
-        end_time: '2025-10-05T23:12:43+03:00'
+        start_time: '2025-10-05T22:18:53+03:00'
+        end_time: '2025-10-05T23:13:36+03:00'
         description: |
           Mitä meidän olisi hyvä ymmärtää amerikkalaisesta elämästä, kun seuraamme sieltä uutisia? Vieraina toimittaja Iida Tikka ja Suomi-Amerikka -seuran toiminnanjohtaja Lena Grenat.
+      - title: Radio 1 soi
+        start_time: '2025-10-05T23:13:36+03:00'
+        end_time: '2025-10-05T23:18:59+03:00'
+        description: |-
+          Schubert: Mondenschein (Kuutamo) (Neill Archer, tenori, The King's Singers -vokaaliyhtye ja Roger Vignoles, piano).
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-10-05T23:18:59+03:00'
+        end_time: '2025-10-05T23:24:47+03:00'
+        description: |
+          Sari Valto haastattelee Annastiina Heikkilää kulttuurikokemuksista. Ensilähetys oli 17.7.2025.
       - title: 'Romano mirits: Kokista hammashoitajaksi – Nadja Tamminen seurasi unelmaansa'
         start_time: '2025-10-05T23:25:00+03:00'
         end_time: '2025-10-05T23:38:56+03:00'

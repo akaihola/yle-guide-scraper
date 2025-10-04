@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:51.233071+00:00'
+  generated_at: '2025-10-04T02:26:50.415214+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -39,15 +39,15 @@ data:
 
           07:19 Erlebach: Triosonaatti viululle, viola da gamballe ja continuolle n:o 5 (Marie Rouquié, viulu, Isabelle Saint-Yves, viola da gamba, ja Le Banquet Céleste/Damien Guillon). 
       - title: 'Luomiskertomus: Antti Reini - Kaunis mahdottomuus'
-        start_time: '2025-10-04T07:31:00+03:00'
-        end_time: '2025-10-04T07:56:00+03:00'
+        start_time: '2025-10-04T07:30:45+03:00'
+        end_time: '2025-10-04T07:52:05+03:00'
         description: |
           Näyttelijä kirjailija Antti Reinin Kaunis mahdottomuus -romaani on tarina pikkurikollisten maailmasta. Romaanin tapahtumapaikkoja ovat Helsingin rosoiset öiset kadut ja päähenkilöinä kaksi taksikuskia – Jarkko ja Daniel. Miesten kyytiin sattuu kaikenlaisia asiakkaita ja pian lukijakin huomaa olevansa Helsingin hämäriä katuja pitkin ajavan taksin kyydissä. Kuten kaupungeista niin myös rikollisten maailmasta, löytyy kuitenkin romaanin nimen mukaisesti kaunis mahdottomuus, elämän valoisampi puoli. 
 
           Luomiskertomuksen vieraana kirjailija Antti Reini.
           Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-10-04T07:56:00+03:00'
+        start_time: '2025-10-04T07:52:05+03:00'
         end_time: '2025-10-04T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-10-04T08:00:00+03:00'
@@ -132,6 +132,14 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-04T12:05:00+03:00'
         end_time: '2025-10-04T12:30:00+03:00'
+        description: |
+          Eri puolilla Eurooppaa siirtolais- ja maahantulopolitiikka on tiukentumassa. Ensi kesänä voimaan astuu EU:n yhteinen siirtolais- ja maahanmuuttopaketti, mutta sekään ei ole enää kaikkien jäsenmaiden mieleen.
+
+          Erityisen kiistanalainen kohta on ns. solidaarisuusmekanismi, jossa jäsenmaat sitoutuvat auttamaan turvapaikanhakijoita eniten vastaanottavia jäsenmaita. Suomi tukee pakettia, mutta hallitus on ilmoittanut, että Suomi ei vastaanota muista maista turvapaikanhakijoita, vaan auttaa rahallisesti.
+
+          EU:n siirtolaispolitiikan kiristyminen näkyy jo konkreettisesti Välimerellä, joka on Eurooppaan pyrkivien siirtolaisten pääreitti. Ohjelmassa kuullaan siirtolaisia auttavalta italialaiselta järjestöltä, miten avustustyö on vaikeutunut.
+          Ohjelmassa haastateltavan YK:n siirtolaisuusjärjestön IOM:n johtaja arvioi EU:n olevan nyt maahanmuuttopolitiikan risteyskohdassa.
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Erja Tuomaala, Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Joonatan Kotila. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Outopodcast: Kummitusjuna haihtuu savuna ilmaan'
         start_time: '2025-10-04T12:30:00+03:00'
         end_time: '2025-10-04T12:49:00+03:00'
@@ -240,14 +248,15 @@ data:
         end_time: '2025-10-04T19:02:00+03:00'
       - title: 'Joensuun kaupunginorkesterin konsertti: Rakkauden vuodenajat'
         start_time: '2025-10-04T19:02:00+03:00'
-        end_time: '2025-10-04T20:25:00+03:00'
+        end_time: '2025-10-04T20:31:00+03:00'
         description: |-
           Joensuun kaupunginorkesterin residenssitaiteilijana keväällä 2025 aloittanut Outi Tarkiainen kertoo teoksestaan The Seasons of Love:
 
           "Klarinettikvintetto The Seasons of Love juhlii rakkauden voimaa, joka muuttuu elämän vuodenaikojen mukana. Olen omistanut sen elämäni rakkaudelle, aviopuolisolleni ja lasteni isälle Lauri Salliselle. The Seasons of Love on samalla eräänlainen muotokuva juuri hänestä – elämän eri aikoina, menneinä ja tulevina – klarinetistina ja miehenä; sellaisena, jona häntä rakastan."
 
           Joensuun kaupunginorkesterin konsertissa Tarkiaisen teoksen solistina soittaa hänen aviopuolisonsa Lauri Sallinen. 
-          Torstaina 2.10.2025 Joensuun Carelia-salissa tallennetun konsertin toimittaa Ainomaija Pennanen. Konserttilähetyksen äänisuunnittelusta ja -toteutuksesta vastaavat Jari Rantakaulio ja Antti Pohjola. 
+
+          Väliajalla Joensuuhun suunniteltavasta musiikki- ja kulttuuritalosta kertovat Joensuun kaupunginorkesterin intendentti Marjo Vattulainen sekä Pohjois-Karjalan Osuuskaupan toimitusjohtaja Juha Kivelä. Toimittajana on Ainomaija Pennanen, ja konserttilähetyksen äänisuunnittelusta ja -toteutuksesta vastaavat Jari Rantakaulio ja Antti Pohjola. Konsertin audio on tallennettu 2.10. aikana Joensuun Carelia-salissa.
 
 
           Ohjelma ja esiintyjät:
@@ -259,32 +268,46 @@ data:
           Felix Mendelssohn: Die Schöne Melusine, op. 32
           Outi Tarkiainen: The Seasons of Love, klarinetille ja jousille
           Felix Mendelssohn: Sinfonia nro 4, op. 90 A‑duuri “Italialainen”
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Miksi nykyinen työttömyyskriisi ei tuo kansaa kaduille kuten 90-luvulla?'
         start_time: '2025-10-04T21:01:00+03:00'
-        end_time: '2025-10-04T21:26:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        end_time: '2025-10-04T21:23:43+03:00'
+        description: |-
+          Työttömyyden luvut ovat nyt synkimpiä vuosikausiin, mutta miksi nyt ei nousta barrikadeille kun 90-luvulla? Entä onko toivoa paremmasta näkyvissä? Atte Uusinokan vieraana on professori, työmarkkinahistorijoitsija Tapio Bergholm. 
       - title: Poiminta Radio 1:n iltapäivästä
-        start_time: '2025-10-04T21:27:00+03:00'
-        end_time: '2025-10-04T21:50:00+03:00'
+        start_time: '2025-10-04T21:23:43+03:00'
+        end_time: '2025-10-04T21:44:58+03:00'
+        description: |-
+          Miia Lahti haastattelee näyttellijä Marc Gassotia. Ensilähetys oli 1.4.2025.
+      - title: Radio 1 soi
+        start_time: '2025-10-04T21:44:58+03:00'
+        end_time: '2025-10-04T21:59:24+03:00'
+        description: |-
+          Fauré: Masques et bergamasques (Monte Carlon FO/James De Preist).
       - title: 'Maailman tärkein pieni asia: Teppo Mäkynen on koripallomies'
-        start_time: '2025-10-04T22:00:30+03:00'
-        end_time: '2025-10-04T22:20:00+03:00'
+        start_time: '2025-10-04T21:59:24+03:00'
+        end_time: '2025-10-04T22:17:24+03:00'
         description: |-
           Jazzrumpali Teppo Mäkyselle koripallo on tärkeä laji. Toimittajana Maija Salminen.
       - title: 'Kielen päällä: Osta mustat kengät - tekoäly voi auttaa ostoksissa'
-        start_time: '2025-10-04T22:20:30+03:00'
-        end_time: '2025-10-04T22:30:00+03:00'
+        start_time: '2025-10-04T22:18:24+03:00'
+        end_time: '2025-10-04T22:27:00+03:00'
         description: |-
           Miltä näytää tekoälyn tulevaisuus? Tekoälyn seuraava iso aalto saattaa olla aktiivisempi vaihe, missä tekoäly hoitaa arkisia asioita helpottamalla ja nopeuttamalla niitä. Toimittaja Jari Aulan haastateltavana on tekoälyyn perehtynyt Jaakko Lempinen Yleltä.
       - title: 'Keinuva talo - Mika Kauhanen: Fiittaaja tuo pöytään kykynsä, maineensa ja yleisönsä'
-        start_time: '2025-10-04T22:30:30+03:00'
-        end_time: '2025-10-04T23:29:30+03:00'
+        start_time: '2025-10-04T22:28:00+03:00'
+        end_time: '2025-10-04T23:27:05+03:00'
         description: |
           Fiittaaja on kappaleen arvovieras. Hän ei kuulu vakibändiin, mutta hän on sen veroinen. Hänellä on ominaisuuksia, jotka nostavat kappaleen uudelle tasolle: musiikillisia kykyjä, hohdokas brändi, tai sopivasti erilainen oma yleisöpohja. Kääntäen: jos haluaa rivimuusikosta fiittaajaksi, täytyy vaatia oma nimi kappaleen päätekijän viereen, ei alle, ja mieluummin etumerkinnällä feat. Eri musiikinlajista tuleva fiittaaja rikastaa molempien osapuolien taiteilijakuvaa. Uusinta helmikuulta 2025.
+      - title: Radio 1 soi
+        start_time: '2025-10-04T23:27:05+03:00'
+        end_time: '2025-10-04T23:33:28+03:00'
+        description: |-
+          W.A. Mozart: Kreivittären resitatiivi ja aaria oopp. Figaron häät (Soile Isokoski, sopraano, ja RSO/Osmo Vänskä).
       - title: Poiminta Radio 1:n iltapäivästä
-        start_time: '2025-10-04T23:31:00+03:00'
-        end_time: '2025-10-04T23:32:00+03:00'
+        start_time: '2025-10-04T23:33:28+03:00'
+        end_time: '2025-10-04T23:40:00+03:00'
+        description: |-
+          Sari Valto haastettelee kirjaililja Johanna Sinisaloa kulttuurikokemuksista. Ensilähetys oli 18.9.2025.
       - title: Yöklassinen
         start_time: '2025-10-04T23:40:00+03:00'
         end_time: '2025-10-05T07:00:00+03:00'

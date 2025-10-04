@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:51.933105+00:00'
+  generated_at: '2025-10-04T02:26:51.128260+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -200,8 +200,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-10-06T17:00:00+03:00'
         end_time: '2025-10-06T17:20:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Venäjältä jäädytetyistä satojen miljardien potista on väännetty jo vuosia. Rahat haluttaisiin käyttää Ukrainan hyväksi, mutta se on ollut helpommin sanottu kuin tehty. Mikä EU:ta asiassa pidättelee ja mitä varoihin kajoaminen tarkoittaisi? Atte Uusinokan haastattelussa on väitöskirjatutkija ja Kalevi Sorsa -säätiön asiantuntija Antti Ronkainen. 
       - title: 'Keinuva talo - Mika Kauhanen: Syysmusiikkia'
         start_time: '2025-10-06T17:35:00+03:00'
         end_time: '2025-10-06T18:35:00+03:00'
@@ -210,8 +210,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-10-06T18:35:00+03:00'
         end_time: '2025-10-06T18:50:00+03:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Suomalainen kansansäv.: Kaanaanmaa (Jorma Hynninen, baritoni, ja Jukka Kuha, urut).
+
+          Anonyymi: Saavu, Jeesus, suuri armontuoja (A-Men/Mikko Peltokorpi, ja Miikka Lehtoaho, urut).
+
+          Kansansävelmä: Nyt kiitosvirsin mä riemuin laulan. (Toukomettiset/Risto Ainali),
+
       - title: Iltahartaus
         start_time: '2025-10-06T18:50:00+03:00'
         end_time: '2025-10-06T19:00:00+03:00'
@@ -249,16 +254,25 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-06T21:05:00+03:00'
         end_time: '2025-10-06T21:34:30+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Miksi työttömät tai ylipainoiset pannaan häpeämään? Stigma lyö negatiivisen leiman ihmiseen'
         start_time: '2025-10-06T21:35:00+03:00'
-        end_time: '2025-10-06T22:24:30+03:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+        end_time: '2025-10-06T22:14:12+03:00'
+        description: |+
+          Sosiologiassa stigma jäsennetään nykyään usein niin, että huomio kiinnittyy leimatun yksilön tai ihmisryhmän sijaan niihin sosiaalisiin prosesseihin, jotka luovat ja ylläpitävät stigmaa. Stigmaan liittyviä psykologisia ja kognitiivisia prosesseja on yritetty selittää mm. evoluutioteoreettisesta näkökulmasta. 
+
+          Jaksossa avataan stigmaa ilmiönä ja tutustutaan stigman eri lajeihin. Lisäksi kuulet Suomessa vaikuttaneesta  Liikalihavuuden vastustamisyhdistyksestä, joka pyrki aktiivisesti liittämään ylipainoon häpeällisiä mielikuvia.
+
+          Haastateltavina ovat Itä-Suomen yliopiston projektitutkija Essi Rovamo, sekä lihavuuden historiaan perehtynyt Oulun yliopiston tutkija Eve-Riina Hyrkäs.
+
+          Toimittaja on Juuso Pekkinen
+          Äänisuunnittelija jaksossa on Matias Puumala
+
+      - title: Näistä levyistä en luovu, vieraana sopraano Karita Mattila
         start_time: '2025-10-06T22:45:00+03:00'
-        end_time: '2025-10-06T23:39:00+03:00'
+        end_time: '2025-10-06T23:39:36+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Karita Mattila on paitsi oopperadiiva myös country gal! Miten nämä kaksi maailmaa kohtaavat toisensa? 
+          Toimittajana Marko Miettinen
       - title: Yöklassinen
         start_time: '2025-10-06T23:40:00+03:00'
         end_time: '2025-10-07T06:30:00+03:00'

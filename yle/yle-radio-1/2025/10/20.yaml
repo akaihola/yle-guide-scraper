@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:56.708023+00:00'
+  generated_at: '2025-10-04T02:26:55.332889+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,28 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-20T07:05:00+03:00'
         end_time: '2025-10-20T07:59:59+03:00'
+        description: |+
+          Händel: Allegro concerto grossosta d-molli (Bostonin barokkiork./Martin Pearlman).
+
+          R. Schumann: Widmung (Thomas Quasthoff, bassobaritoni, ja Justus Zeyen, piano).
+
+          Schubert: Impromptu Es-duuri (Murray Perahia, piano).
+
+          Fauré: Pavane (Empire Brass -vaskikvintetti).
+
+          Kansansäv.: The musical priest - Scotch Mary (Jordi Savall, fiideli, ja Andrew Lawrence-King, harppu).
+
+          Chaminade: Syksy (Moura Lympany, piano).
+
+          Eller: Romanssi teoksesta Viisi kappaletta jousiorkesterille (Tallinnan kamariork./Tönu Kaljuste).
+
+          Tansk. kansansäv. (sov. Danish String Quartet): Menuetti n:o 60 (Danish String Quartet).
+
+          Beethoven: Rondo a capriccio G-duuri "Kiukku kadonneen kolikon takia" (Berliinin saksal. sinf.ork./Roland Kluttig).
+
+          O. Merikanto: Loppukohtaus oopp. Pohjan neiti (Folke Gräsbeck 
+          ja Peter Lönnqvist, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-20T08:00:00+03:00'
         end_time: '2025-10-20T08:07:00+03:00'

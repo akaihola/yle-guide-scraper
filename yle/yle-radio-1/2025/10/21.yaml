@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:56.980291+00:00'
+  generated_at: '2025-10-04T02:26:55.561222+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-21T07:05:00+03:00'
         end_time: '2025-10-21T07:59:59+03:00'
+        description: |+
+          Haydn, J: Allegretto G-duuri (Ronald Brautigam, fortepiano).
+
+          Cardoso: Nostalgias del Tosalet (Kitaraduo Hildén-Lehtinen).
+
+          Tshaikovski: Albuminlehti D-duuri (Kerava-kvartetti).
+
+          Grieg: Sarabande (Orpheus-kamariork.).
+
+          I. Hannikainen (sov.): Miksi laulat lintuseni  (Olli-Pekka Tuomisalo, saksofoni, ja Jaana Ikkala, piano).
+
+          Kansansäv. (sov. Melartin): Tula tullalla (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          Bonis: Carillon mystique (Myriam Barbaux-Cohen, piano).
+
+          Saint-Saëns: Sapfolainen laulu (Steven Isserlis, sello, ja Pascal Devoyon, piano).
+
+          G. Holst: Menuetti kok. Kolme kappaletta oboelle ja jousikvartetille (Ensemble Arabesques).
+
+          Sibelius: Kuusi (Ralf Gothóni, piano).
+
+          Ravel: Narrin aamulaulu (Bostonin SO/Bernard Haitink).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-21T08:00:00+03:00'
         end_time: '2025-10-21T08:07:00+03:00'

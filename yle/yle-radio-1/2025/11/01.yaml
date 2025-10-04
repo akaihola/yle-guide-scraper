@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:30:00.156463+00:00'
+  generated_at: '2025-10-04T02:26:57.992348+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -107,9 +107,11 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-11-01T16:07:00+02:00'
         end_time: '2025-11-01T17:00:00+02:00'
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Vieraana elokuvaohjaaja Samppa Batal'
         start_time: '2025-11-01T17:00:00+02:00'
         end_time: '2025-11-01T17:50:00+02:00'
+        description: |
+          Samppa Batalille elokuvan merkitys on niin suuri, ettei sitä oikein edes kykene hahmottamaan. Aina on tilaa improvisaatiolle ja kiltteydelle. “Olen tajunnut, että aina voi olla kiltti. Se määrittelee paljon, miten kohtelen muita ja itseäni”, sanoo Samppa Batal.
       - title: Lauantain toivotut levyt
         start_time: '2025-11-01T18:00:00+02:00'
         end_time: '2025-11-01T19:00:00+02:00'

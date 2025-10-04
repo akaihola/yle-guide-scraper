@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-03T02:29:57.511377+00:00'
+  generated_at: '2025-10-04T02:26:56.007375+00:00'
   git:
     branch: main
-    commit: 508419a24cedb664bbad03f168ca909c3c790c17
-  data_hash: 6f9a87a42f40bdfd7b2d715543e23e12fac3e35b6e7647a37dc200c5b91c7c89
+    commit: a966859a68dea0bc6fef136bba4efea15cadf437
+  data_hash: f1bc15cfdccde226e65d4b0fb20e3d68eff861d29da7a239aa28296a595bba77
 data:
   Yle Radio 1:
     programmes:
@@ -121,9 +121,15 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-23T21:05:00+03:00'
         end_time: '2025-10-23T21:35:00+03:00'
-      - title: 'Riku Rantala: M/S Mystery'
-        start_time: '2025-10-23T21:35:00+03:00'
+      - title: 'Riku Rantala: M/S Mystery K4J2: Uutisia maalta ja mereltä'
+        start_time: '2025-10-23T21:36:00+03:00'
         end_time: '2025-10-23T22:25:00+03:00'
+        description: |-
+          Riku kutsuu koolle toimituspalaverin, sillä Malesiassa kadonneen pojan tapausta on tutkittava lisää. Riku aloittaa poliisikierroksen puheluilla pitkin maailmaa Sastamalasta Malesiaan. Käy ilmi, että äiti on johtanut katoamisen tutkimuksia tähän saakka lähes yksin.
+
+          Vinkkipuhelimeen tulee taas surullinen viesti, ja Riku päättää kuulla väkivaltaisen laivaduunarin uhrin tarinan. 
+
+          Jaksoa ei suositella herkille kuulijoille.
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-10-23T22:30:00+03:00'
         end_time: '2025-10-23T22:50:00+03:00'
