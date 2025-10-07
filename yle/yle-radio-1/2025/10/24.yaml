@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-06T02:32:26.588801+00:00'
+  generated_at: '2025-10-07T02:30:53.909509+00:00'
   git:
     branch: main
-    commit: be3cd8c84ff1a2565d28fa0099d38194a889f4ec
-  data_hash: bb18d86c5a8ebc1cb1c71bcb33e842b6d3b0bd86abf25e3fc2f02a527d57a248
+    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
+  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,27 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-24T07:05:00+03:00'
         end_time: '2025-10-24T07:59:59+03:00'
+        description: |+
+          Beethoven: Entrata serenadista D-duuri (Lincoln Centerin kamarimusiikkiseuran yhtye).
+
+          Kansansäv. (sov. Kanga): Ash grove (Tommy Reilly, huuliharppu, ja Skaila Kanga, harppu).
+
+          J.S. Bach: Fuuga n:o 13 sarj. Die Kunst der Fuge (Hesperion XX/Jordi Savall). 
+
+          Vivaldi: Konsertto jousille ja continuolle B-duuri (Accademia Bizantina/Ottavio Dantone).
+
+          Schubert: Moment musical nro 3 f-molli (Van Cliburn, piano).
+
+          Halvorsen: Intrata (Norjan radio-orkesteri/Ari Rasilainen).
+
+          Arban: Kapriisi ja muunnelmia (Claude Delangle, alttosaksofoni, ja Odile Delangle, piano).
+
+          O. Merikanto: Idylli (Tapani Valsta, piano).
+
+          Schubert: Saksalainen tanssi D-duuri (Göran Söllscher, kitara).
+
+          Berio - Boccherini: Ritirata notturna di Madrid (RSO/Hannu Lintu).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-24T08:00:00+03:00'
         end_time: '2025-10-24T08:07:00+03:00'
@@ -85,8 +106,22 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-10-24T16:07:00+03:00'
         end_time: '2025-10-24T16:59:00+03:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Satie: Gymnopedie n:o 1 sarj. Trois gymnopedies (Jean-Yves Thibaudet, piano). 
+
+          Brahms: Adagio viulukons. D-duuri (Gil Shaham, viulu, Albrecht Mayer, oboe, ja Berliinin filharmonikot/Claudio Abbado). 
+
+          O. Merikanto: Reppurin laulu (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Rautavaara: Adagietto kons. harpulle ja orkesterille (Marielle Nordmann, harppu, ja HKO/Leif Segerstam). 
+
+          Franck (sov. Bauer): Preludi sarj. h-molli (Alexis Weissenberg, piano). 
+
+          Smetana: Vltava (Berliinin FO/Herbert von Karajan).
+
+          Kansansäv. (sov. Dale): Soay (Voces8 sekä Matthew Sharp, sello).
+
+          O. Merikanto: Juna kiitää ohitse pianosarjasta Lasten maailmasta (Kalevi Kiviniemi, urut).
       - title: 'Iida Tikka & mureneva maa 5/6: Kilpailu on luusereille'
         start_time: '2025-10-24T17:00:00+03:00'
         end_time: '2025-10-24T17:20:00+03:00'

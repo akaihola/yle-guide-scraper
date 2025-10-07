@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-06T02:32:24.029145+00:00'
+  generated_at: '2025-10-07T02:30:48.960111+00:00'
   git:
     branch: main
-    commit: be3cd8c84ff1a2565d28fa0099d38194a889f4ec
-  data_hash: bb18d86c5a8ebc1cb1c71bcb33e842b6d3b0bd86abf25e3fc2f02a527d57a248
+    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
+  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,45 @@ data:
         start_time: '2025-10-12T23:40:00+03:00'
         end_time: '2025-10-13T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Chopin: Balladit pianolle n:ot 1-4 (Garrick Ohlsson).
+
+          00:21 Berlioz: Grande symphonie funèbre et triomphale (Pariisin poliisisoittokunta/Désiré Dondeyne).
+
+          00:59 Vierne: Sonaatti sellolle ja pianolle (Alain Meunier ja Jean Hubeau).
+
+          01:23 W.A. Mozart: Concertone C-duuri (Jaap Schröder, viulu, Marilyn McDonald, viulu, Stephen Hammer, oboe, ja Kenneth Slowik, sello, sekä  Smithsonian-kamariork./Schröder).
+
+          01:52 Ravel: Miroirs (Peilikuvia) (Pierre-Laurent Aimard, piano).
+
+          02:22 Holst: Planeetat (Wienin filharmonikot ja Wienin valtionoopperan kuoron naisäänet/Herbert von Karajan).
+
+          03:11 Bartók: Neljäkymmentäneljä duoa kahdelle viululle (Eugene Drucker ja Philip Setzer).
+
+          03:59 Nielsen: Sinfonia n:o 6 (Sinfonia semplice) (New Yorkin FO/Alan Gilbert).
+
+          04:40 Tulindberg: Jousikvartetto n:o 2 d-molli (Pohjanmaa-kvartetti).
+
+          04:55 Auber: Balettimusiikkia oopp. Gustave III, ou le bal masqué (Englantilainen kamariork./Richard Bonynge).
+
+          05:21 J.S. Bach: Partita klaveerille n:o 5 G-duuri (Elina Mustonen, cembalo).
+
+          05:46 C.P.E. Bach: Sinfonioita kamariorkesterille (Carl Philipp Emanuel Bach -kamariork./Hartmut Haenchen).
+
+          06:26 Ortiz: Recercada n:o 4 (Mika Suihkonen, viola da gamba, ja Ballo della Battalia).
       - title: Hartaita säveliä
         start_time: '2025-10-13T06:30:50+03:00'
         end_time: '2025-10-13T06:50:00+03:00'
+        description: |+
+          Schop: Kirkkaat riemun äänet soivat (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
+          Kansansävelmä (sov. Huusko): Nyt kodista laulun mä laulan (Henna-Mari Sivula, sopraano, Mikko Salakari, tenori, ja Olli Kinnunen, urut).
+
+          Piiparinen: Mikä ainainen riemu (Jorma Hynninen, baritoni, ja Gustav Djupsjöbacka, piano).
+
+          Mendelssohn: Kiitä Herraa, yö ja päivä (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Tikka: Armolaulu (Sauli Tiilikainen, baritoni, ja Jukka Savijoki, kitara).
+
       - title: Aamuhartaus
         start_time: '2025-10-13T06:50:00+03:00'
         end_time: '2025-10-13T06:59:59+03:00'
@@ -62,6 +97,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-13T09:04:00+03:00'
         end_time: '2025-10-13T09:59:00+03:00'
+        description: |-
+          Fanciulli: Guaglione (Robertino Loreti).
+          Winkler: Napolilainen katulaulaja (Arvi Tikkala).
+          Rodgers: Little girl blue (Anita O'Day).
+          Palmer/Williams: Neljä pientä kirjainta (Brita Koivunen). 
+          Porter: So in love (Mario Lanza).
+          Gougaud/Juannest: Donne-moi (Petula Clark).
+          Di Paola/Taccani: Come prima (Tony Dallara).
+          Porter: Do I love you (Peggy Lee).
+          Hammond/Hazlewood: Pienet nuolet (Arto Sotavalta).
+          Van Wetter: La playa (Monna Bell).
+          Berlin: Let's face the music and dance (Fred Astaire). 
+          Saarnio: Vesivehmaan jenkka (Veikko Sato). 
+          Hadzidakis: Oniro pedión tis jitoniás (Nana Mouskouri).
+          Morricone: Pas vu, pas pris (Mireille Mathieu).
+          Young: Harvest moon (Neil Young).
       - title: 'Virtasen taloushistoria: Hangon sotilasleiri'
         start_time: '2025-10-13T10:00:00+03:00'
         end_time: '2025-10-13T10:52:00+03:00'
@@ -108,16 +159,34 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-13T16:07:00+03:00'
         end_time: '2025-10-13T16:59:00+03:00'
+        description: |-
+          Enna: Romanssi G-duuri (Christina Åstrand, viulu, ja Turun FO/Jukka Iisakkila).
+
+          Spohr: Muunnelmia harpulle F-duuri (Maria Graf). 
+
+          Liszt: Benedictus Kuoromessusta (Missa choralis) (Latvian radion kuoro, joht. Sigvards Klava, sekä Aivars Kalejs, urut).
+
+          L. Boulanger: Vanha puutarha (Margit Rahkonen, piano).
+
+          Massenet: Scène religieuse näytelmämusiikista Les Erinnyes (Truls Mörk, sello, ja Ranskankielisen Sveitsin ork./Neeme Järvi).
+
+          Desportes: Sicilienne ja Allegro (Tanja Nisonen, käyrätortiv, ja Emil Holmström, piano). 
+
+          Byrd/Kansansäv./Polso: Karlebynejdens brudmarsch - Monsieur's alman (Tea Polso, cembalo). 
+
+          Melartin: Rondo sonaatista huilulle ja harpulle (Ilpo Mansnerus ja Marjatta Haahti).
+
+          Rautavaara: Joutsenet muuttavat konsertosta Cantus arcticus (Sinfonia Lahti/Osmo Vänskä).
       - title: Uutispodcast
         start_time: '2025-10-13T17:00:00+03:00'
         end_time: '2025-10-13T17:20:00+03:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Maa, ilma, tuli, vesi'
         start_time: '2025-10-13T17:35:00+03:00'
         end_time: '2025-10-13T18:35:00+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Klassiset alkuaineet, maailman peruselementit, soivat vaikuttavasti valikoimassa. Millainen on maa ja maisema erilaisilla musiikintekijöillä? Ilma on saanut kokonaisen musiikinlajin Irlannissa, "air". Onko flamenco maailman tulisin musiikinlaji? Millainen rooli vedellä on kansanlaulujen myyttisissä kohtaloissa? Toimittajana Mika Kauhanen. Uusinta maaliskuulta 2023.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-10-13T18:35:00+03:00'
         end_time: '2025-10-13T18:50:00+03:00'

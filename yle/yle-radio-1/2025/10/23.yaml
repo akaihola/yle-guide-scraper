@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-06T02:32:26.378349+00:00'
+  generated_at: '2025-10-07T02:30:53.479367+00:00'
   git:
     branch: main
-    commit: be3cd8c84ff1a2565d28fa0099d38194a889f4ec
-  data_hash: bb18d86c5a8ebc1cb1c71bcb33e842b6d3b0bd86abf25e3fc2f02a527d57a248
+    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
+  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-23T07:05:00+03:00'
         end_time: '2025-10-23T07:59:59+03:00'
+        description: |+
+          W.A. Mozart: Tertsetto sarjasta puhaltimille oopperan Figaron häät kohtauksista (Mozzafiato).
+
+          Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
+
+          Stölzel: Bist du bei mir (Peter Schreier, tenori, Walter Heinz Bernstein, cembalo, Siegfried Pank,  viola da gamba, ja Achim Beyer, violone).
+
+          W. A. Mozart: Rondo viululle ja orkesterille n:o 2 C-duuri (Oleh Krysa, viulu, ja Ukrainan kamariork./Theodore Kuchar). 
+
+          Albéniz: Mallorca (Santiago Rodriguez, piano).
+
+          Presti: Serenadi kahdelle kitaralle (Olivier Chassain ja Stein-Erik Olsen).
+
+          Fauré: Serenadi h-molli (Susanna Mälkki, sello, ja Eero Heinonen, piano).
+
+          Strauss: Balettimusiikkia oper. Lepakko (Wienin filharmonikot/Herbert von Karajan).
+
+          Stravinsky (sov. Sweeney): Tango (The Caliban Quartet).
+
+          Barrios: Maxixa (John Williams, kitara).
+
+          Doucet: Chopinata viihdesovitus (Marc-Andre Hamelin, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-23T08:00:00+03:00'
         end_time: '2025-10-23T08:07:00+03:00'
