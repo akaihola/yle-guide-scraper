@@ -1,14 +1,149 @@
 metadata:
-  generated_at: '2025-10-07T02:30:59.797534+00:00'
+  generated_at: '2025-10-08T02:30:44.195064+00:00'
   git:
     branch: main
-    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
-  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
+    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
+  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-11-10T23:40:00+02:00'
         end_time: '2025-11-11T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-11-11T06:30:50+02:00'
+        end_time: '2025-11-11T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2025-11-11T06:50:00+02:00'
+        end_time: '2025-11-11T06:59:59+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2025-11-11T07:00:00+02:00'
+        end_time: '2025-11-11T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2025-11-11T07:05:00+02:00'
+        end_time: '2025-11-11T07:59:59+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-11-11T08:00:00+02:00'
+        end_time: '2025-11-11T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2025-11-11T08:07:00+02:00'
+        end_time: '2025-11-11T09:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-11-11T09:00:00+02:00'
+        end_time: '2025-11-11T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-11-11T09:04:00+02:00'
+        end_time: '2025-11-11T09:59:00+02:00'
+      - title: Sari Valto
+        start_time: '2025-11-11T10:00:00+02:00'
+        end_time: '2025-11-11T10:55:00+02:00'
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2025-11-11T11:00:00+02:00'
+        end_time: '2025-11-11T11:57:00+02:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-11-11T11:57:00+02:00'
+        end_time: '2025-11-11T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-11-11T12:00:00+02:00'
+        end_time: '2025-11-11T12:05:00+02:00'
+      - title: 'Kuosmanen Tulenkantajien jäljillä: Uusi luova aika'
+        start_time: '2025-11-11T12:05:00+02:00'
+        end_time: '2025-11-11T12:25:00+02:00'
+        description: |
+          1920-luvulla Tulenkantajat-ryhmä yritti aukoa luterilaisuuden ja heimoaatteen hallitsemassa Suomessa ikkunoita Eurooppaan. Tässä auttoivat ekspressionismi ja koneromantiikka. Mutta mitä ne oikein olivat ja tulenkantajille lupasivat? Vieraina ovat tietokirjailija FT Minna Maijala ja intendentti Tero Metsärinta. Sarjan on toimittanut Jukka Kuosmanen.
+      - title: Aristoteleen kantapää
+        start_time: '2025-11-11T12:25:00+02:00'
+        end_time: '2025-11-11T12:50:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-11-11T12:50:00+02:00'
+        end_time: '2025-11-11T13:00:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-11-11T13:00:00+02:00'
+        end_time: '2025-11-11T13:30:00+02:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-11-11T13:30:00+02:00'
+        end_time: '2025-11-11T15:00:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-11-11T15:00:00+02:00'
+        end_time: '2025-11-11T15:55:00+02:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-11-11T15:55:00+02:00'
+        end_time: '2025-11-11T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-11-11T16:00:00+02:00'
+        end_time: '2025-11-11T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-11-11T16:07:00+02:00'
+        end_time: '2025-11-11T16:59:00+02:00'
+      - title: Uutispodcast
+        start_time: '2025-11-11T17:00:00+02:00'
+        end_time: '2025-11-11T17:20:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-11-11T17:20:00+02:00'
+        end_time: '2025-11-11T17:35:00+02:00'
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2025-11-11T17:35:00+02:00'
+        end_time: '2025-11-11T18:30:00+02:00'
+        description: |+
+          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+
+      - title: Hartaita säveliä
+        start_time: '2025-11-11T18:35:00+02:00'
+        end_time: '2025-11-11T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2025-11-11T18:50:00+02:00'
+        end_time: '2025-11-11T19:00:00+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2025-11-11T19:00:00+02:00'
+        end_time: '2025-11-11T19:02:00+02:00'
+      - title: 'Radioteatteri esittää:'
+        start_time: '2025-11-11T19:02:00+02:00'
+        end_time: '2025-11-11T19:45:00+02:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2025-11-11T20:00:00+02:00'
+        end_time: '2025-11-11T20:20:00+02:00'
+      - title: Romano mirits
+        start_time: '2025-11-11T20:20:00+02:00'
+        end_time: '2025-11-11T20:35:00+02:00'
+        description: |
+          Ajankohtaista asiaa romaneista.
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2025-11-11T20:35:00+02:00'
+        end_time: '2025-11-11T21:00:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-11-11T21:00:00+02:00'
+        end_time: '2025-11-11T21:05:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-11-11T21:05:00+02:00'
+        end_time: '2025-11-11T21:34:30+02:00'
+      - title: Sari Valto
+        start_time: '2025-11-11T21:35:00+02:00'
+        end_time: '2025-11-11T22:29:30+02:00'
+        description: |
+          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+      - title: 'Maailman paras Tarja Turunen: I love you, Tarja!'
+        start_time: '2025-11-11T22:30:00+02:00'
+        end_time: '2025-11-11T23:16:00+02:00'
+        description: |-
+          Nyt on aika nähdä Tarja lavalla. Tallinnassa käynnistyy Tarjan ja entisen Nightwish-kollegan Marko Hietalan yhteiskiertue. Ensin juodaan kahvit keikkabussissa ja jutellaan viimeisen kerran Tarjan kanssa. 
+      - title: Yöklassinen
+        start_time: '2025-11-11T23:40:00+02:00'
+        end_time: '2025-11-12T06:30:00+02:00'
         description: |-
           Klassista musiikkia.

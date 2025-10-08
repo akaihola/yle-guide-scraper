@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-07T02:30:55.358546+00:00'
+  generated_at: '2025-10-08T02:30:39.972258+00:00'
   git:
     branch: main
-    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
-  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
+    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
+  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
 data:
   Yle Radio 1:
     programmes:
@@ -161,9 +161,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-28T19:00:00+02:00'
         end_time: '2025-10-28T19:02:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: Paljonko ihminen tarvitsee maata.
         start_time: '2025-10-28T19:02:00+02:00'
         end_time: '2025-10-28T19:45:00+02:00'
+        description: |
+          Kuunnelma pohjautuu Leo Tolstoin novelliin, joka on vertauskuvallinen kertomus ihmisen rajattomasta ahneudesta ja loputtomasta omistamisen halusta. Tarina pohtii, milloin ihminen on tyytyväinen saavutuksiinsa ja varoittaa omistamisen kirouksesta - askel ahneuden tielle sitoo ihmisen materiaalin orjaksi.
+
+          Kuunnelma, Leo Tolstoin novellin mukaan kirjoittanut Max Gundermann. Yleisradiolle suomentanut Kirsti Liivala.  Ohjaus: Urpo Lauri.     
+          Henkilöt:
+          Pahom Mihailovits Bodrov - Kauko Käyhkö.  Akulina, hänen vaimonsa - Aino Lehtimäki.      Misenka, heidän poikansa - Tauno Lahtinen. Sidor, Pahomin renki - Aimo Hiltunen. Semjon Semjonovits - Kauko Kokkonen.  Tuntematon musikka - Uuno Montonen. Vasili Andrejevits - Kosti Klemelä. Marfa, hänen vaimonsa - Eija Hiltunen.  Jefim Tarasovits Seveljov - Oiva Sala.      Ivan Petrovits Aksjonov - Toivo Mäkelä. Baskiirien vanhin - Reino Valkama. Baskiireja:  Matti Aulos ja Tarmo Manni.
+          Kuunnelma vuodelta 1958.
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-28T20:00:00+02:00'
         end_time: '2025-10-28T20:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-07T02:30:45.834436+00:00'
+  generated_at: '2025-10-08T02:30:34.590679+00:00'
   git:
     branch: main
-    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
-  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
+    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
+  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
 data:
   Yle Radio 1:
     programmes:
@@ -67,7 +67,7 @@ data:
         description: |
           "Kärsivä Vapahtaja, Hyvä Paimen ja Kunnian Kuningas"
           Kirkkokunnan johtaja Jari Portaankorva, Baptistiyhdyskunta, Helsingistä puhuu psalmien 22, 23 ja 24 muodostamasta kolmisointuisesta kokonaisuudesta.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Marianna Visapään mielestä baletti on kauneinta maailmassa'
         start_time: '2025-10-11T08:40:00+03:00'
         end_time: '2025-10-11T09:00:00+03:00'
       - title: Yle Uutiset ja sää
@@ -128,11 +128,24 @@ data:
         end_time: '2025-10-11T13:55:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
-      - title: Ruben Stiller
+          Pasi Heikura, suomen kielen rakastaja, kuuntelee musiikkia lähes koko ajan. Mitkä kappaleet valikoituivat kovalevylautaselle? 
+      - title: 'Ruben Stiller: Narri, nero, nöryyyttäjä'
         start_time: '2025-10-11T14:00:00+03:00'
         end_time: '2025-10-11T14:55:00+03:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Jokaisella on Turkkansa.
+
+          Millainen oli 80-luvun Suomi, jossa Turkka järkytti keskiluokan mentaalihygieniaa?
+
+          Onko Turkan kaltaisten miesnerojen aika ohi?
+
+          Millainen oli hänen roolinsa 80-luvun Suomen näyttämöllä?
+
+          Ohjelmassa keskustellaan myös Turkan mustasta pedagogista — Turkasta nöyryyttäjänä.
+
+          Vieraana on tietokirjailija  Hannu Harju, jonka kirja ”Jouko Turkka — Narri, nero, nöyryyttäjä” kertoo 
+
+          Turkan tiestä kansakunnan demoniseksi narriksi.
       - title: Ykköskolumni
         start_time: '2025-10-11T14:55:00+03:00'
         end_time: '2025-10-11T15:00:00+03:00'

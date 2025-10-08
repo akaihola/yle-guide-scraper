@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-07T02:30:44.686201+00:00'
+  generated_at: '2025-10-08T02:30:34.135567+00:00'
   git:
     branch: main
-    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
-  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
+    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
+  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
 data:
   Yle Radio 1:
     programmes:
@@ -97,11 +97,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-10T09:04:00+03:00'
         end_time: '2025-10-10T09:59:00+03:00'
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Narri, nero, nöryyyttäjä'
         start_time: '2025-10-10T10:00:00+03:00'
         end_time: '2025-10-10T10:55:00+03:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Jokaisella on Turkkansa.
+
+          Millainen oli 80-luvun Suomi, jossa Turkka järkytti keskiluokan mentaalihygieniaa?
+
+          Onko Turkan kaltaisten miesnerojen aika ohi?
+
+          Millainen oli hänen roolinsa 80-luvun Suomen näyttämöllä?
+
+          Ohjelmassa keskustellaan myös Turkan mustasta pedagogista — Turkasta nöyryyttäjänä.
+
+          Vieraana on tietokirjailija  Hannu Harju, jonka kirja ”Jouko Turkka — Narri, nero, nöyryyttäjä” kertoo 
+
+          Turkan tiestä kansakunnan demoniseksi narriksi.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-10T10:55:00+03:00'
         end_time: '2025-10-10T11:00:00+03:00'
@@ -174,7 +186,7 @@ data:
 
           Bellini: Vaga luna che inargenti (Kulkee kuu hopeinen) (Luciano Pavarotti, tenori, ja Lontoon Philharmonia-ork./Piero Gamba).
 
-          Mozart: Adagio pianokonsertosta nro 23 A-duuri (Vladimir Horowitz, piano, ja Milanon La Scala -oopperan ork./Carlo Maria Giulini).
+          W.A. Mozart: Adagio pianokonsertosta nro 23 A-duuri (Vladimir Horowitz, piano, ja Milanon La Scala -oopperan ork./Carlo Maria Giulini).
       - title: 'Iida Tikka & mureneva maa 3/6: Vapaus räjäyttää vaikka vuori'
         start_time: '2025-10-10T17:00:00+03:00'
         end_time: '2025-10-10T17:20:00+03:00'
@@ -188,6 +200,7 @@ data:
         end_time: '2025-10-10T18:30:00+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Pasi Heikura, suomen kielen rakastaja, kuuntelee musiikkia lähes koko ajan. Mitkä kappaleet valikoituivat kovalevylautaselle? 
       - title: Hartaita säveliä
         start_time: '2025-10-10T18:35:00+03:00'
         end_time: '2025-10-10T18:50:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-07T02:30:59.311691+00:00'
+  generated_at: '2025-10-08T02:30:43.637482+00:00'
   git:
     branch: main
-    commit: fca59fe8fd327673139832a8aa5c044d8d4e77a4
-  data_hash: 41dec7da4424c155eb80e2334fb09e2542d4ef8bbe8f37254c84450ba92aa477
+    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
+  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
 data:
   Yle Radio 1:
     programmes:
@@ -39,9 +39,15 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-11-09T09:56:00+02:00'
         end_time: '2025-11-09T09:59:00+02:00'
-      - title: Jumalanpalvelus
+      - title: Meditatiivinen messu Kulosaaren kirkosta
         start_time: '2025-11-09T10:00:00+02:00'
         end_time: '2025-11-09T10:59:20+02:00'
+        description: |
+          Meditatiivinen messu Kulosaaren kirkosta. 
+          Liturgina ja saarnaajana seurakuntapastori Stina Huima, avustavana pappina Hiljaisuuden ystävien toiminnanjohtaja Juha Tanska.
+          Tekstinlukijat Hilkka-Liisa Vuori, Raili Tikanoja, Susanna Erätuli ja Sinikka Haapanen.
+          Kanttorina Hilkka-Liisa Vuori. 
+          Muut muusikot: Mikko Heininen, flyygeli, Mika Seppänen, sello.
       - title: Muistojen bulevardi
         start_time: '2025-11-09T11:00:00+02:00'
         end_time: '2025-11-09T11:59:00+02:00'
@@ -106,6 +112,9 @@ data:
       - title: Jumalanpalvelus
         start_time: '2025-11-09T20:00:00+02:00'
         end_time: '2025-11-09T21:00:00+02:00'
+        description: |-
+          Jumalanpalvelus kotkan Baptistiseurakunnasta.
+          Liturgina Tuomas Vuorinen ja saarnaajana Harry Vuolteenaho.
       - title: Uutispodcast
         start_time: '2025-11-09T21:01:00+02:00'
         end_time: '2025-11-09T21:25:00+02:00'
