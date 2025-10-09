@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-08T02:30:36.977227+00:00'
+  generated_at: '2025-10-09T02:31:37.754741+00:00'
   git:
     branch: main
-    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
-  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
+    commit: 621ec3884d42aefc8c3b144486f0f7172370aaa3
+  data_hash: bb2a879552a6692f268573c21202e418c13c91836551cc505d659415b904272f
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-18T08:05:00+03:00'
         end_time: '2025-10-18T08:30:00+03:00'
+        description: |+
+          Tuntematon: Sua kiitän, Jumalani (Cetus Noster, Teppo Lampela, baritoni, ja Eero Palviainen, teorbi).
+
+          I. Hannikainen: Matkamiehen virsi (Kamarikuoro Gloria/Timo Nuoranne).
+
+          Kansanlaulu Yhdysvalloista: Onnellinen vaeltaja (Palo-yhtye).
+
+          Faltin: Mä elän laupeudesta (Kampin Laulu/Markku Pihlaja).
+
+          Spirituaali: All night, all day (Öin ja päivin) (Jussi Makkonen, Ulla Lampela, Iida-Vilhelmiina Laine ja Matti Makkonen, sello).
+
+          Tuntematon keskiajalta: Oi Pyhä Henki, Herramme (Sinfonia Lahti/Osmo Vänskä).
+
+          Tuntematon: Sinua enkeleistä (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
       - title: Aamuhartaus
         start_time: '2025-10-18T08:30:00+03:00'
         end_time: '2025-10-18T08:40:00+03:00'
@@ -61,9 +76,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-18T12:00:00+03:00'
         end_time: '2025-10-18T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Sally Rooney ja ystävyyden vallankumous'
         start_time: '2025-10-18T12:05:00+03:00'
         end_time: '2025-10-18T13:00:00+03:00'
+        description: |-
+          Sally Rooneyn esikoisromaani Keskusteluja ystävien kesken on yksi osoitus siitä, kuinka romanttisen rakkauden varjoon jäänyt ystävyys raivaa hiljalleen tilaa fiktiossa – ja ehkä myös tosielämässä ja tutkimuksen kohteena. Romanttinen rakkaus on kehkeytynyt lähes uskonnon kaltaiseksi voimaksi; se on edustanut onnea ja pelastusta, jota ennen odotettiin tuonpuoleiselta. Nyt uudet sovellukset, tapahtumat ja yhteisöt keskittyvät ystävien löytämiseen ja ihmiset haaveilevat mummokommuuneista. Mistä tämä kertoo, ja ovatko nämä historiallisesta näkökulmasta kovinkaan uusia ilmiöitä? Millaisia mahdollisuuksia ja haasteita on elämän rakentamisessa ystävyyden ympärille, edelleen aika parisuhde- ja ydinperhekeskeisessä yhteiskunnassamme? 
+          Marja Vehkasen vieraina ovat ihmissuhteisiin erikoistunut kirjoittaja, seksuaalineuvoja Mirja Hämäläinen ja naisten välisen ystävyyden kulttuurihistoriaan perehtynyt väitöskirjatutkija Miira Vuoksenranta.
       - title: Näistä levyistä en luovu
         start_time: '2025-10-18T13:00:00+03:00'
         end_time: '2025-10-18T13:55:00+03:00'

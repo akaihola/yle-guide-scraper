@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-08T02:30:36.549012+00:00'
+  generated_at: '2025-10-09T02:31:37.490956+00:00'
   git:
     branch: main
-    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
-  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
+    commit: 621ec3884d42aefc8c3b144486f0f7172370aaa3
+  data_hash: bb2a879552a6692f268573c21202e418c13c91836551cc505d659415b904272f
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-17T06:30:50+03:00'
         end_time: '2025-10-17T06:50:00+03:00'
+        description: |+
+          Mendelssohn: Herää, Herran seurakunta (Lilli Paasikivi, mezzosopraano, ja Kati Pirttimaa, urut).
+
+          Ranskal. kansansävelmä: Nyt silmäni mä nostan virsi. (Lapuan Nuorisokuoro, joht. Paula Pääkkönen).
+
+          Hulkkonen: Psalmi 23 (Johanna Rusanen, sopraano, ja Kuopion tuomiokirkon kamarikuoro/Pertti Rusanen).
+
+          Pekkarinen: Yksin en kulje (Lasse Riutamaa, tenori, ja Ilkka Paananen, piano).
+
+          Lagi: Mä silmät luon ylös taivaaseen (Palo-yhtye).
+
       - title: Aamuhartaus
         start_time: '2025-10-17T06:50:00+03:00'
         end_time: '2025-10-17T06:59:59+03:00'
@@ -56,6 +67,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-17T08:07:00+03:00'
         end_time: '2025-10-17T09:00:00+03:00'
+        description: |-
+          Tervetuloa lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jalmari Laine.
       - title: Yle Uutiset
         start_time: '2025-10-17T09:00:00+03:00'
         end_time: '2025-10-17T09:03:00+03:00'
@@ -129,6 +142,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-17T18:35:00+03:00'
         end_time: '2025-10-17T18:50:00+03:00'
+        description: |+
+          Tuntematon (sov. Perkola - Julkunen - Knif): Ylistän Herran nimeä (Topi Lehtipuu, tenori, Jarmo Julkunen, teorbi, Mikko Perkola, viola da gamba, ja Jonte Knif, cembalo).
+
+          Buxtehude: Ah Jeesus Kristus, armahda -koraalialkusoitto uruille (Markku Hietaharju).
+
+          Strandsjö: Ottaos, Herra mun käteni (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
       - title: Iltahartaus
         start_time: '2025-10-17T18:50:00+03:00'
         end_time: '2025-10-17T19:00:00+03:00'

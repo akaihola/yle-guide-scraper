@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-08T02:30:38.062645+00:00'
+  generated_at: '2025-10-09T02:31:38.812266+00:00'
   git:
     branch: main
-    commit: 1b158d0c6d3bab37fe1b5f2cca102b155fd93eeb
-  data_hash: 2f0ee879b41f62fe5b53f5a354b46e3f289184f8708e6d79e501314ef9c915d2
+    commit: 621ec3884d42aefc8c3b144486f0f7172370aaa3
+  data_hash: bb2a879552a6692f268573c21202e418c13c91836551cc505d659415b904272f
 data:
   Yle Radio 1:
     programmes:
@@ -149,11 +149,11 @@ data:
         end_time: '2025-10-22T17:20:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Paljain jaloin sammalella – jazzia mikroympäristöjen ääreltä'
         start_time: '2025-10-22T17:35:00+03:00'
         end_time: '2025-10-22T18:35:00+03:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+          Usein metsä näyttäytyy vain vihreänä taustana, mutta oletko miettinyt mistä kaikista asioista se vihreys muodostuu? Kun viivyt metsässä pidempään, alat huomaamaan pienempiä yksityiskohtia, muotoja ja kuvioita. Suurennuslasi käteen, sillä nyt kumarrumme tarkastelemaan sammalia. 
       - title: Hartaita säveliä
         start_time: '2025-10-22T18:35:00+03:00'
         end_time: '2025-10-22T18:50:00+03:00'
@@ -169,22 +169,28 @@ data:
       - title: Konserttilavalla Casals-kvartetti
         start_time: '2025-10-22T19:02:00+03:00'
         end_time: '2025-10-22T21:00:00+03:00'
-        description: |+
+        description: |
+          Espanjalainen Casals-kvartetti tunnetaan erityisesti klassisen kvartetto-ohjelmiston taitajana, mutta se esittää myös aikamme espanjalaista musiikkia. 
+          Kvartetti vieraili elokuussa 2025 Zeistin kansainvälisillä musiikkipäivillä ja esitti konsertissaan seuraavan ohjelman:
+
           Joseph Haydn (1732-1809): Jousikvartetto nro 64 D-duuri, op. 76/5, Hob. III:79 ('Largo')
 
-          Elisenda Fàbregas (1955): Fiery earth, for string quartet  
+          Elisenda Fàbregas (1955): Fiery earth, jousikvartetille  
 
           Johannes Brahms (1833-1897): Pianokvintetto f-molli, op. 34 
 
 
           Casals-kvartetti
+          Abel Tomàs-Realp, viulu
+          Vera Martínez-Mehner, viulu
+          Cristina Cordero, alttoviulu
+          Arnau Tomàs-Realp, sello
           Claudio Martínez Mehner, piano
 
 
           Äänitetty Zeistin kansainvälisillä musiikkipäivillä 16.8.2025. Toimittajana Ainomaija Pennanen. 
 
           Kuvassa Casals-kvartetti © Pablo Rodrigo
-
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-22T21:00:00+03:00'
         end_time: '2025-10-22T21:05:00+03:00'
