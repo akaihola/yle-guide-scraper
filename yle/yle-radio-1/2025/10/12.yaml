@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-09T02:31:36.152229+00:00'
+  generated_at: '2025-10-10T02:31:46.853590+00:00'
   git:
     branch: main
-    commit: 621ec3884d42aefc8c3b144486f0f7172370aaa3
-  data_hash: bb2a879552a6692f268573c21202e418c13c91836551cc505d659415b904272f
+    commit: 2bb41008722dd0d90fe2a074e4e20af2d624b57c
+  data_hash: 6df8a53e2696ab8a7bb1e8c837f95df0a53b848569128ec72168fc03f616e1fd
 data:
   Yle Radio 1:
     programmes:
@@ -69,7 +69,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-12T08:00:00+03:00'
         end_time: '2025-10-12T08:05:05+03:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Dietrich Fischer-Dieskau, mestarilaulajan vuosisata osa 2
         start_time: '2025-10-12T08:05:35+03:00'
         end_time: '2025-10-12T08:59:30+03:00'
         description: |
@@ -126,11 +126,11 @@ data:
       - title: Uudet levyt
         start_time: '2025-10-12T14:00:00+03:00'
         end_time: '2025-10-12T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Ikääntyvässä Suomessa mietitään kaikkea muuta paitsi nuoria'
         start_time: '2025-10-12T14:55:00+03:00'
         end_time: '2025-10-12T15:00:00+03:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Kun väestö vanhenee, paniikki leviää. Nuorille jää keskustelussa taikurin osa – tuottavuuden pitäisi hipoa taivaita, Mäkiranta pohtii.
       - title: 'Maailman paras Tarja Turunen: N-Sana'
         start_time: '2025-10-12T15:00:00+03:00'
         end_time: '2025-10-12T15:41:00+03:00'
@@ -172,8 +172,10 @@ data:
       - title: Jazzklubin illan keikka
         start_time: '2025-10-12T17:59:05+03:00'
         end_time: '2025-10-12T19:00:00+03:00'
-        description: |-
+        description: |
           Jazzklubin illan keikka: Mats Gustafsson & Kimmo Pohjonen Tampere Jazz Happeningissa 2024. Toimittajana Eero Koski.
+
+          Kimmo Pohjonen lähti laajentamaan harmonikan ilmaisuvoimaa jo varhain urallaan elektronisin keinoin. Elektroniset äänimaailmat ja myös laulu kuuluvat vahvoina tänään Gustafsson & Pohjonen -duon annissa. Yli sadalla levytyksellä kuultu free jazz -saksofonisti Mats Gustafsson on Kimmo Pohjosen veroinen improvisaatioon heittäytyjä duon vauhdikkaalla keikalla Tampere Jazz Happening -festivaaleilla vuonna 2024. Toimittajana Eero Koski. 
       - title: Yle Uutiset ja sää
         start_time: '2025-10-12T19:00:00+03:00'
         end_time: '2025-10-12T19:02:05+03:00'
@@ -189,14 +191,14 @@ data:
           "Sinun kansasi on minun kansani" - Ruutin kirjan pohjalta dramatisoitu jumalanpalvelus Lahden metodistiseurakunnasta.
           Pastori Jori Brander, Booas; pastori Susanna Jeremejeff, Noomi; pastori Elisa Brander, Ruut; Liisa Malin, kertoja; Salla Solonen, Orpa. 
           Musiikki: Pekka Rajamaa
-      - title: Uutispodcast
-        start_time: '2025-10-12T21:01:00+03:00'
-        end_time: '2025-10-12T21:25:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+      - title: 'Uutispodcast: Trumpkin haluaa Nobelin – kirittääkö palkinto sopimaan rauhaa?'
+        start_time: '2025-10-12T21:01:10+03:00'
+        end_time: '2025-10-12T21:23:57+03:00'
+        description: |-
+          On taas se viikko, kun Nobelit jaetaan. Viikko huipentuu perjantaina jaettavaan rauhanpalkintoon. Mutta hyödyttävätkö Nobelit vain voittajia vai myös tiedettä, kirjallisuutta ja rauhaa? Reetta Röngän vieraina ovat rauhan asiantuntija Tiina Kukkamäki-Bah CMI:stä, Anna Baijars kirjakustantamo Gummeruksesta sekä fyysikko Paula Eerola Suomen Akatemiasta. 
       - title: 'Klasariparatiisi - Eva Tigerstedt: Oudot metsät ja sielun puutarhat'
-        start_time: '2025-10-12T21:29:00+03:00'
-        end_time: '2025-10-12T22:23:22+03:00'
+        start_time: '2025-10-12T21:24:44+03:00'
+        end_time: '2025-10-12T22:19:06+03:00'
         description: |-
           Mystinen metsä, järjestetty puutarha? Usein metsä ja puutarha mielletään toistensa vastakohdiksi,  toinen villi ja mystinen, toinen vaalittu ja suitsittu, vaikka nykyisin luonnontilaista metsää on hyvin vaikea löytää. Miten metsä tai puutarha on soinut eri aikakausien musiikeissa?
 
@@ -217,8 +219,8 @@ data:
           Caroline Shaw: Plan and elevation jousikvartetille 
           1.The ellipse 2.The cutting garden 3.The herbaceous border 4.The orangery 5.The beech tree (Attacca-jousikvartetti).
       - title: 'Sari Valto: Nostalgia kiehtoo, koska mennyt ei vaadi muutosta'
-        start_time: '2025-10-12T22:27:00+03:00'
-        end_time: '2025-10-12T23:21:18+03:00'
+        start_time: '2025-10-12T22:20:00+03:00'
+        end_time: '2025-10-12T23:14:18+03:00'
         description: |-
           Kaipuun sininen kukka, kirjoitti 1770-luvulla syntynyt runoilija Novalis. Ajasta riippumatta ihmiset ovat aina tunteneet nostalgiaa ja kaihoa. Miksi? Millainen voima nostalgia on nykypäivänä hyvässä ja pahassa? 
       - title: 'Romano mirits: "Varhainen apu voi pelastaa” – Mertsi Tamminen nuorten tilanteesta'

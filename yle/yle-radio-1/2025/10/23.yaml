@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-09T02:31:39.070779+00:00'
+  generated_at: '2025-10-10T02:31:49.457560+00:00'
   git:
     branch: main
-    commit: 621ec3884d42aefc8c3b144486f0f7172370aaa3
-  data_hash: bb2a879552a6692f268573c21202e418c13c91836551cc505d659415b904272f
+    commit: 2bb41008722dd0d90fe2a074e4e20af2d624b57c
+  data_hash: 6df8a53e2696ab8a7bb1e8c837f95df0a53b848569128ec72168fc03f616e1fd
 data:
   Yle Radio 1:
     programmes:
@@ -62,6 +62,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-23T09:04:00+03:00'
         end_time: '2025-10-23T09:59:00+03:00'
+        description: |-
+          Gershwin: Nice work if you can get it (Mel Tormé).
+          Berlin: Aleksanderin Jazz-yhtye (Bruno Laakko ja Lepakot).
+          Lindeborg: Sju vackra gossar (Siw Malmkvist).
+          Jobim: Insensatez (Stan Getz ja Maria Toledo).
+          Jaques: Annoin sulle sydämein (Eila Pellinen).
+          Panzuti: Angelina (Eddie Calvert).
+          Akimof: Alkava pimeä vuodenaika (Akimowskaja Sisters and Bros).
+          Wood: Flowers in the rain (The Move).
+          Meccia: Il pullover (Gianni Meccia).
+          Lindström: Kengänkiillottajapoika (Lasse Liemola).
+          Lai: Where do I begin (Shirley Bassey).
+          Bourgeois: Rendez-vous d'automne (Francoise Hardy).
+          Nevin: The moon is mine (Fairground Attraction).
+          Aaltonen: Täysikuu (Remu Aaltonen).
+          Billy: Vienna (Billy Joel).
       - title: Marko Gustafssonin vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola
         start_time: '2025-10-23T10:00:00+03:00'
         end_time: '2025-10-23T10:50:00+03:00'
@@ -131,7 +147,7 @@ data:
         end_time: '2025-10-23T19:00:00+03:00'
         description: |
           "Kaikki synnit on anteeksi annettu"
-          Kappalainen Jaakko Sääskilahti Laukaalta pohtii Martti Lutherin Raamatusta löytämää tietä täysin Jumalan armon varassa olevaan pelastumiseen.
+          Kappalainen Jaakko Sääskilahti Laukaasta pohtii Martti Lutherin Raamatusta löytämää tietä täysin Jumalan armon varassa olevaan pelastumiseen.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-23T19:00:00+03:00'
         end_time: '2025-10-23T19:02:00+03:00'
