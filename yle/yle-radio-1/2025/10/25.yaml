@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-10T02:31:49.860919+00:00'
+  generated_at: '2025-10-11T02:28:27.029746+00:00'
   git:
     branch: main
-    commit: 2bb41008722dd0d90fe2a074e4e20af2d624b57c
-  data_hash: 6df8a53e2696ab8a7bb1e8c837f95df0a53b848569128ec72168fc03f616e1fd
+    commit: c02d134ab9eadfb96b78ac9f01a8de4c8cfa4b6f
+  data_hash: 70dea53283b5dec4a2ccc6add43ac410a0814b559679950aadc9afa916017be7
 data:
   Yle Radio 1:
     programmes:
@@ -29,8 +29,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-10-25T08:30:00+03:00'
         end_time: '2025-10-25T08:40:00+03:00'
-        description: |-
-          Kuopion ja Karjalan metropoliitta Arseni, Ortodoksinen kirkko, Kuopio
+        description: |
+          "Mitä kuoleman jälkeen tapahtuu?"
+          Kuopion ja Karjalan metropoliitta Arseni, Ortodoksinen kirkko, Kuopio muistelee Dimitrin lauantaina edesmenneitä ja puhuu kuoleman jälkeisestä elämästä.
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-25T08:40:00+03:00'
         end_time: '2025-10-25T09:00:00+03:00'
