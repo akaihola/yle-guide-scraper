@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:15.375142+00:00'
+  generated_at: '2025-10-14T02:31:45.662584+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -166,7 +166,7 @@ data:
         description: |+
           Radio 1:n iltapäivän musiikkitarjottimella on kevyttä jazzia, etnomusiikkia ja populaarimusiikin helmiä. Joni Timonen juontaa. N. klo 14 tanssija, koreografi Liisa Pentti on studiovieraana ennen uuden sooloteoksen ensi-iltaa. Haastattelijana Kati Turtola. N. klo 14:30 sanataiteilija, maisteri Simo Frangén kertoo Sari Valton haastattelussa, mikä kulttuurinen tuote on vaikuttanut häneen eniten ihmisenä ja koomikkona.
 
-      - title: 'Kulttuuriykkönen: Al Husainin ja Manirahon romaaneissa pohditaan juurtumista Suomeen ー ja ulkopuolisuuden tunnetta'
+      - title: 'Kulttuuriykkönen: Maahanmuuttajataustaisten Al Husainin ja Manirahon romaaneissa pohditaan juurtumista Suomeen ー ja ulkopuolisuuden tunnetta'
         start_time: '2025-10-16T15:00:00+03:00'
         end_time: '2025-10-16T15:55:00+03:00'
         description: |-
@@ -219,7 +219,13 @@ data:
         end_time: '2025-10-16T17:20:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Tuuli Saksalan keidas
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-16T17:20:00+03:00'
+        end_time: '2025-10-16T17:35:00+03:00'
+        description: |2+
+
+
+      - title: 'Tuuli Saksalan keidas: Lokakuun maailmanmusiikin huiput'
         start_time: '2025-10-16T17:35:00+03:00'
         end_time: '2025-10-16T18:25:00+03:00'
         description: |
@@ -263,17 +269,32 @@ data:
         end_time: '2025-10-16T21:35:00+03:00'
       - title: 'Riku Rantala: M/S Mystery K4J1: Kadonnut reppureissaaja'
         start_time: '2025-10-16T21:36:00+03:00'
-        end_time: '2025-10-16T22:25:00+03:00'
+        end_time: '2025-10-16T22:15:37+03:00'
         description: |-
           Paljon on vettä virrannut Itämeressä: Riku kertaa tapahtumien kulun tähän saakka. Hän saa yllättäen yhteyden Malesiassa vuonna 2019 kadonneen pojan äitiin, joka kertoo omasta salapoliisityöstään poikansa etsinnöissä. Kaksikko päättää jatkaa yhdessä siitä, mihin äiti vuosia sitten joutui lopettamaan.
-      - title: 'Radioteatteri esittää: Viihdekuunnelma'
-        start_time: '2025-10-16T22:30:00+03:00'
-        end_time: '2025-10-16T22:50:00+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2025-10-16T23:00:00+03:00'
-        end_time: '2025-10-16T23:56:30+03:00'
-        description: |
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: 'Radioteatteri esittää: Kallion kimppa osa 1/8'
+        start_time: '2025-10-16T22:24:30+03:00'
+        end_time: '2025-10-16T22:37:08+03:00'
+        description: |-
+          Kallio on paikka, jossa epätodennäköiset kohtaamiset ovat todennäköisiä.
+          Sen monimuotoinen mikrokosmos luo arkeen kiihkoa ja tunnetta, mutta myös eheytymistä ja ymmärrystä.
+          Tule mukaan sellaisena kuin olet - mutta älä ole olevinasi mitään.
+
+          8-osaisen audiosarjan rooleissa ovat:
+          Aurinko Tuulenhalaaja - Elena Leeve
+          Juki - Pyry Nikkilä
+          Maj-Lis - Johanna af Schultén
+          Märt - Timo Teern
+          Ricardo - Manoel Pinto
+          Tarmo - Ilkka Heiskanen
+
+          Käsikirjoitus - Petri Piispanen
+          Ohjaus - Jarno Kuosa
+          Musiikin sävellys ja äänisuunnittelu - Anders Wiksten
+          Apulaistuottaja - Eveliina Solja
+          Dramaturgi: Liila Jokelin
+          Muusikot: Anders Wiksten, Pekka Savolainen, Eero Savela, Rutger Orjatsalo, Kari Kuivalainen ja Outi Wiksten
+          Tuotanto - Pekka Savolainen / Yle Draama 2022.
       - title: Yöklassinen
         start_time: '2025-10-17T00:00:00+03:00'
         end_time: '2025-10-17T06:30:00+03:00'

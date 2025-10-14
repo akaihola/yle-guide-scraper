@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:15.151963+00:00'
+  generated_at: '2025-10-14T02:31:45.335897+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -177,6 +177,12 @@ data:
         end_time: '2025-10-15T17:20:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-15T17:20:00+03:00'
+        end_time: '2025-10-15T17:35:00+03:00'
+        description: |2+
+
+
       - title: Laura Korhosen Jazzklubi
         start_time: '2025-10-15T17:35:00+03:00'
         end_time: '2025-10-15T18:35:00+03:00'
@@ -216,14 +222,37 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-15T21:05:00+03:00'
         end_time: '2025-10-15T21:34:30+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Asunnottomuusriski koskettaa yhä useampaa'
         start_time: '2025-10-15T21:35:00+03:00'
-        end_time: '2025-10-15T22:25:00+03:00'
-      - title: 'Radioteatteri esittää:'
-        start_time: '2025-10-15T22:26:00+03:00'
-        end_time: '2025-10-15T23:09:00+03:00'
+        end_time: '2025-10-15T22:26:35+03:00'
+        description: |
+          Suomi oli pitkään ainoita maita maailmassa, joka onnistui vähentämään asunnottomuutta. Tällä hetkellä asunnottomuuden riski kasvaa ja koskettaa myös laajempaa osaa kansalaisista työssäkäyviin, nuoriin, perheellisiin ja eläkeläisiin.
+          Mitä asunnottomuuden kasvusta seuraa? Millaista oikeaikaista apua ja ennaltaehkäisyä tarvitaan? 
+          Toimittaja Satu Kivelä keskustelee Vailla vakinaista asuntoa ry:n  mentori Jenni Erosen ja palvelupäällikkö Jussi Lehtosen kanssa.
+      - title: 'Radioteatteri esittää: Seksiklubi Hillanhalme'
+        start_time: '2025-10-15T22:27:00+03:00'
+        end_time: '2025-10-15T23:03:35+03:00'
+        description: |
+          Seksi on ihmisoikeus! Hoivakoti Hillanhalmeen uusin asukas Eveliina vaatii mielekästä tekemistä ikäihmisten arkeen ja perustaa seksiklubin. Draamakomedia kysyy miten nauttia elämän ehtoovuosista, haluilla vai ilman.
+
+          Käsikirjoitus: Kaisa Kuikkaniemi
+          Ohjaus: Laura Mattila
+          Äänisuunnittelu: Tiina Luoma
+          Rooleissa:
+          Eveliina - Riitta Elstelä
+          Marke - Leena Uotila
+          Hellevi - Eeva-Liisa Haimelin
+          Jussi - Jukka Voutilainen
+          Pentti - Erkki Saarela
+          Pauli - Manoel Pinto
+          Kari - Taisto Oksanen 
+          Tuote-esittelijä - Verneri Lilja
+
+          Dramaturgi ja apulaistuottaja: Iira Halttunen
+          Tuottaja: Laura Jaakkola
+          Vastaavat tuottajat: Matti Kajander, Dante Lehtinen, Yle Draama 2020.
       - title: 'Kairossa kadonnut J1: Queerit kyyneleet'
-        start_time: '2025-10-15T23:14:00+03:00'
+        start_time: '2025-10-15T23:15:25+03:00'
         end_time: '2025-10-15T23:39:00+03:00'
         description: |-
           Juuri kun Lasse Kekin ura oli saavuttamassa täyden loistonsa, hän katosi yllättäen Kairossa vuonna 2006. Mystinen katoaminen jätti jälkeensä monia kysymyksiä. Vuonna 2012 Kekki julistettiin kuolleeksi, mutta hänen katoamisensa syyt ovat edelleen epäselvät. Mutta kuka Lasse Kekki oli? Ja mitä hänen katoamisestaan tiedetään?

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:16.874639+00:00'
+  generated_at: '2025-10-14T02:31:47.295406+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-23T06:30:50+03:00'
         end_time: '2025-10-23T06:50:00+03:00'
+        description: |+
+          Savolainen: Tartu käteen (Pietari Savolainen).
+
+          Koraalitoisinto: Jeesus matkakumppani (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
+          Neumark (sov. Lehtoaho): Sinussa, Kristus, luotiin kerran (A-Men/Mikko Peltokorpi, ja Väre-kvartetti). 
+
+          Haapasalo: Joka aamu on armo uus (Juhani Haapasalo, urut).
+
+          von Kothen: Kaikessa, Herra armias (Raimo Laukka, baritoni, ja Pertti Eerola, urut).
+
       - title: Aamuhartaus
         start_time: '2025-10-23T06:50:00+03:00'
         end_time: '2025-10-23T06:59:59+03:00'
@@ -96,6 +107,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-23T11:57:00+03:00'
         end_time: '2025-10-23T12:00:00+03:00'
+        description: |-
+          Arto Mellerin Itäkylän Nuorisoseuran kahvilassa -runo kokoelmasta Nuoruus, siivekästä ja veristä.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-23T12:00:00+03:00'
         end_time: '2025-10-23T12:05:00+03:00'
@@ -129,6 +142,12 @@ data:
         end_time: '2025-10-23T17:20:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-23T17:20:00+03:00'
+        end_time: '2025-10-23T17:35:00+03:00'
+        description: |2+
+
+
       - title: Tuuli Saksalan keidas
         start_time: '2025-10-23T17:35:00+03:00'
         end_time: '2025-10-23T18:25:00+03:00'
@@ -142,6 +161,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-23T18:35:00+03:00'
         end_time: '2025-10-23T18:50:00+03:00'
+        description: |+
+          Koraalitoisinto: On Herran lauma pieni vain (Lauluyhtye Toisinto).
+
+          Harju: Sinun on valta (Maksetut viulut).
+
+          Koraalitoisinto (sov. Bartling): Oi Pyhä Henki, riennä (Human Organ/Säde Bartling).
+
       - title: Iltahartaus
         start_time: '2025-10-23T18:50:00+03:00'
         end_time: '2025-10-23T19:00:00+03:00'

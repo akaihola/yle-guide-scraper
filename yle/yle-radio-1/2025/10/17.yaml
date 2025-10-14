@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:15.590476+00:00'
+  generated_at: '2025-10-14T02:31:45.853529+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -151,13 +151,38 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-10-17T16:07:00+03:00'
         end_time: '2025-10-17T16:59:00+03:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          J. Strauss, vanh.: Radetzky-marssi (Cincinnati Pops/Erich Kunzel).
+
+          A. Scarlatti: Mentre io godo in dolce oblio (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          Porra: Remembering the sea (Antti Kujanpää, Piano).
+
+          Sohlström: Elegia (Camerata Finlandia/Jorma Panula).
+
+          Rautavaara: Laulu oravasta sarj. Halavan himmeän alla (RKK/Timo Nuoranne).
+
+          Paganini: Kapriisi nro 6 g-molli (Salvatore Accardo, viulu).
+
+          Arcadelt: Il bianco e dolce cigno (The King's Singers).
+
+          Mozart: 2. osa, Adagio, konsertosta klarinetille ja orkesterille (Charles Neidich, basettitorvi, Orpheus-kamariork.).
+
+          Verdi: Ebolin aaria "O don fatale" oopp. Don Carlo (Anita Välkki, sopraano, ja Göteborgin SO/Alberto Erede). 
+
+          Gluck - Kreisler: Autuaitten sielujen karkelo opp. Orfeo ed Euridice (Vilde Frang, viulu ja Jose Gallardo, piano).
+
+          Bach: Allegro Konsertosta kahdelle viululle, jousille ja continuolle (Hilary Hahn ja Margaret Batjer, viulu, sekä Los Angelesin kamariork./Jeffrey Kahane).
+
+          Di Capua: O Sole mio (Jussi Björling). 
       - title: 'Iida Tikka & mureneva maa 4/6: Wall Streetin Einstein'
         start_time: '2025-10-17T17:00:00+03:00'
         end_time: '2025-10-17T17:20:00+03:00'
         description: |-
           New Yorkin pörssin kuuluisin välittäjä seuraa markkinoiden sykettä, kun presidentti Donald Trumpin talouspolitiikka aiheuttaa ennennäkemätöntä epävarmuutta. Iida sukeltaa pörssin kulisseihin ja kysyy, pystyykö Wall Street enää ennakoimaan, mihin suuntaan Yhdysvaltain talous ja tavallisten ihmisten tulevaisuus ovat menossa.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-17T17:20:00+03:00'
+        end_time: '2025-10-17T17:35:00+03:00'
       - title: Näistä levyistä en luovu
         start_time: '2025-10-17T17:35:00+03:00'
         end_time: '2025-10-17T18:30:00+03:00'
@@ -184,11 +209,14 @@ data:
         end_time: '2025-10-17T19:02:00+03:00'
       - title: Ung Nordisk Musik 2025 Helsingissä – Etkot juhlavuoteen
         start_time: '2025-10-17T19:02:00+03:00'
-        end_time: '2025-10-17T21:00:00+03:00'
+        end_time: '2025-10-17T20:30:00+03:00'
         description: |-
           Ung Nordisk Musik (UNM) on nykymusiikkifestivaali nuorille pohjoismaisille ja balttilaisille säveltäjille ja äänitaiteilijoille. Se on siis ikinuorekas tapahtuma ja omassa lajissaan yksi maailman vanhimmista: ensi vuonna juhlitaan festivaalin 80-vuotista taivalta Kööpenhaminassa. Niinpä tämän vuoden elokuussa Helsingissä järjestetty Ung Nordisk Musik oli rakennettu teeman Preparty – Etkot ympärille. 
 
           Millaisista etkoista oikein oli kyse? Ja millaista suomalaista musiikkia siellä kuultiin? Ainomaija Pennasen toimittama ohjelma kertoo tapahtumasta olennaisen ja soittaa Sofia Kiviniemen, Lauri Marjakankaan, Auri-Helena Nikkisen, Yuto Obatan ja Leevi Räsäsen teokset. 
+      - title: Musiikkikamari
+        start_time: '2025-10-17T20:30:00+03:00'
+        end_time: '2025-10-17T21:00:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-17T21:00:00+03:00'
         end_time: '2025-10-17T21:05:00+03:00'

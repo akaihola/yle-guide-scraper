@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:14.934541+00:00'
+  generated_at: '2025-10-14T02:31:45.142214+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -113,6 +113,11 @@ data:
           Hammond: Sua mä kaipaan (Kirka).
           Snyder: Who's sorry now (Connie Francis).
           Bindi: Olet kaikki (Topi Sorsakoski).
+      - title: 'Sari Valto: Miksi et tekisi jo nyt asioita, joita oikeasti haluaisit?'
+        start_time: '2025-10-14T10:00:00+03:00'
+        end_time: '2025-10-14T10:55:00+03:00'
+        description: |
+          Miten käyttäisit päiväsi, jos tietäisit, että ne loppuvat pian? Elätkö tällä hetkellä arvojesi mukaista elämää? Yhteiskuntavaikuttaja Leo Stranius ja Suomen Punaisen Ristin hallituksen puheenjohtaja Elli Aaltonen pohtivat, millaista on merkityksellinen elämä ja voiko ihminen kuitenkaan elää "kuin viimeistä päivää". 
       - title: 'Klasariparatiisi - Eva Tigerstedt: B.H. Crusell - Suomen ensimmäinen kansainvälinen säveltäjä, osa 1'
         start_time: '2025-10-14T11:00:00+03:00'
         end_time: '2025-10-14T11:57:00+03:00'
@@ -222,7 +227,10 @@ data:
         start_time: '2025-10-14T17:00:00+03:00'
         end_time: '2025-10-14T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Miten Suomi lipui oikealle? Pitkän linjan politiikan toimittajalta Teemu Luukalta ilmestyy nyt tiistaina kirja “Petteri Orpo ja oikeistovallan paluu”. Luukka kertoo Reetta Röngän haastattelussa, miksi tämän ajan Suomessa on ollut tilausta oikeistolaisimmalle hallitukselle sitten 1930-luvun.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-14T17:20:00+03:00'
+        end_time: '2025-10-14T17:35:00+03:00'
       - title: Hartaita säveliä
         start_time: '2025-10-14T18:35:00+03:00'
         end_time: '2025-10-14T18:50:00+03:00'
@@ -244,7 +252,7 @@ data:
         end_time: '2025-10-14T19:02:00+03:00'
       - title: 'Radioteatteri esittää: Seksiklubi Hillanhalme'
         start_time: '2025-10-14T19:02:00+03:00'
-        end_time: '2025-10-14T19:45:00+03:00'
+        end_time: '2025-10-14T19:39:00+03:00'
         description: |
           Seksi on ihmisoikeus! Hoivakoti Hillanhalmeen uusin asukas Eveliina vaatii mielekästä tekemistä ikäihmisten arkeen ja perustaa seksiklubin. Draamakomedia kysyy miten nauttia elämän ehtoovuosista, haluilla vai ilman.
 
@@ -264,6 +272,9 @@ data:
           Dramaturgi ja apulaistuottaja: Iira Halttunen
           Tuottaja: Laura Jaakkola
           Vastaavat tuottajat: Matti Kajander, Dante Lehtinen, Yle Draama 2020.
+      - title: Musiikkikamari
+        start_time: '2025-10-14T19:39:00+03:00'
+        end_time: '2025-10-14T20:00:00+03:00'
       - title: 'Maailman tärkein pieni asia: Marianna Visapään mielestä baletti on kauneinta maailmassa'
         start_time: '2025-10-14T20:00:00+03:00'
         end_time: '2025-10-14T20:20:00+03:00'
@@ -271,11 +282,13 @@ data:
           Puheterapeutti Marianna Visapään mielestä baletti on kokonaisvaltaisesti onnellistuttavaa ja kauneinta maailmassa. Myös lajin kurinalaisuus ja ennustettavuus viehättävät. Marianna Visapää harrastaa aikuisbalettia 5-6 kertaa viikossa. 
 
           Tanssijan tapasi Maija Salminen. 
-      - title: Romano mirits
+      - title: 'Romano mirits: Marita ja Voitto Friman toimivat sijoitettujen romanilasten tukena'
         start_time: '2025-10-14T20:20:00+03:00'
         end_time: '2025-10-14T20:35:00+03:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Marita ja Voitto Friman ovat työskennelleet pitkään lastensuojelun alalla. Lastensuojelulaitoksissa työskennellessään he kohtasivat romanilapsia, joiden tilanne huolestutti heitä. – Näimme tarpeen tukea sijoitettujen romanilasten identiteetin kehitystä. Lastensuojelutaustansa vuoksi he eivät välillä tiedä, ovatko he romaneja vai kuuluvatko pääväestöön, Voitto Friman kuvailee. – Halusimme olla osa sitä prosessia, joka voisi auttaa heitä, hän jatkaa.
+           
+          Romano miritsin jaksossa tutustutaan Yhtä matkaa huomiseen –hankkeeseen, jossa Frimanit työskentelevät sekä sitä hallinnoivaan yhdistykseen. Voitto ja Marita Frimanin tapasi Seinäjoella toimittaja Jaakko Laakso.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-14T20:35:00+03:00'
         end_time: '2025-10-14T21:00:00+03:00'
@@ -302,11 +315,6 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-14T21:05:00+03:00'
         end_time: '2025-10-14T21:34:30+03:00'
-      - title: Sari Valto
-        start_time: '2025-10-14T21:35:00+03:00'
-        end_time: '2025-10-14T22:29:30+03:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Maailman paras Tarja Turunen: N-Sana'
         start_time: '2025-10-14T22:30:00+03:00'
         end_time: '2025-10-14T23:15:00+03:00'

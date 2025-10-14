@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:17.083883+00:00'
+  generated_at: '2025-10-14T02:31:47.491789+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -76,6 +76,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-24T11:57:00+03:00'
         end_time: '2025-10-24T12:00:00+03:00'
+        description: |-
+          Ote Max Jakobsonin kirjasta 38. kerros 
       - title: Yle Uutiset ja sää
         start_time: '2025-10-24T12:00:00+03:00'
         end_time: '2025-10-24T12:05:00+03:00'
@@ -127,6 +129,11 @@ data:
         end_time: '2025-10-24T17:20:00+03:00'
         description: |-
           Yhdysvalloissa on yksi paikka, jossa tulevaisuutta muovataan hengästyttävällä tahdilla – se on Piilaakso. Länsirannikolla Iida tapaa talouden keskuksessa startup-yrittäjän ja tekoälykehittäjän Joonan, joka kertoo miksi hänen piti lähteä Suomesta. Jaksossa Iida selvittää, miten Piilaakson kulttuuri ja monopolien valta vaikuttavat Yhdysvaltojen ja koko maailman suuntaan – ja kuka voittaa kilpailussa.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-24T17:20:00+03:00'
+        end_time: '2025-10-24T17:35:00+03:00'
+        description: |2+
+
       - title: Näistä levyistä en luovu
         start_time: '2025-10-24T17:35:00+03:00'
         end_time: '2025-10-24T18:30:00+03:00'

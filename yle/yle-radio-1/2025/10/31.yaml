@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:18.595794+00:00'
+  generated_at: '2025-10-14T02:31:49.368938+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,33 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-31T07:05:00+02:00'
         end_time: '2025-10-31T07:59:59+02:00'
+        description: |+
+          Hellendaal (sov. Reynolds): Bourree concerto grossosta d-molli (Eastman-vaskikvintetti).
+
+          J.-B. Lully Osa kohtauksesta La Chasse hovibaletista Ballet des arts (La Simphonie du Marais/Hugo Reyne).
+
+          Albeniz: Syksy kok. Vuodenajat pianolle (Antonio Ruiz Pipo).
+
+          Boccherini: Rondo sellokonsertosta B-duuri (Yo-Yo Ma ja Saint Paulin kamariork./Pinchas Zukerman). 
+
+          Barrios: Un sueño en la floresta (John Williams, kitara).
+
+          Carreño: Balladi op.15 (Clara Rodriguez, piano).
+
+          Chaminade: Ma première lettre (Ensimmäinen kirjeeni) (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          Shostakovitsh: Valssi n:o 2 sarj. viihdeorkesterille (Berliinin radion SO/Steven Sloane).
+
+          Rimski-Korsakov: Hindulaulu (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Madetoja: Valssi (Mika Rännäli, piano).
+
+          Sibelius: Andantino sellolle ja pianolle C-duuri (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          Humperdinck: Tähtien tanssi näyt. Sinilintu (Bambergin sinfonikot/Karl Anton Rickenbacher).
+
+          Gershwin: Short story (Leila Josefowicz, viulu, ja John Novacek, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-31T08:00:00+02:00'
         end_time: '2025-10-31T08:07:00+02:00'
@@ -95,6 +122,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-31T17:20:00+02:00'
         end_time: '2025-10-31T17:35:00+02:00'
+        description: |2+
+
       - title: Näistä levyistä en luovu
         start_time: '2025-10-31T17:35:00+02:00'
         end_time: '2025-10-31T18:30:00+02:00'
@@ -113,7 +142,7 @@ data:
         end_time: '2025-10-31T19:02:00+02:00'
       - title: Musiikkia trilleriklassikoista
         start_time: '2025-10-31T19:02:00+02:00'
-        end_time: '2025-10-31T21:00:00+02:00'
+        end_time: '2025-10-31T20:35:00+02:00'
         description: |
           Preludi elokuvasta Vaarallinen romanssi (1959)
           Bernard Herrmann 
@@ -166,6 +195,9 @@ data:
           Äänitetty BBC:n Proms-festivaalin konsertissa Royal Albert Hallissa 4.9.2025. Toimittajana Ainomaija Pennanen.
 
           Kuvassa laulaja Lance Ellington ja kapellimestari Edwin Outwater © Andy Paradise
+      - title: Musiikkikamari
+        start_time: '2025-10-31T20:35:00+02:00'
+        end_time: '2025-10-31T21:00:00+02:00'
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-31T21:00:00+02:00'
         end_time: '2025-10-31T21:05:00+02:00'

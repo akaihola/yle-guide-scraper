@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-13T02:35:18.392168+00:00'
+  generated_at: '2025-10-14T02:31:49.172913+00:00'
   git:
     branch: main
-    commit: 073fb414ca6f80aac6c8d95a3258c8b429b67773
-  data_hash: b53efe20273f88f0476414263bcb704ccf94adac8eb67fdec14956698ef5674c
+    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
+  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,30 @@ data:
       - title: Aamusoitto
         start_time: '2025-10-30T07:05:00+02:00'
         end_time: '2025-10-30T07:59:59+02:00'
+        description: |+
+          Schenk: Rondo allegretto kvartetosta F-duuri (Wizards!).
+
+          Vivaldi: Sonaatti viululle ja continuolle A-duuri (Rachel Podger ja Brecon Baroque). 
+
+          Viviani: Sonaatti trumpetille ja continuolle nro 2 kokoelmasta Capricci armonici da chiesa e da camera 
+          (Andreas Lackner, trumpetti,  Katalin Sebella, fagotti, Wolfgang Zerer, urut, Roberto Sensi, viola da gamba ja Luciano Contini, arkkiluuttu).
+
+          Giuliani: Poloneesi (Pepe Romero, kitara, ja St. Martin-in-the-Fields -kamariork.).
+
+          Schubert: Menuetti F-duuri (Ralf Gothóni, piano).
+
+          Lalo: L'aube naît (Aamu herää) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          Silvestrov: Two pieces (Hilary Hahn, viulu, ja Cory Smythe, piano).
+
+          Elgar: Serenadi (David Owen Norris, piano).
+
+          O. Merikanto: Valse lente (Aale Lindgren, oboe, ja Jussi Siirala, piano).
+
+          Palmgren: Muratti (Risto Lauriala, piano).
+
+          Järnefelt: Tanssi näyt. Luvattu maa (RSO/Ilpo Mansnerus).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-10-30T08:00:00+02:00'
         end_time: '2025-10-30T08:07:00+02:00'
