@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-14T02:31:45.335897+00:00'
+  generated_at: '2025-10-15T02:33:45.318556+00:00'
   git:
     branch: main
-    commit: 77898e7b816c14847193fa79f2fcd2d73fa5287d
-  data_hash: 59f8a3bb2297d8013688cd141146fe07af710eeefa4bdfbe82006b44cb6d3832
+    commit: eb202801efe27f8af1335849ca9e80e3ea0bda4b
+  data_hash: 0b9519714b81f194e64a89c8d4d51aa11e0522b0c7aaf35e852cca0ddc4d906f
 data:
   Yle Radio 1:
     programmes:
@@ -135,7 +135,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-15T12:00:00+03:00'
         end_time: '2025-10-15T12:05:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Sotilasylijohdon tunnehistoria'
         start_time: '2025-10-15T12:05:00+03:00'
         end_time: '2025-10-15T12:55:00+03:00'
         description: |
@@ -172,11 +172,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-15T16:07:00+03:00'
         end_time: '2025-10-15T16:59:00+03:00'
+        description: |-
+          Suppé: Alkusoitto oper. Tantalusqualen (Wienin filharmonikot/Zubin Mehta).
+
+          Fauré: Apres un reve (Unen jälkeen) (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
+
+          Martini (sov. Harjanne): Plaisir d'amour (Lemmen onni) (Jouko Harjanne, trumpetti, ja Anni Kuusimäki, harppu).
+
+          Ketelbey: In a Persian market (Persialaisella torilla) (Boston Pops/Arthur Fiedler).
+
+          O. Merikanto: Soi vienosti murheeni soitto (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          F. Doppler: Metsälintu (Per Öien, huilu, sekä Ingegärd Öien, Ib Lanzky-Otto, Rolf Bengtsson ja Bengt Sundberg, käyrätorvi).
+
+          Paganini: Sonaatti e-molli (Olivier Pons, viulu, ja Risto Lauriala, piano).
+
+          Weber: Adagio ja rondo (Mozzafiato).
+
+          Schubert: Der Lindenbaum (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano). 
+
+          Brahms: Unkarilainen tanssi n:o 4 f-molli (Budapestin musiikkijuhlien ork./Ivan Fischer).
       - title: Uutispodcast
         start_time: '2025-10-15T17:00:00+03:00'
         end_time: '2025-10-15T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Miten sopu velkajarrusta syntyi puolueiden kesken? Mitä päätös tarkoittaa politiikan päätöksenteolle? Atte Uusinokan kanssa asiaa avaamassa Ylen politiikan toimittaja Hannu Tikkala.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-15T17:20:00+03:00'
         end_time: '2025-10-15T17:35:00+03:00'
@@ -219,9 +239,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-15T21:00:00+03:00'
         end_time: '2025-10-15T21:05:00+03:00'
-      - title: Politiikkaradio
-        start_time: '2025-10-15T21:05:00+03:00'
-        end_time: '2025-10-15T21:34:30+03:00'
       - title: 'Havaintoja muutoksesta: Asunnottomuusriski koskettaa yhä useampaa'
         start_time: '2025-10-15T21:35:00+03:00'
         end_time: '2025-10-15T22:26:35+03:00'
@@ -252,8 +269,8 @@ data:
           Tuottaja: Laura Jaakkola
           Vastaavat tuottajat: Matti Kajander, Dante Lehtinen, Yle Draama 2020.
       - title: 'Kairossa kadonnut J1: Queerit kyyneleet'
-        start_time: '2025-10-15T23:15:25+03:00'
-        end_time: '2025-10-15T23:39:00+03:00'
+        start_time: '2025-10-15T23:11:00+03:00'
+        end_time: '2025-10-15T23:34:35+03:00'
         description: |-
           Juuri kun Lasse Kekin ura oli saavuttamassa täyden loistonsa, hän katosi yllättäen Kairossa vuonna 2006. Mystinen katoaminen jätti jälkeensä monia kysymyksiä. Vuonna 2012 Kekki julistettiin kuolleeksi, mutta hänen katoamisensa syyt ovat edelleen epäselvät. Mutta kuka Lasse Kekki oli? Ja mitä hänen katoamisestaan tiedetään?
       - title: Yöklassinen
