@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-15T02:33:49.728733+00:00'
+  generated_at: '2025-10-16T02:33:18.913098+00:00'
   git:
     branch: main
-    commit: eb202801efe27f8af1335849ca9e80e3ea0bda4b
-  data_hash: 0b9519714b81f194e64a89c8d4d51aa11e0522b0c7aaf35e852cca0ddc4d906f
+    commit: d473c4dc9a6822c91efa5d2a8588337f944cef01
+  data_hash: 25dcdc82c50cf4a2668f6973944bd5a6b21d96fd3229ad021e47e1b26a96e15e
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-03T07:05:00+02:00'
         end_time: '2025-11-03T07:59:59+02:00'
+        description: |+
+          J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
+
+          Byström: Rondo sonaatista Es-duuri (Tuija Hakkila, fortepiano, ja John Storgårds, viulu).
+
+          W.A. Mozart (sov. Sciarrino): Adagio lasiharmonikalle C-duuri (Ensemble Recherche). 
+
+          Kansansäv.: Scarborough fair (Sheku Kanneh-Mason, sello, ja Plinio Fernandes, kitara).
+
+          Chopin: Nokturni nro 12 G-duuri (Byron Janis, piano). 
+
+          Weber: Alla polacca klarinettikonsertosta Es-duuri (Kari Kriikku, klarinetti, ja RSO/Sakari Oramo).
+
+          Sibelius: Metsämiehen laulu (YL/Matti Hyökki).
+
+          Syrjälahti: Pakkasaamu (Hannu Syrjälahti, kantele).
+
+          Popper: Piiritanssi (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Tshaikovski: Napolilainen tanssi bal. Joutsenlampi (Empire Brass).
+
+          Grieg: Anitran tanssi näyt. Peer Gynt (San Franciscon SO/Herbert Blomstedt).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-03T08:00:00+02:00'
         end_time: '2025-11-03T08:07:00+02:00'
@@ -114,11 +137,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-03T17:20:00+02:00'
         end_time: '2025-11-03T17:35:00+02:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Huuliharpun hilpeys ja haikeus'
         start_time: '2025-11-03T17:35:00+02:00'
         end_time: '2025-11-03T18:35:00+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Todellinen kansansoitin, huuliharppu, pystyy vaikka mihin. Jaksossa tarjoillaan kappaleita ja taustoitusta ristiin rastiin maailmalta kuin Nuuskamuikkusen matkoilta: bluesia, bossaa, ja brittifolkia. Tai jazzia, klassista ja ragtimea. Taskuun menevä jokamiehen soittopeli osoittautuukin melkoisen monipuoliseksi pakkaukseksi! Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-11-03T18:35:00+02:00'
         end_time: '2025-11-03T18:50:00+02:00'
