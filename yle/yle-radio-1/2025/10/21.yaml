@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-16T02:33:10.266581+00:00'
+  generated_at: '2025-10-17T02:32:26.424672+00:00'
   git:
     branch: main
-    commit: d473c4dc9a6822c91efa5d2a8588337f944cef01
-  data_hash: 25dcdc82c50cf4a2668f6973944bd5a6b21d96fd3229ad021e47e1b26a96e15e
+    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
+  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
 data:
   Yle Radio 1:
     programmes:
@@ -93,6 +93,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-21T08:07:00+03:00'
         end_time: '2025-10-21T09:00:00+03:00'
+        description: |-
+          Tervetuloa lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jarmo Laitaneva.
       - title: Yle Uutiset
         start_time: '2025-10-21T09:00:00+03:00'
         end_time: '2025-10-21T09:03:00+03:00'
@@ -142,9 +144,13 @@ data:
           Sarja on uusinta vuodelta 2022. 
 
           Ohjelman vieraana on Kansallisarkiston arkistotutkija FT Matti Mieskonen. Toimittajana Jukka Kuosmanen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Australian alkuperäisasukkaiden kymmeniätuhansia vuosia vanhat tarinat kertovat tavoista, paikoista ja laeista'
         start_time: '2025-10-21T12:25:00+03:00'
         end_time: '2025-10-21T12:50:00+03:00'
+        description: |
+          Suullisen tarinaperinteen merkityksestä Australian alkuperäisasukkaille keskustelevat Museokeskus Vapriikin näyttelypäällikkö Maj Meriluoto ja toimittaja Pasi Heikura.  
+          Ohjelmassa tutkitaan myös voiko mittari tulla täyteen ja onko kamerasta verkonpainoksi. Lopuksi etsitään vielä porsaista reikiä. 
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-21T12:50:00+03:00'
         end_time: '2025-10-21T13:00:00+03:00'
@@ -220,6 +226,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-21T20:00:00+03:00'
         end_time: '2025-10-21T20:20:00+03:00'
+        description: |-
+          Tatu Tamminen pyörittää NHL-liigaa päässään. Toimittajana Maija Salminen. 
       - title: Romano mirits
         start_time: '2025-10-21T20:20:00+03:00'
         end_time: '2025-10-21T20:35:00+03:00'

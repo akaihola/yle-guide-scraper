@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-16T02:33:05.867403+00:00'
+  generated_at: '2025-10-17T02:32:25.461760+00:00'
   git:
     branch: main
-    commit: d473c4dc9a6822c91efa5d2a8588337f944cef01
-  data_hash: 25dcdc82c50cf4a2668f6973944bd5a6b21d96fd3229ad021e47e1b26a96e15e
+    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
+  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
 data:
   Yle Radio 1:
     programmes:
@@ -77,6 +77,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-18T08:40:00+03:00'
         end_time: '2025-10-18T09:00:00+03:00'
+        description: |-
+          Tatu Tamminen pyörittää NHL-liigaa päässään. Toimittajana Maija Salminen. 
       - title: Yle Uutiset ja sää
         start_time: '2025-10-18T09:00:00+03:00'
         end_time: '2025-10-18T09:03:00+03:00'
@@ -128,7 +130,7 @@ data:
         start_time: '2025-10-18T13:00:00+03:00'
         end_time: '2025-10-18T13:55:00+03:00'
         description: |
-          Sielusta sieluun, kuvailee Johanna Försti lempimusiikkiaan soulmusiikkia. Oman laulutaitonsa hän  hoksasi vasta 24-vuotiaana. Toimittajana Maija Salminen. 
+          Sielusta sieluun, kuvailee laulaja Johanna Försti lempimusiikkiaan soulmusiikkia. Toimittajana Maija Salminen. 
       - title: 'Ruben Stiller: Moderni orjuus Suomessa'
         start_time: '2025-10-18T14:00:00+03:00'
         end_time: '2025-10-18T14:55:00+03:00'
@@ -249,22 +251,22 @@ data:
 
           Bruckner: Sinfonia n:o 4 Es-duuri (Romanttinen) (Los Angelesin FO/Esa-Pekka Salonen). 
 
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Velkajarru luo talouteen uudet pelisäännöt – mutta toimiiko se?'
         start_time: '2025-10-18T21:00:30+03:00'
         end_time: '2025-10-18T21:26:00+03:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Miten sopu velkajarrusta syntyi puolueiden kesken? Mitä päätös tarkoittaa politiikan päätöksenteolle? Atte Uusinokan kanssa asiaa avaamassa Ylen politiikan toimittaja Hannu Tikkala.
       - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2025-10-18T21:27:00+03:00'
         end_time: '2025-10-18T21:50:00+03:00'
       - title: Maailman tärkein pieni asia
         start_time: '2025-10-18T22:00:30+03:00'
         end_time: '2025-10-18T22:20:00+03:00'
-      - title: Kielen päällä
+      - title: 'Kielen päällä: Futuureja, riskejä ja haavereita - italian kielen finanssisanastoa'
         start_time: '2025-10-18T22:20:30+03:00'
         end_time: '2025-10-18T22:30:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Italia on paljon muutakin kuin ruokaa, muotia, turismia tai taidetta. Italia on myös rahamaailman kielen syntysija. Väitöskirjatutkija Mattia Retta Helsingin yliopistosta kertoo. Tuttuja sanoja ovat mm. futuuri, riski, haaveri, optio ja valuutta, mutta lisääkin löytyy. Toimittajana on Jari Aula. Ohjelma on uusinta heinäkuulta 2025.
       - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2025-10-18T23:31:00+03:00'
         end_time: '2025-10-18T23:32:00+03:00'

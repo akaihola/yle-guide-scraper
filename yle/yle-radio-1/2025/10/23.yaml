@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-16T02:33:13.189676+00:00'
+  generated_at: '2025-10-17T02:32:27.029306+00:00'
   git:
     branch: main
-    commit: d473c4dc9a6822c91efa5d2a8588337f944cef01
-  data_hash: 25dcdc82c50cf4a2668f6973944bd5a6b21d96fd3229ad021e47e1b26a96e15e
+    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
+  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
 data:
   Yle Radio 1:
     programmes:
@@ -95,13 +95,15 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-23T08:07:00+03:00'
         end_time: '2025-10-23T09:00:00+03:00'
+        description: |-
+          Tervetuloa lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jarmo Laitaneva.
       - title: Yle Uutiset
         start_time: '2025-10-23T09:00:00+03:00'
         end_time: '2025-10-23T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2025-10-23T09:04:00+03:00'
         end_time: '2025-10-23T09:59:00+03:00'
-        description: |-
+        description: |
           Gershwin: Nice work if you can get it (Mel Tormé).
           Berlin: Aleksanderin Jazz-yhtye (Bruno Laakko ja Lepakot).
           Lindeborg: Sju vackra gossar (Siw Malmkvist).
@@ -114,16 +116,17 @@ data:
           Lindström: Kengänkiillottajapoika (Lasse Liemola).
           Lai: Where do I begin (Shirley Bassey).
           Bourgeois: Rendez-vous d'automne (Francoise Hardy).
+          Friedman: Kuuluthan mulle, Windy (New Joys).
           Nevin: The moon is mine (Fairground Attraction).
           Aaltonen: Täysikuu (Remu Aaltonen).
-          Billy: Vienna (Billy Joel).
+          Joel: Vienna (Billy Joel).
       - title: Marko Gustafssonin vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola
         start_time: '2025-10-23T10:00:00+03:00'
         end_time: '2025-10-23T10:50:00+03:00'
         description: |
           "Elämme hedonistisessa kulutusyhteiskunnassa, talouden sanelemilla ehdoilla", toteaa filosofi Elisa Aaltola. Hän muistuttaa, että kulutustavaroita suoltava markkinavoima ei missään nimessä halua, että ihminen tuntisi syyllisyyttä kuluttamisestaan, saati eläinten kohtelusta, vaikka pitäisi. 
           Myös häpeän tunteen Aaltola toivottaa tervetulleeksi. "Tuntuu, että ihmiset ovat aina vain häpeämättömiä. Esimerkiksi politiikassa tehdään ja sanotaan asioita, joista pitäisi seurata häpeän tunne ja katumus, mutta niin ei valitettavasti tapahdu", Aaltola muistuttaa.
-          Ohjelma on uusinta ajalta 15.5.2025.
+          Ohjelma on uusinta 15.5.2025.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-23T10:50:00+03:00'
         end_time: '2025-10-23T11:00:00+03:00'
@@ -149,10 +152,26 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-10-23T13:30:00+03:00'
         end_time: '2025-10-23T15:00:00+03:00'
-      - title: Kulttuuriykkönen
+        description: |-
+          Radio 1:n iltapäivässä soivat kevyt jazz, populaarimusiikin helmet ja etnomusiikki. Juontajana on Miia Lahti. N. klo 14 tapaamme ohjaaja Elina Hyvärisen. Hänen  dokumenttielokuvansa Rajalla, kertoo elämästä Suomen itärajan pienessä kunnassa. N. klo 14:30 tanssija Alpo Aaltokoski kertoo kullttuurikokemuksistaan. Toimittajana Marko Gustafsson.
+      - title: 'Kulttuuriykkönen: Arkkitehtuuri- ja designmuseon idealistinen Pako Muumilaaksoon-näyttely kertoo miksi Muumitalon ovi on auki '
         start_time: '2025-10-23T15:00:00+03:00'
         end_time: '2025-10-23T15:55:00+03:00'
         description: |
+          Arkkitehtuuri - ja designmuseon uusi päänäyttely keskittyy muotoiluun ja arkkitehtuuriin Tove Janssonin omassa elämässä ja Muumi-kirjoissa. Tove Jansson loi Muumilaakson synkkänä sotaisana aikana ja keskellä Helsingin pommituksia.  Muumipeikkojen maailmasta tuli pakopaikka kirjailijalle. Tove Janssonin Muumitalo symboloi edelleen monille turvapaikkaa. Mistä hän sai idean luoda kodin jossa jokainen saa olla oma itsensä ja jonne kaikki ovat tervetulleita?  Tove Jansson loi myös oman ateljeen Helsinkiin ja Klovharuun mökkinsä, joissa hän sai elää ja tehdä työtä omalla vapaalla tavalla. Näyttely avaa näitä lokaatioita ja myös Muumien tapaa asua, sisustaa ja heidän suhdettaan ympäröivään maailmaan. Näyttelyssä laajennetaan Tove Janssonin idealistista muumimaailmaa kohti yhteisöasumista, kodittomuutta ja pakolaisuutta ja väliaikaisia asuinpaikkoja. 
+
+          Kuraattori Jutta Tynkkynen avaa Muumikirjojen asumisratkaisuja ja niiden vastineita todellisessa elämässä - miten sujui esimerkiksi Tuu-Tikin ja näkymättömien päästäisten yhteiselo talvisella uimahuoneella? Millaisia ovat Muumien väliaikaiset asumukset teatterista majakkaan? Mikä on Mörkön tilanne, joka ei asu missään ja miksi hänestä on tullut koditon?
+
+          Tove Jansson vietti kulttuurin täyttämät talvensa Helsingissä ja rennot kesänsä Klovharussa, saaristossa. Monet hänen elämänsä paikoista siirtyivät kirjoihin, Helsingin Tähtitorninmäki ja observatorio ja Klovharun mökki, jossa Tove ja hänen elämänkumppaninsa Tuulikki Pietilä viettivät yli 30 kesää ilman sähköä ja vettä.
+          Klovharun remontin aikana, yllättäen löytyi lattian alta Toven ja Tuulikin lähettämä pulloposti tulevaisuuteen, mistä se kertoo?
+
+          Ohjelman vieraina ovat kuraattori Jutta Tynkkynen ja Moomin Charactersin taiteellinen johtaja James Zambra.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-10-23T15:55:00+03:00'
@@ -203,11 +222,11 @@ data:
         end_time: '2025-10-23T18:25:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: kiinan kieli I - kiinan kielen määritelmä'
         start_time: '2025-10-23T18:25:00+03:00'
         end_time: '2025-10-23T18:35:00+03:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Kiinan kieli on laaja käsite ja kielen eri muodot voivat poiketa toisistaan paljonkin. Puhutaankin kiinan aluekielistä. Kiinan kielen puhujat ymmärtävät toisiaan kuitenkin sanamerkkien avulla. Sinologi Jyrki Kallio kertoo. Neliosainen minisarja alkaa. Toimittajana on Jari Aula.
       - title: Hartaita säveliä
         start_time: '2025-10-23T18:35:00+03:00'
         end_time: '2025-10-23T18:50:00+03:00'
@@ -229,7 +248,9 @@ data:
         end_time: '2025-10-23T19:02:00+03:00'
       - title: Jazzklubin konsertti-ilta
         start_time: '2025-10-23T19:02:00+03:00'
-        end_time: '2025-10-23T21:00:00+03:00'
+        end_time: '2025-10-23T20:30:00+03:00'
+        description: |-
+          Jazzklubin konsertti.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-23T21:00:00+03:00'
         end_time: '2025-10-23T21:05:00+03:00'
