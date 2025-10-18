@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:26.203017+00:00'
+  generated_at: '2025-10-18T02:29:07.640178+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -130,12 +130,15 @@ data:
         end_time: '2025-10-20T12:05:00+03:00'
       - title: 'Elävä historia: 10 000 vuotta vanhaa mysteeriä ratkomassa - Jerikon kallokultti, taivaan ilmiöiden tarkkailu ja kaupunkikulttuurin synty'
         start_time: '2025-10-20T12:05:00+03:00'
-        end_time: '2025-10-20T12:55:00+03:00'
+        end_time: '2025-10-20T12:50:00+03:00'
         description: |-
           Kivikautiset ihmiset tarkkailivat taivaankappaleita ja suorittivat arvoituksellisia rituaaleja yli 10 000 vuotta vanhassa Jerikossa. He harjoittivat myös kallokulttia. Onko Jeriko maailman vanhin kaupunki?
           Haastateltavat: arkeologi Minna Silver ja arkeologi Eero Muurimäki
           Toimittaja: Riikka Suikkari
           Äänisuunnittelu: Joonatan Kotila
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-10-20T12:50:00+03:00'
+        end_time: '2025-10-20T13:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-10-20T13:00:00+03:00'
         end_time: '2025-10-20T13:30:00+03:00'
@@ -145,18 +148,18 @@ data:
         start_time: '2025-10-20T13:30:00+03:00'
         end_time: '2025-10-20T15:00:00+03:00'
         description: |-
-          Iltapäivän musiikissa keinuvat kevyt jazz, kansanmusiikki ja maailmanmusiikki sekä populaarimusiikin helmet. Juontajana on Jalmari Laine. N. klo 14 Helsingin kaupunginteatterin yleisötyö vie teatterin ihmisten koteihin. Studiovieraina hanketaiteilija Laura Ikonen sekä muusikko Aleksi Kinnunen 
+          Iltapäivän musiikissa keinuvat kevyt jazz, kansanmusiikki ja maailmanmusiikki sekä populaarimusiikin helmet. Juontajana on Jalmari Laine. N. klo 14 Helsingin kaupunginteatterin yleisötyö vie teatterin ihmisten koteihin. Studiovieraina Laura Ikonen sekä Jenny Jumppanen. 
       - title: 'Kulttuuriykkönen: Tutkija Timo R. Stewartin “Palestiina ja Israel ー Historia karttoina”'
         start_time: '2025-10-20T15:00:00+03:00'
         end_time: '2025-10-20T15:55:00+03:00'
         description: |-
-          Eri aikakausien kartat tarjoavat ainutlaatuisen näkökulman Israelin ja Palestiinan nykykonfliktiin. Tutkija Timo R. Stewartin tietoteos “Palestiina ja Israel ー Historia karttoina” (Gummerus, 2025) tuo esiin, miten kartat eivät ole pelkkiä maantieteellisiä kuvaajia, vaan myös välineitä, jotka heijastavat tekijöidensä näkemyksiä, tavoitteita ja poliittisia motiiveja. 
+          Lähi-idän tutkija ja tietokirjailija Timo R. Stewart uusi teos Palestiina ja Israel – Historia karttoina (Gummerus, 2025)  avaa alueen monipolvista historiaa karttojen avulla.
 
-          Kirjan noin kolmekymmentä karttaa on laadittu erilaisiin tarkoituksiin eri aikoina, ja ne paljastavat paljon sekä kuvaamastaan maailmasta että siitä, miten alueen identiteetit ja rajat on ymmärretty ja esitetty. Timo R. Stewartin mukaan kartat toimivat avaimina alueen monisyiseen historiaan ja kertovat, miksi Israel ja Palestiina voivat merkitä yhtä aikaa samaa ja täysin eri asioita.
+          Miten karttoja on käytetty poliittisten tavoitteiden ja propagandan välineenä? Miten kartan avulla voi vaikuttaa käsityksiimme maasta ja sen omistuksesta? Entä millä tavoin Israel ja Hamas ovat käyttäneet propagandaa viimeisen 20 vuoden aikana? 
 
-          Siinä, missä kartat ovat palvelleet propagandana, käsittelemme myös sitä, millaiselle propagandalle olemme altistuneet Hamasin lokakuun 7:stä 2023 terroristihyökkäyksen ja panttivankien oton jälkeen, ja miten tulevaisuuden kartat Lähi-Idässä piirretään.
+          Onko kahden valtion malli yhä mahdollinen ja kuka lopulta piirtää – ja vahvistaa – Israelin ja Palestiinan tulevat rajat?
 
-          Keskustelemassa ovat tietokirjailija Timo R. Stewart ja Lähi-idän tutkimuksen professori Hannu Juusola Helsingin yliopistosta.
+          Keskustelemassa ovat tietokirjailija Timo R. Stewart ja Hannu Juusola, Lähi-idän tutkimuksen professori Helsingin yliopistosta ja "Israelin historia" -kirjan (Gaudeamus, 2003, päivitetty 2024) kirjoittaja.
 
           Lähetyksen toimittaa Pauliina Grym. 
       - title: Yle News
@@ -175,9 +178,9 @@ data:
 
           Machado: Dos estrellas le siguen. (La Compania/Danny Lucin).
 
-          de Almeida: Ussian aaria Giusto Dio orat. La Giuditta (Jakub Józef Orlinski, kontratenori, ja Il Pomo d'oro/Francesco Corti).
+          Almeida: Ussian aaria "Giusto Dio" orat. La Giuditta (Jakub Józef Orlinski, kontratenori, ja Il Pomo d'oro/Francesco Corti).
 
-          de Castro: Sonaatti kahdelle viululle ja continuolle n:o 6 (La Real Cámara). 
+          Castro: Sonaatti kahdelle viululle ja continuolle n:o 6 (La Real Cámara). 
 
           Granados: Espanjalainen tanssi n:o 7 (Alicia de Larrocha, piano).
 
@@ -192,7 +195,7 @@ data:
         start_time: '2025-10-20T17:00:00+03:00'
         end_time: '2025-10-20T17:20:00+03:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Ruotsalaiset rikollisjengit ulottavat toimintaansa myös Suomeen. Millaista niiden toiminta Suomessa on ja kenen kanssa rikoksia tehtaillaan? Atte Uusinokan kanssa studiossa MOT:n rikos- ja oikeustoimittaja Jesse Mäntysalo. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-20T17:20:00+03:00'
         end_time: '2025-10-20T17:35:00+03:00'

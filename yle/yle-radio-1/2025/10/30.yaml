@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:28.933342+00:00'
+  generated_at: '2025-10-18T02:29:10.380402+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -63,7 +63,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-30T09:04:00+02:00'
         end_time: '2025-10-30T09:59:00+02:00'
-        description: |-
+        description: |
           Kern: Tietää tähti jokainen (Marjatta Leppänen).
           Leccia: Mes amis, mes copains (Annie Philippe).
           Porter: I've got you under my skin (The Delta Rhythm Boys).
@@ -157,9 +157,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-30T19:00:00+02:00'
         end_time: '2025-10-30T19:02:00+02:00'
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Traversées - An Oriental Voyage'
         start_time: '2025-10-30T19:02:00+02:00'
-        end_time: '2025-10-30T21:00:00+02:00'
+        end_time: '2025-10-30T20:56:00+02:00'
+        description: |-
+          Millainen matka syntyy, kun eri kulttuurien muusikot kohtaavat? Illan ensimmäisessä konsertissa iranilais-senegalilais-kanadalainen Traversées-trio vie kuulijat äänimatkalle Persiaan ja Länsi-Afrikkaan Tukholman Stallet-klubilla. Toisena kuultava Transposition-duo (oud ja sello) tuo Toronton konsertissaan esille palestiinalaisen perinteen ja musiikin voiman. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-30T21:00:00+02:00'
         end_time: '2025-10-30T21:05:00+02:00'

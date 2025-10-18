@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:32.773083+00:00'
+  generated_at: '2025-10-18T02:29:14.539010+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -111,9 +111,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-11-14T19:00:00+02:00'
         end_time: '2025-11-14T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Voces8 ja Pétur Sakari Musiikkitalossa
         start_time: '2025-11-14T19:02:00+02:00'
         end_time: '2025-11-14T21:00:00+02:00'
+        description: |-
+          Grammy-palkittu vokaaliyhtye Voces8 konsertoi vihdoin Helsingissä! Tämä kahdeksasta laulajasta koostuva brittiyhtye tunnetaan ilmiömäisestä äänenkäytöstään sekä vaikuttavasta musikaalisuudestaan. Yhtye esiintyy Helsingin Musiikkitalossa osana yhteistä Pohjoismaiden kiertuettaan urkutaiteilija Pétur Sakarin kanssa.
+
+          Luvassa on musiikillinen matka halki vuosisatojen: ohjelmistossa yhdistyvät renessanssin klassikot, romantiikan tunnelmat sekä nykypäivän sävelet, kaikki saumattomasti punottuna yhdeksi sykähdyttäväksi kokonaisuudeksi. 9.11. Helsingin Musiikkitalossa pidetyn konsertin toimittaa Ahti Paunu.
+
+          Kuvassa: Voces8 (© Andy Staples)
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-14T21:00:00+02:00'
         end_time: '2025-11-14T21:05:00+02:00'

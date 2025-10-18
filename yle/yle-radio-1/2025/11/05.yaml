@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:30.567304+00:00'
+  generated_at: '2025-10-18T02:29:11.965556+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-05T09:04:00+02:00'
         end_time: '2025-11-05T09:59:00+02:00'
+        description: |
+          Brooks & Waller: Ain't misbehavin' (Django Reinhardt & Le Quintette du Hot Club de France).
+          Kansansävelmä: Julianne (Matit ja Maijat).
+          Otis: A rockin' good way (Dinah Washington & Brook Benton).
+          Winkler: Italialaista salaattia (Kauko Käyhkö).
+          Magne: La valse (Juliette Greco).
+          Lennon/McCartney: Michelle (The Beatles).
+          Panula: Olen mikä olen (Tamara Lund).
+          Rascel: Arrivederci Roma (Mario Lanza).
+          Piazzolla: Adios nonino (Anibal Troilo).
+          Gershwin: But not for me (Elvis Costello).
+          Simonetti: Tu es le soleil de mon cœur (Jacqueline Boyer).
+          Brooker: Tuhkaa (Eddy).
+          Mårtenson: Marraskuu (= November) (Jonna Tervomaa ja Nieminen & Litmanen).
+          Stewart: Everyday people (Sly and the Family Stone).
+          Carter: Swingin' in November (Benny Carter and His Orchestra).
       - title: Havaintoja muutoksesta
         start_time: '2025-11-05T10:00:00+02:00'
         end_time: '2025-11-05T10:50:00+02:00'

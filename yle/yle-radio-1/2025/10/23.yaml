@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:27.029306+00:00'
+  generated_at: '2025-10-18T02:29:08.467377+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -120,7 +120,7 @@ data:
           Nevin: The moon is mine (Fairground Attraction).
           Aaltonen: Täysikuu (Remu Aaltonen).
           Joel: Vienna (Billy Joel).
-      - title: Marko Gustafssonin vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola
+      - title: 'Marko Gustafsson: Vieraana filosofi, aktivisti ja kirjailija Elisa Aaltola'
         start_time: '2025-10-23T10:00:00+03:00'
         end_time: '2025-10-23T10:50:00+03:00'
         description: |
@@ -143,9 +143,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-10-23T12:00:00+03:00'
         end_time: '2025-10-23T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Henkien kätkemä aukeaa shintolaisuuden kautta'
         start_time: '2025-10-23T12:05:00+03:00'
         end_time: '2025-10-23T13:00:00+03:00'
+        description: |-
+          Japanilaisen animaation mestarin Hayao Miyazakin vuonna 2001 julkaistu suuren yleisön rakastama elokuva Henkien kätkemä on nuoren Chihiro-tytön kasvutarina. Elokuva on pullollaan viitteitä shintolaisuudesta, jota voidaan pitää japanilaisuuden ytimenä. Voiko Henkien kätkemää ymmärtää kunnolla, jos ei tiedä mitään shintolaisuudesta? Mitä Miyazaki elokuvallaan haluaa japanilaisesta kulttuurista kertoa? Marja Vehkanen pureutuu elokuvan kautta shintolaisuuteen buddhalaisen taiteen ja Aasian kulttuurin tutkija, filosofian tohtorin Irene Wai Lwin Moen kanssa.
       - title: Politiikkaradio
         start_time: '2025-10-23T13:00:00+03:00'
         end_time: '2025-10-23T13:30:00+03:00'
@@ -251,8 +253,8 @@ data:
         end_time: '2025-10-23T20:30:00+03:00'
         description: |-
           Jazzklubin konsertti.
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-10-23T21:00:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2025-10-23T20:30:00+03:00'
         end_time: '2025-10-23T21:05:00+03:00'
       - title: Politiikkaradio
         start_time: '2025-10-23T21:05:00+03:00'

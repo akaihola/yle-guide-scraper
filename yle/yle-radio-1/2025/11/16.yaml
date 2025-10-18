@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:33.272861+00:00'
+  generated_at: '2025-10-18T02:29:15.044880+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -39,12 +39,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-11-16T09:56:00+02:00'
         end_time: '2025-11-16T09:59:00+02:00'
-      - title: Jumalanpalvelus Turun Mikaelin kirkosta
+      - title: Jumalanpalvelus Turun Mikaelinkirkosta
         start_time: '2025-11-16T10:00:00+02:00'
         end_time: '2025-11-16T10:59:20+02:00'
-        description: |-
-          Jumalanpalvelus Turun Mikaelin kirkosta. 
-          Saarnaajana kirkkoherra Jouni Lehikoinen ja litirgina seurakuntapastori Jaakko Paakkanen.
+        description: |
+          Liturgina seurakuntapastori Jaakko Paakkanen. Saarnaajana kirkkoherra Jouni Lehikoinen.
       - title: Muistojen bulevardi
         start_time: '2025-11-16T11:00:00+02:00'
         end_time: '2025-11-16T11:59:00+02:00'
@@ -110,9 +109,11 @@ data:
         end_time: '2025-11-16T20:00:00+02:00'
         description: |
           Toimittajana...
-      - title: Ortodoksinen jumalanpalvelus
+      - title: Pieni ehtoonjälkeinen palvelus ja akatistos Valamon luostarin Kristuksen kirkastumisen kirkosta
         start_time: '2025-11-16T20:00:00+02:00'
         end_time: '2025-11-16T21:00:00+02:00'
+        description: |
+          Palveluksen toimittaa arkkimandriitta Mikael ja Valamon luostarin papisto. Kirkkokuoroa johtaa arkkidiakoni Jaakob.
       - title: Uutispodcast
         start_time: '2025-11-16T21:01:00+02:00'
         end_time: '2025-11-16T21:21:00+02:00'

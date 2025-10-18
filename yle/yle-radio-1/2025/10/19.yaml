@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-17T02:32:25.823853+00:00'
+  generated_at: '2025-10-18T02:29:07.370825+00:00'
   git:
     branch: main
-    commit: 4b07c7ebd7b03896508c60da22623d76ed35b81b
-  data_hash: 1077f21e746bca75bbbe2abdb66447aa33e6aedbd70c61b6d5aeff29c19aaa60
+    commit: e1073475f2a1f0b6240b29cec27423439886ce3b
+  data_hash: f3ec2587c89ff5629a2c7c6017d82a55ea5d7fc2054069ae13c7950d7116151d
 data:
   Yle Radio 1:
     programmes:
@@ -42,6 +42,11 @@ data:
           06:27 J.S: Bach: Sonaatti huilulle ja klaveerille n:o 1 h-molli (Marc Beaucoudray, huilu, ja William Christie, cembalo).
 
           06:45 Janitsch: Sonata da chiesa Es-duuri (Epoca Barocca).
+      - title: Radio 1 soi
+        start_time: '2025-10-19T07:56:50+03:00'
+        end_time: '2025-10-19T08:00:00+03:00'
+        description: |-
+          Debussy: Keijukaiset ovat verrattomia tanssijattaria (Timo Mikkilä, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-10-19T08:00:00+03:00'
         end_time: '2025-10-19T08:05:05+03:00'
@@ -107,18 +112,18 @@ data:
         start_time: '2025-10-19T14:00:00+03:00'
         end_time: '2025-10-19T14:55:00+03:00'
         description: |
-          Ojajärvi: Pelimannin mopo keulii (Pentti Ojajärven perheork.). 
-          Ojajärvi: Kuin mie koinuri oisin (Pentti Ojajärven perheork.). 
-          Ojajärvi: Kollien marssi (Pentti Ojajärven perheork.). 
+          Ojajärvi: Pelimannin mopo keulii (Pentti Ojajärven perheorkesteri). 
+          Ojajärvi: Kuin mie koinuri oisin (Pentti Ojajärven perheorkesteri).
+          Ojajärvi: Kollien marssi (Pentti Ojajärven perheorkesteri).
           O. Merikanto: Valse lento (Piirpauke). 
           Sibelius/Kukko: Hållilå (Hållilå uti storm och i regn) (Piirpauke). 
           Kilpinen/Kukko: Silloin laulan (Paleface ja Piirpauke). 
           Kansanlaulu: Rannalla itkijä (Oiro Pena). 
-          Vija/Mäkynen: Big hands, deep voice (Kadi Vija ja Teppo Mäkynen). 
-          Savela: Timangi (Eero Savela, Seppo Kantonen, Joonas Leppänen, Eero Tikkanen). 
+          Vija/Mäkynen: Big hands, deep voice (Kadi Vija). 
+          Savela: Timangi (Eero Savela). 
           Pettinen: Lumbar punkture (Mikko Pettinen Why Not). 
-          Romberg: Softly as in a morning sunrise (Adele Sauros, Noe Secula, Joan Codina, Genius Wesley). 
-          Sauros: Basel smash (Adele Sauros, Noe Secula, Joan Codina, Genius Wesley). 
+          Romberg: Softly as in a morning sunrise (Adele Sauros). 
+          Sauros: Basel smash (Adele Sauros). 
       - title: 'Ykköskolumni: Virheet tulevat kalliiksi, mutta vielä kalliimpaa on jättää ne tunnustamatta'
         start_time: '2025-10-19T14:55:00+03:00'
         end_time: '2025-10-19T15:00:00+03:00'
@@ -180,17 +185,32 @@ data:
           Toimittajana Juhani Kansi.
       - title: Ehtoopalvelus Pyhän Aleksanteri Nevskin ja pyhän Nikolaoksen kirkosta Tampereelta
         start_time: '2025-10-19T20:00:00+03:00'
-        end_time: '2025-10-19T21:00:00+03:00'
+        end_time: '2025-10-19T20:57:00+03:00'
         description: |
           Palveluksen toimittaa pastori Tuomas Kallonen.
+      - title: Radio 1 soi
+        start_time: '2025-10-19T20:57:00+03:00'
+        end_time: '2025-10-19T21:00:00+03:00'
+        description: |-
+          Dowland: Melancholy galliard (David Russell, kitara).
       - title: 'Uutispodcast: Panttivangit palasivat Israeliin – alkaako nyt Netanjahun toimien syynäys?'
         start_time: '2025-10-19T21:00:44+03:00'
         end_time: '2025-10-19T21:24:23+03:00'
         description: |-
           Otsikoiden takana joka arkipäiväIsraelin pääministeri Benjamin Netanjahua on jo kaksi vuotta kritisoitu siitä, että hän pitkittää Gazan sotaa panttivankien avulla. Millaisessa tilanteessa on Israelin pääministeri Benjamin Netanjahu nyt, kun panttivangit on palautettu kotimaahansa? Reetta Röngän vieraana  Ulkopoliittisen instituutin vanhempi tutkija Timo R. Stewart.
+      - title: Radio 1 soi
+        start_time: '2025-10-19T23:16:39+03:00'
+        end_time: '2025-10-19T23:19:24+03:00'
+        description: |-
+          Anonyymi: Bonum vinum cum sapore (Piffaro). 
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-10-19T23:19:24+03:00'
+        end_time: '2025-10-19T23:24:29+03:00'
+        description: |
+          Sari Valto haastattelee tietokirjailija Reetta Rantaa hänen rakkaudestaan puihin. Ensilähetys oli 27.08.2025.
       - title: 'Romano mirits: Marita ja Voitto Friman toimivat sijoitettujen romanilasten tukena'
-        start_time: '2025-10-19T23:25:00+03:00'
-        end_time: '2025-10-19T23:39:38+03:00'
+        start_time: '2025-10-19T23:24:43+03:00'
+        end_time: '2025-10-19T23:39:21+03:00'
         description: |
           Marita ja Voitto Friman ovat työskennelleet pitkään lastensuojelun alalla. Lastensuojelulaitoksissa työskennellessään he kohtasivat romanilapsia, joiden tilanne huolestutti heitä. – Näimme tarpeen tukea sijoitettujen romanilasten identiteetin kehitystä. Lastensuojelutaustansa vuoksi he eivät välillä tiedä, ovatko he romaneja vai kuuluvatko pääväestöön, Voitto Friman kuvailee. – Halusimme olla osa sitä prosessia, joka voisi auttaa heitä, hän jatkaa.
            
