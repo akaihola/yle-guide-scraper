@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-20T02:36:38.881870+00:00'
+  generated_at: '2025-10-21T02:34:05.221796+00:00'
   git:
     branch: main
-    commit: 8f92f21645b995cdf283b522a4836f7a85f18588
-  data_hash: cac3ace06ec495a9b865d213a54dd633d5dde3dc1068ca62f7f1d9a3e7a42e23
+    commit: ef708c438b4e38a45d3e6199b03e26c6a8f07e51
+  data_hash: fc5d1ea05d12f69841199da085e7114184057066f05cf8fdede59c7ec0c857df
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,31 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-04T07:05:00+02:00'
         end_time: '2025-11-04T07:59:59+02:00'
+        description: |+
+          Lully: Jouissons (Chatham Baroque, ja Danny Mallon, lyömäsoittimet).
+
+          Stölzel: Bist du bei mir (Kajsa Dahlbäck, sopraano, Andrew Lawrence-King, urut, ja Mika Suihkonen, violone).
+
+          J. Haydn: Allegro molto jousikvartetosta n:o 8 E-duuri (Julian Bream, kitara, Hugh Maguire, viulu, Cecil Aronowitz, alttoviulu, Terence Weil, sello).
+
+          Schubert: Ave Maria (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          Chopin: Nokturni n:o 16 Es-duuri (Janne Mertanen, piano).
+
+          Beethoven: Teema, muunnelmia ja marssi serenadista D-duuri (Alexa Still, Robert Alemany ja JoAnn Falletta).
+
+          Fauré: Romanssi A-duuri (Susanna Mälkki, sello, ja Eero Heinonen, piano).
+
+          Kähärä: Laulu perunoiden kiehuessa (Jyväskylän Naislaulajat/Rita Varonen). 
+
+          Chaminade: Vanhaan aikaan (Autrefois) (Stephen Hough, piano).
+
+          Saint-Saëns: Akvaario sarj. Eläinten karnevaali (Pascal Rogé ja Cristina Ortiz, piano, ja London Sinfonietta/Charles Dutoit). 
+
+          Brouwer: Balladi rakastuneesta tytöstä (Sharon Isbin, kitara).
+
+          Dinicu: Hora staccato (Minnesotan ork./Eiji Oue).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-04T08:00:00+02:00'
         end_time: '2025-11-04T08:07:00+02:00'

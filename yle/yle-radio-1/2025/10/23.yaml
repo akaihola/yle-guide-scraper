@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-20T02:36:34.912311+00:00'
+  generated_at: '2025-10-21T02:34:01.334584+00:00'
   git:
     branch: main
-    commit: 8f92f21645b995cdf283b522a4836f7a85f18588
-  data_hash: cac3ace06ec495a9b865d213a54dd633d5dde3dc1068ca62f7f1d9a3e7a42e23
+    commit: ef708c438b4e38a45d3e6199b03e26c6a8f07e51
+  data_hash: fc5d1ea05d12f69841199da085e7114184057066f05cf8fdede59c7ec0c857df
 data:
   Yle Radio 1:
     programmes:
@@ -58,7 +58,7 @@ data:
         start_time: '2025-10-23T06:50:00+03:00'
         end_time: '2025-10-23T06:59:59+03:00'
         description: |
-          "Vierellä kulkeva ihminen auttaa"
+          "Miksi Jumala sallii pahuuden ja kärsimyksen?"
           Sairaalasielunhoito alkoi suomalaisissa sairaaloissa sata vuotta sitten. Sairaalapastori Elina Pöysti Helsingistä kertoo millaiseen kysymykseen papilta toivotaan sairaalassa vastausta. 
       - title: Yle Uutiset ja sää
         start_time: '2025-10-23T07:00:00+03:00'
@@ -223,7 +223,8 @@ data:
         start_time: '2025-10-23T17:35:00+03:00'
         end_time: '2025-10-23T18:25:00+03:00'
         description: |
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Suora lähetys WOMEX maailmanmusiikkitapahtumasta.
+          Haastateltavina Tampere-talossa ovat Kimmo Pohjonen, Karoliina Kantelinen, Lassi Logrén ja Kielo Kärkkäinen. Toimittajana on Tuuli Saksala.
       - title: 'Kielen päällä: kiinan kieli I - kiinan kielen määritelmä'
         start_time: '2025-10-23T18:25:00+03:00'
         end_time: '2025-10-23T18:35:00+03:00'
