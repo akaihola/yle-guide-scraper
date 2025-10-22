@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-21T02:34:01.739476+00:00'
+  generated_at: '2025-10-22T02:34:52.725795+00:00'
   git:
     branch: main
-    commit: ef708c438b4e38a45d3e6199b03e26c6a8f07e51
-  data_hash: fc5d1ea05d12f69841199da085e7114184057066f05cf8fdede59c7ec0c857df
+    commit: ff091263ad66c9c584525912fa0b802432178209
+  data_hash: e71529aa8b8bbbd8c7ae9545851af7653304823ca92442d4a710700b0baccc4e
 data:
   Yle Radio 1:
     programmes:
@@ -95,11 +95,34 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-24T09:04:00+03:00'
         end_time: '2025-10-24T09:59:00+03:00'
-      - title: Ruben Stiller
+        description: |-
+          Lindström: Minns du Monrepos? (Maynie Siren).
+          Chydenius: Syysidylli (Eija Ahvo).
+          James: Suspicious minds (Elvis Presley).
+          Meshel: Una granita di limone (Bobby Solo).
+          Andersson/Ulvaeus: Chiquitita (Abba).
+          Ram: Minä huijasin (Rauli 'Badding' Somerjoki).
+          Dominguez: Perfidia (Glenn Miller Orch.).
+          Adolphson: Chilipippuria ja rakkautta (Ragni Malmstén).
+          Mancini: Baby elephant walk (Henry Mancini and his Orchestra). 
+          Shannon/Crook: Vanina (Dave).
+          Kansansäv.: Menneet illat (Vieno Kekkonen ja Four Cats).
+          Rodgers: Have you met Miss Jones (Louis Armstrong).
+          Kärki: Mitä mulle jää (Paula Koivuniemi).
+          Jovi: It's my life (Paul Anka).
+      - title: 'Ruben Stiller: Ruutuaika hirvittää'
         start_time: '2025-10-24T10:00:00+03:00'
         end_time: '2025-10-24T10:55:00+03:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Onko keskittymiskykysi heikentynyt? Selailetko uutisia pakkomielteisesti, skrollaatko netissä tuomiopäivän uutisia?
+
+          Piiloudutko puhelimen taakse kotona ja moralisoit sen jälkeen lastesi Tiktokissa viettämää aikaa?
+
+          Ohjelmassa puhutaan digilaitteiden käytön vaikutuksista aivoihimme.
+
+          Tyhmentääkö tekoäly oman älymme?
+
+          Vieraana on aivotutkimuksesta väitellyt psykologian tohtori Mona Moisala. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-24T10:55:00+03:00'
         end_time: '2025-10-24T11:00:00+03:00'
@@ -203,9 +226,9 @@ data:
         end_time: '2025-10-24T19:02:00+03:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2025-10-24T19:02:00+03:00'
-        end_time: '2025-10-24T21:00:00+03:00'
-        description: |-
-          Nicholas Collon, kapellimestari, Jacquelyn Stucker, sopraano. - Maurice Ravel: Hanhiemo, sarja orkesterille. Hans Abrahamsen: Let me tell you . Robert Schumann: Sinfonia nro 4 d-molli. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson
+        end_time: '2025-10-24T21:05:00+03:00'
+        description: |
+          Nicholas Collon, kapellimestari, Lauren Snouffer, sopraano. - Maurice Ravel: Hanhiemo, sarja orkesterille. Hans Abrahamsen: Let me tell you . Robert Schumann: Sinfonia nro 4 d-molli. Suoran lähetyksen Musiikkitalosta toimittaa Lotta Emanuelsson
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-24T21:00:00+03:00'
         end_time: '2025-10-24T21:05:00+03:00'
