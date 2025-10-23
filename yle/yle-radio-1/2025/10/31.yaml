@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-22T02:34:54.786070+00:00'
+  generated_at: '2025-10-23T02:33:12.800398+00:00'
   git:
     branch: main
-    commit: ff091263ad66c9c584525912fa0b802432178209
-  data_hash: e71529aa8b8bbbd8c7ae9545851af7653304823ca92442d4a710700b0baccc4e
+    commit: 3d1135e0f1b6f091d1845849ff497d79a804a714
+  data_hash: 0d3acc9105bddd0a2c115016e14325680c85d1fe723007663546737675ed3fc9
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,39 @@ data:
         start_time: '2025-10-31T00:00:00+02:00'
         end_time: '2025-10-31T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Morley: The First Book of Consort Lessons (La Caccia/Patrick Denecker, nokkahuilu).
+
+          01:09 Tshaikovski: Viulukonsertto D-duuri (Ida Haendel ja Stuttgartin radion SO/Hans Müller-Kray).
+
+          01:43 Erlebach: Sonaatti viululle, viola da gamballe ja continuolle n:o 3 A-duuri. (Trio Settecento).
+
+          01:57 Rahmaninov: Preludi gis-molli (Santiago Rodriguez, piano).
+
+          02:01 Böhme: Sekstetto trumpeteille Es-duuri (Brass partout/Hermann Bäumer).
+
+          02:19 L. Glass: Sinfonia n:o 3 D-duuri (Metsäsinfonia) (Staatsorchester Rheinische Philharmonie/Daniel Raiskin).
+
+          02:55 W.A. Mozart: Pianokonsertto n:o 17 G-duuri (Wienin filharmonikot/Maurizio Pollini, piano ja joht.).
+
+          03:25 Milhaud: Saudades do Brazil (Muistikuvia Brasiliasta) (Lontoon musiikkijuhlien soittajat/Bernard Herrmann).
+
+          03:53 Cras: La Flûte de pan (Panin huilu) (Didier Henry, baritoni, Thomas Prevost, panhuilu, Marie-Christine Millière, viulu, Jean-Francois Benatar, alttoviulu, ja Philippe Bary, sello).
+
+          04:09 Sallinen: Kamarimusiikki 6 (3 invitations au voyage) (Jyväskylä Sinfonian jouset ja Meta4-kvartetti/Ville Matvejeff).
+
+          04:35 Liszt: Malédiction (Michel Béroff, piano, ja Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          04:50 Foote: Night piece, versio huilulle ja jousiorkesterille (Alexa Still, huilu, ja Uuden Seelannin kamariork./Nicholas Braithwaite).
+
+          05:00 Raff: Pianotrio n:o 2 G-duuri (Trio Opus 8).
+
+          05:34 J. Haydn: Sellokonsertto n:o 2 D-duuri (Gautier Capucon ja Mahler-kamariork./Daniel Harding).
+
+          05:59 Bon: Sonaatti huilulle ja pianolle n:o 1 C-duuri (Sabine Dreier, traverso, ja Irene Hegen, taffelipiano).
+
+          06:10 Striggio: Dalle gelate braccia (Metsästys) (Concerto Italiano/Rinaldo Alessandrini). 
+
+          06:24 Kerll: Passacaglia d-molli (Tuomas Pyrhönen, Kouvolan Myllykosken kirkon urut).
       - title: Hartaita säveliä
         start_time: '2025-10-31T06:30:50+02:00'
         end_time: '2025-10-31T06:50:00+02:00'
@@ -60,6 +92,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-31T08:07:00+02:00'
         end_time: '2025-10-31T09:00:00+02:00'
+        description: |-
+          Tervetuloa lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: Yle Uutiset
         start_time: '2025-10-31T09:00:00+02:00'
         end_time: '2025-10-31T09:03:00+02:00'
@@ -83,6 +117,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-31T11:57:00+02:00'
         end_time: '2025-10-31T12:00:00+02:00'
+        description: |-
+          Ote Hanna Weseliuksen romaanista Pronominit, WSOY 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-10-31T12:00:00+02:00'
         end_time: '2025-10-31T12:05:00+02:00'
@@ -140,7 +176,8 @@ data:
         start_time: '2025-10-31T18:50:00+02:00'
         end_time: '2025-10-31T19:00:00+02:00'
         description: |
-          Seurakuntapastori Vilppu Huomo, Helsinki
+          "Tilaa juosta maailman ääriin"
+          Syksyn perjantai-illoissa puhutaan juoksemisen hengellisyydestä. Seurakuntapastori Vilppu Huomo Helsingistä löytää yhteenkuuluvuuden luonnossa juostessaan keskellä avotunturin tarjoamaa kilometrien avaruutta.
       - title: Yle Uutiset ja sää
         start_time: '2025-10-31T19:00:00+02:00'
         end_time: '2025-10-31T19:02:00+02:00'

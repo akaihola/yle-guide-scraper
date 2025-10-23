@@ -1,17 +1,51 @@
 metadata:
-  generated_at: '2025-10-22T02:34:54.229553+00:00'
+  generated_at: '2025-10-23T02:33:12.064520+00:00'
   git:
     branch: main
-    commit: ff091263ad66c9c584525912fa0b802432178209
-  data_hash: e71529aa8b8bbbd8c7ae9545851af7653304823ca92442d4a710700b0baccc4e
+    commit: 3d1135e0f1b6f091d1845849ff497d79a804a714
+  data_hash: 0d3acc9105bddd0a2c115016e14325680c85d1fe723007663546737675ed3fc9
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-10-28T23:40:00+02:00'
         end_time: '2025-10-29T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Collan: Yksinlauluja; Hurtti-ukko, Yhtäläisyys, Vähäinen lahja, Hänen kuvansa, Aamulaulu, Gondoliera, Gruss, Erster Verlust sekä Waldeinsamkeit (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano).
+
+          00:06 Massenet: Elegia (Jan-Erik Gustafsson, sello, ja Heini Kärkkäinen, piano).
+
+          00:09 Duvernoy: Trio n:o 1 (Jenö Keveházi, käyrätorvi, Ildiko Hegyi, viulu, ja Jenö Jandó, piano).
+
+          00:18 Kaspar: O bone Jesu (Les Traversées Baroques/Etienne Meyer).
+
+          00:28 Reger: Romanttinen sarja Eichendorffin runojen mukaan (Berliinin radion SO/ Heinz Rögner).
+
+          00:55 Silvestrov: Misterioso (Kirill Rybakov, klarinetti, ja Aleksei Ljubimov, piano).
+
+          01:16 J.G. Graun: Konsertto viola da gamballe, jousille ja continuolle A-duuri (Vittorio Ghielmi ja Wiener Akademie/Martin Haselböck).
+
+          01:40 Andrée: Sinfonia n:o 1 C-duuri (Göteborgin SO/Johannes Gustavsson). 
+
+          02:16 W.A. Mozart: Huilukonsertto n:o 2 D-duuri (Peter-Lukas Graf ja Englantilainen kamariork./Raymond Leppard).
+
+          02:38 Walton: Partita orkesterille (BBC:n SO/Edward Gardner).
+
+          02:54 Smyth: Messu D-duuri (Eiddwen Harrhy, sopraano, Janis Hardy, altto, Dan Dressen, tenori, ja James Bohn, basso, sekä Plymouth Music Series -kuoro ja ork./Philip Brunelle).
+
+          03:58 Molique: Jousikvartetto A-duuri (Mannheimin jousikvartetti).
+
+          04:18 Wranitzky: Sinfonia B-duuri op.33/1 (Pardubicen valtiollinen kamariork./Marek Stilec).
+
+          04:45 Wagner: Wotanin kertomus oopp. Valkyyria (Simon Estes, bassobaritoni, Eva-Maria Bundschuch, sopraano, ja Berliinin valtionork./Heinz Fricke).
+
+          05:13 J. Haydn: Konsertto G-duuri (Andreas Staier, fortepiano, ja Freiburgin barokkiork./Gottfried von der Goltz).
+
+          05:38 Erlebach: Triosonaatti viululle, viola da gamballe ja continuolle n:o 5 (Marie Rouquié, viulu, Isabelle Saint-Yves, viola da gamba, ja Le Banquet Céleste/Damien Guillon). 
+
+          05:48 Briceño: Pasacalle (Le Poème Harmonique/Vincente Dumestre, barokkikitara).
+
+          05:56 J.S. Bach: Viisitoista 3-äänistä sinfoniaa klaveerille (Andrea Bacchetti, piano).
       - title: Hartaita säveliä
         start_time: '2025-10-29T06:30:50+02:00'
         end_time: '2025-10-29T06:50:00+02:00'
@@ -19,7 +53,8 @@ data:
         start_time: '2025-10-29T06:50:00+02:00'
         end_time: '2025-10-29T06:59:59+02:00'
         description: |
-          Vanhempi teologinen asiantuntija Markku Kotila, Helsinki
+          "En valinnut tietä, vaan tie minut"
+          Vanhempi teologinen asiantuntija Markku Kotila Helsingistä aloittaa omaelämäkerrallisen hartaussarjansa muistelemalla kasvamistaan maalaispappilassa. Sarja alkaa (1/6).
       - title: Yle Uutiset ja sää
         start_time: '2025-10-29T07:00:00+02:00'
         end_time: '2025-10-29T07:05:00+02:00'
@@ -55,6 +90,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-10-29T08:07:00+02:00'
         end_time: '2025-10-29T09:00:00+02:00'
+        description: |-
+          Tervetuloa lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: Yle Uutiset
         start_time: '2025-10-29T09:00:00+02:00'
         end_time: '2025-10-29T09:03:00+02:00'
@@ -91,6 +128,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-29T11:57:00+02:00'
         end_time: '2025-10-29T12:00:00+02:00'
+        description: |-
+          Ote Hanna Weseliuksen romaanista Pronominit, WSOY 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-10-29T12:00:00+02:00'
         end_time: '2025-10-29T12:05:00+02:00'
@@ -125,7 +164,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-10-29T16:07:00+02:00'
         end_time: '2025-10-29T16:59:00+02:00'
-        description: |-
+        description: |
           Vivaldi: Allegro-osa alkusoitosta oopp. Olympian kisat (Orfeo 55 -kamariork./Nathalie Stutzmann).
 
           Momotenko: Koliskova (Kehtolaulu) (Latvian radion kuoro/Sigvards Klava, sekä Ieva Sablovska, harppu). 
@@ -134,7 +173,7 @@ data:
 
           Dvorak: Oi ihana ruusu kok. Sypressejä (Prahan jousikvartetti).
 
-          Donizetti: Lucian aaria oopp. Lucia di Lammermoor (Anna Netrebko, sopraano, sekä Milanon Giuseppe Verdi -kuoro ja Mahler-kamariork./Claudio Abbado).
+          Donizetti: Lucian aaria "Spargi d'amaro pianto" oopp. Lucia di Lammermoor (Anna Netrebko, sopraano, sekä Milanon Giuseppe Verdi -kuoro ja Mahler-kamariork./Claudio Abbado).
 
           Ravel: Narrin aamulaulu sarj. Kuvajaisia (Dinu Lipatti, piano).
 
@@ -202,4 +241,38 @@ data:
         start_time: '2025-10-29T23:40:00+02:00'
         end_time: '2025-10-30T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Boyce: Sonaatti kahdelle viululle ja continuolle n:o 2 F-duuri (The Parley of Instruments).
+
+          23:50 F.C. Homilius: Kvartetto neljälle käyrätorvelle B-duuri (Detmoldin käyrätorvikvartetti).
+
+          00:02 Brahms: Sonaatti klarinetille ja pianolle f-molli (Michael Collins ja Michael McHale).
+
+          00:25 Leclair: Konsertto C-duuri (Jaap Schröder, viulu, ja Concerto Amsterdam/Nikolaus Harnoncourt).
+
+          00:40 Morley: The First service (Ferdinand's Consort/Stephen Bullamore, sekä Edmund Aldhouse, urut).
+
+          01:16 Stephan: Musik für Geige und Orchester (Musiikkia viululle ja orkesterille) (Sergei Stadler ja Melbournen SO/Oleg Caetani).
+
+          01:37 Mendelssohn: Pianokonsertto n:o 2 d-molli (Pariisin kamariork./Lars Vogt, piano ja joht.).
+
+          01:59 F.B. Price: Sinfonia n:o 3 c-molli (Philadelphian ork./Yannick Nézet-Séguin).
+
+          02:31 Kahn: Sonaatti viululle ja pianolle n:o 3 E-duuri (Elina Vähälä ja Oliver Triendl).
+
+          02:55 L. Glass: Kvintetto pianolle ja jousille C-duuri (Christina Björköe ja Copenhagen Classics).
+
+          03:35 Sibelius: Viulukonsertto d-molli (David Oistrah ja Philadelphian ork./Eugene Ormandy).
+
+          04:07 J.S. Bach: Kantaatti n:o 206 (Schleicht, spielende Wellen) (Ruth Ziesak, sopraano, Michael Chance, kontratenori, Christoph Prégardien, tenori, ja Peter Kooy, basso, sekä Stuttgartin kamarikuoro ja Concerto Köln/Frieder Bernius).
+
+          04:45 Palmgren: Kolmikohtainen pastoraali, sarja orkesterille (Pori Sinfonietta/Jan Söderblom).  
+
+          05:02 Schumann: Pianosonaatti n:o 3 f-molli (2. versio) (Vladimir Horowitz).
+
+          05:33 Danning: Rokokoomenuetti (Etelä-Jyllannin SO/Frans Rasmussen).
+
+          05:36 Agrell: Konsertto huilulle, jousille ja continuolle D-duuri (Maria Bania, traverso, ja Concerto Copenhagen/Andrew Manze).
+
+          05:52 J.G. Graun: Trio concertante G-duuri kahdelle viola da gamballe ja continuolle (August Wenzinger -kamariyhtye).
+
+          06:10 Sanz (sov. Romero): Suite española (Espanjalainen sarja) (Angel Romero, kitara).

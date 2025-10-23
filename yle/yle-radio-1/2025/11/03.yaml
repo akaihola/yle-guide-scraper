@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-22T02:34:55.597281+00:00'
+  generated_at: '2025-10-23T02:33:13.640660+00:00'
   git:
     branch: main
-    commit: ff091263ad66c9c584525912fa0b802432178209
-  data_hash: e71529aa8b8bbbd8c7ae9545851af7653304823ca92442d4a710700b0baccc4e
+    commit: 3d1135e0f1b6f091d1845849ff497d79a804a714
+  data_hash: 0d3acc9105bddd0a2c115016e14325680c85d1fe723007663546737675ed3fc9
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-11-03T06:50:00+02:00'
         end_time: '2025-11-03T06:59:59+02:00'
-        description: |-
-          Nuorisotyönohjaaja Virpi Salo, Vihti
+        description: |
+          "Jumalan sotavarustus"
+          Nuorisotyönohjaaja, muusikko Virpi Salo Vihdistä puhuu Jumalan antamista välineistä kohdata taistelutannerta muistuttava maailma.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-03T07:00:00+02:00'
         end_time: '2025-11-03T07:05:00+02:00'
@@ -89,9 +90,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-11-03T13:30:00+02:00'
         end_time: '2025-11-03T15:00:00+02:00'
-        description: |2+
-
-
+        description: |-
+          Iltapäivän rentoa musiikkia kevyestä jazzista etnoon ja populaarimusiikin helmiin. Jalmari Laine juontaa. N. klo 14  Studiovieraaksi tulee UMO:n toimitusjohtaja Henriika Steidel-Luoto. UMO viettää 50-vuotisjuhlakauttaan.
       - title: Kulttuuriykkönen
         start_time: '2025-11-03T15:00:00+02:00'
         end_time: '2025-11-03T15:55:00+02:00'

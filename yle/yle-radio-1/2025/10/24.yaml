@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-22T02:34:52.725795+00:00'
+  generated_at: '2025-10-23T02:33:10.599038+00:00'
   git:
     branch: main
-    commit: ff091263ad66c9c584525912fa0b802432178209
-  data_hash: e71529aa8b8bbbd8c7ae9545851af7653304823ca92442d4a710700b0baccc4e
+    commit: 3d1135e0f1b6f091d1845849ff497d79a804a714
+  data_hash: 0d3acc9105bddd0a2c115016e14325680c85d1fe723007663546737675ed3fc9
 data:
   Yle Radio 1:
     programmes:
@@ -235,14 +235,14 @@ data:
       - title: Politiikkaradio
         start_time: '2025-10-24T21:05:00+03:00'
         end_time: '2025-10-24T21:35:00+03:00'
-      - title: Kalle Haatanen
-        start_time: '2025-10-24T21:36:00+03:00'
-        end_time: '2025-10-24T22:26:00+03:00'
-        description: |
-          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: 'Kalle Haatanen: Muinainen Jeriko nykyarkeologian silmin'
+        start_time: '2025-10-24T21:35:47+03:00'
+        end_time: '2025-10-24T22:24:21+03:00'
+        description: |-
+          Raamatustakin tuttu Jerikon kaupunki ja sen muurien murtuminen - sikäli kuin sellaista tapahtui Raamatun muistin mukaisesti - olisi tapahtunut n. 3300 - 2300 eaa. Mutta uusien arkeologisten kaivausten mukaan tässä vaiheessa Jerikon muurit ja kaupunki olivat aikojen saatossa romahtaneet ja taas pystytetty jo kuusitoista kertaa. Jerikossa asuttiin jo myöhäisellä kivikaudella, yli 12 000 vuotta sitten. Uusista tutkimuksista kertoo Lähi-idän ja Välimeren arkeologian sekä historian ja maailman kulttuuriperinnön asiantuntija Minna Silver. Toimittaja on Kalle Haatanen.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-10-24T22:27:00+03:00'
-        end_time: '2025-10-24T23:17:00+03:00'
+        start_time: '2025-10-24T22:25:14+03:00'
+        end_time: '2025-10-24T23:15:00+03:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen
