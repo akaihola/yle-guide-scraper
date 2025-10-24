@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-23T02:33:20.046868+00:00'
+  generated_at: '2025-10-24T02:31:59.877943+00:00'
   git:
     branch: main
-    commit: 3d1135e0f1b6f091d1845849ff497d79a804a714
-  data_hash: 0d3acc9105bddd0a2c115016e14325680c85d1fe723007663546737675ed3fc9
+    commit: b89f68d3c864bee2091c811e83c18fe8a57b96e1
+  data_hash: c0ff0d1d6a95e2d22a7a2880f23e2f8bbcc1e9264be5941f2525ae0449729005
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,8 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2025-11-26T10:00:00+02:00'
         end_time: '2025-11-26T10:50:00+02:00'
+        description: |
+          Yhteiskunnalliset ja kulttuuriset muutokset tapahtuvat usein pikkuhiljaa. Kunnes havahdumme kysymään kollektiivisesti: Mitä tämä tarkoittaa? Miten tässä näin kävi? Miltä tulevaisuus vaikuttaa? Toimittaja Satu Kivelä etsii yhdessä vieraidensa kanssa merkityksiä, jotka voivat auttaa ymmärtämään jatkuvaa muutosta.
       - title: Riston Valinta
         start_time: '2025-11-26T11:00:00+02:00'
         end_time: '2025-11-26T11:50:00+02:00'
