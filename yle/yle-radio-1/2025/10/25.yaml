@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-24T02:31:50.904411+00:00'
+  generated_at: '2025-10-25T02:32:24.784374+00:00'
   git:
     branch: main
-    commit: b89f68d3c864bee2091c811e83c18fe8a57b96e1
-  data_hash: c0ff0d1d6a95e2d22a7a2880f23e2f8bbcc1e9264be5941f2525ae0449729005
+    commit: c0a0412c38aa5efb1c46cdd4d813e2a38929304a
+  data_hash: 41b8028406ee29b03a958fa5e1b041aff2a703f309cac73fc4a98a7d7ab9149d
 data:
   Yle Radio 1:
     programmes:
@@ -39,12 +39,12 @@ data:
 
           07:22 Lambert: Le Repos, l'ombre, le silence (Rauha, varjo, hiljaisuus) (Les Arts Florissants/William Christie).
       - title: 'Luomiskertomus: Tuomas Kyrön Mielensäpahoittaja ja sodankäynnin taito'
-        start_time: '2025-10-25T07:31:00+03:00'
-        end_time: '2025-10-25T07:56:00+03:00'
+        start_time: '2025-10-25T07:30:45+03:00'
+        end_time: '2025-10-25T07:54:01+03:00'
         description: |-
           Mielensäpahoittaja ja sodankäynnin taito kertoo siitä, kuinka Mielensäpahoittaja kokoaa joukot ja ryhtyy sotaan kansainvälistä kaivosjättiä vastaan. Sotastrategia on peräsiin vanhasta sodankäynnin klassikkoteoksesta. Tuomas Kyrön 12 kirja Mielensäpahoittaja-sarjassa eroaa tekotavaltaan aikaisemmista siinä, että Kyrö aloitti kirjoittamisen luomalla juonitiivistelmän. Toimittajana on Jonni Roos.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-10-25T07:56:00+03:00'
+        start_time: '2025-10-25T07:54:01+03:00'
         end_time: '2025-10-25T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-10-25T08:00:00+03:00'
@@ -107,6 +107,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-25T10:00:00+03:00'
         end_time: '2025-10-25T10:25:00+03:00'
+        description: |-
+          Pääministeri Giorgia Melonin hallitus nousi tällä viikolla Italian pisimpään hallinneiden joukkoon. Meloni on ollut pääministerinä nyt kolme vuotta ja suositumpi kuin koskaan.
+
+          Ohjelmassa kuullaan Italiasta, mikä Melonissa vetoaa.
+
+          EU-politiikassaan Meloni on hallinnut asiantuntijoiden mukaan enemmän keskeltä kuin moni muu laitaoikeiston EU-johtaja. Hän kannattaa esimerkiksi Ukrainan tukemista sen puolustautuessa Venäjän hyökkäyssotaa vastaan.
+
+          Konservatiivisia arvoja ajava Meloni nauttii Yhdysvaltain presidentin Donald Trumpin suurta suosiota. Ohjelmassa haastateltavan yhdysvaltalaisprofessorin mukaan Melonin Italia näyttää nousseen Britannian EU-eron myötä vapautuneelle USA:n luottopakin paikalle EU:ssa
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Kairossa kadonnut J3: Boys don´t cry'
         start_time: '2025-10-25T10:25:00+03:00'
         end_time: '2025-10-25T10:51:00+03:00'
@@ -247,35 +257,58 @@ data:
         end_time: '2025-10-25T19:02:00+03:00'
       - title: 'Musiikkitalon urut konsertissa: Paolo Oreni - Urkusovitusten aatelia'
         start_time: '2025-10-25T19:02:00+03:00'
-        end_time: '2025-10-25T21:00:00+03:00'
+        end_time: '2025-10-25T20:45:00+03:00'
         description: |-
           Urkuvirtuoosi Paolo Oreni esittää konsertissa Jean Guilloun urkusovituksia Händelin, Mozartin, Lisztin, Tšaikovskin ja Prokofjevin sävellyksistä, sekä improvisoi yleisön antamista teemoista. Väliajalla kuullaan Paolo Orenin ja Musiikkitalon urut ry:n taiteellisen johtajan Jan Lehtolan haastattelut. Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Noora Hirn.
+      - title: Musiikkikamari
+        start_time: '2025-10-25T20:45:00+03:00'
+        end_time: '2025-10-25T21:10:00+03:00'
       - title: 'Uutispodcast: Räjäytettyjä veneitä ja CIA-operaatioita – miksi USA käy huumesotaa Venezuelassa?'
-        start_time: '2025-10-25T21:00:30+03:00'
-        end_time: '2025-10-25T21:26:00+03:00'
+        start_time: '2025-10-25T21:10:00+03:00'
+        end_time: '2025-10-25T21:33:52+03:00'
         description: |-
           USA käy huumeidenvastaista sotaa Venezuelassa toimivia kartelleja vastaan. Samalla presidentti Trump on antanut tiedustelupalvelu CIA:lle luvan tehdä salaisia operaatioita Venezuelassa. Mihin tämä huumesota voi johtaa ja millaisia seurauksia sillä on venezuelalaisille? Reetta Röngän haastattelussa Helsingin yliopiston maailmanpolitiikan professori Teivo Teivainen. 
       - title: Poiminta Radio 1:n iltapäivästä
-        start_time: '2025-10-25T21:27:00+03:00'
-        end_time: '2025-10-25T21:50:00+03:00'
-      - title: Maailman tärkein pieni asia
-        start_time: '2025-10-25T22:00:30+03:00'
-        end_time: '2025-10-25T22:20:00+03:00'
+        start_time: '2025-10-25T21:33:52+03:00'
+        end_time: '2025-10-25T21:57:48+03:00'
+        description: |-
+          Paula Jokimies haastattelee luontovalokuvaaja, tietokirjailija Sami Karjalaista. Ensilähetys oli 23.9.2025
+      - title: Radio 1 soi
+        start_time: '2025-10-25T21:57:48+03:00'
+        end_time: '2025-10-25T22:03:15+03:00'
+        description: |-
+          Brahms: Unkarilainen tanssi n:o 4 (RSO/Jukka-Pekka Saraste).
+      - title: 'Maailman tärkein pieni asia: Tommi Kinnusella on kirvesmiehen sielu'
+        start_time: '2025-10-25T22:03:15+03:00'
+        end_time: '2025-10-25T22:19:35+03:00'
+        description: |-
+          Opettaja, kirjailija Tommi Kinnunen sanoo olevansa liian suurpiirteinen puusepäksi, mutta kirvesmieheen hän pystyy samaistumaan. Semmoiset hommat sopivat, missä parin sentin mittavirhe ei ole kohtalokas, Kinnunen luonnehtii. 
+
+          Näyttöjä näppäryydestä löytyy, sillä Kinnunen asuu itseremontoidussa vanhassa puutalossa Turussa. Lisää työmaata löytyy mökiltä, missä korjattavaa riittää vielä pitkään. 
+
+          Maija Salminen juttelee Tommi Kinnusen kanssa perheen tunnelmallisessa ruokasalissa. 
       - title: 'Kielen päällä: kiinan kieli I - kiinan kielen määritelmä'
         start_time: '2025-10-25T22:20:30+03:00'
-        end_time: '2025-10-25T22:30:00+03:00'
+        end_time: '2025-10-25T22:29:39+03:00'
         description: |
           Kiinan kieli on laaja käsite ja kielen eri muodot voivat poiketa toisistaan paljonkin. Puhutaankin kiinan aluekielistä. Kiinan kielen puhujat ymmärtävät toisiaan kuitenkin sanamerkkien avulla. Sinologi Jyrki Kallio kertoo. Neliosainen minisarja alkaa. Toimittajana on Jari Aula.
       - title: 'Keinuva talo - Mika Kauhanen: Suomi-etnon vienti vetää, mutta ostajien lompakko on ohentunut'
-        start_time: '2025-10-25T22:30:30+03:00'
-        end_time: '2025-10-25T23:29:30+03:00'
+        start_time: '2025-10-25T22:30:04+03:00'
+        end_time: '2025-10-25T23:29:14+03:00'
         description: |
           Maailmanmusiikin ammattilaiset ympäri maailman kokoontuvat tällä viikolla Tampereelle Womex-tapahtumaan. Se on näytönpaikka suomalaisen nykykansanmusiikin tekijöille, joita esiintyykin Womexin showcase-keikoilla mittava määrä. 
 
           Mutta mitä kuuluu Suomi-etnon viennille kokonaisuutena? Haastattelussa Music Finlandin vientipäällikkö Tuuli Elo kertoo, että Euroopassa kulttuurin julkisen rahoituksen leikkaukset ja inflaatio rajoittavat mahdollisuuksia hankkia suomalaisia pitkämatkalaisia esiintyjiksi, mutta itse vientituotteemme eli musiikki edelleen kiinnostaa maailmalla voimakkaasti. Toimittajana Mika Kauhanen.
+      - title: Radio 1 soi
+        start_time: '2025-10-25T23:29:14+03:00'
+        end_time: '2025-10-25T23:32:55+03:00'
+        description: |-
+          Gounod: Marionetin surumarssi (Detroitin SO/Paul Paray).
       - title: Poiminta Radio 1:n iltapäivästä
-        start_time: '2025-10-25T23:31:00+03:00'
-        end_time: '2025-10-25T23:32:00+03:00'
+        start_time: '2025-10-25T23:32:55+03:00'
+        end_time: '2025-10-25T23:40:00+03:00'
+        description: |
+          Kati Turtola haastattelee ohjelmahankkija Katja Karasvaaraa. Ensilähetys oli 17.10.2025
       - title: Yöklassinen 1
         start_time: '2025-10-25T23:40:00+03:00'
         end_time: '2025-10-26T04:59:59+03:00'

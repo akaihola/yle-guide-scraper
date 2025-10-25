@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-24T02:31:55.379341+00:00'
+  generated_at: '2025-10-25T02:32:29.484033+00:00'
   git:
     branch: main
-    commit: b89f68d3c864bee2091c811e83c18fe8a57b96e1
-  data_hash: c0ff0d1d6a95e2d22a7a2880f23e2f8bbcc1e9264be5941f2525ae0449729005
+    commit: c0a0412c38aa5efb1c46cdd4d813e2a38929304a
+  data_hash: 41b8028406ee29b03a958fa5e1b041aff2a703f309cac73fc4a98a7d7ab9149d
 data:
   Yle Radio 1:
     programmes:
@@ -116,6 +116,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-07T17:20:00+02:00'
         end_time: '2025-11-07T17:35:00+02:00'
+        description: |2+
+
+
       - title: Näistä levyistä en luovu
         start_time: '2025-11-07T17:35:00+02:00'
         end_time: '2025-11-07T18:30:00+02:00'

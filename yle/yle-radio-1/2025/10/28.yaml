@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-24T02:31:51.972936+00:00'
+  generated_at: '2025-10-25T02:32:26.391327+00:00'
   git:
     branch: main
-    commit: b89f68d3c864bee2091c811e83c18fe8a57b96e1
-  data_hash: c0ff0d1d6a95e2d22a7a2880f23e2f8bbcc1e9264be5941f2525ae0449729005
+    commit: c0a0412c38aa5efb1c46cdd4d813e2a38929304a
+  data_hash: 41b8028406ee29b03a958fa5e1b041aff2a703f309cac73fc4a98a7d7ab9149d
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-28T06:30:50+02:00'
         end_time: '2025-10-28T06:50:00+02:00'
+        description: |+
+          Doane: Pois kirkas suvi kulkee (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Tuntematon: Armahda, Herra Jumala (Cetus Noster).
+
+          Tuntematon (sov. Nikkola): Ihana rauhan ranta (Maria Rainio-Alaranta, sopraano, Heikki Rainio, tenori, ja Pentti Kotiranta, piano).
+
+          O. Merikanto: Kiitos sulle, Jumalani (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
       - title: Aamuhartaus
         start_time: '2025-10-28T06:50:00+02:00'
         end_time: '2025-10-28T06:59:59+02:00'
@@ -96,6 +105,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-28T09:04:00+02:00'
         end_time: '2025-10-28T09:59:00+02:00'
+        description: |-
+          Bindi/Testa/Moustaki: Riviera (Umberto Bindi).
+          Thörnqvist: Rumba i Engelska parken (Owe Thörnqvist).
+          Pohjanheimo: Yön laulajatar (Anna-Liisa Pyykkö).
+          Lake/Jenney: Man with a horn (Anita O'Day).
+          Adamo: Vous permettez, monsieur? (Salvatore Adamo). 
+          Kärki: Toivematka (Eila Pienimäki).
+          Dehr/Gilkyson: Memories are made of this (Drifters (USA)).
+          Iglesias: Boneca de pixe (Carmen Miranda ja Banda Da Lua).
+          Bramlett: Mun on niin hyvä olla (Lea Laven).
+          Klose-Lukesch-Verdi: Violetta (Ray Adams).
+          Ronell: Willow weep for me (Duke Ellington).
+          Budd: Kaikki tietää sen (Fredi).
+          Leeson/Vale: I don't need your word (Sheena Easton).
+          Mason/MacAulay: Där du går lämnar kärleken spår (Anni-Frid Lyngstad).
+          King/Goffin/Wexler: (You make me feel like) a natural woman (Aretha Franklin).
       - title: 'Sari Valto: Elämänviisautta tarot-korteista?'
         start_time: '2025-10-28T10:00:00+02:00'
         end_time: '2025-10-28T10:55:00+02:00'
@@ -104,8 +129,23 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Bach, Bach, Bach'
         start_time: '2025-10-28T11:00:00+02:00'
         end_time: '2025-10-28T11:57:00+02:00'
-        description: |-
+        description: |+
+          Joskus tekee mieli kunnollista, ja silloin Johann Sebastian Bach on mies paikallaan. Syksyn pimeneviin iltoihin soitinsonaatit ja varhainen kantaatti antavat levollisuutta ja  valoa. Selviää myös, mikä soitin on pantaleon. 
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit
+
+          Johann Sebastian Bach: 
+
+          Preludi, sarjasta soolosellolle n:o 1 G-duuri BWV1007 (Margit Uebellacker, dulcimer).
+
+          Triosonaatti kahdelle huilulle ja continuolle G-duuri BWV 1039  (Lisa Beznosiuk ja Rachel Brown, flauto traverso, Paul Nicholson, cembalo, Richard Tunnicliffe, sello).
+
+          Osat Andante un poco ja Presto Sonaatista viululle ja klaveerille n:o 2 A-duuri BWV1015 (Margit Üebellacker, dulcimer, Jürgen Banholzer, urut).
+
+          Kantaatti n:o 150 (Nach dir, Herr, verlanget mich) BWV150, solisteille, kuorolle, orkesterille ja continuolle (Voces8 ja the Academy of Ancient Music/Barnaby Smith). 
+
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-10-28T11:57:00+02:00'
         end_time: '2025-10-28T12:00:00+02:00'
@@ -214,6 +254,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-10-28T18:35:00+02:00'
         end_time: '2025-10-28T18:50:00+02:00'
+        description: |+
+          Anonyymi: On Jeesus nimi ihanin (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
+          I. Kuusisto: Kosketa minua, Henki (Risto Saarman, laulu, ja Jorma Tiainen, urut).
+
+          Perttilä: Sinun edessäsi painamme päämme (Markku Perttilä, laulu ja kitara, Lauluyhtye Viisveisaa, sekä soitinyhtye).
+
+          Löytty: On meillä unelma (Esa Eloranta ja Jaakko Löytyn yhtye).
+
       - title: Iltahartaus
         start_time: '2025-10-28T18:50:00+02:00'
         end_time: '2025-10-28T19:00:00+02:00'
@@ -250,6 +299,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-28T20:35:00+02:00'
         end_time: '2025-10-28T21:00:00+02:00'
+        description: |-
+          Pääministeri Giorgia Melonin hallitus nousi tällä viikolla Italian pisimpään hallinneiden joukkoon. Meloni on ollut pääministerinä nyt kolme vuotta ja suositumpi kuin koskaan.
+
+          Ohjelmassa kuullaan Italiasta, mikä Melonissa vetoaa.
+
+          EU-politiikassaan Meloni on hallinnut asiantuntijoiden mukaan enemmän keskeltä kuin moni muu laitaoikeiston EU-johtaja. Hän kannattaa esimerkiksi Ukrainan tukemista sen puolustautuessa Venäjän hyökkäyssotaa vastaan.
+
+          Konservatiivisia arvoja ajava Meloni nauttii Yhdysvaltain presidentin Donald Trumpin suurta suosiota. Ohjelmassa haastateltavan yhdysvaltalaisprofessorin mukaan Melonin Italia näyttää nousseen Britannian EU-eron myötä vapautuneelle USA:n luottopakin paikalle EU:ssa
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-28T21:00:00+02:00'
         end_time: '2025-10-28T21:05:00+02:00'
