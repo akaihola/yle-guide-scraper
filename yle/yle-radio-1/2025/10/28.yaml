@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-27T02:37:47.061778+00:00'
+  generated_at: '2025-10-28T02:33:59.317542+00:00'
   git:
     branch: main
-    commit: 04994faea8c63220f066e4141cc94d8c3fe8eafe
-  data_hash: 7af128981af2882b09284512f711e0d8ffde8279bc0c442734122fb74f879359
+    commit: dec51611ac8fbbe1b7ed779965527641f2719523
+  data_hash: 0b30221be8ccb7ae28df8d4d42cb0f991e95ec3f11205ca499d3711635a8c755
 data:
   Yle Radio 1:
     programmes:
@@ -105,17 +105,17 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-28T09:04:00+02:00'
         end_time: '2025-10-28T09:59:00+02:00'
-        description: |-
+        description: |
           Bindi/Testa/Moustaki: Riviera (Umberto Bindi).
           Thörnqvist: Rumba i Engelska parken (Owe Thörnqvist).
           Pohjanheimo: Yön laulajatar (Anna-Liisa Pyykkö).
           Lake/Jenney: Man with a horn (Anita O'Day).
           Adamo: Vous permettez, monsieur? (Salvatore Adamo). 
           Kärki: Toivematka (Eila Pienimäki).
-          Dehr/Gilkyson: Memories are made of this (Drifters (USA)).
+          Gilkyson/Dehr: Memories are made of this (Drifters).
           Iglesias: Boneca de pixe (Carmen Miranda ja Banda Da Lua).
           Bramlett: Mun on niin hyvä olla (Lea Laven).
-          Klose-Lukesch-Verdi: Violetta (Ray Adams).
+          Klose/Lukesch/Verdi: Violetta (Ray Adams).
           Ronell: Willow weep for me (Duke Ellington).
           Budd: Kaikki tietää sen (Fredi).
           Leeson/Vale: I don't need your word (Sheena Easton).
@@ -169,21 +169,25 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-28T12:50:00+02:00'
         end_time: '2025-10-28T13:00:00+02:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kuinka uusi oikeistovalta syntyi Suomeen?'
         start_time: '2025-10-28T13:00:00+02:00'
         end_time: '2025-10-28T13:30:00+02:00'
+        description: |
+          Orpon hallituksen myötä Suomeen syntyi harvinainen puhdasverinen oikeistohallitus. Uuden oikeistovallan kokoomus muodosti yhdessä perussuomalaisten kanssa. Miten Orpon valtapoliittinen hattutemppu tehtiin? Vieraana on Petteri Orpo ja oikeistovallan paluu -kirjan kirjoittaja, politiikan toimittaja Teemu Luukka. Toimittajana on Tapio Pajunen.
       - title: Radio 1:n iltapäivä
         start_time: '2025-10-28T13:30:00+02:00'
         end_time: '2025-10-28T15:00:00+02:00'
         description: |-
           Radio 1:n iltapäivän musiikkikattauksessa etnomusiikkia, kevyttä jazzia ja populaarimusiikin helmiä. Miia Lahti juontaa. N. klo 14 studiovieraana toimittaja Piia Pasanen. N. klo 14:30 Kielen päällä ohjelmassa Sinologi Jyrki Kallio kertoo mandariinikiinan rakenteesta ja luonteesta. Jari Aula toimittaa.
-      - title: 'Kulttuuriykkönen: Kauhu videopeleissä: Silent Hill f, Exit 8 sekä kotimainen uutuus Shifting Chambers'
+      - title: 'Kulttuuriykkönen: Kauhu videopeleissä: Silent Hill f, Exit 8 & kotimainen uutuus Shifting Chambers'
         start_time: '2025-10-28T15:00:00+02:00'
         end_time: '2025-10-28T15:55:00+02:00'
         description: |-
           Miten kauhu toimii videopeleissä, ja millaisia lainalaisuuksia pelien interaktiivisuus tuo mukanaan pelottavien tarinoiden ja tilanteiden kertomiseen sekä totetuttamiseen? 
 
-          Japanilainen pelitalo Konami mullisti kauhupelit vuonna 1999 julkaistulla Silent Hill -pelillä, jossa seikkaillaan sumuisessa rinnakkaistodellisuudessa yhdysvaltalaisessa painajaiskaupungissa ja etsitään kadonnutta tytärtä taistellen groteskeja hirviöitä vastaan ja ratkaisten pulmia. Silent Hill -pääsarjan pelejä on julkaistu tähän mennessä yhteensä kahdeksan, joista viimeisin SIlent Hill f kuluvana syksynä. Se sijoittuu 1960-luvun sumun täyttämään japanilaiskaupunkiin, missä teini-ikäinen Hinako joutuu kasvokkain traumojen, kuoleman ja hirviöiden kanssa. Psykologista sekä selviytymiskauhua sekoittava peli on maineikkaan japanilaiskirjailija Ryukishi07 käsikirjoittama. Miten useita elokuva-adaptaatioitakin osakseen saanut pelisarja mullisti kauhupeligenren, ja millainen on sen viimeisin osa? 
+          Japanilainen pelitalo Konami mullisti kauhupelit vuosina 1999 ja 2001 julkaistuilla Silent Hill ja Silent Hill 2 -peleillä. Niissä seikkaillaan sumuisessa painajaiskaupungissa ja etsitään kadonneita läheisiä taistellen groteskeja hirviöitä vastaan ja ratkaisten pulmia. 
+
+          Silent Hill -pääsarjan pelejä on julkaistu tähän mennessä yhteensä kahdeksan, joista viimeisin SIlent Hill f kuluvana syksynä. Se sijoittuu 1960-luvun sumun täyttämään japanilaiseen pikkukaupunkiin, missä teini-ikäinen Hinako joutuu kasvokkain traumojen, kuoleman ja hirviöiden kanssa. Psykologista sekä selviytymiskauhua sekoittava peli on maineikkaan japanilaiskirjailija Ryukishi07 käsikirjoittama. Miten useita elokuva-adaptaatioitakin osakseen saanut pelisarja mullisti kauhupeligenren, ja millainen on sen viimeisin osa? 
 
           Vähintään yhtä vaikutusvaltainen kauhupelisarja Resident Evil ponnistaa myös Japanista. Sen vuonna 1996 julkaistu ensiosa vaikutti koko zombie-elokuvagenren uuteen tulemiseen 2000-luvun vaihteessa. Sarjan seuraava osa Resident Evil: Requiem julkaistaan ensi vuonna. Niin ikään japanilaisesta Exit 8 -pelistä on julkaistu elokuva, joka on parhaillaan Suomessakin teatterilevityksessä. Mitä japanilaisessa kauhussa on sellaista, joka iskee ja istuu pelimaailmaan niin hyvin?
 
@@ -227,7 +231,7 @@ data:
         start_time: '2025-10-28T17:00:00+02:00'
         end_time: '2025-10-28T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Miksi ministeri Kaisa Juuso on Lapissa nyt ihmisten raivon kohteena? Miten Lapin hyvinvointialueen tilanne on näin tulenarka? Reetta Röngälle alueen tilannetta avaamassa Ylen toimittaja Pekka Viinikka.
       - title: Yksi on hyvää seuraa
         start_time: '2025-10-28T17:20:00+02:00'
         end_time: '2025-10-28T17:35:00+02:00'
@@ -291,11 +295,11 @@ data:
           Näyttöjä näppäryydestä löytyy, sillä Kinnunen asuu itseremontoidussa vanhassa puutalossa Turussa. Lisää työmaata löytyy mökiltä, missä korjattavaa riittää vielä pitkään. 
 
           Maija Salminen juttelee Tommi Kinnusen kanssa perheen tunnelmallisessa ruokasalissa. 
-      - title: Romano mirits
+      - title: 'Romano mirits: Opettajan mieltä lämmittää, kun kielenopetus tuottaa tulosta'
         start_time: '2025-10-28T20:20:00+02:00'
         end_time: '2025-10-28T20:35:00+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Lakeuden Romanit ry sai Suomen Kulttuurirahastolta tukea romanikielen elvyttämiseen Etelä-Pohjanmaalla. Yhdistyksen järjestämässä romanikielen viikonloppukoulussa vieraili toimittaja Jaakko Laakso.  Kuulemme leirin opettajien ja oppilaiden ajatuksia romanikielen opettamisesta ja opiskelusta. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-10-28T20:35:00+02:00'
         end_time: '2025-10-28T21:00:00+02:00'
@@ -322,7 +326,7 @@ data:
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Maailman paras Tarja Turunen: Meren äärellä'
         start_time: '2025-10-28T22:30:00+02:00'
-        end_time: '2025-10-28T23:16:00+02:00'
+        end_time: '2025-10-28T23:04:20+02:00'
         description: |-
           Tarja Turusen pahin painajainen on se, että hän heräisi aamulla, eikä hänellä olisi ääntä laulaa. 
       - title: Yöklassinen

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-27T02:37:50.289458+00:00'
+  generated_at: '2025-10-28T02:34:11.889249+00:00'
   git:
     branch: main
-    commit: 04994faea8c63220f066e4141cc94d8c3fe8eafe
-  data_hash: 7af128981af2882b09284512f711e0d8ffde8279bc0c442734122fb74f879359
+    commit: dec51611ac8fbbe1b7ed779965527641f2719523
+  data_hash: 0b30221be8ccb7ae28df8d4d42cb0f991e95ec3f11205ca499d3711635a8c755
 data:
   Yle Radio 1:
     programmes:
@@ -18,8 +18,10 @@ data:
       - title: Aamuhartaus
         start_time: '2025-11-10T06:50:00+02:00'
         end_time: '2025-11-10T06:59:59+02:00'
-        description: |-
-          Nuorisotyönohjaaja Virpi Salo, Vihti
+        description: |+
+          "Sinä olet täysi kymppi"
+          Nuorisotyönohjaaja, muusikko Virpi Salo Vihdistä puhuu arvioinnin, pisteytyksen ja vertailun keskellä siitä, miten jokainen ihminen on Jumalan silmissä ihme.
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-10T07:00:00+02:00'
         end_time: '2025-11-10T07:05:00+02:00'
@@ -129,8 +131,10 @@ data:
       - title: Iltahartaus
         start_time: '2025-11-10T18:50:00+02:00'
         end_time: '2025-11-10T19:00:00+02:00'
-        description: |-
-          Tuottaja-toimittaja Mikko Kurenlahti, Helsinki
+        description: |
+          "Jumala ei ole hylännyt kansaansa"
+          Tuottaja-toimittaja Mikko Kurenlahti lukee Roomalaiskirjeestä (10:13-11:32). Paavali puhuu pakanakansojen pelastuksesta.
+          Paavalin kirjeitä luetaan maanantai-iltaisin syksyn aikana.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-10T19:00:00+02:00'
         end_time: '2025-11-10T19:02:00+02:00'
