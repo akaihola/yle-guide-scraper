@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-28T02:34:13.041121+00:00'
+  generated_at: '2025-10-29T02:36:39.776666+00:00'
   git:
     branch: main
-    commit: dec51611ac8fbbe1b7ed779965527641f2719523
-  data_hash: 0b30221be8ccb7ae28df8d4d42cb0f991e95ec3f11205ca499d3711635a8c755
+    commit: 23f4198301f38978de53ac96ac68adc44f923fb6
+  data_hash: 8515003301846cf6ff5258025de92245b04c3142c1cc5dcf2ff9094c114b9bb8
 data:
   Yle Radio 1:
     programmes:
@@ -50,11 +50,12 @@ data:
         end_time: '2025-11-15T10:49:00+02:00'
         description: |-
           Mitä katoaminen aiheutti lähiomaisille? Millaisen totuuden joutuu rakentamaan kysymyksille, joihin ei ole vastauksia, jotta asian kanssa pystyy elämään? Sarjan viimeisessä jaksossa annamme äänen Lasse Kekin veljelle Tero Kekille ja saamme kuulla hänen henkilökohtaisia muistoja veljestään.
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Suomen ja Ruotsin sosialidemokratian erot'
         start_time: '2025-11-15T11:00:00+02:00'
         end_time: '2025-11-15T11:52:00+02:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |+
+          Suomen ja Ruotsin sosialidemokratian erot - vieraana Juhana Vartiainen
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-15T11:57:00+02:00'
         end_time: '2025-11-15T12:00:00+02:00'

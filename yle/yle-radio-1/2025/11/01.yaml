@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-28T02:34:07.640195+00:00'
+  generated_at: '2025-10-29T02:36:35.099814+00:00'
   git:
     branch: main
-    commit: dec51611ac8fbbe1b7ed779965527641f2719523
-  data_hash: 0b30221be8ccb7ae28df8d4d42cb0f991e95ec3f11205ca499d3711635a8c755
+    commit: 23f4198301f38978de53ac96ac68adc44f923fb6
+  data_hash: 8515003301846cf6ff5258025de92245b04c3142c1cc5dcf2ff9094c114b9bb8
 data:
   Yle Radio 1:
     programmes:
@@ -149,11 +149,17 @@ data:
         end_time: '2025-11-01T13:55:00+02:00'
         description: |-
           Inari Tilli käy läpi Lauantain toivotut levyt -ohjelman 90-vuotista historiaa kuuntelijoiden toiveiden kautta.
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller:  Kansa: populistin hevonen'
         start_time: '2025-11-01T14:00:00+02:00'
         end_time: '2025-11-01T14:55:00+02:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Populismin voittokulku jatkuu. AfD järkyttää poliittista järjestelmää Saksassa, Nigel Faragen Reform Party on noussut gallupien kärkeen brexitin jälkeisessä Britanniassa. 
+
+          Eliitin vastainen populismi haastaa poliittisen järjestelmän niin Ruotsissa kuin Ranskassakin.
+
+          Mistä populismi nousee? Onko populismin nousu globalisaation synnyttämä ilmiö?
+
+          Veteraanitoimittaja Tom Kankkosen kirja "Suuttumuksen aika ---Populismin vastustamaton kutsu" analysoi populismin nousun syitä. Hän kertoo ohjelmassa miten kansalla ratsastetaan. 
       - title: Ykköskolumni
         start_time: '2025-11-01T14:55:00+02:00'
         end_time: '2025-11-01T15:00:00+02:00'
@@ -223,7 +229,7 @@ data:
           Cooper: Firedove (Elena Urioste, viulu, The Pembroke College Chapel Choir ja Anna Lapwood, urut).
       - title: 'Marko Gustafsson: Vieraana elokuvaohjaaja Samppa Batal'
         start_time: '2025-11-01T17:00:00+02:00'
-        end_time: '2025-11-01T17:50:00+02:00'
+        end_time: '2025-11-01T17:46:00+02:00'
         description: |
           Samppa Batalille elokuvan merkitys on niin suuri, ettei sitä oikein edes kykene hahmottamaan. Aina on tilaa improvisaatiolle ja kiltteydelle. “Olen tajunnut, että aina voi olla kiltti. Se määrittelee paljon, miten kohtelen muita ja itseäni”, sanoo Samppa Batal.
       - title: Lauantain toivotut levyt 90 vuotta!
