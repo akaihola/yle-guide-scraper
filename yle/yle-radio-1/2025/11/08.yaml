@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-29T02:36:37.510395+00:00'
+  generated_at: '2025-10-30T02:35:39.996103+00:00'
   git:
     branch: main
-    commit: 23f4198301f38978de53ac96ac68adc44f923fb6
-  data_hash: 8515003301846cf6ff5258025de92245b04c3142c1cc5dcf2ff9094c114b9bb8
+    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
+  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-08T08:05:00+02:00'
         end_time: '2025-11-08T08:30:00+02:00'
+        description: |+
+          Sweney (sov. S.J. Järvinen): Jeesuksen voitosta kerro (Viktor Klimenko ja Seppo J. Järvisen orkesteri).
+
+          Tuntematon (sov. Turpela): Oi Jeesus, lasten ystävä (Aapo Korhonen ja yhtye).
+
+          Koraalitoisinto: Jeesus, sana elämän (RKK/Timo Nuoranne).
+
+          Sävel 1500-luvulta, Saksasta (sov. J. Vintturi): Sun sanas suojaa Jumala virsi (Papas No Mamas/Juha Vintturi).
+
+          E.A. Hagfors: Oi Herra, jos mä matkamies maan (Rinki).
+
+          Koraalitoisinto (sov. Heikkilä-Mähönen): Maan ääriin asti, Herra (Vox Cantorum/Heikki Seppänen).
+
       - title: Aamuhartaus
         start_time: '2025-11-08T08:30:00+02:00'
         end_time: '2025-11-08T08:40:00+02:00'
@@ -62,9 +75,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-11-08T12:00:00+02:00'
         end_time: '2025-11-08T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: "Maailma tarinoina: Sivullinen heijastelee Albert Camus'n absurdin filosofiaa"
         start_time: '2025-11-08T12:05:00+02:00'
         end_time: '2025-11-08T13:00:00+02:00'
+        description: |-
+          Kirjailija, toimittaja ja filosofi Albert Camus’n ajattelu ja teokset löydetään aina uudelleen. Sivullisesta on jälleen tehty uusi elokuvatulkinta ja Rutto-romaani myi valtavia määriä koronapandemian aikana. Mikä sai Camus`n kehittelemään absurdin filosofiansa, mistä siinä on kyse ja miten se kajastelee läpimurtoteos Sivullisessa? Tekstin vastaanotto on aina sidoksissa aikaan – millaiset luentatavat aktivoituvat nyt Sivullisen kohdalla? 
+          Marja Vehkasen kanssa monitoimi-ihmisen elämää, ajattelua ja Sivullista ruotivat yleisen kirjallisuustieteen dosentit, filosofian tohtorit Anne Riippa ja Pajari Räsänen.
       - title: Näistä levyistä en luovu
         start_time: '2025-11-08T13:00:00+02:00'
         end_time: '2025-11-08T13:55:00+02:00'
@@ -124,6 +140,8 @@ data:
       - title: 'Marko Gustafsson: Vieraana laulaja ja lauluntekijä Edu Kettunen'
         start_time: '2025-11-08T17:00:00+02:00'
         end_time: '2025-11-08T17:50:00+02:00'
+        description: |-
+          Edu Kettusen laulujen pääosassa on usein yksinäinen ihminen, mutta yksinäisyys on hänelle aihe, josta puhuessa sanat harkitaan todella tarkkaan. “Suurimmalle osalle yksinäisyys on kova paikka. Olen tehnyt siitä paljon biisejäkin, mutta en halua puhua siitä, koska olen itse onnenpekka, jolle yksinäisyys ei ole ollut koskaan ongelma. “ 
       - title: Ehtookellot
         start_time: '2025-11-08T18:00:00+02:00'
         end_time: '2025-11-08T18:01:00+02:00'

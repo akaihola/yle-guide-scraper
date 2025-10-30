@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-29T02:36:34.677320+00:00'
+  generated_at: '2025-10-30T02:35:37.188065+00:00'
   git:
     branch: main
-    commit: 23f4198301f38978de53ac96ac68adc44f923fb6
-  data_hash: 8515003301846cf6ff5258025de92245b04c3142c1cc5dcf2ff9094c114b9bb8
+    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
+  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
 data:
   Yle Radio 1:
     programmes:
@@ -109,6 +109,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-10-31T09:04:00+02:00'
         end_time: '2025-10-31T09:59:00+02:00'
+        description: |
+          Legrand: Theme from summer of '42 (Michel Legrand).
+          Zambrini/Cini: Pieni nukke (Fredi).
+          Pintucci:Ti regalo gli occhi miei (Gabriella Ferri).
+          Gomez: Quiero (Julio Iglesias).
+          Jokela: Vanha mies (Kaseva).
+          Groundstroem: I love you teddy bear (Tasavallan Presidentti).
+          Tikanmäki: Lapin tunturit (Anssi Tikanmäki).
+          Nesmith: Different drum (The Stone Poneys).
+          Laitinen: Sydämeni on yksinäinen saari (Anki).
+          Carmichael: Two sleepy people (Julie London).
+          Randazzo: Pretty blue eyes (Craig Douglas).
+          Schifrin: The Cincinnati Kid (Lalo Schifrin).
+          Mitchell: Both sides now (Joni Mitchell).
       - title: 'Ruben Stiller:  Kansa: populistin hevonen'
         start_time: '2025-10-31T10:00:00+02:00'
         end_time: '2025-10-31T10:55:00+02:00'
@@ -286,17 +300,24 @@ data:
       - title: Musiikkikamari
         start_time: '2025-10-31T20:35:00+02:00'
         end_time: '2025-10-31T21:05:00+02:00'
+        description: |+
+          Musorgski: Yö autiolla vuorella (Atlantan SO/Yoel Levi). 
+
+          Saint-Saëns: Danse macabre (Minnesotan ork./Eiji Oue).
+
+          J.S. Bach: Toccata ja fuuga d-molli (Kari Jussila, urut).
+
       - title: Politiikkaradio
         start_time: '2025-10-31T21:05:00+02:00'
         end_time: '2025-10-31T21:35:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Länsimaisuus ennen länsimaiden syntyä'
         start_time: '2025-10-31T21:36:00+02:00'
-        end_time: '2025-10-31T22:26:00+02:00'
+        end_time: '2025-10-31T22:25:10+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Tuuli Saksalan keidas
-        start_time: '2025-10-31T22:27:00+02:00'
-        end_time: '2025-10-31T23:17:00+02:00'
+      - title: 'Tuuli Saksalan keidas: Karmeita tarinoita, eläviä, kuolleita ja ainakin yksi riivattu'
+        start_time: '2025-10-31T22:26:00+02:00'
+        end_time: '2025-10-31T23:15:29+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

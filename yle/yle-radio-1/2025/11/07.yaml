@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-29T02:36:37.231307+00:00'
+  generated_at: '2025-10-30T02:35:39.735305+00:00'
   git:
     branch: main
-    commit: 23f4198301f38978de53ac96ac68adc44f923fb6
-  data_hash: 8515003301846cf6ff5258025de92245b04c3142c1cc5dcf2ff9094c114b9bb8
+    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
+  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-07T06:30:50+02:00'
         end_time: '2025-11-07T06:50:00+02:00'
+        description: |+
+          Vavilov (sov. Kiviniemi): Ave Maria (Heikki Rainio, tenori, ja Kalevi Kiviniemi, urut).
+
+          Mårtenson: Jumala rakastaa maailmaa (Johanna Iivanainen ja Tempo Di Island).
+
+          Voipio: Ken on luonut sinitaivaan (Risto Lauriala, piano).
+
+          Afroamerikkalainen spirituaali: Vie vuorille jo viesti (Iin laulupelimannit).
+
       - title: Aamuhartaus
         start_time: '2025-11-07T06:50:00+02:00'
         end_time: '2025-11-07T06:59:59+02:00'
@@ -54,6 +63,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-11-07T08:07:00+02:00'
         end_time: '2025-11-07T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jarmo Laitaneva
       - title: Yle Uutiset
         start_time: '2025-11-07T09:00:00+02:00'
         end_time: '2025-11-07T09:03:00+02:00'
@@ -90,6 +101,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-11-07T13:30:00+02:00'
         end_time: '2025-11-07T15:00:00+02:00'
+        description: |-
+          Iltapäivän rentoa musiikkia kevyestä jazzista, etnoon ja populaarimusiikin helmiin. Miia Lahti juontaa. N. klo 14 Luomiskertomuksen vieraana sarjakuvataiteilija Ville Ranta, joka kertoo teoksensa Lähtökohtia karkumatkalle synnystä. Toim. Tina Caven. N. klo 14:30 kurkkaus illan RSO:n konsertin kulisseihin.
       - title: Kulttuuriykkönen
         start_time: '2025-11-07T15:00:00+02:00'
         end_time: '2025-11-07T15:55:00+02:00'
@@ -127,6 +140,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-07T18:35:00+02:00'
         end_time: '2025-11-07T18:50:00+02:00'
+        description: |+
+          Nyberg (sov. Matveinen): Silmäisi eteen, Jeesus (Tellu Turkka ja Suden Aika).
+
+          Victoria: Incipit lamentatio Jeremiae (Ensemble Plus Ultra/Michael Noone).  
+
+          Ahlberg: Niin usein täällä päivään tuuliseen (Cantilene/Merja Lohilahti, ja Henri Hersta, urut).
+
       - title: Iltahartaus
         start_time: '2025-11-07T18:50:00+02:00'
         end_time: '2025-11-07T19:00:00+02:00'
