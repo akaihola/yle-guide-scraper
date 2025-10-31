@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-30T02:35:39.996103+00:00'
+  generated_at: '2025-10-31T02:35:17.512851+00:00'
   git:
     branch: main
-    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
-  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
+    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
+  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
 data:
   Yle Radio 1:
     programmes:
@@ -11,12 +11,32 @@ data:
         start_time: '2025-11-07T23:40:00+02:00'
         end_time: '2025-11-08T07:30:00+02:00'
         description: |-
-          Klassista musiikkia.
-      - title: Luomiskertomus
+          Lully: Psyché (Psyyke), ooppera (Carolyn Sampson, sopraano, Karina Gauvin, sopraano, Aaron Sheehan, tenori, Colin Balzer, tenori, Mireille Lebel, mezzosopraano ym, sekä Bostonin Vanhan Musiikin Festivaalin kuoro ja ork./Stephen Stubbs ja Paul O'Dette).
+
+          02:37 Peterson-Berger: Viulukonsertto (Nilla Pierrou ja Ruotsin radion SO/Stig Westerberg).
+
+          03:10 Tshaikovski (sov. Gauk): Vuodenajat (Tampereen KO/Leonid Grin).
+
+          03:58 Bruch: Oktetto B-duuri (Nash-yhtye).
+
+          04:20 Pejacevic: Pianokonsertto g-molli (Oliver Triendl ja Brandenburgisches Staatsorchester Frankfurt/Howard Griffiths).
+
+          04:50 Schumann: Sinfonia n:o 3 Es-duuri (Reiniläinen) (Euroopan kamariork./Nikolaus Harnoncourt).
+
+          05:25 Brahms: Pianokvintetto f-molli (Leon Fleisher, piano, ja Emerson-kvartetti).
+
+          06:10 Tshaikovski: Serenadi jousiorkesterille C-duuri (Orpheus-kamariork.)
+
+          06:40 Rheinberger: Sarja viululle ja uruille c-molli (Konstantin Weitz ja Sixten Enlund).
+
+          07:05 Giuliani: Serenadi viululle, sellolle ja kitaralle op.19 (Erkki Palola, Markku Luolajan-Mikkola ja Ilkka Virta).
+
+          07:23 Purcell: Sonaatti kahdelle viululle, viola da gamballe ja continuolle g-molli (Adagio) (London Baroque).
+      - title: 'Luomiskertomus: Ville Ranta etsii rauhaa ja viisautta erakkoudesta  ja askeesista'
         start_time: '2025-11-08T07:31:00+02:00'
         end_time: '2025-11-08T07:56:00+02:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Sarjakuvataiteilija Ville Ranta haluaa Lähtökohtia karkumatkalle -esseessään paeta suoritusyhteiskuntaa ymmärtääkseen kaiken paremmin. Ranta törmäyttää itseironisella tyylillään idän filosofien opit erakkomajansa askareiden täyttämään todellisuuteen. Toimittajana Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-08T07:56:00+02:00'
         end_time: '2025-11-08T08:00:00+02:00'
@@ -139,9 +159,12 @@ data:
         end_time: '2025-11-08T17:00:00+02:00'
       - title: 'Marko Gustafsson: Vieraana laulaja ja lauluntekijä Edu Kettunen'
         start_time: '2025-11-08T17:00:00+02:00'
-        end_time: '2025-11-08T17:50:00+02:00'
+        end_time: '2025-11-08T17:48:00+02:00'
         description: |-
           Edu Kettusen laulujen pääosassa on usein yksinäinen ihminen, mutta yksinäisyys on hänelle aihe, josta puhuessa sanat harkitaan todella tarkkaan. “Suurimmalle osalle yksinäisyys on kova paikka. Olen tehnyt siitä paljon biisejäkin, mutta en halua puhua siitä, koska olen itse onnenpekka, jolle yksinäisyys ei ole ollut koskaan ongelma. “ 
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-11-08T17:48:00+02:00'
+        end_time: '2025-11-08T18:00:00+02:00'
       - title: Ehtookellot
         start_time: '2025-11-08T18:00:00+02:00'
         end_time: '2025-11-08T18:01:00+02:00'
@@ -176,16 +199,16 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-11-08T22:00:30+02:00'
         end_time: '2025-11-08T22:20:00+02:00'
-      - title: Kielen päällä
+      - title: 'Kielen päällä: kiinan kieli III - kiinan kielen kirjoitus ja kalligrafia'
         start_time: '2025-11-08T22:20:30+02:00'
         end_time: '2025-11-08T22:30:00+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
-      - title: Keinuva talo - Mika Kauhanen
+        description: |
+          Sinologi Jyrki Kallio kertoo kiinan kielen pitkästä kirjoitustraditiosta. Käytössä on oikeastaan kahdenlaisia kirjoitusmerkkejä. Ne muodostuvat pääosin merkitystä ja ääntämistä tarkoittavista osista. Toimittajana on Jari Aula..
+      - title: 'Keinuva talo - Mika Kauhanen: Huuliharpun hilpeys ja haikeus'
         start_time: '2025-11-08T22:30:30+02:00'
         end_time: '2025-11-08T23:29:30+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Todellinen kansansoitin, huuliharppu, pystyy vaikka mihin. Jaksossa tarjoillaan kappaleita ja taustoitusta ristiin rastiin maailmalta kuin Nuuskamuikkusen matkoilta: bluesia, bossaa, ja brittifolkia. Tai jazzia, klassista ja ragtimea. Taskuun menevä jokamiehen soittopeli osoittautuukin melkoisen monipuoliseksi pakkaukseksi! Toimittajana Mika Kauhanen.
       - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2025-11-08T23:31:00+02:00'
         end_time: '2025-11-08T23:32:00+02:00'

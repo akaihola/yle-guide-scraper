@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-30T02:35:40.544735+00:00'
+  generated_at: '2025-10-31T02:35:18.065614+00:00'
   git:
     branch: main
-    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
-  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
+    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
+  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,29 @@ data:
         start_time: '2025-11-09T23:40:00+02:00'
         end_time: '2025-11-10T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Fauré: Kvintetto pianolle ja jousille n:o 2 d-molli (Cristina Ortiz ja Fine Arts -kvartetti).
+
+          00:13 Granados: Nuoruuden kertomuksia (Alicia de Larrocha, piano).
+
+          00:31 W.A. Mozart: Die Schuldigkeit des ersten Gebots (Ensimmäisen käskyn velvoitus) (Arleen Auger, sopraano, Krisztina Laki, Sylvia Geszty, sopraano, Werner Hollweg, tenori, ja Claes-Håkan Ahnsjö, tenori, sekä Berliner Domkapelle/Roland Bader).
+
+          02:03 Bruckner: Sinfonia n:o 3 d-molli (Wagner-sinfonia) (RSO/Sakari Oramo). 
+
+          03:06 Rahmaninov: Sarja kahdelle pianolle n:o 2 (Emanuel Ax ja Yefim Bronfman). 
+
+          03:31 Mahler: Das Lied von der Erde (Placido Domingo, tenori, Bo Skovhus, baritoni, sekä Los Angelesin FO/Esa-Pekka Salonen).
+
+          04:33 Diabelli: Sonaatti kitaralle F-duuri (Anthony Glise).
+
+          04:51 Tyberg: Messu n:o 1 G-duuri (Etelä-Dakotan kuoro/Brian A. Schmidt, ja Christopher Jacobson, urut).
+
+          05:35 Torroba: Sonatiini kitaralle A-duuri (Andrés Segovia).
+
+          05:47 Sweelinck: Psalmi 36 (Vincent van Laar, urut).
+
+          05:56 Brahms (sov. Heifetz): Mun mieleheni hiipi (Elissa Lee Koljonen, viulu, ja Robert Koenig, piano). 
+
+          06:00 J.S. Bach: Sarja soolosellolle n:o 6 D-duuri (Janos Starker).
       - title: Hartaita säveliä
         start_time: '2025-11-10T06:30:50+02:00'
         end_time: '2025-11-10T06:50:00+02:00'
@@ -37,7 +59,7 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-10T07:05:00+02:00'
         end_time: '2025-11-10T07:59:59+02:00'
-        description: |-
+        description: |+
           van den Bergh: Lied (Frans van Ruth, piano).
 
           Engl. kansanlaulu (sov. Higginbottom): Early one morning (Oxford Choir of New College/Edward Higginbottom).
@@ -52,9 +74,14 @@ data:
 
           O. Merikanto: Romanssi (Eero Heinonen, piano).
 
+          I. Kuusisto: Alkusoitto oopp. Postineiti (RSO/Ilkka Kuusisto).
+
+          J.S. Bach: Adagio konsertosta viululle, oboelle, jousille ja continuolle c-molli (Hilary Hahn, Allan Vogel ja Los Angelesin kamariork./Jeffrey Kahane).
+
           Kansansäv. (sov. Grainger): Father and daughter (Laulusolisteja sekä Monteverdi-kuoro ja English Country Gardiner Orchestra/John Eliot Gardiner).
 
           Pugni (sov. McDermott): Finaali bal. Pas de quatre (Cincinnati Pops/Erich Kunzel).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-10T08:00:00+02:00'
         end_time: '2025-11-10T08:07:00+02:00'

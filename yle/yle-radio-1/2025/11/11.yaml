@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-30T02:35:40.805658+00:00'
+  generated_at: '2025-10-31T02:35:18.282192+00:00'
   git:
     branch: main
-    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
-  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
+    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
+  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,30 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-11T07:05:00+02:00'
         end_time: '2025-11-11T07:59:59+02:00'
+      - title: Aamusoitto
+        start_time: '2025-11-11T07:05:00+02:00'
+        end_time: '2025-11-11T07:59:59+02:00'
+        description: |+
+          Morel: Allegro sonatiinista kitaralle (Ricardo Gallén).
+
+          Skrjabin: Andante jousiorkesterille A-duuri (Hamburg Strings).
+
+          Bonis: Etiolles (Myriam Barbaux-Cohen, piano).
+
+          Mozart: Aaria oopp. Zaide (James Galway, huilu, ja Sinfonia Varsovia).
+
+          Albéniz (sov. Segovia): Asturias (Sharon Isbin, kitara).
+
+          Alfvén: Vallflickans dans (Paimentytön tanssi) balettisarj. Bergakungen (Vuorenkuningas) (Ruotsin radion SO/Esa-Pekka Salonen).
+
+          Maxwell Davies: Farewell to Stromness revyystä The Yellow Cake Revue (Alison Balsom, trumpetti, ja Tom Poster, piano).
+
+          Chabrier: Sous bois (Metsässä) (Detroitin SO/Paul Paray).
+
+          Piazzolla (sov. Ziegler): Adios Nonino (Emanuel Ax ja Pablo Ziegler, piano).
+
+          Tshaikovski: Espanjalainen tanssi bal. Joutsenlampi (Chicagon SO/Georg Solti).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-11T08:00:00+02:00'
         end_time: '2025-11-11T08:07:00+02:00'
@@ -39,6 +63,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-11T09:04:00+02:00'
         end_time: '2025-11-11T09:59:00+02:00'
+        description: |-
+          Siegmann/H. Clarkson/G. Clarkson: Suklaasydän (Brita Koivunen).
+          Pintucci: I giorni dell'arcobaleno (Nicola Di Bari).
+          Heider: Tää päivä suolataan (Ossi Ahlapuro).
+          Golson: I remember Clifford (The Jazztet).
+          English/Kerr: Mandy (Barry Manilow).
+          Kansanlaulu: Vems lilla vän är du (Wiola Talvikki, Onni Gideon).
+          Gilkyson, Dehr & Miller: Memories are made of this (Dean Martin).
+          van Leeuwen: Jos konduktöörin nait (Paula Koivuniemi).
+          Brassens: Le fantome (Georges Brassens).
+          Huesca: Nochecita (Eydie Gormé).
+          Phillips: Look through my window (The Mamas and the Papas).
+          Jalas: Ievan polokka (Matti Jurva).
+          Pease/Stock/Rose: Kuutamo merellä (Harmony Sisters, Dallape).
+          Edwards: Duke of Earl (Gene Chandler).
+          Arlen: Hooray for love (Shirley Bassey).
+          Lennon/McCartney: Kenties, kenties (Jormas).
       - title: Sari Valto
         start_time: '2025-11-11T10:00:00+02:00'
         end_time: '2025-11-11T10:55:00+02:00'
@@ -90,6 +131,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-11-11T16:07:00+02:00'
         end_time: '2025-11-11T16:59:00+02:00'
+        description: |-
+          Beethoven: Vivace, ma non troppo - Adagio espressivo - Tempo 1 sonaatista pianolle n:o 30 E-duuri (Paavali Jumppanen).
+
+          Lortzing: Stadingerin aaria oopp. Aseseppä (Kim Borg, basso ja Münchenin filharmonikot/Ferdinand Leitner).
+
+          Schubert (sov. Mertz): Ständchen (Leise flehen meine Lieder) (Jari Tarjasalo, kitara).
+
+          W.A. Mozart: Menuetti serenadista B-duuri (RSO/Sakari Oramo).
+
+          Farrenc: Poco adagio sonaatista viululle ja pianolle n:o 1 (Gaetane Prouvost ja Laurent Cabasso).
+
+          Hensel (sov. Blankenburg): O Herbst (RKK/Heikki Liimola).
+
+          C. Schumann: Masurkka g-molli (Aleksei Zaitsev, piano). 
+
+          Pauline Viardot: 1. näytöksen finaali kamarioopperasta Le dernier Sorcier (Viimeinen velho) (Eric Owens, bassobaritoni, Jamie Barton, mezzosopraano, Camille Zamora, sopraano, Adriana Zabala, mezzosopraano, Michael Slattery, tenori, Sarah Brailey, sopraano, Trudie Styler, kertoja, Manhattan Girls Chorus sekä Liana Pailodze Harron ja Myra Huang, piano).
+
+          Bronsart: Romanssi (Senja Rummukainen, sello, ja Kirill Kozlovski, piano).
+
+          Lumbye: Kesäyö Mön-saaren kallioilla (Kööpenhaminan Tivolin konserttiork./Giordano Bellincampi).
       - title: Uutispodcast
         start_time: '2025-11-11T17:00:00+02:00'
         end_time: '2025-11-11T17:20:00+02:00'

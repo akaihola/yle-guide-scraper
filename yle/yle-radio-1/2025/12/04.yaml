@@ -1,14 +1,156 @@
 metadata:
-  generated_at: '2025-10-30T02:35:46.774726+00:00'
+  generated_at: '2025-10-31T02:35:23.140904+00:00'
   git:
     branch: main
-    commit: 619d79b0fee6a3ac06fec0b35e286fca5e42031d
-  data_hash: 44c4e88e7da6bf17188929ed8f868dc7366712f22c3c47cadc0b0a490d0a023c
+    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
+  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-03T23:40:00+02:00'
         end_time: '2025-12-04T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-12-04T06:30:50+02:00'
+        end_time: '2025-12-04T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2025-12-04T06:50:00+02:00'
+        end_time: '2025-12-04T06:59:59+02:00'
+        description: |
+          Piispa Jukka Keskitalo, Oulu
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-04T07:00:00+02:00'
+        end_time: '2025-12-04T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2025-12-04T07:05:00+02:00'
+        end_time: '2025-12-04T07:59:59+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-04T08:00:00+02:00'
+        end_time: '2025-12-04T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2025-12-04T08:07:00+02:00'
+        end_time: '2025-12-04T09:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-12-04T09:00:00+02:00'
+        end_time: '2025-12-04T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-12-04T09:04:00+02:00'
+        end_time: '2025-12-04T09:59:00+02:00'
+      - title: Marko Gustafsson
+        start_time: '2025-12-04T10:00:00+02:00'
+        end_time: '2025-12-04T10:50:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-04T10:50:00+02:00'
+        end_time: '2025-12-04T11:00:00+02:00'
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-12-04T11:00:00+02:00'
+        end_time: '2025-12-04T11:57:00+02:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-12-04T11:57:00+02:00'
+        end_time: '2025-12-04T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-04T12:00:00+02:00'
+        end_time: '2025-12-04T12:05:00+02:00'
+      - title: Maailma tarinoina
+        start_time: '2025-12-04T12:05:00+02:00'
+        end_time: '2025-12-04T13:00:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-12-04T13:00:00+02:00'
+        end_time: '2025-12-04T13:30:00+02:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-12-04T13:30:00+02:00'
+        end_time: '2025-12-04T15:00:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-12-04T15:00:00+02:00'
+        end_time: '2025-12-04T15:55:00+02:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-12-04T15:55:00+02:00'
+        end_time: '2025-12-04T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-04T16:00:00+02:00'
+        end_time: '2025-12-04T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-12-04T16:07:00+02:00'
+        end_time: '2025-12-04T16:59:00+02:00'
+      - title: Uutispodcast
+        start_time: '2025-12-04T17:00:00+02:00'
+        end_time: '2025-12-04T17:20:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-04T17:20:00+02:00'
+        end_time: '2025-12-04T17:35:00+02:00'
+      - title: Tuuli Saksalan keidas
+        start_time: '2025-12-04T17:35:00+02:00'
+        end_time: '2025-12-04T18:25:00+02:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Kielen päällä
+        start_time: '2025-12-04T18:25:00+02:00'
+        end_time: '2025-12-04T18:35:00+02:00'
+        description: |-
+          Toimittajana on Jari Aula.
+      - title: Hartaita säveliä
+        start_time: '2025-12-04T18:35:00+02:00'
+        end_time: '2025-12-04T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2025-12-04T18:50:00+02:00'
+        end_time: '2025-12-04T19:00:00+02:00'
+        description: |-
+          Opetusneuvos Kalevi Virtanen, Helsinki
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-04T19:00:00+02:00'
+        end_time: '2025-12-04T19:02:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-04T21:00:00+02:00'
+        end_time: '2025-12-04T21:05:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-12-04T21:05:00+02:00'
+        end_time: '2025-12-04T21:35:00+02:00'
+      - title: 'Riku Rantala: M/S Mystery K4J8: Ratkaiseeko hakkeri arvoituksen?'
+        start_time: '2025-12-04T21:36:00+02:00'
+        end_time: '2025-12-04T22:25:00+02:00'
+        description: |-
+          Riku saa uutta tietoa suoraan Tiomanin saarelta, jossa on kadonnut häkellyttävä joukko reppureissaajia. Samaan aikaan saadaan uutta tietoa tutkimuksista Airistolla Turun saaristossa, josta on etsitty mahdollisia vainajia. Kadonneen pojan vanhemmat ja hakkeri tapaavat vihdoin. Ratkaiseeko hakkeri tapauksen?
+      - title: 'Radioteatteri esittää: Kallion kimppa 8/8'
+        start_time: '2025-12-04T22:30:30+02:00'
+        end_time: '2025-12-04T22:50:00+02:00'
+        description: |+
+          Kallio on paikka, jossa epätodennäköiset kohtaamiset ovat todennäköisiä.
+          Sen monimuotoinen mikrokosmos luo arkeen kiihkoa ja tunnetta, mutta myös eheytymistä ja ymmärrystä.
+          Tule mukaan sellaisena kuin olet - mutta älä ole olevinasi mitään.
+
+          8-osaisen audiosarjan rooleissa ovat:
+          Aurinko Tuulenhalaaja - Elena Leeve
+          Juki - Pyry Nikkilä
+          Maj-Lis - Johanna af Schultén
+          Märt - Timo Teern
+          Ricardo - Manoel Pinto
+          Tarmo - Ilkka Heiskanen
+
+          Käsikirjoitus - Petri Piispanen
+          Ohjaus - Jarno Kuosa
+          Musiikin sävellys ja äänisuunnittelu - Anders Wiksten
+          Apulaistuottaja - Eveliina Solja
+          Dramaturgi: Liila Jokelin
+          Muusikot: Anders Wiksten, Pekka Savolainen, Eero Savela, Rutger Orjatsalo, Kari Kuivalainen ja Outi Wiksten
+          Tuotanto - Pekka Savolainen / Yle Draama 2022.
+
+      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+        start_time: '2025-12-04T23:00:00+02:00'
+        end_time: '2025-12-04T23:56:30+02:00'
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: Yöklassinen
+        start_time: '2025-12-05T00:00:00+02:00'
+        end_time: '2025-12-05T06:30:00+02:00'
         description: |-
           Klassista musiikkia.
