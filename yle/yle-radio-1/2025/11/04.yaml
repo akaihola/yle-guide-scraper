@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-31T02:35:16.600065+00:00'
+  generated_at: '2025-11-02T02:36:44.561795+00:00'
   git:
     branch: main
-    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
-  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
+    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
+  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
 data:
   Yle Radio 1:
     programmes:
@@ -139,6 +139,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-04T11:57:00+02:00'
         end_time: '2025-11-04T12:00:00+02:00'
+        description: |-
+          L. Onervan runo Ihminen kokoelmasta Särjetyt jumalat, 1910.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-04T12:00:00+02:00'
         end_time: '2025-11-04T12:05:00+02:00'
@@ -147,9 +149,11 @@ data:
         end_time: '2025-11-04T12:25:00+02:00'
         description: |
           Lehden kannessa alaston mies kantaa tulisoihtua ja alaston nainen ratsastaa siivekkäällä hevosella. On vuosi 1928 ja Tulenkantajat-lehti huutaa ikkunoita  auki Eurooppaan. Mitä muuta lehdessä vaadittiin ja oli kuin paljasta pintaa ja Pegasos-hevonen? Entä kuinka äärioikeisto sai lehden myöhemmin haltuunsa ja mitä sitten tapahtui? Jukka Kuosmasen toimittaman ohjelman vieraana on Kansallisarkiston arkistotutkija FT Matti Mieskonen. 
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Suomen vanhimmat ruotsinkieliset paikannimet ovat keskiajalta'
         start_time: '2025-11-04T12:25:00+02:00'
         end_time: '2025-11-04T12:50:00+02:00'
+        description: |-
+          Pasi Heikura ja nimistönhuoltaja Maria Vidberg selvittävät, miten suomen- ja ruotsinkieliset paikannimet liittyvät toisiinsa. Ohjelmassa myös viikon fraasirikos ja kuukauden sana.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-04T12:50:00+02:00'
         end_time: '2025-11-04T13:00:00+02:00'
@@ -284,6 +288,18 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-11-04T20:35:00+02:00'
         end_time: '2025-11-04T21:00:00+02:00'
+        description: |-
+          Eri puolilla Eurooppa kannetaan nyt huolta julkisista palveluista, kuten terveydenhuollosta. Tuhannet ihmiset ovat osoittaneet monessa maassa mieltä leikkauksia vastaan. 
+
+          Ohjelmassa kuullaan raportti Kreikasta, jossa sairaanhoitoon pääsy on tutkimusten mukaan Euroopan heikointa. 
+
+          Väestön vanheneminen tuottaa eurooppalaisille yhteiskunnille ison ongelman, kun alati pienempi ikäluokka on työllään rahoittamassa hyvinvointipalveluja. Ohjelmassa kysytään asiantuntijoilta, mitä hyvinvointimallin pelastamiseksi tulisi tehdä. Yksi ratkaisu on eläkeiän nostamisen jatkaminen ja työperäisen maahanmuuton lisääminen.
+
+          Monella sosiaali- ja terveydenhoitosektorin työpaikoilla kärsitään Euroopassa jo nyt työvoimapulasta. Sitä paikkaavat etenkin Etelä-Euroopassa paperittomat siirtolaiset. Ohjelmassa kuullaan Espanjasta, millaisiin ongelmiin työlainsäädännön ulkopuolella oleva paperiton hoivatyöntekijä voi joutua.
+
+          Tutkimuksissa on havaittu Euroopassa lisääntynyttä hyvinvointisovinismia eli sitä, että hyvinvointipalveluja halutaan antaa vain kansalaisille ei maahanmuuttajille. Ohjelmassa kuullaan tutkimuksen tekijältä, miten Suomi nousi siinä esiin.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maija Salmi, Sara Saure ja Paula Vilén. Äänitarkkailijana on Matias Puumala.Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-04T21:00:00+02:00'
         end_time: '2025-11-04T21:05:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-31T02:35:18.486917+00:00'
+  generated_at: '2025-11-02T02:36:47.790133+00:00'
   git:
     branch: main
-    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
-  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
+    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
+  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
 data:
   Yle Radio 1:
     programmes:
@@ -27,13 +27,14 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-12T07:05:00+02:00'
         end_time: '2025-11-12T07:59:59+02:00'
-      - title: Aamusoitto
-        start_time: '2025-11-12T07:05:00+02:00'
-        end_time: '2025-11-12T07:59:59+02:00'
-        description: |
+        description: |+
           Lully: Turkkilainen marssi balettikomediasta Porvari aatelismiehenä (Le Concert des Nations/Jordi Savall). 
 
+          Liebmann: Andante con variazioni sul La ci darem la mano di Mozart (Andante ja muunnelmia) sonaatista B-duuri op.11 (Grande sonate) (Thomas Blees, sello, ja Maria Bergmann, piano).
+
           Weber: Alla polacca klarinettikonsertosta Es-duuri (Kari Kriikku, klarinetti, ja RSO/Sakari Oramo).
+
+          Händel: Alla hornpipe teoks. Water music (Vesimusiikkia) (Kanadalainen vaskiyhtye).
 
           Giordani: Caro mio ben (Jozsef Mukk, tenori, ja Camerata Budapest/Laszlo Kovacs).
 
@@ -41,11 +42,12 @@ data:
 
           Fauré: Pavane (Tanglewoodin musiikkijuhlien kuoro ja Bostonin sinfoniaorkesteri/Seiji Ozawa).
 
-          J. Strauss nuorempi: Pizzicato-polkka (German Brass).
-
           Lalo: Aubade (Aamulaulu) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
 
+          J. Strauss nuorempi: Pizzicato-polkka (German Brass).
+
           Williams: Across the stars elok. Star wars - Attack of the clones (Anne-Sophie Mutter, viulu, ja Recording Arts Orchestra of Los Angeles/John Williams).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-12T08:00:00+02:00'
         end_time: '2025-11-12T08:07:00+02:00'
@@ -125,8 +127,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-11-12T18:50:00+02:00'
         end_time: '2025-11-12T19:00:00+02:00'
-        description: |-
-          Viestintäsuunnittelija, kirjailija Kaisa Viitala, Seinäjoki
+        description: |
+          "Turvallisen levon sunnuntai"
+          Viestintäsuunnittelija, kirjailija Kaisa Viitala Seinäjoelta pohtii valvomisen sunnuntain kynnyksellä mistä voi tietää onko valveilla Jeesuksen haluamalla tavalla.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-12T19:00:00+02:00'
         end_time: '2025-11-12T19:02:00+02:00'

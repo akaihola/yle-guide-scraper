@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-10-31T02:35:19.369285+00:00'
+  generated_at: '2025-11-02T02:36:49.194665+00:00'
   git:
     branch: main
-    commit: 2e9e724526141be7d2c1e131dfa4be7e8688fd82
-  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
+    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
+  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
 data:
   Yle Radio 1:
     programmes:
@@ -74,6 +74,11 @@ data:
         end_time: '2025-11-16T15:00:00+02:00'
         description: |
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+      - title: 'Anna Perho ja Tyttö vailla kotia J1: “Itkettiin, mutta sitten oli pakko lähteä” '
+        start_time: '2025-11-16T15:00:00+02:00'
+        end_time: '2025-11-16T15:35:00+02:00'
+        description: |
+          Anna ja Maria lähtevät road tripille Marian menneisyyteen - lapsuuteen ja nuoruuteen. Matka kulkee perhekodin kautta ensimmäiseen omaan asuntoon sekä kriisisijoituspaikasta lapsuudenkotiin, jonne Maria ja sisarukset eivät koskaan enää palanneet. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-16T15:35:00+02:00'
         end_time: '2025-11-16T15:55:00+02:00'

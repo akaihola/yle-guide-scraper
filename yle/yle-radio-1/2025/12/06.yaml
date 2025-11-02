@@ -1,14 +1,162 @@
 metadata:
-  generated_at: '2025-11-01T02:35:49.021445+00:00'
+  generated_at: '2025-11-02T02:36:56.142429+00:00'
   git:
     branch: main
-    commit: 4e1083d0ad6f8aae8bb2fff7fee270b90a17be16
-  data_hash: 97b54e22fde2e26b45d8766c00a87bae4daf39858582fe359dfcb441873e92ce
+    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
+  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-05T23:40:00+02:00'
         end_time: '2025-12-06T07:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-06T08:00:00+02:00'
+        end_time: '2025-12-06T08:05:00+02:00'
+      - title: Luomiskertomus
+        start_time: '2025-12-06T08:05:00+02:00'
+        end_time: '2025-12-06T08:30:00+02:00'
+        description: |
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-06T08:30:00+02:00'
+        end_time: '2025-12-06T08:40:00+02:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2025-12-06T08:40:00+02:00'
+        end_time: '2025-12-06T09:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-06T09:00:00+02:00'
+        end_time: '2025-12-06T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-12-06T09:04:00+02:00'
+        end_time: '2025-12-06T09:59:00+02:00'
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2025-12-06T10:00:00+02:00'
+        end_time: '2025-12-06T10:25:00+02:00'
+      - title: 'Hyvät, pahat ajattelijat: Émilie du Châtelet'
+        start_time: '2025-12-06T10:25:00+02:00'
+        end_time: '2025-12-06T10:55:00+02:00'
+        description: |-
+          Hyvät, pahat ajattelijat -sarjan kolmannessa osassa kuullaan Émilie du Châtelet:sta. Hän oli ranskalainen filosofi ja matemaatikko 1700-luvun alkupuoliskolla. Châtelet muistetaan yleensä kirjailija-filsofi Voltaire:in rakastettuna, ei niinkään tieteen historiaan jälkensä jättäneenä valistuksen ajan tiedenaisena. 
+          Voltairen kerrottaankin todenneen, että Émilie du Châtelet oli ”suurmies, jonka ainoa vika oli se, että hän oli nainen”. Tämän epätavallisen naisen työstä ja elämästä kertovan ohjelman toimittaa Maarit Lukkarinen. 
+      - title: Virtasen taloushistoria
+        start_time: '2025-12-06T11:00:00+02:00'
+        end_time: '2025-12-06T11:52:00+02:00'
+        description: |
+          Tarinoita talouden myllerryksistä.
+      - title: Tervetuloa jumalanpalvelukseen
+        start_time: '2025-12-06T11:56:00+02:00'
+        end_time: '2025-12-06T11:59:00+02:00'
+      - title: Jumalanpalvelus
+        start_time: '2025-12-06T12:00:00+02:00'
+        end_time: '2025-12-06T13:05:00+02:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2025-12-06T13:05:00+02:00'
+        end_time: '2025-12-06T14:00:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Ruben Stiller
+        start_time: '2025-12-06T14:00:00+02:00'
+        end_time: '2025-12-06T14:55:00+02:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Ykköskolumni
+        start_time: '2025-12-06T14:55:00+02:00'
+        end_time: '2025-12-06T15:00:00+02:00'
+        description: |
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+      - title: Sotasalaisuus
+        start_time: '2025-12-06T15:00:00+02:00'
+        end_time: '2025-12-06T15:43:00+02:00'
+        description: |-
+          On 13.3.2010, tasan 70 vuotta talvisodan päättymisestä. 
+          88-vuotias Irja havahtuu, että elämänlanka käy vähiin. 
+          On tehtäviä, jotka pitäisi mökiltä hoitaa ennen kuin siitä voi luopua. 
+          On asioita, joista on pitänyt vaieta. 
+          On surua, jolle ei ole ollut tilaa. 
+          Ajokortin menettänyt Irja tarvitsee kuskin järjestääkseen Itä-Suomessa sijaitsevan mökkinsä myyntikuntoon, mutta perheettömänä hänellä ei ole omaisia auttamassa. Talvisena yönä Irja törmää rappukäytävässä opintonsa keskeyttäneeseen kaksikymmentävuotiaaseen Fanniin ja palkkaa tämän avukseen. Kaksi naista lähtee yhteiselle matkalle, jonka aikana yksin kannetut salaisuudet nousevat pintaan.
+
+          Sotasalaisuus -draama käsittelee Suomen sotien jälkeistä aikaa naisen ja perheen näkökulmasta. Tuona aikana syntyivät niin sanotut suuret ikäluokat, mutta miestappioiden vuoksi osa naisista jäi myös lapsettomiksi. Piilosotaleskeys oli ilmiönä vähemmän tunnettu, ja on sitä edelleen. 
+
+          Käsikirjoitus ja ohjaus: Kirsi Porkka
+          Dramaturgi: Eeva-Maaria Halonen
+          Äänisuunnittelu: Hanna-Helena Kinnunen
+          Musiikin sävellys: Riikka Talvitie
+          Muusikot: Iiris Pyrhönen-Koivula (viulu) ja Matti Lindholm (alttoviulu)
+          Rooleissa: Marja-Leena Kouki, Emma Pälsynaho, Lumi Aunio, Annika Hartikka, Minna Suuronen, Eeva Litmanen ja Jesse Gyllenbögel
+          Apulaistuottaja: Eveliina Solja
+          Tuotanto: Laura Jaakkola, Yle Draama 2025.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-06T15:50:00+02:00'
+        end_time: '2025-12-06T15:55:00+02:00'
+      - title: Yle News
+        start_time: '2025-12-06T15:55:00+02:00'
+        end_time: '2025-12-06T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-06T16:00:00+02:00'
+        end_time: '2025-12-06T16:07:00+02:00'
+      - title: Itsenäisen Suomen Faunin iltapäivä
+        start_time: '2025-12-06T16:07:00+02:00'
+        end_time: '2025-12-06T17:00:00+02:00'
+        description: |-
+          Maasalo (sov. Laine): Juhlamarssi (Satakunnan Sotilassoittokunta/Riku Huhtasalo).
+
+          Kansansäv. (sov. Koskimies): Valssi Kustavista kok. Tansseja Lounais-Suomesta (Simo Vuoristo ja Arja Sippel, viulu, Harri Sippel, alttoviulu, Irma Sandren, sello, Ari Hakulinen, kontrabasso, Henna Jämsä, ja klarinetti).
+
+          Pacius: Laps' Suomen (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          L. Hynninen: Annin ja Viljamin valssi (Laura Hynninen, harppu ja laulu).
+
+          Wessman (sov. Mäntylä - Kuusisto): Tango sarj. Finlandia (Duo Dryades).
+
+          I. Kuusisto: Interludium oopp. Jääkäri Ståhl (RSO/Ilkka Kuusisto).
+
+          Pesola: Suomenmaa (Polyteknikkojen Kuoro/Tapani Länsiö).
+
+          Byström: Herra Byströmin valssi (Erkki Palola ja Jaakko Vuornos, viulu).
+
+          Leiviskä: Kaksi suomalaiseen kansansävelmään pohjautuvaa sävellystä orkesterille (RSO/George de Godzinsky).
+
+          O. Merikanto (sov. Anttiroiko): Nälkämaan laulu (Solistiseitsikko Imperial).
+
+          Dahlström: Lied ohne Worte (Sanaton laulu) (Siljamari Heikinheimo, viulu, ja Salla Pynssi, piano).
+
+          Ennola (sov. P.J. Hannikainen): Suomen salossa (RKK/Harald Andersén).
+
+          Salmenhaara: Adagietto (Tampere Filharmonia/Eri Klas).
+      - title: Marko Gustafsson
+        start_time: '2025-12-06T17:00:00+02:00'
+        end_time: '2025-12-06T17:50:00+02:00'
+      - title: Lauantain toivotut levyt
+        start_time: '2025-12-06T18:10:00+02:00'
+        end_time: '2025-12-06T19:00:00+02:00'
+        description: |
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-06T19:00:00+02:00'
+        end_time: '2025-12-06T19:02:00+02:00'
+      - title: Radion sinfoniaorkesterin konsertti
+        start_time: '2025-12-06T19:02:00+02:00'
+        end_time: '2025-12-06T21:00:00+02:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2025-12-06T22:00:30+02:00'
+        end_time: '2025-12-06T22:20:00+02:00'
+      - title: Kielen päällä
+        start_time: '2025-12-06T22:20:30+02:00'
+        end_time: '2025-12-06T22:30:00+02:00'
+        description: |-
+          Toimittajana on Jari Aula.
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2025-12-06T22:30:30+02:00'
+        end_time: '2025-12-06T23:29:30+02:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Yöklassinen
+        start_time: '2025-12-06T23:40:00+02:00'
+        end_time: '2025-12-07T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
