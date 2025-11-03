@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-02T02:36:46.058386+00:00'
+  generated_at: '2025-11-03T02:37:15.240465+00:00'
   git:
     branch: main
-    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
-  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
+    commit: c866a2961900a2297260a71a09328815105d9982
+  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
 data:
   Yle Radio 1:
     programmes:
@@ -153,8 +153,26 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-11-07T16:07:00+02:00'
         end_time: '2025-11-07T16:59:00+02:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Mozart: Molto allegro sinfoniasta n:o 40 g-molli (18. vuosisadan orkesteri/Frans Brüggen).
+
+          Madetoja: Talvinen tie (Gabriel Suovanen, baritoni, ja Gustav Djupsjöbacka, piano). 
+
+          Paganini: Sonaatti viululle ja kitaralle d-molli (Scott St. John ja Simon Wynberg).
+
+          Wagner (sov. Busoni): Siegfriedin surumarssi oopp. Jumalten tuho (Holger Groschopp, piano).
+
+          Bizet: Don Josen kukkaisaaria oopp. Carmen (Jonas Kaufmann, tenori, ja Prahan FO/Marco Armiliato).
+
+          J.S. Bach: Adagio konsertosta viululle ja oboelle c-molli (Lisa Batiashvili, Francois Leleux ja Baijerin radion kamariork./Radoslaw Szulc).
+
+          O.Merikanto: Elämälle (Juha Uusitalo ja Kalevi Kiviniemi). 
+
+          Shostakovitsh: Allegro, sonaatista sellolle ja pianolle d-molli op.40 (Mstislav Rostropovitsh, sello, ja Dmitri Shostakovitsh, piano). 
+
+          Collan: Roineen rannalla (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          Telemann:  Allegro Konsertosta trumpetille, kahdelle oboelle, jousille ja continuolle D-duuri (Maurice Andre ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
       - title: Uutispodcast
         start_time: '2025-11-07T17:00:00+02:00'
         end_time: '2025-11-07T17:20:00+02:00'

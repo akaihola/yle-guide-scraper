@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-02T02:36:46.782155+00:00'
+  generated_at: '2025-11-03T02:37:16.036953+00:00'
   git:
     branch: main
-    commit: 9d860ae72cdf114a216c44610fa0008f119ba153
-  data_hash: e8372dbe42cc7a915b95e3eae6185abd097adfb3cc48057ab89e89b2d84b5d9e
+    commit: c866a2961900a2297260a71a09328815105d9982
+  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
 data:
   Yle Radio 1:
     programmes:
@@ -81,6 +81,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-09T11:00:00+02:00'
         end_time: '2025-11-09T11:59:00+02:00'
+        description: |-
+          Tikanmäki: Aamu lakeuksilla (Anssi Tikanmäki).
+          Kiviniemi: Kesytetty (Seija Simola).
+          Parsons: November night (Peter Fonda).
+          King/Goffin: Goin' back (The Byrds).
+          Bacharach: This girl's in love with you (Dusty Springfield).
+          Silva: Gente bamba (Carmen Miranda).
+          Brito: Fado boémio (Tristao da Silva).
+          Kärki: Haaveita, haaveita vain (Vieno Kekkonen).
+          Scharfenberger: Merimies, kotimaasi on meri (Laila Kinnunen).
+          Brooker: Merimies (Pepe Willberg).
+          Kander: Cabaret (Liza Minnelli).
+          Aznavour: Le Cabotin (Charles Aznavour).
+          Gomez: Du är den ende (Lill Lindfors).
+          Ruotsalainen kansansävelmä: Dear Old Stockholm (Quincy Jones).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T12:00:00+02:00'
         end_time: '2025-11-09T12:05:00+02:00'
