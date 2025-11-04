@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-03T02:37:14.257208+00:00'
+  generated_at: '2025-11-04T02:35:08.582659+00:00'
   git:
     branch: main
-    commit: c866a2961900a2297260a71a09328815105d9982
-  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
+    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
+  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
 data:
   Yle Radio 1:
     programmes:
@@ -131,11 +131,25 @@ data:
         end_time: '2025-11-04T10:55:00+02:00'
         description: |-
           Uuden harrastuksen voi aloittaa missä iässä vain, vakuuttavat vuorikiipeilijä Paula Strengell sekä skeittaaja Lena Salmi. 
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Mahtava Palestrina, tai kuinka patsas pystytettiin'
         start_time: '2025-11-04T11:00:00+02:00'
         end_time: '2025-11-04T11:57:00+02:00'
-        description: |-
+        description: |
+          Säveltäjän uneen ilmestyy yhdeksän kuollutta säveltäjää. Pelasta moniääninen musiikki ja traditio! he huutavat. Enkelit kuiskaavat ihmeellisiä säveliä, kuin transsissa säveltäjä kirjoittaa ne nuoteiksi…Tällainen tarina on toiminut hyvin markkinointipuheena. Giovanni Pierluigi da Palestrina osasi säveltää juuri sellaista musiikkia, jota katolinen kirkko kaipasi 1500-luvun lopulla. Hänen maineensa vain kasvoi seuraavina vuosisatoina. Mutta ei se mitään, Palestrina on hieno säveltäjä.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Giovanni Pierluigi da Palestrina:
+          Missa Papae Marcelli: osat Kyrie ja Gloria (The Tallis scholars/Peter Phillips).
+          Sicut lilium inter spinas, 5-ääninen motetti (The Tallis scholars/Peter Phillips).
+
+          Josquin Desprez: Ave Maria, gratia plena, 4-ääninen motetti (Orlando Consort).
+          Palestrina: Quando dal terzo cielo (The King’s singers).
+          Carlo Gesualdo: Merce grido piangendo (The Hilliard Ensemble).
+
+          Giovan Leonardo Primavera: Nasce la gioja mia 
+          Palestrina: Missa Nasce la gioja mia, osat Kyrie ja Agnus Dei I & II (The Tallis scholars/Peter Phillips).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-04T11:57:00+02:00'
         end_time: '2025-11-04T12:00:00+02:00'
@@ -160,6 +174,8 @@ data:
       - title: Politiikkaradio
         start_time: '2025-11-04T13:00:00+02:00'
         end_time: '2025-11-04T13:30:00+02:00'
+        description: |
+          Syventävätkö hallituksen päätökset talouden alakuloa? Haastattelussa Keskuskauppakamarin pääekonomisti Jukka Appelqvist ja PTT:n toimitusjohtaja Markus Lahtinen. Toimittajana on Linda Pelkonen. 
       - title: Radio 1:n iltapäivä
         start_time: '2025-11-04T13:30:00+02:00'
         end_time: '2025-11-04T15:00:00+02:00'
@@ -215,7 +231,7 @@ data:
         start_time: '2025-11-04T17:00:00+02:00'
         end_time: '2025-11-04T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Hajoavien hallitusten aika. Euroopassa useassa maassa hallituksen muodostaminen on nyt tuskaisa prosessi. Mistä tämä kertoo? Mitä seurauksia tällaisesta on? Atte Uusinokan haastattelussa akatemiatutkija Timo Miettinen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-04T17:20:00+02:00'
         end_time: '2025-11-04T17:35:00+02:00'
@@ -280,11 +296,12 @@ data:
         end_time: '2025-11-04T20:20:00+02:00'
         description: |
           Anssi Kelan työhuone on täynnä keräilyaarteita. Toimittajana Maija Salminen. 
-      - title: Romano mirits
+      - title: 'Romano mirits: Yhteiskunta, työelämä ja muutos kuuluvat eläkkeelle jäävien tarinoissa ainutlaatuisella tavalla. '
         start_time: '2025-11-04T20:20:00+02:00'
         end_time: '2025-11-04T20:35:00+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Yhteiskunta, työelämä ja muutos kuuluvat eläkkeelle jäävien tarinoissa ainutlaatuisella tavalla. 
+          Malla Laiti on pitkän työhistoriansa aikana ollut monessa mukana. Laitille on aina ollut tärkeätä ihmisten kohtaaminen ja romaniväestön kanssa yhdessä asioiden pohtiminen ja ratkaisujen etsiminen. Nyt on aika siirtyä elämässä uudenlaiseen vaiheeseen, aikaan, jossa ei tarvitse seurata enää kelloa niin tarkasti ja se tuntuu Malla Laitista myös hyvältä. Toim. Janette Grönfors.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-11-04T20:35:00+02:00'
         end_time: '2025-11-04T21:00:00+02:00'
@@ -307,13 +324,13 @@ data:
         start_time: '2025-11-04T21:05:00+02:00'
         end_time: '2025-11-04T21:34:30+02:00'
       - title: Sari Valto
-        start_time: '2025-11-04T21:35:00+02:00'
-        end_time: '2025-11-04T22:29:30+02:00'
+        start_time: '2025-11-04T21:35:34+02:00'
+        end_time: '2025-11-04T22:30:04+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Maailman paras Tarja Turunen: Valot ja varjot'
-        start_time: '2025-11-04T22:30:00+02:00'
-        end_time: '2025-11-04T23:16:00+02:00'
+        start_time: '2025-11-04T22:30:58+02:00'
+        end_time: '2025-11-04T23:07:05+02:00'
         description: |-
           Tarja Turusen persoonassa ja musiikissa kohtaavat valo ja pimeys. Hän on myös koko uransa ajan tasapainoitellut raskaan rockin ja klassisen musiikin välillä. Tarja on vastakohtien, vastaparien Tarja. Myös faneja on monenlaisia.
       - title: Yöklassinen

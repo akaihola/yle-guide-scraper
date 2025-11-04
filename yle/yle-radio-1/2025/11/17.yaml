@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-03T02:37:18.251002+00:00'
+  generated_at: '2025-11-04T02:35:27.101461+00:00'
   git:
     branch: main
-    commit: c866a2961900a2297260a71a09328815105d9982
-  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
+    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
+  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-17T07:05:00+02:00'
         end_time: '2025-11-17T07:59:59+02:00'
+        description: |-
+          Händel: Chaconne oopp. Il Pastor fido (Uskollinen paimen) (Apollo's Fire/Jeannette Sorrell).
+
+          P. J. Hannikainen: Menuetto (Annaleena Puhto, huilu, ja Jalas Chamber/Juhani Numminen).
+
+          Sojo: Ave Maria (John Williams, kitara).
+
+          Grainger: Air ja Finaali norjalaisista tansseista (Andreas Brantelid, sello, ja Christian Ihle Hadland, piano).
+
+          Bonis: Invocation (Helene Guilmette, sopraano, Martin Dube, piano).
+
+          Auber: Menuetti oopp. Kustaa III, eli naamiohuvit (Englantilainen kamariork./Richard Bonynge).
+
+          Granados (sov. Saleski): Andaluza espanjalainen tanssi e-molli (Misha Maisky, sello ja Lily Maisky, piano).
+
+          Dring: Festival scherzo (Martin Roscoe, piano, ja Guildhall Strings/Robert Salter).
+
+          Gershwin: Short story (Leila Josefowicz, viulu, ja John Novacek, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-17T08:00:00+02:00'
         end_time: '2025-11-17T08:07:00+02:00'

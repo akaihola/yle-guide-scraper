@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-03T02:37:15.240465+00:00'
+  generated_at: '2025-11-04T02:35:18.917482+00:00'
   git:
     branch: main
-    commit: c866a2961900a2297260a71a09328815105d9982
-  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
+    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
+  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
 data:
   Yle Radio 1:
     programmes:
@@ -103,6 +103,19 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-07T09:04:00+02:00'
         end_time: '2025-11-07T09:59:00+02:00'
+        description: |-
+          Kansansäv.: Tiritomba (Helena Siltala).
+          Young: Golden earrings (Lea Laven).
+          Cohen: Take this waltz (Leonard Cohen).
+          Hurley/Wilkins: Salapoliisin tytär (Jouko ja Kosti).
+          Donaldson: Love me or leave me (Nina Simone).
+          Menendez: Aquellos ojos verdes (Ibrahim Ferrer).
+          Hyttinen: Kurki (Kai Hyttinen).
+          Cespedes: Questa vita loca (Mina).
+          Dorian: Mein kleiner grüner Kaktus (Max Raabe & Palast-orkesteri).
+          Krupa/Parham: Drummin' man (Gene Krupa ja Anita O'Day).
+          Bo Kaspers Orkester: Ett och noll (Bo Kaspers Orkester).
+          Hurme: Valoa ikkunassa (Herd).
       - title: Ruben Stiller
         start_time: '2025-11-07T10:00:00+02:00'
         end_time: '2025-11-07T10:55:00+02:00'
@@ -111,11 +124,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-07T10:55:00+02:00'
         end_time: '2025-11-07T11:00:00+02:00'
-      - title: Narrin aamulaulu - Luostarin puutarhan isä Albert Ketèlbey, Britannian ensimmäinen miljönäärisäveltäjä
+      - title: 'Narrin aamulaulu - Luostarin puutarhan isä Albert Ketèlbey, Britannian ensimmäinen miljonäärisäveltäjä  '
         start_time: '2025-11-07T11:00:00+02:00'
         end_time: '2025-11-07T11:55:00+02:00'
         description: |
-          Luostarin puutarhassa ja Persialaisella torilla ovat olleet 90 vuotta täyttäneen Lauantain toivottujen levyjen ikisuosikkeja. Niiden säveltäjä Albert Ketèlbey oli tuottelias ja aikaansaava. Hän toimi mm. teatterikapellimestarina, sovittajana sekä kustantamossa että levy-yhtiössä ja kiersi johtamassa omia teoksiaan niin koti- kuin ulkomaillakin. 1920-luvun lopulla säveltäjä oli suosionsa huipulla. Sodan jälkeen suhdanteet kuitenkin vaihtuivat ja Ketèlbey unohdettiin. Viime vuosina hänet on kuitenkin nostettu uudelleen esiin.  Britannian ensimmäisen miljönäärisäveltäjän elämää selvittää Outi Paananen. 
+          Lauantain toivottujen levyjen ikisuosikit, Luostarin puutarhassa ja Persialaisella torilla, kuuluvat   Britteinsaarilla 1900-luvun alkuvuosikymmeninä kukoistaneen orkesteriviihdemusiikin klassikoihin. Niiden säveltäjä Albert W. Ketèlbey toimi mm. teatterikapellimestarina, sovittajana ja kiersi johtamassa omia teoksiaan sekä työskenteli kustantamossa ja levy-yhtiössä. 1920-luvun lopulla säveltäjä oli suosionsa huipulla. Sodan jälkeen suhdanteet kuitenkin vaihtuivat ja Ketèlbey unohdettiin. Viime vuosina hänet on nostettu uudelleen esiin. 
+          Albert Ketèlbeyn (1875-1959), Britannian ensimmäisen miljonäärisäveltäjän elämää selvittää Outi Paananen. 
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-07T11:57:00+02:00'
         end_time: '2025-11-07T12:00:00+02:00'
@@ -137,11 +151,13 @@ data:
         end_time: '2025-11-07T15:00:00+02:00'
         description: |-
           Iltapäivän rentoa musiikkia kevyestä jazzista, etnoon ja populaarimusiikin helmiin. Miia Lahti juontaa. N. klo 14 Luomiskertomuksen vieraana sarjakuvataiteilija Ville Ranta, joka kertoo teoksensa Lähtökohtia karkumatkalle synnystä. Toim. Tina Caven. N. klo 14:30 kurkkaus illan RSO:n konsertin kulisseihin.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa Heikki Pursiainen, Katleena Kortesuo ja Jari Sedergren'
         start_time: '2025-11-07T15:00:00+02:00'
         end_time: '2025-11-07T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Kulttuuriykkösen Perjantaistudiossa kulttuurin ja median ajankohtaisista ilmiöistä ja arvokysymyksistä ovat keskustelemassa tietokirjailija ja viestintäasiantuntija Katleena Kortesuo, ekonomisti Heikki Pursiainen ja elokuva-asiantuntija Jari Sedergren.  
+
+          Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
         start_time: '2025-11-07T15:55:00+02:00'
         end_time: '2025-11-07T15:58:00+02:00'
@@ -153,8 +169,8 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-11-07T16:07:00+02:00'
         end_time: '2025-11-07T16:59:00+02:00'
-        description: |-
-          Mozart: Molto allegro sinfoniasta n:o 40 g-molli (18. vuosisadan orkesteri/Frans Brüggen).
+        description: |
+          W.A. Mozart: Molto allegro sinf. n:o 40 g-molli (18. vuosisadan ork./Frans Brüggen).
 
           Madetoja: Talvinen tie (Gabriel Suovanen, baritoni, ja Gustav Djupsjöbacka, piano). 
 
@@ -162,17 +178,17 @@ data:
 
           Wagner (sov. Busoni): Siegfriedin surumarssi oopp. Jumalten tuho (Holger Groschopp, piano).
 
-          Bizet: Don Josen kukkaisaaria oopp. Carmen (Jonas Kaufmann, tenori, ja Prahan FO/Marco Armiliato).
+          Bizet: Don Josen kukkaisaaria "La fleur que tu m'avais jetée" oopp. Carmen (Jonas Kaufmann, tenori, ja Prahan FO/Marco Armiliato).
 
           J.S. Bach: Adagio konsertosta viululle ja oboelle c-molli (Lisa Batiashvili, Francois Leleux ja Baijerin radion kamariork./Radoslaw Szulc).
 
-          O.Merikanto: Elämälle (Juha Uusitalo ja Kalevi Kiviniemi). 
+          O. Merikanto: Elämälle (Juha Uusitalo, bassobaritoni, ja Kalevi Kiviniemi, urut). 
 
-          Shostakovitsh: Allegro, sonaatista sellolle ja pianolle d-molli op.40 (Mstislav Rostropovitsh, sello, ja Dmitri Shostakovitsh, piano). 
+          Shostakovitsh: Allegro sonaatista d-molli op.40 (Mstislav Rostropovitsh, sello, ja Dmitri Shostakovitsh, piano). 
 
           Collan: Roineen rannalla (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
 
-          Telemann:  Allegro Konsertosta trumpetille, kahdelle oboelle, jousille ja continuolle D-duuri (Maurice Andre ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
+          Telemann:  Allegro konsertosta trumpetille, kahdelle oboelle, jousille ja continuolle D-duuri (Maurice Andre ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
       - title: Uutispodcast
         start_time: '2025-11-07T17:00:00+02:00'
         end_time: '2025-11-07T17:20:00+02:00'

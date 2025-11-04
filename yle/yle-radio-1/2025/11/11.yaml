@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-03T02:37:16.682387+00:00'
+  generated_at: '2025-11-04T02:35:23.658625+00:00'
   git:
     branch: main
-    commit: c866a2961900a2297260a71a09328815105d9982
-  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
+    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
+  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-11T06:30:50+02:00'
         end_time: '2025-11-11T06:50:00+02:00'
+        description: |+
+          Laaksonen: Ruohonkorren lailla (Lauluyhtye Caritas).
+
+          Crüger (sov. Hietaharju): Laupias Jeesus, minkä rikkomuksen (Lumen Valo ja Markku Hietaharju).
+
+          Ruottinen: Auringon noususta (Tampereen ort. kirkon kuoro/Timo Ruottinen).
+
+          Lowry: Koko tien hän kanssain kulkee (Risto Saarman, tenori, ja Jorma Tiainen, urut).
+
+          Haapala: Suojaasi pakenen (Ääriviiva).
+
       - title: Aamuhartaus
         start_time: '2025-11-11T06:50:00+02:00'
         end_time: '2025-11-11T06:59:59+02:00'
@@ -24,9 +35,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-11-11T07:00:00+02:00'
         end_time: '2025-11-11T07:05:00+02:00'
-      - title: Aamusoitto
-        start_time: '2025-11-11T07:05:00+02:00'
-        end_time: '2025-11-11T07:59:59+02:00'
       - title: Aamusoitto
         start_time: '2025-11-11T07:05:00+02:00'
         end_time: '2025-11-11T07:59:59+02:00'
@@ -171,6 +179,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-11T18:35:00+02:00'
         end_time: '2025-11-11T18:50:00+02:00'
+        description: |+
+          Doane: Jeesus, ristin juurella (Musica Fidei/Tomi Aalto, sekä Matti Pesonen, piano).
+
+          Koraalitoisinto: Voi, mihin raukka juoksisin (Kampin laulu/Markku Pihlaja).
+
+          Skotlantilainen kansansäv.: On armo suuri ihmeinen (Palo-yhtye).
+
       - title: Iltahartaus
         start_time: '2025-11-11T18:50:00+02:00'
         end_time: '2025-11-11T19:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-03T02:37:16.036953+00:00'
+  generated_at: '2025-11-04T02:35:21.996293+00:00'
   git:
     branch: main
-    commit: c866a2961900a2297260a71a09328815105d9982
-  data_hash: 69b378fac5d669e2df9e523778f3e6df823f579712a8ee0c3b9bd4d6d5029a18
+    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
+  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
 data:
   Yle Radio 1:
     programmes:
@@ -42,11 +42,25 @@ data:
           06:12 Svendsen: Kvintetto jousille C-duuri (Oslon jousikvartetti).
 
           06:44 J.S. Bach: Ranskalainen sarja n:o 3 h-molli (Murray Perahia, piano).
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Mahtava Palestrina, tai kuinka patsas pystytettiin'
         start_time: '2025-11-09T07:01:00+02:00'
         end_time: '2025-11-09T07:58:00+02:00'
-        description: |-
+        description: |
+          Säveltäjän uneen ilmestyy yhdeksän kuollutta säveltäjää. Pelasta moniääninen musiikki ja traditio! he huutavat. Enkelit kuiskaavat ihmeellisiä säveliä, kuin transsissa säveltäjä kirjoittaa ne nuoteiksi…Tällainen tarina on toiminut hyvin markkinointipuheena. Giovanni Pierluigi da Palestrina osasi säveltää juuri sellaista musiikkia, jota katolinen kirkko kaipasi 1500-luvun lopulla. Hänen maineensa vain kasvoi seuraavina vuosisatoina. Mutta ei se mitään, Palestrina on hieno säveltäjä.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Giovanni Pierluigi da Palestrina:
+          Missa Papae Marcelli: osat Kyrie ja Gloria (The Tallis scholars/Peter Phillips).
+          Sicut lilium inter spinas, 5-ääninen motetti (The Tallis scholars/Peter Phillips).
+
+          Josquin Desprez: Ave Maria, gratia plena, 4-ääninen motetti (Orlando Consort).
+          Palestrina: Quando dal terzo cielo (The King’s singers).
+          Carlo Gesualdo: Merce grido piangendo (The Hilliard Ensemble).
+
+          Giovan Leonardo Primavera: Nasce la gioja mia 
+          Palestrina: Missa Nasce la gioja mia, osat Kyrie ja Agnus Dei I & II (The Tallis scholars/Peter Phillips).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T08:00:00+02:00'
         end_time: '2025-11-09T08:05:05+02:00'
@@ -83,19 +97,19 @@ data:
         end_time: '2025-11-09T11:59:00+02:00'
         description: |-
           Tikanmäki: Aamu lakeuksilla (Anssi Tikanmäki).
+          Kettunen: Retki meren rantaan (Edu Kettunen).
           Kiviniemi: Kesytetty (Seija Simola).
           Parsons: November night (Peter Fonda).
-          King/Goffin: Goin' back (The Byrds).
+          Goffin/King: Goin' back (The Byrds).
           Bacharach: This girl's in love with you (Dusty Springfield).
           Silva: Gente bamba (Carmen Miranda).
-          Brito: Fado boémio (Tristao da Silva).
-          Kärki: Haaveita, haaveita vain (Vieno Kekkonen).
+          Kärki: Haaveita, haaveita vain (Eila Pellinen).
           Scharfenberger: Merimies, kotimaasi on meri (Laila Kinnunen).
           Brooker: Merimies (Pepe Willberg).
           Kander: Cabaret (Liza Minnelli).
-          Aznavour: Le Cabotin (Charles Aznavour).
+          Aznavour/Garvarentz: Le cabotin (Charles Aznavour).
           Gomez: Du är den ende (Lill Lindfors).
-          Ruotsalainen kansansävelmä: Dear Old Stockholm (Quincy Jones).
+          Kansansäv.: Dear old Stockholm (Quincy Jones).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T12:00:00+02:00'
         end_time: '2025-11-09T12:05:00+02:00'
@@ -163,16 +177,16 @@ data:
           Kansansäv.: Pappas vals (Suomen balalaikat/Ilkka Koski).
 
           Wiseman: Father Brown (The Orchestra of the Guildhall School/Debbie Wiseman).
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Myöhästymisen mestari Matin matkassa eri kulkuvälineiden kyydissä'
         start_time: '2025-11-09T17:00:00+02:00'
         end_time: '2025-11-09T18:00:00+02:00'
         description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
-      - title: 'Jazzklubin illan keikka: Dominic Miller April Jazz -festivaalilla'
+          Miksi Matti Myöhäistä ei vain kuulu eikä kuulu tapaamiseen. Matti tekee kyllä kaikkensa, ja hyödyntää kaikenlaisia kulkuneuvoja päästäkseen perille, mutta aina jokin menee pieleen. Liikumme jazzin, mahdottomien sattumusten ja liikennevälineiden maailmassa. Luvassa aivan takuulla yllättävä tarina Matin pääsystä perille. Äläpä myöhästy tästä kyydistä!
+      - title: "Jazzklubin illan keikka: Kaisa's Machine ja Linda Fredriksson Juniper Jazzaheadissa."
         start_time: '2025-11-09T18:00:00+02:00'
         end_time: '2025-11-09T19:00:00+02:00'
-        description: |-
-          Äänitetty Espoon Sellosalissa 23.4.2025.
+        description: |
+          Äänitetty Bremenissä 11. & 12.4.2024.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T19:00:00+02:00'
         end_time: '2025-11-09T19:02:05+02:00'
@@ -191,11 +205,25 @@ data:
         end_time: '2025-11-09T21:25:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Mahtava Palestrina, tai kuinka patsas pystytettiin'
         start_time: '2025-11-09T21:26:00+02:00'
         end_time: '2025-11-09T22:23:00+02:00'
         description: |
+          Säveltäjän uneen ilmestyy yhdeksän kuollutta säveltäjää. Pelasta moniääninen musiikki ja traditio! he huutavat. Enkelit kuiskaavat ihmeellisiä säveliä, kuin transsissa säveltäjä kirjoittaa ne nuoteiksi…Tällainen tarina on toiminut hyvin markkinointipuheena. Giovanni Pierluigi da Palestrina osasi säveltää juuri sellaista musiikkia, jota katolinen kirkko kaipasi 1500-luvun lopulla. Hänen maineensa vain kasvoi seuraavina vuosisatoina. Mutta ei se mitään, Palestrina on hieno säveltäjä.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Giovanni Pierluigi da Palestrina:
+          Missa Papae Marcelli: osat Kyrie ja Gloria (The Tallis scholars/Peter Phillips).
+          Sicut lilium inter spinas, 5-ääninen motetti (The Tallis scholars/Peter Phillips).
+
+          Josquin Desprez: Ave Maria, gratia plena, 4-ääninen motetti (Orlando Consort).
+          Palestrina: Quando dal terzo cielo (The King’s singers).
+          Carlo Gesualdo: Merce grido piangendo (The Hilliard Ensemble).
+
+          Giovan Leonardo Primavera: Nasce la gioja mia 
+          Palestrina: Missa Nasce la gioja mia, osat Kyrie ja Agnus Dei I & II (The Tallis scholars/Peter Phillips).
       - title: Sari Valto
         start_time: '2025-11-09T22:24:00+02:00'
         end_time: '2025-11-09T23:22:00+02:00'
