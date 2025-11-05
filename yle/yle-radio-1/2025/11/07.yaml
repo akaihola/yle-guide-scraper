@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-04T02:35:18.917482+00:00'
+  generated_at: '2025-11-05T02:35:32.526268+00:00'
   git:
     branch: main
-    commit: ec07cdbd1bdc9006266082c415eb06827d39aa0d
-  data_hash: e3c7127d7215515d9c2281c918b00a3db5c498b7c74a6f31b4a99f291adfbcfe
+    commit: bb48ae63d3bdfb00d75463c58f3d61c557672419
+  data_hash: 62b563809d0610dbccffd1fce3ff9d15f25f92e24d7ac338bdad3af24ebf20d0
 data:
   Yle Radio 1:
     programmes:
@@ -103,7 +103,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-07T09:04:00+02:00'
         end_time: '2025-11-07T09:59:00+02:00'
-        description: |-
+        description: |
           Kansansäv.: Tiritomba (Helena Siltala).
           Young: Golden earrings (Lea Laven).
           Cohen: Take this waltz (Leonard Cohen).
@@ -112,15 +112,25 @@ data:
           Menendez: Aquellos ojos verdes (Ibrahim Ferrer).
           Hyttinen: Kurki (Kai Hyttinen).
           Cespedes: Questa vita loca (Mina).
-          Dorian: Mein kleiner grüner Kaktus (Max Raabe & Palast-orkesteri).
+          Dorian: Mein kleiner grüner Kaktus (Max Raabe & Palast-Orchester).
           Krupa/Parham: Drummin' man (Gene Krupa ja Anita O'Day).
           Bo Kaspers Orkester: Ett och noll (Bo Kaspers Orkester).
           Hurme: Valoa ikkunassa (Herd).
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Läheltä piti'
         start_time: '2025-11-07T10:00:00+02:00'
         end_time: '2025-11-07T10:55:00+02:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          ”Kyllä se on saatanaa, että kansa on pieni”, totesi J.K Paasikivi 1938.
+
+          Pieni ja sisukas Suomi on kuitenkin selvinnyt historian myrskyissä onnella ja oveluudella.
+
+          Miten onnekkaat sattumat ovat vaikuttaneet Suomen historiaan? Onko Suomi Euroopan historian Hannu Hanhi?
+
+          Miten onnekas sattuma määritellään, kun puhumme historiamme kohtalonhetkistä?
+
+          Ohjelmassa puhutaan Suomen historian läheltä piti-tilanteista, toteutumattomien katastrofien historiasta. Vieraana on filosofian tohtori, kirjailija Lasse Lehtinen.
+
+          Hän analysoi kirjassaan ”Läheltä piti — kansakunnan hurjat hetket” Suomen historian murroskohtia.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-07T10:55:00+02:00'
         end_time: '2025-11-07T11:00:00+02:00'
@@ -234,9 +244,9 @@ data:
       - title: Politiikkaradio
         start_time: '2025-11-07T21:05:00+02:00'
         end_time: '2025-11-07T21:35:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Kiinalaisen kirjallisuuden historia'
         start_time: '2025-11-07T21:36:00+02:00'
-        end_time: '2025-11-07T22:26:00+02:00'
+        end_time: '2025-11-07T22:24:47+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
