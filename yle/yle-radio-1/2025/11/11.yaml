@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-05T02:35:36.518112+00:00'
+  generated_at: '2025-11-06T02:36:07.802729+00:00'
   git:
     branch: main
-    commit: bb48ae63d3bdfb00d75463c58f3d61c557672419
-  data_hash: 62b563809d0610dbccffd1fce3ff9d15f25f92e24d7ac338bdad3af24ebf20d0
+    commit: 32c2d143f890e84f5116b15910496af73649f8f4
+  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-11-11T08:07:00+02:00'
         end_time: '2025-11-11T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-11-11T09:00:00+02:00'
         end_time: '2025-11-11T09:03:00+02:00'
@@ -88,16 +90,29 @@ data:
           Edwards: Duke of Earl (Gene Chandler).
           Arlen: Hooray for love (Shirley Bassey).
           Lennon/McCartney: Kenties, kenties (Jormas).
-      - title: Sari Valto
+      - title: 'Sari Valto: Erilleen muutto voi pelastaa parisuhteen'
         start_time: '2025-11-11T10:00:00+02:00'
         end_time: '2025-11-11T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+          Kun parisuhde ajautuu kriisiin ja tuntuu, ettei enää ole muuta vaihtoehtoa kuin erota, niin voisiko vielä jotain olla tehtävissä? 
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Ravel kuuntelee menneisyyttä '
         start_time: '2025-11-11T11:00:00+02:00'
         end_time: '2025-11-11T11:57:00+02:00'
-        description: |-
+        description: |
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Maurice Ravel: Fugue, teoksesta Tombeau de Couperin (Jean-Efflam Bavouzet, piano).
+
+          Francois Couperin: Les fauvétes plaintives  (Elina Mustonen, cembalo).
+
+          Francois Couperin: Rigaudon ja Forlane, Konsertosta n:o 4 e-molli kamariyhtyeelle kokoelmasta Concerts royaux, (Le Concert des Nations/Jordi Savall). 
+
+          Jean-Philippe Rameau: Entrée, Orkesterisarjasta oopperasta Les Boreades  (Le Concert des Nations/Jordi Savall).
+
+          Maurice Ravel: Tombeau de Couperin (Kenneth Hesketh, orkestrointi osat Fugue ja Toccata) Prelude, Fugue, Forlane, Rigaudon, Menuet, Toccata 
+          (Tukholman kuninkaalliset filharmonikot/Sakari Oramo).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-11T11:57:00+02:00'
         end_time: '2025-11-11T12:00:00+02:00'

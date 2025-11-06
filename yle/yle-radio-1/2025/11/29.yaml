@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-05T02:35:42.871446+00:00'
+  generated_at: '2025-11-06T02:36:15.911018+00:00'
   git:
     branch: main
-    commit: bb48ae63d3bdfb00d75463c58f3d61c557672419
-  data_hash: 62b563809d0610dbccffd1fce3ff9d15f25f92e24d7ac338bdad3af24ebf20d0
+    commit: 32c2d143f890e84f5116b15910496af73649f8f4
+  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
 data:
   Yle Radio 1:
     programmes:
@@ -48,8 +48,9 @@ data:
       - title: Aamuhartaus
         start_time: '2025-11-29T08:30:00+02:00'
         end_time: '2025-11-29T08:40:00+02:00'
-        description: |-
-          Seurakuntapastori, Helluntaiseurakunta, Veera Tillander, Tampere
+        description: |
+          "Siunattu aamusta iltaan"
+          Seurakuntapastori Veera Tillander, Helluntaiseurakunta, Tampereelta ehdottaa lisäämään rukouksen osaksi aamurutiinia.
       - title: Maailman tärkein pieni asia
         start_time: '2025-11-29T08:40:00+02:00'
         end_time: '2025-11-29T09:00:00+02:00'
@@ -142,6 +143,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-11-29T16:07:00+02:00'
         end_time: '2025-11-29T17:00:00+02:00'
+        description: |
+          Philidor: La march royalle (Kuninkaallinen marssi) teoks. Suite pastorale (Chatham Baroque -kamariyhtye).
+
+          Hensel: Marraskuu (Lauma Skride, piano).
+
+          C. Jensen: Love abounds in everything (Mari Samuelsen, viulu, Clarice Jensen, sello, ja American Contemporary Music Ensemble). 
+
+          Lehár: Sonjan valssilaulu "Bin ein glückseliges Menschenkind - Das Leben ruft" oper. Der Zarewitsch (Lucia Popp, sopraano, ja Münchenin radio-ork./Heinz Wallberg).
+
+          Beethoven: Bagatelli Es-duuri op.126/3 (Jevgeni Sudbin, piano). 
+
+          Ravel: Trois beaux oiseaux du Paradis (Kolme kaunista paratiisin lintua) kok. Trois chansons (Kolme laulua) (Octopus/Bart van Reyn). 
+
+          D. Scarlatti: Sonaatti kosketinsoittimelle D-duuri (Angela Hewitt, piano).
+
+          Kansansäv.: Wild mountain thyme (Sharon Isbin, kitara).
+
+          Damaré: La tourterelle (Turturikyyhky) (Jean-Louis Beaumadier, pikkolohuilu, ja Jean Koerner, piano).
+
+          C. Shaw: The beech tree teoks. Plan and elevation (Attacca-kvartetti).
+
+          Wolf: Auf ein altes Bild (Vanhaa kuvaa katsellessa) (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
+
+          Belli: Grain moon (Anna Lapwood, urut). 
+
+          Dvorak: Slaavilainen tanssi n:o 15 C-duuri (Tshekkiläinen FO/Jiri Belohlavek).
       - title: 'Marko Gustafsson: Vieraana näyttelijä, käsikirjoittaja ja ohjaaja Kati Outinen'
         start_time: '2025-11-29T17:00:00+02:00'
         end_time: '2025-11-29T17:50:00+02:00'
@@ -152,7 +179,8 @@ data:
         start_time: '2025-11-29T18:01:00+02:00'
         end_time: '2025-11-29T18:10:00+02:00'
         description: |-
-          Pastori Hanna Vanonen, Espoo
+          "Elävä Jumala, elävä puu"
+          Lauantai-illan rukoushetkessä pastori Hanna Vanonen Espoosta jakaa kertomuksia Abrahamista kertomuksina ihmisestä, Jumalasta ja puista.
       - title: Lauantain toivotut levyt
         start_time: '2025-11-29T18:10:00+02:00'
         end_time: '2025-11-29T19:00:00+02:00'
