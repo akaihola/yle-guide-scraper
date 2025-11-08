@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:11.847612+00:00'
+  generated_at: '2025-11-08T02:32:08.476164+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -34,6 +34,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-11-18T08:07:00+02:00'
         end_time: '2025-11-18T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-11-18T09:00:00+02:00'
         end_time: '2025-11-18T09:03:00+02:00'

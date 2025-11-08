@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:10.900272+00:00'
+  generated_at: '2025-11-08T02:32:08.080482+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -47,18 +47,34 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-16T11:00:00+02:00'
         end_time: '2025-11-16T11:59:00+02:00'
+        description: |-
+          Scotto: Sous les ponts de Paris (Juliette Greco ja Melody Gardot).
+          Kansansäv.: Vieni sul mar (Luciano Pavarotti).
+          Di Capua: It's now or never (Elvis Presley).
+          Calfati: Tesoro mio (Vieno Kekkonen).
+          Buarque de Hollanda: Deirdres samba (Cornelis Vreeswijk).
+          Ben: Mas que nada (Miriam Makeba).
+          Torrance/Haeny: Kaipuu sydämessäin soi (Carola).
+          Hector: Kaipaava haavanlehtinen (Hector).
+          Alford/Arnold: Kwai-joen silta (Olavi Virta).
+          Funk: Kitaraserenadi (Erkki Junkkarinen).
+          Migliacci: Che sarà (Ricchi e Poveri).
+          Gershwin: They can't take that away from me (Peggy Lee).
+          Punta: Kahvila "Flamenco" (Johnny Forsell).
+          Aava: Linjuripolkka (Veikko Sato).
+          Ellington: Don't get around much anymore (Duke Ellington).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-16T12:00:00+02:00'
         end_time: '2025-11-16T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Murhia viinapullossa ja säikyttelyhoitoja ruumishuoneella - suomalaisia noitatarinoita'
         start_time: '2025-11-16T12:05:00+02:00'
         end_time: '2025-11-16T12:55:00+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Kun yksi oli yhdelle parantaja-tietäjä ja toiselle noita. Haastateltavana perinteentutkija Pasi Klemettinen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-16T12:55:00+02:00'
         end_time: '2025-11-16T13:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Oikea tapa nimetä barokkiyhtye'
         start_time: '2025-11-16T13:00:00+02:00'
         end_time: '2025-11-16T13:57:00+02:00'
         description: |

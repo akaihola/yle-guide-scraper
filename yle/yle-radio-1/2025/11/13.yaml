@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:09.472732+00:00'
+  generated_at: '2025-11-08T02:32:07.455344+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -11,15 +11,59 @@ data:
         start_time: '2025-11-12T23:40:00+02:00'
         end_time: '2025-11-13T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Krufft: Käyrätorvisonaatti F-duuri (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          23:59 von Dittersdorf: Sinfonia n:o 4 F-duuri (Perseus pelastaa Andromedan) (Failoni-ork./Hanspeter Gmür).
+
+          00:30 Nin: Cadena de valses (Romanttinen muisto) (Martin Jones, piano).
+
+          00:48 Hadley: Sinfonia n:o 2 f-molli (Neljä vuodenaikaa) (Lontoon kuninkaallinen FO/Karl Krüger).
+
+          01:33 Chopin: Valssi n:o 1 Es-duuri (Grande Valse brillante) (Halina Czerny-Stefanska, piano).
+
+          01:39 Viotti (sov. W.A. Mozart): Viulukonsertto n:o 16 e-molli (Yehudi Menuhin ja Menuhin-musiikkijuhlaork.).
+
+          02:10 Magnard: Kvintetto pianolle ja puhaltimille (Laurent Wagschal ja Ensemble Initium).
+
+          02:45 Vasks: Episodi a canto perpetuo (Trio Palladio).
+
+          03:14 Hatshaturjan: Orkesterisarja näyt. Maskarad (Naamiaiset) (RCA Victor Orchestra/Kirill Kondrashin). 
+
+          03:33 M-A Charpentier: Konsertto neljälle viola da gamballe ja continuolle (London Baroque/Charles Medlam).
+
+          03:47 Liszt: Dante-sinfonia (Berliinin radiokuoron naisäänet ja Berliinin filharmonikot/Daniel Barenboim).
+
+          04:37 Dvorák: Pianotrio n:o 3 f-molli (The Tempest Trio).
+
+          05:21 Wagner: Norjalaisten matruusien kuoro oopp. Lentävä hollantilainen (Leipzigin radiokuoro ja Dresdenin valtionork./Silvio Varviso).
+
+          05:24 J. Haydn: Jousikvartetto n:o 77 C-duuri (Keisarikvartetto) (Mosaïques-kvartetti).
+
+          05:53 J.S. Bach: Jesu meine Freude (Jeesus aarteheni) (Norjalainen solistikuoro ja Ensemble Allegria/Grete Pedersen).
+
+          06:14 Buxtehude: Kaksi koraalialkusoittoa (Markku Hietaharju, Helsingin Meilahden kirkon urut).
+
+          06:21 Händel: Sonaatti huilulle ja continuolle G-duuri op.1/5 (Camerata Köln).
       - title: Hartaita säveliä
         start_time: '2025-11-13T06:30:50+02:00'
         end_time: '2025-11-13T06:50:00+02:00'
+        description: |+
+          Koraalitoisinto: Jumalan rauhaa rinnassansa (Heikki Rainio, tenori, ja Pentti Kotiranta, piano).
+
+          Piiparinen: Rakkaus meille armon toi (RKK/Ilmo Riihimäki).
+
+          Tuntematon: Kanssa luomakuntansa (Topi Lehtipuu, tenori, Jonte Knif, tamburiini, Jarmo Julkunen, kitara, ja Mikko Perkola, viola da gamba).
+
+          Koraalitoisinto: Puoleesi, Herra, luomme (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
+          Palmer: Mestari, myrsky on suuri (Braxén-kuoro/Harry Westerlund).
+
       - title: Aamuhartaus
         start_time: '2025-11-13T06:50:00+02:00'
         end_time: '2025-11-13T06:59:59+02:00'
-        description: |-
-          Apulaisprofessori Suvi-Maria Saarelainen, Espoo
+        description: |
+          "Hyvinvointi on hiljaisuutta Jumalan edessä"
+          Apulaisprofessori Suvi-Maria Saarelainen Espoosta kertoo, miksi lepo, armo ja hyvinvointi kuuluvat yhteen.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-13T07:00:00+02:00'
         end_time: '2025-11-13T07:05:00+02:00'
@@ -81,9 +125,11 @@ data:
           Silvennoinen: Aamukasteen laiva (Tabula Rasa).
           Serrat: Llego con tres heridas (Joan Manuel Serrat).
           Gaye: What's going on (Marvin Gaye).
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: vieraana toimittaja, juontaja Katja Ståhl'
         start_time: '2025-11-13T10:00:00+02:00'
         end_time: '2025-11-13T10:50:00+02:00'
+        description: |
+          “Katja Ståhlilla on täysin poikkeuksellinen kyky saada ihmiset rentoutumaan ja hän myös huomaa heti, jos joku asia painaa ihmisen mieltä”, sanoo Marko Gustafsson. Ohjelma on uusinta keväältä 2024.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-13T10:50:00+02:00'
         end_time: '2025-11-13T11:00:00+02:00'
@@ -95,6 +141,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-13T11:57:00+02:00'
         end_time: '2025-11-13T12:00:00+02:00'
+        description: |-
+          Ote Riina Tanskasen sarjakuvasta Tympeät tytöt - luokkakipuja(Into, 2025)
       - title: Yle Uutiset ja sää
         start_time: '2025-11-13T12:00:00+02:00'
         end_time: '2025-11-13T12:05:00+02:00'
@@ -113,15 +161,17 @@ data:
         description: |+
           Iltapäivän musiikkitarjottimella on kevyttä jazzia, etnoa ja populaarimusiikkia. Juontajana Miia Lahti. Studioon saapuu n. klo 14 vieraaksi sopraano ja näyttelijä Reetta Ristimäki. N. klo 14:30 Erään tärkeän kultuurielämyksensä kertoo oopperalaulaja Karita Mattila. Marko Miettinen kyselee.
 
-      - title: 'Kulttuuriykkönen: Jessikka Aro ja Hannu Pesonen: Venäjän myyräntyö USA:ssa'
+      - title: 'Kulttuuriykkönen: Jessikka Aro, Iida Hallikainen ja Hannu Pesonen: Venäjän hybridisodan konnankoukut'
         start_time: '2025-11-13T15:00:00+02:00'
         end_time: '2025-11-13T15:55:00+02:00'
-        description: |
-          Sekä Jessikka Aron Putinin USA – Näin Venäjä hajottaa ja hallitsee Yhdysvalloissa (Johnny Kniga, 2025) että Hannu Pesosen Ammattina vakooja - Sankareita, pettureita ja salajuonia (Docendo, 2025) kertovat Venäjän erilaisista vaikutus- ja vakoiluyrityksistä Yhdysvaltoja kohtaan. Millaista myyräntyötä Kreml harjoittaa, ja mikä on median rooli kohdemaassa?
+        description: |-
+          Sekä Jessikka Aron Putinin USA – Näin Venäjä hajottaa ja hallitsee Yhdysvalloissa (Johnny Kniga, 2025), Iida Hallikaisen ja Jukka Savolaisen Ilkeyksiä, sabotaasia, hyökkäyksiä (Otava, 2025) että Hannu Pesosen Ammattina vakooja - Sankareita, pettureita ja salajuonia (Docendo, 2025) ja kertovat Venäjänvaikutus- ja vakoiluyrityksistä länttä kohtaan. 
 
-          Haastateltavana ovat tietokirjailija Jessikka Aro ja ulkomaantoimittaja ja tietokirjailija Hannu Pesonen.
+          Millaista myyräntyötä Kreml harjoittaa, ja mikä on median rooli kohdemaassa?
 
-          Lähetyksen toimittaa Pauliina Grym. 
+          Haastateltavana ovat tietokirjailija Jessikka Aro, ulkomaantoimittaja ja tietokirjailija Hannu Pesonen sekä Ilkeyksiä, sabotaasia, hyökkäyksiä  -kirjan toinen kirjoittaja, Ilta-Sanomien politiikan toimittaja Iida Hallikainen. 
+
+          Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
         start_time: '2025-11-13T15:55:00+02:00'
         end_time: '2025-11-13T15:58:00+02:00'
@@ -154,6 +204,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-13T18:35:00+02:00'
         end_time: '2025-11-13T18:50:00+02:00'
+        description: |+
+          H. Helenius: Taisteluni (Bass'n Helen).
+
+          Hellberg: Tulee vielä aika (Kaukametsän Kamarikuoro/Juha Mikkonen).
+
+          Salminen: Ristin luona (Elävät kivet/Päivi Pohjola).
+
+          Bourgeois: Niin kuin peura janoissansa (Katja Kallio ja Sami Kosola, laulu, sekä Taavi-Kasperi Kausalainen, lyömäsoittimet).
+
       - title: Iltahartaus
         start_time: '2025-11-13T18:50:00+02:00'
         end_time: '2025-11-13T19:00:00+02:00'
@@ -168,9 +227,6 @@ data:
         end_time: '2025-11-13T20:55:00+02:00'
         description: |
           Malilaiset Al Bilali Soudan ja Sadio Sidibé konsertoivat Rudolstadtin maailmanmusiikkifestivaalilla 5.7.2025. Al Bilali Soudan vie kuulijan perinteisen tuareg-musiikin, takamban, juurille. Bamakosta tuleva Sadio Sidibe tarjoilee räjähtävän energistä wassoulou-musiikkia. Intohimoisissa ja rytmikkäissä lauluissa hän puolustaa naisten ja lasten oikeuksia ja laulaa yhteiskunnallisista aiheista. Toimittajana Miika Lauriala. 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-11-13T21:00:00+02:00'
-        end_time: '2025-11-13T21:05:00+02:00'
       - title: Politiikkaradio
         start_time: '2025-11-13T21:05:00+02:00'
         end_time: '2025-11-13T21:35:00+02:00'
@@ -193,4 +249,32 @@ data:
         start_time: '2025-11-14T00:00:00+02:00'
         end_time: '2025-11-14T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Servais: Fantasia sellolle ja harpulle (Seeli Toivio ja Lily-Marlene Puusepp).
+
+          00:15 Mendelssohn: Sinfonia D-duuri (Queenslandin FO/Theodore Kuchar).
+
+          00:49 Fibich: Kvintetto pianolle, klarinetille, käyrätorvelle, viululle ja sellolle D-duuri (Maríán Lapsanský, Ludmila Peterková, Vladimíra Klánská, Jirí Panocha ja Jaroslav Kulhan).
+
+          01:25 Paderewski: Muunnelmia ja fuuga pianolle a-molli (Jonathan Plowrigh).
+
+          01:41 Dvorák: Sinfonia n:o 8 G-duuri (Baltimoren SO/Marin Alsop).
+
+          02:18 Tshaikovski: Jousikvartetto n:o 2 F-duuri (Vermeer-kvartetti).
+
+          02:56 Fuchs: Sinfonia n:o 2 E-duuri (Kölnin radion SO/Karl-Heinz Steffens).
+
+          03:35 Adams: Konsertto alttosaksofonille ja orkesterille (Timothy McAllister ja Saint Louisin SO/ David Robertson).
+
+          04:03 Shostakovitsh: Viulukonsertto n:o 1 a-molli (David Oistrah ja Leningradin FO/Jevgeni Mravinski).
+
+          04:40 W.A. Mozart: Sinfonia concertante Es-duuri (Sidney Sutcliffe, oboe, Bernard Walton, klarinetti, Dennis Brain, käyrätorvi, ja Cecil James, fagotti, sekä Philharmonia-ork./Herbert von Karajan).
+
+          05:16 Marttinen: Sinfonia n:o 1 (RSO/Nils-Eric Fougstedt).
+
+          05:35 de La Rue: Missa Inviolata (The Brabant Ensemble/Stephen Rice).
+
+          06:06 Telemann: Kvintetto puhaltimille ja continuolle D-duuri (Maalaiset) (Carin van Heerden,oboe, ja puhallinyhtye L' Orfeo).
+
+          06:19 Wassenaer: Sonata prima (Trio de l'Oustal).
+
+          06:27 Händel: Hamanin aaria orat. Esther (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).

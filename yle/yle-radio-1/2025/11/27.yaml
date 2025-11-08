@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:15.345360+00:00'
+  generated_at: '2025-11-08T02:32:10.146671+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -86,11 +86,18 @@ data:
         description: |2+
 
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Metsästäjä-keräilijöiden elämän todelliset kasvot: onnea vai selviytymistä?'
         start_time: '2025-11-27T15:00:00+02:00'
         end_time: '2025-11-27T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Filosofi Frank Martela kysyi kolumnissaan “Maailman onnellisimmat yhteisöt ovat kaukana Suomesta” (Helsingin Sanomat 11.9.2025) voiko ilman rahaa olla onnellinen? Martela mukaan kansainvälisissä elämän­tyytyväisyys­kyselyissä vauraat maat kuten Suomi menestyvät, mutta rahan ja onnen yhteys katoaa, kun tarkastellaan yhteisöjä. Martela viittaa professori Eric Galbraithiin, jonka tutkimuksessa metsästäen ja kalastaen rahatalouden ulkopuolella elävät alkuperäiskansojen yhteisöt  arvioivat elämänsä tyytyväisyyden korkeammaksi kuin missään muussa maassa. Professori Victoria Reyes-Garcia toteaa, että teollisuuden tuottama varallisuus ei ole onnellisuudelle välttämätöntä.
+
+          Ekonomisti Heikki Pursiainen kirjoitti Martelan kolumniin Työn ja talouden tutkimus LABORE -keskuksen sivuilla vastineen otsikolla “Ratkaisua nykyajan ongelmiin ei löydy metsästäjä-keräilijöiltä” (8.10.2025). Pursiaisen mukaankeräilijät voivat olla onnellisempia, mutta moderni yhteiskunta tarjoaa pidemmän elämän ja korkeamman elintason. Siirtyminen keräilystä maatalouteen ei ollut yksiselitteinen parannus, mutta nykyään hyvinvointi on kasvanut merkittävästi. Keräilijöiden joutilaisuus johtuu alhaisesta tuottavuudesta, ei vauraudesta, kirjoittaa Pursiainen. 
+
+          Risto Isomäki on kirjoittanut sekä tieto- että tieteiskirjoja. Jälkimmäisissä hän kuvittelee tapoja, jolla ihmiskunta voisi järjestää olonsa ja yhteiskuntansa. Kumman kannalle, Martelan vai Pursiaisen puolelle metsässä pikkupojasta asti viihtynyt Isomäki asettuu?
+          Keskustelemassa ovat filosofi Frank Martela, ekonomisti Heikki Pursiainen ja tieto- ja tieteiskirjailija Risto Isomäki.
+
+          Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
         start_time: '2025-11-27T15:55:00+02:00'
         end_time: '2025-11-27T15:58:00+02:00'

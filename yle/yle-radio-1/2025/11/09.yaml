@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:04.616524+00:00'
+  generated_at: '2025-11-08T02:32:06.706023+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -61,24 +61,30 @@ data:
 
           Giovan Leonardo Primavera: Nasce la gioja mia 
           Palestrina: Missa Nasce la gioja mia, osat Kyrie ja Agnus Dei I & II (The Tallis scholars/Peter Phillips).
+      - title: Radio 1 soi
+        start_time: '2025-11-09T07:56:42+02:00'
+        end_time: '2025-11-09T08:00:00+02:00'
+        description: |-
+          Ravel: Peukaloinen orkesterisarj. Hanhiemo (Soulin FO/Myung-Whun Chung).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T08:00:00+02:00'
         end_time: '2025-11-09T08:05:05+02:00'
-      - title: Narrin aamulaulu - Luostarin puutarhan isä Albert Ketèlbey, Britannian ensimmäinen miljönäärisäveltäjä
-        start_time: '2025-11-09T08:05:35+02:00'
-        end_time: '2025-11-09T08:59:30+02:00'
+      - title: 'Narrin aamulaulu - Luostarin puutarhan isä Albert Ketèlbey, Britannian ensimmäinen miljonäärisäveltäjä  '
+        start_time: '2025-11-09T08:05:38+02:00'
+        end_time: '2025-11-09T08:59:44+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Lauantain toivottujen levyjen ikisuosikit, Luostarin puutarhassa ja Persialaisella torilla, kuuluvat   Britteinsaarilla 1900-luvun alkuvuosikymmeninä kukoistaneen orkesteriviihdemusiikin klassikoihin. Niiden säveltäjä Albert W. Ketèlbey toimi mm. teatterikapellimestarina, sovittajana ja kiersi johtamassa omia teoksiaan sekä työskenteli kustantamossa ja levy-yhtiössä. 1920-luvun lopulla säveltäjä oli suosionsa huipulla. Sodan jälkeen suhdanteet kuitenkin vaihtuivat ja Ketèlbey unohdettiin. Viime vuosina hänet on nostettu uudelleen esiin. 
+          Albert Ketèlbeyn (1875-1959), Britannian ensimmäisen miljonäärisäveltäjän elämää selvittää Outi Paananen. 
       - title: Yle Uutiset ja sää
         start_time: '2025-11-09T09:00:00+02:00'
         end_time: '2025-11-09T09:03:05+02:00'
       - title: Riston Valinta
-        start_time: '2025-11-09T09:04:35+02:00'
-        end_time: '2025-11-09T09:54:00+02:00'
+        start_time: '2025-11-09T09:03:40+02:00'
+        end_time: '2025-11-09T09:52:37+02:00'
         description: |
           Erikoistarjouksia parhaan mahdollisen musiikin ystäville. Risto Nordellin puhetta ja musiikkia. 
       - title: Yksi on hyvää seuraa
-        start_time: '2025-11-09T09:54:00+02:00'
+        start_time: '2025-11-09T09:52:37+02:00'
         end_time: '2025-11-09T09:56:00+02:00'
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-11-09T09:56:00+02:00'
@@ -192,7 +198,7 @@ data:
         end_time: '2025-11-09T19:02:05+02:00'
       - title: Jazzklubi
         start_time: '2025-11-09T19:02:05+02:00'
-        end_time: '2025-11-09T20:00:00+02:00'
+        end_time: '2025-11-09T19:59:45+02:00'
         description: |
           Toimittajana...
       - title: Kokkolan Baptistiseurakunnan jumalanpalvelus
@@ -200,14 +206,19 @@ data:
         end_time: '2025-11-09T20:57:25+02:00'
         description: |
           Liturgina Tuomas Vuorinen. Saarnaajana Harry Vuolteenaho. Seurakunnan musiikkiryhmä: Juuso Savolainen, Tom Kurtén, Timo Nygård, Aapo Jussila ja Tuomas Vuorinen.
-      - title: Uutispodcast
-        start_time: '2025-11-09T21:01:00+02:00'
-        end_time: '2025-11-09T21:25:00+02:00'
+      - title: Radio 1 soi
+        start_time: '2025-11-09T20:57:25+02:00'
+        end_time: '2025-11-09T21:00:03+02:00'
+        description: |-
+          Rubinstein: Romanssi Es-duuri (Zora Mihailovich, piano).
+      - title: 'Uutispodcast: Suomi kuin Siperia – onko merivirtojen pysähtymiseen varauduttu?'
+        start_time: '2025-11-09T21:00:53+02:00'
+        end_time: '2025-11-09T21:24:40+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Atlantin valtameren meridionaalinen kierto voi heikentyä tai jopa romahtaa, varoittavat tutkijat. Tämä tarkoittaisi Suomeen kylmää kyytiä. Mitä tästä tiedosta pitäisi nyt ajatella? Millä tavalla Suomessa voidaan varautua ilmaston kylmenemiseen? Reetta Röngän vieraana Petteri Uotila, Helsingin yliopiston ilmakehätieteiden keskuksen professori.
       - title: 'Klasariparatiisi: Mahtava Palestrina, tai kuinka patsas pystytettiin'
-        start_time: '2025-11-09T21:26:00+02:00'
-        end_time: '2025-11-09T22:22:12+02:00'
+        start_time: '2025-11-09T21:25:29+02:00'
+        end_time: '2025-11-09T22:21:41+02:00'
         description: |
           Säveltäjän uneen ilmestyy yhdeksän kuollutta säveltäjää. Pelasta moniääninen musiikki ja traditio! he huutavat. Enkelit kuiskaavat ihmeellisiä säveliä, kuin transsissa säveltäjä kirjoittaa ne nuoteiksi…Tällainen tarina on toiminut hyvin markkinointipuheena. Giovanni Pierluigi da Palestrina osasi säveltää juuri sellaista musiikkia, jota katolinen kirkko kaipasi 1500-luvun lopulla. Hänen maineensa vain kasvoi seuraavina vuosisatoina. Mutta ei se mitään, Palestrina on hieno säveltäjä.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -225,13 +236,18 @@ data:
           Giovan Leonardo Primavera: Nasce la gioja mia 
           Palestrina: Missa Nasce la gioja mia, osat Kyrie ja Agnus Dei I & II (The Tallis scholars/Peter Phillips).
       - title: 'Sari Valto: Vuorikiipeilyä ja skeittausta ikään katsomatta'
-        start_time: '2025-11-09T22:23:00+02:00'
-        end_time: '2025-11-09T23:16:52+02:00'
+        start_time: '2025-11-09T22:21:59+02:00'
+        end_time: '2025-11-09T23:15:51+02:00'
         description: |-
           Uuden harrastuksen voi aloittaa missä iässä vain, vakuuttavat vuorikiipeilijä Paula Strengell sekä skeittaaja Lena Salmi. 
+      - title: Radio 1 soi
+        start_time: '2025-11-09T23:15:51+02:00'
+        end_time: '2025-11-09T23:24:42+02:00'
+        description: |-
+          Franz Liszt: Unkarilainen rapsodia orkesterille nro 2 d-molli (RCA Victor Symphony Orchestra ja Symphony of the Air/Leopold Stokowski.
       - title: 'Romano mirits: Yhteiskunta, työelämä ja muutos kuuluvat eläkkeelle jäävien tarinoissa ainutlaatuisella tavalla. '
-        start_time: '2025-11-09T23:24:43+02:00'
-        end_time: '2025-11-09T23:39:40+02:00'
+        start_time: '2025-11-09T23:24:42+02:00'
+        end_time: '2025-11-09T23:39:39+02:00'
         description: |
           Yhteiskunta, työelämä ja muutos kuuluvat eläkkeelle jäävien tarinoissa ainutlaatuisella tavalla. 
           Malla Laiti on pitkän työhistoriansa aikana ollut monessa mukana. Laitille on aina ollut tärkeätä ihmisten kohtaaminen ja romaniväestön kanssa yhdessä asioiden pohtiminen ja ratkaisujen etsiminen. Nyt on aika siirtyä elämässä uudenlaiseen vaiheeseen, aikaan, jossa ei tarvitse seurata enää kelloa niin tarkasti ja se tuntuu Malla Laitista myös hyvältä. Toim. Janette Grönfors.

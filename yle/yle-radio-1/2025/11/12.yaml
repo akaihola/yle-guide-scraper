@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:08.671583+00:00'
+  generated_at: '2025-11-08T02:32:07.256728+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,35 @@ data:
         start_time: '2025-11-11T23:40:00+02:00'
         end_time: '2025-11-12T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Zelenka: Sonaatti n:o 1 kahdelle oboelle, fagotille ja continuolle F-duuri (Ensemble Berlin Prag).
+
+          23:56 Mielck: Jousikvartetto g-molli (Rantatie-kvartetti).
+
+          00:28 Schubert: Kvintetto pianolle ja jousille A-duuri (Forellikvintetto) (Daniil Trifonov, piano, Anne-Sophie Mutter, viulu, Hwayoon Lee, alttoviulu, Maximillian Hornung, sello, ja Roman Patkoló, kontrabasso).
+
+          01:07 Gade: Viulukonsertto d-molli (Christina Åstrand ja Tampereen KO/John Storgårds).
+
+          01:35 Granados: Romanttisia kohtauksia (Alicia de Larrocha, piano).
+
+          02:00 Mendelssohn: Sonaatti sellolle ja pianolle n:o 2 D-duuri (Christian Poltéra ja Ronald Brautigam).
+
+          02:23 Ives: Holidays-sinfonia (Chicagon SO ja kuoro/Michael Tilson Thomas).
+
+          03:06 Schulhoff: Landschaften (Maisemia) (Randi Stene, mezzosopraano, ja Trondheimin SO/Muhai Tang).
+
+          03:23 A. Merikanto: Sinfonia n:o 2 A-duuri (Sotasinfonia) (Turun KO/Petri Sakari).
+
+          04:10 Kabalevski: Sonaatti sellolle ja pianolle B-duuri. (Mstislav Rostropovitsh ja Dmitri Kabalevski).
+
+          04:38 Chausson: Poeme de l'amour et de la mer; Chanson perpetuelle; Le Colibri; Serenade italienne; La derniere feuille; Les Papillons; Le charme (Jessye Norman, sopraano, ja Monte-Carlon FO/Armin Jordan sekä Michel Dalberto, piano).
+
+          05:24 O. Merikanto (sov.): Jos voisin laulaa kuin lintu voi (Ilkka Paananen, piano). 
+
+          05:27 Tshaikovski: Valssi bal. Prinsessa Ruusunen (Cincinnati Pops/Erich Kunzel).
+
+          05:33 Ludford: Missa Videte miraculum (Katsokaa ihmettä) (Westminster Abbeyn kuoro/James O'Donnell).
+
+          06:10 Conti: Sarja C-duuri oopp. Don Chisciotte in Sierra Morena (Hampurin Elbipolis-barokkiorkesteri, sekä Kerstin De Witt, nokkahuilu, ja Michael Metzler, lyömäsoittimet).
       - title: Hartaita säveliä
         start_time: '2025-11-12T06:30:50+02:00'
         end_time: '2025-11-12T06:50:00+02:00'
@@ -71,21 +99,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-12T09:04:00+02:00'
         end_time: '2025-11-12T09:59:00+02:00'
-        description: |-
+        description: |
           Jurva/Pekkarinen: Kahvikullan ylistys (Matti Jurva).
           Blanco: Moliendo café (Mina).
           Jokela: Joku jota rakastan (Kaseva).
           Carmichael: Skylark (K.D. Lang).
           Youmans: Tea for two (The Mills Brothers).
-          Jagger & Richards: Angie (Petri Pettersson).
+          Jagger/Richards: Angie (Petri Pettersson).
           Legrand: La gare (Danielle Licari ja Jose Bartel).
           Modugno: Volare (Domenico Modugno).
-          Glanzberg & Korzeniowski: Padam padam (Patricia Kaas).
+          Glanzberg: Padam padam (Patricia Kaas).
           Baum: Music, music, music (Peggy Lee).
           Hrennikov: Moskovan valot (Georg Ots).
           Young: Heart of gold (Neil Young).
           Salim: Malaika (Miriam Makeba ja Harry Belafonte).
-          Alanko: Taiteilijaelämää (Ismo Alanko, Jaakko Kuusisto ja Oulu Sinfonia).
+          Alanko: Taiteilijaelämää (Ismo Alanko ja Oulu Sinfonia/Jaakko Kuusisto).
       - title: 'Havaintoja muutoksesta: Väsymys kulttuurisena ilmiönä'
         start_time: '2025-11-12T10:00:00+02:00'
         end_time: '2025-11-12T10:50:00+02:00'
@@ -99,10 +127,12 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-12T11:57:00+02:00'
         end_time: '2025-11-12T12:00:00+02:00'
+        description: |
+          Ote Riina Tanskasen sarjakuvasta Tympeät tytöt - luokkakipuja (Into, 2025)
       - title: Yle Uutiset ja sää
         start_time: '2025-11-12T12:00:00+02:00'
         end_time: '2025-11-12T12:05:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Vieraana kirjailija Reijo Tolppi'
         start_time: '2025-11-12T12:05:00+02:00'
         end_time: '2025-11-12T12:55:00+02:00'
         description: |
@@ -118,11 +148,11 @@ data:
         end_time: '2025-11-12T15:00:00+02:00'
         description: |
           Iltapäivän musiikissa soi kevyt jazz, etno ja populaarimusiikin helmet. Jarmo Laitaneva juontaa. N. klo 14 maineikas suomalainen äänen ammattilaistalo Finnvox- studiot täyttää 60 vuotta. Vieraina studiomanageri Aki Sihvonen ja toimitusjohtaja Linda Laxell. N. klo 14:30 Kurkkaus illan RSO:n konserttiin.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Tsemppijournalismia vai realismia? Ukrainan sodan uutisoinnin muutokset ja kritiikki Suomessa'
         start_time: '2025-11-12T15:00:00+02:00'
         end_time: '2025-11-12T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Ukrainan sodan uutisoinnissa suomalaisen median tasapaino eri näkökulmien välillä on herättänyt jonkin verran keskustelua ja kritiikkiä. Korostuuko uutisoinnissa liikaa Ukrainan näkökulma? Sorrutaanko tsemppijournalismiin? Käsitelläänkö  Venäjän näkökulmaa ja motiiveja liian yksipuolisesti? Ennen kaikkea pystyykö suomalainen media antamaan realistisen kuvan Ukrainan sodasta ja miten raportointi on muuttunut sodan pitkittyessä?
       - title: Yle News
         start_time: '2025-11-12T15:55:00+02:00'
         end_time: '2025-11-12T15:58:00+02:00'
@@ -134,7 +164,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-11-12T16:07:00+02:00'
         end_time: '2025-11-12T16:59:00+02:00'
-        description: |-
+        description: |
           J. Strauss (nuor.): Samppanjapolkka (Wienin filharmonikot/Riccardo Muti).
 
           Brahms: Andante un poco adagio sonaatista klarinetille ja pianolle f-molli (Michael Collins ja Michael McHale).
@@ -223,4 +253,36 @@ data:
         start_time: '2025-11-12T23:40:00+02:00'
         end_time: '2025-11-13T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Krufft: Käyrätorvisonaatti F-duuri (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          23:59 von Dittersdorf: Sinfonia n:o 4 F-duuri (Perseus pelastaa Andromedan) (Failoni-ork./Hanspeter Gmür).
+
+          00:30 Nin: Cadena de valses (Romanttinen muisto) (Martin Jones, piano).
+
+          00:48 Hadley: Sinfonia n:o 2 f-molli (Neljä vuodenaikaa) (Lontoon kuninkaallinen FO/Karl Krüger).
+
+          01:33 Chopin: Valssi n:o 1 Es-duuri (Grande Valse brillante) (Halina Czerny-Stefanska, piano).
+
+          01:39 Viotti (sov. W.A. Mozart): Viulukonsertto n:o 16 e-molli (Yehudi Menuhin ja Menuhin-musiikkijuhlaork.).
+
+          02:10 Magnard: Kvintetto pianolle ja puhaltimille (Laurent Wagschal ja Ensemble Initium).
+
+          02:45 Vasks: Episodi a canto perpetuo (Trio Palladio).
+
+          03:14 Hatshaturjan: Orkesterisarja näyt. Maskarad (Naamiaiset) (RCA Victor Orchestra/Kirill Kondrashin). 
+
+          03:33 M-A Charpentier: Konsertto neljälle viola da gamballe ja continuolle (London Baroque/Charles Medlam).
+
+          03:47 Liszt: Dante-sinfonia (Berliinin radiokuoron naisäänet ja Berliinin filharmonikot/Daniel Barenboim).
+
+          04:37 Dvorák: Pianotrio n:o 3 f-molli (The Tempest Trio).
+
+          05:21 Wagner: Norjalaisten matruusien kuoro oopp. Lentävä hollantilainen (Leipzigin radiokuoro ja Dresdenin valtionork./Silvio Varviso).
+
+          05:24 J. Haydn: Jousikvartetto n:o 77 C-duuri (Keisarikvartetto) (Mosaïques-kvartetti).
+
+          05:53 J.S. Bach: Jesu meine Freude (Jeesus aarteheni) (Norjalainen solistikuoro ja Ensemble Allegria/Grete Pedersen).
+
+          06:14 Buxtehude: Kaksi koraalialkusoittoa (Markku Hietaharju, Helsingin Meilahden kirkon urut).
+
+          06:21 Händel: Sonaatti huilulle ja continuolle G-duuri op.1/5 (Camerata Köln).

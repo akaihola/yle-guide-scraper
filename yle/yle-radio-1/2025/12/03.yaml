@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:17.613433+00:00'
+  generated_at: '2025-11-08T02:32:11.396171+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -120,9 +120,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-03T19:00:00+02:00'
         end_time: '2025-12-03T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Säveltäjien Suomi – Turun filharmoninen orkesteri konsertoi
         start_time: '2025-12-03T19:02:00+02:00'
         end_time: '2025-12-03T21:00:00+02:00'
+        description: |-
+          Turun filharmoninen orkesteri juhlistaa Suomen Säveltät ry:n 80-vuotista taivalta konsertilla, jossa kuullaan niin tuttuja kuin tuntemattomampiakin säveltäjiä yhdeksältä eri vuosikymmeneltä. Jokainen heistä tuo lisänsä Suomen säveltaiteen tarinaan. Turun filharmonisen orkesterin ylikapellimestari John Storgårds on suunnitellut konserttiohjelman yhdessä musiikkitoimittaja Mats Liljeroosin kanssa.  20.11.2025 Turun konserttitalossa tallennetun konsertin toimittaa Ainomaija Pennanen. 
+
+          Turun filharmoninen orkesteri, joht. John Storgårds, Tuuli Lindeberg, sopraano
+
+          Konserttiohjelma:
+
+          Jukka Linkola: CYCLOP (tilausteos, kantaesitys) 
+          Mikko Heiniö: On the Rocks 
+          Erkki Salmenhaara: Adagietto 
+          Jukka Tiensuu: Mxpzkl
+          Heidi Sundblad-Halme: Pan laulusarja
+
+          Väliaika
+
+          Jean Sibelius: Ett ensamt skidspår (Yksinäinen latu) lausujalle, harpulle ja jousille 
+          Erik Bergman: Circulus op. 58 
+          Matthew Whittall: Solen 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-03T21:00:00+02:00'
         end_time: '2025-12-03T21:05:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:12.143022+00:00'
+  generated_at: '2025-11-08T02:32:08.641930+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -33,12 +33,30 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-11-19T08:07:00+02:00'
         end_time: '2025-11-19T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-11-19T09:00:00+02:00'
         end_time: '2025-11-19T09:03:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2025-11-19T09:04:00+02:00'
         end_time: '2025-11-19T09:59:00+02:00'
+        description: |
+          McHugh: Let's get lost (Chet Baker).
+          Monnot: Milord (Edith Piaf).
+          Zambrini/Continiello/Bacalov: Uhkapeluri (Eero Raittinen).
+          Young: Surujen kitara (Metro-tytöt).
+          Span: Not me (Hubert Porter).
+          Jobim: Desafinado (Eliane Elias).
+          Meyer: Love lies (Frank Sinatra).
+          Kansansäv.: 500 miles (The Journeymen).
+          Sabata/Vianello: Jäät tyhjää katsomaan (Anki).
+          Morricone: Man with a harmonica (Ennio Morriconen orkesteri).
+          Rodygin: Uralin pihlaja (Seija Järvinen).
+          Arlen: It's only a paper moon (The King Cole Trio).
+          Trenet: Que reste-t-il de nos amours? (Chrissie Hynde).
+          Hector: Ensilumi tulee kuudelta (Hector).
+          Bakker: Ding-a-dong (Jörgen Petersen).
       - title: 'Havaintoja muutoksesta: Mielenterveys, salaisuuksia ja hoitamisen historiaa'
         start_time: '2025-11-19T10:00:00+02:00'
         end_time: '2025-11-19T10:50:00+02:00'
@@ -58,7 +76,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-11-19T12:00:00+02:00'
         end_time: '2025-11-19T12:05:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Vieraana väitöskirjatutkija Maria Jokela'
         start_time: '2025-11-19T12:05:00+02:00'
         end_time: '2025-11-19T12:55:00+02:00'
         description: |

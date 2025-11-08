@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-06T02:36:10.145863+00:00'
+  generated_at: '2025-11-08T02:32:07.680662+00:00'
   git:
     branch: main
-    commit: 32c2d143f890e84f5116b15910496af73649f8f4
-  data_hash: 5710524c616095da011b509f957afb1ea85fcc18bd162e80d943afca5d8f4f19
+    commit: 08efa3b294ea0782398f1d1aa6cef9edc8108047
+  data_hash: ea147d88865bed7968b7cb597fa7030ddb6aedce8db3fad54d8638b9743d32a6
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,47 @@ data:
         start_time: '2025-11-14T00:00:00+02:00'
         end_time: '2025-11-14T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Servais: Fantasia sellolle ja harpulle (Seeli Toivio ja Lily-Marlene Puusepp).
+
+          00:15 Mendelssohn: Sinfonia D-duuri (Queenslandin FO/Theodore Kuchar).
+
+          00:49 Fibich: Kvintetto pianolle, klarinetille, käyrätorvelle, viululle ja sellolle D-duuri (Maríán Lapsanský, Ludmila Peterková, Vladimíra Klánská, Jirí Panocha ja Jaroslav Kulhan).
+
+          01:25 Paderewski: Muunnelmia ja fuuga pianolle a-molli (Jonathan Plowrigh).
+
+          01:41 Dvorák: Sinfonia n:o 8 G-duuri (Baltimoren SO/Marin Alsop).
+
+          02:18 Tshaikovski: Jousikvartetto n:o 2 F-duuri (Vermeer-kvartetti).
+
+          02:56 Fuchs: Sinfonia n:o 2 E-duuri (Kölnin radion SO/Karl-Heinz Steffens).
+
+          03:35 Adams: Konsertto alttosaksofonille ja orkesterille (Timothy McAllister ja Saint Louisin SO/ David Robertson).
+
+          04:03 Shostakovitsh: Viulukonsertto n:o 1 a-molli (David Oistrah ja Leningradin FO/Jevgeni Mravinski).
+
+          04:40 W.A. Mozart: Sinfonia concertante Es-duuri (Sidney Sutcliffe, oboe, Bernard Walton, klarinetti, Dennis Brain, käyrätorvi, ja Cecil James, fagotti, sekä Philharmonia-ork./Herbert von Karajan).
+
+          05:16 Marttinen: Sinfonia n:o 1 (RSO/Nils-Eric Fougstedt).
+
+          05:35 de La Rue: Missa Inviolata (The Brabant Ensemble/Stephen Rice).
+
+          06:06 Telemann: Kvintetto puhaltimille ja continuolle D-duuri (Maalaiset) (Carin van Heerden,oboe, ja puhallinyhtye L' Orfeo).
+
+          06:19 Wassenaer: Sonata prima (Trio de l'Oustal).
+
+          06:27 Händel: Hamanin aaria orat. Esther (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).
       - title: Hartaita säveliä
         start_time: '2025-11-14T06:30:50+02:00'
         end_time: '2025-11-14T06:50:00+02:00'
+        description: |+
+          Keskiajalta: Oi Kristus, kirkas aamunkoi (Cetus Noster)
+
+          Vaija (sov. Rautio): Vain yksin Jeesus (Päivi Sini Ristimäki).
+
+          Tuntematon: Pois pelko, Herran kansa! (Sibelius-lukion kamarikuoro/Marjukka Riihimäki, ja Pekka Suikkanen, urut).
+
+          Simojoki: Kuule minun ääneni (Ilta Fuchs, laulu, ja yhtye).
+
       - title: Aamuhartaus
         start_time: '2025-11-14T06:50:00+02:00'
         end_time: '2025-11-14T06:59:59+02:00'
@@ -73,18 +110,20 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-14T10:55:00+02:00'
         end_time: '2025-11-14T11:00:00+02:00'
-      - title: Narrin aamulaulu - Soitin Vainio, 50 vuotta suomalaista jousisoitinhistoriaa
+      - title: Narrin aamulaulu - Erkki Rautio, sellonsoittoa 70 vuotta, osa 1/2
         start_time: '2025-11-14T11:00:00+02:00'
         end_time: '2025-11-14T11:55:00+02:00'
         description: |
-          "Jää iso aukko suomalaiseen jousisoitinkenttään". Näin kuvasivat monet muusikot Soitin Vainion lopettamisuutista viime vuoden lopulla. Ilkka Vainion johtamassa Töölön liikkeessä soittimia ja jousia huollettiin, arvioitiin, rakennettiin, tuotiin maahan ja myytiin. Ilkka Vainion lisäksi Outi Paananen tapasi liikkeen perustajan, 95-vuotiaan Risto Vainion, joka keskittyi eläkkeelle jäätyään jousten rakentamiseen. 
+          Erkki Rautio ei ole päässyt sellostaan eroon, eikä sello Erkki Rautiosta. Sello on soinut Erkki Raution käsissä yli 70 vuotta. Mestarisellistiä puhutti vuonna 2021 Outi Paananen.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-14T11:57:00+02:00'
         end_time: '2025-11-14T12:00:00+02:00'
+        description: |
+          Ote Riina Tanskasen sarjakuvasta Tympeät tytöt - luokkakipuja. (Into, 2025)
       - title: Yle Uutiset ja sää
         start_time: '2025-11-14T12:00:00+02:00'
         end_time: '2025-11-14T12:05:00+02:00'
-      - title: 'Tiedeykkönen: Esiintymisjännityksestä ei tarvitse päästä eroon'
+      - title: 'Tiedeykkönen: Esiintymisjännityksestä ei tarvitse päästä eroon - ramppikuumeella on evolutiivinen selitys'
         start_time: '2025-11-14T12:05:00+02:00'
         end_time: '2025-11-14T12:55:00+02:00'
         description: |+
@@ -156,6 +195,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-14T18:35:00+02:00'
         end_time: '2025-11-14T18:50:00+02:00'
+        description: |+
+          Tuntematon: Kristus, valo maailman (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Sonninen: Laulakaa Jumalalle (Matti Lehtinen, baritoni, ja Pentti Savolainen, urut).
+
+          Mascagni: Ave Maria (Intermezzo oopp. Cavalleria rusticana) (Kathleen Battle, sopraano, Krista Feeney, viulu, Anthony Newman, urut, ja Nancy Allen, harppu/Robert Sadin).
+
+          Krohn: Herramme Jeesuksen Kristuksen armo (Raimo Laukka, baritoni, ja Pertti Eerola, urut). 
+
+          Stebbins: Kiitos sulle, Jumalani (Eve ja Ossi).
+
       - title: Iltahartaus
         start_time: '2025-11-14T18:50:00+02:00'
         end_time: '2025-11-14T19:00:00+02:00'
@@ -187,4 +237,30 @@ data:
         start_time: '2025-11-14T23:40:00+02:00'
         end_time: '2025-11-15T07:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Massenet: Manon, ooppera (Victoria de los Angeles, sopraano, Henri Legay, tenori, Michel Dens, baritoni, Jean Borthayre, basso, René Hérnet, tenori, Jean Vieuille, baritoni, ja Liliane Berton, sopraano, sekä Pariisin Opéra-Comiquen kuoro ja ork./Pierre Monteux). 
+
+          02:25 Cras: Kvintetto harpulle, huilulle, viululle, alttoviululle ja sellolle (Juliette Hurel, Marie-Pierre Langlamet, Philippe Graffin, Miguel da Silva, ja Henri Demarquette).
+
+          02:46 Röntgen: Pianotrio n:o 4 c-molli (Sepp Grotenhuis, piano, Alexander Kerr, viulu, ja Gregor Horsch, sello).
+
+          03:08 Saint-Saëns: Sinfonia n:o 3 c-molli (Urkusinfonia) (Philadelphian ork./Christoph Eschenbach, sekä Olivier Latry, urut).
+
+          03:46 Ligeti: Viulukonsertto (Benjamin Schmid ja RSO/Hannu Lintu).
+
+          04:15 Hüe: Fantasia huilulle ja pianolle (James Galway ja Phillip Moll).
+
+          04:23 Rangström: Spelmansvår (Pelimannin kevät) (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          04:35 Tshaikovski: Muistoja Firenzestä (Borodin-kvartetti, sekä Juri Bashmet, alttoviulu, ja Natalia Gutman, sello).
+
+          05:10 Dvorák: Sellokonsertto h-molli (Arto Noras ja RSO/Sakari Oramo).
+
+          05:52 Schumann: Fünf Gesänge op.137 (Die Singphoniker ja Stuttgartin radion SO:n neljä käyrätorvea).
+
+          06:09 Krommer: Concertino huilulle, oboelle ja orkesterille C-duuri (Günter Rumpel ja André Raoult sekä Camerata Zürich/Ratö Tschupp).
+
+          06:35 Othmayr: Non Argus largus (Piffaro). 
+
+          06:38 J.C. Bach: Kvartetto kahdelle huilulle, viululle ja sellolle C-duuri (Camerata Köln).
+
+          06:55 Handl: Osia kok. Harmoniae morales (1-19) (Singer Pur).
