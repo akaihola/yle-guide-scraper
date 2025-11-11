@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:17.597941+00:00'
+  generated_at: '2025-11-11T02:36:04.652419+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-05T07:05:00+02:00'
         end_time: '2025-12-05T07:59:59+02:00'
+        description: |
+          W.A. Mozart: Aria sarj. puhaltimille oopperan Figaron häät kohtauksista (Mozzafiato).
+
+          Tournier: Au matin, konserttietydi harpulle (Lily Laskine).
+
+          Mendelssohn: Sanaton laulu (Misha Maisky, sello, ja Pavel Gililov, piano).
+
+          Niittykoski (sov. L. Pulakka): Vauhdin hurmaa (Keski-Pohjanmaan Kamariork.).
+
+          Fauré: Nokturni nro 8 Des-duuri (Stéphane Lemelin, piano).
+
+          P. J. Hannikainen: Annin laulu (Ylioppilaskunnan Laulajat/Matti Hyökki).
+
+          Falla (sov. Eden): Aamun kellot (VIDA-kitarakvartetti). 
+
+          Liszt: Konserttietydi n:o 3 Des-duuri (Marc-André Hamelin, piano).
+
+          Saint-Saëns: Dance macabre (Susan Graham, mezzosopraano, ja Malcolm Martineau, piano).
+
+          Tshaikovski: Lumihiutaleiden tanssi bal. Pähkinänsärkijä (New Yorkin FO/Kurt Masur).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-05T08:00:00+02:00'
         end_time: '2025-12-05T08:07:00+02:00'

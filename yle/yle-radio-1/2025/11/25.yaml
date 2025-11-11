@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:15.505626+00:00'
+  generated_at: '2025-11-11T02:36:01.759235+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -18,14 +18,33 @@ data:
       - title: Aamuhartaus
         start_time: '2025-11-25T06:50:00+02:00'
         end_time: '2025-11-25T06:59:59+02:00'
-        description: |-
-          Taiteilija, teologi Limppu Witick, Tampere
+        description: |
+          "Jeesus koiranulkoiluttajana"
+          Taiteilija, teologi Limppu Witick Tampereelta puhuu hartaussarjassaan tunteita herättävistä eläimistä. Tässä hartaudessa kuljetaan lempeydellä ja kärsivällisesti samaa tahtia luomakunnan rinnalla.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-25T07:00:00+02:00'
         end_time: '2025-11-25T07:05:00+02:00'
       - title: Aamusoitto
         start_time: '2025-11-25T07:05:00+02:00'
         end_time: '2025-11-25T07:59:59+02:00'
+        description: |-
+          Copland: Simple gifts bal. Appalachian spring (Empire Brass).
+
+          Popper: Piiritanssi (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Grieg: Norjalainen hääkulkue (Edvard Grieg, piano).
+
+          Gounod: Valentinin rukous "Avant de quitter ces lieux" oopp. Faust (Håkan Hagegård, baritoni, ja Tukholman kuninkaallisen oopperan ork./Carlo Felice Cillario).
+
+          de Falla: Myllärin tanssi bal. Kolmikolkkahattu (Petri Kumela ja Joonas Widenius, kitara).
+
+          Sjögren: Aamukävely (Mats Widlund, piano).
+
+          Tuntematon (sov. Yavnai - Paquito): Improvisaatio teemasta Dona nobis pacem (Paquito D'Rivera, klarinetti, ja Alon Yavnai, piano).
+
+          Cano: Hijo de la luna (Montserrat Caballe, sopraano, Gavin Wright, viulu, Joan Albert Amargos, piano ja Englantilainen kamariorkesteri/Jose Maria Cano).
+
+          Chaminade: La Sévillane (Anthony Goldstone, piano, ja Caroline Clemmow, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-25T08:00:00+02:00'
         end_time: '2025-11-25T08:07:00+02:00'
@@ -38,6 +57,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-25T09:04:00+02:00'
         end_time: '2025-11-25T09:59:00+02:00'
+        description: |-
+          Berlin: Pieni yksinkertainen laulu (Jarkko ja Laura).
+          Leitch: Colours (Donovan).
+          Bacharach: Lento etelään (Anki).
+          Gonzenbach: Io cosi non ci sto (Mariella Farre).
+          Lee: It's so easy (Andy Williams).
+          Williams: Onko syytä itkeä (Annikki Tähti, Onni Gideon).
+          Bowman: Twelfth Street rag (Pee Wee Hunt).
+          Ferrer: Le Sud (Nino Ferrer).
+          Kent: Maailmain (Eero ja Jussi and the Boys).
+          Simone: Mississippi goddam (Nina Simone).
+          Contreras: Ritmo de mi Cuba (Celia Cruz, Sonora Matancera).
+          Viherluoto: Silmät ikkunassa (Pentti Viherluoto, laulu, ja yhtye).
+          Fontana: Aldrig mer (Anna-Lena Löfgren).
+          Bendiksen: Cowboy (Olavi Virta).
+          Jagger/Richards/Oldham: Kyynelhelmet (Kaija Kärkinen & Ile Kallio).
       - title: Sari Valto
         start_time: '2025-11-25T10:00:00+02:00'
         end_time: '2025-11-25T10:55:00+02:00'

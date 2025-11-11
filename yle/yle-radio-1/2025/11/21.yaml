@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:14.649953+00:00'
+  generated_at: '2025-11-11T02:36:00.594029+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-21T07:05:00+02:00'
         end_time: '2025-11-21T07:59:59+02:00'
+        description: |+
+          J.S. Bach: Capriccio (Angela Hewitt, piano).
+
+          Falconieri: Gallarda (Matteo Mela ja Lorenzo Micheli, barokkikitara, sekä Massimo Lonardi, arkkiluuttu).
+
+          Bor: Fuuga kok. Neljä fuugaa pianolle (Clara Rodriguez, piano).
+
+          Suk: Andante con moto serenadista jousille Es-duuri (Orpheus-kamariork.). 
+
+          Rubinstein: Sävelmä F-duuri (Zora Mihailovich, piano).
+
+          C. Romero: Guajiras kuubalainen fantasia (Pepe Romero, kitara). 
+
+          Byström: Allegro vivace sonaatista B-duuri (Tatjana Grindenko, viulu, ja Aleksei Ljubimov, piano).
+
+          Sibelius (sov. Kiiski): Impromptu pianolle E-duuri (Total Cello Ensemble). 
+
+          Bartok (sov. Willner): Romanialaisia kansantansseja (Stuttgartin kamariork./Dennis Russell Davies).
+
+          Dvorák - Kreisler: Slaavilainen tanssi nro 10 e-molli (Vilde Frang, viulu ja Jose Gallardo, piano).
+
+          Hatshaturjan: Nuorten tyttöjen tanssi bal. Gajane (Lontoon Philharmonia-ork./Aram Hatshaturjan).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-21T08:00:00+02:00'
         end_time: '2025-11-21T08:07:00+02:00'
@@ -116,8 +139,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-11-21T18:50:00+02:00'
         end_time: '2025-11-21T19:00:00+02:00'
-        description: |-
-          Teologian tohtori Jouko Heikkinen, Jyväskylä
+        description: |
+          "Kuoleman muistaminen kuuluu hyvään elämään"
+          Marraskuun perjantai-illoissa teologian tohtori Jouko Heikkinen Jyväskylästä puhuu kuolemisen viisaudesta. Tässä hartaudessa puhutaan kuolemaan valmistautumisesta.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-21T19:00:00+02:00'
         end_time: '2025-11-21T19:02:00+02:00'

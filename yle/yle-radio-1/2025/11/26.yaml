@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:15.704704+00:00'
+  generated_at: '2025-11-11T02:36:02.048282+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,26 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-26T07:05:00+02:00'
         end_time: '2025-11-26T07:59:59+02:00'
+        description: |-
+          Sibelius: Andantino sellolle ja pianolle C-duuri (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          Schubert: Saksalainen tanssi D-duuri (Göran Söllscher, kitara).
+
+          Glier: Allegro giocoso konsertosta harpulle ja orkesterille Es-duuri (Claire Jones ja Englantilainen kamariork./Paul Watkins). 
+
+          Brahms: Romanssi F-duuri (Antti Siirala, piano). 
+
+          Peterson-Berger: I furuskogen (Eteläsuomalaisen Osakunnan Laulajat/Teemu Tommola).
+
+          Ponce: Tres canciones populares mexicanas (Kolme meksikolaista kansanlaulua) (John Williams, kitara).
+
+          Delibes: Valse lente bal. Coppélia (Cincinnati Pops/Erich Kunzel).
+
+          Dostal (sov. Merath): Ihr schönen Frau'n oper. Kuningattaren kuriiri (Fritz Wunderlich, tenori, ja Lounais-Saksan radio-ork./Willi Stech).
+
+          Godard: Valssi sarjasta huilulle ja pianolle (Jeffrey Khaner ja Hugh Sung). 
+
+          L. Anderson: Sarabande (Kölnin RO/Pinchas Steinberg).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-26T08:00:00+02:00'
         end_time: '2025-11-26T08:07:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:19.622787+00:00'
+  generated_at: '2025-11-11T02:36:08.168278+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -26,3 +26,166 @@ data:
           äänisuunnittelu: Tiina Luoma ja Juha Siltanen
 
           tuottaja: Soila Valkama
+      - title: Yöklassinen
+        start_time: '2025-12-14T23:40:00+02:00'
+        end_time: '2025-12-15T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2025-12-15T06:30:50+02:00'
+        end_time: '2025-12-15T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2025-12-15T06:50:00+02:00'
+        end_time: '2025-12-15T06:59:59+02:00'
+        description: |-
+          Kouluttajapsykoterapeutti Maaret Kallio, Espoo
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-15T07:00:00+02:00'
+        end_time: '2025-12-15T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2025-12-15T07:05:00+02:00'
+        end_time: '2025-12-15T07:59:59+02:00'
+        description: |-
+          Llobet: Jouluyö (David Russell, kitara).
+
+          Beethoven: Pianotrio B-duuri (Wanderer-trio).
+
+          Koskinen (sov.): Kolmen kuninkaan marssi (Kaartin Seitsikko/Harri Karri).
+
+          Telemann: Triosonaatti nokkahuilulle, viululle ja continuolle C-duuri (Michala Petri, nokkahuilu, Pinchas Zukerman, viulu, Peter Howard, sello, ja Layton James, cembalo).
+
+          Simeone - Onorati - Davis: The little drummer boy (The King's Singers).
+
+          Lalande: Joulusinfonia (Harmonia Nova -ork./Didier Bouture).
+
+          Sibelius: Kuusi (Ralf Gothóni, piano).
+
+          Noack: Tonttu-ukkojen vahtiparaati (Gürzenich-fagottikvintetti).
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-15T08:00:00+02:00'
+        end_time: '2025-12-15T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2025-12-15T08:07:00+02:00'
+        end_time: '2025-12-15T09:00:00+02:00'
+      - title: Yle Uutiset
+        start_time: '2025-12-15T09:00:00+02:00'
+        end_time: '2025-12-15T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2025-12-15T09:04:00+02:00'
+        end_time: '2025-12-15T09:59:00+02:00'
+      - title: Virtasen taloushistoria
+        start_time: '2025-12-15T10:00:00+02:00'
+        end_time: '2025-12-15T10:52:00+02:00'
+        description: |
+          Tarinoita talouden myllerryksistä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-15T10:52:00+02:00'
+        end_time: '2025-12-15T11:00:00+02:00'
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2025-12-15T11:00:00+02:00'
+        end_time: '2025-12-15T11:57:00+02:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2025-12-15T11:57:00+02:00'
+        end_time: '2025-12-15T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-15T12:00:00+02:00'
+        end_time: '2025-12-15T12:05:00+02:00'
+      - title: Elävä historia
+        start_time: '2025-12-15T12:05:00+02:00'
+        end_time: '2025-12-15T12:55:00+02:00'
+        description: |
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-15T12:55:00+02:00'
+        end_time: '2025-12-15T13:00:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-12-15T13:00:00+02:00'
+        end_time: '2025-12-15T13:30:00+02:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2025-12-15T13:30:00+02:00'
+        end_time: '2025-12-15T15:00:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2025-12-15T15:00:00+02:00'
+        end_time: '2025-12-15T15:55:00+02:00'
+        description: |
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2025-12-15T15:55:00+02:00'
+        end_time: '2025-12-15T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-15T16:00:00+02:00'
+        end_time: '2025-12-15T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2025-12-15T16:07:00+02:00'
+        end_time: '2025-12-15T16:59:00+02:00'
+      - title: Uutispodcast
+        start_time: '2025-12-15T17:00:00+02:00'
+        end_time: '2025-12-15T17:20:00+02:00'
+        description: |
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-15T17:20:00+02:00'
+        end_time: '2025-12-15T17:35:00+02:00'
+      - title: 'Keinuva talo - Mika Kauhanen: Kuukauden etnoklassikot: isot kertsit'
+        start_time: '2025-12-15T17:35:00+02:00'
+        end_time: '2025-12-15T18:35:00+02:00'
+        description: |
+          Hyvät etno-kertsit eli kertosäkeistöt kohottavat tunnelman ja kädet ilmaan. Tekee mieli lähteä liikkeelle ja laulaa mukana. 2000-luvun klassikoihin painottuvassa valikoimassa musiikkia maailmalta sekä myöskin koti-Suomesta. Matka alkaa Rääkkylästä ja päättyy ravintolavaunuun! Toimittajana Mika Kauhanen. Uusinta joulukuulta 2023.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2025-12-15T18:35:00+02:00'
+        end_time: '2025-12-15T18:50:00+02:00'
+        description: |
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2025-12-15T18:50:00+02:00'
+        end_time: '2025-12-15T19:00:00+02:00'
+        description: |
+          Tuottaja-toimittaja Mikko Kurenlahti lukee Paavalin kirjeitä
+      - title: Yle Uutiset ja sää
+        start_time: '2025-12-15T19:00:00+02:00'
+        end_time: '2025-12-15T19:02:00+02:00'
+      - title: 'Tosi tarina: Olen jossain'
+        start_time: '2025-12-15T19:02:00+02:00'
+        end_time: '2025-12-15T19:50:00+02:00'
+        description: |
+          Miltä absurdiksi muuttunut, tragikoomisia piirteitä sisältävä arki tuntuu, kun lähimuistia ei enää ole? Todellisia tarinoita: Olen jossain -radiodokumentti avaa oven muistisairaan ihmisen ja hänen läheisensä maailmaan. Toimittaja Tuula Rajavaara on taltioinut elämää muistisairaan äitinsä, Aili Rajavaaran, kanssa ajanjaksolta, jolloin äiti asuu vuoroin kotona ja vuoroin intervalliosastolla. Yhdessä he yrittävät keksiä ratkaisuja yhä oudommaksi muuttuvan arjen hallitsemiseksi.
+
+          Ohjelman toteutus: Tuula Rajavaara, Kai Rantala ja Hannu Karisto. Musiikki: Lauri Wuolio.
+      - title: Musiikkikamari
+        start_time: '2025-12-15T19:35:00+02:00'
+        end_time: '2025-12-15T20:05:00+02:00'
+        description: |2+
+
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-15T19:50:00+02:00'
+        end_time: '2025-12-15T20:05:00+02:00'
+      - title: Ruben Stiller
+        start_time: '2025-12-15T20:05:00+02:00'
+        end_time: '2025-12-15T21:00:00+02:00'
+        description: |-
+          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+      - title: Yksi on hyvää seuraa
+        start_time: '2025-12-15T21:00:00+02:00'
+        end_time: '2025-12-15T21:05:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-12-15T21:05:00+02:00'
+        end_time: '2025-12-15T21:34:30+02:00'
+      - title: Tiedeykkönen
+        start_time: '2025-12-15T21:35:00+02:00'
+        end_time: '2025-12-15T22:24:30+02:00'
+        description: |
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2025-12-15T22:45:00+02:00'
+        end_time: '2025-12-15T23:39:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+      - title: Yöklassinen
+        start_time: '2025-12-15T23:40:00+02:00'
+        end_time: '2025-12-16T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:12.697343+00:00'
+  generated_at: '2025-11-11T02:35:57.582169+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -151,8 +151,12 @@ data:
       - title: 'Kulttuuriykkönen: Tsemppijournalismia vai realismia? Ukrainan sodan uutisoinnin muutokset ja kritiikki Suomessa'
         start_time: '2025-11-12T15:00:00+02:00'
         end_time: '2025-11-12T15:55:00+02:00'
-        description: |
+        description: |-
           Ukrainan sodan uutisoinnissa suomalaisen median tasapaino eri näkökulmien välillä on herättänyt jonkin verran keskustelua ja kritiikkiä. Korostuuko uutisoinnissa liikaa Ukrainan näkökulma? Sorrutaanko tsemppijournalismiin? Käsitelläänkö  Venäjän näkökulmaa ja motiiveja liian yksipuolisesti? Ennen kaikkea pystyykö suomalainen media antamaan realistisen kuvan Ukrainan sodasta ja miten raportointi on muuttunut sodan pitkittyessä?
+
+          Mediakriittiseen keskusteluun Kulttuuriykkösessä osallistuvat Helsingin yliopiston Aleksanteri-instituutin johtaja Markku Kangaspuro, digimedia Uuden jutun päätoimittaja Olli Seuri, Helsingin Sanomain Säätiön rahoituksella aihetta tutkiva tutkijatohtori Joonas Koivukoski sekä pitkän linjan journalisti Reetta Räty.
+
+          Lähetyksen juontaa Nicklas Wancke.
       - title: Yle News
         start_time: '2025-11-12T15:55:00+02:00'
         end_time: '2025-11-12T15:58:00+02:00'
@@ -165,7 +169,7 @@ data:
         start_time: '2025-11-12T16:07:00+02:00'
         end_time: '2025-11-12T16:59:00+02:00'
         description: |
-          J. Strauss (nuor.): Samppanjapolkka (Wienin filharmonikot/Riccardo Muti).
+          J. Strauss, nuor.: Samppanjapolkka (Wienin filharmonikot/Riccardo Muti).
 
           Brahms: Andante un poco adagio sonaatista klarinetille ja pianolle f-molli (Michael Collins ja Michael McHale).
 
@@ -173,22 +177,22 @@ data:
 
           Schubert: Allegro vivace - Trio oktetosta F-duuri (Emma Johnson, klarinetti, Philip Gibbon, fagotti, ja Michael Thompson, käyrätorvi, Chris West, kontrabasso, sekä Carducci Quartet).
 
-          Koechlin: Novembre (Marraskuu) yksinlaulu (Alice Coote, mezzosopraano, ja Graham Johnson, piano). 
+          Koechlin: Novembre (Marraskuu) (Alice Coote, mezzosopraano, ja Graham Johnson, piano). 
 
           Saint-Säens: Allegro appassionato cis-molli (Alexandre Kantorow, piano, ja Tapiola Sinfonietta/Jean-Jacques Kantorow). 
 
-          Widor: Moderato sarjasta huilulle ja pianolle op.34 (Marina Piccinini, huilu, ja Anne Epperson, piano).
+          Widor: Moderato sarj. huilulle ja pianolle op.34 (Marina Piccinini ja Anne Epperson).
 
           Debussy: Aaltojen leikkiä teoksesta La Mer (Chicagon SO/Daniel Barenboim).
 
-          R. Clarke: Chorus from Hellas (Choir of Gonville and Caius College, Cambridge/Geoffrey Webber).
+          R. Clarke: Chorus from Hellas (Choir of Gonville and Caius College/Geoffrey Webber).
 
           Beach: A mirage (Emma Kirkby, sopraano, ja The Romantic Chamber Group of London).
       - title: Uutispodcast
         start_time: '2025-11-12T17:00:00+02:00'
         end_time: '2025-11-12T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Yleisradioyhtiö BBC on kohun keskellä Isossa-Britanniassa. Millaista valtataistelua siitä käydään? Millainen rooli sillä on monarkiassa tiedonvälittäjänä? Atte Uusinokan haastateltavana Ylen Britannian-kirjeenvaihtaja Kirsi Crowley.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-12T17:20:00+02:00'
         end_time: '2025-11-12T17:35:00+02:00'
@@ -235,7 +239,7 @@ data:
         end_time: '2025-11-12T22:25:00+02:00'
       - title: 'Radioteatteri esittää: Luutnantin sydän, osa 2/3'
         start_time: '2025-11-12T22:26:00+02:00'
-        end_time: '2025-11-12T23:05:00+02:00'
+        end_time: '2025-11-12T23:08:12+02:00'
         description: |
           Luutnantin sydän on vanhanaikainen komedia ajasta, jolloin kunnia vielä oli kunniaa ja komediatkin komedioita. Tässä tarinassa seikkailevat reippaat tarkka-ampujat, vilpittömät nuoret, ahneet ukot ja viisaat naiset. Lopulta saavat tuli, maa, vesi ja ilmakin kyytiä niin kuin vain vuoden 1894 Hämeenlinnassa ne voivat saada.
 
@@ -245,8 +249,8 @@ data:
           Äänisuunnittelu: Tiina Luoma ja Juha Siltanen
           Tuottajat: Eero Aro, äänitystuottaja 2007. Soila Valkama, Yle Draama 2018.
       - title: 'Kairossa kadonnut J5: Kuolleiden kirja'
-        start_time: '2025-11-12T23:15:00+02:00'
-        end_time: '2025-11-12T23:39:00+02:00'
+        start_time: '2025-11-12T23:09:00+02:00'
+        end_time: '2025-11-12T23:27:41+02:00'
         description: |-
           Lasse Kekki tiesi olemassa olevat riskit, mutta halusi lähteä Egyptiin siitä huolimatta. Poistuiko Lasse itse hotellista, ja jos poistui, mihin hän suuntasi? Aavikolle vai kaupunkiin? Ajautuiko hän uhkaavaan tilanteeseen? Vai tuliko hänen huoneeseen kutsumattomia vieraita? Mutta mitä tapahtuu, kun tarina jää kesken? Kohtaamme vain tunteet, mutta mitä jää varjoihin?
       - title: Yöklassinen

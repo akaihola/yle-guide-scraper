@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:19.081993+00:00'
+  generated_at: '2025-11-11T02:36:06.878622+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-12T07:05:00+02:00'
         end_time: '2025-12-12T07:59:59+02:00'
+        description: |-
+          Vivaldi: Allegro konsertosta neljälle viululle, jousille ja continuolle D-duuri (I Musici/Maria Teresa Garatti).
+
+          Debussy: Balladi pianolle (Anna Kuvaja).
+
+          Miolin (sov.): Fantasia kahdesta joululaulusta (Anders Miolin, 13-kielinen kitara).
+
+          Liszt: Adeste fideles (Nyt riemuiten tänne) sarjasta Weihnachtsbaum (Joulupuu) (Roland Pöntinen, piano).
+
+          Prokofjev: Preludi C-duuri (Gwyneth Wentink, harppu).
+
+          Yared: Sävelmä elokuvasta Englantilainen potilas (Martin-in-the-Fields -kamariork./Harry Rabinowitz).
+
+          Cottrau (sov.  Sandström): Sankta Lucia (Luciakören/Jannike Sandström, ja Henrik Wikström, piano).
+
+          Bonis: Aamu (Mark Gothóni, viulu, Peter Hörr, sello, ja Paul Rivinius, piano).
+
+          Silvestri: A Christmas carol elok. Saiturin joulu (Kuoro ja ork.).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-12T08:00:00+02:00'
         end_time: '2025-12-12T08:07:00+02:00'
@@ -73,6 +91,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-12T11:57:00+02:00'
         end_time: '2025-12-12T12:00:00+02:00'
+        description: |-
+          Riikka Ulannon Pakko saada joku tänne -kokoelman runo.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-12T12:00:00+02:00'
         end_time: '2025-12-12T12:05:00+02:00'

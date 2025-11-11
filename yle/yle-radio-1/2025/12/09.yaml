@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:18.468994+00:00'
+  generated_at: '2025-11-11T02:36:06.031316+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,24 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-09T07:05:00+02:00'
         end_time: '2025-12-09T07:59:59+02:00'
+        description: |-
+          Anton Rubinstein: Barcarolle G-duuri (Zora Mihailovich, piano).
+
+          Willis: It came upon the midnight clear (London Brass/Roger Harvey).
+
+          I. Kuusisto: Tule hiutale (Juho Punkeri, tenori, ja Tuula Hällström, piano).
+
+          Chopin - Rossini: Muunnelmia Rossinin Tuhkimo-oopperan teemasta (Tapio Jalas, huilu, ja Ilkka Paananen, piano).
+
+          Tuntematon (1500-luvulta): Good King Wenceslas (Kanadalainen vaskiyhtye). 
+
+          Melartin: Menuetti (Martti Rousi, sello, ja Juhani Lagerspetz, piano).
+
+          Dvorák: Vanha kirje kirjan välissä sarj. Sypressejä (Emerson-kvartetti).
+
+          Styne: Let it snow (EMO Ensemble/Pasi Hyökki). 
+
+          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (Boston Pops/Arthur Fiedler).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-09T08:00:00+02:00'
         end_time: '2025-12-09T08:07:00+02:00'
@@ -70,6 +88,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-09T11:57:00+02:00'
         end_time: '2025-12-09T12:00:00+02:00'
+        description: |-
+          Runo Silja Järventaustan Vuorosana pihapiirissä -kokoelmasta.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-09T12:00:00+02:00'
         end_time: '2025-12-09T12:05:00+02:00'
@@ -114,6 +134,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-09T17:20:00+02:00'
         end_time: '2025-12-09T17:35:00+02:00'
+        description: |2+
+
       - title: Kissankehto - Susanna Vainiola
         start_time: '2025-12-09T17:35:00+02:00'
         end_time: '2025-12-09T18:30:00+02:00'

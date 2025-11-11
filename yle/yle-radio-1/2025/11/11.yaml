@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-09T02:36:12.468617+00:00'
+  generated_at: '2025-11-11T02:35:57.263097+00:00'
   git:
     branch: main
-    commit: c869b4cbea98a9c07278b70fdac6099db689c73d
-  data_hash: d7e7f2423862574e4600d1bb7baf7be8ef253788bee83f1414f3ec383cbc434e
+    commit: be3d7a2df361826612ce307bc735c5644b2007b1
+  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
 data:
   Yle Radio 1:
     programmes:
@@ -170,16 +170,23 @@ data:
       - title: Politiikkaradio
         start_time: '2025-11-11T13:00:00+02:00'
         end_time: '2025-11-11T13:30:00+02:00'
+        description: |
+          Miten eläkejärjestelmää pitäisi uudistaa? Keskustelemassa Makrotaloustieteen professori Niku Määttänen, Eläketurvakeskuksen toimitusjohtaja Mikko Kautto ja Telan johtaja Jari Sokka. Toimittajana on Linda Pelkonen.
       - title: Radio 1:n iltapäivä
         start_time: '2025-11-11T13:30:00+02:00'
         end_time: '2025-11-11T15:00:00+02:00'
         description: |
           Monipuolinen musiikkikattaus kevyestä jazzista etnoon ja popularimusiikkiin. Miia Lahti juontaa. N. klo 14 studioon tulee vieraaksi audiovisuaalisen kulttuurin professori Ilona Hongisto. Miia Lahti juontaa. N. klo 14:30 Kielen päällä. Toimittajana Jari Aula
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kansanusko ei ole kadonnut, vanhojen puiden ja paikkojen pyhyys on yhä tunnistettavissa'
         start_time: '2025-11-11T15:00:00+02:00'
         end_time: '2025-11-11T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Monen sydänalaa riipii kun vanhoja puita ja ikimetsiä kaadetaan surutta. Kansanperinteessä puita on kunnioitettu, ne ovat suojanneet taloja ja niiden kaataminen on merkinnyt talonväelle huonoja aikoja, jopa kuolemaa. 
+
+          Eivätkä vain puut, vaan myös monet muut luonnonmuodostelmat kuten lähteet ja kivet ovat olleet monelle suomalaiselle pyhiä paikkoja. 
+
+          Kulttuuriykkösen vieraina ovat tietokirjailija Reetta Ranta, folkloristiikan tohtori John Björkman sekä maantieteen tohtori Kaisa Vainio (etä).
+
       - title: Yle News
         start_time: '2025-11-11T15:55:00+02:00'
         end_time: '2025-11-11T15:58:00+02:00'
@@ -215,7 +222,7 @@ data:
         start_time: '2025-11-11T17:00:00+02:00'
         end_time: '2025-11-11T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Millainen poliittinen vääntö tunnin junasta on käyty? Voiko vielä koko homma kaatua yksittäisen kunnan vastustukseen? Reetta Röngän vieraana Turun Sanomien politiikan tuottaja Jenni Lepänrinne. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-11T17:20:00+02:00'
         end_time: '2025-11-11T17:35:00+02:00'
@@ -255,8 +262,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-11-11T18:50:00+02:00'
         end_time: '2025-11-11T19:00:00+02:00'
-        description: |-
-          Pastori, Metodistikirkko, Veli Loponen, Helsinki
+        description: |
+          "Mihin nykyihminen tarvitsisi Jeesusta?"
+          Pastori Veli Loponen, Metodistikirkko, Helsingistä puhuu synnin moniulotteisuudesta ja kysyy: mitä nykyajan ihmisellä olisi tarve kuulla kristinuskon näkökulmasta?
       - title: Yle Uutiset ja sää
         start_time: '2025-11-11T19:00:00+02:00'
         end_time: '2025-11-11T19:02:00+02:00'
@@ -276,11 +284,11 @@ data:
         end_time: '2025-11-11T20:20:00+02:00'
         description: |-
           Kirjailija Leena Lehtolainen on intohimoinen taitoluistelufani, on ollut pikkutytöstä asti. Hän istuu kisakatsomoissa kymmeniä tunteja vuodessa. Taitoluistelu on taiteen ja urheilun yhdistelmä, ja se viehättää, Lehtolainen kuvailee. Kirjailijan kanssa jäähallissa notkuu Maija Salminen. 
-      - title: Romano mirits
+      - title: 'Romano mirits: Lapsuuden unelmasta ammatiksi: Henri M. Bollström'
         start_time: '2025-11-11T20:20:00+02:00'
         end_time: '2025-11-11T20:35:00+02:00'
         description: |
-          Ajankohtaista asiaa romaneista.
+          Hevoset ovat olleet osa Henri M. Bollströmin elämää lapsuudesta asti, ja rakkaus lajiin vei lopulta ammattiin saakka. Nyt hän pyörittää omaa valmennustallia Vermossa, jossa arki kuluu hevosten, valmennuksen ja hyvän fiiliksen merkeissä. Toimittajana on Dimitri Grönfors.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-11-11T20:35:00+02:00'
         end_time: '2025-11-11T21:00:00+02:00'
@@ -309,7 +317,7 @@ data:
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: 'Maailman paras Tarja Turunen: I love you, Tarja!'
         start_time: '2025-11-11T22:30:00+02:00'
-        end_time: '2025-11-11T23:16:00+02:00'
+        end_time: '2025-11-11T23:12:08+02:00'
         description: |-
           Nyt on aika nähdä Tarja lavalla. Tallinnassa käynnistyy Tarjan ja entisen Nightwish-kollegan Marko Hietalan yhteiskiertue. Ensin juodaan kahvit keikkabussissa ja jutellaan viimeisen kerran Tarjan kanssa. 
       - title: Yöklassinen
