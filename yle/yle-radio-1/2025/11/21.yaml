@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-11T02:36:00.594029+00:00'
+  generated_at: '2025-11-12T02:35:48.414428+00:00'
   git:
     branch: main
-    commit: be3d7a2df361826612ce307bc735c5644b2007b1
-  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
+    commit: 3b2e2bb8f8718cf39028884644da20a22d6df904
+  data_hash: 8f2163652b0b2bb182a06fa75eaafb74594074e39b751e7fd517067a3248cbdc
 data:
   Yle Radio 1:
     programmes:
@@ -11,10 +11,41 @@ data:
         start_time: '2025-11-21T00:00:00+02:00'
         end_time: '2025-11-21T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Saint-Saëns: Sonaatti sellolle ja pianolle n:o 2 F-duuri (Maria Kliegel ja Francois-Joel Thiollier).
+
+          00:33 Händel: Alpestre monte, kantaatti (Yetzabel Arias Fernandez, sopraano, ja La Risonanza/Fabio Bonizzoni).
+
+          00:46 Beethoven: Missa solemnis (Sylvia McNair, sopraano, Janice Taylor, mezzosopraano, John Aler, tenori, Tom Krause, baritoni, Atlantan sinfoniakuoro ja Atlantan SO/Robert Shaw).
+
+          02:08 Ferlendis: Konsertto oboelle F-duuri (Burkhard Glaetzner, oboe, ja C.P.E. Bach -kamariork./Hartmut Haenchen).
+
+          02:23 Castelnuovo-Tedesco: Fantasia kitaralle ja pianolle (Leonard Becker ja Clara Isabella Siegle).
+
+          02:33 Sjögren: Sonaatti viululle ja pianolle n:o 2 e-molli. (Leo Berlin ja Lars Sellegren).
+
+          03:02 Rossini: Alkusoitto oopp. Varasteleva harakka (Atlantan SO/Yoel Levi).
+
+          03:13 W.A. Mozart: Pianosonaatti n:o 2 F-duuri (Friedrich Gulda).
+
+          03:32 Bartók: Jousikvartetto n:o 6 (Juilliard-kvartetti).
+
+          04:02 Liszt: Kuusi unkarilaista rapsodiaa orkesterille (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:08 Visée: Kappaleita teorbille G-duuri (Fred Jacobs).
+
+          05:22 Barokkimusiikkia Alankomaista, säv. Kempis, Huygens, Norcombe, Hove, Eyck (Marion Verbruggen, nokkahuilut, ja The Newberry Consort). 
       - title: Hartaita säveliä
         start_time: '2025-11-21T06:30:50+02:00'
         end_time: '2025-11-21T06:50:00+02:00'
+        description: |+
+          Salumäe: Elämä on meri (RKK/Timo Nuoranne, ja Pertti Eerola, urut).
+
+          O. Lindberg: Gammal fäbodpsalm från Dalarna (Markku Lepistö, harmonikka, ja Mikko Helenius, urut).
+
+          Koraalitoisinto: Mitä silloin multa puuttuu (Jorma Hynninen, baritoni, ja Pertti Eerola, urut).
+
+          Ahnfelt: Päivä vain ja hetki kerrallansa (Eve ja Ossi).
+
       - title: Aamuhartaus
         start_time: '2025-11-21T06:50:00+02:00'
         end_time: '2025-11-21T06:59:59+02:00'
@@ -82,6 +113,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-21T11:57:00+02:00'
         end_time: '2025-11-21T12:00:00+02:00'
+        description: |-
+          Inuiittiruno Yhä uudelleen ajattelen. Tekijä tuntematon, suomennos Hannu Launonen ja Lassi Saastamoinen. Kokoelmasta Maailman runosydän WSOY 1998.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-21T12:00:00+02:00'
         end_time: '2025-11-21T12:05:00+02:00'
@@ -136,6 +169,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-21T18:35:00+02:00'
         end_time: '2025-11-21T18:50:00+02:00'
+        description: |+
+          Valtonen: Virta (Gospel Covertajat ja Tulus-kuoro/Esa Jaakkola).
+
+          Simojoki: Enkelten leipää (Markus Bäckman ja yhtye).
+
+          M. Redman - B. Redman: Ylistetty oot (Sakari Heikkilä).
+
       - title: Iltahartaus
         start_time: '2025-11-21T18:50:00+02:00'
         end_time: '2025-11-21T19:00:00+02:00'
@@ -170,4 +210,28 @@ data:
         start_time: '2025-11-21T23:40:00+02:00'
         end_time: '2025-11-22T07:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Tshaikovski: Patarouva, ooppera (Vladimir Atlantov, tenori, Mirella Freni, sopraano, Sergei Leiferkus, baritoni, Maureen Forrester, altto, Dmitri Hvorostovski, baritoni, Katherine Ciesinski, mezzosopraano, Dominique Labelle, sopraano,  Janis Taylor, mezzosopraano, Ernesto Gavazzi,  tenori ym. sekä Tanglewoodin musiikkijuhlien kuoro, amerikkalainen poikakuoro ja Bostonin SO/Seiji Ozawa).
+
+          02:20 Sibelius: Nokturno näyt. Kuningas Kristian II (RSO/Neeme Järvi).
+
+          02:27 W.A. Mozart: Pianosonaatti n:o 8 a-molli (Wilhelm Kempff).
+
+          02:44 Poulenc: Sekstetto pianolle ja puhallinkvintetille (Lincoln Centerin kamariyhtye).
+
+          03:03 Hensel: Das Jahr (Vuosi), pianosarja (Lauma Skride).
+
+          03:53 Britten: Soirées musicales (Musikaalisia iltahetkiä). (Radio viihdeork./Paavo Berglund).
+
+          04:05 Arcas: Fantasia oopp. La Traviata teemoista (David Russell, kitara).
+
+          04:12 Arriaga: Jousikvartetto n:o 3 Es-duuri (Guarneri-kvartetti). 
+
+          04:39 Massenet: Le Carillon, baletti (Lontoon kansallinen FO/Richard Bonynge).
+
+          05:19 Brahms: Kvintetto pianolle ja jousille f-molli. (Eva Bernáthová ja Janácek-kvartetti).
+
+          06:01 Mendelssohn: Konserttikappale n:o 1 f-molli (Leopold Wlach, klarinetti, Franz Bartosek, basettitorvi, ja Jörg Demus, piano).
+
+          06:10 Zelenka: Sonaatti kahdelle oboelle, fagotille ja continuolle n:o 6 c-molli (Burkhard Glaetzner ja Ingo Goritzki, oboe, Knut Sönstevold, fagotti, Siegfried Pank, viola da gamba, Achim Beyer, violone, ja Walter Heinz Bernstein, cembalo).
+
+          06:27 Musiikkia keskiaikaisiin pitoihin, säv. Jacopo da Bologna, Landini, Ciconia ym. (The Newberry Consort/Mary Springfels).

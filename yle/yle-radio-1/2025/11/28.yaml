@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-11T02:36:02.641121+00:00'
+  generated_at: '2025-11-12T02:35:51.204773+00:00'
   git:
     branch: main
-    commit: be3d7a2df361826612ce307bc735c5644b2007b1
-  data_hash: 2e3218271150cfc1ded835d19e156042db4f152d9d926f166f378c8d0221919a
+    commit: 3b2e2bb8f8718cf39028884644da20a22d6df904
+  data_hash: 8f2163652b0b2bb182a06fa75eaafb74594074e39b751e7fd517067a3248cbdc
 data:
   Yle Radio 1:
     programmes:
@@ -30,7 +30,25 @@ data:
         start_time: '2025-11-28T00:00:00+02:00'
         end_time: '2025-11-28T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Fesca: Septetto n:o 1 c-molli op.26 (Suuri septetto) (Linos-yhtye).
+
+          00:37 Schreker: Romantische Suite (Romanttinen sarja) (BBC:n FO/Vasili Sinaiski).
+
+          01:06 Beethoven: Sonaatit viululle ja pianolle n:o 3 Es-duuri, n:o 5 F-duuri (Kevät) ja n:o 9 A-duuri (Kreutzer) (Leonid Kogan, viulu ja Emil Gilels, piano).
+
+          02:20 Händel: Sarja cembalolle n:o 4 e-molli (Lisa Smirnova, piano).
+
+          02:35 Schmidt: Sinfonia n:o 2 Es-duuri (Wienin filharmonikot/Semjon Bytshkov).
+
+          03:25 J.C.F. Bach: Kassandra, kantaatti (Lena Susanne Norin, altto, ja Das Kleine Konzert/Hermann Max).
+
+          04:23 J.S. Bach: Sonaatti C-duuri (Heiko ter Schegget, nokkahuilu, ja Zvi Meniker, cembalo).
+
+          04:39 Lalo: Jousikvartetto Es-duuri (Pariisin jousikvartetti).
+
+          05:06 Pandolfi: Sonaatit viululle ja continuolle n:ot 1-6 op.3 ja op.4 (Andrew Manze, viulu, ja Richard Egarr, cembalo).
+
+          06:27 J.S. Bach: Tänne Jeesus tulimme (Fernando Germani, urut).
       - title: Hartaita säveliä
         start_time: '2025-11-28T06:30:50+02:00'
         end_time: '2025-11-28T06:50:00+02:00'
@@ -89,6 +107,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-28T11:57:00+02:00'
         end_time: '2025-11-28T12:00:00+02:00'
+        description: |-
+          Ote Uno Harvan kirjasta Suomalaisten muinaisusko, SKS, 2.uudistettu laitos, 2018 (alkup. WSOY 1948).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-28T12:00:00+02:00'
         end_time: '2025-11-28T12:05:00+02:00'
@@ -125,7 +145,7 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-11-28T16:07:00+02:00'
         end_time: '2025-11-28T16:59:00+02:00'
-        description: |-
+        description: |
           J. Haydn: Menuetti sinfoniasta n:o 85 (Kuningatar) (Handel and Haydn Society Orchestra/Harry Christophers). 
 
           Bizet: Nadirin ja Zurgan duetto "Au fond du temple saint" oopp. Les pêcheurs de perles (Helmenkalastajat) (Jussi Björling, tenori, ja Robert Merrill, baritoni, sekä RCA Victor -sinfoniaork./Renato Cellini).
@@ -138,11 +158,11 @@ data:
 
           Fauré: In Paradisum Requiemistä (Cambridgen King's Collegen kuoro/Stephen Cleobury, ja Douglas Tang, urut). 
 
-          Beethoven: Adagio un poco moto konsertosta pianolle n:o 5 Es-duuri (Yefim Bronfman ja Zürichin Tonhalle-ork./David Zinman). 
+          Beethoven: Adagio un poco moto konsertosta pianolle ja orkesterille n:o 5 Es-duuri (Yefim Bronfman ja Zürichin Tonhalle-ork./David Zinman). 
 
           De Curtis: Torna a Surriento (Jose Carreras, tenori, ja Englantilainen kamariork./Edoardo Müller)
 
-          J. Strauss: Tonava kaunoinen (Cincinnati Pops/Erich Kunzel).
+          J. Strauss, nuor.: Tonava kaunoinen (Cincinnati Pops/Erich Kunzel).
       - title: Uutispodcast
         start_time: '2025-11-28T17:00:00+02:00'
         end_time: '2025-11-28T17:20:00+02:00'
