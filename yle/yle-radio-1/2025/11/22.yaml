@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-12T02:35:48.749828+00:00'
+  generated_at: '2025-11-13T02:36:35.521243+00:00'
   git:
     branch: main
-    commit: 3b2e2bb8f8718cf39028884644da20a22d6df904
-  data_hash: 8f2163652b0b2bb182a06fa75eaafb74594074e39b751e7fd517067a3248cbdc
+    commit: 4f82d22dc07f05cb7284a929ef1c5f99f22a8311
+  data_hash: fcc518f0b8d3fc470e56db0b67c15c83f96c129f26de552cd812c438c34e0e55
 data:
   Yle Radio 1:
     programmes:
@@ -109,7 +109,7 @@ data:
         start_time: '2025-11-22T13:00:00+02:00'
         end_time: '2025-11-22T13:55:00+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Näistä levyistä en luovu -ohjelmassa vieraana on tänä vuonna 70-vuotissyntymäpäiväänsä juhliva säveltäjä, kapellimestari ja harmonikkataiteilija Timo-Juhani Kyllönen. Tällä kertaa päästään tanssimaan monen eri musiikin tahdissa. Kyllönen esittelee myös omien teostensa syntyhistoriaa, eri maista saatuja vaikutteita sekä säveltäjäesikuviaan. Toimittajana on Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-22T13:55:00+02:00'
         end_time: '2025-11-22T14:00:00+02:00'
@@ -185,9 +185,8 @@ data:
       - title: 'Marko Gustafsson: Vieraana kirjailija Emmi Itäranta'
         start_time: '2025-11-22T17:00:00+02:00'
         end_time: '2025-11-22T17:50:00+02:00'
-        description: |
+        description: |-
           “Silloin kun kirjoittaminen kulkee, en haluaisi tehdä yhtään mitään muuta kuin kirjoittaa”,  Emmi Itäranta naurahtaa.  Hän on omien sanojensa mukaan uppoutuja, joka unohtaa syödä ja nukkua ja kirjoittamisen maailmasta itsensä pois kiskominen voi olla varsin työlästä. Nykyään hän tiedostaa, että lepohetki on hyväksi myös paitsi kirjailijalle niin myös kirjalle.
-          “Olen kokenut yhden vakavan työuupumuksen ja sen myötä olen onneksi ymmärtänyt, etten enää vaadi itseltäni liikaa ja tiedostan, että työnkin kannalta palautuminen on tärkeää ”, Emmi toteaa.
       - title: 'Ehtookellot: Helsingin Kallion kirkon kellot'
         start_time: '2025-11-22T18:00:00+02:00'
         end_time: '2025-11-22T18:01:00+02:00'
