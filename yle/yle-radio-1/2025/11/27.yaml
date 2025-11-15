@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-13T02:36:37.126522+00:00'
+  generated_at: '2025-11-15T02:33:43.494484+00:00'
   git:
     branch: main
-    commit: 4f82d22dc07f05cb7284a929ef1c5f99f22a8311
-  data_hash: fcc518f0b8d3fc470e56db0b67c15c83f96c129f26de552cd812c438c34e0e55
+    commit: 6c36d78c3760d79fb9790322071fe243b530ebe4
+  data_hash: f468bc56950566599830f59103c3c755846762f575d0c0976b899a8b71325873
 data:
   Yle Radio 1:
     programmes:
@@ -70,24 +70,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-27T07:05:00+02:00'
         end_time: '2025-11-27T07:59:59+02:00'
-        description: |-
+        description: |+
           Manfredini: Konsertto kahdelle trumpetille, jousille ja continuolle D-duuri (Ludwig Güttler ja Kurt Sandau sekä Berliinin kamariork./Max Pommer).
 
           Metner: Canzona serenata (Marc-André Hamelin, piano).
 
-          Faure: Apres un reve (Unen jälkeen) (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
+          Fauré: Apres un reve (Unen jälkeen) (Yo-Yo Ma, sello, ja Kathryn Stott, piano). 
 
           Bochsa: Air irlandais konsertosta harpulle, huilulle ja jousiorkesterille (Lily Laskine, harppu, ja Jean-Francois Paillard -kamariork./Jean-Francois Paillard).
 
-          F. Couperin: Herätyskello (Angela Hewitt, piano).
+          Prokofjev: Sadun loppu bal. Tuhkimo (Skotlannin kansallisork./Neeme Järvi).
+
+          F. Couperin: Le réveil-matin (Herätyskello) (Angela Hewitt, piano).
 
           O. Lindberg: Morgonen (Aamu) (Ruotsin radiokuoron ja Eric Ericsonin kamarikuoron naislaulajat/Gustaf Sjökvist, sekä Maria Wieslander, piano).
+
+          Ravel: Alborada del gracioso (Narrin aamulaulu) sarj. Miroirs (Kuvajaisia) (Dinu Lipatti, piano).
 
           Dvorak: Allegro appassionato sarjasta Romanttisia kappaleita op.75 (Isaac Stern, viulu, ja Robert McDonald, piano).
 
           V. Hannikainen: Osia bal. Onnen linna. (RO/Nils-Eric Fougstedt).
 
           Benjamin - S. Joplin: Bowing music oopperan Treemonisha teemoista (The Paragon Ragtime Orchestra and Singers/Rick Benjamin).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-27T08:00:00+02:00'
         end_time: '2025-11-27T08:07:00+02:00'
@@ -100,6 +105,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-27T09:04:00+02:00'
         end_time: '2025-11-27T09:59:00+02:00'
+        description: |-
+          Porter: I've got you under my skin (Frank Sinatra).
+          Hendricks: Armaani sä silloin oisit (Wiola Talvikki).
+          Tevez: Como te extrano mi amor (Leo Dan).
+          Ellington: In a sentimental mood (Duke Ellington).
+          Karjalainen: Brando soitti congarumpuja (J. Karjalainen & Mustat Lasit).
+          Gainsbourg: Bonnie and Clyde (Serge Gainsbourg ja Brigitte Bardot).
+          Ian: Talven tullen (Virve Rosti).
+          Tiomkin: Friendly persuasion (Thee I love) (Pat Boone).
+          Howard: Med andra ord (Monica Zetterlund).
+          Sylvain: Linnunrata (Laila Halme).
+          Christophe: Aline (Christophe).
+          Gaudio/Crewe: Bye bye baby (Bay City Rollers).
+          Parra: Kun palaan nuoruuteeni (Liisa Tavi).
+          Chapman: Fast car (Tracy Chapman).
       - title: 'Marko Gustafsson: Vieraana näyttelijä, käsikirjoittaja ja ohjaaja Kati Outinen'
         start_time: '2025-11-27T10:00:00+02:00'
         end_time: '2025-11-27T10:50:00+02:00'
@@ -154,6 +174,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-11-27T16:07:00+02:00'
         end_time: '2025-11-27T16:59:00+02:00'
+        description: |-
+          Keiser: Sinfonia oopp. Naurettava prinssi Jodelet (Akademie für Alte Musik Berlin).
+
+          Adam: Posteljooni Chapeloun aaria oopp. Longjumeaun posteljooni (William Matteuzzi, tenori, Roland Wood, baritoni, sekä Geoffrey Mitchell -kuoro ja St. Martin-in-the-Fields -kamariork./David Parry).
+
+          Rautavaara: Adagio Divertimentosta jousiorkesterille (Mikkelin KO/Jose Serebrier). 
+
+          Ravel: Don Quichotte à Dulcinée (Matti Lehtinen, baritoni, ja Kauko Kuosma, piano).
+
+          Wolf: Italialainen serenadi G-duuri (Juilliard-kvartetti).
+
+          Madetoja: Vanha luostari (Kaisa Ranta, sopraano sekä Tapiolan Kamarikuoro/Hannu Norjanen).
+
+          Bowen: Humoresque (Humoreski) (Chloe Hanslip, viulu, ja Danny Driver, piano).
+
+          Kodály: Közjatek (Intermezzo) orkesterisarj. Háry János (Budapestin musiikkijuhlien ork./Iván Fischer).
+
+          Beach: Rendezvous (Kohtaaminen) (Emma Kirkby, sopraano, James Lisney, piano, ja Paul Barritt, viulu).
+
+          Falla: Jota (Aale Lindgren, oboe, ja Jyrki Myllärinen, kitara).
       - title: Uutispodcast
         start_time: '2025-11-27T17:00:00+02:00'
         end_time: '2025-11-27T17:20:00+02:00'
@@ -186,6 +226,8 @@ data:
       - title: Etnokonsertteja
         start_time: '2025-11-27T19:02:00+02:00'
         end_time: '2025-11-27T21:00:00+02:00'
+        description: |
+          Etnokonsertti: Emilia Lajunen & Eero Grundström, Huippu ja Kimmo Pohjonen Kaustisella
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-27T21:00:00+02:00'
         end_time: '2025-11-27T21:05:00+02:00'

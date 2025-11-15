@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-13T02:36:35.808305+00:00'
+  generated_at: '2025-11-15T02:33:42.493754+00:00'
   git:
     branch: main
-    commit: 4f82d22dc07f05cb7284a929ef1c5f99f22a8311
-  data_hash: fcc518f0b8d3fc470e56db0b67c15c83f96c129f26de552cd812c438c34e0e55
+    commit: 6c36d78c3760d79fb9790322071fe243b530ebe4
+  data_hash: f468bc56950566599830f59103c3c755846762f575d0c0976b899a8b71325873
 data:
   Yle Radio 1:
     programmes:
@@ -73,18 +73,34 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-23T11:00:00+02:00'
         end_time: '2025-11-23T11:59:00+02:00'
+        description: |
+          Rodrigo: Näkemiin (Seija Simola).
+          Valdes: Die Senoritas von San Salvador (Caterina Valente).
+          Aufray: Es wird Nacht, Senorita (Udo Jürgens).
+          Hollaender: Illusions (Marlene Dietrich).
+          Bacharach: Magic moments (Perry Como).
+          Bacharach: Walk on by (Dionne Warwick).
+          Bacharach: Nein, ich verliebe mich nie mehr (Gitte).
+          Schertzinger: I remember you (The Four Freshmen).
+          Fagen: Maxine (Donald Fagen).
+          Kärki: Vanhan veräjän luona (Panu Savolainen Toivo).
+          Brave: Tulenliekki (Eila Pienimäki).
+          Carter Cash: Ring of fire (June Carter Cash).
+          Clark: Desperados waiting for the train (Highwaymen).
+          Goodman: City of New Orleans (Steve Goodman).
+          Strayhorn: Take the 'A' train (Ella Fitzgerald).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-23T12:00:00+02:00'
         end_time: '2025-11-23T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Myrkkytynnyrit hävitettiin 1970-luvulla mereen upottamalla - suomalaisten ympäristörikosten historia'
         start_time: '2025-11-23T12:05:00+02:00'
         end_time: '2025-11-23T12:55:00+02:00'
         description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Ympäristöä koskevat arvot ja asenteet ovat muuttuneet Suomessa näyttävästi vuosikymmenten aikana. Vielä 1960-luvulla teollisuuden jätevedet laskettiin suoraan järviin ja merien käyttäminen kaatopaikkoina oli täysin sallittua. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-23T12:55:00+02:00'
         end_time: '2025-11-23T13:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Luovuuden kaaret'
         start_time: '2025-11-23T13:00:00+02:00'
         end_time: '2025-11-23T13:57:00+02:00'
         description: |
@@ -159,7 +175,7 @@ data:
           Toimittajana...
       - title: Jumalanpalvelus Kotkan Vapaaseurakunnasta
         start_time: '2025-11-23T20:00:00+02:00'
-        end_time: '2025-11-23T21:00:00+02:00'
+        end_time: '2025-11-23T20:47:55+02:00'
         description: |-
           Jumalanpalvelus Kotkan Vapaaseurakunnasta: 
           Saarnaajana pastori Juha Hynninen, juontajana Janika Erkko, todistuspuheenvuoron pitää Ossi Könönen

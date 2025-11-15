@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-13T02:36:37.394020+00:00'
+  generated_at: '2025-11-15T02:33:43.715248+00:00'
   git:
     branch: main
-    commit: 4f82d22dc07f05cb7284a929ef1c5f99f22a8311
-  data_hash: fcc518f0b8d3fc470e56db0b67c15c83f96c129f26de552cd812c438c34e0e55
+    commit: 6c36d78c3760d79fb9790322071fe243b530ebe4
+  data_hash: f468bc56950566599830f59103c3c755846762f575d0c0976b899a8b71325873
 data:
   Yle Radio 1:
     programmes:
@@ -63,10 +63,14 @@ data:
       - title: Aamusoitto
         start_time: '2025-11-28T07:05:00+02:00'
         end_time: '2025-11-28T07:59:59+02:00'
-        description: |-
-          Elgar: Lemmentervehdys (Susanna Mälkki, sello, ja Martti Rautio, piano).
+        description: |+
+          Elgar: Salut d'amour (Lemmentervehdys) (Susanna Mälkki, sello, ja Martti Rautio, piano).
 
           W. A. Mozart: Rondo viululle ja orkesterille n:o 2 C-duuri (Oleh Krysa, viulu, ja Ukrainan kamariork./Theodore Kuchar). 
+
+          Gaubert: Kirkkaana aamuna (Jean-Marc Phillips-Varjabedian, viulu, Henri Demarquette, sello, ja Marie-Josephe Jude, piano). 
+
+          Glazunov: Poloneesi balettisarj. A-duuri (Minnesotan ork./Edo de Waart).
 
           Smetana: Skladba (Kappale) C-duuri pianolle (Jitka Cechová).
 
@@ -79,6 +83,7 @@ data:
           Korngold: Der Schneemann, osia balettipantomiimista (Linzin Bruckner-ork./Caspar Richter). 
 
           Kern: Can't help lovin' that man (Joyce DiDonato, mezzosopraano, ja Antonio Pappano, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-11-28T08:00:00+02:00'
         end_time: '2025-11-28T08:07:00+02:00'
@@ -182,8 +187,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-11-28T18:50:00+02:00'
         end_time: '2025-11-28T19:00:00+02:00'
-        description: |-
-          Teologian tohtori Jouko Heikkinen, Jyväskylä
+        description: |
+          "Kutsu vierellä kulkijaksi"
+          Marraskuun perjantai-illoissa teologian tohtori Jouko Heikkinen Jyväskylästä puhuu kuolemisen viisaudesta. Tässä hartaudessa annetaan neuvoja kuolinvuoteen rinnalla tukea tarjoavalle saattajalle.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-28T19:00:00+02:00'
         end_time: '2025-11-28T19:02:00+02:00'
@@ -191,19 +197,7 @@ data:
         start_time: '2025-11-28T19:02:00+02:00'
         end_time: '2025-11-28T21:00:00+02:00'
         description: |-
-          Skotlantilaisen kitarataiteilija Sean Shiben tulkinnat sekä akustisella että sähkökitaralla ovat lumonneet kuulijat ympäri maailman. Hänen ohjelmistonsa yltää barokin helmistä Steve Reichin minimalismiin. 16.11.2025 Sibelius-Akatemian konserttisalissa tallennetun konsertin toimittaa Noora Hirn.
-
-          Konserttiohjelma:
-
-          Frank Martin: Quatre Pièces Brèves, kitaralle
-          Johann Sebastian Bach: Sarja nro 1 soolosellolle G-duuri BWV 1007
-          Thomas Adés Forgotten Dances, kitaralle
-
-          Sasha Scott: Rush
-          Meredith Monk: Nightfall (1995)
-          Steve Reich: Electric Counterpoint
-
-          Kuva: ©Kaupo Kikkas
+          Skotlantilaisen kitarataiteilija Sean Shiben tulkinnat akustisella ja sähkökitaralla lumoavat kuulijat ympäri maailman. Konsertin ohjelmisto yltää barokista minimalismiin. Säveltäjäniminä Frank Martin, J. S. Bach, Thomas Adés, Sasha Scott, Meredith Monk ja Steve Reich. 16.11. Sibelius-Akatemian konserttisalissa tallennetun konsertin toimittaa Noora Hirn. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-28T21:00:00+02:00'
         end_time: '2025-11-28T21:05:00+02:00'
