@@ -1,12 +1,19 @@
 metadata:
-  generated_at: '2025-11-17T02:36:40.965791+00:00'
+  generated_at: '2025-11-18T02:35:39.717686+00:00'
   git:
     branch: main
-    commit: 1607a0b692c3dc0aa6ab6179295863a736c5bc41
-  data_hash: 4ac89b3b7edf72afbfcd13948201c0762475a15692e40be6201d758a2948e329
+    commit: ecb99511c307b3fa217c9451bad85ed698269374
+  data_hash: 0dcfaaed24a2801e329832a7fcf6e3675951a635a610112dd38cb2db000e2d4e
 data:
   Yle Radio 1:
     programmes:
+      - title: Dominante 50 - Juhlakonsertti
+        start_time: '2025-11-19T19:02:00+02:00'
+        end_time: '2026-11-19T23:59:59+02:00'
+        description: |
+          Viisikymmentä vuotta Dominante-kuoro on kuulostanut Suomelta ja Suomi Dominantelta, olipa kyseessä Sibelius, joulu tai kotimainen nykymusiikki. Aalto-yliopiston sekakuoron juhlavuosi huipentuu Musiikkitalon juhlakonsertissa, jossa kuullaan parhaita paloja Dominanten taipaleelta. Kantaesityksensä saa kolme tilausteosta suomalaisilta säveltäjiltä: Minna Leinoselta, Tapani Länsiöltä ja Jaakko Mäntyjärveltä. Konsertti päättyy suuren juhlakuoron ja Musiikkitalon urkujen yhteiseen musiikki-ilotulitukseen.
+
+          Urkurina on Pekka Suikkanen, konsertin johtaa Seppo Murto. Lauantaina 15.11. Musiikkitalossa tallennetun konsertin toimittaa Kare Eskola.
       - title: Yöklassinen
         start_time: '2025-11-21T00:00:00+02:00'
         end_time: '2025-11-21T06:30:00+02:00'
@@ -95,11 +102,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-21T09:04:00+02:00'
         end_time: '2025-11-21T09:59:00+02:00'
-        description: |-
+        description: |
           Russell: This masquerade (Carpenters).
           Warren: Särkyneen toiveen katu (Jörgen Petersen).
           Reinhardt: All for you (Tony Bennett).
-          Hernandez: El Cumbanchero (Laila Kinnunen).
+          Hernandez: El cumbanchero (Laila Kinnunen).
           Bechet: Petite fleur (Angelique Kidjo).
           Olshanetsky: I love you much too much (Santana).
           Neil: Everybody's talkin' (Harry Nilsson).
@@ -164,14 +171,14 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-11-21T16:07:00+02:00'
         end_time: '2025-11-21T16:59:00+02:00'
-        description: |-
+        description: |
           Elgar: Serenade mauresque (Maurilainen serenadi) (Uuden-Seelannin SO/James Judd).
 
-          Schubert: Willkommen und Abschied  (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
+          Schubert: Willkommen und Abschied (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
 
-          Pärt: Spiegel im Spiegel (Angele Dubeau, viulu, Louise-Andre Baril, piano).
+          Pärt: Spiegel im Spiegel (Angèle Dubeau, viulu, ja Louise-Andrée Baril, piano).
 
-          Sallinen: Annan kehtolaulu oopp. Ratsumies (Anita Välkki, sopraano, ja RSO/Okko Kamu).
+          Sallinen: Annan kehtolaulu "Nukkuu se nyt nukuttamatta" oopp. Ratsumies (Anita Välkki, sopraano, ja RSO/Okko Kamu).
 
           Albéniz (sov. Gille): Asturias (Sara Trickey, viulu).
 
@@ -183,7 +190,7 @@ data:
 
           Sibelius: Tuule tuuli leppeämmin (Key Ensemble/Teemu Honkanen).
 
-          Paganini: Rondo konsertosta viululle ja orkesterille nro 1 D-duuri (Heimo Haitto, RSO/Arvid Jansons). 
+          Paganini: Rondo konsertosta viululle ja orkesterille n:o 1 D-duuri (Heimo Haitto ja RSO/Arvid Jansons). 
       - title: Uutispodcast
         start_time: '2025-11-21T17:00:00+02:00'
         end_time: '2025-11-21T17:20:00+02:00'

@@ -1,12 +1,19 @@
 metadata:
-  generated_at: '2025-11-17T02:36:41.973909+00:00'
+  generated_at: '2025-11-18T02:35:40.261777+00:00'
   git:
     branch: main
-    commit: 1607a0b692c3dc0aa6ab6179295863a736c5bc41
-  data_hash: 4ac89b3b7edf72afbfcd13948201c0762475a15692e40be6201d758a2948e329
+    commit: ecb99511c307b3fa217c9451bad85ed698269374
+  data_hash: 0dcfaaed24a2801e329832a7fcf6e3675951a635a610112dd38cb2db000e2d4e
 data:
   Yle Radio 1:
     programmes:
+      - title: Dominante 50 - Juhlakonsertti
+        start_time: '2025-11-19T19:02:00+02:00'
+        end_time: '2026-11-19T23:59:59+02:00'
+        description: |
+          Viisikymmentä vuotta Dominante-kuoro on kuulostanut Suomelta ja Suomi Dominantelta, olipa kyseessä Sibelius, joulu tai kotimainen nykymusiikki. Aalto-yliopiston sekakuoron juhlavuosi huipentuu Musiikkitalon juhlakonsertissa, jossa kuullaan parhaita paloja Dominanten taipaleelta. Kantaesityksensä saa kolme tilausteosta suomalaisilta säveltäjiltä: Minna Leinoselta, Tapani Länsiöltä ja Jaakko Mäntyjärveltä. Konsertti päättyy suuren juhlakuoron ja Musiikkitalon urkujen yhteiseen musiikki-ilotulitukseen.
+
+          Urkurina on Pekka Suikkanen, konsertin johtaa Seppo Murto. Lauantaina 15.11. Musiikkitalossa tallennetun konsertin toimittaa Kare Eskola.
       - title: Yöklassinen
         start_time: '2025-11-22T23:40:00+02:00'
         end_time: '2025-11-23T07:00:00+02:00'
@@ -38,11 +45,26 @@ data:
           05:19 Koessler: Kammergesänge (Kamarilauluja) (Franziska Hirzel, sopraano, Lajós Lencsés, oboe, Clara Hohorst, käyrätorvi, ja Parisii-kvartetti).
 
           05:51 Telemann: Pimpinone (Mechthild Bach, sopraano, ja Michael Schopper, basso, sekä La Stagione Frankfurt/Michael Schneider).
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2025-11-23T07:01:00+02:00'
-        end_time: '2025-11-23T07:58:00+02:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Korvansyrjällä ja vahingossa'
+        start_time: '2025-11-23T07:00:27+02:00'
+        end_time: '2025-11-23T07:51:48+02:00'
+        description: |
+          Yhtäkkiä pysähdyt: Mikä tuo kappale on? Mikä siinä kiinnitti huomion?
+          Minkälaiset pienet asiat saavat meidät höristämään korviamme jonkun kappaleen kohdalla? Klasariparatiisissa pohditaan asiaa pienen hetken verran.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Gustav Mahler (sov. Erwin Stein, rekonstruktio Alexander Platt ):  Sinfonia n:o 4 G-duuri : 2. In gemächlicher Bewegung, ohne Hast (Lontoon Royal Academy of Music-korkeakoulun solistiyhyte/Trevor Pinnock).
+
+          Cecilia Damström: Cura viululle ja pianolle (Pekka Kuusisto, viulu, ja Joonas Ahonen, piano).
+
+          William Lawes: Paven, sarjasta consortyhtyeelle, d-molli (Phantasm)
+
+          Joel Järventausta: Naava (Jyväskylä/Sinfonia Ville Matvejeff)
+
+          Johannes Brahms: Sonaatti klarinetille ja viululle f-molli   2. Andante un poco adagio (Martin Fröst, klarinetti, ja Roland Pöntinen, piano).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-23T08:00:00+02:00'
         end_time: '2025-11-23T08:05:05+02:00'
@@ -194,11 +216,26 @@ data:
         end_time: '2025-11-23T21:21:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Korvansyrjällä ja vahingossa'
         start_time: '2025-11-23T21:22:00+02:00'
         end_time: '2025-11-23T22:19:00+02:00'
         description: |
+          Yhtäkkiä pysähdyt: Mikä tuo kappale on? Mikä siinä kiinnitti huomion?
+          Minkälaiset pienet asiat saavat meidät höristämään korviamme jonkun kappaleen kohdalla? Klasariparatiisissa pohditaan asiaa pienen hetken verran.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Gustav Mahler (sov. Erwin Stein, rekonstruktio Alexander Platt ):  Sinfonia n:o 4 G-duuri : 2. In gemächlicher Bewegung, ohne Hast (Lontoon Royal Academy of Music-korkeakoulun solistiyhyte/Trevor Pinnock).
+
+          Cecilia Damström: Cura viululle ja pianolle (Pekka Kuusisto, viulu, ja Joonas Ahonen, piano).
+
+          William Lawes: Paven, sarjasta consortyhtyeelle, d-molli (Phantasm)
+
+          Joel Järventausta: Naava (Jyväskylä/Sinfonia Ville Matvejeff)
+
+          Johannes Brahms: Sonaatti klarinetille ja viululle f-molli   2. Andante un poco adagio (Martin Fröst, klarinetti, ja Roland Pöntinen, piano).
       - title: Sari Valto
         start_time: '2025-11-23T22:20:00+02:00'
         end_time: '2025-11-23T23:18:00+02:00'
