@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-19T02:35:53.219371+00:00'
+  generated_at: '2025-11-20T02:35:26.674522+00:00'
   git:
     branch: main
-    commit: 178faa8bc0cb11f582c44425a0b3ed5b2d9e4521
-  data_hash: fbe096f0c289e7f600dfac0d05605e1164fbf40c7be5365f6e2bb27b16c91339
+    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
+  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
 data:
   Yle Radio 1:
     programmes:
@@ -84,6 +84,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-11-24T08:07:00+02:00'
         end_time: '2025-11-24T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-11-24T09:00:00+02:00'
         end_time: '2025-11-24T09:03:00+02:00'
@@ -127,11 +129,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-11-24T12:00:00+02:00'
         end_time: '2025-11-24T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Laatokan mysteeri-ikoni – muisto vai sotasaalis? Esineet kertovat jatkosodasta'
         start_time: '2025-11-24T12:05:00+02:00'
         end_time: '2025-11-24T12:55:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |-
+          Sotamuisto vai saalis? Laatokalta löytyneen ikonin mysteeri kertoo esineistä, joilla perusteltiin Suur-Suomen tarpeellisuutta. Haastateltavina filosofian tohtori Tenho Pimiä, intendentti Katariina Husso, Suomen ortodoksinen kirkkomuseo RIISA. Toimittajana Anna-Kaisa Brenner. Äänisuunnittelu: Panu Willman.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-24T12:55:00+02:00'
         end_time: '2025-11-24T13:00:00+02:00'
@@ -141,8 +143,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-11-24T13:30:00+02:00'
         end_time: '2025-11-24T15:00:00+02:00'
-        description: |2+
-
+        description: |
+          Radio 1:n iltapäivän musiikissa soivat  mm.etno ja kevyt jazz. Juontajana Jarmo Laitaneva. N. klo 14 studiossa näyttelijä, ohjaaja, käsikirjoittaja, kirjailija Petja Lähde. Hän on mies, jolla on monta titteliä ja aina monta työtä tekeillä. Lähde kuvaa lempeästi ihmisiä, jotka kukin ovat omalla tavallaan hajalla. Petja Lähteen teatteriesitykset ovat monesti komedioita, joita henkilöiden haavoittuvuus ja elämän surut maustavat vahvasti.
       - title: 'Kulttuuriykkönen: Miten mediat ovat onnistuneet Gazan sodan uutisoinnissa?'
         start_time: '2025-11-24T15:00:00+02:00'
         end_time: '2025-11-24T15:55:00+02:00'
@@ -203,11 +205,21 @@ data:
         end_time: '2025-11-24T20:05:00+02:00'
         description: |2+
 
-      - title: Ruben Stiller
+      - title: 'Ruben Stiller: Ovatko toimittajat puolueettomia?'
         start_time: '2025-11-24T20:05:00+02:00'
         end_time: '2025-11-24T21:00:00+02:00'
-        description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+        description: |
+          Britannian yleisradioyhtiö BBC on ajautunut historialliseen kriisiin.
+
+          Trump uhkaa yhtiötä oikeusjutulla.Britannian konservatiivit väittävät yhtiön journalismin suosivan vasemmistoliberaaleja näkemyksiä.
+
+          Mistä tämä kriisi kertoo? Mikä nakertaa perinteisen median uskottavuutta?
+
+          Suomessa perussuomalaiset väittävät, että toimittajat edustavat punavihreää eliittiä. Onko väite täysin perätön?
+
+          Ohjelmassa puhutaan toimittajien puolueettomuudesta ja suomalaisen median tulevaisuudesta.
+
+          Vieraina ovat professori, mediatutkija Anu Koivunen ja median murroksesta väitöskirjan kirjoittanut viestintäyrittäjä Pasi Kivioja.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-24T21:00:00+02:00'
         end_time: '2025-11-24T21:05:00+02:00'
