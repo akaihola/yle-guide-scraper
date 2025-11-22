@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:28.177752+00:00'
+  generated_at: '2025-11-22T02:33:25.331348+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -89,6 +89,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-01T09:04:00+02:00'
         end_time: '2025-12-01T09:59:00+02:00'
+        description: |
+          Shapiro: Winter weather (Peggy Lee). 
+          Lecuona: Siboney (Veikko Tuomi). 
+          Testoni: Io sono il vento (Marino Marini). 
+          Brassens: Sateenvarjo (Arja Saijonma). 
+          Campo: Grey December (Chet Baker).
+          Crewe/Gaudio: Can't take my eyes off you (Frankie Valli).
+          Masser: Miten voi (Paula Koivuniemi).
+          Bastia: Je suis sex appeal (Jean Sablon ja Django Reinhardt).
+          Oliver/Young: 'tain't what you do (Trummy Young). 
+          Oysher/Ellstein: Vyoch tyoch tyoch (The Barry Sisters). 
+          Ager: Happy days are here again (Barbra Streisand). 
+          Jagger/Richards: Out of time (The Rolling Stones).
+          Mandel: The shadow of your smile (Henry Mancini).
+          Schmidt: Muistatko syyskuun (Carola).
       - title: 'Virtasen taloushistoria: Maahanmuutto - milloin etu, milloin haitta?'
         start_time: '2025-12-01T10:00:00+02:00'
         end_time: '2025-12-01T10:52:00+02:00'
@@ -106,6 +121,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-01T11:57:00+02:00'
         end_time: '2025-12-01T12:00:00+02:00'
+        description: |-
+          Kaarlo Sarkian runo Ensi lumi. Kokoelmasta Runot. WSOY 1979.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-01T12:00:00+02:00'
         end_time: '2025-12-01T12:05:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:29.924742+00:00'
+  generated_at: '2025-11-22T02:33:27.898668+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -178,9 +178,21 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-09T19:00:00+02:00'
         end_time: '2025-12-09T19:02:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Uudenvuoden kellot: Ennenvanhaan kaikki oli paremmin'
         start_time: '2025-12-09T19:02:00+02:00'
         end_time: '2025-12-09T19:45:00+02:00'
+        description: |-
+          Osa 1/4. Trotty Veck on iäkäs lähetti, joka odottaa töitä kirkon portailla. Kirkon, jonka kellot ovat vuosia kannustaneet ja rohkaisseet häntä. Tänä uudenvuodenaattona Trotty Veck on erityisen surullinen: köyhän työväenluokan tulevaisuus ei näytä valoisalta, onko heillä enää edes oikeutta olemassaoloon? Veck alkaa uskoa itsekin, että köyhät ovat pahoja eivätkä he voi muuksi muuttua – ja silloin kellot alkavat puhutella häntä.
+          Charles Dickens (1812-1870) oli merkittävä englantilainen romaanikirjailija, jonka teoksissa korostuu vahva poliittinen, sosiaalinen ja moraalinen viesti sekä lämmin huumori ja sydämellisyys. Hänen kirjallinen perintönsä eli havainnot yhteiskunnan epäkohdista ja eriarvoisuudesta ovat edelleen yllättävän ajankohtaisia nykyajassamme. Uudenvuoden kellot (eng. Chimes, 1844) on tarina kirkonkelloista, jotka soittavat vanhan vuoden loppua ja uuden vuoden alkua – auttamalla huonompiosaisia uutena vuotena, on alkava vuosi kaikille onnellisempi. Teos ilmestyi seuraavana jouluna tunnetun Saiturin joulu -kertomuksen jälkeen ja on yksi viidestä Dickensin joulutarinoiden sarjassa.
+
+          Charles Dickensin samannimisen romaanin pohjalta dramatisoinut ja suomentanut Roy Boswell
+          Dramaturgi: Eeva-Maaria Halonen
+          Ohjaus: Emilia Putkinen Petterberg
+          Äänisuunnittelu: Hanna-Helena Kinnunen 
+          Musiikki: Hanna-Helena Kinnunen, Yle kantanauhat ja Epidemic Sound
+          Rooleissa: Marja Packalén, Antti Jaakola, Talvikki Eerola, Karlo Haapiainen, Hannu-Pekka Björkman, Jouko Puolanto, Taisto Oksanen, Leena Uotila, Tuomas Uusitalo, Lauri Tanskanen, Vilma Tanskanen, Minna Kivelä, Anna-Sofia Tuominen.
+          Tuotanto: Laura Jaakkola
+          Tilaaja: Matti Kajander, Yle Draama 2025.
       - title: Maailman tärkein pieni asia
         start_time: '2025-12-09T20:00:00+02:00'
         end_time: '2025-12-09T20:20:00+02:00'

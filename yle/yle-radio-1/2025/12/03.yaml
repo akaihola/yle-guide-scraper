@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:28.630155+00:00'
+  generated_at: '2025-11-22T02:33:26.321677+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -102,6 +102,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-03T09:04:00+02:00'
         end_time: '2025-12-03T09:59:00+02:00'
+        description: |-
+          Rota: Le notti di Cabiria (Nino Rota).
+          Cooke: A change is gonna come (Sam Cooke).
+          Yupanqui: Luna tucumana (Mercedes Sosa).
+          Kemppi: Kaamoskuu (Tapio Rautavaara).
+          Davenport: Fever (Sarah Vaughan).
+          Vreeswijk: Fredrik Åkares morgonpsalm (Cornelis Vreeswijk).
+          Shearing: Lullaby of Birdland (Lionel Hampton).
+          Jurva: Väliaikainen (Matti Jurva).
+          Styne: Kerran kesällä (Seija Simola).
+          Cohen: Like a bird (Bird on the wire) (Leonard Cohen).
+          Giustina & Specchia: Soi, kitarani soi (Carita ja Marianne).
+          Christopher, Thompson & James: Always on my mind (Elvis Presley).
+          Detto, Caponi & Mogol: L'immensita (Milva).
+          Sting: Fields of gold (Sting).
+          Rodgers & Hammerstein: My favorite things (John Coltrane).
       - title: 'Havaintoja muutoksesta:  Mikä mystikoissa kiehtoo? '
         start_time: '2025-12-03T10:00:00+02:00'
         end_time: '2025-12-03T10:50:00+02:00'
@@ -116,6 +132,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-03T11:57:00+02:00'
         end_time: '2025-12-03T12:00:00+02:00'
+        description: |-
+          Kimmo Räntilän runo Ei rakkaus kuole, Ezio. Kokoelmasta E, Enostone 2025.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-03T12:00:00+02:00'
         end_time: '2025-12-03T12:05:00+02:00'
@@ -185,33 +203,55 @@ data:
       - title: Iltahartaus
         start_time: '2025-12-03T18:50:00+02:00'
         end_time: '2025-12-03T19:00:00+02:00'
-        description: |-
-          Sairaalapappi Pirjo Kantala, Helsinki
+        description: |
+          "Joulunaika on odotuksen tihentymä"
+          Sairaalapappi Pirjo Kantala Helsingistä puhuu eri elämänvaiheissa kohdattavasta odotuksesta ja suuntaa katseen kohti meille kaikille annettua toivoa.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-03T19:00:00+02:00'
         end_time: '2025-12-03T19:02:00+02:00'
       - title: Säveltäjien Suomi – Turun filharmoninen orkesteri konsertoi
         start_time: '2025-12-03T19:02:00+02:00'
         end_time: '2025-12-03T21:00:00+02:00'
-        description: |-
-          Turun filharmoninen orkesteri juhlistaa Suomen Säveltät ry:n 80-vuotista taivalta konsertilla, jossa kuullaan niin tuttuja kuin tuntemattomampiakin säveltäjiä yhdeksältä eri vuosikymmeneltä. Jokainen heistä tuo lisänsä Suomen säveltaiteen tarinaan. Turun filharmonisen orkesterin ylikapellimestari John Storgårds on suunnitellut konserttiohjelman yhdessä musiikkitoimittaja Mats Liljeroosin kanssa.  20.11.2025 Turun konserttitalossa tallennetun konsertin toimittaa Ainomaija Pennanen. 
+        description: |+
+          Turun filharmoninen orkesteri juhlistaa Suomen Säveltäjät ry:n 80-vuotista taivalta konsertilla, jossa kuullaan niin tuttuja kuin tuntemattomampiakin säveltäjiä yhdeksältä eri vuosikymmeneltä. Jokainen heistä tuo lisänsä Suomen säveltaiteen tarinaan. 
 
-          Turun filharmoninen orkesteri, joht. John Storgårds, Tuuli Lindeberg, sopraano
+          Turun filharmonisen orkesterin ylikapellimestari John Storgårds on suunnitellut konserttiohjelman yhdessä musiikkitoimittaja Mats Liljeroosin kanssa.  
+
+          20.11.2025 Turun konserttitalossa tallennetun konsertin toimittaa Ainomaija Pennanen. Sen väliajalla tavataan kapellimestari John Storgårds ja musiikkitoimittaja Mats Liljeroos, säveltäjät Heta Aho ja Stephen James Webb sekä intendentti Nikke Isomöttönen. 
+
+
+          Turun filharmoninen orkesteri
+          John Storgårds, kapellimestari
+          Tuuli Lindeberg, sopraano
+          Saara Lehtinen, huilu
 
           Konserttiohjelma:
 
-          Jukka Linkola: CYCLOP (tilausteos, kantaesitys) 
+          Jukka Linkola: KYKLOOPPI (tilausteos, kantaesitys) 
+          (00.01.54-)
           Mikko Heiniö: On the Rocks 
+          (00.19.33-)
           Erkki Salmenhaara: Adagietto 
+          (00.36.51-)
           Jukka Tiensuu: Mxpzkl
-          Heidi Sundblad-Halme: Pan laulusarja
+          (00.50.20-)
+          Heidi Sundblad-Halme: Pan-sarja sopraanolle, huilulle ja orkesterille
+          (01.04.05-)
 
           Väliaika
 
-          Jean Sibelius: Ett ensamt skidspår (Yksinäinen latu) lausujalle, harpulle ja jousille 
+          Jean Sibelius: Ett ensamt skidspår lausujalle, harpulle ja jousille 
+          (01.54.13-)
           Erik Bergman: Circulus op. 58 
+          (01.59.10-)
           Matthew Whittall: Solen 
+          (02.14.18-)
           Cecilia Damström: Tundo!
+          (02.30.31-)
+
+          Jokaisen teoksen yhteydessä on mainittu aikakoodi, jossa sävellys alkaa soida. 
+          Konsertin äänisuunnittelu ja -toteutus: Jari Rantakaulio ja Anna-Kaisa Kemppi. 
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-03T21:00:00+02:00'
         end_time: '2025-12-03T21:05:00+02:00'

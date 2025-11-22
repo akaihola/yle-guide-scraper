@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:27.961898+00:00'
+  generated_at: '2025-11-22T02:33:25.049909+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -73,6 +73,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-11-30T11:00:00+02:00'
         end_time: '2025-11-30T11:59:00+02:00'
+        description: |-
+          Gold: Exodus (Mantovani).
+          Monnot: Les neiges de Finlande (Edith Piaf).
+          Raye/DePaul: You don't know what love is (Dinah Washington).
+          Gershwin: It ain't necessarily so (Miles Davis).
+          Grosz: Isle of Capri (Bing Crosby ja Rosemary Clooney).
+          Malgoni: Tango Italiano (Jorma Lyytinen).
+          Gelmini: Aito italiano (Laila Kinnunen).
+          Prima: Tyttö lilla nakkikioskilla (Hullujussi).
+          Salvador: Melodie d'amour (Alice Babs).
+          Salvador: Syracuse (Jean Sablon).
+          Rota: The Godfather finale (Carlo Savina).
+          Mitchell: For the roses (Joni Mitchell).
+          Nash: Our house (Crosby, Stills, Nash and Young).
+          Lennon/McCartney: A day in the life (The Beatles).
+          Strayhorn: Lush life (Johnny Hartman & John Coltrane).
       - title: Yle Uutiset ja sää
         start_time: '2025-11-30T12:00:00+02:00'
         end_time: '2025-11-30T12:05:00+02:00'
@@ -84,7 +100,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-30T12:55:00+02:00'
         end_time: '2025-11-30T13:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kuka kuuntelee, sillä on väliä'
         start_time: '2025-11-30T13:00:00+02:00'
         end_time: '2025-11-30T13:57:00+02:00'
         description: |

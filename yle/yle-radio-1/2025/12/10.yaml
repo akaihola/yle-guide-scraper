@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:30.128909+00:00'
+  generated_at: '2025-11-22T02:33:28.569742+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -58,6 +58,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-10T09:04:00+02:00'
         end_time: '2025-12-10T09:59:00+02:00'
+        description: |-
+          Berlin: I've got my love to keep me warm (Billie Holiday).
+          Mårtenson: Revontuli (Laila Kinnunen).
+          Campo: Grey December (Chet Baker).
+          Chydenius: Ei puolikasta (Kristiina Halkola).
+          Smith, Jackson & Miner: (Your love keeps lifting me) higher and higher (Jackie Wilson).
+          Jones: Du måste ta det kallt (Monica Zetterlund).
+          Bizet: Les pêcheurs de perles (Tino Rossi).
+          Ballard: Mister Sandman (The Chordettes).
+          Wills: Rag mop (Johnnie Lee Wills).
+          Dobos: Isten veled, edes Piroskam (Laszlo Aradszky).
+          Wittkopp: Aurinko, tähdet ja kuu (Annikki Tähti).
+          Bayer Sager & Wine: A groovy kind of love (The Mindbenders).
+          Makeba: The click song (Miriam Makeba & The Belafonte Folk Singers).
+          Pisano & Grano: Sata kelloa (Taisto Tammi).
+          Nelson: Pretty paper (Roy Orbison).
+          Adamo: Vain lunta kaikkialla (Yona). 
+          Pohjola: Armoton idylli (Pekka Pohjola).
       - title: Havaintoja muutoksesta
         start_time: '2025-12-10T10:00:00+02:00'
         end_time: '2025-12-10T10:50:00+02:00'
@@ -126,8 +144,9 @@ data:
       - title: Iltahartaus
         start_time: '2025-12-10T18:50:00+02:00'
         end_time: '2025-12-10T19:00:00+02:00'
-        description: |-
-          Opetusneuvos Kalevi Virtanen, Helsinki
+        description: |
+          "Kristuksen rauhaa"
+          Opetusneuvos Kalevi Virtanen Helsingistä pohtii aralla mielin kutsua vieraalta tuntuvaan uskovaisuuteen ja etsii Jumalan rauhaa myllertävässä maailmassa.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-10T19:00:00+02:00'
         end_time: '2025-12-10T19:02:00+02:00'

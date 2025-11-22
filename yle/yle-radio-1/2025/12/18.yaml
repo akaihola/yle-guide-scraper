@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:31.814686+00:00'
+  generated_at: '2025-11-22T02:33:30.950920+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -138,9 +138,13 @@ data:
       - title: Politiikkaradio
         start_time: '2025-12-18T21:05:00+02:00'
         end_time: '2025-12-18T21:35:00+02:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Olen jossain'
         start_time: '2025-12-18T21:36:00+02:00'
         end_time: '2025-12-18T22:26:00+02:00'
+        description: |
+          Miltä absurdiksi muuttunut, tragikoomisia piirteitä sisältävä arki tuntuu, kun lähimuistia ei enää ole? Todellisia tarinoita: Olen jossain -radiodokumentti avaa oven muistisairaan ihmisen ja hänen läheisensä maailmaan. Toimittaja Tuula Rajavaara on taltioinut elämää muistisairaan äitinsä, Aili Rajavaaran, kanssa ajanjaksolta, jolloin äiti asuu vuoroin kotona ja vuoroin intervalliosastolla. Yhdessä he yrittävät keksiä ratkaisuja yhä oudommaksi muuttuvan arjen hallitsemiseksi.
+
+          Ohjelman toteutus: Tuula Rajavaara, Kai Rantala ja Hannu Karisto. Musiikki: Lauri Wuolio.
       - title: 'Radioteatteri esittää: Viihdekuunnelma'
         start_time: '2025-12-18T22:30:00+02:00'
         end_time: '2025-12-18T22:50:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:26.900689+00:00'
+  generated_at: '2025-11-22T02:33:22.821472+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -31,6 +31,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-25T06:30:50+02:00'
         end_time: '2025-11-25T06:50:00+02:00'
+        description: |+
+          Simojoki: Hän kantaa (EtCetera/Jaana Turunen, ja Pekka Simojoen yhtye).
+
+          Crüger: Kuka meistä sinua, Herra (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Löytty: Kahden maan kansalainen (Herännäisnuorten kuoro/Samuli Korkalainen, ja Anna Hietala, viulu).
+
+          Huhtala: Saavu Herra (Nina Åström).
+
       - title: Aamuhartaus
         start_time: '2025-11-25T06:50:00+02:00'
         end_time: '2025-11-25T06:59:59+02:00'
@@ -106,8 +115,26 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Kuka oli Lontoon-Bach?'
         start_time: '2025-11-25T11:00:00+02:00'
         end_time: '2025-11-25T11:57:00+02:00'
-        description: |-
+        description: |
+          Vuonna 1762 muuan herra Bach seisoo laivan kannella ja tähyilee kohti Englannin rannikkoa. Mies on tehnyt pitkän matkan Milanosta asti. Alkamassa on vuoden vapaa urkurinvirasta, mutta kuinka pitkäksi aikaa Bach jääkään Lontooseen? Ja miksi hän sinne on menossa, ylipäätään?
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Johann Christian Bach: 
+
+          Perche tarda e mai la morte (Philippe Jaroussky, kontratenori, ja Le Cercle de l'Harmonie/Jeremie Rhorer).
+
+          Allegro, Sonaatista klaveerille A-duuri op.17/5 (Anthony Spiri).
+
+          Magnificat C-duuri W E22, osat Magnificat, Et misericordia ja Fecit potentiam
+          (Joanne Lunn, sopraano, Elena Biscuola, altto, Georg Poplutz, tenori, Thomas E. Bauer, basso sekä Eteläsaksalainen kamarikuoro ja Concerto Köln/Gerhard Jenemann).
+
+          Allegro, Sinfoniasta g-molli op.6/6 (Akademie für alte Musik Berlin/Stephan Mai).
+
+          Larghetto, Sinfonia concertantesta C-duuri T.289/4 huilulle, oboelle, viululle, sellolle ja orkesterille (Rachel Brown, huilu, Frank de Bruine, obo), Simon Standage, viulu, David Watkin, sello, ja The Academy of Ancient Music/Simon Standage).
+
+          Allgero, Pianokonsertosta D-duuri, opus 7 (Sebastian Knauer, piano, ja  Zürichin kamariorkesteri/Roger Norrington).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-11-25T11:57:00+02:00'
         end_time: '2025-11-25T12:00:00+02:00'
@@ -121,9 +148,11 @@ data:
         end_time: '2025-11-25T12:25:00+02:00'
         description: |-
           Helsingissä on asunto, jossa pidettiin tulenkantajien juhlia. Siellä asui aikoinaan myös hyvin vanhana kuollut viimeinen tulenkantaja. Millainen mies oli tämä jatkosodan aikaan vakoilusta vankilassakin istunut Erkki Vala? Valan entisen asunnon ja tulenkantajien juhlien jatkopaikan ovikelloa Helsingin Töölössä Museokadulla soittaa toimittaja Jukka Kuosmanen. Ohjelman vieraana on tietokirjailija FT Minna Maijala. 
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Salkopapu, kikherne, linssi – palkokasvien nimien juuret ovat syvällä menneisyydessä '
         start_time: '2025-11-25T12:25:00+02:00'
         end_time: '2025-11-25T12:50:00+02:00'
+        description: |-
+          Palkokasvien nimien alkuperää pohtivat Pasi Heikura ja palkokasvitieteen professori Frederick Stoddard. Fraasirikoksessa neuvoja jakelevat kisälli ja mentori.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-25T12:50:00+02:00'
         end_time: '2025-11-25T13:00:00+02:00'
@@ -135,11 +164,15 @@ data:
         end_time: '2025-11-25T15:00:00+02:00'
         description: |-
           Radio 1:n iltapäivän musiikkia kevyestä jazzista etnoon. Miia Lahti juontaa. N. klo 14: mihin suuntaan elokuvissa käymisen kulttuurimme on muuttumassa? Studiovieraana aiheesta on keskustelemassa  Filmikamarin tj. Tero Koistinen.  N. klo 14:30 Jari Aulan toimittama Kielen päällä.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Simo Häyhä – Talvisodan tarkka-ampujan tarina ranskalaiskirjailijan silmin'
         start_time: '2025-11-25T15:00:00+02:00'
         end_time: '2025-11-25T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuuriykkösessä keskustellaan talvisodan legendaarisesta tarkka-ampujasta Simo Häyhästä. Häyhä on usein mainittu maailmanhistorian menestyneimpänä tarkka-ampujana. Ranskalainen kirjailija Olivier Norek julkaisi viime vuonna romaanin "Talven soturit", joka pohjautuu talvisotaan ja Simo Häyhän tarinaan. Kirja on saavuttanut suuren suosion Ranskassa, ja käännösoikeudet on myyty useisiin maihin. Lähetyksessä mm. arvioidaan, miten hyvin ranskalaiskirjailija on pitänyt faktat kohdallaan.
+
+          Haastateltavina ovat sotahistorian tutkija ja kolmen eri yliopiston dosentti Lasse Laaksonen sekä Simo Häyhän haastatellut ja hänestä kirjan Simo Häyhä - Talvisodan legendaarinen tarkka-ampuja kirjoittanut Tapio Saarelainen.
+
+          Lähetyksen juontaa Nicklas Wancke.
       - title: Yle News
         start_time: '2025-11-25T15:55:00+02:00'
         end_time: '2025-11-25T15:58:00+02:00'
@@ -177,7 +210,7 @@ data:
         start_time: '2025-11-25T17:00:00+02:00'
         end_time: '2025-11-25T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Uskaltaako ostaa asunnon ja säilyykö työpaikka? Miltä ensi vuoden taloustilanne näyttää kuluttajan näkökulmasta? Atte Uusinokan haastattelussa Danske Bankin yksityistalouden ekonomisti Kaisa Kivipelto.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-25T17:20:00+02:00'
         end_time: '2025-11-25T17:35:00+02:00'
@@ -202,15 +235,25 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-25T18:35:00+02:00'
         end_time: '2025-11-25T18:50:00+02:00'
+        description: |+
+          Lithénius: Ilta on tullut, Luojani (RKK/Harald Andersén).
+
+          Turpela: Herra, pelasta meidät (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola).
+
+          Koraalitoisinto (sov. Alakärppä): Voisinpa Jeesuksestani (A-Men/Mikko Peltokorpi, ja Tommi Alakärppä, kitara).
+
+          J. Tapio: Kuka muu? (Juha Tapio).
+
       - title: Iltahartaus
         start_time: '2025-11-25T18:50:00+02:00'
         end_time: '2025-11-25T19:00:00+02:00'
-        description: |-
-          Muusikko, Babtistiyhdyskunta, Riikka Hertteli, Kokkola
+        description: |
+          "Löydä syvempi elämä Jeesuksen kanssa"
+          Muusikko, Riikka Hertteli, Babtistiyhdyskunta, Kokkola huomaa vaikeuksien keskellä uskon Jeesukseen auttavan ja kutsuu kasvattamaan syvät juuret Kristukseen.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-25T19:00:00+02:00'
         end_time: '2025-11-25T19:02:00+02:00'
-      - title: 'Radioteatteri esittää: Malabar kutsuu'
+      - title: Malabar kutsuu
         start_time: '2025-11-25T19:02:00+02:00'
         end_time: '2025-11-25T20:22:00+02:00'
         description: |-
@@ -234,9 +277,30 @@ data:
         end_time: '2025-11-25T20:37:00+02:00'
         description: |
           Ajankohtaista asiaa romaneista.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Steve Bannon tahtoo Trumpille kolmannen kauden - ja valtaa itselleen'
         start_time: '2025-11-25T20:37:00+02:00'
         end_time: '2025-11-25T21:02:00+02:00'
+        description: |-
+          Yhdysvaltain presidentin Donald Trumpin entinen neuvonantaja Steve Bannon ajaa sitkeästi
+          Trumpille kolmatta presidenttikautta. Ajatus on perustuslain vastainen. Lainvastaisen
+          hankkeen varjossa Yhdysvaltain nationalistis-populistinen eliitti jatkaa demokratian
+          perustusten nakertamista. Bannonilla on yhteydet ja liittolaissuhteet myös Euroopan
+          äärioikeistoon.
+
+          Bannonin populistisessa ajattelussa esitys Trumpin kolmannesta kaudesta on
+          tarkoituksellinen provokaatio. Tavoite on kohahduttaa ja kiinnittää huomio itseensä.
+
+          Toronton yliopiston politiikan tutkimuksen emeritusprofessori Ronald Beiner pitää Bannonin
+          puheita silkkana potaskana.
+          Beinerin mukaan Bannon vain valehtelee häpeilemättä. Hänen vallanhimonsa on loputon.
+
+          Princetonin yliopiston historian professori Sean Wilentz ei hänkään usko Trumpin
+          kolmanteen kauteen. Sen sijaan hän näkee Bannonin toimeliaisuuden yhtenä osoituksena
+          äärioikeiston vallanhalusta. Hän arvelee, että Trumpin paine mediaa ja yliopistoja kohtaan
+          vain kiihtyy. Yhdysvaltain demokratia on vaarassa, Sean Wilentz sanoo.
+
+          Ohjelman toimittaa Sampo Vaarakallio. Äänitarkkailijana on Matias Puumala.Tunnusmusiikki: Petri
+          Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-25T21:02:00+02:00'
         end_time: '2025-11-25T21:05:00+02:00'

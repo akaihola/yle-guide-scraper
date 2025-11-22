@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:26.674522+00:00'
+  generated_at: '2025-11-22T02:33:22.313233+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-11-24T06:30:50+02:00'
         end_time: '2025-11-24T06:50:00+02:00'
+        description: |+
+          Hannikainen: Aamulaulu (Sibelius-Akatemian Kuopion osaston kuoro, joht. Heikki Liimola)
+
+          Tuntematon: Oi Kristus, taivaan kuningas (Cetus Noster sekä Teppo Lampela, baritoni, ja Eero Palviainen, arkkiluuttu).
+
+          Nikkola: Herra on minun paimeneni (Itämeren tytär/Iris Sundberg, ja Tapio Tiitu, urut).
+
+          Lagi: Mä silmät luon ylös taivaaseen (Palo-yhtye).
+
       - title: Aamuhartaus
         start_time: '2025-11-24T06:50:00+02:00'
         end_time: '2025-11-24T06:59:59+02:00'
@@ -108,15 +117,16 @@ data:
           Kosma: Les feuilles mortes (Iggy Pop).
           Farres: Quizas, quizas, quizas (Storm Large). 
           MacDermot: Aquarius - Let the sun shine in (Andy Williams). 
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Serlachiuksen sisarukset '
         start_time: '2025-11-24T10:00:00+02:00'
         end_time: '2025-11-24T10:52:00+02:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |+
+          Veljenpoika tulee yhtiöön töihin, nai omistajan tyttären ja nappaa vallan ja omistuksen. Näin kävi aikoinaan Mäntässä. G. A. Serlachiuksen perustamat tehtaat siirtyivät Göstalle. Mutta miten tuo tapahtui ja miten Serlachiuksen sisaruksille kävi? Vieraana Linda Huhtinen. Toimittaja on Juha Virtanen. Uusinta heinäkuulta 2025.
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-24T10:52:00+02:00'
         end_time: '2025-11-24T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kuka kuuntelee, sillä on väliä'
         start_time: '2025-11-24T11:00:00+02:00'
         end_time: '2025-11-24T11:57:00+02:00'
         description: |
@@ -131,11 +141,11 @@ data:
         end_time: '2025-11-24T12:05:00+02:00'
       - title: 'Elävä historia: Laatokan mysteeri-ikoni – muisto vai sotasaalis? Esineet kertovat jatkosodasta'
         start_time: '2025-11-24T12:05:00+02:00'
-        end_time: '2025-11-24T12:55:00+02:00'
+        end_time: '2025-11-24T12:52:00+02:00'
         description: |-
           Sotamuisto vai saalis? Laatokalta löytyneen ikonin mysteeri kertoo esineistä, joilla perusteltiin Suur-Suomen tarpeellisuutta. Haastateltavina filosofian tohtori Tenho Pimiä, intendentti Katariina Husso, Suomen ortodoksinen kirkkomuseo RIISA. Toimittajana Anna-Kaisa Brenner. Äänisuunnittelu: Panu Willman.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-11-24T12:55:00+02:00'
+        start_time: '2025-11-24T12:52:00+02:00'
         end_time: '2025-11-24T13:00:00+02:00'
       - title: Politiikkaradio
         start_time: '2025-11-24T13:00:00+02:00'
@@ -168,8 +178,8 @@ data:
       - title: Uutispodcast
         start_time: '2025-11-24T17:00:00+02:00'
         end_time: '2025-11-24T17:20:00+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        description: |-
+          Mitä tekee Eurooppa ja sen johtajat, kun Venäjä ja Yhdysvallat hierovat rauhaa Ukrainaan? Atte Uusinokan vieraana Viron ulkopoliittisen instituutin johtaja Kristi Raik.
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-24T17:20:00+02:00'
         end_time: '2025-11-24T17:35:00+02:00'
@@ -183,8 +193,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-11-24T18:35:00+02:00'
         end_time: '2025-11-24T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Kansanlaulu: Onpa taivaassa tallella lapsillekin (Maksetut viulut).
+
+          Tuntematon: Sun kätes, Herra, voimakkaan (Cetus Noster ja Pekka Suikkanen, urut).
+
+          P.J. Hannikainen: Riennä riemuin eespäin vaan (Cantio Laudis/Olli Heikkilä).
+
       - title: Iltahartaus
         start_time: '2025-11-24T18:50:00+02:00'
         end_time: '2025-11-24T19:00:00+02:00'
@@ -205,21 +220,19 @@ data:
         end_time: '2025-11-24T20:05:00+02:00'
         description: |2+
 
-      - title: 'Ruben Stiller: Ovatko toimittajat puolueettomia?'
+      - title: 'Hyvät, pahat ajattelijat: Christine de Pizan'
         start_time: '2025-11-24T20:05:00+02:00'
+        end_time: '2025-11-24T20:40:00+02:00'
+        description: |-
+          Hyvät, pahat ajattelijat
+
+          Kuka oli kirjailija, joka jo keskiajalla arvosteli naisten yhteiskunnallista asemaa? Hyvät, pahat ajattelijat -sarjan ensimmäisessä jaksossa tutustutaan 1400-luvulla eläneeseen Christine de Pizaniin, jota pidetään aikakauden merkittävimpänä naiskirjailijana.
+          Leskeksi jäätyään Christine de Pizan aloitti poikkeuksellisen kirjailijan uran ja elätti sillä itsensä ja perheensä. 1400-luvun ajattelijan elämästä ja ajatuksista kertovan ohjelman toimittaa Maarit Lukkarinen.
+      - title: 'Kuosmanen Tulenkantajien jäljillä: Sukupolvensa kirkkain tähti Katri Vala'
+        start_time: '2025-11-24T20:40:00+02:00'
         end_time: '2025-11-24T21:00:00+02:00'
-        description: |
-          Britannian yleisradioyhtiö BBC on ajautunut historialliseen kriisiin.
-
-          Trump uhkaa yhtiötä oikeusjutulla.Britannian konservatiivit väittävät yhtiön journalismin suosivan vasemmistoliberaaleja näkemyksiä.
-
-          Mistä tämä kriisi kertoo? Mikä nakertaa perinteisen median uskottavuutta?
-
-          Suomessa perussuomalaiset väittävät, että toimittajat edustavat punavihreää eliittiä. Onko väite täysin perätön?
-
-          Ohjelmassa puhutaan toimittajien puolueettomuudesta ja suomalaisen median tulevaisuudesta.
-
-          Vieraina ovat professori, mediatutkija Anu Koivunen ja median murroksesta väitöskirjan kirjoittanut viestintäyrittäjä Pasi Kivioja.
+        description: |-
+          Runoilija Katri Valan elämä oli hyvin traaginen. Vain 42-vuotiaana kuollutta Valaa pidetään kuitenkin yhtenä merkittävimmistä tulenkantajista. Mutta millainen ihminen tämä runoilija oikeasti oli ja miksi hän viihtyi niin huonosti tulenkantajien juhlissa?  Toimittaja Jukka Kuosmasen vieraana on Valasta elämäkerran kirjoittanut tietokirjailija FT Minna Maijala
       - title: Yksi on hyvää seuraa
         start_time: '2025-11-24T21:00:00+02:00'
         end_time: '2025-11-24T21:05:00+02:00'

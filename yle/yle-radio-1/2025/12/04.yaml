@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-20T02:35:28.853516+00:00'
+  generated_at: '2025-11-22T02:33:26.583817+00:00'
   git:
     branch: main
-    commit: c00bc76760fef63bea85c4c9bf78244207a70a4d
-  data_hash: f4908e597dcce245cd83ed1c778330fa08e70f12a4fe81e81ba627d17587c659
+    commit: cad0fb01a06fceef153c50c23e9aa8de3632afc7
+  data_hash: a325c97a8a2f57ca1461a7eec04628cda1fbf3f76fcff897fb0307cabf8a12e8
 data:
   Yle Radio 1:
     programmes:
@@ -87,6 +87,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-04T09:04:00+02:00'
         end_time: '2025-12-04T09:59:00+02:00'
+        description: |
+          Jackson: Jos kylmä oot (Harmony Sisters).
+          Monnot: La goualante du pauvre Jean (Edith Piaf).
+          Ferry: Slave to love (Bryan Ferry).
+          Simon: Diamonds on the soles of her shoes (Paul Simon & Ladysmith Black Mambazo).
+          Perkoila: Nimismiehen murhe (Mikko Perkoila).
+          Hurley/Wilkins: En lärling på våran gård (Sylvia Vrethammar).
+          Rapee/Pollack: Charmaine (Mantovani).
+          Kern: Smoke gets in your eyes (Dinah Washington).
+          Ortolani: Forget domani (Connie Francis).
+          Aava: Tuhat tarinaa (Anneli Sari).
+          Grassi/Perotti: Colpa del baion (Veikko Tuomi).
+          Andersson: Fernando (Abba).
+          Greenfield/King: Yksin kuljen sateeseen (Katri Helena).
+          Nail: Big river (Jimmy Nail).
       - title: Marko Gustafsson
         start_time: '2025-12-04T10:00:00+02:00'
         end_time: '2025-12-04T10:50:00+02:00'
@@ -101,6 +116,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-04T11:57:00+02:00'
         end_time: '2025-12-04T12:00:00+02:00'
+        description: |-
+          Kimmo Räntilän runo Vanha mies laulaa. Kokoelmasta E, Enostone 2025.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-04T12:00:00+02:00'
         end_time: '2025-12-04T12:05:00+02:00'
@@ -131,6 +148,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-04T16:07:00+02:00'
         end_time: '2025-12-04T16:59:00+02:00'
+        description: |-
+          Tshaikovski (sov. Lake): Pienoisalkusoitto balettisarj. Pähkinänsärkijä (Helsingin poliisisoittokunta/Sami Ruusuvuori).
+
+          Kiinalainen kansansäv.: Talven korpit kisailevat veden yllä (Liang Tsai-ping, cheng). 
+
+          Melartin: Legenda n:o 2 (Arto Satukangas, piano).
+
+          Järnefelt: Andante espressivo serenadista orkesterille (Sinfonia Lahti/Jaakko Kuusisto).
+
+          Netzel: Din frid, var han en drömgestalt (Sabina Bisholt, sopraano, Malin Broman, viulu, ja Simon Crawford-Phillips, piano).  
+
+          Mahler: Winterlied (Bernarda Fink, mezzosopraano, ja Anthony Spiri, piano).
+
+          Delius: Winter night kok. Three small tone poems (Lontoon kuninkaallinen FO/John Rutter).
+
+          Palmgren: Hiihtäjän virsi (YL/Matti Hyökki).
+
+          Kantelinen: Lumihiutaleiden tanssi bal. Lumikuningatar (Suomen Kansallisoopperan ork./Tuomas Kantelinen).
+
+          Humperdinck: Unipantomiimi oopp. Hannu ja Kerttu (Baijerin radion SO/Jeffrey Tate).
       - title: Uutispodcast
         start_time: '2025-12-04T17:00:00+02:00'
         end_time: '2025-12-04T17:20:00+02:00'
@@ -156,7 +193,8 @@ data:
         start_time: '2025-12-04T18:50:00+02:00'
         end_time: '2025-12-04T19:00:00+02:00'
         description: |-
-          Opetusneuvos Kalevi Virtanen, Helsinki
+          "Aina mun pitää olla armollinen itselleni"
+          Opetusneuvos Kalevi Virtanen Helsingistä kysyy, ovatko Jumalan armo ja ihmisen armollisuus itseä kohtaan lopulta aivan eri asioita?
       - title: Yle Uutiset ja sää
         start_time: '2025-12-04T19:00:00+02:00'
         end_time: '2025-12-04T19:02:00+02:00'
