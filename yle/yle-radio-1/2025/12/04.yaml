@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-24T02:39:37.393653+00:00'
+  generated_at: '2025-11-25T02:36:37.283905+00:00'
   git:
     branch: main
-    commit: ec393a33a4c25c752715d751a6909da9112ea677
-  data_hash: 5b4af652e7454d7ecb2c8e31a19e7b3487971a12a7c235ec6f8cbf8b1161679f
+    commit: 98aa89208873964751b875a6f1e6de7738e9b082
+  data_hash: 281c25831212b7c3cde08b58b4ddf1e08ec329f6a666dd9983277effe96dc158
 data:
   Yle Radio 1:
     programmes:
@@ -148,14 +148,14 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-04T16:07:00+02:00'
         end_time: '2025-12-04T16:59:00+02:00'
-        description: |-
-          Tshaikovski (sov. Lake): Pienoisalkusoitto balettisarj. Pähkinänsärkijä (Helsingin poliisisoittokunta/Sami Ruusuvuori).
+        description: |
+          Tshaikovski: Pienoisalkusoitto balettisarj. Pähkinänsärkijä (Helsingin poliisisoittokunta/Sami Ruusuvuori).
 
-          Kiinalainen kansansäv.: Talven korpit kisailevat veden yllä (Liang Tsai-ping, cheng). 
+          Kansansäv.: Talven korpit kisailevat veden yllä (Liang Tsai-ping, cheng). 
 
           Melartin: Legenda n:o 2 (Arto Satukangas, piano).
 
-          Järnefelt: Andante espressivo serenadista orkesterille (Sinfonia Lahti/Jaakko Kuusisto).
+          Järnefelt: Andante espressivo teoks. Serenadi orkesterille (Sinfonia Lahti/Jaakko Kuusisto).
 
           Netzel: Din frid, var han en drömgestalt (Sabina Bisholt, sopraano, Malin Broman, viulu, ja Simon Crawford-Phillips, piano).  
 
@@ -176,16 +176,30 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-04T17:20:00+02:00'
         end_time: '2025-12-04T17:35:00+02:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Sibeliuksesta Senegaliin – suomalaisen musiikin moninaisuutta juhlistaen'
         start_time: '2025-12-04T17:35:00+02:00'
         end_time: '2025-12-04T18:25:00+02:00'
-        description: |
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: 'Kielen päällä: hindin kieli'
+        description: |-
+          Keidas suuntaa kohti itsenäisyyspäivää ja kysyy, kenelle maa ja järvet kuuluvat. Ohjelma kuljettaa kuulijan suomalaisen kansanperinteen, romanikulttuurin, afrikkalaisten rytmien ja klassisen musiikin risteyksiin. Musiikki kertoo juurista, kulkemisesta ja kodin merkityksestä – sekä niistä, jotka ovat vaeltaneet näillä mailla sukupolvien ajan. 
+
+          Piirpauke versioi Sibeliusta, Ne Lintuizet Dave Lindhomia ja BFP Nälkämaa laulua. Lisäksi ohjelmassa kuunnellaan upeita Suomessa vaikuttavia afrobändejä.
+
+          Toimittajana Tuuli Saksala.
+
+          BFP & Ailu Valle – Nälkämaa
+          Attila the Hun – Finland
+          Ne Lintuizet – Petin pienen linnun
+          Hilja Grönfors – Eihän tämä maa
+          Galaxy – L’Insecurite
+          Frankosun and the Family
+          Helsinki-Cotonou Ensemble – Min he mon egbe
+          Piirpauke – Florestan
+          Hannu Saha, Aija Puurtinen ja Hasse Walli – Finlandia-hymni
+      - title: 'Kielen päällä: telugun ja hindin kieli'
         start_time: '2025-12-04T18:25:00+02:00'
         end_time: '2025-12-04T18:35:00+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Etelä-Intiassa puhuttava telugun kieli kuuluu dravidakieliin ja hindin kieli on Intian pohjoisosien valtakieli ja myös maan puhutuin kieli. Yliopisto-opettaja Janne Seppänen vertailee näitä kieliä. Toimittajana on Jari Aula.
       - title: Hartaita säveliä
         start_time: '2025-12-04T18:35:00+02:00'
         end_time: '2025-12-04T18:50:00+02:00'
