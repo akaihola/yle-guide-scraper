@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-25T02:36:37.814235+00:00'
+  generated_at: '2025-11-26T02:36:56.755062+00:00'
   git:
     branch: main
-    commit: 98aa89208873964751b875a6f1e6de7738e9b082
-  data_hash: 281c25831212b7c3cde08b58b4ddf1e08ec329f6a666dd9983277effe96dc158
+    commit: 8a9e97ac701aca632a26d46e8dad2ece85fdede7
+  data_hash: 769af75aaf69bcddb327d6d7ac695026d5aef91b3ac69d19c9c8dfa0f902514a
 data:
   Yle Radio 1:
     programmes:
@@ -64,6 +64,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-06T09:04:00+02:00'
         end_time: '2025-12-06T09:59:00+02:00'
+        description: |-
+          Kansansäv.: Konevitsan kirkonkellot (Martti Pokela, Eeva-Leena Sariola ja Matti Kontio).
+          Melakoski: Kulkurin kannel (Tauno Palo).
+          Holmström: Joki (Carita Holmström).
+          Linna: Kultainen nuoruus valssi (Olavi Virta).
+          Laaksonen: Muistatko vielä (Katri Helena).
+          Tauro: Höstvisa (Bo Andersson).
+          Kuusi: Pois koko pitäjästä (Pihasoittajat).
+          Godzinsky: Sulle salaisuuden kertoa mä voisin (Harmony Sisters).
+          Hyvärinen: Meahci jienat (Angelin Tytöt).
+          Bergström: On lautalla pienoinen kahvila (Kipparikvartetti).
+          Kansanlaulu: Marilaulu (Värttinä).
+          Sarmanto: Joki (Tapani Kansa). 
+          Tolonen: Mountains (Jukka Tolonen ja Pekka Pöyry).
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-12-06T10:00:00+02:00'
         end_time: '2025-12-06T10:25:00+02:00'
@@ -163,9 +177,12 @@ data:
           Ennola (sov. P.J. Hannikainen): Suomen salossa (RKK/Harald Andersén).
 
           Salmenhaara: Adagietto (Tampere Filharmonia/Eri Klas).
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana Mikko "Peltsi" Peltola
         start_time: '2025-12-06T17:00:00+02:00'
         end_time: '2025-12-06T17:50:00+02:00'
+        description: |
+          “Osmo ei tunne sanaa kiire ja tietenkin down-lapsen kanssa on paljon erilaisia haasteita, mutta myös äärimmäisen paljon mahtavia hetkiä”, Mikko “Peltsi” Peltola toteaa.
+          Hän mietti pitkään puhuuko pojastaan Osmosta julkisesti, mutta kollega Marja Hintikka vakuutti Peltsin siitä, että on tärkeää tarjota ihmisille vertaistukea ja rikkoa kehitysvammaisuuteen liittyviä tabuja. Ohjelma on uusinta ajalta 20.2.2025.
       - title: Lauantain toivotut levyt
         start_time: '2025-12-06T18:10:00+02:00'
         end_time: '2025-12-06T19:00:00+02:00'
