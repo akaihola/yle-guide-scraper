@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-26T02:36:56.496311+00:00'
+  generated_at: '2025-11-27T02:35:52.706307+00:00'
   git:
     branch: main
-    commit: 8a9e97ac701aca632a26d46e8dad2ece85fdede7
-  data_hash: 769af75aaf69bcddb327d6d7ac695026d5aef91b3ac69d19c9c8dfa0f902514a
+    commit: 652e13979940c54ef1a2f0692f6fab15dcc2d4ee
+  data_hash: 49451e9fcd1182a552421b5c05f9e8e4789185fc8b63d969c6788a62d08955c8
 data:
   Yle Radio 1:
     programmes:
@@ -46,7 +46,8 @@ data:
         end_time: '2025-12-05T06:59:59+02:00'
         description: |
           "Jotta paha ei voittaisi"
-          Kenttäpiispa Pekka Asikainen Kiimingistä puhuu itsenäisyyspäivän kynnyksellä suunnan tarkistamisen merkityksestä.
+          Ensimmäisellä adventtiviikolla Suomen evankelis-luterilaisen kirkon piispat puhuvat joulurauhasta.
+          Kenttäpiispa Pekka Asikainen Oulusta puhuu itsenäisyyspäivän kynnyksellä suunnan tarkistamisen merkityksestä.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-05T07:00:00+02:00'
         end_time: '2025-12-05T07:05:00+02:00'
@@ -84,6 +85,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-12-05T08:07:00+02:00'
         end_time: '2025-12-05T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jalmari Laine.
       - title: Yle Uutiset
         start_time: '2025-12-05T09:00:00+02:00'
         end_time: '2025-12-05T09:03:00+02:00'
@@ -127,7 +130,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-05T12:00:00+02:00'
         end_time: '2025-12-05T12:05:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Hermostoon liittyvät myytit ja todellisuus - mitä hermostolleen oikeasti voi tehdä?'
         start_time: '2025-12-05T12:05:00+02:00'
         end_time: '2025-12-05T12:55:00+02:00'
         description: |
@@ -141,7 +144,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-05T13:30:00+02:00'
         end_time: '2025-12-05T15:00:00+02:00'
-        description: |2+
+        description: |+
+          Iltapäivän musiikissa soi niin kevyt jazz, etno ja populaarimusiikin helmetkin. Miia Lahti juontaa. Kirjailija Esa Sirénin Taisteluosasto Rasi -sotaromaani sijoittuu jatkosodan kesään 1943. Tositapahtumiin perustuvassa kirjassa seikkailee myös myöhemmin kaukopartiokirjoillaan mittavan uran tehnyt Reino Lehväslaiho. Esa Sirén, kirjalija 20:n sotaromaanin takaa, on vieraana Luomiskertomuksessa. Toimittaja Jukka Kuosmanen. N. klo 14:30 Viime vuoden itsenäisyyspäivän aikaan koko maata puhutti Tuntemattoman sotilaan luentamaraton. Toimittaja Minna Joenniemi kertoo sen uusinnasta ja siitä, että mukana on taas mahdollisuus keskustella aiheesta chatissä. Jarmo Laitaneva toimittaa.
+
 
 
       - title: Kulttuuriykkönen
@@ -160,16 +165,16 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-12-05T16:07:00+02:00'
         end_time: '2025-12-05T16:59:00+02:00'
-        description: |-
-          Mendelssohn: Allegretto non troppo - Allegro molto vivace viulukonsertosta e-molli (Hilary Hahn, viulu, ja Oslon FO/Hugh Wolff).
+        description: |
+          Mendelssohn: Allegretto non troppo - Allegro molto vivace konsertosta viululle ja orkesterille e-molli (Hilary Hahn ja Oslon FO/Hugh Wolff).
 
-          Puccini: O mio babbino caro (Maria Callas, sopraano, ja Philharmonia Orchestra/Tullio Serafin).
+          Puccini: Laurettan aaria "O mio babbino caro" oopp. Gianni Schicchi (Maria Callas, sopraano, ja Philharmonia Orchestra/Tullio Serafin).
 
           O. Merikanto: Impromptu gis-molli (Jouni Somero, piano).
 
-          Paganini: Kapriisi nro 24 a-molli (Alina Pogostkina, viulu). 
+          Paganini: Kapriisi n:o 24 a-molli (Alina Pogostkina, viulu). 
 
-          Ketelbey: Luostarin puutarhassa (The New London Orchestra/Ronald Corp).
+          Ketelbey: In a monastery garden (Luostarin puutarhassa) (The New London Orchestra/Ronald Corp).
 
           Rodrigo: Zarabanda lejana (Etäinen sarabande) (Juuso Nieminen, kitara).
 
