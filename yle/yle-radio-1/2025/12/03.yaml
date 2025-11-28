@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-27T02:35:52.283559+00:00'
+  generated_at: '2025-11-28T02:35:36.951055+00:00'
   git:
     branch: main
-    commit: 652e13979940c54ef1a2f0692f6fab15dcc2d4ee
-  data_hash: 49451e9fcd1182a552421b5c05f9e8e4789185fc8b63d969c6788a62d08955c8
+    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
+  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
 data:
   Yle Radio 1:
     programmes:
@@ -155,11 +155,14 @@ data:
         end_time: '2025-12-03T15:00:00+02:00'
         description: |
           Iltapäivän rentoa musiikkia kevyestä jazzista, etnoon ja populaarimusiikin helmiin. Jalmari Laine juontaa. Kirkon tutkimus ja koulutus -yksikössä johtava asiantuntija Jyri Komulainen tulee studiovieraaksi n. klo 14. Suurin osa maapallon kristityistä asuu nykyään Aasiassa, Afrikassa ja Latinalaisessa Amerikassa? Mikä kristinuskon rooli on nykyajan maailmassa? Minkälaista on uskontojen välinen vuoropuhelu ja mikä sen merkitys on?  N. klo 14:30 ennakoidaan illan konserttia “Säveltäjien Suomi”, jossa esiintyy Turun filharmoninen orkesteri. Turun filharmonikot ovat pian saamassa uuden konserttisalin. Ainomaija Pennanen haastattelee tulevaa esiintymispaikkaa innolla odottavaaa intendentti Nikke Isomöttöstä.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Katoaako kritiikki – miltä näyttää kulttuurijournalismin tulevaisuus?'
         start_time: '2025-12-03T15:00:00+02:00'
         end_time: '2025-12-03T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Mihin ovat kadonneet perinteiset kritiikit, ja voiko kulttuurijournalismi vielä uudistua? Studiossa mietitään, miten someilmiöt ja henkilötarinat haastavat perinteisiä taidearvioita.
+          Kulttuuriykkösen studiossa aiheesta puhuvat Helsingin Sanomien toimituspäällikkö Jutta Sarhimaa, toimittaja Sonja Saarikoski ja kriitikko Maaria Ylikangas.
+          Lähetyksen toimittaa Miia Gustafsson.
+
       - title: Yle News
         start_time: '2025-12-03T15:55:00+02:00'
         end_time: '2025-12-03T15:58:00+02:00'
@@ -209,7 +212,7 @@ data:
         end_time: '2025-12-03T19:00:00+02:00'
         description: |
           "Joulunaika on odotuksen tihentymä"
-          Sairaalapappi Pirjo Kantala Helsingistä puhuu eri elämänvaiheissa kohdattavasta odotuksesta ja suuntaa katseen kohti meille kaikille annettua toivoa.
+          Joulukuun illoissa puhuvat rovasti Pirjo Kantala ja opetusneuvos Kalevi Virtanen Helsingistä. Tässä hartaudessa Pirjo Kantala puhuu eri elämänvaiheissa kohdattavasta odotuksesta ja suuntaa katseen kohti meille kaikille annettua toivoa.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-03T19:00:00+02:00'
         end_time: '2025-12-03T19:02:00+02:00'
@@ -271,6 +274,13 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2025-12-03T21:35:00+02:00'
         end_time: '2025-12-03T22:25:00+02:00'
+      - title: 'Hyvät, pahat ajattelijat: Lou Andreas-Salomé'
+        start_time: '2025-12-03T23:15:00+02:00'
+        end_time: '2025-12-03T23:39:00+02:00'
+        description: |
+          Lou Andreas-Salomén nimi liitetään yleensä filosofi Friedrich Nietzscheen, runoilija Rainer Maria Rilkeen ja psykoanalyysin kehittäjään Sigmund Freudiin – kaikkien heidän muusanaan. Mutta kuka oli tämä aikanaan tunnettu kirjailija ja psykoanalyytikko itse? Ja kuka oli lopulta kenen muusa?
+          Pietarissa vuonna 1861 syntynyt Lou Andreas-Salomé eli valtaosan elämästään Saksassa, missä hänestä tuli aikansa merkittävimpiä eurooppalaisia ajattelijoita ja psykoanalyysin kehittäjiä. 
+          Ohjelman toimittaa Maarit Lukkarinen. (es. 2021)
       - title: Yöklassinen
         start_time: '2025-12-03T23:40:00+02:00'
         end_time: '2025-12-04T06:30:00+02:00'

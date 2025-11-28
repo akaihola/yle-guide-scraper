@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-27T02:35:55.584088+00:00'
+  generated_at: '2025-11-28T02:35:42.004164+00:00'
   git:
     branch: main
-    commit: 652e13979940c54ef1a2f0692f6fab15dcc2d4ee
-  data_hash: 49451e9fcd1182a552421b5c05f9e8e4789185fc8b63d969c6788a62d08955c8
+    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
+  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
 data:
   Yle Radio 1:
     programmes:
@@ -58,6 +58,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-17T09:04:00+02:00'
         end_time: '2025-12-17T09:59:00+02:00'
+        description: |
+          Kansansäv.: Hej tomtegubbar (Rauno Lehtisen yhtye).
+          Tormé: The Christmas song (Nat King Cole).
+          Tuomisaari: Siitä tuntee joulun (Brita Koivunen).
+          Noronha: Presente de natal (Joao Gilberto).
+          Anderson: Sleigh ride (The Ronettes).
+          Bergman: Julvisa i Finnmarken (Thorstein Bergman).
+          Grainer: Jouluksi kotiin (Irmeli Mäkelä).
+          Aznavour: Noels d'autrefois (Placido Domingo & Charles Aznavour).
+          Bernard: Talven ihmemaa (Laila Kinnunen).
+          Karlsson: Pehmeä paketti (Cumulus).
+          S. Rhymer/E. Rhymer: Light of the stable (Emmylou Harris).
+          Lithenius: Sinivuorten yö (Marjatta ja Martti Pokela).
+          Pierpont: Kulkuset (Lasse Mårtenson).
+          Wartiovaara-Kallioniemi: Tonttu (Ne Lintuizet). 
+          Bobbitt: Santa Claus, Santa Claus (James Brown).
+          Wade: Adeste fideles (Mantovani).
       - title: Havaintoja muutoksesta
         start_time: '2025-12-17T10:00:00+02:00'
         end_time: '2025-12-17T10:50:00+02:00'
@@ -133,13 +150,45 @@ data:
         start_time: '2025-12-17T18:50:00+02:00'
         end_time: '2025-12-17T19:00:00+02:00'
         description: |-
-          Sairaalapappi Pirjo Kantala, Helsinki
+          "Jumala on läsnä koko luomakunnalleen"
+          Joulukuun illoissa puhuvat rovasti Pirjo Kantala ja opetusneuvos Kalevi Virtanen Helsingistä. Tässä hartaudessa Pirjo Kantala johdattaa jouluseimen ääreen todistamaan sen ympärillä näkyvää elämän rikkautta ja haurautta.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-17T19:00:00+02:00'
         end_time: '2025-12-17T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: 'Helsinki Seriös – The Gesualdo Six & Joulu '
         start_time: '2025-12-17T19:02:00+02:00'
         end_time: '2025-12-17T21:00:00+02:00'
+        description: |-
+          Renessanssin aikana adventti oli ihmeiden ja pohdinnan aikaa. Brittiläisen The Gesualdo Six -yhtyeen konsertissa vuosisatoja vanhat joululaulut kertovat tämän tarinan, osa alkuperäisessä muodossaan, osa taitavasti sovitettuna. Ilon ja mysteerin tunteita herättävä konserttiohjelma ulottuu 1500-luvun anglikaanisen kirkon alkuajoilta aina 2000-luvulle asti.
+
+          The Gesualdo Six on palkittu vokaaliyhtye, joka on saanut kiitosta mielikuvituksellisesta ohjelmistostaan ja moitteettomasta soinnistaan. Vuonna 2014 Gesualdon Tenebrae Responsories -teoksen esittämistä varten Cambridgessa perustettu yhtye on sittemmin esiintynyt lukuisilla merkittävillä festivaaleilla ympäri maailmaa.
+
+          14.12. Sibelius-Akatemian konserttisalissa tallennetun konsertin toimittaa Lotta Emanuelsson.
+
+          Thomas Tallis: Audivi vocem
+          Boris Ord: Adam lay ybounden
+          sov. R. Vaughan Williams & O. Park: The truth sent from above
+          Sulpitia Cesis: Ecce ego, Johannes, vidi
+          Cheryl Frances-Hoad: The Promised Light of Life
+          Paul Comeau: Lux mundi
+          Trad: Veni, veni Emmanuel
+          Gustaf Nordqvist: Jul, jul, strålande jul
+          Kerensa Briggs: A Tender Shoot
+          Joanna Marsh: Evergreen
+
+          Väliaika
+
+          sov. Brian Kay: Gaudete
+          Anon: Coventry carol
+          Owain Park: I wonder as I wander
+          Walter Lambe: Nesciens mater
+          Hildegard von Bingen: O Virtus Sapientie
+          Hans Leo Hassler: Verbum caro factum est
+          sov. Reginald Jacques: Away in a manger
+          sov. John Rutter: The Wexford Carol
+          Jonathan Rathbone: The Oxen
+
+          Kuva: ©Ash Mills 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-17T21:00:00+02:00'
         end_time: '2025-12-17T21:05:00+02:00'
