@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:34.068335+00:00'
+  generated_at: '2025-11-29T02:35:23.030933+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -61,14 +61,19 @@ data:
           Larghetto, Sinfonia concertantesta C-duuri T.289/4 huilulle, oboelle, viululle, sellolle ja orkesterille (Rachel Brown, huilu, Frank de Bruine, obo), Simon Standage, viulu, David Watkin, sello, ja The Academy of Ancient Music/Simon Standage).
 
           Allgero, Pianokonsertosta D-duuri, opus 7 (Sebastian Knauer, piano, ja  Zürichin kamariorkesteri/Roger Norrington).
+      - title: Radio 1 soi
+        start_time: '2025-11-30T07:52:31+02:00'
+        end_time: '2025-11-30T08:00:00+02:00'
+        description: |-
+          C. L. Lithander: Rondo huilulle ja pianolle D-duuri (Mikael Helasvuo, traverso, ja Tuija Hakkila, fortepiano). 
       - title: Yle Uutiset ja sää
         start_time: '2025-11-30T08:00:00+02:00'
         end_time: '2025-11-30T08:05:05+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
-        start_time: '2025-11-30T08:05:35+02:00'
-        end_time: '2025-11-30T08:59:30+02:00'
+      - title: Narrin aamulaulu - Soitin Vainio, rakkaudesta jousisoittimiin ja käsityötaitoon
+        start_time: '2025-11-30T08:05:23+02:00'
+        end_time: '2025-11-30T08:59:44+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          "Jää iso aukko suomalaiseen jousisoitinkenttään". Näin kuvasivat monet muusikot Soitin Vainion lopettamisuutista viime vuoden lopulla. Ilkka Vainion johtamassa Töölön liikkeessä jousisoittimia huollettiin, arvioitiin, rakennettiin, tuotiin maahan ja myytiin. Ilkka Vainion lisäksi Outi Paananen tapasi liikkeen perustajan, 95-vuotiaan Risto Vainion, joka keskittyi eläkkeelle jäätyään jousten rakentamiseen. Sellisti Arto Noras sanoo, että Risto Vainion jouset kuuluvat maailman huippuluokkaan. Hän oli 12-vuotias, kun hänestä tuli Risto Vainion asiakas ja vuosien mittaan heistä on tullut hyviä ystäviä.
       - title: Yle Uutiset ja sää
         start_time: '2025-11-30T09:00:00+02:00'
         end_time: '2025-11-30T09:03:05+02:00'
@@ -253,6 +258,16 @@ data:
         end_time: '2025-11-30T23:09:12+02:00'
         description: |-
           Millainen on nykyajan hyvä johtaja? Piilaaksossa menestystä niittänyt yritysjohtaja Mårten Mickos ja pörssiyhtiö Kojamon johtaja Katri Viippola keskustelevat.
+      - title: Radio 1 soi
+        start_time: '2025-11-30T23:09:12+02:00'
+        end_time: '2025-11-30T23:18:46+02:00'
+        description: |-
+          Suppé: Runoilija ja talonpoika -alkusoitto (Dresdenin valtionork./Otmar Suitner).
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-11-30T23:18:46+02:00'
+        end_time: '2025-11-30T23:24:18+02:00'
+        description: |
+          Riikka Holopainen haastattelee kapellimestari Giovanni Antoninia. Ensilähetys oli 26.09.2025.
       - title: 'Romano mirits: Mitä kaikkea tekeekään romanijärjestöjen kattojärjestö Suomen Romanifoorumi ry? '
         start_time: '2025-11-30T23:24:18+02:00'
         end_time: '2025-11-30T23:39:03+02:00'

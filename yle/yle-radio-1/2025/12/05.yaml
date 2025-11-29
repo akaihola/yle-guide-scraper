@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:37.834405+00:00'
+  generated_at: '2025-11-29T02:35:24.928678+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-05T06:30:50+02:00'
         end_time: '2025-12-05T06:50:00+02:00'
+        description: |+
+          Hadar (sov. Vainiomäki): Tiellä ken vaeltaa (Nina Åström).
+
+          Anonyymi: Hoosianna! huudetaan (Jaakko Kortekangas, baritoni, ja Matti Hannula, urut).
+
+          Koraalitoisinto: Armoa, Jeesus, odotan (Katariina Airas, laulu, Maija Karhinen-Ilo, laulu ja nokkahuilu, sekä yhtye).
+
+          Jaakko Linjama: Rukous isänmaan puolesta (SRK:n kamarikuoro/Olli Heikkilä).
+
       - title: Aamuhartaus
         start_time: '2025-12-05T06:50:00+02:00'
         end_time: '2025-12-05T06:59:59+02:00'
@@ -133,8 +142,8 @@ data:
       - title: 'Tiedeykkönen: Hermostoon liittyvät myytit ja todellisuus - mitä hermostolleen oikeasti voi tehdä?'
         start_time: '2025-12-05T12:05:00+02:00'
         end_time: '2025-12-05T12:55:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |-
+          Miten paljon omaa hermostoaan voi säätää? Hermostoon liittyy paljon myyttejä, jotka otetaan totuuksina. Kuinka hermosto toimii ja mihin voi vaikuttaa? Haastateltavina ylilääkäri, neurologi Sami Curtze, neurologi Leena Kämppi ja neuropsykologi Katri Saar. Toimittajana Minna Korhonen
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-05T12:55:00+02:00'
         end_time: '2025-12-05T13:00:00+02:00'
@@ -149,11 +158,13 @@ data:
 
 
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa Outi Hupaniittu, Matti Rämö ja Jussi Turhala'
         start_time: '2025-12-05T15:00:00+02:00'
         end_time: '2025-12-05T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuuriykkösen Perjantaistudiossa ruoditaan jälleen vakiraatilaisten kanssa kulttuurin, median, arvokysymysten ajankohtaisaiheita sekä ajankuvaa.
+
+          Mukana arkiston johtaja Outi Hupaniittu, tomittaja-tietokirjailija Matti Rämö sekä markkinoinnin asiantuntija Jussi Turhala. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2025-12-05T15:55:00+02:00'
         end_time: '2025-12-05T15:58:00+02:00'
@@ -199,6 +210,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-05T18:35:00+02:00'
         end_time: '2025-12-05T18:50:00+02:00'
+        description: |+
+          Haapala: Kulmakivi (Mustarastas).
+
+          T. Kuusisto: Suomalainen rukous (Soile Isokoski, sopraano, ja Helsingin kaupunginork./John Storgårds).
+
+          Simojoki: Kiitos, Jumalamme, kun annoit kauniin maan (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola).
+
+          Mäntyjärvi: Benedic anima mea domino (Ylistä Herraa, minun sieluni) (Lauluyhtye Rajaton).
+
       - title: Iltahartaus
         start_time: '2025-12-05T18:50:00+02:00'
         end_time: '2025-12-05T19:00:00+02:00'
@@ -246,11 +266,25 @@ data:
         end_time: '2025-12-05T22:26:00+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Sibeliuksesta Senegaliin – suomalaisen musiikin moninaisuutta juhlistaen'
         start_time: '2025-12-05T22:27:00+02:00'
         end_time: '2025-12-05T23:17:00+02:00'
-        description: |
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        description: |-
+          Keidas suuntaa kohti itsenäisyyspäivää ja kysyy, kenelle maa ja järvet kuuluvat. Ohjelma kuljettaa kuulijan suomalaisen kansanperinteen, romanikulttuurin, afrikkalaisten rytmien ja klassisen musiikin risteyksiin. Musiikki kertoo juurista, kulkemisesta ja kodin merkityksestä – sekä niistä, jotka ovat vaeltaneet näillä mailla sukupolvien ajan. 
+
+          Piirpauke versioi Sibeliusta, Ne Lintuizet Dave Lindhomia ja BFP Nälkämaa laulua. Lisäksi ohjelmassa kuunnellaan upeita Suomessa vaikuttavia afrobändejä.
+
+          Toimittajana Tuuli Saksala.
+
+          BFP & Ailu Valle – Nälkämaa
+          Attila the Hun – Finland
+          Ne Lintuizet – Petin pienen linnun
+          Hilja Grönfors – Eihän tämä maa
+          Galaxy – L’Insecurite
+          Frankosun and the Family
+          Helsinki-Cotonou Ensemble – Min he mon egbe
+          Piirpauke – Florestan
+          Hannu Saha, Aija Puurtinen ja Hasse Walli – Finlandia-hymni
       - title: Yöklassinen
         start_time: '2025-12-05T23:40:00+02:00'
         end_time: '2025-12-06T08:00:00+02:00'

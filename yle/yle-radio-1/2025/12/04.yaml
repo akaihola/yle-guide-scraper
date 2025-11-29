@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:37.475196+00:00'
+  generated_at: '2025-11-29T02:35:24.596143+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -41,11 +41,22 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-04T06:30:50+02:00'
         end_time: '2025-12-04T06:50:00+02:00'
+        description: |+
+          J.S. Bach: Jeesus jätti taivaan (Olli Porthan, urut, ja Klemetti-Opiston Kamarikuoro/Matti Hyökki).
+
+          Geraedts (sov. Lehtipuu): Mies tänne saapui (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, cembalo ja djembe, Jarmo Julkunen, kitara, ja Mikko Perkola, viola da gamba).
+
+          Koraalitoisinto (sov. Voima): Ilmoita, Herra, sun kunnias, voimas (Tellu Turkka ja Suden Aika).
+
+          L. Heikkilä: Hoosianna (Moreeni-kuoro ja puhallinorkesteri sekä jousiyhtye Sons de la Vie/Lasse Heikkilä).
+
       - title: Aamuhartaus
         start_time: '2025-12-04T06:50:00+02:00'
         end_time: '2025-12-04T06:59:59+02:00'
         description: |
-          Piispa Jukka Keskitalo, Oulu
+          "Ymmärryksen ylittävä rauha"
+          Ensimmäisellä adventtiviikolla Suomen evankelis-luterilaisen kirkon piispat puhuvat joulurauhasta.
+          Oulun piispa Jukka Keskitalo puhuu Jeesuksen antamasta sisäisestä rauhasta ja kristityn kutsumuksesta työskennellä ihmisten välisen rauhan rakentajana. 
       - title: Yle Uutiset ja sää
         start_time: '2025-12-04T07:00:00+02:00'
         end_time: '2025-12-04T07:05:00+02:00'
@@ -113,7 +124,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-04T10:50:00+02:00'
         end_time: '2025-12-04T11:00:00+02:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Selkeyden hitaat sykäykset'
         start_time: '2025-12-04T11:00:00+02:00'
         end_time: '2025-12-04T11:57:00+02:00'
         description: |
@@ -140,10 +151,18 @@ data:
         end_time: '2025-12-04T15:00:00+02:00'
         description: |
           Kevyttä jazzia, etnomusiikkia ja popularimusiikin helmiä. Juontajana Miia Lahti. Muotisuunnittelija Teemu Muurimäki on maan tunnetuimpia muotitaiteilijoita, jonka työt ovat tuttuja niin itsenäisyyspäivän juhlista, Euroviisuista kuin elokuvajuhlistakin. Muurimäki on uransa aikana työskennellyt useissa maailmankuuluissa muotitaloissa. Nyt Teemu Muurimäki viettää 25-vuotis taiteilijavuottaan, jota juhlistetaan mm. Satakunnan museossa esillä olevalla näyttelyllä. Teemu Muurimäki tulee studiovieraaksi n. klo 14. N. klo 14:30 Kirjailija Nina Honkanen kertoo häntä erityisesti koskettaneista kulttuurielämyksistä. Toimittajana Satu Kivelä.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Linnan juhlien puvut ja korut'
         start_time: '2025-12-04T15:00:00+02:00'
         end_time: '2025-12-04T15:55:00+02:00'
         description: |
+          Suuntaamme katseemme suomalaiseen juhlapukeutumiseen. Millä tavalla Linnan juhlat ovat kriisissä olevan suomalaisen muodin näyttäytymispaikka? Millaisia neuvoja asiantuntijat antavat miesten juhlapukeutumiseen? Ovatko säännöt muuttuneet ja miten etiketti sanelee tyylin? Millaisia historiallisia viittauksia löytyy modernien vaatteiden takaa? Mitkä korutrendit näkyvät nyt juhlapukujen rinnalla? Miten timantit, rubiinit, safiirit ja smaragdit ovat syntyneet ja millaisia uskomuksia niihin liittyy?
+
+          Ohjelman vieraina ovat Pariisissa 30 vuotta asunut muotisuunnittelija Jasmin Santanen, vintagemuodin asiantuntija Arja Könönen ja diplomigemmologi Niina-Jasmin Korpi Tillanderilta.
+
+          Ohjelman juontaa on Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-12-04T15:55:00+02:00'
@@ -211,6 +230,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-04T18:35:00+02:00'
         end_time: '2025-12-04T18:50:00+02:00'
+        description: |+
+          Ruotsalainen kansankoraali: Te laaksot, notkot, nouskaa (B.A.M.B.U. -kören/Ann-Catrin Wulff).
+
+          Anonyymi (sov. Breiner): Veni, veni Emmanuel (Nicolaus Esterhazy Sinfonia/Peter Breiner).
+
+          S. Heikkilä: Kunnia (Sakari Heikkilä).
+
       - title: Iltahartaus
         start_time: '2025-12-04T18:50:00+02:00'
         end_time: '2025-12-04T19:00:00+02:00'
@@ -220,6 +246,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-04T19:00:00+02:00'
         end_time: '2025-12-04T19:02:00+02:00'
+      - title: Tanssivan karhun runoilta
+        start_time: '2025-12-04T19:02:00+02:00'
+        end_time: '2025-12-04T21:00:00+02:00'
+        description: |-
+          Tanssiva karhu -palkinto uudelle suomalaiselle runokokoelmalle ja Kääntäjäkarhu parhaalle käännösrunokokoelmalle jaetaan Tekstin talolla Helsingissä. Suoraa lähetystä ja tapahtumaa juontavat Aleksis Salusjärvi ja Jukka Kuosmanen. Runoja lausuu näyttelijä Mirjami Heikkinen. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-04T21:00:00+02:00'
         end_time: '2025-12-04T21:05:00+02:00'
@@ -255,7 +286,7 @@ data:
           Muusikot: Anders Wiksten, Pekka Savolainen, Eero Savela, Rutger Orjatsalo, Kari Kuivalainen ja Outi Wiksten
           Tuotanto - Pekka Savolainen / Yle Draama 2022.
 
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Selkeyden hitaat sykäykset'
         start_time: '2025-12-04T23:00:00+02:00'
         end_time: '2025-12-04T23:56:30+02:00'
         description: |

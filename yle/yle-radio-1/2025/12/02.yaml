@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:36.304889+00:00'
+  generated_at: '2025-11-29T02:35:23.816751+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -41,6 +41,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-02T06:30:50+02:00'
         end_time: '2025-12-02T06:50:00+02:00'
+        description: |+
+          Vogler: Hoosianna (Kanteleduo Sinikka ja Matti Kontio).
+
+          Tuntematon (sov. Linjama): Hoosianna! huudetaan (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
+
+          Jalas: Psalmi (Jorma Hynninen, baritoni, ja Ilkka Paananen, piano).
+
+          Köhler - Asikainen: Nyt sytytämme kynttilän (Hannes Asikainen, kitara).
+
       - title: Aamuhartaus
         start_time: '2025-12-02T06:50:00+02:00'
         end_time: '2025-12-02T06:59:59+02:00'
@@ -111,11 +120,32 @@ data:
         end_time: '2025-12-02T10:55:00+02:00'
         description: |-
           Vakava sairaus nyrjäyttää elämän täydellisesti radaltaan. Keskusteluterapia auttaa, mutta yhteys tunteisiin voi syntyä jopa syvemmin taidelähtöisen menetelmän kautta. Tämän tietävät rintasyövän sairastaneet professori Hanna Meretoja ja muusikko Saaramaija Żórawski. 
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Flauto dolce, hieno soitin'
         start_time: '2025-12-02T11:00:00+02:00'
         end_time: '2025-12-02T11:57:00+02:00'
-        description: |-
+        description: |
+          Monille nokkahuilu on se koulusoitin, jolla ei oikeata musiikkia voi soitaa. Väärin.
+          Nokkahuilun historia on pitkä ja moninainen. Se soi jo kymmeniä tuhansia vuosia sitten, ja renessansin ja barokin aikana sille sävelsivät monet ajan parhaimmat säveltäjät. Nykysäveltäjät ovat taas löytäneet nokkahuilun.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues II (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
+
+          Johann Sebastian Bach: Brandenburgilainen konsertto no 4 G, osa I Allegro (Robert Erlich ja Antje Hensel, nokkahuilu, Kati Debretzeni, viulu, ja Euroopan Brandenburg-orkesteri/Trevor Pinnock).
+
+          Georg Friedrich Händel: Augelletti, che cantate, oopperasta Rinaldo (Dorothee Mields, sopraano, Stefan Temmingh, sopraninonokkahuilu, Gentleman's Band ja La Folia barokkiorkesteri/Stefan Temmingh).
+
+          Johann Adolf Hasse: Cantata per flauto B-duuri (Maurice Steger, nokkahuilu, Mauro Valli, sello, Naoko Kitaya,cembalo ja David Bergmüller, kitara).
+
+          Anonyymi: Cantiga de Santa Maria (Alla Francesca-yhtye).
+
+          William Byrd: Fantasia g-molli (Bravade-yhtye).
+
+          Fulvio Caldini: Fade control (Amsterdamin Loeki Stardust Quartet).
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues VI (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-02T11:57:00+02:00'
         end_time: '2025-12-02T12:00:00+02:00'
@@ -129,9 +159,12 @@ data:
         end_time: '2025-12-02T12:25:00+02:00'
         description: |
           Sarjassa ihmetellään kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Deir El Medina -osan vieraana on egyptologi Mia Meri. Toimittaja Jukka Kuosmanen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Ennen suomea ja saamea nykyisen Suomen alueella puhuttiin useita tuntemattomia kieliä'
         start_time: '2025-12-02T12:25:00+02:00'
         end_time: '2025-12-02T12:50:00+02:00'
+        description: |
+          Pasi Heikura haastattelee tiedetoimittaja Topias Haikalaa kielistä, joita nykyisen Suomen alueella on puhuttu vuosituhansia sitten.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-02T12:50:00+02:00'
         end_time: '2025-12-02T13:00:00+02:00'
@@ -146,14 +179,14 @@ data:
       - title: 'Kulttuuriykkönen: Uusi Nuremberg-elokuva pohtii syyllisyyttä ja osallisuutta'
         start_time: '2025-12-02T15:00:00+02:00'
         end_time: '2025-12-02T15:55:00+02:00'
-        description: |
+        description: |-
           Kulttuuriykkönen tarkastelee historiallista Nürnbergin oikeudenkäyntiä Suomessa 28. marraskuuta 2025 ensi-iltansa saavan Nuremberg-elokuvan kautta. James Vanderbiltin ohjaama ja Jack El-Hain romaaniin pohjautuva teos vie katsojan Nürnbergin sotarikosoikeudenkäyntien jännitteisiin hetkiin. Elokuvan keskiössä on psykiatri Douglas Kelleyn tehtävä arvioida, onko natsijohtaja Hermann Göring oikeustoimikelpoinen vastaamaan rikoksistaan (Russell Crowe, Rami Malek).
 
           Toisen maailmansodan jälkeen Nürnbergissä tuomittiin 24 Natsi-Saksan johtajaa ennennäkemättömistä rikoksista: rauhanrikoksista, sotarikoksista ja rikoksista ihmisyyttä vastaan. Oikeudenkäynnit loivat perustan kansainväliselle rikostuomioistuimelle ja tekivät kansanmurhasta kansainvälisen rikoksen.
 
           Ohjelmassa pohditaan, miksi käskyjen noudattamista ei enää hyväksytty puolustukseksi, miten Nürnbergin opit vaikuttivat kansainväliseen oikeuteen ja Euroopan integraatioon sekä miten elokuvassa käsitellään oikeuden ja mielenterveyden rajanvetoa.
 
-          Keskustelemassa ovat elokuva-asiantuntija Jari Sedergren, historioitsija ja yliopistotutkija Oula Silvennoinen ja eläköitynyt oikeushammaslääkäri Helena Ranta.
+          Keskustelemassa ovat elokuva-asiantuntija Jari Sedergren, Maanpuolustuskoulun opettaja ja tutkija Kari Takamaa ja eläköitynyt oikeushammaslääkäri Helena Ranta. 
 
           Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
@@ -223,6 +256,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-02T18:35:00+02:00'
         end_time: '2025-12-02T18:50:00+02:00'
+        description: |+
+          Valamon luostarin säv. (sov. Pores): Efratan seutu (Psalloo-kuoro/Raimo Pores).
+
+          Ioannidis: Pyhä Jumala (Ortofonia ja Jaakko Olkinuora, laulu).
+
+          Bashmakov: Herran rukous (Kristoforos-kuoro/Irina Tchervinskij-Matsi).
+
+          Anonyymi: Pyhä isämme Nikolaos (Krysostomos/Mikko Sidoroff).
+
       - title: Iltahartaus
         start_time: '2025-12-02T18:50:00+02:00'
         end_time: '2025-12-02T19:00:00+02:00'
@@ -266,6 +308,15 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-12-02T20:35:00+02:00'
         end_time: '2025-12-02T21:00:00+02:00'
+        description: |+
+          Ukraina valmistautuu kylmään talveen Venäjän hyökkäyssodan paineessa. Venäjä tekee iskuja Ukrainan sähköntuotantoon ja muuhun energiainfrastruktuuriin.
+
+          Diplomatiassa Ukraina on pinteessä, kun Yhdysvaltain hallinto tuntuu olevan valmis painostamaan Ukrainaa kohti Venäjän sanelemia rauhanehtoja. 
+
+          Kotimaanpolitiikassa presidentti Volodymyr Zelenskyiä varjostaa laajamittainen korruptioskandaali, joka ulottuu presidentin lähipiiriin.
+
+          Maailmanpolitiikan arkipäivää tarkastelee, miten Zelenskyi luovii Trumpin kanssa ja miten ukrainalaiset selviävät arjestaan sodan paineiden keskellä. Ohjelman ovat toimittaeet Justas Stasevskij ja Heikki Heiskanen. Äänitarkkailija on Laura Koso. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-02T21:00:00+02:00'
         end_time: '2025-12-02T21:05:00+02:00'

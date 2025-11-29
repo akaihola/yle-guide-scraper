@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:35.790786+00:00'
+  generated_at: '2025-11-29T02:35:23.538379+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -43,6 +43,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-01T06:30:50+02:00'
         end_time: '2025-12-01T06:50:00+02:00'
+        description: |+
+          Tuntematon (sov. Rissanen): Sinua, Kristus, odottaa (Human Organ).
+
+          Ochs: Soi, kiitos soi (Mieskuoro Weljet/Johannes Kangas).
+
+          Tuntematon: Avaja porttis, ovesi (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Simojoki: Palmunlehviin peittyy maa (Piritat/Ulla Eho-Saario, ja Timo Saario, piano).
+
       - title: Aamuhartaus
         start_time: '2025-12-01T06:50:00+02:00'
         end_time: '2025-12-01T06:59:59+02:00'
@@ -134,20 +143,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-01T12:00:00+02:00'
         end_time: '2025-12-01T12:05:00+02:00'
-      - title: 'Elävä historia: Kukkia ja siemeniä ryöstämässä – kasvinmetsästäjä uskoi olevansa tieteen ja imperiumin asialla'
+      - title: 'Elävä historia: Kukkia ja siemeniä ryöstämässä - kasvinmetsästäjä uskoi olevansa tieteen ja imperiumin asialla'
         start_time: '2025-12-01T12:05:00+02:00'
         end_time: '2025-12-01T12:55:00+02:00'
         description: |+
           Kasvinmetsästys kertoo siirtomaa-ajan ryöstelypolitiikasta. Luonnonvarat, joihin kasvitkin kuuluvat, olivat valkoisille siirtomaaisännille vapaata riistaa. 
-
-          Löytöretkistä 1400-luvulla alkunut toiminta, jossa toisella puolella maapalloa kasvaneita kasveja kuljetettiin laivoilla kohti pohjoista, oli kiihkeimmillään 1800-luvulla. Wardin laatikko, eli matkakasvihuone oli ratkaiseva keksintö, jonka avulla taimet ja kokonaiset kasvit säilyivät hengissä Euroopan kuninkaallisiin kasvihuoneisiin tai kauppapuutarhojen myyntiluetteloihin.
-
-          Nuoret botanistit olivat valmiita riskeeraamaan henkensä pitkillä merimatkoilla, sillä uusien kasvien löytäminen merkitsi heille mainetta ja kunniaa. Kuukausien, jopa vuoden mittaiset matkat olivat kuitenkin täynnä vaaroja ja malaria vei miehiä, joskus lähes koko laivan miehistön.
-
-          Nykyiset huonekasvimme on jalostettu kasvinmetsästäjien mukanaan tuomista yksilöistä. Kasvien laiton kauppa ei ole suinkaan kadonnut.
-
-          Toimittajana Liisa Vihmanen
-          ÄÄnisuunnittelu Panu Willman
+          Asiantuntijat: kasviekologi, tietokirjailija Teija Alanko, toimittaja Elina Grundström
+          Toimittaja, käsikirjoittaja: Liisa Vihmanen
+          Äänisuunnittelija: Panu Willman
 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-01T12:55:00+02:00'
@@ -164,9 +167,11 @@ data:
         start_time: '2025-12-01T15:00:00+02:00'
         end_time: '2025-12-01T15:55:00+02:00'
         description: |-
-          Kulttuuriykkösessä keskustellaan puolalaisen Andrzej Sapkowskin luomasta Noituri-romaaneista ja niiden pohjalta tehdyistä The Witcher -tv-sarjoista sekä -videopeleistä, mitkä ovat yhdessä saaneet aikaan yhden aikamme suosituimmista keskiaikaisista fantasiatarinoista. 
+          Kulttuuriykkösessä keskustellaan puolalaisen Andrzej Sapkowskin luomasta Noituri-romaaneista ja niiden pohjalta tehdystä Netflixin The Witcher -tv-sarjasta, animaatioista sekä maineekkaan pelitalo Cd Project Redin peleistä, mitkä ovat yhdessä saaneet aikaan yhden aikamme suosituimmista keskiaikaisista fantasiatarinoista.
 
-          Mikä palkkiometsästäjien lailla hirviöitä surmaavissa hedelmättömissä mutanteissa, niin kutsutuissa noitureissa sekä koko Sapowskin monimutkaisessa hirviöitä, noitia, ihmisiä, haltioita, kääpiöitä ja poliittista valtapeliä vilisevässä maailmassa kiehtoo, ja miten se eroaa Tolkienin Taru sormusten herrasta tai Martinin Game of Thrones -fantasiamaailmoista? Millaista sankariainesta kovia kokenut noituri Geralt Rivialainen, hänen rakastettunsa noita Yennefer Vengerberg sekä heidän ottolapsekseen päätynyt koko valtakunnan havittelema suurta maagista potentiaalia omaava Ciri oikein ovat? Miten Noituri onnistuu erottumaan edukseen nykyajan fantasiakentällä, ja mitkä ovat sen selkeimmät heikkoudet? 
+          Mikä palkkiometsästäjien lailla hirviöitä surmaavissa hedelmättömissä mutanteissa, niin kutsutuissa noitureissa sekä koko Sapkowskin monimutkaisessa hirviöitä, noitia, ihmisiä, haltioita, kääpiöitä yms. fantastisia humanoidilajeja ja poliittista valtapeliä vilisevässä maailmassa kiehtoo? Ja miten se eroaa esimerkiksi Tolkienin Taru sormusten herrasta tai Martinin Game of Thrones -fantasiamaailmoista? 
+
+          Millaista sankariainesta kovia kokenut noituri Geralt Rivialainen, hänen rakastettunsa noita Yennefer Vengerbergiläinen sekä heidän ottolapsekseen päätynyt koko valtakunnan havittelema suurta maagista potentiaalia omaava Ciri oikein ovat? Miten Noituri onnistuu erottumaan edukseen nykyajan fantasiakentällä, ja miten siitä juonnetut pelit ja tv-sarja yhdessä nostivat koko Noiturin maailmanlaajuiseksi ilmiöksi? Miten mielikuva The Witcherin maailmasta eroaa riippuen siitä, onko siihen sukeltanut ensisijaisesti kirjojen, pelien tai tv-sarjan ja animaatioelokuvien kautta? 
            
           Vieraana fantasiakirjailija-roolipelisuunnittelija Vehka Kurjenmiekka sekä kriitikko Aleksi Kuutio. Toimittajana Juhani Kenttämaa.
       - title: Yle News
@@ -181,11 +186,11 @@ data:
         start_time: '2025-12-01T16:07:00+02:00'
         end_time: '2025-12-01T16:59:00+02:00'
         description: |
-          Rodrigo: Allegro con spirito Aranjuez-konsertosta (Pepe Romero, kitara, ja Academy of St. Martin-in-the-Fields/ Neville Marriner).
+          Rodrigo: Allegro con spirito teoks. Concierto de Aranjuez (Aranjuez-konsertto) (Pepe Romero, kitara, ja Academy of St. Martin-in-the-Fields/ Neville Marriner).
 
           Dowland: Awake, sweet love (Herää suloinen rakkaus) (The Hilliard Ensemble).
 
-          Dvorak: 10. osa "Siellä on vanha kallio" kok. Sypressejä (Prahan jousikvartetti).
+          Dvorak: Siellä on vanha kallio teoks. Sypressejä (Prahan jousikvartetti).
 
           Rahmaninov: Andante sonaatista g-molli (Martti Rousi, sello, ja Juhani Lagerspetz, piano).
 
@@ -199,7 +204,7 @@ data:
 
           Byrd: Fortune (Canadian Brass).
 
-          Dvorák: Slaavilainen tanssi n:o 4 F-duuri (Tshekkiläinen FO/Jirí Belohlávek).
+          Dvorak: Slaavilainen tanssi n:o 4 F-duuri (Tshekkiläinen FO/Jirí Belohlávek).
       - title: Uutispodcast
         start_time: '2025-12-01T17:00:00+02:00'
         end_time: '2025-12-01T17:20:00+02:00'
@@ -245,11 +250,13 @@ data:
       - title: Politiikkaradio
         start_time: '2025-12-01T21:10:00+02:00'
         end_time: '2025-12-01T21:40:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Digitaalinen kaksonen auttaa ymmärtämään sitä, mitä maapallolla todellisuudessa tapahtuu'
         start_time: '2025-12-01T21:41:00+02:00'
         end_time: '2025-12-01T22:31:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |-
+          Tieteen tietotekniikan keskus CSC vastaa useista osista eurooppalaisessa maapallon kaksosta tekevässä hankkeessa. Kaiken muun ohella siellä hahmotellaan chatbotia, jolta kansalaiset ja päättäjät voisivat kysyä ilmastokysymyksiä.
+
+          Haastateltava: Jenni Kontkanen, Tieteen tietotekniikan keskus CSC:n digitaalisten kaksosten ryhmän päällikkö. Toimittajana Jari Mäkinen.
       - title: Näistä levyistä en luovu Antti Reini
         start_time: '2025-12-01T22:45:00+02:00'
         end_time: '2025-12-01T23:39:00+02:00'

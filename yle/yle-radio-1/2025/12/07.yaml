@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-11-28T02:35:38.428930+00:00'
+  generated_at: '2025-11-29T02:35:25.434095+00:00'
   git:
     branch: main
-    commit: b36f080c5f1959bfd404ac67e4340b4824e21c41
-  data_hash: ce46bfce100659e92ad5a0366dafaa5ff023b6d0de2bc4859838f55787f9a8fb
+    commit: cac6bb809e11e9705b08421ec88d39a4ce21c6fa
+  data_hash: 1e316ca76d7b7d2b47c9bda37004b2707c1b0fb9018667171e5a03111ed2bc91
 data:
   Yle Radio 1:
     programmes:
@@ -12,11 +12,32 @@ data:
         end_time: '2025-12-07T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Flauto dolce, hieno soitin'
         start_time: '2025-12-07T07:01:00+02:00'
         end_time: '2025-12-07T07:58:00+02:00'
-        description: |-
+        description: |
+          Monille nokkahuilu on se koulusoitin, jolla ei oikeata musiikkia voi soitaa. Väärin.
+          Nokkahuilun historia on pitkä ja moninainen. Se soi jo kymmeniä tuhansia vuosia sitten, ja renessansin ja barokin aikana sille sävelsivät monet ajan parhaimmat säveltäjät. Nykysäveltäjät ovat taas löytäneet nokkahuilun.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues II (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
+
+          Johann Sebastian Bach: Brandenburgilainen konsertto no 4 G, osa I Allegro (Robert Erlich ja Antje Hensel, nokkahuilu, Kati Debretzeni, viulu, ja Euroopan Brandenburg-orkesteri/Trevor Pinnock).
+
+          Georg Friedrich Händel: Augelletti, che cantate, oopperasta Rinaldo (Dorothee Mields, sopraano, Stefan Temmingh, sopraninonokkahuilu, Gentleman's Band ja La Folia barokkiorkesteri/Stefan Temmingh).
+
+          Johann Adolf Hasse: Cantata per flauto B-duuri (Maurice Steger, nokkahuilu, Mauro Valli, sello, Naoko Kitaya,cembalo ja David Bergmüller, kitara).
+
+          Anonyymi: Cantiga de Santa Maria (Alla Francesca-yhtye).
+
+          William Byrd: Fantasia g-molli (Bravade-yhtye).
+
+          Fulvio Caldini: Fade control (Amsterdamin Loeki Stardust Quartet).
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues VI (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-07T08:00:00+02:00'
         end_time: '2025-12-07T08:05:05+02:00'
@@ -50,20 +71,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-07T12:00:00+02:00'
         end_time: '2025-12-07T12:05:00+02:00'
-      - title: 'Elävä historia: Kukkia ja siemeniä ryöstämässä – kasvinmetsästäjä uskoi olevansa tieteen ja imperiumin asialla'
+      - title: 'Elävä historia: Kukkia ja siemeniä ryöstämässä - kasvinmetsästäjä uskoi olevansa tieteen ja imperiumin asialla'
         start_time: '2025-12-07T12:05:00+02:00'
         end_time: '2025-12-07T12:55:00+02:00'
         description: |+
           Kasvinmetsästys kertoo siirtomaa-ajan ryöstelypolitiikasta. Luonnonvarat, joihin kasvitkin kuuluvat, olivat valkoisille siirtomaaisännille vapaata riistaa. 
-
-          Löytöretkistä 1400-luvulla alkunut toiminta, jossa toisella puolella maapalloa kasvaneita kasveja kuljetettiin laivoilla kohti pohjoista, oli kiihkeimmillään 1800-luvulla. Wardin laatikko, eli matkakasvihuone oli ratkaiseva keksintö, jonka avulla taimet ja kokonaiset kasvit säilyivät hengissä Euroopan kuninkaallisiin kasvihuoneisiin tai kauppapuutarhojen myyntiluetteloihin.
-
-          Nuoret botanistit olivat valmiita riskeeraamaan henkensä pitkillä merimatkoilla, sillä uusien kasvien löytäminen merkitsi heille mainetta ja kunniaa. Kuukausien, jopa vuoden mittaiset matkat olivat kuitenkin täynnä vaaroja ja malaria vei miehiä, joskus lähes koko laivan miehistön.
-
-          Nykyiset huonekasvimme on jalostettu kasvinmetsästäjien mukanaan tuomista yksilöistä. Kasvien laiton kauppa ei ole suinkaan kadonnut.
-
-          Toimittajana Liisa Vihmanen
-          ÄÄnisuunnittelu Panu Willman
+          Asiantuntijat: kasviekologi, tietokirjailija Teija Alanko, toimittaja Elina Grundström
+          Toimittaja, käsikirjoittaja: Liisa Vihmanen
+          Äänisuunnittelija: Panu Willman
 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-07T12:55:00+02:00'
@@ -131,11 +146,32 @@ data:
         end_time: '2025-12-07T21:21:00+02:00'
         description: |
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Flauto dolce, hieno soitin'
         start_time: '2025-12-07T21:22:00+02:00'
         end_time: '2025-12-07T22:19:00+02:00'
         description: |
+          Monille nokkahuilu on se koulusoitin, jolla ei oikeata musiikkia voi soitaa. Väärin.
+          Nokkahuilun historia on pitkä ja moninainen. Se soi jo kymmeniä tuhansia vuosia sitten, ja renessansin ja barokin aikana sille sävelsivät monet ajan parhaimmat säveltäjät. Nykysäveltäjät ovat taas löytäneet nokkahuilun.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues II (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
+
+          Johann Sebastian Bach: Brandenburgilainen konsertto no 4 G, osa I Allegro (Robert Erlich ja Antje Hensel, nokkahuilu, Kati Debretzeni, viulu, ja Euroopan Brandenburg-orkesteri/Trevor Pinnock).
+
+          Georg Friedrich Händel: Augelletti, che cantate, oopperasta Rinaldo (Dorothee Mields, sopraano, Stefan Temmingh, sopraninonokkahuilu, Gentleman's Band ja La Folia barokkiorkesteri/Stefan Temmingh).
+
+          Johann Adolf Hasse: Cantata per flauto B-duuri (Maurice Steger, nokkahuilu, Mauro Valli, sello, Naoko Kitaya,cembalo ja David Bergmüller, kitara).
+
+          Anonyymi: Cantiga de Santa Maria (Alla Francesca-yhtye).
+
+          William Byrd: Fantasia g-molli (Bravade-yhtye).
+
+          Fulvio Caldini: Fade control (Amsterdamin Loeki Stardust Quartet).
+
+          Jorrit Tamminga/Erik Bosgraaf: Dialogues VI (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
       - title: Sari Valto
         start_time: '2025-12-07T22:20:00+02:00'
         end_time: '2025-12-07T23:18:00+02:00'
