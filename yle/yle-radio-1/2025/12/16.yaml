@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-02T02:37:31.628384+00:00'
+  generated_at: '2025-12-03T02:37:27.977748+00:00'
   git:
     branch: main
-    commit: 2138f68ba8a6e26d1928a5d33c1031cc5d5e90c7
-  data_hash: 4adc865a63535ec448cb8f4420806ea2578967742911367e220d3c0b8283ab66
+    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
+  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
 data:
   Yle Radio 1:
     programmes:
@@ -26,12 +26,16 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-16T07:05:00+02:00'
         end_time: '2025-12-16T07:59:59+02:00'
-        description: |-
+        description: |+
           de Lalande: Osia teoksesta Joulusinfonia (Kamariork./Simon Dach).
+
+          Balbastre: Mihin nämä iloiset paimenet ovat menossa (Kalevi Kiviniemi, urut).
 
           Tshaikovski: Albuminlehti D-duuri (Kerava-kvartetti).
 
-          Maasalo: Joulun kellot (Philomela/Marjukka Riihimäki).
+          Corelli: Largo konsertosta g-molli (Joulukonsertto) (Berliinin filharmonikot/Herbert von Karajan). 
+
+          Maasalo: Joulun kellot (Philomela/Marjukka Riihimäki). 
 
           Palmgren: December kokoelmasta Sol och skyar pianolle (Izumi Tateno).
 
@@ -44,6 +48,7 @@ data:
           Schubert (sov. Gamley): Mille cherubini in coro (Luciano Pavarotti, tenori, ja Lontoon kansallinen FO/Kurt Herbert Adler).
 
           Dedrick (sov.): Rekiretkisikermä (Kanadalainen vaskiyhtye).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-16T08:00:00+02:00'
         end_time: '2025-12-16T08:07:00+02:00'

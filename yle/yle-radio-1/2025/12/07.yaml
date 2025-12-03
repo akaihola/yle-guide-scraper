@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-02T02:37:29.004918+00:00'
+  generated_at: '2025-12-03T02:37:25.192525+00:00'
   git:
     branch: main
-    commit: 2138f68ba8a6e26d1928a5d33c1031cc5d5e90c7
-  data_hash: 4adc865a63535ec448cb8f4420806ea2578967742911367e220d3c0b8283ab66
+    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
+  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
 data:
   Yle Radio 1:
     programmes:
@@ -78,8 +78,8 @@ data:
           Kärki: Siks' oon mä suruinen (Eero Väre).
           Fougstedt: Romanssi (Diandra ja RSO/Nicholas Collon).
           Paoli: Anche se (Gino Paoli).
-          Rota: Amarcord (Prahan filharmoninen orkesteri).
-          Roberts: Amado mio (Anita Ellis).
+          Rota: Amarcord (Prahan FO/Derek Wadsworth).
+          Roberts/Fisher: Amado mio (Anita Ellis).
           Kern: I'm old fashioned (Rita Hayworth ja Merv Griffin).
           Babadzhanjan: Älä kiiruhda (Georg Ots).
       - title: Yle Uutiset ja sää
@@ -133,6 +133,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-07T16:07:00+02:00'
         end_time: '2025-12-07T17:00:00+02:00'
+        description: |-
+          J.S. Bach: Wachet auf, ruft uns die Stimme (Schübler-koraali n:o 1) (John Longhurst, urut).
+
+          Byrd: Rorate coeli (Tiukkukaa, te taivaat) (Stile Antico). 
+
+          Hammerschmidt: Himmel und Erde vergehen (David Erler, kontratenori, Stephan Scherpe, tenori, Jakob Ahles, basso, ja Lautten Compagney-kamariork./Wolfgang Katschner). 
+
+          Gigout: Toccata uruille h-molli (Johanna Linna). 
+
+          Waldteufel: Les patineurs (Luistelijat) (Tokion kaupungin SO/Hiroshi Ishimaru).  
+
+          Debussy: Des pas sur la neige kok. Preludit 1 (Paavali Jumppanen, piano).
+
+          Holmes: Soir d'hiver (Talvi-ilta) (Helene Guilmette, sopraano, ja Martin Dube, piano). 
+
+          Korngold: Johdanto balettipantomiimista Der Schneemann (Lumiukko) (Peter Manning, viulu, ja BBC:n FO/Matthias Bamert).
+
+          Poulenc: Un Soir de neige (Luminen ilta) kantaatti (Kamarikuoro Kaamos/Dani Juris). 
+
+          Prokofjev: Hyvä haltijatar ja Talven haltijatar baletista Tuhkimo (Pariisin ork./Semjon Bytshkov).
       - title: Laura Korhosen Jazzklubi
         start_time: '2025-12-07T17:00:00+02:00'
         end_time: '2025-12-07T18:00:00+02:00'

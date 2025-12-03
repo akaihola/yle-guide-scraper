@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-02T02:37:31.097610+00:00'
+  generated_at: '2025-12-03T02:37:27.518404+00:00'
   git:
     branch: main
-    commit: 2138f68ba8a6e26d1928a5d33c1031cc5d5e90c7
-  data_hash: 4adc865a63535ec448cb8f4420806ea2578967742911367e220d3c0b8283ab66
+    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
+  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
 data:
   Yle Radio 1:
     programmes:
@@ -127,6 +127,11 @@ data:
         end_time: '2025-12-14T22:58:00+02:00'
         description: |
           Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Ykköskolumni
+        start_time: '2025-12-14T23:00:00+02:00'
+        end_time: '2025-12-14T23:05:00+02:00'
+        description: |
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
       - title: Romano mirits
         start_time: '2025-12-14T23:25:00+02:00'
         end_time: '2025-12-14T23:39:00+02:00'

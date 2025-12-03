@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-02T02:37:32.475864+00:00'
+  generated_at: '2025-12-03T02:37:28.651924+00:00'
   git:
     branch: main
-    commit: 2138f68ba8a6e26d1928a5d33c1031cc5d5e90c7
-  data_hash: 4adc865a63535ec448cb8f4420806ea2578967742911367e220d3c0b8283ab66
+    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
+  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
 data:
   Yle Radio 1:
     programmes:
@@ -26,12 +26,14 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-19T07:05:00+02:00'
         end_time: '2025-12-19T07:59:59+02:00'
-        description: |-
-          Schiassi: Allegro, joulusinfoniasta D-duuri (Luoteis-Amerikan kamariork./Alun Francis, ja Virginia Moore, cembalo).
+        description: |+
+          Schiassi: Allegro joulusinfoniasta D-duuri (Luoteis-Amerikan kamariork./Alun Francis, ja Virginia Moore, cembalo).
 
           Liszt: Carillon sarjasta Joulupuu (Roland Pöntinen, piano).
 
           Wartiovaara-Kallioniemi: Tonttu (Ruut Kiiski, sopraano, Simo Mäkinen, tenori, Sampo Haapaniemi, basso, ja EMO Ensemble/Pasi Hyökki). 
+
+          Dohnanyi: Pastorale (Barry Snyder, piano).
 
           Noack - Harju: Tonttu-ukkojen vahtiparaati (Idée fixe).
 
@@ -39,13 +41,16 @@ data:
 
           Sibelius (sov. Ampuja): Christmas with Sibelius (Joulu Ainolassa) trumpetille ja puhallinorkesterille (Jouko Harjanne ja Pohjan Sotilassoittokunta/Petri Junna).
 
+          Gounod - J.S. Bach: Ave Maria (Arturo Delmoni ja Nina Bodnar, viulu, Natasha Lipkina, alttoviulu, Nathaniel Rosen, sello, ja Emily Mitchell, harppu).
+
           Saks. kansanlaulu (sov. Englbrecht): Lieb' Nachtigall, wach auf (Die Singphoniker).
 
           Rutter: Paimenhuilun joululaulu (London Brass/Roger Harvey).
 
           Raala: Joulukirkkoon (Kuvaja). 
 
-          Pierpont - Panula: Kulkuset, fantasia orkesterille (HKO/Jorma Panula).
+          Panula - Pierpont: Kulkuset, fantasia orkesterille (HKO/Jorma Panula).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-19T08:00:00+02:00'
         end_time: '2025-12-19T08:07:00+02:00'
@@ -127,8 +132,32 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2025-12-19T16:07:00+02:00'
         end_time: '2025-12-19T16:59:00+02:00'
-        description: |
-          Kuuntelijoiden toivemusiikkia
+        description: |-
+          Anonyymi (sov. Praetorius - Sandström): Es ist ein Ros entsprungen (Voces8).
+
+          Bach: Sinfonia jouluoratoriosta (Lontoon kuninkaallinen FO/James Galway).
+
+          Collan: Sylvian joululaulu (Soile Isokoski, sopraano, ja Finlandia Sinfonietta/Ilkka Kuusisto). 
+
+          Hela: Jouluihme (Jemina Moilanen, laulu, ja Fermaatti-kuoro/Soili Autio).  
+
+          Ransk. kansansäv. (sov. Aoshima): Les Anges dans nos campagnes (Ayako Shinozaki ja Kazuko Shinozaki, harppu).
+
+          Ramirez: Los pastores kantaatista Navidad nuestra (José Carreras, tenori, Coral salve de Laredo -kuoro, Sociedad coral de Bilbao -kuoro, sekä Arsenio Zambrano, charango, ja Raul Barboza, harmonikka/Damián Sanchez).
+
+          Kansanlaulu: El cant dels aucells (Montserrat Figueras, sopraano, Arianna Savall, harppu, sekä Ferran Savall ja Jordi Savall, viola da gamba).
+
+          Siukonen: Joulun odotuksessa (Jorma Hynninen, baritoni, ja Kalevi Kiviniemi, urut).
+
+          Moraeus: Koppången (Helen Sjöholm ja yhtye).
+
+          V. Hannikainen (sov. Niemi): On maassa hanget puhtahat (Matti Salminen, basso, ja Avanti!/Atso Almila).
+
+          Pentti: Lintujen joululaulu (Oulaisten Nuorisokuoro/Tapani Tirilä, sekä Ryyppymäki String Band).
+
+          Nelson - Rollins: Kuuraparta (YL/Pasi Hyökki).
+
+          Anderson: Rekiretki (Sinfonia Lahti/Osmo Vänskä).
       - title: Uutispodcast
         start_time: '2025-12-19T17:00:00+02:00'
         end_time: '2025-12-19T17:20:00+02:00'
