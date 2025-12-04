@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-03T02:37:25.812081+00:00'
+  generated_at: '2025-12-04T02:37:29.380406+00:00'
   git:
     branch: main
-    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
-  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
+    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
+  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
 data:
   Yle Radio 1:
     programmes:
@@ -67,6 +67,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-12-09T08:07:00+02:00'
         end_time: '2025-12-09T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-12-09T09:00:00+02:00'
         end_time: '2025-12-09T09:03:00+02:00'
@@ -90,11 +92,11 @@ data:
           Ayre: Mambo rock (Bill Haley and his Comets).
           Merrill: Mambo Italiano (Rosemary Clooney).
           Williams: Jambalaya (Brita Koivunen). 
-      - title: Sari Valto
+      - title: 'Sari Valto: Aivot rakastavat parsakaalia, mutta kukistaako parsakaali Alzheimerin uhan?'
         start_time: '2025-12-09T10:00:00+02:00'
         end_time: '2025-12-09T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Voiko ruokavalion avulla todella ennaltaehkäistä muistisairauksia ja muita ikääntymiseen liittyviä riskejä?
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-12-09T11:00:00+02:00'
         end_time: '2025-12-09T11:57:00+02:00'
@@ -125,6 +127,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-09T13:30:00+02:00'
         end_time: '2025-12-09T15:00:00+02:00'
+        description: |
+          Musiikkia etnosta kevyen jazzin kautta populaarimusiikin helmiin. Venäjän hyökkäys Ukrainaan on ravistellut suomalaisten turvallisuuden tunnetta ja nostanut maanpuolustustahdon ennätyslukemiin. Yle Areenaan tulee nähtäväksi dokumenttisarja Maan puolustajat. Radio 1:n iltapäivässä ovat vieraina tiistaina n. klo 14 yksi sarjan päähenkilöistä, Nicole San Juan ja ohjaaja Johannes Niva. 
+          Miia Lahti juontaa. N. klo 14:30 Jari Lahden toimittamassa Kielen päällä- ohjelmassa yliopisto-opettaja Janne Seppänen Helsingin yliopistosta kertoo Intian kirjoitusjärjestelmistä ja kielipolitiikasta. 
       - title: 'Kulttuuriykkönen: Suomi kotouttaa, mutta miten ja millä keinoin se onnistuu?'
         start_time: '2025-12-09T15:00:00+02:00'
         end_time: '2025-12-09T15:55:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-03T02:37:27.518404+00:00'
+  generated_at: '2025-12-04T02:37:30.955930+00:00'
   git:
     branch: main
-    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
-  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
+    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
+  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
 data:
   Yle Radio 1:
     programmes:
@@ -47,6 +47,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-14T11:00:00+02:00'
         end_time: '2025-12-14T11:59:00+02:00'
+        description: |-
+          Tshaikovski: Joulukuu (RVO/George de Godzinsky).
+          Tormé: The Christmas song (Dexter Gordon).
+          Collan: Sylvian joululaulu (Tapio Heinonen).
+          Heyral: Le Noël de la rue (Edith Piaf).
+          Brodie/Marks: Run Rudolph run (Chuck Berry).
+          Karjalainen/Viksten: Joulupukin töissä (J. Karjalainen).
+          Kalaoja: Joulumaa (Katri Helena).
+          Adam: Cantique de Noël (Enrico Caruso).
+          Styne: Let it snow! Let it snow! Let it snow! (Ella Fitzgerald).
+          Carosone/Nisa: Buon natale, amore (Piero Giorgetti).
+          Kansansäv.: Twelve days of Christmas (Bing Crosby & The Andrews Sisters).
+          Bernard: Winter wonderland (The Manhattan Transfer).
+          Liebkind: My boyfriend (Ann Christine & The Sounds).
+          Vysotski: Ystävän laulu (Vesa-Matti Loiri).
+          Anonyymi: Tuo armon valkokyyhky (Rajaton).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-14T12:00:00+02:00'
         end_time: '2025-12-14T12:05:00+02:00'

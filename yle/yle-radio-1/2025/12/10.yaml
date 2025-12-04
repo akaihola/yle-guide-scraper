@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-03T02:37:26.180311+00:00'
+  generated_at: '2025-12-04T02:37:29.615954+00:00'
   git:
     branch: main
-    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
-  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
+    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
+  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
 data:
   Yle Radio 1:
     programmes:
@@ -65,6 +65,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-12-10T08:07:00+02:00'
         end_time: '2025-12-10T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-12-10T09:00:00+02:00'
         end_time: '2025-12-10T09:03:00+02:00'
@@ -119,13 +121,24 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-10T13:30:00+02:00'
         end_time: '2025-12-10T15:00:00+02:00'
-        description: |2+
+        description: |+
+          Radio 1:n iltapäivässä soivat kevyt jazz, etnomusiikki ja populaarimusiikin helmet. Näyttelijä Jarkko Pajunen suunnitteli nuorena ammattilaisjääkiekkoilijan uraa, mutta teatteri vei mennessään. Monessa mukana ollut näyttelijä on seikkaillut käsikirjoittamissaan Puutarhakaupungin murhamysteereissä jo kolmen tuotantokauden ajan. Nyt Pajusen hahmo, salapoliisi Klaus “Lasu” Forsblom valmistautuu joulun viettoon. Puutarhakaupungin murhamysteerien Jouluerikoinen on kolmiosainen dekkarikuunnelma, jonka ensimmäinen jakso kuullaan Radio 1:ssä la 13.12. klo 15  ja kaikki kolme jaksoa tulevat myös Yle Areenaan. Jarmo Laitaneva juontaa. N. klo 14:30 
+          Pörssiyhtiö Kojamon johtaja Katri Viippola tunnustaa olevansa jouluttaja. Sari Valto haastattelee 
 
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Naishistoriaa viihteellisesti'
         start_time: '2025-12-10T15:00:00+02:00'
         end_time: '2025-12-10T15:55:00+02:00'
         description: |
+          Mikä saa kirjailijan inspiroitumaan menneestä maailmasta ja sen naiskohtaloista? Vaikuttaako oma aikamme siihen miten naiskuvaa rakennetaan? Onko vaarana että haluammekin luoda vääristyneitä naiskuvia? Olivatko historian naiset vahvoja selviytyjiä? Mitkä olivat heidän voimavaransa? Riikka-Maria Rosenbergin Hakoisten naiset-sarjan viimeinen osa kertoo tulevan kartanonrouvan salaisuudesta 1800-luvun jälkipuoliskolla. Virpi Hämeen-Anttilan Synnyinmaa-sarjan kolmas osa Kultaiset vuodet  kertoo ystävyydestä, rakkaudesta ja Suomen vaurastumisen ensivaiheista. 
+
+          Ohjelman vieraina ovat kirjailijat Virpi Hämeen-Anttila ja Riikka-Maria Rosenberg.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2025-12-10T15:55:00+02:00'
@@ -138,6 +151,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-10T16:07:00+02:00'
         end_time: '2025-12-10T16:59:00+02:00'
+        description: |
+          Chédeville: Sonaatti n:o 6 g-molli (Paul Goodwin, barokkioboe, Susan Sheppard, barokkisello, John Toll, cembalo, ja Nigel North, arkkiluuttu).
+
+          Schmelzer: Pastorella (Bell'Arte Salzburg).
+
+          Turunen: Me käymme joulun viettohon (Martti Talvela, basso, ja Pertti Eerola, urut). 
+
+          Cottrau: Sankta Lucia (Linda Lampenius, viulu, Delphine Constantin, harppu, Hvila-jousikvartetti ja Leif Strand -naiskuoro/Leif Strand).
+
+          Perucona: Ad gaudia, ad iubila (Earthly Angels).  
+
+          Tulindberg: Rondo kons. viululle ja orkesterille n:o 1 B-duuri (Kreeta-Maria Kentala ja Kuudennen kerroksen ork./Jukka Rautasalo).  
+
+          Kansansävelmä - Picchi - Frescobaldi (sov. Polso): Passamezzo ja folia (Tea Polso, cembalo).
+
+          M. Richter - Vivaldi: Winter 3 teoks. Four seasons recomposed (Daniel Hope, viulu, Max Richter, syntetisaattori, sekä Konzerthaus Kammerorchester Berlin/André De Ridder).
+
+          J.S. Bach: Allegro teoks. Brandenburgilainen konsertto n:o 1 F-duuri (Japanin Bach Collegium/Masaaki Suzuki).
       - title: Uutispodcast
         start_time: '2025-12-10T17:00:00+02:00'
         end_time: '2025-12-10T17:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-03T02:37:24.378347+00:00'
+  generated_at: '2025-12-04T02:37:27.641061+00:00'
   git:
     branch: main
-    commit: b0f78f927eebf148e7096c0e3b483fe8a3e266b6
-  data_hash: fd1a3956ca9adc08176611959f61acf385e49397adf8f52458f642a6129570f9
+    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
+  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
 data:
   Yle Radio 1:
     programmes:
@@ -143,9 +143,13 @@ data:
         description: |
           Vuosituhannen vaihteessa esitetty Sinkkuelämää-sarja oli valtavan suosittu varsinkin nuorten naisten keskuudessa. Sarja toi myös tänne pohjolaan tietoisuuden cosmopolitan-drinkeistä, brunsseista sekä kaupunkilaisesta sinkkuudesta. Sarjan myötä puhe seksistä ja sinkkuudesta muuttui moninaisemmaksi. Miltä sarjan maailmankuva näyttää tämän päivän silmin? Vieläkö voisimme ottaa oppia Carrien, Samanthan, Charlotten ja Mirandan tavasta elää?
           Tätä pohtimassa Marja Vehkasen vieraina ovat kirjailija-käsikirjoittaja Emmi-Liia Sjöholm ja Tampereen yliopiston tutkijatohtori Pauliina Tuomi.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Uudet Ukraina-käänteet - mihin Suomen pitää valmistautua?'
         start_time: '2025-12-04T13:00:00+02:00'
         end_time: '2025-12-04T13:30:00+02:00'
+        description: |
+          Presidentti Alexander Stubb valmistelee suomalaisia epäreiluun rauhaan Ukrainassa ja pääministeri Petteri Orpo sanoo ääneen, että Suomi ei ole valmis tarjoamaan Ukrainalle turva­takuita.
+          Politiikkaradio ottaa tuoreisiin käänteisiin kiinni. Mikä puhuu sen puolesta, että rauha voisi syntyä, mikä sen puolesta, että ei?
+          Aiheesta ovat keskustelemassa kansainvälisen politiikan professori Tuomas Forsberg ja Ulkopoliittisen instituutin tutkija Tyyne Karjalainen. Toimittajana Antti Pilke.
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-04T13:30:00+02:00'
         end_time: '2025-12-04T15:00:00+02:00'
@@ -199,7 +203,7 @@ data:
         start_time: '2025-12-04T17:00:00+02:00'
         end_time: '2025-12-04T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Ylen kannatusmittauksissa demarit ovat pysytelleet kärjessä. Mutta saako Antti Lindtman tehtyä demareista tarpeeksi mieleisen kokoomukselle ja näin kammettua itsensä hallitukseen? Entä miten demareiden kannattaisi asemoitua: ollako pysyvä osa punavihreää blokkia vai vaihtaa aina leiriä kun se sopii omiin pelimerkkeihin? Uutispodcastin Sami Lindforsin haastattelussa Ylen politiikan toimittaja Marica Paukkeri. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-04T17:20:00+02:00'
         end_time: '2025-12-04T17:35:00+02:00'
