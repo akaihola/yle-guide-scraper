@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-04T02:37:28.717975+00:00'
+  generated_at: '2025-12-05T02:37:39.315363+00:00'
   git:
     branch: main
-    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
-  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
+    commit: 94fda56f112748c3331365a0e4794d5bf45b4def
+  data_hash: 22b100e9b5825d3007a5ac68e11d4a94a00aaa4dc54bd6e56913bda8e68dab6a
 data:
   Yle Radio 1:
     programmes:
@@ -181,12 +181,12 @@ data:
           Prokofjev: Hyvä haltijatar ja Talven haltijatar bal. Tuhkimo (Pariisin ork./Semjon Bytshkov).
       - title: 'Laura Korhosen Jazzklubi: Aisteja hivelevää sanattomuutta'
         start_time: '2025-12-07T17:00:00+02:00'
-        end_time: '2025-12-07T18:00:00+02:00'
+        end_time: '2025-12-07T17:59:04+02:00'
         description: |-
           Sanaton laulu voi olla lyriikoiden puutteesta huolimatta varsin aisteja hivelevää. Se antaa esimerkiksi scat-laulun keinoin esittäjälleen mahdollisuuden ilmaista itseään vapaasti. Tässä Laura Korhosen Jazzklubissa koetaan tämä sanattomuuden voima.
           (U)
       - title: 'Jazzklubin illan keikka: Karmen Rõivassepp & Aarhus Jazz Orchestra Jazzkaarissa'
-        start_time: '2025-12-07T18:00:00+02:00'
+        start_time: '2025-12-07T17:59:04+02:00'
         end_time: '2025-12-07T19:00:00+02:00'
         description: |-
           Äänitetty Von Krahl -teatterissa Tallinnassa 23.4.2025.
@@ -203,14 +203,14 @@ data:
         end_time: '2025-12-07T20:52:20+02:00'
         description: |-
           Kokouksen johto: majuri Tuula Takala. Saarnaajana majuri Seppo J. Takala. Yhteislaulut: Pelastusarmeijan laulukirja: nro 311, Viisikielinen laulukirja: nro 268, PL nrot 309, 307, 306, Pelastusarmeijan laulunaika -kirja: nro 56.
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Saamelaisten totuus tulee julki – nyt he odottavat Suomelta tekoja'
         start_time: '2025-12-07T21:01:00+02:00'
-        end_time: '2025-12-07T21:21:00+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+        end_time: '2025-12-07T21:24:34+02:00'
+        description: |-
+          Saamelaisten totuus-ja sovintokomission raportti julkaistaan torstaina. Minkälainen prosessi sen takana on, ja millaisia ehdotuksia raportista nousee saamelaisyhteisön ja valtion välille? Reetta Röngän haastattelussa Yle Sápmin toimittaja Sara  Kelemeny. 
       - title: 'Klasariparatiisi: Flauto dolce, hieno soitin'
-        start_time: '2025-12-07T21:22:00+02:00'
-        end_time: '2025-12-07T22:19:00+02:00'
+        start_time: '2025-12-07T21:25:07+02:00'
+        end_time: '2025-12-07T22:20:31+02:00'
         description: |
           Monille nokkahuilu on se koulusoitin, jolla ei oikeata musiikkia voi soitaa. Väärin.
           Nokkahuilun historia on pitkä ja moninainen. Se soi jo kymmeniä tuhansia vuosia sitten, ja renessansin ja barokin aikana sille sävelsivät monet ajan parhaimmat säveltäjät. Nykysäveltäjät ovat taas löytäneet nokkahuilun.
@@ -234,16 +234,26 @@ data:
           Fulvio Caldini: Fade control (Amsterdamin Loeki Stardust Quartet).
 
           Jorrit Tamminga/Erik Bosgraaf: Dialogues VI (Erik Bosgraaf, nokkahuilut, ja Jorrit Tamminga, elektroniikka).
-      - title: Sari Valto
-        start_time: '2025-12-07T22:20:00+02:00'
-        end_time: '2025-12-07T23:18:00+02:00'
-        description: |
-          Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
+      - title: 'Sari Valto: Taide lohduttaa, kun syöpä vie elämästä syrjään'
+        start_time: '2025-12-07T22:21:22+02:00'
+        end_time: '2025-12-07T23:14:35+02:00'
+        description: |-
+          Vakava sairaus nyrjäyttää elämän täydellisesti radaltaan. Keskusteluterapia auttaa, mutta yhteys tunteisiin voi syntyä jopa syvemmin taidelähtöisen menetelmän kautta. Tämän tietävät rintasyövän sairastaneet professori Hanna Meretoja ja muusikko Saaramaija Żórawski. 
+      - title: Radio 1 soi
+        start_time: '2025-12-07T23:14:35+02:00'
+        end_time: '2025-12-07T23:19:19+02:00'
+        description: |-
+          Altenburg: Konsertto seitsemälle trumpetille ja patarummuille D-duuri (New Yorkin trumpettiyhtye/Gerard Schwarz, sekä Gordon Gottlieb, patarummut).
       - title: 'Romano mirits: Suomen romaniyhdistys tekee ennaltaehkäisevää työtä'
-        start_time: '2025-12-07T23:25:00+02:00'
-        end_time: '2025-12-07T23:39:00+02:00'
+        start_time: '2025-12-07T23:19:19+02:00'
+        end_time: '2025-12-07T23:33:19+02:00'
         description: |
           Toiminnanjohtaja Päivi Majaniemi kertoo Suomen romaniyhdistyksestä, joka on suomen kolmanneksi vanhin romanijärjestö. Toimittajana Mertsi Lindgren.
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-07T23:33:19+02:00'
+        end_time: '2025-12-07T23:40:00+02:00'
+        description: |-
+          Sari Valto haastattlee Tampereen teatterin pääohjaaja Antti Mikkolaa hänen sykähdyttävistä kulttuurielämyksistään. Ensilähetys oli 27.11.2025 
       - title: Yöklassinen
         start_time: '2025-12-07T23:40:00+02:00'
         end_time: '2025-12-08T06:30:00+02:00'

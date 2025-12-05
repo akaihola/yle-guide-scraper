@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-04T02:37:29.615954+00:00'
+  generated_at: '2025-12-05T02:37:40.619111+00:00'
   git:
     branch: main
-    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
-  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
+    commit: 94fda56f112748c3331365a0e4794d5bf45b4def
+  data_hash: 22b100e9b5825d3007a5ac68e11d4a94a00aaa4dc54bd6e56913bda8e68dab6a
 data:
   Yle Radio 1:
     programmes:
@@ -91,9 +91,12 @@ data:
           Nelson: Pretty paper (Roy Orbison).
           Adamo: Vain lunta kaikkialla (Yona). 
           Pohjola: Armoton idylli (Pekka Pohjola).
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Tunteet työssä ja työelämässä'
         start_time: '2025-12-10T10:00:00+02:00'
         end_time: '2025-12-10T10:50:00+02:00'
+        description: |
+          Tunteita ja tunnekuorman kokemista ja merkitystä tutkitaan eri aloilla. Miten tunteet liittyvät työkykyyn? Millaisia eroja eri sukupolvien välillä on suhtautumisessa työhön? Miten yhteiskunnan ja kulttuurin muutokset muovaavat työelämää?
+          Toimittaja Satu Kivelä keskustelee aiheestaTyöterveyslaitoksen tutkija Kristiina Lehmuskosken ja Helsingin yliopiston sosiaalipsykologian dosentti ja yliopistonlehtori Jaana-Piia Mäkiniemen kanssa. Ohjelma on uusinta ajalta 17.9.2025.
       - title: Riston Valinta
         start_time: '2025-12-10T11:00:00+02:00'
         end_time: '2025-12-10T11:50:00+02:00'
@@ -107,7 +110,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-10T12:00:00+02:00'
         end_time: '2025-12-10T12:05:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Vieraana toimittaja, tietokirjailija Mari Manninen'
         start_time: '2025-12-10T12:05:00+02:00'
         end_time: '2025-12-10T12:55:00+02:00'
         description: |
@@ -239,9 +242,21 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2025-12-10T21:35:00+02:00'
         end_time: '2025-12-10T22:25:00+02:00'
-      - title: 'Radioteatteri esittää:'
+      - title: 'Uudenvuoden kellot: Ennenvanhaan kaikki oli paremmin'
         start_time: '2025-12-10T22:26:00+02:00'
         end_time: '2025-12-10T23:05:00+02:00'
+        description: |-
+          Osa 1/4. Trotty Veck on iäkäs lähetti, joka odottaa töitä kirkon portailla. Kirkon, jonka kellot ovat vuosia kannustaneet ja rohkaisseet häntä. Tänä uudenvuodenaattona Trotty Veck on erityisen surullinen: köyhän työväenluokan tulevaisuus ei näytä valoisalta, onko heillä enää edes oikeutta olemassaoloon? Veck alkaa uskoa itsekin, että köyhät ovat pahoja eivätkä he voi muuksi muuttua – ja silloin kellot alkavat puhutella häntä.
+          Charles Dickens (1812-1870) oli merkittävä englantilainen romaanikirjailija, jonka teoksissa korostuu vahva poliittinen, sosiaalinen ja moraalinen viesti sekä lämmin huumori ja sydämellisyys. Hänen kirjallinen perintönsä eli havainnot yhteiskunnan epäkohdista ja eriarvoisuudesta ovat edelleen yllättävän ajankohtaisia nykyajassamme. Uudenvuoden kellot (eng. Chimes, 1844) on tarina kirkonkelloista, jotka soittavat vanhan vuoden loppua ja uuden vuoden alkua – auttamalla huonompiosaisia uutena vuotena, on alkava vuosi kaikille onnellisempi. Teos ilmestyi seuraavana jouluna tunnetun Saiturin joulu -kertomuksen jälkeen ja on yksi viidestä Dickensin joulutarinoiden sarjassa.
+
+          Charles Dickensin samannimisen romaanin pohjalta dramatisoinut ja suomentanut Roy Boswell
+          Dramaturgi: Eeva-Maaria Halonen
+          Ohjaus: Emilia Putkinen Petterberg
+          Äänisuunnittelu: Hanna-Helena Kinnunen 
+          Musiikki: Hanna-Helena Kinnunen, Yle kantanauhat ja Epidemic Sound
+          Rooleissa: Marja Packalén, Antti Jaakola, Talvikki Eerola, Karlo Haapiainen, Hannu-Pekka Björkman, Jouko Puolanto, Taisto Oksanen, Leena Uotila, Tuomas Uusitalo, Lauri Tanskanen, Vilma Tanskanen, Minna Kivelä, Anna-Sofia Tuominen.
+          Tuotanto: Laura Jaakkola
+          Tilaaja: Matti Kajander, Yle Draama 2025.
       - title: Yöklassinen
         start_time: '2025-12-10T23:40:00+02:00'
         end_time: '2025-12-11T06:30:00+02:00'

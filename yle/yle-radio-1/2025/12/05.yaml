@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-04T02:37:27.910001+00:00'
+  generated_at: '2025-12-05T02:37:38.563445+00:00'
   git:
     branch: main
-    commit: 1a42ffcf1a7b3bfeaa58c32eab57a8c1aa5b96b7
-  data_hash: 8c5aa5beded14ea13bbc4e49906fe8fb387ca9d99d61dbe795bd614b4cc887ea
+    commit: 94fda56f112748c3331365a0e4794d5bf45b4def
+  data_hash: 22b100e9b5825d3007a5ac68e11d4a94a00aaa4dc54bd6e56913bda8e68dab6a
 data:
   Yle Radio 1:
     programmes:
@@ -135,10 +135,8 @@ data:
       - title: 'Narrin aamulaulu - Berliinin filharmonikkojen basisti Janne Saksala: "Luulin 15 vuotta, että basso on soolosoitin"'
         start_time: '2025-12-05T11:00:00+02:00'
         end_time: '2025-12-05T11:55:00+02:00'
-        description: |+
-          Kiihkeimpinä Berliinin opiskeluvuosinaan Janne Saksala nukkui luokassa flyygelin alla, bassopussi vuoteenaan, jotta pääsi heti aamutuimaan harjoittelemaan. Kun rahaa ei ollut, turkkilainen kebab-ravintola piti soittajaa hengissä lahjoittamalla ilmaisia annoksia. 30 vuotta BFO:ssa soittanutta taiteilijaa puhutti joulun 2023 alla Outi Paananen.
-
-
+        description: |
+          Kiihkeimpinä Berliinin opiskeluvuosinaan Janne Saksala nukkui luokassa flyygelin alla, bassopussi vuoteenaan, jotta pääsi heti aamutuimaan harjoittelemaan. Kun rahaa ei ollut, turkkilainen kebab-ravintola piti soittajaa hengissä lahjoittamalla ilmaisia annoksia. 30 vuotta BFO:ssa soittanutta taiteilijaa puhuttaa Outi Paananen. (U)
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-05T11:57:00+02:00'
         end_time: '2025-12-05T12:00:00+02:00'
@@ -147,17 +145,19 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-05T12:00:00+02:00'
         end_time: '2025-12-05T12:05:00+02:00'
-      - title: 'Tiedeykkönen: Hermostoon liittyvät myytit ja todellisuus - mitä hermostolleen oikeasti voi tehdä?'
+      - title: 'Tiedeykkönen: Hermosto ei rauhoitu käskyttämällä - hermostoon liittyvät myytit ja todellisuus'
         start_time: '2025-12-05T12:05:00+02:00'
         end_time: '2025-12-05T12:55:00+02:00'
         description: |-
-          Miten paljon omaa hermostoaan voi säätää? Hermostoon liittyy paljon myyttejä, jotka otetaan totuuksina. Kuinka hermosto toimii ja mihin voi vaikuttaa? Haastateltavina ylilääkäri, neurologi Sami Curtze, neurologi Leena Kämppi ja neuropsykologi Katri Saar. Toimittajana Minna Korhonen
+          Miten paljon omaa hermostoaan voi säätää? Hermostoon liittyy paljon myyttejä, jotka otetaan totuuksina. Kuinka hermosto toimii ja mihin voi vaikuttaa? Haastateltavina ylilääkäri, neurologi Sami Curtze, neurologi Leena Kämppi ja neuropsykologi Katri Saar. Toimittajana Minna Korhonen. Äänisuunnittelu Laura Koso. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-05T12:55:00+02:00'
         end_time: '2025-12-05T13:00:00+02:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2025-12-05T13:00:00+02:00'
         end_time: '2025-12-05T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-05T13:30:00+02:00'
         end_time: '2025-12-05T15:00:00+02:00'
@@ -213,7 +213,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-05T17:20:00+02:00'
         end_time: '2025-12-05T17:35:00+02:00'
-      - title: Näistä levyistä en luovu
+      - title: Näistä levyistä en luovu Leena Huovinen
         start_time: '2025-12-05T17:35:00+02:00'
         end_time: '2025-12-05T18:30:00+02:00'
         description: |
