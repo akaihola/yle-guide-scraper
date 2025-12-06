@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-05T02:37:45.172048+00:00'
+  generated_at: '2025-12-06T02:34:47.935356+00:00'
   git:
     branch: main
-    commit: 94fda56f112748c3331365a0e4794d5bf45b4def
-  data_hash: 22b100e9b5825d3007a5ac68e11d4a94a00aaa4dc54bd6e56913bda8e68dab6a
+    commit: f03edd1aba3c76b9953b1a224ec1de60cadcf493
+  data_hash: 60af13b0e88c5d41a3bddf645b8784fd8646e9a1fad0fe092bea975b11d7cdc2
 data:
   Yle Radio 1:
     programmes:
@@ -47,6 +47,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-21T11:00:00+02:00'
         end_time: '2025-12-21T11:59:00+02:00'
+        description: |-
+          Anderson: Sleigh ride (Rekiretki) (RVO/George de Godzinsky).
+          Pierpont: Kulkuset (Brita Koivunen).
+          Torme: The Christmas song (Mel Torme).
+          Kotilainen: Varpunen jouluaamuna (Rajaton).
+          Coots: Joulupukki matkaan jo käy (Vieno Kekkonen).
+          Styne: Let it snow (Jamie Cullum).
+          Schubert: Ave Maria (Michael Buble).
+          Kansansävelmä: Joulun alla illan suussa (Katri Helena).
+          Marks: Petteri Punakuono (Olavi Virta).
+          Berlin: White christmas (Ella Fitzgerald).
+          Häggkvist: Taivas sylissäni (Suvi Teräsniska).
+          Adam: O Holy Night (Nat King Cole).
+          Martin: Have yourself a merry little Christmas (Frank Sinatra).
+          Blake: Walking in the air (Peter Auty, poikasopraano, ja Sinfonia of London/Howard Blake).
+          Sibelius: En etsi valtaa loistoa (Mauno Kuusisto).
       - title: Yle Uutiset ja sää
         start_time: '2025-12-21T12:00:00+02:00'
         end_time: '2025-12-21T12:05:00+02:00'

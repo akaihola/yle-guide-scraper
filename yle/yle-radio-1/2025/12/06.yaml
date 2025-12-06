@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2025-12-05T02:37:38.811009+00:00'
+  generated_at: '2025-12-06T02:34:43.661375+00:00'
   git:
     branch: main
-    commit: 94fda56f112748c3331365a0e4794d5bf45b4def
-  data_hash: 22b100e9b5825d3007a5ac68e11d4a94a00aaa4dc54bd6e56913bda8e68dab6a
+    commit: f03edd1aba3c76b9953b1a224ec1de60cadcf493
+  data_hash: 60af13b0e88c5d41a3bddf645b8784fd8646e9a1fad0fe092bea975b11d7cdc2
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-05T23:40:00+02:00'
         end_time: '2025-12-06T08:00:00+02:00'
-        description: |-
+        description: |
           Tshaikovski: Jevgeni Onegin, ooppera (Galina Vishnevskaja, sopraano, Valentina Petrova, sopraano, Larisa Avdejeva, altto, Jevgenija Verbitskaja, mezzosopraano,  Jevgeni Belov, baritoni,  Sergei Lemeshev, tenori, ja Ivan Petrov, basso ym. sekä sekä Bolshoi-teatterin kuoro ja ork./Boris Haikin). 
 
           02:03 W.A. Mozart: Pianokonsertto n:o 17 G-duuri (Mitsuko Uchida ja Clevelandin ork.).
@@ -83,6 +83,36 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-12-06T10:00:00+02:00'
         end_time: '2025-12-06T10:25:00+02:00'
+        description: |-
+          Etupiiripolitiikka on palannut määrittämään kansainvälisiä suhteita. Ministeri Jaakko Iloniemi katsoo, että Eurooppaa ei poliittisena toimijana oikeastaan ole. 
+          Iloniemen mukaan EU on voimapoliittisessa mielessä heikko.
+          Eurooppa näyttäytyy nyt voimattomana ja lepsuna, kun Yhdysvallat ja Venäjä sopivat sen yli Ukrainan kohtalosta.
+
+
+
+          Maailmanpolitiikan arkipäivää tutkailee pitkän linjan diplomatian ammattilaisen Jaakko Iloniemen kanssa muuttuvaa maailmanjärjestystä. 
+
+
+
+          Iloniemen mukaan vanha kansainvälisten suhteiden järjestelmä on edelleen olemassa, mutta siinä on säröjä.
+
+          Säröt saattavat olla vakaviakin. Se tekee tilanteen arvioinnin hankalaksi, 93-vuotias diplomatian veteraani Jaakko Iloniemi arvioi.
+
+
+
+          Jaakko Iloniemen mielestä Suomen asema on suhteellisen vakaa. Nato-ratkaisu ja aiemmat päätökset olla mukana kansainvälisessä järjestelmässä ovat vakauttaneet asemaa.
+
+
+
+          Tasavallan presidentti Alexander Stubbin aktiivinen rooli suhteessa Yhdysvaltain presidenttiin Donald Trumpiin on Iloniemen mielestä merkittävä asia.
+
+
+
+          Stubb ei pyytele anteeksi Suomen pienuutta, muttei myöskään rehvastele maan olemattomalla suuruudella.
+
+
+
+          Ohjelman on toimittanut Sampo Vaarakallio. Äänitarkkailija on Katri Koivula.  Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hyvät, pahat ajattelijat: Émilie du Châtelet'
         start_time: '2025-12-06T10:25:00+02:00'
         end_time: '2025-12-06T10:55:00+02:00'
@@ -91,13 +121,13 @@ data:
           Voltairen kerrottaankin todenneen, että Émilie du Châtelet oli ”suurmies, jonka ainoa vika oli se, että hän oli nainen”. Tämän epätavallisen naisen työstä ja elämästä kertovan ohjelman toimittaa Maarit Lukkarinen. 
       - title: 'Virtasen taloushistoria: Kultasormi Aleks. Lampén pelasti konkurssikypsiä metsäteollisuusyhtiöitä '
         start_time: '2025-12-06T11:00:00+02:00'
-        end_time: '2025-12-06T11:52:00+02:00'
+        end_time: '2025-12-06T11:55:00+02:00'
         description: |+
           Vuorineuvos Lampén oli kultasormi. Hän toimi Kansallis-Osake-Pankin neuvonantajana tehtävänään pelastaa konkurssikypsiä metsäteollisuusyhtiöitä 1930-luvulla. Jo aiemmin Tornatorin toimitusjohtajana hän teki kovaa tulosta. Juha Virtasen haastateltavana on filosofian tohtori, historiantutkija Jyrki Paaskoski.
 
 
       - title: Tervetuloa jumalanpalvelukseen
-        start_time: '2025-12-06T11:56:00+02:00'
+        start_time: '2025-12-06T11:55:00+02:00'
         end_time: '2025-12-06T11:59:00+02:00'
       - title: Suomen itsenäisyyspäivän ekumeeninen juhlajumalanpalvelus Helsingin tuomiokirkosta
         start_time: '2025-12-06T12:00:00+02:00'
@@ -108,7 +138,7 @@ data:
         start_time: '2025-12-06T13:05:00+02:00'
         end_time: '2025-12-06T14:00:00+02:00'
         description: |
-          Leena Huovinen kertoo lempimusiikkiinsa liittyviä muistoja ja tarinoita. 
+          Johtava oppilaitospappi ja kisapappi Leena Huovinen kertoo lempimusiikkiinsa liittyviä muistoja ja tarinoita. 
       - title: 'Ruben Stiller: Kuinka monta minuutta?'
         start_time: '2025-12-06T14:00:00+02:00'
         end_time: '2025-12-06T14:55:00+02:00'
@@ -207,21 +237,41 @@ data:
       - title: Musiikkikamari
         start_time: '2025-12-06T21:15:00+02:00'
         end_time: '2025-12-06T21:30:00+02:00'
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-06T21:30:00+02:00'
+        end_time: '2025-12-06T21:52:18+02:00'
+        description: |
+          Jarmo Laitaneva haastattelee kirjailija, näyttelijä, ohjaaja Petja Lähdettä. Ensilähetys oli 24.11.2025.
+      - title: Radio 1 soi
+        start_time: '2025-12-06T21:52:18+02:00'
+        end_time: '2025-12-06T22:01:27+02:00'
+        description: |-
+          Dvorák: Karnevaali, konserttialkusoitto orkesterille (Chicagon sinfoniaorkesteri/Fritz Reiner).
       - title: 'Maailman tärkein pieni asia: Kimmo Puikkonen on käynyt maailman kaikissa maissa'
-        start_time: '2025-12-06T22:00:30+02:00'
-        end_time: '2025-12-06T22:20:00+02:00'
+        start_time: '2025-12-06T22:01:27+02:00'
+        end_time: '2025-12-06T22:19:10+02:00'
         description: |
           Kimmo Puikkonen on käynyt maailman kaikissa maissa. Toimittajana Maija Salminen.
       - title: 'Kielen päällä: telugun ja hindin kieli'
-        start_time: '2025-12-06T22:20:30+02:00'
-        end_time: '2025-12-06T22:30:00+02:00'
+        start_time: '2025-12-06T22:19:33+02:00'
+        end_time: '2025-12-06T22:27:54+02:00'
         description: |
           Etelä-Intiassa puhuttava telugun kieli kuuluu dravidakieliin ja hindin kieli on Intian pohjoisosien valtakieli ja myös maan puhutuin kieli. Yliopisto-opettaja Janne Seppänen vertailee näitä kieliä. Toimittajana on Jari Aula.
       - title: 'Keinuva talo - Mika Kauhanen: Mitä Romanian etnoihmeelle tapahtui?'
-        start_time: '2025-12-06T22:30:30+02:00'
-        end_time: '2025-12-06T23:29:30+02:00'
+        start_time: '2025-12-06T22:28:54+02:00'
+        end_time: '2025-12-06T23:27:54+02:00'
         description: |
           Millainen oli Romanian etnoihme 1990-luvulla? Ja mitä kuuluu maan kansanmusiikille nyt? Jakson aluksi palaamme supersuosittujen romaniyhtyeiden, kuten Taraf de Haïdouksin ja Fanfare Ciocârlian huippuvuosiin, kunnes on aika tutustua Romanian radion toimittajan Marica Cristianin vinkkaamiin tulokkaisiiin, jotka eivät ainakaan vielä ole tehneet kansainvälistä läpimurtoa. Jakson lopussa soi vielä parhaita kotimaisia etnouutuuksia. 
+      - title: Radio 1 soi
+        start_time: '2025-12-06T23:27:54+02:00'
+        end_time: '2025-12-06T23:34:30+02:00'
+        description: |-
+          Verdi: Aïdan romanssi (Karita Mattila, sopraano, ja RSO/Jukka-Pekka Saraste). 
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-06T23:34:30+02:00'
+        end_time: '2025-12-06T23:40:00+02:00'
+        description: |-
+          Riikka Holopainen keskustelee pianotaiteilija Olli Mustosen kanssa Magnus Lindbergin musiikista. Ensilähetys oli 1.10.2025.
       - title: Yöklassinen
         start_time: '2025-12-06T23:40:00+02:00'
         end_time: '2025-12-07T07:00:00+02:00'
