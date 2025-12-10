@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:26.014306+00:00'
+  generated_at: '2025-12-10T02:38:50.477282+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -122,6 +122,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-23T16:07:00+02:00'
         end_time: '2025-12-23T16:59:00+02:00'
+        description: |
+          J.S. Bach: Alkukuoro kantaatista n:o 110 "Unser Mund sei voll Lachens", joulupäivän kantaatti (Monteverdi-kuoro ja Englannin barokkisolistit/John Eliot Gardiner). 
+
+          Corrette: Noël provencal (Provencelainen joululaulu) (Kalevi Kiviniemi, Turun tuomiokirkon urut).
+
+          Torelli: Concerto grosso nro 6 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
+
+          Britten: Deo gracias Joululauluseremoniasta (Robert Shaw Chamber Singers/Robert Shaw, sekä Elizabeth Remy, harppu).
+
+          Biber: Sonaatti kahdeksalle trumpetille, patarummuille ja continuolle C-duuri (Le Concert des Nations, ja Hesperion XXI/Jordi Savall).
+
+          Britten: There is no rose (Cambridgen King's Collegen kuoro/David Willcocks, ja Ossian Ellis, harppu).
+
+          Ruots. kansanlaulu (sov. Olsson): Gammal julvisa (Allmänna Sången/Cecilia Rydinger Alin).
+
+          Kansansäv.: Kuusen ympärillä (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Ryyppymäki String Band).
+
+          Sonninen (sov. Kiiski): Jouluhymni (Sinfonia Lahti/Osmo Vänskä).
+
+          Harvey (sov.): Festive cheer (London Brass).
+
+          Lauridsen: O magnum mysterium (Erik Westberg -kuoro/Erik Westberg).
       - title: Uutispodcast
         start_time: '2025-12-23T17:00:00+02:00'
         end_time: '2025-12-23T17:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:22.550888+00:00'
+  generated_at: '2025-12-10T02:38:48.457677+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -11,15 +11,45 @@ data:
         start_time: '2025-12-14T23:40:00+02:00'
         end_time: '2025-12-15T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Lalo: Norjalainen fantasia (Philippe Graffin, viulu, ja Ulsterin ork./Thierry Fischer).
+
+          23:55 Nonó: Sinfonia F-duuri (Concerto Köln).
+
+          00:08 Wolf-Ferrari: Serenadi jousiorkesterille Es-duuri (Frankfurtin radion SO/Alun Francis).
+
+          00:31 Ponce: Teema, muunnelmia ja finaali e-molli (Jukka Savijoki, kitara).
+
+          00:40 Mascagni: Osakan serenadi oopp. Iris (Placido Domingo, tenori, ja Lontoon kuninkaallinen FO/Edward Downes).
+
+          00:44 Grigny: Messu uruille ja lauluäänille (Kaikkivaltias Isä) (Olivier Vernet ja Ensemble Jacques Moderne/Jean-Yves Hameline).
+
+          01:55 Beethoven: Sinfonia n:o 7 A-duuri (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          02:35 Rahmaninov: Pianokonsertto n:o 3 d-molli (Jean-Yves Thibaudet ja Clevelandin ork./Vladimir Ashkenazy).
+
+          03:18 W.A. Mozart: L'Oca del Cairo (Kairon hanhi), keskeneräinen ooppera (Peter Schreier, tenori, Dietrich Fischer-Dieskau, baritoni, Edith Wiens, sopraano, Douglas Johnson, tenori, ja Pamela Coburn, sopraano, sekä Berliinin radiokuoro ja Carl Philipp Emanuel Bach -kamariork./Schreier).
+
+          04:03 Schumann: Pianotrio n:o 1 d-molli (Emil Gilels, piano, ja Leonid Kogan, viulu, sekä Mstislav Rostropovitsh, sello).
+
+          04:33 Wagenseil: Sonaatti n:o 4 A-duuri (Piccolo Concerto Wien/Roberto Sensi, kontrabasso).
+
+          04:47 C.L. Lithander: Sonaatti fis-molli (Tapani Valsta, piano).
+
+          05:11 Brahms: Jousikvartetto n:o 3 B-duuri (Borodin-kvartetti).
+
+          05:48 Lebrun: Oboekonsertto n:o 6 F-duuri (Bart Schneemann ja Alankomaiden radion kamariork./Jan Willem de Vriend).
+
+          06:09 Zipoli: Partita kosketinsoittimelle a-molli (Giovanni Nesi, piano).
+
+          06:20 Fuenllana - Narvaez - Pisador: Passeavase el rey moro (Maurikuningas kulki Granadan kaupungin halki) (Trio Montparnasse).
       - title: Hartaita säveliä
         start_time: '2025-12-15T06:30:50+02:00'
         end_time: '2025-12-15T06:50:00+02:00'
       - title: Aamuhartaus
         start_time: '2025-12-15T06:50:00+02:00'
         end_time: '2025-12-15T06:59:59+02:00'
-        description: |-
-          Kouluttajapsykoterapeutti Maaret Kallio, Espoo
+        description: |
+          Apulaisprofessori Suvi-Maria Saarelainen, Espoo
       - title: Yle Uutiset ja sää
         start_time: '2025-12-15T07:00:00+02:00'
         end_time: '2025-12-15T07:05:00+02:00'
@@ -82,22 +112,33 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-15T10:52:00+02:00'
         end_time: '2025-12-15T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Oi-antifonit ja adventin salainen viesti'
         start_time: '2025-12-15T11:00:00+02:00'
         end_time: '2025-12-15T11:57:00+02:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+
+          Tänä adventtina on ehkä tavallista enemmän suuria ihmeitä, joita pitää odottaa kärsivällisesti. Odotusmusiikiksi Välilevyihin on poimittu historian rikastamaa adventtimusiikkia, esimerkiksi seitsemän ikivanhaa oi-antifonia. Ohjelman mittaan selviää, mistä niiden nimi tulee, mikä salaviesti niihin kätkeytyy ja miksi niiden teksteillä on yhä annettavaa.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-15T11:57:00+02:00'
         end_time: '2025-12-15T12:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-12-15T12:00:00+02:00'
         end_time: '2025-12-15T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Punainen huivi ja paljaat jalat – tanssija Isadora Duncanin elämästä ei puuttunut intohimoa, surua eikä mansikkaleivoksia'
         start_time: '2025-12-15T12:05:00+02:00'
         end_time: '2025-12-15T12:55:00+02:00'
-        description: |
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |+
+          Amerikkalainen Isadora Duncan on vapaan tanssin luoja ja perustaja. Hän esiintyi paljain jaloin ilman kiristäviä vaatteita ja sai porvariston posket hehkumaan häpeästä. Hän ei piitannut moraalisäännöistä, hän juhli ja tuhlasi rahaa.
+
+          Duncan rakasti lapsia ja ihaili antiikin Kreikkaa. Hänestä puhuttiin henkiin heränneenä Elginin marmorina. Duncanin elämän suurin tragedia oli hänen omien lastensa kuolema. Sen jälkeen Duncanin elämässä alkoi toinen, tummempi vaihe. Siihen kuuluivat mm. vuodet Moskovassa ja vaikea avioliitto runoilija Sergei Jesenin kanssa. 
+           
+          Duncanin traaginen kuolema Nizzassa vuonna 1927 teki tanssijattaresta maailmankuulun. Tapahtumasta uutisoitiin välittömästi ympäri maailmaa. Ihmiset, jotka olivat nähneet Duncanin tanssivan Euroopan suurilla näyttämöillä, ymmärsivät todistaneensa jotakin historiallista. 
+
+
+          Toimittaja: Liisa Vihmanen
+          Äänisuunnittelija: Panu Willman
+
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-15T12:55:00+02:00'
         end_time: '2025-12-15T13:00:00+02:00'
@@ -197,4 +238,36 @@ data:
         start_time: '2025-12-15T23:40:00+02:00'
         end_time: '2025-12-16T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          Sherwood: Sonaatti sellolle ja pianolle n:o 2 A-duuri (Joseph Spooner ja David Owen Norris).
+
+          00:07 Tournier: Sarja huilulle, viululle, alttoviululle, sellolle ja harpulle (Mirage-kvintetti).
+
+          00:22 Beethoven: Serenadi jousitriolle D-duuri (Zürichin jousitrio).
+
+          00:51 Hausegger: Natursymphonie (Luontosinfonia) (Kölnin radiokuoro ja Kölnin radion SO/Ari Rasilainen).
+
+          01:49 Aguado: Johdanto ja rondo kitaralle n:o 3 D-duuri (Lorenzo Micheli).
+
+          01:59 Gombert: Ego flos campi (Beauty Farm).
+
+          02:10 Godard: Symphonie orientale (Itämainen sinfonia) (Skotlannin kansallisork./Martin Yates).
+
+          02:38 Klughardt: Schilflieder, viisi fantasiakappaletta (Gerard Caussé, alttoviulu, Hansjörg Schellenberger, oboe, ja Vadim Gladkov, piano). 
+
+          02:58 Foulds: Music-pictures (Birminghamin SO/Sakari Oramo).
+
+          03:18 Chaminade: Trois morceaux (Kolme kappaletta) (Julia Galic, viulu, ja Johann Blanchard, piano).
+
+          03:34 Ries: La Capricciosa (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
+          03:37 Clementi: Sinfonia n:o 2 D-duuri (Salzburgin Mozarteumin ork./Ivor Bolton).
+
+          04:02 Rudolf: Sonaatti viululle ja pianolle F-duuri (Josef Suk, viulu, ja Susan Kagan, piano). 
+
+          04:32 Vivaldi: Nisi Dominus (Jos Herra ei huonetta rakenna) g-molli (Nathalie Stutzmann, altto, ja The King's Consort/Robert King).
+
+          04:56 Lachner: Kvintetto puhaltimille n:o 2 Es-duuri (Wien-Berlin -yhtye).
+
+          05:21 Schütz: Kleine geistliche Konzerte (Dresdenin Kreuz-kuoro/Rudolf Mauersberger, sekä Werner Jaroslawski, viola da gamba, ja Hans Otto, urut). 
+
+          06:17 J.S. Bach: Sonaatti huilulle ja kosketinsoittimelle n:o 3 A-duuri (Petri Alanko ja Anssi Mattila).

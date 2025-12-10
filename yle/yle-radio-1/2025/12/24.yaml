@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:26.286726+00:00'
+  generated_at: '2025-12-10T02:38:50.836522+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -77,22 +77,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-24T09:04:00+02:00'
         end_time: '2025-12-24T09:59:00+02:00'
-        description: |
-          Kansansäv.: No onkos tullut kesä (Peipposet).
+        description: |-
+          Kansansäv.: No onkos tullut kesä (Peipposet ja lapset).
           Köie: Nisse-polkka (Sing Song Sisters).
           Collan: Sylvian joululaulu (Tapio Rautavaara).
           Marks: Rudolph, the red-nosed reindeer (Ella Fitzgerald).
           Halonen: Sydämeeni joulun teen (Vesa-Matti Loiri).
           Maasalo: Joulun kellot (Metro-tytöt ja Ulla Katajavuori).
-          Lennon: Happy Xmas (war is over) (John Lennon).
+          Lennon/Ono: Happy Xmas (war is over) (John Lennon).
           Trenet: Chanson pour Noël (Charles Trenet).
           Sibelius: En etsi valtaa, loistoa (Ne Lintuizet).
-          Pierpont: Kulkuset (Olavi Virta).
           Gruber: Stille Nacht, heilige Nacht (Wiener Sängerknaben).
           Feliciano: Feliz Navidad (Jose Feliciano).
           Berlin: Valkea joulu (Annikki Tähti).
-          Adam: O helga natt (Jussi Björling).
-          Madetoja: Arkihuolesi kaikki heitä (Jukka Perko).
+          Adam: O Holy Night (Nat King Cole).
+          Madetoja: Arkihuolesi kaikki heitä (Jukka Perko ja Sinfonia Lahti).
       - title: Havaintoja muutoksesta
         start_time: '2025-12-24T10:00:00+02:00'
         end_time: '2025-12-24T10:50:00+02:00'
@@ -121,6 +120,9 @@ data:
       - title: O helga natt - joulun musiikkiaarteet
         start_time: '2025-12-24T15:45:00+02:00'
         end_time: '2025-12-24T15:55:00+02:00'
+        description: |+
+          Adam: O helga natt (Jussi Björling, tenori, ja Tukholman kuninkaallisen oopperan ork./Nils Grevillius). Sibelius: En etsi valtaa loistoa (RKK/Eric-Olof Söderström).
+
       - title: Yle News
         start_time: '2025-12-24T15:55:00+02:00'
         end_time: '2025-12-24T15:58:00+02:00'
@@ -132,6 +134,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-24T16:07:00+02:00'
         end_time: '2025-12-24T16:59:00+02:00'
+        description: |-
+          Gruber: Jouluyö, juhlayö (Kaartin Seitsikko/Harri Karri).
+
+          Anonyymi: Puer natus in Betlehem (kokoelmasta Piae cantiones) (Candomino/ Esko Kallio).
+
+          Melartin: Lapin joulu (Matti Lehtinen, baritoni, ja soitinyhtye/Jorma Panula).
+
+          Franck - Kiviniemi - Karjalainen: Joulufantasia (Kalevi Kiviniemi, urut, ja Astra Brass/Kari Karjalainen).
+
+          Kotilainen: Varpunen jouluaamuna (Soile Isokoski, sopraano, ja YL/Matti Hyökki).
+
+          Sibelius: Viisi joululaulua (Tom Krause, baritoni, ja Irwin Gage, piano). 
+
+          Ranta: Taas kaikki kauniit muistot (Lilli Paasikivi, mezzosopraano, ja Pentti Kotiranta, piano).
+
+          Solasaari: Paimenen joulurukous (Jorma Hynninen ja Kalevi Kiviniemi). 
+
+          Locatelli,: Concerto grosso f-molli op.1/8 (Joulukonsertto): 5. Pastorale (Freiburgin barokkiork./Gottfried von der Goltz)
       - title: Taiteilijan joulusaarna
         start_time: '2025-12-24T17:00:00+02:00'
         end_time: '2025-12-24T17:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:26.932049+00:00'
+  generated_at: '2025-12-10T02:38:51.032367+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -130,9 +130,28 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-25T19:00:00+02:00'
         end_time: '2025-12-25T19:02:00+02:00'
-      - title: Kotimainen konsertti
+      - title: 'Suomalainen Barokkiorkesteri & Ranskalainen jouluyö '
         start_time: '2025-12-25T19:02:00+02:00'
         end_time: '2025-12-25T21:00:00+02:00'
+        description: |
+          Suomalainen barokkiorkesteri jatkaa suosittujen joulukonserttien sarjaa nyt ranskalaisella musiikilla. Jouluisen ohjelmiston keskiössä on Marc-Antoine Charpentier'n Messe de minuit pour Noël (1694), jouluyön messu.
+
+          Charpentier'n messussa eivät soi säihkyvät trumpetit, vaan huilujen ja gambojen yöllinen herkkyys. Moniääniset kuorot, pienryhmien solistiset jaksot ja ihastuttavat soitinnumerot esittelevät säveltäjän pettämätöntä retoriikan tuntemusta. Ranskalaisen joulun ytimeen vievät melodiat, jotka on lainattu tunnetuista joululauluista.
+          Charpentier'n motetit kutsuvat unohtamaan arjen taakat ja käymään yhteiseen pöytään. Myös valikoima hänen joulumusiikkiaan soittimille sekä lauletut gregoriaaniset sävelmät rytmittävät konsertin kulkua. 
+
+          21.12.2026 Helsingissä Ritarihuoneella tallennetun konsertin toimittaa Noora Hirn. Äänisuunnittelija: Anna-Kaisa Kemppi, äänitarkkailija: Jari Rantakaulio.
+
+          Esiintyjät:
+
+          Marc Mauillon, taille ja laulajien valmennus
+          Tuuli Lindeberg ja Olivia Moss, dessus
+          Katariina Heikkilä ja Teppo Lampela, haute-contre
+          Aarne Mansikka, taille
+          Juhana Kotilainen ja Jussi Lehtipuu, basse-taille
+          Marianna Henriksson, cembalo, urut ja liidaus
+          Suomalainen barokkiorkesteri
+
+          Kuva: ©Akifoto
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-25T21:00:00+02:00'
         end_time: '2025-12-25T21:05:00+02:00'

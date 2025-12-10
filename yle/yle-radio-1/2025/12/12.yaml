@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:21.445888+00:00'
+  generated_at: '2025-12-10T02:38:47.638807+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -103,19 +103,41 @@ data:
       - title: Muistojen bulevardi
         start_time: '2025-12-12T09:04:00+02:00'
         end_time: '2025-12-12T09:59:00+02:00'
-      - title: Ruben Stiller
+        description: |
+          Pierpont:Jingle bells/We wish you a merry Christmas (Ray Anthony).
+          Blake: Avaruus (Tarja Merivirta).
+          Kansansäv.: What child is this? (Sissel Kyrkjebö).
+          Fidenco/Tassone: Lasciami il tuo sorriso (Nico Fidenco).
+          Davis: Pieni rumpalipoika (Tapio Heinonen).
+          McLellan: Lumilintu (Päivi Paunu).
+          Stoor: Sjömansjul på Hawaii (Yngve Stoor).
+          Waldteufel: Luistelijat (Matti Viljanen).
+          McFarland: Kissin' by the mistletoe (Aretha Franklin)
+          Adamo: Noel sur les Milandes (Salvatore Adamo).
+          Lecuona: Malaguena (Paco de Lucia).
+          Wartiovaara-Kallioniemi: Tonttu (Johanna Iivanainen).
+          Englantilainen kansansävelmä: England's carol (The Modern Jazz Quartet).
+      - title: 'Ruben Stiller: Erään juutalaisen syntymätarinat'
         start_time: '2025-12-12T10:00:00+02:00'
         end_time: '2025-12-12T10:55:00+02:00'
         description: |-
-          Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
+          Perustuuko tarina Neitsyt Mariasta virheelliseen käännökseen?
+
+          Miksi Paavali ei kerro mehevää tarinaa Jeesuksen syntymästä?
+
+          Mitkä kadoksissa olevat tekstit ohjelman vieraat haluaisivat löytää?
+
+          Ohjelmassa keskustellaan Jeesuksen syntymäkertomuksista ja raamatuntutkimuksesta.
+
+          Vieraina ovat historiallis-kriittisen raamatuntutkimuksen ammattilaiset, tutkijat Outi Lehtipuu ja Raimo Hakola.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-12T10:55:00+02:00'
         end_time: '2025-12-12T11:00:00+02:00'
-      - title: Narrin aamulaulu - Joululauluja ovelta ovelle
+      - title: Narrin aamulaulu - Tsaarittaren tossut ja muutama muu jouluinen ooppera
         start_time: '2025-12-12T11:00:00+02:00'
         end_time: '2025-12-12T11:55:00+02:00'
         description: |
-          Outi Paananen selvittelee englantilaista Carol Singing -perinnettä. 
+          Outi Paanasen joulunajan oopperakimara.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-12T11:57:00+02:00'
         end_time: '2025-12-12T12:00:00+02:00'
@@ -159,7 +181,23 @@ data:
         start_time: '2025-12-12T16:07:00+02:00'
         end_time: '2025-12-12T16:59:00+02:00'
         description: |
-          Kuuntelijoiden toivemusiikkia
+          Telemann: Alkusoitto sarj. viululle, jousille ja continuolle G-duuri (L'Orfeo/Elizabeth Wallfisch, viulu). 
+
+          Sibelius: Ristilukki (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano).
+
+          Puccini: Crisantemi (Krysanteemit) (Orpheus-kamariork.).
+
+          Lawson (sov.): Veni, veni Emmanuel (The King's Singers).
+
+          Barrios: Villancico de Navidad (Joululaulu) D-duuri (Alexander-Sergei Ramirez, kitara).
+
+          Anonyymi 1600-1700-luvulta (sov. Nurkkala): Joudu, satakiel' (Cantio Laudis/Olli Heikkilä).
+
+          Kuula: Lauantai-ilta (Jorma Hynninen, baritoni ja Pentti Koskimies, piano).
+
+          Sinding: Tempo giusto teoks. Sarja vanhaan tyyliin (Itzhak Perlman, viulu, ja Pittsburghin SO/André Previn).
+
+          W.A. Mozart: Divertimento F-duuri KV213 (Octophoros).
       - title: Uutispodcast
         start_time: '2025-12-12T17:00:00+02:00'
         end_time: '2025-12-12T17:20:00+02:00'
@@ -199,7 +237,7 @@ data:
         end_time: '2025-12-12T19:02:00+02:00'
       - title: Helsingin kaupunginorkesteri & Pekka Kuusisto – Ihmenäkyjä
         start_time: '2025-12-12T19:02:00+02:00'
-        end_time: '2025-12-12T21:00:00+02:00'
+        end_time: '2025-12-12T21:05:00+02:00'
         description: |-
           Miltä kuulostavat vedenalaiset lelupianot tai hämmentynyt keskustelu tikan kanssa? Pekka Kuusiston johtamassa konsertissa on ihmenäkyjä ja fantasiaa.
 
@@ -221,20 +259,20 @@ data:
           Anders Hillborg: Eleven Gates
 
           Kuva: ©Bard Gundersen
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-12-12T21:00:00+02:00'
-        end_time: '2025-12-12T21:05:00+02:00'
-      - title: Politiikkaradio
+      - title: Musiikkikamari
         start_time: '2025-12-12T21:05:00+02:00'
-        end_time: '2025-12-12T21:35:00+02:00'
+        end_time: '2025-12-12T21:30:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2025-12-12T21:30:00+02:00'
+        end_time: '2025-12-12T22:00:00+02:00'
       - title: Kalle Haatanen
-        start_time: '2025-12-12T21:36:00+02:00'
-        end_time: '2025-12-12T22:26:00+02:00'
+        start_time: '2025-12-12T22:01:00+02:00'
+        end_time: '2025-12-12T22:51:00+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Tuuli Saksalan keidas
-        start_time: '2025-12-12T22:27:00+02:00'
-        end_time: '2025-12-12T23:17:00+02:00'
+        start_time: '2025-12-12T22:52:00+02:00'
+        end_time: '2025-12-12T23:39:30+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

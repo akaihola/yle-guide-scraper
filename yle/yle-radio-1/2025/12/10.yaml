@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:20.635435+00:00'
+  generated_at: '2025-12-10T02:38:46.900472+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -134,7 +134,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-10T12:00:00+02:00'
         end_time: '2025-12-10T12:05:00+02:00'
-      - title: 'Kalle Haatanen: Vieraana toimittaja, tietokirjailija Mari Manninen'
+      - title: 'Kalle Haatanen: Toimittaja puhuu niin totta kuin osaa'
         start_time: '2025-12-10T12:05:00+02:00'
         end_time: '2025-12-10T12:55:00+02:00'
         description: |
@@ -142,9 +142,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-10T12:55:00+02:00'
         end_time: '2025-12-10T13:00:00+02:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Onko Trumpin turvallisuusstrategia kulttuurisodan lähtölaukaus?'
         start_time: '2025-12-10T13:00:00+02:00'
         end_time: '2025-12-10T13:30:00+02:00'
+        description: |
+          Yhdysvaltain presidentin Donald Trumpin hallinnon julkaisema kansallisen turvallisuuden strategia maalaa kauhukuvaa maahanmuuton takia tunnistamattomaksi muuttuvasta Euroopasta. Strategiapaperin julkaisun jälkeen Trump ilmoitti maansa tukevan Euroopassa vastedes niitä, jotka vastustavat Euroopan unionin ajamia arvoja. Onko Trumpin strategiapaperi presidentiltä täyden kulttuurisodan julistus Euroopalle? Yhdysvaltain uutta kansallisen turvallisuuden strategiaa analysoivat Ulkopoliittisen instituutin johtava tutkija Ville Sinkkonen sekä vanhempi tutkija Iro Särkkä. Toimittajana on Tapío Pajunen.
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-10T13:30:00+02:00'
         end_time: '2025-12-10T15:00:00+02:00'
@@ -157,9 +159,9 @@ data:
         start_time: '2025-12-10T15:00:00+02:00'
         end_time: '2025-12-10T15:55:00+02:00'
         description: |
-          Mikä saa kirjailijan inspiroitumaan menneestä maailmasta ja sen naiskohtaloista? Vaikuttaako oma aikamme siihen miten naiskuvaa rakennetaan? Onko vaarana että haluammekin luoda vääristyneitä naiskuvia? Olivatko historian naiset vahvoja selviytyjiä? Mitkä olivat heidän voimavaransa? Riikka-Maria Rosenbergin Hakoisten naiset-sarjan viimeinen osa kertoo tulevan kartanonrouvan salaisuudesta 1800-luvun jälkipuoliskolla. Virpi Hämeen-Anttilan Synnyinmaa-sarjan kolmas osa Kultaiset vuodet  kertoo ystävyydestä, rakkaudesta ja Suomen vaurastumisen ensivaiheista. 
+          Mikä saa kirjailijan inspiroitumaan menneestä maailmasta ja sen naiskohtaloista? Vaikuttaako oma aikamme siihen miten naiskuvaa rakennetaan? Onko vaarana että haluammekin luoda vääristyneitä naiskuvia? Olivatko historian naiset vahvoja selviytyjiä? Mitkä olivat heidän voimavaransa? Riikka-Maria Rosenbergin Hakoisten naiset-sarjan viimeinen osa kertoo tulevan kartanonrouvan salaisuudesta 1800-luvun jälkipuoliskolla. Virpi Hämeen-Anttilan Synnyinmaa-sarjan kolmas osa Kultaiset vuodet  kertoo ystävyydestä, rakkaudesta ja Suomen vaurastumisen ensivaiheista. Pirkko Määttälä kiinnostui lähipiirinsä historiasta, heidän tiestään Saksasta Suomeen. Alsacessa syntyneen Marie Larcherin elämästä löytyneet arkistomateriaalit vaikuttivat Marie romaanin syntyyn.
 
-          Ohjelman vieraina ovat kirjailijat Virpi Hämeen-Anttila ja Riikka-Maria Rosenberg.
+          Ohjelman vieraina ovat kirjailijat Virpi Hämeen-Anttila, Pirkko Määttälä ja Riikka-Maria Rosenberg.
 
           Ohjelman juontaa Pia-Maria Lehtola.
 
@@ -200,15 +202,16 @@ data:
         start_time: '2025-12-10T17:00:00+02:00'
         end_time: '2025-12-10T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kuntouttava työtoiminta uhkaa loppua nykymuodossaan, jos hallituksen säästötoiveet toteutuvat. Mitä tästä ajattelevat pitkäaikaistyöttömät? Toimittajana Leonard Wilhelmus.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-10T17:20:00+02:00'
         end_time: '2025-12-10T17:35:00+02:00'
-      - title: Laura Korhosen Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Levysoittimessa toistolla pyörivää musiikkia'
         start_time: '2025-12-10T17:35:00+02:00'
         end_time: '2025-12-10T18:35:00+02:00'
-        description: |
-          Toimittaja Laura Korhonen vie kuuntelijansa jazzin kiehtoville poluille ja tarjoilee menneisyyden klassikkoja ja tulevaisuuden helmiä. Ohjelmassa soivat melodiset kappaleet, ihastuttavat yllätykset ja kiinnostavat jazz-äänet ja -instrumentalistit. Ja millaisia ovat tarinat äänien takaa? Tunti jazzin huumaa!
+        description: |-
+          Käykö sinulle koskaan niin, että pyörität samaa albumia tai kappaletta levysoittimessasi päivä- tai viikkotolkulla? Jotkin kappaleet ovat niin absoluuttisen hienoja, että niistä on vaikea irrottautua, ja tällä kertaa ohjelmassa kuunnellaankin toimittajan levysoittimessa  viimeaikoina toistolla pyörineitä sävelmiä.
+          (U)
       - title: Hartaita säveliä
         start_time: '2025-12-10T18:35:00+02:00'
         end_time: '2025-12-10T18:50:00+02:00'
@@ -257,8 +260,8 @@ data:
           Freiburgin konserttitalossa 18.12.2024 äänitetyn konsertin toimittaa Ainomaija Pennanen.
           Kuva © Emil Matveev
 
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-12-10T21:00:00+02:00'
+      - title: Musiikkikamari
+        start_time: '2025-12-10T20:53:00+02:00'
         end_time: '2025-12-10T21:05:00+02:00'
       - title: Politiikkaradio
         start_time: '2025-12-10T21:05:00+02:00'

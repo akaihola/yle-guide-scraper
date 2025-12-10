@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:25.715761+00:00'
+  generated_at: '2025-12-10T02:38:50.257466+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -80,11 +80,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-22T10:52:00+02:00'
         end_time: '2025-12-22T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä retkellä: Pimeyden ytimeen'
         start_time: '2025-12-22T11:00:00+02:00'
         end_time: '2025-12-22T11:57:00+02:00'
-        description: |
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+        description: |-
+          Maastopyörän ledivalo poraa ohuen reiän eteläsuomalaiseen alkutalveen. Kahden pitkän yön retki kannattaa vain, jos mieli oppii kääriytymään pimeyteen kuin peittoon. Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-22T11:57:00+02:00'
         end_time: '2025-12-22T12:00:00+02:00'
@@ -126,6 +126,38 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-22T16:07:00+02:00'
         end_time: '2025-12-22T16:59:00+02:00'
+        description: |
+          Kansansäv. (Ranska): Ding dong! merrily on high (Meridian/Irene Messoloras). 
+
+          Turunen: Me käymme Joulun viettohon (Martti Wallen, laulu, ja Meri Louhos, piano). 
+
+          Sonninen: Jouluhymni (Värinä/Noora Hirn).
+
+          V. Hannikainen: On maassa hanget puhtahat (Senja Mäki, huilu, ja Kaisa-Mari Pulkkanen, piano).  
+
+          Madetoja (sov. I. Kuusisto): Arkihuolesi kaikki heitä (Karita Mattila ja Turun FO/Pertti Pekkanen). 
+
+          P.J.Hannikainen: Tuikkikaa, oi joulun tähtöset (Martti Talvela, basso  ja Pertti Eerola, urut). 
+
+          Halonen (sov. Ratassepp): Sydämeeni joulun teen (Helsingin liikennelaitoksen mieslaulajat/Märt Ratassepp). 
+
+          Wartiovaara-Kallioniemi: Tonttu (Rajaton).
+
+          Raala: Joulukirkkoon (Vilma Talvitie ja ALDA).
+
+          Haapasalo: Joululaulu (Taru Valjakka, sopraano, ja Pentti Koskimies, piano).
+
+          Anonyymi 1500-luvulta: Enkeli taivaan lausui näin (Kim Borg, basso, ja Arne Bertelsen, urut).
+
+          Kansansäv./Laurinsilta/Miettunen: Maa on niin kaunis, virsi (Flok). 
+
+          Kansansäv. (Saksa): Oi, kuusipuu (Laulu-Miehet/Matti Hyökki). 
+
+          Kotilainen: Kun joulu on (Kamarikuoro Kaamos).
+
+          Sibelius: En etsi valtaa, loistoa (Soile Isokoski, sopraano, ja Pertti Eerola, urut)
+
+          O. Merikanto: Joulu tullut on (Polyteknikkojen Kuoro/Juha Kuivanen). 
       - title: Uutispodcast
         start_time: '2025-12-22T17:00:00+02:00'
         end_time: '2025-12-22T17:20:00+02:00'

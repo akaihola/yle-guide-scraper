@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-08T02:38:27.188955+00:00'
+  generated_at: '2025-12-10T02:38:51.244085+00:00'
   git:
     branch: main
-    commit: 560bfa5bebc407575403c0c8c19043906d9c5a8b
-  data_hash: e9012c6f855ed6726335190a0109940ec482de7a004ade12b4768aaf5affe453
+    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
+  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
 data:
   Yle Radio 1:
     programmes:
@@ -33,11 +33,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-26T10:59:20+02:00'
         end_time: '2025-12-26T11:00:00+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Kimonkylän kellonsoittaja, kirkontorniteknikko Supavit Nummelin ja 1500 kelloa
         start_time: '2025-12-26T11:00:00+02:00'
         end_time: '2025-12-26T11:55:00+02:00'
         description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Kun 27-vuotiaalla on oma kirkonkellomuseo, kellotapuli, kappeli, kahdeksat kirkkourut ja kapearaiteinen rautatie vetureineen, on syytä matkata Lapinjärven Kimonkylälle tapaamaan Supavit Nummelinia. Kirkonkelloja ympäri Suomen huoltavan Supavit Nummelinin tapasi Outi Paananen.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-26T12:00:00+02:00'
         end_time: '2025-12-26T12:05:00+02:00'
@@ -66,6 +66,8 @@ data:
       - title: Taiteilijatapaaminen
         start_time: '2025-12-26T15:00:00+02:00'
         end_time: '2025-12-26T15:55:00+02:00'
+        description: |
+          Oopperalaulajat Johanna Rusanen-Kartano ja Ville Kartano muistelevat, kuinka kotona aina soi, isä kun oli kanttori ja monipuolinen musiikkimies muutenkin. Siitä on ollut hyvä ponnistaa laulajan ammattiin, joka on vienyt molempia sisaruksia kohti aina vain vaativampia tehtäviä. Toisaalta olemme paljon mukana myös toistemme arjessa, vaikkapa koira-asioissa, he kertovat. Toimittajana on Maija Salminen. 
       - title: Yle News
         start_time: '2025-12-26T15:55:00+02:00'
         end_time: '2025-12-26T15:58:00+02:00'
