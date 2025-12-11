@@ -1,16 +1,118 @@
 metadata:
-  generated_at: '2025-11-18T02:35:50.844049+00:00'
+  generated_at: '2025-12-11T02:40:02.825299+00:00'
   git:
     branch: main
-    commit: ecb99511c307b3fa217c9451bad85ed698269374
-  data_hash: 0dcfaaed24a2801e329832a7fcf6e3675951a635a610112dd38cb2db000e2d4e
+    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
+  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
 data:
   Yle Radio 1:
     programmes:
-      - title: Dominante 50 - Juhlakonsertti
-        start_time: '2025-11-19T19:02:00+02:00'
-        end_time: '2026-11-19T23:59:59+02:00'
-        description: |
-          Viisikymmentä vuotta Dominante-kuoro on kuulostanut Suomelta ja Suomi Dominantelta, olipa kyseessä Sibelius, joulu tai kotimainen nykymusiikki. Aalto-yliopiston sekakuoron juhlavuosi huipentuu Musiikkitalon juhlakonsertissa, jossa kuullaan parhaita paloja Dominanten taipaleelta. Kantaesityksensä saa kolme tilausteosta suomalaisilta säveltäjiltä: Minna Leinoselta, Tapani Länsiöltä ja Jaakko Mäntyjärveltä. Konsertti päättyy suuren juhlakuoron ja Musiikkitalon urkujen yhteiseen musiikki-ilotulitukseen.
+      - title: Yöklassinen
+        start_time: '2026-01-09T00:00:00+02:00'
+        end_time: '2026-01-09T06:30:00+02:00'
+      - title: Hartaita säveliä
+        start_time: '2026-01-09T06:30:50+02:00'
+        end_time: '2026-01-09T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2026-01-09T06:50:00+02:00'
+        end_time: '2026-01-09T06:59:59+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-01-09T07:00:00+02:00'
+        end_time: '2026-01-09T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2026-01-09T07:06:00+02:00'
+        end_time: '2026-01-09T08:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-01-09T08:00:00+02:00'
+        end_time: '2026-01-09T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-01-09T08:07:00+02:00'
+        end_time: '2026-01-09T09:00:00+02:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-01-09T09:00:00+02:00'
+        end_time: '2026-01-09T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-01-09T09:04:00+02:00'
+        end_time: '2026-01-09T09:59:00+02:00'
+      - title: Kalle Haatanen
+        start_time: '2026-01-09T10:00:00+02:00'
+        end_time: '2026-01-09T10:55:00+02:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-01-09T10:55:00+02:00'
+        end_time: '2026-01-09T11:00:00+02:00'
+      - title: Narrin aamulaulu - Outi Paananen
+        start_time: '2026-01-09T11:00:00+02:00'
+        end_time: '2026-01-09T11:55:00+02:00'
+        description: |-
+          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-01-09T11:55:00+02:00'
+        end_time: '2026-01-09T11:57:00+02:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-01-09T11:57:00+02:00'
+        end_time: '2026-01-09T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-01-09T12:00:00+02:00'
+        end_time: '2026-01-09T12:05:00+02:00'
+      - title: Tiedeykkönen
+        start_time: '2026-01-09T12:05:00+02:00'
+        end_time: '2026-01-09T12:55:00+02:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-01-09T13:30:00+02:00'
+        end_time: '2026-01-09T15:00:00+02:00'
+      - title: Yle News
+        start_time: '2026-01-09T15:55:00+02:00'
+        end_time: '2026-01-09T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-01-09T16:00:00+02:00'
+        end_time: '2026-01-09T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-01-09T16:07:00+02:00'
+        end_time: '2026-01-09T16:59:00+02:00'
+      - title: Uutispodcast
+        start_time: '2026-01-09T17:00:00+02:00'
+        end_time: '2026-01-09T17:20:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-01-09T17:20:00+02:00'
+        end_time: '2026-01-09T17:35:00+02:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-01-09T17:35:00+02:00'
+        end_time: '2026-01-09T18:30:00+02:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+      - title: Hartaita säveliä
+        start_time: '2026-01-09T18:35:00+02:00'
+        end_time: '2026-01-09T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2026-01-09T18:50:00+02:00'
+        end_time: '2026-01-09T19:00:00+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-01-09T19:00:00+02:00'
+        end_time: '2026-01-09T19:02:00+02:00'
+      - title: '{oh!}-orkesteri soittaa Janiewiczin, Mozartin ja Beethovenin musiikkia'
+        start_time: '2026-01-09T19:02:00+02:00'
+        end_time: '2026-01-09T21:00:00+02:00'
+        description: |-
+          Euroradiokonsertissa soi Feliks Janiewiczin musiikki. Vuosina 1762-1848 elänyt Janiewicz oli omana aikanaan tunnettu viuluvirtuoosi ja säveltäjä, jonka elämänpolku kulki Puola-Liettuan kuningaskunnan Vilnasta Wieniin, Pariisiin ja Lontooseen. 
 
-          Urkurina on Pekka Suikkanen, konsertin johtaa Seppo Murto. Lauantaina 15.11. Musiikkitalossa tallennetun konsertin toimittaa Kare Eskola.
+          Janiewiczin sekä Mozartin, Beethovenin ja Mendelssohnin teokset tulkitsee vuonna 2012 perustettu {oh!}-orkesteri. Konsertin solisteja ovat niinikään periodisoittimin musisoivat viulisti Chouchane Siranossian ja pianisti Tomasz Ritter. Musiikkia liidaa {oh!}-orkesterin perustaja, viulisti-kapellimestari Martyna Pastuszka. 
+      - title: Tuuli Saksalan keidas
+        start_time: '2026-01-09T22:25:00+02:00'
+        end_time: '2026-01-09T23:15:00+02:00'
+        description: |-
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-01-09T23:40:00+02:00'
+        end_time: '2026-01-10T08:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-10T02:38:48.457677+00:00'
+  generated_at: '2025-12-11T02:39:54.130647+00:00'
   git:
     branch: main
-    commit: fbfa38f308aa528f5dc890f33ac0aea3cfb78aa7
-  data_hash: b92df92888b1e580c38714827c3fd73b37675764983f33c8735101ec3fc3a04b
+    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
+  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
 data:
   Yle Radio 1:
     programmes:
@@ -49,7 +49,8 @@ data:
         start_time: '2025-12-15T06:50:00+02:00'
         end_time: '2025-12-15T06:59:59+02:00'
         description: |
-          Apulaisprofessori Suvi-Maria Saarelainen, Espoo
+          "Sävelten rauha ja melodioiden merkityksellisyys"
+          Apulaisprofessori Suvi-Maria Saarelainen Espoosta löytää musiikista rauhaa kantavan sielun ja Jumalan kielen.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-15T07:00:00+02:00'
         end_time: '2025-12-15T07:05:00+02:00'
@@ -83,6 +84,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-12-15T08:07:00+02:00'
         end_time: '2025-12-15T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: Yle Uutiset
         start_time: '2025-12-15T09:00:00+02:00'
         end_time: '2025-12-15T09:03:00+02:00'
@@ -106,11 +109,11 @@ data:
           Sylvain: Linnunrata (Tapio Rautavaara).
       - title: 'Virtasen taloushistoria: Pandemian ja Ukrainan sodan vaikutukset talouteemme '
         start_time: '2025-12-15T10:00:00+02:00'
-        end_time: '2025-12-15T10:52:00+02:00'
+        end_time: '2025-12-15T10:54:00+02:00'
         description: |
           Pandemian ja Ukrainan sodan vaikutukset talouteemme
       - title: Yksi on hyvää seuraa
-        start_time: '2025-12-15T10:52:00+02:00'
+        start_time: '2025-12-15T10:54:00+02:00'
         end_time: '2025-12-15T11:00:00+02:00'
       - title: 'Välilevyjä: Oi-antifonit ja adventin salainen viesti'
         start_time: '2025-12-15T11:00:00+02:00'
@@ -122,20 +125,17 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-15T11:57:00+02:00'
         end_time: '2025-12-15T12:00:00+02:00'
+        description: |-
+          Ote Tuomas Palosen kirjasta Etymologian etymologia — ja muita etymologioita, SKS 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-12-15T12:00:00+02:00'
         end_time: '2025-12-15T12:05:00+02:00'
-      - title: 'Elävä historia: Punainen huivi ja paljaat jalat – tanssija Isadora Duncanin elämästä ei puuttunut intohimoa, surua eikä mansikkaleivoksia'
+      - title: 'Elävä historia: Punainen huivi ja paljaat jalat - tanssija Isadora Duncanin elämästä ei puuttunut intohimoa, surua eikä mansikkaleivoksia'
         start_time: '2025-12-15T12:05:00+02:00'
         end_time: '2025-12-15T12:55:00+02:00'
         description: |+
           Amerikkalainen Isadora Duncan on vapaan tanssin luoja ja perustaja. Hän esiintyi paljain jaloin ilman kiristäviä vaatteita ja sai porvariston posket hehkumaan häpeästä. Hän ei piitannut moraalisäännöistä, hän juhli ja tuhlasi rahaa.
-
-          Duncan rakasti lapsia ja ihaili antiikin Kreikkaa. Hänestä puhuttiin henkiin heränneenä Elginin marmorina. Duncanin elämän suurin tragedia oli hänen omien lastensa kuolema. Sen jälkeen Duncanin elämässä alkoi toinen, tummempi vaihe. Siihen kuuluivat mm. vuodet Moskovassa ja vaikea avioliitto runoilija Sergei Jesenin kanssa. 
-           
-          Duncanin traaginen kuolema Nizzassa vuonna 1927 teki tanssijattaresta maailmankuulun. Tapahtumasta uutisoitiin välittömästi ympäri maailmaa. Ihmiset, jotka olivat nähneet Duncanin tanssivan Euroopan suurilla näyttämöillä, ymmärsivät todistaneensa jotakin historiallista. 
-
-
+          Haastateltavina tanssihistorian tutkija Tiina Suhonen, tanssija-koreografi Marja-Terttu Willman ja tanssija Jonna Aaltonen
           Toimittaja: Liisa Vihmanen
           Äänisuunnittelija: Panu Willman
 
@@ -148,6 +148,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-15T13:30:00+02:00'
         end_time: '2025-12-15T15:00:00+02:00'
+        description: |
+          Teatteriohjaaja Linda Wallgren on studiovieraana n. klo 14. Useissa teattereissa työskennelleen Wallgrenin viime aikojen puhutuin työ on Kansallisteatterin Angels in America. Reilun vuoden ajan pyörinyt esitys on kerännyt kriitikoilta hurmioituneita kommentteja ja se esitetään vielä muutaman kerran täysille katsomoille. Teatterin tekemisestä Wallgren keskustelee Jarmo Laitanevan kanssa. 
       - title: Kulttuuriykkönen
         start_time: '2025-12-15T15:00:00+02:00'
         end_time: '2025-12-15T15:55:00+02:00'
@@ -221,6 +223,8 @@ data:
       - title: 'Kysy Yle Radio 1:stä '
         start_time: '2025-12-15T19:02:00+02:00'
         end_time: '2025-12-15T20:30:00+02:00'
+        description: |-
+          Suorassa radiolähetyksessä  ovat vastaamassa Kulttuuri ja asia -yksikön johtaja ja vastaava päätoimittaja Johanna Törn-Mangs sekä radiopäällikkö Jonna Ferm.
       - title: 'Tosi tarina: Olen jossain'
         start_time: '2025-12-15T21:00:00+02:00'
         end_time: '2025-12-15T21:45:55+02:00'
