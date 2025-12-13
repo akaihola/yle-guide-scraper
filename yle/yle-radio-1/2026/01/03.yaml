@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:40:00.497740+00:00'
+  generated_at: '2025-12-13T02:36:43.930577+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,8 @@ data:
         start_time: '2026-01-03T08:25:00+02:00'
         end_time: '2026-01-03T08:35:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          "Katse ylöspäin"
+          Pastori Petri Viinikkala, Helluntaiseurakunta, Helsinki puhuu välitilasta uuden ja vanhan välillä ja pyytää Jumalaa vahvistamaan kykyämme elää tässä hetkessä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-03T08:35:00+02:00'
         end_time: '2026-01-03T08:40:00+02:00'
@@ -44,12 +45,35 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-03T09:04:00+02:00'
         end_time: '2026-01-03T09:59:00+02:00'
+        description: |-
+          Becaud: Palaan sua hakemaan (Tapio Heinonen).
+          Grever: Kuutamolla kahden (Vieno Kekkonen).
+          Farres; Qui sait, qui sait, qui sait (Luis Mariano).
+          Arlen: Ac-cent-tchu-ate the positive (Aretha Franklin).
+          Carmichael: Skylark (Hoagy Carmichael).
+          Godzinsky: Tango Venetsia (Harmony Sisters). 
+          Lavi: Tavallinen rellu (Veikko Lavi).
+          Hadzidakis: Mi ton rotas ton urano (Mary Lo). 
+          Van Heusen: It could happen to you (Jackie Paris).
+          Mancini: Charade (Blossom Dearie).
+          Johnston: Pennies for heaven (The Dave Brubeck Quartet).
+          Kansansäv.: Ajettih da tsiganaiset (Heli Keinonen).
+          Christopher/Thompson/James: Always on my mind (Elvis Presley).
+          Numminen: Vallilan puutalot (Tuulikki Eloranta).
+          Hector: Lumi teki enkelin eteiseen (Hector).
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-03T09:59:00+02:00'
         end_time: '2026-01-03T10:00:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-01-03T10:00:00+02:00'
         end_time: '2026-01-03T10:25:00+02:00'
+      - title: 'Hyvät, pahat ajattelijat: Simone Weil'
+        start_time: '2026-01-03T10:25:00+02:00'
+        end_time: '2026-01-03T11:00:00+02:00'
+        description: |
+          Simone Weil omisti elämänsä heikompiosaisten ymmärtämiselle tavalla, joka vei hänet äärimmäisyyksiin, myös fyysisesti. 1900-luvun alun Ranskassa elänyt Weil oli muun muassa tehtaassa töissä, jotta hän saattoi tuntea oikeasti, mitä on olla tehdastyöläinen. Samoin hän halusi mukaan Espanjan sisällissotaan taistelemaan, vaikka oli itse pasifisti. 
+          Simone Weil oli äärimmäisyyksien ihminen kaikessa, mitä hän teki. Filosofina hänen ajattelunsa ja kirjoituksensa ovat kiehtoneet muun muassa säveltäjä Kaija Saariahoa.  Ohjelman toimittaa Maarit Lukkarinen.
+          Ensilähetys v. 2021.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-03T11:57:00+02:00'
         end_time: '2026-01-03T12:00:00+02:00'
@@ -73,9 +97,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-03T15:25:00+02:00'
         end_time: '2026-01-03T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Karjalanpaisti ei ole koko totuus perinneruuista – esivanhempamme tunsivat vegaaniherkut'
         start_time: '2026-01-03T15:30:00+02:00'
         end_time: '2026-01-03T15:55:00+02:00'
+        description: |
+          Muinaisvegaaninen sanasto ja monet ruokalajit olivat suurelta osin katoamassa, mutta nyt ne ovat taas ruokatrendien huipulla. Pasi Heikuran vieraina Anniina Ljokkoi ja Liisa Kaski.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2026-01-03T15:55:00+02:00'
         end_time: '2026-01-03T15:58:00+02:00'
@@ -94,7 +121,7 @@ data:
         start_time: '2026-01-03T18:01:00+02:00'
         end_time: '2026-01-03T18:10:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Teologian tohtori Jukka Helle, Hongkong
       - title: Lauantain toivotut levyt
         start_time: '2026-01-03T18:10:00+02:00'
         end_time: '2026-01-03T19:00:00+02:00'

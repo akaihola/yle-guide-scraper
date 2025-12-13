@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:53.086313+00:00'
+  generated_at: '2025-12-13T02:36:36.335238+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -99,6 +99,12 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-12-13T10:00:00+02:00'
         end_time: '2025-12-13T10:25:00+02:00'
+        description: |-
+          Huumeiden käyttö on kuluneen vuosikymmenen ajan maailmassa alati kasvanut. YK:n tuoreen raportin mukaan käyttäjiä oli vuonna 2023 jo yli 300 miljoonaa. Useassa maassa yliannostuskuolemat ovat lisääntyneet käytönkasvun myötä.
+          Portugali lukeutuu harvoihin länsimaihin, joka on onnistunut viime vuosina vähentämään huumekuolemia. Ohjelmassa kuullaan Portugalista, millainen suunnanmuutos maan huumepolitiikassa jokin aika sitten tehtiin synkän kehityksen kääntämiseksi.
+          Addiktioihin erikoistunut brittiprofessori sanoo ohjelmassa, että keskeistä on muuttaa suhtautumista huumeidenkäyttöön ja nähdä se terveysongelmana, ei rikoksena.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hyvät, pahat ajattelijat: Rosa Luxemburg'
         start_time: '2025-12-13T10:25:00+02:00'
         end_time: '2025-12-13T11:00:00+02:00'
@@ -246,27 +252,49 @@ data:
 
           Rodrigo: Aranjuez-konsertto (Sharon Isbin, kitara, ja New Yorkin FO/José Serebrier).
 
-      - title: Uutispodcast
-        start_time: '2025-12-13T21:00:30+02:00'
-        end_time: '2025-12-13T21:21:00+02:00'
-        description: |
-          Otsikoiden takana joka arkipäivä.
+      - title: 'Uutispodcast: Kuntouttava työtoiminta uhkaa loppua – onko siitä oikeasti hyötyä?'
+        start_time: '2025-12-13T21:00:32+02:00'
+        end_time: '2025-12-13T21:24:05+02:00'
+        description: |-
+          Kuntouttava työtoiminta uhkaa loppua nykymuodossaan, jos hallituksen säästötoiveet toteutuvat. Mitä tästä ajattelevat pitkäaikaistyöttömät? Toimittajana Leonard Wilhelmus.
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-13T21:24:05+02:00'
+        end_time: '2025-12-13T21:43:49+02:00'
+        description: |-
+          Jalmari Laine haastettelee Helsingin kaupunginteatterin Pääroolissa Malmi hankkeen hanketaiteilija Laura Ikosta. Ensilähetys 20.10.2025.
+      - title: Radio 1 soi
+        start_time: '2025-12-13T21:43:49+02:00'
+        end_time: '2025-12-13T21:58:04+02:00'
+        description: |+
+          Erlebach: Sonaatti viululle, viola da gamballe ja continuolle n:o 3 A-duuri. (Trio Settecento).
+
       - title: 'Maailman tärkein pieni asia: Partio on antanut Saara Hyrkölle mahdollisuuden ylittää itsensä'
-        start_time: '2025-12-13T22:00:30+02:00'
-        end_time: '2025-12-13T22:20:00+02:00'
+        start_time: '2025-12-13T21:58:04+02:00'
+        end_time: '2025-12-13T22:15:44+02:00'
         description: |-
           Saara Hyrkkö on aina valmis, sillä hän on ollut partiolainen jo vuosikymmeniä.
       - title: 'Kielen päällä: Intian kirjoitusjärjestelmät ja kielipolitiikka'
-        start_time: '2025-12-13T22:20:30+02:00'
-        end_time: '2025-12-13T22:30:00+02:00'
+        start_time: '2025-12-13T22:16:39+02:00'
+        end_time: '2025-12-13T22:25:39+02:00'
         description: |
           Kielen päällä
           Yliopisto-opettaja Janne Seppänen Helsingin yliopistosta kertoo Intian kirjoitusjärjestelmistä ja kielipolitiikasta. Monilla kielillä on oma kirjoitusjärjestelmänsä ja maassa noudatetaan yleisesti ns. kolmen kielen mallia. Toimittajana on Jari Aula. Tähän päättyy neliosainen Intian kieliä tarkasteleva minisarja.
       - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikkia isänmaasta suomalaisen musiikin päivänä'
-        start_time: '2025-12-13T22:30:30+02:00'
-        end_time: '2025-12-13T23:29:30+02:00'
+        start_time: '2025-12-13T22:26:29+02:00'
+        end_time: '2025-12-13T23:25:33+02:00'
         description: |
           Suomalaisen musiikin päivä kuuluu luonteikkaasti myös Keinuvassa talossa. Kuinka vaalii nykykansanmusiikkimme Suomineitoa ja satumaata, punkkitarkastusta ja heikkoja jäitä, Nälkämaata ja Pieksämäkeä, tai monikulttuurista Helsinkiä? Luvassa jakson täydeltä soivaa Suomi-kuvaa kansallisromanttisella twistillä! Toimittajana Mika Kauhanen.
+      - title: Radio 1 soi
+        start_time: '2025-12-13T23:25:33+02:00'
+        end_time: '2025-12-13T23:33:29+02:00'
+        description: |+
+          Borodin (sov. Rimski-Korsakov): Igorin aaria oopp. Ruhtinas Igor (Petteri Salomaa, baritoni, ja RSO/Pertti Pekkanen).
+
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-13T23:33:29+02:00'
+        end_time: '2025-12-13T23:40:00+02:00'
+        description: |-
+          Johtaja Katri Viippola on jouluttaja. Sari Valto haastattelee. Ensilähetys oli 10.12.2025
       - title: Yöklassinen
         start_time: '2025-12-13T23:40:00+02:00'
         end_time: '2025-12-14T07:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:54.670715+00:00'
+  generated_at: '2025-12-13T02:36:37.572996+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -47,6 +47,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-16T06:30:50+02:00'
         end_time: '2025-12-16T06:50:00+02:00'
+        description: |+
+          Tuntematon (sov. I. Kuusisto): Te laaksot, notkot, nouskaa (virsi 5) (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
+
+          Koraalitoisinto (sov. Lehtoaho): Joutukaa, sielut, on aikamme kallis (virsi 408) (Mikko Salakari, tenori, ja Miikka Lehtoaho, urut).
+
+          Kansansävelmä: Staffan och Herodes (Esbjörn Hazelius ja yhtye).
+
+          Härkönen: Milloin joulurauhan saan (Kuopion tuomiokirkon kamarikuoro/Pertti Rusanen).
+
       - title: Aamuhartaus
         start_time: '2025-12-16T06:50:00+02:00'
         end_time: '2025-12-16T06:59:59+02:00'
@@ -117,11 +126,33 @@ data:
         end_time: '2025-12-16T10:55:00+02:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Ei niin tuttua joulumusiikkia'
         start_time: '2025-12-16T11:00:00+02:00'
         end_time: '2025-12-16T11:57:00+02:00'
-        description: |-
+        description: |
+          Joulu lähestyy, ja joulumusiikki raikaa. Löytyykö suosikkilaulujen rinnalle hienoa, vaan ei niin tunnettua joulumusiikkia? Klasariparatiisi luotaa musiikkia Espanajan renessanssista nykypäivän Irlantiin.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Andrej Makor: O Magnum mysterium
+          (The Choral Scholars of University College Dublin/Desmond Earley).
+
+          Elaine Agnew: Curoo curoo 
+          (The Choral Scholars of University College Dublin ja Irlantilainen kamariorkesteri/Desmond Earley).
+
+          Claude Debussy:  Noël des enfants qui n'ont plus de maison (Kodittomien lasten joululaulu) (Tapiolan kuoro ja Uki Ovaskainen, piano/Erkki Pohjola).
+
+          Ferruccio Busoni: Nuit de Noël (Igor Levit, piano).
+
+          Tomas Luis de Victoria: Quem vidistis pastores (Ensemble Plus Ultra/Michael Noone).
+
+          Andreas Hammerschmidt: Sey willkommen, Jesulein (Hanna Herfurtner, sopraano, David Erler, kontratenori, Stephan Scherpe, tenori, Jakob Ahles, basso, ja Lautten Compagney/ Wolfgang Katschner.)
+
+          Michel-Richard de Lalande: Simphonie de noël,osia (Joulusinfonia) (Ensemble Masques/Olivier Fortin).
+
+          Johann Kuhnau: Frohlocket, Ihr Völker und Jauchzet, ihr Heiden, 1. joulupäivän kantaattista 
+          (Jessica Jans, sopraano, David Erler, kontratenori, Daniel Schreiber, tenori, Florian Hartmann, basso, Karlsruhe Christuskirchen kamarikuoro ja L' Arpa Festante/ Peter Gortner).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-16T11:57:00+02:00'
         end_time: '2025-12-16T12:00:00+02:00'
@@ -135,9 +166,11 @@ data:
         end_time: '2025-12-16T12:25:00+02:00'
         description: |
           Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Thonis Herakleion -osan vieraana on emeritusprofessori Jaakko Frösén. Toimittaja Jukka Kuosmanen. (es. 2020)
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Koera, pääsöö, mää näkkiin – murteet eivät kadonneet vaan elävät kaikkialla Suomessa'
         start_time: '2025-12-16T12:25:00+02:00'
         end_time: '2025-12-16T12:50:00+02:00'
+        description: |
+          Pasi Heikura kartoittaa Suomessa puhuttujen murteiden rajoja oppaanaan murteiden tutkija Harri Mantila. Ohjelmassa vedetään myös rubenia ylästilleriin ja määritellään paljonko on lähes parikymmentä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-16T12:50:00+02:00'
         end_time: '2025-12-16T13:00:00+02:00'
@@ -221,6 +254,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-16T18:35:00+02:00'
         end_time: '2025-12-16T18:50:00+02:00'
+        description: |+
+          Harju: Sinun on valta (Maksetut viulut).
+
+          Koskimäki (sov. Linjama): Oi joulun tähti pieni (Rauhanyhdistyksen seurayleisö ja Raakel Kaltakari,urut).
+
+          Maasalo: Joulun kellot (Tauno Äikää, urut).
+
+          Anonyymi: Oi, näkee Luoja (Ortodoksinen kamarikuoro/Juhani Matsi). 
+
       - title: Iltahartaus
         start_time: '2025-12-16T18:50:00+02:00'
         end_time: '2025-12-16T19:00:00+02:00'
@@ -245,6 +287,9 @@ data:
           Rooleissa: Marja Packalén, Antti Jaakola, Talvikki Eerola, Karlo Haapiainen, Hannu-Pekka Björkman, Jouko Puolanto, Taisto Oksanen, Leena Uotila, Tuomas Uusitalo, Lauri Tanskanen, Vilma Tanskanen, Minna Kivelä, Anna-Sofia Tuominen.
           Tuotanto: Laura Jaakkola
           Tilaaja: Matti Kajander, Yle Draama 2025.
+      - title: Musiikkikamari
+        start_time: '2025-12-16T19:37:00+02:00'
+        end_time: '2025-12-16T20:00:00+02:00'
       - title: 'Maailman tärkein pieni asia: Partio on antanut Saara Hyrkölle mahdollisuuden ylittää itsensä'
         start_time: '2025-12-16T20:00:00+02:00'
         end_time: '2025-12-16T20:20:00+02:00'
@@ -258,6 +303,12 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2025-12-16T20:35:00+02:00'
         end_time: '2025-12-16T21:00:00+02:00'
+        description: |-
+          Huumeiden käyttö on kuluneen vuosikymmenen ajan maailmassa alati kasvanut. YK:n tuoreen raportin mukaan käyttäjiä oli vuonna 2023 jo yli 300 miljoonaa. Useassa maassa yliannostuskuolemat ovat lisääntyneet käytönkasvun myötä.
+          Portugali lukeutuu harvoihin länsimaihin, joka on onnistunut viime vuosina vähentämään huumekuolemia. Ohjelmassa kuullaan Portugalista, millainen suunnanmuutos maan huumepolitiikassa jokin aika sitten tehtiin synkän kehityksen kääntämiseksi.
+          Addiktioihin erikoistunut brittiprofessori sanoo ohjelmassa, että keskeistä on muuttaa suhtautumista huumeidenkäyttöön ja nähdä se terveysongelmana, ei rikoksena.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Jenna Vehviläinen ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-16T21:00:00+02:00'
         end_time: '2025-12-16T21:05:00+02:00'

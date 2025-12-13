@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:40:00.245289+00:00'
+  generated_at: '2025-12-13T02:36:43.666604+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-01-02T06:50:00+02:00'
         end_time: '2026-01-02T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Kanttori Katja Mäkiö, Tampere
       - title: Yle Uutiset ja sää
         start_time: '2026-01-02T07:00:00+02:00'
         end_time: '2026-01-02T07:05:00+02:00'
@@ -58,9 +58,19 @@ data:
         end_time: '2026-01-02T12:55:00+02:00'
         description: |-
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: 'Tiedetrippi: Miekkapyhimys Mushashin opetukset'
+        start_time: '2026-01-02T13:00:00+02:00'
+        end_time: '2026-01-02T13:30:00+02:00'
+        description: |-
+          1600-luvulla Japanissa vaikuttanut Miyamoto Musashi on luultavasti historian tunnetuin samurai. Legendojen mukaan Musashi oli voittamaton miekkamies ja nykyään hän on suuresti arvostettu japanilainen miekkapyhimys eli kensei. Musashi ei kuitenkaan jäänyt historiaan vain taitojensa vuoksi vaan siksi, että hän kirjoitti oppimansa jälkipolville muistiin. Toimittajana Henry Tikkanen.
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-02T13:30:00+02:00'
         end_time: '2026-01-02T15:00:00+02:00'
+      - title: 'Taiteilijatapaaminen: radiokonkarit Klaus Flaming & Jari Aula'
+        start_time: '2026-01-02T15:00:00+02:00'
+        end_time: '2026-01-02T15:55:00+02:00'
+        description: |-
+          Radiojuontaminen on taidetta, jossa korostuvat persoonallisuus, spontaanius, puheen elävä rytmi ja inhimillisyys, todistavat hevimusiikkitoimittamisen uranuurtaja Klaus Flaming ja Radio 1:n oma yleislinkkuveitsi Jari Aula. Toimittajana Tatu Tamminen.
       - title: Yle News
         start_time: '2026-01-02T15:55:00+02:00'
         end_time: '2026-01-02T15:58:00+02:00'
@@ -72,6 +82,24 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-02T16:07:00+02:00'
         end_time: '2026-01-02T16:59:00+02:00'
+        description: |
+          Händel: Riemuitse, tytär Siionin oratoriosta Juudas Makkabealainen (Aarne Pelkonen, baritoni, ja Kalevi Kiviniemi, urut). 
+
+          Sibelius: Karelia-alkusoitto (RSO/Jukka-Pekka Saraste).
+
+          Klami: Andantino sonaatista alttoviululle ja pianolle b-molli (Eero Kesti ja Esa Ylönen). 
+
+          Schubert (sov. Gamley): Mille cherubini in coro (Luciano Pavarotti, tenori, ja Lontoon kansallinen FO/Kurt Herbert Adler).
+
+          Vavilov: Ave Maria, aaria (Jouni Somero, piano). 
+
+          Kotilainen (sov. I. Kuusisto): Varpunen jouluaamuna (Sinfonia Lahti/Osmo Vänskä).
+
+          Gjeilo - Holst: In the bleak mid-winter (Voces8).
+
+          Barbarossa (sov. Musumarra): La Sete di vivere (Alessandro Safina, laulu, ja ork.). 
+
+          Bach - Gounod (sov. Sabatini): Ave Maria (Lise Davidsen, sopraano, ja Norjan radio-ork./Christian Eggen). 
       - title: Uutispodcast
         start_time: '2026-01-02T17:00:00+02:00'
         end_time: '2026-01-02T17:20:00+02:00'
@@ -80,6 +108,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-02T17:20:00+02:00'
         end_time: '2026-01-02T17:35:00+02:00'
+        description: |2+
+
       - title: Näistä levyistä en luovu
         start_time: '2026-01-02T17:35:00+02:00'
         end_time: '2026-01-02T18:30:00+02:00'
@@ -92,7 +122,7 @@ data:
         start_time: '2026-01-02T18:50:00+02:00'
         end_time: '2026-01-02T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Sairaalapastori Maarit Nissinen, Vantaa
       - title: Yle Uutiset ja sää
         start_time: '2026-01-02T19:00:00+02:00'
         end_time: '2026-01-02T19:02:00+02:00'

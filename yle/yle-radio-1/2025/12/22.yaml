@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:56.425284+00:00'
+  generated_at: '2025-12-13T02:36:39.707980+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -177,8 +177,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-12-22T18:35:00+02:00'
         end_time: '2025-12-22T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          M. Syrjäniemi: Taas on joulu (Cantilene/Merja Lohilahti, ja Elisa Pelkonen, urut).
+
+          Koskimäki (sov. Kinnunen): Oi joulun tähti pieni (Henna-Mari Sivula, sopraano, ja Olli Kinnunen, urut).
+
+          T. Kuusisto: Oi saavu, suuri rauhanjuhla ( Heikki Rainio, tenori, ja Kalevi Kiviniemi, urut).
+
+          Kansansäv.: Tanssikaa, laulakaa (Matti Lehtinen, baritoni, ja puhallinyhtye).
+
       - title: Iltahartaus
         start_time: '2025-12-22T18:50:00+02:00'
         end_time: '2025-12-22T19:00:00+02:00'

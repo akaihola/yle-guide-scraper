@@ -1,17 +1,42 @@
 metadata:
-  generated_at: '2025-12-11T02:39:55.865611+00:00'
+  generated_at: '2025-12-13T02:36:38.901853+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-19T23:40:00+02:00'
         end_time: '2025-12-20T07:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          W.A. Mozart - Henneberg - Schachk - Gerl - Schikaneder: Der Stein der Weisen, 2-näytöksinen ooppera (Kurt Streit, tenori, Alan Ewing, basso, Chris Pedro Trakas, baritoni, Paul Austin Kelly, tenori, Judith Lovat, sopraano, Kevin Deas, basso, Jane Giering-De Haan, sopraano, Sharon Baker, sopraano, ja Boston Baroque/Martin Pearlman).  
+
+          01:47 Schubert: Jousikvartetto n:o 2 C-duuri (Quartetto Italiano).
+
+          02:05 Joululauluja ja motetteja keskiajalta (Vokaaliyhtye Anonymous 4).
+
+          03:14 Ponce: Andantino variato, muunnelmia kitaralle Paganinin teemasta (Andrés Segovia).
+
+          03:22 Copland: Sonaatti viululle ja pianolle. (James Ehnes ja Orion Weiss).
+
+          03:41 Madetoja: Sinfonia n:o 2 (RSO/Okko Kamu).
+
+          04:25 Bortnjanski: Konsertot kuorolle n:ot 17-23 (Venäjän valtion sinfoniakuoro/Valeri Poljanski).
+
+          05:32 Onslow: Sonaatti pianolle 4-kätisesti e-molli. (Elizabeth Buccheri ja Richard Boldrey).
+
+          05:53 Bizet: Arlesitar-sarja orkesterille n:o 1 (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          06:14 J.S. Bach: Kantaatti n:o 215 (Preise dein Glücke, gesegnetes Sachsen) (Peter Schreier, tenori, Edith Mathis, sopraano, ja Siegfried Lorenz, basso, sekä Berliner Solisten -kuoro ja Berliinin kamariork./Schreier).
+
+          06:47 Debussy - Leinsdorf: Orkesterisarja oopp. Pelleas ja Melisande (Chicagon SO/Erich Leinsdorf).
+
+          07:14 Beck: Sinfonia n:o 1 g-molli (Uuden-Seelannin kamariork./Donald Armstrong).
+
+          07:27 Palestrina: Pulchra es, amica mea (Kaunis kuin Tirsa olet sinä, armaani) (The Song Company/Roland Peelman).
+
       - title: Luomiskertomus
         start_time: '2025-12-20T07:31:00+02:00'
         end_time: '2025-12-20T07:56:00+02:00'
@@ -26,11 +51,25 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-20T08:05:00+02:00'
         end_time: '2025-12-20T08:30:00+02:00'
+        description: |+
+          Anonyymi (sov. Klemetti): Kaikukoot iloiset (SRK:n kuoro/Olli Heikkilä).
+
+          Anonyymi (sov. Bartling): Syvässä yössä viesti kiirii (virsi 14) (Human Organ).
+
+          Anonyymi: Veni redemptor gentium - This worle wondreth of all thynge (Saavu, kansojen lunastaja) (Anonymous 4 -vokaaliyhtye).
+
+          Kansanlaulu (sov. Öhrwall): Kun jouluaamu koittaa (Pyhännän kappeliseurakunnan sekakuoro/Veijo Kinnunen, Beata Ervasti, viulu, sekä Ulla Koskelo, urut).
+
+          Gauntlett: Tallin seimen luona (Henna-Mari Sivula, sopraano, ja Haukiputaan Kirkon Kamarikuoro/Hannu Niemelä).
+
+          Bashmakov: Kristus syntyy, kiittäkää (Johannes Teologin Laulajat/Petri Nykänen).
+
       - title: Aamuhartaus
         start_time: '2025-12-20T08:30:00+02:00'
         end_time: '2025-12-20T08:40:00+02:00'
         description: |
-          Haminan piispa Sergei, Ortodoksinen kirkko, Oulu
+          "Koko luomakunta valmistautuu ottamaan vastaan Vapahtajan syntymän"
+          Haminan piispa Sergei, Ortodoksinen kirkko puhuu ortodoksisessa kirkossa alkavasta joulun esijuhla-ajasta ja tulevasta pyhien isien sunnuntaista.
       - title: Maailman tärkein pieni asia
         start_time: '2025-12-20T08:40:00+02:00'
         end_time: '2025-12-20T09:00:00+02:00'
@@ -126,9 +165,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-20T15:25:00+02:00'
         end_time: '2025-12-20T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Koera, pääsöö, mää näkkiin – murteet eivät kadonneet vaan elävät kaikkialla Suomessa'
         start_time: '2025-12-20T15:30:00+02:00'
         end_time: '2025-12-20T15:55:00+02:00'
+        description: |
+          Pasi Heikura kartoittaa Suomessa puhuttujen murteiden rajoja oppaanaan murteiden tutkija Harri Mantila. Ohjelmassa vedetään myös rubenia ylästilleriin ja määritellään paljonko on lähes parikymmentä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-12-20T15:55:00+02:00'
         end_time: '2025-12-20T15:58:00+02:00'
@@ -185,11 +226,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-20T19:00:00+02:00'
         end_time: '2025-12-20T19:02:00+02:00'
-      - title: Sävel on vapaa / 09 - 144 800
+      - title: Joulumusiikin Sävel on vapaa / 09 - 144 800
         start_time: '2025-12-20T19:02:00+02:00'
         end_time: '2025-12-20T21:00:00+02:00'
         description: |
-          Juontajina... Ohjelman suunnittelusta vastaa...
+          Juontajina piispa Mari Leppänen ja musikkitoimittaja Risto Nordell. Ohjelman suunnittelusta vastaa Noora Hirn.
+
+          Whatsapp: 044-5144 800 
       - title: Uutispodcast
         start_time: '2025-12-20T21:00:30+02:00'
         end_time: '2025-12-20T21:21:00+02:00'

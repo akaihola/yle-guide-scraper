@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:54.941735+00:00'
+  generated_at: '2025-12-13T02:36:38.087756+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -46,6 +46,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-17T06:30:50+02:00'
         end_time: '2025-12-17T06:50:00+02:00'
+        description: |+
+          Maasalo: Mä kanssa enkelten (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
+          Sehling: Dormi nate, mi mellite (Meidän Herramme syntymän motetti) (Hana Blaziková, sopraano, Marta Fadljevicová, altto, Václav Cizek, tenori, ja Jaroslav Nosek, basso, sekä Collegium Marianum/Jana Semerádová, traverso).
+
+          Tuntematon (sov. Luoma - Lindell): Heinillä härkien kaukalon (Maksetut viulut).
+
       - title: Aamuhartaus
         start_time: '2025-12-17T06:50:00+02:00'
         end_time: '2025-12-17T06:59:59+02:00'
@@ -187,6 +194,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-17T18:35:00+02:00'
         end_time: '2025-12-17T18:50:00+02:00'
+        description: |+
+          T. Kuusisto: Oi saavu, rauhan juhla (Cantilene/Merja Lohilahti, sekä Mikko Salakari, tenori, ja Elisa Pelkonen, urut).
+
+          Turunen: Me käymme joulun viettohon (Candomino/Tauno Satomaa, sekä Tapio Tiitu, piano).
+
+          Kansansävelmä (sov. Öhrwall): Kolmen kuninkaan marssi (Polyteknikkojen Kamarikuoro Dominante/Seppo Murto, ja Olli Pyylampi, urut).
+
+          Simojoki: Jouluyön hymni (Pekka Laukkarinen Trio).
+
       - title: Iltahartaus
         start_time: '2025-12-17T18:50:00+02:00'
         end_time: '2025-12-17T19:00:00+02:00'
@@ -200,36 +216,7 @@ data:
         start_time: '2025-12-17T19:02:00+02:00'
         end_time: '2025-12-17T21:00:00+02:00'
         description: |-
-          Renessanssin aikana adventti oli ihmeiden ja pohdinnan aikaa. Brittiläisen The Gesualdo Six -yhtyeen konsertissa vuosisatoja vanhat joululaulut kertovat tämän tarinan, osa alkuperäisessä muodossaan, osa taitavasti sovitettuna. Ilon ja mysteerin tunteita herättävä konserttiohjelma ulottuu 1500-luvun anglikaanisen kirkon alkuajoilta aina 2000-luvulle asti.
-
-          The Gesualdo Six on palkittu vokaaliyhtye, joka on saanut kiitosta mielikuvituksellisesta ohjelmistostaan ja moitteettomasta soinnistaan. Vuonna 2014 Gesualdon Tenebrae Responsories -teoksen esittämistä varten Cambridgessa perustettu yhtye on sittemmin esiintynyt lukuisilla merkittävillä festivaaleilla ympäri maailmaa.
-
-          14.12. Sibelius-Akatemian konserttisalissa tallennetun konsertin toimittaa Lotta Emanuelsson.
-
-          Thomas Tallis: Audivi vocem
-          Boris Ord: Adam lay ybounden
-          sov. R. Vaughan Williams & O. Park: The truth sent from above
-          Sulpitia Cesis: Ecce ego, Johannes, vidi
-          Cheryl Frances-Hoad: The Promised Light of Life
-          Paul Comeau: Lux mundi
-          Trad: Veni, veni Emmanuel
-          Gustaf Nordqvist: Jul, jul, strålande jul
-          Kerensa Briggs: A Tender Shoot
-          Joanna Marsh: Evergreen
-
-          Väliaika
-
-          sov. Brian Kay: Gaudete
-          Anon: Coventry carol
-          Owain Park: I wonder as I wander
-          Walter Lambe: Nesciens mater
-          Hildegard von Bingen: O Virtus Sapientie
-          Hans Leo Hassler: Verbum caro factum est
-          sov. Reginald Jacques: Away in a manger
-          sov. John Rutter: The Wexford Carol
-          Jonathan Rathbone: The Oxen
-
-          Kuva: ©Ash Mills 
+          The Gesualdo Six -lauluyhtye, joht. Owain Park. - Thomas Tallis: Audivi vocem; Boris Ord: Adam lay ybounden; sov. R. Vaughan Williams & O. Park: The truth sent from above; Sulpitia Cesis: Ecce ego, Johannes, vidi; Cheryl Frances-Hoad: The Promised Light of Life; Paul Comeau: Lux mundi;Trad: Veni, veni Emmanuel; Gustaf Nordqvist: Jul, jul, strålande jul; Kerensa Briggs: A Tender Shoot; Joanna Marsh: Evergreen; sov. Brian Kay: Gaudete; Anon: Coventry carol; Owain Park: I wonder as I wander; Walter Lambe: Nesciens mater; Hildegard von Bingen: O Virtus Sapientie; Hans Leo Hassler: Verbum caro factum est; sov. Reginald Jacques: Away in a manger; sov. John Rutter: The Wexford Carol; Jonathan Rathbone: The Oxen. - Sibelius-Akatemian Pohjoisen Rautatiekadun konserttisalissa 14.12. äänitetyn konsertin toimittaa Lotta Emanuelsson.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-17T21:00:00+02:00'
         end_time: '2025-12-17T21:05:00+02:00'
@@ -263,4 +250,30 @@ data:
         start_time: '2025-12-17T23:40:00+02:00'
         end_time: '2025-12-18T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          W.A. Mozart - Koetsier: Taikahuilu-muunnelmia (RSO:n puhaltajat/Michael Höltzel).
+
+          23:57 Vivaldi: Magnificat. (Emma Kirkby, sopraano, Miriam Allan, sopraano, Josie Ryan, sopraano, Anna Fraser,  mezzosopraano, Philip Chu, tenori, ja David Greco, basso, sekä Cantillation-kuoro ja Orchestra of the Antipodes, joht. Anthony Walker).
+
+          00:11 Schubert: Pianosonaatti n:o 20 A-duuri (Charles Rosen).
+
+          00:49 R. Schumann: Sechs Gedichte aus dem Liederbuch eines Malers (Nathalie Stutzmann, altto, ja Catherine Collard, piano).
+
+          01:05 Nielsen: Sinfonia n:o 6 (Sinfonia semplice) (New Yorkin FO/Alan Gilbert).
+
+          01:40 A. Merikanto: Melodia (Liisa Pohjola, piano).
+
+          01:43 Brahms: Konsertto viululle, sellolle ja orkesterille (Jascha Heifetz, viulu, Gregor Piatigorsky, sello, RCA Victor SO/Alfred Wallenstein).
+
+          02:13 Albéniz: Iberia (Cincinnatin SO/Jesus Lopez-Cobos).
+
+          03:36 Stravinsky: Sinfonia Es-duuri op.1 (Detroitin SO/Antal Dorati).
+
+          04:18 Sallinen: Sellokonsertto (Arto Noras ja RSO/Okko Kamu).
+
+          04:45 Dvorák: Pianotrio n:o 3 f-molli (The Tempest Trio).
+
+          05:27 W.A. Mozart: Pianokonsertto n:o 15 B-duuri (Arturo Benedetti Michelangeli ja Stuttgartin radion SO/Antoine de Bavier).
+
+          05:51 J.S. Bach: Kantaatti n:o 12 (Weinen, Klagen, Sorgen, Zagen) (Julianne Baird, sopraano, Drew Minter, kontratenori, Benjamin Butterfield, tenori, James Weaver, basso, ja American Bach Soloists/Jeffrey Thomas). 
+
+          06:16 Galuppi: Concerto a quattro g-molli (Quartetto Italiano).

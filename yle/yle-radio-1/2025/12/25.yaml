@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:57.227525+00:00'
+  generated_at: '2025-12-13T02:36:41.361619+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -49,7 +49,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-25T10:53:00+02:00'
         end_time: '2025-12-25T11:00:00+02:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Jälkiä hämärässä'
         start_time: '2025-12-25T11:00:00+02:00'
         end_time: '2025-12-25T11:57:00+02:00'
         description: |
@@ -126,7 +126,7 @@ data:
         start_time: '2025-12-25T18:00:00+02:00'
         end_time: '2025-12-25T19:00:00+02:00'
         description: |-
-          Kauneimmat joululaulut Lakeuden Rististä Seinäjoelta
+          Juontajana pastori Jukka Tuppurainen. Kanttorina ja urkurina Anssi Pyykkönen. Yhteislaulut: Arkihuolesi kaikki heitä, En etsi valtaa loistoa, On hanget korkeat nietokset, Joulupuu on rakennettu, Ensimmäinen joulu, Hän seimessä nukkuu ja Enkellaulu kajahtaa.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-25T19:00:00+02:00'
         end_time: '2025-12-25T19:02:00+02:00'
@@ -166,6 +166,11 @@ data:
         end_time: '2025-12-25T22:54:30+02:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+      - title: 'Keinuva talo - Mika Kauhanen: Kansanmusiikkia isänmaasta suomalaisen musiikin päivänä'
+        start_time: '2025-12-25T22:26:29+02:00'
+        end_time: '2025-12-25T23:25:35+02:00'
+        description: |
+          Suomalaisen musiikin päivä kuuluu luonteikkaasti myös Keinuvassa talossa. Kuinka vaalii nykykansanmusiikkimme Suomineitoa ja satumaata, punkkitarkastusta ja heikkoja jäitä, Nälkämaata ja Pieksämäkeä, tai monikulttuurista Helsinkiä? Luvassa jakson täydeltä soivaa Suomi-kuvaa kansallisromanttisella twistillä! Toimittajana Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2025-12-25T22:55:00+02:00'
         end_time: '2025-12-26T08:00:00+02:00'

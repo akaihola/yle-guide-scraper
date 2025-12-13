@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:39:54.130647+00:00'
+  generated_at: '2025-12-13T02:36:37.064596+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-15T06:30:50+02:00'
         end_time: '2025-12-15T06:50:00+02:00'
+        description: |+
+          Köhler: Nyt sytytämme kynttilän (virsi 13) (Laulavat Tähdet/Tiina Hiekkaranta).
+
+          Geraedts: Mies tänne saapui (virsi 12) (Papas No Mamas/Juha Vintturi, ja Hannu Lehtikangas, laulu).
+
+          Hadar (sov. Kontunen): Tiellä ken vaeltaa (virsi 15) (Nardus/Tiina Korhonen).
+
+          Anonyymi: Tuo armon valkokyyhky (Rajaton).
+
+          Kirkpatrick (sov. Rintamäki): Away in a manger - Hän seimessä nukkuu (Kannelkellot/Hanna Autio, sekä Heini Lauerma, Kaisa Lauerma ja Noora Pulkkinen, laulu, Elsa Sihvola, sello, ja Sirkku Rintamäki, piano).
+
       - title: Aamuhartaus
         start_time: '2025-12-15T06:50:00+02:00'
         end_time: '2025-12-15T06:59:59+02:00'
@@ -115,7 +126,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-15T10:54:00+02:00'
         end_time: '2025-12-15T11:00:00+02:00'
-      - title: 'Välilevyjä: Oi-antifonit ja adventin salainen viesti'
+      - title: 'Välilevyjä - Kare Eskola: Oi-antifonit ja adventin salainen viesti'
         start_time: '2025-12-15T11:00:00+02:00'
         end_time: '2025-12-15T11:57:00+02:00'
         description: |
@@ -150,11 +161,15 @@ data:
         end_time: '2025-12-15T15:00:00+02:00'
         description: |
           Teatteriohjaaja Linda Wallgren on studiovieraana n. klo 14. Useissa teattereissa työskennelleen Wallgrenin viime aikojen puhutuin työ on Kansallisteatterin Angels in America. Reilun vuoden ajan pyörinyt esitys on kerännyt kriitikoilta hurmioituneita kommentteja ja se esitetään vielä muutaman kerran täysille katsomoille. Teatterin tekemisestä Wallgren keskustelee Jarmo Laitanevan kanssa. 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Länsimaisuuden juuret ja kriisi'
         start_time: '2025-12-15T15:00:00+02:00'
         end_time: '2025-12-15T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Emeritusprofessori Jukka Korpela kertaa uudessa kirjassaan länsimaisuuden historiaa ja sivistyksen juuria. Kun 1990-luvulla kommunismi romahti Euroopassa ja kylmä sota päättyi, moni ajatteli että länsimainen ymmärrys yksilöstä, yhteiskunnasta ja taloudesta oli aloittanut vääjäämättömän voittokulkunsa.
+
+          Nyt 2020-luvulla voidaan todeta, että tämä käsitys osoittautui katkeran virheelliseksi. Demokratian ja kansalaisyhteiskuntien sijaan vallalla on totalitarismi, taloudellinen epätasa-arvo ja yksilönvapauksien rajoittaminen. Mitä lopulta ovat länsimaisuuden ihanteet ja miksi ne ovat kriisissä?
+
+          Aiheesta keskustelevat Jukka Korpelan kanssa maailmanpolitiikan professori Teivo Teivainen sekä aatehistoriaan perehtynyt akatemiatutkija Timo Miettinen. Ville Talola toimittaa.
       - title: Yle News
         start_time: '2025-12-15T15:55:00+02:00'
         end_time: '2025-12-15T15:58:00+02:00'
@@ -196,7 +211,7 @@ data:
         start_time: '2025-12-15T17:00:00+02:00'
         end_time: '2025-12-15T17:20:00+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Suota Suomen suojaksi? Itä-Suomen soiden ennallistaminen voisi kenties olla sekä ympäristöteko että maanpuolustuksellinen varautumiskeino. Atte Uusinokan kanssa asiaa pohtimassa biologi, suoasiantuntija Risto Sulkava Hiilipörssistä.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-15T17:20:00+02:00'
         end_time: '2025-12-15T17:35:00+02:00'
@@ -208,8 +223,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-12-15T18:35:00+02:00'
         end_time: '2025-12-15T18:50:00+02:00'
-        description: |
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Simojoki: Pieni kynttilä (Salon Keskustan koulun musiikkiluokkien kuoro Canterino/Berit Ahlqvist, Nora Riikonen ja Tiia Turunen, nokkahuilu, sekä Tiina Salokannel, kitara).
+
+          Sibelius (sov. Ylioja): Ei valtaa, kultaa, loistoa (Jämsän kristillisen kansanopiston lauluryhmä ja vahvistettu mieskvartetti/Jari Parviainen, Anna Jäntti, sello, sekä Arto Ristolainen, urut).
+
+          Maasalo: Mä kanssa enkelten, laulu jouluvesperistä Teppo Lampela, kontratenori, sekä Cantores Minores/Hannu Norjanen).
+
+          Tuntematon (sov. V. Maasalo):  Veni, veni Emmanuel (Lumen Valo).
+
       - title: Iltahartaus
         start_time: '2025-12-15T18:50:00+02:00'
         end_time: '2025-12-15T19:00:00+02:00'
@@ -225,19 +247,24 @@ data:
         end_time: '2025-12-15T20:30:00+02:00'
         description: |-
           Suorassa radiolähetyksessä  ovat vastaamassa Kulttuuri ja asia -yksikön johtaja ja vastaava päätoimittaja Johanna Törn-Mangs sekä radiopäällikkö Jonna Ferm.
+      - title: Musiikkikamari
+        start_time: '2025-12-15T20:30:00+02:00'
+        end_time: '2025-12-15T21:00:00+02:00'
       - title: 'Tosi tarina: Olen jossain'
         start_time: '2025-12-15T21:00:00+02:00'
-        end_time: '2025-12-15T21:45:55+02:00'
+        end_time: '2025-12-15T21:45:54+02:00'
         description: |
           Miltä absurdiksi muuttunut, tragikoomisia piirteitä sisältävä arki tuntuu, kun lähimuistia ei enää ole? Olen jossain -radiodokumentti avaa oven muistisairaan ihmisen ja hänen läheisensä maailmaan. Toteutus: Tuula Rajavaara, Kai Rantala ja Hannu Karisto. Musiikki: Lauri Wuolio. (es. 1.9.2016)
       - title: Politiikkaradio
         start_time: '2025-12-15T21:51:00+02:00'
-        end_time: '2025-12-15T22:20:00+02:00'
-      - title: Tiedeykkönen
-        start_time: '2025-12-15T22:21:00+02:00'
-        end_time: '2025-12-15T23:11:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        end_time: '2025-12-15T22:21:00+02:00'
+      - title: 'Tiedeykkönen: Internetin maantiede paljastaa: valta keskittyy harvoille'
+        start_time: '2025-12-15T22:22:00+02:00'
+        end_time: '2025-12-15T23:09:37+02:00'
+        description: |-
+          Tässä Tiedeykkösen jaksossa paneudutaan internetin maantieteeseen ja geopolitiikkaan. Yhdysvallat on aiempaa arvaamattomampi liittolainen; minkälaisia riskejä liittyy siihen, että Euroopassa ollaan riippuvaisia yhdysvaltalaisista teknologiayrityksistä?
+
+          Haastateltavina jaksossa ovat Aalto-yliopiston teknologiapolitiikan professori Vili Lehdonvirta, sekä Teknologiateollisuus ry:n valmiuspäällikkö Antti Nyqvist.
       - title: Yöklassinen
         start_time: '2025-12-15T23:40:00+02:00'
         end_time: '2025-12-16T06:30:00+02:00'

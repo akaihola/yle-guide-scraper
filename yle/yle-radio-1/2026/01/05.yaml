@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-11T02:40:01.708940+00:00'
+  generated_at: '2025-12-13T02:36:44.430627+00:00'
   git:
     branch: main
-    commit: 2c79eff3d558eb3315bfe60ae8d30a1f76da6f41
-  data_hash: 2ba9876c62a7ca54cf83b36a17ac2525791203f13139de4405769d4bbec86839
+    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
+  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-01-05T06:50:00+02:00'
         end_time: '2026-01-05T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Teologian tohtori Jukka Helle, Hongkong
       - title: Aamusoitto
         start_time: '2026-01-05T07:06:00+02:00'
         end_time: '2026-01-05T08:00:00+02:00'
@@ -44,6 +44,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-05T11:57:00+02:00'
         end_time: '2026-01-05T12:00:00+02:00'
+        description: |-
+          Ote Kustaa Vilkunan kirjasta Vuotuinen ajantieto (Otava,1992. Alunperin julkaistu 1950)
       - title: Yle Uutiset ja sää
         start_time: '2026-01-05T12:00:00+02:00'
         end_time: '2026-01-05T12:05:00+02:00'
@@ -88,13 +90,21 @@ data:
         start_time: '2026-01-05T18:50:00+02:00'
         end_time: '2026-01-05T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          "Job alkaa puhua"
+          Näyttelijä Krista Kosonen lukee Jobin kirjaa (3:1-4:21) VT2028 käännöksen mukaan. Toisessa jaksossa Job kiroa syntymänsä.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-05T19:00:00+02:00'
         end_time: '2026-01-05T19:02:00+02:00'
       - title: Tosi tarina
         start_time: '2026-01-05T19:02:00+02:00'
         end_time: '2026-01-05T19:50:00+02:00'
+      - title: 'Hyvät, pahat ajattelijat: Simone Weil'
+        start_time: '2026-01-05T20:25:00+02:00'
+        end_time: '2026-01-05T21:00:00+02:00'
+        description: |
+          Simone Weil omisti elämänsä heikompiosaisten ymmärtämiselle tavalla, joka vei hänet äärimmäisyyksiin, myös fyysisesti. 1900-luvun alun Ranskassa elänyt Weil oli muun muassa tehtaassa töissä, jotta hän saattoi tuntea oikeasti, mitä on olla tehdastyöläinen. Samoin hän halusi mukaan Espanjan sisällissotaan taistelemaan, vaikka oli itse pasifisti. 
+          Simone Weil oli äärimmäisyyksien ihminen kaikessa, mitä hän teki. Filosofina hänen ajattelunsa ja kirjoituksensa ovat kiehtoneet muun muassa säveltäjä Kaija Saariahoa.  Ohjelman toimittaa Maarit Lukkarinen.
+          Ensilähetys v. 2021.
       - title: Tiedeykkönen
         start_time: '2026-01-05T21:30:30+02:00'
         end_time: '2026-01-05T22:20:00+02:00'
