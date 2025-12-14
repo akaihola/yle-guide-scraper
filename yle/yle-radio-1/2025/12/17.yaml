@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-13T02:36:38.087756+00:00'
+  generated_at: '2025-12-14T02:44:00.493928+00:00'
   git:
     branch: main
-    commit: f5eaabceffa917c7a0f55fda1a69e09385532a08
-  data_hash: e392bf4a2bf340f92e26d2d7f7d7e30bc08054d02c62e67c880e6ba15efb441a
+    commit: 082767c873923934e97499f6518e3f2f082af0f4
+  data_hash: a8bf395205b73112584be456ecb46492c75725981901ffb98735d5abbeed3d9c
 data:
   Yle Radio 1:
     programmes:
@@ -178,6 +178,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-17T16:07:00+02:00'
         end_time: '2025-12-17T16:59:00+02:00'
+        description: |
+          Vejvanovský: Sonaatti C-duuri (Joulusonaatti) (Concerto Köln).
+
+          Gade (sov. Kiviniemi): Jouluyön kellot (Kalevi Kiviniemi, Turun Martinkirkon urut).
+
+          Howells: A Spotless rose (Tahraton ruusu) (Gabrieli Consort/Paul McCreesh).
+
+          Vivaldi: Konsertto viululle, jousille ja continuolle (Joulukonsertto) (Collegium Musicum 90/Simon Standage). 
+
+          Tshaikovski: Kiinalainen teetanssi balettisar. Pähkinänsärkijä (Chicagon SO/Georg Solti).
+
+          Sibelius: En etsi valtaa, loistoa (Tukholman FO:n jouset/ Magnus Ericsson).
+
+          Freeman: A wassail, a wassail throughout this town sarjasta Carols for yuletide (Joulunajan lauluja) (Hämäläis-Osakunnan Laulajat/Esko Kallio).
+
+          Silvestrov: Hiljainen yö (Latvian radion kuoro/Sigvards Klava). 
+
+          Corelli: Adagio - Allegro - Adagio Concerto grossosta n:o 8 g-molli (Keski-Pohjanmaan kamariork./Juha Kangas).
+
+          Järveläinen: O magnum mysterium (Lumen Valo).
+
+          Kansansäv.: Suloäänet enkelten (Käsikellokuoro Dolce/Seppo Kirkinen).
+
+          Praetorius (sov.): Tuo armon valkokyyhky (RKK/Timo Nuoranne).
       - title: Uutispodcast
         start_time: '2025-12-17T17:00:00+02:00'
         end_time: '2025-12-17T17:20:00+02:00'
