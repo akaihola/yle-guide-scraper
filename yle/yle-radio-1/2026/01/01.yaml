@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-15T02:43:21.100112+00:00'
+  generated_at: '2025-12-16T02:39:49.692707+00:00'
   git:
     branch: main
-    commit: f6e711a088205f3fc89a2fbf6fcb41d953351a99
-  data_hash: 1d1fcf4a8def3a452afe144778c1433ccbd166d5547dd4906e07df37cca1808e
+    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
+  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
 data:
   Yle Radio 1:
     programmes:
@@ -11,14 +11,11 @@ data:
         start_time: '2026-01-01T00:10:00+02:00'
         end_time: '2026-01-01T06:30:00+02:00'
       - title: Yle Uutiset ja sää
-        start_time: '2026-01-01T07:00:00+02:00'
-        end_time: '2026-01-01T07:05:00+02:00'
-      - title: Aamusoitto
-        start_time: '2026-01-01T07:06:00+02:00'
-        end_time: '2026-01-01T08:00:00+02:00'
-      - title: Yle Uutiset ja sää
         start_time: '2026-01-01T08:00:00+02:00'
         end_time: '2026-01-01T08:07:00+02:00'
+      - title: Aamusoitto
+        start_time: '2026-01-01T08:05:00+02:00'
+        end_time: '2026-01-01T09:00:00+02:00'
       - title: 'Yle Uutiset '
         start_time: '2026-01-01T09:00:00+02:00'
         end_time: '2026-01-01T09:03:00+02:00'
@@ -99,9 +96,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-01T19:00:00+02:00'
         end_time: '2026-01-01T19:02:00+02:00'
-      - title: Tosi tarina
+      - title: 'Jazzklubin konsertti-ilta: Euroradio Jazz Orchestra 60 vuotta!'
+        start_time: '2026-01-01T19:02:00+02:00'
+        end_time: '2026-01-01T21:00:00+02:00'
+        description: |
+          Rumpalina Severi Sorjonen, äänitetty Ljubljanassa Sloveniassa 12.5.2025.
+      - title: 'Tosi tarina: Siunatut kaksi vuodenaikaa.'
         start_time: '2026-01-01T21:31:00+02:00'
         end_time: '2026-01-01T22:20:00+02:00'
+        description: |
+          Talvi merkitsee Munkki Stefanokselle hiljaiseloa. Marraskuusta maaliskuuhun hän ei käy juuri missään eikä tapaa juuri ketään, vaan pysyttelee yksin Erakkolassaan. Mutta yksinäisyys päättyy, tietää munkki Stefanos.  Kesä on talven vastakohta kaikkine ihmisineen ja tapahtumineen. Päivi Leinon radiodokumentti tarjoaa tilaisuuden päästä kurkistamaan millaista on munkin elämä. (es. 22.9.2016)
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-01-01T23:01:00+02:00'
         end_time: '2026-01-01T23:57:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-15T02:43:22.361906+00:00'
+  generated_at: '2025-12-16T02:39:50.715749+00:00'
   git:
     branch: main
-    commit: f6e711a088205f3fc89a2fbf6fcb41d953351a99
-  data_hash: 1d1fcf4a8def3a452afe144778c1433ccbd166d5547dd4906e07df37cca1808e
+    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
+  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-01-05T06:50:00+02:00'
         end_time: '2026-01-05T06:59:59+02:00'
         description: |-
-          Teologian tohtori Jukka Helle, Hongkong
+          "Valo loistaa idästä"
+          Vuodenvaihteen aamuhartauksissa Teologian tohtori Jukka Helle tuo terveisiä Hongkongista. Tässä viimeisessä hartaudessa kerrotaan, kuinka kertomusta idän viisaiden tietäjien vierailusta voisi katsoa aasialaisesta näkökulmasta. 
       - title: Aamusoitto
         start_time: '2026-01-05T07:06:00+02:00'
         end_time: '2026-01-05T08:00:00+02:00'
@@ -33,6 +34,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-05T09:04:00+02:00'
         end_time: '2026-01-05T09:59:00+02:00'
+        description: |-
+          Smith: Walk don't run (Count Basie).
+          Berlin: There's no business like show business (Mary Hopkin).
+          Kuuva: Kadun toisella puolella (Kari Kuuva).
+          McHugh: On the sunny side of the street (Tommy Dorsey orkestereineen ja The Sentimentalists).
+          Berlin: Aleksanterin jazz-yhtye (Seija Lampila).
+          Revaux/Billon/Iglesias: Me olvidé de vivir (Julio Iglesias).
+          Greenaway/Cook: Something's gotten hold of my heart (Cilla Black).
+          Hardy/Samyn: Tous les garçons et les filles (Françoise Hardy).
+          Helismaa: Rakovalkealla (Vesa-Matti Loiri).
+          Nazareth Fernandes: Menina (Tonicha).
+          Hawker/Bennett: Sarah's coming home (Matt Monro).
+          Cara/Gracy: On garde toujours (Marie Myriam).
+          Banks: A winter's tale (Genesis). 
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-05T10:52:00+02:00'
         end_time: '2026-01-05T11:00:00+02:00'
@@ -68,6 +83,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-05T16:07:00+02:00'
         end_time: '2026-01-05T16:59:00+02:00'
+        description: |
+          Sibelius: Andante festivo (RSO/Hannu Lintu).
+
+          Chopin: Impromptu n:o 2 Fis-duuri (Maurizio Pollini, piano). 
+
+          Madetoja: Suksimiesten laulu kok. Nuorison lauluja (Gabriel Suovanen, baritoni, ja Gustav Djupsjöbacka, piano).
+
+          R. Strauss: Träumerei am Kamin (Unelmointia takan ääressä), välisoitto oopp. Intermezzo (Wienin filharmonikot/Semjon Bytshkov). 
+
+          O. Merikanto: Lastentaru takkavalkealla (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Mendelssohn: Lied ohne Worte (Christian Poltera, sello, ja Ronald Brautigam, piano). 
+
+          Bellini: Vaga luna che inargenti (Kulkee kuu hopeinen) (Cecilia Bartoli, mezzosopraano, ja James Levine, piano).
+
+          Palmgren: Snöflingor (Lumihiutaleita) kok. Trois morceaux (Kolme kappaletta) (Peter Froundjian, piano).
+
+          Schubert (sov. Reger): Greisengesang (Vanhuksen laulu) (Klaus Mertens, baritoni, ja Pohjois-Saksan RO/Werner Andreas Albert).
+
+          Svendsen: Norjalainen taiteilijakarnevaali (Islannin SO/Bjarte Engeset).  
       - title: Uutispodcast
         start_time: '2026-01-05T17:00:00+02:00'
         end_time: '2026-01-05T17:20:00+02:00'

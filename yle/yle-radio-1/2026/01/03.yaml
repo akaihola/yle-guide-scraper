@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-15T02:43:21.863425+00:00'
+  generated_at: '2025-12-16T02:39:50.291536+00:00'
   git:
     branch: main
-    commit: f6e711a088205f3fc89a2fbf6fcb41d953351a99
-  data_hash: 1d1fcf4a8def3a452afe144778c1433ccbd166d5547dd4906e07df37cca1808e
+    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
+  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
 data:
   Yle Radio 1:
     programmes:
@@ -91,9 +91,25 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-03T13:55:00+02:00'
         end_time: '2026-01-03T14:00:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-01-03T14:55:00+02:00'
+        end_time: '2026-01-03T15:00:00+02:00'
       - title: Syrjästäkatsojan tarina 1/9.
         start_time: '2026-01-03T15:00:00+02:00'
         end_time: '2026-01-03T15:25:00+02:00'
+        description: |-
+          Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
+
+          Syrjästäkatsojan tarina on koskettava kertomus tukahdutetuista tunteista ja yhteiskunnallisista haasteista sekä naisen oikeudesta rakastaa ja tulla rakastetuksi.
+          Vastoinkäymisistä ja pettymyksistä huolimatta Lucy Snowe selviytyy kertoakseen tinkimättömän tarinansa elämästään.
+
+          Charlotte Brontë (1816-1855) kuvasi teoksissaan tarkasti oman aikansa naisten elämää ja asemaa. Syrjästäkatsojan tarina (eng. Villette, 1853) on maailmankirjallisuuden klassikko ja viimeinen kolmesta Brontën elinaikana julkaistusta romaanista. Syrjästäkatsojan tarinaa pidetään omaelämäkerrallisena kuvauksena Charlotte Brontën omista kohtalokkaista Brysselin vuosistaan.
+
+          Charlotte Brontën samannimisestä teoksesta Yleisradiolle sovittanut ja ohjannut Esko Salervo. 
+          Suomennos: Tyyni Haapanen-Tallgren (1921).
+          Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
+          Lucy Snowe - Päivi Akonpelto.
+          Ensilähetys: 1999.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-03T15:25:00+02:00'
         end_time: '2026-01-03T15:30:00+02:00'
@@ -114,8 +130,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-03T16:07:00+02:00'
         end_time: '2026-01-03T17:00:00+02:00'
+        description: |
+          V. Raitio: Marssi orkesterille (Radio-ork./Erik Cronvall).
+
+          Brahms: Sehnsucht (Kaipaus) (Euroopan kamarikuoro/Nicol Matt, sekä Jürgen Meier, piano).
+
+          Krommer - Crusell: Rondo kahdelle klarinetille ja puhallinorkesterille (Mario Sgobba ja Paavo Lampinen sekä RSO:n puhaltajat/Ulf Söderblom).
+
+          Dillon: Birds at dawn (Lintuja sarastuksen aikaan) (Sarah Cahill, piano).
+
+          Canteloube (sov.): Pastourelle (Paimenlaulu) kok. Chants d'Auvergne (Mari Palo, sopraano, ja Kuopion KO/Markus Lehtinen).
+
+          Bonis: Intermezzo (Allegretto tranquillo) kvartetosta pianolle ja jousille n:o 1 B-duuri (Mozart-pianokvartetti).
+
+          Kansanlaulu - Robinovitch: Miksi itket tyttöseni teoks. Neljä sefardijuutalaista kansanlaulua (Ryszard Tyborowski, Michael Daher ja Skender Sefa, kitara, sekä Jay Stoller, lyömäsoittimet).
+
+          Offenbach: Les larmes (Kyyneleet) (Werner Thomas, sello, ja Münchenin kamariork./Hans Stadlmair).
+
+          Eisler: Der Schatzgräber (Aarteenetsijä) (Matthias Goerne, baritoni, ja Eric Schneider, piano).
+
+          Elgar: Carissima (BBC:n konserttiork./John Wilson).
       - title: Yksi on hyvää seuraa
-        start_time: '2026-01-03T17:53:00+02:00'
+        start_time: '2026-01-03T17:55:00+02:00'
         end_time: '2026-01-03T18:00:00+02:00'
       - title: Iltahartaus
         start_time: '2026-01-03T18:01:00+02:00'

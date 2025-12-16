@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-15T02:43:17.923912+00:00'
+  generated_at: '2025-12-16T02:39:46.286779+00:00'
   git:
     branch: main
-    commit: f6e711a088205f3fc89a2fbf6fcb41d953351a99
-  data_hash: 1d1fcf4a8def3a452afe144778c1433ccbd166d5547dd4906e07df37cca1808e
+    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
+  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
 data:
   Yle Radio 1:
     programmes:
@@ -37,11 +37,16 @@ data:
 
           07:27 Palestrina: Pulchra es, amica mea (Kaunis kuin Tirsa olet sinä, armaani) (The Song Company/Roland Peelman).
 
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus:  Minna Rytisalo - Sylvia'
         start_time: '2025-12-20T07:31:00+02:00'
         end_time: '2025-12-20T07:56:00+02:00'
         description: |
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Oletko koskaan kuullut Lapin Petronellasta?
+          Jatkosodan jälkeen Suomeen ilmestyy salaperäinen toimittajana esiintyvä hollantilaisnainen. Helsingissä nuori nainen tutustuu kaupungin seurapiireihin ja hurmaa kaikki. Hotellilaskut jäävät kuitenkin hoitamatta ja nainen katoaa Lappiin. 
+
+          Poliisi alkaa epäillä jälkiään peittävää naista vakoilusta ja Petronellana tunnettu tapaus pääsee lehtiinkin. Mutta kuka ja millainen nainen tämä nuori Sylvia Petronella van der Moer oikein oli? Miksi hän valehteli taustastaan ja mitä hän teki Suomen Lapin jälkeen Etelä-Amerikassa ja Yhdysvalloissa?
+
+          Luomiskertomuksen vieraana tosipohjaisesta tapaus Petronellasta kertovan Sylvia -romaanin kirjoittanut kirjailija Minna Rytisalo. Toimittaja Jukka Kuosmanen. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-20T07:56:00+02:00'
         end_time: '2025-12-20T08:00:00+02:00'
@@ -126,7 +131,7 @@ data:
         start_time: '2025-12-20T13:00:00+02:00'
         end_time: '2025-12-20T13:55:00+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-20T13:55:00+02:00'
         end_time: '2025-12-20T14:00:00+02:00'
@@ -135,11 +140,11 @@ data:
         end_time: '2025-12-20T14:55:00+02:00'
         description: |-
           Ruben Stillerin keskusteluohjelmassa puhutaan arvokkaasti Suomen arvoista, arvojohtajista ja arvottomista. Ohjelman moniarvoisessa ilmapiirissä ruoditaan ajan ilmiöitä, puheenaiheita ja kansakunnan kohtalonkysymyksiä. 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Hinku herkeämättä vahtia tunteitaan ei hellitä syyllistämällä tunteissaan vellovia ihmisiä'
         start_time: '2025-12-20T14:55:00+02:00'
         end_time: '2025-12-20T15:00:00+02:00'
         description: |
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny! 
+          Kun julkisuudessa päivitellään, kuinka ihmiset märehtivät tunteissaan, päädytään ojasta allikkoon: päivittely on osa samaa ongelmaa, psykoterapeutti Emilia Kujala analysoi.
       - title: Puutarhakaupungin murhamysteerit, Jouluerikoinen
         start_time: '2025-12-20T15:00:00+02:00'
         end_time: '2025-12-20T15:25:00+02:00'
@@ -221,7 +226,7 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2025-12-20T18:10:00+02:00'
         end_time: '2025-12-20T19:00:00+02:00'
-        description: |
+        description: |-
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-20T19:00:00+02:00'
@@ -241,11 +246,11 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2025-12-20T22:00:30+02:00'
         end_time: '2025-12-20T22:20:00+02:00'
-      - title: Kielen päällä
+      - title: 'Kielen päällä: eläinfraaseja'
         start_time: '2025-12-20T22:20:30+02:00'
         end_time: '2025-12-20T22:30:00+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+        description: |
+          Eläinfraasit ovat hauskoja ja kuvaavia. Eniten niitä on muodostunut koirasta ja kissasta. Riitta Hyvärinen ja Jari Aula hassuttelevat eläinilmauksilla.
       - title: 'Keinuva talo - Mika Kauhanen: Kuukauden etnoklassikot: isot kertsit'
         start_time: '2025-12-20T22:30:30+02:00'
         end_time: '2025-12-20T23:29:30+02:00'
