@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-16T02:39:47.507581+00:00'
+  generated_at: '2025-12-17T02:38:00.080708+00:00'
   git:
     branch: main
-    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
-  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
+    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
+  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
 data:
   Yle Radio 1:
     programmes:
@@ -183,9 +183,11 @@ data:
           Solasaari: Paimenen joulurukous (Jorma Hynninen ja Kalevi Kiviniemi). 
 
           Locatelli,: Concerto grosso f-molli op.1/8 (Joulukonsertto): 5. Pastorale (Freiburgin barokkiork./Gottfried von der Goltz)
-      - title: Taiteilijan joulusaarna
+      - title: 'Taiteilijan joulusaarna: Saarnaajana Antti Holma'
         start_time: '2025-12-24T17:00:00+02:00'
         end_time: '2025-12-24T17:20:00+02:00'
+        description: |-
+          Taitelijan joulusaarnassa Antti Holma pohtii mitä taide on.
       - title: Joulumusiikkia maailmalta
         start_time: '2025-12-24T17:20:00+02:00'
         end_time: '2025-12-24T18:00:00+02:00'

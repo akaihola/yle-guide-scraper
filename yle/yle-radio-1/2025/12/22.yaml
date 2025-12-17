@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-16T02:39:46.886186+00:00'
+  generated_at: '2025-12-17T02:37:58.271923+00:00'
   git:
     branch: main
-    commit: 56f54848a4e45d6ae6bbcbbacf48000f74fca561
-  data_hash: a32b20ffcf3afc9c356ab9ad008d9b47e0b22630564abd5be4481d07ba6590b0
+    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
+  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
 data:
   Yle Radio 1:
     programmes:
@@ -11,7 +11,27 @@ data:
         start_time: '2025-12-21T23:40:00+02:00'
         end_time: '2025-12-22T06:30:00+02:00'
         description: |-
-          Klassista musiikkia.
+          J.S. Bach: Jouluoratorio (Peter Schreier, tenori, Helen Donath, sopraano, Andrea Ihle, sopraano, Marjana Lipovsek, altto, Eberhard Büchner, tenori, Robert Holl,basso /Herodes sekä Leipzigin radiokuoro, Dresdenin valtionork. ja Ludwig Güttler -trumpettiyhtye/Peter Schreier).
+
+          02:13 Kahn: Sonaatti viululle ja pianolle n:o 2 a-molli (Elina Vähälä ja Oliver Triendl).
+
+          02:31 Gouvy: Trio pianolle, viululle ja sellolle n:o 2 a-molli (Münchenin pianotrio).
+
+          03:05 Vaughan Williams: Fantasia Thomas Tallisin teemasta (Saint Louisin SO/Leonard Slatkin).
+
+          03:21 Chopin: Pianosonaatti n:o 2 b-molli (Surumarssisonaatti) (Yuja Wang).
+
+          03:48 Soler: Sonaatit n:ot 1 A-duuri, 2 Es-duuri, 3 B-duuri, 8 C-duuri, 10 h-molli, 62 B-duuri, 70 a-molli, 74 D-duuri ja 81 g-molli. (David Schrader, cembalo). 
+
+          05:06 Wilms: Jousikvartetto g-molli (Nomos-kvartetti)
+
+          05:32 Fuchs: Pianotrio n:o 1 C-duuri (Gould Piano Trio).
+
+          06:05 Röntgen: Fantasia op.24 (Rob Mann, piano, ja Joan Berkhemer, viulu)
+
+          06:19 Geminiani: Sonaatti oboelle ja continuolle e-molli op.1/3 (Dusan Foltýn, oboe, ja Tomás Thon, urut).
+
+          06:27 Waissel: Kaksi puolalaista tanssia luutulle (Jacob Heringman). 
       - title: Hartaita säveliä
         start_time: '2025-12-22T06:30:50+02:00'
         end_time: '2025-12-22T06:50:00+02:00'
@@ -121,11 +141,11 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-22T13:30:00+02:00'
         end_time: '2025-12-22T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Joulukinkku vai tunteva olento?'
         start_time: '2025-12-22T15:00:00+02:00'
         end_time: '2025-12-22T15:55:00+02:00'
         description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Ei ole yhdentekevää, miten eläimistä puhutaan. Kulttuuriykkösessä keskustellaan siitä, miten tuotantoeläimiä kuvataan nykykirjallisuudessa. Lähetyksessä pohditaan  eläinten oikeuksia, kirjallisuuden voimaa ja sanojen merkitystä. Mukana keskustelussa ovat esikoiskirjailija, väitöskirjatutkija Mariia Niskavaara, kirjailija Laura Gustafsson ja  kirjallisuudentutkija Helinä Ääri. Toimittajana on Miia Gustafsson.
       - title: Yle News
         start_time: '2025-12-22T15:55:00+02:00'
         end_time: '2025-12-22T15:58:00+02:00'
@@ -208,11 +228,11 @@ data:
         end_time: '2025-12-22T19:02:00+02:00'
       - title: 'Tosi tarina: Saattohoidossa'
         start_time: '2025-12-22T19:02:00+02:00'
-        end_time: '2025-12-22T19:50:00+02:00'
+        end_time: '2025-12-22T19:38:00+02:00'
         description: |-
           Kuinka kannatella kuolevaa, jolla ei ole muistia? Muistisairaan läheisen menettäminen saattaa alkaa jo silloin, kun hän vielä elää ja muistisairaus päättää viedä hänestä palan kerrallaan. Lähestyvän kuoleman äärellä tarvittavat asiat ovat yksinkertaisia: kivuttomuus, kosketus, katse ja turvallinen ääni. Dokumentin on käsikirjoittanut ja toimittanut Tuula Rajavaara.
       - title: Yksi on hyvää seuraa
-        start_time: '2025-12-22T19:50:00+02:00'
+        start_time: '2025-12-22T19:38:00+02:00'
         end_time: '2025-12-22T20:05:00+02:00'
       - title: 'Hyvät, pahat ajattelijat: Ulrike Meinhof'
         start_time: '2025-12-22T20:05:00+02:00'
