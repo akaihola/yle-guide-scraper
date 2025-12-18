@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:13.259753+00:00'
+  generated_at: '2025-12-18T02:37:56.540063+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-19T17:20:00+02:00'
         end_time: '2026-01-19T17:35:00+02:00'
+        description: |2+
+
+
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-01-19T17:35:00+02:00'
         end_time: '2026-01-19T18:35:00+02:00'
@@ -102,7 +105,8 @@ data:
         start_time: '2026-01-19T18:50:00+02:00'
         end_time: '2026-01-19T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          "Jobin kirja: Jumala ei unohda viatonta"
+          Näyttelijä Krista Kosonen lukee Jobin kirjaa (7:1-8:22) VT2028 käännöksen mukaan. Neljännessä osassa Job puhuu Jumalalle ja Bildad ryhtyy puhumaan.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-19T19:00:00+02:00'
         end_time: '2026-01-19T19:02:00+02:00'

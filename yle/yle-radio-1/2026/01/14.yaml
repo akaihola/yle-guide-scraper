@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:11.655550+00:00'
+  generated_at: '2025-12-18T02:37:55.478628+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -54,11 +54,17 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-14T13:30:00+02:00'
         end_time: '2026-01-14T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Alana S. Porteron duunaritransromaani Paha tapa'
         start_time: '2026-01-14T15:00:00+02:00'
         end_time: '2026-01-14T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Espanjalaisen historioitsijan ja LQBT+-aktivistin Alana S. Porteron esikoisromaani La mala costumbre on kansainvälinen tapaus, joka ilmestyy suomeksi nimellä Paha tapa tammikuussa 2026 (suom. Sari Selander, Into Kustannus).
+
+          Romaani on harvinainen kuvaus duunaritranssukupuolisuudesta. Se sijoittuu 80-luvun Madridin köyhään San Blasin työläislähiöön, jota riivasivat heroiiniepidemia ja näköalattomuus. Portero näyttää, miten luokka määrittelee transkokemusta. Kirjailija rakentaa sukupuun niille transnaisille, jotka raivasivat tietä Francon jälkeisessä Espanjassa mutta eivät itse selvinneet.
+
+          Kirja on käännetty lähes 20 kielelle. Ohjaaja Pedro Almodóvar on ylistänyt teosta, ja sen visuaalinen, runollinen kieli yhdistääkin almodóvarmaista elämänjanoa ja raadollisuutta.
+
+          Lähetyksen toimittaa Pauliina Grym.
       - title: Yle News
         start_time: '2026-01-14T15:55:00+02:00'
         end_time: '2026-01-14T15:58:00+02:00'
@@ -78,6 +84,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-14T17:20:00+02:00'
         end_time: '2026-01-14T17:35:00+02:00'
+        description: |2+
+
       - title: Laura Korhosen Jazzklubi
         start_time: '2026-01-14T17:35:00+02:00'
         end_time: '2026-01-14T18:35:00+02:00'
@@ -89,8 +97,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-01-14T18:50:00+02:00'
         end_time: '2026-01-14T19:00:00+02:00'
-        description: |-
-          Maanantaista lauantaihin
+        description: |
+          "Taskuun mahtuva pyhiinvaellus"
+          Retriitinohjaaja Kari Koivula Vantaalta kutsuu lähtemään kahdentoista erilaisen rukoushelmen matkaan.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-14T19:00:00+02:00'
         end_time: '2026-01-14T19:02:00+02:00'

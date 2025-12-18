@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:01.558680+00:00'
+  generated_at: '2025-12-18T02:37:50.640970+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -46,6 +46,8 @@ data:
       - title: 'Marko Gustafsson: Vieraana muusikko, lauluntekijä Samuli Putro'
         start_time: '2025-12-25T10:00:00+02:00'
         end_time: '2025-12-25T10:54:00+02:00'
+        description: |
+          Samuli Putron elämän käännekohta tapahtui Raahen yläasteen liikuntasalissa. Oli vuosi 1984. 14-vuotias Putro pyöräili kiertoreittiä koululle, toivoen ettei kukaan kaveri tulisi vastaan ja saisi tietää, että hän on menossa Dingon konserttiin. “Kun keikka alkoi, aivoni repesivät. Katsoin Neumannia ja totesin: minä haluan olla tuo!”, Samuli hymyilee muistolleen. Keikan jälkeen hän etsi varastoon unohtuneen kitaran ja alkoi opetella sointuja.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-25T10:54:00+02:00'
         end_time: '2025-12-25T11:00:00+02:00'
@@ -60,10 +62,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-25T12:00:00+02:00'
         end_time: '2025-12-25T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Klassikkoelokuva Ihmeellinen on elämä saa pohtimaan Spinozan filosofiaa'
         start_time: '2025-12-25T12:05:00+02:00'
         end_time: '2025-12-25T13:00:00+02:00'
-      - title: Maailman tärkein pieni asia
+        description: |
+          Frank Capran toisen maailmansodan jälkeen ilmestynyt elokuva Ihmeellinen on elämä tarkentaa pikkukaupungin mieheen, jonka omat haaveet jäävät muiden auttamisen jalkoihin. Itsemurhan partaalle ajautuvalle päähenkilölle elämän merkitys kirkastuu vasta, kun hän on näkee Clarence-enkelin toimesta maailman ilman itseään. Usein filosofiseksi kuvailtu elokuva saa yhä pohtimaan hyvyyttä, sen sijaa keskuudessamme sekä sitä, mikä pitää ihmisen elämässä kiinni. Miksi juuri tästä elokuvasta on tullut jouluklassikko? Miksi elokuva on herättänyt epäilyjä jopa FBI:ssa?
+          Marja Vehkasen kanssa elokuvan elementtien sysäämänä inhimillistä olemassaoloa pohtivat elokuvatutkija Ilona Hongisto ja filosofi Maija-Riitta Ollila.
+      - title: Brittiläinen joulu
+        start_time: '2025-12-25T13:00:00+02:00'
+        end_time: '2025-12-25T13:40:00+02:00'
+      - title: 'Maailman tärkein pieni asia: Tuija Pehkonen ei ole vain jouluihminen, hän on ylpeästi jouluhörhö'
         start_time: '2025-12-25T13:40:00+02:00'
         end_time: '2025-12-25T14:00:00+02:00'
         description: |
@@ -72,15 +80,13 @@ data:
         start_time: '2025-12-25T14:00:00+02:00'
         end_time: '2025-12-25T15:30:00+02:00'
         description: |-
-          Kaapo Ijas, kapellimestari
-          Mari Palo, sopraano
-          Aarne Pelkonen, baritoni
-          Ella Kanninen, juontaja. 
-
-          RSO:n joulukonsertin ohjelmassa on paitsi rakastettuja kotimaisia joulusävelmiä, myös maagista Tšaikovskia, idyllistä Vaughan-Williamsia, satumaista Humperdinckiä, ja paljon muuta. Taltioitu Musiikkitalossa 11.12.
-      - title: Aristoteleen kantapää
+          Kaapo Ijas, kapellimestari, Mari Palo, sopraano, Aarne Pelkonen, baritoni, Ella Kanninen, juontaja.
+          RSO:n joulukonsertin ohjelmassa on paitsi rakastettuja kotimaisia joulusävelmiä, myös maagista Tšaikovskia, satumaista Humperdinckiä, ja paljon muuta. Taltioitu Musiikkitalossa 11.12.
+      - title: 'Aristoteleen kantapää: Jouluisin luettavassa Luukkaan evankeliumissa korostuu äiti-Marian näkökulma'
         start_time: '2025-12-25T15:30:00+02:00'
         end_time: '2025-12-25T15:55:00+02:00'
+        description: |
+          Pasi Heikura syventyy jouluevankeliumiin raamatuntutkija, dosentti Outi Lehtipuun johdolla. Ohjelmassa pohditaan myös, voiko joulukuusi mennä puihin ja lopuksi mitataan, onko sopalla syvyyttä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-12-25T15:55:00+02:00'
         end_time: '2025-12-25T15:58:00+02:00'
@@ -116,7 +122,7 @@ data:
           Nordqvist: Jul, jul, strålande jul (Benjamin Appl, baritoni, ja Regensburger Domspatzen/Christian Heiss).
 
           Ojanperä: Jumala kuiskaa joulun (Club For Five).
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Valoa, mausteita ja musiikkia – Keitaan joulu'
         start_time: '2025-12-25T17:00:00+02:00'
         end_time: '2025-12-25T17:50:00+02:00'
         description: |
@@ -156,9 +162,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-25T21:00:00+02:00'
         end_time: '2025-12-25T21:05:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: Maailman tärkein pieni asia:Kasmir nauttii jopa joulustressistä
         start_time: '2025-12-25T21:05:00+02:00'
         end_time: '2025-12-25T21:25:00+02:00'
+        description: |
+          Muusikko, laulaja, lauluntekijä Kasmir nauttii jopa joulustressistä. Toimittajana Maija Salminen. 
       - title: Puutarhakaupungin murhamysteerit, Jouluerikoinen
         start_time: '2025-12-25T21:26:00+02:00'
         end_time: '2025-12-25T21:45:00+02:00'

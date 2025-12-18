@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:11.398818+00:00'
+  generated_at: '2025-12-18T02:37:55.298182+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -86,6 +86,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-13T16:07:00+02:00'
         end_time: '2026-01-13T16:59:00+02:00'
+        description: |-
+          Satie: Empire-teatterin diiva (Lamoureux-ork./Yutaka Sado).
+
+          Elgar: There is sweet music (The Cambridge Singers/John Rutter).
+
+          Krommer - Crusell: Rondo Konsertosta Es-duuri (Staffan Mårtensson ja  Dan Larsson, klarinetti, sekä Itä-Götanmaan puhallinsinfonikot/Olof Boman).
+
+          Le Beau: Deutscher Reigen (Saksalainen tanssi) (Ana-Marija Markovina, piano).
+
+          Aboulker: Je t'aime (Kiihkeä vokaliisi seonneelle sopraanolle) (Petricia Petibon, sopraano, ja Lyonin oopperan ork./Yves Abel). 
+
+          Graupner: Uccellino chiuso (Simon Borutzki, alttonokkahuilu, ja Hofkapelle Schloss Seehaus).
+
+          Ravel: Pantoum pianotriosta a-molli (The Arden Trio).
+
+          Ernesaks: Petrovin aaria oopp. Myrskyjen ranta (Georg Ots, baritoni, ja Viron RSO/Kirill Raudsepp).
+
+          Honegger: J'avais un fidele amant (Minulla oli uskollinen rakastettu) (Ludwig-kvartetti).
+
+          Barrios: Vals tropical (David Russell, kitara).
+
+          Mascagni (sov. Chichon): Ave Maria (Intermezzo oopp. Cavalleria rusticana) (Elina Garanca, mezzosopraano, ja Deutsche Radio Philharmonie/Karel Mark Chichon).
+
+          Suk: Serenadi A-duuri (David Geringas, sello, ja Ian Fountain, piano).
       - title: Uutispodcast
         start_time: '2026-01-13T17:00:00+02:00'
         end_time: '2026-01-13T17:20:00+02:00'
@@ -94,6 +118,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-13T17:20:00+02:00'
         end_time: '2026-01-13T17:35:00+02:00'
+        description: |2+
+
+
       - title: Hartaita säveliä
         start_time: '2026-01-13T18:35:00+02:00'
         end_time: '2026-01-13T18:50:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:05.633343+00:00'
+  generated_at: '2025-12-18T02:37:52.695803+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -30,7 +30,7 @@ data:
         end_time: '2026-01-01T11:00:00+02:00'
         description: |-
           Liturgina ja saarnaajana Panu Pitkänen. Avustavana pastorina ja saarnaajana Anni Kilpinen. Haastateltavana ja tekstinlukijana AMOS-räppäri Salim Ouazizi. Musiikki: Verkosto Kollektiivi, joht. Lauri Mattila. Virret: 600; 42; 329. Muut yhteislaulut: Sä oot mun Jumala ja Yksi nimi vain.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Liikkeen jälkeen'
         start_time: '2026-01-01T11:00:00+02:00'
         end_time: '2026-01-01T11:57:00+02:00'
         description: |-
@@ -42,7 +42,8 @@ data:
         start_time: '2026-01-01T13:10:00+02:00'
         end_time: '2026-01-01T15:00:00+02:00'
         description: |
-          Iltapäivän musiikkissa soivat etno, kevyt jazz ja populaarimusiikin helmet. Joel Hohko on yksi syksyn puhutuimmista esikoiskirjailijoista. Hohko on merivoimien ammattisotilas, joka kirjoittaa Ukrainassa käytävästä sodasta romaanissaan Volodjan pojat suoraan ja rankasti.  Hohko on Jarmo Laitanevan haastattelussa n. klo 13:20. (uus.)  N. klo 14 studiovieraana on moni-ilmeinen näyttelijä Sari Siikander, joka on viime vuosina kunnostautunut myös ohjaajana. Minkälainen ohjaaja kokenut näyttelijä haluaa olla? Siikander on pohtinut paljon mm. sitä, miten antaa palautetta työryhmälleen. Miia Lahti haastattelee. (uus.)
+          Iltapäivän musiikkissa soivat etno, kevyt jazz ja populaarimusiikin helmet. Vuodenvaihde on lupausten ja kenties elämänmuutostenkin aikaa. Moni suunnittelee laittavansa elintapansa kuten unirytminsä uuteen kuosiin. Dosentti Henri Tuomilehto on yksi Suomen tunnetuimmista unilääkäreistä. Hän keskustelee Heikki Puskalan kanssa nukkumisesta ja unirytmistä n. klo 13.20. Ohjelman ensilähetys on ollut viime helmikuussa (27.2.25).
+          )  N. klo 14 studiovieraana on moni-ilmeinen näyttelijä Sari Siikander, joka on viime vuosina kunnostautunut myös ohjaajana. Minkälainen ohjaaja kokenut näyttelijä haluaa olla? Siikander on pohtinut paljon mm. sitä, miten antaa palautetta työryhmälleen. Miia Lahti haastattelee. (uus.)
       - title: Yle News
         start_time: '2026-01-01T15:55:00+02:00'
         end_time: '2026-01-01T15:58:00+02:00'
@@ -80,6 +81,7 @@ data:
           E. Strauss: Täyttä höyryä, nopea polkka (Cincinnati Pops/Erich Kunzel).
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-01T17:20:00+02:00'
+        end_time: '2026-01-01T17:35:00+02:00'
         description: |2+
 
       - title: Tuuli Saksalan keidas
@@ -92,6 +94,11 @@ data:
         end_time: '2026-01-01T18:35:00+02:00'
         description: |-
           Toimittajana on Jari Aula.
+      - title: Luomiskertomus
+        start_time: '2026-01-01T18:35:00+02:00'
+        end_time: '2026-01-01T19:00:00+02:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-01T19:00:00+02:00'
         end_time: '2026-01-01T19:02:00+02:00'

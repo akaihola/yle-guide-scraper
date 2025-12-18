@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:03.210121+00:00'
+  generated_at: '2025-12-18T02:37:51.320007+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -12,7 +12,7 @@ data:
         end_time: '2025-12-27T07:30:00+02:00'
         description: |-
           Klassista musiikkia.
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Riikka-Maria Rosenberg - Amelie'
         start_time: '2025-12-27T07:30:47+02:00'
         end_time: '2025-12-27T07:56:00+02:00'
         description: |
@@ -32,9 +32,12 @@ data:
         description: |-
           "Korjausresepti"
           Pastori Mika Partanen, Metodistiseurakunta, Tampere pohtii erilaisia elämänohjeita ja huomaa vain Jumalan tarjoavan myös syyllisyydestä vapauttavan reseptin.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailma tarinoina: Klassikkoelokuva Ihmeellinen on elämä saa pohtimaan Spinozan filosofiaa'
         start_time: '2025-12-27T08:40:00+02:00'
         end_time: '2025-12-27T09:00:00+02:00'
+        description: |
+          Frank Capran toisen maailmansodan jälkeen ilmestynyt elokuva Ihmeellinen on elämä tarkentaa pikkukaupungin mieheen, jonka omat haaveet jäävät muiden auttamisen jalkoihin. Itsemurhan partaalle ajautuvalle päähenkilölle elämän merkitys kirkastuu vasta, kun hän on näkee Clarence-enkelin toimesta maailman ilman itseään. Usein filosofiseksi kuvailtu elokuva saa yhä pohtimaan hyvyyttä, sen sijaa keskuudessamme sekä sitä, mikä pitää ihmisen elämässä kiinni. Miksi juuri tästä elokuvasta on tullut jouluklassikko? Miksi elokuva on herättänyt epäilyjä jopa FBI:ssa?
+          Marja Vehkasen kanssa elokuvan elementtien sysäämänä inhimillistä olemassaoloa pohtivat elokuvatutkija Ilona Hongisto ja filosofi Maija-Riitta Ollila.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-27T09:00:00+02:00'
         end_time: '2025-12-27T09:03:00+02:00'
@@ -63,20 +66,24 @@ data:
           ”Naiseksi ei synnytä, naiseksi tullaan”, kirjoitti Simone de Beauvoir jo yli seitsemän vuosikymmentä sitten ”Toinen sukupuoli” -teoksessaan. 
           Kirjan ilmestyttyä Beauvoir tuskin edes aavisti, kuinka mullistava vaikutus hänen naiseutta ja sukupuolirooleja käsittelevästä teoksestaan tulisi. Toinen sukupuoli on vielä nykyään yksi naisliikkeen perusteoksista ja Simone de Beauvoir yksi naisliikkeen ikoneista.
           Simone de Beauvoirin elämästä ja ajatuksista kertovat kirjailija ja filosofi Torsti Lehtinen sekä saksalainen toimittaja ja Beauvoir-bloggari Julia Korbik. Toimittajana on Maarit Lukkarinen. (Es. 2021)
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Elämää keskiajan linnoissa'
         start_time: '2025-12-27T11:00:00+02:00'
         end_time: '2025-12-27T11:52:00+02:00'
-        description: |
-          Tarinoita talouden myllerryksistä.
+        description: |+
+          Millaista oli arkipäivän linnaelämä keskiajan Suomessa? Mitä töitä linnoissa tehtiin, entä mitä syötiin ja juotiin? Ja riittikö aikaa myös huvituksiin? Vieraana on tietokirjailija, väitöskirjatutkija Elise Pihlajaniemi, joka on tutustunut myös uuteen tutkimukseen siitä, toiko Katarina Jagellonica mukanaan maamme ensimmäisen haarukan vai ei. Ohjelma on uusinta viime maaliskuulta.
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-27T11:57:00+02:00'
         end_time: '2025-12-27T12:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2025-12-27T12:00:00+02:00'
         end_time: '2025-12-27T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Klassikkoelokuva Ihmeellinen on elämä saa pohtimaan Spinozan filosofiaa'
         start_time: '2025-12-27T12:05:00+02:00'
         end_time: '2025-12-27T13:00:00+02:00'
+        description: |
+          Frank Capran toisen maailmansodan jälkeen ilmestynyt elokuva Ihmeellinen on elämä tarkentaa pikkukaupungin mieheen, jonka omat haaveet jäävät muiden auttamisen jalkoihin. Itsemurhan partaalle ajautuvalle päähenkilölle elämän merkitys kirkastuu vasta, kun hän on näkee Clarence-enkelin toimesta maailman ilman itseään. Usein filosofiseksi kuvailtu elokuva saa yhä pohtimaan hyvyyttä, sen sijaa keskuudessamme sekä sitä, mikä pitää ihmisen elämässä kiinni. Miksi juuri tästä elokuvasta on tullut jouluklassikko? Miksi elokuva on herättänyt epäilyjä jopa FBI:ssa?
+          Marja Vehkasen kanssa elokuvan elementtien sysäämänä inhimillistä olemassaoloa pohtivat elokuvatutkija Ilona Hongisto ja filosofi Maija-Riitta Ollila.
       - title: Näistä levyistä en luovu
         start_time: '2025-12-27T13:00:00+02:00'
         end_time: '2025-12-27T13:55:00+02:00'
@@ -122,9 +129,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-27T15:25:00+02:00'
         end_time: '2025-12-27T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Jouluisin luettavassa Luukkaan evankeliumissa korostuu äiti-Marian näkökulma'
         start_time: '2025-12-27T15:30:00+02:00'
         end_time: '2025-12-27T15:55:00+02:00'
+        description: |
+          Pasi Heikura syventyy jouluevankeliumiin raamatuntutkija, dosentti Outi Lehtipuun johdolla. Ohjelmassa pohditaan myös, voiko joulukuusi mennä puihin ja lopuksi mitataan, onko sopalla syvyyttä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2025-12-27T15:55:00+02:00'
         end_time: '2025-12-27T15:58:00+02:00'
@@ -162,7 +171,9 @@ data:
           I. Kuusisto (sov.): Wild Christmas (Jukka Hirvikangas, englannintorvi, Harri Lidsle, tuuba, sekä Sinfonia Lahti/Osmo Vänskä).
       - title: 'Marko Gustafsson: Vieraana muusikko, lauluntekijä Samuli Putro'
         start_time: '2025-12-27T17:00:00+02:00'
-        end_time: '2025-12-27T17:53:00+02:00'
+        end_time: '2025-12-27T17:54:00+02:00'
+        description: |
+          Samuli Putron elämän käännekohta tapahtui Raahen yläasteen liikuntasalissa. Oli vuosi 1984. 14-vuotias Putro pyöräili kiertoreittiä koululle, toivoen ettei kukaan kaveri tulisi vastaan ja saisi tietää, että hän on menossa Dingon konserttiin. “Kun keikka alkoi, aivoni repesivät. Katsoin Neumannia ja totesin: minä haluan olla tuo!”, Samuli hymyilee muistolleen. Keikan jälkeen hän etsi varastoon unohtuneen kitaran ja alkoi opetella sointuja.
       - title: 'Ehtookellot: Juvan kirkon kellot'
         start_time: '2025-12-27T18:00:00+02:00'
         end_time: '2025-12-27T18:01:00+02:00'
@@ -188,9 +199,11 @@ data:
         end_time: '2025-12-27T21:26:28+02:00'
         description: |-
           Pyhimyskultti on keskeinen osa katolista kirkkoa. Internetin seuraava suojeluspyhimys saattaa olla italialainen teini  Carlo Acutis, joka kuoli vuonna 2006. Hänestä on tulossa ensimmäinen millenniaali, jolle pyhimyskaista on auki. Hänestä tulee moderni, nettiajan pyhimys.
-      - title: Maailman tärkein pieni asia
+      - title: Maailman tärkein pieni asia:Kasmir nauttii jopa joulustressistä
         start_time: '2025-12-27T22:00:30+02:00'
         end_time: '2025-12-27T22:20:00+02:00'
+        description: |
+          Muusikko, laulaja, lauluntekijä Kasmir nauttii jopa joulustressistä. Toimittajana Maija Salminen. 
       - title: Kielen päällä
         start_time: '2025-12-27T22:20:30+02:00'
         end_time: '2025-12-27T22:30:00+02:00'

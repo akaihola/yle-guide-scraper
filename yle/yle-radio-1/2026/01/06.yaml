@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:09.216058+00:00'
+  generated_at: '2025-12-18T02:37:53.701279+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -54,6 +54,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-06T12:00:00+02:00'
         end_time: '2026-01-06T12:05:00+02:00'
+      - title: Kadonneiden kaupunkien jäljillä. Pompeji
+        start_time: '2026-01-06T12:05:00+02:00'
+        end_time: '2026-01-06T12:25:00+02:00'
+        description: |
+          Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Pompeji -osan vieraana on tutkijatohtori Eeva-Maria Viitanen. Toimittajana Jukka Kuosmanen.
       - title: Aristoteleen kantapää
         start_time: '2026-01-06T12:25:00+02:00'
         end_time: '2026-01-06T12:50:00+02:00'
@@ -132,6 +137,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-06T17:20:00+02:00'
         end_time: '2026-01-06T17:35:00+02:00'
+        description: |2+
+
       - title: Luomiskertomus
         start_time: '2026-01-06T18:35:00+02:00'
         end_time: '2026-01-06T19:00:00+02:00'
@@ -140,6 +147,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-06T19:00:00+02:00'
         end_time: '2026-01-06T19:02:00+02:00'
+      - title: 'Sielun tietotoimisto: Spiritualismi – Älä ruoki räyhähenkiä, vaan kanavoi rakkautta'
+        start_time: '2026-01-06T19:02:00+02:00'
+        end_time: '2026-01-06T19:35:00+02:00'
+        description: |-
+          Henkimaailma ei ole hupijuttu vakaumuksellisille spiritualisteille. Sata vuotta sitten henkiyhteydenotto oli jopa muotia Suomessa. Miten nykymeedio vastaanottaa viestejä, kannattaako kenen tahansa viritellä ouija-lautaansa esille? Toimittaja Nadja Mikkonen keskustelee Suomen spiritualistisen seuran puheenjohtajan Irene Nadénin ja professori Marjo Kaartisen kanssa.
       - title: Romano mirits
         start_time: '2026-01-06T20:00:00+02:00'
         end_time: '2026-01-06T20:15:00+02:00'

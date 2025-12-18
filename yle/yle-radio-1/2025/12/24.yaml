@@ -1,24 +1,67 @@
 metadata:
-  generated_at: '2025-12-17T02:38:00.080708+00:00'
+  generated_at: '2025-12-18T02:37:50.309751+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-23T23:40:00+02:00'
         end_time: '2025-12-24T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          F. Anerio: Christe redemptor omnium (Kristus, lunastaja kaikkien) (Westminsterin katedraalin kuoro/James O'Donnell).
+
+          23:49 P.D. Philidor: Trio n:o 5 d-molli (Les Barricades Mysterieuses/Stéphan Perreau).
+
+          00:07 Humperdinck (sov. Tas): Sieben symphonische Bilder (Seitsemän sinfonista kuvaa) (Berliinin radion SO/Steffen Tast).
+
+          00:33 Schelle: Die Zeit erfüllet ward (Aika oli täytetty), joulukantaatti (Monika Mauch, sopraano, Myriam  Arbouz, sopraano, Marian Dijkhuizen, altto, Georg Poplutz, tenori, Jakob Pilgram, tenori, sekä Concerto Palatino ja Kölner Akademie sekä kuoro/Michael Alexander Willens).
+
+          00:46 Corelli: Concerto grosso n:o 8 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
+
+          01:00 Telemann: Sonaatti kahdelle huilulle D-duuri (Mindy Rosenfeld ja Stephen Schultz, traverso).
+
+          01:09 Sor: Muunnelmia Mozartin teemasta kitaralle (Julian Bream).
+
+          01:20 W.A. Mozart: Viulukonsertto n:o 3 G-duuri (Philharmonia-ork./David Oistrah, viulu ja joht.).
+
+          01:44 Kuula: Lampaan polska (Ralf Gothóni, piano).
+
+          01:50 Vivaldi: Lungi dal vago volto, kantaatti (Patrice Michaels Bedi, sopraano, ja Chicagon barokkiyhtye).
+
+          02:07 Tshaikovski: Pianokonsertto n:o 2 G-duuri (Gary Graffman ja Philadelphian ork./Eugene Ormandy).
+
+          02:44 Schubert: Sinfonia n:o 7 h-molli (New Yorkin FO/Kurt Masur).
+
+          03:11 Meder: Sinfonia n:o 4 (Alankomaiden radion kamariork./Anthony Halstead).
+
+          03:25 Beethoven: Pianosonaatit n:o 1 f-molli, 6 F-duuri ja 12 As-duuri (Rudolf Serkin). 
+
+          04:20 Weber: Fagottikonsertto F-duuri (Juhani Tapaninen ja RSO/Jukka-Pekka Saraste).
+
+          04:38 Händel: Concerto grosso a-molli (Boston Baroque/Martin Pearlman).
+
+          04:49 Berlioz: Osia musiikkidraamasta La Damnation de Faust (Clevelandin ork./Christoph von Dohnanyi).
+
+          05:03 Thomas: Alkusoitto oopp. Mignon (Bostonin SO/Seiji Ozawa).
+
+          05:11 Couperin: Konsertto n:o 12 (Markku Luolajan-Mikkola ja Mikko Perkola, bassogamba).
+
+          05:20 Smyth: Sonaatti viululle ja pianolle a-molli (Annette-Barbara Vogel ja Durval Cesetti).
+
+          05:45 Beethoven: Serenadi jousitriolle D-duuri (Zürichin jousitrio).
+
+          06:15 Corrette: Sinfonia n:o 5 kok. Kuusi joulusinfoniaa (La Fantasia/Rien Voskuilen)
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-24T07:00:00+02:00'
         end_time: '2025-12-24T07:02:00+02:00'
-      - title: Jouluaaton Aamusoitto
+      - title: Jouluaaton aamusoitto
         start_time: '2025-12-24T07:02:00+02:00'
         end_time: '2025-12-24T07:59:59+02:00'
-        description: |-
+        description: |+
           Händel: For unto us a child is born Messias-oratoriosta (St. Martin-in-the-Fields -kuoro ja  -kamariork./Neville Marriner).
 
           Poston: Jesus Christ the apple tree (The Pro Arte Singers ja Indianan yliopiston lapsikuoro, joht. Paul Hillier).
@@ -29,7 +72,9 @@ data:
 
           Hela: Hiljainen joululaulu (Kauppakorkeakoulun Ylioppilaskunnan Naislaulajat/Kaija Viitasalo). 
 
-          Freeman: A wassail, a wassail throughout this town sarjasta Carols for yuletide (Joulunajan lauluja) (Hämäläis-Osakunnan Laulajat/Esko Kallio).
+          Freeman: A wassail, a wassail throughout this town teoks. Carols for yuletide (Joulunajan lauluja) (Hämäläis-Osakunnan Laulajat/Esko Kallio).
+
+          Anonyymi 1400-luvulta: More festi querimus koleda, joululaulu kahdelle lauluäänelle ja soittimille. (Zuzana Matouskova, mezzosopraano, ja Richard Sporka,  tenori, sekä Ars Cameralis -vanhan musiikin yhtye).
 
           Nordqvist: Jul, jul strålande jul (Orphei Drängar/Robert Sund).
 
@@ -38,24 +83,28 @@ data:
           Kansansäv. (sov. Kazdin): The Twelve days of Christmas (Dallasin SO/Lawrence Loh).
 
           Styne: Let it snow (EMO Ensemble/Pasi Hyökki). 
+
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-24T08:00:00+02:00'
         end_time: '2025-12-24T08:07:00+02:00'
-      - title: Aamusoitto
+      - title: Jouluaaton aamusoitto
         start_time: '2025-12-24T08:07:00+02:00'
-        end_time: '2025-12-24T08:59:59+02:00'
+        end_time: '2025-12-24T09:00:00+02:00'
         description: |+
           Hela: Lumihiutaleitten laulu (Hannu Jurmu, tenori, ja Lohjan kaupunginork./Juha Nikkola).
 
           Tshaikovski: Makeishaltijattaren ja prinssin pas de deux bal. Pähkinänsärkijä (Mariinski-teatterin ork./Valeri Gergijev).
 
-          Holst: In the bleak mid-winter (Corey McKnight, kontratenori, ja Chanticleer/Joseph Jennings).
+          Holst: In the bleak mid-winter (Chanticleer/Joseph Jennings).
 
           I. Kuusisto: Tule hiutale (Pia Freund, sopraano, ja Kirsi Kiviharju, harppu).
 
           Sibelius (sov. Lindholm): Julvisa (Joululaulu) (Solistiyhtye Imperial/Erkki Karjalainen).
 
-          Palmgren: Snöflingor (Lumihiutaleita) (Peter Froundjian, piano).
+          Schubert: Ave Maria (Arturo Delmoni, viulu, ja Emily Mitchell, harppu).
+
+          Palmgren: Snöflingor (Lumihiutaleita) kok. Trois morceaux (Kolme kappaletta) (Peter Froundjian, piano).
 
           Humperdinck: Weihnachten (Olaf Bär, baritoni, ja Helmut Deutsch, piano).
 
@@ -63,7 +112,7 @@ data:
 
           Madetoja: Arkihuolesi kaikki heitä (Rajaton-lauluyhtye). 
 
-          Kansansäv: Il est ne, le divin enfant (Anne Sofie von Otter, mezzosopraano, Ulf Forsberg, viulu, ja Markus Leoson, marimba).
+          Kansansäv: Il est né, le divin enfant (Anne Sofie von Otter, mezzosopraano, Ulf Forsberg, viulu, ja Markus Leoson, marimba).
 
           Englantilainen kansansäv. (sov. Vaughan Williams): Children's Christmas song teoksesta Folksongs of the Four Seasons (The City of London Choir ja Bournemouthin SO/Hilary Davan Wetton).
 
@@ -92,11 +141,11 @@ data:
           Berlin: Valkea joulu (Annikki Tähti).
           Adam: O Holy Night (Nat King Cole).
           Madetoja: Arkihuolesi kaikki heitä (Jukka Perko ja Sinfonia Lahti).
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Harvinainen hiljaisuus'
         start_time: '2025-12-24T10:00:00+02:00'
         end_time: '2025-12-24T10:50:00+02:00'
         description: |
-          Yhteiskunnalliset ja kulttuuriset muutokset tapahtuvat usein pikkuhiljaa. Kunnes havahdumme kysymään kollektiivisesti: Mitä tämä tarkoittaa? Miten tässä näin kävi? Miltä tulevaisuus vaikuttaa? Toimittaja Satu Kivelä etsii yhdessä vieraidensa kanssa merkityksiä, jotka voivat auttaa ymmärtämään jatkuvaa muutosta.
+          Maailmassa riittää melua, melskettä ja ärsykkeitä. Hiljaisuuden äärelle täytyy usein ihan erikseen hakeutua. Hiljaisuus rauhoittaa ja hoitaa monin tavoin. Mitä hiljaisuudessa on mahdollista kuulla? Millainen merkitys hiljaisuudella on taiteen tekemisessä? Miksi hiljaisuus on ajankohtaista juuri nyt? Toimittaja Satu Kivelä ja etsii vastauksia kysymyksiin yhdessä hiljaisuutta ja melua tutkineen Outi Ampujan ja kuvataiteilija Ville Löppösen kanssa. Uusinta ajalta 18.6.2025.
       - title: Riston Valinta
         start_time: '2025-12-24T11:00:00+02:00'
         end_time: '2025-12-24T11:50:00+02:00'
@@ -135,7 +184,7 @@ data:
 
           Sandström: Det är en ros utsprungen (RKK/Timo Nuoranne).
 
-      - title: Maailman tärkein pieni asia
+      - title: Maailman tärkein pieni asia:Kasmir nauttii jopa joulustressistä
         start_time: '2025-12-24T13:00:00+02:00'
         end_time: '2025-12-24T13:20:00+02:00'
         description: |
@@ -165,10 +214,10 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-24T16:07:00+02:00'
         end_time: '2025-12-24T16:59:00+02:00'
-        description: |-
+        description: |
           Gruber: Jouluyö, juhlayö (Kaartin Seitsikko/Harri Karri).
 
-          Anonyymi: Puer natus in Betlehem (kokoelmasta Piae cantiones) (Candomino/ Esko Kallio).
+          Anonyymi: Puer natus in Betlehem kok. Piae cantiones (Candomino/ Esko Kallio).
 
           Melartin: Lapin joulu (Matti Lehtinen, baritoni, ja soitinyhtye/Jorma Panula).
 
@@ -180,9 +229,9 @@ data:
 
           Ranta: Taas kaikki kauniit muistot (Lilli Paasikivi, mezzosopraano, ja Pentti Kotiranta, piano).
 
-          Solasaari: Paimenen joulurukous (Jorma Hynninen ja Kalevi Kiviniemi). 
+          Solasaari: Paimenen joulurukous (Jorma Hynninen, baritoni, ja Kalevi Kiviniemi, urut). 
 
-          Locatelli,: Concerto grosso f-molli op.1/8 (Joulukonsertto): 5. Pastorale (Freiburgin barokkiork./Gottfried von der Goltz)
+          Locatelli: Pastorale teoks. Concerto grosso f-molli op.1/8 (Joulukonsertto) (Freiburgin barokkiork./Gottfried von der Goltz).
       - title: 'Taiteilijan joulusaarna: Saarnaajana Antti Holma'
         start_time: '2025-12-24T17:00:00+02:00'
         end_time: '2025-12-24T17:20:00+02:00'
@@ -227,12 +276,14 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-24T21:00:00+02:00'
         end_time: '2025-12-24T21:05:00+02:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Harvinainen hiljaisuus'
         start_time: '2025-12-24T21:05:00+02:00'
-        end_time: '2025-12-24T21:55:00+02:00'
+        end_time: '2025-12-24T21:54:47+02:00'
+        description: |
+          Maailmassa riittää melua, melskettä ja ärsykkeitä. Hiljaisuuden äärelle täytyy usein ihan erikseen hakeutua. Hiljaisuus rauhoittaa ja hoitaa monin tavoin. Mitä hiljaisuudessa on mahdollista kuulla? Millainen merkitys hiljaisuudella on taiteen tekemisessä? Miksi hiljaisuus on ajankohtaista juuri nyt? Toimittaja Satu Kivelä ja etsii vastauksia kysymyksiin yhdessä hiljaisuutta ja melua tutkineen Outi Ampujan ja kuvataiteilija Ville Löppösen kanssa. Uusinta ajalta 18.6.2025.
       - title: 'Uudenvuoden kellot: Muutosten soitto'
-        start_time: '2025-12-24T22:05:00+02:00'
-        end_time: '2025-12-24T22:39:30+02:00'
+        start_time: '2025-12-24T22:04:45+02:00'
+        end_time: '2025-12-24T22:39:11+02:00'
         description: |
           Osa 3/4. Trotty Veck on iäkäs lähetti, joka odottaa töitä kirkon portailla. Kirkon, jonka kellot ovat vuosia kannustaneet ja rohkaisseet häntä. Tänä uudenvuodenaattona Trotty Veck on erityisen surullinen: köyhän työväenluokan tulevaisuus ei näytä valoisalta, onko heillä enää edes oikeutta olemassaoloon? Veck alkaa uskoa itsekin, että köyhät ovat pahoja eivätkä he voi muuksi muuttua – ja silloin kellot alkavat puhutella häntä.
           Charles Dickens (1812-1870) oli merkittävä englantilainen romaanikirjailija, jonka teoksissa korostuu vahva poliittinen, sosiaalinen ja moraalinen viesti sekä lämmin huumori ja sydämellisyys. Hänen kirjallinen perintönsä eli havainnot yhteiskunnan epäkohdista ja eriarvoisuudesta ovat edelleen yllättävän ajankohtaisia nykyajassamme. Uudenvuoden kellot (eng. Chimes, 1844) on tarina kirkonkelloista, jotka soittavat vanhan vuoden loppua ja uuden vuoden alkua – auttamalla huonompiosaisia uutena vuotena, on alkava vuosi kaikille onnellisempi. Teos ilmestyi seuraavana jouluna tunnetun Saiturin joulu -kertomuksen jälkeen ja on yksi viidestä Dickensin joulutarinoiden sarjassa.

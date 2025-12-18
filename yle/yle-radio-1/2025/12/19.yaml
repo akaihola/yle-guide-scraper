@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:37:51.838746+00:00'
+  generated_at: '2025-12-18T02:37:49.158704+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -152,17 +152,21 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-19T12:00:00+02:00'
         end_time: '2025-12-19T12:05:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Lahjan psykologia – miksi annamme lahjoja ja kuinka mokata se pahanpäiväisesti'
         start_time: '2025-12-19T12:05:00+02:00'
         end_time: '2025-12-19T12:55:00+02:00'
-        description: |
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |-
+          Miksi annamme toisillemme lahjoja? Ja mikä tekee eleestä niin tärkeän, että annamme ja vastaanotamme asioita, joita emme edes tarvitse?
+
+          Haastateltavana sosiologian professori Olli Pyyhtinen Tampereen yliopistosta. Toimittajana Jaro Asikainen. Äänisuunnittelu: Jaro Asikainen ja Juha Sarkkinen.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-19T12:55:00+02:00'
         end_time: '2025-12-19T13:00:00+02:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2025-12-19T13:00:00+02:00'
         end_time: '2025-12-19T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-19T13:30:00+02:00'
         end_time: '2025-12-19T15:00:00+02:00'
@@ -264,16 +268,27 @@ data:
       - title: Politiikkaradio
         start_time: '2025-12-19T21:05:00+02:00'
         end_time: '2025-12-19T21:35:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Reportaasi Venäjän länsirajasta'
         start_time: '2025-12-19T21:36:00+02:00'
-        end_time: '2025-12-19T22:26:00+02:00'
+        end_time: '2025-12-19T22:24:36+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Keitaan joululahjavalvojaiset'
         start_time: '2025-12-19T22:27:00+02:00'
-        end_time: '2025-12-19T23:17:00+02:00'
+        end_time: '2025-12-19T23:16:22+02:00'
         description: |
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Keitaan joululahjavalvojaisissa pysähdytään pohtimaan, miksi oikeastaan annamme lahjoja. Tänä iltana paketit vaihtuvat lauluiksi, ja jokainen sävel tuo mukanaan oman tarinansa. Värttinän laulussa sika ottaa hatkat joulupöydästä, Cape Verdellä vietetään joulua meren äärellä ja Mari Boine vie meidät Pohjois-Norjan maisemiin. Lisäksi kuullaan muusikko Maija Kauhasen lempijoululaulu. Toimittajana on Tuuli Saksala.
+
+          Anne-Mari Kivimäki: Rauha ja hiljaisuus
+          Angelique Kidjo: Zan Vevede (holy night)
+          Harry Belafonte: Goin’ Down Jordan
+          Värttinä: Mikko-sika Mallorcalla
+          Hector Lavoe & Willie Colon: La Murga
+          Cesaria Evora: Hoje e natal
+          Mari Boine: Vuonagiid Juovlasálbma
+          Leleka: Oi v lisku
+          Ensemble Gamut!: Luojan virsi
+          Ylioppilaskunnan Laulajat & Maija Kauhanen: Arkihuolesi kaikki heitä
       - title: Yöklassinen
         start_time: '2025-12-19T23:40:00+02:00'
         end_time: '2025-12-20T07:30:00+02:00'

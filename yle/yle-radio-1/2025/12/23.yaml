@@ -1,17 +1,58 @@
 metadata:
-  generated_at: '2025-12-17T02:37:59.138294+00:00'
+  generated_at: '2025-12-18T02:37:50.110804+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-22T23:40:00+02:00'
         end_time: '2025-12-23T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Lefebure-Wely: Muunnelmia ranskalaisesta joululaulusta (Markku Hietaharju, urut).
+
+          23:48 Molter: Pastoraalikonsertto G-duuri (The English Concert/Trevor Pinnock).
+
+          23:55 Bovicelli: Angelus ad pastores (The Gonzaga Band). 
+
+          23:59 Bartók: Romanialaisia joululauluja (Pietro Spada, piano).
+
+          00:13 J. Kreutzer: Trio n:o 2 e-molli (Gragnani Trio).
+
+          00:26 Compère: Omnium bonorum plena (Orlando Consort).
+
+          00:38 Vivaldi: Trio viululle, luutulle ja continuolle C-duuri (Celedonio Romero, kitara,  John Corigliano, viulu, Domenick Saltarelli, alttoviulu, ja Margaret Bella, sello).
+
+          00:47 Tshaikovski: Joutsenlampi, 4-näytöksinen baletti. (Bostonin SO/Seiji Ozawa).
+
+          03:17 Guaraldi: Christmas time is here (Chanticleer/Joseph Jennings).
+
+          03:21 Pleyel: Kvartetto huilulle ja jousille B-duuri (Concertino-kamariork./Jevgeni Bushkov).
+
+          03:37 Raison: Ou s'en vont ces gais bergers (Kati Hämäläinen, urut).
+
+          03:47 Fernandes: Botay fora (Tulkaa tallista, paimenet). (Siobhan Stagg, sopraano, ja La Compania/Danny Lucin).
+
+          03:52 Glazunov: Vuodenajat, baletti op.67 (Moskovan SO/Aleksandr Anisimov).
+
+          04:34 Warlock: Kolme joululaulua. (Julia Doyle, sopraano, Mark Williams, piano, Bournemouthin SO, ja The City of London Choir/ Hilary Davan Wetton).
+
+          T04:41 elemann: Konsertto huilulle, jousille ja continuolle C-duuri (Robert Stallman, huilu, ja Philadelphian kamariork.).
+
+          04:57 Vanhal: Missa pastoralis messu G-duuri (Mary Enid Haines, sopraano, Nina Scott Stoddart, altto, Colin Ainsworth, tenori, ja Steven Pitkanen, baritoni sekä Uuden-Seelannin Tower Voices -kuoro ja kamariyhtye Aradia Ensemble/Uwe Grodd).
+
+          05:34 Schnitzer: Sonaatti kosketinsoittimelle n:o 6 G-duuri (Pastoraali) (Martin Rost, Prahan Pyhän Castuluksen kirkon urut).
+
+          05:45 Cornelius: Paimenet sarj. Joululauluja (Jyrki Korhonen, basso, ja Uwe Zeutzheim, piano).
+
+          05:50 Praetorius: Jouluvesper (Apollo's Fire, Paul Shipper, basso, Apollo's singers, Apollo's musettes, The Oberlin Choristers, ja Children's choirs of St, Paul's church/Jeannette Sorrell).
+
+          06:25 Sibelius: Nyt seimelle pienoisen lapsen (RKK/Timo Nuoranne).
+
+          06:27 Norén: Tervehtii jo meitä (Risto Saarman, tenori, ja Pentti Kotiranta, piano).
+
       - title: Hartaita säveliä
         start_time: '2025-12-23T06:30:50+02:00'
         end_time: '2025-12-23T06:50:00+02:00'
@@ -66,6 +107,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2025-12-23T08:07:00+02:00'
         end_time: '2025-12-23T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: Yle Uutiset
         start_time: '2025-12-23T09:00:00+02:00'
         end_time: '2025-12-23T09:03:00+02:00'
@@ -87,11 +130,11 @@ data:
           Turunen: Me käymme joulun viettohon (Johanna Iivanainen).
           Hairston: Mary's boy child (Harry Belafonte).
           Gruber: Silent night, holy night (Mahalia Jackson).
-      - title: Sari Valto
+      - title: 'Sari Valto: Kaksi erilaisen joulun viettäjää'
         start_time: '2025-12-23T10:00:00+02:00'
         end_time: '2025-12-23T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Jouluvieraina radioääni Jari Aula sekä Joulupukki Timo Pakkanen. Kumpikin on vuosikymmenien ajan viettänyt joulunsa työn merkeissä.
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2025-12-23T11:00:00+02:00'
         end_time: '2025-12-23T11:57:00+02:00'
@@ -108,9 +151,11 @@ data:
         end_time: '2025-12-23T12:25:00+02:00'
         description: |-
           Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Assur -osan vieraana on apulaisprofessori Saana Svärd. Toimittajana Jukka Kuosmanen. (es. 2020)
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Jouluisin luettavassa Luukkaan evankeliumissa korostuu äiti-Marian näkökulma'
         start_time: '2025-12-23T12:25:00+02:00'
         end_time: '2025-12-23T12:50:00+02:00'
+        description: |
+          Pasi Heikura syventyy jouluevankeliumiin raamatuntutkija, dosentti Outi Lehtipuun johdolla. Ohjelmassa pohditaan myös, voiko joulukuusi mennä puihin ja lopuksi mitataan, onko sopalla syvyyttä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-23T12:50:00+02:00'
         end_time: '2025-12-23T13:00:00+02:00'
@@ -122,11 +167,17 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2025-12-23T13:30:00+02:00'
         end_time: '2025-12-23T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+        description: |
+          Radio 1:n iltapäivässä soivat jouluiset sävelet. Juontajana on Miia Lahti. Hän saa vieraakseen vastikään vuoden papiksi valitun Elina Jokipaltion, joka on Uudenmaan kehitysvammaistyön pastori Mäntsälän seurakunnasta.  Jokipaltiota kuvataan uranuurtajaksi, joka on tehnyt merkittävää työtä kirkollisilla erityisaloilla. Hän liikkuu työssään luontevasti usein haavoittuvassa asemassa olevien ihmisryhmien parissa. N. klo 14.30 Jari Aulan toimittama Kielen päällä.
+      - title: 'Kulttuuriykkönen: Olisiko meillä joulun romanttisia komedioita ilman Jane Austenia?'
         start_time: '2025-12-23T15:00:00+02:00'
         end_time: '2025-12-23T15:55:00+02:00'
-        description: |
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |-
+          Viime viikolla vietettiin kirjailija Jane Austenin syntymän 250-vuotispäivää. Austenin tuotannon merkitys myöhemmälle laatukirjallisuudelle on jo pitkään tunnustettu, mutta suuri nykyinen yleisö löysi Austenin vuonna 1995 BBC:n tuottamasta Ylpeys ja ennakkoluulo-tv-sarjasta. Sarja uusitaaan myös Ylellä joulun välipäivinä.
+
+          Miksi Jane Austenin kertomukset sekä kestävät aikaa että taipuvat uusiksi elokuva- ja tv-sovituksiksi? Ja mitä myöhemmät brittielokuvat kuten Neljät häät ja hautajaiset tai Notting Hill ovat velkaa Austenille? 
+
+          Aiheesta keskustelevat toimittaja, kulttuuritutkija Anna Möttölä, kääntäjä Maria Lyytinen sekä emeritaprofessori Laura Kolbe. Ville Talola toimittaa.
       - title: Yle News
         start_time: '2025-12-23T15:55:00+02:00'
         end_time: '2025-12-23T15:58:00+02:00'
@@ -139,23 +190,23 @@ data:
         start_time: '2025-12-23T16:07:00+02:00'
         end_time: '2025-12-23T16:59:00+02:00'
         description: |
-          J.S. Bach: Alkukuoro kantaatista n:o 110 "Unser Mund sei voll Lachens", joulupäivän kantaatti (Monteverdi-kuoro ja Englannin barokkisolistit/John Eliot Gardiner). 
+          J.S. Bach: Alkukuoro kantaatista n:o 110 "Unser Mund sei voll Lachens" (Monteverdi-kuoro ja Englannin barokkisolistit/John Eliot Gardiner). 
 
-          Corrette: Noël provencal (Provencelainen joululaulu) (Kalevi Kiviniemi, Turun tuomiokirkon urut).
+          Corrette: Noël provencal (Provencelainen joululaulu) (Kalevi Kiviniemi, urut).
 
-          Torelli: Concerto grosso nro 6 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
+          Torelli: Concerto grosso n:o 6 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
 
-          Britten: Deo gracias Joululauluseremoniasta (Robert Shaw Chamber Singers/Robert Shaw, sekä Elizabeth Remy, harppu).
+          Britten: Deo gracias teoks. A Ceremony of Carols (Robert Shaw Chamber Singers/Robert Shaw, sekä Elizabeth Remy, harppu).
 
-          Biber: Sonaatti kahdeksalle trumpetille, patarummuille ja continuolle C-duuri (Le Concert des Nations, ja Hesperion XXI/Jordi Savall).
+          Biber: Sonaatti kahdeksalle trumpetille, patarummuille ja continuolle C-duuri (Le Concert des Nations ja Hesperion XXI/Jordi Savall).
 
-          Britten: There is no rose (Cambridgen King's Collegen kuoro/David Willcocks, ja Ossian Ellis, harppu).
+          Britten: There is no rose teoks. A Ceremony of Carols (Cambridgen King's Collegen kuoro/David Willcocks, ja Ossian Ellis, harppu).
 
-          Ruots. kansanlaulu (sov. Olsson): Gammal julvisa (Allmänna Sången/Cecilia Rydinger Alin).
+          Kansanlaulu: Gammal julvisa (Allmänna Sången/Cecilia Rydinger Alin).
 
           Kansansäv.: Kuusen ympärillä (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Ryyppymäki String Band).
 
-          Sonninen (sov. Kiiski): Jouluhymni (Sinfonia Lahti/Osmo Vänskä).
+          Sonninen: Jouluhymni (Sinfonia Lahti/Osmo Vänskä).
 
           Harvey (sov.): Festive cheer (London Brass).
 
@@ -201,8 +252,8 @@ data:
         start_time: '2025-12-23T19:02:00+02:00'
         end_time: '2025-12-23T22:00:00+02:00'
       - title: 'Uudenvuoden kellot: Muutosten soitto'
-        start_time: '2025-12-23T22:00:30+02:00'
-        end_time: '2025-12-23T22:35:00+02:00'
+        start_time: '2025-12-23T22:00:51+02:00'
+        end_time: '2025-12-23T22:35:15+02:00'
         description: |
           Osa 3/4. Trotty Veck on iäkäs lähetti, joka odottaa töitä kirkon portailla. Kirkon, jonka kellot ovat vuosia kannustaneet ja rohkaisseet häntä. Tänä uudenvuodenaattona Trotty Veck on erityisen surullinen: köyhän työväenluokan tulevaisuus ei näytä valoisalta, onko heillä enää edes oikeutta olemassaoloon? Veck alkaa uskoa itsekin, että köyhät ovat pahoja eivätkä he voi muuksi muuttua – ja silloin kellot alkavat puhutella häntä.
           Charles Dickens (1812-1870) oli merkittävä englantilainen romaanikirjailija, jonka teoksissa korostuu vahva poliittinen, sosiaalinen ja moraalinen viesti sekä lämmin huumori ja sydämellisyys. Hänen kirjallinen perintönsä eli havainnot yhteiskunnan epäkohdista ja eriarvoisuudesta ovat edelleen yllättävän ajankohtaisia nykyajassamme. Uudenvuoden kellot (eng. Chimes, 1844) on tarina kirkonkelloista, jotka soittavat vanhan vuoden loppua ja uuden vuoden alkua – auttamalla huonompiosaisia uutena vuotena, on alkava vuosi kaikille onnellisempi. Teos ilmestyi seuraavana jouluna tunnetun Saiturin joulu -kertomuksen jälkeen ja on yksi viidestä Dickensin joulutarinoiden sarjassa.
@@ -217,11 +268,55 @@ data:
           Tilaaja: Matti Kajander, Yle Draama 2025.
       - title: Sari Valto
         start_time: '2025-12-23T22:46:00+02:00'
-        end_time: '2025-12-23T23:39:30+02:00'
+        end_time: '2025-12-23T23:39:15+02:00'
         description: |
           Sari Valton ohjelmassa keskustellaan ajan ilmiöistä, arjen puheenaiheista ja joskus kipeistäkin ihmiselämän ongelmista. Ohjelman vieraat tuovat keskusteluun erilaisia ja usein vastakkaisiakin näkökantoja ja maailmankuvia. Sari Valton keskustelusarjan pohjavireenä liikkuu isompi tarina siitä, millaisten arvojen keskellä elämme ja mitä pidämme oikeana.
       - title: Yöklassinen
         start_time: '2025-12-23T23:40:00+02:00'
         end_time: '2025-12-24T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          F. Anerio: Christe redemptor omnium (Kristus, lunastaja kaikkien) (Westminsterin katedraalin kuoro/James O'Donnell).
+
+          23:49 P.D. Philidor: Trio n:o 5 d-molli (Les Barricades Mysterieuses/Stéphan Perreau).
+
+          00:07 Humperdinck (sov. Tas): Sieben symphonische Bilder (Seitsemän sinfonista kuvaa) (Berliinin radion SO/Steffen Tast).
+
+          00:33 Schelle: Die Zeit erfüllet ward (Aika oli täytetty), joulukantaatti (Monika Mauch, sopraano, Myriam  Arbouz, sopraano, Marian Dijkhuizen, altto, Georg Poplutz, tenori, Jakob Pilgram, tenori, sekä Concerto Palatino ja Kölner Akademie sekä kuoro/Michael Alexander Willens).
+
+          00:46 Corelli: Concerto grosso n:o 8 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
+
+          01:00 Telemann: Sonaatti kahdelle huilulle D-duuri (Mindy Rosenfeld ja Stephen Schultz, traverso).
+
+          01:09 Sor: Muunnelmia Mozartin teemasta kitaralle (Julian Bream).
+
+          01:20 W.A. Mozart: Viulukonsertto n:o 3 G-duuri (Philharmonia-ork./David Oistrah, viulu ja joht.).
+
+          01:44 Kuula: Lampaan polska (Ralf Gothóni, piano).
+
+          01:50 Vivaldi: Lungi dal vago volto, kantaatti (Patrice Michaels Bedi, sopraano, ja Chicagon barokkiyhtye).
+
+          02:07 Tshaikovski: Pianokonsertto n:o 2 G-duuri (Gary Graffman ja Philadelphian ork./Eugene Ormandy).
+
+          02:44 Schubert: Sinfonia n:o 7 h-molli (New Yorkin FO/Kurt Masur).
+
+          03:11 Meder: Sinfonia n:o 4 (Alankomaiden radion kamariork./Anthony Halstead).
+
+          03:25 Beethoven: Pianosonaatit n:o 1 f-molli, 6 F-duuri ja 12 As-duuri (Rudolf Serkin). 
+
+          04:20 Weber: Fagottikonsertto F-duuri (Juhani Tapaninen ja RSO/Jukka-Pekka Saraste).
+
+          04:38 Händel: Concerto grosso a-molli (Boston Baroque/Martin Pearlman).
+
+          04:49 Berlioz: Osia musiikkidraamasta La Damnation de Faust (Clevelandin ork./Christoph von Dohnanyi).
+
+          05:03 Thomas: Alkusoitto oopp. Mignon (Bostonin SO/Seiji Ozawa).
+
+          05:11 Couperin: Konsertto n:o 12 (Markku Luolajan-Mikkola ja Mikko Perkola, bassogamba).
+
+          05:20 Smyth: Sonaatti viululle ja pianolle a-molli (Annette-Barbara Vogel ja Durval Cesetti).
+
+          05:45 Beethoven: Serenadi jousitriolle D-duuri (Zürichin jousitrio).
+
+          06:15 Corrette: Sinfonia n:o 5 kok. Kuusi joulusinfoniaa (La Fantasia/Rien Voskuilen)
+
+...

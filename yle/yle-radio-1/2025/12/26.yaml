@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:02.079307+00:00'
+  generated_at: '2025-12-18T02:37:50.988450+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -15,15 +15,49 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2025-12-26T08:00:00+02:00'
         end_time: '2025-12-26T08:05:00+02:00'
-      - title: Aamusoitto
+      - title: Tapaninpäivän aamusoitto
         start_time: '2025-12-26T08:05:00+02:00'
         end_time: '2025-12-26T09:00:00+02:00'
+        description: |+
+          Tuntematon: Es ist ein Ros entsprungen (YL/Matti Hyökki).
+
+          Gigault: Duo sarjasta uruille (Håkan Martinsson).
+
+          Kansanlaulu (sov. Lindberg): Staffansvisa från Orust (Orphei Drängar ja Linne-puhallinkvintetti/Cecilia Rydinger-Alin).  
+
+          Corelli: Concerto grosso n:o 8 g-molli (Joulukonsertto) (Les Violons du Roy/Bernard Labadie).
+
+          Lauro: Venezuelalainen valssi n:o 3 e-molli (Kreolilaisvalssi) (John Williams, kitara).
+
+          Sehling: Non sic cervus ad fluentem (Tomás Král, baritoni, ja Collegium Marianum/Jana Semerádová, traverso).
+
+          Martinu: Le Noël (Joulu) (Giorgio Koukl, piano).
+
+          Reger (sov. Meyer): Weihnachten (Joulu) op.145/3 (SRK:n jousiork./Olli Heikkilä).
+
+          Tuntematon: Nyt ilovirttä veisaten (Andrew Lawrence-King, barokkiharppu). 
+
+          Ives: A Christmas carol (Chanticleer/Joseph Jennings).
+
       - title: Yle Uutiset
         start_time: '2025-12-26T09:00:00+02:00'
         end_time: '2025-12-26T09:03:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2025-12-26T09:04:00+02:00'
         end_time: '2025-12-26T09:56:00+02:00'
+        description: |-
+          Anderson: Rekiretki (Sinfonia Lahti/Osmo Vänskä).
+          Kuusi: Lumilinna (Pihasoittajat).
+          Makaroff: Ketun joululaulu (Rajaton).
+          Holst: In the bleak mid-winter (The King's Singers). 
+          Barre: A Winter snowscape (Jethro Tull).
+          Hela: Lumihiutaleitten laulu (Anneli Saaristo). 
+          Bernard: Winter wonderland (Michael Buble).
+          Legrand: Noël d'espoir (Madeleine Peyroux, Emilie Simon, Carla Bruni, Rufus Wainwright, Iggy Pop ja orkesteri/Michel Legrand).
+          Kaski: Mökit nukkuu lumiset (Samuli Mikkonen, Uffe Krokfors, Mika Kallio, Sakari Kukko).
+          Kansanlaulu: Talvi-ilta (Kalevi Korpi).
+          Batt/Rice: A winter's tale (David Essex).
+          Kantelinen: Pas de deux balettisarj. Lumikuningatar (Suomen Kansallisoopperan ork./Tuomas Kantelinen).
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-12-26T09:56:00+02:00'
         end_time: '2025-12-26T09:59:00+02:00'
@@ -90,7 +124,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-26T14:55:00+02:00'
         end_time: '2025-12-26T15:00:00+02:00'
-      - title: Taiteilijatapaaminen
+      - title: 'Taiteilijatapaaminen: Johanna Rusanen-Kartano ja Ville Rusanen: olemme ylpeitä toisistamme'
         start_time: '2025-12-26T15:00:00+02:00'
         end_time: '2025-12-26T15:55:00+02:00'
         description: |
@@ -171,22 +205,26 @@ data:
       - title: Tapaninpäivän Etnokonsertti
         start_time: '2025-12-26T19:02:00+02:00'
         end_time: '2025-12-26T20:47:00+02:00'
-        description: |-
-          Tapaninpäivän Etnokonserissa kuullaan Euroopan yleisradioyhtiöiden joulutervehdyksiä. Joululaulut vievät kuulijan musiikkimatkalle Itävallasta Bulgariaan, Viroon, Suomeen, Skotlantiin, Islantiin, Latviaan, Moldovaan, Puolaan, Serbiaan, Sloveniaan, Ruotsiin, Slovakiaan ja Ukrainaan. Kukin maa esittelee oman joulutervehdyksensä ja joululauluja, joissa juhlistetaan Kristuksen syntymää, toivotetaan rauhaa ja valoa uudelle vuodelle. Toimittajana on Miika Lauriala. 
+        description: |
+          Tapaninpäivän Etnokonserissa kuullaan Euroopan yleisradioyhtiöiden joulutervehdyksiä. Kukin maa esittelee oman joulutervehdyksensä, joissa juhlistetaan Kristuksen syntymää, toivotetaan rauhaa ja valoa uudelle vuodelle. Joululaulut vievät kuulijan musiikkimatkalle Itävallasta Bulgariaan, Viroon, Suomeen, Skotlantiin, Islantiin, Latviaan, Moldovaan, Puolaan, Serbiaan, Sloveniaan, Ruotsiin, Slovakiaan ja Ukrainaan. Toimittajana on Miika Lauriala. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-26T21:00:00+02:00'
         end_time: '2025-12-26T21:05:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Tuija Pehkonen ei ole vain jouluihminen, hän on ylpeästi jouluhörhö'
         start_time: '2025-12-26T21:05:00+02:00'
         end_time: '2025-12-26T21:25:00+02:00'
+        description: |
+          Tuija Pehkonen ei ole vain jouluihminen, hän on ylpeästi jouluhörhö. Toimittajana Maija Salminen. 
       - title: Tuuli Saksalan keidas
         start_time: '2025-12-26T21:35:00+02:00'
         end_time: '2025-12-26T22:25:00+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
-      - title: Taiteilijatapaaminen
+      - title: 'Taiteilijatapaaminen: Johanna Rusanen-Kartano ja Ville Rusanen: olemme ylpeitä toisistamme'
         start_time: '2025-12-26T22:26:00+02:00'
         end_time: '2025-12-26T23:20:00+02:00'
+        description: |
+          Taitelijatapaamisessa vieraana ovat oopperalaulajat Johanna Rusanen-Kartano ja Ville Rusanen. Sisarukset muistelevat lapsuuttaan ja lapsuuden jouluja, kertovat miten tukevat ja seuraavat toistensa taiteilijuutta sekä pohtivat uriensa kohokohtia. Toimittajana on Maija Salminen.
       - title: Yöklassinen
         start_time: '2025-12-26T23:40:00+02:00'
         end_time: '2025-12-27T07:30:00+02:00'

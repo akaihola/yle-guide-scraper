@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-17T02:38:13.524814+00:00'
+  generated_at: '2025-12-18T02:37:56.723246+00:00'
   git:
     branch: main
-    commit: 42c0acdd7d9593a61dfcc24751f16deefaf34625
-  data_hash: 19648c880a7e641ecd58c7164e9f530b3faf730c123727a2328311e34a5d751c
+    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
+  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-20T17:20:00+02:00'
         end_time: '2026-01-20T17:35:00+02:00'
+        description: |2+
+
       - title: Hartaita säveliä
         start_time: '2026-01-20T18:35:00+02:00'
         end_time: '2026-01-20T18:50:00+02:00'
