@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-18T02:37:51.514581+00:00'
+  generated_at: '2025-12-19T02:39:17.307873+00:00'
   git:
     branch: main
-    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
-  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
+    commit: df8c58cd9c2c9689113656454fae94db94dec82b
+  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
 data:
   Yle Radio 1:
     programmes:
@@ -42,8 +42,15 @@ data:
       - title: Jumalanpalvelus Ilmajoen kirkosta
         start_time: '2025-12-28T10:00:00+02:00'
         end_time: '2025-12-28T10:59:20+02:00'
-        description: |-
-          Jumalanpalvelus Ilmajoen kirkosta
+        description: |+
+          Liturgina ja saarnaajana Mika Syväniemi. 
+          Kanttorina ja urkurina Liisa Erkinheimo. 
+          Tekstinlukijana Sirpa Keski-Antila.
+          Muut muusikot: Martta Taivalmaa, viulu
+
+
+
+
       - title: Muistojen bulevardi
         start_time: '2025-12-28T11:00:00+02:00'
         end_time: '2025-12-28T11:59:00+02:00'
@@ -94,18 +101,20 @@ data:
         start_time: '2025-12-28T14:00:00+02:00'
         end_time: '2025-12-28T14:55:00+02:00'
         description: |
-          Parker: Scrapple from the apple (Iiro Rantala, Kaisa Mäensivu ja Morten Lund). 
-          Monnot: Hymne a l'amour (Iiro Rantala, Kaisa Mäensivu ja Morten Lund). 
-          Castrillon: Lo efimero (Senase). 
-          Castrillon: Semilla estelar (Senase). 
-          Uura: Metsän syliin (Räsynukke). 
-          Asu: Hotti on taikaa (Mäsä Duo). 
-          Marin: Kungshatt (Väsen). 
-          Johansson: Brudmarsch till Kristin och Erik (Väsen). 
-          Loiselle: Forcalquier (Lena Jonsson Trio). 
-          Armstrong/Reid: Burdland (Lena Jonsson Trio). 
-          Ardenois/Rodebjer/Ryynänen: As the sun lights the morning sky (Triveni Trio). 
-          Sippola: Highway home (Polenta). 
+          Lehto/Kansansäv.: Maailman mielet villitsee (Pauanne).
+          Hassinen: Kukkilindu (Värttinä). 
+          Kansansäv.: Hoopon elämän mysteerit (Paleface ja Laulava Unioni). 
+          O. Merikanto: Valse lento (Piirpauke). 
+          Komppa: Rahikaisen jenkka (Luomuduo). 
+          Seppänen/Haaraoja: Rautahepo (Junna). 
+          Ánnámáret/Kauhanen: Haldi - Haltija (Ánnámáret ja Maija Kauhanen). 
+          Länsman/Norvio: Vizardit (Hilda Länsman ja Tuomas Norvio). 
+          Penttilä/Liira: Linnalaine neiccy (Dänkki Briha). 
+          Kansanlaulu/Ottilia: Rommipottu (Airi ja Pojat). 
+          Virtanen: Vikkelä (Huippu). 
+          Laine: Henki puhuu (Pekko Käppi ja K.H.H.L.)
+          Poutanen: Pääskyläinen (Petra Poutanen, Kielo Kärkkäinen, Henrika Nieminen). 
+          Hostikka: Unton ja Lakun kalareissu (Hostikka). 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-28T14:55:00+02:00'
         end_time: '2025-12-28T15:00:00+02:00'

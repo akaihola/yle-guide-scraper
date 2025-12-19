@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-18T02:37:49.158704+00:00'
+  generated_at: '2025-12-19T02:39:14.673291+00:00'
   git:
     branch: main
-    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
-  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
+    commit: df8c58cd9c2c9689113656454fae94db94dec82b
+  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
 data:
   Yle Radio 1:
     programmes:
@@ -147,7 +147,7 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-19T11:57:00+02:00'
         end_time: '2025-12-19T12:00:00+02:00'
-        description: |-
+        description: |
           Ote Nimimerkki Tribonoforoksen kirjasta Vihreän pyhyyden tuho koneen aikakaudella, Aioni 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-12-19T12:00:00+02:00'
@@ -221,11 +221,11 @@ data:
           Nelson - Rollins: Kuuraparta (YL/Pasi Hyökki).
 
           Anderson: Rekiretki (Sinfonia Lahti/Osmo Vänskä).
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Parhaat 2025: Tähtäimessä susi – uhanalaisen pedon metsästys alkaa taas'
         start_time: '2025-12-19T17:00:00+02:00'
         end_time: '2025-12-19T17:20:00+02:00'
         description: |
-          Otsikoiden takana joka arkipäivä.
+          Ensi vuoden alusta lähtien uhanalaisten susien kannanhoidollinen metsästys on sallittua. Luonnonsuojelijat näkevät metsästyksen uhkaavan susikantaa, kun metsästäjien mukaan metsästysmäärän voisi olla korkeampikin. Miksi susi-keskustelu on niin polarisoitunutta, entä minkälaista vahinkoa sudet aiheuttavat? Atte Uusinokan haastattelussa on Luonnonvarakeskuksen erikoistutkija Jani Pellikka. Jakso on uusinta marraskuulta. 
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-19T17:20:00+02:00'
         end_time: '2025-12-19T17:35:00+02:00'
@@ -274,8 +274,8 @@ data:
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: 'Tuuli Saksalan keidas: Keitaan joululahjavalvojaiset'
-        start_time: '2025-12-19T22:27:00+02:00'
-        end_time: '2025-12-19T23:16:22+02:00'
+        start_time: '2025-12-19T22:30:12+02:00'
+        end_time: '2025-12-19T23:19:34+02:00'
         description: |
           Keitaan joululahjavalvojaisissa pysähdytään pohtimaan, miksi oikeastaan annamme lahjoja. Tänä iltana paketit vaihtuvat lauluiksi, ja jokainen sävel tuo mukanaan oman tarinansa. Värttinän laulussa sika ottaa hatkat joulupöydästä, Cape Verdellä vietetään joulua meren äärellä ja Mari Boine vie meidät Pohjois-Norjan maisemiin. Lisäksi kuullaan muusikko Maija Kauhasen lempijoululaulu. Toimittajana on Tuuli Saksala.
 

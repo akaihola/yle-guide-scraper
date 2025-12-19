@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-18T02:37:56.359023+00:00'
+  generated_at: '2025-12-19T02:39:22.253938+00:00'
   git:
     branch: main
-    commit: d22dc6c6b2fc959d38c38a9b58b1c5653922e1a6
-  data_hash: 03a4313773f94ea75f6e1dabe73fef106863c1ecf2a2163d18b19586082b21eb
+    commit: df8c58cd9c2c9689113656454fae94db94dec82b
+  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
 data:
   Yle Radio 1:
     programmes:
@@ -59,9 +59,15 @@ data:
         end_time: '2026-01-18T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Klassikkokuunnelmia
+      - title: Kullervo, osa 3/3
         start_time: '2026-01-18T15:00:00+02:00'
         end_time: '2026-01-18T15:35:00+02:00'
+        description: |-
+          Vanhempansa menettänyt nuorukainen Kullervo tekee töitä orjan asemassa Untamon talossa. Hänet myydään paimeneksi seppä Ilmariselle, jonka emäntä leipoo Kullervon leipään kiven. Täynnä vihaa ja katkeruutta Kullervo päätyy koston tekoihin. Kullervo kohtaa jälleen perheensä, mutta toivon sijaan matka vie kohti tuhoa. 
+
+          Aleksis Kiven Kalevalan pohjalta kirjoittamaa Kullervoa (1864) pidetään ensimmäisenä suomenkielisenä tragediana. Eero Leväluoman ohjaamassa kuunnelmassa vuodelta 1957 Kullervoa näyttelee Heikki Savolainen. 
+
+          Osa 3/3.
       - title: Musiikkikamari
         start_time: '2026-01-18T15:35:00+02:00'
         end_time: '2026-01-18T15:50:00+02:00'
