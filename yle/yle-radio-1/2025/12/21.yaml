@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:15.418615+00:00'
+  generated_at: '2025-12-21T02:44:13.332988+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -93,14 +93,14 @@ data:
         start_time: '2025-12-21T08:00:00+02:00'
         end_time: '2025-12-21T08:05:05+02:00'
       - title: Narrin aamulaulu - Joululauluja ovelta ovelle
-        start_time: '2025-12-21T08:05:35+02:00'
-        end_time: '2025-12-21T08:59:30+02:00'
-        description: |
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        start_time: '2025-12-21T08:05:38+02:00'
+        end_time: '2025-12-21T08:58:58+02:00'
+        description: |-
+          Pienoisromaanillaan A Christmas Carol (1843) (Saiturin joulu) Charles Dickens loi ”oikean joulun” mallin. Viktoriaaninen aika hurmaantui joulusta ja sen viettoon liitetyistä uusista tavoista, mutta todellisuudessa moni käytänne versoi vanhoista juurista.  Yksi tällainen perinne oli Carol Singers, sillä ainakin jo keskiaikana kaupunginvahdeista muodostettu musikanttien ryhmä kiersi joulunaikaan ovelta ovelle. Englantilaiseen jouluun kuuluvaa Carol Singers -traditiota tarkastelee Outi Paananen.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-21T09:00:00+02:00'
         end_time: '2025-12-21T09:03:05+02:00'
-      - title: Riston Valinta
+      - title: 'Riston Valinta: Joulu kajastaa jo Riston Valinnassa'
         start_time: '2025-12-21T09:03:40+02:00'
         end_time: '2025-12-21T09:52:46+02:00'
         description: |
@@ -249,17 +249,23 @@ data:
           Toimittajana Jan-Erik Holmberg. Katsaus muusikoista, joiden syntymästä vuonna 2025 tuli kuluneeksi tasavuosia – eläviä ja muistoissa eläviä, viisikymppisistä yli satavuotiaiksi. 
       - title: Jumalanpalvelus Mikkelin Helluntaiseurakunnasta
         start_time: '2025-12-21T20:00:00+02:00'
-        end_time: '2025-12-21T21:00:00+02:00'
+        end_time: '2025-12-21T20:50:14+02:00'
         description: |-
           Jumalanpalveluksen johto: Janne Blomerus. Saarnaajana pastori Toni Rautiainen. Musiikot: Ruke band ja Taivas soi. Yhteislaulut: Oi jouluyö, Mary, did you know?, Joulun toivo ja Beetlehemin yö.
+      - title: Radio 1 soi
+        start_time: '2025-12-21T20:50:14+02:00'
+        end_time: '2025-12-21T20:59:55+02:00'
+        description: |+
+          Saint-Saëns: Konserttikappale käyrätorvelle ja orkesterille (Peter Damm ja Dresdenin valtionork./Siegfried Kurz).
+
       - title: 'Uutispodcast: Oudot Suomi-kuvat leviävät somessa – Ylen verifiointitiimi selvitti miksi'
-        start_time: '2025-12-21T21:01:00+02:00'
-        end_time: '2025-12-21T21:23:45+02:00'
+        start_time: '2025-12-21T21:00:25+02:00'
+        end_time: '2025-12-21T21:23:13+02:00'
         description: |-
           Miten tekoälyllä tuotetusta fake news -sisällöstä voi päätellä, onko se totta vai ei? Entä miksi Yle on perustanut oman toimituksen tiedon verifioimista varten? Reetta Röngän vieraana Ylen toimittaja Johanna Vehkoo.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Ei niin tuttua joulumusiikkia'
-        start_time: '2025-12-21T21:24:00+02:00'
-        end_time: '2025-12-21T22:17:58+02:00'
+        start_time: '2025-12-21T21:24:12+02:00'
+        end_time: '2025-12-21T22:18:12+02:00'
         description: |
           Joulu lähestyy, ja joulumusiikki raikaa. Löytyykö suosikkilaulujen rinnalle hienoa, vaan ei niin tunnettua joulumusiikkia? Klasariparatiisi luotaa musiikkia Espanajan renessanssista nykypäivän Irlantiin.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -285,10 +291,21 @@ data:
           Johann Kuhnau: Frohlocket, Ihr Völker und Jauchzet, ihr Heiden, 1. joulupäivän kantaattista 
           (Jessica Jans, sopraano, David Erler, kontratenori, Daniel Schreiber, tenori, Florian Hartmann, basso, Karlsruhe Christuskirchen kamarikuoro ja L' Arpa Festante/ Peter Gortner).
       - title: 'Sari Valto: Oikea sukupuolirooli on elämän ja kuoleman kysymys'
-        start_time: '2025-12-21T22:19:00+02:00'
-        end_time: '2025-12-21T23:12:19+02:00'
+        start_time: '2025-12-21T22:19:03+02:00'
+        end_time: '2025-12-21T23:12:22+02:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Radio 1 soi
+        start_time: '2025-12-21T23:12:22+02:00'
+        end_time: '2025-12-21T23:19:55+02:00'
+        description: |+
+          Beethoven: Allegro oktetosta Es-duuri (Mozzafiato-puhallinyhtye/Charles Neidich).
+
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2025-12-21T23:19:55+02:00'
+        end_time: '2025-12-21T23:24:33+02:00'
+        description: |-
+          Kati Turtola haastattelee näyttelijä, kirjailija, valokuvaaja Laura Malmivaaraa. Ensilähetys oli 30.10.2025.
       - title: 'Romano mirits: Juhlat jatkuvat - Romano mirits 30 vuotta'
         start_time: '2025-12-21T23:24:33+02:00'
         end_time: '2025-12-21T23:39:03+02:00'

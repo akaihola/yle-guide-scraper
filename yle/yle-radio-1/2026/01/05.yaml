@@ -1,17 +1,12 @@
 metadata:
-  generated_at: '2025-12-19T02:39:19.482176+00:00'
+  generated_at: '2025-12-21T02:44:18.288454+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
-      - title: Luomiskertomus
-        start_time: '2026-01-02T18:35:00+02:00'
-        end_time: '2026-01-06T19:00:00+02:00'
-        description: |-
-          Vieraana suomentaja Kristiina Rikman. Hän on kääntänyt englannista Claire Keeganin novellikokoelman Aivan viime hetkellä. Toimittajana Jakke Holvas.
       - title: Yöklassinen
         start_time: '2026-01-04T23:40:00+02:00'
         end_time: '2026-01-05T06:30:00+02:00'
@@ -55,7 +50,7 @@ data:
           Hawker/Bennett: Sarah's coming home (Matt Monro).
           Cara/Gracy: On garde toujours (Marie Myriam).
           Banks: A winter's tale (Genesis). 
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sixten Korkman: Pitäisikö olla huolissaan, jos rahavalta uhkaa demokratiaa?'
         start_time: '2026-01-05T10:00:00+02:00'
         end_time: '2026-01-05T10:52:00+02:00'
         description: |-
@@ -125,8 +120,10 @@ data:
       - title: 'Uutispodcast: Parhaat 2025: Mamdani-ilmiö teki New Yorkin pormestarista ongelman demokraateille'
         start_time: '2026-01-05T17:00:00+02:00'
         end_time: '2026-01-05T17:20:00+02:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          New Yorkin uusi pormestari Zohran Mamdani on nyt sekä presidentti Trumpin että oman puolueensa päänvaiva. Näin arvioi Iida Tikka, Ylen entinen Yhdysvaltain kirjeenvaihtaja. Miten nuori muslimi ja sosialisti sai newyorkilaiset puolelleen? Miksi ilmiöksi noussut Mamdani ei kelpaa demokraattien keulakuvaksi? Haastattelijana Reetta Rönkä.
+
+          Jakso on uusinta marraskuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-05T17:20:00+02:00'
         end_time: '2026-01-05T17:35:00+02:00'
@@ -152,7 +149,7 @@ data:
       - title: Tosi tarina
         start_time: '2026-01-05T19:02:00+02:00'
         end_time: '2026-01-05T19:50:00+02:00'
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta; Helena Ranta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Helena Ranta'
         start_time: '2026-01-05T20:00:00+02:00'
         end_time: '2026-01-05T20:55:00+02:00'
         description: |+

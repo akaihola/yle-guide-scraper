@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:22.253938+00:00'
+  generated_at: '2025-12-21T02:44:21.612865+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -32,9 +32,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-01-18T09:56:00+02:00'
         end_time: '2026-01-18T09:59:00+02:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Haapajärven Kristuksen kirkastumisen kirkosta
         start_time: '2026-01-18T10:00:00+02:00'
         end_time: '2026-01-18T10:59:20+02:00'
+        description: |-
+          Liturgina ja saarnaajana kirkkoherra Kari Tiirola. Kanttorina ja urkurina Katri Syrjäniemi. Virret: 340; 325:1,4; 345; 415; 955; 958; 916.
       - title: Muistojen bulevardi
         start_time: '2026-01-18T11:00:00+02:00'
         end_time: '2026-01-18T11:59:00+02:00'
@@ -85,6 +87,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-18T16:07:00+02:00'
         end_time: '2026-01-18T17:00:00+02:00'
+        description: |
+          Arnold: Anniversary overture (BBC:n FO/Rumon Gamba).
+
+          Rossini: Beltà crudele (Cecilia Bartoli, mezzosopraano, ja Charles Spencer, piano).
+
+          Wolf-Ferrari: Intermezzo oopp. Il segreto di Susanna (Susannan salaisuus) (St. Martin-in-the-Fields -kamariork./Neville Marriner, sekä Andrew Marriner, klarinetti).
+
+          Roussel: Impromptu op.21 (Gabriella Dall'Olio, harppu).
+
+          G. Mahler: Die zwei blauen Augen (Kaksi sinistä silmää) (Kamarikuoro Kaamos/Dani Juris).
+
+          Mendelssohn: Scherzo a-molli (Emerson-kvartetti). 
+
+          Finger: Ground nokkahuilulle ja continuolle (Dorothee Oberlinger ja Ensemble 1700). 
+
+          C.P.E. Bach: La Böhmer (Dejan Lazic, piano).
+
+          W.A. Mozart: Konserttiaaria "Rivolgete a lui lo sguardo" bassolle ja orkesterille (George London ja Columbia-SO/Bruno Walter).
+
+          Kosonen: Fantasia (Yrjö Syrjälä, trumpetti, ja Pentti Koskimies, piano).
       - title: Etnokonsertteja
         start_time: '2026-01-18T17:00:00+02:00'
         end_time: '2026-01-18T18:00:00+02:00'
@@ -99,7 +121,7 @@ data:
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-01-18T19:02:30+02:00'
         end_time: '2026-01-18T20:00:00+02:00'
-      - title: Ortodoksinen jumalanpalvelus
+      - title: Ortodoksinen ehtoopalvelus Pyhän apostoli Andreaksen kirkosta Rovaniemeltä
         start_time: '2026-01-18T20:00:30+02:00'
         end_time: '2026-01-18T21:00:00+02:00'
       - title: Uutispodcast

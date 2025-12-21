@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:17.637964+00:00'
+  generated_at: '2025-12-21T02:44:16.084041+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -56,7 +56,7 @@ data:
           Seracini/D'Acquisto: L'edera (Nilla Pizzi).
           Wise/Weisman: Talven kylmät kyyneleet (Topi Sorsakoski & Agents).
           Lopez: Nunca digas (Los Solitarios). 
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta; Helena Ranta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Helena Ranta'
         start_time: '2025-12-29T10:00:00+02:00'
         end_time: '2025-12-29T10:55:00+02:00'
         description: |+
@@ -113,11 +113,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2025-12-29T16:07:00+02:00'
         end_time: '2025-12-29T16:59:00+02:00'
+        description: |
+          Murcia: Zarambeques o Muecas (Chatham Baroque). 
+
+          Espanjal. kansansäv.: El Cant dels ocells (Lintujen laulu) (Hesperion XXI/Jordi Savall).  
+
+          M. Albéniz: Sonaatti D-duuri (Alicia de Larrocha, piano).
+
+          Tshaikovski: Makeishaltijattaren ja prinssin pas de deux baletista Pähkinänsärkijä (Ruotsin radion SO/Jevgeni Svetlanov).
+
+          Fauré: Allegro vivo sonaatista n:o 1 A-duuri (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          R. Strauss: Unelmointia takan ääressä kok. Neljä sinfonista välisoittoa oopp. Intermezzo (Melbournen SO/Michael Halasz).
+
+          Pylkkänen: Pastoraali (Mikko Raasakka, klarinetti, ja Antti Vahtola, piano). 
+
+          Ravel: Alakuloisia lintuja (Pierre-Laurent Aimard, piano).
+
+          McDowall: Blow your trumpets konsertosta Seraphim (Paul Archibald, trumpetti, Charles Fullbrook, lyömäsoittimet, ja Orchestra Nova/George Vass).
+
+          Debussy: Ilotulitus (Berliinin filharmonikot/Simon Rattle). 
       - title: 'Uutispodcast: Parhaat 2025: Nämä olivat tämän vuoden tärkeimmät uutiset'
         start_time: '2025-12-29T17:00:00+02:00'
         end_time: '2025-12-29T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.Mikä oli tämän vuoden merkittävin uutinen? Kirjailija Elli Salo, koomikko Jukka Lindström ja akatemiatutkija Timo Miettinen kertovat. Juontajana Reetta Rönkä. Jakso on julkaistu alun perin keskiviikkona 17. joulukuuta 2025.
+          Mikä oli tämän vuoden merkittävin uutinen? Kirjailija Elli Salo, koomikko Jukka Lindström ja akatemiatutkija Timo Miettinen kertovat. Juontajana Reetta Rönkä. 
+
+          Jakso on uusinta joulukuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-29T17:20:00+02:00'
         end_time: '2025-12-29T17:35:00+02:00'

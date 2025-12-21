@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:20.085720+00:00'
+  generated_at: '2025-12-21T02:44:19.152241+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -38,6 +38,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-08T09:04:00+02:00'
         end_time: '2026-01-08T09:59:00+02:00'
+        description: |-
+          Goodwin/Shay/Fisher: When you're smiling (the whole world smiles with you) (Billie Holiday).
+          Lord Kitchener: Rhumba Anna (Lord Kitchener).
+          Rodgers: Luonasi jos oisin (Seija Lampila).
+          Morricone: Mon ami de toujours (Mireille Mathieu).
+          Rodgers: Edelweiss (Christopher Plummer ja Julie Andrews).
+          Darin: En enkel sång om frihet (Lars Berghagen).
+          Nascimbene: Kylmää sotaa ja rakkautta (Ritva Mustonen).
+          Jobim: Outra vez (Elizeth Cardoso).
+          Bechet: Si tu vois ma mere (Sidney Bechet).
+          Van Heusen: It could happen to you (Chet Baker).
+          Modugno: Tu si' 'na cosa grande (Domenico Modugno).
+          Gaze: Egon (Metro-tytöt).
+          Calloway: Minnie the moocher (Cab Calloway ja The Blues Brothers).
+          Salo: Galileo Galilei (Danny).
+          Monnot: Milord (Carola).
+          Barry: We have all the time in the world (Louis Armstrong).
       - title: 'Marko Gustafsson: Vieraana muusikko Tuure Kilpeläinen'
         start_time: '2026-01-08T10:00:00+02:00'
         end_time: '2026-01-08T10:53:00+02:00'
@@ -82,11 +99,11 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-08T16:07:00+02:00'
         end_time: '2026-01-08T16:59:00+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Parhaat 2025: Kirjailija Niko Hallikainen teki ilmaisen kirjan – miksi?'
         start_time: '2026-01-08T17:00:00+02:00'
         end_time: '2026-01-08T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kirjailija Niko Hallikainen julkaisi uuden romaaninsa netissä vapaasti ladattavana pdf:nä. Ilman ennakkomarkkinointia, kustantamoa tai mediamyllytystä. Miksi palkittu kirjailija julkaisee omakustanteen – ja tekee sen vielä ilmaiseksi? Reetta Röngän vieraana kirjailija Niko Hallikainen. Jakso on uusinta lokakuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-08T17:20:00+02:00'
         end_time: '2026-01-08T17:35:00+02:00'
@@ -107,13 +124,17 @@ data:
         start_time: '2026-01-08T18:50:00+02:00'
         end_time: '2026-01-08T19:00:00+02:00'
         description: |-
-          Rovasti Maaria Perälä, Laihia
+          "Kirkkauden toivo"
+          Rovasti Maaria Perälä Laihialta palaa muistoissa lapsuuden lähetysompeluseuroihin ja tuo mukanaan tärkeän opetuksen.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-08T19:00:00+02:00'
         end_time: '2026-01-08T19:02:00+02:00'
       - title: Jazzklubin viikon keikka
         start_time: '2026-01-08T19:02:00+02:00'
-        end_time: '2026-01-08T21:00:00+02:00'
+        end_time: '2026-01-08T20:00:00+02:00'
+      - title: Klassinen kattaus
+        start_time: '2026-01-08T20:00:00+02:00'
+        end_time: '2026-01-08T20:57:00+02:00'
       - title: Tiedetrippi
         start_time: '2026-01-08T21:00:00+02:00'
         end_time: '2026-01-08T21:30:00+02:00'

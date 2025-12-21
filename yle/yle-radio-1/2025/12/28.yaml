@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:17.307873+00:00'
+  generated_at: '2025-12-21T02:44:15.668369+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -168,6 +168,22 @@ data:
       - title: Jazzklubin illan keikka
         start_time: '2025-12-28T18:00:00+02:00'
         end_time: '2025-12-28T19:00:00+02:00'
+        description: |-
+          Maineikkaalla BBC Proms festivaaleilla soi kesällä 2025 myös jazz. Jazzlaulun nuori tähti Samara Joy esitteli kykyjään loppuunmyydylle Royal Albert Hall konserttisalille yhdessä kahdeksanhenkisen yhtyeensä ja Miho Hazaman johtaman BBC Concert Orchestran kanssa. Samara Joy on 26 vuoden iästään huolimatta ehtinyt voittaa jo viisi Grammy-palkintoa ja saa paljon huomiota osakseen myös sosiaalisessa mediassa. Jazzklubin keikkana kuullaan heinäkuisen konsertin toisen puoliajan parhaat kappaleet.
+
+          1. Beware My Heart (säv. Sam Cosclow)
+          2. I Got It Bad and That Ain't Good (säv. Duke Ellington)
+          3. Peace of Mind (säv. S. Joy) & Dreams Come True (säv. Sun Ra)
+          4. Left Alone (säv. Mal Waldron)
+          5. Chega de saudade (No More Blues) (säv. Antônio Carlos Jobim)
+          6. Buzz Me (säv. Louis Jordan)
+
+          Samara Joy - laulu
+          Samara Joy Octet
+          BBC Concert Orchestra
+          Miho Hazama - kapellimestari
+
+          Toimittaja: Eero Koski
       - title: Yle Uutiset ja sää
         start_time: '2025-12-28T19:00:00+02:00'
         end_time: '2025-12-28T19:02:05+02:00'
@@ -178,7 +194,7 @@ data:
           Toimittajana...
       - title: Jumalanpalvelus
         start_time: '2025-12-28T20:00:00+02:00'
-        end_time: '2025-12-28T20:54:10+02:00'
+        end_time: '2025-12-28T20:54:08+02:00'
         description: |-
           Liturgina pastori Elisa Brander, Kuopion metodistiseurakunta. Saarnaajana isä Donbosco Thomas, Kuopion Pyhän Joosefin katolinen seurakunta. Kanttorina Mari Vainikainen, Kuopion ortodoksinen seurakunta.
       - title: Uutispodcast

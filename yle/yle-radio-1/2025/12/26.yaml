@@ -1,17 +1,80 @@
 metadata:
-  generated_at: '2025-12-19T02:39:16.756799+00:00'
+  generated_at: '2025-12-21T02:44:15.026529+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-25T22:55:00+02:00'
         end_time: '2025-12-26T08:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Melartin. Oi kuin selvään soipi meille (Radion nuorisokuoro/Heinz Hoffman).
+
+          22:58 Scheidemann: Vom Himmel hoch, da komm ich her (Enkeli taivaan) (Kari Vuola, Naantalin kirkon urut).
+
+          23:04 Marvia: Joulun taika (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          23:07 Tuntematon: Joulusinfonia (Varsovan kamariork./Marek Sewen).
+
+          23:15 Madetoja: Nuorison lauluja op.20/B (Gabriel Suovanen, baritoni, ja Gustav Djupsjöbacka, piano).
+
+          23:28 Rathbone: The Oxen (Härkä) (The Gesualdo Six/Owain Park).
+
+          23:32 Vivaldi: Konsertto D-duuri op.59 (Anna Torge, mandoliini, ja Concerto Köln).
+
+          23:42 Sibelius: Carminalia (Tapiolan Kamarikuoro, Sibeliuksen ystävät ja Tapiolan kuoro/Hannu Norjanen).
+
+          23:49 Kansansäv. (sov. Ochs): Tule lentäen lintu, muunnelmia saksalaisesta kansanlaulusta eri säveltäjien tyyliin (Berliinin valtionoopperan ork./Richard Müller-Lampertz).
+
+          00:01 Praetorius: Magnificat: Meine Seel erhebt den Herren (Minun sieluni suuresti ylistää Herraa) (La Capella Ducale ja Musica Fiata/Roland Wilson).
+
+          00:20 J.S. Bach: Orgelbüchlein (Olli Porthan, urut).
+
+          01:41 Anonyymi, Böömi: Kristuksen syntymäjuhlan messu (Tiburtina Ensemble/Barbora Kabátková).
+
+          02:42 Weiner: Prinz Csongor und die Kobolde (Chicagon SO/Georg Solti). 
+
+          02:54 Agricola: Die Hirten bei der Krippe (Paimenet seimen äärellä) (Berit Solset, sopraano, Myriam Arbouz, altto, Nicholas Mulroy, tenori, ja Matthias Vieweg, basso, sekä Die Kölner Akademie/Michael Willens).
+
+          03:25 Rimski-Korsakov: Sarja oopp. Jouluyö (Malesian FO/Kees Bakels).
+
+          Händel (sov. T. Kuusisto): Tytär Siion, riemuitse (Anita Välkki, sopraano, ja Marja Oja, piano).
+
+          03:56 Irlantil. kansansäv.: Good people all (Marsha Genensky, laulu ja Andrew Lawrence-King, irlantilainen harppu).
+
+          04:03 New Yorkin FO ja Mormonien tabernaakkelikuoro esittävät vanhoja joululauluja.
+
+          04:55 Reinecke: Sonatiini pianolle G-duuri (Joulusonatiini) (Risto Lauriala ja Pentti Kotiranta, piano).
+
+          05:03 O. Merikanto (sov. Grans): Joulukuusi (Hannu Jurmu, tenori, ja Lohjan ko/Juha Nikkola).
+
+          05:09 Vejvanovský: Sonaatti C-duuri (Joulusonaatti) (Concerto Köln).
+
+          05:15 Joulumusiikkia Italian luostareista 1500- ja 1600-luvuilta (Cappella Artemisia/Candace Smith).
+
+          06:37 Ljadov: Kahdeksan kansanlaulua (Venäjän FO/Samuel Friedmann).
+
+          06:52 Praetorius (sov. Aho): Vom Himmel hoch da komm ich her (Enkeli taivaan) (Sinfonia Lahti/Osmo Vänskä, ja Pauli Pietiläinen, urut).
+
+          06:59 Merula: Canzonetta spirituale sopra la nanna (Midori Suzuki, sopraano, ja Anthonello/Yoshimichi Hamada).
+
+          07:10 Raison: Ou s'en vont ces gais bergers (Kati Hämäläinen, urut).
+
+          07:20 Humperdinck: Viisi joululaulua (Olaf Bär, baritoni, ja Helmut Deutsch, piano).
+
+          07:33 Palestrina: O magnum mysterium (Oi suuri mysteeri) (Lumen Valo).
+
+          07:40 Sehling: Deponite metum (Meidän Herramme syntymän motetti) (Hana Blaziková, sopraano, Marta Fadljevicová, altto, Václav Cizek, tenori, ja Tomás Král, baritoni, sekä Collegium Marianum/Jana Semerádová, traverso).
+
+          07:48 Kuula: Sanaton laulu (Arto Noras, sello, ja RSO/Jorma Panula).
+
+          07:52 Melartin: Kristuslapsen kehtolaulu (Jaakko Kortekangas, baritoni ja Ilkka Paananen, piano).
+
+          07:57 Palmgren: Rauhanruhtinas (Candomino/Esko Kallio). 
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-26T08:00:00+02:00'
         end_time: '2025-12-26T08:05:00+02:00'
@@ -112,12 +175,12 @@ data:
         end_time: '2025-12-26T13:50:00+02:00'
         description: |-
           Taitelijan joulusaarnassa Antti Holma pohtii mitä taide on.
-      - title: Kielen päällä
+      - title: 'Kielen päällä: jouluruokafraaseja'
         start_time: '2025-12-26T13:50:00+02:00'
         end_time: '2025-12-26T14:00:00+02:00'
         description: |
           Joulupöytään liittyvistä tarveaineista ja antimista on runsaasti erilaisia sanontoja ja fraaseja. Riitta Hyvärinen ja Jari Aula herkuttelevat joulun jälkimainingeissa.
-      - title: 'Joulukonsertti: Emma Salokoski ensemble'
+      - title: 'Joulukonsertti: Emma Salokoski & Ilmiliekki Quartet'
         start_time: '2025-12-26T14:00:00+02:00'
         end_time: '2025-12-26T14:55:00+02:00'
       - title: Yksi on hyvää seuraa
@@ -211,23 +274,68 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-26T21:00:00+02:00'
         end_time: '2025-12-26T21:05:00+02:00'
+        description: |-
+          Kansansäv. (Ruotsi): Porsaita äidin oomme kaikki (Mimmit). 
+
+          Grans: Respolska (Lohjan kaupunginork./Juha Nikkola).  
       - title: 'Maailman tärkein pieni asia: Tommi Kinnusella on kirvesmiehen sielu'
         start_time: '2025-12-26T21:05:00+02:00'
-        end_time: '2025-12-26T21:25:00+02:00'
+        end_time: '2025-12-26T21:21:18+02:00'
         description: |-
           Opettaja, kirjailija Tommi Kinnunen sanoo olevansa liian suurpiirteinen puusepäksi, mutta kirvesmieheen hän pystyy samaistumaan. Semmoiset hommat sopivat, missä parin sentin mittavirhe ei ole kohtalokas, Kinnunen luonnehtii. Näyttöjä näppäryydestä löytyy, sillä Kinnunen asuu itseremontoidussa vanhassa puutalossa Turussa. Lisää työmaata löytyy mökiltä, missä korjattavaa riittää vielä pitkään. Maija Salminen juttelee Tommi Kinnusen kanssa perheen tunnelmallisessa ruokasalissa.
-      - title: Tuuli Saksalan keidas
-        start_time: '2025-12-26T21:35:00+02:00'
-        end_time: '2025-12-26T22:25:00+02:00'
+      - title: 'Tuuli Saksalan keidas: Valoa, mausteita ja musiikkia – Keitaan joulu'
+        start_time: '2025-12-26T21:30:00+02:00'
+        end_time: '2025-12-26T22:19:18+02:00'
         description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Taiteilijatapaaminen: Johanna Rusanen-Kartano ja Ville Rusanen: olemme ylpeitä toisistamme'
         start_time: '2025-12-26T22:26:00+02:00'
-        end_time: '2025-12-26T23:20:00+02:00'
+        end_time: '2025-12-26T23:19:18+02:00'
         description: |
           Taitelijatapaamisessa vieraana ovat oopperalaulajat Johanna Rusanen-Kartano ja Ville Rusanen. Sisarukset muistelevat lapsuuttaan ja lapsuuden jouluja, kertovat miten tukevat ja seuraavat toistensa taiteilijuutta sekä pohtivat uriensa kohokohtia. Toimittajana on Maija Salminen.
+      - title: 'Taiteilijan joulusaarna: Saarnaajana Antti Holma'
+        start_time: '2025-12-26T23:19:50+02:00'
+        end_time: '2025-12-26T23:38:56+02:00'
+        description: |-
+          Taitelijan joulusaarnassa Antti Holma pohtii mitä taide on.
       - title: Yöklassinen
         start_time: '2025-12-26T23:40:00+02:00'
         end_time: '2025-12-27T07:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Waldteufel: Luistelijat (Monte Carlon FO/Willi Boskovsky).
+
+          23:49 C.P.E. Bach: Triosonaatti D-duuri (Merlin-yhtye).
+
+          00:04 Beethoven: König Stephan, näytelmämusiikkia (Claus Obalski, Roland Astor, Ernst Oder ja Angela Eberlein, puhe, sekä Key Ensemble ja Turun FO/Leif Segerstam).
+
+          00:44 Byrd: Lullaby, my sweet little baby (Kehtolaulu) (Geraldine McGreevy, sopraano, ja Phantasm).
+
+          00:57 Locatelli: Concerto grosso f-molli (Joulukonsertto) (I Musici).
+
+          01:19 Pfitzner: Das Christ-Elflein, satuooppera (Helen Donath, sopraano, Janet Perry, sopraano, Alexander Malta, basso, Nikolaus Hillebrand, bassobaritoni ja Paul Hansen, tenori, ym. sekä Baijerin radion kuoro ja Münchenin radio-ork./Kurt Eichhorn).
+
+          03:01 Lasso: Cum natus esset Iesus (Kun Jeesus oli syntynyt) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          03:12 Arenski: Muunnelmia Tshaikovskin teemasta (Eremitaasin teatterin kamariork./Saulius Sondeckis).
+
+          03:26 Mielck: Altböhmisches Weihnachtslied (Vanha böömiläinen joululaulu) (Akademiska Sångföreningen, Akademiska Damkören Lyran, Kampin Laulu ja Ylioppilaskunnan Soittajat/Mikk Murdvee).
+
+          03:37 Tuntematon 1500-luvun Espanjasta: Valencian Sibylla (Montserrat Figueras, sopraano, Xavier Diaz, luuttu, Luca Guglielmi, urut, ja La Cappella Reial de Catalunya/Jordi Savall).
+
+          04:03 Rossini: Neljät kuivatut hedelmät kokoelmasta Vanhuuden syntejä (Marco Sollini, piano).
+
+          04:23 Nowowiejski: Joulu Krakovan Mariankirkossa (Waclaw Golonka, urut).
+
+          04:31 Warlock: Bethlehem down (Voces8).
+
+          04:37 Händel: Juudas Makkabealainen, oratorio (Guy de Mey, Lisa Schaffer, Patricia Spence, David Thomas, Brian Asawa ja Leroy Kromm sekä Kalifornian yliopiston kamarikuoro ja Philharmonia barokkiork./Nicholas McGegan)
+
+          07:20 Madetoja: Julens budskap (Joulun viesti). (Vantaan Kamarikuoro/Toivo Korhonen).
+
+          07:20 Barrios: Joululaulu (Alexander-Sergei Ramirez, kitara).
+
+          07:24 Sonninen: Jouluhymni (RKK/Timo Nuoranne).
+
+          07:26 M-A. Charpentier: Or nous dites, Marie (The English Concert/Trevor Pinnock).
+
+...

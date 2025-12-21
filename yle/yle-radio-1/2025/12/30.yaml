@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:17.848311+00:00'
+  generated_at: '2025-12-21T02:44:16.345863+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -66,11 +66,17 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-30T10:55:00+02:00'
         end_time: '2025-12-30T11:00:00+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Chopin matkaa Mallorcalle ja säveltää lastuja'
         start_time: '2025-12-30T11:00:00+02:00'
         end_time: '2025-12-30T11:57:00+02:00'
-        description: |-
+        description: |
+          "Taivas on turkoosi, meri lapis lazulia, vuoret smaragdeja, ilma kuin taivaassa. Lyhyesti, elämä on ihanaa!" Frederic Chopin ja kirjailija George Sand matkustivat vuonna 1838 Mallorcalle talvenviettoon. Hyvin alkanut matka muuttui koleaksi sairaskertomukseksi. Tästä huolimatta Chopin sävelsi sarjan pianopreludeja. Preludit ovat kuin tiivistyneitä tunnetiloja, virtuoosisia pyrähdyksiä, hienovireisiä lastuja.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikki:
+
+          Frederic Chopin: 24 preludia op.28 (Martha Argerich, piano).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-30T11:57:00+02:00'
         end_time: '2025-12-30T12:00:00+02:00'
@@ -106,7 +112,7 @@ data:
         start_time: '2025-12-30T15:00:00+02:00'
         end_time: '2025-12-30T15:55:00+02:00'
         description: |
-          Laura Voutilaiselle ja Karoliina Kanteliselle yhteistä on suuri ilo siitä, kun huomaa musiikkinsa koskettavan kuuntelijaa. Muusikot ovat Taiteilijatapaamisessa Maija Salmisen vieraina. 
+          Laura Voutilaiselle ja Karoliina Kanteliselle yhteistä on suuri ilo siitä, että huomaa musiikkinsa koskettavan kuuntelijaa. Muusikot ovat Taiteilijatapaamisessa Maija Salmisen vieraina. 
       - title: Yle News
         start_time: '2025-12-30T15:55:00+02:00'
         end_time: '2025-12-30T15:58:00+02:00'
@@ -142,10 +148,33 @@ data:
         start_time: '2025-12-30T17:00:00+02:00'
         end_time: '2025-12-30T17:20:00+02:00'
         description: |-
-          Lämmintä merivettä Atlantilta kuljettava AMOC-kiertoliike hidastuu tai voi jopa romahtaa tällä vuosisadalla, kertovat tuoreimmat tutkimukset. Tämä tarkoittaisi Suomeen kylmempää eikä lämpimämpää ilmastoa. Miten Suomi muuttuisi? Reetta Röngän vieraana Petteri Uotila, Helsingin yliopiston ilmakehätieteiden keskuksen professori. Jakso on uusinta torstailta 6. marraskuuta 2025.
+          Lämmintä merivettä Atlantilta kuljettava AMOC-kiertoliike hidastuu tai voi jopa romahtaa tällä vuosisadalla, kertovat tuoreimmat tutkimukset. Tämä tarkoittaisi Suomeen kylmempää eikä lämpimämpää ilmastoa. Miten Suomi muuttuisi? Reetta Röngän vieraana Petteri Uotila, Helsingin yliopiston ilmakehätieteiden keskuksen professori. 
+
+          Jakso on uusinta marraskuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-30T17:20:00+02:00'
         end_time: '2025-12-30T17:35:00+02:00'
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2025-12-30T17:35:00+02:00'
+        end_time: '2025-12-30T18:30:00+02:00'
+        description: |
+          Oonko löytänyt sen mitä elämiseen kuuluu? Miten oppisi ymmärtämään omaa kehoa? Mitä Jarkko Martikainen tekisi?
+          Ihmiselossa riittää haasteita ja siksi tarvitaan idoleita, hahmoja joihin heijastaa ihanteita. Mutta miten se idoli itse pärjää, ei varmaan ole helppoa olla Mirella tai Dingo?
+
+          Ihmisyyttä pohditaan Kissankehdossa popmusiikin säestyksellä ja kissankakkaa siivotessa
+
+          (ohjelma on uusinta tammikuulta 2025)
+
+          Nikita Titov: Tuhat vuotta
+          Ella Fitzgerald & Paul Weston Orchestra: Get thee behind me Satan
+          The Weather Station: Body moves
+          The XX: Say something loving
+          Satu Lii: Tää on taistelua
+          Jarkko Martikainen: Tämä vaikea elämä
+          Dingo: Kirjoitan
+          Jori Hulkkonen: Ihasama
+          Tami Neilson: Any fool with a heart
+          Viitasen Piia: Piritorin kuningas
       - title: Hartaita säveliä
         start_time: '2025-12-30T18:35:00+02:00'
         end_time: '2025-12-30T18:50:00+02:00'
@@ -160,7 +189,7 @@ data:
         end_time: '2025-12-30T19:02:00+02:00'
       - title: 'Uudenvuoden kellot: Vuorovesi nousee'
         start_time: '2025-12-30T19:02:00+02:00'
-        end_time: '2025-12-30T19:45:00+02:00'
+        end_time: '2025-12-30T19:37:00+02:00'
         description: |-
           Osa 4/4. Trotty Veck on iäkäs lähetti, joka odottaa töitä kirkon portailla. Kirkon, jonka kellot ovat vuosia kannustaneet ja rohkaisseet häntä. Tänä uudenvuodenaattona Trotty Veck on erityisen surullinen: köyhän työväenluokan tulevaisuus ei näytä valoisalta, onko heillä enää edes oikeutta olemassaoloon? Veck alkaa uskoa itsekin, että köyhät ovat pahoja eivätkä he voi muuksi muuttua – ja silloin kellot alkavat puhutella häntä.
           Charles Dickens (1812-1870) oli merkittävä englantilainen romaanikirjailija, jonka teoksissa korostuu vahva poliittinen, sosiaalinen ja moraalinen viesti sekä lämmin huumori ja sydämellisyys. Hänen kirjallinen perintönsä eli havainnot yhteiskunnan epäkohdista ja eriarvoisuudesta ovat edelleen yllättävän ajankohtaisia nykyajassamme. Uudenvuoden kellot (eng. Chimes, 1844) on tarina kirkonkelloista, jotka soittavat vanhan vuoden loppua ja uuden vuoden alkua – auttamalla huonompiosaisia uutena vuotena, on alkava vuosi kaikille onnellisempi. Teos ilmestyi seuraavana jouluna tunnetun Saiturin joulu -kertomuksen jälkeen ja on yksi viidestä Dickensin joulutarinoiden sarjassa.
@@ -173,6 +202,9 @@ data:
           Rooleissa: Marja Packalén, Antti Jaakola, Talvikki Eerola, Karlo Haapiainen, Hannu-Pekka Björkman, Jouko Puolanto, Taisto Oksanen, Leena Uotila, Tuomas Uusitalo, Lauri Tanskanen, Vilma Tanskanen, Minna Kivelä, Anna-Sofia Tuominen.
           Tuotanto: Laura Jaakkola
           Tilaaja: Matti Kajander, Yle Draama 2025.
+      - title: Musiikkikamari
+        start_time: '2025-12-30T19:37:00+02:00'
+        end_time: '2025-12-30T20:00:00+02:00'
       - title: 'Maailman tärkein pieni asia: Tommi Kinnusella on kirvesmiehen sielu'
         start_time: '2025-12-30T20:00:00+02:00'
         end_time: '2025-12-30T20:20:00+02:00'
@@ -183,6 +215,9 @@ data:
         end_time: '2025-12-30T20:35:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
+      - title: Musiikkikamari
+        start_time: '2025-12-30T20:35:00+02:00'
+        end_time: '2025-12-30T21:05:00+02:00'
       - title: 'Tiedetrippi: Todelliset manaajat'
         start_time: '2025-12-30T21:05:00+02:00'
         end_time: '2025-12-30T21:29:30+02:00'

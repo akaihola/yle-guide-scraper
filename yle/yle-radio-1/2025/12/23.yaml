@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:16.002782+00:00'
+  generated_at: '2025-12-21T02:44:13.984432+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -61,7 +61,7 @@ data:
 
           Tuntematon: Valmistu, Herran kansa (virsi 7) (RKK/Timo Nuoranne, Harri Viitanen, urut, ja Mika Suihkonen, barokkisello).
 
-          Kuusisto (sov.): Ilon päivä verraton (virsi 17) (Psallamus-kuoro/Ilmo Riihimäki).
+          Gruber: Jouluyö, juhlayö (Henna Nieminen ja Janne-Tapani Simola Saarenketo, laulu, Jukka Perko, saksofoni, ja yhtye).
 
           Schütz: Mun lunastuksein lähenee (Ranuan kristillisen kansanopiston kuoro/Arto Heikkilä).
 
@@ -143,6 +143,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-23T11:57:00+02:00'
         end_time: '2025-12-23T12:00:00+02:00'
+        description: |
+          Tua Forsströmin runo Lumi pyryää Tenholan kirkkomaalla, kokoelmasta Lumileopardi; Puistot; kaksi runoelmaa. Suomentanut Caj Westerberg.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-23T12:00:00+02:00'
         end_time: '2025-12-23T12:05:00+02:00'
@@ -215,7 +217,9 @@ data:
         start_time: '2025-12-23T17:00:00+02:00'
         end_time: '2025-12-23T17:20:00+02:00'
         description: |-
-          Maailma on täynnä tarinoita ja tekstejä, jotka eivät pääse esille. Voiko huonosti koulussa menestynyt olla kirjallisesti lahjakas? Entä minkälaista kirjallista lahjakkuutta yhteiskuntamme ei arvosta? Atte Uusinoka haastattelee vankiloissakin opettanutta tekstitaidon opettajaa Aleksis Salusjärveä. Jakso on uusinta ja julkaistu alunperin 15. syyskuuta 2025.
+          Maailma on täynnä tarinoita ja tekstejä, jotka eivät pääse esille. Voiko huonosti koulussa menestynyt olla kirjallisesti lahjakas? Entä minkälaista kirjallista lahjakkuutta yhteiskuntamme ei arvosta? Atte Uusinoka haastattelee vankiloissakin opettanutta tekstitaidon opettajaa Aleksis Salusjärveä. 
+
+          Jakso on uusinta syyskuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-23T17:20:00+02:00'
         end_time: '2025-12-23T17:35:00+02:00'
@@ -248,9 +252,11 @@ data:
 
           Kansansävelmä: Heinillä härkien kaukalon (Lauluyhtye Kuvaja).
 
+          Maasalo: Joulun kellot (Anita Välkki, sopraano, ja Marja Oja, piano).
+
           Poulenc: Videntes stellam (Kun itämaan tietäjät näkivät tähden) (The Sixteen/Harry Christophers).
 
-          Maasalo: Joulun kellot (Anita Välkki, sopraano, ja Marja Oja, piano).
+
 
       - title: Iltahartaus
         start_time: '2025-12-23T18:50:00+02:00'

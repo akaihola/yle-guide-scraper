@@ -1,17 +1,52 @@
 metadata:
-  generated_at: '2025-12-19T02:39:17.102992+00:00'
+  generated_at: '2025-12-21T02:44:15.426088+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-26T23:40:00+02:00'
         end_time: '2025-12-27T07:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Waldteufel: Luistelijat (Monte Carlon FO/Willi Boskovsky).
+
+          23:49 C.P.E. Bach: Triosonaatti D-duuri (Merlin-yhtye).
+
+          00:04 Beethoven: König Stephan, näytelmämusiikkia (Claus Obalski, Roland Astor, Ernst Oder ja Angela Eberlein, puhe, sekä Key Ensemble ja Turun FO/Leif Segerstam).
+
+          00:44 Byrd: Lullaby, my sweet little baby (Kehtolaulu) (Geraldine McGreevy, sopraano, ja Phantasm).
+
+          00:57 Locatelli: Concerto grosso f-molli (Joulukonsertto) (I Musici).
+
+          01:19 Pfitzner: Das Christ-Elflein, satuooppera (Helen Donath, sopraano, Janet Perry, sopraano, Alexander Malta, basso, Nikolaus Hillebrand, bassobaritoni ja Paul Hansen, tenori, ym. sekä Baijerin radion kuoro ja Münchenin radio-ork./Kurt Eichhorn).
+
+          03:01 Lasso: Cum natus esset Iesus (Kun Jeesus oli syntynyt) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          03:12 Arenski: Muunnelmia Tshaikovskin teemasta (Eremitaasin teatterin kamariork./Saulius Sondeckis).
+
+          03:26 Mielck: Altböhmisches Weihnachtslied (Vanha böömiläinen joululaulu) (Akademiska Sångföreningen, Akademiska Damkören Lyran, Kampin Laulu ja Ylioppilaskunnan Soittajat/Mikk Murdvee).
+
+          03:37 Tuntematon 1500-luvun Espanjasta: Valencian Sibylla (Montserrat Figueras, sopraano, Xavier Diaz, luuttu, Luca Guglielmi, urut, ja La Cappella Reial de Catalunya/Jordi Savall).
+
+          04:03 Rossini: Neljät kuivatut hedelmät kokoelmasta Vanhuuden syntejä (Marco Sollini, piano).
+
+          04:23 Nowowiejski: Joulu Krakovan Mariankirkossa (Waclaw Golonka, urut).
+
+          04:31 Warlock: Bethlehem down (Voces8).
+
+          04:37 Händel: Juudas Makkabealainen, oratorio (Guy de Mey, Lisa Schaffer, Patricia Spence, David Thomas, Brian Asawa ja Leroy Kromm sekä Kalifornian yliopiston kamarikuoro ja Philharmonia barokkiork./Nicholas McGegan)
+
+          07:20 Madetoja: Julens budskap (Joulun viesti). (Vantaan Kamarikuoro/Toivo Korhonen).
+
+          07:20 Barrios: Joululaulu (Alexander-Sergei Ramirez, kitara).
+
+          07:24 Sonninen: Jouluhymni (RKK/Timo Nuoranne).
+
+          07:26 M-A. Charpentier: Or nous dites, Marie (The English Concert/Trevor Pinnock).
+
       - title: 'Luomiskertomus: Riikka-Maria Rosenberg - Amelie'
         start_time: '2025-12-27T07:30:47+02:00'
         end_time: '2025-12-27T07:51:35+02:00'
@@ -76,10 +111,12 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-27T11:57:00+02:00'
         end_time: '2025-12-27T12:00:00+02:00'
+        description: |
+          Mirkka Rekolan runo Vuodenajat kääntyivät ohi. Kokoelmasta Minä rakastan sinua, minä sanon sen kaikille.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-27T12:00:00+02:00'
         end_time: '2025-12-27T12:05:00+02:00'
-      - title: Maailma tarinoina; Klassikkoelokuva Ihmeellinen on elämä saa pohtimaan Spinozan filosofiaa
+      - title: 'Maailma tarinoina: Klassikkoelokuva Ihmeellinen on elämä saa pohtimaan Spinozan filosofiaa'
         start_time: '2025-12-27T12:05:00+02:00'
         end_time: '2025-12-27T13:00:00+02:00'
         description: |
@@ -98,8 +135,8 @@ data:
         end_time: '2025-12-27T14:36:00+02:00'
         description: |-
           Kuinka kannatella kuolevaa, jolla ei ole muistia? Muistisairaan läheisen menettäminen saattaa alkaa jo silloin, kun hän vielä elää ja muistisairaus päättää viedä hänestä palan kerrallaan. Lähestyvän kuoleman äärellä tarvittavat asiat ovat yksinkertaisia: kivuttomuus, kosketus, katse ja turvallinen ääni. Dokumentin on käsikirjoittanut ja toimittanut Tuula Rajavaara.
-      - title: Yksi on hyvää seuraa
-        start_time: '2025-12-27T14:50:00+02:00'
+      - title: Musiikkikamari
+        start_time: '2025-12-27T14:36:00+02:00'
         end_time: '2025-12-27T15:00:00+02:00'
       - title: Puutarhakaupungin murhamysteerit, Jouluerikoinen
         start_time: '2025-12-27T15:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-19T02:39:20.286182+00:00'
+  generated_at: '2025-12-21T02:44:19.424697+00:00'
   git:
     branch: main
-    commit: df8c58cd9c2c9689113656454fae94db94dec82b
-  data_hash: 46c503bc285c3a20b2844d4b120667937a08a76a4dd6322829c0dbaf213ef473
+    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
+  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
 data:
   Yle Radio 1:
     programmes:
@@ -47,12 +47,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-09T10:55:00+02:00'
         end_time: '2026-01-09T11:00:00+02:00'
-      - title: Narrin aamulaulu - Senesino ja muita Händelin kultakurkkuja
+      - title: Narrin aamulaulu - Poimintoja poikkitaiteilija Aapo Similän (1891 - 1972) elämästä. Osa 1/2.
         start_time: '2026-01-09T11:00:00+02:00'
         end_time: '2026-01-09T11:55:00+02:00'
         description: |
-          Kastraattilaulajien kohtalo on musiikinhistorian surullisimpia lukuja. 1730-luvulla Italiassa kastroitiin noin 4000 poikalasta. Toimenpiteen tarkoituksena oli estää äänenmurros ja säilyttää aikuisella poikamainen "enkeliääni". Enemmistö kastraation kokeneista päätyi sosiaalisiksi hylkiöiksi, joistain tuli kirkkolaulajia ja vain hyvin harvoista oopperalavojen kuuluisuuksia. Yksi maineikkaimmista oli Senesino, oikealta nimeltään Francesco Bernardi (1686-1759), monien Händelin oopperoiden tähti. 
-          Outi Paananen tutkailee taiteilijaelämää ja penkoo levyhyllyjä.
+          Aapo Similä oli taiteen ja viihteen moniottelija: Brondan boheemi, laulaja, säveltäjä, kanteleensoittaja, näyttelijä, kirjailija, debatööri, pamfletisti sekä teatterin-, kuoron- ja orkesterinjohtaja. Ohjelmassa kuullaan katkelmia radio-ohjelmista sekä tietysti Aapo Similän musiikkia. Haastateltavana on hänen poikansa, toimittaja Juhani Similä.
+          Toimittajana Outi Paananen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-09T11:55:00+02:00'
         end_time: '2026-01-09T11:57:00+02:00'
@@ -89,11 +89,35 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-09T16:07:00+02:00'
         end_time: '2026-01-09T16:59:00+02:00'
-      - title: Uutispodcast
+        description: |-
+          Tshaikovski: Kukkasvalssi bal. Pähkinänsärkijä (New Yorkin FO/Kurt Masur).
+
+          Elgar: Korallien maa sarj. Merikuvia (Lilli Paasikivi, mezzosopraano, ja RSO/Sakari Oramo).
+
+          Albéniz: Mallorca (Santiago Rodriguez, piano).
+
+          Marvia: Kuulutusmatka (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Smyth: Adagio con molto kvintetosta jousille E-duuri (Mannheimin jousikvartetti).
+
+          Paganini: Duo merveille (Ruggiero Ricci, viulu). 
+
+          Ketelbey: Bells across the meadows (Kellot soivat yli vainioiden) (Lontoon kuninkaallinen FO/Barry Wordsworth).
+
+          Kansansäv. (sov. Tullberg): Kristallen den fina (YL/Matti Hyökki).
+
+          Faure: In paradisum (Luminos ja Aboa Nova Ensemble/Erkki Lasonpalo, sekä Markku Hietaharju, urut).
+
+          Saint-Saëns: Finaali sinf. n:o 3 c-molli (Urkusinfonia) (Joseph Adam  ja Seattlen SO/Ludovic Morlot).
+
+          Whittall: Lauantaisauna (Sibelius-Akatemian Vokaaliyhtye/Nils Schweckendiek).
+      - title: 'Uutispodcast: Parhaat 2025: Miksi lukemista alettiin vihata? '
         start_time: '2026-01-09T17:00:00+02:00'
         end_time: '2026-01-09T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Juova hyvien ja huonojen lukijoiden välillä on kasvanut yhä suuremmaksi. Miten lukeminen ja lukemattomuus vaikuttavat yhteiskuntaamme ja mitä tälle tulisi tehdä? Entä miksi jotkut kokevat jopa suoranaista vihaa kirjallisuutta ja lukemista kohtaan? Atte Uusinokan haastateltavana on sosiologian dosentti Riie Heikkilä Tampereen yliopistosta.
+
+          Jakso on uusinta syyskuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-09T17:20:00+02:00'
         end_time: '2026-01-09T17:35:00+02:00'
