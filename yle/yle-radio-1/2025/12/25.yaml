@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2025-12-21T02:44:14.770093+00:00'
+  generated_at: '2025-12-23T02:40:45.407075+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-24T22:40:00+02:00'
-        end_time: '2025-12-25T06:30:00+02:00'
-        description: |+
+        end_time: '2025-12-25T07:55:00+02:00'
+        description: |
           Pohjanmies: Tule rakkaus ihmisrintaan (Jorma Hynninen, baritoni, ja Tauno Äikää, urut).
 
           22:42 Manfredini: Joulukonsertto (I Musici).
@@ -85,6 +85,9 @@ data:
 
           06:19 Tartini: Pastoraali A-duuri (Trio Settecento). 
 
+          06:30 Joulumusiikkia keskiajan Unkarista (Vokaaliyhtye Anonymous 4).
+
+          07:39 Händel: Triosonaatti G-duuri op.5/4 (The English Concert/Trevor Pinnock, cembalo).
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2025-12-25T07:56:00+02:00'
         end_time: '2025-12-25T07:59:00+02:00'
@@ -226,31 +229,15 @@ data:
         start_time: '2025-12-25T18:00:00+02:00'
         end_time: '2025-12-25T19:00:00+02:00'
         description: |-
-          Juontajana pastori Jukka Tuppurainen. Kanttorina ja urkurina Anssi Pyykkönen. Yhteislaulut: Arkihuolesi kaikki heitä, En etsi valtaa loistoa, On hanget korkeat nietokset, Joulupuu on rakennettu, Ensimmäinen joulu, Hän seimessä nukkuu ja Enkellaulu kajahtaa.
+          Juontajana pastori Jukka Tuppurainen. Kanttorina ja urkurina Anssi Pyykkönen. Yhteislaulut: Arkihuolesi kaikki heitä, En etsi valtaa loistoa, On hanget korkeat nietokset, Joulupuu on rakennettu, Ensimmäinen joulu, Hän seimessä nukkuu ja Enkellaulu kajahtaa, Varpunen jouluaamuna
       - title: Yle Uutiset ja sää
         start_time: '2025-12-25T19:00:00+02:00'
         end_time: '2025-12-25T19:02:00+02:00'
-      - title: 'Suomalainen Barokkiorkesteri & Ranskalainen jouluyö '
+      - title: 'Suomalainen barokkiorkesteri & Ranskalainen jouluyö '
         start_time: '2025-12-25T19:02:00+02:00'
-        end_time: '2025-12-25T21:00:00+02:00'
-        description: |-
-          Suomalainen barokkiorkesteri jatkaa suosittujen joulukonserttien sarjaa nyt ranskalaisella musiikilla. Jouluisen ohjelmiston keskiössä on Marc-Antoine Charpentier'n Messe de minuit pour Noël (1694), jouluyön messu.
-
-          Charpentier'n messussa eivät soi säihkyvät trumpetit, vaan huilujen ja gambojen yöllinen herkkyys. Moniääniset kuorot, pienryhmien solistiset jaksot ja ihastuttavat soitinnumerot esittelevät säveltäjän pettämätöntä retoriikan tuntemusta. Ranskalaisen joulun ytimeen vievät melodiat, jotka on lainattu tunnetuista joululauluista.
-          Charpentier'n motetit kutsuvat unohtamaan arjen taakat ja käymään yhteiseen pöytään. Myös valikoima hänen joulumusiikkiaan soittimille sekä lauletut gregoriaaniset sävelmät rytmittävät konsertin kulkua. 
-
-          Esiintyjät:
-          Marc Mauillon, taille ja laulajien valmennus
-          Tuuli Lindeberg ja Olivia Moss, dessus
-          Katariina Heikkilä ja Teppo Lampela, haute-contre
-          Aarne Mansikka, taille
-          Juhana Kotilainen ja Jussi Lehtipuu, basse-taille
-          Marianna Henriksson, cembalo, urut ja liidaus
-          Suomalainen barokkiorkesteri
-
-          21.12.2025 Helsingissä Ritarihuoneella tallennetun konsertin toimittaa Noora Hirn. Äänisuunnittelijana Anna-Kaisa Kemppi, äänitarkkailijana Jari Rantakaulio.
-
-          Kuva: ©Akifoto
+        end_time: '2025-12-25T20:30:00+02:00'
+        description: |
+          Suomalaisen barokkiorkesterin konsertissa soi harvoin kuultua jouluista ranskalaista barokkimusiikkia, kuten Marc-Antoine Charpentier'n Jouluyön messu. Ritarihuoneella 21. joulukuuta äänitetyn konsertin toimittaa Noora Hirn.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-25T21:00:00+02:00'
         end_time: '2025-12-25T21:05:00+02:00'

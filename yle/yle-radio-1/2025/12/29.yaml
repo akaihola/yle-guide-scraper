@@ -1,20 +1,62 @@
 metadata:
-  generated_at: '2025-12-21T02:44:16.084041+00:00'
+  generated_at: '2025-12-23T02:40:47.191536+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-28T23:40:00+02:00'
         end_time: '2025-12-29T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Schubert: Wanderer-fantasia (Lang Lang, piano). 
+
+          Schumann: Jousikvartetto n:o 3 A-duuri (Eroica-kvartetti). 
+
+          Nielsen: Sinfonia n:o 5 (New Yorkin FO/Alan Gilbert).
+
+          W.A. Mozart: Sinfonia concertante Es-duuri. (Jascha Heifetz, viulu ja William Primrose, alttoviulu sekä RCA Victor SO/Izler Solomon).
+
+          Llobet (sov.): Diez canciones populares catalanas (David Russell, kitara).
+
+          Mahler - Carpenter: Sinfonia n:o 10 fis-molli (Dallasin SO/Andrew Litton).
+
+          Faltin: Muunnelmia omasta teemasta (Tapani Valsta, piano).
+
+          Reger: Muunnelmia ja fuuga orkesterille Mozartin teemasta (Dresdenin valtionork./Heinz Bongartz).
+
+          Weber: Klarinettikonsertto n:o 1 f-molli (Sabine Meyer ja Dresdenin valtionork./Herbert Blomstedt).
+
+          Stravinsky: Divertimento bal. Haltijattaren suudelma. (Amsterdamin Concertgebouw-ork./Gennadi Rozhdestvenski).
+
+          Franck: Koraali n:o 1 E-duuri (Marcel Dupré, urut).
+
+          Glazunov: Itämainen rapsodia G-duuri (Hong Kongin FO/Antonio de Almeida).
+
+          Delius - Beecham: Intermezzo oopp. A Village Romeo and Juliet (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          Reinecke: Sonaatti huilulle ja pianolle e-molli (Emmanuel Pahud ja Yefim Bronfman).
+
+          Schubert: Widerspruch (Robert Shaw Chamber Singers/Robert Shaw).
+
+          Muffat: Sonaatti n:o 5 G-duuri (Tasmanian SO:n kamariyhtye/Geoffrey Lancaster).
+
       - title: Hartaita säveliä
         start_time: '2025-12-29T06:30:50+02:00'
         end_time: '2025-12-29T06:50:00+02:00'
+        description: |+
+          Hultman: Nyt riemuiten laulaa mun sydämeni (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Maasalo: Me lapset pienet riennämme (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Veli Ainali, urut).
+
+          Tallis - Ravenscroft: Tuo siunaus nyt koteihin (Tapiolan kamarikuoro/Timo Pihkanen, sekä Pekka Suikkanen, urut).
+
+          Tuntematon: Oi Herra, kaiken luoja (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Simojoki (sov. Nyman): Jouluyön hymni (Kampin Laulu/Timo Lehtovaara).
+
       - title: Aamuhartaus
         start_time: '2025-12-29T06:50:00+02:00'
         end_time: '2025-12-29T06:59:59+02:00'
@@ -27,6 +69,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-29T07:05:00+02:00'
         end_time: '2025-12-29T07:59:59+02:00'
+        description: |+
+          Coprario: Fantasia kolmelle viola da gamballe n:o 9 (Jordi Savall, Christophe Coin, Sergi Casademunt).
+
+          Dowland: His golden locks (Drew Minter, kontratenori, ja Jacob Herringman, luuttu).
+
+          Jadin: Alkusoitto F-duuri (The Wallace Collection/John Wallace).
+
+          Dvorak: Humoreski n:o 7 Ges-duuri (Stephen Hough, piano).
+
+          Rahmaninov: Vokaliisi (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          Gnattali: Allegretto comodo sonaatista sellolle ja kitaralle (Wen-Sinn Yang ja Franz Halasz).
+
+          Beach: Berceuse (Andreas Ottensamer, klarinetti, ja Rotterdamin FO/Yannick Nézet-Séguin).
+
+          Metner: Canzona serenata (Marc-André Hamelin, piano).
+
+          Kroll: Banjo ja viulu (Sarah Chang, viulu, ja Charles Abramovic, piano).
+
+          Pujol: Impromptu kitaralle (David Russell).
+
+          Brahms: Allegro appassionato sonaatista klarinetille ja pianolle Es-duuri (Franklin Cohen ja Vladimir Ashkenazy).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-29T08:00:00+02:00'
         end_time: '2025-12-29T08:07:00+02:00'
@@ -73,6 +138,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-29T11:57:00+02:00'
         end_time: '2025-12-29T12:00:00+02:00'
+        description: |-
+          Ote Reetta Rannan teoksesta Sielulinnut. SKS-kirjat 2025
       - title: Yle Uutiset ja sää
         start_time: '2025-12-29T12:00:00+02:00'
         end_time: '2025-12-29T12:05:00+02:00'
@@ -143,16 +210,23 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-29T17:20:00+02:00'
         end_time: '2025-12-29T17:35:00+02:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Kohokohtia etnovuodesta 2025'
         start_time: '2025-12-29T17:35:00+02:00'
         end_time: '2025-12-29T18:35:00+02:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Se on siinä, ja valmista tuli, musiikkivuodesta 2025. Keinuvassa talossa on aika kohottaa kattoon vuoden parhaat etnolevyt meiltä ja muualta. Mitkä jäivät toimittaja Mika Kauhasen levyhyllyyn paalupaikoille? Oletko valinnoista samaa mieltä?
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2025-12-29T18:35:00+02:00'
         end_time: '2025-12-29T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Laaksonen: Joulun suuri salaisuus (Päivärinnan lapsikuoro/Kaisa Haapakoski).
+
+          Tuntematon: Veni, veni Emmanuel (Arturo Delmoni ja Alexander Romanul, viulu, Katherine Murdock, alttoviulu, sekä Nathaniel Rosen, sello).
+
+          Maasalo: Joulun kellot (RKK/Timo Nuoranne ja Ville Urponen, urut).
+
+          Tolonen (sov. L. Heikkilä): Betlehemin yö (Keuruun Serena/Heikki Koljonen).
+
       - title: Iltahartaus
         start_time: '2025-12-29T18:50:00+02:00'
         end_time: '2025-12-29T19:00:00+02:00'

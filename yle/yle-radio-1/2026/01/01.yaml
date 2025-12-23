@@ -1,21 +1,47 @@
 metadata:
-  generated_at: '2025-12-21T02:44:16.999237+00:00'
+  generated_at: '2025-12-23T02:40:48.224887+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-01T00:10:00+02:00'
-        end_time: '2026-01-01T06:30:00+02:00'
+        end_time: '2026-01-01T08:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-01-01T08:00:00+02:00'
         end_time: '2026-01-01T08:05:00+02:00'
       - title: Aamusoitto
         start_time: '2026-01-01T08:05:00+02:00'
         end_time: '2026-01-01T09:00:00+02:00'
+        description: |
+          Dufay (sov. Savall): Ce jour de l'an (Tänä uudenvuodenpäivänä) (Hesperion XXI/Jordi Savall). 
+
+          J.S. Bach: Avausosa motetista "Singet dem Herrn ein neues Lied" ((Stuttgartin kamarikuoro ja Stuttgartin barokkiorkesteri/Frieder Bernius).
+
+          Debussy: Lumi tanssii sarj. Lasten nurkkaus (Samson Francois, piano).
+
+          E. Strauss: Alppiruusu, polkkamasurkka (Wienin Johann Strauss -ork./Willi Boskovsky). 
+
+          Presti: Uudenvuoden valssi (Olivier Chassain ja Stein-Erik Olsen, kitara). 
+
+          Rutter: New Year (Uusi vuosi) (The Cambridge Singers ja Lontoon kuninkaallinen FO/John Rutter). 
+
+          Anonyymi 1100-luvulta: Novus miles sequitur (Uusi soturi seuraa uuden kuninkaan polkuja) (Gothic Voices).
+
+          J. Strauss, nuor.: Neue Pizzicato-Polka (Wienin Bella Musica/Michael Dittrich).
+
+          Sibelius: Granen (Kuusi) kokoelmasta Viisi kappaletta pianolle op.75 (Izumi Tateno).
+
+          Lanner: Uusi wieniläinen Ländler (Wienin Bella Musica -yhtye/Michael Dittrich).
+
+          Soler: Sonaatti g-molli (Alicia de Larrocha, piano).
+
+          Kaski: Mökit nukkuu lumiset (Tapiolan kuoro/Kari Ala-Pöllänen).
+
+          Smyth: The March of the women (The Plymouth Music Series of Minnesota/Philip Brunelle).
       - title: 'Yle Uutiset '
         start_time: '2026-01-01T09:00:00+02:00'
         end_time: '2026-01-01T09:03:00+02:00'

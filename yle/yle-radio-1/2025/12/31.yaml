@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-21T02:44:16.752308+00:00'
+  generated_at: '2025-12-23T02:40:47.969312+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
@@ -13,6 +13,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-31T06:30:50+02:00'
         end_time: '2025-12-31T06:50:00+02:00'
+        description: |+
+          Söderblom: Jo nuoruuteni aikana (Sibelius-lukion kamarikuoro/Marjukka Riihimäki).
+
+          Koraalitoisinto: Taas on yksi vuosi mennyt (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Madetoja: Psalmi 121 (Matkalaulu) (Harjun Kamarikuoro/Heikki Liimola).
+
+          Kettunen: Aika on (Miisamaria).
+
       - title: Aamuhartaus
         start_time: '2025-12-31T06:50:00+02:00'
         end_time: '2025-12-31T06:59:59+02:00'
@@ -25,6 +34,29 @@ data:
       - title: Aamusoitto
         start_time: '2025-12-31T07:05:00+02:00'
         end_time: '2025-12-31T07:59:59+02:00'
+        description: |+
+          Cairos-Rego: Firelight (Takkatuli) (Katie Zhukov, piano).
+
+          R. Schumann: Lebhaft, nicht zu schnell teoks. Märchenerzählungen (Satukuvia) (Asko Heiskanen, klarinetti, Dmitri Sinkovski, alttoviulu, ja Aapo Häkkinen, piano).
+
+          Dale: Winter (Talvi) (Voces8, Mari Samuelsen, viulu, Håkon Samuelsen, sello, ja Huw Watkins, celesta).
+
+          Sibelius: Tanssiaisissa (Eero Heinonen, piano).
+
+          Gershwin: Kävely (Detroitin SO/Neeme Järvi).
+
+          Granados: Espanjalainen tanssi n:o 7 (Alicia de Larrocha, piano).
+
+          Raff: Cavatina (Kerava-kvartetti, sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso). 
+
+          Perez Soriano: Pericon serenadi "Suena guitarrico mio" zarzuelasta El guitarrico (Rolando Villazón, tenori, ja Orquesta de la Comunidad de Madrid/Plácido Domingo).
+
+          Mana-Zucca: Nostalgia (Nanette Kaplan Solomon, piano).
+
+          Aljabjev: Aamu ja ilta (Pietarhovin ork./Leo Korhin).
+
+          Prokofjev: Valssi bal. Tuhkimo (Erik Schumann, viulu, ja Henri Sigfridsson, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2025-12-31T08:00:00+02:00'
         end_time: '2025-12-31T08:07:00+02:00'
@@ -67,6 +99,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2025-12-31T11:57:00+02:00'
         end_time: '2025-12-31T12:00:00+02:00'
+        description: |-
+          Päivän mietelauseena Riston valinta: Eeva-Liisa Mannerin runo Bach.
       - title: Yle Uutiset ja sää
         start_time: '2025-12-31T12:00:00+02:00'
         end_time: '2025-12-31T12:05:00+02:00'
@@ -148,6 +182,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-31T18:35:00+02:00'
         end_time: '2025-12-31T18:50:00+02:00'
+        description: |+
+          Irlantilainen kansansäv.: Tulkoon tie sinua vastaan (Gospel Covertajat).
+
+          Tuntematon: Kun on turva Jumalassa (Ainalin perhekuoro).
+
+          Waldis: On meillä aarre verraton (Musica-kuoro/Pekka Kostiainen).
+
+          Anonyymi: On Jeesus nimi ihanin (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
+          Melartin: Hyvyyden voiman ihmeelliseen suojaan (Ida Elina).
+
       - title: Iltahartaus
         start_time: '2025-12-31T18:50:00+02:00'
         end_time: '2025-12-31T19:00:00+02:00'
@@ -180,9 +225,38 @@ data:
           Rooleissa: Marja Packalén, Antti Jaakola, Talvikki Eerola, Karlo Haapiainen, Hannu-Pekka Björkman, Jouko Puolanto, Taisto Oksanen, Leena Uotila, Tuomas Uusitalo, Lauri Tanskanen, Vilma Tanskanen, Minna Kivelä, Anna-Sofia Tuominen.
           Tuotanto: Laura Jaakkola
           Tilaaja: Matti Kajander, Yle Draama 2025.
-      - title: Musiikkia vuoden vaihtumista odotellessa
+      - title: 'Musiikkia vuoden vaihtumista odotellessa '
         start_time: '2025-12-31T23:00:00+02:00'
         end_time: '2025-12-31T23:55:00+02:00'
+        description: |-
+          Melartin: Juhlamarssi näyt. Prinsessa Ruusunen (Turun FO/Jorma Panula).
+
+          Josef Strauss: Winterlust (Talvi-iloa) (Wienin filharmonikot/Gustavo Dudamel).
+
+          W.A. Mozart: Don Giovannin samppanja-aaria "Finch' han dal vino" oopp. Don Giovanni (Tom Krause, baritoni, ja Wienin valtionoopperan ork./Argeo Quadri).
+
+          Davydov: Romance sans paroles (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          J. Strauss (nuor.): Eisensteinin ja Rosalinden duetto oper. Lepakko (Karita Mattila, sopraano, Håkan Hagegård, baritoni, ja Metropolitan-oopperan ork./James Levine).
+
+          Myslivecek: Allegro con spirito sinfoniasta B-duuri (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          Suk: Elegia (Smetana Trio).
+
+          Crusell (sov. Kuikka): Marssi puhallinorkesterille (Kenthorns marsch) (Kaartin soittokunta/Raine Ampuja).
+
+          Boieldieu: Madame de Ligneulin bolero oopp. Naapurikylän juhlat (Natalie Dessay, sopraano, ja Toulousen Theatre du Capitolin ork./Michel Plasson).
+
+          Händel: La rejouissance sarj. Ilotulitusmusiikkia (Orpheus-kamariork.).
+
+          J. Strauss (nuor.): Iloitkaa elämästä (Wienin filharmonikot/Mariss Jansons).
+
+          Lumbye: Samppanjagaloppi (Suomen Kansallisoopp. ork./Okko Kamu).
+      - title: Hymyilevä Apollo
+        start_time: '2025-12-31T23:55:00+02:00'
+        end_time: '2025-12-31T23:59:59+02:00'
+        description: |
+          Ilkka Heiskanen lukee osia Eino Leinon runosta.
       - title: Yöklassinen
         start_time: '2026-01-01T00:10:00+02:00'
-        end_time: '2026-01-01T06:30:00+02:00'
+        end_time: '2026-01-01T08:00:00+02:00'

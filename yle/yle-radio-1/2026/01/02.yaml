@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-21T02:44:17.395211+00:00'
+  generated_at: '2025-12-23T02:40:48.717260+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-02T06:30:50+02:00'
         end_time: '2026-01-02T06:50:00+02:00'
+        description: |+
+          Tuntematon: Jumalan haltuun anna (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Piiparinen: Kylvä itkien (Pirkko Törnqvist-Paakkanen, sopraano, ja Risto Lauriala, piano).
+
+          Koraalitoisinto: Immanuel, mun valoni (Cantilene/Merja Lohilahti).
+
+          Grieg: Ave maris stella (RKK/Timo Nuoranne).
+
+          Crüger (sov. Rissanen): Ei itää eikä länttäkään (Human Organ). 
+
       - title: Aamuhartaus
         start_time: '2026-01-02T06:50:00+02:00'
         end_time: '2026-01-02T06:59:59+02:00'
@@ -26,6 +37,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-02T07:05:00+02:00'
         end_time: '2026-01-02T07:59:59+02:00'
+        description: |+
+          Boccherini: Los manolos (Passa Calle) kvintetosta jousille C-duuri (Madridin katujen yösoitto) (Boccherini-kvintetti).
+
+          Dvorák: Menuetti ja trio Serenadista d-molli (Kanadalainen kamariyht./Raffi Armenian).
+
+          Sibelius (sov. Siirala ja Eskelinen): Berceuse kok. Pensées lyriques (Ismo Eskelinen, kitara).
+
+          Chopin: Nokturno n:o 2 Es-duuri (Jouko Harjanne, trumpetti).
+
+          Melartin: Sagan om vårt hjärta (Sydäntemme satu) Lilli Paasikivi, mezzosopraano, Jari Valo, viulu, ja Pentti Kotiranta, piano).
+
+          Weber: Alkusoitto (Alla turca) oopp. Abu Hassan (Alexander Paley ja Brian Zeger, piano).
+
+          Winkler: Napolilainen serenadi (Kerava-kvartetti, sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso).
+
+          Sibelius: Impromptu h-molli (Antti Paakinaho, kantele). 
+
+          Humperdinck: Juhlakaikuja sarj. Prinsessa Ruusunen (Bambergin sinfonikot/Karl Anton Rickenbacher).
+
+          Bernstein (sov. Kostal): Maria musik. West Side Story (Katia ja Marielle Labèque, piano).
+
+          Elgar: La capricieuse (Sarah Chang, viulu, ja Sandra Rivers, piano).
+
+          Sieczynski: Wien, du Stadt meiner Träume (Placido Domingo, tenori, ja Ambrosian Singers, sekä Englantilainen kamariork./Julius Rudel).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-02T08:00:00+02:00'
         end_time: '2026-01-02T08:07:00+02:00'
@@ -40,6 +76,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-02T09:04:00+02:00'
         end_time: '2026-01-02T09:59:00+02:00'
+        description: |-
+          Schonberger: Kuiskaten (Annikki Tähti).
+          Viherluoto: Rosa nera (Nino Lecce).
+          Hartford: Gentle on my mind (Glen Campbell).
+          Snyder: Who's sorry now (Connie Francis).
+          Scott/Wolfe: Vieraat huoneet (Seppo Närhi).
+          Fergo: Luna lunera (Ossi Runne).
+          Bindi: Olet kaikki (Topi Sorsakoski).
+          Lennon/McCartney: En helt vanlig dag (Laila Kinnunen).
+          Malmstén: Nikkelimarkka (The Vostok All Stars).
+          Christophe: Les mots bleus (Christophe).
+          Glenn: Crying in the chapel (Elvis Presley).
+          Kärki: Jos helmiä kyyneleet ois (Paula Koivuniemi).
+          Gomez: Quiero (Julio Iglesias).
+          Desmond: Take five (The Dave Brubeck Quartet).
+          Withers: Ain't no sunshine (Eva Cassidy).
       - title: Maarit Tastula - Yksi maailma, kaksi katsetta; Sirkku Peltola
         start_time: '2026-01-02T10:00:00+02:00'
         end_time: '2026-01-02T10:55:00+02:00'
@@ -59,6 +111,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-02T11:57:00+02:00'
         end_time: '2026-01-02T12:00:00+02:00'
+        description: |-
+          Immi Hellenin runo Uusi vuosi. Teoksessa Lasten runokirja Valistus 1930.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-02T12:00:00+02:00'
         end_time: '2026-01-02T12:05:00+02:00'

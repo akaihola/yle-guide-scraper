@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-21T02:44:22.969445+00:00'
+  generated_at: '2025-12-23T02:40:54.614628+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-01-23T06:50:00+02:00'
         end_time: '2026-01-23T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Kanttori Katja Mäkiö, Tampere
       - title: Yle Uutiset ja sää
         start_time: '2026-01-23T07:00:00+02:00'
         end_time: '2026-01-23T07:05:00+02:00'
@@ -109,7 +109,8 @@ data:
         start_time: '2026-01-23T18:50:00+02:00'
         end_time: '2026-01-23T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Professori Martti Nissinen, Helsinki
+          Sairaalapastori Maarit Nissinen, Vantaa
       - title: Yle Uutiset ja sää
         start_time: '2026-01-23T19:00:00+02:00'
         end_time: '2026-01-23T19:02:00+02:00'

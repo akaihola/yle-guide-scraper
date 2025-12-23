@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-21T02:44:15.426088+00:00'
+  generated_at: '2025-12-23T02:40:46.421243+00:00'
   git:
     branch: main
-    commit: 1d331e1230ce32f38de9bfedc5a76df5d01b27d6
-  data_hash: d352cd299a4cda7651d00105dbabea664a538d9a58109d0f0f9503534aca242d
+    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
+  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
 data:
   Yle Radio 1:
     programmes:
@@ -51,7 +51,7 @@ data:
         start_time: '2025-12-27T07:30:47+02:00'
         end_time: '2025-12-27T07:51:35+02:00'
         description: |-
-          Suomalaisten aatelisten elämästä kertovan Hakoisten naiset -sarjan kolmannessa osassa Suomi on osa Venäjän keisarikuntaa ja eletään autonomian aikaa. Kirjailija Riikka-Maria Rosenbergin romaanin päähenkilön Amelie Sofie Elisabeth Baérin pitäisi aikakauden hengen mukaisesti löytää itselleen jo sopiva puoliso. Kohtalo ja sydän vievät Amelien Hämeessä sisjaitsevaan Hakoisten kartanoon miniäksi. Kartanon hienoista puitteista huolimatta Amelien elämä ei ole aina onnellista. Osin tositapahtumiin perustuva romaani on aikamatka niin aatelisten kartanoelämään kuin vanhaan menneeseen Tsaarin ajan Suomeen. 
+          Hakoisten naiset -sarjan kolmannessa osassa Suomi on osa Venäjän keisarikuntaa. Kirjailija Riikka-Maria Rosenbergin romaanin nuoren Amelie Baérin pitäisi aikakauden hengen mukaisesti löytää itselleen jo sopiva puoliso. Kohtalo ja sydän vievät Amelien Hämeessä sijaitsevaan Hakoisten kartanoon miniäksi. Kartanon hienoista puitteista huolimatta Amelien elämä ei ole aina onnellista. Osin tositapahtumiin perustuva romaani on aikamatka aatelisten kartanoelämään. 
 
           Luomiskertomuksen vieraana Amelie-romaanin kirjoittanut kirjailija Riikka-Maria Rosenberg. Toimittaja Jukka Kuosmanen. 
       - title: Yksi on hyvää seuraa
@@ -63,6 +63,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2025-12-27T08:05:00+02:00'
         end_time: '2025-12-27T08:30:00+02:00'
+        description: |+
+          Kansansäv.: Maa on niin kaunis (virsi 30) (Kyösti Mäkimattila ja Mestaritalon lapsikuoro). 
+
+          Salonen: Puhukaa keskenänne psalmeilla (Harjun Kamarikuoro/Heikki Liimola). 
+
+          Bourgeois: Niin kuin peura janoissansa (virsi 348) (Topi Lehtipuu, tenori, Jonte Knif, nokkahuilu, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          Sonninen: Jouluhymni (Kauppakorkeakoulun Ylioppilaskunnan Laulajat/Matti Apajalahti).
+
+          Leppilampi: Aasi ja timpurin muija (Maria Ylipää).
+
+          Simojoki: Herra, kädelläsi asua mä saan (virsi 517) (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Marja Kääriäinen, piano).
+
       - title: Aamuhartaus
         start_time: '2025-12-27T08:30:00+02:00'
         end_time: '2025-12-27T08:40:00+02:00'
@@ -122,11 +135,12 @@ data:
         description: |
           Frank Capran toisen maailmansodan jälkeen ilmestynyt elokuva Ihmeellinen on elämä tarkentaa pikkukaupungin mieheen, jonka omat haaveet jäävät muiden auttamisen jalkoihin. Itsemurhan partaalle ajautuvalle päähenkilölle elämän merkitys kirkastuu vasta, kun hän on näkee Clarence-enkelin toimesta maailman ilman itseään. Usein filosofiseksi kuvailtu elokuva saa yhä pohtimaan hyvyyttä, sen sijaa keskuudessamme sekä sitä, mikä pitää ihmisen elämässä kiinni. Miksi juuri tästä elokuvasta on tullut jouluklassikko? Miksi elokuva on herättänyt epäilyjä jopa FBI:ssa?
           Marja Vehkasen kanssa elokuvan elementtien sysäämänä inhimillistä olemassaoloa pohtivat elokuvatutkija Ilona Hongisto ja filosofi Maija-Riitta Ollila.
-      - title: Näistä levyistä en luovu
+      - title: Näistä levyistä en luovu, vieraana sopraano Karita Mattila
         start_time: '2025-12-27T13:00:00+02:00'
         end_time: '2025-12-27T13:55:00+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita.
+          Karita Mattila on paitsi oopperadiiva myös country gal! Miten nämä kaksi maailmaa kohtaavat toisensa? 
+          Toimittajana Marko Miettinen. Ohjelma on uusinta lokakuulta 2025.
       - title: Yksi on hyvää seuraa
         start_time: '2025-12-27T13:55:00+02:00'
         end_time: '2025-12-27T14:00:00+02:00'
@@ -233,27 +247,61 @@ data:
         start_time: '2025-12-27T19:02:00+02:00'
         end_time: '2025-12-27T21:00:00+02:00'
       - title: 'Tiedetrippi: Nettiajan pyhät ihmiset'
-        start_time: '2025-12-27T21:00:30+02:00'
-        end_time: '2025-12-27T21:26:28+02:00'
+        start_time: '2025-12-27T21:00:35+02:00'
+        end_time: '2025-12-27T21:26:33+02:00'
         description: |-
           Pyhimyskultti on keskeinen osa katolista kirkkoa. Internetin seuraava suojeluspyhimys saattaa olla italialainen teini  Carlo Acutis, joka kuoli vuonna 2006. Hänestä on tulossa ensimmäinen millenniaali, jolle pyhimyskaista on auki. Hänestä tulee moderni, nettiajan pyhimys.
       - title: Maailman tärkein pieni asia:Kasmir nauttii jopa joulustressistä
-        start_time: '2025-12-27T22:00:30+02:00'
-        end_time: '2025-12-27T22:20:00+02:00'
+        start_time: '2025-12-27T21:59:30+02:00'
+        end_time: '2025-12-27T22:17:16+02:00'
         description: |
           Muusikko, laulaja, lauluntekijä Kasmir nauttii jopa joulustressistä. Toimittajana Maija Salminen. 
-      - title: Kielen päällä
-        start_time: '2025-12-27T22:20:30+02:00'
-        end_time: '2025-12-27T22:30:00+02:00'
-        description: |-
-          Toimittajana on Jari Aula.
+      - title: 'Kielen päällä: jouluruokafraaseja'
+        start_time: '2025-12-27T22:17:31+02:00'
+        end_time: '2025-12-27T22:26:52+02:00'
+        description: |
+          Joulupöytään liittyvistä tarveaineista ja antimista on runsaasti erilaisia sanontoja ja fraaseja. Riitta Hyvärinen ja Jari Aula herkuttelevat joulun jälkimainingeissa.
       - title: 'Keinuva talo - Mika Kauhanen: Joulun alla'
-        start_time: '2025-12-27T22:30:30+02:00'
-        end_time: '2025-12-27T23:29:30+02:00'
+        start_time: '2025-12-27T22:27:48+02:00'
+        end_time: '2025-12-27T23:26:44+02:00'
         description: |-
           Lähde mukaan metsästämään kauneimpien joululaulujen parhaita etnoversioita! Keinuvan talon joulujaksossa tapaat brittifolkkarit laulamassa Kulkusia olohuoneen lattialla, Krakovan klezmergurut viuluineen jouluyössä, ja Buenos Airesin tangolaulajan tapailemassa yllättävää joululaulua. Ja tietysti ne kaikki rakkaat perinteiset kotimaiset joululaulut myös. Toimittajana Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2025-12-27T23:40:00+02:00'
         end_time: '2025-12-28T07:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Massenet: Preludi orat. La Vierge. (Lontoon uuden SO:n jouset/Raymond Agoult).
+
+          23:45 Rahmaninov: Moments musicaux, kuusi kappaletta pianolle (Ruth Laredo).
+
+          00:14 Tshaikovski: Chanson triste (Ilkka Paananen, piano).
+
+          00:17 Myslivecek: Sinfonia Es-duuri (Musici de Praga/Milan Vymer).
+
+          00:33 Saint-Saëns: Eläinten karnevaali (Pittsburghin SO/André Previn).
+
+          00:54 Mahler: Um Mitternacht (Keskiyöllä) (Dietrich Fischer-Dieskau, baritoni, ja Leonard Bernstein, piano).
+
+          01:03 Beethoven: Sellosonaatit n:o 1 F-duuri, n:o 2 g-molli ja n:o 3 A-duuri (Pierre Fournier, sello, ja Artur Schnabel, piano). 
+
+          02:10 Hindemith: Viisi kappaletta jousiorkesterille (Seattlen SO/Gerard Schwarz).
+
+          02:25 Gershwin: Rhapsody in Blue pianolle ja jazzorkesterille (alkuperäisversio) (William Tritt ja Cincinnati Pops/Erich Kunzel). 
+
+          02:45 W.A. Mozart: Käyrätorvikonsertot n:o 1 D-duuri, n:o 2 Es-duuri, n:o 3 Es-duuri ja n:o 4 Es-duuri (Dennis Brain ja Philharmonia-ork./Herbert von Karajan).
+
+          03:40 Sallinen: Sinfonia n:o 3 (RSO/Okko Kamu).
+
+          04:04 Kraus: Fiskarena (Kalastajat), balettipantomiimi (Ruotsalainen kamariork./Petter Sundkvist).
+
+          04:57 Aguado: Adagio ja poloneesi kitaralle (Julian Bream).
+
+          05:09 Mendelssohn: Sinfonia n:o 3 a-molli (Skotlantilainen) (Clevelandin ork./Christoph von Dohnanyi). 
+
+          06:22 Debussy: Preludit, 1. vihko (Eero Heinonen, piano).
+
+          06:23 Marais: Sarja oopp. Alcyone (Tempesta di Mare).
+
+          06:47 Händel: Concerto grosso e-molli (Australian Brandenburg-ork./Paul Dyer).
+
+...
