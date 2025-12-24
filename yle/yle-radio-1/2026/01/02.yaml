@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-23T02:40:48.717260+00:00'
+  generated_at: '2025-12-24T02:39:06.586679+00:00'
   git:
     branch: main
-    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
-  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
+    commit: fc51cd4a3415732bcb8bc84ec36bdfeb2c7d692b
+  data_hash: 8ff360f849a6a3f30cd24845682fb044a66fe514d46212039bfb50498541bdfc
 data:
   Yle Radio 1:
     programmes:
@@ -184,11 +184,9 @@ data:
         end_time: '2026-01-02T18:30:00+02:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
-      - title: Luomiskertomus
+      - title: Hartaita säveliä
         start_time: '2026-01-02T18:35:00+02:00'
         end_time: '2026-01-02T18:50:00+02:00'
-        description: |-
-          Vieraana suomentaja Kristiina Rikman. Hän on kääntänyt englannista Claire Keeganin novellikokoelman Aivan viime hetkellä. Toimittajana Jakke Holvas.
       - title: Iltahartaus
         start_time: '2026-01-02T18:50:00+02:00'
         end_time: '2026-01-02T19:00:00+02:00'

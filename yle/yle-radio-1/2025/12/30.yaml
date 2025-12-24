@@ -1,15 +1,46 @@
 metadata:
-  generated_at: '2025-12-23T02:40:47.463463+00:00'
+  generated_at: '2025-12-24T02:39:05.548801+00:00'
   git:
     branch: main
-    commit: 77fde9974efc8d5130644619dc95295e05f4fc82
-  data_hash: 54fca0abcae33c6c13296f1723dec685533c166d73dc36dca149b5ce37b23f9c
+    commit: fc51cd4a3415732bcb8bc84ec36bdfeb2c7d692b
+  data_hash: 8ff360f849a6a3f30cd24845682fb044a66fe514d46212039bfb50498541bdfc
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2025-12-29T23:40:00+02:00'
         end_time: '2025-12-30T06:30:00+02:00'
+        description: |+
+          Fauré: Viisi yksinlaulua Armand Silvestren runoihin (Barbara Bonney, sopraano ja Warren Jones, piano).
+
+          23:53 Dvorák: Pianotrio n:o 4 e-molli (Dumky) (Benaud Trio).
+
+          00:26 Kostiainen: Kehtolaulu (Ella Pesälä, laulu, Madetojan musiikkilukion kuoro/Kari Kaarna)
+
+          00:29 Melartin: Sinfonia n:o 3 F-duuri (RSO/Sakari Oramo).
+
+          01:16 R. Strauss: Sarja orkesterille oopp. Der Rosenkavalier (Ruusuritari) kohtauksista. (Amsterdamin Concertgebouw-ork./Mariss Jansons).
+
+          01:41 Goldberg: Sonaatti kahdelle viululle ja continuolle C-duuri (David Oistrah ja Igor Oistrah, viulu, sekä Hans Pischner, cembalo).
+
+          01:57 Godard: Pianokonsertto n:o 1 a-molli (Howard Shelley ja Tasmanian SO).
+
+          02:27 Mendelssohn: Oktetto Es-duuri jousille (Marlboron musiikkijuhlien oktetti).
+
+          03:02 Prokofjev: Sonaatti sellolle ja pianolle C-duuri (Lynn Harrell ja Vladimir Ashkenazy).
+
+          03:25 J.S. Bach: Goldberg-muunnelmat (Simone Dinnerstein, piano).
+
+          04:44 Tulindberg: Viulukonsertto B-duuri (Jorma Rahkonen ja RSO/Okko Kamu).
+
+          05:07 Piazzolla: Tango Suite (Odair ja Sergio Assad, kitara). 
+
+          05:22 Debussy: Kolme nokturnia (Clevelandin orkesterin kuoron naisäänet, Clevelandin orkesteri/Pierre Boulez).
+
+          05:45 Beethoven: Pianotrio Es-duuri Op.1/1. (Eugene Istomin, piano, Isaac Stern, viulu, ja Leonard Rose, sello).
+
+          06:20 Béarn: Sarja bal. Rakkauden valtakunta (Chatham Baroque ja Danny Mallon, lyömäsoittimet).
+
       - title: Hartaita säveliä
         start_time: '2025-12-30T06:30:50+02:00'
         end_time: '2025-12-30T06:50:00+02:00'
@@ -285,3 +316,31 @@ data:
       - title: Yöklassinen
         start_time: '2025-12-30T23:40:00+02:00'
         end_time: '2025-12-31T06:30:00+02:00'
+        description: |+
+          Madetoja: Lyyrillinen sarja. (Seppo Laamanen, sello, ja Timo Mikkilä, piano).
+
+          23:59 J.S. Bach: Sarja orkesterille n:o 4 D-duuri (Münchenin Bach-ork./Karl Richter).
+
+          00:21 Schumann: Fantasiakappaleita (Beaux Arts -trio).
+
+          00:40 Shostakovitsh: Kolme fantastista tanssia (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          00:45 Beethoven: Jousikvartetto n:o 13 B-duuri (Juilliard-kvartetti).
+
+          01:33 Grainger: A Lincolnshire posy (Lincolnshiren kukkakimppu) (The Cleveland Symphonic Winds/Frederick Fennell).
+
+          01:49 Liszt: Concerto pathetique konsertto e-molli kahdelle pianolle (Martha Argerich ja Nelson Freire). 
+
+          02:08 Brahms: Ein Deutsches Requiem (Saksalainen sielunmessu) (Kathleen Battle, sopraano, ja Håkan Hagegård, baritoni, sekä Chicagon sinfoniakuoro ja -ork./James Levine).
+
+          03:20 Bruckner: Sinfonia n:o 8 c-molli. (Amsterdamin Concertgebouw-ork./Zubin Mehta).
+
+          04:43 Tansman: Cavatina, sarja kitaralle (Andrés Segovia).
+
+          05:00 Sibelius: Petite serenade (Pieni serenadi) (Cyril Szalkiewicz, piano).
+
+          05:04 Monteverdi: Osia kokoelmasta Selva Morale e Spirituale (Vanhan musiikin yhtye ExTempore).
+
+          06:27 Lawes: The Selfe banished (Paul Hillier, laulu, ja Nigel North, luuttu).
+
+...
