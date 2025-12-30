@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-29T02:48:57.306817+00:00'
+  generated_at: '2025-12-30T02:41:39.684400+00:00'
   git:
     branch: main
-    commit: 8422cf1461eebfcd7003c1ec1edc1b18bd979eb3
-  data_hash: 4985a5ae34c1c29d7eab99f0649d5a383b2795376dec90957671f6a59406b9bc
+    commit: 45ed497983e5893bb15fa482b98e1dd2cabda291
+  data_hash: 6662a71aecef783c738fc0fb8cd3bed730f36dd0d413f8dd5f0a98cb867d1cad
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-01-13T06:50:00+02:00'
         end_time: '2026-01-13T06:59:59+02:00'
         description: |-
-          Ilkka Paanasen säätiön johtaja Saara Huhanantti, Vantaa
+          Johtaja Saara Huhanantti, Projekti 5/5, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-01-13T07:00:00+02:00'
         end_time: '2026-01-13T07:05:00+02:00'
@@ -36,6 +36,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-13T09:04:00+02:00'
         end_time: '2026-01-13T09:59:00+02:00'
+        description: |-
+          Brave: Onni jonka annoin pois (Eila Pellinen). 
+          Trenet: Douce France (Charles Trenet). 
+          Springfield: Päivän vain (Anki).
+          Simon: Lai-le-lai (Lalla Hansson).
+          Koivistoinen: Ville ja Valle (Elias Möhkönen).
+          Koivistoinen: Algo fresco (Eero Koivistoinen, Tom Harrell, John Scofield, Jim McNeely, Ron McClure ja Jack DeJohnette).
+          Pisano/Chiosso/Wertmüller: Stasera con te (Rita Pavone). 
+          Fryman: Pieni punainen mökki (Matti Jurva).
+          Cochran: Make the world go away (Eddy Arnold).
+          Hefti: Lonely girl (Dorothy Ashby). 
+          Jürgens: Tausend Fenster (Karel Gott).
+          Strok: Tummat silmät (Annikki Tähti).
+          Coleman/Young: Virtasen hipat (Teijo Joutsela).
+          Costa: Ai chico chico (Amalia Rodrigues).
+          Warren: Tic, tic, tic (Doris Day).
       - title: Sari Valto
         start_time: '2026-01-13T10:00:00+02:00'
         end_time: '2026-01-13T10:55:00+02:00'
@@ -55,6 +71,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-13T12:00:00+02:00'
         end_time: '2026-01-13T12:05:00+02:00'
+      - title: 'Kadonneiden kaupunkien jäljillä: Kahun'
+        start_time: '2026-01-13T12:05:00+02:00'
+        end_time: '2026-01-13T12:25:00+02:00'
+        description: |-
+          Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Kahun-osan vieraana on egyptologi Mia Meri. Toimittaja Jukka Kuosmanen.
+          (2023)
       - title: Aristoteleen kantapää
         start_time: '2026-01-13T12:25:00+02:00'
         end_time: '2026-01-13T12:50:00+02:00'
@@ -129,6 +151,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-13T19:00:00+02:00'
         end_time: '2026-01-13T19:02:00+02:00'
+      - title: 'Sielun tietotoimisto: Noituus – Ammatti, jota ei löydy TE-palveluista'
+        start_time: '2026-01-13T19:02:00+02:00'
+        end_time: '2026-01-13T19:35:00+02:00'
+        description: |-
+          oitia on maisemissa edelleen, ja heidän työskentelytapansa ovat kirjavia. Feminismin ja noituuden liitto on myös osalle tärkeä tapa harjoittaa noituutta. Toimittaja Nadja Mikkonen keskustelee noita-akka Hanna Eran sekä somenoitia seuraavan väitöstutkija Meri Tuovisen kanssa.
       - title: Romano mirits
         start_time: '2026-01-13T20:00:00+02:00'
         end_time: '2026-01-13T20:15:00+02:00'

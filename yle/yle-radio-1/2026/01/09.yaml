@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-29T02:48:56.274906+00:00'
+  generated_at: '2025-12-30T02:41:38.798418+00:00'
   git:
     branch: main
-    commit: 8422cf1461eebfcd7003c1ec1edc1b18bd979eb3
-  data_hash: 4985a5ae34c1c29d7eab99f0649d5a383b2795376dec90957671f6a59406b9bc
+    commit: 45ed497983e5893bb15fa482b98e1dd2cabda291
+  data_hash: 6662a71aecef783c738fc0fb8cd3bed730f36dd0d413f8dd5f0a98cb867d1cad
 data:
   Yle Radio 1:
     programmes:
@@ -156,7 +156,7 @@ data:
         end_time: '2026-01-09T19:00:00+02:00'
         description: |-
           "Joka päivä, juuri nyt, valo lisääntyy"
-          Sairaalapastori Maarit Nissinen Vantaalta puhuu tammikuun pimeyden keskellä hiljaa takaisin elämäämme hiipivästä valosta.
+          Sairaalapastori Maarit Nissinen Helsingistä puhuu tammikuun pimeyden keskellä hiljaa takaisin elämäämme hiipivästä valosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-09T19:00:00+02:00'
         end_time: '2026-01-09T19:02:00+02:00'
@@ -171,7 +171,7 @@ data:
         start_time: '2026-01-09T20:38:00+02:00'
         end_time: '2026-01-09T21:00:00+02:00'
       - title: Tiedetrippi
-        start_time: '2026-01-09T21:00:00+02:00'
+        start_time: '2026-01-09T21:00:01+02:00'
         end_time: '2026-01-09T21:30:00+02:00'
       - title: Tuuli Saksalan keidas
         start_time: '2026-01-09T22:25:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2025-12-29T02:49:00.647225+00:00'
+  generated_at: '2025-12-30T02:41:42.434769+00:00'
   git:
     branch: main
-    commit: 8422cf1461eebfcd7003c1ec1edc1b18bd979eb3
-  data_hash: 4985a5ae34c1c29d7eab99f0649d5a383b2795376dec90957671f6a59406b9bc
+    commit: 45ed497983e5893bb15fa482b98e1dd2cabda291
+  data_hash: 6662a71aecef783c738fc0fb8cd3bed730f36dd0d413f8dd5f0a98cb867d1cad
 data:
   Yle Radio 1:
     programmes:
@@ -109,9 +109,11 @@ data:
       - title: Tosi tarina
         start_time: '2026-01-26T19:02:00+02:00'
         end_time: '2026-01-26T19:50:00+02:00'
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Nicaraguasta paenneet toimittajat ja aktivistit elävät kuolemanpelossa '
         start_time: '2026-01-26T20:05:00+02:00'
         end_time: '2026-01-26T20:25:00+02:00'
+        description: |-
+          Nicaraguasta vainoa ja sortoa paenneet joutuvat elämään pelossa myös naapurimassa Costa Ricassa. 
       - title: Politiikkaradio
         start_time: '2026-01-26T21:00:00+02:00'
         end_time: '2026-01-26T21:30:00+02:00'
