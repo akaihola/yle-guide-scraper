@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-05T02:51:32.898898+00:00'
+  generated_at: '2026-01-07T02:43:17.763717+00:00'
   git:
     branch: main
-    commit: 3063035377432dcd13478082ade447d92418450f
-  data_hash: 6e6daf097967ca77c78403d5afe91d26c1eb746555320ac2d299ae847344a6b1
+    commit: 11378d2e7e8d5484b03ef0115f2099dbb034f02d
+  data_hash: 0c9a106a1d1c7e7f72403ad56ac8fd43b8d5abc66502dc58ef4ed70f8399373d
 data:
   Yle Radio 1:
     programmes:
@@ -17,13 +17,37 @@ data:
         start_time: '2026-01-15T06:50:00+02:00'
         end_time: '2026-01-15T06:59:59+02:00'
         description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+          "Yhteytä ihmisten kesken ja Jumalan kanssa"
+          Vs. kappalainen Visa Viljamaa Helsingistä toivoo seurakunnan tarjoavan ihmisille mahdollisuuden kohdata toinen toisensa ja Jumalan merkityksellisellä tavalla.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-15T07:00:00+02:00'
         end_time: '2026-01-15T07:05:00+02:00'
       - title: Aamusoitto
         start_time: '2026-01-15T07:06:00+02:00'
         end_time: '2026-01-15T08:00:00+02:00'
+        description: |+
+          Melartin: Aamurukous teoksesta Seitsemän pientä kappaletta viululle ja pianolle op.82 (Petri Aarnio, viulu ja Juhani Lagerspetz, piano).
+
+          J.S. Bach: Adagio konsertosta viululle ja oboelle c-molli (Lisa Batiashvili, Francois Leleux ja Baijerin radion kamariork./Radoslaw Szulc).
+
+          R. Strauss: Unelmointia takan ääressä kok. Neljä sinfonista välisoittoa oopp. Intermezzo (Melbournen SO/Michael Halasz).
+
+          Smyth: Kappale pianolle E-duuri kok. Viisi kappaletta pianolle (Liana Serbescu).
+
+          Massenet: Meditaatio oopperasta Thaïs (Heimo Haitto, viulu ja Cyril Szalkiewicz, piano).
+
+          R. Strauss: Liebe (Rakkaus) (Die Singphoniker).
+
+          Delibes: Kohtaus ja valse lente bal. Coppélia (Berliinin filharmonikot/Herbert von Karajan).
+
+          Vaughan Williams: Whither must I wander (Minne vie vaellukseni) sarj. Songs of travel (Matkalauluja) (James Gilchrist, tenori, ja Anna Tilbrook, piano).
+
+          Brahms: Allegretto grazioso sonaatista klarinetille ja pianolle f-molli (Michael Collins ja Michael McHale).
+
+          Marteau: Entrata Serenadista puhaltimille (Saksan radion FO:n puhaltajat/Raoul Grüneis).
+
+          Kantelinen: Lasten tanssi bal. Lumikuningatar (Suomen kansallisoopperan ork./Tuomas Kantelinen).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-15T08:00:00+02:00'
         end_time: '2026-01-15T08:07:00+02:00'
@@ -53,6 +77,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-15T11:57:00+02:00'
         end_time: '2026-01-15T12:00:00+02:00'
+        description: |-
+          Ote Marjo Niemen romaanista Kuuleminen
       - title: Yle Uutiset ja sää
         start_time: '2026-01-15T12:00:00+02:00'
         end_time: '2026-01-15T12:05:00+02:00'

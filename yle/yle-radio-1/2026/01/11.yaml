@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-05T02:51:31.912000+00:00'
+  generated_at: '2026-01-07T02:43:17.002595+00:00'
   git:
     branch: main
-    commit: 3063035377432dcd13478082ade447d92418450f
-  data_hash: 6e6daf097967ca77c78403d5afe91d26c1eb746555320ac2d299ae847344a6b1
+    commit: 11378d2e7e8d5484b03ef0115f2099dbb034f02d
+  data_hash: 0c9a106a1d1c7e7f72403ad56ac8fd43b8d5abc66502dc58ef4ed70f8399373d
 data:
   Yle Radio 1:
     programmes:
@@ -35,11 +35,18 @@ data:
 
           06:40 Lolli: Sonaatti viululle ja continuolle A-duuri op.3/6 (Luca Fanfoni, viulu, Marianne Chen, sello, ja Paola Del Giudice, cembalo).
 
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Peer Gyntin rymyretket'
         start_time: '2026-01-11T07:00:30+02:00'
         end_time: '2026-01-11T07:57:00+02:00'
-        description: |-
+        description: |
+          Kaikki me tunnemme Edvard Griegin ihanan Aamutunnelman tai Vuorenpeikkojen luolan. Nehän ovat osia Peer Gynt-näytelmämusiikkia, jonka Grieg sävelsi Henrik Ibsenin näytelmään. Mutta mistä näytelmässä on kyse, ja minkälaista on näytelmämusiikki koko komeudessaan, puhe- laulu- ja kuoro-osuuksineen? 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikki:
+          Edvard Greig: Peer Gynt näytelmämusiikkia op.23
+
+          (Barbara Bonney, sopraano/Solveig, Toralv Maurstad, puhe/Peer Gynt, Tor Stokke, puhe/Vuorenkuningas, Wenche Foss, puhe/Åse, Knut Buen, hardanger-viulu, Pro Musica-Kamarikuoro, Göteborgin sinfoniaorkesteri/Neeme Järvi).
       - title: Yle Uutiset ja sää
         start_time: '2026-01-11T08:00:00+02:00'
         end_time: '2026-01-11T08:05:05+02:00'
@@ -55,6 +62,19 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-11T09:03:00+02:00'
         end_time: '2026-01-11T09:53:00+02:00'
+        description: |+
+          Benda: Sinfonia F-duuri (Tshekkiläinen filharmoninen kamariork./Vojtech Spurný, cembalo).
+
+          Brentner: Konsertto B-duuri jousille ja continuolle (Collegium Marianum). 
+
+          Dusek: Sinfonia G-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          Myslivecek: Oktetto puhaltimille n:o 2 Es-duuri (Harmoniemusik of London). 
+
+          Jiránek: Sinfonia D-duuri (Collegium Azzolini/Jana Semerádová).
+
+          Tuma: Sonaatti jousille ja continuolle A-duuri (Musica Florea/Marek Stryncl).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-01-11T09:56:00+02:00'
         end_time: '2026-01-11T09:59:00+02:00'
@@ -99,12 +119,12 @@ data:
           Monnot: Hymne a l'amour (Iiro Rantala, Kaisa Mäensivu ja Morten Lund). 
           Castrillon: Lo efimero (Senase). 
           Castrillon: Semilla estelar (Senase). 
-          Uura: Metsän syliin (Räsynukke). 
-          Asu: Hotti on taikaa (Mäsä Duo). 
+          Kivimäki: Juuret (Ismo Alanko ja Suistamon sähkö). 
+          Wolski: Mailta omilta (Paula Wolski Ensemble). 
           Marin: Kungshatt (Väsen). 
           Johansson: Brudmarsch till Kristin och Erik (Väsen). 
           Loiselle: Forcalquier (Lena Jonsson Trio). 
-          Armstrong/Reid: Burdland (Lena Jonsson Trio). 
+          Armstrong/Reid: Burdland (Lena Jonsson Trio).
           Ardenois/Rodebjer/Ryynänen: As the sun lights the morning sky (Triveni Trio). 
           Sippola: Highway home (Polenta). 
       - title: Kullervo, osa 2/3
@@ -170,7 +190,7 @@ data:
         start_time: '2026-01-11T20:00:00+02:00'
         end_time: '2026-01-11T21:00:00+02:00'
         description: |-
-          Liturgina Tero Hietanen. Saarnaajana teologian tohtori Juho Sankamo. Kanttorina Jarmo Kaijansinkko. Yhteislaulut: Voi, mikä riemu, Sinun hyvyytesi, Jeesus, Jeesus, kuule rukoukseni, Vaeltajan laulu.
+          Liturgina Heikki Järvi. Saarnaajana Luis Cervilla. Todistuspuheenvuoro Mirigli Schwats. Kanttorina Sini Videnoja. Yhteislaulut: Ilouutinen, Aamuruskon siivin, Pelastajani, Toit rakkauden, Armolaulu
       - title: Uutispodcast
         start_time: '2026-01-11T21:00:30+02:00'
         end_time: '2026-01-11T21:24:00+02:00'
