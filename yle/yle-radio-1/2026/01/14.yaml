@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-07T02:43:17.576929+00:00'
+  generated_at: '2026-01-08T02:42:33.890750+00:00'
   git:
     branch: main
-    commit: 11378d2e7e8d5484b03ef0115f2099dbb034f02d
-  data_hash: 0c9a106a1d1c7e7f72403ad56ac8fd43b8d5abc66502dc58ef4ed70f8399373d
+    commit: 36bdc74cfe1937769c87969fb297a656567072a6
+  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-01-14T08:07:00+02:00'
         end_time: '2026-01-14T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-14T09:00:00+02:00'
         end_time: '2026-01-14T09:03:00+02:00'
@@ -72,6 +74,12 @@ data:
           Nurmio: Aavaa preeriaa (Tuomari Nurmio).
           Amos: Winter (Tori Amos).
           Joplin: Maple leaf rag (Lyttelton and His Band).
+      - title: 'Havaintoja muutoksesta: Täydellisyyden harha'
+        start_time: '2026-01-14T10:00:00+02:00'
+        end_time: '2026-01-14T10:50:00+02:00'
+        description: |
+          Täydellisyyteen pyrkimisen ihanne elää kulttuurissamme ja yhteiskunnassamme vahvana. 
+          Täydellisyyden alttarille uhrataan yöunet, terveys ja ihmissuhteet. Täydellisyyden tavoittelussa ei ole kyse vain yksilöistä vaan kulttuurista, yhteiskunnasta ja ajan hengestä. Monissa maissa nuorten aikuisten perfektionismi on lisääntynyt. Miksi täydellisyyttä tavoitellaan? Mitä siitä seuraa? Toimittaja Satu Kivelän vieraana kirjailija Antti Rönkä ja psykologi Julia Sangervo.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-14T10:50:00+02:00'
         end_time: '2026-01-14T11:00:00+02:00'
@@ -99,6 +107,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-14T12:00:00+02:00'
         end_time: '2026-01-14T12:05:00+02:00'
+      - title: '12 diktaattoria: Stalinistit: Boleslaw Bierut, Puola'
+        start_time: '2026-01-14T12:05:00+02:00'
+        end_time: '2026-01-14T12:50:00+02:00'
+        description: |
+          Toisen maailmansodan jälkeen Itäisessä Euroopassa puolueiden johtoon nousivat pääasiassa vain hiukan keskimääräistä vahvemmat miehet. Nämä pohjimmiltaan keskinkertaiset byrokraatit olivat värittömiä ja vailla henkilökohtaista karismaa, mutta heidän röyhkeytensä oli parasta A-luokkaa.
+          Röyhkeä byrokraattikin voi löytää sisältään voimamiehen, kun kaikki menee nappiin. Näin kävi Puolassa, Neuvostoliiton ohjauksessa olleessa vasallivaltiossa.
+          Bolesław Bierut nousi Puolan presidentiksi vuosina 1947–1952 ja toimi käytännössä maan johtajana vuoteen 1956, kunnes kuolema erotti hänet vallasta Moskovan matkan aikana.
+          Bolesław Bierut ei ollut mikään "runosielu" vaan muistetaan erityisesti vihapuheistaan, joilla hän oikeutti valtion tiukan kontrollin ja poliittisen sorron. Vihapuheissaan Bierut loi ja piti yllä kuvaa sisäisistä ja ulkoisista vihollisista, kuten "luokkavihollisista", "kapitalisteista" ja "imperialisteista". Niinpä salainen poliisi teki pitkää päivää siivotakseen presidentin luonnehtimat viholliset katukuvasta.
+          Stalinisti Boleslaw Bierutista kertoo filosofi ja kirjailija Leif Sundström. Toimittajana on Raimo Tyykiluoto.
       - title: Politiikkaradio
         start_time: '2026-01-14T13:00:00+02:00'
         end_time: '2026-01-14T13:30:00+02:00'
@@ -127,6 +144,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-14T16:07:00+02:00'
         end_time: '2026-01-14T16:59:00+02:00'
+        description: |-
+          Martinu: Alkusoitto orkesterille (Baselin SO/Vladimir Ashkenazy).
+
+          Paganini - Liszt: Etydi n:o 3 gis-molli (La Campanella) (Matti Raekallio, piano).
+
+          Dvorák: Bagatelli n:o 5 sarj. Viisi bagatellia (Domus-kvartetin jäseniä sekä Susan Tomes, harmoni).
+
+          Humperdinck: Paimentanssi näyt. Talvinen tarina (Bambergin sinfonikot/Karl Anton Rickenbacher).
+
+          Dring: Blow, blow thou winter wind (Stanford Olsen, tenori, ja Timothy Hoekman, piano).
+
+          Roussel: Talvinen metsä sinfoniasta Metsän runo (Orchestre de Paris/Christoph Eschenbach). 
+
+          Brahms: Gestillte Sehnsucht (Tyyntynyt kaipaus) (Malin Broman, alttoviulu, Christopher Parkes, käyrätorvi, ja Simon Crawford-Phillips, piano). 
+
+          Desportes: Ballade normande (Normandialainen balladi) (Tanja Nisonen, käyrätorvi, ja Emil Holmström, piano). 
+
+          Schubert: Impromptu Ges-duuri (Alfred Brendel, piano). 
+
+          Pohjanmies: Talvi-iltana (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
       - title: Uutispodcast
         start_time: '2026-01-14T17:00:00+02:00'
         end_time: '2026-01-14T17:20:00+02:00'
@@ -157,15 +194,24 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-01-14T19:02:00+02:00'
         end_time: '2026-01-14T21:00:00+02:00'
-      - title: Politiikkaradio (1.läh. klo 13)
+      - title: 'Politiikkaradio '
         start_time: '2026-01-14T21:00:00+02:00'
         end_time: '2026-01-14T21:30:00+02:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-01-14T21:31:00+02:00'
         end_time: '2026-01-14T22:20:00+02:00'
-      - title: 'Ulkolinja-podcast  '
+      - title: 'Sielun tietotoimisto: Noituus – Ammatti, jota ei löydy TE-palveluista'
+        start_time: '2026-01-14T22:21:00+02:00'
+        end_time: '2026-01-14T22:50:00+02:00'
+        description: |-
+          oitia on maisemissa edelleen, ja heidän työskentelytapansa ovat kirjavia. Feminismin ja noituuden liitto on myös osalle tärkeä tapa harjoittaa noituutta. Toimittaja Nadja Mikkonen keskustelee noita-akka Hanna Eran sekä somenoitia seuraavan väitöstutkija Meri Tuovisen kanssa.
+      - title: 'Ulkolinja-podcast: Yhdysvaltoihin paenneet venäläiset ja ukrainalaiset pelkäävät karkotuksia '
         start_time: '2026-01-14T23:20:00+02:00'
         end_time: '2026-01-14T23:39:30+02:00'
+        description: |
+          Sadat tuhannet venäläiset ja ukrainalaiset pakenivat Yhdysvaltoihin sen jälkeen kun Venäjä hyökkäsi Ukrainaan helmikuussa 2022. Nyt Donald Trumpin valtaannousu ja rajut kiristykset maahanmuuttopolitiikkaan ovat saaneet heidät kauhun valtaan. 
+          Ulkolinjan Katja Liukkonen tapasi Los Angelesiin paenneita venäläisiä ja ukrainalaisia. Moni heistä moni joutuu nyt  pohtimaan, minne mennä,  jos Yhdysvalloista on pakko lähteä.
+          Ohjelma on julkaistu Yle Areenassa toukokuussa 2025.
       - title: Yöklassinen
         start_time: '2026-01-14T23:40:00+02:00'
         end_time: '2026-01-15T06:30:00+02:00'

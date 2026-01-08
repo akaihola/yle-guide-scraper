@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-07T02:43:16.303064+00:00'
+  generated_at: '2026-01-08T02:42:32.700227+00:00'
   git:
     branch: main
-    commit: 11378d2e7e8d5484b03ef0115f2099dbb034f02d
-  data_hash: 0c9a106a1d1c7e7f72403ad56ac8fd43b8d5abc66502dc58ef4ed70f8399373d
+    commit: 36bdc74cfe1937769c87969fb297a656567072a6
+  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
 data:
   Yle Radio 1:
     programmes:
@@ -102,7 +102,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-08T09:04:00+02:00'
         end_time: '2026-01-08T09:59:00+02:00'
-        description: |-
+        description: |
           Goodwin/Shay/Fisher: When you're smiling (the whole world smiles with you) (Billie Holiday).
           Lord Kitchener: Rhumba Anna (Lord Kitchener).
           Rodgers: Luonasi jos oisin (Seija Lampila).
@@ -180,18 +180,18 @@ data:
       - title: 'Faunin iltapäivä '
         start_time: '2026-01-08T16:07:00+02:00'
         end_time: '2026-01-08T16:59:00+02:00'
-        description: |-
+        description: |
           Elgar: Aurinkotanssi sarj. Nuoruuden taikasauva (Walesin kansallisoopperan ork./Charles Mackerras).
 
           Barns: Idylli (Alexandra Mackenzie, sello, ja Ingrid Sawers, piano).
 
-          Blow: The sullen years are past Uuden vuoden päivän oodista (Leigh Nixon, tenori, ja New London Consort/Martin Neary).
+          Blow: The sullen years are past oodista Sound, sound, the trumpet (Leigh Nixon, tenori, ja New London Consort/Martin Neary).
 
           Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
 
-          Purcell/Hefte/Eike: Prelude to Juno's song - Rull (Bjarte Eike ja Barokksolistenen). 
+          Purcell - Hefte: The Fairy Shuffle (Bjarte Eike og Barokksolistenen). 
 
-          Kansansäv. (sov. Eike): The Jolly pilgrim: Hey jolly broom man - Blarney pilgrim (Bjarte Eike ja Barokksolistene). 
+          Kansansäv.: The Jolly Pilgrim (Bjarte Eike og Barokksolistene). 
 
           Presti: Uudenvuoden valssi (Olivier Chassain ja Stein-Erik Olsen, kitara). 
 
@@ -201,7 +201,7 @@ data:
 
           Mendelssohn: Neujahrslied (Uudenvuoden laulu) (RIAS-kamarikuoro/Hans-Christoph Rademann). 
 
-          Vaughan Williams: Romanssi alttoviululle ja pianolle (Philip  Dukes, alttoviulu ja Anna Tilbrook, piano).
+          Vaughan Williams: Romanssi alttoviululle ja pianolle (Philip Dukes ja Anna Tilbrook).
 
           J.S. Bach (sov. Schöwing): Die Himmel erzählen die Ehre Gottes kantaatista n:o 76 (Jens Schöwings Blue Note Bach). 
       - title: 'Uutispodcast: Parhaat 2025: Kirjailija Niko Hallikainen teki ilmaisen kirjan – miksi?'
@@ -212,11 +212,23 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-08T17:20:00+02:00'
         end_time: '2026-01-08T17:35:00+02:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Yhdessä laulussa koko kansa'
         start_time: '2026-01-08T17:35:00+02:00'
         end_time: '2026-01-08T18:25:00+02:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Joskus yksi laulu kiteyttää koko kansakunnan hengen ja tarinan. Tässä ohjelmassa matkustetaan ympäri maailmaa ja kuullaan kappaleita, joita pidetään maiden epävirallisina kansallislauluina – sävelmiä, jotka kaikki osaavat. Mukana ovat muun muassa Kuuban Guantanamera, Japanin Sukiyaki ja Australian Waltzing Matilda. Jokainen laulu avaa oven oman maansa kulttuuriin, historiaan ja tunnelmaan. Tuuli Saksala johdattaa kuulijat kansakuntien sydämeen musiikin siivittämänä.
+
+          Compay Segundo: Guantanamera (Kuuba)
+          Kyu Sakamoto: Ue o muite aruko / Sukiyaki (Japani)
+          Laila Kinnunen: Ipaneman tyttö (Brasilia/Suomi)
+          Mikis Theodorakis: Zorba’s dance (Kreikka)
+          Yves Montand: Waltzing Matilda (Australia)
+          Miriam Makeba: The Click Song (Etelä-Afrikka)
+          Harry Belafonte: Banana Boat Song (Jamaika)
+          Kronos Quartet & ystävät: Where Have All the Flowers Gone (USA)
+          Angelique Kidjo: Malaika (Tansania/Kenia)
+          Curly Strings: Kauges külas (Viro)
+          Sakari Kukko ja Humbalax: Paratiisi (Suomi)
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-01-08T18:25:00+02:00'
         end_time: '2026-01-08T18:35:00+02:00'
@@ -244,26 +256,8 @@ data:
       - title: 'Jazzklubin viikon keikka: Aaron Parks Little Big Jazz Dock -klubilla Prahassa'
         start_time: '2026-01-08T19:02:00+02:00'
         end_time: '2026-01-08T20:00:00+02:00'
-        description: |
-          Yhdysvaltalainen Aaron Parks pistäytyi vuonna 2024 Little Big yhtyeensä levynjulkaisukiertueella myös Tšekin Prahassa, missä yhtye taltioitiin osana paikallisen yleisradioyhtiön jazzfestivaalia. Yhtyeen musiikki soi upeasti eri sävyissä niin akustisesti kuin sähköisestikin.
-
-          1. Rising Mind (Parks)
-          2. Delusions (Parks)
-          3. Heart Stories (Parks)
-          4. Sports (Tuohey)
-          5. Little Beginnings (Ginyard)
-          6. Locked Down (Parks)
-          7. Solace (Parks)
-          8. The Machines Say No (Tuohey)
-          9. Kid (Parks)
-
-          Aaron Parks, piano
-          Greg Tuohey, kitara
-          David Ginyard Jr., basso
-          Jongkuk Kim, rummut
-
-          Äänitetty 29.11.2024.
-          Toimittajana Eero Koski.
+        description: |-
+          Jazzklubin viikon keikkana kuullaan pianisti Aaron Parksin Little Big kokoonpano Tsekin yleisradion jazzfestivaaleilla vuonna 2024. Keikka taltioitiin Jazz Dock klubilla Prahassa.
       - title: Klassinen kattaus
         start_time: '2026-01-08T20:00:00+02:00'
         end_time: '2026-01-08T20:57:00+02:00'
@@ -286,13 +280,13 @@ data:
         description: |-
           Näyttelijä Heath Ledger muistetaan vaikuttavasta Jokerin roolista Batman-elokuvassa Yön ritari (The Dark Knight, 2008). Valmistautuessaan rooliin hän lukittautui hotellihuoneeseen kirjoittamaan Jokerin häiriintynyttä päiväkirjaa. Ennen kuin elokuva ehdittiin julkaista, Heath Ledger kuoli traagisesti vain 28-vuotiaana. Julkisuudessa kysyttiin, oliko Ledger mennyt liian syvälle Jokerin mielenmaisemaan. Toimittajana Henry Tikkanen.
       - title: 'Tosi tarina: Lohduton loppu – ikäihmisten itsemurhat'
-        start_time: '2026-01-08T21:32:00+02:00'
-        end_time: '2026-01-08T22:24:08+02:00'
+        start_time: '2026-01-08T21:32:13+02:00'
+        end_time: '2026-01-08T22:24:21+02:00'
         description: |-
           Suomen itsemurhaluvut ovat pitkään olleet laskusuunnassa, mutta on yksi ryhmä, jossa niiden määrä on nousussa: ikäihmiset. Miksi yhä useampi ikääntyvä päätyy harkitsemaan itsemurhaa? Mitä se kertoo heistä, meistä, arvoistamme ja yhteiskunnastamme? Toimittaja Päivi Leino, äänisuunnittelu Katja Kortiainen.
       - title: Syrjästäkatsojan tarina 1/9.
-        start_time: '2026-01-08T22:33:08+02:00'
-        end_time: '2026-01-08T23:02:00+02:00'
+        start_time: '2026-01-08T22:32:53+02:00'
+        end_time: '2026-01-08T23:01:45+02:00'
         description: |-
           Osa 1/9 Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
 

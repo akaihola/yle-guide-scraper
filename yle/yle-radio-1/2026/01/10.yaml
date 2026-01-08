@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-07T02:43:16.823484+00:00'
+  generated_at: '2026-01-08T02:42:33.104036+00:00'
   git:
     branch: main
-    commit: 11378d2e7e8d5484b03ef0115f2099dbb034f02d
-  data_hash: 0c9a106a1d1c7e7f72403ad56ac8fd43b8d5abc66502dc58ef4ed70f8399373d
+    commit: 36bdc74cfe1937769c87969fb297a656567072a6
+  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
 data:
   Yle Radio 1:
     programmes:
@@ -39,11 +39,18 @@ data:
 
           07:17 Philidor: Sarja kahdelle huilulle n:o 3 D-duuri (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
 
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Antti Hyyrynen - Kouvola 2000'
         start_time: '2026-01-10T07:31:00+02:00'
         end_time: '2026-01-10T07:55:00+02:00'
-        description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        description: |+
+          Antti Hyyrysen Kouvola 2000 -romaanissa tietokoneet ovat jo tulleet ja Suomen valtion valvontamekanismit kansalaisia kohtaan alkavat tiukentua. Virkanainen Kyllikki Mars saa siirron Asianhoitokeskukseen, jonne on tarkoitus tallettaa kaikki Suomen tieto. Pian Mars huomaa, että kadonneen työntekijän tapaukseen liittyy ehkä myös hänen oma menneisyytensä. 
+
+          Stam1nan laulajakitaristi kirjailija Antti Hyyrynen opiskeli nuorena Kouvolassa ja oppi näkemään betonin takaa kaupungin pieniä ja suuria tarinoita. Vuosikymmeniä myöhemmin muistot jalostuivat osin Kouvola 2000 -romaanin sivuille. 
+
+          Luomiskertomuksen vieraana kirjailija Antti Hyyrynen.
+
+          Toimittaja Jukka Kuosmanen.
+
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-10T07:55:00+02:00'
         end_time: '2026-01-10T08:00:00+02:00'
@@ -213,8 +220,9 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-01-10T18:10:00+02:00'
         end_time: '2026-01-10T19:00:00+02:00'
-        description: |-
+        description: |+
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 81, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-10T19:00:00+02:00'
         end_time: '2026-01-10T19:02:00+02:00'
