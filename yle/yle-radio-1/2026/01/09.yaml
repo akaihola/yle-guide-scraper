@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-08T02:42:32.890602+00:00'
+  generated_at: '2026-01-09T02:43:15.987880+00:00'
   git:
     branch: main
-    commit: 36bdc74cfe1937769c87969fb297a656567072a6
-  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
+    commit: 7517fc736a24bdcdf14dd2d668487230532ae5bb
+  data_hash: 66f59b19a67e03b30e21a6312385665aae6a3ae25dddb72e7a49a4828693087b
 data:
   Yle Radio 1:
     programmes:
@@ -148,6 +148,9 @@ data:
         description: |-
           Erilaiset hengitystekniikat ovat suosittuja, mutta ovatko ne oikeasti tarpeen? Mitä elimistössämme ja mielessämme tapahtuu, kun hengitämme? 
           Haastateltavina erikoispsykologi Tage Orenius ja keuhkolääkäri Maria Hollmen Helsingin yliopistollisesta sairaalasta. Toimittajana Minna Korhonen.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-01-09T12:55:00+02:00'
+        end_time: '2026-01-09T13:00:00+02:00'
       - title: 'Tiedetrippi: Kun ihminen lähtee tähtiin'
         start_time: '2026-01-09T13:00:00+02:00'
         end_time: '2026-01-09T13:30:00+02:00'
@@ -207,11 +210,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-09T17:20:00+02:00'
         end_time: '2026-01-09T17:35:00+02:00'
-      - title: Näistä levyistä en luovu
+      - title: Ruben Stiller on kuin onkin musiikkimies.
         start_time: '2026-01-09T17:35:00+02:00'
         end_time: '2026-01-09T18:30:00+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+          Ruben Stillerille musiikki on naurattava, lohduttava ja sisältää viestejä vaikkapa rakkaalleen.
       - title: Hartaita säveliä
         start_time: '2026-01-09T18:35:00+02:00'
         end_time: '2026-01-09T18:50:00+02:00'
@@ -258,11 +261,23 @@ data:
           Stalinismi on kuin vanha vitsi, joka ennen nauratti mutta ei naurata enää. Yksinvaltius ja henkilöpalvonta oli ja on stalinismin peruskivi. Stalinismin teoria on "yksi napa, yksi tapa" -politiikka, jonka ympärillä muut tanssivat ripaskaa. Käytännössä stalinismi tarkoittaa, jos mikään muu ei auta, niin niskalaukaus auttaa aina.
           Itä-Saksassa toisen maailmansodan jälkeen Stalinin "Siperian saatanan" oppeja käytäntöön jalkauttivat noin 40 vuoden ajan ensin Walter Ulbricht ja sitten Erich Honecker, valtion turvallisuusministeriö Stasin auttavan käden turvin. Stasin aisaparina moukaria heilutti Neuvostoliiton KGB.
           Stalinismista DDR:ssä kertoo Kauppalehden toimituspäällikkö Mikko Metsämäki. Toimittajana Raimo Tyykiluoto.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Yhdessä laulussa koko kansa'
         start_time: '2026-01-09T22:20:00+02:00'
-        end_time: '2026-01-09T23:10:00+02:00'
+        end_time: '2026-01-09T23:11:08+02:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Joskus yksi laulu kiteyttää koko kansakunnan hengen ja tarinan. Tässä ohjelmassa matkustetaan ympäri maailmaa ja kuullaan kappaleita, joita pidetään maiden epävirallisina kansallislauluina – sävelmiä, jotka kaikki osaavat. Mukana ovat muun muassa Kuuban Guantanamera, Japanin Sukiyaki ja Australian Waltzing Matilda. Jokainen laulu avaa oven oman maansa kulttuuriin, historiaan ja tunnelmaan. Tuuli Saksala johdattaa kuulijat kansakuntien sydämeen musiikin siivittämänä.
+
+          Compay Segundo: Guantanamera (Kuuba)
+          Kyu Sakamoto: Ue o muite aruko / Sukiyaki (Japani)
+          Laila Kinnunen: Ipaneman tyttö (Brasilia/Suomi)
+          Mikis Theodorakis: Zorba’s dance (Kreikka)
+          Yves Montand: Waltzing Matilda (Australia)
+          Miriam Makeba: The Click Song (Etelä-Afrikka)
+          Harry Belafonte: Banana Boat Song (Jamaika)
+          Kronos Quartet & ystävät: Where Have All the Flowers Gone (USA)
+          Angelique Kidjo: Malaika (Tansania/Kenia)
+          Curly Strings: Kauges külas (Viro)
+          Sakari Kukko ja Humbalax: Paratiisi (Suomi)
       - title: Yöklassinen
         start_time: '2026-01-09T23:40:00+02:00'
         end_time: '2026-01-10T07:30:00+02:00'

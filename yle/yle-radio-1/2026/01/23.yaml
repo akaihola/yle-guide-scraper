@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-08T02:42:35.782730+00:00'
+  generated_at: '2026-01-09T02:43:31.784973+00:00'
   git:
     branch: main
-    commit: 36bdc74cfe1937769c87969fb297a656567072a6
-  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
+    commit: 7517fc736a24bdcdf14dd2d668487230532ae5bb
+  data_hash: 66f59b19a67e03b30e21a6312385665aae6a3ae25dddb72e7a49a4828693087b
 data:
   Yle Radio 1:
     programmes:
@@ -117,6 +117,9 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-01-23T19:02:00+02:00'
         end_time: '2026-01-23T21:00:00+02:00'
+        description: |+
+          "Yle 100 vuotta". Nicholas Collon, kapellimestari, Francesco Piemontesi, piano, Anu Komsi, sopraano. - Albert Roussel: Sarja F-duuri. Béla Bartók: Pianokonsertto nro 1. Väinö Raitio: Puistokuja sopraanolle ja orkesterille. Leos Janácek: Sinfonietta. Suoran lähetyksen Musiikkitalosta juontaa Lotta Emanuelsson.
+
       - title: 'Politiikkaradio '
         start_time: '2026-01-23T21:00:00+02:00'
         end_time: '2026-01-23T21:30:00+02:00'

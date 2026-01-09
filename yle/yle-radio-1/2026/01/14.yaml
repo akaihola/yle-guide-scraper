@@ -1,15 +1,40 @@
 metadata:
-  generated_at: '2026-01-08T02:42:33.890750+00:00'
+  generated_at: '2026-01-09T02:43:28.140227+00:00'
   git:
     branch: main
-    commit: 36bdc74cfe1937769c87969fb297a656567072a6
-  data_hash: 736407b8c00a4e02d8e4493355d4ed200700cf8da8a102cb1520611a43b9767c
+    commit: 7517fc736a24bdcdf14dd2d668487230532ae5bb
+  data_hash: 66f59b19a67e03b30e21a6312385665aae6a3ae25dddb72e7a49a4828693087b
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-13T23:40:00+02:00'
         end_time: '2026-01-14T06:30:00+02:00'
+        description: |+
+          Vokaalimusiikkia renessanssiajan Espanjasta (säv. Flecha, Morales, Vasquez ja Victoria) (The Concord Ensemble).
+
+          00:20 Dvorák: Vedenhaltija, sinfoninen runo (Indianapolisin SO/Jun Märkl).
+
+          W.A. Mozart: Huilukonsertto n:o 2 D-duuri (Jacques Zoon ja Boston 01:05 Baroque/Martin Pearlman).
+
+          01:24 Nielsen: Pieni sarja jousiorkesterille a-molli (Vancouverin radio-ork./Mario Bernardi).
+
+          01:42 Lindberg: Pianokonsertto (Magnus Lindberg ja RSO/Esa-Pekka Salonen).
+
+          02:12 Kraus: Balettimusiikkia oopp. Azire (Uuden-Seelannin SO/Uwe Grodd).
+
+          02:20 Beethoven: Jousikvartetto n:o 4 c-molli, n:o 5 A-duuri ja n:o 6 B-duuri (Unkarilainen jousikvartetti).
+
+          03:35 Chabrier: Kymmenen maalauksellista kappaletta (Jean Casadesus, piano).
+
+          04:08 Borodin: Sinfonia n:o 1 Es-duuri (Seattlen SO/Gerard Schwarz).
+
+          04:43 Gershwin: Konsertto pianolle ja orkesterille F-duuri (Earl Wild ja Boston Pops -ork./Arthur Fiedler).
+
+          05:12 Chopin: Sonaatti sellolle ja pianolle g-molli (Gregor Piatigorsky, sello, ja Rudolf Firkusny, piano).
+
+          05:37 J.S. Bach: Brandenburgilaiset konsertot n:o 4, 5 ja 6 (Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+
       - title: Hartaita säveliä
         start_time: '2026-01-14T06:30:50+02:00'
         end_time: '2026-01-14T06:50:00+02:00'
@@ -91,7 +116,7 @@ data:
 
           Aguado: Le Fandango varié (Lorenzo Micheli, kitara).
 
-          Reinecke: Johdanto ja Allegro appassionato klarinetille ja pianolle (Michael Collins ja Michael McHale).
+          Doppler: Metsälintu (Jean-Louis Beaumadier, pikkolohuilu, sekä Jean-Marc Dalmasso, Pascal Pongy, Sandro Faita ja Didier Huot, käyrätorvi).
 
           Byrd: Ne irascaris, Domine, satis (Älä, Herra, vihastu ylenmäärin) (The Gesualdo Six/Owain Park).
 
@@ -109,7 +134,7 @@ data:
         end_time: '2026-01-14T12:05:00+02:00'
       - title: '12 diktaattoria: Stalinistit: Boleslaw Bierut, Puola'
         start_time: '2026-01-14T12:05:00+02:00'
-        end_time: '2026-01-14T12:50:00+02:00'
+        end_time: '2026-01-14T12:36:00+02:00'
         description: |
           Toisen maailmansodan jälkeen Itäisessä Euroopassa puolueiden johtoon nousivat pääasiassa vain hiukan keskimääräistä vahvemmat miehet. Nämä pohjimmiltaan keskinkertaiset byrokraatit olivat värittömiä ja vailla henkilökohtaista karismaa, mutta heidän röyhkeytensä oli parasta A-luokkaa.
           Röyhkeä byrokraattikin voi löytää sisältään voimamiehen, kun kaikki menee nappiin. Näin kävi Puolassa, Neuvostoliiton ohjauksessa olleessa vasallivaltiossa.
@@ -122,6 +147,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-14T13:30:00+02:00'
         end_time: '2026-01-14T15:00:00+02:00'
+        description: |-
+          Kennelliiton arvoiden mukaan Suomessa on n. 800 000 koiraa lemmikkinä (2023). Koira on yhä useammin tärkeä perheenjäsen. Radio 1:n iltapäivässä keskustellaan n. klo 14 koiran mielestä. Helena Telkänranta on eläinten käyttäytymistieteen tohtori, joka on kirjoittanut paljon eläinten käyttäytymisestä ja mm. tunteista. Viimeisimmässä kirjassaan hän  opastaa koiruuteen ja koiran mieleen sarjakuvan keinoin. Jalmari Laine juontaa.
       - title: 'Kulttuuriykkönen: Alana S. Porteron duunaritransromaani Paha tapa'
         start_time: '2026-01-14T15:00:00+02:00'
         end_time: '2026-01-14T15:55:00+02:00'
@@ -194,6 +221,8 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-01-14T19:02:00+02:00'
         end_time: '2026-01-14T21:00:00+02:00'
+        description: |
+          Nicholas Collon, kapellimestari, Edgar Moreau, sello. - Hans Abrahamsen: Vers le silence, Suomen ensiesitys. Erich Korngold: Sellokonsertto C-duuri. Johannes Brahms: Sinfonia nro 3 F-duuri. Suoran lähetyksen Musiikkitalosta juontaa Lotta Emanuelsson. 
       - title: 'Politiikkaradio '
         start_time: '2026-01-14T21:00:00+02:00'
         end_time: '2026-01-14T21:30:00+02:00'
@@ -205,13 +234,6 @@ data:
         end_time: '2026-01-14T22:50:00+02:00'
         description: |-
           oitia on maisemissa edelleen, ja heidän työskentelytapansa ovat kirjavia. Feminismin ja noituuden liitto on myös osalle tärkeä tapa harjoittaa noituutta. Toimittaja Nadja Mikkonen keskustelee noita-akka Hanna Eran sekä somenoitia seuraavan väitöstutkija Meri Tuovisen kanssa.
-      - title: 'Ulkolinja-podcast: Yhdysvaltoihin paenneet venäläiset ja ukrainalaiset pelkäävät karkotuksia '
-        start_time: '2026-01-14T23:20:00+02:00'
-        end_time: '2026-01-14T23:39:30+02:00'
-        description: |
-          Sadat tuhannet venäläiset ja ukrainalaiset pakenivat Yhdysvaltoihin sen jälkeen kun Venäjä hyökkäsi Ukrainaan helmikuussa 2022. Nyt Donald Trumpin valtaannousu ja rajut kiristykset maahanmuuttopolitiikkaan ovat saaneet heidät kauhun valtaan. 
-          Ulkolinjan Katja Liukkonen tapasi Los Angelesiin paenneita venäläisiä ja ukrainalaisia. Moni heistä moni joutuu nyt  pohtimaan, minne mennä,  jos Yhdysvalloista on pakko lähteä.
-          Ohjelma on julkaistu Yle Areenassa toukokuussa 2025.
       - title: Yöklassinen
         start_time: '2026-01-14T23:40:00+02:00'
         end_time: '2026-01-15T06:30:00+02:00'
