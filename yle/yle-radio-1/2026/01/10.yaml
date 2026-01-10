@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-09T02:43:21.536768+00:00'
+  generated_at: '2026-01-10T02:38:59.654648+00:00'
   git:
     branch: main
-    commit: 7517fc736a24bdcdf14dd2d668487230532ae5bb
-  data_hash: 66f59b19a67e03b30e21a6312385665aae6a3ae25dddb72e7a49a4828693087b
+    commit: 5f03b587b6ec215d2f80b670df3030b1d909bd9d
+  data_hash: eaa80723ce56f7e3a9539b99760adc463b8b004f29b5d32425168d9023713ab3
 data:
   Yle Radio 1:
     programmes:
@@ -40,8 +40,8 @@ data:
           07:17 Philidor: Sarja kahdelle huilulle n:o 3 D-duuri (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
 
       - title: 'Luomiskertomus: Antti Hyyrynen - Kouvola 2000'
-        start_time: '2026-01-10T07:31:00+02:00'
-        end_time: '2026-01-10T07:55:00+02:00'
+        start_time: '2026-01-10T07:30:45+02:00'
+        end_time: '2026-01-10T07:52:35+02:00'
         description: |+
           Antti Hyyrysen Kouvola 2000 -romaanissa tietokoneet ovat jo tulleet ja Suomen valtion valvontamekanismit kansalaisia kohtaan alkavat tiukentua. Virkanainen Kyllikki Mars saa siirron Asianhoitokeskukseen, jonne on tarkoitus tallettaa kaikki Suomen tieto. Pian Mars huomaa, että kadonneen työntekijän tapaukseen liittyy ehkä myös hänen oma menneisyytensä. 
 
@@ -52,7 +52,7 @@ data:
           Toimittaja Jukka Kuosmanen.
 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-01-10T07:55:00+02:00'
+        start_time: '2026-01-10T07:52:35+02:00'
         end_time: '2026-01-10T08:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-01-10T08:00:00+02:00'
@@ -112,6 +112,22 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-01-10T10:00:00+02:00'
         end_time: '2026-01-10T10:25:00+02:00'
+        description: |-
+          Kymmenet tuhannet israelilaiset ovat muutaman viime vuoden aikana muuttaneet pois kotimaastaan. He ovat kyllästyneet sotaan, turvattomuuteen ja poliittiseen epävakauteen.
+
+          Maailmanpolitiikan arkipäivää -ohjelmassa tavataan Portugalista uuden kodin löytäneitä Israelin ja Yhdysvaltain kansalaisia.
+
+          Heitä yhdistää se, että he katsovat kotimaansa demokratian olevan nyt henkitoreissaan.
+
+          Coimbraan muuttanut Nataly Lavi sanoo Israelin olevan koko ajan vähemmän ja vähemmän demokratia. Hän sanoo israelilaisten olevan jatkuvassa posttraumaattisessa stressissä.
+
+          Hänen mukaansa Benjamin Netanjahun hallitus on pettänyt kansan.
+
+          Lissaboniin miehensä Jarredin ja tyttärensä kanssa kotiutunut Lauren White ei aio enää palata Yhdysvaltoihin. Hänen mielestään Yhdysvallat vihaa naisia.
+
+          Jarred White puolestaan hämmentyy itsekin siitä, että hän pohtii sisällissodan mahdollisuutta.
+
+          Ohjelman on toimittanut Sampo Vaarakallio. Äänitarkkailija on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hyvät, pahat ajattelijat: George Sand'
         start_time: '2026-01-10T10:25:00+02:00'
         end_time: '2026-01-10T11:00:00+02:00'
@@ -138,7 +154,7 @@ data:
         description: |-
           Kirjailija, toimittaja ja filosofi Albert Camus’n ajattelu ja teokset löydetään aina uudelleen. Sivullisesta on jälleen tehty uusi elokuvatulkinta ja Rutto-romaani myi valtavia määriä koronapandemian aikana. Mikä sai Camus`n kehittelemään absurdin filosofiansa, mistä siinä on kyse ja miten se kajastelee läpimurtoteos Sivullisessa? Tekstin vastaanotto on aina sidoksissa aikaan – millaiset luentatavat aktivoituvat nyt Sivullisen kohdalla? 
           Marja Vehkasen kanssa monitoimi-ihmisen elämää, ajattelua ja Sivullista ruotivat yleisen kirjallisuustieteen dosentit, filosofian tohtorit Anne Riippa ja Pajari Räsänen.
-      - title: Ruben Stiller on kuin onkin musiikkimies.
+      - title: 'Näistä levyistä en luovu: Ruben Stiller on kuin onkin musiikkimies.'
         start_time: '2026-01-10T13:00:00+02:00'
         end_time: '2026-01-10T13:55:00+02:00'
         description: |-
@@ -228,7 +244,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-10T19:00:00+02:00'
         end_time: '2026-01-10T19:02:00+02:00'
-      - title: Klassisen nusiikin helmiä
+      - title: Klassisen musiikin helmiä
         start_time: '2026-01-10T19:02:00+02:00'
         end_time: '2026-01-10T21:00:00+02:00'
         description: |+
@@ -238,23 +254,35 @@ data:
 
           Ravel: Daphnis ja Chloé 3-kohtauksinen baletti kuorolle ja orkesterille. (Chicagon sinfoniakuoro ja Chicago SO/Bernard Haitink).
 
-      - title: Uutispodcast
-        start_time: '2026-01-10T21:01:00+02:00'
-        end_time: '2026-01-10T21:25:00+02:00'
+      - title: 'Uutispodcast: Parhaat 2025: Näin Helsingin opiskelijat menettivät jättiomaisuutensa'
+        start_time: '2026-01-10T21:00:32+02:00'
+        end_time: '2026-01-10T21:24:43+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Helsingin yliopiston ylioppilaskunta omisti pääkaupungin ytimestä lukuisia arvokiinteistöjä, kuten legendaarisen Vanhan ylioppilastalon, jotka se joutui myymään. Mitä tapahtui, että yksi maailman rikkaimmista ylioppilaskunnista menetti satojen miljoonien eurojen omaisuutensa? Onko opiskelijoilla edessä ankeat ajat? Reetta Röngän vieraana Ylioppilaslehden päätoimittaja Roosa Welling. Jakso on uusinta marraskuulta 2025.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-01-10T21:24:43+02:00'
+        end_time: '2026-01-10T21:48:14+02:00'
+        description: |-
+          Red Nose Company -teatteriryhmän perustajajäsen, näyttelijä Timo Ruuskanen on Miia Lahden studiovieraana. Ensilähetys 16.12.25
       - title: 'Kullervo, osa 1/3 '
-        start_time: '2026-01-10T21:51:00+02:00'
-        end_time: '2026-01-10T22:30:00+02:00'
+        start_time: '2026-01-10T21:48:14+02:00'
+        end_time: '2026-01-10T22:18:54+02:00'
         description: |-
           Vanhempansa menettänyt nuorukainen Kullervo tekee töitä orjan asemassa Untamon talossa. Hänet myydään paimeneksi seppä Ilmariselle, jonka emäntä leipoo Kullervon leipään kiven. Täynnä vihaa ja katkeruutta Kullervo päätyy koston tekoihin. Kullervo kohtaa jälleen perheensä, mutta toivon sijaan matka vie kohti tuhoa. 
 
           Aleksis Kiven Kalevalan pohjalta kirjoittamaa Kullervoa (1864) pidetään ensimmäisenä suomenkielisenä tragediana. Eero Leväluoman ohjaamassa kuunnelmassa vuodelta 1957 Kullervoa näyttelee Heikki Savolainen. 
 
           Osa 1/3.
+      - title: Radio 1 soi
+        start_time: '2026-01-10T22:18:54+02:00'
+        end_time: '2026-01-10T22:40:00+02:00'
+        description: |+
+          Boieldieu: Andante lento ja Rondeau harppukonsertosta C-duuri. (Nicanor Zabaleta, harppu, ja Berliinin radion SO/Ernst Märzendorfer).
+          Corelli: Concerto grosso F-duuri (Philharmonia barokkiork./Nicholas McGegan).
+
       - title: 'Keinuva talo - Mika Kauhanen: Kesä talven keskellä'
         start_time: '2026-01-10T22:40:00+02:00'
-        end_time: '2026-01-10T23:39:30+02:00'
+        end_time: '2026-01-10T23:39:19+02:00'
         description: |-
           Ihan vaan lämmikkeeksi on tarjolla sielun sulattavaa musiikkia! Trooppisia rytmejä ja riimejä Suomesta, tulisia tuliaisia Espanjasta, klassisen hiottua ilmaisua Marokosta sekä romanimusiikin luontaista lämpöä. Lopuksi lähdetään ihan vaan käymään kylillä kansanmusiikin viraalihitin poljennossa. Toimittajana Mika Kauhanen.
       - title: Yöklassinen

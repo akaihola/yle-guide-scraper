@@ -1,16 +1,116 @@
 metadata:
-  generated_at: '2025-11-18T02:35:55.954396+00:00'
+  generated_at: '2026-01-10T02:39:05.839084+00:00'
   git:
     branch: main
-    commit: ecb99511c307b3fa217c9451bad85ed698269374
-  data_hash: 0dcfaaed24a2801e329832a7fcf6e3675951a635a610112dd38cb2db000e2d4e
+    commit: 5f03b587b6ec215d2f80b670df3030b1d909bd9d
+  data_hash: eaa80723ce56f7e3a9539b99760adc463b8b004f29b5d32425168d9023713ab3
 data:
   Yle Radio 1:
     programmes:
-      - title: Dominante 50 - Juhlakonsertti
-        start_time: '2025-11-19T19:02:00+02:00'
-        end_time: '2026-11-19T23:59:59+02:00'
-        description: |
-          Viisikymmentä vuotta Dominante-kuoro on kuulostanut Suomelta ja Suomi Dominantelta, olipa kyseessä Sibelius, joulu tai kotimainen nykymusiikki. Aalto-yliopiston sekakuoron juhlavuosi huipentuu Musiikkitalon juhlakonsertissa, jossa kuullaan parhaita paloja Dominanten taipaleelta. Kantaesityksensä saa kolme tilausteosta suomalaisilta säveltäjiltä: Minna Leinoselta, Tapani Länsiöltä ja Jaakko Mäntyjärveltä. Konsertti päättyy suuren juhlakuoron ja Musiikkitalon urkujen yhteiseen musiikki-ilotulitukseen.
-
-          Urkurina on Pekka Suikkanen, konsertin johtaa Seppo Murto. Lauantaina 15.11. Musiikkitalossa tallennetun konsertin toimittaa Kare Eskola.
+      - title: Yöklassinen
+        start_time: '2026-02-07T23:40:00+02:00'
+        end_time: '2026-02-08T07:00:00+02:00'
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-02-08T07:00:30+02:00'
+        end_time: '2026-02-08T07:57:00+02:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-02-08T08:00:00+02:00'
+        end_time: '2026-02-08T08:05:05+02:00'
+      - title: Narrin aamulaulu - Outi Paananen
+        start_time: '2026-02-08T08:05:35+02:00'
+        end_time: '2026-02-08T09:00:00+02:00'
+        description: |-
+          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: 'Yle Uutiset '
+        start_time: '2026-02-08T09:00:00+02:00'
+        end_time: '2026-02-08T09:03:05+02:00'
+      - title: Aamusoitto
+        start_time: '2026-02-08T09:03:00+02:00'
+        end_time: '2026-02-08T09:53:00+02:00'
+      - title: Tervetuloa jumalanpalvelukseen
+        start_time: '2026-02-08T09:56:00+02:00'
+        end_time: '2026-02-08T09:59:00+02:00'
+      - title: Jumalanpalvelus
+        start_time: '2026-02-08T10:00:00+02:00'
+        end_time: '2026-02-08T10:59:20+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-02-08T11:00:00+02:00'
+        end_time: '2026-02-08T11:59:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-02-08T12:00:00+02:00'
+        end_time: '2026-02-08T12:05:00+02:00'
+      - title: Elävä historia
+        start_time: '2026-02-08T12:05:00+02:00'
+        end_time: '2026-02-08T12:55:00+02:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2026-02-08T13:00:00+02:00'
+        end_time: '2026-02-08T13:57:00+02:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Uudet levyt
+        start_time: '2026-02-08T14:00:00+02:00'
+        end_time: '2026-02-08T14:55:00+02:00'
+      - title: Ykköskolumni
+        start_time: '2026-02-08T14:55:00+02:00'
+        end_time: '2026-02-08T15:00:00+02:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+      - title: Klassikkokuunnelmia
+        start_time: '2026-02-08T15:00:00+02:00'
+        end_time: '2026-02-08T15:35:00+02:00'
+      - title: Musiikkikamari
+        start_time: '2026-02-08T15:35:00+02:00'
+        end_time: '2026-02-08T15:50:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-02-08T15:50:00+02:00'
+        end_time: '2026-02-08T15:55:00+02:00'
+      - title: Yle News
+        start_time: '2026-02-08T15:55:00+02:00'
+        end_time: '2026-02-08T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-02-08T16:00:00+02:00'
+        end_time: '2026-02-08T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-02-08T16:07:00+02:00'
+        end_time: '2026-02-08T17:00:00+02:00'
+      - title: Etnokonsertteja
+        start_time: '2026-02-08T17:00:00+02:00'
+        end_time: '2026-02-08T18:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-02-08T19:00:00+02:00'
+        end_time: '2026-02-08T19:02:05+02:00'
+      - title: 'Jazzklubin viikon keikka '
+        start_time: '2026-02-08T19:02:30+02:00'
+        end_time: '2026-02-08T20:00:00+02:00'
+      - title: Jumalanpalvelus
+        start_time: '2026-02-08T20:00:00+02:00'
+        end_time: '2026-02-08T21:00:00+02:00'
+      - title: Uutispodcast
+        start_time: '2026-02-08T21:00:30+02:00'
+        end_time: '2026-02-08T21:24:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-02-08T21:25:00+02:00'
+        end_time: '2026-02-08T22:22:00+02:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: 'Sari Valto '
+        start_time: '2026-02-08T22:23:00+02:00'
+        end_time: '2026-02-08T23:17:00+02:00'
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Romano mirits
+        start_time: '2026-02-08T23:26:00+02:00'
+        end_time: '2026-02-08T23:39:30+02:00'
+        description: |-
+          Ajankohtaista asiaa romaneista.
+      - title: Yöklassinen
+        start_time: '2026-02-08T23:40:00+02:00'
+        end_time: '2026-02-09T06:30:00+02:00'
