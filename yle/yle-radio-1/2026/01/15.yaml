@@ -1,15 +1,40 @@
 metadata:
-  generated_at: '2026-01-11T02:50:39.272374+00:00'
+  generated_at: '2026-01-12T02:48:41.219117+00:00'
   git:
     branch: main
-    commit: f0bb4e99b76a617b9f31d37da0ebc9dc7e881bb6
-  data_hash: 51155c29bec18addcc2f3681e8791d5cab3fe8f86d6eaffd1fda8ae09adbaa73
+    commit: 5b62dd9ca7e1a1935050f0f364b8109e968f6a1a
+  data_hash: a6c06c748c159562b3afdd86f196a1974787899b3c57efe6db3b6a2933c7849f
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-14T23:40:00+02:00'
         end_time: '2026-01-15T06:30:00+02:00'
+        description: |+
+          Schumann: Kreisleriana (Benno Moiseiwitsch, piano).
+
+          00:10 Beethoven: Sinfonia n:o 2 D-duuri (Berliinin filharmonikot/herbert von Karajan).
+
+          00:42 Debussy: Fêtes galantes n:o 1 (Frederica von Stade, mezzosopraano, ja Martin Katz, piano).
+
+          00:51 Diepenbrock: Sinfoninen sarja näytelmämus. Elektra (Amsterdamin Concertgebouw-ork./Claus Peter Flor).
+
+          01:15 Händel: L'Allegro, il Penseroso ed il Moderato (Nancy Armstrong, sopraano, Mary Westbrook-Geha, mezzosopraano, Sharon Baker, sopraano, Frank Kelley, tenori, ja James Maddalena, baritoni, sekä  Banchetto Musicale -kuoro ja -ork./Martin Pearlman).
+
+          03:19 Palmgren: Laulujen kirja (Topi Lehtipuu, tenori, ja Ilmo Ranta, piano).
+
+          03:29 Arenski: Viulukonsertto a-molli (Sergei Stadler ja Leningradin FO/Vladislav  Tshernushenko).
+
+          03:53 C.P.E. Bach: Berliinin sinfoniat (Carl Philipp Emanuel Bach -kamariork./Hartmut Haenchen).
+
+          04:48 Somervell: Viulukonsertto g-molli (Anthony Marwood ja BBC:n Skotlannin SO/Martyn Brabbins).
+
+          05:22 Schubert: Messu G-duuri (Dawn Upshaw, sopraano, ja David Gordon, tenori, ja William Stone, baritoni, sekä Atlantan SO:n kamarikuoro ja Atlantan SO/Robert Shaw).
+
+          05:47 W.A. Mozart: Sinfonia concertante Es-duuri (Todd Phillips, viulu, Maureen Gallagher, alttoviulu, ja Orpheus-kamariork.). 
+
+          06:20 Händel: Oboekonsertto n:o 3 g-molli (Leon Goossens ja Bathin musiikkijuhlien ork./Yehudi Menuhin).
+
       - title: Hartaita säveliä
         start_time: '2026-01-15T06:30:50+02:00'
         end_time: '2026-01-15T06:50:00+02:00'
@@ -210,3 +235,43 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-16T00:00:00+02:00'
         end_time: '2026-01-16T06:30:00+02:00'
+        description: |+
+          Tshaikovski: Viulukonsertto D-duuri (Christian Ferras ja Philharmonia-ork./Constantin Silvestri).
+
+          00:33 Cras: Suite en duo (Juliette Hurel, huilu, ja Marie-Pierre Langlamet, harppu).
+
+          00:48 Reger: Romanttinen sarja orkesterille (Dresdenin valtionork./Christian Thielemann).
+
+          01:17 Maier & Röntgen: Swedish tunes and dances (Gregory Maytan, viulu, ja Ann-Sofi Klingberg, piano).
+
+          01:37 Delius: Sellokonsertto (Jacqueline Du Pré ja Lontoon kuninkaallinen FO/Malcolm Sargent).
+
+          02:03 Dvorák: Tshekkiläinen sarja (Detroitin SO/Antal Dorati).
+
+          02:28 Crusell: Duo kahdelle klarinetille n:o 2 d-molli (Reino Simola ja Hans Rudolf Stalder).
+
+          02:40 Saint-Saëns: Pianokonsertto n:o 2 g-molli (Artur Rubinstein ja New Yorkin FO/Dimitri Mitropoulos).
+
+          03:04 Holst: Hammersmith (Eastman-puhallinork./Frederick Fennell).
+
+          03:19 Kuula: Merenkylpijäneidot (Taru Valjakka, sopraano, ja RSO/Jukka-Pekka Saraste).
+
+          03:29 Kaski: Vienankarjalainen rapsodia (RSO/Pertti Pekkanen).
+
+          03:37 Brahms: Pianotrio n:o 1 H-duuri (Myra Hess, piano, Isaac Stern, viulu, ja Pablo Casals, sello).
+
+          04:18 Melartin: Balettisarja Sininen helmi (RSO/George de Godzinsky)
+
+          04:39 Weiss: Sonaatti luutulle C-duuri (Partita Grande) (Franklin Lei).
+
+          05:07 Sinding: Sonaatti viululle ja pianolle A-duuri (Stephan Barratt-Due ja Eva Knardahl).
+
+          05:33 Ponce: Teema, muunnelmia ja finaali e-molli (Juuso Nieminen, kitara).
+
+          05:43 Hoffmeister: Huilukonsertto n:o 24 D-duuri (Prahan kamariork./Bruno Meier, huilu).
+
+          06:14 J.S. Bach - Busoni: Preludi ja fuuga D-duuri. (Peter Rösel, piano).
+
+          06:27 Dowland: Fortune My Foe (Paul O'Dette, luuttu).
+
+...
