@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-12T02:48:44.277504+00:00'
+  generated_at: '2026-01-13T02:42:10.006484+00:00'
   git:
     branch: main
-    commit: 5b62dd9ca7e1a1935050f0f364b8109e968f6a1a
-  data_hash: a6c06c748c159562b3afdd86f196a1974787899b3c57efe6db3b6a2933c7849f
+    commit: 0af62d8848487689fec98939cec92d83f496872c
+  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,13 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-01-24T10:00:00+02:00'
         end_time: '2026-01-24T10:25:00+02:00'
+      - title: 'Hyvät, pahat ajattelijat: Hannah Arendt'
+        start_time: '2026-01-24T10:25:00+02:00'
+        end_time: '2026-01-24T11:00:00+02:00'
+        description: |-
+          "Hannah Arendt sanoi aina totuuksia, joita kukaan ei halunnut kuulla”, toteaa filosofi Wolfram Eilenberger. Saksalais-amerikkalainen Hannah Arendt oli 1900-luvun merkittävimpiä filosofeja, mutta myös kiistanalainen ajattelija. Arendt sanoi, mitä hän ajatteli, eikä sitä aina katsottu hyvällä. 
+          Arendtin määritelmä totalitarismista on uraauurtava, samoin kuin hänen käsitteensä ”pahuuden arkipäiväisyydestä”. Hannah Arendtin elämästä ja filosofiasta kertovan ohjelman toimittaa Maarit Lukkarinen.
+          (es. v. 2021)
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-24T11:57:00+02:00'
         end_time: '2026-01-24T12:00:00+02:00'
@@ -99,6 +106,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-24T16:07:00+02:00'
         end_time: '2026-01-24T17:00:00+02:00'
+        description: |+
+          Smetana: Polkka oopp. Myyty morsian (Prahan filharmoninen kuoro ja Tshekkiläinen FO/Zdenek Kosler).
+
+          R. Schumann: Einfach, innig teoks. Romansseja op.94 (Martin Fröst, klarinetti, ja Roland Pöntinen, piano).
+
+          Bizet: Tarantelle (Cecilia Bartoli, mezzosopraano, ja Myung-Whun Chung, piano).
+
+          Clementi: Andante con moto sinf. n:o 1 C-duuri (Lontoon Philharmonia-ork./Francesco D'Avalos).
+
+          Field: Nokturni n:o 10 e-molli (Michael McHale, piano).
+
+          Törnudd: Hiihtäjälapset (Kouvolan musiikkiluokkien kuoro/Jouko Törmälä, sekä Pekka Ainali, piano).
+
+          Glazunov: Serenade espagnole (Jan-Erik Gustafsson, sello, ja Heini Kärkkäinen, piano). 
+
+          Fauré: Tarantella (Felicity Lott, sopraano, Ann Murray, mezzosopraano, ja Graham Johnson, piano). 
+
+          Liszt: Consolation n:o 3 Des-duuri (Sarah Chang, viulu, ja Sandra Rivers, piano).
+
+          Massenet: Des Grieux'n uni "Instant charmant - En fermant les yeux je voix" oopp. Manon (Léopold Simoneau, tenori, ja Berliinin radion SO/Paul Strauss).
+
+          Dvorak: Poloneesi orkesterille Es-duuri (Detroitin SO/Antal Dorati).
+
       - title: Marko Gustafsson
         start_time: '2026-01-24T17:00:00+02:00'
         end_time: '2026-01-24T17:53:00+02:00'
@@ -109,7 +139,8 @@ data:
         start_time: '2026-01-24T18:01:00+02:00'
         end_time: '2026-01-24T18:10:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          "Talven sinisen hetken syleilyssä"
+          Lauantai-illan rukoushetkessä pastori, kirjastoneuvoja Atte Hokkanen Helsingistä huomaa löytävänsä Jumalan kasvot talvisen metsän hämärästä.
       - title: Lauantain toivotut levyt
         start_time: '2026-01-24T18:10:00+02:00'
         end_time: '2026-01-24T19:00:00+02:00'

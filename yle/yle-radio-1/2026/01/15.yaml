@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-12T02:48:41.219117+00:00'
+  generated_at: '2026-01-13T02:42:07.884241+00:00'
   git:
     branch: main
-    commit: 5b62dd9ca7e1a1935050f0f364b8109e968f6a1a
-  data_hash: a6c06c748c159562b3afdd86f196a1974787899b3c57efe6db3b6a2933c7849f
+    commit: 0af62d8848487689fec98939cec92d83f496872c
+  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
 data:
   Yle Radio 1:
     programmes:
@@ -96,7 +96,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-15T09:04:00+02:00'
         end_time: '2026-01-15T09:59:00+02:00'
-        description: |-
+        description: |
           Lee: It's a good day (Peggy Lee).
           Anka: Olen rakastunut (Lasse Liemola).
           Distel: La belle vie (Sacha Distel).
@@ -149,11 +149,12 @@ data:
         end_time: '2026-01-15T15:00:00+02:00'
         description: |-
           Radio 1:n iltapäivä: Kansallisteatterissa saa ensi-iltansa 12.2. Esa Leskisen Toinen tasavalta. Näytelmä kertoo Suomesta Neuvostoliiton naapurina, kansainvälisten selkkausten ja sisäisten poliittisten ristiriitojen paineessa.Toisen tasavallan keskushenkilö on Urho Kekkonen, jota nuorena esittää Janne Reinikainen. Kekkosen rooliin valmistautuva Reinikainen tulee Radio 1:n iltapäivän vieraaksi n. klo 14. Reinikainen on uransa aikana uinut Kekkoseksi jo useaan otteeseen. Miten hän lähestyy rooliaan nyt? Miia Lahti juontaa.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Masennus on myös filosofinen ongelma'
         start_time: '2026-01-15T15:00:00+02:00'
         end_time: '2026-01-15T15:55:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |+
+          Masennus on ilmiönä moniulotteisempi kuin pelkkä sairaus tai häiriö, sanoo filosofi Aku Visala. Siksi sitä tulee hänen mukaansa lähestyä myös muuten kuin lääketieteen tai psykologian kannalta. Masennukseen kytkeytyy monia filosofisesti, eettisesti ja uskonnollisesti olennaisia teemoja kuten hyvä elämä, vapaus, vastuu ja kysymys tietoisuuden luonteesta. Visala on kirjoittanut Masennuksen filosofiasta tuoreen tietokirjan. Keskustelemassa Aku Visala ja filosofi Pii Telakivi. Toimittajana on Jonni Roos.
+
       - title: Yle News
         start_time: '2026-01-15T15:55:00+02:00'
         end_time: '2026-01-15T15:58:00+02:00'
@@ -165,6 +166,27 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-15T16:07:00+02:00'
         end_time: '2026-01-15T16:59:00+02:00'
+        description: |+
+          Arnold: A flourish for orchestra (BBC:n FO/Rumon Gamba).
+
+          Britten: Tell me the truth about love sarj. Cabaret songs (Iida Antola, sopraano, ja Kirill Kozlovski, piano).
+
+          Spinei: Keep moving (Pysy liikkeellä) (Hiyoli Togawa, alttoviulu).
+
+          Kálmán: Alkusoitto oper. Kreivitär Mariza (Cincinnati Pops/Erich Kunzel).
+
+          Nava d'Adda: Scherzo pianotriosta Es-duuri (La Gaia Scienza).
+
+          Cawrse: Grounded (Slava Grigoryan, kitara, ja Sharon Grigoryan, sello).
+
+          G. Boije: Valse interrompue (Keskeytynyt valssi) (Maria Suokas, piano).
+
+          Purcell: Didon resitatiivi ja aaria "Thy hand Belinda - When I am laid in earth" oopp. Dido ja Aeneas (Patricia Petibon, sopraano, ja La Cetra/Andrea Marcon).
+
+          Bonds: Troubled water (Althea Waites, piano).
+
+          Dvorak: Finaali jousikvartetosta n:o 12 F-duuri (Amerikkalainen) (Avi Avital, mandoliini, Simone Bernardini, viulu, Amihai Grosz, alttoviulu, Zvi Plesser, sello, Klaus Stoll, kontrabasso, ja Ivano Battiston, harmonikka).
+
       - title: Uutispodcast
         start_time: '2026-01-15T17:00:00+02:00'
         end_time: '2026-01-15T17:20:00+02:00'
@@ -203,6 +225,11 @@ data:
       - title: Jazzklubin viikon keikka
         start_time: '2026-01-15T19:02:00+02:00'
         end_time: '2026-01-15T20:00:00+02:00'
+        description: |-
+          Äänitetty Kölner Philharmoniessa 5.7.2025.
+
+          Chris Potterin kuva: WDR.
+          Toimittajana Eero Koski.
       - title: Klassinen kattaus
         start_time: '2026-01-15T20:00:00+02:00'
         end_time: '2026-01-15T20:57:00+02:00'

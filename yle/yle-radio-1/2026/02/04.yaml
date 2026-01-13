@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-12T02:48:47.589934+00:00'
+  generated_at: '2026-01-13T02:42:12.837763+00:00'
   git:
     branch: main
-    commit: 5b62dd9ca7e1a1935050f0f364b8109e968f6a1a
-  data_hash: a6c06c748c159562b3afdd86f196a1974787899b3c57efe6db3b6a2933c7849f
+    commit: 0af62d8848487689fec98939cec92d83f496872c
+  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
 data:
   Yle Radio 1:
     programmes:
@@ -97,9 +97,38 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-04T19:00:00+02:00'
         end_time: '2026-02-04T19:02:00+02:00'
-      - title: Kotimainen konsertti
+      - title: 'Kaustisen kamarimusiikkiviikko: Folk Songs'
         start_time: '2026-02-04T19:02:00+02:00'
         end_time: '2026-02-04T21:00:00+02:00'
+        description: |-
+          Matkalla musiikissa ja maailmassa: inspiraatiota, tulkintoja, lainauksia, sovituksia. Aili Järvelä hyppää klassisen musiikin syvään päätyyn Luciano Berion Folk Songs -sarjan laulusolistina. Väliajan jälkeen Järvelä ja hänen yhtyeensä Bergå Folk Project (BFP) kruunaavat kahden genren superkonsertin esittämällä Emma-palkitut folk-versiointinsa samaisesta teoksesta. 29.1.2026 Kaustisen kansantaiteen keskuksessa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Ohjelma:
+
+          Franz Schubert: Gute Nacht (laulusarjasta Winterreise, op. 89), sov. alttoviululle ja harpulle
+          Hanna Pakkala, alttoviulu, Maaria Pulakka, harppu
+
+          Onutė Narbutaitė: Winterserenade (1997)
+          Kaisa Kortelainen, huilu, Kasmir Uusitupa, viulu, Hanna Pakkala, alttoviulu
+
+          Luciano Berio: Lied (1983)
+          Hanna Hujanen, klarinetti
+
+          Luciano Berio: Folk Songs (1964)
+
+          Aili Järvelä, mezzosopraano, Kasmir Uusitupa, kapellimestari, Hanna Hujanen, klarinetti, Kaisa Kortelainen, huilu, Jerry Piipponen, lyömäsoittimet, Hanna Pakkala, alttoviulu, Maaria Pulakka, harppu, Alma Stupak, sello, Walter Witick, lyömäsoittimet
+
+          VÄLIAIKA
+
+          BFP esittää: Bergå Folk Project
+
+          Aili Järvelä – laulu, viulu, harmooni
+          Esko Grundström – kontrabasso, haitari, kanteleet, harmooni, laulu
+          Iida Savolainen – alttoviulu, laulu, jouhikko, viulu
+          Topi Korhonen – kitara, mandoliini, harmooni, laulu
+
+          Kuvassa: Aili Järvelä ©Antti Kokkola
+           
       - title: 'Politiikkaradio '
         start_time: '2026-02-04T21:00:00+02:00'
         end_time: '2026-02-04T21:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-12T02:48:47.055433+00:00'
+  generated_at: '2026-01-13T02:42:12.304836+00:00'
   git:
     branch: main
-    commit: 5b62dd9ca7e1a1935050f0f364b8109e968f6a1a
-  data_hash: a6c06c748c159562b3afdd86f196a1974787899b3c57efe6db3b6a2933c7849f
+    commit: 0af62d8848487689fec98939cec92d83f496872c
+  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
 data:
   Yle Radio 1:
     programmes:
@@ -108,6 +108,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-02T19:00:00+02:00'
         end_time: '2026-02-02T19:02:00+02:00'
+      - title: Unelmana etulinja – Miksi joku ryhtyy palkkasoturiksi?
+        start_time: '2026-02-02T19:02:00+02:00'
+        end_time: '2026-02-02T19:50:00+02:00'
+        description: |-
+          Sami on 34-vuotias kansainvälistä sotilasuraa tekevä tarkka-ampuja. Hän jätti Suomen puolustusvoimien tylsät hommat ja pestautui Ranskan muukalaislegioonaan unelmanaan paikka etulinjasta. Seuraavaksi tavoitteena on päästä kiertämään maailmaa yksityisen yrityksen leivissä, ase kourassa. 
+          Mitä nykyajan palkka-armeijat ovat ja keitä niissä on töissä? Toimittaja Ippi Arjanne ja tuottaja Hanna Asikainen tutustuvat siihen, miten modernin ajan palkkasoturi hakee töitä. Asiantuntija Mikko Räkköläinen pohtii palkka-armeijoiden historiaa. Jakso on julkaistu alunperin kesäkuussa 2023.
       - title: Ulkolinja-podcast
         start_time: '2026-02-02T20:05:00+02:00'
         end_time: '2026-02-02T20:25:00+02:00'
