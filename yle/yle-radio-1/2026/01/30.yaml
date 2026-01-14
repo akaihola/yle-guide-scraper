@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-13T02:42:11.709657+00:00'
+  generated_at: '2026-01-14T02:47:36.626602+00:00'
   git:
     branch: main
-    commit: 0af62d8848487689fec98939cec92d83f496872c
-  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
+    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
+  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
 data:
   Yle Radio 1:
     programmes:
@@ -114,6 +114,39 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-30T19:00:00+02:00'
         end_time: '2026-01-30T19:02:00+02:00'
+      - title: 'Kaustisen kamarimusiikkiviikko & Juha Hurme: Vuonna 1906 Algot Untola ja mullistusten maailma'
+        start_time: '2026-01-30T19:02:00+02:00'
+        end_time: '2026-01-30T21:00:00+02:00'
+        description: |-
+          Vintturin kylätalon konsertissa matkustetaan vuoteen 1906, jolloin Algot Untola, myöhemmin muun muassa Maiju Lassilana tunnettu kirjailija, toimi opettajana Vintturin kansakoulussa. Musiikkiesitysten lomassa kirjailija Juha Hurme taustoittaa Lassilan värikästä elämää ja toimintaa mullistuksen vuosina. Konsertin musiikkivalinnat vievät kuulijat 120 vuoden taakse. 28.1.2026 Vintturin kylätalossa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Franz Schubert: Marche militaire nr 1 
+          Erkki Virkkala ja Iikka Huntus, viulu, Tiila Kangas, alttoviulu ja Alma Stupak, sello
+
+          Lilly Kajanus-Blenner:
+          Impromptu
+          Largo
+          Mazurka
+
+          Maaria Pulakka, harppu
+
+          Toivo Kuula : Aamulaulu (1905) 
+          Hanna Hujanen, klarinetti ja Maaria Pulakka, harppu
+
+          Henriette Renié: Contemplation 
+          Maaria Pulakka, harppu
+
+          Claude Debussy: Syrinx 
+          Kaisa Kortelainen, huilu
+
+          Théodore Dubois: Terzettino 
+          Kaisa Kortelainen, huilu, Hanna Hujanen, klarinetti ja Maaria Pulakka, harppu
+
+          sov.Iikka Huntus ja Erkki Virkkala: Bach Sipeelius
+          Kaustisen kamarimusiikkiviikon Vuoden nuorten taiteilijoiden, kaustislaisen viulistiduo Erkki Virkkalan ja Iikka Huntuksen, omaa virtuoosista tuotantoa. Potpurissa vilahtaa myös Jean Sibeliuksen viulukonsertto vuodelta 1905.
+
+
+          Kuva: Juha Hurme (©Elina Tuomarila)
       - title: Politiikkaradio
         start_time: '2026-01-30T21:00:01+02:00'
         end_time: '2026-01-30T21:30:00+02:00'

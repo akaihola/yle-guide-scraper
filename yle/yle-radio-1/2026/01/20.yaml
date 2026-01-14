@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-13T02:42:09.063208+00:00'
+  generated_at: '2026-01-14T02:47:33.805406+00:00'
   git:
     branch: main
-    commit: 0af62d8848487689fec98939cec92d83f496872c
-  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
+    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
+  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-20T07:06:00+02:00'
         end_time: '2026-01-20T08:00:00+02:00'
+        description: |+
+          Tshaikovski: Takkatulen ääressä (Juhani Lagerspetz, piano).
+
+          Busoni: Andantino, con grazia Pienestä sarjasta (Dorothy Lawson, sello, ja Steven Blier, piano).
+
+          O. Merikanto (sov. Panula): Romanssi (Turun FO/Jorma Panula).
+
+          Wagner: Albuminlehti C-duuri (Eero Heinonen, piano).
+
+          Johansson: Menuetto (Jan-Erik Gustafsson, sello, ja Arto Satukangas, piano).
+
+          Paradis: Sicilienne (Seeli Toivio, sello, ja Lily-Marlene Puusepp, harppu).
+
+          Pachelbel: Kaanon (The Canadian Brass).
+
+          Schubert: Impromptu Ges-duuri (Alfred Brendel, piano). 
+
+          Gnattali: Allegretto comodo sonaatista sellolle ja kitaralle (Wen-Sinn Yang ja Franz Halasz).
+
+          Faure: Pastoraali sarjasta Masques et bergamasques, op.112 (Orpheus-kamariorkesteri).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-20T08:00:00+02:00'
         end_time: '2026-01-20T08:07:00+02:00'
@@ -95,7 +116,14 @@ data:
         start_time: '2026-01-20T15:00:00+02:00'
         end_time: '2026-01-20T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Monessa Euroopan maassa harkitaan nyt lasten ja nuorten sosiaalisen median kieltoa, jollainen tuli Australiassa voimaan joulukuussa. Pääministeri Petteri Orpo kannattaa sosiaalisen median rajoittamista alle 15-vuotiailta vahvan tutkimusnäytön vuoksi, joka yhdistää runsasta some-käyttöä mielenterveysongelmiin ja heikompaan uneen, ja on käynnistänyt selvitystyön ikärajan toteuttamisesta Suomessa.
+          Onko nykyinen keskustelu sosiaalisesta mediasta liian aikuiskeskeistä, ja onko se saanut moraalipaniikin piirteitä? 
+          Tuleeko Suomeenkin somekielto lapsille ja osalle nuorista? Mitkä asiat puhuvat sen puolesta ja mitkä sitä vastaan? Millaisia haasteita siihen kätkeytyy? 
+
+          Vieraina ovat eduskunnan sivistysvaliokunnan puheenjohtaja Tuula Haatainen, sosiaalipsykologi ja tietokirjailija Janne Viljamaa, jolta on juuri ilmestynyt teos Kännykkäkärsimys kotona ja koulussa, sekä Helsingin yliopiston tohtorikoulutettava Essi Holopainen, joka on työkennellyt tutkijana nuorisotutkimusseurassa. 
+          Keskusteluun osallistuu etäyhteydellä Oulusta lapsiasiavaltuutettu Elina Pekkarinen.
+
+          Ohjelman juontaa Nicklas Wancke.
       - title: Yle News
         start_time: '2026-01-20T15:55:00+02:00'
         end_time: '2026-01-20T15:58:00+02:00'
@@ -144,7 +172,8 @@ data:
         start_time: '2026-01-20T18:50:00+02:00'
         end_time: '2026-01-20T19:00:00+02:00'
         description: |-
-          Pastori Sergei Petsalo, Ortodoksinen kirkko, Helsinki
+          "Aika on suuri lahja"
+          Pastori Sergei Petsalo, Ortodoksinen kirkko, Helsinki puhuu ajasta, jonka Jumala on antanut ihmisen käyttöön.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-20T19:00:00+02:00'
         end_time: '2026-01-20T19:02:00+02:00'
@@ -160,9 +189,11 @@ data:
         end_time: '2026-01-20T20:15:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Hanna Paavilainen nyrkkeilee'
         start_time: '2026-01-20T20:15:00+02:00'
         end_time: '2026-01-20T20:35:00+02:00'
+        description: |-
+          Hanna Paavilainen on nyrkkeilevä pappi. Toimittajana Maija Salminen
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-01-20T20:35:00+02:00'
         end_time: '2026-01-20T21:00:00+02:00'

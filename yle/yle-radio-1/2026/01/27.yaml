@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-13T02:42:10.979112+00:00'
+  generated_at: '2026-01-14T02:47:35.847978+00:00'
   git:
     branch: main
-    commit: 0af62d8848487689fec98939cec92d83f496872c
-  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
+    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
+  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
 data:
   Yle Radio 1:
     programmes:
@@ -36,6 +36,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-27T09:04:00+02:00'
         end_time: '2026-01-27T09:59:00+02:00'
+        description: |-
+          W.A. Mozart: Mozart 40 (Päivi Paunu ja Aarno Raninen).
+          Gershwin: But not for me (Sammy Davis, Jr.).
+          Hazzard: Kysyn vain (Kristiina Hautala). 
+          Jobim: Åh, så intensiv (Lill Lindfors).
+          Mononen: Kangastus (Reijo Taipale).
+          Kosma: Romance (Juliette Gréco).
+          Jürgens: Ein Ehrenwertes Haus (Udo Jürgens).
+          MacColl: The first time ever I saw your face (Peter, Paul and Mary).
+          Fugain: Kai muistat sen (Katri Helena).
+          Bagdasarian: Hey, brother pour the wine (Dean Martin).
+          Migliacci/Zambrini: In ginocchio da te (Gianni Morandi). 
+          Lugg: Laulu Jamaikan rommista (Tuula-Anneli Rantanen).
+          Kärki: Ukulele-Mary (Olavi Virta).
+          Fisher: Just an old fashioned girl (Eartha Kitt).
+          Kern: Ol' man river laulu elok. Show boat (Paul Robeson). 
       - title: Sari Valto
         start_time: '2026-01-27T10:00:00+02:00'
         end_time: '2026-01-27T10:55:00+02:00'
@@ -130,7 +146,7 @@ data:
         end_time: '2026-01-27T20:15:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Anna Keränen harrastaa burleskia'
         start_time: '2026-01-27T20:15:00+02:00'
         end_time: '2026-01-27T20:35:00+02:00'
       - title: Maailmanpolitiikan arkipäivää

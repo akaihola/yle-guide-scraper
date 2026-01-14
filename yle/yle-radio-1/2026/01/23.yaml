@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-13T02:42:09.808056+00:00'
+  generated_at: '2026-01-14T02:47:34.578116+00:00'
   git:
     branch: main
-    commit: 0af62d8848487689fec98939cec92d83f496872c
-  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
+    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
+  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
 data:
   Yle Radio 1:
     programmes:
@@ -16,8 +16,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-01-23T06:50:00+02:00'
         end_time: '2026-01-23T06:59:59+02:00'
-        description: |-
-          Kanttori Katja Mäkiö, Tampere
+        description: |
+          "Musiikki on universaali kieli"
+          Kanttori Katja Mäkiö Tampereelta kuvailee kuorossa laulamisen synnyttämää iloa ja huomaa hengellisen musiikin laulamisen luovan yhteyttä laulajien kesken.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-23T07:00:00+02:00'
         end_time: '2026-01-23T07:05:00+02:00'
@@ -44,7 +45,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-23T10:55:00+02:00'
         end_time: '2026-01-23T11:00:00+02:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Äänirautaa rajalle eli musiikki Suomen ja Neuvostoliiton kulttuurivaihdossa
         start_time: '2026-01-23T11:00:00+02:00'
         end_time: '2026-01-23T11:55:00+02:00'
         description: |-

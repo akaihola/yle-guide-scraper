@@ -1,15 +1,38 @@
 metadata:
-  generated_at: '2026-01-13T02:42:08.314286+00:00'
+  generated_at: '2026-01-14T02:47:32.539616+00:00'
   git:
     branch: main
-    commit: 0af62d8848487689fec98939cec92d83f496872c
-  data_hash: 0e9a5ed117947347967f25a45c5bee63d0c641a3235651748f3936a295512ed6
+    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
+  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-16T23:40:00+02:00'
         end_time: '2026-01-17T07:30:00+02:00'
+        description: |2-
+
+          Giordano: Andrea Chénier, ooppera (Plácido Domingo, tenori, Renata Scotto, sopraano, Jean Kraft, mezzosopraano, Maria Ewing, mezzosopraano, Sherrill Milnes, baritoni, Allan Monk, baritoni, ja basso Stuart Harling, sekä John Alldis -kuoro ja Lontoon kansallinen FO/James Levine).
+
+          01:38 Skrjabin: Kymmenen masurkkaa (Eric Le Van, piano).
+
+          02:15 Magnard: Sonaatti sellolle ja pianolle A-duuri (Thomas Demenga ja Christoph Keller).
+
+          02:41 Mendelssohn: Lobgesang op.52 (Celestina Casapietra, sopraano, Adele Stolte, sopraano, Peter Schreier, tenori, sekä Leipzigin radiokuoro ja Gewandhaus-ork./Kurt Masur).
+
+          03:43 Dvorák: Sellokonsertto h-molli (Mstislav Rostropovitsh ja Clevelandin ork./George Szell).
+
+          04:24 Sibelius: Pianotrio D-duuri (Korppoo-trio) (Sibelius-pianotrio).
+
+          04:59 Rahmaninov: Pianosonaatti n:o 1 d-molli (Santiago Rodriguez).
+
+          05:35 W.A. Mozart: Klarinettikvintetto A-duuri (Harold Wright ja Bostonin SO:n kamariyhtye).
+
+          06:09 Barrios: El sueño de la muñequita (Pienen nuken uni) (Enno Voorhorst, kitara).
+
+          06:12 J.S. Bach: Konsertto kahdelle cembalolle, jousille ja continuolle n:o 2 C-duuri (Pierre Hantaï ja Aapo Häkkinen, cembalo, sekä Helsingin barokkiork.)
+
+          07:05 Rebel: Les Élémens (Elementit) (Tempesta di Mare).
       - title: Luomiskertomus
         start_time: '2026-01-17T07:31:00+02:00'
         end_time: '2026-01-17T07:55:00+02:00'
@@ -46,9 +69,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-17T08:35:00+02:00'
         end_time: '2026-01-17T08:40:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Hanna Paavilainen nyrkkeilee'
         start_time: '2026-01-17T08:40:00+02:00'
         end_time: '2026-01-17T09:00:00+02:00'
+        description: |-
+          Hanna Paavilainen on nyrkkeilevä pappi. Toimittajana Maija Salminen
       - title: 'Yle Uutiset '
         start_time: '2026-01-17T09:00:00+02:00'
         end_time: '2026-01-17T09:03:00+02:00'
@@ -100,11 +125,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-17T13:55:00+02:00'
         end_time: '2026-01-17T14:00:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Mureneeko oikeusvaltio?'
         start_time: '2026-01-17T14:00:00+02:00'
         end_time: '2026-01-17T14:55:00+02:00'
-        description: |-
-          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+        description: |
+          Mureneeko oikeusvaltio?
+          Professori Jukka Kekkonen analysoi oikeusvaltioiden historiaa, mutta siirtyy pian tarkastelemaan haasteita, joita populismi, radikalismi ja tiedon epätasainen jakautuminen sekä sivistyksen ylenkatsominen tuottavat.
       - title: 'Ykköskolumni: Pakottava kontrollointi ei jätä mustelmia, mutta se on silti väkivaltaa'
         start_time: '2026-01-17T14:55:00+02:00'
         end_time: '2026-01-17T15:00:00+02:00'
@@ -232,3 +258,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-17T23:40:00+02:00'
         end_time: '2026-01-18T07:00:00+02:00'
+        description: |+
+          Viviani: Sonaatti trumpetille ja continuolle n:o 1 C-duuri (Håkan Hardenberger ja I Musici).
+
+          23:45 J.S. Bach: Sarja orkesterille n:o 4 D-duuri (Freiburgin barokkiork./Thomas Hengelbrock).
+
+          00:05 R. Schumann: Ballszenen (Tanssiaiskohtauksia) (Hector Moreno ja Norberto Capelli, piano)
+
+          00:35 Lasso: Ad te levavi oculos meos (Minä nostan silmäni sinun puoleesi, joka taivaissa asut) (The King's Singers).
+
+          00:43 W.A. Mozart (sov. Triebensee): Sarja oopp. Tituksen Lempeys kohtauksista (Budapestin puhallinyhtye).
+
+          00:59 Beethoven: Sinfonia n:o 1 C-duuri (Berliinin filharmonikot/Herbert von Karajan).
+
+          01:26 Skrjabin: Pianosonaatit n:o 6-10 (Boris Berman, piano).
+
+          02:25 Ernst: Fantaisie brillante (Sherban Lupu, viulu, ja Ian Hobson, piano).
+
+          02:39 Burgmüller: Jousikvartetto n:o 4 a-molli (Mannheimin jousikvartetti).
+
+          03:14 Schubert: Rosamunde, näyttämömusiikkia (Elly Ameling, sopraano, ja Leipzigin radiokuoro sekä Leipzigin Gewandhaus-ork./Kurt Masur). 
+
+          04:16 Mendelssohn: Jousikvartetto n:o 1 Es-duuri (Emerson-kvartetti).
+
+          04:40 Bartók: Konsertto orkesterille (RSO/Sakari Oramo).
+
+          05:19 Catoire: Pianotrio f-molli (Catoire Ensemble).
+
+          W.A. Mozart: Jousikvartetto n:o 21 D-duuri (Mosaïques-kvartetti).
+
+          06:17 Händel: Concerto grosso F-duuri op.3/4 (L'Arpa Festante München/Michi Gaigg).
+
+          06:31 Rameau: Sarja oopp. Les Boréades (Le Concert des Nations/Jordi Savall).
+
+...
