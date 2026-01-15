@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-14T02:47:34.061332+00:00'
+  generated_at: '2026-01-15T02:43:39.884957+00:00'
   git:
     branch: main
-    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
-  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
+    commit: 1b08851535bce949a0f694654acebd6ca1f51816
+  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
 data:
   Yle Radio 1:
     programmes:
@@ -25,12 +25,33 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-21T07:06:00+02:00'
         end_time: '2026-01-21T08:00:00+02:00'
+        description: |+
+          Castello: Sonaatti n:o 5 (Christian Lindberg, pasuuna, Richard Tognetti, viulu, ja Australian kamariork.).
+
+          D. Scarlatti: Sonaatti C-duuri (David Russell, kitara).
+
+          Lauridsen: Sure on this shining night (Spira Ensemble/Kari Turunen, ja Kristian Nyman, piano).
+
+          Jadin: Alkusoitto F-duuri (The Wallace Collection/John Wallace).
+
+          Schubert - Prokofjev: Valsseja (Antti Siirala, piano).
+
+          Glazunov: Espanjalainen serenadi (Steven Isserlis, sello, ja Euroopan kamariork./John Eliot Gardiner).
+
+          Saint-Saens: Joutsen (Peter Fuezes, käyrätorvi, ja Csilla Szentpeteri, piano).
+
+          Brahms: Allegro appassionato sonaatista Es-duuri (Emmanuel Pahud, huilu, ja Yefim Bronfman, piano).
+
+          Rimski-Korsakov: Ilveilijöiden tanssi oopp. Lumityttö (Minnesotan ork./Eiji Oue).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-21T08:00:00+02:00'
         end_time: '2026-01-21T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-01-21T08:07:00+02:00'
         end_time: '2026-01-21T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-21T09:00:00+02:00'
         end_time: '2026-01-21T09:03:00+02:00'
@@ -86,11 +107,19 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-21T13:30:00+02:00'
         end_time: '2026-01-21T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+        description: |-
+          Juontajana Jarmo Laitaneva. Radio 1:n iltapäivässä alkaa sarja Muumikirjojen matkassa. Käymme läpi  yhdeksän muumikirjaa ja saamme yhdeksän erilaista näkemystä Muumeista. Sarja liittyy Ylen lukumaratoniin, jossa luetaan kaikki Tove Janssonin Muumi-kirjat viikonloppuna tammi- ja helmikuun vaihteessa. N. klo 14  Shawn Huff työskentelee Helsingin kasvatuksen ja koulutuksen apulaispormestarin sijaisena ja on entinen ammattikoripalloilija ja Suomen koripallomaajoukkue Susijengin kapteeni. Hän pohtii toimittaja Miia Lahden kanssa Tove Janssonin Taikurin hattu -romaanin seikkailuja. N. klo 14:30 pasunisti Darren Acosta kertoo työstään toimittaja Lotta Emanuelssonille. (Ensilähetys oli 21.11.25.)
+      - title: 'Kulttuuriykkönen: Palkittu Pluribus-tv-sarja ja invaasioscifin viehätys'
         start_time: '2026-01-21T15:00:00+02:00'
         end_time: '2026-01-21T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Supersuositun Breaking Bad ja Better Call Saul -tv-sarjojen tekijän Vince Gillianin uusi Pluribus on yksi vuodenvaihteen puhutuimpia ja ylistetympiä scifitapauksia. Pluribuksessa ulkoavaruudesta saapuva virus tekee ihmisistä rauhanomaisia ja onnellisia kollektiivisesti yhteistä hyvää ajattelevia olentoja. Kirjailija Carol Sturka on yksi harvoista, joka on immuuni virukselle. Hän näkee ilmiön dystooppisena ongelmana, jonka hän haluaa kumota. 
+
+          Carolin näyttelijä Rea Sheehorn sai roolistaan Golden Globe -palkinnon, ja Pluribus oli ehdolla parhaan draamasarjan palkinnon saajaksi. Mihin sarjan viehätys perustuu? Mitä se kertoo meidän ajastamme? Ja miten mustasta huumorista ja kyynisen realistisesta Amerikka-kuvauksistaan tunnettu Gillian onnistuu tieteissarjan luojana?
+
+          Invaasioscifin perinne voi muutenkin hyvin. Genren klassikkoteoksesta, Jack Finneyn Invasion of the Body Snatchers -romaanista on tehty useita eri elokuvaversioita: 1956 Ruumiinryöstäjät, 1978 Ihmispaholaiset, 1993 Ruumiinsieppaajat sekä 2007 Tunkeutujat. Viime vuonna suosittu Invasion-sarja saatiin päätökseen, ja kesällä 2026 julkaistaan Steven Spielbergin uusi elokuva Disclosure Day, mitkä molemmat edustavat samaa genreä. Mikä tämän tyylisissä elokuvissa ja sarjoissa meitä viehättää tai kauhistuttaa? Mitä invaasioscifin taustalla on, ja miten sen tuoreemmat versiot vertautuvat myöhäisempiin? Millaisia reaalimaailman analogioita ja pelkoja ne peilaavat?
+
+          Vieraina elokuviin erikoistunut toimittaja-tietokirjailija Matti Rämö ja sci-fiin erikoistunut tuottaja Olli Kangassalo. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2026-01-21T15:55:00+02:00'
         end_time: '2026-01-21T15:58:00+02:00'

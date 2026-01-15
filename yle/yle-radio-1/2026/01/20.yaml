@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-14T02:47:33.805406+00:00'
+  generated_at: '2026-01-15T02:43:39.031201+00:00'
   git:
     branch: main
-    commit: 9c4de47469d3469d03d5a42f5a6a2f3851e90dc5
-  data_hash: 3f5dbdc4c1b3e61069acbbf78b4d2c2e3934b8348572e8b1a9b56e7aeb08de27
+    commit: 1b08851535bce949a0f694654acebd6ca1f51816
+  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
 data:
   Yle Radio 1:
     programmes:
@@ -51,6 +51,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-01-20T08:07:00+02:00'
         end_time: '2026-01-20T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-20T09:00:00+02:00'
         end_time: '2026-01-20T09:03:00+02:00'
@@ -73,11 +75,11 @@ data:
           Tynnilä: Pieni sydän (Eija Merilä).
           Bruns: The Ballad of Davy Crockett (The Wellingtons).
           Brooks/Warren: That's amore (Dean Martin).
-      - title: Sari Valto
+      - title: 'Sari Valto: Tiedostamattoman mielen mysteeri'
         start_time: '2026-01-20T10:00:00+02:00'
         end_time: '2026-01-20T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Unitutkija, professori Anu-Katriina Pesonen ja psykoanalyytikko Vesa Manninen keskustelevat ihmisen tiedostamattomasta mielestä. Mitä siitä tiedetään ja mikä merkitys sillä on käyttäytymiseemme?
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-20T10:55:00+02:00'
         end_time: '2026-01-20T11:00:00+02:00'
@@ -112,6 +114,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-20T13:30:00+02:00'
         end_time: '2026-01-20T15:00:00+02:00'
+        description: |-
+          Juontajana Miia Lahti. Radio 1:n iltapäivässä sarjassa Muumikirjojen matkassa tutkija Sirke Happonen keskustelee n. klo 14 toimittaja Jari Aulan kanssa Tove Janssonin romaanista Muumipapan urotyöt. N. klo 14.30 elokuvaohjaaja Hamdi Amir Samppa Batal kertoo häntä koskettaneista kulttuurielämyksistä. Marko Gustafsson haastattelee.
       - title: Kulttuuriykkönen
         start_time: '2026-01-20T15:00:00+02:00'
         end_time: '2026-01-20T15:55:00+02:00'
