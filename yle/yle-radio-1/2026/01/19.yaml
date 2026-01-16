@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-15T02:43:38.351523+00:00'
+  generated_at: '2026-01-16T02:43:57.114130+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
@@ -116,9 +116,9 @@ data:
           John: Your song (Elton John).
           Martin: Theme one (George Martin and his Orchestra). 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-01-19T10:52:00+02:00'
+        start_time: '2026-01-19T10:50:00+02:00'
         end_time: '2026-01-19T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kirjeitä musiikista'
         start_time: '2026-01-19T11:00:00+02:00'
         end_time: '2026-01-19T11:57:00+02:00'
         description: |-
@@ -237,9 +237,11 @@ data:
       - title: Tosi tarina
         start_time: '2026-01-19T19:02:00+02:00'
         end_time: '2026-01-19T19:50:00+02:00'
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Epätoivo ja häpeä ajavat venäläissotilaita itsemurhiin Ukrainassa '
         start_time: '2026-01-19T20:05:00+02:00'
         end_time: '2026-01-19T20:25:00+02:00'
+        description: |-
+          Venäläiset sotilaat ajautuvat Ukrainan taisteluissa helposti itsemurhaan epätoivon ja myrkyllisen armeijakultturin takia. 
       - title: 'Hyvät, pahat ajattelijat: Edith Stein'
         start_time: '2026-01-19T20:25:00+02:00'
         end_time: '2026-01-19T21:00:00+02:00'
@@ -264,3 +266,47 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-19T23:40:00+02:00'
         end_time: '2026-01-20T06:30:00+02:00'
+        description: |+
+          Messager: Osia bal. Kaksi kyyhkystä (Covent Garden -oopperan ork./Charles Mackerras).
+
+          00:03 Turina: Sonaatti kitaralle (Manuel Barrueco).
+
+          00:14 Rabaud: La Procession nocturne (Öinen kulkue) (Reininmaan ja Pfalzin valtiollinen FO/Leif Segerstam).
+
+          00:31 Berteau: Sonaatti sellolle ja continuolle F-duuri op.1/4 (Christophe Coin, sello, Petr Skalka, sello, ja Markus Hünninger, cembalo).
+
+          00:47 von Dittersdorf: Viulukonsertto G-duuri (Martin Kos ja Tshekkiläinen filharmoninen kamariork./Petr Chromcák).
+
+          01:15 Furuhjelm: Kansanomainen sarja orkesterille (RSO/Okko Kamu). 
+
+          01:27 Caplet: Kvintetto huilulle, oboelle, klarinetille, fagotille ja pianolle (Les Vents Francais).
+
+          01:54 Bridge: Oration, sellokonsertto (Alban Gerhardt ja BBC:n Walesin kansallisork./Richard Hickox).
+
+          02:24 W.A. Mozart: Pianosonaatti n:o 11 A-duuri (Juho Pohjonen).
+
+          02:47 Verdi: Procidan aaria  "O tu, Palermo" oopp. Sisilialainen vesper (Boris Christoff, basso, ja Philharmonia.ork./Wilhelm Schüchter).
+
+          02:52 Beethoven: Jousikvartetto n:o 12 Es-duuri (Smetana-kvartetti).
+
+          03:27 R. Strauss: Don Juan (RSO/Sakari Oramo).
+
+          03:44 Chopin: Fantasia f-molli (Claudio Arrau, piano).
+
+          03:58 Mielck: Macbeth-alkusoitto (RSO/Erik Cronvall).
+
+          04:14 Eichner: Harppukonsertto D-duuri (Marion Hofmann ja Berliinin SO:n kamariork./Hans-Peter Frank).
+
+          04:37 Schumann: Sonaatti viululle ja pianolle n:o 2 d-molli (Ilja Kaler ja Boris Slutski).
+
+          05:09 Kilpinen: Nebel lag überm Land (Tero Hannula, baritoni, ja Ilmo Ranta, piano).
+
+          05:12 Alkan: Aisopoksen pidot, etydi e-molli (Raymond Lewenthal, piano). 
+
+          05:21 Söderman: Ruotsalaisia kansanlauluja ja kansantansseja (Norlannin oopperan ork./Roy Goodman).
+
+          05:33 J.S. Bach: Partita sooloviululle n:o 2 d-molli (Petteri Iivonen).
+
+          06:05 Fasch: Concerto grosso D-duuri (Tempesta di Mare).
+
+...

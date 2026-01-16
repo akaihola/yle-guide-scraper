@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-15T02:43:36.190110+00:00'
+  generated_at: '2026-01-16T02:43:56.526205+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
@@ -234,9 +234,23 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-18T19:00:00+02:00'
         end_time: '2026-01-18T19:02:05+02:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: WDR Big Band & Mike Holober meet Chris Potter - Random Moves'
         start_time: '2026-01-18T19:02:30+02:00'
         end_time: '2026-01-18T20:00:00+02:00'
+        description: |-
+          Saksofonistisuuruus Chris Potter vieraili perinteikkään sakalaisen WDR Big Bandin solistina upeassa Mike Holoberin johtamassa konsertissa Kölnissä kesällä 2025. "Tämän päivän jälijtellyimmäksi saksofonistiksi" kutsuttu Potter toi mukanaan omia sävellyksiään, mutta konsertin pääosaan nousee Holoberin säveltämä Random Moves -sarja. 
+
+          1. Source (Potter)
+          2. The Invisible Man (Potter)
+          3. Random Moves Suite I: Clean Lines (Holober)
+          4. Random Moves Suite II: Angle of Repose (Holober)
+          5. Random Moves Suite III: Alternate Routes (Holober)
+          6. The Lay of the Land (Holober)
+
+          Äänitetty Kölner Philharmoniessa 5.7.2025.
+
+          Chris Potterin kuva: WDR.
+          Toimittajana Eero Koski.
       - title: Ortodoksinen ehtoopalvelus Pyhän apostoli Andreaksen kirkosta Rovaniemeltä
         start_time: '2026-01-18T20:00:30+02:00'
         end_time: '2026-01-18T21:00:00+02:00'

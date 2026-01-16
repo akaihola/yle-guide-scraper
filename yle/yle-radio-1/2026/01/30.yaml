@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-15T02:43:44.292039+00:00'
+  generated_at: '2026-01-16T02:44:03.170529+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-01-30T06:50:00+02:00'
         end_time: '2026-01-30T06:59:59+02:00'
         description: |-
-          Kanttori Katja Mäkiö, Tampere
+          "Muista kuolevaisuutesi ja muista elää"
+          Kanttori Katja Mäkiö Tampereelta puhuu hautajaisissa soittamisesta ja laulamisesta sekä kirkkaammin tummuutta vasten piirtyvästä valosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-30T07:00:00+02:00'
         end_time: '2026-01-30T07:05:00+02:00'

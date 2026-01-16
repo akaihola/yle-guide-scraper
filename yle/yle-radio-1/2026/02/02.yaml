@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-15T02:43:45.055897+00:00'
+  generated_at: '2026-01-16T02:44:04.520701+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
@@ -16,8 +16,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-02-02T06:50:00+02:00'
         end_time: '2026-02-02T06:59:59+02:00'
-        description: |-
-          Maanantaista lauantaihin
+        description: |
+          "Keskellä suurta suunnitelmaa"
+          Kanttori Heini Kataja-Kantola Jokioisista lukee Ruutin kirjasta ja puhuu ihmisen elämästä Jumalan käsissä ja osana maailmanlaajuista Kristuksen sukua.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-02T07:00:00+02:00'
         end_time: '2026-02-02T07:05:00+02:00'
@@ -105,7 +106,7 @@ data:
         end_time: '2026-02-02T19:00:00+02:00'
         description: |-
           "Jobin kirja: Sofar alkaa puhua"
-          Näyttelijä Krista Kosonen lukee Jobin kirjaa (11:1-12:25) VT2028 käännöksen mukaan. Viidennessä jaksossa Sofar puhuu ja Job vastaa ystävilleen.
+          Näyttelijä Krista Kosonen lukee Jobin kirjaa (11:1-12:25) VT2028 käännöksen mukaan. Kuudennessa jaksossa Sofar puhuu ja Job vastaa ystävilleen.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-02T19:00:00+02:00'
         end_time: '2026-02-02T19:02:00+02:00'
@@ -118,6 +119,16 @@ data:
       - title: Ulkolinja-podcast
         start_time: '2026-02-02T20:05:00+02:00'
         end_time: '2026-02-02T20:25:00+02:00'
+      - title: 'Sukuni murhamysteeri: Hengenvaarallinen vakoiluoperaatio'
+        start_time: '2026-02-02T20:25:00+02:00'
+        end_time: '2026-02-02T21:00:00+02:00'
+        description: |
+          Veikko ja Seppo palkataan kuljettamaan salaisia paketteja Neuvostoliiton puolelle. Paluumatkalla tapahtuu katastrofi, Veikko ammutaan kuoliaaksi keskelle rajajokea. 
+          Haastateltavana jaksossa:
+          Tiedusteluhistorian asiantuntija, poliisi Mikko Porvali
+          Asianajaja Marko Tuhkanen
+          Tietokirjailija Morten Jentoft
+          Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: Politiikkaradio
         start_time: '2026-02-02T21:00:00+02:00'
         end_time: '2026-02-02T21:30:00+02:00'

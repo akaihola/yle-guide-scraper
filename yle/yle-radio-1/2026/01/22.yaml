@@ -1,23 +1,61 @@
 metadata:
-  generated_at: '2026-01-15T02:43:40.731418+00:00'
+  generated_at: '2026-01-16T02:43:58.959403+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-21T23:40:00+02:00'
         end_time: '2026-01-22T06:30:00+02:00'
+        description: |+
+          Paganini: Maestosa sonata sentimentale (Juhlallinen tunteellinen sonaatti) (Salvatore Accardo, viulu, ja Lontoon SO/Charles Dutoit).
+
+          23:57 de Falla: El Sombrero de tres picos (Kolmikolkkahattu), baletti (Teresa Berganza, mezzosopraano, ja Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          00:34 Dvorák: Pianotrio n:o 3 f-molli (Emanuel Ax, piano, Young Uck Kim, viulu, ja Yo-Yo Ma, sello).
+
+          01:16 Fauré: Messe basse (Virpi Nurmi, laulu, Radion lapsikuoro/Heinz Hoffmann, ja Tapio Tiitu, Helsingin tuomiokirkon urut).
+
+          01:25 Crusell: Divertimento oboelle ja jousikvartetille C-duuri. (Jouko Teikari, oboe, Jorma Ylönen, viulu, Juhani Tiainen, viulu, Ahti Pilvi, alttoviulu, ja Esko Valsta, sello.).
+
+          02:30 01:37 Brahms: Pianokonsertto n:o 1 d-molli (Claudio Arrau ja Philharmonia-ork./Carlo Maria Giulini).
+
+          02:30 Berlioz: Les nuits d'ete (Melanie Diener, sopraano, Denis Sedov, basso, Kenneth Tarver, tenori, Clevelandin ork./Pierre Boulez).
+
+          03:03 Busoni: Pieni sarja sellolle ja pianolle op.23 (Dorothy Lawson ja Steven Blier). 
+
+          03:23 Telemann: Konsertto huilulle, jousille ja continuolle D-duuri (Robert Stallman ja Philadelphian kamariork.).
+
+          03:37 Tshaikovski: Manfred-sinfonia (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          04:35 Barrios: Un sueño en la floresta (David Russell, kitara).
+
+          04:43 Franchomme & Chopin: Grand duo concertant Meyerbeerin oopp. Robert Paholainen temoista (Anner Bylsma, sello, ja Lambert Orkis, fortepiano). 
+
+          04:56 Berwald: Sinfonia n:o 1 g-molli (Sinfonie sérieuse) (San Franciscon SO/Herbert Blomstedt).
+
+          05:32 Monteverdi: Magnificat 1 (ExTempore/Florian Heyerick). 
+
+          05:45 Vivaldi: Konsertto C-duuri (Marion Verbruggen, sopraninonokkahuilu, ja Philharmonia Baroque/Nicholas McGegan). 
+
+          05:57 Vejvanovský: Serenadi C-duuri (Trompeten Consort Friedemann Immer ja Ensemble Tama).
+
+          06:05 Händel: Triosonaatti h-molli (Tempesta di Mare).
+
+          06:16 Anonyymi: Sarja soittimille C-duuri kok. Terpsichore (New Yorkin renessanssiyhtye/Sally Logemann).
+
       - title: Hartaita säveliä
         start_time: '2026-01-22T06:30:50+02:00'
         end_time: '2026-01-22T06:50:00+02:00'
       - title: Aamuhartaus
         start_time: '2026-01-22T06:50:00+02:00'
         end_time: '2026-01-22T06:59:59+02:00'
-        description: |-
-          Seurakuntapastori Visa Viljamaa, Helsinki
+        description: |
+          "Yhteyden kaipuu ja sitoutumisen pelko"
+          Seurakuntapastori Visa Viljamaa Helsingistä puhuu yhteisön kaipuusta ja yhteyden rakentamisen vaikeudesta.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-22T07:00:00+02:00'
         end_time: '2026-01-22T07:05:00+02:00'
@@ -59,6 +97,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-22T09:04:00+02:00'
         end_time: '2026-01-22T09:59:00+02:00'
+        description: |-
+          Arlen: Stormy weather (Etta James).
+          Lindström: Madame la Plume (Seija Lampila).
+          Betti: C'est si bon (Yves Montand).
+          Morrison: Brown eyed girl (Van Morrison).
+          Theodorakis: Zorba's dance (Mikis Theodorakis ork.).
+          Bagdasarian: Kom in i mitt hus (Siw Malmkvist ja Cornelis Vreeswijk).
+          Donaldson: My baby just cares for me (Nina Simone).
+          Moesser: Ich will ihn (Katja Ebstein).
+          Marshall: Venus (Frankie Avalon).
+          Losito/Cutugno: Etsin kunnes löydän sun (Markku Aro).
+          Parton: Jolene (Dolly Parton).
+          Scott: Tiidli-dii (Harmony Sisters).
+          Ruiz/Demetrio: Quien sera (= Sway) (Xavier Cugat and His Orchestra).
+          Kosma: Barbara (Harri Saksala).
+          Fontana/Pes: Il mondo (Jimmy Fontana).
       - title: Marko Gustafsson
         start_time: '2026-01-22T10:00:00+02:00'
         end_time: '2026-01-22T10:53:00+02:00'
@@ -78,9 +132,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-22T12:00:00+02:00'
         end_time: '2026-01-22T12:05:00+02:00'
-      - title: 'Maailma tarinoina: Pedro Almodovar kutsuu pohtimaan kuolemaa'
+      - title: 'Maailma tarinoina: The Room Next Door on Pedro Almodóvarin oppitunti kuolemasta'
         start_time: '2026-01-22T12:05:00+02:00'
         end_time: '2026-01-22T13:00:00+02:00'
+        description: |
+          Pedro Almodóvarin elokuva The Room Next Door vuodelta 2024 näyttää kahden päähenkilönsä kautta kaksi hyvin erilaista suhtautumista kuolemaan. Sen kuvaama avustettu kuolema on kaukana tavallisesta ja saa miettimään yleisemmin kuoleman kuvaamista mediassa ja audiovisuaalisessa kulttuurissa. Elokuvaa sysää pohtimaan, syitä kuolemanpelon taustalla ja miten pelkoa voi käsitellä. Kenelle kuolema kuuluu? Miten kuolemisen prosessi sopii nyky-yhteiskuntaan? Miten kuolema nostaa esiin ihmissuhteet ja niiden merkityksen? 
+
+          Marja Vehkasen kanssa keskustelevat viestintätieteiden professori Outi Hakola ja hoitotieteen dosentti Anja Terkamo-Moisio.
       - title: Politiikkaradio
         start_time: '2026-01-22T13:00:00+02:00'
         end_time: '2026-01-22T13:30:00+02:00'
@@ -115,6 +173,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-22T16:07:00+02:00'
         end_time: '2026-01-22T16:59:00+02:00'
+        description: |+
+          W.A. Mozart: Alkusoitto oopp. Der Schauspieldirektor (Teatterinjohtaja) (Clevelandin ork./George Szell).
+
+          Belli: Telemachus teoks. Ithaca suite (Eldbjörg Hemsing, viulu, ja Olivia Belli, piano).
+
+          Lutyens: As I walked out one evening (Anthony Rolfe Johnson, tenori, ja Graham Johnson, piano).
+
+          Rahmaninov (sov. Respighi): La mer et les mouettes (Meri ja lokit) teoks. Cinq etudes-tableaux (Minnesotan ork./Eiji Oue).
+
+          Portman: Chocolat suite elok. Chocolat (Pieni suklaapuoti) teemoista (Raphaela Gromes, sello, ja Julian Riem, piano).
+
+          Gaubert: Moderato, quasi fantasia (Sharon Bezaly, huilu, ja Roland Pöntinen, piano). 
+
+          Edelfelt: Wainas söfsång (Emma Kajander, sopraano, ja Tuula Hällström, piano).
+
+          Holst: Finaali (The Dargason) teoks. St. Paul's Suite (Saint Paulin kamariork./Christopher Hogwood). 
+
+          Loder: Voyage joyeux (Ian Hobson, piano).
+
+          Esenvalds: Stars (The Pembroke College Chapel Choir/Anna Lapwood).
+
+          J.S. Bach (sov. Elgar): Fuuga c-molli (Los Angelesin FO/Esa-Pekka Salonen).
+
       - title: Uutispodcast
         start_time: '2026-01-22T17:00:00+02:00'
         end_time: '2026-01-22T17:20:00+02:00'
@@ -165,6 +246,19 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-01-22T20:00:00+02:00'
         end_time: '2026-01-22T20:57:00+02:00'
+        description: |+
+          Telemann: Divertimento Es-duuri (Collegium Musicum 90/Simon Standage).
+
+          L. Onerva: Hymni tulelle (Helsingin kamarikuoro/Nils Schweckendiek).
+
+          Peterson-Berger: Frösön kukkia, orkesterisarja (Norrköpingin SO/Michail Jurowski).
+
+          Chabrier: Iloinen marssi (Wienin filharmonikot/John Eliot Gardiner).
+
+          Galuppi: Concerto a quattro g-molli (Il Canto di Orfeo/Gianluca Capuano).
+
+          Mascagni: Maalaisväen kuoro oopp. Cavalleria rusticana (Robert Shaw -kuoro ja RCA Victor -ork./Robert Shaw).
+
       - title: 'Politiikkaradio '
         start_time: '2026-01-22T21:00:01+02:00'
         end_time: '2026-01-22T21:30:00+02:00'

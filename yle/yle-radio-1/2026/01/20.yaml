@@ -1,15 +1,58 @@
 metadata:
-  generated_at: '2026-01-15T02:43:39.031201+00:00'
+  generated_at: '2026-01-16T02:43:57.398673+00:00'
   git:
     branch: main
-    commit: 1b08851535bce949a0f694654acebd6ca1f51816
-  data_hash: f49168d69501f2ddc521d2930b2618937a032bc198e50002aac300a0c31ebe5a
+    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
+  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-01-19T23:40:00+02:00'
         end_time: '2026-01-20T06:30:00+02:00'
+        description: |+
+          Messager: Osia bal. Kaksi kyyhkystä (Covent Garden -oopperan ork./Charles Mackerras).
+
+          00:03 Turina: Sonaatti kitaralle (Manuel Barrueco).
+
+          00:14 Rabaud: La Procession nocturne (Öinen kulkue) (Reininmaan ja Pfalzin valtiollinen FO/Leif Segerstam).
+
+          00:31 Berteau: Sonaatti sellolle ja continuolle F-duuri op.1/4 (Christophe Coin, sello, Petr Skalka, sello, ja Markus Hünninger, cembalo).
+
+          00:47 von Dittersdorf: Viulukonsertto G-duuri (Martin Kos ja Tshekkiläinen filharmoninen kamariork./Petr Chromcák).
+
+          01:15 Furuhjelm: Kansanomainen sarja orkesterille (RSO/Okko Kamu). 
+
+          01:27 Caplet: Kvintetto huilulle, oboelle, klarinetille, fagotille ja pianolle (Les Vents Francais).
+
+          01:54 Bridge: Oration, sellokonsertto (Alban Gerhardt ja BBC:n Walesin kansallisork./Richard Hickox).
+
+          02:24 W.A. Mozart: Pianosonaatti n:o 11 A-duuri (Juho Pohjonen).
+
+          02:47 Verdi: Procidan aaria  "O tu, Palermo" oopp. Sisilialainen vesper (Boris Christoff, basso, ja Philharmonia.ork./Wilhelm Schüchter).
+
+          02:52 Beethoven: Jousikvartetto n:o 12 Es-duuri (Smetana-kvartetti).
+
+          03:27 R. Strauss: Don Juan (RSO/Sakari Oramo).
+
+          03:44 Chopin: Fantasia f-molli (Claudio Arrau, piano).
+
+          03:58 Mielck: Macbeth-alkusoitto (RSO/Erik Cronvall).
+
+          04:14 Eichner: Harppukonsertto D-duuri (Marion Hofmann ja Berliinin SO:n kamariork./Hans-Peter Frank).
+
+          04:37 Schumann: Sonaatti viululle ja pianolle n:o 2 d-molli (Ilja Kaler ja Boris Slutski).
+
+          05:09 Kilpinen: Nebel lag überm Land (Tero Hannula, baritoni, ja Ilmo Ranta, piano).
+
+          05:12 Alkan: Aisopoksen pidot, etydi e-molli (Raymond Lewenthal, piano). 
+
+          05:21 Söderman: Ruotsalaisia kansanlauluja ja kansantansseja (Norlannin oopperan ork./Roy Goodman).
+
+          05:33 J.S. Bach: Partita sooloviululle n:o 2 d-molli (Petteri Iivonen).
+
+          06:05 Fasch: Concerto grosso D-duuri (Tempesta di Mare).
+
       - title: Hartaita säveliä
         start_time: '2026-01-20T06:30:50+02:00'
         end_time: '2026-01-20T06:50:00+02:00'
@@ -17,7 +60,8 @@ data:
         start_time: '2026-01-20T06:50:00+02:00'
         end_time: '2026-01-20T06:59:59+02:00'
         description: |-
-          Johtaja Saara Huhanantti, Projekti 5/5, Helsinki
+          "Huomaanko elämän tapahtuvan koko ajan?"
+          Johtaja Saara Huhanantti, Projekti 5/5, Helsinki puhuu johdatuksesta ja huomaa löytäneensä elämän eri vaiheissa juuri oikeita ihmisiä lähelleen.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-20T07:00:00+02:00'
         end_time: '2026-01-20T07:05:00+02:00'
@@ -102,9 +146,12 @@ data:
         description: |-
           Sarjassa ihmetellään kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Ninive-osan vieraana on apulaisprofessori Saana Svärd. Toimittaja Jukka Kuosmanen.
           (es. 2021)
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Alfa, Bravo, Charlie - Nato-aakkoset auttavat välttämään väärinkäsityksiä'
         start_time: '2026-01-20T12:25:00+02:00'
         end_time: '2026-01-20T12:50:00+02:00'
+        description: |
+          Pasi Heikura pänttää Nato-aakkosia lennonjohtajien kouluttaja Jouni Laukkasen opastuksella. Ohjelmassa etsitään myös vaihtoehtoa niinkutukselle, ihmetellään takavarpaita ja lopuksi etsitään pätäkän juuria kaukoidästä..
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-20T12:50:00+02:00'
         end_time: '2026-01-20T13:00:00+02:00'
@@ -169,6 +216,32 @@ data:
         end_time: '2026-01-20T17:35:00+02:00'
         description: |2+
 
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2026-01-20T17:35:00+02:00'
+        end_time: '2026-01-20T18:30:00+02:00'
+        description: |
+          Sussexin herttuatar Meghan Markle kirjoitti kovia kokeneille seksityöläisille ohjeita banaaninkuoriin, kylmän sodan ajan presidentti Ronald Reagan sai päätöksiinsä apua astrologilta. Muinaiset roomalaiset uskoivat jumalatar Fortunaan ja antiikin Kreikassa kysyttiin neuvoa Delfoin oraakkelilta.
+          Miten elämää pitäisi elää? Ei huolta, neuvoja on saatavilla yllin kyllin ja niin on ollut aina.
+          Mutta johtuuko kaikki vain lopulta siitä, että kuolevaisina pelkäämme vääjämätöntä.
+
+          Ruotsalainen ajattelija, sarjakuvan tekijä ja kulttuuripersoona Liv Strömqvist pohtii tuoreimmassa Pythia puhuu nimisessä albumissaan sitä miten meidän pitäisi elää ja miksi.
+          Kissankehto keinuu perässä ja heittää sekaan sopivaa popmusiikkia.
+          Liisa Akimof esittelee meille kaiken tietävän rakennusmiehen, ja antiikin hahmoja saadaan kyytiin niin Rebekka Holin kuin Rufus Wainwrightin johdattamina
+
+
+          Rebekka Holi: Haades
+          Fun Boy Three: Lunatics have taken over the asylum
+          Liisa Akimof: Miten asiat oikeesti on
+          Sin Cos Tan: In my house
+          Secret Service: Flash in the night
+          Dina Ögon: Hack i häl
+          Hannah Cohen: Dusty
+          Luhtaniitty: Ennen kuin olemme heränneet
+          Rufus Wainwright & Pacific Jazz Orchestra: I'm a stranger here myself
+          Billy Jones: Yes! We have no bananas today
+          Absoluuttinen Nollapiste: Eräät tulevat juosten
+
+          Innoittajana: Liv Strömqvist: Pythia puhuu (suomennos Helena Kulmala) 
       - title: Hartaita säveliä
         start_time: '2026-01-20T18:35:00+02:00'
         end_time: '2026-01-20T18:50:00+02:00'
@@ -201,7 +274,7 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-01-20T20:35:00+02:00'
         end_time: '2026-01-20T21:00:00+02:00'
-      - title: Politiikkaradio (1.läh. klo 13)
+      - title: 'Politiikkaradio '
         start_time: '2026-01-20T21:00:01+02:00'
         end_time: '2026-01-20T21:30:00+02:00'
       - title: Sari Valto
@@ -215,3 +288,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-20T23:40:00+02:00'
         end_time: '2026-01-21T06:30:00+02:00'
+        description: |+
+          Telemann: Konsertto oboe d'amorelle, jousille ja continuolle G-duuri (Heinz Holliger ja Dresdenin valtionork./Vittorio Negri).
+
+          23:58 de Visée: Sarja kitaralle n:o 12 e-molli (Rafael Andia, barokkikitara).
+
+          00:03 W.A. Mozart: Pianosonaatti n:o 10 C-duuri (Geoffrey Lancaster, fortepiano).
+
+          00:27 Mendelssohn: Sinfonia n:o 4 A-duuri (Italialainen) (Gewandhaus-ork./Kurt Masur).
+
+          00:59 J. Haydn: Jousikvartetto n:o 78 B-duuri (Voces Intimae -kvartetti).
+
+          01:22 Debussy: Sonaatti viululle ja pianolle g-molli. (Petteri Iivonen ja Kevin Fitz-Gerald).
+
+          01:36 Respighi: Rossiniana, sarja orkesterille Rossinin mukaan (Buffalon filharmoninen orkesteri/JoAnn Falletta).
+
+          01:58 Arenski: Sarja kahdelle pianolle n:o 3, versio orkesterille (Muunnelmia C-duuri) (Moskovan SO/Dmitri Jablonski).
+
+          02:29 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraalisinfonia) (Minnesotan ork./Klaus Tennstedt).
+
+          03:17 Reger: Pianokonsertto f-molli (Rudolf Serkin ja Philadelphian ork./Eugene Ormandy).
+
+          03:55 W.A. Mozart: Kohtaus ja rondo sopraanolle, pianolle ja orkesterille Ch'io mi scordi di te? (Teresa Berganza, mezzosopraano, Geoffrey Parsons, piano, ja Lontoon SO/John Pritchard).
+
+          04:06 Schubert: Jousikvartetto n:o 14 d-molli (Tyttö ja kuolema). (Amadeus-kvartetti). 
+
+          04:45 Brahms (sov. Sant'Ambrogio): Kehtolaulu (Eroica Trio).
+
+          04:50 R. Schumann: Minnespiel (Lemmenleikkiä) Marlis Petersen, sopraano, Anke Vondung, mezzosopraano, Werner Guera, tenori, Konrad Jarnot, bassobaritoni, ja Camille Radicke, piano).
+
+          05:14 Wassenaer: Concerto armonicot n:ot 1-6 (Combattimento Consort Amsterdam/Jan Willem de Vriend).
+
+          06:14 Locatelli: Concerto grosso Es-duuri (Tafelmusik Baroque Orchestra/Jeanne Lamon). 
+
+...
