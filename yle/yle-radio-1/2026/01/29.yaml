@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:44:02.753508+00:00'
+  generated_at: '2026-01-17T02:38:00.036465+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -36,9 +36,27 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-29T09:04:00+02:00'
         end_time: '2026-01-29T09:59:00+02:00'
-      - title: Marko Gustafsson
+        description: |
+          Warren: Jeepers creepers (Louis Armstrong).
+          Berlin: Rakkaus lämmittää (Aila Heikkilä).
+          de Marsan: La petite fille de l'hiver (Johnny Hallyday).
+          Powell: Samba triste (Stan Getz ja Charlie Byrd).
+          Simon: You're so vain (Carly Simon).
+          Niles: Mene ikkunani luota (Päivi Paunu).
+          Sylvain: Nu går vind över fjäll (Ann-Louise Hanson).
+          Lennon/McCartney: Norwegian wood (The Beatles).
+          Giuffre: Four brothers (Woody Herman and his Orchestra).
+          Brown/Tobias/Stept: Don't sit under the apple tree (with anyone else but me) (The Andrews Sisters).
+          Högstedt: Jannu tanssii valssia (Eero ja Jussi Raittinen).
+          De Angelis: Zi' gennaro rock 'n' roll (Gloria Christian).
+          Springsteen: This little girl (Gary U. S. Bonds).
+          Dan: Te he prometido (Leo Dan).
+          Cutugno: Kuusamo (Marion & Paavo Noponen).
+      - title: 'Marko Gustafsson: Vieraana näyttelijä, käsikirjoittaja ja ohjaaja Kati Outinen'
         start_time: '2026-01-29T10:00:00+02:00'
         end_time: '2026-01-29T10:53:00+02:00'
+        description: |
+          Elokuvien tähteys ja esilläolo toi suuren vastuun. “En ole ikinä ollut siitä kovin innoissani, vaan miettinyt miten saan välitetyksi parhaalla mahdollisella tavalla yleisölle sen, mitä tarkoitetaan. Muu on aika piinallista”, sanoo Kati Outinen. “Se on entistä tärkeämpää nykyään, koska niin helposti ymmärretään väärin”, hän jatkaa. Uusinta ajalta 27.11.2025
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-29T10:53:00+02:00'
         end_time: '2026-01-29T11:00:00+02:00'
@@ -83,6 +101,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-29T16:07:00+02:00'
         end_time: '2026-01-29T16:59:00+02:00'
+        description: |
+          J. Strauss, nuor.: Orlofskyn kupletti "Ich lade gern mir Gäste ein" oper. Lepakko (Karita Mattila, sopraano, ja RSO/Jukka-Pekka Saraste).
+
+          Héritte-Viardot: Divertimento kvartetosta D-duuri (Ensemble Viardot).
+
+          Myslivecek: Larghetto viulukonsertosta D-duuri (Daniel Hope, viulu, ja Zürichin kamariork.). 
+
+          Vivaldi: Lotarion aaria "Sento in seno ch'in pioggia di lagrime" oopp. Tieteberga (Philippe Jaroussky, kontratenori, ja Ensemble Matheus/Jean-Christophe Spinosi).
+
+          Taffanel: Andante pastorale ja scherzettino (Sharon Bezaly, huilu, ja Roland Pöntinen, piano).
+
+          Elgar: Salut d'amour (Philharmonia-ork./Charles Groves).
+
+          V. Aulin: Intermezzo jousikvartetosta F-duuri (Tale-kvartetti).
+
+          Saint-Säens: Allegro appassionato cis-molli (Alexandre Kantorow, piano, ja Tapiola Sinfonietta/Jean-Jacques Kantorow). 
+
+          Metner: Talvi-ilta (Dmitri Hvorostovski, baritoni, ja Ivari Ilja, piano).
+
+          Melartin: Lumitunnelma sarj. Noli me tangere (Tiina Karakorpi, piano).
+
+          Kuula: Tulopeli (RSO/Jorma Panula).
       - title: Uutispodcast
         start_time: '2026-01-29T17:00:00+02:00'
         end_time: '2026-01-29T17:20:00+02:00'
@@ -102,6 +142,8 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-01-29T18:25:00+02:00'
         end_time: '2026-01-29T18:35:00+02:00'
+        description: |-
+          Sari Valto haastattelee kirjailija Eppu Nuotiota kulttuurikokemuksista. Ensilähetys oli 14.8.2025.
       - title: Hartaita säveliä
         start_time: '2026-01-29T18:35:00+02:00'
         end_time: '2026-01-29T18:50:00+02:00'
@@ -118,10 +160,31 @@ data:
         start_time: '2026-01-29T19:02:00+02:00'
         end_time: '2026-01-29T20:00:00+02:00'
         description: |-
-          Äänitetty Savoy-teatterissa Helsingissä 2.10.2025.
-      - title: Klassinen kattaus
+          Äänitetty Seinäjoki-salissa 3.10.2025.
+      - title: Klassinen kattaus merellä
         start_time: '2026-01-29T20:00:00+02:00'
         end_time: '2026-01-29T20:57:00+02:00'
+        description: |+
+          Rimski-Korsakov: Tsaaritar ajelehtii tynnyrissä merellä (Philharmonia-ork./Paul Kletzki).
+
+          O. Merikanto: Merellä (Kalle Ruusunen, baritoni, ja Irma Ruuskanen, piano).
+
+          E.T.A. Hoffmann: Piiritys näytelmämus. Itämeren Risti (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          Salén: Sången till havet (Jussi Björling, tenori, ja ork./Bertil Bokstedt).
+
+          Chopin: Etydi n:o 24 c-molli (Valtameri) (György Cziffra, piano).
+
+          Abraham: Layan ja Stonen duetto oper. Havaijin kukka (Malmi Vilppula, sopraano, ja Veikko Tyrväinen, tenori, sekä RO/George de Godzinsky).
+
+          Debussy: Aaltojen leikkiä (RSO/Jukka-Pekka Saraste).
+
+          Palmgren: Spegling (Wegelius-kuoro ja Wegelius-kamariork./John Storgårds).
+
+          Quilter: Four songs of the sea (Neljä laulua merestä) (Mark Stone, baritoni, ja Stephen Barlow, piano).
+
+          Tormis: Merimiesten jäähyväisvalssi ja finaali näytelmämus. Valtameri (Estonian-Finnish Symphony Orchestra/Anu Tali).
+
       - title: 'Politiikkaradio '
         start_time: '2026-01-29T21:00:01+02:00'
         end_time: '2026-01-29T21:30:00+02:00'

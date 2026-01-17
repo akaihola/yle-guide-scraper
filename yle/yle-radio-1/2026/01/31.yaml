@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:44:03.449176+00:00'
+  generated_at: '2026-01-17T02:38:00.469497+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -80,19 +80,33 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-31T13:55:00+02:00'
         end_time: '2026-01-31T14:00:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Muinais-DNA'
         start_time: '2026-01-31T14:00:00+02:00'
         end_time: '2026-01-31T14:55:00+02:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+          Arkelogi, FT Ulla Nordfors kertoo muinais-DNA:n rikastuttamasta uudemmasta historiantutkimuksesta.
       - title: Ykköskolumni
         start_time: '2026-01-31T14:55:00+02:00'
         end_time: '2026-01-31T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Viihdekuunnelma
+      - title: Syrjästäkatsojan tarina 5/9.
         start_time: '2026-01-31T15:00:00+02:00'
         end_time: '2026-01-31T15:25:00+02:00'
+        description: |
+          Osa 5/9. Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
+
+          Syrjästäkatsojan tarina on koskettava kertomus tukahdutetuista tunteista ja yhteiskunnallisista haasteista sekä naisen oikeudesta rakastaa ja tulla rakastetuksi.
+          Vastoinkäymisistä ja pettymyksistä huolimatta Lucy Snowe selviytyy kertoakseen tinkimättömän tarinansa elämästään.
+
+          Charlotte Brontë (1816-1855) kuvasi teoksissaan tarkasti oman aikansa naisten elämää ja asemaa. Syrjästäkatsojan tarina (eng. Villette, 1853) on maailmankirjallisuuden klassikko ja viimeinen kolmesta Brontën elinaikana julkaistusta romaanista. Syrjästäkatsojan tarinaa pidetään omaelämäkerrallisena kuvauksena Charlotte Brontën omista kohtalokkaista Brysselin vuosistaan.
+
+          Charlotte Brontën samannimisestä teoksesta Yleisradiolle sovittanut ja ohjannut Esko Salervo. 
+          Suomennos: Tyyni Haapanen-Tallgren (1921).
+          Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
+          Lucy Snowe - Päivi Akonpelto.
+          Ensilähetys: 1999.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-31T15:25:00+02:00'
         end_time: '2026-01-31T15:30:00+02:00'
@@ -110,9 +124,11 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-31T16:07:00+02:00'
         end_time: '2026-01-31T17:00:00+02:00'
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Vieraana näyttelijä, käsikirjoittaja ja ohjaaja Kati Outinen'
         start_time: '2026-01-31T17:00:00+02:00'
         end_time: '2026-01-31T17:53:00+02:00'
+        description: |
+          Elokuvien tähteys ja esilläolo toi suuren vastuun. “En ole ikinä ollut siitä kovin innoissani, vaan miettinyt miten saan välitetyksi parhaalla mahdollisella tavalla yleisölle sen, mitä tarkoitetaan. Muu on aika piinallista”, sanoo Kati Outinen. “Se on entistä tärkeämpää nykyään, koska niin helposti ymmärretään väärin”, hän jatkaa. Uusinta ajalta 27.11.2025
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-31T17:53:00+02:00'
         end_time: '2026-01-31T18:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:43:58.959403+00:00'
+  generated_at: '2026-01-17T02:37:58.381439+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-22T06:30:50+02:00'
         end_time: '2026-01-22T06:50:00+02:00'
+        description: |+
+          Melartin: Hyvyyden voiman ihmeelliseen suojaan (Eve ja Ossi).
+
+          Albert: Tuomme luokse Jeesuksen (RKK/Timo Nuoranne, Harri Viitanen, urut, ja Tarja Viitanen, trumpetti).
+
+          Sohren: Oi Jeesus, leipä elämän (Raimo Laukka, baritoni, ja Pertti Eerola, urut).
+
+          Lagi: Mä silmät luon ylös taivaaseen (Matti Lehtinen, baritoni, ja Tauno Äikää, urut).
+
       - title: Aamuhartaus
         start_time: '2026-01-22T06:50:00+02:00'
         end_time: '2026-01-22T06:59:59+02:00'
@@ -113,9 +122,11 @@ data:
           Ruiz/Demetrio: Quien sera (= Sway) (Xavier Cugat and His Orchestra).
           Kosma: Barbara (Harri Saksala).
           Fontana/Pes: Il mondo (Jimmy Fontana).
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Vieraana kirjailija Emmi Itäranta'
         start_time: '2026-01-22T10:00:00+02:00'
         end_time: '2026-01-22T10:53:00+02:00'
+        description: |-
+          “Silloin kun kirjoittaminen kulkee, en haluaisi tehdä yhtään mitään muuta kuin kirjoittaa”,  Emmi Itäranta naurahtaa.  Hän on omien sanojensa mukaan uppoutuja, joka unohtaa syödä ja nukkua ja kirjoittamisen maailmasta itsensä pois kiskominen voi olla varsin työlästä. Nykyään hän tiedostaa, että lepohetki on hyväksi myös paitsi kirjailijalle niin myös kirjalle. Ohjelma on uusinta ajalta 20.11.2025
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-22T10:53:00+02:00'
         end_time: '2026-01-22T11:00:00+02:00'
@@ -229,6 +240,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-22T18:35:00+02:00'
         end_time: '2026-01-22T18:50:00+02:00'
+        description: |+
+          Simojoki: Varjoista maan (Jaana Pöllänen, laulu, ja Ville Uusitalo, piano).
+
+          Regnart: Jos, Jeesus, Herrani (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
+
+          Viitasalo: Paljon ois aihetta kiittää (Braxén-kuoro/Harry Westerlund ja Matti Pesonen, urut).
+
+          Haapala: Kulmakivi (Mustarastas).
+
       - title: Iltahartaus
         start_time: '2026-01-22T18:50:00+02:00'
         end_time: '2026-01-22T19:00:00+02:00'
@@ -273,3 +293,41 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-23T00:00:00+02:00'
         end_time: '2026-01-23T06:30:00+02:00'
+        description: |+
+          Frescobaldi: Kolme canzonaa (Peter Hannan, nokkahuilu, Colin Tilney, cembalo, ja Christel Thielmann, viola da gamba).
+
+          00:11 Brahms: Sonaatti Es-duuri (Matti Hirvikangas, alttoviulu, ja Margit Rahkonen, piano).
+
+          00:32 Diabelli: Kitarasonaatti A-duuri (Ilkka Virta).
+
+          00:57 W.A. Mozart: Pianokonsertto n:o 21 C-duuri (Clevelandin ork./Mitsuko Uchida, piano ja joht.).
+
+          01:27 R. Schumann: Spanisches Liederspiel (Marlis Petersen, sopraano, Anke Vondung, mezzosopraano, Werner Güra, tenori, ja Konrad Jarnot, bassobaritoni, sekä Christoph Berner, piano).
+
+          01:54 Adam: Giselle, balettisarja (Philadelphian ork./Eugene Ormandy).
+
+          02:06 Loewe: Yksinlaulut Odins Meeresritt; Der Wirtin Töchterlein ja Kleiner Haushalt (Kim Borg, basso, Hans Altmann ja Michael Raucheisen, piano).
+
+          02:21 Beethoven: Sinfonia n:o 5 c-molli (Kohtalosinfonia) (Vallankumouksen ja Romantiikan ork./John Eliot Gardiner).
+
+          02:55 Ysaÿe: Sonaatti sooloviululle n:o 2 a-molli (L'Obsession) (Petteri Iivonen).
+
+          03:08 Griffes: Pianosonaatti. (Michael Lewin).
+
+          03:23 Raitio: Vesipatsas (RSO/Okko Kamu).
+
+          03:47 Schubert: Fantasia C-duuri (Wanderer) (Murray Perahia, piano).
+
+          04:10 Fibich: Sinfonia n:o 2 Es-duuri (Detroitin SO/Neeme Järvi).
+
+          04:43 Hummel: Muunnelmia oboelle ja orkesterille (Jorma Valjakka ja RSO/Petri Sakari).
+
+          04:57 J. Haydn: Pianosonaatti n:o 20 c-molli. (Emil Gilels).
+
+          05:20 Rossini: Kvintetto puhaltimille F-duuri (Mozzafiato/Charles Neidich).
+
+          05:34 G.F. Anerio: Missa pro defunctis (Westminsterin katedraalin kuoro/James O'Donnell).
+
+          06:14 Händel: Konsertto harpulle, orkesterille ja continuolle B-duuri (Hyunsun Na ja Joy of Strings -jousiork.).
+
+...

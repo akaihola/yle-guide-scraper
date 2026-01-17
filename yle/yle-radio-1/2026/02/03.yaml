@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:44:04.792858+00:00'
+  generated_at: '2026-01-17T02:38:01.119359+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-02-03T06:50:00+02:00'
         end_time: '2026-02-03T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Ilkka Paanasen säätiön johtaja Saara Huhanantti, Vantaa
       - title: Yle Uutiset ja sää
         start_time: '2026-02-03T07:00:00+02:00'
         end_time: '2026-02-03T07:05:00+02:00'
@@ -36,6 +36,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-03T09:04:00+02:00'
         end_time: '2026-02-03T09:59:00+02:00'
+        description: |
+          Hammond: Hyvännäköinen (Markku Aro).
+          Chaplin: Eternamente (Nilla Pizzi).
+          Richie: Easy (Commodores).
+          Legrand: Les Amants (Yves Montand). 
+          Kärki: Näin kai määrätty on (Eila Pellinen).
+          Carmichael: Two sleepy people (Fats Waller). 
+          Farina/Minellono/Hoffman: Tuu (Arja Koriseva).
+          Gärdestad: Jag vill ha en egen måne (Ted Gärdestad).
+          Louiguy: Cerisiers rose et pommiers blanc (André Claveau).
+          Belmonte: Hurmio (Juha Eirto, Metro-tytöt). 
+          Bernie/Pinkard/Casey: Sweet Georgia Brown (Oscar Peterson Trio).
+          Lindström: Virran viemää (Irmeli Mäkelä).
+          Junior: Erano nuvole (Miranda Martino).
+          Bryant/Bryant: En pakoon juosta voi (Berit).
+          Hatch: Downtown (Petula Clark).
       - title: Sari Valto
         start_time: '2026-02-03T10:00:00+02:00'
         end_time: '2026-02-03T10:55:00+02:00'
@@ -98,7 +114,7 @@ data:
         start_time: '2026-02-03T18:50:00+02:00'
         end_time: '2026-02-03T19:00:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Toimittaja Satu Panula, Helluntaiherätys, Kerava
       - title: Yle Uutiset ja sää
         start_time: '2026-02-03T19:00:00+02:00'
         end_time: '2026-02-03T19:02:00+02:00'

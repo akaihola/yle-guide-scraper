@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:44:02.359212+00:00'
+  generated_at: '2026-01-17T02:37:59.665600+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -43,9 +43,30 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-28T10:50:00+02:00'
         end_time: '2026-01-28T11:00:00+02:00'
-      - title: Klassinen kattaus
+      - title: Klassinen kattaus merellä
         start_time: '2026-01-28T11:00:00+02:00'
         end_time: '2026-01-28T11:57:00+02:00'
+        description: |+
+          Rimski-Korsakov: Tsaaritar ajelehtii tynnyrissä merellä (Philharmonia-ork./Paul Kletzki).
+
+          O. Merikanto: Merellä (Kalle Ruusunen, baritoni, ja Irma Ruuskanen, piano).
+
+          E.T.A. Hoffmann: Piiritys näytelmämus. Itämeren Risti (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          Salén: Sången till havet (Jussi Björling, tenori, ja ork./Bertil Bokstedt).
+
+          Chopin: Etydi n:o 24 c-molli (Valtameri) (György Cziffra, piano).
+
+          Abraham: Layan ja Stonen duetto oper. Havaijin kukka (Malmi Vilppula, sopraano, ja Veikko Tyrväinen, tenori, sekä RO/George de Godzinsky).
+
+          Debussy: Aaltojen leikkiä (RSO/Jukka-Pekka Saraste).
+
+          Palmgren: Spegling (Wegelius-kuoro ja Wegelius-kamariork./John Storgårds).
+
+          Quilter: Four songs of the sea (Neljä laulua merestä) (Mark Stone, baritoni, ja Stephen Barlow, piano).
+
+          Tormis: Merimiesten jäähyväisvalssi ja finaali näytelmämus. Valtameri (Estonian-Finnish Symphony Orchestra/Anu Tali).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-01-28T11:57:00+02:00'
         end_time: '2026-01-28T12:00:00+02:00'

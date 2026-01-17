@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-16T02:44:05.497653+00:00'
+  generated_at: '2026-01-17T02:38:01.696776+00:00'
   git:
     branch: main
-    commit: 5aca9c9b07c2188b65a1b65544019c6b65d92150
-  data_hash: ae50aa034986c2a7f11815fd3cda9e89367ee26146d92b2ca327eaadbfed4b47
+    commit: 504ffea88f9efbc1c4b500a09bff806445b98425
+  data_hash: eedc9209450126db298fc0639d4f594cbdd4174309d9c5e3e5a5dd17d1d6183d
 data:
   Yle Radio 1:
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-02-05T06:50:00+02:00'
         end_time: '2026-02-05T06:59:59+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Seurakuntapastori Visa Viljamaa, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-02-05T07:00:00+02:00'
         end_time: '2026-02-05T07:05:00+02:00'
@@ -36,9 +36,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-05T09:04:00+02:00'
         end_time: '2026-02-05T09:59:00+02:00'
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana Suomen jääkiekkomaajoukkueen päävalmentaja Antti Pennanen
         start_time: '2026-02-05T10:00:00+02:00'
         end_time: '2026-02-05T10:53:00+02:00'
+        description: |
+          Valmennusuransa  vaikeina hetkinä Antti Pennanen hakeutui terapiaan ja ajatteli löytävänsä sieltä uusia valmennuskeinoja, mutta löysikin itsensä. "Menin terapeutille sillä ajatuksella, että hän tekee minusta paremman valmentajan. Voi kuinka väärässä olinkaan", Pennanen nauraa. Valmentajan tehtävä on auttaa pelaajia pelaamaan paremmin  ja Antti Pennanen tajusi terapiassa, että ensin on opittava tuntemaan itsensä ennen kuin voi auttaa muita. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-05T10:53:00+02:00'
         end_time: '2026-02-05T11:00:00+02:00'
