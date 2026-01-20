@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-19T02:48:48.599447+00:00'
+  generated_at: '2026-01-20T02:44:50.055167+00:00'
   git:
     branch: main
-    commit: da4e5fd7103341826ced454e9ded56a9a7ae4f12
-  data_hash: 0f872079c294cd3dcf43bf8a1e27342a100e7ec7c780be3f4994e214621afbba
+    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
+  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
 data:
   Yle Radio 1:
     programmes:
@@ -45,11 +45,24 @@ data:
 
           06:11 J.S. Bach: Hengellisiä lauluja Schemellin laulukirjasta (Peter Schreier, tenori, ja Karl Richter, urut).
 
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Vapaa mutta iloinen? eli mehän pidämme Brahmsista'
         start_time: '2026-01-25T07:00:30+02:00'
         end_time: '2026-01-25T07:57:00+02:00'
-        description: |-
+        description: |
+          Rein-joen rannalla, kauniin kesäloman aikana, Johannes Brahms alkoi säveltää kolmatta sinfoniaansa.
+          Se soi intohimoisena, suurenmoisena, mutta myös herkkänä ja surumielisenä. Liittyikö siihen Brahmsin nuoruuden tuntemuksia, vai Rein-jokiko virtaa sävelissä?
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Georges Auric/Johannes Brahms: Quand tu dors pres de moi (Yves Montand, laulu, Bob Castella, yhtye).
+
+          Johannes Brahms: Sinfonia n:o 3 F-duuri op.90
+          1. Allegro con brio
+          2. Andante
+          3. Poco allegretto
+          4. Allegro
+          (Kölnin radion sinfoniaorkesteri/Jukka-Pekka Saraste). 
       - title: Yle Uutiset ja sää
         start_time: '2026-01-25T08:00:00+02:00'
         end_time: '2026-01-25T08:05:05+02:00'
@@ -88,6 +101,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-25T11:00:00+02:00'
         end_time: '2026-01-25T11:59:00+02:00'
+        description: |-
+          Alter: Manhattan serenade (Jo Stafford).
+          Mann/Weil: On Broadway (Drifters).
+          Frisch: Broadwayn rytmi (Seija Lampila).
+          Brown: Broadway rhythm (Eugen Malmsten ja Rytmi-Pojat).
+          Ferri: Remedios (Gabriella Ferri).
+          Imperial/Burle: Meu limao, meu limoeiro (Wilson Simonal).
+          Luck/Szego: Tyttöni Maria (Lasse Mårtenson)
+          Lehtinen: Tie uuteen päivään (Markku Aro ja Koivistolaiset).
+          Bourtayre: Un banc, un arbre, une rue (Severine).
+          Vlavianos: My only fascination (Demis Roussos).
+          Ramírez: Malagueña salerosa (Nana Mouskouri).
+          Mills: Yön tullen (Neloset).
+          Kuoppamäki: Highway (Jukka Kuoppamäki).
+          Kansansäv.: Niin aikaisin (Anki).
+          Mantovani: Theme for western (Mantovanin orkesteri).
+          Morricone: Pääteema elok. Once upon a time in the west (Edda Dell'Orso, laulu, Canti Moderni-kuoro, ja ork./Ennio Morricone).
       - title: Yle Uutiset ja sää
         start_time: '2026-01-25T12:00:00+02:00'
         end_time: '2026-01-25T12:05:00+02:00'
@@ -208,11 +238,24 @@ data:
         end_time: '2026-01-25T21:24:00+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Vapaa mutta iloinen? eli mehän pidämme Brahmsista'
         start_time: '2026-01-25T21:25:00+02:00'
         end_time: '2026-01-25T22:22:00+02:00'
-        description: |-
+        description: |
+          Rein-joen rannalla, kauniin kesäloman aikana, Johannes Brahms alkoi säveltää kolmatta sinfoniaansa.
+          Se soi intohimoisena, suurenmoisena, mutta myös herkkänä ja surumielisenä. Liittyikö siihen Brahmsin nuoruuden tuntemuksia, vai Rein-jokiko virtaa sävelissä?
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Georges Auric/Johannes Brahms: Quand tu dors pres de moi (Yves Montand, laulu, Bob Castella, yhtye).
+
+          Johannes Brahms: Sinfonia n:o 3 F-duuri op.90
+          1. Allegro con brio
+          2. Andante
+          3. Poco allegretto
+          4. Allegro
+          (Kölnin radion sinfoniaorkesteri/Jukka-Pekka Saraste). 
       - title: 'Sari Valto '
         start_time: '2026-01-25T22:23:00+02:00'
         end_time: '2026-01-25T23:17:00+02:00'
