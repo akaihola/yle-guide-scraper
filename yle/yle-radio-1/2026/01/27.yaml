@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:50.565933+00:00'
+  generated_at: '2026-01-22T02:47:48.947048+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -13,61 +13,97 @@ data:
         description: |+
           H. Wood (sov.): Sarja orkesterille n:o 6 J.S. Bachin teoksista (BBC:n FO//Leonard Slatkin).
 
-          J. Haydn: Yhdeksän vokaalikvartettoa (New York Vocal Arts Ensemble ja Raymond Beegle, piano).
+          23:59 J. Haydn: Yhdeksän vokaalikvartettoa (New York Vocal Arts Ensemble ja Raymond Beegle, piano).
 
-          Bantock: Fifine at the fair (Fifine markkinoilla) (Lontoon kuninkaallinen FO/Vernon Handley).
+          00:30 Bantock: Fifine at the fair (Fifine markkinoilla) (Lontoon kuninkaallinen FO/Vernon Handley).
 
-          Madetoja: Shakkipeli, orkesterisarja (RSO/George de Godzinsky).
+          01:07 Madetoja: Shakkipeli, orkesterisarja (RSO/George de Godzinsky).
 
-          Tshaikovski: Pianotrio a-molli (Suuren taiteilijan muistolle) (Yefim Bronfman, piano, Cho-Liang Lin, viulu, ja Gary Hoffman, sello).
+          01:22 Tshaikovski: Pianotrio a-molli (Suuren taiteilijan muistolle) (Yefim Bronfman, piano, Cho-Liang Lin, viulu, ja Gary Hoffman, sello).
 
-          Klami: Ragtime ja blues (Tapio Lötjönen, klarinetti, Aki Välimäki, trumpetti, Erkki Palola ja Jaakko Ilves, viulu, sekä Jussi Siirala, piano).
+          02:09 Klami: Ragtime ja blues (Tapio Lötjönen, klarinetti, Aki Välimäki, trumpetti, Erkki Palola ja Jaakko Ilves, viulu, sekä Jussi Siirala, piano).
 
-          Tausig: Nouvelles soirees de Vienne, sarja pianolle n:o 2. (Dennis Hennig).
+          02:17 Tausig: Nouvelles soirees de Vienne, sarja pianolle n:o 2. (Dennis Hennig).
 
-          Gershwin: Amerikkalainen Pariisissa (Boston Pops -ork./Arthur Fiedler).
+          02:34 Gershwin: Amerikkalainen Pariisissa (Boston Pops -ork./Arthur Fiedler).
 
-          Brahms: Sinfonia n:o 3 F-duuri (RSO/Sakari Oramo).
+          02:51 Brahms: Sinfonia n:o 3 F-duuri (RSO/Sakari Oramo).
 
-          Schumann: Pianokonsertto a-molli (Van Cliburn ja Chicagon SO/Fritz Reiner).
+          03:25 Schumann: Pianokonsertto a-molli (Van Cliburn ja Chicagon SO/Fritz Reiner).
 
-          Grieg: Holbergin ajoilta (Orpheus-kamariork.).
+          03:57 Grieg: Holbergin ajoilta (Orpheus-kamariork.).
 
-          Barrios: Danza paraguaya n:o 1 (Paragualainen tanssi) (David Russell, kitara).
+          04:17 Barrios: Danza paraguaya n:o 1 (Paragualainen tanssi) (David Russell, kitara).
 
-          J.S. Bach: Das Wohltemperierte Klavier I, preludit ja fuugat n:o 1-24 (Samuel Feinberg, piano).
+          04:21 J.S. Bach: Das Wohltemperierte Klavier I, preludit ja fuugat n:o 1-24 (Samuel Feinberg, piano).
 
-          W.A. Mozart: Adagio ja fuuga c-molli (Gidon Kremer ja Daniel Phillips, viulu, Kim Kashkashian, alttoviulu, ja Yo-Yo Ma, sello).
+          06:10 W.A. Mozart: Adagio ja fuuga c-molli (Gidon Kremer ja Daniel Phillips, viulu, Kim Kashkashian, alttoviulu, ja Yo-Yo Ma, sello).
 
-          Telemann: Sonaatti oboelle ja continuolle c-molli (Vladimir Kurlin, oboe, ja Sergei Tsatsorin, urut).
+          06:18 Telemann: Sonaatti oboelle ja continuolle c-molli (Vladimir Kurlin, oboe, ja Sergei Tsatsorin, urut).
 
       - title: Hartaita säveliä
         start_time: '2026-01-27T06:30:50+02:00'
         end_time: '2026-01-27T06:50:00+02:00'
+        description: |+
+          Tuntematon: Nyt, Herra, aamun tullen (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          Simojoki: Hän ohitse ei kulje (Sauli Ahvenjärvi, baritoni, ja Pentti Kotiranta, piano).
+
+          S. Löytty: Halki pimeän maan (Maria Laakso).
+
+          Kallio: Isä meidän (Pertti Kallio, laulu, ja Jussi Pyysalo, piano).
+
+          Webbe: On Jeesus nimi ihanin (Oulun kamarikuoro/Markku Jounela).
+
       - title: Aamuhartaus
         start_time: '2026-01-27T06:50:00+02:00'
         end_time: '2026-01-27T06:59:59+02:00'
         description: |-
-          Johtaja Saara Huhanantti, Projekti 5/5, Helsinki
+          "Moka päivässä pitää armon tuoreena"
+          Johtaja Saara Huhanantti, Projekti 5/5, Helsingistä puhuu virheiden tekemisestä ja armon äärimmäisestä merkityksestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-01-27T07:00:00+02:00'
         end_time: '2026-01-27T07:05:00+02:00'
       - title: Aamusoitto
         start_time: '2026-01-27T07:06:00+02:00'
         end_time: '2026-01-27T08:00:00+02:00'
+        description: |+
+          Castelnuovo-Tedesco: Preludi ja fuuga E-duuri sarj. Les Guitares bien temperees (Kitaraduo Hildén-Lehtinen).
+
+          J.S. Bach: Badenerie Sarjasta nro 2 h-molli (Gabor Tarkövi, trumpetti, ja Petet Kofler, urut).
+
+          Händel: Agileian aaria Amarti si vorrei oopp. Teseo (Amanda Forsythe, sopraano, ja Apollo's Fire/Jeannette Sorrell).
+
+          Poldini: Tanssiva nukke (Kerava-kvartetti sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso).
+
+          Bartók: Romanialaisia kansantansseja (Chicagon SO/Georg Solti).
+
+          Fauré: Pavane (Empire Brass -vaskikvintetti).
+
+          Tshaikovski: Scherzo teoksesta Muisto rakkaalta seudulta
+          (Gil Shaham, viulu, ja Venäjän kansallinen ork./Mihail Pletnjov).
+
+          Albéniz: Asturias Espanjalaisesta sarjasta n:o 1 (Angel Romero, kitara).
+
+          Alfvén: Vallflickans dans (Paimentytön tanssi) balettisarj. Bergakungen (Vuorenkuningas) (Ruotsin radion SO/Esa-Pekka Salonen).
+
+          Sibelius: Talvikuva (Bengt Forsberg, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-27T08:00:00+02:00'
         end_time: '2026-01-27T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-01-27T08:07:00+02:00'
         end_time: '2026-01-27T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-27T09:00:00+02:00'
         end_time: '2026-01-27T09:03:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2026-01-27T09:04:00+02:00'
         end_time: '2026-01-27T09:59:00+02:00'
-        description: |-
+        description: |
           W.A. Mozart: Mozart 40 (Päivi Paunu ja Aarno Raninen).
           Gershwin: But not for me (Sammy Davis, Jr.).
           Hazzard: Kysyn vain (Kristiina Hautala). 
@@ -82,12 +118,12 @@ data:
           Lugg: Laulu Jamaikan rommista (Tuula-Anneli Rantanen).
           Kärki: Ukulele-Mary (Olavi Virta).
           Fisher: Just an old fashioned girl (Eartha Kitt).
-          Kern: Ol' man river laulu elok. Show boat (Paul Robeson). 
+          Kern: Ol' man river (Paul Robeson). 
       - title: Sari Valto
         start_time: '2026-01-27T10:00:00+02:00'
         end_time: '2026-01-27T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Kirjailija Veera Salmea on joskus epäilty masentuneeksi, koska hän on kieltäytynyt lähtemästä juhliin. Mutta hän on vain introvertti, joka kuormittuu liiallisesta sosiaalisuudesta. On kuitenkin myös tilanteita, joissa hänessä kuoriutuu esille ekstrovertti, koska muutoin hän ei saa mielipiteitään esille. Keskustelussa mukana persoonallisuustutkija Sointu Leikas.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-27T10:55:00+02:00'
         end_time: '2026-01-27T11:00:00+02:00'
@@ -109,9 +145,12 @@ data:
         end_time: '2026-01-27T12:25:00+02:00'
         description: |
           Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Millainen oli keisari Hadrianuksen loistelias huvila antiikin Rooman Tiburissa? Ohjelman vieraana on arkeologi FT Eeva-Maria Viitanen. Toimittajana Jukka Kuosmanen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Verbaalinen väkivalta verkossa on vallankäyttöä – vihapuheella voidaan kiusata, uhata ja eristää'
         start_time: '2026-01-27T12:25:00+02:00'
         end_time: '2026-01-27T12:50:00+02:00'
+        description: |
+          Pasi Heikura miettii Kriittisen korkeakoulun Puhujakoulun vastaava opettaja ja tohtorikoulutettava Severi Hämärin kanssa, miltä vihapuhe-ilmiö näyttää, jos sitä ajattelee sanallisena väkivaltana. Ohjelma on uusinta tammikuulta 2025.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-27T12:50:00+02:00'
         end_time: '2026-01-27T13:00:00+02:00'
@@ -121,14 +160,16 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-27T13:30:00+02:00'
         end_time: '2026-01-27T15:00:00+02:00'
-        description: |2+
+        description: |+
+          Muumikirjojen matkassa -sarjassa valmistaudutaan tulvean viikonlopun Muumi -luentamaratoniin.  Yhdeksän toimittajaa luki yhden kirjan ja keskustelee siitä vieraansa kanssa. Tiistaina Marja Vehkanen keskustelee näyttelijä Alma Pöystin kanssa n. klo 14 romaanista Vaarallinen juhannus. N. klo 14:30 kirjailija Paula Noronen kertoo Marko Miettiselle häntä erityisesti koskettaneesta kulttuurielämyksestä. Joni Timonen juontaa.
 
-
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Music Television 1981-2025'
         start_time: '2026-01-27T15:00:00+02:00'
         end_time: '2026-01-27T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Läntisen maailman yksi laajimmille levinneitä televisiokanavia, Music Television sammutti lopullisesti valonsa uudenvuodenaattona. Miten yksi suurimpia nuorisokulttuurin ja yhtenäiskulttuurin yksittäisiä televisiokanavia vaikutti kulttuuriimme, ja millainen oli sen historia? Internet, YouTube ja sosiaalinen media veivät kaistan Music televisionin kaltaiselta toimijalta, mutta mitkä olivat päällimmäiset syyt kanavan lopulliseen tuhoon? Miten musiikkivideoiden funktio on muuttunut ajassamme, ja onko MTV:n kaltaiselle toimijalle enää mitään muuta kuin nostalgista tilausta?
+
+          Kulttuuriykkösestä asiasta keskustelevat MTV:n juontajana toiminut europarlamentaarikko Maria Guzenina (etä), pohjoismaisista musiikkivideoista tietokirjan juuri julkaissut musiikkitieteiden professori John Richardson Turun yliopistosta sekä Oulun musiikkivideofestivaaleilla omaa kuratoitua musiikkivideotapahtumaa vuosia vetänyt musiikkitoimittaja Veli Kauppinen. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2026-01-27T15:55:00+02:00'
         end_time: '2026-01-27T15:58:00+02:00'
@@ -140,6 +181,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-27T16:07:00+02:00'
         end_time: '2026-01-27T16:59:00+02:00'
+        description: |
+          Rossini (sov. Latham): Alkusoitto oopperasta Guillaume Tell (The Swingle Singers).
+
+          Weber: Alla polacca konsertosta n:o 2 Es-duuri (Charles Neidich, klarinetti, ja Orpheus-kamariork.).
+
+          J.S. Bach: Allemande teoks. Ranskalainen sarja n:o 6 E-duuri (Murray Perahia, piano).
+
+          R. Clarke: Epilogi (Raphaela Gromes, sello, ja Julian Riem, piano).
+
+          Schmittbauer: Allegro lasiharmonikalle (Dennis James).
+
+          W.A. Mozart: Leporellon luetteloaaria "Madamina, il catalogo è questo" oopp. Don Giovanni (Bryn Terfel, baritoni, ja Metropolitan-oopperan ork./James Levine).
+
+          Nielsen: Aladdinin uni ja aamu-usvain tanssi näyt. Aladdin (San Franciscon SO/Herbert Blomstedt). 
+
+          Janácek: 4. osa "Con moto - Adagio - Piu mosso" jousikvartetosta nro 1 "Kreutzer-sonaatti" (Henschel-kvartetti).
+
+          Hahn: Iberienne (Ensemble Initium/Nicolas Chalvin).
+
+          Satie: Airs a faire fuir sarjasta pianolle (Janne Mertanen).
+
+          Glinka: Alkusoitto oopp. Ruslan ja Ljudmila (Baltimoren SO/David Zinman).
       - title: Uutispodcast
         start_time: '2026-01-27T17:00:00+02:00'
         end_time: '2026-01-27T17:20:00+02:00'
@@ -154,6 +217,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-27T18:35:00+02:00'
         end_time: '2026-01-27T18:50:00+02:00'
+        description: |+
+          Haapasalo: Herra on minun paimeneni (Haukiputaan Laulu/Hannu Niemelä, ja Lauri-Kalle Kallunki, urut).
+
+          Maukonen: Teidät tunnetaan (Jarkko Maukonen).
+
+          Crüger: Tänne, Jeesus, tulimme (Harri Viitanen, urut, Markku Luolajan-Mikkola, viola da gamba, ja Radion kamarikuoro/Timo Nuoranne).
+
+          Anonyymi: Aurinko armas valollansa (Mehis Metsala, sello, ja yhtye).
+
       - title: Iltahartaus
         start_time: '2026-01-27T18:50:00+02:00'
         end_time: '2026-01-27T19:00:00+02:00'
@@ -200,3 +272,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-01-27T23:40:00+02:00'
         end_time: '2026-01-28T06:30:00+02:00'
+        description: |+
+          Pleyel: Sinfonia concertante A-duuri. (David Perry ja Isabella Lippi, viulu, ja Baltimoren kamariork./Markand Thakar).
+
+          00:08 Bruch: Kahdeksan kappaletta op.83 (Gerard Caussé, alttoviulu, Paul Meyer, klarinetti, ja Francois-René Duchâble, piano).
+
+          00:48 Brahms: Neljä vakavaa laulua (George London, bassobaritoni, ja Leo Taubman, piano).
+
+          01:06 W.A. Mozart: Vapaamuurarikantaatti (William Hite, tenori, William Bastian, tenori, ja William Sharp, baritoni, sekä Bostonin vanhan musiikin kuoro ja ork./Andrew Parrott).
+
+          01:19 J.S. Bach: Partita klaveerille h-molli (Igor Kipnis, cembalo).
+
+          01:52 Bruckner: Sinfonia n:o 7 E-duuri (Cincinnatin SO/Jesus Lopez-Cobos).
+
+          03:00 Schubert: Pianosonaatti n:o 21 B-duuri (Vladimir Sofronitski).
+
+          03:37 Massenet: Sarja orkesterille n:o 4 (Maalauksellisia kuvia) (Uuden-Seelannin SO/Jean-Yves Ossonce). 
+
+          03:53 Beethoven: Pianokonsertto n:o 3 c-molli (Rudolf Serkin ja Bostonin SO/Seiji Ozawa).
+
+          04:31 Jongen: Viulukonsertto h-molli (Philippe Graffin ja Royal Flemish Philharmonic/Martyn Brabbins).
+
+          05:02 Wagner: Alkusoitto oopp. Nürnbergin mestarilaulajat (RSO/Jukka-Pekka Saraste).
+
+          05:14 J.S. Bach: Tänne Jeesus tulimme (Kari Jussila, urut).
+
+          05:17 J.K. Horn: Sarja kamariyhtyeelle (Teatro Lirico).
+
+          05:33 Händel: Sonaatit nokkahuilulle ja continuolle g-molli, a-molli, C-duuri, F-duuri ja B-duuri (Michala Petri, nokkahuilu, ja Keith Jarrett, cembalo). 
+
+...

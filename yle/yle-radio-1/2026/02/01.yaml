@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:52.084012+00:00'
+  generated_at: '2026-01-22T02:47:50.686025+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -29,6 +29,19 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-01T09:03:00+02:00'
         end_time: '2026-02-01T09:53:00+02:00'
+        description: |+
+          Locatelli: Andante sonaatista viululle ja continuolle F-duuri (Trio Settecento). 
+
+          Dowland: Time stands still (Julianne Baird, sopraano, ja Ronn McFarlane, luuttu).  
+
+          von Bingen: O nobilissima viriditas (Oi korkein vehreys) (Tapestry/Laurie Monahan, ja Robert Kyr, kampiliira).
+
+          W.A. Mozart: Käyrätorvikonsertto n:o 3 Es-duuri (John Cerminaro ja Seattlen SO/Gerard Schwarz).
+
+          Händel: Sonaatti viululle ja continuolle d-molli (Andrew Manze ja Richard Egarr). 
+
+          Vivaldi: Konsertto kahdelle trumpetille, jousille ja continuolle C-duuri (Gerard Schwarz ja Norman Smith, trumpetti, sekä New Yorkin kamariorkesteri).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-02-01T09:56:00+02:00'
         end_time: '2026-02-01T09:59:00+02:00'
@@ -47,12 +60,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-01T12:00:00+02:00'
         end_time: '2026-02-01T12:05:00+02:00'
-      - title: Elävä historia
+      - title: Panssarilaiva Ilmarinen ja Operaatio Nordwind - suomalaiset Saksan apuna Viroa valtaamassa
         start_time: '2026-02-01T12:05:00+02:00'
         end_time: '2026-02-01T12:55:00+02:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
-      - title: Välilevyjä - Kare Eskola
+          Panssarilaiva Ilmarisen traaginen uppoaminen jatkosodassa vuonna 1941 johti vuosia jatkuneeseen salailuun ja kiistelyyn siitä, mitä tapahtui. Nyt tapahtumat on tutkittu. Haastateltavana historiantutkija Ville Jalovaara.
+      - title: 'Välilevyjä: Kaikille palkintoja!'
         start_time: '2026-02-01T13:00:00+02:00'
         end_time: '2026-02-01T13:57:00+02:00'
         description: |-

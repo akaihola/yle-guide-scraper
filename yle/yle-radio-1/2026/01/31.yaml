@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:51.789862+00:00'
+  generated_at: '2026-01-22T02:47:50.395135+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-31T08:05:00+02:00'
         end_time: '2026-01-31T08:25:00+02:00'
+        description: |+
+          Maasalo: Tule kanssani, Herra Jeesus (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
+
+          O. Merikanto: Rukous (Ville Urponen, urut).
+
+          Koraalitoisinto (sov. Hakomäki): Ah, armon Herra suloinen (Herännäisnuorten kuoro/Samuli Korkalainen).
+
+          Koraalitoisinto (sov. Sonninen): Vielä, Herra, kutsut meitä (RKK/Timo Nuoranne).
+
+          Teeri (sov. Kela): Kiitos (Tauno Teeri, laulu, ja yhtye/Juha Kela).
+
+          Nikunen: Sinua siunata tahdon (Oulun konservatorion kirkkomusiikin opiskelijoiden kuoro/Tuomo Nikkola).
+
       - title: Aamuhartaus
         start_time: '2026-01-31T08:25:00+02:00'
         end_time: '2026-01-31T08:35:00+02:00'
@@ -74,9 +87,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-31T12:00:00+02:00'
         end_time: '2026-01-31T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Yksinäisyyden filosofiaa Muumilaaksossa'
         start_time: '2026-01-31T12:05:00+02:00'
         end_time: '2026-01-31T13:00:00+02:00'
+        description: |
+          Tove Janssonin muumitarinat täyttävät tänä vuonna 80 vuotta. Irrallisuus ja yksinäisyys olivat kuvauksen kohteena toisen maailmansodan jälkeisessä kirjallisuudessa, jolloin myös ensimmäiset muumitarinat syntyivät. Miten yksinäisyys näyttäytyy muumitarinoissa?
+          Yksinäisyyttä voi lähestyä monesta kulmasta – mikä korostuu melko tuoreella alueella, yksinäisyyden filosofiassa? 
+          Marja Vehkasen vieraina ovat käytännöllisen filosofian akatemiatutkija Sanna Tirkkonen ja kirjailija Jukka Laajarinne.
       - title: Näistä levyistä en luovu
         start_time: '2026-01-31T13:00:00+02:00'
         end_time: '2026-01-31T13:55:00+02:00'
@@ -96,7 +113,7 @@ data:
         end_time: '2026-01-31T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Syrjästäkatsojan tarina 5/9.
+      - title: 'Viihdekuunnelma: Syrjästäkatsojan tarina 5/9.'
         start_time: '2026-01-31T15:00:00+02:00'
         end_time: '2026-01-31T15:25:00+02:00'
         description: |
@@ -115,9 +132,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-31T15:25:00+02:00'
         end_time: '2026-01-31T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Verbaalinen väkivalta verkossa on vallankäyttöä – vihapuheella voidaan kiusata, uhata ja eristää'
         start_time: '2026-01-31T15:30:00+02:00'
         end_time: '2026-01-31T15:55:00+02:00'
+        description: |
+          Pasi Heikura miettii Kriittisen korkeakoulun Puhujakoulun vastaava opettaja ja tohtorikoulutettava Severi Hämärin kanssa, miltä vihapuhe-ilmiö näyttää, jos sitä ajattelee sanallisena väkivaltana. Ohjelma on uusinta tammikuulta 2025.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2026-01-31T15:55:00+02:00'
         end_time: '2026-01-31T15:58:00+02:00'

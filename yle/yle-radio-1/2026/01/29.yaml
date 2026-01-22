@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:51.295909+00:00'
+  generated_at: '2026-01-22T02:47:49.745696+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-29T06:30:50+02:00'
         end_time: '2026-01-29T06:50:00+02:00'
+        description: |+
+          Pekkarinen: Yksin en kulje (Lasse Riutamaa, tenori, ja Ilkka Paananen, piano).
+
+          Anonyymi: On lepopaikka suloinen (Oulun konservatorion kirkkomusiikin opiskelijoiden kuoro/Tuomo Nikkola, ja Risto Ainali, urut).
+
+          Koraalitoisinto (sov. Virpi): Oi Jumalan', kuink' iloitsen (SRK:n kuoro/Mikko Niinikoski).
+
+          Simojoki (sov. J. Kuusisto): Herra, kädelläsi asua mä saan (Sinfonia Lahti/Osmo Vänskä).
+
+          Schop: Kirkkaat riemun äänet soivat (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
       - title: Aamuhartaus
         start_time: '2026-01-29T06:50:00+02:00'
         end_time: '2026-01-29T06:59:59+02:00'
@@ -24,12 +35,36 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-29T07:06:00+02:00'
         end_time: '2026-01-29T08:00:00+02:00'
+        description: |+
+          Viviani: Sonaatti trumpetille ja continuolle nro 2 kokoelmasta Capricci armonici da chiesa e da camera 
+          (Andreas Lackner, trumpetti,  Katalin Sebella, fagotti, Wolfgang Zerer, urut, Roberto Sensi, viola da gamba ja Luciano Contini, arkkiluuttu).
+
+          Barvinski: Preludi op.1/2 (Natalija Pasitshnyk, piano).
+
+          Castro Herrera: Menuetti jousille (Orquesta de las Americas/Benjamin Juarez Echenique).
+
+          Prokofjev: Julia, nuori neito balettisarj. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          Pacius: Leonoran balladi oopp. Kaarle-kuninkaan metsästys (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Marteau: Entrata Serenadista puhaltimille (Saksan radion FO:n puhaltajat/Raoul Grüneis).
+
+          Schubert: An die Musik (Fritz Wunderlich, tenori, ja Hubert Giesen, piano).
+
+          Smyth: Alkusoitto oopp. The Boatswain's mate (Lontano Ensemble/Odaline de la Martinez).
+
+          Beach: Scottish legend (Skotlantilainen legenda) (Hiroko Ishimoto, piano).
+
+          Brouwer: Cambio el ritmo de la noche teoks. Canciones remotas (The Seasons Orchestra/Vladislav Bulahov).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-29T08:00:00+02:00'
         end_time: '2026-01-29T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-01-29T08:07:00+02:00'
         end_time: '2026-01-29T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-29T09:00:00+02:00'
         end_time: '2026-01-29T09:03:00+02:00'
@@ -73,17 +108,21 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-29T12:00:00+02:00'
         end_time: '2026-01-29T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Yksinäisyyden filosofiaa Muumilaaksossa'
         start_time: '2026-01-29T12:05:00+02:00'
         end_time: '2026-01-29T13:00:00+02:00'
+        description: |
+          Tove Janssonin muumitarinat täyttävät tänä vuonna 80 vuotta. Irrallisuus ja yksinäisyys olivat kuvauksen kohteena toisen maailmansodan jälkeisessä kirjallisuudessa, jolloin myös ensimmäiset muumitarinat syntyivät. Miten yksinäisyys näyttäytyy muumitarinoissa?
+          Yksinäisyyttä voi lähestyä monesta kulmasta – mikä korostuu melko tuoreella alueella, yksinäisyyden filosofiassa? 
+          Marja Vehkasen vieraina ovat käytännöllisen filosofian akatemiatutkija Sanna Tirkkonen ja kirjailija Jukka Laajarinne.
       - title: Politiikkaradio
         start_time: '2026-01-29T13:00:00+02:00'
         end_time: '2026-01-29T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-29T13:30:00+02:00'
         end_time: '2026-01-29T15:00:00+02:00'
-        description: |2+
-
+        description: |+
+          Muumikirjojen matkassa -sarjassa tutkija Sirke Happonen keskustelee Jarmo Laitanevan kanssa Muumipeikko ja pyrstötähti -kirjasta n. klo 14. Tietokirjailija Markku Laukkanen kertoo rakkaudestaan rajantakaiseen Karjalaan n. klo 14:30. Juontajana Miia Lahti.
 
       - title: Kulttuuriykkönen
         start_time: '2026-01-29T15:00:00+02:00'
@@ -106,7 +145,7 @@ data:
 
           Héritte-Viardot: Divertimento kvartetosta D-duuri (Ensemble Viardot).
 
-          Myslivecek: Larghetto viulukonsertosta D-duuri (Daniel Hope, viulu, ja Zürichin kamariork.). 
+          Myslivecek: Larghetto viulukonsertosta D-duuri (Daniel Hope ja Zürichin kamariork.). 
 
           Vivaldi: Lotarion aaria "Sento in seno ch'in pioggia di lagrime" oopp. Tieteberga (Philippe Jaroussky, kontratenori, ja Ensemble Matheus/Jean-Christophe Spinosi).
 
@@ -122,7 +161,7 @@ data:
 
           Melartin: Lumitunnelma sarj. Noli me tangere (Tiina Karakorpi, piano).
 
-          Kuula: Tulopeli (RSO/Jorma Panula).
+          Kuula: Tulopeli teoks. Eteläpohjalainen sarja n:o 2 (RSO/Jorma Panula).
       - title: Uutispodcast
         start_time: '2026-01-29T17:00:00+02:00'
         end_time: '2026-01-29T17:20:00+02:00'
@@ -134,11 +173,22 @@ data:
         description: |2+
 
 
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Musiikkia kasveille ja kansoille eli tammikuun parasta maailmanmusiikkia'
         start_time: '2026-01-29T17:35:00+02:00'
         end_time: '2026-01-29T18:25:00+02:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Ohjelmassa seurataan traakkipuun elämää ja pohditaan huolenpidon merkitystä niin kasveille kuin ihmisille. Musiikkimatka kulkee Gambiasta Indonesiaan, Unkarista Brasiliaan ja Kanadasta Espanjaan, tuoden esiin maailmanmusiikin tuoreimpia julkaisuja. Jokainen kappale kertoo kasvusta, muutoksesta, toivosta ja yhteisöllisyydestä – siitä, miten musiikki voi yhdistää ja lohduttaa. Kulttuurit kohtaavat ja oppivat toisiltaan, oli kyse sitten griottien tarinankerronnasta, uuden pääkaupungin rakentamisesta tai romanimusiikin ilosta. Harmonikka soi voimakkaana symbolina vapaudelle, uudistumiselle ja monimuotoisuudelle. Lopuksi muistutetaan, että ilo ja huolenpito voivat saada sekä kasvit että ihmiset kukoistamaan – ja musiikki on yksi parhaita tapoja välittää tätä elämänvoimaa.
+
+          Suntou Susso – Yirolu Bala
+          Nusantara Beat – Tamat
+          Veronika Varga – Almodj szepet
+          Senduki – Basta n’accordu
+          Livia Mattos – História de Uma Cabeça
+          Le Vent du Nord – La Compagnie du Nord
+          Xabi Aburruzaga – Betiko bihotzean
+          Syran Mbenza – Magui Ank
+          Noura Mint Seymali – Guéreh
+          Júlia Kozáková – Šun Devla
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-01-29T18:25:00+02:00'
         end_time: '2026-01-29T18:35:00+02:00'
@@ -147,6 +197,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-29T18:35:00+02:00'
         end_time: '2026-01-29T18:50:00+02:00'
+        description: |+
+          Koraalitoisinto (sov. Airola): Nyt kiitän, Herra, kaikesta (Venla Lankinen ja yhtye).
+
+          Berthier: Jeesus Kristus on juhlariemu (Tuohus-kuoro ja -yhtye/Juha Vintturi).
+
+          Kansansävelmä (sov. M. Makkonen): Mua siipeis suojaan kätke (Esa Ruuttunen, baritoni, sekä Seeli Toivio, Jussi Makkonen, Matti Makkonen ja Ulla Lampela, sello).
+
+          L. Heikkilä: Ilta hiipii (Maria Laakso).
+
       - title: Iltahartaus
         start_time: '2026-01-29T18:50:00+02:00'
         end_time: '2026-01-29T19:00:00+02:00'
@@ -191,6 +250,22 @@ data:
       - title: Tosi tarina
         start_time: '2026-01-29T21:31:00+02:00'
         end_time: '2026-01-29T22:20:00+02:00'
+      - title: 'Viihdekuunnelma: Syrjästäkatsojan tarina 4/9.'
+        start_time: '2026-01-29T22:31:00+02:00'
+        end_time: '2026-01-29T23:00:00+02:00'
+        description: |
+          Osa 4/9. Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
+
+          Syrjästäkatsojan tarina on koskettava kertomus tukahdutetuista tunteista ja yhteiskunnallisista haasteista sekä naisen oikeudesta rakastaa ja tulla rakastetuksi.
+          Vastoinkäymisistä ja pettymyksistä huolimatta Lucy Snowe selviytyy kertoakseen tinkimättömän tarinansa elämästään.
+
+          Charlotte Brontë (1816-1855) kuvasi teoksissaan tarkasti oman aikansa naisten elämää ja asemaa. Syrjästäkatsojan tarina (eng. Villette, 1853) on maailmankirjallisuuden klassikko ja viimeinen kolmesta Brontën elinaikana julkaistusta romaanista. Syrjästäkatsojan tarinaa pidetään omaelämäkerrallisena kuvauksena Charlotte Brontën omista kohtalokkaista Brysselin vuosistaan.
+
+          Charlotte Brontën samannimisestä teoksesta Yleisradiolle sovittanut ja ohjannut Esko Salervo. 
+          Suomennos: Tyyni Haapanen-Tallgren (1921).
+          Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
+          Lucy Snowe - Päivi Akonpelto.
+          Ensilähetys: 1999
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-01-29T23:01:00+02:00'
         end_time: '2026-01-29T23:57:00+02:00'

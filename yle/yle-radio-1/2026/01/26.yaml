@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:50.313894+00:00'
+  generated_at: '2026-01-22T02:47:48.616382+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -48,6 +48,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-26T06:30:50+02:00'
         end_time: '2026-01-26T06:50:00+02:00'
+        description: |+
+          Anonyymi: Jumalan haltuun anna (Joose Vähäsöyrinki, laulu, ja Vesa Kajava, urut).
+
+          Lindeman: Ajasta aikaan varjellut (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Crüger: Kuka meistä sinua, Herra (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Koraalitoisinto: Niin ihanaa on ylistää (Katja Kallio, laulu ja piano, Sami Kosola, laulu ja saksofoni, sekä Taavi-Kasperi Kausalainen, lyömäsoittimet).
+
       - title: Aamuhartaus
         start_time: '2026-01-26T06:50:00+02:00'
         end_time: '2026-01-26T06:59:59+02:00'
@@ -60,12 +69,39 @@ data:
       - title: Aamusoitto
         start_time: '2026-01-26T07:06:00+02:00'
         end_time: '2026-01-26T08:00:00+02:00'
+        description: |+
+          Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
+
+          Sor: Valssi G-duuri (Robert Kubica ja Wilma van Berkel, kitara).
+
+          Weber: Adagio ja rondo (Mozzafiato).
+
+          Tarrega: Recuerdos de la Alhambra (Muistoja Alhambrasta) (Narciso Yepes, kitara).
+
+          Holst: Brook Green -sarja (Royal Ballet SO/David Lloyd-Jones).
+
+          Fauré: Après un rêve (Unen jälkeen) (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          Dvorák: Valssi jousikvartetille n:o 2 D-duuri (Lindsay-kvartetti).
+
+          Kansanlaulu - Linkola: On neidolla punapaula sarjasta Mieliteko (EMO Ensemble/Pasi Hyökki).
+
+          Gounod: Julian uni oopp. Romeo ja Julia (Minnesotan ork./Eiji Oue).
+
+          Chabrier: Idylli (Angela Hewitt, piano). 
+
+          R. Schumann: Widmung (Thomas Quasthoff, bassobaritoni, ja Justus Zeyen, piano).
+
+          Crusell: Alla polacca klarinettikonsertosta nro 3 B-duuri (Kari Kriikku ja RSO/Sakari Oramo).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-26T08:00:00+02:00'
         end_time: '2026-01-26T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-01-26T08:07:00+02:00'
         end_time: '2026-01-26T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-01-26T09:00:00+02:00'
         end_time: '2026-01-26T09:03:00+02:00'
@@ -95,7 +131,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-26T10:52:00+02:00'
         end_time: '2026-01-26T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Kaikille palkintoja!'
         start_time: '2026-01-26T11:00:00+02:00'
         end_time: '2026-01-26T11:57:00+02:00'
         description: |-
@@ -108,21 +144,39 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-01-26T12:00:00+02:00'
         end_time: '2026-01-26T12:05:00+02:00'
-      - title: Elävä historia
+      - title: Panssarilaiva Ilmarinen ja Operaatio Nordwind - suomalaiset Saksan apuna Viroa valtaamassa
         start_time: '2026-01-26T12:05:00+02:00'
         end_time: '2026-01-26T12:55:00+02:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Panssarilaiva Ilmarisen traaginen uppoaminen jatkosodassa vuonna 1941 johti vuosia jatkuneeseen salailuun ja kiistelyyn siitä, mitä tapahtui. Nyt tapahtumat on tutkittu. Haastateltavana historiantutkija Ville Jalovaara.
       - title: Politiikkaradio
         start_time: '2026-01-26T13:00:00+02:00'
         end_time: '2026-01-26T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2026-01-26T13:30:00+02:00'
         end_time: '2026-01-26T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+        description: |-
+          Radio 1:n iltapäivä jatkaa Muumikirjojen matkassa -sarjaa. 
+           Kuvataiteilija, zen-opettaja Mikko Ijäs on tutkinut zenfilosofian ja muumien yhteisiä viisauksia kirjassaan Zen ja muumit. 
+          Toimittaja Sari Valto keskustelee Ijäksen kanssa kirjasta Muumilaakson marraskuu. Juontajana iltapäivässä on Jarmo Laitaneva.
+      - title: 'Kulttuuriykkönen: Pyhä Birgitta ja birgittalainen kulttuuri keskiajan Suomessa '
         start_time: '2026-01-26T15:00:00+02:00'
         end_time: '2026-01-26T15:55:00+02:00'
         description: |-
+          Kuka oli Euroopassa kunnioitettu pyhimys Pyhä Birgitta ja millaisen kulttuuriperinnön hän jätti jälkeensä? Mikä vaikutus birgittalaisuudella oli kulttuuriin myöhäiskeskiajan Suomessa. Uusinta tutkimustietoa tarjoava kirja avaa birgittalaisuudesta yllättäviä yksityiskohtia, strutsinmunia ja muita pyhiä aarteita.
+
+          Birgitta syntyi 1300-luvun alussa, aikana, jolloin Eurooppa eli suurten mullistusten keskellä. Hänen elämänsä oli poikkeuksellinen: aatelisesta syntyperästä huolimatta Birgitta tunnetaan parhaiten hengellisestä perinnöstään, lukuisista näyistään ja rohkeasta toiminnastaan kirkon ja yhteiskunnan uudistajana. Hän oli naimisissa Ulf Gudmarssonin kanssa ja he saivat kaksi lasta. Birgitta teki miehensä kanssa pyhiinvaellusmatkoja ja Birgitan näyt ohjasivat hänen elämäänsä. 
+
+          Birgitan vaikutus Naantalin luostarissa ulottui kauas hänen kotimaansa rajojen ulkopuolelle. Hän matkusti Roomaan ja nousi Euroopan merkittävien hengellisten auktoriteettien joukkoon, ja hän perusti Birgittalaisluostareita. Birgitta muutti Roomaan vuonna 1349 ja kuoli siellä vuonna 1373 omassa talossaan Piazza Farnesella.
+
+          Pyhä Birgitta on myös ensimmäinen pohjoismainen nainen, joka julistettiin pyhimykseksi. Millä tavalla hänen ajatuksensa, kirjoituksensa ja esimerkkinsä vaikuttavat edelleen sekä uskonnollisessa että kulttuurisessa keskustelussa?
+
+          Ohjelman vieraina ovat tutkijat Anna-Stina Hägglund ja Sofia Lahti.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-01-26T15:55:00+02:00'
@@ -135,10 +189,10 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-01-26T16:07:00+02:00'
         end_time: '2026-01-26T16:59:00+02:00'
-        description: |-
-          Predieri: Pace una volta (Kathleen Battle ja Wynton Marsalis sekä St. Luken ork./John Nelson).
+        description: |
+          Predieri: Aaria "Pace una volta" oopp. Zenobia (Kathleen Battle, sopraano, ja Wynton Marsalis, trumpetti, sekä St. Luken ork./John Nelson).
 
-          Hasse: Aaria kantaatista L'amor prigioniero (Deborah Riedel, sopraano, ja Arcadia Lane -ork./Richard Bonynge).
+          Hasse: Aaria "Pace e amor" kantaatista L'amor prigioniero (Deborah Riedel, sopraano, ja Arcadia Lane -ork./Richard Bonynge).
 
           Händel: La paix orkesterisarj. Ilotulitusmusiikkia (Orpheus-kamariork.).
 
@@ -146,13 +200,13 @@ data:
 
           Gal: Allegro comodo sarj. Viisi intermezzoa (Katalin Kertesz, viulu, Reijo Tunkkari, viulu, Hanna Pakkala, alttoviulu, Ulla Lampela, sello). 
 
-          Crusell: Lähde. (Marja Eskola, sopraano, ja Ulf Söderblom, piano).
+          Crusell: Lähde (Marja Eskola, sopraano, ja Ulf Söderblom, piano).
 
           Tuntematon (sov. Yavnai - Paquito): Improvisaatio teemasta Dona nobis pacem (Paquito D'Rivera, klarinetti, ja Alon Yavnai, piano).
 
-          Debussy: Unelmointia (Minnesotan ork./Eiji Oue).
+          Debussy: Rêverie (Minnesotan ork./Eiji Oue).
 
-          Tshaikovski: Sävelmä (Riitta Pesola, sello, ja Vox Artis/Lev Markiz).
+          Tshaikovski: Sävelmä teoks. Muistoja rakkaalta seudulta (Riitta Pesola, sello, ja Vox Artis/Lev Markiz).
 
           J. Haydn: Das Leben ist ein Traum (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
 
@@ -176,8 +230,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-01-26T18:35:00+02:00'
         end_time: '2026-01-26T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Anonyymi: Oi Herra, kaiken luoja (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
+          Tuntematon: Maa hohtaa lumivaipassansa (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Huhtala: Kansalleni (Nina Åström).
+
       - title: Iltahartaus
         start_time: '2026-01-26T18:50:00+02:00'
         end_time: '2026-01-26T19:00:00+02:00'
@@ -206,11 +265,17 @@ data:
       - title: Politiikkaradio
         start_time: '2026-01-26T21:00:01+02:00'
         end_time: '2026-01-26T21:30:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Asevoimat käyttävät scifiä tulevaisuuden sotien ennakoinnissa'
         start_time: '2026-01-26T21:30:30+02:00'
         end_time: '2026-01-26T22:20:00+02:00'
-        description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |
+          Tulevaisuudentutkija ja kirjailija Elina Hiltunen on tutkinut mm. sitä, miten eri asevoimat käyttävät tieteisfiktiota osana ennakointityötä. Lisäksi Hiltunen on selvittänyt, miten osuvasti asevoima-scifi on onnistunut ennakoimaan nykyisenkaltaisen droonisodankäynnin. 
+
+          Hiltusen Maanpuolustuskorkeakoulun väitöstutkimuksen aiheena oli sciene fiction sotilasorganisaatioiden skenaariotyöskentelyn tukena.
+
+          Haastateltava: Elina Hiltunen
+          Toimittaja: Juuso Pekkinen
+          Äänisuunnittelija: Laura Koso
       - title: Näistä levyistä en luovu
         start_time: '2026-01-26T22:45:00+02:00'
         end_time: '2026-01-26T23:39:30+02:00'
@@ -222,32 +287,32 @@ data:
         description: |+
           H. Wood (sov.): Sarja orkesterille n:o 6 J.S. Bachin teoksista (BBC:n FO//Leonard Slatkin).
 
-          J. Haydn: Yhdeksän vokaalikvartettoa (New York Vocal Arts Ensemble ja Raymond Beegle, piano).
+          23:59 J. Haydn: Yhdeksän vokaalikvartettoa (New York Vocal Arts Ensemble ja Raymond Beegle, piano).
 
-          Bantock: Fifine at the fair (Fifine markkinoilla) (Lontoon kuninkaallinen FO/Vernon Handley).
+          00:30 Bantock: Fifine at the fair (Fifine markkinoilla) (Lontoon kuninkaallinen FO/Vernon Handley).
 
-          Madetoja: Shakkipeli, orkesterisarja (RSO/George de Godzinsky).
+          01:07 Madetoja: Shakkipeli, orkesterisarja (RSO/George de Godzinsky).
 
-          Tshaikovski: Pianotrio a-molli (Suuren taiteilijan muistolle) (Yefim Bronfman, piano, Cho-Liang Lin, viulu, ja Gary Hoffman, sello).
+          01:22 Tshaikovski: Pianotrio a-molli (Suuren taiteilijan muistolle) (Yefim Bronfman, piano, Cho-Liang Lin, viulu, ja Gary Hoffman, sello).
 
-          Klami: Ragtime ja blues (Tapio Lötjönen, klarinetti, Aki Välimäki, trumpetti, Erkki Palola ja Jaakko Ilves, viulu, sekä Jussi Siirala, piano).
+          02:09 Klami: Ragtime ja blues (Tapio Lötjönen, klarinetti, Aki Välimäki, trumpetti, Erkki Palola ja Jaakko Ilves, viulu, sekä Jussi Siirala, piano).
 
-          Tausig: Nouvelles soirees de Vienne, sarja pianolle n:o 2. (Dennis Hennig).
+          02:17 Tausig: Nouvelles soirees de Vienne, sarja pianolle n:o 2. (Dennis Hennig).
 
-          Gershwin: Amerikkalainen Pariisissa (Boston Pops -ork./Arthur Fiedler).
+          02:34 Gershwin: Amerikkalainen Pariisissa (Boston Pops -ork./Arthur Fiedler).
 
-          Brahms: Sinfonia n:o 3 F-duuri (RSO/Sakari Oramo).
+          02:51 Brahms: Sinfonia n:o 3 F-duuri (RSO/Sakari Oramo).
 
-          Schumann: Pianokonsertto a-molli (Van Cliburn ja Chicagon SO/Fritz Reiner).
+          03:25 Schumann: Pianokonsertto a-molli (Van Cliburn ja Chicagon SO/Fritz Reiner).
 
-          Grieg: Holbergin ajoilta (Orpheus-kamariork.).
+          03:57 Grieg: Holbergin ajoilta (Orpheus-kamariork.).
 
-          Barrios: Danza paraguaya n:o 1 (Paragualainen tanssi) (David Russell, kitara).
+          04:17 Barrios: Danza paraguaya n:o 1 (Paragualainen tanssi) (David Russell, kitara).
 
-          J.S. Bach: Das Wohltemperierte Klavier I, preludit ja fuugat n:o 1-24 (Samuel Feinberg, piano).
+          04:21 J.S. Bach: Das Wohltemperierte Klavier I, preludit ja fuugat n:o 1-24 (Samuel Feinberg, piano).
 
-          W.A. Mozart: Adagio ja fuuga c-molli (Gidon Kremer ja Daniel Phillips, viulu, Kim Kashkashian, alttoviulu, ja Yo-Yo Ma, sello).
+          06:10 W.A. Mozart: Adagio ja fuuga c-molli (Gidon Kremer ja Daniel Phillips, viulu, Kim Kashkashian, alttoviulu, ja Yo-Yo Ma, sello).
 
-          Telemann: Sonaatti oboelle ja continuolle c-molli (Vladimir Kurlin, oboe, ja Sergei Tsatsorin, urut).
+          06:18 Telemann: Sonaatti oboelle ja continuolle c-molli (Vladimir Kurlin, oboe, ja Sergei Tsatsorin, urut).
 
 ...

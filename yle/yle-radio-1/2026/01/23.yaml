@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:49.313702+00:00'
+  generated_at: '2026-01-22T02:47:47.223793+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-23T06:30:50+02:00'
         end_time: '2026-01-23T06:50:00+02:00'
+        description: |+
+          Nicolai: On kirkas aamutähti nyt (Kampin Laulu/Timo Lehtovaara, ja Pertti Eerola, urut).
+
+          Tuntematon (sov. I. Riihimäki): Oi Isä, Poika, Henki Herran (Sibelius-lukion kamarikuoro/Marjukka Riihimäki).
+
+          S. Rissanen: Almighty Father (Human Organ).
+
+          Black: Kohta valkeneepi (Viktor Klimenko).
+
       - title: Aamuhartaus
         start_time: '2026-01-23T06:50:00+02:00'
         end_time: '2026-01-23T06:59:59+02:00'
@@ -90,17 +99,32 @@ data:
         start_time: '2026-01-23T08:07:00+02:00'
         end_time: '2026-01-23T09:00:00+02:00'
         description: |-
-          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jarmo Laitaneva.
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet.  Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-01-23T09:00:00+02:00'
         end_time: '2026-01-23T09:03:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2026-01-23T09:04:00+02:00'
         end_time: '2026-01-23T09:59:00+02:00'
+        description: |-
+          Smith: Walk, don't run (The Ventures).
+          Reed: Les bicyclettes de Belsize (Mireille Mathieu).
+          Reed: Miltä meno maistuu (Lasse Mårtenson).
+          Barry: The knack (John Barry).
+          Relf-Nelson: Harlem shuffle (Bob and Earl)
+          Cook-Greenway: Something's gotten hold of my heart (Marc Almond)
+          Lehtinen: Tuska ja ihanuus (Inga Sulin).
+          Tenco: In qualche parte del mondo (Luigi Tenco).
+          Raimond: Peagi saabun tagasi su juurde (Georg Ots).
+          Di Paula:Maria Maria (Carola)
+          Wilson: The new girl in school (Jan and Dean).
+          Simon: Hetken legenda (Anki).
+          Theodorakis: Smärta (Monica Zetterlund).
+          Lacalle: Amapola (Ennio Morricone).
       - title: 'Kalle Haatanen: Elämmekö simulaatiossa?'
         start_time: '2026-01-23T10:00:00+02:00'
         end_time: '2026-01-23T10:55:00+02:00'
-        description: |-
+        description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-23T10:55:00+02:00'
@@ -188,6 +212,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-01-23T18:35:00+02:00'
         end_time: '2026-01-23T18:50:00+02:00'
+        description: |+
+          Koivula: Kuuntelen (Kannelkellot/Sirkku Rintamäki, sekä Laura Airola, viulu, Ville Myllykoski, piano, Markku Perttilä, kitara, Hannu Rantanen, bassokitara, ja Sami Koskela, vibrafoni).
+
+          Koraalitoisinto Pohjanmaalta: Hämmennys valtaa usein tajuntamme (Psallamus-kuoro/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Koraalitoisinto: Niin ihanaa on ylistää (Jaakko Kortekangas, baritoni, ja Eero Annala, urut).
+
+          Huhtala: Elävä, nöyrä usko (Nina Åström).
+
       - title: Iltahartaus
         start_time: '2026-01-23T18:50:00+02:00'
         end_time: '2026-01-23T19:00:00+02:00'
@@ -207,11 +240,22 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-01-23T21:00:01+02:00'
         end_time: '2026-01-23T21:30:00+02:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Kullervo'
         start_time: '2026-01-23T22:20:00+02:00'
-        end_time: '2026-01-23T23:09:00+02:00'
+        end_time: '2026-01-23T23:08:17+02:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Tuuli Saksalan Keidas sukeltaa tällä kertaa Kalevalan synkän sankarin, Kullervon, tarinaan musiikin kautta. Ohjelmassa kuullaan, miten Kullervo on inspiroinut säveltäjiä, runoilijoita ja kuvataiteilijoita sukupolvien ajan. Musiikissa kuljetaan kostosta kyyneleihin ja lapsuuden kaipuusta synkkiin kohtaloihin. Mukana ovat muun muassa Pelkkä Poutanen, Maria Kalaniemi & Pekko Käppi, Aili Järvelä ja Kullervon-elokuvaan musiikin säveltänyt Lauri Porra. Kullervon monivivahteinen tarina avautuu sekä perinteisissä että tuoreissa sävelissä – tragedian, koston ja toivon kaikuina. 
+
+          Pelkkä Poutanen: Kosto
+          Maria Kalaniemi & Pekko Käppi: Sångarstenen
+          Aili Järvelä: Pahan palkka, paha maa
+          Heikki Laitinen & Tallari: Lapsuuteni maa
+          Värttinä: Oi dai
+          Celenka: Lauloin ennen
+          Vilma Jää: Mieli musta
+          Lauri Porra & Sinfonia Lahti: Aino
+          Sanna Kurki-Suonio: Minne
+          Teija Niku: Paholaisen polska
       - title: Yöklassinen
         start_time: '2026-01-23T23:40:00+02:00'
         end_time: '2026-01-24T07:30:00+02:00'

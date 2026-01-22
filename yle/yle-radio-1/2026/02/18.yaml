@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-20T02:44:56.617469+00:00'
+  generated_at: '2026-01-22T02:47:56.086758+00:00'
   git:
     branch: main
-    commit: 6b654d73a11820921c18218eb652c69ae4d3414b
-  data_hash: 1bb7d2451d01c88c68958a91ecf149f7a975bfdb50adb08ed73b4b2bad06e4da
+    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
+  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
 data:
   Yle Radio 1:
     programmes:
@@ -84,9 +84,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-18T19:00:00+02:00'
         end_time: '2026-02-18T19:02:00+02:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Neljän kantaesityksen konsertti Donaueschingenin musiikkipäiviltä 2025
         start_time: '2026-02-18T19:02:00+02:00'
         end_time: '2026-02-18T21:00:00+02:00'
+        description: |-
+          Maailman vanhimman nykymusiikkifestivaalin päätöskonsertissa soi neljä uutta sävellystä. Niistä ensimmäinen – Mirela Ivičevićin “Red Thread Mermaid” – on osa Euroopan yleisradiounionin (EBU) sävellystilausten projektia, jonka EBU aloitti viime vuonna 75-vuotisjuhlavuotensa kunniaksi. Ainomaija Pennasen toimittamassa ohjelmassa kuullaan myös Mirela Ivičevićin haastattelu, jossa tämä avaa teoksensa taustoja.  
       - title: 'Politiikkaradio '
         start_time: '2026-02-18T21:00:00+02:00'
         end_time: '2026-02-18T21:30:00+02:00'
