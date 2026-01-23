@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-22T02:47:47.223793+00:00'
+  generated_at: '2026-01-23T02:44:15.855600+00:00'
   git:
     branch: main
-    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
-  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
+    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
+  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
 data:
   Yle Radio 1:
     programmes:
@@ -106,18 +106,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-01-23T09:04:00+02:00'
         end_time: '2026-01-23T09:59:00+02:00'
-        description: |-
+        description: |
           Smith: Walk, don't run (The Ventures).
           Reed: Les bicyclettes de Belsize (Mireille Mathieu).
           Reed: Miltä meno maistuu (Lasse Mårtenson).
-          Barry: The knack (John Barry).
-          Relf-Nelson: Harlem shuffle (Bob and Earl)
-          Cook-Greenway: Something's gotten hold of my heart (Marc Almond)
+          Relf/Nelson: Harlem shuffle (Bob and Earl).
+          Cook/Greenway: Something's gotten hold of my heart (Marc Almond).
           Lehtinen: Tuska ja ihanuus (Inga Sulin).
           Tenco: In qualche parte del mondo (Luigi Tenco).
           Raimond: Peagi saabun tagasi su juurde (Georg Ots).
-          Di Paula:Maria Maria (Carola)
-          Wilson: The new girl in school (Jan and Dean).
+          Di Paula: Maria Maria (Carola).
+          Barry: The knack (John Barry).
+          Berry: The new girl in school (Jan and Dean).
           Simon: Hetken legenda (Anki).
           Theodorakis: Smärta (Monica Zetterlund).
           Lacalle: Amapola (Ennio Morricone).
@@ -164,11 +164,12 @@ data:
         end_time: '2026-01-23T15:00:00+02:00'
         description: |
           Juontajana Miia Lahti. Sarjassamme Muumikirjojen matkassa käymme läpi  yhdeksän muumikirjaa ja saamme yhdeksän erilaista näkemystä Muumeista. N. klo 14 kirjailja Veera Salmi pohtii yhdessä toimittaja Marko Miettisen kanssa romaania Taikatalvi. N. klo 14:30 Radio 1:n iltapäivä on Radion sinfoniaorkestarin konsertin ennakkotunnelmissa.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudio'
         start_time: '2026-01-23T15:00:00+02:00'
         end_time: '2026-01-23T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Perjantaistudiossa ruoditaan ajankohtaisia kulttuurin ja median ilmiöitä sekä arvokysymyksiä. 
+          Perjantaistudion vakioraatilaisista tällä kertaa mukana ovat kirjailija-teologi Vehka Kurjenmiekka, Maaseudun tulevaisuuden päätoimittaja Jouni Kemppainen sekä elokuvatutkija Jari Sedergren. Juontajana on Nicklas Wancke.
       - title: Yle News
         start_time: '2026-01-23T15:55:00+02:00'
         end_time: '2026-01-23T15:58:00+02:00'
@@ -200,7 +201,7 @@ data:
         start_time: '2026-01-23T17:00:00+02:00'
         end_time: '2026-01-23T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Venla-gaalassa jaetaan tänään perjantaina taas tv-alan palkintoja. Mitä Suomen televisiokentällä kannattaa nyt tehdä? Mistä tulee hittejä ja mihin rahat riittävät? Reetta Röngän vieraana tv-alalla uraa tehnyt A-lehtien kehityspäällikkö Niku Hooli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-23T17:20:00+02:00'
         end_time: '2026-01-23T17:35:00+02:00'

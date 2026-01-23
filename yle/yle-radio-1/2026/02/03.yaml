@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-22T02:47:51.268879+00:00'
+  generated_at: '2026-01-23T02:44:18.746758+00:00'
   git:
     branch: main
-    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
-  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
+    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
+  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-03T07:06:00+02:00'
         end_time: '2026-02-03T08:00:00+02:00'
+        description: |+
+          Cavallini: Adagio ja tarantella (Hans Rudolf Stalder, klarinetti, ja Zsuzsanna Sirokay, piano).
+
+          W.A. Mozart (sov. Sciarrino): Adagio lasiharmonikalle C-duuri (Ensemble Recherche). 
+
+          Dusek: Allegro e vivo sinfoniasta B-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          Tshaikovski: Albuminlehti D-duuri (Kerava-kvartetti).
+
+          Elgar: Salut d'amour (Lars Roos, piano).
+
+          Saint-Saëns: Sapfolainen laulu (Steven Isserlis, sello, ja Pascal Devoyon, piano).
+
+          Grieg: Sarabande (Orpheus-kamariork.).
+
+          Stravinsky: Pastoraali (Ilja Gringolts, viulu, Casey Hill, oboe, Scott MacLeod, englannintorvi, Juan Ferrer, klarinetti, ja Steve Harriswangler, fagotti).
+
+          Delibes: Kukkaduetto oopp. Lakmé (Patricia Petibon, sopraano, Karine Deshayes, mezzosopraano, ja Lyonin oopperan ork./Yves Abel).
+
+          Sibelius: Andante cantabile viululle ja pianolle G-duuri (Fenella Humphreys ja Joseph Tong). 
+
+          Melartin: Perhosvalssi (Tampere Filharmonia/Leif Segerstam).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-03T08:00:00+02:00'
         end_time: '2026-02-03T08:07:00+02:00'
@@ -121,7 +144,8 @@ data:
         start_time: '2026-02-03T18:50:00+02:00'
         end_time: '2026-02-03T19:00:00+02:00'
         description: |-
-          Toimittaja Satu Panula, Helluntaiherätys, Kerava
+          "Jumala kutsuu lepäämään"
+          Toimittaja Satu Panula, Helluntaiherätys, Keravalta muistuttaa Jumalan olevan läsnä arkihuolien, riittämättömyyden tunteiden ja uupumuksen keskellä.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-03T19:00:00+02:00'
         end_time: '2026-02-03T19:02:00+02:00'

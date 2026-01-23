@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-22T02:47:51.721411+00:00'
+  generated_at: '2026-01-23T02:44:18.958425+00:00'
   git:
     branch: main
-    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
-  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
+    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
+  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
 data:
   Yle Radio 1:
     programmes:
@@ -25,6 +25,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-04T07:06:00+02:00'
         end_time: '2026-02-04T08:00:00+02:00'
+        description: |+
+          Järnefelt: Preludi pienelle orkesterille (Minnesotan ork./Eiji Oue). 
+
+          Lalo: Aubade (Aamulaulu) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          Héritte-Viardot: Divertimento kvartetosta D-duuri (Ensemble Viardot).
+
+          Offenbach: Leikkisät lumihiutaleet oper. Matka kuuhun (Les Musiciens du Louvre/Marc Minkowski).
+
+          Albert: Albuminlehti (Alexandra Oehler, piano).
+
+          Fauré: Pavane (Tanglewoodin musiikkijuhlien kuoro ja Bostonin sinfoniaorkesteri/Seiji Ozawa).
+
+          Albéniz: Rumores de caleta (Sataman hälinää) sarj. Recuerdos de viaje (Muistumia matkalta) (Janne Lehtinen, kitara).
+
+          Schubert: Hier auf den Fluren (paimenten kuoro) näyt. Rosamunde (Leipzigin radiokuoro ja Gewandhaus-ork./Kurt Masur).
+
+          Beck: Allegro sinfoniasta F-duuri (Uuden-Seelannin kamariork./Donald Armstrong).
+
+          Glass: Etydi n:o 9 (Lavinia Meijer, harppu).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-04T08:00:00+02:00'
         end_time: '2026-02-04T08:07:00+02:00'
@@ -40,6 +61,9 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2026-02-04T10:00:00+02:00'
         end_time: '2026-02-04T10:50:00+02:00'
+        description: |
+          Kädentaidot liittyvät niin itsensä ilmaisemiseen, luovuuteen, huoltovarmuuteen kuin kestävään kehitykseenkin. Miten käsillä tekemisen taidot vaikuttavat meihin ja kulttuuriimme?  Millainen merkitys kädentaidoilla on tulevaisuudessa? 
+          Toimittaja Satu Kivelä keskustelee aiheesta Taitoliiton toiminnanjohtaja Minna Hyytiäisen ja tekstineuloja Teija Alangon kanssa. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-04T10:50:00+02:00'
         end_time: '2026-02-04T11:00:00+02:00'
@@ -114,6 +138,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-04T17:20:00+02:00'
         end_time: '2026-02-04T17:35:00+02:00'
+      - title: Jazzklubi
+        start_time: '2026-02-04T17:35:00+02:00'
+        end_time: '2026-02-04T18:35:00+02:00'
       - title: Hartaita säveliä
         start_time: '2026-02-04T18:35:00+02:00'
         end_time: '2026-02-04T18:50:00+02:00'

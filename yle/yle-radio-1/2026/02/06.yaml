@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-22T02:47:52.297381+00:00'
+  generated_at: '2026-01-23T02:44:19.372789+00:00'
   git:
     branch: main
-    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
-  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
+    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
+  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-06T07:06:00+02:00'
         end_time: '2026-02-06T08:00:00+02:00'
+        description: |+
+          Chaminade: Capriccio e-molli (Julia Galic, viulu, ja Johann Blanchard, piano).
+
+          Ciani: Rain (Sade) (Vanessa Wagner, piano).
+
+          Brouwer: Kehtolaulu (Pepe Romero, kitara).
+
+          Sibelius: Impromptu h-molli (Virva Garam, piano). 
+
+          Rahmaninov: Vokaliisi ( Eeva Rysä, sello, ja Jouko Laivuori, piano).
+
+          Kokkonen: Preludietto sarj. Pielavesi (Eveliina Sumelius-Lindblom, piano).
+
+          Giordani: Caro mio ben (Cecilia Bartoli, mezzosopraano, ja György Fischer, piano).
+
+          Sörli: Sami soga lavlla (Slovakian radion sinfoniaorkesteri/Peter Breiner).
+
+          Prokofjev: Hyvä haltijatar ja Talven haltijatar balettisarj. Tuhkimo (Pariisin ork./Semjon Bytshkov).
+
+          Nielsen: Kukkotanssi oopp. Naamiaiset (Tanskan radion SO/Thomas Dausgaard).
+
+          Jezek: Kolme poliisia revyystä Premiéra Skafandr, step pianolle (Tomás Vísek).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-06T08:00:00+02:00'
         end_time: '2026-02-06T08:07:00+02:00'

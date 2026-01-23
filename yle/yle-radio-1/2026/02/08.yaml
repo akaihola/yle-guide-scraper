@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-22T02:47:52.891997+00:00'
+  generated_at: '2026-01-23T02:44:19.817712+00:00'
   git:
     branch: main
-    commit: 5a5ba207c7ef8d9b549d6d7a40ba11da3c908d6d
-  data_hash: 5c79bbdab2b4d4313837e992c82ef34087f0c376faaece566b693f621bdc8187
+    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
+  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
 data:
   Yle Radio 1:
     programmes:
@@ -113,6 +113,9 @@ data:
         end_time: '2026-02-08T18:00:00+02:00'
         description: |
           Ranskalaisen Les Égarés -kvartetin konsertti JazzBaltica Festivaalilla Timmendorfer Strandissa Pohjois-Saksassa 29.6.2025. (Émile Parisien, sopraanosaksofoni, Vincent Ségal, sello, Ballaké Sissoko, kora, ja Vincent Peirani, harmonikka). Toimittajana Miika Lauriala. 
+      - title: Jazzklubi
+        start_time: '2026-02-08T18:00:30+02:00'
+        end_time: '2026-02-08T19:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-02-08T19:00:00+02:00'
         end_time: '2026-02-08T19:02:05+02:00'
