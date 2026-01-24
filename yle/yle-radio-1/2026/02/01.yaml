@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-23T02:44:18.327576+00:00'
+  generated_at: '2026-01-24T02:40:46.118031+00:00'
   git:
     branch: main
-    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
-  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
+    commit: 8524bc891a5bd6fea8ccb070726a9d0ed6bf6df0
+  data_hash: 99d7f0c673a6f3590fe9edb5d6eb27d147d816c1b6dc140fa62c38dc72b45aad
 data:
   Yle Radio 1:
     programmes:
@@ -48,19 +48,36 @@ data:
       - title: Jumalanpalvelus Huopalahden kirkosta Helsingistä
         start_time: '2026-02-01T10:00:00+02:00'
         end_time: '2026-02-01T10:59:20+02:00'
-        description: |
-          Liturgina ja saarnaajana kirkkoherra Mari Mattsson.
-          Avustavana pappina Leevi Helo. 
-          Kanttorina Kikko Siltanen.
+        description: |-
+          Jumalanpalvelus Huopalahden kirkosta Helsingistä
+          Liturgina ja saarnaajana kirkkoherra Mari Mattsson
+          Avustavana pappina Leevi Helo
+          Kanttorina Kikko Siltanen
 
-          Muut muusikot: Sounds of Mercy -kuoro joht. Jepa Lambert ja pianisti Maria Ilmoniemi.
+          Muut muusikot: Sounds of Mercy -kuoro joht. Jepa Lambert ja pianisti Maria Ilmoniemi. Kuoron solistit Hanna Bergström, Jonnu Heikkilä ja Jepa Lambert
+           
       - title: Muistojen bulevardi
         start_time: '2026-02-01T11:00:00+02:00'
         end_time: '2026-02-01T11:59:00+02:00'
+        description: |-
+          Troup: February brings the rain (Julie London).
+          Troup: Route 66 (The Four Freshmen).
+          Dietmar: Manzanilla (Arja Tuomarila ja Erkki Liikanen).
+          Gietz: Tipitipitipso (Caterina Valente).
+          Ben: Oba, la vem ela (Jorge Ben).
+          Bonfa: La chanson d'Orphée (Maynie Siren ja Radion viihdeorkesteri).
+          Godzinsky: Katupoikien laulu (Birgit Kronström). 
+          Troilo: Sörkkaan terveiset vie (Eino Grön).
+          King: It's too late (Carole King).
+          Taylor: Fire and rain (James Taylor).
+          Young: Out on the weekend (Neil Young).
+          Mitchell: Amelia (Joni Mitchell).
+          Mitchell: Tidig sommarmorgon (Family Four).
+          Raksin: Laura: (Kevin Mahogany).
       - title: Yle Uutiset ja sää
         start_time: '2026-02-01T12:00:00+02:00'
         end_time: '2026-02-01T12:05:00+02:00'
-      - title: 'Elävä historia: Panssarilaiva Ilmarinen ja Operaatio Nordwind - Suomi Saksan apuna Viroa valtaamassa'
+      - title: 'Elävä historia: Panssarilaiva Ilmarinen ja operaatio Nordwind - Suomi Saksan apuna Viroa valtaamassa'
         start_time: '2026-02-01T12:05:00+02:00'
         end_time: '2026-02-01T12:55:00+02:00'
         description: |-

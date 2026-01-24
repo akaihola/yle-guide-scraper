@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-23T02:44:16.450480+00:00'
+  generated_at: '2026-01-24T02:40:44.627078+00:00'
   git:
     branch: main
-    commit: df472239bea87ac694f759ced5182f0f3f29ca6a
-  data_hash: 46e9fbf78996917cc0766372bf0451b8ea5efb9eb1063ef125e04569ec370a6d
+    commit: 8524bc891a5bd6fea8ccb070726a9d0ed6bf6df0
+  data_hash: 99d7f0c673a6f3590fe9edb5d6eb27d147d816c1b6dc140fa62c38dc72b45aad
 data:
   Yle Radio 1:
     programmes:
@@ -63,14 +63,20 @@ data:
           3. Poco allegretto
           4. Allegro
           (Kölnin radion sinfoniaorkesteri/Jukka-Pekka Saraste). 
+      - title: Radio 1 soi
+        start_time: '2026-01-25T07:57:07+02:00'
+        end_time: '2026-01-25T08:00:00+02:00'
+        description: |+
+          Piccinini: Toccata n:o 10 (Matthew Wadsworth, teorbi). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-01-25T08:00:00+02:00'
         end_time: '2026-01-25T08:05:05+02:00'
-      - title: Narrin aamulaulu - Äänirautaa rajalle eli musiikki Suomen ja Neuvostoliiton kulttuurivaihdossa
-        start_time: '2026-01-25T08:05:35+02:00'
-        end_time: '2026-01-25T09:00:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: Narrin aamulaulu - Äänirautaa rajalle eli musiikki, Suomi ja Neuvostoliitto
+        start_time: '2026-01-25T08:05:22+02:00'
+        end_time: '2026-01-25T08:59:44+02:00'
+        description: |
+          Kylmän sodan maailmassa Suomi oli pitkään neuvostomuusikoiden portti länteen. Samalla meillä saatiin nauttia korkeatasoisista konserteista ja opetuksesta. "Suomi oli kokoaan paljon merkittävämpi kansainvälinen kulttuuritoimija", sanoo professori Simo Mikkonen, joka on tutkinut Suomen ja Neuvostoliiton välistä kulttuurivaihtoa vuosina 1960-85. Simo Mikkosta haastattelee Outi Paananen.
       - title: 'Yle Uutiset '
         start_time: '2026-01-25T09:00:00+02:00'
         end_time: '2026-01-25T09:03:00+02:00'
@@ -217,6 +223,12 @@ data:
         description: |+
           Ruotsalaisen kansanmusiikkitrio Ahlberg, Ek & Roswall ja laulaja Ulrika Bodénin konsertoivat Umefolkissa Umeån kansantalolla lauantaina 22 helmikuuta 2025. Konsertissa kuullaan Ingen större fröjd i världen är -levyn kappaleita. Toimittajana Miika Lauriala. 
 
+      - title: Radio 1 soi
+        start_time: '2026-01-25T17:56:21+02:00'
+        end_time: '2026-01-25T18:00:15+02:00'
+        description: |+
+          Frescobaldi: Canzona settima (Christian Lindberg, pasuuna, ja Neal Peres da Costa, urut). 
+
       - title: 'Laura Korhosen Jazzklubi: Päivän suuntana uudet seikkailut'
         start_time: '2026-01-25T18:00:36+02:00'
         end_time: '2026-01-25T19:00:00+02:00'
@@ -232,17 +244,23 @@ data:
           Äänitetty Halosenniemen taiteilija-ateljeessa 8.10.2024.
       - title: Ekumeenisen rukousviikon jumalanpalvelus Kymin kirkosta
         start_time: '2026-01-25T20:00:00+02:00'
-        end_time: '2026-01-25T20:55:01+02:00'
+        end_time: '2026-01-25T20:54:15+02:00'
         description: |-
           Juontajana Hanna Leinonen. Saarnaajana teologian tohtori Juho Sankamo. Kanttorina Jarmo Kaijansinkko. Yhteislaulut: Voi, mikä riemu, Sinun hyvyytesi, Jeesus, Jeesus, kuule rukoukseni, Vaeltajan laulu.
-      - title: Uutispodcast
-        start_time: '2026-01-25T21:00:39+02:00'
-        end_time: '2026-01-25T21:24:00+02:00'
+      - title: Radio 1 soi
+        start_time: '2026-01-25T20:54:15+02:00'
+        end_time: '2026-01-25T21:00:03+02:00'
+        description: |+
+          J.S. Bach: Adagio konsertosta viululle, oboelle, jousille ja continuolle c-molli (Hilary Hahn, Allan Vogel ja Los Angelesin kamariork./Jeffrey Kahane).
+
+      - title: 'Uutispodcast: Samat naamat, samat sarjat – tv-bisnes kaihtaa nyt kaikkia riskejä'
+        start_time: '2026-01-25T21:00:17+02:00'
+        end_time: '2026-01-25T21:22:34+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Venla-gaalassa jaetaan tänään perjantaina taas tv-alan palkintoja. Mitä Suomen televisiokentällä kannattaa nyt tehdä? Mistä tulee hittejä ja mihin rahat riittävät? Reetta Röngän vieraana tv-alalla uraa tehnyt A-lehtien kehityspäällikkö Niku Hooli.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Vapaa mutta iloinen? eli mehän pidämme Brahmsista'
-        start_time: '2026-01-25T21:25:00+02:00'
-        end_time: '2026-01-25T22:21:20+02:00'
+        start_time: '2026-01-25T21:23:34+02:00'
+        end_time: '2026-01-25T22:19:54+02:00'
         description: |
           Rein-joen rannalla, kauniin kesäloman aikana, Johannes Brahms alkoi säveltää kolmatta sinfoniaansa.
           Se soi intohimoisena, suurenmoisena, mutta myös herkkänä ja surumielisenä. Liittyikö siihen Brahmsin nuoruuden tuntemuksia, vai Rein-jokiko virtaa sävelissä?
@@ -259,8 +277,8 @@ data:
           4. Allegro
           (Kölnin radion sinfoniaorkesteri/Jukka-Pekka Saraste). 
       - title: 'Sari Valto: Tiedostamattoman mielen mysteeri'
-        start_time: '2026-01-25T22:22:03+02:00'
-        end_time: '2026-01-25T23:16:50+02:00'
+        start_time: '2026-01-25T22:20:37+02:00'
+        end_time: '2026-01-25T23:15:24+02:00'
         description: |-
           Unitutkija, professori Anu-Katriina Pesonen ja psykoanalyytikko Vesa Manninen keskustelevat ihmisen tiedostamattomasta mielestä. Mitä siitä tiedetään ja mikä merkitys sillä on käyttäytymiseemme?
       - title: 'Romano mirits: Romanina Suomessa 2026 - kuka saa kertoa meidän tarinamme'
