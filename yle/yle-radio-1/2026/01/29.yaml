@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:52:56.058107+00:00'
+  generated_at: '2026-01-27T02:48:45.361938+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -290,9 +290,11 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-01-29T21:00:01+02:00'
         end_time: '2026-01-29T21:30:00+02:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Se oli norppa – tarina miehestä ja hylkeestä'
         start_time: '2026-01-29T21:31:00+02:00'
         end_time: '2026-01-29T22:20:00+02:00'
+        description: |-
+          Juha Taskinen eläköityi vuonna 2019 saimaannorpan aktiivisesta kuvaus- ja suojelutyöstä. 40 vuotta elämästään saimaannorpan puolustamiseen omistanut "norppa-Taskinen" laittoi kameran naulaan ja ryhtyi ammattikalastajaksi. Norppaturvallisilla rysillä kalastamalla hän halusi näyttää, että Saimaa voisi aaltoilla verkoista vapaana, sillä rysillä kalaa tulee. Sitten Taskisen rysästä löytyi kuollut kuutti. Vuotta myöhemmin toinen. Kuinka tällaisesta tragediasta pääsee rantaan? Toteutus Anni Saastamoinen, Joonatan Kotila  ja Sami Hahtala.
       - title: 'Viihdekuunnelma: Syrjästäkatsojan tarina 4/9.'
         start_time: '2026-01-29T22:31:00+02:00'
         end_time: '2026-01-29T23:00:00+02:00'
@@ -309,11 +311,11 @@ data:
           Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
           Lucy Snowe - Päivi Akonpelto.
           Ensilähetys: 1999
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-01-29T23:01:00+02:00'
-        end_time: '2026-01-29T23:57:00+02:00'
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Yhtä lankaa pitkin'
+        start_time: '2026-01-29T23:03:00+02:00'
+        end_time: '2026-01-29T23:59:00+02:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-01-30T00:00:00+02:00'
         end_time: '2026-01-30T06:30:00+02:00'

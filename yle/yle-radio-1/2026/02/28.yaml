@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:53:02.188577+00:00'
+  generated_at: '2026-01-27T02:48:51.282800+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-02-28T10:00:00+02:00'
         end_time: '2026-02-28T10:25:00+02:00'
+      - title: 'Sukuni murhamysteeri: Salanimen takaa paljastuu natsiyhteyksiä'
+        start_time: '2026-02-28T10:25:00+02:00'
+        end_time: '2026-02-28T11:00:00+02:00'
+        description: |
+          Kuka oli Veikon ja Sepon operaation järjestänyt  “Knud Knudsen”. Salanimen takaa paljastuu erikoinen vakooja, jolla oli myös natsiyhteyksiä.
+          Haastateltavana jaksossa:
+          Tiedusteluhistorian asiantuntija, poliisi Mikko Porvali
+          Tietokirjailija Morten Jentoft
+          Yleisövihje: Aatos Peltoniemi
+          Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: Virtasen taloushistoria
         start_time: '2026-02-28T11:00:00+02:00'
         end_time: '2026-02-28T11:52:00+02:00'
@@ -132,6 +142,28 @@ data:
       - title: 'Klassikkokuunnelma: Laulu tulipunaisesta kukasta 1/2'
         start_time: '2026-02-28T21:51:00+02:00'
         end_time: '2026-02-28T22:30:00+02:00'
+        description: |
+          Olavi riitautuu vanhempiensa kanssa, kun ei saa mennä naimisiin piikatytön kanssa. Olavi lähtee tukkilaiseksi ja matkan varrella hurmaa tytön toisensa jälkeen.
+          Johannes Linnankosken romaanin mukaan Yleisradiolle kirjoittanut ja ohjannut Eero Leväluoma. 
+
+          Rooleissa:
+          Olavi - Kauko Kokkonen.
+          Annikki - Hillevi Lagerstam.
+          Gaselli - Eeva-Kaarina Volanen.
+          Äiti - Emma Väänänen.
+          Isä - Eino Kaipainen.
+          Tukkilaisia - Keijo Komppa, Mauno Hyvönen ja Veli Palonen.
+          Tumma tyttö - Rauha Rentola.
+          Kyllikki - Hilkka Helinä.
+          Moisio - Vilho Siivola.
+          Tukkipäällikköjä - Matti Aulos ja Lauri Kuosmanen.
+          Antti - Reino Valkama.
+          Elämänlanka - Aino-Maija Tikkanen.
+          Peili - Henny Valjus.
+          Ilotyttö - Martta Kinnunen.
+          Kertoja - Kaarlo Halttunen.
+
+          Teos vuodelta 1954.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-02-28T22:40:00+02:00'
         end_time: '2026-02-28T23:39:30+02:00'

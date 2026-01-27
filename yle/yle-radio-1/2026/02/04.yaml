@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:52:57.306212+00:00'
+  generated_at: '2026-01-27T02:48:46.560687+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -58,6 +58,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-04T09:04:00+02:00'
         end_time: '2026-02-04T09:59:00+02:00'
+        description: |
+          Lennon/McCartney: Kaupungin harmain mies (Robin).
+          Emer: L'accordeoniste (Edith Piaf).
+          Gershwin: The foggy day (Frank Sinatra).
+          Secunda: Bei mir bist du schön (The Andrews Sisters).
+          Österdahl/Peterson: Som en dröm (Östen Warnerbring).
+          Kärki: Lantti levysoittimeen (Tamara Lund).
+          Schaefer: February fiesta (Benny Carter).
+          Lindström: Kuiskaa minulle (Helena Siltala).
+          Mononen: Satumaa (Henry Theel).
+          Sherrill/Wynette: Stand by your man (Tammy Wynette).
+          Rautavaara: Kulkuriveljeni Jan (Tapio Rautavaara).
+          Carrillo: Sabor a mi (Eydie Gormé y Los Panchos).
+          Adolphson: Vaikeuksia (Marjatta Leppänen).
+          Livingston/Evans: Mona Lisa (Gregory Porter).
+          Wilson: God only knows (Lontoon SO/Andrew Pryce Jackman).
       - title: Havaintoja muutoksesta
         start_time: '2026-02-04T10:00:00+02:00'
         end_time: '2026-02-04T10:50:00+02:00'
@@ -105,7 +121,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-04T16:07:00+02:00'
         end_time: '2026-02-04T16:59:00+02:00'
-        description: |+
+        description: |
           O. Merikanto: Valssi Chopinin tyyliin (Ralf Gothóni, piano).
 
           Chopin - Rossini: Muunnelmia Rossinin Tuhkimo-oopperan teemasta (Tapio Jalas, huilu, ja Ilkka Paananen, piano).
@@ -118,18 +134,17 @@ data:
 
           Kajanus: Kansantanssin tapaan (Tapani Valsta, piano).
 
-          J.S. Bach: 1. osa Brandenburgilaisesta konsertosta F-duuri (Håkan Hardenberger, trumpetti, Fiona Kelly, huilu, Mårten Larsson, oboe, Antje Weithaas, viulu, Björn Gäfvert, cembalo, Ruotslainen kamariork./Thomas Dausgaard).
+          J.S. Bach: 1. osa teoks. Brandenburgilainen konsertto F-duuri (Håkan Hardenberger, trumpetti, Fiona Kelly, huilu, Mårten Larsson, oboe, Antje Weithaas, viulu, Björn Gäfvert, cembalo, sekä Ruotsalainen kamariork./Thomas Dausgaard).
 
-          Mozart: Sarastron aaria oopp. Taikahuilu (Matti Salminen, basso, Sinfonia Lahti/Eri Klas). 
+          W.A. Mozart: Sarastron aaria "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Sinfonia Lahti/Eri Klas). 
 
-          Wagner: Metsän huminaa oopp. Siegfried (Berliinin filharmonikot/Klaus Tennstedt).
+          Wagner: Waldweben (Metsän huminaa) oopp. Siegfried (Berliinin filharmonikot/Klaus Tennstedt).
 
           Pejacevic: Papillon (Perhonen) (Natasa Veljkovic, piano).
 
           Melartin: Intermezzo (RSO/Sakari Oramo).
 
           R. Schumann (sov. Saint-Saëns): Abendlied (Iltalaulu) (Detroitin SO/Neeme Järvi).
-
       - title: Uutispodcast
         start_time: '2026-02-04T17:00:00+02:00'
         end_time: '2026-02-04T17:20:00+02:00'

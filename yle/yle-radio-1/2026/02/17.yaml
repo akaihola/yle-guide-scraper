@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:52:59.900520+00:00'
+  generated_at: '2026-01-27T02:48:49.106507+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -55,6 +55,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-17T12:00:00+02:00'
         end_time: '2026-02-17T12:05:00+02:00'
+      - title: 'Kadonneiden kaupunkien jäljillä: Naukratis'
+        start_time: '2026-02-17T12:05:00+02:00'
+        end_time: '2026-02-17T12:25:00+02:00'
+        description: |
+          Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Naukratis-osan vieraana on apulaisprofessori Marja Vierros. Toimittajana Jukka Kuosmanen.
       - title: Aristoteleen kantapää
         start_time: '2026-02-17T12:25:00+02:00'
         end_time: '2026-02-17T12:50:00+02:00'
@@ -102,6 +107,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-17T19:00:00+02:00'
         end_time: '2026-02-17T19:02:00+02:00'
+      - title: 'Sielun tietotoimisto: Urantia ja ufouskovaisuus – Taivas varjelee, kirjaimellisesti'
+        start_time: '2026-02-17T19:02:00+02:00'
+        end_time: '2026-02-17T19:35:00+02:00'
+        description: |-
+          Urantia-kirja kertoo paitsi ihmiskunnan ja Maa-planeetan kosmisista ulottuvuuksista, myös Jeesuksesta. Maailmalla on myös ufouskontoja, joista osa on pyrkinyt levittäytymään Suomeenkin. Toimittaja Nadja Mikkonen keskustelee Urantia-kirjan opetuksia seuraavan Raimo Ala-Hynnilän ja uskontotieteilijä Jaakko Närvän kanssa.
+          (Julkaistu Yle Areenassa v. 2021)
       - title: Romano mirits
         start_time: '2026-02-17T20:00:00+02:00'
         end_time: '2026-02-17T20:15:00+02:00'

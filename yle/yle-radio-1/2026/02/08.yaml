@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:52:58.113650+00:00'
+  generated_at: '2026-01-27T02:48:47.352877+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -45,11 +45,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-08T12:00:00+02:00'
         end_time: '2026-02-08T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Mikä rooli medialla oli Suomen sisällissodan syttymisessä?'
         start_time: '2026-02-08T12:05:00+02:00'
         end_time: '2026-02-08T12:55:00+02:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Sisällissodan syttymistä edesauttoi lehdistön sensaationhaku, vääristely ja vihan lietsonta
+          Haastateltavina tietokirjailijat Helena Pilke ja Ilkka Enkenberg. 
+          Toimittajana Ville Talola. 
+          Äänisuunnittelu Katja Kostiainen. 
+          Lukijoina: Juha Hjelm, Hansku Kurkela, Marko Miettinen ja Marja Vehkanen
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-02-08T13:00:00+02:00'
         end_time: '2026-02-08T13:57:00+02:00'

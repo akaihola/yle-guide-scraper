@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-26T02:52:56.270241+00:00'
+  generated_at: '2026-01-27T02:48:45.576447+00:00'
   git:
     branch: main
-    commit: 3e4060fa5c8fa46cab64ec65caa7dcaa728a4fda
-  data_hash: fcd32011f19f32b41c863250aa59e7cc8ee96a2d517554926fff17c9713fa313
+    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
+  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
 data:
   Yle Radio 1:
     programmes:
@@ -133,7 +133,7 @@ data:
         start_time: '2026-01-30T11:00:00+02:00'
         end_time: '2026-01-30T11:55:00+02:00'
         description: |
-          Svjatoslav Richter, Emil Gilels, Grigori Sokolov, Oleg Kagan, Natalia Gutman - tässä vain muutamia huipputaiteilijoita, jotka Moskovan juna toi konsertoimaan Suomeen. Asemalla odotti aina Fazerin konserttitoimiston väki, joka huolehti vieraista vaivojaan säästämättä. Valtiollinen Goskontsert luotti Fazeriin, mutta niin tekivät myös taiteilijat. Tuula Sarotie ja Aino Turtiainen-Visala antoisasta yhteistyöstä, hauskoja sattumuksia unohtamatta. Heitä puhuttaa Outi Paananen. 
+          Svjatoslav Richter, Emil Gilels, Grigori Sokolov, Oleg Kagan, Natalia Gutman - tässä vain muutamia huipputaiteilijoita, jotka Moskovan juna toi konsertoimaan Suomeen. Asemalla odotti aina Fazerin konserttitoimiston väki, joka huolehti vieraista vaivojaan säästämättä. Valtiollinen Goskontsert luotti Fazeriin, mutta niin tekivät myös taiteilijat. Tuula Sarotie ja Aino Turtiainen-Visala kertovat antoisasta yhteistyöstä, hauskoja sattumuksia unohtamatta. Heitä puhuttaa Outi Paananen. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-01-30T11:55:00+02:00'
         end_time: '2026-01-30T11:57:00+02:00'
@@ -238,7 +238,7 @@ data:
         start_time: '2026-01-30T19:02:00+02:00'
         end_time: '2026-01-30T21:00:00+02:00'
         description: |-
-          Vintturin kylätalon konsertissa matkustetaan vuoteen 1906, jolloin Algot Untola, myöhemmin muun muassa Maiju Lassilana tunnettu kirjailija, toimi opettajana Vintturin kansakoulussa. Musiikkiesitysten lomassa kirjailija Juha Hurme taustoittaa Lassilan värikästä elämää ja toimintaa mullistuksen vuosina. Konsertin musiikkivalinnat vievät kuulijat 120 vuoden taakse. 28.1.2026 Vintturin kylätalossa tallennetun konsertin toimittaa Ainomaija Pennanen.
+          Vintturi-Tastulan kylätalon konsertissa matkustetaan vuoteen 1906, jolloin Algot Untola, myöhemmin muun muassa Maiju Lassilana tunnettu kirjailija, toimi opettajana Vintturin kansakoulussa. Musiikkiesitysten lomassa kirjailija Juha Hurme taustoittaa Lassilan värikästä elämää ja toimintaa mullistuksen vuosina. Konsertin musiikkivalinnat vievät kuulijat 120 vuoden taakse. 28.1.2026 Vintturi -Tastulan kylätalossa tallennetun konsertin toimittaa Ainomaija Pennanen.
 
           Franz Schubert: Marche militaire nr 1 
           Erkki Virkkala ja Iikka Huntus, viulu, Tiila Kangas, alttoviulu ja Alma Stupak, sello
@@ -270,11 +270,22 @@ data:
       - title: Politiikkaradio
         start_time: '2026-01-30T21:00:01+02:00'
         end_time: '2026-01-30T21:30:00+02:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Musiikkia kasveille ja kansoille eli tammikuun parasta maailmanmusiikkia'
         start_time: '2026-01-30T22:26:00+02:00'
         end_time: '2026-01-30T23:15:00+02:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Ohjelmassa seurataan traakkipuun elämää ja pohditaan huolenpidon merkitystä niin kasveille kuin ihmisille. Musiikkimatka kulkee Gambiasta Indonesiaan, Unkarista Brasiliaan ja Kanadasta Espanjaan, tuoden esiin maailmanmusiikin tuoreimpia julkaisuja. Jokainen kappale kertoo kasvusta, muutoksesta, toivosta ja yhteisöllisyydestä – siitä, miten musiikki voi yhdistää ja lohduttaa. Kulttuurit kohtaavat ja oppivat toisiltaan, oli kyse sitten griottien tarinankerronnasta, uuden pääkaupungin rakentamisesta tai romanimusiikin ilosta. Harmonikka soi voimakkaana symbolina vapaudelle, uudistumiselle ja monimuotoisuudelle. Lopuksi muistutetaan, että ilo ja huolenpito voivat saada sekä kasvit että ihmiset kukoistamaan – ja musiikki on yksi parhaita tapoja välittää tätä elämänvoimaa.
+
+          Suntou Susso – Yirolu Bala
+          Nusantara Beat – Tamat
+          Veronika Varga – Almodj szepet
+          Senduki – Basta n’accordu
+          Livia Mattos – História de Uma Cabeça
+          Le Vent du Nord – La Compagnie du Nord
+          Xabi Aburruzaga – Betiko bihotzean
+          Syran Mbenza – Magui Ank
+          Noura Mint Seymali – Guéreh
+          Júlia Kozáková – Šun Devla
       - title: Yöklassinen
         start_time: '2026-01-30T23:40:00+02:00'
         end_time: '2026-01-31T07:30:00+02:00'
