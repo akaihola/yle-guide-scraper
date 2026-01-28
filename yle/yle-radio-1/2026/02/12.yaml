@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-27T02:48:48.131214+00:00'
+  generated_at: '2026-01-28T02:46:32.821860+00:00'
   git:
     branch: main
-    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
-  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
+    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
+  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-12T07:06:00+02:00'
         end_time: '2026-02-12T08:00:00+02:00'
+        description: |+
+          Locke: Ayre ja Saraband sarjasta kahdelle viululle, gamballe ja continuolle C-duuri n:o 4 (Battalia).
+
+          Dussek: Allegretto ma espressivo e moderato kvintetosta pianolle ja jousille f-molli (Olga Pashtshenko, fortepiano, Sirkka-Liisa Kaakinen-Pilch, viulu, Riitta-Liisa Ristiluoma, alttoviulu, Jukka Rautasalo, sello, ja Anna Rinta-Rahko, kontrabasso).
+
+          Kreutzer: Alla polacca triosta A-duuri (Alexa Still, huilu, Robert Alemany, klarinetti, ja JoAnn Falletta, kitara).
+
+          Hensel: Helmikuu pianosarj. Vuosi (Lauma Skride).
+
+          Grieg: Aamutunnelma näyt. Peer Gynt (RSO/Sakari Oramo).
+
+          Melartin (sov. Fransman): Pieni kvartetto neljälle käyrätorvelle op.185 (4th Line-käyrätorvikvartetti).
+
+          Händel: Allegro concerto grossosta G-duuri (Boston Baroque/Martin Pearlman).
+
+          Beethoven: Adelaide (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
+
+          Glazunov: Muunnelma n:o 3 (A la Schumann) Kvartetosta saksofoneille (Quatuor Habanera).
+
+          Kantelinen: Sen pituinen se bal. Lumikuningatar (Suomen Kansallisoopperan ork./Tuomas Kantelinen).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-12T08:00:00+02:00'
         end_time: '2026-02-12T08:07:00+02:00'

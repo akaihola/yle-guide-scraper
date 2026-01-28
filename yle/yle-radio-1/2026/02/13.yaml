@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-27T02:48:48.322571+00:00'
+  generated_at: '2026-01-28T02:46:33.029571+00:00'
   git:
     branch: main
-    commit: 4e98a6d793fe25866e57bd3e45d9a28a0ce53c70
-  data_hash: ea866fb029ff43d7b8ffbcefaffa79b1f168355b2e659aa522a012c527f839db
+    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
+  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-13T07:06:00+02:00'
         end_time: '2026-02-13T08:00:00+02:00'
+        description: |+
+          Bellini: 1. osa konsertosta käyrätorvelle ja jousiorkesterille (Zbigniew Zuk, ja Wroclawin Leopoldinum-kamariork./Jan Stanienda).
+
+          Ponce: Allegro non troppo sonaatista kitaralle n:o 3 (Juuso Nieminen).
+
+          Ford (sov. Kanneh-Mason): No woman no cry (Sheku Kanneh-Mason, sello).
+
+          Sanz: Canarios (Chatham Baroque). 
+
+          R. Strauss: Andante (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          N. Boulanger: Aubade (Aamulaulu) (Edwin Crossley-Mercer, baritoni, ja Lucy Mauro, piano). 
+
+          Ravel: Pavane pour une infante defunte (Minnesotan ork./Eiji Oue).
+
+          Chopin: Nokturno n:o 5 Fis-duuri (Byron Janis, piano).
+
+          Popper: Albuminlehti (Janos Starker, sello, ja Shigeo Neriki, piano).
+
+          Korngold: Der Schneemann, osia balettipantomiimista (Linzin Bruckner-ork./Caspar Richter). 
+
+          Bor: Juangriego (Clara Rodriguez, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-13T08:00:00+02:00'
         end_time: '2026-02-13T08:07:00+02:00'
