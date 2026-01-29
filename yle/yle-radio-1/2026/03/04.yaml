@@ -1,12 +1,109 @@
 metadata:
-  generated_at: '2026-01-28T02:46:37.850667+00:00'
+  generated_at: '2026-01-29T02:59:27.675731+00:00'
   git:
     branch: main
-    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
-  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
+    commit: 11d310f57da38ae50fb5416d20b0c86e3dc21497
+  data_hash: 0388f4423ece2fe8b197eb3e79da8466c4a3b64c09ac3af1706b4c766a78a90b
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-03T23:40:00+02:00'
         end_time: '2026-03-04T06:30:00+02:00'
+      - title: Hartaita säveliä
+        start_time: '2026-03-04T06:30:50+02:00'
+        end_time: '2026-03-04T06:50:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2026-03-04T06:50:00+02:00'
+        end_time: '2026-03-04T06:59:59+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-03-04T07:00:00+02:00'
+        end_time: '2026-03-04T07:05:00+02:00'
+      - title: Aamusoitto
+        start_time: '2026-03-04T07:06:00+02:00'
+        end_time: '2026-03-04T08:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-03-04T08:00:00+02:00'
+        end_time: '2026-03-04T08:07:00+02:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-03-04T08:07:00+02:00'
+        end_time: '2026-03-04T09:00:00+02:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-03-04T09:00:00+02:00'
+        end_time: '2026-03-04T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-03-04T09:04:00+02:00'
+        end_time: '2026-03-04T09:59:00+02:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2026-03-04T10:00:00+02:00'
+        end_time: '2026-03-04T10:50:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-03-04T10:50:00+02:00'
+        end_time: '2026-03-04T11:00:00+02:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-03-04T11:57:00+02:00'
+        end_time: '2026-03-04T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-03-04T12:00:00+02:00'
+        end_time: '2026-03-04T12:05:00+02:00'
+      - title: Politiikkaradio
+        start_time: '2026-03-04T13:00:00+02:00'
+        end_time: '2026-03-04T13:30:00+02:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-03-04T13:30:00+02:00'
+        end_time: '2026-03-04T15:00:00+02:00'
+      - title: Kulttuuriykkönen
+        start_time: '2026-03-04T15:00:00+02:00'
+        end_time: '2026-03-04T15:55:00+02:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2026-03-04T15:55:00+02:00'
+        end_time: '2026-03-04T15:58:00+02:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-03-04T16:00:00+02:00'
+        end_time: '2026-03-04T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-03-04T16:07:00+02:00'
+        end_time: '2026-03-04T16:59:00+02:00'
+      - title: Uutispodcast
+        start_time: '2026-03-04T17:00:00+02:00'
+        end_time: '2026-03-04T17:20:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-03-04T17:20:00+02:00'
+        end_time: '2026-03-04T17:35:00+02:00'
+      - title: Jazzklubi
+        start_time: '2026-03-04T17:35:00+02:00'
+        end_time: '2026-03-04T18:35:00+02:00'
+      - title: Hartaita säveliä
+        start_time: '2026-03-04T18:35:00+02:00'
+        end_time: '2026-03-04T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2026-03-04T18:50:00+02:00'
+        end_time: '2026-03-04T19:00:00+02:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-03-04T19:00:00+02:00'
+        end_time: '2026-03-04T19:02:00+02:00'
+      - title: Kotimainen konsertti
+        start_time: '2026-03-04T19:02:00+02:00'
+        end_time: '2026-03-04T21:00:00+02:00'
+      - title: 'Politiikkaradio '
+        start_time: '2026-03-04T21:00:00+02:00'
+        end_time: '2026-03-04T21:30:00+02:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2026-03-04T21:31:00+02:00'
+        end_time: '2026-03-04T22:20:00+02:00'
+      - title: 'Ulkolinja-podcast  '
+        start_time: '2026-03-04T23:20:00+02:00'
+        end_time: '2026-03-04T23:39:30+02:00'
+      - title: Yöklassinen
+        start_time: '2026-03-04T23:40:00+02:00'
+        end_time: '2026-03-05T06:30:00+02:00'

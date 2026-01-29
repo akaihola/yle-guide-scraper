@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-28T02:46:30.028249+00:00'
+  generated_at: '2026-01-29T02:59:19.026636+00:00'
   git:
     branch: main
-    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
-  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
+    commit: 11d310f57da38ae50fb5416d20b0c86e3dc21497
+  data_hash: 0388f4423ece2fe8b197eb3e79da8466c4a3b64c09ac3af1706b4c766a78a90b
 data:
   Yle Radio 1:
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-03T06:30:50+02:00'
         end_time: '2026-02-03T06:50:00+02:00'
+        description: |+
+          Karttunen (sov. Nikkola): Niin alhaalla kukaan ei kulje (Toukomettiset/Risto Ainali, sekä Suvi Ainali, viulu).
+
+          Bliss: Isä Jumala, nyt katso maamme puoleen (Human Organ).
+
+          Koraalitoisinto: Orjantappuroita kasvaa (Matti Tuloisela, baritoni, ja Pentti Savolainen, urut).
+
+          Puls: Herra, rakkaastani tunnen iloa (Sibelius-lukion kamarikuoro/Marjukka Riihimäki, ja Pauli Lamppu, kitara).
+
+          Levy: Paimenen yösoitto (Saila Ruotsala).
+
       - title: Aamuhartaus
         start_time: '2026-02-03T06:50:00+02:00'
         end_time: '2026-02-03T06:59:59+02:00'
@@ -129,6 +140,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-03T16:07:00+02:00'
         end_time: '2026-02-03T16:59:00+02:00'
+        description: |-
+          Jenkins: Allegretto concerto grossosta Palladio (Pohjois-Saksan radio-ork./Ben Palmer).
+
+          Foote: Melody op.44 (Suzanne Ornstein, viulu, ja Thomas Schmidt, piano).
+
+          W.A. Mozart: Kreivittären ja Susannan duetto "Canzonetta sull'aria - Che soave zeffiretto" oopp. Figaron häät (Felicity Lott ja Gianna Rolandi, sopraano, sekä Lontoon FO/Bernard Haitink).
+
+          O'Connell - Eilish: No time to die (Raphaela Gromes, sello, ja Julian Riem, piano).
+
+          Beach: Largo konsertosta pianolle ja orkesterille cis-molli (Danny Driver ja BBC:n Skotlannin SO/Rebecca Miller). 
+
+          Dvorak: Valssi jousikvartetille n:o 2 D-duuri (Lindsay-kvartetti).
+
+          Beecham: Minuet balettisarj. Love in Bath (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          Higdon: Reel time teoks. Southern harmony (The Ying Quartet).
+
+          Rossini: Bartolon aaria "A un dottor della mia sorte" oopp. Sevillan parturi (Bruno Praticò, baritoni, ja Münchenin RO/Marcello Viotti).
+
+          Tabakova: Nocturne (Mari Samuelsen, viulu, ja Julien Quentin, piano).
+
+          Meredith: Nautilus (BBC:n SO/Dalia Stasevska).
       - title: Uutispodcast
         start_time: '2026-02-03T17:00:00+02:00'
         end_time: '2026-02-03T17:20:00+02:00'
@@ -140,6 +173,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-03T18:35:00+02:00'
         end_time: '2026-02-03T18:50:00+02:00'
+        description: |+
+          Wislöff: Oi kiitos Herran (Viktor Klimenko).
+
+          Tuntematon: Jerusalem, katse nosta (RKK/Timo Nuoranne, sekä Harri Viitanen, urut, ja Tarja Viitanen, trumpetti).
+
+          Erkkilä: Pienen iltarukous (Candomino/Tauno Satomaa).
+
+          Nkounkou: Ye nzolele nata malongi maku - Vien suuren viestin nyt maailmalle (Jakaranda ja soitinyhtye/Pekka Nyman).
+
       - title: Iltahartaus
         start_time: '2026-02-03T18:50:00+02:00'
         end_time: '2026-02-03T19:00:00+02:00'
@@ -161,9 +203,11 @@ data:
         end_time: '2026-02-03T20:15:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Paula Joukanen on marsuihminen'
         start_time: '2026-02-03T20:15:00+02:00'
         end_time: '2026-02-03T20:35:00+02:00'
+        description: |-
+          Paula Joukanen on marsuihminen. Toimittajana Maija Salminen. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-02-03T20:35:00+02:00'
         end_time: '2026-02-03T21:00:00+02:00'

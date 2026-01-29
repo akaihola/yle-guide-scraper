@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-28T02:46:34.818772+00:00'
+  generated_at: '2026-01-29T02:59:24.402331+00:00'
   git:
     branch: main
-    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
-  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
+    commit: 11d310f57da38ae50fb5416d20b0c86e3dc21497
+  data_hash: 0388f4423ece2fe8b197eb3e79da8466c4a3b64c09ac3af1706b4c766a78a90b
 data:
   Yle Radio 1:
     programmes:
@@ -88,9 +88,22 @@ data:
         end_time: '2026-02-21T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Viihdekuunnelma
+      - title: Syrjästäkatsojan tarina 8/9.
         start_time: '2026-02-21T15:00:00+02:00'
         end_time: '2026-02-21T15:25:00+02:00'
+        description: |
+          Osa 8/9. Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
+
+          Syrjästäkatsojan tarina on koskettava kertomus tukahdutetuista tunteista ja yhteiskunnallisista haasteista sekä naisen oikeudesta rakastaa ja tulla rakastetuksi.
+          Vastoinkäymisistä ja pettymyksistä huolimatta Lucy Snowe selviytyy kertoakseen tinkimättömän tarinansa elämästään.
+
+          Charlotte Brontë (1816-1855) kuvasi teoksissaan tarkasti oman aikansa naisten elämää ja asemaa. Syrjästäkatsojan tarina (eng. Villette, 1853) on maailmankirjallisuuden klassikko ja viimeinen kolmesta Brontën elinaikana julkaistusta romaanista. Syrjästäkatsojan tarinaa pidetään omaelämäkerrallisena kuvauksena Charlotte Brontën omista kohtalokkaista Brysselin vuosistaan.
+
+          Charlotte Brontën samannimisestä teoksesta Yleisradiolle sovittanut ja ohjannut Esko Salervo. 
+          Suomennos: Tyyni Haapanen-Tallgren (1921).
+          Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
+          Lucy Snowe - Päivi Akonpelto.
+          Ensilähetys: 1999.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-21T15:25:00+02:00'
         end_time: '2026-02-21T15:30:00+02:00'

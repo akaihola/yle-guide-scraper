@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-28T02:46:30.903119+00:00'
+  generated_at: '2026-01-29T02:59:19.773856+00:00'
   git:
     branch: main
-    commit: 5367c503e875bc10d766aee948f5eafe4aa176f1
-  data_hash: ae0a7d00f7bb8eac4cc7cf5f634a4ce01d4243f690855c267fd3b30ef434abe5
+    commit: 11d310f57da38ae50fb5416d20b0c86e3dc21497
+  data_hash: 0388f4423ece2fe8b197eb3e79da8466c4a3b64c09ac3af1706b4c766a78a90b
 data:
   Yle Radio 1:
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-05T06:30:50+02:00'
         end_time: '2026-02-05T06:50:00+02:00'
+        description: |+
+          Sontonga: Kuule, Isä taivaan, pyyntö tää (Katja Kallio ja Sami Kosola).
+
+          Tuntematon: Kasteen kirkas vesi (RKK/Timo Nuoranne, sekä Harri Viitanen, urut, ja Markku Luolajan-Mikkola, viola da gamba).
+
+          Salminen: Siipi enkelin (Jukka Salminen, laulu, ja Markku Perttilä, kitara).
+
+          Maasalo: Oi Jeesus, lohdutukseni (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Nikkola: Sinun rauhasi anna mulle (Kuusankosken kirkon nuorisokuoro ja soitinyhtye/Tapani Rautasuo).
+
       - title: Aamuhartaus
         start_time: '2026-02-05T06:50:00+02:00'
         end_time: '2026-02-05T06:59:59+02:00'
@@ -24,6 +35,25 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-05T07:06:00+02:00'
         end_time: '2026-02-05T08:00:00+02:00'
+        description: |+
+          O. Lindberg: Morgonen (Aamu) (Ruotsin radiokuoron ja Eric Ericsonin kamarikuoron naislaulajat/Gustaf Sjökvist, sekä Maria Wieslander, piano).
+
+          Puccini: Adagetto F-duuri (Wienin Filharmonikot/Alberto Veronesi).
+
+          Collan: Hurtti-Ukko (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano). 
+
+          Granados: Runoilija ja satakieli sarj. Romanttisia kohtauksia (Alicia de Larrocha, piano).
+
+          Crusell: Polacca concertinosta B-duuri (Klaus Thunemann, fagotti, ja St. Martin-in-the-Fields/Neville Marriner). 
+
+          Tulindberg: Romanssi viulukonsertosta nro 1 B-duuri (Jorma Rahkonen, viulu, ja RSO/Okko Kamu).
+
+          Byström: Allegro vivace sonaatista B-duuri (Tatjana Grindenko, viulu, ja Aleksei Ljubimov, piano).
+
+          Ranta: Poronkellopolska (RSO/John Storgårds).
+
+          Sibelius: Flickan kom ifrån sin älsklings möte (Jorma Hynninen, baritoni, ja Tampereen kaupunginork./Leif Segerstam).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-05T08:00:00+02:00'
         end_time: '2026-02-05T08:07:00+02:00'
@@ -83,6 +113,11 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-02-05T13:30:00+02:00'
         end_time: '2026-02-05T15:00:00+02:00'
+        description: |
+          Jalmari Laine juontaa. Radiojumalanpalvelukset täyttävät tänä vuonna sata vuotta. N. klo 14 tuottaja-toimittaja Elina Vaittinen Kirkon viestinnästä kertoo satavuotiaiden radiojumalanpalvelusten historiasta ja siitä, missä nyt mennään. Miten radion rooli jumalanpalvelusten välittäjänä on muuttunut vuosikymmenten aikana? Mikä niiden rooli on ollut eri aikoina? Entä millaisia muistoja tai tarinoita liittyy alkuajan radiojumalanpalveluksiin? N. klo 14:30 kirjailija Päivi Alasalmi kertoo toimittaja Sari Valtolle koskettavimmasta kulttuurielämyksestään.
+
+          jälkijuonto: Päivi Alasalmen mainitsema Isoviha-ooppera on tulossa ensi kesäkuussa (-26) Ilmajoen Musiikkijuhlille suuren suosion takia uudestaan esitykseen.
+          R1 kulttuurikokemus Päivi Alasalmi  5´59
       - title: Kulttuuriykkönen
         start_time: '2026-02-05T15:00:00+02:00'
         end_time: '2026-02-05T15:55:00+02:00'
@@ -138,6 +173,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-05T18:35:00+02:00'
         end_time: '2026-02-05T18:50:00+02:00'
+        description: |+
+          Nikkola: Talven valon saamme lumen myötä (Sanna Vuolteenaho, laulu, ja Pekka Suikkanen, urut).
+
+          Tuntematon (sov. Haapala - Jurmu): Soi, virteni, kiitosta Herran (Mustarastas).
+
+          Löytty (sov. Vuori): Kahden maan kansalainen (Piia Viitanen, laulu, Joonas Kasurinen, piano, Kukka Lehto, viulu ja taustalaulu, Sami Koskela, lyömäsoittimet, Antti Vuori, kitara, ohjelmointi ja taustalaulu).
+
       - title: Iltahartaus
         start_time: '2026-02-05T18:50:00+02:00'
         end_time: '2026-02-05T19:00:00+02:00'
