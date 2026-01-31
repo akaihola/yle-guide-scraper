@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-30T02:59:44.871940+00:00'
+  generated_at: '2026-01-31T02:56:17.021124+00:00'
   git:
     branch: main
-    commit: e2292eb7dd84d4848b0dd11ff2b45e143ceac427
-  data_hash: 3572a05eebdd7bf44193179a2384dbf8324a130391e011d00dda1c440a269418
+    commit: c600a24b7ae4551e369521115526ee8abe0e031f
+  data_hash: f1b3eaa8d0a4d7cd546dcfb90c117a902113327fbbb3879233ecc9f0e0035461
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,8 @@ data:
         start_time: '2026-02-03T06:50:00+02:00'
         end_time: '2026-02-03T06:59:59+02:00'
         description: |-
-          Ilkka Paanasen säätiön johtaja Saara Huhanantti, Vantaa
+          "Mitä sinä kaipaat?"
+          Johtaja Saara Huhanantti, Projekti 5/5 kertoo kaipuustaan hiljaisuuteen ja pohtii kokemusta pyhyydestä ja Jumalan läsnäolosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-03T07:00:00+02:00'
         end_time: '2026-02-03T07:05:00+02:00'
@@ -98,6 +99,8 @@ data:
         start_time: '2026-02-03T11:00:00+02:00'
         end_time: '2026-02-03T11:57:00+02:00'
         description: |+
+          Peili on pinta joka heijastaa aaltoliikettä. Peili on esine, josta katsotaan onko tukka hyvin. Minkälaisia peilejä musiikissa voi olla? Miten sotateknologia liittyy asiaan?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
 
           Ohjelman musiikit: 
@@ -268,8 +271,13 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-02-03T20:35:00+02:00'
         end_time: '2026-02-03T21:00:00+02:00'
+        description: |-
+          Venäjä pyrkii hyötymään Yhdysvaltain presidentin Donald Trumpin ulkopoliittisista irtiotoista. Trump painostaa Ukrainaa alueluovutuksiin ja repii Naton yhtenäisyyttä mutta on toisaalta iskenyt  Venäjän liittolaisia Irania ja Venezuelaa vastaan. Ukrainan sotaan keskittynyt Venäjä on menettänyt vaikutusvaltaansa Lähi-idässä ja naapurustossaan Etelä-Kaukasiassa ja Keski-Aasiassa. Maailmanpolitiikan arkipäivää -ohjelma tarkastelee, miten Venäjä luovii Trumpin kanssa. Grönlannin kohtalo tai liittolaisen Iranin vaikeudet eivät paljon paina, kun vaakakupissa painaa Ukrainan alistaminen. 
+
+
+          Ohjelman ovat toimittaneet Maxim Fedorov ja Heikki Heiskanen. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Politiikkaradio '
-        start_time: '2026-02-03T21:00:00+02:00'
+        start_time: '2026-02-03T21:00:01+02:00'
         end_time: '2026-02-03T21:30:00+02:00'
       - title: 'Maailmanpolitiikan arkipäivää: Suurvaltailta'
         start_time: '2026-02-03T21:30:00+02:00'

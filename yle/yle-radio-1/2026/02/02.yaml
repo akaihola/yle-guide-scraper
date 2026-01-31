@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-30T02:59:44.652518+00:00'
+  generated_at: '2026-01-31T02:56:16.586853+00:00'
   git:
     branch: main
-    commit: e2292eb7dd84d4848b0dd11ff2b45e143ceac427
-  data_hash: 3572a05eebdd7bf44193179a2384dbf8324a130391e011d00dda1c440a269418
+    commit: c600a24b7ae4551e369521115526ee8abe0e031f
+  data_hash: f1b3eaa8d0a4d7cd546dcfb90c117a902113327fbbb3879233ecc9f0e0035461
 data:
   Yle Radio 1:
     programmes:
@@ -88,6 +88,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-02T08:07:00+02:00'
         end_time: '2026-02-02T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-02-02T09:00:00+02:00'
         end_time: '2026-02-02T09:03:00+02:00'
@@ -140,14 +142,16 @@ data:
           Toimittajana Ville Talola. 
           Äänisuunnittelu Katja Kostiainen. 
           Lukijoina: Juha Hjelm, Hansku Kurkela, Marko Miettinen ja Marja Vehkanen
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Millaisen arvion saa hallituksen talouspolitiikka?'
         start_time: '2026-02-02T13:00:00+02:00'
         end_time: '2026-02-02T13:30:00+02:00'
+        description: |
+          Talouspolitiikan arviointineuvosto julkaisee vuosiarvionsa hallituksen talouspolitiikasta. Siitä ovat kertomassa neuvoston puheenjohtaja, professori Niku Määttänen ja neuvoston pääsihteeri Jenni Jaakkola. Toimittajana on Antti Pilke.
       - title: Radio 1:n iltapäivä
         start_time: '2026-02-02T13:30:00+02:00'
         end_time: '2026-02-02T15:00:00+02:00'
         description: |-
-          Juontajana Jarmo Laitaneva. Palkittu elokuvaohjaaja Dome Karukoski valmistelee parhaillaan viime kesänä Kreikassa kuvattua romanttista draamaelokuvaa Rakkautta ja virtahepoja. Karukoski teki vuosia töitä kiivaasti monessa maassa yhtä aikaa. Viime vuosina ohjaaja pyrkinyt työskentelemään enemmän kotimassa. Miten ohjaajien työnkuva on muuttunut, kun yhä useampi elokuva tule katsottavaksi suoratoistopalveluissa? Karukosken ohjaama Pikku Siperia julkaisiin vuosi sitten yhtä aikaa 190 maassa. Se on Suomen ensimmäinen Netflix-elokuva. Karukoski on Radio 1:n iltapäivän vieraana n. klo 14.
+          Juontajana Jarmo Laitaneva. Palkittu elokuvaohjaaja Dome Karukoski valmistelee parhaillaan viime kesänä Kreikassa kuvattua romanttista draamaelokuvaa Rakkautta ja virtahepoja. Karukoski teki vuosia töitä kiivaasti monessa maassa yhtä aikaa. Viime vuosina ohjaaja pyrkinyt työskentelemään aikaisempaa enemmän kotimaassa. Miten ohjaajien työnkuva on muuttunut, kun yhä useampi elokuva tule katsottavaksi suoratoistopalveluissa? Karukosken ohjaama Pikku Siperia julkaistiin vuosi sitten yhtä aikaa 190 maassa. Se on Suomen ensimmäinen Netflix-elokuva. Karukoski on Radio 1:n iltapäivän vieraana n. klo 14.
       - title: 'Kulttuuriykkönen: Muodin trendit kansainvälisiltä muotiviikoilta'
         start_time: '2026-02-02T15:00:00+02:00'
         end_time: '2026-02-02T15:55:00+02:00'
@@ -175,11 +179,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-02T16:07:00+02:00'
         end_time: '2026-02-02T16:59:00+02:00'
+        description: |+
+          Telemann: Air n:o 4 sarjasta oboelle, trumpetille, jousille ja continuolle D-duuri (Freiburgin barokkiork.).
+
+          Händel: Magdalan Marian resitatiivi ja aaria orat. Ylösnousemus (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          Hensel: Helmikuu pianosarj. Vuosi (Lauma Skride).
+
+          W.A. Mozart: Larghetto kvintetosta klarinetille ja jousille (Sabine Meyer ja Carmina Quartet).
+
+          R. Schumann: Der Nussbaum (Pähkinäpuu) (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+
+          Saint-Saëns: Tarantelle (Petri Alanko, huilu, Reijo Koskinen, klarinetti, sekä RSO/Sakari Oramo).
+
+          Mäntyjärvi: Väinämöinen uneksii lentävästä veneestään (Kampin Laulu/Kari Turunen). 
+
+          Bacewicz: Allegro giocoso jousikvartetosta n:o 4 (Keski-Pohjanmaan Kamariork./Malin Broman). 
+
+          V. Aulin: Albumblad (Bengt Forsberg, piano).
+
+          Sonninen: Pakkastanssi bal. Pessi ja Illusia (RSO/Ilpo Mansnerus).
+
       - title: Uutispodcast
         start_time: '2026-02-02T17:00:00+02:00'
         end_time: '2026-02-02T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Ulkomaisen jätteen tuonti Suomeen on kasvanut viime vuosina räjähdysmäisesti. Suuri osa jätteestä on tullut Etelä-Italiasta, missä mafia on sekaantunut jätebisnekseen. Miksi jätettä tuodaan niin paljon Suomeen ja mitä ongelmia tähän jätebisnekseen liittyy? Leonard Wilhelmuksen haastateltavana on Ylen tutkiva toimittaja Riku Roslund.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-02T17:20:00+02:00'
         end_time: '2026-02-02T17:35:00+02:00'
@@ -191,8 +216,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-02-02T18:35:00+02:00'
         end_time: '2026-02-02T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Williams (sov. Töyrylä - Saari): Halki yön ja epäilyksen (Hannu Niemelä, baritoni, Vetelin Mieskuoro, Bothnia-kvartetti, sekä Hannu Annala, kitara, ja Vesa Erkkilä, urut).
+
+          Mason: Nyt pääsin kuormastain (Maksetut viulut).
+
+          Sidorovitsh (sov. Melakoski): Olen kuullut, on kaupunki tuolla (Mauno Kuusisto, tenori, ja ork./Erkki Melakoski).
+
       - title: Iltahartaus
         start_time: '2026-02-02T18:50:00+02:00'
         end_time: '2026-02-02T19:00:00+02:00'
@@ -216,17 +246,17 @@ data:
         description: |-
           Euroopassa lajiteltua muovijätettä viedään entistä enemmän Turkkiin. Turkissa vain osa jätteestä päätyy kierrätykseen. 
       - title: Politiikkaradio
-        start_time: '2026-02-02T21:19:00+02:00'
-        end_time: '2026-02-02T21:49:00+02:00'
+        start_time: '2026-02-02T21:18:28+02:00'
+        end_time: '2026-02-02T21:48:30+02:00'
       - title: 'Väkivallan markkinat: Unelmana etulinja – Miksi joku ryhtyy palkkasoturiksi?'
-        start_time: '2026-02-02T21:50:00+02:00'
-        end_time: '2026-02-02T22:22:31+02:00'
+        start_time: '2026-02-02T21:49:19+02:00'
+        end_time: '2026-02-02T22:21:50+02:00'
         description: |-
           Sami on 34-vuotias kansainvälistä sotilasuraa tekevä tarkka-ampuja. Hän jätti Suomen puolustusvoimien tylsät hommat ja pestautui Ranskan muukalaislegioonaan unelmanaan paikka etulinjasta. Seuraavaksi tavoitteena on päästä kiertämään maailmaa yksityisen yrityksen leivissä, ase kourassa. 
           Mitä nykyajan palkka-armeijat ovat ja keitä niissä on töissä? Toimittaja Ippi Arjanne ja tuottaja Hanna Asikainen tutustuvat siihen, miten modernin ajan palkkasoturi hakee töitä. Asiantuntija Mikko Räkköläinen pohtii palkka-armeijoiden historiaa.
       - title: 'Tiedeykkönen: Kuinka hiukkanen voi päästä seinän läpi? Tunneloituminen on kvanttimekaniikan outo ilmiö'
-        start_time: '2026-02-02T22:23:00+02:00'
-        end_time: '2026-02-02T23:11:52+02:00'
+        start_time: '2026-02-02T22:22:34+02:00'
+        end_time: '2026-02-02T23:11:26+02:00'
         description: |-
           Yksi kvanttimekaniikan oudoimmista ilmiöistä on tunneloituminen: hiukkanen voi päästä seinän läpi, vaikka se on klassisen fysiikan mukaan mahdotonta. Mistä tämä johtuu?
           Haastateltavina ovat fysiikan apulaisprofessori Matti Silveri Oulun yliopistosta ja fysiikan professori Mikko Möttönen Aalto-yliopistosta. 

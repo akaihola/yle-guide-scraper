@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-30T02:59:45.952792+00:00'
+  generated_at: '2026-01-31T02:56:18.975454+00:00'
   git:
     branch: main
-    commit: e2292eb7dd84d4848b0dd11ff2b45e143ceac427
-  data_hash: 3572a05eebdd7bf44193179a2384dbf8324a130391e011d00dda1c440a269418
+    commit: c600a24b7ae4551e369521115526ee8abe0e031f
+  data_hash: f1b3eaa8d0a4d7cd546dcfb90c117a902113327fbbb3879233ecc9f0e0035461
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-07T08:05:00+02:00'
         end_time: '2026-02-07T08:25:00+02:00'
+        description: |+
+          Koraalitoisinto: Kiitos olkoon Jumalalle (Katariina Airas).
+
+          Simojoki: Ei muuta vastausta (Et Cetera/Pekka Simojoki).
+
+          Piiparinen: Meren tiedän kirkkahan (Jippu).
+
+          Mirolybov: Kunnia Jumalalle korkeuksissa (Polyteknikkojen Kuoro/Tapani Länsiö).
+
       - title: Aamuhartaus
         start_time: '2026-02-07T08:25:00+02:00'
         end_time: '2026-02-07T08:35:00+02:00'
@@ -33,9 +42,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-07T08:35:00+02:00'
         end_time: '2026-02-07T08:40:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Paula Salovaara steppaa'
         start_time: '2026-02-07T08:40:00+02:00'
         end_time: '2026-02-07T09:00:00+02:00'
+        description: |
+          Paula Salovaara on innokas steppaaja. Toimittajana Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-02-07T09:00:00+02:00'
         end_time: '2026-02-07T09:03:00+02:00'
@@ -45,6 +56,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-07T09:04:00+02:00'
         end_time: '2026-02-07T09:59:00+02:00'
+        description: |
+          Cymbal/Lendell: Mary in the morning (Elvis Presley).
+          Burkhard: Giorgio (Lys Assia).
+          Kansansäv.: Loch Lomond (Radion viihdeork./George de Godzinsky).
+          Kuoppamäki: Näin sävel soi (Jukka Kuoppamäki).
+          Aznavour/Roche: J'aime Paris au mois de mai (Zaz ja Charles Aznavour).
+          Lane: Everybody loves somebody (Dean Martin).
+          Durand/Contet: Habanera (Seija Lampila). 
+          Lynes: Jag älskar dig (Alice Babs).
+          Bart: As long as he needs me (Shirley Bassey).
+          Godzinsky: Näky nuotiolla (Georg Malmstén).
+          Kansansäv.: Joropo Llanero (Piirpauke).
+          Malou: Quien Sera? (Nelson Pinedo & Sonora Matancera). 
+          Dietmar: Manzanilla (Johnny Forsell ja Marion Rung). 
+          King: Tapestry (Carole King).
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-07T09:59:00+02:00'
         end_time: '2026-02-07T10:00:00+02:00'
@@ -130,13 +156,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-07T16:07:00+02:00'
         end_time: '2026-02-07T17:00:00+02:00'
+        description: |-
+          Palmgren: Alkusoitto sarj. Tuhkimo (RSO/George de Godzinsky).
+
+          Aguila: Presto 2 (Santiago Quartet).
+
+          Skrjabin: Poème Fis-duuri (Nelson Freire, piano). 
+
+          W.A. Mozart: Kolmen pojan ja Paminan kohtaus oopp. Taikahuilu (Kathleen Battle, sopraano, sekä Joel Evans, Eric Sadkin ja Gregory Rodriguez, poikasopraano, ja Metropolitan-oopperan ork./James Levine). 
+
+          Albéniz: Evocacion (Muisto) sarj. Iberia (Timo Korhonen, kitara, ja Tampere Filharmonia/Tuomas Ollila).
+
+          Taffanel: Andante pastorale ja scherzettino (Sharon Bezaly, huilu, ja Roland Pöntinen, piano).
+
+          Ferling: Menuetti orkesterille n:o 2 (Spirito-kamariork./Jorma Panula).
+
+          Grieg: Aftenstemning (Iltatunnelma) (Ensemble Nobiles). 
+
+          Janitsch: Vivace kvartetosta G-duuri (Dorothee Oberlinger, alttonokkahuilu, Alfredo Bernardini, oboe, Hiro Kurosaki, viulu, ja Ensemble 1700).
+
+          Tsintsadze: Tanssilaulu (Daniil Shafran, sello, ja Nina Musinjan, piano).
       - title: Marko Gustafssonin vieraana Suomen jääkiekkomaajoukkueen päävalmentaja Antti Pennanen
         start_time: '2026-02-07T17:00:00+02:00'
-        end_time: '2026-02-07T17:53:00+02:00'
+        end_time: '2026-02-07T17:54:00+02:00'
         description: |
           Valmennusuransa  vaikeina hetkinä Antti Pennanen hakeutui terapiaan ja ajatteli löytävänsä sieltä uusia valmennuskeinoja, mutta löysikin itsensä. "Menin terapeutille sillä ajatuksella, että hän tekee minusta paremman valmentajan. Voi kuinka väärässä olinkaan", Pennanen nauraa. Valmentajan tehtävä on auttaa pelaajia pelaamaan paremmin  ja Antti Pennanen tajusi terapiassa, että ensin on opittava tuntemaan itsensä ennen kuin voi auttaa muita. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-02-07T17:53:00+02:00'
+        start_time: '2026-02-07T17:54:00+02:00'
         end_time: '2026-02-07T18:00:00+02:00'
       - title: Iltahartaus
         start_time: '2026-02-07T18:01:00+02:00'
@@ -153,14 +199,9 @@ data:
         end_time: '2026-02-07T19:02:00+02:00'
       - title: 'Oopperailta Oulun teatterista: Saamelaisooppera Ovllá'
         start_time: '2026-02-07T19:02:00+02:00'
-        end_time: '2026-02-07T22:00:00+02:00'
+        end_time: '2026-02-07T21:30:00+02:00'
         description: |-
           Ovllá on ooppera pojasta, joka suomalaisessa asuntolakoulussa oppii häpeämään saamelaisia juuriaan ja sopeuttamispolitiikan uhrina unohtaa, kuka hän on. Sävellys Cecilia Damström, joiut Emil Kárlsen, libretto Juho-Sire/Siri Broch Johansen, ohjaus Heta Haanperä. Esityskielet ovat suomi ja pohjoissaame. Ovllá on osa Oulun kulttuuripääkaupunkivuoden 2026 ohjelmaa. Lähetyksessä haastateltavina pääroolin esittäjä Emil Kárlsen, ohjaaja Heta Haanperä, säveltäjä Cecilia Damström ja saamelaiskulttuurin koordinaattori Aino Valovirta. Lähetyksen toimittaa Noora Hirn.
-      - title: Uutispodcast
-        start_time: '2026-02-07T21:01:00+02:00'
-        end_time: '2026-02-07T21:25:00+02:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
       - title: 'Klassikkokuunnelma: Tulitikkuja lainaamassa, osa 2/3.'
         start_time: '2026-02-07T21:51:00+02:00'
         end_time: '2026-02-07T22:30:00+02:00'

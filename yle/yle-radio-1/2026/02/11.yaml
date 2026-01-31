@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-30T02:59:46.783466+00:00'
+  generated_at: '2026-01-31T02:56:20.219575+00:00'
   git:
     branch: main
-    commit: e2292eb7dd84d4848b0dd11ff2b45e143ceac427
-  data_hash: 3572a05eebdd7bf44193179a2384dbf8324a130391e011d00dda1c440a269418
+    commit: c600a24b7ae4551e369521115526ee8abe0e031f
+  data_hash: f1b3eaa8d0a4d7cd546dcfb90c117a902113327fbbb3879233ecc9f0e0035461
 data:
   Yle Radio 1:
     programmes:
@@ -64,6 +64,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-11T10:50:00+02:00'
         end_time: '2026-02-11T11:00:00+02:00'
+      - title: Klassinen kattaus
+        start_time: '2026-02-11T11:00:00+02:00'
+        end_time: '2026-02-11T11:57:00+02:00'
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-11T11:57:00+02:00'
         end_time: '2026-02-11T12:00:00+02:00'
@@ -94,7 +97,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-11T16:07:00+02:00'
         end_time: '2026-02-11T16:59:00+02:00'
-        description: |+
+        description: |
           Netzel: Humoreski sarj. viululle ja jousiorkesterille op.83 (Musica Vitae/Malin Broman).
 
           Malibran: Prendi, per me sei libero (Cecilia Bartoli, mezzosopraano, ja Orchestra La Scintilla/Adam Fischer).
@@ -105,16 +108,15 @@ data:
 
           Bonis: Carillon mystique (Myriam Barbaux-Cohen, piano).
 
-          Kansansäv. (sov. Genetz): Hyljätyn valitus (RKK/Timo Nuoranne)
+          Kansansäv.: Hyljätyn valitus (RKK/Timo Nuoranne).
 
           Cui: Far-niente (The Brahms Trio).
 
-          Bizet: Micaelan aaria oopp. Carmen (Kiri Te Kanawa, sopraano, ja Lontoon FO/Georg Solti).
+          Bizet: Micaelan aaria "Je dis que rien ne m'épouvante" oopp. Carmen (Kiri Te Kanawa, sopraano, ja Lontoon FO/Georg Solti).
 
           Gragnani: Allegro triosta D-duuri op.12 kolmelle kitaralle (Dagoberto Linhares, Joaquim Freire, Raymond Migy).
 
           Lanner: Cerrito-Polka (Wienin Concentus Musicus/Nikolaus Harnoncourt).
-
       - title: Uutispodcast
         start_time: '2026-02-11T17:00:00+02:00'
         end_time: '2026-02-11T17:20:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-01-30T02:59:48.383264+00:00'
+  generated_at: '2026-01-31T02:56:22.442449+00:00'
   git:
     branch: main
-    commit: e2292eb7dd84d4848b0dd11ff2b45e143ceac427
-  data_hash: 3572a05eebdd7bf44193179a2384dbf8324a130391e011d00dda1c440a269418
+    commit: c600a24b7ae4551e369521115526ee8abe0e031f
+  data_hash: f1b3eaa8d0a4d7cd546dcfb90c117a902113327fbbb3879233ecc9f0e0035461
 data:
   Yle Radio 1:
     programmes:
@@ -25,6 +25,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-18T07:06:00+02:00'
         end_time: '2026-02-18T08:00:00+02:00'
+        description: |+
+          Rameau: Alkusoitto komediabal. Platée (Les Talens Lyriques/Christophe Rousset).
+
+          Finger: Sonaatti trumpetille, oboelle ja continuolle C-duuri (Ludwig Güttler ja Klaus-Peter Gutz sekä Leipzigin Bach-Collegium).
+
+          Syrjälahti: Pakkasaamu (Hannu Syrjälahti, kantele).
+
+          Kabalevski: Preludi ja fuuga n:o 1 G-duuri (Kesäaamu niityllä) kok. Kuusi preludia ja fuugaa pianolle op.61 (Alexandre Dossin, piano).
+
+          Kuula: Aamulaulu (Jaakko Ryhänen, basso, ja Pentti Kotiranta, piano).
+
+          Elgar: Sun dance (Aurinko tanssii) sarj. Starlight express (Skotlantilainen kamariork./Andrew Davis).
+
+          Shostakovitsh: Romanssi mus. elok. Paarma (Nicola Benedetti, viulu, ja Bournemouthin SO/Kirill Karabits).
+
+          Falla (sov. Barrueco): Myllärinvaimon tanssi bal. Kolmikolkkahattu (Manuel Barrueco, kitara).
+
+          Palmgren: Hiihtäjän virsi (Ylioppilaskunnan Laulajat/Matti Hyökki).
+
+          Poldini: Tanssiva nukke (Midori, viulu, ja Robert McDonald, piano).
+
+          J. Strauss, nuor.: Tonava kaunoinen (Alexander Schneider -kvintetti).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-18T08:00:00+02:00'
         end_time: '2026-02-18T08:07:00+02:00'
@@ -43,6 +66,38 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-18T10:50:00+02:00'
         end_time: '2026-02-18T11:00:00+02:00'
+      - title: Siniverinen Klassinen kattaus
+        start_time: '2026-02-18T11:00:00+02:00'
+        end_time: '2026-02-18T11:57:00+02:00'
+        description: |+
+          Walton: Kuningattaren fanfaari (The Wallace Collection/Stephen Layton).
+
+          Lalo: Mylion aaria oopp. Ysin kuningas (Alain Vanzo, tenori, ja ork.).
+
+          Clarke: Trumpet voluntary (The prince of Denmark's march) (Gabor Tarkövi, trumpetti, ja Peter Kofler, urut).
+
+          Hidalgo: Clarin Aaria oopp. Celos aun del aire matan (Judith Malafronte, mezzosopraano, ja The Newberry Consort).  
+
+          Fredrik II Suuri: Allegro assai huilusonaatista h-molli (Emmanuel Pahud, huilu, Jonathan Manson, sello, ja Trevor Pinnock, cembalo).
+
+          Rudolf, Itävallan arkkiherttua: Tempo di menuetto sonaatista A-duuri (Ricardo Morales, klarinetti, ja Susan Kagan, piano).
+
+          Saksi-Weimarin herttuatar Anna Amalia: Auf dem Lande und in der Stadt laulunäyt. Erwin und Elmire (Dietrich Fischer-Dieskau, baritoni, ja Jörg Demus, fortepiano).
+
+          Lortzing: Tsaarin aaria "Sonst spielt' ich mit Zepter" oopp. Tsaari kirvesmiehenä (Hermann Prey, baritoni, ja ork./Wilhelm Schüchter).
+
+          Tshaikovski: Vakulan aaria oopp. Tsaarittaren tossut (Sergei Larin, tenori, ja Lontoon Philharmonia-ork./Gennadi Rozhdestvenski).
+
+          Lehár: Volgalaulu oper. Perintöruhtinas (Veikko Tyrväinen, tenori, ja Radio-ork./George de Godzinsky).
+
+          Dowland: The Earl of Essex Galliard (Essexin jaarlin gagliarda) (Ronn McFarlane, luuttu).
+
+          Sibelius: Grevinnans konterfej (Kreivittären muotokuva) (Sinfonia Lahti/Osmo Vänskä).
+
+          R. Strauss: Paroni Ochsin valssi orkesterisarj. Ruusuritari (Hollywood Bowl -ork./John Mauceri).
+
+          Cimarosa: Alkusoitto oopp. La Baronessa Stramba (Napolin Alessandro Scarlatti -ork./Franco Caracciolo).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-18T11:57:00+02:00'
         end_time: '2026-02-18T12:00:00+02:00'
@@ -64,6 +119,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-02-18T13:30:00+02:00'
         end_time: '2026-02-18T15:00:00+02:00'
+        description: |2+
+
       - title: Kulttuuriykkönen
         start_time: '2026-02-18T15:00:00+02:00'
         end_time: '2026-02-18T15:55:00+02:00'
@@ -88,6 +145,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-18T17:20:00+02:00'
         end_time: '2026-02-18T17:35:00+02:00'
+        description: |2+
+
+
       - title: Jazzklubi
         start_time: '2026-02-18T17:35:00+02:00'
         end_time: '2026-02-18T18:35:00+02:00'
