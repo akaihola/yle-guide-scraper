@@ -1,15 +1,42 @@
 metadata:
-  generated_at: '2026-02-01T03:06:42.127256+00:00'
+  generated_at: '2026-02-02T03:06:29.288967+00:00'
   git:
     branch: main
-    commit: f52896e2c1f188f4a7d3019faf0912ce59077c3b
-  data_hash: dca87e7578f8944410078e38ebc0f1c631b8eed2b33f3f0f9644ad46d8284b29
+    commit: 0ad8f6a2448885a40b4647c3d663721f5e30e909
+  data_hash: 866ce7c8add94c6c60c21248452aa63e293d909f6e6ed3490fa8fdb5cddee845
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-02-06T23:40:00+02:00'
         end_time: '2026-02-07T07:30:00+02:00'
+        description: |+
+          Händel: Alcina, ooppera (Joan Sutherland, sopraano, Teresa Berganza, mezzosopraano, Graziella Sciutti, sopraano, Monica Sinclair, altto, Mirella Freni, sopraano, Luigi Alva, tenori, ja Ezio Flagello, basso, sekä Lontoon sinfoniaorkesteri, joht. Richard Bonynge).
+
+          02:25 Beethoven: Sonaatti sellolle ja pianolle n:o 5 D-duuri (Janos Starker ja György Sebök).
+
+          02:48 Shostakovitsh: Jousikvartetto n:o 15 es-molli (Gidon Kremer ja Daniel Phillips, viulu, Kim Kashkashian, alttoviulu, ja Yo-Yo Ma, sello).
+
+          03:27 Ives: Sinfonia n:o 3 B-duuri (Telttakokous) (Seattlen SO/Ludovic Morlot).
+
+          03:50 Debussy: Pyhän Sebastianuksen marttyyrikuolema (Florence Kopleff, altto, Catherine Akos, altto, ja Phyllis Curtin, sopraano sekä Uuden Englannin konservatorion kuoro ja Bostonin SO/Charles Munch).
+
+          04:45 Reger: Muunnelmia ja fuuga E-duuri Hillerin teemasta (Uuden-Seelannin SO/Franz-Paul Decker).
+
+          05:27 V. Aulin: Jousikvartetto e-molli (Tale-kvartetti).
+
+          05:58 Hummel: Pianotrio n:o 2 F-duuri (Lev Oborin, piano, David Oistrah, viulu, ja Svjatoslav Knushevitski, sello).
+
+          06:14 Tárrega: Aamusoitto (Timo Korhonen, kitara).
+
+          06:17 J.S. Bach: Brandenburgilainen konsertto n:o 1 F-duuri (Kamariork./Karl Richter).
+
+          06:40 Senfl: O quam bonum (Katso, kuinka hyvää ja suloista on) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          06:50 Schnitzer: Sonaatti kosketinsoittimelle n:o 6 G-duuri (Pastoraali) (Martin Rost, Prahan Pyhän Castuluksen kirkon urut).
+
+          07:01 Telemann: Sarja kahdelle huilulle, jousille ja continuolle e-molli (Wienin Concentus Musicus/Nikolaus Harnoncourt).
+
       - title: Luomiskertomus
         start_time: '2026-02-07T07:31:00+02:00'
         end_time: '2026-02-07T07:55:00+02:00'
@@ -226,3 +253,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-02-07T23:40:00+02:00'
         end_time: '2026-02-08T07:00:00+02:00'
+        description: |+
+          Grieg: Peer Gynt, näytelmämusiikkia (Urban Malmberg, baritoni, MariAnne Häggander, mezzosopraano Wendy Hoffman, sopraano, Merilyn Vaughn, sopraano, Wendy White, sopraano, ja San Franciscon SO ja -kuoro/Herbert Blomstedt). 
+
+          00:55 Jongen: Rapsodia op.70 (Oxalys).
+
+          01:15 Rahmaninov: Rapsodia Paganinin teemasta (Daniil Trifonov, piano, ja Philadelphian ork./Yannick Nezet-Seguin).
+
+          01:40 Vasks: Konsertto alttoviululle ja jousiorkesterille (Lilli Maijala ja Tallinnan kamariork./Juha Kangas).
+
+          02:19 Debussy: Cinq poemes de Charles Baudelaire (Dawn Upshaw, sopraano, ja James Levine, piano).
+
+          02:47 Brahms: Pianotrio n:o 3 c-molli (Eugen Istomin, piano, Isaac Stern, viulu,  ja Leonard Rose, sello).
+
+          03:09 Beethoven: Muunnelmia pianolle Es-duuri (Eroica-muunnelmat). (Emanuel Ax).
+
+          03:36 Balakirev: Korol Lir (Kuningas Lear), näytelmämusiikkia (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          04:13 W.A. Mozart: Pianokonsertto n:o 15 B-duuri. (Arturo Benedetti Michelangeli ja Stuttgartin radion SO/Antoine de Bavier).
+
+          04:37 Chausson: Poème (Runoelma) Es-duuri. (Julia Fischer, viulu, ja Monte Carlon FO/Yakov Kreizberg).
+
+          04:54 Nielsen: Sinfonia n:o 4 (Sammumaton). (New Yorkin FO/Leonard Bernstein).
+
+          05:37 Röntgen: Pianotrio n:o 4 c-molli (Storioni Trio).
+
+          05:58 Telemann: Triosonaatti c-molli; Sonaatti e-molli; Huilukonsertto n:o 2 g-molli; Sonaatti D-duuri (Rameau-trio). 
+
+          06:45 J.S. Bach: Sonaatti viola da gamballe ja cembalolle B-duuri (Mika Suihkonen ja Johannes Vesterinen).
+
+...

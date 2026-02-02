@@ -1,15 +1,28 @@
 metadata:
-  generated_at: '2026-02-01T03:06:44.615258+00:00'
+  generated_at: '2026-02-02T03:06:32.036959+00:00'
   git:
     branch: main
-    commit: f52896e2c1f188f4a7d3019faf0912ce59077c3b
-  data_hash: dca87e7578f8944410078e38ebc0f1c631b8eed2b33f3f0f9644ad46d8284b29
+    commit: 0ad8f6a2448885a40b4647c3d663721f5e30e909
+  data_hash: 866ce7c8add94c6c60c21248452aa63e293d909f6e6ed3490fa8fdb5cddee845
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-02-15T23:40:00+02:00'
         end_time: '2026-02-16T06:30:00+02:00'
+        description: |+
+          Szymanowski: Masurkkoja op.50 (Martin Jones, piano).
+
+          00:29 W.A. Mozart: Pianokonsertot n:ot 15 B-duuri ja 17 G-duuri (Leonard Bernstein ja Columbia SO).
+
+          01:31 Berlioz: Surumarssi Hamletin viimeistä kohtausta varten (Clevelandin kuoro ja ork./Pierre Boulez).
+
+          01:41 Liszt: Kuusi unkarilaista rapsodiaa orkesterille (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          02:46 Tshaikovski: Joutsenlampi, 4-näytöksinen baletti. (Bostonin SO/Seiji Ozawa).
+
+          05:17 1600-luvun englantilaisia balladeja ja tansseja. Säv. Byrd, Marchant, Baldwine, Stoning sekä tuntemattomia säveltäjiä (The King's Noyse/David Douglass).
+
       - title: Hartaita säveliä
         start_time: '2026-02-16T06:30:50+02:00'
         end_time: '2026-02-16T06:50:00+02:00'
@@ -114,11 +127,11 @@ data:
         description: |2+
 
 
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Sisäinen seikkailu'
         start_time: '2026-02-16T17:35:00+02:00'
         end_time: '2026-02-16T18:35:00+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Huippuharpisti Catrin Finch kirjoitti kirjeitä ja musiikkia sisäiselle lapselleen, 13-vuotiaalle Katylle. Hänen sisäinen seikkailunsa rohkaisee meitä eteenpäin musiikillisiin seikkailuihin flamencoharpusta sakraaliin pizzicaan tai fado-jazzista Kreetan eeppiseen lyyraan. Kuuntelussa myös Tuuletar-yhtyeen uutta musiikkia, jonka temmellyskenttänä on koko Äitimaa. Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-02-16T18:35:00+02:00'
         end_time: '2026-02-16T18:50:00+02:00'
