@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-02T03:06:38.015410+00:00'
+  generated_at: '2026-02-03T03:03:36.330656+00:00'
   git:
     branch: main
-    commit: 0ad8f6a2448885a40b4647c3d663721f5e30e909
-  data_hash: 866ce7c8add94c6c60c21248452aa63e293d909f6e6ed3490fa8fdb5cddee845
+    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
+  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
 data:
   Yle Radio 1:
     programmes:
@@ -50,6 +50,17 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-03-07T10:00:00+02:00'
         end_time: '2026-03-07T10:25:00+02:00'
+      - title: 'Sukuni murhamysteeri: Onko CIA vastuussa Veikon kuolemasta?'
+        start_time: '2026-03-07T10:25:00+02:00'
+        end_time: '2026-03-07T11:00:00+02:00'
+        description: |-
+          Kumpi legendaarinen vakoiluorganisaatio oli Veikon ja Sepon operaation takana MI6 vai CIA? Mikko ja Hannamari tekevät CIA:lle tietopyynnön Veikosta. 
+          Haastateltavana jaksossa:
+          Tiedusteluhistorian asiantuntija, poliisi Mikko Porvali
+          Poliittisen historian professori Louis Clerc
+          Toimittaja Tapani Leisti
+          Lukija: Sakari Silvola
+          Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: Virtasen taloushistoria
         start_time: '2026-03-07T11:00:00+02:00'
         end_time: '2026-03-07T11:52:00+02:00'
