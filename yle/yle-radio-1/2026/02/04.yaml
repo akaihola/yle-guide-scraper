@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-03T03:03:26.803084+00:00'
+  generated_at: '2026-02-04T03:00:53.784876+00:00'
   git:
     branch: main
-    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
-  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
+    commit: 725bc4858f254027844bce4077faa6b613a42cda
+  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-04T08:07:00+02:00'
         end_time: '2026-02-04T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-02-04T09:00:00+02:00'
         end_time: '2026-02-04T09:03:00+02:00'
@@ -113,7 +115,7 @@ data:
           Adolphson: Vaikeuksia (Marjatta Leppänen).
           Livingston/Evans: Mona Lisa (Gregory Porter).
           Wilson: God only knows (Lontoon SO/Andrew Pryce Jackman).
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Neulomisen ja kädentaitojen kulttuuria'
         start_time: '2026-02-04T10:00:00+02:00'
         end_time: '2026-02-04T10:50:00+02:00'
         description: |
@@ -156,13 +158,17 @@ data:
           Tämä keskinkertaisten keisarien trio ohjasi kukin omalla vuorollaan maataan stalinismin suurella sydämellä vuodesta 1946 vuoteen 1989.
           Stalinismin idean eli "sosialistisen realismin" tai "elämän absurdismin" koki heistä kukin omalla vuorollaan. Georgi Dimitrov kuoli Moskovassa myrkytyshuhujen keskellä, Vulko Chervenkov syrjäytettiin ja Todor Živkov sai syytteet törkeästä kansan omaisuuden kavaltamisesta.
           Stalinismista Bulgariassa kertoo filosofi ja kirjailija Leif Sundström. Toimittajana on Raimo Tyykiluoto.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Hallitus teetti selvityksen Venäjän verkostoista'
         start_time: '2026-02-04T13:00:00+02:00'
         end_time: '2026-02-04T13:30:00+02:00'
-      - title: Radio 1:n iltapäivä
+        description: |
+          Orpon hallituksen liikkeelle laittama selvitys Venäjän vaikuttamisesta 2000-luvun Suomessa on julkaistu. Oliko Venäjän tavoitteena sitoa Suomi pysyvästi Kremlin vaikutuspiiriin? Oliko kaikki yhteydenpito venäläisten taholta osa valtiollista alistamisstrategiaa? Kuinka moni yhä vaikenee tapahtumista? Vieraina ovat Venäjän ympäristöpolitiikan professori Veli-Pekka Tynkkynen Aleksanteri-instituutista ja poliittisen historian professori Johanna Rainio-Niemi Helsingin yliopistosta. Toimittajana on Tapio Pajunen.
+      - title: 'Radio 1:n iltapäivä: TV:n kulttuuriohjelma Kulttuuricocktailin tekijät ja ajan kulttuuri-ilmapiiri'
         start_time: '2026-02-04T13:30:00+02:00'
         end_time: '2026-02-04T15:00:00+02:00'
-      - title: Dokumentit näyttävät Ukrainan sodan kasvot ja vaikutuksen
+        description: |-
+          Joni Timonen juontajana. Kulttuurin ajankohtainen keskusteluohjelma TV 1:n Kulttuuricocktail on varttunut viisivuotiaaksi. Juontajat Iida Rauhalammi ja Tuukka Pasanen vuorottelevat keskustelun vetäjinä ja he tulevat Radio 1:n iltapäivän studiovieraiksi n. klo 14. Minkälaista on tehdä kulttuuriohjelmaa juuri nyt, näinä aikoina? N. klo 14.30 alkupala illan konsertin kulisseista. Kansanmusiikkitaustainen artisti Aili Järvelä tunnetaan hämmästyttävästä laaja-alaisuudestaan. Kaustisen kamarimusiikkiviikolla Järvelä hyppää klassisen musiikin syvään päätyyn.
+      - title: 'Kulttuuriykkönen: Dokumentit näyttävät Ukrainan sodan kasvot ja vaikutuksen'
         start_time: '2026-02-04T15:00:00+02:00'
         end_time: '2026-02-04T15:55:00+02:00'
         description: |-
@@ -214,13 +220,15 @@ data:
         start_time: '2026-02-04T17:00:00+02:00'
         end_time: '2026-02-04T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Pystyykö leikatulla toimeentulotuella vielä elämään Suomessa? Leonard Wilhelmuksen vieraana tutkija Tuija Korpela Kelasta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-04T17:20:00+02:00'
         end_time: '2026-02-04T17:35:00+02:00'
       - title: Jazzklubi
         start_time: '2026-02-04T17:35:00+02:00'
         end_time: '2026-02-04T18:35:00+02:00'
+        description: |-
+          Jazzklubin studiossa on joikutaiteilija Ingá-Máret Gaup-Juuso ja lyömäsoittaja ja sovittaja Mikko Hassinen. Toimittajina Laura Korhonen ja Eero Koski. 
       - title: Hartaita säveliä
         start_time: '2026-02-04T18:35:00+02:00'
         end_time: '2026-02-04T18:50:00+02:00'
@@ -242,12 +250,12 @@ data:
         end_time: '2026-02-04T19:02:00+02:00'
       - title: 'Kaustisen kamarimusiikkiviikko & Aili Järvelä: Folk Songs'
         start_time: '2026-02-04T19:02:00+02:00'
-        end_time: '2026-02-04T21:00:00+02:00'
+        end_time: '2026-02-04T21:06:00+02:00'
         description: |-
           Matkalla musiikissa ja maailmassa: inspiraatiota, tulkintoja, lainauksia, sovituksia. Aili Järvelä hyppää klassisen musiikin syvään päätyyn Luciano Berion Folk Songs -sarjan laulusolistina. Väliajan jälkeen Järvelä ja hänen yhtyeensä Bergå Folk Project (BFP) kruunaavat kahden genren superkonsertin esittämällä Emma-palkitut folk-versiointinsa samaisesta teoksesta. 
           29.1.2026 Kaustisen kansantaiteen keskuksessa tallennetun konsertin toimittaa Ainomaija Pennanen.
       - title: 'Politiikkaradio '
-        start_time: '2026-02-04T21:00:01+02:00'
+        start_time: '2026-02-04T21:10:01+02:00'
         end_time: '2026-02-04T21:30:00+02:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-02-04T21:30:55+02:00'

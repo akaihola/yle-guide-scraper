@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-03T03:03:33.781794+00:00'
+  generated_at: '2026-02-04T03:01:12.438168+00:00'
   git:
     branch: main
-    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
-  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
+    commit: 725bc4858f254027844bce4077faa6b613a42cda
+  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-26T07:06:00+02:00'
         end_time: '2026-02-26T08:00:00+02:00'
+        description: |+
+          Schubert: Kolme saksalaista tanssia (Pepe Romero, kitara).
+
+          Jenkins: Fantasia n:o 14 D-duuri (Phantasm).
+
+          Corelli - Pez: Allegro sonaatista F-duuri (Maurice Steger, nokkahuilu, The English Concert/Laurence Cummings). 
+
+          Kansanlaulu: The Skye Boat Song (Glenn Murphy, tenori, ja The Choral Scholars of University College Dublin/Desmond Earley).
+
+          Eller: Sonatiini pianolle fis-molli (Sten Lassmann).
+
+          Sibelius: Andantino sellolle ja pianolle C-duuri (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          S. Assad: Jobiniana n:o 1 kahdelle kitaralle (Sergio Assad ja Odair Assad).
+
+          Melartin: Pas de deux baletista Sininen helmi (RSO/Hannu Lintu).
+
+          Saint-Saens (sov. Katrama): Joutsen (Jorma Katrama, kontrabasso, ja Margit Rahkonen, piano).
+
+          Järnefelt: Auringonpaistetta (Arto Satukangas, piano).
+
+          Alwyn: Peter Pan Suite (BBC:n konserttiork./John Wilson).
+
+          Piazzolla: Zita (Yo-yo Ma, sello, sekä Odair Assad ja Sergio Assad, kitara).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-26T08:00:00+02:00'
         end_time: '2026-02-26T08:07:00+02:00'
@@ -130,6 +155,22 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-02-26T21:00:00+02:00'
         end_time: '2026-02-26T21:30:00+02:00'
+      - title: Syrjästäkatsojan tarina 8/9.
+        start_time: '2026-02-26T22:31:00+02:00'
+        end_time: '2026-02-26T22:59:00+02:00'
+        description: |
+          Osa 8/9. Nuori englantilaisnainen Lucy Snowe menettää äkillisesti varansa sekä asemansa yhteisössä ja joutuu rakentamaan elämänsä uudestaan. Hän lähtee rohkeasti etsimään onneaan maailmalta ja päätyy belgialaiseen tyttökouluun opettajaksi. Vieraassa maassa Lucy tempautuu mukaan uuden kaupungin viehätykseen ja kohtaa rakkauden.
+
+          Syrjästäkatsojan tarina on koskettava kertomus tukahdutetuista tunteista ja yhteiskunnallisista haasteista sekä naisen oikeudesta rakastaa ja tulla rakastetuksi.
+          Vastoinkäymisistä ja pettymyksistä huolimatta Lucy Snowe selviytyy kertoakseen tinkimättömän tarinansa elämästään.
+
+          Charlotte Brontë (1816-1855) kuvasi teoksissaan tarkasti oman aikansa naisten elämää ja asemaa. Syrjästäkatsojan tarina (eng. Villette, 1853) on maailmankirjallisuuden klassikko ja viimeinen kolmesta Brontën elinaikana julkaistusta romaanista. Syrjästäkatsojan tarinaa pidetään omaelämäkerrallisena kuvauksena Charlotte Brontën omista kohtalokkaista Brysselin vuosistaan.
+
+          Charlotte Brontën samannimisestä teoksesta Yleisradiolle sovittanut ja ohjannut Esko Salervo. 
+          Suomennos: Tyyni Haapanen-Tallgren (1921).
+          Tekninen toteutus: Esko Salervo. Äänitys: Mikko Ahonen.
+          Lucy Snowe - Päivi Akonpelto.
+          Ensilähetys: 1999.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-02-26T23:01:00+02:00'
         end_time: '2026-02-26T23:57:00+02:00'

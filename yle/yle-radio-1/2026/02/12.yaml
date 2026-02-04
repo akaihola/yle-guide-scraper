@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-03T03:03:29.646840+00:00'
+  generated_at: '2026-02-04T03:01:07.889671+00:00'
   git:
     branch: main
-    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
-  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
+    commit: 725bc4858f254027844bce4077faa6b613a42cda
+  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
 data:
   Yle Radio 1:
     programmes:
@@ -203,9 +203,28 @@ data:
         end_time: '2026-02-12T20:00:00+02:00'
         description: |-
           Äänitetty Snellman-salissa Kokkolassa 30.1.2026.
-      - title: Klassinen kattaus
+      - title: Klassinen kattaus olympiakaukaloissa
         start_time: '2026-02-12T20:00:00+02:00'
         end_time: '2026-02-12T20:57:00+02:00'
+        description: |+
+          Meyerbeer: Luistelijat, balettisarja (Philadelphian ork./Eugene Ormandy).
+
+          Nykänen: Jääkiekkofantasia op.6-5 fantasia pianolle Peter Karlssonin laulusta Den glider in (Jukka Nykänen,  piano).
+
+          Orff: "O Fortuna" kantaatista Carmina burana (Lontoon filharmoninen ork. ja kuoro/Zubin Mehta).
+
+          Falla: Myllärinvaimon tanssi ja Myllärin tanssi bal. Kolmikolkkahattu (Izumi Tateno, piano).
+
+          Kansansäv. (sov. Kiviniemi): Säkkijärven polkka (Kalevi Kiviniemi, urut).
+
+          Mysliveček: Argenen aaria "Che non mi disse un di!" oopp. L'Olimpiade (Olympian kisat) (Magdalena Kozená, mezzosopraano, ja Prahan kamarifilharmonia/Michel Swierczewski).
+
+          Pergolesi: Sinfonia sellolle ja continuolle F-duuri (Peter Howard, sello, sekä Christopher Hogwood, cembalo, ja Joshua Koestenbaum, sello).
+
+          Verdi: Don Alvaron aaria oopp. Kohtalon voima (Placido Domingo, tenori, ja Milanon La Scala -oopperan ork./Riccardo Muti). 
+
+          Merikanto: Olympiafanfaari (Puolustusvoimien Varusmiessoittokunta/Juha Tiensuu).
+
       - title: 'Politiikkaradio '
         start_time: '2026-02-12T21:00:00+02:00'
         end_time: '2026-02-12T21:30:00+02:00'
@@ -232,7 +251,7 @@ data:
           Lucy Snowe - Päivi Akonpelto.
           Ensilähetys: 1999.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-02-12T23:01:00+02:00'
+        start_time: '2026-02-12T23:02:00+02:00'
         end_time: '2026-02-12T23:57:00+02:00'
         description: |-
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.

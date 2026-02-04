@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-03T03:03:28.119032+00:00'
+  generated_at: '2026-02-04T03:01:04.639128+00:00'
   git:
     branch: main
-    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
-  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
+    commit: 725bc4858f254027844bce4077faa6b613a42cda
+  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
 data:
   Yle Radio 1:
     programmes:
@@ -39,17 +39,40 @@ data:
 
           06:45 J.S. Bach: Sonaatti viola da gamballe ja cembalolle B-duuri (Mika Suihkonen ja Johannes Vesterinen).
 
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-02-08T07:00:30+02:00'
-        end_time: '2026-02-08T07:57:00+02:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Peili on peili on peili'
+        start_time: '2026-02-08T07:00:47+02:00'
+        end_time: '2026-02-08T07:55:35+02:00'
+        description: |+
+          Peili on pinta joka heijastaa aaltoliikettä. Peili on esine, josta katsotaan onko tukka hyvin. Minkälaisia peilejä musiikissa voi olla? Miten sotateknologia liittyy asiaan?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit: 
+
+          Maurice Ravel: Oiseaux tristes pianosarjasta Miroirs  (Julien Brocal, piano)
+
+          Charles Gounod: Que vois-je la - Ah! je ris de me voir (jalokiviaaria) oopperasta Faust (Anna Moffo, sopraano, ja Rooman oopperan orkesteri/Tullio Serafin)
+
+          Orlando di Lasso:  O la o che bon eccho (Kas vain, kuinka täällä kaikuu) (Vesna-lapsikuoro/Aleksandr Ponomarjov). 
+
+          Giovanni Gabrieli: Omnes gentes, 16-ääninen motetti. (Gabrieli Consort ja Gabrieli Players/Paul McCreesh).
+
+          Johann Sebastian Bach: Fuuga n:o 8 es-molli/dis-molli BWV853 (Andras Schiff, piano). 
+
+          Bela Bartok: Andante tranquillo, teoksesta Musiikkia kieli- ja lyömäsoittimille sekä celestalle Sz.106. (Helsingin kaupunginorkesteri/Susanna Mälkki).
+
+          Lili Boulanger (san.Maurice Maeterlinck): Reflets (Mitsuko Shirai, mezzosopraano, Hartmut Höll, piano).
+
+          Arvo Pärt: Spiegel im Spiegel (Viktoria Mullova, viulu, ja Liam Dunachie, piano). 
+
+
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-08T08:00:00+02:00'
         end_time: '2026-02-08T08:05:05+02:00'
       - title: 'Narrin aamulaulu elokuvissa: Boléro'
         start_time: '2026-02-08T08:05:35+02:00'
-        end_time: '2026-02-08T09:00:00+02:00'
+        end_time: '2026-02-08T08:59:00+02:00'
         description: |-
           Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
       - title: 'Yle Uutiset '
@@ -80,21 +103,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-08T11:00:00+02:00'
         end_time: '2026-02-08T11:59:00+02:00'
-        description: |-
+        description: |
           Lehtinen: Toiset meistä (LOVEband ja Vantaan Viihdeorkesteri Ensemble).
           Stein: Sanie cu zurgalai (Maria Lataretu).
-          Lennon, McCartney: Fool on the hill (Bobbie Gentry).
+          Lennon/McCartney: Fool on the hill (Bobbie Gentry).
           Lennon/McCartney: Tyttö (Kai Hyttinen).
-          Mack: My Sweet Lord: (George Harrison).
-          Gaye/Stevenson: Dancing in the street (Martha Reeves and the The Vandellas).
-          Mandel: The Shadow of your smile (Marvin Gaye).
-          Holiday: Don't Explain (Anita O'Day).
+          Mack: My sweet Lord (George Harrison).
+          Gaye/Stevenson: Dancing in the street (Martha Reeves and The Vandellas).
+          Mandel: The shadow of your smile (Marvin Gaye).
+          Holiday: Don't explain (Anita O'Day).
           Mancini: Charade (Helena Siltala).
           Crewe: Can't take my eyes off you (Andy Williams).
           Myers: Cavatina (The Shadows).
           Renis/Testa: Quando quando quando (Tony Renis).
           Gardel: Volver (Sara Montiel).
-          Cooder: Across the borderline (Ry Cooder &Harry Dean Stanton).
+          Cooder: Across the borderline (Ry Cooder & Harry Dean Stanton).
       - title: Yle Uutiset ja sää
         start_time: '2026-02-08T12:00:00+02:00'
         end_time: '2026-02-08T12:05:00+02:00'
@@ -189,7 +212,7 @@ data:
           J.S. Bach: Allegro moderato sonaatista uruille n:o 1 Es-duuri (Vikingur Olafsson ja Halla Oddný Magnúsdottir, piano).
       - title: Etnokonsertteja
         start_time: '2026-02-08T17:00:00+02:00'
-        end_time: '2026-02-08T18:00:00+02:00'
+        end_time: '2026-02-08T17:57:41+02:00'
         description: |
           Ranskalaisen Les Égarés -kvartetin konsertti JazzBaltica Festivaalilla Timmendorfer Strandissa Pohjois-Saksassa 29.6.2025. (Émile Parisien, sopraanosaksofoni, Vincent Ségal, sello, Ballaké Sissoko, kora, ja Vincent Peirani, harmonikka). Toimittajana Miika Lauriala. 
       - title: Jazzklubi
@@ -198,9 +221,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-08T19:00:00+02:00'
         end_time: '2026-02-08T19:02:05+02:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: Orchestra Nazionale Della Luna Tampere Jazz Happeningissä.'
         start_time: '2026-02-08T19:02:30+02:00'
         end_time: '2026-02-08T20:00:00+02:00'
+        description: |
+          Äänitetty Tullikamarin Pakkahuoneella 2.11.2024.
       - title: Jumalanpalvelus Jyväskylän adventtiseurakunnasta
         start_time: '2026-02-08T20:00:00+02:00'
         end_time: '2026-02-08T21:00:00+02:00'
@@ -211,17 +236,40 @@ data:
         end_time: '2026-02-08T21:24:00+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Peili on peili on peili'
         start_time: '2026-02-08T21:25:00+02:00'
-        end_time: '2026-02-08T22:22:00+02:00'
-        description: |-
+        end_time: '2026-02-08T22:19:48+02:00'
+        description: |+
+          Peili on pinta joka heijastaa aaltoliikettä. Peili on esine, josta katsotaan onko tukka hyvin. Minkälaisia peilejä musiikissa voi olla? Miten sotateknologia liittyy asiaan?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: 'Sari Valto '
-        start_time: '2026-02-08T22:23:00+02:00'
-        end_time: '2026-02-08T23:17:00+02:00'
+
+          Ohjelman musiikit: 
+
+          Maurice Ravel: Oiseaux tristes pianosarjasta Miroirs  (Julien Brocal, piano)
+
+          Charles Gounod: Que vois-je la - Ah! je ris de me voir (jalokiviaaria) oopperasta Faust (Anna Moffo, sopraano, ja Rooman oopperan orkesteri/Tullio Serafin)
+
+          Orlando di Lasso:  O la o che bon eccho (Kas vain, kuinka täällä kaikuu) (Vesna-lapsikuoro/Aleksandr Ponomarjov). 
+
+          Giovanni Gabrieli: Omnes gentes, 16-ääninen motetti. (Gabrieli Consort ja Gabrieli Players/Paul McCreesh).
+
+          Johann Sebastian Bach: Fuuga n:o 8 es-molli/dis-molli BWV853 (Andras Schiff, piano). 
+
+          Bela Bartok: Andante tranquillo, teoksesta Musiikkia kieli- ja lyömäsoittimille sekä celestalle Sz.106. (Helsingin kaupunginorkesteri/Susanna Mälkki).
+
+          Lili Boulanger (san.Maurice Maeterlinck): Reflets (Mitsuko Shirai, mezzosopraano, Hartmut Höll, piano).
+
+          Arvo Pärt: Spiegel im Spiegel (Viktoria Mullova, viulu, ja Liam Dunachie, piano). 
+
+
+
+      - title: 'Sari Valto: Stressin välttely vain ruokkii stressiä'
+        start_time: '2026-02-08T22:20:30+02:00'
+        end_time: '2026-02-08T23:14:30+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Romano mirits
+          Stressin haitallisuudesta puhutaan paljon, mutta vähemmän puhutaan siitä, että stressin voisi nähdä myös eräänlaisena herättäjänä: se pakottaa meidät priorisoimaan oikeasti tärkeitä asioita. Jatkuva kielteinen stressipuhe ja stressin hoitaminen suorituksenomaisesti vain lisäävät stressiä. Vieraina psykologian tohtori Laura Sokka ja psykoterapeutti Janna Meunier.
+      - title: 'Romano mirits: Turun seudun Romanit Ry. menee sinne, missä romanit ovat'
         start_time: '2026-02-08T23:26:00+02:00'
         end_time: '2026-02-08T23:39:30+02:00'
         description: |-

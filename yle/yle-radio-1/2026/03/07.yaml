@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-03T03:03:36.330656+00:00'
+  generated_at: '2026-02-04T03:01:15.213733+00:00'
   git:
     branch: main
-    commit: e109cdc1bf73ee4045e63eb813941c50308f6107
-  data_hash: fe94f09f09fe33b5b1e27aa90f055a6883ea3544e3fd94ec431e64a08f0435bc
+    commit: 725bc4858f254027844bce4077faa6b613a42cda
+  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
 data:
   Yle Radio 1:
     programmes:
@@ -28,7 +28,7 @@ data:
         start_time: '2026-03-07T08:25:00+02:00'
         end_time: '2026-03-07T08:35:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Maria Hietanen, Helluntaikirkko, Ilmajoki
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-07T08:35:00+02:00'
         end_time: '2026-03-07T08:40:00+02:00'
@@ -123,7 +123,7 @@ data:
         start_time: '2026-03-07T18:01:00+02:00'
         end_time: '2026-03-07T18:10:00+02:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Meri Tirroniemi , Kittilä
       - title: Lauantain toivotut levyt
         start_time: '2026-03-07T18:10:00+02:00'
         end_time: '2026-03-07T19:00:00+02:00'
