@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-04T03:00:58.876537+00:00'
+  generated_at: '2026-02-05T03:02:20.403442+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
@@ -163,7 +163,7 @@ data:
         description: |
           Professori emeritus Markku Kuisma kirjoittaa viimeisimmässä kirjassaan Sodan yrityksiä siitä,miten Euroopan suurimmat yritykset valjastettiin 1900-luvulla veristen maailmansotien palvelukseen ja miten sota on suurteollisuudelle tuottoisaa bisnestä. Millaisia moraalisia pohdintoja tämä herättää, varsinkin kun Eurooppa paraikaa varustautuu uudelleen? Miten nykyinen maailman tilanne on vaikuttanut puolustusteollisuuteen Suomessa ja olemmeko todellakin puolustusteknologian kärkimaa, kuten jossain rummutetaan? Millaisia yllättäviä ja menestyneitä sodan yrityksiä on syntynyt ja syntyy Suomeen?
 
-          Vieraina ovat professori emeritus Markku Kuisma, yliopistotutkija Noora Kotilainen ja Markus Häyhtiö VTT:ltä.
+          Vieraina ovat professori emeritus Markku Kuisma, yliopistotutkija Noora Kotilainen, joka johtaa Koneen säätiön hanketta Sotilaallisen vallan kieli suomalaisessa demokratiassa, sotatieteiden tohtori Markus Häyhtiö sekä Puolustus- ja ilmailuteollisuuden PIA:n pääsihteeri Tuija Karanko.
 
           Ohjelman juontaa Nicklas Wancke.
       - title: Yle News
@@ -201,7 +201,7 @@ data:
         start_time: '2026-02-05T17:00:00+02:00'
         end_time: '2026-02-05T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mitä Norjan kuningashuoneen skandaalit meinaavat monarkialle? Vieraana NRK:n toimittaja Tomi Vaara ja Pohjoismaiden tutkimuksen professori Peter Stadius.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-05T17:20:00+02:00'
         end_time: '2026-02-05T17:35:00+02:00'
@@ -213,6 +213,8 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-02-05T18:25:00+02:00'
         end_time: '2026-02-05T18:35:00+02:00'
+        description: |
+          Nukkuminen ja erityisesti unettomuus ovat aiheita, joista mediassa usein toistellaan samoja asioita. Sari Valto poimi tästä unipuheesta muutaman väitteen ja kysyi niiden paikkaansa pitävyyttä unitutkija, kokeellisen aivotutkimuksen professori Anu-Katriina Pesoselta.
       - title: Hartaita säveliä
         start_time: '2026-02-05T18:35:00+02:00'
         end_time: '2026-02-05T18:50:00+02:00'
@@ -281,8 +283,8 @@ data:
           Lucy Snowe - Päivi Akonpelto.
           Ensilähetys: 1999.
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Rantaviiva liikkuu'
-        start_time: '2026-02-05T23:03:00+02:00'
-        end_time: '2026-02-05T23:59:04+02:00'
+        start_time: '2026-02-05T23:03:06+02:00'
+        end_time: '2026-02-05T23:59:12+02:00'
         description: |-
           Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen

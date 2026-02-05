@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-04T03:01:08.154059+00:00'
+  generated_at: '2026-02-05T03:02:23.155145+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
@@ -45,11 +45,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-13T06:30:50+02:00'
         end_time: '2026-02-13T06:50:00+02:00'
+        description: |+
+          Ruuska: Kuljeta ja johda (Pekka Ruuska).
+
+          Tuntematon (sov. Rissanen): Käykäämme nyt Jerusalemiin (Human Organ).
+
+          Simojoki (sov. Nikula): Taivaan Isä suojan antaa (Nuorisokuoro Sympaatti/Pekka Nikula, kitara, ja Maria Rossi, huilu).
+
+          Faltin: Mä elän laupeudesta (Kampin Laulu/Markku Pihlaja).
+
+          Ravantti: Toivon sydämeeni sain (Pelastusarmeijan Hgin Keskusosaston kitarakuoro/Vappu Lysti).
+
       - title: Aamuhartaus
         start_time: '2026-02-13T06:50:00+02:00'
         end_time: '2026-02-13T06:59:59+02:00'
-        description: |-
-          Diakoni Antti Kulmala, Tampere
+        description: |
+          "Paluu nykyisyyteen"
+          Diakoni Antti Kulmala Tampereelta puhuu mielen taipumuksesta syrjähtää omille teilleen ja avaa tässä hetkessä olemisen merkitystä.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-13T07:00:00+02:00'
         end_time: '2026-02-13T07:05:00+02:00'
@@ -85,6 +97,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-13T08:07:00+02:00'
         end_time: '2026-02-13T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-02-13T09:00:00+02:00'
         end_time: '2026-02-13T09:03:00+02:00'
@@ -159,6 +173,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-13T18:35:00+02:00'
         end_time: '2026-02-13T18:50:00+02:00'
+        description: |+
+          Berthier: Ylistäkäämme Jumalaa (Tuohus-kuoro ja -yhtye/Juha Vintturi).
+
+          Erkkilä: Minun sieluni halajaa (Harjun Kamarikuoro/Heikki Liimola).
+
+          S. Heikkilä: Daavidin psalmi (Sakari Heikkilä).
+
+          Lister: He knows just what I need (Elvis Presley ja The Jordanaires).
+
       - title: Iltahartaus
         start_time: '2026-02-13T18:50:00+02:00'
         end_time: '2026-02-13T19:00:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-04T03:01:07.441734+00:00'
+  generated_at: '2026-02-05T03:02:22.674747+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
@@ -45,6 +45,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-11T06:30:50+02:00'
         end_time: '2026-02-11T06:50:00+02:00'
+        description: |+
+          Klemetti: Taas siunattu päivä nyt luo valoaan (Matti Salminen, basso, ja Pentti Savolainen, urut ).
+
+          Scheidemann: Käy aavaa merta purtemme (Cetus Noster).
+
+          Koraalitoisinto: Taivaass' on ilo suuri (Löytyn Mieslaulajat).
+
+          Laaksonen: Katsomaan kasvojesi rauhaa (Hanna Ekola, laulu, ja jousiyhtye).
+
+          Slater: Jeesus, luokses kiiruhdan (Pelastusarmeijan kvartetti).
+
       - title: Aamuhartaus
         start_time: '2026-02-11T06:50:00+02:00'
         end_time: '2026-02-11T06:59:59+02:00'
@@ -82,6 +93,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-11T08:07:00+02:00'
         end_time: '2026-02-11T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-02-11T09:00:00+02:00'
         end_time: '2026-02-11T09:03:00+02:00'
@@ -115,7 +128,7 @@ data:
       - title: Klassinen kattaus olympiakaukaloissa
         start_time: '2026-02-11T11:00:00+02:00'
         end_time: '2026-02-11T11:57:00+02:00'
-        description: |+
+        description: |-
           Meyerbeer: Luistelijat, balettisarja (Philadelphian ork./Eugene Ormandy).
 
           Nykänen: Jääkiekkofantasia op.6-5 fantasia pianolle Peter Karlssonin laulusta Den glider in (Jukka Nykänen,  piano).
@@ -133,7 +146,6 @@ data:
           Verdi: Don Alvaron aaria oopp. Kohtalon voima (Placido Domingo, tenori, ja Milanon La Scala -oopperan ork./Riccardo Muti). 
 
           Merikanto: Olympiafanfaari (Puolustusvoimien Varusmiessoittokunta/Juha Tiensuu).
-
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-11T11:57:00+02:00'
         end_time: '2026-02-11T12:00:00+02:00'
@@ -143,16 +155,22 @@ data:
       - title: Politiikkaradio
         start_time: '2026-02-11T13:00:00+02:00'
         end_time: '2026-02-11T13:30:00+02:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: kirjailija Joel Kankaan teksti kulkee Sörkan kaduilta Inarin jängälle'
         start_time: '2026-02-11T13:30:00+02:00'
         end_time: '2026-02-11T15:00:00+02:00'
-        description: |2+
-
-      - title: Kulttuuriykkönen
+        description: |2
+           Jarmo Laitaneva juontaa. Joel Kankaan Kaamos voitti vastikään Vuoden esikoisdekkari -palkinnon.  Inarilaislähtöisen kirjailijan teksteissä kaikuvat luonto ja sää sekä pohjoisen karut olot. Viime viikolla (6.2.) Kankaalta on ilmestyi uusi kirja, Kaltio. N. klo 14 Kangas on studiovieraana. N. klo 14:30 kurkistus illan RSO:n konsertin kulisseihin.
+      - title: 'Kulttuuriykkönen: Hind Rajabin ääni ja muut palestiinalaisten todellisuudesta kertovat uutuuselokuvat'
         start_time: '2026-02-11T15:00:00+02:00'
         end_time: '2026-02-11T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Oscar-kisan ulkomaisten elokuvien palkintoehdokkaina on peräti kolme elokuvaa Palestiinaan liittyen – Tunisian edustajana Suomessa elokuvateatterilevityksessä oleva Hind Rajabin ääni, Jordanian edustajana sukukronikka All That's Left Of You ja Palestiinan edustajana historiallinen draama Palestine 36.
+
+          Hind Rajabin ääni -elokuvan ohjaaja Kaouther Ben Hania, jonka edellinen elokuva Neljä tytärtä oli ehdolla parhaan dokumenttielokuvan sarjassa vuoden 2024 Oscareissa, sekoittaa elokuvassaan jälleen faktaa ja fiktiota. Hind Rajabin äänessä kuultavat hätäpuhelut ovat aitoja äänitteitä, mikä tuo Gazan alueen humanitaarisen kriisin katsojan iholle. Elokuva palkittiin Venetsian elokuvajuhlilla seitsemällä palkinnolla, joista yksi oli tuomaristo pääpalkinto. 
+
+          Millaista todellisuutta ja historiaa nämä elokuvat peilaavat? Miten ne kertovat palestiinalaisten kärsimyksestä, ja millaista elokuvaa alueen tapahtumista tänä päivänä tuotetaan? Millainen väline elokuva on välittämään palestiinalaisalueiden kriisiä ja sotaa – tapahtumia, jotka ovat par’aikaa käynnissä?
+
+          Kulttuuriykkösen vieraina palestiinalaistaustainen mediataiteilija Shareef Askar, tutkija Bruno Jäntti sekä toimittaja Pertti Pesonen. Juhani Kenttämaa toimittaa.
       - title: Yle News
         start_time: '2026-02-11T15:55:00+02:00'
         end_time: '2026-02-11T15:58:00+02:00'

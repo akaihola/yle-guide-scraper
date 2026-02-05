@@ -1,15 +1,50 @@
 metadata:
-  generated_at: '2026-02-04T03:01:14.151162+00:00'
+  generated_at: '2026-02-05T03:02:28.420543+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-02T23:40:00+02:00'
         end_time: '2026-03-03T06:30:00+02:00'
+        description: |+
+          J.S. Bach: Fantasia G-duuri (Enzio Forsblom, urut).
+
+          23:49 Naumann: Sinfonia d-molli suurelle orkesterille (Concerto Köln).
+
+          00:01 W.A. Mozart: Divertimento B-duuri (Uuden Maailman basettitorvitrio).
+
+          00:25 Henselt: Balladi B-duuri (Daniel Grimwood, piano).
+
+          00:39 Stenhammar: Pianokonsertto n:o 1 b-molli (Mats Widlund ja Tulkholman FO/Gennadi Rozhdestvenski).
+
+          01:27 Copland (sov.): Old American songs 2 (Bruce Hubbard, baritoni, ja St. Luken ork./Dennis Russell Davies).
+
+          01:41 Shostakovitsh: Konsertto pianolle, trumpetille ja jousille c-molli (Elisabeth Leonskaja ja Gary Bordner, sekä St.Paulin kamariork./Hugh Wolff).
+
+          02:04 Sinding: Pianosonaatti h-molli (Jerome Lowenthal).
+
+          02:27 Schnittke: Jousikvartetto n:o 3 (Pacifica-kvartetti).
+
+          02:50 Schubert: Sinfonia n:o 4 c-molli (Traaginen) (Philadelphian ork./Eugene Ormandy).
+
+          03:21 Fauré: Sonaatti sellolle ja pianolle n:o 1 d-molli (Paul Tortelier ja Jean Hubeau).
+
+          03:41 Barber: Viulukonsertto (Gil Shaham ja New Yorkin FO/David Robertson).
+
+          04:07 Granados: 12 espanjalaista tanssia op. 37 (Angel ja Celedonio Romero, kitara).
+
+          05:07 Fabritius: Grand duo h-molli viululle ja sellolle (Paavo Pohjola ja Georg Rastenberger).
+
+          05:36 Hoffmeister: Alttoviulukonsertto D-duuri (Ashan Pillai ja Lissabonin Gulbenkian-ork./Christopher Hogwood).
+
+          05:56 Reber: Pianotrio n:o 5 a-molli (Trio Élégiaque).
+
+          06:18 Corelli: Concerto grosso n:o 1 D-duuri (Philharmonia Baroque/Nicholas McGegan).
+
       - title: Hartaita säveliä
         start_time: '2026-03-03T06:30:50+02:00'
         end_time: '2026-03-03T06:50:00+02:00'
@@ -98,6 +133,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-03T17:20:00+02:00'
         end_time: '2026-03-03T17:35:00+02:00'
+      - title: Viikon luontoääni
+        start_time: '2026-03-03T18:30:00+02:00'
+        end_time: '2026-03-03T18:35:00+02:00'
       - title: Hartaita säveliä
         start_time: '2026-03-03T18:35:00+02:00'
         end_time: '2026-03-03T18:50:00+02:00'

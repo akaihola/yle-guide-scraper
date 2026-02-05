@@ -1,15 +1,50 @@
 metadata:
-  generated_at: '2026-02-04T03:01:11.490418+00:00'
+  generated_at: '2026-02-05T03:02:26.435851+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-02-23T23:40:00+02:00'
         end_time: '2026-02-24T06:30:00+02:00'
+        description: |+
+          Barokinajan hovi- ja teatterimusiikkia Ranskasta (Lully, Charpentier, de Lalande, Philidor ja Mouret) (Kamariyhtye Chatham Baroque).
+
+          00:46 Kodály: Adagio viululle ja pianolle (Arthur Grumiaux ja István Hajdu).
+
+          00:54 Pleyel: Sekstetto puhaltimille Es-duuri (Mozzafiato-kamariyhtye). 
+
+          01:16 Hoffstetter: Jousikvartetto F-duuri (Amadeus-kvartetti).
+
+          01:30 Roman: Osia sarj. Drottningholmsmusiken (Häämusiikkia). (Concerto Köln).
+
+          01:52 Cimarosa: Konsertto G-duuri (Mathieu Dufour, huilu, ja Alex Klein, oboe, sekä Tshekin kansallinen SO/Paul Freeman).
+
+          02:12 Acerbi: Kvartetto klarinetille ja jousille n:o 2 (Reino Simola, klarinetti, Jukka-Pekka Saraste, viulu, Jouko Mansnerus, alttoviulu, Eira Ojanen, sello).
+
+          02:26 Skrjabin: Pianosonaatit n:o 6-10 (Boris Berman, piano).
+
+          03:26 W.A. Mozart: Klarinettikvintetto A-duuri (David Oppenheim, klarinetti, ja Budapest-kvartetti).
+
+          03:57 G.Ch. Bach: Siehe, wie fein und lieblich ist es. (Ekkehard Wagner ja Reinhart Ginzel, tenori, sekä Hermann Christian Polster, basso, ja Capella Fidicinia/Hans Grüss).
+
+          04:06 J. Haydn: Sinfonia n:o 83 g-molli (Kana) (New Yorkin FO/Leonard Bernstein).
+
+          04:27 Rossini: Matilden aaria Sento un'interna voce oopp. Elisabetta, regina d'Inghilterra (Malvina Major, sopraano, ja Uuden-Seelannin SO/Piero Gamba).
+
+          04:36 Bruckner: Messu e-molli. (Venäjän valtion sinfoniakuoro ja Venäjän valtion SO:n puhallinyhtye/Valeri Poljanski).
+
+          05:19 Massenet: Musiikkia Jean Racinen näytelmään Phedre (Faidra) (Detroitin SO/Paul Paray).
+
+          05:30 Ravel: Le Tombeau de Couperin (Clevelandin ork./Pierre Boulez).
+
+          05:48 Beethoven: Jousikvartetto n:o 8 e-molli (Razumovski-kvartetto n:o 2) (Janácek-kvartetti).
+
+          06:26 Pacius: Niin hän on mun - päin pystyin hän virran kuohuja ohjaa oopp. Kaarle-kuninkaan metsästys (Tapani Valtasaari, basso, RSO/Ilpo Mansnerus). 
+
       - title: Hartaita säveliä
         start_time: '2026-02-24T06:30:50+02:00'
         end_time: '2026-02-24T06:50:00+02:00'
@@ -124,6 +159,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-24T17:20:00+02:00'
         end_time: '2026-02-24T17:35:00+02:00'
+        description: |2+
+
+      - title: Viikon luontoääni
+        start_time: '2026-02-24T18:30:00+02:00'
+        end_time: '2026-02-24T18:35:00+02:00'
       - title: Hartaita säveliä
         start_time: '2026-02-24T18:35:00+02:00'
         end_time: '2026-02-24T18:50:00+02:00'
@@ -166,3 +206,47 @@ data:
       - title: Yöklassinen
         start_time: '2026-02-24T23:40:00+02:00'
         end_time: '2026-02-25T06:30:00+02:00'
+        description: |+
+          Röntgen: Pianotrio n:o 4 c-molli (Storioni Trio).
+
+          00:01 Fauré: Sarja orkesterille näytelmämus. Pelléas et Melisande (Lorraine Hunt, sopraano, ja Bostonin SO/Seiji Ozawa).
+
+          00:23 Zemlinsky: Trio d-molli. (Ensemble Liaison).
+
+          00:52 Tuntematon: Messu, 5-ääninen a cappella (Ars Nova/Bo Holten).
+
+          01:03 Copland: Nonetto (Columbia-jousiyhtye/Aaron Copland).
+
+          01:31 J. Haydn: Sinfonia n:o 95 c-molli (Fritz Reiner and his Symphony Orchestra).
+
+          01:54 W.A. Mozart: Ein Musikalischer Spass (Musiikillinen pila). (Philharmonia-ork./Guido Cantelli).
+
+          02:14 Liszt: Unkarilainen rapsodia n:o 13 a-molli (Shura Cherkassky, piano).
+
+          02:22 Reger: Halleluja! Gott zu loben, bleibe meine Seelenfreud (Fernando Germani, urut).
+
+          02:36 Stenhammar: Jousikvartetto n:o 3 F-duuri (Borodin-kvartetti).
+
+          03:12 Stravinsky: Petrushka (Cincinnatin SO/Paavo Järvi).
+
+          03:48 Sor: Muunnelmia Mozartin Taikahuilu-oopperan laulusta Das klinget so herrlich (Christopher Parkening, kitara).
+
+          03:55 Balakirev: Dumka es-molli (Alexander Paley, piano).
+
+          04:01 Sonninen: Alla Lapin taivaan (Helsingin KO/Tauno Hannikainen).
+
+          04:17 Bruckner: Sinfonia n:o 7 E-duuri (Dresdenin valtionork./Herbert Blomstedt).
+
+          05:27 Gregoriaaninen laulu (sov. Jennings): Beata (Chanticleer/Joseph Jennings).
+
+          05:36 Tschetschulin: Gavotte (Mirka Malmi, viulu, ja Tiina Karakorpi, piano).
+
+          05:40 Reinecke: Sonaatti klarinetille ja pianolle e-molli (Undine) (Michael Collins ja Michael McHale).
+
+          06:00 Poldini: Tanssiva nukke (Midori, viulu, ja Robert McDonald, piano).
+
+          06:03 Händel: Transkriptio cembalolle oopp. Floridante aariasta Sventurato, godi, o core abbandonato (David Schrader).
+
+          06:11 J.S. Bach (sov. tuntematon): Sonaatti viululle ja klaveerille n:o 6 G-duuri (Margit Übellacker, dulcimer, ja Jürgen Banholzer, urut).
+
+...

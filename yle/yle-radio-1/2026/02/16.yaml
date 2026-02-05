@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-04T03:01:09.164423+00:00'
+  generated_at: '2026-02-05T03:02:24.049272+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
@@ -26,6 +26,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-16T06:30:50+02:00'
         end_time: '2026-02-16T06:50:00+02:00'
+        description: |+
+          Tuntematon (sov. J. Hannikainen): Halleluja! Nyt ylistys (Puijon kamarikuoro/Jorma Hannikainen).
+
+          Tuntematon: Soi kiitosvirsi kerran (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Koraalitoisinto: Ah herää, sydämeni (RKK/Timo Nuoranne).
+
+          Laakso: Luojan kaunein ajatus (Maria Laakso, laulu, Senni Valtonen, huilu, Laura Airola, viulu, Mikko Iivanainen ja Markku Perttilä, kitara, sekä Pekka Nyman, lyömäsoittimet).
+
       - title: Aamuhartaus
         start_time: '2026-02-16T06:50:00+02:00'
         end_time: '2026-02-16T06:59:59+02:00'
@@ -86,6 +95,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-16T11:57:00+02:00'
         end_time: '2026-02-16T12:00:00+02:00'
+        description: |
+          Helvi Hämäläisen runo Lumimaisema teoksesta Surmayöt, Wsoy 1957
       - title: Yle Uutiset ja sää
         start_time: '2026-02-16T12:00:00+02:00'
         end_time: '2026-02-16T12:05:00+02:00'
@@ -116,18 +127,18 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-16T16:07:00+02:00'
         end_time: '2026-02-16T16:59:00+02:00'
-        description: |+
+        description: |
           Fauré: Alkusoitto sarj. Masques et bergamasques (Seattlen SO/Ludovic Morlot).
 
-          Schumann: Intermezzo (Ilja Kaler, viulu, ja Boris Slutski, piano).
+          R. Schumann: Intermezzo (Ilja Kaler, viulu, ja Boris Slutski, piano).
 
-          Lambert: Le Repos, l'ombre, le silence (Rauha, varjo, hiljaisuus) (Les Arts Florissants/William Christie).
+          Lambert: Le repos, l'ombre, le silence (Rauha, varjo, hiljaisuus) (Les Arts Florissants/William Christie).
 
           Böhme: Scherzo sekstetosta trumpeteille Es-duuri (brass partout/Hermann Bäumer).
 
-          Carreno: Lapsen uni (Clara Rodriguez, piano).
+          Carreno: Le sommeil de l'enfant (Lapsen uni) (Clara Rodriguez, piano).
 
-          Dvorák: Vedenhaltijan aaria oopp. Rusalka (René Pape, basso, ja Dresdenin valtionork./Sebastian Weigle).
+          Dvorák: Vedenhaltijan aaria "Beda! Beda! Uboha Rusalko bleda - Cely svet neda ti" oopp. Rusalka (René Pape, basso, ja Dresdenin valtionork./Sebastian Weigle).
 
           Beach: Pastorale (Ambache-kamariyhtye).
 
@@ -137,8 +148,7 @@ data:
 
           Delibes: Les filles de Cadix (Cecilia Bartoli, mezzosopraano, ja Myung-Whun Chung, piano).
 
-          Bizet: Carillon Arlesitar-sarjasta nro 1 (New Yorkin FO/Leonard Bernstein).
-
+          Bizet: Carillon Arlesitar-sarjasta n:o 1 (New Yorkin FO/Leonard Bernstein).
       - title: Uutispodcast
         start_time: '2026-02-16T17:00:00+02:00'
         end_time: '2026-02-16T17:20:00+02:00'
@@ -158,8 +168,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-02-16T18:35:00+02:00'
         end_time: '2026-02-16T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Merikanto: Oi muistatko vielä sen virren (Matti Lehtinen, baritoni, sekä Radiokuoro ja jousiyhtye/Nils-Eric Fougstedt).
+
+          Kallunki: Jumalan luona kaikuu (Henna-Mari Sivula, sopraano, ja Olli Kinnunen, urut).
+
+          Simojoki: Muutoksen aika (Juha Tapio).
+
       - title: Iltahartaus
         start_time: '2026-02-16T18:50:00+02:00'
         end_time: '2026-02-16T19:00:00+02:00'

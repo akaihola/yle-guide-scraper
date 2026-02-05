@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-04T03:01:04.639128+00:00'
+  generated_at: '2026-02-05T03:02:21.588041+00:00'
   git:
     branch: main
-    commit: 725bc4858f254027844bce4077faa6b613a42cda
-  data_hash: 8fd8d8048af3218adea7474948be34d83706888a53fad678d4c6c5c4382ce41e
+    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
+  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
 data:
   Yle Radio 1:
     programmes:
@@ -150,11 +150,11 @@ data:
           Blom/Koskelainen: Äitimaa (Tuuletar). 
           Säilynoja/Koskelainen: Kuule (Tuuletar). 
           Koskelainen: Kevään kajo (Tuuletar). 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Sisällissotamme muistelu muistuttaa myös sodasta puhumisen vaikeudesta'
         start_time: '2026-02-08T14:55:00+02:00'
         end_time: '2026-02-08T15:00:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Sisällissodasta on 108 vuotta, ja sodan muistojuhlaa vietetään yhä. Se kertoo, miten vahvoja myyttejä historiaamme edelleen liittyy, sotatieteilijä Ilmari Käihkö pohtii.
       - title: 'Klassikkokuunnelma: Tulitikkuja lainaamassa, osa 3/3.'
         start_time: '2026-02-08T15:00:00+02:00'
         end_time: '2026-02-08T15:35:00+02:00'
@@ -212,7 +212,7 @@ data:
           J.S. Bach: Allegro moderato sonaatista uruille n:o 1 Es-duuri (Vikingur Olafsson ja Halla Oddný Magnúsdottir, piano).
       - title: Etnokonsertteja
         start_time: '2026-02-08T17:00:00+02:00'
-        end_time: '2026-02-08T17:57:41+02:00'
+        end_time: '2026-02-08T18:00:00+02:00'
         description: |
           Ranskalaisen Les Égarés -kvartetin konsertti JazzBaltica Festivaalilla Timmendorfer Strandissa Pohjois-Saksassa 29.6.2025. (Émile Parisien, sopraanosaksofoni, Vincent Ségal, sello, Ballaké Sissoko, kora, ja Vincent Peirani, harmonikka). Toimittajana Miika Lauriala. 
       - title: Jazzklubi
@@ -270,8 +270,8 @@ data:
         description: |-
           Stressin haitallisuudesta puhutaan paljon, mutta vähemmän puhutaan siitä, että stressin voisi nähdä myös eräänlaisena herättäjänä: se pakottaa meidät priorisoimaan oikeasti tärkeitä asioita. Jatkuva kielteinen stressipuhe ja stressin hoitaminen suorituksenomaisesti vain lisäävät stressiä. Vieraina psykologian tohtori Laura Sokka ja psykoterapeutti Janna Meunier.
       - title: 'Romano mirits: Turun seudun Romanit Ry. menee sinne, missä romanit ovat'
-        start_time: '2026-02-08T23:26:00+02:00'
-        end_time: '2026-02-08T23:39:30+02:00'
+        start_time: '2026-02-08T23:24:54+02:00'
+        end_time: '2026-02-08T23:39:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
       - title: Yöklassinen
