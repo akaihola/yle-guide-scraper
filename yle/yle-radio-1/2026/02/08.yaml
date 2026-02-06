@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-05T03:02:21.588041+00:00'
+  generated_at: '2026-02-06T03:02:02.333515+00:00'
   git:
     branch: main
-    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
-  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
+    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
+  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
 data:
   Yle Radio 1:
     programmes:
@@ -139,14 +139,14 @@ data:
         start_time: '2026-02-08T14:00:00+02:00'
         end_time: '2026-02-08T14:55:00+02:00'
         description: |
-          Gaup-Juuso/Iversen/Hassinen: Boares suotna (Inga-Maret Gaup-Juuso ja Oulu All Star Big Band). 
-          Valkeapää/Hassinen: Davas (Inga-Maret Gaup-Juuso, Jukka Eskola, ja Oulu All Star Big Band/Jaakko Jauhiainen). 
+          Gaup-Juuso/Iversen: Boares suotna (Inga-Maret Gaup-Juuso ja Oulu All Star Big Band). 
+          Valkeapää: Davas (Inga-Maret Gaup-Juuso, Jukka Eskola, ja Oulu All Star Big Band/Jaakko Jauhiainen). 
           Mattus-Kumpunen: Jiöcc ton teadak (Anna Lumikivi ja Loiskis). 
           Lumikivi: Vuä'd, vuä'd päärnzam (Anna Lumikivi ja Lapin kamariork.)
           Morottaja/Mattus-Kumpunen/Lumikivi: Suonasuonjareh - Suoknasuotnjarat - Suömmsuön (Ulpu Mattus-Kumpunen, Anna Lumikivi, Essi Morottaja, ja Lapin kamariork.). 
-          Kalaniemi/Käppi: Gäddans klang (Hauen kalske) (Maria Kalaniemi ja Pekko Käppi). 
-          Kalaniemi/Käppi: Skogens släkte (Metsän väki) (Maria Kalaniemi ja Pekko Käppi). 
-          Kalaniemi/Käppi: Knipan (Telkkä) (Maria Kalaniemi ja Pekko Käppi). 
+          Kansansäv.: Gäddans klang (Hauen kalske) (Maria Kalaniemi ja Pekko Käppi). 
+          Kansansäv.: Skogens släkte (Metsän väki) (Maria Kalaniemi ja Pekko Käppi). 
+          Kansansäv.: Knipan (Telkkä) (Maria Kalaniemi ja Pekko Käppi). 
           Blom/Koskelainen: Äitimaa (Tuuletar). 
           Säilynoja/Koskelainen: Kuule (Tuuletar). 
           Koskelainen: Kevään kajo (Tuuletar). 
@@ -210,7 +210,7 @@ data:
           Esenvalds: Stars (Voces8).
 
           J.S. Bach: Allegro moderato sonaatista uruille n:o 1 Es-duuri (Vikingur Olafsson ja Halla Oddný Magnúsdottir, piano).
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Les Égarés -kvartetin konsertti JazzBaltica-festivaalilla'
         start_time: '2026-02-08T17:00:00+02:00'
         end_time: '2026-02-08T18:00:00+02:00'
         description: |

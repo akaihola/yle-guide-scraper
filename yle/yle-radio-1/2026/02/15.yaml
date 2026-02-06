@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-05T03:02:23.640198+00:00'
+  generated_at: '2026-02-06T03:02:05.124151+00:00'
   git:
     branch: main
-    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
-  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
+    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
+  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
 data:
   Yle Radio 1:
     programmes:
@@ -88,14 +88,14 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-15T11:00:00+02:00'
         end_time: '2026-02-15T11:59:00+02:00'
-        description: |+
+        description: |
           Green: Body and soul (Paul Desmond).
-          Petersen: Trumpet soul (Jörgen Petersen ja Radion tanssiorkesteri).
+          Petersen: Trumpet soul (Jörgen Petersen).
           Woods: Try a little tenderness (Otis Redding).
           Jones: Soul bossa nova (Quincy Jones).
           Ferri: Sulle silmäni annan (Seija Simola).
-          Rota: The Godfather waltz (Carlo Savina orkestereineen).
-          Citorello: Luna mezzo mare (Lou Monte).
+          Rota: The Godfather waltz (Carlo Savina).
+          Citorello: Luna mezzo mare - Lazy Mary (Lou Monte).
           Sigman: Buona sera (Louis Prima).
           Granata: Buona notte bambino (Laila Kinnunen).
           Granata: Marina (Rocco Granata).
@@ -103,16 +103,20 @@ data:
           Dylan: Just like a woman (Bob Dylan).
           Robertson: The Weight (The Band).
           McVie: Songbird (Fleetwood Mac).
-          Bonfa: Perdido de amor (Luiz Bonfa).
-
+          Bonfá: Perdido de amor (Luiz Bonfá).
       - title: Yle Uutiset ja sää
         start_time: '2026-02-15T12:00:00+02:00'
         end_time: '2026-02-15T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Miten estää ydinkatastrofi - suomalaiset auttoivat Venäjää parantamaan ydinvoimaloidensa turvallisuutta'
         start_time: '2026-02-15T12:05:00+02:00'
         end_time: '2026-02-15T12:55:00+02:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Neuvostoliiton luhistumisen jälkeen suomalaiset olivat huolissaan venäläisten ydinvoimaloiden turvallisuudesta.
+          Vuonna 1992 alkoi yhteistyö, jonka aikana suomalaiset auttoivat monin tavoin parantamaan venäläisten ydinvoimaloiden turvallisuutta. Yhteistyö päättyi 30 vuotta myöhemmin, kun Venäjä hyökkäsi Ukrainaan. 
+          Mitä kaikkea suomalaiset tekivät ydinvoimaloiden turvallisuuden parantamiseksi ja missä kunnossa venäläiset voimalat ovat tänään?
+          Haastateltavat: yhteistyössä mukana olleet Heikki Reponen ja Kim Söderling sekä historiantutkija Petri Paju.
+          Toimittaja: Harri Alanne
+          Äänisuunnittelija: Laura Koso.
       - title: 'Välilevyjä: Taidemusiikkimielenosoitus Grammy-gaalassa'
         start_time: '2026-02-15T13:00:00+02:00'
         end_time: '2026-02-15T13:57:00+02:00'

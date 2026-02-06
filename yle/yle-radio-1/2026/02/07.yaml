@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-05T03:02:21.179711+00:00'
+  generated_at: '2026-02-06T03:02:01.901283+00:00'
   git:
     branch: main
-    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
-  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
+    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
+  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
 data:
   Yle Radio 1:
     programmes:
@@ -37,7 +37,7 @@ data:
 
           07:01 Telemann: Sarja kahdelle huilulle, jousille ja continuolle e-molli (Wienin Concentus Musicus/Nikolaus Harnoncourt).
 
-      - title: 'Luomiskertomus: Kaunokirjallisuuden Finlandia-palkinnon voittaja kertoo kirjansa syntytarinan'
+      - title: 'Luomiskertomus: Monika Fagerholmin romaani sukeltaa 1970-luvun poliittiseen liikehdintään'
         start_time: '2026-02-07T07:31:00+02:00'
         end_time: '2026-02-07T07:55:00+02:00'
         description: |
@@ -134,7 +134,7 @@ data:
         end_time: '2026-02-07T13:00:00+02:00'
         description: |-
           Disney-klassikot Leijonakuningas ja Bambi ovat jättäneet sukupolvien muistiin traagiset kohtaukset, joissa päähenkilö menettää vanhempansa. Voiko elokuva valmistaa lasta kohtaamaan kuoleman? Ja millaisia toimintamalleja elokuvat voivat tarjota surun ja menetyksen hetkellä? Marja Vehkasen vieraina kuolemaa lastenelokuvissa analysoivat uskontotieteen väitöskirjatutkija Enni Salo ja elokuvakasvatuksen asiantuntija Marjo Kovanen.
-      - title: 'Näistä levyistä en luovu: Saku Tuominen'
+      - title: 'Näistä levyistä en luovu: Saku Tuominen on musiikin löytyretkeilijä'
         start_time: '2026-02-07T13:00:00+02:00'
         end_time: '2026-02-07T13:55:00+02:00'
         description: |-
@@ -224,8 +224,10 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-02-07T18:10:00+02:00'
         end_time: '2026-02-07T19:00:00+02:00'
-        description: |-
+        description: |+
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
+
       - title: Yle Uutiset ja sää
         start_time: '2026-02-07T19:00:00+02:00'
         end_time: '2026-02-07T19:02:00+02:00'

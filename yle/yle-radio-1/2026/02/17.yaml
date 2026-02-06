@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-05T03:02:24.290586+00:00'
+  generated_at: '2026-02-06T03:02:05.826080+00:00'
   git:
     branch: main
-    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
-  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
+    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
+  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
 data:
   Yle Radio 1:
     programmes:
@@ -51,7 +51,8 @@ data:
         start_time: '2026-02-17T06:50:00+02:00'
         end_time: '2026-02-17T06:59:59+02:00'
         description: |-
-          Verkostotyön seurakuntapastori Maija Latvala, Tampere
+          "Vain vapaa voi oppia elämään rakkaudessa"
+          Verkostotyön seurakuntapastori Maija Latvala Tampereelta pohtii todeksi eletyn rakkauden kustannuslaskelmia sekä Jeesuksen seuraajaksi ryhtymisen plussia ja miinuksia.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-17T07:00:00+02:00'
         end_time: '2026-02-17T07:05:00+02:00'

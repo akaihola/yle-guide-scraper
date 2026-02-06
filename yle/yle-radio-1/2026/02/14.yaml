@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-05T03:02:23.391701+00:00'
+  generated_at: '2026-02-06T03:02:04.855701+00:00'
   git:
     branch: main
-    commit: cc265b5e8a15fa9d3070a241cd458ad75ee51454
-  data_hash: 94b0862e0fa230e8b6d8d6026deefe0bb9d7dc535aabd0e2a780534f63259c19
+    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
+  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
 data:
   Yle Radio 1:
     programmes:
@@ -73,7 +73,8 @@ data:
         start_time: '2026-02-14T08:25:00+02:00'
         end_time: '2026-02-14T08:35:00+02:00'
         description: |-
-          Nuorisotyön koordinaattori Senni Sillanpää, Baptistiyhdyskunta, Jyväskylä
+          "Millaista on ystävyys Jeesuksen seuraajana?"
+          Nuorisotyön koordinaattori Senni Sillanpää, Baptistiyhdyskunta, Jyväskylästä puhuu lähimmäisenrakkaudesta ja palelevan naapurin kohtaamisesta pakkasaamuna.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-14T08:35:00+02:00'
         end_time: '2026-02-14T08:40:00+02:00'
@@ -89,6 +90,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-14T09:04:00+02:00'
         end_time: '2026-02-14T09:59:00+02:00'
+        description: |+
+          Rodgers: My funny Valentine (Chet Baker).
+          Berlin: Cheek to cheek (Harmony Sisters).
+          Fougstedt: Romanssi (Leif Wager).
+          Simons/Marks: All of me (Dinah Washington & Terry Gibbs Sextet).
+          Farres: Mua lähemmäks' käy (Sacy Sand).
+          Ortolani: Ei ajatella huomispäivää (Eija Merilä).
+          Gardel/Le Pera: Volver (Carlos Gardel). 
+          Alexandra: Mein Freund, der Baum (Alexandra).
+          King: You've got a friend (Michael Jackson).
+          Gomez: Kielletyt leikit (Carola).
+          John: Sinun laulusi (Alwari Tuohitorvi).
+          Lloyd Webber: All I ask of you (Barbra Streisand).
+          Vysotski: Ystävän laulu (Vesa-Matti Loiri).
+
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-14T09:59:00+02:00'
         end_time: '2026-02-14T10:00:00+02:00'
@@ -116,9 +132,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-14T12:00:00+02:00'
         end_time: '2026-02-14T12:05:00+02:00'
-      - title: 'Maailma tarinoina: Kalevala on muinaisten uskomusten sampo'
+      - title: 'Maailma tarinoina: Hilma af Klint on löytänyt paikkansa uushenkisyyden ja kriisien aikakaudella'
         start_time: '2026-02-14T12:05:00+02:00'
         end_time: '2026-02-14T13:00:00+02:00'
+        description: |-
+          1900-luvun vaihteessa elänyt ruotsalaistaiteilija Hilma af Klint tiesi tulevansa löydetyksi vasta kuolemansa jälkeen – ja näin on käynytkin. Taiteilija on ollut esillä niin valkokankaalla kuin näyttämöllä, taidenäyttelyistä ja tutkimuksesta puhumattakaan. Henkisiä kysymyksiä maalauksiinsa abstrahoineen taiteilijan hahmo ja elämäntyö on avannut näkymää esoteerisuudesta ammentaneisiin naistaiteilijoihin. Millaiset taiteilijan ominaisuudet ja tavat työskennellä osuvat yksiin tämän päivän arvojen kanssa? Miksi tämä kaikki puhuttelee juuri nyt?
+          Marja Vehkasen kanssa keskustelua käyvät Helsingin sanomissa pitkään vaikuttanut kulttuuritoimittaja Pirkko Kotirinta ja taiteen ja esoteerisuuden yhteyksiin perehtynyt tutkijatohtori Nina Kokkinen.
       - title: Näistä levyistä en luovu
         start_time: '2026-02-14T13:00:00+02:00'
         end_time: '2026-02-14T13:55:00+02:00'
