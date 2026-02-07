@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-06T03:02:10.166828+00:00'
+  generated_at: '2026-02-07T02:58:20.341788+00:00'
   git:
     branch: main
-    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
-  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
+    commit: 148d1996b76f639ef45bba4bf21bfea9fea2e45e
+  data_hash: ccd12d7861beeebae1d8f71e16dabfbb880c6c1b918565e881a2093f561c5611
 data:
   Yle Radio 1:
     programmes:
@@ -59,6 +59,25 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-03T07:06:00+02:00'
         end_time: '2026-03-03T08:00:00+02:00'
+        description: |+
+          Vivaldi: Presto kons. L'inverno (Talvi) sarj. Le quattro stagioni (Neljä vuodenaikaa) (Progetto Avanti).
+
+          Veracini: Adagio ja Ciaccona sonaatista viululle ja continuolle d-molli (Rachel Podger, viulu, ja Brecon Baroque).
+
+          Schubert: Hyvää huomenta laulusarj. Kaunis mylläritär (Matthias Goerne, baritoni, ja Christoph Eschenbach, piano).
+
+          Haydn: Finaali pianosonaatista n:o 45 Es-duuri (Emanuel Ax). 
+
+          Mielck: Romanssi (Seeli Toivio, sello, ja Lily-Marlene Puusepp, harppu).
+
+          Sibelius: Lauha länsituuli (Anna Kuvaja, piano).
+
+          Verdi: Heprealaisten vankien kuoro oopp. Nabucco (Chicagon sinfoniakuoro ja SO/Georg Solti).
+
+          Marianelli: Overture elok. Anna Karenina (London Session Orchestra/Benjamin Wallfisch).
+
+          Piazzolla - Perello: Buenos Airesin talvi (InTime Quintet ja Tampereen KO/Jaana Haanterä).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-03T08:00:00+02:00'
         end_time: '2026-03-03T08:07:00+02:00'
@@ -133,6 +152,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-03T17:20:00+02:00'
         end_time: '2026-03-03T17:35:00+02:00'
+        description: |2+
+
+
       - title: Viikon luontoääni
         start_time: '2026-03-03T18:30:00+02:00'
         end_time: '2026-03-03T18:35:00+02:00'
@@ -180,3 +202,41 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-03T23:40:00+02:00'
         end_time: '2026-03-04T06:30:00+02:00'
+        description: |+
+          Telemann: Konsertto trumpetille, viululle, jousille ja continuolle D-duuri (David Kjar, luonnontrumpetti, ja kamariyhtye Rebel/Jörg-Michael Schwarz).
+
+          23:53 Chausson: Sinfoninen runo Viviane (Toulousen Theatre du Capitolen ork./Michel Plasson).
+
+          00:07 Mendelssohn: Kvintetto jousille n:o 1 A-duuri (Hausmusik).
+
+          00:39 Chopin: Balladi n:o 3 As-duuri (Shura Cherkassky, piano).
+
+          00:47 Franck: Psyché et Eros (Philharmonia-ork./Carlo Maria Giulini).
+
+          00:57 Liszt: Preludi ja fuuga nimestä B-A-C-H (Fernando Germani, urut).
+
+          01:12 Shostakovitsh: Jousikvartetto n:o 13 b-molli. (Pacifica-kvartetti).
+
+          01:32 Sibelius: Sinfonia n:o 2 D-duuri (RSO/Sakari Oramo).
+
+          02:14 W.A. Mozart: Juhlavesper C-duuri (Agnes Giebel, sopraano, Christa Ludwig, mezzosopraano, Richard Holm, tenori ja Peter Roth-Ehrang, basso, sekä Kölnin radiokuoro ja -SO/Joseph Keilberth).
+
+          02:44 R. Strauss: Symphonia domestica. (Amsterdamin Concertgebouw-ork./Lorin Maazel).
+
+          03:30 Beethoven (sov. Liszt): Sinfonia n:o 1 C-duuri (Earl Wild, piano). 
+
+          03:58 Donizetti: Nemorinon romanssi "Una furtiva lagrima", oopp. Lemmenjuoma (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          04:03 Veress: Trio jousille (Vilde Frang, viulu, Lawrence Power, alttoviulu, ja Nicolas Altstaedt, sello). 
+
+          04:25 Schubert: Jousikvintetto C-duuri (Lincoln Centerin kamariyhtye).
+
+          05:19 Sclegel: Kvartetto pianolle ja jousille C-duuri (John Bingham, piano, Elisabeth Perry, viulu, Prunella Pacey, alttoviulu,  ja Dmitri Ferschtman, sello). 
+
+          05:54 Aguado: Johdanto ja rondo kitaralle n:o 1 E-duuri (Lorenzo Micheli).
+
+          06:05 Dowland: Thou mightie God (Suuri Jumala) (Ars Nova/Bo Holten).
+
+          06:15 Geminiani: Konsertto nokkahuilulle, jousille ja continuolle (Maurice Steger, tenorinokkahuilu, ja The English Concert/Lawrence Cummings ).
+
+...

@@ -1,15 +1,38 @@
 metadata:
-  generated_at: '2026-02-06T03:02:11.226781+00:00'
+  generated_at: '2026-02-07T02:58:21.404376+00:00'
   git:
     branch: main
-    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
-  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
+    commit: 148d1996b76f639ef45bba4bf21bfea9fea2e45e
+  data_hash: ccd12d7861beeebae1d8f71e16dabfbb880c6c1b918565e881a2093f561c5611
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-06T23:40:00+02:00'
         end_time: '2026-03-07T07:30:00+02:00'
+        description: |+
+          Wagner: Tristan ja Isolde, ooppera (Birgit Nilsson, sopraano, Fritz Uhl, tenori, Regina Resnik, mezzosopraano, Tom Krause, baritoni, Arnold van Mill, basso, Ernst Kozub, tenori, Peter Klein, tenori, Theodor Kirschbichler, baritoni, ja Waldemar Kmentt, tenori, sekä Wienin musiikinystävien seuran kuoro ja Wienin filharmonikot/Georg Solti).
+
+          03:43 Kuhlau: Kvartetto pianolle ja jousille n:o 2 A-duuri (Kööpenhaminan pianokvartetti).
+
+          04:23 Castelnuovo-Tedesco: Konsertto kahdelle kitaralle ja orkesterille (Kazuhito Yamashita ja Naoko Yamashita sekä Lontoon FO/Leonard Slatkin).
+
+          04:43 W.A. Mozart: Sinfonia n:o 28 C-duuri ja n:o 29 A-duuri. (Dresdenin valtionork./Colin Davis).
+
+          05:31 Piazzolla: Cinco tango sensations. (Astor Piazzolla, bandoneon, ja Kronos-kvartetti).
+
+          05:58 Svendsen: Romeo ja Julia -fantasia (RSO/Ole Kristian Ruud).
+
+          06:13 Beethoven: Sonaatti viululle ja pianolle n:o 4 a-molli (Wolfgang Schneiderhan ja Wilhelm Kempff).
+
+          06:31 Satie: Gymnopédie n:o 1 (Emmanuel Pahud, huilu, ja Mariko Anraku, harppu).
+
+          06:34 Brahms: Neue Liebeslieder Walzer, pianolle 4-kätisesti (Bracha Eden, ja Alexander Tamir, piano). 
+
+          06:55 di Lasso: Missa Tous les regretz (Huelgas-yhtye/Paul van Nevel).
+
+          07:18 J.S. Bach: Sonaatti viululle ja continuolle e-molli (Trio Settecento).
+
       - title: Luomiskertomus
         start_time: '2026-03-07T07:31:00+02:00'
         end_time: '2026-03-07T07:55:00+02:00'
@@ -173,3 +196,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-07T23:40:00+02:00'
         end_time: '2026-03-08T07:00:00+02:00'
+        description: |+
+          Bantock: Sonaatti alttoviululle ja pianolle F-duuri (Colleen) (Sarah-Jane Bradley ja Christian Wilson).
+
+          00:15 Hensel: Gartenlieder (Heidelbergin madrigaalikuoro/Gerald Kegelmann).
+
+          00:30 Mayer: Sinfonia n:o 2 e-molli (Pohjois-Saksan radio-orkesteri/Leo McFall).
+
+          01:01 W.A. Mozart: Jousikvintetot n:o 4 g-molli, 5 D-duuri ja 6 Es-duuri (Budapest-kvartetti ja Milton Katims, alttoviulu). 
+
+          02:19 Thalberg: Les Soirées de Pausilippe (Christoph Keller, piano).
+
+          02:58 Glazunov: Kaksi preludia (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          03:18 Anna Magdalena Bachin nuottikirja (Igor Kipnis, cembalo ja klavikordi, Judith Blegen, sopraano, Benjamin Luxon, baritoni, ja Catharina Meints, viola da gamba).
+
+          05:07 Berg: Viulukonsertto (Itzhak Perlman ja Bostonin SO/Seiji Ozawa).
+
+          05:33 R. Strauss: Don Juan, sinfoninen runo. (Dresdenin valtionork./Karl Böhm).
+
+          05:51 Schumann: Sonaatti viululle ja pianolle n:o 1 a-molli. (Jennifer Koh, viulu, Reiko Uchida, piano).
+
+          06:09 Skrjabin: Prometheus (Anatol Ugorski, piano, sekä Chicagon sinfoniakuoro - ja ork./Pierre Boulez). 
+
+          06:32 Telemann: Sonaatti a-molli (Matthew Wilkie, fagotti, Neal Peres da Costa, cembalo, ja Kees Boersma, kontrabasso).
+
+          06:43 Händel: Sonaatti huilulle ja continuolle G-duuri (Robert Stallman, Karl Bennion ja Edwin Swanborn).
+
+          06:51 Gibbons: The Cryes of London (Lontoon katuhuutoja) (Deller Consort ja Schola Cantorum Basiliensis).
+
+...

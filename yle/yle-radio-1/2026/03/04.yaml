@@ -1,15 +1,52 @@
 metadata:
-  generated_at: '2026-02-06T03:02:10.427890+00:00'
+  generated_at: '2026-02-07T02:58:20.594820+00:00'
   git:
     branch: main
-    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
-  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
+    commit: 148d1996b76f639ef45bba4bf21bfea9fea2e45e
+  data_hash: ccd12d7861beeebae1d8f71e16dabfbb880c6c1b918565e881a2093f561c5611
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-03T23:40:00+02:00'
         end_time: '2026-03-04T06:30:00+02:00'
+        description: |+
+          Telemann: Konsertto trumpetille, viululle, jousille ja continuolle D-duuri (David Kjar, luonnontrumpetti, ja kamariyhtye Rebel/Jörg-Michael Schwarz).
+
+          23:53 Chausson: Sinfoninen runo Viviane (Toulousen Theatre du Capitolen ork./Michel Plasson).
+
+          00:07 Mendelssohn: Kvintetto jousille n:o 1 A-duuri (Hausmusik).
+
+          00:39 Chopin: Balladi n:o 3 As-duuri (Shura Cherkassky, piano).
+
+          00:47 Franck: Psyché et Eros (Philharmonia-ork./Carlo Maria Giulini).
+
+          00:57 Liszt: Preludi ja fuuga nimestä B-A-C-H (Fernando Germani, urut).
+
+          01:12 Shostakovitsh: Jousikvartetto n:o 13 b-molli. (Pacifica-kvartetti).
+
+          01:32 Sibelius: Sinfonia n:o 2 D-duuri (RSO/Sakari Oramo).
+
+          02:14 W.A. Mozart: Juhlavesper C-duuri (Agnes Giebel, sopraano, Christa Ludwig, mezzosopraano, Richard Holm, tenori ja Peter Roth-Ehrang, basso, sekä Kölnin radiokuoro ja -SO/Joseph Keilberth).
+
+          02:44 R. Strauss: Symphonia domestica. (Amsterdamin Concertgebouw-ork./Lorin Maazel).
+
+          03:30 Beethoven (sov. Liszt): Sinfonia n:o 1 C-duuri (Earl Wild, piano). 
+
+          03:58 Donizetti: Nemorinon romanssi "Una furtiva lagrima", oopp. Lemmenjuoma (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          04:03 Veress: Trio jousille (Vilde Frang, viulu, Lawrence Power, alttoviulu, ja Nicolas Altstaedt, sello). 
+
+          04:25 Schubert: Jousikvintetto C-duuri (Lincoln Centerin kamariyhtye).
+
+          05:19 Sclegel: Kvartetto pianolle ja jousille C-duuri (John Bingham, piano, Elisabeth Perry, viulu, Prunella Pacey, alttoviulu,  ja Dmitri Ferschtman, sello). 
+
+          05:54 Aguado: Johdanto ja rondo kitaralle n:o 1 E-duuri (Lorenzo Micheli).
+
+          06:05 Dowland: Thou mightie God (Suuri Jumala) (Ars Nova/Bo Holten).
+
+          06:15 Geminiani: Konsertto nokkahuilulle, jousille ja continuolle (Maurice Steger, tenorinokkahuilu, ja The English Concert/Lawrence Cummings ).
+
       - title: Hartaita säveliä
         start_time: '2026-03-04T06:30:50+02:00'
         end_time: '2026-03-04T06:50:00+02:00'
@@ -24,6 +61,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-04T07:06:00+02:00'
         end_time: '2026-03-04T08:00:00+02:00'
+        description: |+
+          C.P.E. Bach: Allegro sonaatista harpulle G-duuri (Nicanor Zabaleta). 
+
+          J.S. Bach (sov. Reger): Allegro con spirito Brandenburgilaisesta konsertosta n:o 3 G-duuri (Anderson ja Roe -pianoduo).
+
+          Kapsberger: Ballo primo (Matthew Wadsworth, teorbi, ja Mark Levy, viola da gamba).
+
+          Vivaldi: Konsertto jousille ja continuolle C-duuri (Kuudennen kerroksen ork./Anssi Mattila)
+
+          Bonis: Songe (Uni) (Laetitia Grimaldi, sopraano, ja Ammiel Bushakevitz, piano). 
+
+          Sibelius (sov. Eskelinen): Humoreski op.76/4 (Ismo Eskelinen, kitara).
+
+          Saint-Saëns: Saltarelle (Orphei Drängar/Eric Ericson).
+
+          Chopin: Nokturno n:o 16 Es-duuri (Maurizio Pollini, piano).
+
+          Shostakovitsh: Tanssi (Pizzicato) balettisarjasta n:o 1 (Moskovan kamariork.//Constantine Orbelian).
+
+          Bizet: Carmenin habanera oopp. Carmen (Grace Bumbry, mezzosopraano, sekä Pariisin kansallisoopperan kuoro ja ork./Rafael Frühbeck de Burgos).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-04T08:00:00+02:00'
         end_time: '2026-03-04T08:07:00+02:00'
@@ -101,6 +159,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-04T17:20:00+02:00'
         end_time: '2026-03-04T17:35:00+02:00'
+        description: |2+
+
       - title: Jazzklubi
         start_time: '2026-03-04T17:35:00+02:00'
         end_time: '2026-03-04T18:35:00+02:00'
@@ -130,3 +190,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-04T23:40:00+02:00'
         end_time: '2026-03-05T06:30:00+02:00'
+        description: |+
+          Couperin: Konsertto n:o 3 A-duuri kamariyhtyeelle (Jordi Savall, basse de violon, ja Le Concert des Nations). 
+
+          23:58 Meyerbeer: Dinorahin varjoaaria oopp. Dinorah (Rita Streich, sopraano, ja Berliinin RSO/Kurt Gaebel).
+
+          00:07 Pylkkänen: Pieni sarja oboelle ja jousiorkesterille (Aale Lindgren ja RSO/Petri Sakari).
+
+          00:16 Sor: Divertimento kahdelle kitaralle E-duuri (Rohkaisu) (Julian Bream ja John Williams).
+
+          00:31 Andrée: Pianotrio n:o 2 g-molli (Lucia Negro, piano, Berndt Lysell, viulu, ja Ola Karlsson, sello). 
+
+          00:57 Wagner: Siegfriedin surumarssi oopp. Jumalten tuho (Philharmonia-ork./Otto Klemperer).
+
+          01:05 Elgar: Sonaatti uruille n:o 1 G-duuri (Wolfgang Rübsam).
+
+          01:35 Godard: Sarja huilulle ja pianolle B-duuri (Jeffrey Khaner, huilu, ja Hugh Sung, piano).
+
+          01:45 Brahms: Sinfonia n:o 4 e-molli (RSO/Jukka-Pekka Saraste).
+
+          02:28 Sweelinck: Toccata C-duuri; Suurherttuan tanssi; Ricercar; Malle Sijmen; Mein junges Leben hat ein End; Fantasia a-molli; Onder een linde groen; Toccata a-molli; Erbarm dich mein; Poolsche Dans (James David Christie, urut).
+
+          03:33 Berlioz: Alkusoitto oopp. Vapaatuomarit (Baltimoren SO/David Zinman).
+
+          03:47 Schütz: Motetti Die Auferstehung unseres Herren Jesu Christi (Peter Schreier, Hans-Jürgen Wachsmuth, Günter Leib, Eberhard Büchner, Armin Ude, Olaf Bär, Wolf Reinhold, ym. sekä Dresdenin poikakuoro ja Capella Fidicinia/Martin Flämig). 
+
+          04:40 Cimarosa: Il Maestro di cappella (Kapellimestari) (Fernando Corena, basso, ja Covent Garden -oopperan ork./Argeo Quadri).
+
+          04:58 J. Haydn: Sinfonia n:o 103 Es-duuri (Rummunpäristys) (RSO/Santtu-Matias Rouvali).
+
+          05:27 Fauré: Kuutamo (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          05:31 J.S. Bach: Neljä konserttoa kahdelle cembalolle (Jeffrey Kahane ja Robert Levin, cembalo sekä Oregonin Bach-juhlien kamariork./Helmut Rilling).
+
+...

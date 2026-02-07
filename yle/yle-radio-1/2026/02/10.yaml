@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-06T03:02:03.200465+00:00'
+  generated_at: '2026-02-07T02:58:13.893669+00:00'
   git:
     branch: main
-    commit: 4885c897c2afc7f087717278b61ba2efd2257a4b
-  data_hash: b8d9ba600d6d462b7a37c6151f6c920623fb842c63af29b74813f590bb816b67
+    commit: 148d1996b76f639ef45bba4bf21bfea9fea2e45e
+  data_hash: ccd12d7861beeebae1d8f71e16dabfbb880c6c1b918565e881a2093f561c5611
 data:
   Yle Radio 1:
     programmes:
@@ -139,9 +139,11 @@ data:
         end_time: '2026-02-10T12:25:00+02:00'
         description: |-
           Sarjassa ihmetellään jo kadonneiden kaupunkien kulttuurien ja myyttien kiinnostavimpia tarinoita. Amarna -osan vieraana on egyptologi Mia Meri. Toimittaja Jukka Kuosmanen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Suuren fraasirikoskilpailun tulosten analyysi paljastaa, että kielellisiä lipsautuksia on ollut aina'
         start_time: '2026-02-10T12:25:00+02:00'
         end_time: '2026-02-10T12:50:00+02:00'
+        description: |
+          Pasi Heikura syventyy fraasirikoskilpailun tuloksiin yhdessä kielitieteen emeritaprofessori Hannele Dufvan, kääntäjä, kielitieteilijä Arto Kivimäen ja Ylen uutishuoneen toimituspäällikkö Riina Malhotran kanssa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-10T12:50:00+02:00'
         end_time: '2026-02-10T13:00:00+02:00'
@@ -268,6 +270,19 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-02-10T20:35:00+02:00'
         end_time: '2026-02-10T21:00:00+02:00'
+        description: |
+          Venäjä on kiihdyttänyt iskujaan Ukrainan energiainfrastruktuuriin. Sydäntalven keskellä ukrainalaiset sinnittelevät sähkökatkojen keskellä, kylmentyneissä asunnoissa.
+
+          Ohjelmassa haastateltava YK:n kehitysohjelman UNDP:n Ukrainan maajohtaja sanoo, että Ukrainassa on sähkötuotannossa nyt merkittävä vaje, joka koskettaa jo puolta maan väestöstä.
+
+          Ukrainan Suomen-suurlähettilään Mykhailo Vydoinukin mukaan Venäjä on alkanut tehdä Ukrainaan humanitaarista katastrofia, ja toivoo palelevien ihmisten tahdon murtuvan. Suurlähettilään mukaan kotirintama kuitenkin kestää.
+
+          Ohjelmassa kuullaan, miten kiovalaisen perheen arki nyt sujuu.
+          Lopuksi Ukrainan sotaa seuraava sotilasasiantuntija arvioi Putinin tavoitteita ja sitä, mitä energiasektoriin ja siviilikohteisiin kohdistuvat iskut paljastavat Venäjän todellisesta sotilaallisesta tilanteesta rintamalla. 
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov ja Paula Vilén. Äänitarkkailijana on Juha Sarkkinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maxim Fedorov ja Paula Vilén. Äänitarkkailijana on Juha Sarkkinen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Politiikkaradio '
         start_time: '2026-02-10T21:00:01+02:00'
         end_time: '2026-02-10T21:30:00+02:00'
