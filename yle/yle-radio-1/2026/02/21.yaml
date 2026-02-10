@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-09T03:06:26.772442+00:00'
+  generated_at: '2026-02-10T03:07:09.275253+00:00'
   git:
     branch: main
-    commit: ce2e7d63b48b5f28c003e3bb9d8383b029f9cd7c
-  data_hash: d30ff6517adeaeb477ccfe1f61ff09cb2dac934a8b350028e041b9907236ebb2
+    commit: f897e42cfb07374318bc7c0750a99570dddc609c
+  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
 data:
   Yle Radio 1:
     programmes:
@@ -74,6 +74,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-21T09:04:00+02:00'
         end_time: '2026-02-21T09:59:00+02:00'
+        description: |-
+          Durham/Battle: Topsy (Synnöve Rehnfors).
+          Travis: Sixteen tons (Tennessee Ernie Ford).
+          Migliacci/Cini/Marrocchi: Gli occhi dell'amore (Patty Pravo). 
+          Murden: For once in my life (Frank Sinatra).
+          Rogers/Wheeler: Mä lähden stadiin (Lasse Mårtenson ja Carola).
+          Collins: My father (Judy Collins).
+          Scharfenberger/Feltz: Tuulen tie (Kai Hyttinen).
+          Flanagan: Hot Toddy (Ted Heathin orkesteri).
+          Hawkins/Johnson/Dash: Tuxedo junction (The Andrews Sisters). 
+          Schonberger: Kuiskaten (Annikki Tähti).
+          Lennon/McCartney: Michelle (The Beatles).
+          Davenport/Cooley: Fieber (Anita Lindblom).
+          James: Suspicious minds (Elvis Presley).
+          Ulvaeus/Andersson: Gracias por la musica (Abba). 
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-21T09:59:00+02:00'
         end_time: '2026-02-21T10:00:00+02:00'
@@ -152,7 +167,7 @@ data:
         end_time: '2026-02-21T16:07:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2026-02-21T16:07:00+02:00'
-        end_time: '2026-02-21T17:00:00+02:00'
+        end_time: '2026-02-21T16:59:59+02:00'
         description: |+
           Offenbach: Belle nuit, o nuit d'amour (Raphaela Gromes ja Wen-Sinn Yang, sello, sekä Julian Riem, piano).
 
@@ -176,6 +191,9 @@ data:
 
           Bowen: Humoresque (Humoreski) sarj. viululle ja pianolle d-molli (Chloe Hanslip ja Danny Driver).
 
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-02-21T16:59:59+02:00'
+        end_time: '2026-02-21T17:00:00+02:00'
       - title: 'Marko Gustafsson: Vieraana toimittaja Justas Stasevskij'
         start_time: '2026-02-21T17:00:00+02:00'
         end_time: '2026-02-21T17:53:00+02:00'

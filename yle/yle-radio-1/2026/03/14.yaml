@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-09T03:06:31.669898+00:00'
+  generated_at: '2026-02-10T03:07:13.416353+00:00'
   git:
     branch: main
-    commit: ce2e7d63b48b5f28c003e3bb9d8383b029f9cd7c
-  data_hash: d30ff6517adeaeb477ccfe1f61ff09cb2dac934a8b350028e041b9907236ebb2
+    commit: f897e42cfb07374318bc7c0750a99570dddc609c
+  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
 data:
   Yle Radio 1:
     programmes:
@@ -111,6 +111,9 @@ data:
         end_time: '2026-03-14T16:07:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2026-03-14T16:07:00+02:00'
+        end_time: '2026-03-14T16:59:59+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-03-14T16:59:59+02:00'
         end_time: '2026-03-14T17:00:00+02:00'
       - title: Marko Gustafsson
         start_time: '2026-03-14T17:00:00+02:00'

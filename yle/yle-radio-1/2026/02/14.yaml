@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-09T03:06:25.251943+00:00'
+  generated_at: '2026-02-10T03:07:07.785041+00:00'
   git:
     branch: main
-    commit: ce2e7d63b48b5f28c003e3bb9d8383b029f9cd7c
-  data_hash: d30ff6517adeaeb477ccfe1f61ff09cb2dac934a8b350028e041b9907236ebb2
+    commit: f897e42cfb07374318bc7c0750a99570dddc609c
+  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
 data:
   Yle Radio 1:
     programmes:
@@ -45,7 +45,7 @@ data:
         start_time: '2026-02-14T07:31:00+02:00'
         end_time: '2026-02-14T07:55:00+02:00'
         description: |-
-          Hanna Weseliuksen Pronominit-romaanin moderni sirpaleinen rakenne kuvastaa nykyaikaamme ilmastonmuutoksen keskellä. Pääosin lentokoneeseen sijoittuva tarina kertoo matkustajien muistoista ja tulevaisuuden toiveista. 
+          Hanna Weseliuksen Pronominit-romaanin sirpaleinen rakenne kuvastaa nykyaikaamme ilmastonmuutoksen keskellä. Pääosin lentokoneeseen sijoittuva tarina kertoo matkustajien muistoista ja tulevaisuuden toiveista. 
 
           Matkustamon penkkirivin numeron ja kirjaimen mukaan nimetyillä romaanin henkilöillä on kerrottavanaan omat tarinat, joissa elämän ilojen ja surujen lisäksi kuuluu huoli millaiseen maailmaan lentokoneet, nykyaika ja sen yksilökeskeisyys meidät lopulta vievätkään.
 
@@ -144,7 +144,7 @@ data:
         start_time: '2026-02-14T13:00:00+02:00'
         end_time: '2026-02-14T13:55:00+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai. Musiikkivieraana säveltäjä, viulisti ja äänisuunnittelija Sanna Salmenkallio. Toimittajana Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-14T13:55:00+02:00'
         end_time: '2026-02-14T14:00:00+02:00'
@@ -192,7 +192,7 @@ data:
         end_time: '2026-02-14T16:07:00+02:00'
       - title: Faunin iltapäivä
         start_time: '2026-02-14T16:07:00+02:00'
-        end_time: '2026-02-14T17:00:00+02:00'
+        end_time: '2026-02-14T16:59:59+02:00'
         description: |-
           Linkola: Ystävyys bal. Ronja Ryövärintytär (Suomen Kansallisoopperan ork./Jukka Linkola).
 
@@ -217,6 +217,9 @@ data:
           Virtanen: Minun ystäväni (Tornion Mieskuoro ja Hannulan koulun musiikkiluokat/Timo Perkkiö, sekä Kaisa Alasaarela, piano).
 
           Williams: Flying elok. E.T. (The Extra-Terrestrial) (Ork./John Williams).
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-02-14T16:59:59+02:00'
+        end_time: '2026-02-14T17:00:00+02:00'
       - title: Marko Gustafssonin vieraana teatteriohjaaja, näytelmäkirjailija Esa Leskinen
         start_time: '2026-02-14T17:00:00+02:00'
         end_time: '2026-02-14T17:46:00+02:00'

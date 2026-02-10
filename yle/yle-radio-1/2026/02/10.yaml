@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-09T03:06:23.901590+00:00'
+  generated_at: '2026-02-10T03:07:06.962494+00:00'
   git:
     branch: main
-    commit: ce2e7d63b48b5f28c003e3bb9d8383b029f9cd7c
-  data_hash: d30ff6517adeaeb477ccfe1f61ff09cb2dac934a8b350028e041b9907236ebb2
+    commit: f897e42cfb07374318bc7c0750a99570dddc609c
+  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
 data:
   Yle Radio 1:
     programmes:
@@ -126,8 +126,34 @@ data:
       - title: 'Klasariparatiisi - Eva Tigerstedt: Klassinen saksofoni'
         start_time: '2026-02-10T11:00:00+02:00'
         end_time: '2026-02-10T11:57:00+02:00'
-        description: |-
+        description: |
+          Jazzissa saksofoni on vähintään kuningatar. Miten klassisessa musiikissa? Saksofonin historia alkaa 1800-luvun alkupuolelta, ja kaikesta saamme kiittää Adolphe Saxia. Miten saksofonin klassinen historia kehkeytyi ja minkälaista musiikkia sille on sävelletty, siitä saadan pieni käsitys Klasariparatiisissa. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Walter Gross: Tenderly (Stan Getz, saksofoni, Lou Levy, piano, Leroy Vinnegar, kontrabasso, Shelly Manne,rummut).
+
+          Trad., sov.Stan Getz: Ack Värmeland du sköna (Dear old Stockholm) (Miles Davis, trumpetti, John Coltrane, tenorisaksofoni, Red Garland, piano, Paul Chambers, kontrabasso, Philly Joe Jones, rummut). 
+
+          Fernande Decruck: Toccata (Michael Duke, alttosaksofoni, David Howie, piano).   
+
+          Georges Bizet: Prelude, Arlesitar-orkesterisarjasta no 1 (Berliinin filharmonikot/Herbert von Karajan).
+           
+          Claude Debussy: Rapsodia alttosaksofonille ja orkesterille (Theodore Kerkezos, saksofoni ja Lontoon sinfoniaorkesteri/Juri Simonov).
+
+          Harry Akst: Dinah (Josephine Baker, laulu, Olivier's Boys Jazz-yhtye).
+
+          Darius Milhaud: La Creation du monde, 1-näytöksinen baletti op.81 (Schönberg Ensemble/ Reinbert de Leeuw).
+
+          Henri Tomasi: Finaali, Konsertosta saksofonille ja orkesterille (Marcel Mule, alttosaksofoni, ja Marthe Lenom, piano).
+
+          Tapani Länsiö: Aamusumu nousee, Pastoraalisarjasta saksofonikvartetille (Olli-Pekka Tuomisalo, saksofonit).
+
+          Girolamo Frescobaldi, sov. Roberto Frati:  Se l'aura spira tutta vezzosa (Jos tuuli henkäilee) (The Saexophones).
+
+          Jennifer Higdon: Lullaby, kahdelle alttosaksofonille ja pianolle (Michael Duke ja Anna Duke, alttosaksofoni, David Howie, piano).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-10T11:57:00+02:00'
         end_time: '2026-02-10T12:00:00+02:00'
@@ -205,10 +231,12 @@ data:
         start_time: '2026-02-10T17:00:00+02:00'
         end_time: '2026-02-10T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Viime viikolla virisi keskustelu eläkkeiden leikkaamisesta, mutta oikeastaan kyse on isommasta: miten oikeudenmukaiseksi me yhteiskunnan vielä koemme. Sitran mukaan nyt olisi aika uudelle yhteiskuntasopimukselle. Mitä tämä tarkoittaa? Reetta Röngän vieraana johtava asiantuntija Elina Kiiski-Kataja Sitrasta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-10T17:20:00+02:00'
         end_time: '2026-02-10T17:35:00+02:00'
+        description: |2+
+
       - title: Kissankehto - Susanna Vainiola
         start_time: '2026-02-10T17:35:00+02:00'
         end_time: '2026-02-10T18:30:00+02:00'
@@ -295,7 +323,19 @@ data:
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: Uudet levyt
         start_time: '2026-02-10T22:25:00+02:00'
-        end_time: '2026-02-10T23:19:00+02:00'
+        end_time: '2026-02-10T23:18:29+02:00'
+        description: |
+          Gaup-Juuso/Iversen: Boares suotna (Inga-Maret Gaup-Juuso ja Oulu All Star Big Band). 
+          Valkeapää: Davas (Inga-Maret Gaup-Juuso, Jukka Eskola, ja Oulu All Star Big Band/Jaakko Jauhiainen). 
+          Mattus-Kumpunen: Jiöcc ton teadak (Anna Lumikivi ja Loiskis). 
+          Lumikivi: Vuä'd, vuä'd päärnzam (Anna Lumikivi ja Lapin kamariork.)
+          Morottaja/Mattus-Kumpunen/Lumikivi: Suonasuonjareh - Suoknasuotnjarat - Suömmsuön (Ulpu Mattus-Kumpunen, Anna Lumikivi, Essi Morottaja, ja Lapin kamariork.). 
+          Kansansäv.: Gäddans klang (Hauen kalske) (Maria Kalaniemi ja Pekko Käppi). 
+          Kansansäv.: Skogens släkte (Metsän väki) (Maria Kalaniemi ja Pekko Käppi). 
+          Kansansäv.: Knipan (Telkkä) (Maria Kalaniemi ja Pekko Käppi). 
+          Blom/Koskelainen: Äitimaa (Tuuletar). 
+          Säilynoja/Koskelainen: Kuule (Tuuletar). 
+          Koskelainen: Kevään kajo (Tuuletar). 
       - title: Yöklassinen
         start_time: '2026-02-10T23:40:00+02:00'
         end_time: '2026-02-11T06:30:00+02:00'

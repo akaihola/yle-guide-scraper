@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-09T03:06:26.329165+00:00'
+  generated_at: '2026-02-10T03:07:08.753829+00:00'
   git:
     branch: main
-    commit: ce2e7d63b48b5f28c003e3bb9d8383b029f9cd7c
-  data_hash: d30ff6517adeaeb477ccfe1f61ff09cb2dac934a8b350028e041b9907236ebb2
+    commit: f897e42cfb07374318bc7c0750a99570dddc609c
+  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
 data:
   Yle Radio 1:
     programmes:
@@ -50,7 +50,8 @@ data:
         start_time: '2026-02-19T06:50:00+02:00'
         end_time: '2026-02-19T06:59:59+02:00'
         description: |-
-          Pastori, koomikko Ville Kormilainen, Helsinki
+          "Riittää, että olemme tässä"
+          Pastori, koomikko Ville Kormilainen Helsingistä kertoo pappeuden herättämistä ristiriitaisista tunteista ja puhuu heikkoudessa paljastuvasta vahvuudesta.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-19T07:00:00+02:00'
         end_time: '2026-02-19T07:05:00+02:00'
@@ -176,7 +177,8 @@ data:
         start_time: '2026-02-19T18:50:00+02:00'
         end_time: '2026-02-19T19:00:00+02:00'
         description: |-
-          Tuottaja-toimittaja Riitta-Sisko Aartolahti, Hämeenlinna
+          "Tarinat ovat ihmisyyden rakennusainetta"
+          Tuottaja-toimittaja Riitta-Sisko Aartolahti Hämeenlinnasta puhuu ääneen lukemisen monista hyödyistä ja iloista sekä tarinoihin uppoutumisen lumosta.
       - title: Turun sellokilpailu, ensimmäinen finaali
         start_time: '2026-02-19T19:02:00+02:00'
         end_time: '2026-02-19T21:00:00+02:00'
