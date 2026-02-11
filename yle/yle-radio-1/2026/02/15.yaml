@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-10T03:07:07.990337+00:00'
+  generated_at: '2026-02-11T03:06:58.950782+00:00'
   git:
     branch: main
-    commit: f897e42cfb07374318bc7c0750a99570dddc609c
-  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
+    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
+  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
 data:
   Yle Radio 1:
     programmes:
@@ -209,7 +209,7 @@ data:
         end_time: '2026-02-15T17:00:00+02:00'
       - title: Etnokonsertteja
         start_time: '2026-02-15T17:00:00+02:00'
-        end_time: '2026-02-15T18:00:00+02:00'
+        end_time: '2026-02-15T17:57:15+02:00'
         description: |
           AySay on kööpenhaminalainen nuorten muusikoiden yhtye, jonka solistina on tanskalais-kurdilais-turkkilainen Luna Ersahini (s. 1995). Yhtye yhdistelee kurdilaista ja turkkilaista perinnemusiikkia sekä pohjoismaista tanssimusiikkia. AySay rakentaa siltoja kulttuurien välille ja juhlistaa niiden monimuotoisuutta. Konsertti on taltioitu Womex-festivaalilla Tampereella 23.10.2025. 
       - title: Jazzklubi
@@ -225,7 +225,7 @@ data:
         start_time: '2026-02-15T20:00:00+02:00'
         end_time: '2026-02-15T21:00:00+02:00'
         description: |-
-          Messun viettää emerituspiispa Teemu Sippo SCJ. Urkurina diakoni Marko Pitkäniemi.
+          Messun viettää emerituspiispa Teemu Sippo SCJ. Kanttorina ja urkurina diakoni Marko Pitkäniemi.
       - title: Uutispodcast
         start_time: '2026-02-15T21:00:30+02:00'
         end_time: '2026-02-15T21:24:00+02:00'
@@ -262,16 +262,19 @@ data:
           Girolamo Frescobaldi, sov. Roberto Frati:  Se l'aura spira tutta vezzosa (Jos tuuli henkäilee) (The Saexophones).
 
           Jennifer Higdon: Lullaby, kahdelle alttosaksofonille ja pianolle (Michael Duke ja Anna Duke, alttosaksofoni, David Howie, piano).
-      - title: 'Sari Valto '
+      - title: 'Sari Valto:  Klassikkoromaani vai juorulehti? Miten kulttuurimakumme syntyy? '
         start_time: '2026-02-15T22:20:00+02:00'
-        end_time: '2026-02-15T23:14:00+02:00'
-        description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Romano mirits
-        start_time: '2026-02-15T23:26:00+02:00'
-        end_time: '2026-02-15T23:39:30+02:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        end_time: '2026-02-15T23:13:56+02:00'
+        description: |+
+          Sari Valto:  Klassikkoromaani vai juorulehti? Miten kulttuurimakumme syntyy? 
+
+          Millaisesta musiikista pidät? Tai tykkäätkö lukea kirjoja? Oletko koskaan miettinyt, miksi pidät sellaisesta kulttuurista kuin pidät? Sari Valto pureutuu nyt kulttuurimakuun: miten se oikeastaan syntyy.
+
+      - title: 'Romano mirits: Perustana perhe – ennaltaehkäisevää työtä romaniperheiden tukena'
+        start_time: '2026-02-15T23:24:51+02:00'
+        end_time: '2026-02-15T23:39:08+02:00'
+        description: |
+          Tässä Romano Mirits-ohjelmassa vieraana on Henry Jauhiainen, PePe-hankkeen (Perustana perhe) projektikoordinaattori. Keskustelussa nousee esiin ennaltaehkäisevän perhetyön merkitys romani-perheille: neljän ryhmätapaamisen aikana on syntynyt aitoja kohtaamisia, avointa keskustelua perheiden arjen haasteista sekä tärkeää vertaistukea. Haastattelu välittää lämpimän ja positiivisen kuvan työstä, jossa perheet ja lapset ovat yhdessä keskiössä – ja jossa päästään tarttumaan asioihin jo juurisyiden tasolla. Toimittajana Dimitri Grönfors
       - title: Yöklassinen
         start_time: '2026-02-15T23:40:00+02:00'
         end_time: '2026-02-16T06:30:00+02:00'

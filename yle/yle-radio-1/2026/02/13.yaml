@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-10T03:07:07.578144+00:00'
+  generated_at: '2026-02-11T03:06:58.157163+00:00'
   git:
     branch: main
-    commit: f897e42cfb07374318bc7c0750a99570dddc609c
-  data_hash: 0c2de319d1a1ab8545bebfa1270cbbfbfb2c1433c2d1dd92a7fe3204e5249b81
+    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
+  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
 data:
   Yle Radio 1:
     programmes:
@@ -105,7 +105,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-13T09:04:00+02:00'
         end_time: '2026-02-13T09:59:00+02:00'
-      - title: Kalle Haatanen
+        description: |-
+          Young: My foolish heart (Tony Bennett).
+          Hadzidakis: Ta pedia tu Pirea (Nana Mouskouri).
+          Iglesias: Tällaista on rakkaus (Irmeli Mäkelä).
+          Luck/Szego: The man who knows too much (Tom Jones).
+          Albert/Gaste: Sombras (Paloma San Basilio).
+          Donaldson: Rakasta tai hylkää (Olavi Virta).
+          Holland/Dozier/Holland: When the lovelight starts shining through his eyes (Diana Ross & The Supremes).
+          Carste: Trumpettiserenadi (Ossi Runne).
+          Young: Blue star (Julie Dawn).
+          Bourgeois: C'est rigolo (Brigitte Bardot).
+          Vainio: Yksinäinen saarnipuu (Juha Vainio).
+          Bruhn: Hans im Glück (Mireille Mathieu).
+          Lange/Trapani: Cara mia (Fredi).
+          Andersson/Ulvaeus: Thank you for the music (Abba).
+      - title: 'Kalle Haatanen: Konekivääri Suomen sodissa'
         start_time: '2026-02-13T10:00:00+02:00'
         end_time: '2026-02-13T10:55:00+02:00'
         description: |-
@@ -199,7 +214,7 @@ data:
         start_time: '2026-02-13T19:02:00+02:00'
         end_time: '2026-02-13T21:00:00+02:00'
         description: |-
-          Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Noora Hirn.
+          Helsingin kaupunginorkesteri, joht. Hannu Lintu, Daniel Lozakovich, viulu. Pjotr Tšaikovski: Vojevoda op. 78, sinfoninen balladi orkesterille sekä Viulukonsertto. Sauli Zinovjev: Taste of Metal (ke.). Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Noora Hirn.
       - title: 'Politiikkaradio '
         start_time: '2026-02-13T21:00:00+02:00'
         end_time: '2026-02-13T21:30:00+02:00'
