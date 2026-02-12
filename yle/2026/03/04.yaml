@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-11T03:07:04.319488+00:00'
+  generated_at: '2026-02-12T03:06:37.691754+00:00'
   git:
     branch: main
-    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
-  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
+    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
+  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
 data:
   '':
     programmes:
@@ -174,13 +174,32 @@ data:
         start_time: '2026-03-04T18:50:00+02:00'
         end_time: '2026-03-04T19:00:00+02:00'
         description: |-
-          Seurakuntapastori Minnamaria Tammisalo, Tampere
+          "Rakkauden apostoli"
+          Seurakuntapastori Minnamaria Tammisalo Tampereelta puhuu elämänsä voimaihmisistä sekä meistä jokaisesta maailmaan jäävistä jäljistä.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-04T19:00:00+02:00'
         end_time: '2026-03-04T19:02:00+02:00'
-      - title: Kotimainen konsertti
+      - title: Oulu Sinfonia konsertoi – Kaksoiskonsertto yhdelle
         start_time: '2026-03-04T19:02:00+02:00'
         end_time: '2026-03-04T21:00:00+02:00'
+        description: |-
+          Kolme ajatonta klassikkoa ja yksi nykymusiikin merkkiteos: kapellimestari Simon Crawford-Phillipsin Oulun-debyytissä on kaikkea. Huippusuositut Unkarilaiset tanssit tekivät Johannes Brahmsista hetkessä viihdemusiikin valtiaan. Robert Schumannin neljännen sinfonian innovatiiviset keksinnöt ymmärrettiin vasta vuosikymmeniä myöhemmin.
+
+          Brittiläisen romantiikan suuri tuntematon, sävykkäiden sointien mestari Ruth Gipps on tullut tutuksi Oulu Sinfonian kausiohjelmissa. Perienglantilaista eleganssia tulviva sävelruno Song for Orchestra kutsuu luonnonrauhaan miltei sibeliaanisilla vivahteillaan. Ruotsin säveltaiteen grand old manin Daniel Börtzin kaksoiskonsertto on yksittäistapaus: varta vasten viulisti Malin Bromanille syntynyt Double Concerto for One kysyy kahden soittimen solistista hallintaa – Bromanilta se tunnetusti luonnistuu.
+
+          Esiintyjät
+          Simon Crawford-Phillips kapellimestari
+          Malin Broman viulu ja alttoviulu
+          Oulu Sinfonia
+
+          Ohjelma
+          Johannes Brahms: Kolme Unkarilaista tanssia
+          Daniel Börtz: Double Concerto for One
+          —
+          Ruth Gipps: Song for Orchestra
+          Robert Schumann: Sinfonia nro 4 d-molli op. 120
+
+          Kuvassa Malin Broman (© Mats Bäcker)
       - title: 'Politiikkaradio '
         start_time: '2026-03-04T21:00:00+02:00'
         end_time: '2026-03-04T21:30:00+02:00'

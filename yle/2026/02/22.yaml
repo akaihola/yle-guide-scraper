@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-11T03:07:01.372498+00:00'
+  generated_at: '2026-02-12T03:06:34.563802+00:00'
   git:
     branch: main
-    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
-  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
+    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
+  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
 data:
   '':
     programmes:
@@ -68,6 +68,15 @@ data:
       - title: Aamusoitto
         start_time: '2026-02-22T09:03:00+02:00'
         end_time: '2026-02-22T09:53:00+02:00'
+        description: |+
+          Tartini: Pastoraali A-duuri (Andrew Manze, viulu).
+
+          Locatelli: Andante sonaatista viululle ja continuolle F-duuri (Trio Settecento). 
+
+          W.A. Mozart: Exsultate jubilate F-duuri. (Teresa Wakim, sopraano, ja Handel and Haydn Society/Harry Christophers).
+
+          De Fesch: Konsertto viululle, jousille ja continuolle E-duuri (Musica ad Rhenum).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-02-22T09:56:00+02:00'
         end_time: '2026-02-22T09:59:00+02:00'
@@ -79,6 +88,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-02-22T11:00:00+02:00'
         end_time: '2026-02-22T11:59:00+02:00'
+        description: |-
+          Rota: Taming of the shrew (Nino Rota Grand Orchestra).
+          Rota: A time for us (Andy Williams).
+          Shemer: Jerusalem (Carola).
+          Jobim: Taas on hiljaisuus (Erkki Liikanen).
+          Scharfenberger: Sweety (Marjatta Leppänen).
+          Joel: Honesty (Billy Joel).
+          Desmond: I New York (Monica Zetterlund).
+          Simon: The only living boy in New York (Simon and Garfunkel).
+          Rodgers: Manhattan (Ella Fitzgerald).
+          Davies: Days (The Kinks).
+          Andersson/Ulvaeus: The winner takes it all (Abba).
+          Mercury: Love of my life (Queen).
+          Charles: Kuuma kissa (Maarit).
+          Smith: That lucky old sun (Ray Charles).
+          Rodgers: My heart stood still (Chet Baker).
       - title: Yle Uutiset ja sää
         start_time: '2026-02-22T12:00:00+02:00'
         end_time: '2026-02-22T12:05:00+02:00'
@@ -97,13 +122,13 @@ data:
         end_time: '2026-02-22T14:55:00+02:00'
         description: |-
           Karlzon: Who we are (Viktoria Tolstoy, laulu, ja Jacob Karlzon, piano). 
-          Karlzon: Fallen empire (Viktoria Tolstoy ja Jacob Karlzon). 
           Lampela: Steady-loose (Jussi Lampela Ensemble). 
           Lampela: Poly-uni (Jussi Lampela Ensemble). 
           Björnskov: Human rights (Chris Cheek ja Human Being Human). 
           Haavisto: Kuer changes (Joonas Haavisto, piano). 
           Huopainen: On the bridge (Arttu Huopainen South-East Corner). 
           Sarmanto: Sea birds (Juhani Aaltonen ja Heikki Sarmanto). 
+          Talvi: In tune (Tuomas Talvi, Arttu Huopainen, Pyry Brandt, Jesse Vilhomaa, Sami Leponiemi). 
       - title: Ykköskolumni
         start_time: '2026-02-22T14:55:00+02:00'
         end_time: '2026-02-22T15:00:00+02:00'

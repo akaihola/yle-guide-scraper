@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-11T03:07:01.635440+00:00'
+  generated_at: '2026-02-12T03:06:35.171416+00:00'
   git:
     branch: main
-    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
-  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
+    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
+  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
 data:
   '':
     programmes:
@@ -96,6 +96,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-23T08:07:00+02:00'
         end_time: '2026-02-23T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-02-23T09:00:00+02:00'
         end_time: '2026-02-23T09:03:00+02:00'
@@ -150,7 +152,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-23T16:07:00+02:00'
         end_time: '2026-02-23T16:59:00+02:00'
-        description: |+
+        description: |
           Süssmayr: Menuetti - Trio teoks. Sinfonia turchesca (Turkkilainen sinfonia) (Concerto Köln ja Sarband).
 
           Bonds: The dream portraits (Malcolm J. Merriweather, baritoni, ja Ashley Jackson, harppu).
@@ -159,18 +161,17 @@ data:
 
           Farrenc: Adagio - Allegro nonetosta Es-duuri (Philippe Bernold, huilu, Francois Leleux, oboe, Romain Guyot, klarinetti, Andre Cazalet, käyrätorvi, Gilbert Audin, fagotti, Guillaume Sutre, viulu, Miguel da Silva, alttoviulu, Francois Salque, sello, ja Vincent Pasquier, kontrabasso).
 
-          Händel: Vieni, o figlio, oopp. Ottone (Lorraine Hunt, mezzosopraano, ja Philharmonia Baroque Orchestra/Micholas McGegan). 
+          Händel: Gismondan aaria "Vieni, o figlio" oopp. Ottone (Lorraine Hunt, sopraano, ja Philharmonia Baroque Orchestra/Micholas McGegan). 
 
           Presti: Bagatelle (Olivier Chassain ja Stein-Erik Olsen, kitara). 
 
           O. Merikanto: Onni (Tiia Maria Saari, sopraano, Kullervo Latvanen, baritoni, ja Miikka Lehtoaho, piano). 
 
-          Saint-Saens: Gavotti (Misha Maisky, sello, ja Orpheus-kamariorkesteri).
+          Saint-Saens: Gavotti (Misha Maisky, sello, ja Orpheus-kamariork.).
 
           Stanford: The blue bird (Sinilintu) (Octopus/Bart van Reyn, ja Grace Davidson, sopraano).
 
           Grainger (sov.): Country gardens (Maalaispuutarhoja) (Birminghamin SO/Simon Rattle).
-
       - title: Uutispodcast
         start_time: '2026-02-23T17:00:00+02:00'
         end_time: '2026-02-23T17:20:00+02:00'
@@ -181,11 +182,11 @@ data:
         end_time: '2026-02-23T17:35:00+02:00'
         description: |2+
 
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Musiikin myrsky'
         start_time: '2026-02-23T17:35:00+02:00'
         end_time: '2026-02-23T18:35:00+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Edellisessä Keinuvan talon jaksossa puhutteli musiikin kauneus, tällä kertaa päädymme musiikillisen myrskyn silmään. Keli on epävakaista: ukkosta, ääri-ilmiöitä, sadetta ja tuulta. Lauluntekijälle myrsky tarjoaa metaforan elämän töyssyille. Toimittajana Mika Kauhanen. Uusinta elokuulta 2025.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-02-23T18:35:00+02:00'
         end_time: '2026-02-23T18:50:00+02:00'

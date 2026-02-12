@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-11T03:07:00.879393+00:00'
+  generated_at: '2026-02-12T03:06:34.069068+00:00'
   git:
     branch: main
-    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
-  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
+    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
+  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
 data:
   '':
     programmes:
@@ -39,7 +39,7 @@ data:
 
           07:19 Telemann: Triosonaatti G-duuri (Battalia).
 
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Jarkko Volanen - Vainovalkeat'
         start_time: '2026-02-21T07:31:00+02:00'
         end_time: '2026-02-21T07:55:00+02:00'
         description: |-
@@ -88,7 +88,7 @@ data:
           Lennon/McCartney: Michelle (The Beatles).
           Davenport/Cooley: Fieber (Anita Lindblom).
           James: Suspicious minds (Elvis Presley).
-          Ulvaeus/Andersson: Gracias por la musica (Abba). 
+          Andersson/Ulvaeus: Gracias por la musica (Abba). 
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-21T09:59:00+02:00'
         end_time: '2026-02-21T10:00:00+02:00'
@@ -119,9 +119,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-21T12:00:00+02:00'
         end_time: '2026-02-21T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Kalevala ja Lumenlaulaja heijastelevat esikristillisen ajan maailmankuvaa'
         start_time: '2026-02-21T12:05:00+02:00'
         end_time: '2026-02-21T13:00:00+02:00'
+        description: |-
+          Elias Lönnrotin luomassa kansalliseepos Kalevalassa näkyy vaikutteet esikristillisen ajan uskomuksista kristinuskoon. Emmi Itärannan fantasiaromaani Lumenlaulaja on uudelleenkirjoitus Kalevalasta, johon on yhtä lailla sulautunut elementtejä kansanperinteestä ja -uskosta. Millaisia yhteyksiä aikamme uushengellisyydellä on kaukaiseen historiaan? Millaisena muinaisen ihmisen monien jumaluuksien värittämä luontosuhde näyttäytyy aikaamme vasten?
+          Muinaisessa mytologiassa teosten kautta samoilevat Marja Vehkasen kanssa kirjailija Emmi Itäranta ja folkloristiikan professori Lotte Tarkka.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-21T13:55:00+02:00'
         end_time: '2026-02-21T14:00:00+02:00'
@@ -154,9 +157,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-21T15:25:00+02:00'
         end_time: '2026-02-21T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää:  Axel, tulppi ja kolmois-Schalkow'
         start_time: '2026-02-21T15:30:00+02:00'
         end_time: '2026-02-21T15:55:00+02:00'
+        description: |
+          Aristoteleen kantapää perehtyy taitoluistelusanastoon. Mistä tulevat taitoluisteluselostuksessa niin usein kuullut lutzit ja tulpit? Pasi Heikuran haastateltavana taitoluisteluvalmentaja Anuliisa Uotila. Toimittajana Pasi Heikura ja Kaisa Pulakka. Ohjelma on uusinta maaliskuulta 2011.
       - title: Yle News
         start_time: '2026-02-21T15:55:00+02:00'
         end_time: '2026-02-21T15:58:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-11T03:07:01.901005+00:00'
+  generated_at: '2026-02-12T03:06:35.400005+00:00'
   git:
     branch: main
-    commit: 84169dbfc23b6828734c470241d9c0f9ac59218b
-  data_hash: 006a45828278ca83cd39267a81ba88d3afeb4d078de8692360f6b492c232b197
+    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
+  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
 data:
   '':
     programmes:
@@ -88,13 +88,15 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-02-24T08:07:00+02:00'
         end_time: '2026-02-24T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-02-24T09:00:00+02:00'
         end_time: '2026-02-24T09:03:00+02:00'
       - title: Muistojen bulevardi
         start_time: '2026-02-24T09:04:00+02:00'
         end_time: '2026-02-24T09:59:00+02:00'
-        description: |+
+        description: |
           Kansansäv.: Morning has broken (Cat Stevens).
           Pereira: Falsa baiana (Jarkko Toivonen).
           Anka: Ogni giorno (Paul Anka).
@@ -103,17 +105,16 @@ data:
           Mårtenson: Hyvä päivä tänään (Lasse Mårtenson ja Eija Merilä).
           Lundberg: Flickorna i Småland (The Delta Rhythm Boys).
           Thielemans: Bluesette (Sarah Vaughan). 
-          Rickygianco: Kuin filminauhaa (Danny).
+          Gianco: Kuin filminauhaa (Danny).
           Newman: I'm gonna file my claim (Marilyn Monroe).
           Rahkola: Päivä kerrallaan (Katri Helena). 
           Barros: Menino das laranjas (Elis Regina).
-          Hilliard & Mann: Somebody bad stole de wedding bell (Eartha Kitt).
+          Hilliard/Mann: Somebody bad stole de wedding bell (Eartha Kitt).
           Migliacci: Povera piccola (Gianni Morandi).
           Louiguy: C'est le destin qui commande (Juliette Greco).
           Koskimaa: Vaaralliset huulet (Reijo Taipale).
           Porter: Let's do it (let's fall in love) (Peggy Lee).
           Lightfoot: Early mornin' rain (Peter, Paul and Mary).
-
       - title: Sari Valto
         start_time: '2026-02-24T10:00:00+02:00'
         end_time: '2026-02-24T10:55:00+02:00'
