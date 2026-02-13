@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-12T03:06:35.171416+00:00'
+  generated_at: '2026-02-13T03:07:00.253321+00:00'
   git:
     branch: main
-    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
-  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
+    commit: 55b9dd0f79ec5f363f230bc4e272efb6153cf9ac
+  data_hash: 6dcc7095904de7a674d4d25bb7ccd58376bd75811104820dcb9562063c76e63c
 data:
   '':
     programmes:
@@ -58,6 +58,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-23T06:30:50+02:00'
         end_time: '2026-02-23T06:50:00+02:00'
+        description: |+
+          Tuntematon: Oi Pyhä Henki, pyydämme (virsi 446) (Cetus Noster).
+
+          Tuntematon: Jeesus, ruokit sanallasi (virsi 305) (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Koraalitoisinto: Jeesus armon soi (virsi 265) (Sauli Tiilikainen, baritoni ja Kari Jerkku, urut).
+
+          I. Hannikainen: Isä meidän (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Sippola: Totuuden Henki (Laura Sippola ja Tuki).
+
       - title: Aamuhartaus
         start_time: '2026-02-23T06:50:00+02:00'
         end_time: '2026-02-23T06:59:59+02:00'
@@ -112,7 +123,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-23T10:52:00+02:00'
         end_time: '2026-02-23T11:00:00+02:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Adolphe Saxin nelinkertainen riemu'
         start_time: '2026-02-23T11:00:00+02:00'
         end_time: '2026-02-23T11:57:00+02:00'
         description: |-
@@ -120,6 +131,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-23T11:57:00+02:00'
         end_time: '2026-02-23T12:00:00+02:00'
+        description: |
+          Ote artikkelikokoelmasta Kriittisen ajattelun aika (Herman Raivio: Paremmin tietävät: kritiikki ammattina). Suomen arvostelijain liiton vuosikirja, 2025.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-23T12:00:00+02:00'
         end_time: '2026-02-23T12:05:00+02:00'

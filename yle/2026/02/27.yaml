@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-12T03:06:36.172242+00:00'
+  generated_at: '2026-02-13T03:07:01.068662+00:00'
   git:
     branch: main
-    commit: fce441682f6b35fbb6574dd46aaca00038e64f20
-  data_hash: 26a386c85b5f96027e91b58140917aa798de17d17c1e81013e10a3af953f0a92
+    commit: 55b9dd0f79ec5f363f230bc4e272efb6153cf9ac
+  data_hash: 6dcc7095904de7a674d4d25bb7ccd58376bd75811104820dcb9562063c76e63c
 data:
   '':
     programmes:
@@ -105,6 +105,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-02-27T11:57:00+02:00'
         end_time: '2026-02-27T12:00:00+02:00'
+        description: |
+          Ote artikkelikokoelmasta Kriittisen ajattelun aika (Silvia Hosseini: Kirjoittakaamme siis esseitä). Suomen arvostelijain liiton vuosikirja, 2025.
       - title: Yle Uutiset ja sää
         start_time: '2026-02-27T12:00:00+02:00'
         end_time: '2026-02-27T12:05:00+02:00'
