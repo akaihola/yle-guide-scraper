@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-13T03:06:58.748917+00:00'
+  generated_at: '2026-02-14T03:00:47.357740+00:00'
   git:
     branch: main
-    commit: 55b9dd0f79ec5f363f230bc4e272efb6153cf9ac
-  data_hash: 6dcc7095904de7a674d4d25bb7ccd58376bd75811104820dcb9562063c76e63c
+    commit: 5192ea93290f1bed318af8c7d8c8c00292cd3e04
+  data_hash: d2dd7f1cc3952a5cd23ecba20435da0c65b46b55f972e4fc4a1411a8d2324f7f
 data:
   '':
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-18T06:30:50+02:00'
         end_time: '2026-02-18T06:50:00+02:00'
+        description: |+
+          Tuntematon: Kun on turva Jumalassa (Ainalin perhekuoro).
+
+          Owen: Suuri rakkauden meri (Braxén-kuoro/Harry Westerlund, ja Matti Pesonen, urut).
+
+          Sormunen: Kysytkö palvelushintaa (Jukka Leppilampi, laulu ja kitara, sekä Jouko Kantola, piano).
+
+          Tuntematon: Käykäämme nyt Jerusalemiin (Psallamus-kuoro/Ilmo Riihimäki, sekä Juhani Haapasalo, urut).
+
+          Herbst: Päivää neljäkymmentä (Sanna Vuolteenaho, laulu, Pekka Silén, nokkahuilu, ja Eero Palviainen, luuttu).
+
       - title: Aamuhartaus
         start_time: '2026-02-18T06:50:00+02:00'
         end_time: '2026-02-18T06:59:59+02:00'
@@ -162,33 +173,37 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-18T16:00:00+02:00'
         end_time: '2026-02-18T16:07:00+02:00'
-      - title: Faunin iltapäivä
+      - title: 'Faunin iltapäivä '
         start_time: '2026-02-18T16:07:00+02:00'
         end_time: '2026-02-18T16:59:00+02:00'
         description: |
-          Stravinsky: Markkinat laskiaisaikaan - Väkijoukko - Silmänkääntäjän koju bal. Petrushka (Lontoon SO/Claudio Abbado, ja Leslie Howard, piano).
+          Corelli: Allemanda concerto grossosta n:o 10 C-duuri (The Avison Ensemble/Pavlo Beznosiuk, viulu). 
 
-          Nyberg: Hiihtäjä (Helsingin Suomalaisen Yhteiskoulun studiokuoro/Heikki Saari).
+          Pacini: Quando lo miro (Majella Cullagh, sopraano, ja David Harper, piano).
 
-          Tshaikovski: Laskiaiskulkue näyt. Lumityttö (Vladimir Grishko, tenori, sekä University Musical Society Choral Union ja Detroitin SO/Neeme Järvi).
+          Brouwer: Cancion de cuna (Pepe Romero, kitara).
 
-          Tormis: Liulaskmise-laul (Mäenlaskulaulu) teoks. Vastlalaulud (Laskiaislauluja) (Viron kansallinen mieskuoro/Ants Soots).
+          Williams: Dartmoor, 1912 elok. War horse (Sotahevonen) (Ork./John Williams).
 
-          Palmgren: Talviyö (YL/Matti Hyökki).
+          Tshaikovski: Helmikuu (Laskiainen) sarj. Vuodenajat (Olli Mustonen, piano). 
 
-          Hynninen: Talviyö ja Valoa pimeässä teoks. Yösarja (Laura Hynninen, harppu ja laulu). 
+          Alnaes: Februarmorgen ved Golfen (Helmikuisena aamuna lahden rannalla) (Kirsten Flagstad, sopraano, ja Lontoon SO/Öivind Fjeldstad).
 
-          Holmström: Talviyö sarj. Tauluja näyttelyssä kahdelle pianolle (Iina Marja-aho ja Henni Turunen). 
+          Dvorak: Allegretto grazioso pianotriosta n:o 3 (The Tempest Trio). 
 
-          Kilpinen: Talvinen yö (Hannu Jurmu, tenori, ja Ilmari Räikkönen, piano).  
+          Madetoja: Heijaa, heijaa (Pia Freund, sopraano, ja Ilmo Ranta, piano).
 
-          Pylkkänen: Andante moderato, quasi notturno Divertimentosta (Mikael Helasvuo, huilu, Jouko Teikari, oboe, Veikko Höylä, sello, ja Marjatta Haahti, harppu).
+          W.A. Mozart: Cavatina sarj. puhaltimille oopp. Figaron häät kohtauksista (Mozzafiato).
 
-          Mendelssohn: Frühlingsahnung (Kevään aavistus) (RIAS-kamarikuoro/Hans-Christoph Rademann). 
+          Eller: Hällilaul (Kehtolaulu) teoks. Viis pala keelpilliorkestrile (Viisi kappaletta jousiorkesterille) (Tallinnan kamariork./Tönu Kaljuste).
 
-          Debussy: Lumi tanssii sarj. Lasten nurkkaus (Samson Francois, piano).
+          Kansanlaulu (sov. Palmgren): På dig har jag tänkt (Petteri Salomaa, baritoni, ja YL/Matti Hyökki).
 
-          W.A. Mozart: Im Frühlingsanfang (Kevään alkaessa) (Julianne Baird, sopraano, ja Colin Tilney, fortepiano).
+          Müller-Hermann: Allegro con spirito jousikvartetosta Es-duuri (Artis-kvartetti).
+
+          Pejacevic: Impromptu As-duuri (Natasa Veljkovic, piano).
+
+          Vieuxtemps: Souvenir d'Amerique (Muisto Amerikasta) (Leila Josefowicz, viulu, ja John Novacek, piano).
       - title: Uutispodcast
         start_time: '2026-02-18T17:00:00+02:00'
         end_time: '2026-02-18T17:20:00+02:00'
@@ -206,6 +221,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-02-18T18:35:00+02:00'
         end_time: '2026-02-18T18:50:00+02:00'
+        description: |+
+          Koraalitoisinto (sov. Kupiainen): Hei, siskot, veljet, kristityt (Histan veisaajat).
+
+          Karttunen: Sinä kaipaatko täyteyttä Hengen sen (Jippu).
+
+          Harper: Sua kaipaan (Terhi Harper, laulu, ja yhtye).
+
       - title: Iltahartaus
         start_time: '2026-02-18T18:50:00+02:00'
         end_time: '2026-02-18T19:00:00+02:00'
@@ -221,7 +243,7 @@ data:
         description: |-
           Maailman vanhimman nykymusiikkifestivaalin päätöskonsertissa soi neljä uutta sävellystä. Niistä ensimmäinen – Mirela Ivičevićin “Red Thread Mermaid” – on osa Euroopan yleisradiounionin (EBU) sävellystilausten projektia, jonka EBU aloitti viime vuonna 75-vuotisjuhlavuotensa kunniaksi. Ainomaija Pennasen toimittamassa ohjelmassa kuullaan myös Mirela Ivičevićin haastattelu, jossa tämä avaa teoksensa taustoja.  
       - title: 'Politiikkaradio '
-        start_time: '2026-02-18T21:00:00+02:00'
+        start_time: '2026-02-18T21:00:01+02:00'
         end_time: '2026-02-18T21:30:00+02:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-02-18T21:31:00+02:00'
