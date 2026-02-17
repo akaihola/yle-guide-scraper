@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-16T03:06:25.391890+00:00'
+  generated_at: '2026-02-17T03:04:18.509976+00:00'
   git:
     branch: main
-    commit: 7c8fca1a0da3222c25358e1ce637e4f7a6a803d8
-  data_hash: ad1804f49c69fd868cbbdb71be210e0372e6016c6951d41810f475bd055f8b61
+    commit: fa9fd48115d52d5bcd73ba6332c9db86f47c73b0
+  data_hash: cf99fdb2adc219692163d4f471b98634e1f9d6aca1542f25fa4439ff10608662
 data:
   '':
     programmes:
@@ -138,7 +138,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-05T16:07:00+02:00'
         end_time: '2026-03-05T16:59:00+02:00'
-        description: |+
+        description: |
           Clarke: Trumpet voluntary (Gabor Tarkövi, trumpetti, ja Peter Kofler, urut).
 
           Leclair: Allegro viulukonsertosta F-duuri (Genevieve Gilardeau, viulu, ja The Tafelmusik Baroque Orch./Jeanne Lamon). 
@@ -151,16 +151,15 @@ data:
 
           Hensel: Maaliskuu (Lauma Skride, piano).
 
-          Grieg: Vuorenkuninkaan luolassa ja peikkojen kuoro näyt. Peer Gynt (Dresdenin valtionork., ja Leipzigin radiokuoro/Herbert Blomstedt).
+          Grieg: Vuorenkuninkaan luolassa ja peikkojen kuoro näyt. Peer Gynt (Leipzigin radiokuoro ja Dresdenin valtionork./Herbert Blomstedt).
 
           Fauré: Sicilienne (Sharon Bezaly, huilu, ja Roland Pöntinen, piano).
 
-          Humperdinck: Balladi oopp. Prinsessa Ruusunen (Bambergin sinfonikot/Karl Anton Rickenbacher).
+          Humperdinck: Balladi oopp. Dornröschen (Prinsessa Ruusunen) (Bambergin sinfonikot/Karl Anton Rickenbacher).
 
           Le Beau: Adagio kvartetosta pianolle ja jousille f-molli (Kaleidoscope Chamber Collective).
 
-          Offenbach: Rautatierondo oper. Kuningas Porkkana (Laulusolisteja sekä Geoffrey Mitchell -kuoro ja Lontoon FO/David Parry).
-
+          Offenbach: Rautatierondo "Dans ce grand temple des voyages" oper. Le Roi Carotte (Kuningas Porkkana) (Laura Claycomb ja Elizabeth Vidal, sopraano, Mark Wilde, tenori, Alastair Miles, basso, sekä Geoffrey Mitchell -kuoro ja Lontoon FO/David Parry).
       - title: Uutispodcast
         start_time: '2026-03-05T17:00:00+02:00'
         end_time: '2026-03-05T17:20:00+02:00'
@@ -191,9 +190,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-05T19:00:00+02:00'
         end_time: '2026-03-05T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Irene Reig Quartet & Marco Mezquida Trio Jazzaheadissa.'
         start_time: '2026-03-05T19:02:00+02:00'
         end_time: '2026-03-05T20:00:00+02:00'
+        description: |
+          : 
       - title: Klassinen kattaus
         start_time: '2026-03-05T20:00:00+02:00'
         end_time: '2026-03-05T20:57:00+02:00'

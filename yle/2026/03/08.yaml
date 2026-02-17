@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-16T03:06:26.058165+00:00'
+  generated_at: '2026-02-17T03:04:19.279909+00:00'
   git:
     branch: main
-    commit: 7c8fca1a0da3222c25358e1ce637e4f7a6a803d8
-  data_hash: ad1804f49c69fd868cbbdb71be210e0372e6016c6951d41810f475bd055f8b61
+    commit: fa9fd48115d52d5bcd73ba6332c9db86f47c73b0
+  data_hash: cf99fdb2adc219692163d4f471b98634e1f9d6aca1542f25fa4439ff10608662
 data:
   '':
     programmes:
@@ -119,9 +119,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-08T16:59:59+02:00'
         end_time: '2026-03-08T17:00:00+02:00'
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Hildá Länsman ja Tuomas Norvio'
         start_time: '2026-03-08T17:00:00+02:00'
         end_time: '2026-03-08T18:00:00+02:00'
+        description: |-
+          Hildá Länsmanin ja Tuomas Norvion konsertti Tampereella Womex-festivaalilla 23.10.2025. 
       - title: Jazzklubi
         start_time: '2026-03-08T18:00:30+02:00'
         end_time: '2026-03-08T19:00:00+02:00'
