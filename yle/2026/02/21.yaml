@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-19T03:04:28.710735+00:00'
+  generated_at: '2026-02-20T03:02:26.035506+00:00'
   git:
     branch: main
-    commit: fc0724feadc506ff90d9180664e55c94357f69b0
-  data_hash: fc97cd591d66057ef3a7a9f2466ad967116c1bf7f43e2f8e39d77b182b6bf2b1
+    commit: 3453c0ab1db41b7527f1ed791ea7bd6ac8026689
+  data_hash: ab36fe00383d2aae8a2a15df632bf32f715f7c43bda9fedecd9eb3e9915438e8
 data:
   '':
     programmes:
@@ -138,7 +138,7 @@ data:
         description: |-
           Elias Lönnrotin luomassa kansalliseepos Kalevalassa näkyy vaikutteet esikristillisen ajan uskomuksista kristinuskoon. Emmi Itärannan fantasiaromaani Lumenlaulaja on uudelleenkirjoitus Kalevalasta, johon on yhtä lailla sulautunut elementtejä kansanperinteestä ja -uskosta. Millaisia yhteyksiä aikamme uushengellisyydellä on kaukaiseen historiaan? Millaisena muinaisen ihmisen monien jumaluuksien värittämä luontosuhde näyttäytyy aikaamme vasten?
           Muinaisessa mytologiassa teosten kautta samoilevat Marja Vehkasen kanssa kirjailija Emmi Itäranta ja folkloristiikan professori Lotte Tarkka.
-      - title: Näistä levyistä en luovu; Harri Saksala
+      - title: 'Näistä levyistä en luovu: Harri Saksala'
         start_time: '2026-02-21T13:00:00+02:00'
         end_time: '2026-02-21T13:55:00+02:00'
         description: |-
@@ -245,21 +245,32 @@ data:
         end_time: '2026-02-21T21:10:00+02:00'
         description: |-
           Uudistetun Oopperaillan ensimmäisessä jaksossa vieraillaan mm. Milanon La Scalassa, Baijerin valtionoopperassa sekä Lontoon Covent Gardenissa. Lisäksi keskitytään tarkemmin Giuseppe Verdin oopperaan La traviata, josta kuunnellaan helmikuun alussa äänitettyä esitystaltiointia Wienin valtionoopperasta. Haastattelussa Karita Mattila. Toimittajana Ahti Paunu.
-      - title: Uutispodcast
-        start_time: '2026-02-21T21:10:00+02:00'
-        end_time: '2026-02-21T21:35:00+02:00'
+      - title: 'Uutispodcast: Miljoonia Epstein-asiakirjoja julki, ei uusia syytteitä – saavatko uhrit oikeutta?'
+        start_time: '2026-02-21T21:10:30+02:00'
+        end_time: '2026-02-21T21:30:32+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Epstein-asiakirjoja käydään kiihkeästi läpi Yhdysvalloissa, ja niistä käy ilmi yhä uusia nimiä. Mutta mikä on yli tuhannen hyväksikäytön uhrin osa tutkinnassa? Atte Uusinokan vieraana Yhdysvaltoihin erikoistunut toimittaja Tuomo Hyttinen Kauppalehdestä. 
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-02-21T21:30:32+02:00'
+        end_time: '2026-02-21T21:52:57+02:00'
+        description: |-
+          Marja Vehkanen haastatteli Alma Pöystiä Tove Janssonin kirjasta Vaarallinen juhannus. Ensilähetys 27.1.2026.
       - title: 'Klassikkokuunnelma: Lea '
-        start_time: '2026-02-21T21:51:00+02:00'
-        end_time: '2026-02-21T22:30:00+02:00'
+        start_time: '2026-02-21T21:52:57+02:00'
+        end_time: '2026-02-21T22:32:39+02:00'
         description: |
           Aleksis Kiven Leaa pidetään ensimmäisenä suomenkielisenä ammattiteatterissa esitettynä näytelmänä. Lea sai ensi-iltansa 10. toukokuuta 1869. Pekka Lounelan Radioteatterille ohjaama ja sovittama kuunnelma sai ensilähetyksen miltei päivälleen sata vuotta myöhemmin, 9. toukokuuta 1969.
 
           Lea sijoittuu Kristuksen ajan Palestiinaan Jerikon kaupunkiin. Publikaanien päämies Sakkeus on luvannut tyttärensä Lean naimisiin fariseus Joaksen kanssa. Lean todellinen rakkaus on kuitenkin saddukealainen Aram. Kiven yksinäytöksinen draama pohjautuu Raamatun kertomukseen, jossa Jeesus vierailee Sakkeuksen luona. 
+      - title: Radio 1 soi
+        start_time: '2026-02-21T22:32:39+02:00'
+        end_time: '2026-02-21T22:39:48+02:00'
+        description: |+
+          Albéniz: Cordoba (David Russell, kitara).
+
       - title: 'Keinuva talo - Mika Kauhanen: Sisäinen seikkailu'
-        start_time: '2026-02-21T22:40:00+02:00'
-        end_time: '2026-02-21T23:39:30+02:00'
+        start_time: '2026-02-21T22:39:48+02:00'
+        end_time: '2026-02-21T23:38:55+02:00'
         description: |
           Huippuharpisti Catrin Finch kirjoitti kirjeitä ja musiikkia sisäiselle lapselleen, 13-vuotiaalle Katylle. Hänen sisäinen seikkailunsa rohkaisee meitä eteenpäin musiikillisiin seikkailuihin flamencoharpusta sakraaliin pizzicaan tai fado-jazzista Kreetan eeppiseen lyyraan. Kuuntelussa myös Tuuletar-yhtyeen uutta musiikkia, jonka temmellyskenttänä on koko Äitimaa. Toimittajana Mika Kauhanen.
       - title: Yöklassinen

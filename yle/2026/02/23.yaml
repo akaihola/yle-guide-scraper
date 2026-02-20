@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-19T03:04:29.070747+00:00'
+  generated_at: '2026-02-20T03:02:26.764495+00:00'
   git:
     branch: main
-    commit: fc0724feadc506ff90d9180664e55c94357f69b0
-  data_hash: fc97cd591d66057ef3a7a9f2466ad967116c1bf7f43e2f8e39d77b182b6bf2b1
+    commit: 3453c0ab1db41b7527f1ed791ea7bd6ac8026689
+  data_hash: ab36fe00383d2aae8a2a15df632bf32f715f7c43bda9fedecd9eb3e9915438e8
 data:
   '':
     programmes:
@@ -133,11 +133,11 @@ data:
 
       - title: 'Virtasen taloushistoria: Valmisvaatteita ja deodoranttia - kuluttamisen muutos'
         start_time: '2026-02-23T10:00:00+02:00'
-        end_time: '2026-02-23T10:52:00+02:00'
+        end_time: '2026-02-23T10:55:00+02:00'
         description: |
           Valmisvaatteita ja deodoranttia - kuluttamisen muutos. Haastateltavana on tutkijatohtori Matleena Frisk 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-02-23T10:52:00+02:00'
+        start_time: '2026-02-23T10:55:00+02:00'
         end_time: '2026-02-23T11:00:00+02:00'
       - title: 'Välilevyjä: Adolphe Saxin nelinkertainen riemu'
         start_time: '2026-02-23T11:00:00+02:00'
@@ -152,11 +152,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-23T12:00:00+02:00'
         end_time: '2026-02-23T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Internet nielaisi punaisen pillerin – miten verkosta tuli naisvihan käärmeenpesä'
         start_time: '2026-02-23T12:05:00+02:00'
         end_time: '2026-02-23T12:55:00+02:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |
+          Miten netin naisvihamieliset yhteisöt siipiensä suojaan keräävä manosfääri on syntynyt ja miten siitä on vuosien varrella muodostunut taustavaikuttaja, jonka kielenkäyttö valtavirtaistuu nuorten puheeseen? 
+          Asiantuntijat: Väitöskirjatutkijat Emilia Lounela  Matias Nurminen 
+          Toimittaja: Kaisa Pulakka
+          Äänisuunnittelu: Panu Willman
       - title: Politiikkaradio
         start_time: '2026-02-23T13:00:00+02:00'
         end_time: '2026-02-23T13:30:00+02:00'
@@ -167,11 +170,11 @@ data:
         end_time: '2026-02-23T15:00:00+02:00'
         description: |
           Juontajana Jarmo Laitaneva. Kapellimestari Susanna Mälkki työskentelee maailmaa kiertävänä kapellimestarina että tässä tapauksessa erityisesti uusi työ Sibelius-akatemian kapellimestarikoulutuksen professorina. Hän on sanonut, että kokee opettamisen Sibelius-akatemiassa kunniatehtäväkseen. Miksi pesti kiinnosti häntä? Kansainväliselle kapellimestariluokalle pääseminen on hyvin harvinaista ja olisi mielenkiintoista kuulla, minkälaista opiskelu sillä on. Mitä Susanna Mälkki itse haluaa tuoda kapellimestarikoulutukseen, mitä hän  haluaa painottaa? Susanna Mälkin toinen kotimaa on Ranska, miten Ranska on muuttanut häntä?
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Animismi ja luontosuhde muinaisessa Pohjolassa'
         start_time: '2026-02-23T15:00:00+02:00'
         end_time: '2026-02-23T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Arkeologien kirjoittama tietokirja Myyttinen Pohjola avaa kivikauden Pohjolan asukkaiden todellisuuskäsitystä ja luontosuhdetta. Neoliittisen kivikauden raaka-aineiden tutkimus sai tutkijat kiinnostumaan muinaisten ihmisten maailmankuvasta. Ihmiset saivat elantonsa välittömästä ympäristöstään, ja heidän suhdettaan siihen leimasi animistinen luontousko ja eläväksi kuviteltu vuorovaikutus. Kivet, puut, linnut, hirvet ja karhut kuin myös ihmisen rakentamat asumukset olivat osa elävää maailmaa, jonka kanssa saattoi keskustella ja tehdä sopimuksia ja vaihtokauppoja.
       - title: Yle News
         start_time: '2026-02-23T15:55:00+02:00'
         end_time: '2026-02-23T15:58:00+02:00'
@@ -221,8 +224,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-02-23T18:35:00+02:00'
         end_time: '2026-02-23T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Laaksonen: Teit kaiken ajallansa (Sauli Ahvenjärvi, bassobaritoni, ja Jouko Kantola, piano).
+
+          Gross: Kellot kaikuu (Tapiolan kuoro/Kari Ala-Pöllänen, sekä Sinikka ja Matti Kontio, kantele).
+
+          E. Holopainen: Hyvyys vielä voittaa (Holopaiset).
+
       - title: Iltahartaus
         start_time: '2026-02-23T18:50:00+02:00'
         end_time: '2026-02-23T19:00:00+02:00'
@@ -257,16 +265,18 @@ data:
       - title: Politiikkaradio
         start_time: '2026-02-23T21:00:00+02:00'
         end_time: '2026-02-23T21:30:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Oudot kaksiulotteiset materiaalit - läpinäkyviä, mutta äärimmäisen lujia'
         start_time: '2026-02-23T21:30:30+02:00'
         end_time: '2026-02-23T22:20:00+02:00'
         description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+          Kaksiulotteiset materiaalit ovat niin ohuita, että ne eivät enää ole kolmiulotteisia. Ne ovat tyypillisesti yhden tai muutaman atomikerroksen paksuisia aineita, joissa aineen ominaisuudet voivat poiketa radikaalisti tavanomaisista kolmiulotteisista materiaaleista. 
+          Haastateltavina ovat fysiikan professori Peter Liljeroth Aalto-yliopistosta ja kemian professori Mika Pettersson Jyväskylän yliopistosta. 
+          Toimittajana on Mari Heikkilä.
+      - title: 'Näistä levyistä en luovu: Harri Saksala'
         start_time: '2026-02-23T22:45:00+02:00'
         end_time: '2026-02-23T23:39:30+02:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+          Harri Saksala esittelee levyhyllynsä valioita Jalmari Laineen vieraana.
       - title: Yöklassinen
         start_time: '2026-02-23T23:40:00+02:00'
         end_time: '2026-02-24T06:30:00+02:00'
