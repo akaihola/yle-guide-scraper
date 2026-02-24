@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-23T03:06:29.709912+00:00'
+  generated_at: '2026-02-24T03:04:01.521672+00:00'
   git:
     branch: main
-    commit: 7d0b90ba79720f6276e1300a816363f87735e684
-  data_hash: 30c48b2d94b418d2b38b42512adc58c4c47e612d0dee724b806067ef4960c7c2
+    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
+  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
 data:
   '':
     programmes:
@@ -58,6 +58,13 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-08T09:03:00+02:00'
         end_time: '2026-03-08T09:53:00+02:00'
+        description: |+
+          J.S. Bach: Viulukonsertto d-molli (Karl Suske ja Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+
+          Telemann: Sonaatti oboelle ja continuolle e-molli (Battalia).
+
+          Myslivecek: Sinfonia Es-duuri (Sinfonia a quattro voci) (Suk-kamariork./Josef Vlach).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-03-08T09:56:00+02:00'
         end_time: '2026-03-08T09:59:00+02:00'

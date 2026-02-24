@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-23T03:06:32.752683+00:00'
+  generated_at: '2026-02-24T03:04:03.424753+00:00'
   git:
     branch: main
-    commit: 7d0b90ba79720f6276e1300a816363f87735e684
-  data_hash: 30c48b2d94b418d2b38b42512adc58c4c47e612d0dee724b806067ef4960c7c2
+    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
+  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
 data:
   '':
     programmes:
@@ -108,9 +108,12 @@ data:
         end_time: '2026-03-18T19:02:00+02:00'
       - title: Martha Argerichin ja Gabriela Monteron konsertti Lissabonista
         start_time: '2026-03-18T19:02:00+02:00'
-        end_time: '2026-03-18T21:00:00+02:00'
+        end_time: '2026-03-18T20:20:00+02:00'
         description: |-
           Euroradiokonsertissa lavalla on kaksi tunnettua pianistia Latinalaisesta Amerikasta. Argentiinalainen Martha Argerich ja venezuelalainen Gabriela Montero soittavat duona Mozartin, Schubertin, Schumannin ja Rahmaninovin musiikkia. Konsertti on äänitetty Gulbenkian-säätiön suuressa salissa marraskuussa 2024. Toimittajana on Ainomaija Pennanen. 
+      - title: Musiikkikamari
+        start_time: '2026-03-18T20:20:00+02:00'
+        end_time: '2026-03-18T21:00:00+02:00'
       - title: 'Politiikkaradio '
         start_time: '2026-03-18T21:00:00+02:00'
         end_time: '2026-03-18T21:30:00+02:00'

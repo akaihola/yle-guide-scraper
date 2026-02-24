@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-23T03:06:27.179789+00:00'
+  generated_at: '2026-02-24T03:03:59.876811+00:00'
   git:
     branch: main
-    commit: 7d0b90ba79720f6276e1300a816363f87735e684
-  data_hash: 30c48b2d94b418d2b38b42512adc58c4c47e612d0dee724b806067ef4960c7c2
+    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
+  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
 data:
   '':
     programmes:
@@ -33,11 +33,15 @@ data:
 
           07:13 Arne: Triosonaatti n:o 1 A-duuri op.3/1 (Collegium Musicum 90).
 
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Elli Salo - Keräilijä'
         start_time: '2026-02-28T07:31:00+02:00'
         end_time: '2026-02-28T07:55:00+02:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Mitä kaikkea itsestämme ymmärrämme, jos uskallamme vähänkään jakaa toisille kipeitä muistojamme? Keräilijät-romaanissa arkeologi Heini matkustaa Kainuuseen Läätteeseen etsimään talvisodan taistelujen jälkiä. Elämän rajallisuuden ymmärtämisen keskellä Heini uskaltaa pysähtyä myös omien surujensa eteen. Menneitä kaivellessa Heini tutustuu paikallisiin ihmisiin ja tajuaa millainen merkitys ystävyydellä voi olla.
+
+          Keräilijät-romaanin kirjoittanut Elli Salo Luomiskertomuksen vieraana. 
+
+          Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-28T07:55:00+02:00'
         end_time: '2026-02-28T08:00:00+02:00'
@@ -125,11 +129,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-02-28T12:00:00+02:00'
         end_time: '2026-02-28T12:05:00+02:00'
-      - title: 'Maailma tarinoina: Kullervo - aikojen, aatteiden ja taiteiden varioima hahmo'
+      - title: 'Maailma tarinoina: Monikasvoinen Kullervo on tulkintojen runsaudensarvi'
         start_time: '2026-02-28T12:05:00+02:00'
         end_time: '2026-02-28T13:00:00+02:00'
         description: |-
-          Miksi Lönnrotin kynästä lohduttomaksi muodostunut Kullervon tarina on inspiroinut taiteilijoita aikojen saatossa yhä uudelleen? Entä jos Kalevalaan olisikin päätynyt kansanrunojen pohjalta valoisampi versio Kullervosta? Millaisiin suuntiin Kullervon tarina on elänyt Kalevalasta lähtien, mitä on painotettu, mitä häivytetty ja miksi? Ketkä ovat aikamme Kullervoja?
+          Elias Lönnrotin työpöydällä syntyi kansanrunojen pohjalta Kullervo, jota aatteet ja taiteet ovat varioineet ajasta aikaan. Mikä motivoi Lönnrotia kirjoittamaan hahmon niin traagiseksi? Miksi tuhoisa ja kostonhimoinen Kullervo on kiinnostanut taiteilijoita niin paljon? Miten Kullervon hahmo latautuu suhteessa aikaamme?
+          Marja Vehkasen johdattelemana Kullervon merkityksiä avaavat uskontotieteen dosentti Vesa-Matteo Piludu ja Kalevala-seuran toiminnanjohtaja, dosentti Niina Hämäläinen.
       - title: Näistä levyistä en luovu
         start_time: '2026-02-28T13:00:00+02:00'
         end_time: '2026-02-28T13:55:00+02:00'
