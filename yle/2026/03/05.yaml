@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-24T03:04:00.918107+00:00'
+  generated_at: '2026-02-25T03:04:36.344042+00:00'
   git:
     branch: main
-    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
-  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
+    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
+  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
 data:
   '':
     programmes:
@@ -46,6 +46,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-05T06:30:50+02:00'
         end_time: '2026-03-05T06:50:00+02:00'
+        description: |+
+          Tuntematon: Oi Kristus, taivaan kuningas (virsi 277) (Cetus Noster sekä Teppo Lampela, baritoni, ja Eero Palviainen, arkkiluuttu).
+
+          Lowry: Koko tien hän kanssain kulkee (Braxen-kuoro/Harry Westerlund, ja Matti Pesonen, urut).
+
+          Kansansäv.: Synnit poissa, autuutta oi (Oulun kirkkomusiikin opiskelijoiden kuoro/Tuomo Nikkola, ja Risto Ainali, urut).
+
+          Leskelä: Joutukaa sielut, on aikamme kallis (Suomen Kanttorikuoro/Timo Lehtovaara).
+
+          Crüger (sov. J.S. Bach): Jeesus, aarteheni (Haukiputaan Laulu/Hannu Niemelä).
+
       - title: Aamuhartaus
         start_time: '2026-03-05T06:50:00+02:00'
         end_time: '2026-03-05T06:59:59+02:00'
@@ -183,6 +194,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-05T18:35:00+02:00'
         end_time: '2026-03-05T18:50:00+02:00'
+        description: |+
+          Lithenius: Ilta on tullut, Luojani (virsi 563) (Lauluyhtye Haava).
+
+          Doane: Jeesus, ristin juurella (Musica Fidei/Tomi Aalto, sekä Matti Pesonen, piano).
+
+          Koraalitoisinto: Ah, vuodata, Herra, jo henkesi (Mieskuoro Euga, Juha Uusitalo, bassobaritoni, ja Kalevi Kiviniemi, urut).
+
+          Vavilov: Ave Maria (Leena Arffman, sopraano, ja Esa Ylönen, piano).
+
       - title: Iltahartaus
         start_time: '2026-03-05T18:50:00+02:00'
         end_time: '2026-03-05T19:00:00+02:00'

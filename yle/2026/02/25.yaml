@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-24T03:03:59.102853+00:00'
+  generated_at: '2026-02-25T03:04:32.875887+00:00'
   git:
     branch: main
-    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
-  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
+    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
+  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
 data:
   '':
     programmes:
@@ -169,14 +169,16 @@ data:
           Naisseikkailuillaan mainetta niittänyt aikakautensa ”kestolööppi” Casanova oli myös taitava vakooja. Miksi eksoottinen tanssija, oman aikansa seuratuin salarakas Mata Hari teki vakoojan ammatista legendaarisen, vaikka olikin surkea vakooja?
 
           Asiantuntijana toimittaja-tietokirjailija Hannu Pesonen, toimittajana Raimo Tyykiluoto.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Rikkovatko Trumpin uudet tullit EU:n ja USA:n tullisopimusta?'
         start_time: '2026-02-25T13:00:00+02:00'
         end_time: '2026-02-25T13:30:00+02:00'
+        description: |
+          Yhdysvalloissa korkein oikeus kumosi presidentti Donald Trumpin hätätilavaltuuksiin perustuneet tuontitullit. Trump vastasi päätökseen asettamalla 15 prosentin maailmanlaajuisen tullin. Rikkovatko uudet tullit EU:n ja USA:n tullisopimusta? Sakeneeko vai pysähtyykö Trumpin tullitaistelu? Vieraina ovat johtaja Timo Vuori Elinkeinoelämän keskusliitosta, Nordean pääanalyytikko Jan von Gerich sekä Keskuskauppakamarin toimitusjohtaja Juho Romakkaniemi. Toimittajana on Tapio Pajunen. Suora lähetys.
       - title: 'Radio 1:n iltapäivä: toimittaja, kirjailija Petteri Sihvonen - kulttuurista, urheilusta ja urheilukulttuurista'
         start_time: '2026-02-25T13:30:00+02:00'
         end_time: '2026-02-25T15:00:00+02:00'
         description: |
-          Juontajana Jarmo Laitaneva. Ymmärtävätkö kulttuuriväki ja urheiluväki toisiaan? Onko vastakkainasettelu kulttuurin ja urheilun välillä vanhanaikaista? Mitä huomioita urheilutoimittaja, kirjailija ja jääkiekkovalmentaja Petteri Sihvonen on tehnyt juuri päättyneiden olympialaisten aikaan julkisesta keskustelustamme? Sihvonen on studiovieraana n. klo 14. Kurkistus illan RSO:n konsertin kulisseihin n. klo 14:30.
+          Juontajana Jarmo Laitaneva. Ymmärtävätkö kulttuuriväki ja urheiluväki toisiaan? Onko vastakkainasettelu kulttuurin ja urheilun välillä vanhanaikaista? Mitä huomioita  filosofian maisteri ja kirjailija sekä urheilujournalisti ja lätkäjätkä Petteri Sihvonen on tehnyt juuri päättyneiden olympialaisten aikaan julkisesta keskustelustamme? Sihvonen on studiovieraana n. klo 14. Kurkistus illan RSO:n konsertin kulisseihin n. klo 14:30.
       - title: 'Kulttuuriykkönen: Valloittavan yksisarvisen historiaa antiikin taruista 2020-luvun populaarikulttuuriin'
         start_time: '2026-02-25T15:00:00+02:00'
         end_time: '2026-02-25T15:55:00+02:00'
@@ -199,12 +201,12 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-02-25T16:07:00+02:00'
         end_time: '2026-02-25T16:59:00+02:00'
-        description: |+
-          Stradella: Sinfonia D-duuri trumpetille, jousille ja continuolle (Ludwig Güttler, trumpetti, ja Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+        description: |
+          Stradella: Sinfonia D-duuri teoks. Il barcheggio (Ludwig Güttler, trumpetti, ja Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
 
           F. Caccini: Lasciatemi qui solo (Ruby Hughes, sopraano, Mime Yamahiro Brinkmann, sello, ja Jonas Nordberg, teorbi).
 
-          Telemann: Allegro konsertosta huilulle, viululle, jousille ja continuolle e-molli (Matthias Maute, traverso, ja Rebel-orkesteri/Jörg-Michael Schwarz, viulu).
+          Telemann: Allegro konsertosta huilulle, viululle, jousille ja continuolle e-molli (Matthias Maute, traverso, ja Rebel-ork./Jörg-Michael Schwarz, viulu).
 
           Mompou: Dialogues (Vuoropuheluja) (Stephen Hough, piano).
 
@@ -217,12 +219,11 @@ data:
           Villa-Lobos: Sexteto mistico (Ilpo Mansnerus, huilu, Jorma Valjakka, oboe, Hannu Lehtonen, alttosaksofoni, Timo Korhonen, kitara, Jouko Laivuori, celesta, ja Anni Kuusimäki, harppu).
 
           J. Strauss, nuor.: Accelerationen (Kiihtyvyyttä) (Wienin valtionoopperan ork./Hans Wieburg).
-
       - title: Uutispodcast
         start_time: '2026-02-25T17:00:00+02:00'
         end_time: '2026-02-25T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          USA:n presidentin kansakunnan tila -puheen analyysia amerikkalaisten mielenmaisemasta ja politiikan tilasta. Vieraana tutkija Maria Lindén. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-25T17:20:00+02:00'
         end_time: '2026-02-25T17:35:00+02:00'
@@ -232,6 +233,8 @@ data:
       - title: Jazzklubi
         start_time: '2026-02-25T17:35:00+02:00'
         end_time: '2026-02-25T18:35:00+02:00'
+        description: |-
+          Trumpetisti, säveltäjä ja sovittaja Jukka Eskola on Eero Kosken vieraana Jazzklubin studiossa. 
       - title: Hartaita säveliä
         start_time: '2026-02-25T18:35:00+02:00'
         end_time: '2026-02-25T18:50:00+02:00'
@@ -253,27 +256,27 @@ data:
         end_time: '2026-02-25T19:02:00+02:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-02-25T19:02:00+02:00'
-        end_time: '2026-02-25T21:00:00+02:00'
+        end_time: '2026-02-25T21:05:00+02:00'
         description: |+
           John Storgårds, kapellimestari, Verneri Pohjola, trumpetti. - Anatoli Ljadov: Lumottu järvi. Verneri Pohjola / Timo Hietala: Trumpettikonsertto “Against Darkness”, kantaesitys (Ylen tilaus). Alexander von Zemlinsky: Merenneito. Suoran lähetyksen Musiikkitalosta juontaa Lotta Emanuelsson. 
 
       - title: 'Politiikkaradio '
-        start_time: '2026-02-25T21:00:00+02:00'
-        end_time: '2026-02-25T21:30:00+02:00'
+        start_time: '2026-02-25T21:20:01+02:00'
+        end_time: '2026-02-25T21:50:00+02:00'
       - title: 'Havaintoja muutoksesta: Yhdessä lukemisen ilo '
-        start_time: '2026-02-25T21:31:00+02:00'
-        end_time: '2026-02-25T22:21:31+02:00'
+        start_time: '2026-02-25T21:50:58+02:00'
+        end_time: '2026-02-25T22:41:29+02:00'
         description: |
           Moni haluaa lukea yhdessä tai samassa tilassa. Moninaiset lukupiirit tuovat ihmisiä yhteen kaunokirjallisuuden äärelle. Millaisesta muutoksesta lukupiirien suosio kertoo? Millainen merkitys yhdessä lukemisella on? Toimittaja Satu Kivelä etsii vastauksia yhdessä POC-lukupiirin vetäjien Aracelis Correan ja Téri Zambranon kanssa. 
       - title: 'Sielun tietotoimisto: Antroposofia – Oppi, jota löytyy sekä kouluista että kosmetiikasta'
-        start_time: '2026-02-25T22:22:00+02:00'
-        end_time: '2026-02-25T22:51:23+02:00'
+        start_time: '2026-02-25T22:42:00+02:00'
+        end_time: '2026-02-25T23:11:23+02:00'
         description: |-
           Antroposofia on sulautunut osaksi yhteiskuntaa niin, ettei sitä aina edes tunnista, kun siihen törmää. Mitä antroposofian isä Rudolf Steiner oikeastaan opetti? Toimittaja Nadja Mikkonen keskustelee antroposofi Pirjo Niemisen ja väitöskirjatutkija Julia von Boguslawskin kanssa.
           (Julkaistu Yle Areenassa v. 2021)
       - title: 'Ulkolinja-podcast: Trumpia tukevat oikeistokristityt haluavat naiset kotiäideiksi'
-        start_time: '2026-02-25T23:23:26+02:00'
-        end_time: '2026-02-25T23:39:30+02:00'
+        start_time: '2026-02-25T23:23:01+02:00'
+        end_time: '2026-02-25T23:39:05+02:00'
         description: |-
           Naisen paikka on kotona, jos asiaa kysytään Yhdysvalloissa vaikutusvaltaansa kasvattavilta herätyskristillisiltä. Oikeistokristityt  sanovat kannattavansa niin sanottuja perinteisiä sukupuolirooleja, joissa naisen asema on rajallinen.  Oikeistokristityt tukevat vahvasti presidentti Donald Trumpia, koska uskovat hänen palauttavan perinteiset arvot kunniaan. Ulkolinjan Minna Pye tapasi konservatiivien hallitsemassa Tennesseessä kotiäitiydestä haaveilevan koulutetun nuoren naisen. 
 

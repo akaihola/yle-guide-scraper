@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-24T03:04:00.718028+00:00'
+  generated_at: '2026-02-25T03:04:36.025516+00:00'
   git:
     branch: main
-    commit: 551bf703d707b14ccc23048c169cbc82c77fd3c3
-  data_hash: e32e52f5fe575fc26e8bbeb91fe8460fb706c6807191fc4440c9d6d575a81eb9
+    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
+  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
 data:
   '':
     programmes:
@@ -50,6 +50,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-04T06:30:50+02:00'
         end_time: '2026-03-04T06:50:00+02:00'
+        description: |+
+          Löytty: Laulakaa Jumalalle (Chorus Vallis/Soili Autio).
+
+          Ahnfelt (sov. Peltokangas): Joka aamu on armo uus (virsi 547) (SRK:n sekakuoro/Reetta Vasalampi).
+
+          Anonyymi: Nyt ylös vuoriin tiellä (Cantilene/Merja Lohilahti).
+
+          Savolainen: Milloin viimeksi (Pietari Savolainen).
+
+          Rantanen: Minä olen hyvä paimen (Elävät kivet/Päivi Pohjola).
+
       - title: Aamuhartaus
         start_time: '2026-03-04T06:50:00+02:00'
         end_time: '2026-03-04T06:59:59+02:00'
@@ -189,6 +200,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-04T18:35:00+02:00'
         end_time: '2026-03-04T18:50:00+02:00'
+        description: |+
+          Salminen: Joskus sisimpäämme kasvaa ilon kukkamaa (Rukous on silta) (virsi 931) (Lapsi- ja nuorisokuoro Kannelkellot/Sirkku Rintamäki, sekä Laura Airola, viulu, Mikko Iivanainen, kitara, Hannu Rantanen, basso, Pekka Nyman, vibrafoni, ja Sami Koskela, rummut).
+
+          Haapasalo: Kanteleeni (Lilli Paasikivi, mezzosopraano, ja Tuija Hakkila, piano).
+
+          Kansansävelmä (sov. Kukko): Ah, autuasten maassa (Jämsän kristillisen kansanopiston kuoro ja soitinyhtye/Merja Lohilahti).
+
+          P. Nyman: Astukaa valoon (Maria Laakso ja Jakaranda).
+
       - title: Iltahartaus
         start_time: '2026-03-04T18:50:00+02:00'
         end_time: '2026-03-04T19:00:00+02:00'
