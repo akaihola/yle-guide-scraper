@@ -1,15 +1,36 @@
 metadata:
-  generated_at: '2026-02-25T03:04:38.583676+00:00'
+  generated_at: '2026-02-26T03:02:27.008653+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-13T00:00:00+02:00'
         end_time: '2026-03-13T06:30:00+02:00'
+        description: |+
+          Saint-Saëns: Kuusi etydiä vasemmalle kädelle (Leon Fleisher, piano).
+
+          00:19 Hummel: Pianotrio n:o 7 Es-duuri (Beaux Arts Trio). 
+
+          00:38 W.A. Mozart: Viulusonaatit n:o 26 B-duuri, 27 G-duuri ja 28 Es-duuri (Joseph Szigeti, viulu, ja Mieczyslaw Horszowski, piano).
+
+          01:35 Rimski-Korsakov: Sheherazade (Lontoon kuninkaallinen FO/Thomas Beecham, ja Steven Staryk, viulu).
+
+          02:21 Copland: Sinfonia n:o 3 (New Yorkin FO/Leonard Bernstein).
+
+          03:05 Duparc: Kaksitoista yksinlaulua (Gérard Souzay, baritoni, ja Jacqueline Bonneau, piano).
+
+          03:53 Brahms: Viulukonserton D-duuri pianoversio. (Dejan Lazic, piano ja Atlantan SO/Robert Spano).
+
+          04:35 J. Haydn: Sellokonsertot C-duuri ja D-duuri (Anne Gastinel ja Moskovan solistit/Juri Bashmet).
+
+          05:25 J.S. Bach: Urkusävellyksiä (Hans Otto, urut).
+
+          06:21 Vivaldi (sov. Respighi): Sonaatti D-duuri (Yuval Yaron, viulu, ja Jeremy Denk, piano).
+
       - title: Hartaita säveliä
         start_time: '2026-03-13T06:30:50+02:00'
         end_time: '2026-03-13T06:50:00+02:00'
@@ -17,7 +38,8 @@ data:
         start_time: '2026-03-13T06:50:00+02:00'
         end_time: '2026-03-13T06:59:59+02:00'
         description: |
-          Diakoni Antti Kulmala, Tampere
+          "Elämän leivän juuri"
+          Diakoni Antti Kulmala Tampereelta puhuu seimessä ja alttarin eväissä kohdattavasta elämän leivästä.
       - title: Aamusoitto
         start_time: '2026-03-13T07:06:00+02:00'
         end_time: '2026-03-13T08:00:00+02:00'
@@ -142,7 +164,7 @@ data:
         start_time: '2026-03-13T20:26:00+02:00'
         end_time: '2026-03-13T21:00:00+02:00'
       - title: 'Politiikkaradio '
-        start_time: '2026-03-13T21:00:00+02:00'
+        start_time: '2026-03-13T21:00:01+02:00'
         end_time: '2026-03-13T21:30:00+02:00'
       - title: Tuuli Saksalan keidas
         start_time: '2026-03-13T22:26:00+02:00'
@@ -152,3 +174,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-13T23:40:00+02:00'
         end_time: '2026-03-14T07:30:00+02:00'
+        description: |+
+          Verdi: I Vespri Siciliani (Sisilialainen vesper), ooppera (Cheryl Studer, sopraano, Giorgio Zancanaro, baritoni, Ferruccio Furlanetto, basso, Chris Merritt, tenori, Enzo Capuano, basso, Francesco Musinu, basso, ja Gloria Banditelli, mezzosopraano, ym. sekä Milanon La Scala -oopperan kuoro ja ork./Riccardo Muti).
+
+          03:05 Nardini: Konsertto viululle, jousille ja continuolle G-duuri (Arion-barokkiork./Stefano Montanari, barokkiviulu). 
+
+          03:19 Seppo Pohjola: Vinha (RSO/John Storgårds).
+
+          03:33 Bartók: Divertimento jousiorkesterille (Saksan radion FO:n jouset/Pietari Inkinen).
+
+          03:59 Gossec: Jousikvartetto n:o 1 (Quatuor Ad Fontes).
+
+          04:10 Skrjabin: Sinfonia n:o 2 c-molli (Philadelphian ork./Riccardo Muti).
+
+          04:59 Schmidt: Kvintetto A-duuri (Linos-yhtye).
+
+          06:05 Tanejev: Alkusoitto oopp. Oresteia (HKO/Vladimir Ashkenazy).
+
+          06:22 Pesonen: Sonatiini pianolle (Matti Rautio).
+
+          06:36 W.A. Mozart: Divertimento B-duuri (Stadler Trio).
+
+          06:54 Pierné: Serenadi (Lajos Lencsés, oboe, ja Giselle Herbert, harppu).
+
+          06:56 Borghi: Duetto n:o 1 C-duuri (Lorenzo Gugole, viulu, ja Giorgio Bottiglioni, alttoviulu).
+
+          07:05 Conti: Clori, sei tutta bella (Clori, olet niin kaunis) (Maite Beaumont, mezzosopraano, ja Lautten Compagney/Wolfgang Katschner).
+
+          07:17 Philidor: Sarja kahdelle huilulle n:o 3 D-duuri (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
+
+...

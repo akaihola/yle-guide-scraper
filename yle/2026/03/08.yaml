@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:37.191792+00:00'
+  generated_at: '2026-02-26T03:02:25.813947+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -84,7 +84,7 @@ data:
         end_time: '2026-03-08T12:55:00+02:00'
         description: |-
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Tavallista naistenpäivän musiikkia'
         start_time: '2026-03-08T13:00:00+02:00'
         end_time: '2026-03-08T13:57:00+02:00'
         description: |-
@@ -178,8 +178,8 @@ data:
       - title: Akatistos pyhälle Johannes Sonkajanrantalaiselle Joensuun Pyhän Nikolaoksen kirkosta
         start_time: '2026-03-08T20:00:00+02:00'
         end_time: '2026-03-08T21:00:00+02:00'
-        description: |-
-          Palveluksen toimittaa rovasti Aleksander Roszczenko.
+        description: |
+          Palveluksen toimittaa Harri Linna.
       - title: Uutispodcast
         start_time: '2026-03-08T21:00:30+02:00'
         end_time: '2026-03-08T21:24:00+02:00'

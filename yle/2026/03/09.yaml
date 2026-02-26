@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:37.463666+00:00'
+  generated_at: '2026-02-26T03:02:26.025006+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -198,7 +198,7 @@ data:
           Lukija: Sakari Silvola
           Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: Politiikkaradio
-        start_time: '2026-03-09T21:00:00+02:00'
+        start_time: '2026-03-09T21:00:01+02:00'
         end_time: '2026-03-09T21:30:00+02:00'
       - title: Tiedeykkönen
         start_time: '2026-03-09T21:30:30+02:00'
@@ -213,3 +213,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-09T23:40:00+02:00'
         end_time: '2026-03-10T06:30:00+02:00'
+        description: |+
+          Couperin: Konsertto n:o 3 A-duuri kamariyhtyeelle (Jordi Savall, basse de violon, ja Le Concert des Nations). 
+
+          23:58 Pylkkänen: Pieni sarja oboelle ja jousiorkesterille (Aale Lindgren ja RSO/Petri Sakari).
+
+          00:07 Sor: Divertimento kahdelle kitaralle E-duuri (Rohkaisu) (Julian Bream ja John Williams).
+
+          00:22 Andrée: Pianotrio n:o 2 g-molli (Lucia Negro, piano, Berndt Lysell, viulu, ja Ola Karlsson, sello). 
+
+          00:48 Fauré: Kuutamo (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          00:51 Wagner: Siegfriedin surumarssi oopp. Jumalten tuho (Philharmonia-ork./Otto Klemperer).
+
+          01:00 Elgar: Sonaatti uruille n:o 1 G-duuri (Wolfgang Rübsam).
+
+          01:30 Godard: Sarja huilulle ja pianolle B-duuri (Jeffrey Khaner, huilu, ja Hugh Sung, piano).
+
+          01:40 Brahms: Sinfonia n:o 4 e-molli (RSO/Jukka-Pekka Saraste).
+
+          02:23 Meyerbeer: Dinorahin varjoaaria oopp. Dinorah (Rita Streich, sopraano, ja Berliinin RSO/Kurt Gaebel).
+
+          02:32 Schumann: Albumi nuorisolle, osia (Norman Shetler, piano).
+
+          03:27 Prokofjev: Viulukonsertto n:o 2 g-molli (David Oistrah ja Philharmonia-ork./Alceo Galliera).
+
+          03:55 Berlioz: Alkusoitto oopp. Vapaatuomarit (Baltimoren SO/David Zinman).
+
+          04:09 Schütz: Motetti Die Auferstehung unseres Herren Jesu Christi (Peter Schreier, Hans-Jürgen Wachsmuth, Günter Leib, Eberhard Büchner, Armin Ude, Olaf Bär, Wolf Reinhold, ym. sekä Dresdenin poikakuoro ja Capella Fidicinia/Martin Flämig). 
+
+          05:02 J. Haydn: Sinfonia n:o 103 Es-duuri (Rummunpäristys) (RSO/Santtu-Matias Rouvali).
+
+          05:31 J.S. Bach: Neljä konserttoa kahdelle cembalolle (Jeffrey Kahane ja Robert Levin, cembalo sekä Oregonin Bach-juhlien kamariork./Helmut Rilling).
+
+...

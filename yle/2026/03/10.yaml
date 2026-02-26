@@ -1,15 +1,48 @@
 metadata:
-  generated_at: '2026-02-25T03:04:37.761772+00:00'
+  generated_at: '2026-02-26T03:02:26.236417+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-09T23:40:00+02:00'
         end_time: '2026-03-10T06:30:00+02:00'
+        description: |+
+          Couperin: Konsertto n:o 3 A-duuri kamariyhtyeelle (Jordi Savall, basse de violon, ja Le Concert des Nations). 
+
+          23:58 Pylkkänen: Pieni sarja oboelle ja jousiorkesterille (Aale Lindgren ja RSO/Petri Sakari).
+
+          00:07 Sor: Divertimento kahdelle kitaralle E-duuri (Rohkaisu) (Julian Bream ja John Williams).
+
+          00:22 Andrée: Pianotrio n:o 2 g-molli (Lucia Negro, piano, Berndt Lysell, viulu, ja Ola Karlsson, sello). 
+
+          00:48 Fauré: Kuutamo (Gil Shaham, viulu, ja Akira Eguchi, piano).
+
+          00:51 Wagner: Siegfriedin surumarssi oopp. Jumalten tuho (Philharmonia-ork./Otto Klemperer).
+
+          01:00 Elgar: Sonaatti uruille n:o 1 G-duuri (Wolfgang Rübsam).
+
+          01:30 Godard: Sarja huilulle ja pianolle B-duuri (Jeffrey Khaner, huilu, ja Hugh Sung, piano).
+
+          01:40 Brahms: Sinfonia n:o 4 e-molli (RSO/Jukka-Pekka Saraste).
+
+          02:23 Meyerbeer: Dinorahin varjoaaria oopp. Dinorah (Rita Streich, sopraano, ja Berliinin RSO/Kurt Gaebel).
+
+          02:32 Schumann: Albumi nuorisolle, osia (Norman Shetler, piano).
+
+          03:27 Prokofjev: Viulukonsertto n:o 2 g-molli (David Oistrah ja Philharmonia-ork./Alceo Galliera).
+
+          03:55 Berlioz: Alkusoitto oopp. Vapaatuomarit (Baltimoren SO/David Zinman).
+
+          04:09 Schütz: Motetti Die Auferstehung unseres Herren Jesu Christi (Peter Schreier, Hans-Jürgen Wachsmuth, Günter Leib, Eberhard Büchner, Armin Ude, Olaf Bär, Wolf Reinhold, ym. sekä Dresdenin poikakuoro ja Capella Fidicinia/Martin Flämig). 
+
+          05:02 J. Haydn: Sinfonia n:o 103 Es-duuri (Rummunpäristys) (RSO/Santtu-Matias Rouvali).
+
+          05:31 J.S. Bach: Neljä konserttoa kahdelle cembalolle (Jeffrey Kahane ja Robert Levin, cembalo sekä Oregonin Bach-juhlien kamariork./Helmut Rilling).
+
       - title: Hartaita säveliä
         start_time: '2026-03-10T06:30:50+02:00'
         end_time: '2026-03-10T06:50:00+02:00'
@@ -61,6 +94,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-10T09:04:00+02:00'
         end_time: '2026-03-10T09:59:00+02:00'
+        description: |+
+          Edu Kettunen: Tavallinen päivä.
+          Godding: I know you love me not (Julie Driscoll).
+          Guthrie: Lentsikkalaulu (Hootenanny Trio).
+          Gifford: The Casa Loma stomp (Pasadena Roof Orchestra).
+          Stremler: Trois petits tours (Francoise Hardy).
+          Ojakäär: Kalastajan laulu (Georg Ots).
+          Woodford: Tänk om den känslan försvann (Anna-Lena Löfgren).
+          Kern: Blue eyes (Paul England, laulu, ja Jack Hylton & His Orchersta).
+          McCoy: Why don't you do it right (Helen Merrill).
+          Ferre (sov. Kärki): Harmonikka nauraa (Metro-tytöt & Decca-yhtye).
+          Donida: Help yourself (Tom Jones).
+          Hoven: Onko synti? (Seija Lampila).
+          Vian: Luna rossa (Claudio Villa).
+          Olias: Kitara ja meri (Ritva Simuna).
+          Styne: I'll walk alone (Martha Tilton).
+          Reed/Mason: En kuitenkaan (Jouko ja Kosti).
+
       - title: Sari Valto
         start_time: '2026-03-10T10:00:00+02:00'
         end_time: '2026-03-10T10:55:00+02:00'
@@ -114,7 +165,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-10T16:00:00+02:00'
         end_time: '2026-03-10T16:07:00+02:00'
-      - title: Faunin iltapäivä
+      - title: Faunin iltapäivä 2
         start_time: '2026-03-10T16:07:00+02:00'
         end_time: '2026-03-10T16:59:00+02:00'
       - title: Uutispodcast
@@ -159,7 +210,7 @@ data:
         start_time: '2026-03-10T20:35:00+02:00'
         end_time: '2026-03-10T21:00:00+02:00'
       - title: 'Politiikkaradio '
-        start_time: '2026-03-10T21:00:00+02:00'
+        start_time: '2026-03-10T21:00:01+02:00'
         end_time: '2026-03-10T21:30:00+02:00'
       - title: Sari Valto
         start_time: '2026-03-10T21:31:00+02:00'
@@ -172,3 +223,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-10T23:40:00+02:00'
         end_time: '2026-03-11T06:30:00+02:00'
+        description: |+
+          Nueva España. Musiikkia ja lauluja Uudesta Maailmasta 1590-1690 (säv. Araujo, Fernandez, de Lienas ym.) (Useita solisteja sekä Schola Cantorum of Boston ja Boston Camerata/Joel Cohen).
+
+          00:58 Beethoven: Sonaatti viululle ja pianolle n:o 6 A-duuri (David Oistrah ja Lev Oborin).
+
+          01:20 Quantz: Triosonaatti C-duuri (Palladian Ensemble).
+
+          01:33 Karnavicius: Jousikvartetto n:o 2 d-molli (Vilna-kvartetti).
+
+          02:16 Rahmaninov: Kuoleman saari (RSO/Jukka-Pekka Saraste).
+
+          02:37 Debussy: Images 2 (Roope Gröndahl, piano).
+
+          02:50 W.A. Mozart: Viulukonsertto n:o 5 A-duuri (Turkkilainen) (Jascha Heifetz ja nimeämätön ork.).
+
+          03:17 Shostakovitsh: Pianotrio n:o 2 e-molli. (Isaac Stern, viulu, Yo-Yo Ma, sello, ja Emanuel Ax, piano).
+
+          03:44 Fauré: Sonaatti viululle ja pianolle n:o 1 A-duuri (Gil Shaham ja Akira Eguchi).
+
+          04:11 Copland: Connotations (Juilliard-ork./Sixten Ehrling).
+
+          04:32 Schumann: Sellokonsertto a-molli (Gaspar Cassadó ja Bambergin sinfonikot/Jonel Perlea).
+
+          04:57 W.A. Mozart: Musiikillinen pila (Orpheus-kamariorkesteri).
+
+          05:22 Buxtehude: Sonaatti viululle, viola da gamballe ja continuolle e-molli  (The Boston Museum Trio). 
+
+          05:29 Just: Triosonaatit 1-6 Op.13 (Camerata Classica).
+
+...

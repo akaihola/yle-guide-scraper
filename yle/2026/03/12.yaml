@@ -1,15 +1,38 @@
 metadata:
-  generated_at: '2026-02-25T03:04:38.320395+00:00'
+  generated_at: '2026-02-26T03:02:26.802367+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-11T23:40:00+02:00'
         end_time: '2026-03-12T06:30:00+02:00'
+        description: |+
+          W.A. Mozart: Pianotrio n:o 5 E-duuri (Arion Trio).
+
+          00:00 Bayer: Musiikkia bal. Die Puppenfee (Nukkehaltiatar) (Wienin filharmonikot/Rudolf Kempe).
+
+          00:12 Boccherini: Kvintetto jousille E-duuri (Isaac Stern ja Cho-Liang Lin, viulu, Jaime Laredo, alttoviulu sekä Yo-Yo Ma ja Sharon Robinson, sello).
+
+          00:34 Berlioz: Harold Italiassa (Rudolf Barshai, alttoviulu, ja Moskovan kamariork./David Oistrah).
+
+          01:18 Prokofjev: Luutnantti Kizhe, sinfoninen sarja (Chicagon SO/Claudio Abbado).
+
+          01:39 J. Haydn: Pianokonsertto D-duuri (Andreas Staier, fortepiano, ja Freiburgin barokkiork./Gottfried von der Goltz).
+
+          02:00 Shostakovitsh: Sinfonia n:o 13 b-molli (Babi Jar) (Sergei Leiferkus, basso, ja Prahan filharmonisen kuoron miesäänet, sekä Amsterdamin Concertgebouw-ork./Kurt Masur).
+
+          03:00 Paganini: Kapriiseja (James Ehnes, viulu). 
+
+          04:18 Chopin: Poloneeseja pianolle (Garrick Ohlsson).
+
+          05:32 Vivaldi - Biegel: Neljä vuodenaikaa (Jeffrey Biegel, piano).
+
+          06:10 Molter: Sarja kahdelle oboelle, jousille ja continuolle C-duuri (Main-Barockorchester Frankfurt/Martin Jopp, viulu).
+
       - title: Hartaita säveliä
         start_time: '2026-03-12T06:30:50+02:00'
         end_time: '2026-03-12T06:50:00+02:00'
@@ -80,6 +103,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-03-12T13:30:00+02:00'
         end_time: '2026-03-12T15:00:00+02:00'
+        description: |2+
+
       - title: Kulttuuriykkönen
         start_time: '2026-03-12T15:00:00+02:00'
         end_time: '2026-03-12T15:55:00+02:00'
@@ -96,7 +121,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-12T16:07:00+02:00'
         end_time: '2026-03-12T16:59:00+02:00'
-        description: |+
+        description: |
           Netzel: Danse hongroise (Unkarilainen tanssi) (Raphaela Gromes, sello, ja Julian Riem, piano).
 
           Bizet: La garde montante (Katupoikien kuoro) sarj. Carmen-oopperan teemoista (Saint Louisin SO/Leonard Slatkin).
@@ -119,8 +144,7 @@ data:
 
           Jeral: Serenade viennoise (Thomas Christian Ensemble).
 
-          Guarnieri: Brasilialainen tanssi (New Yorkin FO/Leonard Bernstein).
-
+          Guarnieri: Dansa brasileira (Brasilialainen tanssi) (New Yorkin FO/Leonard Bernstein).
       - title: Uutispodcast
         start_time: '2026-03-12T17:00:00+02:00'
         end_time: '2026-03-12T17:20:00+02:00'
@@ -148,9 +172,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-12T19:00:00+02:00'
         end_time: '2026-03-12T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Dee Dee Bridgewater Quartet Novi Sad -festivaalilla Serbiassa.'
         start_time: '2026-03-12T19:02:00+02:00'
         end_time: '2026-03-12T20:00:00+02:00'
+        description: |
+          Äänitetty Serbian kansallisteatterissa 12.10.2025.
       - title: Klassinen kattaus nukkien maailmassa
         start_time: '2026-03-12T20:00:00+02:00'
         end_time: '2026-03-12T20:57:00+02:00'
@@ -176,7 +202,7 @@ data:
           Donjon: Bamboche (Sätkynukke) (Jean-Louis Beaumadier, pikkolohuilu, ja Jean Koerner, piano).
 
       - title: 'Politiikkaradio '
-        start_time: '2026-03-12T21:00:00+02:00'
+        start_time: '2026-03-12T21:00:01+02:00'
         end_time: '2026-03-12T21:30:00+02:00'
       - title: 'Väkivallan markkinat: “Jos kuolet tehdessäs jotain mistä tykkäät, mikäs sen parempaa”'
         start_time: '2026-03-12T21:31:00+02:00'
@@ -193,3 +219,25 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-13T00:00:00+02:00'
         end_time: '2026-03-13T06:30:00+02:00'
+        description: |+
+          Saint-Saëns: Kuusi etydiä vasemmalle kädelle (Leon Fleisher, piano).
+
+          00:19 Hummel: Pianotrio n:o 7 Es-duuri (Beaux Arts Trio). 
+
+          00:38 W.A. Mozart: Viulusonaatit n:o 26 B-duuri, 27 G-duuri ja 28 Es-duuri (Joseph Szigeti, viulu, ja Mieczyslaw Horszowski, piano).
+
+          01:35 Rimski-Korsakov: Sheherazade (Lontoon kuninkaallinen FO/Thomas Beecham, ja Steven Staryk, viulu).
+
+          02:21 Copland: Sinfonia n:o 3 (New Yorkin FO/Leonard Bernstein).
+
+          03:05 Duparc: Kaksitoista yksinlaulua (Gérard Souzay, baritoni, ja Jacqueline Bonneau, piano).
+
+          03:53 Brahms: Viulukonserton D-duuri pianoversio. (Dejan Lazic, piano ja Atlantan SO/Robert Spano).
+
+          04:35 J. Haydn: Sellokonsertot C-duuri ja D-duuri (Anne Gastinel ja Moskovan solistit/Juri Bashmet).
+
+          05:25 J.S. Bach: Urkusävellyksiä (Hans Otto, urut).
+
+          06:21 Vivaldi (sov. Respighi): Sonaatti D-duuri (Yuval Yaron, viulu, ja Jeremy Denk, piano).
+
+...

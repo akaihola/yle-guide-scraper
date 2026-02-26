@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:36.025516+00:00'
+  generated_at: '2026-02-26T03:02:24.521746+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -100,6 +100,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-03-04T08:07:00+02:00'
         end_time: '2026-03-04T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-03-04T09:00:00+02:00'
         end_time: '2026-03-04T09:03:00+02:00'
@@ -147,6 +149,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-04T11:57:00+02:00'
         end_time: '2026-03-04T12:00:00+02:00'
+        description: |
+          Ote Simone Weilin teoksesta Painovoima ja armo
       - title: Yle Uutiset ja sää
         start_time: '2026-03-04T12:00:00+02:00'
         end_time: '2026-03-04T12:05:00+02:00'
@@ -162,11 +166,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-04T13:00:00+02:00'
         end_time: '2026-03-04T13:30:00+02:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: elokuvaohjaaja Aleksi Salmenperä tarttuu nyt pärjäämisen kulttuuriin'
         start_time: '2026-03-04T13:30:00+02:00'
         end_time: '2026-03-04T15:00:00+02:00'
-        description: |2+
-
+        description: |+
+          Jarmo Laitaneva juontaa. Elokuvaohjaaja, käsikirjoittaja Aleksi Salmenperän töissä pureudutaan erityisesti ihmisten välisiin suhteisiin. Niin tällä viikolla ensi-iltansa saavasssa Isänpäivä elokuvassa kuin televisiossa nähtävässä L/over - ikuisesti minun -sarjassakin.  Jussi-palkittu elokuvaohjaaja on iltapäivälähetyksen studiovieraana n. klo 14. 
 
       - title: Kulttuuriykkönen
         start_time: '2026-03-04T15:00:00+02:00'
@@ -240,11 +244,16 @@ data:
 
           Kuvassa Malin Broman (© Mats Bäcker)
       - title: 'Politiikkaradio '
-        start_time: '2026-03-04T21:00:00+02:00'
+        start_time: '2026-03-04T21:00:01+02:00'
         end_time: '2026-03-04T21:30:00+02:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-03-04T21:31:00+02:00'
         end_time: '2026-03-04T22:20:00+02:00'
+      - title: 'Sielun tietotoimisto: Gnostilaisuus – Kaikki pääsevät taivaaseen'
+        start_time: '2026-03-04T22:21:00+02:00'
+        end_time: '2026-03-04T22:50:00+02:00'
+        description: |-
+          Gnostilaisen opin alkuperä on osittain mysteerin peitossa, ja gnostilaisia on aikanaan myös vainottu. Miksi kuolemanjälkeinen elämä on olennainen kysymys, ja millaisia gnostilaisuuden muotoja on Suomessa? Toimittaja Nadja Mikkonen keskustelee Suomen gnostilaisen seuran puheenjohtaja, tietokirjailija Pentti Tuomisen ja professori emeritus Antti Marjasen kanssa.
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-03-04T23:20:00+02:00'
         end_time: '2026-03-04T23:39:30+02:00'

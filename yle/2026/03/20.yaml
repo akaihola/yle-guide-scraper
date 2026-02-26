@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:40.733672+00:00'
+  generated_at: '2026-02-26T03:02:28.880735+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-03-20T06:50:00+02:00'
         end_time: '2026-03-20T06:59:59+02:00'
         description: |-
-          Diakoni Antti Kulmala, Tampere
+          "Kaikki alkaa pienestä"
+          Diakoni Antti Kulmala Tampereelta puhuu pienissä aluissa piilevästä potentiaalista.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-20T07:00:00+02:00'
         end_time: '2026-03-20T07:05:00+02:00'
@@ -113,7 +114,7 @@ data:
         start_time: '2026-03-20T19:02:00+02:00'
         end_time: '2026-03-20T21:00:00+02:00'
       - title: 'Politiikkaradio '
-        start_time: '2026-03-20T21:00:00+02:00'
+        start_time: '2026-03-20T21:00:01+02:00'
         end_time: '2026-03-20T21:30:00+02:00'
       - title: Tuuli Saksalan keidas
         start_time: '2026-03-20T22:26:00+02:00'

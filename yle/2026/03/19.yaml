@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:40.488346+00:00'
+  generated_at: '2026-02-26T03:02:28.693934+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -113,8 +113,21 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-03-19T20:00:00+02:00'
         end_time: '2026-03-19T20:57:00+02:00'
+        description: |+
+          Sibelius: Demanten på marssnön (Jussi Björling, tenori, ja Frederick Schauwecker, piano).
+
+          Grieg (sov. Langford): Lualåt (Vuoriston laulu) (Michala Petri, nokkahuilu, ja Englantilainen kamariork./Gordon Langford).
+
+          Cras: Kaksi impromptua (Marie-Pierre Langlamet, harppu).
+
+          C. Stamitz: Trio kahdelle huilulle ja continuolle G-duuri (Camerata Köln).
+
+          Shostakovitsh (sov. Laritshev): Johdanto musiikista elokuvaan Paarma (John Williams ja Timothy Kain, kitara).
+
+          Monn: Konsertto sellolle, jousille ja cembalolle (Jian Wang ja Salzburgin Mozarteumin akateeminen kamariork.).
+
       - title: 'Politiikkaradio '
-        start_time: '2026-03-19T21:00:00+02:00'
+        start_time: '2026-03-19T21:00:01+02:00'
         end_time: '2026-03-19T21:30:00+02:00'
       - title: 'Väkivallan markkinat: Voiko aseellisella turvaamisella tehdä rahaa Suomessa?'
         start_time: '2026-03-19T21:31:00+02:00'

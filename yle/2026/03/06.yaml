@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-25T03:04:36.616654+00:00'
+  generated_at: '2026-02-26T03:02:25.252275+00:00'
   git:
     branch: main
-    commit: 0065803d50cf8b55e0d63218ab6025c225228ce3
-  data_hash: 89a82589bc573c906971fcd13b0eece306c432a67f71e7d2a056f672433b27a8
+    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
+  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
 data:
   '':
     programmes:
@@ -58,8 +58,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-03-06T06:50:00+02:00'
         end_time: '2026-03-06T06:59:59+02:00'
-        description: |-
-          Diakoni Antti Kulmala, Tampere
+        description: |
+          "Katsele enemmän, kerää vähemmän"
+          Diakoni Antti Kulmala Tampereelta puhuu Italian Assisissa taivaallisen Isän kutsuun vastaavasta nuoresta Franciscuksesta. 
       - title: Yle Uutiset ja sää
         start_time: '2026-03-06T07:00:00+02:00'
         end_time: '2026-03-06T07:05:00+02:00'
@@ -91,6 +92,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-03-06T08:07:00+02:00'
         end_time: '2026-03-06T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-03-06T09:00:00+02:00'
         end_time: '2026-03-06T09:03:00+02:00'
@@ -132,6 +135,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-06T11:57:00+02:00'
         end_time: '2026-03-06T12:00:00+02:00'
+        description: |
+          Timo K. Mukan runo kokoelmasta Punaista
       - title: Yle Uutiset ja sää
         start_time: '2026-03-06T12:00:00+02:00'
         end_time: '2026-03-06T12:05:00+02:00'
@@ -164,18 +169,18 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-03-06T16:07:00+02:00'
         end_time: '2026-03-06T16:59:00+02:00'
-        description: |+
-          Vivaldi: Largo konsertosta Talvi teoksesta Neljä vuodenaikaa (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
+        description: |
+          Vivaldi: Largo kons. Talvi teoks. Neljä vuodenaikaa (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
 
-          Sibelius: Sångarlön (Tom Krause, baritoni, Irwin Cage, piano).
+          Sibelius: Sångarlön (Tom Krause, baritoni, ja Irwin Cage, piano).
 
           Elgar: Aamulaulu (Uuden-Seelannin SO/James Judd).
 
           Poulenc: Marie (DR VokalEnsemblet/Stephen Layton).
 
-          Shostakovitsh: Allegretto Sonaatista alttoviululle ja pianolle C-duuri (Gerard Causse, alttoviulu, Brigitte Engerer, piano).
+          Shostakovitsh: Allegretto sonaatista alttoviululle ja pianolle C-duuri (Gerard Causse ja Brigitte Engerer).
 
-          Rautavaara: Melankolia (RSO/Jukka-Pekka Saraste). 
+          Rautavaara: Melankolia kons. Cantus arcticus (RSO/Jukka-Pekka Saraste). 
 
           Schubert: Frühlingsglaube (Fritz Wunderlich, tenori, ja Hubert Giesen, piano).
 
@@ -183,12 +188,11 @@ data:
 
           Puccini: Cavaradossin aaria "E lucevan le stelle" oopp. Tosca (Jonas Kaufmann, tenori, ja Prahan FO/Marco Armiliato).
 
-          Tailleferre: Romanssi pianolle A-duuri (Adalberto Maria Riva).
+          Tailleferre: Romanssi A-duuri (Adalberto Maria Riva, piano).
 
           Wagner: Pyhiinvaeltajien kuoro "Beglückt darf nun dich, o Heimat - Heil! Der Gnade Wunder Heil!" oopp. Tannhäuser (Leipzigin radiokuoro ja Dresdenin valtionork./Silvio Varviso).
 
-          Piazzolla - Perello: Buenos Airesin talvi (InTime Quintet ja Tampereen KO/Jaana Haanterä).
-
+          Piazzolla: Invierno porteno (Buenos Airesin talvi) (Marcelo Jaime Nisinman, bandoneon, The InTime Quintet ja Tampere Filharmonia/Jaana Haanterä).
       - title: Uutispodcast
         start_time: '2026-03-06T17:00:00+02:00'
         end_time: '2026-03-06T17:20:00+02:00'
@@ -218,6 +222,8 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-03-06T19:02:00+02:00'
         end_time: '2026-03-06T21:00:00+02:00'
+        description: |-
+          Jörg Widmann, kapellimestari, Michael Nagy, baritoni. - Jörg Widmann: Schumannliebe (Suomen ensiesitys). Robert Schumann: Sinfonia nro 2 C-duuri . Suoran lähetyksen Musiikkitalosta juontaa Riikka Holopainen. 
       - title: 'Politiikkaradio '
         start_time: '2026-03-06T21:00:00+02:00'
         end_time: '2026-03-06T21:30:00+02:00'
