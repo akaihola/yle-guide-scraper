@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:28.291620+00:00'
+  generated_at: '2026-02-27T03:01:09.228679+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-17T07:06:00+02:00'
         end_time: '2026-03-17T08:00:00+02:00'
+        description: |+
+          J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
+
+          J. Haydn: Allegro molto jousikvartetosta n:o 8 (John Williams, kitara, Alan Loveday, viulu, Cecil Aronowitz, alttoviulu, Amaryllis Fleming, sello). 
+
+          Grainger (sov.): Irlantilainen sävelmä Derryn kreivikunnasta (Dallas Wind Symphony/Jerry Junkin).
+
+          O. Merikanto: Tuulan tei (Candomino-kuoro/Tauno Satomaa).
+
+          Beethoven: Allegro con brio - Presto baletista Die Geschöpfe des Prometheus (Orpheus-kamariorkesteri).
+
+          Fauré: Aubade (Aamulaulu) op.6/1 (Jean-Paul Fouchecourt, tenori, ja Graham Johnson, piano).
+
+          I. Hannikainen: Ilta op.4/3 pianolle (Anna Kuvaja).
+
+          Bartók: Romanialaisia kansantansseja (Chicagon SO/Georg Solti).
+
+          Kálmán: Tangolaulu oper. Montmartren orvokki (Simon Keenlyside, baritoni, ja Ala-Itävallan Tonkünstler-ork./Alfred Eschwe).
+
+          J. Strauss nuorempi: Pizzicato-polkka (German Brass).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-17T08:00:00+02:00'
         end_time: '2026-03-17T08:07:00+02:00'
@@ -36,6 +57,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-17T09:04:00+02:00'
         end_time: '2026-03-17T09:59:00+02:00'
+        description: |+
+          Dylan: Winterlude (Bob Dylan).
+          Ripa: Aveva un bavero (Quarteto Cetra).
+          Abrahams/Reid/Moisle: Rakkaus on muuttolintu (Tuula-Anneli Rantanen). 
+          Lynne/Orbison/Petty: California Blue (Roy Orbison.
+          Hampton: Hey! Ba-ba-re-bop (Lionel Hampton).
+          Cabrera: Tu voz (Celia Cruz).
+          Fain: I left my sugar standing in the rain (Lee Wiley).
+          Sainte-Marie (sov. Salo): Mä meidän maalle tahdon takaisin (I'm gonna be a country girl again) (Eija Merilä).
+          Phillips: Blueberries for breakfast (The Mamas and The Papas).
+          O'Sullivan: Yksin oon tietenkin (Pepe Willberg ja Paradise).
+          DePaul/Raye: The first baseball game (Nat King Cole).
+          Müller: Das kommt vom Küssen (Caterina Valente ja Silvio Francesco).
+          Warren: The More I see you (Nancy Wilson).
+          Moustaki: Ma solitude (Serge Reggiani).
+          McCartney: Maybe I'm amazed (Nils Landgren). 
+
       - title: Sari Valto
         start_time: '2026-03-17T10:00:00+02:00'
         end_time: '2026-03-17T10:55:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:26.236417+00:00'
+  generated_at: '2026-02-27T03:01:07.711014+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -179,17 +179,20 @@ data:
         description: |2+
 
 
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Kiuru'
         start_time: '2026-03-10T18:30:00+02:00'
         end_time: '2026-03-10T18:35:00+02:00'
+        description: |-
+          Viikon luontoäänen esittelee Anna-Kaisa Brenner.
       - title: Hartaita säveliä
         start_time: '2026-03-10T18:35:00+02:00'
         end_time: '2026-03-10T18:50:00+02:00'
       - title: Iltahartaus
         start_time: '2026-03-10T18:50:00+02:00'
         end_time: '2026-03-10T19:00:00+02:00'
-        description: |-
-          Sielunhoito-terapeutti Marketta Sundell, Baptistiyhdyskunta, Kokkola
+        description: |
+          "Tunnetko sinä häpeää?"
+          Sielunhoitoterapeutti Marketta Sundell, Baptistiyhdyskunta, Kokkolasta puhuu pahimmillaan minuuden osaksi tulevasta häpeästä.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-10T19:00:00+02:00'
         end_time: '2026-03-10T19:02:00+02:00'

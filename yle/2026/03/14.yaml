@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:27.222930+00:00'
+  generated_at: '2026-02-27T03:01:08.509769+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -73,6 +73,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-14T09:04:00+02:00'
         end_time: '2026-03-14T09:59:00+02:00'
+        description: |-
+          Rodgers: Falling in love with love (Dinah Shore).
+          Malmstén: Näenhän valoisan taivaan (Tauno Palo).
+          MacLellan: Snowbird (Anne Murray).
+          Siegel: Johnny Blue (Lena Valaitis).
+          Wood: Roses de Picardie (Sidney Bechet).
+          Kern: The folks who live on the hill (Peggy Lee).
+          Kansansäv.: Tatuoitu nainen (Hootenanny Trio).
+          Arlen: Lydia the tattooed lady (Groucho Marx).
+          Betti: C'est si bon (Petula Clark).
+          Ronell: Willow weep for me (Frank Sinatra).
+          Lind/Jokern/Paddock: Jitterbug från Söder (Alice Babs).
+          Rixner: Sinitaivas (Olavi Virta ja Harmony Sisters).
+          Berlin: Blue skies (Ella Fitzgerald).
+          Peterson: Hymn to freedom (Oscar Peterson Trio).
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-14T09:59:00+02:00'
         end_time: '2026-03-14T10:00:00+02:00'
@@ -89,11 +104,11 @@ data:
           Tiedusteluhistorian asiantuntija, poliisi Mikko Porvali
           Sukutarina: Tapani Turkka 
           Toimittaja ja käsikirjoittaja: Hannamari Vallila
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Lähiöiden eriytyminen - mitä pahaa, mitä hyvää?'
         start_time: '2026-03-14T11:00:00+02:00'
         end_time: '2026-03-14T11:52:00+02:00'
-        description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat.
+        description: |
+          Lähiöiden eriytymistä pidetään pahana asiana, mutta asia ei ole yksinkertainen. Vieraana on sosiologi Anna Kontula.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-14T11:57:00+02:00'
         end_time: '2026-03-14T12:00:00+02:00'

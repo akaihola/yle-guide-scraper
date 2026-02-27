@@ -1,13 +1,13 @@
 metadata:
-  generated_at: '2026-02-26T03:02:25.252275+00:00'
+  generated_at: '2026-02-27T03:01:06.878554+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
-      - title: Missa Christi resurgentis
+      - title: 'Yöklassinen: Missa Christi resurgentis'
         start_time: '2026-03-06T00:00:00+02:00'
         end_time: '2026-03-06T06:30:00+02:00'
         description: |+
@@ -211,6 +211,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-06T18:35:00+02:00'
         end_time: '2026-03-06T18:50:00+02:00'
+        description: |+
+          Skotlantilainen kansansäv.: Oi ihmeellistä armoa (virsi 932) (Gospel Covertajat).
+
+          Harald  Andersén (sov. Rauno Myllylä): Leipää pelloilta maan (virsi 59) (Juha Kotilainen, baritoni, Vox Sonora/Rauno Myllylä, Tapio Tiitu, urut, ja Tuula Honkanen, huilu).
+
+          H. Helenius: Taisteluni (Bass'n Helen).
+
+          Maasalo (sov. Koskinen): Tule kanssani, Herra Jeesus (virsi 548) (Samuli Edelmann).
+
       - title: Iltahartaus
         start_time: '2026-03-06T18:50:00+02:00'
         end_time: '2026-03-06T19:00:00+02:00'

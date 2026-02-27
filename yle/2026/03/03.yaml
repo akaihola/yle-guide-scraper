@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:23.886949+00:00'
+  generated_at: '2026-02-27T03:01:06.267530+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -168,10 +168,17 @@ data:
         end_time: '2026-03-03T15:00:00+02:00'
         description: |-
           Miia Lahti juontaa. Av-kääntäjä Janne Staffans on kääntänyt uransa aikana kaikenlaista liikkuvaan kuvaan liittyvää eli elokuvia ja tv-ohjelmia. Miten kokenut kääntäjä näkee, että hänen työsä eroaa kirjallisuuden kääntämisestä. Entä miten tekoäly vaikuttaa kääntäjän työhön? Staffans on aloittanut uransa 1990-luvun alkupuolella. Miten elokuvat ja tv-ohjelmat ovat kääntäjän näkökulmasta muuttuneet urasi aikana? 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Neuletaiteilija Juha Vehmaanperän näyttely Craft Punk ja käsitöiden lumo ja sanoma'
         start_time: '2026-03-03T15:00:00+02:00'
         end_time: '2026-03-03T15:55:00+02:00'
         description: |-
+          Taito-Finlandia-palkittu neuletaiteilija Juha Vehmaanperä kutsuu itseään Punk-prinsessaksi.  Juha Vehmaanperän ensimmäinen laaja näyttely Craft Punk, Arkkitehtuuri- ja designmuseossa, Helsingissä, avaa näkymän hänen tuotantoonsa kymmenen viime vuoden ajalta. Hän opettaa käsityötä ja on kiinnostunut käsitöiden filosofiasta, psykologiasta ja yhteiskunnallisesta merkityksestä. Hän virkkasi jo lapsena isoäitinsä opettamana. Virkkaamalla hän myös löysi oman identiteettinsä. Miksi mies ei saa näyttää joulukuuselta, hän kysyy.
+
+          Ohjelman vieraina ovat Juha Vehmaanperä, kuraattori Suvi Saloniemi ja vuonna 2029 150 vuotta juhlivan Suomen Käsityön Ystävien puheenjohtaja, tekstiilitaiteilija Outi Martikainen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-03-03T15:55:00+02:00'
@@ -184,6 +191,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-03T16:07:00+02:00'
         end_time: '2026-03-03T16:59:00+02:00'
+        description: |+
+          Melartin: Pastorale (RSO/Ilpo Mansnerus).
+
+          Sibelius: Demanten på marssnön (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          Liszt: Lumituisku sarj. Taiturietydejä (Daniil Trifonov, piano). 
+
+          Prokofjev: Aamusoitto bal. Romeo ja Julia (Cincinnatin SO/Paavo Järvi).
+
+          Madetoja: Kevätunta (Tampereen Filharmoninen kuoro/Heikki Liimola ja Kaisa Koskinen, sopraano).
+
+          Farrenc: Allegro vivace sekstetosta puhallinkvintetille ja pianolle (Les Vents Français ja Eric Le Sage). 
+
+          C.P.E. Bach: Presto triosonaatista h-molli (Emmanuel Pahud, huilu, Lisa Batiashvili, viulu, Sebastian Klinger, sello, ja Peter Kofler, cembalo).
+
+          J.C. Bach: Rondeau pianokonsertosta D-duuri op.7/3 (Anastasia Injushina, piano, ja Hamburger Camerata/Ralf Gothóni).
+
+          Paradis: Sicilienne (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          Rautavaara: Adagietto konsertosta harpulle ja orkesterille (Marielle Nordmann ja HKO/Leif Segerstam). 
+
+          Lecuona: Nukkien kestit (Thomas Tirino, piano).
+
+          Price: Tropical noon pianosarj. Dances in the canebrakes (Tansseja ruoikossa) (Chicago Sinfonietta/Mei-Ann Chen).
+
       - title: Uutispodcast
         start_time: '2026-03-03T17:00:00+02:00'
         end_time: '2026-03-03T17:20:00+02:00'
@@ -195,9 +227,11 @@ data:
         description: |2+
 
 
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Kesykyyhky eli pulu'
         start_time: '2026-03-03T18:30:00+02:00'
         end_time: '2026-03-03T18:35:00+02:00'
+        description: |-
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2026-03-03T18:35:00+02:00'
         end_time: '2026-03-03T18:50:00+02:00'
@@ -227,23 +261,23 @@ data:
         end_time: '2026-03-03T20:15:00+02:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: 'Maailman tärkein pieni asia: veteraaniurheilija Jarmo Lipasti'
+      - title: 'Maailman tärkein pieni asia: aikuisurheilija Jarmo Lipasti'
         start_time: '2026-03-03T20:15:00+02:00'
         end_time: '2026-03-03T20:35:00+02:00'
-        description: |-
-          Veteraaniurheilija Jarmo Lipasti. Toimittajana Maija Salminen. 
+        description: |
+          Aikuisurheilija Jarmo Lipastille myös tuloksilla on merkitystä. Toimittajana Maija Salminen. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-03-03T20:35:00+02:00'
         end_time: '2026-03-03T21:00:00+02:00'
       - title: 'Politiikkaradio '
         start_time: '2026-03-03T21:00:01+02:00'
         end_time: '2026-03-03T21:30:00+02:00'
-      - title: Sari Valto (1. läh klo 10)
+      - title: 'Sari Valto '
         start_time: '2026-03-03T21:31:00+02:00'
         end_time: '2026-03-03T22:24:00+02:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Uudet levyt (1.läh su klo 14)
+      - title: 'Uudet levyt '
         start_time: '2026-03-03T22:25:00+02:00'
         end_time: '2026-03-03T23:19:00+02:00'
       - title: Radio 1 soi

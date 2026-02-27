@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:20.127953+00:00'
+  generated_at: '2026-02-27T03:01:05.621295+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -34,8 +34,8 @@ data:
           07:13 Arne: Triosonaatti n:o 1 A-duuri op.3/1 (Collegium Musicum 90).
 
       - title: 'Luomiskertomus: Elli Salo - Keräilijä'
-        start_time: '2026-02-28T07:31:00+02:00'
-        end_time: '2026-02-28T07:55:00+02:00'
+        start_time: '2026-02-28T07:30:43+02:00'
+        end_time: '2026-02-28T07:52:34+02:00'
         description: |-
           Mitä kaikkea itsestämme ymmärrämme, jos uskallamme vähänkään jakaa toisille kipeitä muistojamme? Keräilijät-romaanissa arkeologi Heini matkustaa Kainuuseen Läätteeseen etsimään talvisodan taistelujen jälkiä. Elämän rajallisuuden ymmärtämisen keskellä Heini uskaltaa pysähtyä myös omien surujensa eteen. Menneitä kaivellessa Heini tutustuu paikallisiin ihmisiin ja tajuaa millainen merkitys ystävyydellä voi olla.
 
@@ -43,7 +43,7 @@ data:
 
           Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-02-28T07:55:00+02:00'
+        start_time: '2026-02-28T07:52:34+02:00'
         end_time: '2026-02-28T08:00:00+02:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-02-28T08:00:00+02:00'
@@ -69,11 +69,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-02-28T08:35:00+02:00'
         end_time: '2026-02-28T08:40:00+02:00'
-      - title: 'Maailman tärkein pieni asia: veteraaniurheilija Jarmo Lipasti'
+      - title: 'Maailman tärkein pieni asia: aikuisurheilija Jarmo Lipasti'
         start_time: '2026-02-28T08:40:00+02:00'
         end_time: '2026-02-28T09:00:00+02:00'
-        description: |-
-          Veteraaniurheilija Jarmo Lipasti. Toimittajana Maija Salminen. 
+        description: |
+          Aikuisurheilija Jarmo Lipastille myös tuloksilla on merkitystä. Toimittajana Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-02-28T09:00:00+02:00'
         end_time: '2026-02-28T09:03:00+02:00'
@@ -134,8 +134,8 @@ data:
         end_time: '2026-02-28T13:00:00+02:00'
         description: |-
           Elias Lönnrotin työpöydällä syntyi kansanrunojen pohjalta Kullervo, jota aatteet ja taiteet ovat varioineet ajasta aikaan. Mikä motivoi Lönnrotia kirjoittamaan hahmon niin traagiseksi? Miksi tuhoisa ja kostonhimoinen Kullervo on kiinnostanut taiteilijoita niin paljon? Miten Kullervon hahmo latautuu suhteessa aikaamme?
-          Marja Vehkasen johdattelemana Kullervon merkityksiä avaavat uskontotieteen dosentti Vesa-Matteo Piludu ja Kalevala-seuran toiminnanjohtaja, dosentti Niina Hämäläinen.
-      - title: 'Näistä levyistä en luovu: näyttelijä Joonas Nordman'
+          Marja Vehkasen johdattelemana Kullervon merkityksiä avaavat uskontotieteen dosentti Vesa Matteo Piludu ja Kalevala-seuran toiminnanjohtaja, dosentti Niina Hämäläinen.
+      - title: 'Näistä levyistä en luovu: Näyttelijä Joonas Nordman'
         start_time: '2026-02-28T13:00:00+02:00'
         end_time: '2026-02-28T13:55:00+02:00'
         description: |
@@ -148,11 +148,11 @@ data:
         end_time: '2026-02-28T14:55:00+02:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Kulttuurin työmarkkinoilla kirjailijat eivät ole samassa veneessä'
         start_time: '2026-02-28T14:55:00+02:00'
         end_time: '2026-02-28T15:00:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Kirjailijaliiton jäsenkriteerit herättävät närää. Alalla olisi tilausta joukkovoimalle, mutta kuka ajaisi kaikkien kirjailijoiden asiaa, vapaa toimittaja Ronja Salmi kysyy.
       - title: Syrjästäkatsojan tarina 9/9.
         start_time: '2026-02-28T15:00:00+02:00'
         end_time: '2026-02-28T15:25:00+02:00'
@@ -262,19 +262,19 @@ data:
 
           Kajanus: Aino (Ylioppilaskunnan Laulajat ja RSO/Jorma Panula).
 
-      - title: Uutispodcast
-        start_time: '2026-02-28T21:01:00+02:00'
-        end_time: '2026-02-28T21:25:00+02:00'
+      - title: 'Uutispodcast: Trump uhoaa USA:n kulkevan voitosta voittoon, mutta kansa ajattelee toisin'
+        start_time: '2026-02-28T21:00:30+02:00'
+        end_time: '2026-02-28T21:21:57+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          USA:n presidentin kansakunnan tila -puheen analyysia amerikkalaisten mielenmaisemasta ja politiikan tilasta. Vieraana tutkija Maria Lindén. 
       - title: 'Poiminta Radio 1:n iltapäivästä '
-        start_time: '2026-02-28T21:25:00+02:00'
-        end_time: '2026-02-28T21:50:00+02:00'
+        start_time: '2026-02-28T21:21:57+02:00'
+        end_time: '2026-02-28T21:43:52+02:00'
         description: |2-
            Mikä on Kalevalan merkitys nyt? Miten elävä se on? Studiovieraana on filosofian tohtori, Kalevalaa paljon tutkinut Sakari Katajamäki. Toimittajana Jarmo Laitaneva. Ensilähetys 18.2.2026.
       - title: 'Klassikkokuunnelma: Laulu tulipunaisesta kukasta 1/2'
-        start_time: '2026-02-28T21:51:00+02:00'
-        end_time: '2026-02-28T22:30:00+02:00'
+        start_time: '2026-02-28T21:43:52+02:00'
+        end_time: '2026-02-28T22:33:32+02:00'
         description: |
           Olavi riitautuu vanhempiensa kanssa, kun ei saa mennä naimisiin piikatytön kanssa. Olavi lähtee tukkilaiseksi ja matkan varrella hurmaa tytön toisensa jälkeen.
           Johannes Linnankosken romaanin mukaan Yleisradiolle kirjoittanut ja ohjannut Eero Leväluoma. 
@@ -298,8 +298,8 @@ data:
 
           Teos vuodelta 1954.
       - title: 'Keinuva talo - Mika Kauhanen: Musiikin myrsky'
-        start_time: '2026-02-28T22:40:00+02:00'
-        end_time: '2026-02-28T23:39:30+02:00'
+        start_time: '2026-02-28T22:39:48+02:00'
+        end_time: '2026-02-28T23:38:54+02:00'
         description: |
           Edellisessä Keinuvan talon jaksossa puhutteli musiikin kauneus, tällä kertaa päädymme musiikillisen myrskyn silmään. Keli on epävakaista: ukkosta, ääri-ilmiöitä, sadetta ja tuulta. Lauluntekijälle myrsky tarjoaa metaforan elämän töyssyille. Toimittajana Mika Kauhanen. Uusinta elokuulta 2025.
       - title: Yöklassinen

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:25.813947+00:00'
+  generated_at: '2026-02-27T03:01:07.287412+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -76,14 +76,32 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-08T11:00:00+02:00'
         end_time: '2026-03-08T11:59:00+02:00'
+        description: |-
+          Styne: Alkusoitto musik. Gypsy (Milton Rosenstock).
+          Tibsen: Mustalaisviulu (Rita Elmgren).
+          Lennon/McCartney: When I'm sixty-four (The Beatles).
+          Lennon/McCartney: I want to hold your hand (Sparks).
+          Bowie: Space oddity (David Bowie).
+          Weill: La chanson de Barbara (Juliette Greco).
+          Siegel: Ich hab' noch einen Koffer in Berlin (Marlene Dietrich). 
+          Weidemann/Kamien/Tykwer: Zu Asche, zu Staub (Severija).
+          English: Six ribbons (Jon English).
+          E. Malmsten: Sä muistatko metsätien (Tapio Heinonen).
+          G. Malmsten: Kohtalokas samba (Georg Malmsten).
+          Koivumies: Hyvästi yö (Marion).
+          Wallin: Nygammal vals (Lill Lindfors ja Svante Thuresson).
+          Desmond: Take five (Chet Atkins).
       - title: Yle Uutiset ja sää
         start_time: '2026-03-08T12:00:00+02:00'
         end_time: '2026-03-08T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Kun homous oli sairaus - Ketkä ovat saaneet päättää, kuka on mielisairas?'
         start_time: '2026-03-08T12:05:00+02:00'
         end_time: '2026-03-08T12:55:00+02:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |
+          Nykyisin mielenterveyden diagnooseilla on enemmän valtaa ja merkitystä kuin koskaan aikaisemmin. Mutta miten nämä diagnoosit ovat syntyneet? Mihin ne todellisuudessa perustuvat? 
+          Haastateltavana: historiantutkija Mia Pohtola
+          Toimittajana: Hanna Asikainen
+          Äänisuunnittelu: Laura Koso
       - title: 'Välilevyjä: Tavallista naistenpäivän musiikkia'
         start_time: '2026-03-08T13:00:00+02:00'
         end_time: '2026-03-08T13:57:00+02:00'
@@ -121,9 +139,11 @@ data:
       - title: Musiikkikamari
         start_time: '2026-03-08T15:35:00+02:00'
         end_time: '2026-03-08T15:50:00+02:00'
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Kiuru'
         start_time: '2026-03-08T15:50:00+02:00'
         end_time: '2026-03-08T15:55:00+02:00'
+        description: |-
+          Viikon luontoäänen esittelee Anna-Kaisa Brenner.
       - title: Yle News
         start_time: '2026-03-08T15:55:00+02:00'
         end_time: '2026-03-08T15:58:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:21.667418+00:00'
+  generated_at: '2026-02-27T03:01:05.829313+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -77,10 +77,11 @@ data:
         start_time: '2026-03-01T08:00:00+02:00'
         end_time: '2026-03-01T08:05:05+02:00'
       - title: Narrin aamulaulu - La Bellissima Anna Moffo
-        start_time: '2026-03-01T08:05:35+02:00'
-        end_time: '2026-03-01T08:59:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        start_time: '2026-03-01T08:05:24+02:00'
+        end_time: '2026-03-01T08:59:47+02:00'
+        description: |
+          Amerikkalais-italialaista Anna Moffoa (1932-2006) oli siunattu upealla äänellä, verrattomalla muusikkoudella, terävällä älyllä ja poikkeuksellisella kauneudella. Yhdessä yössä tähteyteen ampaissut sopraano esiintyi oopperalavojen lisäksi italialaisissa elokuvissa ja emännöi omaa tv-showtaan. Ura oli huikea, mutta loistokausi jäi lyhyeksi. 
+          Anna Moffon laulun lumoissa on Outi Paananen.
       - title: 'Yle Uutiset '
         start_time: '2026-03-01T09:00:00+02:00'
         end_time: '2026-03-01T09:03:00+02:00'
@@ -141,11 +142,11 @@ data:
       - title: Uudet levyt
         start_time: '2026-03-01T14:00:00+02:00'
         end_time: '2026-03-01T14:55:00+02:00'
-      - title: Ykköskolumni
+      - title: Ykköskolumni; Johdanto wokeen tulevaisuuden historioitsijoille
         start_time: '2026-03-01T14:55:00+02:00'
         end_time: '2026-03-01T15:00:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Giljotiinista ”känselöintiin”, vuodet 2015–2025 lienevät lähihistoriamme erikoisin ajanjakso, kirjailija Joonas Konstig pohtii.
       - title: 'Klassikkokuunnelma: Laulu tulipunaisesta kukasta 2/2'
         start_time: '2026-03-01T15:00:00+02:00'
         end_time: '2026-03-01T15:52:00+02:00'
@@ -171,9 +172,11 @@ data:
           Kertoja - Kaarlo Halttunen.
 
           Teos vuodelta 1954.
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Kesykyyhky eli pulu'
         start_time: '2026-03-01T15:50:00+02:00'
         end_time: '2026-03-01T15:55:00+02:00'
+        description: |-
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Yle News
         start_time: '2026-03-01T15:55:00+02:00'
         end_time: '2026-03-01T15:58:00+02:00'

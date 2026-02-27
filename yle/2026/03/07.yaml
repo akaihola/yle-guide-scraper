@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:25.469210+00:00'
+  generated_at: '2026-02-27T03:01:07.086973+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -47,6 +47,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-07T08:05:00+02:00'
         end_time: '2026-03-07T08:25:00+02:00'
+        description: |+
+          Mason: Sua kohti, Herrani (Oulun KK/Markku Jounela).
+
+          Mäki-Lohiluoma: Viikatemies (Jouko Mäki-Lohiluoma, laulu ja kitara, sekä nimetön yhtye).
+
+          Gustafson: Herra, tutki sydämeni (Jorma Pollari, laulu, ja Saara Mörsky, piano).
+
+          Tuntematon (sov. Nurkkala): Puolees, Jeesus, rukouksin (virsi 353) (Candomino/Tauno Satomaa).
+
       - title: Aamuhartaus
         start_time: '2026-03-07T08:25:00+02:00'
         end_time: '2026-03-07T08:35:00+02:00'

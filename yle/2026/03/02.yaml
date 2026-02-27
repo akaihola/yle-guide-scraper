@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-26T03:02:23.239265+00:00'
+  generated_at: '2026-02-27T03:01:06.036130+00:00'
   git:
     branch: main
-    commit: 4909646d5cb6e479db9909dcde7cf0f61347fdcd
-  data_hash: 919481c1defc267dd1746637709d688610bb878cec49d667a028036b2fa73f32
+    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
+  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
 data:
   '':
     programmes:
@@ -131,11 +131,14 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-02T12:00:00+02:00'
         end_time: '2026-03-02T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Kun homous oli sairaus - Ketkä ovat saaneet päättää, kuka on mielisairas?'
         start_time: '2026-03-02T12:05:00+02:00'
         end_time: '2026-03-02T12:55:00+02:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |
+          Nykyisin mielenterveyden diagnooseilla on enemmän valtaa ja merkitystä kuin koskaan aikaisemmin. Mutta miten nämä diagnoosit ovat syntyneet? Mihin ne todellisuudessa perustuvat? 
+          Haastateltavana: historiantutkija Mia Pohtola
+          Toimittajana: Hanna Asikainen
+          Äänisuunnittelu: Laura Koso
       - title: Politiikkaradio
         start_time: '2026-03-02T13:00:00+02:00'
         end_time: '2026-03-02T13:30:00+02:00'
@@ -244,11 +247,18 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-02T21:00:01+02:00'
         end_time: '2026-03-02T21:30:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Voiko tekoäly laukaista psykoosin? Keskustelubotit mielenterveysriskien näkökulmasta'
         start_time: '2026-03-02T21:30:30+02:00'
         end_time: '2026-03-02T22:20:00+02:00'
-        description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |
+          Tekoälyn käytön yleistyminen on herättänyt keskustelu suuriin kielimalleihin perustuvien keskustelubottien mahdollisista mielenterveysriskeistä. 
+
+          Mediassa ja tieteellisissä julkaisussa on alettu puhua jopa “tekoälypsykoosista”. Mielenterveyden ammattilaiset ovat havainneet, että joidenkin ihmisten kohdalla todellisuustajun heikentyminen on mahdollisesti ollut yhteydessä tekoälyn käyttöön.
+
+          Jaksossa on haastateltavana HUS:lla digitaalisista hoidoista vastaava psykoterapeutti, oikeuspsykologi ja tutkija Jan-Henry Stenberg. Haastateltavana on myös Aalto-yliopiston koneoppimisen professori Arno Solin.
+
+          Toimittaja: Juuso Pekkinen
+          Äänisuunnittelija: Mikko Kymäläinen
       - title: Näistä levyistä en luovu
         start_time: '2026-03-02T22:45:00+02:00'
         end_time: '2026-03-02T23:39:30+02:00'
