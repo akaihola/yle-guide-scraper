@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-27T03:01:09.593371+00:00'
+  generated_at: '2026-02-28T02:51:46.030884+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-19T07:06:00+02:00'
         end_time: '2026-03-19T08:00:00+02:00'
+        description: |+
+          Korngold: Puutarhakohtaus näyt. Paljon melua tyhjästä (Gil Shaham, viulu, ja André Previn, piano).
+
+          R. Schumann: Der Nussbaum (Pähkinäpuu) (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+
+          Walter-Kühne: Fantasia harpulle Tshaikovskin oopp. Jevgeni Onegin teemoista (Emmanuel Ceysson). 
+
+          Brahms: Unkarilainen tanssi n:o 1 g-molli (Katia Labeque ja Marielle Labeque, piano).
+
+          Pacius: Toisen näytöksen alkusoitto oopp. Die Loreley (Sinfonia Lahti/Osmo Vänskä).
+
+          Offenbach: Valssi oper. Orfeus Manalassa (Laajennettu 2. versio) (Berliinin saksalainen SO/Howard Griffiths).
+
+          Debussy (sov. Harjanne): Arabeski n:o 1 (Jouko Harjanne, trumpetti, ja Anni Kuusimäki, harppu).
+
+          Chopin: Valssi n:o 10 h-molli op.posth (Dinu Lipatti, piano).
+
+          Kuula: Valse caprice (Eriikka Nylund, alttoviulu,ja Niina Uggeldahl, piano).
+
+          Gershwin: Promenade (Kävely) (Washingtonin kansallinen SO/Mstislav Rostropovitsh).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-19T08:00:00+02:00'
         end_time: '2026-03-19T08:07:00+02:00'
@@ -86,6 +107,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-19T17:20:00+02:00'
         end_time: '2026-03-19T17:35:00+02:00'
+        description: |2+
+
       - title: Tuuli Saksalan keidas
         start_time: '2026-03-19T17:35:00+02:00'
         end_time: '2026-03-19T18:25:00+02:00'

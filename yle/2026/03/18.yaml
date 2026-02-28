@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-27T03:01:09.411908+00:00'
+  generated_at: '2026-02-28T02:51:45.791834+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
@@ -25,6 +25,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-18T07:06:00+02:00'
         end_time: '2026-03-18T08:00:00+02:00'
+        description: |+
+          Lully: Regina coeli (Les Arts Florissants -yhtyeen jäseniä).
+
+          J. Ch. Bach: Rondeau sinfonia concertantesta A-duuri (Pinchas Zukerman ja Yo-Yo Ma sekä Saint Paulin kamariork./Pichas Zukerman). 
+
+          Cardoso: Nostalgias del Tosalet (Kitaraduo Hildén-Lehtinen).
+
+          Bruckner: Rondo jousikvartetille (L'Archibudelli).
+
+          Sibelius: Morceau romantique sur un motif de M. Jacob de Julin (Turun filharmoninen ork./Leif Segerstam).
+
+          Busoni: Moderato ma con brio Pienestä sarjasta sellolle ja pianolle (Dorothy Lawson ja Steven Blier). 
+
+          Rossini: Don Basilion aaria "La calunnia è un venticello" oopp. Sevillan parturi (Antti Suhonen ja RSO / Alberto Hold-Garrido).
+
+          Kokkonen: Preludietto sarj. Pielavesi (Eveliina Sumelius-Lindblom, piano).
+
+          Prokofjev: Tanssi Romeo ja Julia -bal.sarjasta nro 2 orkesterille (Cincinnatin SO/Paavo Järvi).
+
+          Firpo (sov. Karttunen): Alma de bohemio (Anssi Karttunen, Erkki Rautio ja Timo-Veikko Valve, sello). 
+
+          Rimski-Korsakov: Timantit lukemattomat aaria oopp. Sadko (Boston Pops/Arthur Fiedler).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-18T08:00:00+02:00'
         end_time: '2026-03-18T08:07:00+02:00'
@@ -82,6 +105,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-03-18T13:30:00+02:00'
         end_time: '2026-03-18T15:00:00+02:00'
+        description: |2+
+
+
       - title: Kulttuuriykkönen
         start_time: '2026-03-18T15:00:00+02:00'
         end_time: '2026-03-18T15:55:00+02:00'
@@ -98,6 +124,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-18T16:07:00+02:00'
         end_time: '2026-03-18T16:59:00+02:00'
+        description: |
+          Rimski-Korsakov: Lintujen tanssi oopp. Lumityttö (Seattlen SO/Gerard Schwarz).
+
+          Price: Sketches in sepia (Antonio Oyarzabal, piano).
+
+          Thomas: Philinen resitatiivi ja aaria "Oui, pour ce soir - Je suis Titania la blonde" oopp. Mignon (Natalie Dessay, sopraano, Les Elements -kuoro, ja Toulousen Capitole -teatterin ork./Michel Plasson).
+
+          Kodaly: Intermezzo jousitriolle (Sindri Lederer, viulu, Andrea Burger, alttoviulu, Philip Graham, sello).
+
+          Korngold: Drei Lieder op.22 (Iida Antola, sopraano, ja Anni Laukkanen, piano).
+
+          Haydn: Rondo all'ungarese cembalokonsertosta D-duuri (Amsterdamin barokkiork./Ton Koopman, cembalo).
+
+          Castelnuovo-Tedesco: La guitarra sarj. Romancero gitano (Radion kamarikuoro/Eric-Olof Söderström, ja Timo Korhonen, kitara).
+
+          Debussy: Réverie (Christian Lindberg, pasuuna, ja Per Lundberg, piano).
+
+          Mahler: Im Lenz (Kevätaikaan) (Thomas Hampson, baritoni, ja David Lutz, piano).
+
+          Nielsen: Kukkotanssi oopp. Naamiaiset (Etelä-Jyllannin SO/Frans Rasmussen).
       - title: Uutispodcast
         start_time: '2026-03-18T17:00:00+02:00'
         end_time: '2026-03-18T17:20:00+02:00'
@@ -116,7 +162,8 @@ data:
         start_time: '2026-03-18T18:50:00+02:00'
         end_time: '2026-03-18T19:00:00+02:00'
         description: |-
-          Seurakuntapastori Minnamaria Tammisalo, Tampere
+          "Ymmärryksen ylittävä rauha"
+          Seurakuntapastori Minnamaria Tammisalo Tampereelta kutsuu kanssaan iltakävelylle pohtimaan mistä rauhaa voisi löytää.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-18T19:00:00+02:00'
         end_time: '2026-03-18T19:02:00+02:00'

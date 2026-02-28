@@ -1,15 +1,44 @@
 metadata:
-  generated_at: '2026-02-27T03:01:08.704957+00:00'
+  generated_at: '2026-02-28T02:51:44.816740+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-14T23:40:00+02:00'
         end_time: '2026-03-15T07:00:00+02:00'
+        description: |+
+          Ponce: Teema, muunnelmia ja finaali (Andrés Segovia, kitara).
+
+          23:49 Sibelius: Sinfonia n:o 3 C-duuri (Göteborgin SO/Santtu-Matias Rouvali).
+
+          00:20 Beethoven: Pianosonaatti n:o 12 As-duuri (Surumarssisonaatti) (Claudio Arrau).
+
+          00:45 Brahms: Viulukonsertto D-duuri (Yehudi Menuhin, ja Berliinin filharmonikot/Rudolf Kempe).
+
+          01:28 Weber: Kvintetto klarinetille ja jousille B-duuri (Jon Manasse, klarinetti, ja Manhattan String Quartet). 
+
+          01:53 Rahmaninov: Études-tableaux op.39 (Ruth Laredo, piano).
+
+          02:30 Shostakovitsh: Sinfonia n:o 15 A-duuri (Clevelandin ork./Kurt Sanderling).
+
+          03:22 A. Merikanto: Sellokonsertto n:o 1 (Tomas Djupsjöbacka ja RSO/Hannu Lintu).
+
+          03:42 Prokofjev: Aleksanteri Nevski, kantaatti (Vera Soukupová, mezzosopraano, sekä Prahan filharmoninen kuoro Tshekkiläinen FO/Karel Ancerl).
+
+          04:21 Mendelssohn: Jousikvartetto n:o 2 a-molli (Juilliard-kvartetti). 
+
+          04:54 Pingoud: Sinfonia n:o 2 (RSO/Jukka-Pekka Saraste). 
+
+          05:17 Brahms: Sekstetto jousille n:o 2 G-duuri (Pina Carmirelli ja Jon Toth, viulu, Philipp Naegele ja Caroline Levine, alttoviulu, Fortunato Arico ja Dorothy Reichenberger, sello).
+
+          06:04 J. Haydn: Pianosonaatti n:o 23 F-duuri (Vladimir Horowitz).
+
+          06:18 Kolme aariaa Händelin oopperoista Atalanta, Agrippina ja Julius Caesar (Leontyne Price, sopraano, ja David Garvey, piano).
+
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2026-03-15T07:00:30+02:00'
         end_time: '2026-03-15T07:57:00+02:00'
@@ -119,8 +148,8 @@ data:
       - title: 'Etnokonsertteja: Fatima Szalayn Transilvanialaiset tanssit '
         start_time: '2026-03-15T17:00:00+02:00'
         end_time: '2026-03-15T18:00:00+02:00'
-        description: |-
-          Unkarilainen Fatima Szalay (s. 1995) yhtyeineen esittää vanhoja unkarilaisia ja naapurimaiden  kansanlauluja. Luvassa on myös transilvanialaisia tansseja ja balladeja koboz-luutulla säestettynä. Konsertti on talltioitu 24.7.2025 Glatt & Verkehrt -festivaalilta Itävallasta.
+        description: |
+          Fatima Szalay yhtyeineen esittää unkarilaisia kansanlauluja. Luvassa on myös transilvanialaisia tansseja ja balladeja koboz-luutulla säestettynä sekä romanialaisia ja turkkilaisia kansanlauluja. Konsertti on taltioitu 24.7.2025 Glatt & Verkehrt -festivaalilta Itävallasta. 
       - title: Jazzklubi
         start_time: '2026-03-15T18:00:30+02:00'
         end_time: '2026-03-15T19:00:00+02:00'
@@ -158,3 +187,31 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-15T23:40:00+02:00'
         end_time: '2026-03-16T06:30:00+02:00'
+        description: |+
+          Boieldieu: Harppukonsertto C-duuri (Marielle Nordmann ja Franz Liszt -kamariork./Jean-Pierre Rampal).
+
+          00:04 Dvorák: Pianotrio n:o 3 f-molli (The Tempest Trio).
+
+          00:45 Faltin: Kaksoisfuuga C-duuri (Kari Jussila, urut).
+
+          00:54 Tshaikovski: Sinfonia n:o 6 h-molli (Pateettinen) (Pietarin FO/Juri Temirkanov).
+
+          01:45 J.S. Bach: Englantilaiset sarjat n:o 4 F-duuri, 5 e-molli ja 6 d-molli (Peter Watchorn, cembalo).
+
+          03:06 Castelnuovo-Tedesco: Osia sarj. Platero y yo (Harmo ja minä) (Andrés Segovia, kitara).
+
+          03:45 Mendelssohn: Jousikvartetto n:o 5 Es-duuri (Aurora-kvartetti).
+
+          04:17 Sibelius: Viisi kappaletta viululle ja pianolle op.81 (Annemarie Åström ja Sonja Fräki).
+
+          04:34 W.A. Mozart: Sinfonia n:o 29 A-duuri (Kölnin radion SO/Otto Klemperer).
+
+          05:00 Milhaud: La Création du monde (Maailman luominen), baletti (The Sinfonia da Camera/Ian Hobson, sekä Howard Klug, klarinetti).
+
+          05:17 Berg: Lyyrinen sarja (Kronos-kvartetti ja Dawn Upshaw, sopraano).
+
+          05:45 Paganini: Sonata concertata A-duuri (John Williams, kitara, ja Itzhak Perlman, viulu).
+
+          05:58 Weckmann: O lux beata trinitas, koraalimuunnelmia (Siegbert Rampe, urut).
+
+...

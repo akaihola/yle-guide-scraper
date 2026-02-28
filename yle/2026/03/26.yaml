@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-27T03:01:10.875698+00:00'
+  generated_at: '2026-02-28T02:51:47.723208+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
@@ -108,9 +108,32 @@ data:
       - title: Jazzklubin viikon keikka
         start_time: '2026-03-26T19:02:00+02:00'
         end_time: '2026-03-26T20:00:00+02:00'
-      - title: Klassinen kattaus
+      - title: Elokuvamusiikin Klassinen kattaus
         start_time: '2026-03-26T20:00:00+02:00'
         end_time: '2026-03-26T20:57:00+02:00'
+        description: |+
+          Herrmann: Preludi musiikista elokuvaan Vertigo (Los Angelesin FO/Esa-Pekka Salonen).
+
+          Spielman: Spring came back to Vienna elok. Luxury Liner (Lauritz Melchior, tenori, ja M-G-M-studio-orkesteri/George Stoll).
+
+          Järnefelt: Koskenlasku elok. Laulu tulipunaisesta kukasta (RSO/Ilpo Mansnerus).
+
+          Schubert: Andante con moto pianotriosta nro 2 Es-duuri (Mozartean Players).
+
+          Catalani: Wallyn aaria "Ebben?...Ne andrò lontana" oopp. La Wally (Maria Callas, sopraano, ja Philharmonia-ork./Tullio Serafin).
+
+          : Joplin, Scott [1868-1917]
+          : Easy winners musiikista elokuvaan The Sting (Puhallus)
+          : Nimeämätön
+
+          Marcello: Adagio oboekonsertosta d-molli (Paolo Grazzi ja Il Giardino Armonico).
+
+          Rota: Sävelmä elok. Giulietta ja viettelykset (Ork./Carlos Savina).
+
+          Parry: Jerusalem (BBC Singers ja BBC:n sinfoniakuoro, sekä BBC:n SO/Leonard Slatkin).
+
+          Godzinsky: Hymyillen (Radion viihdeork./George de Godzinsky).
+
       - title: 'Politiikkaradio '
         start_time: '2026-03-26T21:00:00+02:00'
         end_time: '2026-03-26T21:30:00+02:00'

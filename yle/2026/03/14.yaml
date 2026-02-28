@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2026-02-27T03:01:08.509769+00:00'
+  generated_at: '2026-02-28T02:51:44.557462+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-13T23:40:00+02:00'
         end_time: '2026-03-14T07:30:00+02:00'
-        description: |+
+        description: |
           Verdi: I Vespri Siciliani (Sisilialainen vesper), ooppera (Cheryl Studer, sopraano, Giorgio Zancanaro, baritoni, Ferruccio Furlanetto, basso, Chris Merritt, tenori, Enzo Capuano, basso, Francesco Musinu, basso, ja Gloria Banditelli, mezzosopraano, ym. sekä Milanon La Scala -oopperan kuoro ja ork./Riccardo Muti).
 
           03:05 Nardini: Konsertto viululle, jousille ja continuolle G-duuri (Arion-barokkiork./Stefano Montanari, barokkiviulu). 
@@ -38,7 +38,6 @@ data:
           07:05 Conti: Clori, sei tutta bella (Clori, olet niin kaunis) (Maite Beaumont, mezzosopraano, ja Lautten Compagney/Wolfgang Katschner).
 
           07:17 Philidor: Sarja kahdelle huilulle n:o 3 D-duuri (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
-
       - title: Luomiskertomus
         start_time: '2026-03-14T07:31:00+02:00'
         end_time: '2026-03-14T07:55:00+02:00'
@@ -232,9 +231,15 @@ data:
         end_time: '2026-03-14T21:25:00+02:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klassikkokuunnelmia
+      - title: 'Klassikkokuunnelma: Juurakon Hulda, osa 1/2.'
         start_time: '2026-03-14T21:51:00+02:00'
         end_time: '2026-03-14T22:30:00+02:00'
+        description: |
+          Huvinäytelmä, kirjoittanut Hella Wuolijoki. Radiolle sovittanut Eila Raisalo. Ohjaus: Urpo Lauri.
+          Henkilöt:
+          Tuomari Kaarlo Kristian Soratie, ent. Carl Christian Sanmark - Joel Rinne.  Professori Magnus Norko - Oiva Sala. Toimittaja Purtiainen - Heimo Lepistö. Isäntä ja kunnallisneuvos Ali-Lehtonen - Matti Aulos. Hulda Juurakko - Hilkka Helinä. Neiti Constance Sanmark - Anni Hämäläinen.
+          Kauppaneuvos Kaavio - Kauko Käyhkö. Kauppaneuvoksetar Kaavio - Ritva Arvelo. Neito Matero, näyttelijätär - Mai-Brit Heljo. Alinen - Mauno Hyvönen. Neiti Sinijärvi - Aino Lehtimäki.  Miina - Litja Ilmari. Rouva Kronenström - Alice Lyly.
+          Äänite vuodelta 1956.
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-03-14T22:40:00+02:00'
         end_time: '2026-03-14T23:39:30+02:00'
@@ -243,3 +248,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-03-14T23:40:00+02:00'
         end_time: '2026-03-15T07:00:00+02:00'
+        description: |+
+          Ponce: Teema, muunnelmia ja finaali (Andrés Segovia, kitara).
+
+          23:49 Sibelius: Sinfonia n:o 3 C-duuri (Göteborgin SO/Santtu-Matias Rouvali).
+
+          00:20 Beethoven: Pianosonaatti n:o 12 As-duuri (Surumarssisonaatti) (Claudio Arrau).
+
+          00:45 Brahms: Viulukonsertto D-duuri (Yehudi Menuhin, ja Berliinin filharmonikot/Rudolf Kempe).
+
+          01:28 Weber: Kvintetto klarinetille ja jousille B-duuri (Jon Manasse, klarinetti, ja Manhattan String Quartet). 
+
+          01:53 Rahmaninov: Études-tableaux op.39 (Ruth Laredo, piano).
+
+          02:30 Shostakovitsh: Sinfonia n:o 15 A-duuri (Clevelandin ork./Kurt Sanderling).
+
+          03:22 A. Merikanto: Sellokonsertto n:o 1 (Tomas Djupsjöbacka ja RSO/Hannu Lintu).
+
+          03:42 Prokofjev: Aleksanteri Nevski, kantaatti (Vera Soukupová, mezzosopraano, sekä Prahan filharmoninen kuoro Tshekkiläinen FO/Karel Ancerl).
+
+          04:21 Mendelssohn: Jousikvartetto n:o 2 a-molli (Juilliard-kvartetti). 
+
+          04:54 Pingoud: Sinfonia n:o 2 (RSO/Jukka-Pekka Saraste). 
+
+          05:17 Brahms: Sekstetto jousille n:o 2 G-duuri (Pina Carmirelli ja Jon Toth, viulu, Philipp Naegele ja Caroline Levine, alttoviulu, Fortunato Arico ja Dorothy Reichenberger, sello).
+
+          06:04 J. Haydn: Pianosonaatti n:o 23 F-duuri (Vladimir Horowitz).
+
+          06:18 Kolme aariaa Händelin oopperoista Atalanta, Agrippina ja Julius Caesar (Leontyne Price, sopraano, ja David Garvey, piano).
+
+...

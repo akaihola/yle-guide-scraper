@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-27T03:01:09.228679+00:00'
+  generated_at: '2026-02-28T02:51:45.552775+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
@@ -57,23 +57,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-17T09:04:00+02:00'
         end_time: '2026-03-17T09:59:00+02:00'
-        description: |+
+        description: |
           Dylan: Winterlude (Bob Dylan).
           Ripa: Aveva un bavero (Quarteto Cetra).
           Abrahams/Reid/Moisle: Rakkaus on muuttolintu (Tuula-Anneli Rantanen). 
-          Lynne/Orbison/Petty: California Blue (Roy Orbison.
+          Lynne/Orbison/Petty: California Blue (Roy Orbison).
           Hampton: Hey! Ba-ba-re-bop (Lionel Hampton).
           Cabrera: Tu voz (Celia Cruz).
           Fain: I left my sugar standing in the rain (Lee Wiley).
-          Sainte-Marie (sov. Salo): Mä meidän maalle tahdon takaisin (I'm gonna be a country girl again) (Eija Merilä).
+          Sainte-Marie: Mä meidän maalle tahdon takaisin (Eija Merilä).
           Phillips: Blueberries for breakfast (The Mamas and The Papas).
           O'Sullivan: Yksin oon tietenkin (Pepe Willberg ja Paradise).
           DePaul/Raye: The first baseball game (Nat King Cole).
           Müller: Das kommt vom Küssen (Caterina Valente ja Silvio Francesco).
-          Warren: The More I see you (Nancy Wilson).
+          Warren: The more I see you (Nancy Wilson).
           Moustaki: Ma solitude (Serge Reggiani).
           McCartney: Maybe I'm amazed (Nils Landgren). 
-
       - title: Sari Valto
         start_time: '2026-03-17T10:00:00+02:00'
         end_time: '2026-03-17T10:55:00+02:00'
@@ -112,6 +111,9 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-03-17T13:30:00+02:00'
         end_time: '2026-03-17T15:00:00+02:00'
+        description: |2+
+
+
       - title: Kulttuuriykkönen
         start_time: '2026-03-17T15:00:00+02:00'
         end_time: '2026-03-17T15:55:00+02:00'
@@ -128,14 +130,14 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-17T16:07:00+02:00'
         end_time: '2026-03-17T16:59:00+02:00'
-        description: |+
+        description: |
           Tuntematon: All in a garden green (The King's Noyse/David Douglass, viulu).
 
-          Kansansävelmä (sov. Hazell): Carrickfergus (Bryn Terfel, bassobaritoni, ja Lontoon SO/Barry Wordsworth).
+          Kansansäv.: Carrickfergus (Bryn Terfel, bassobaritoni, ja Lontoon SO/Barry Wordsworth).
 
           Field: Nokturni n:o 7 C-duuri (Dreamily) (Mícéal O'Rourke, piano).
 
-          E. Strauss: Pysähtymättä (Ohne Aufenthalt) (Cincinnati Pops -ork./Erich Kunzel).
+          E. Strauss: Ohne Aufenthalt (Pysähtymättä) (Cincinnati Pops -ork./Erich Kunzel).
 
           L. Mozart: Menuetti konsertosta pasuunalle ja orkesterille D-duuri (Christian Lindberg ja Australian kamariork./Richard Tognetti).
 
@@ -143,7 +145,7 @@ data:
 
           Puccini: Rodolfon aaria "Che gelida manina" oopp. La Bohème (Joseph Calleja, tenori, ja Ranskankielisen Sveitsin ork./Marco Armiliato).
 
-          Tshaikovski: Tunteellinen valssi (Peter-Lukas Graf, huilu, ja Konrad Ragossnig, kitara).
+          Tshaikovski: Valse sentimentale f-molli (Peter-Lukas Graf, huilu, ja Konrad Ragossnig, kitara).
 
           Debussy: Jeux de vagues (Aaltojen leikkiä) sarj. La mer (Los Angelesin FO/Esa-Pekka Salonen).
 
@@ -152,7 +154,6 @@ data:
           Lehár: Vilja-laulu "Es lebt eine Vilja" oper. Iloinen leski (Angelika Kirchschlager, mezzosopraano, ja Tonkünstler-Orchester Niederösterreich/Alfred Eschwe).
 
           Chopin: Masurkka n:o 43 g-molli (Garrick Ohlsson, piano).
-
       - title: Uutispodcast
         start_time: '2026-03-17T17:00:00+02:00'
         end_time: '2026-03-17T17:20:00+02:00'
@@ -161,6 +162,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-17T17:20:00+02:00'
         end_time: '2026-03-17T17:35:00+02:00'
+        description: |2+
+
       - title: Viikon luontoääni
         start_time: '2026-03-17T18:30:00+02:00'
         end_time: '2026-03-17T18:35:00+02:00'

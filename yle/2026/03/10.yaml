@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-02-27T03:01:07.711014+00:00'
+  generated_at: '2026-02-28T02:51:42.990787+00:00'
   git:
     branch: main
-    commit: c3024db76d77ed0fa3e6a217050fd7fe1fbefd38
-  data_hash: 361ee0ed0ecb081d7e1de69fb7f6397348ef0d148caf6ef1600b0d4213dba912
+    commit: d22bc4d0b690653257c9aacf8e6656e355c05843
+  data_hash: b27896472afa248c0a4997d98c052f078e815b8cc15df2c5bf275e21f364df11
 data:
   '':
     programmes:
@@ -50,7 +50,8 @@ data:
         start_time: '2026-03-10T06:50:00+02:00'
         end_time: '2026-03-10T06:59:59+02:00'
         description: |-
-          Verkostotyön seurakuntapastori Maija Latvala, Tampere
+          "Laki ei vapauta, mutta voi opettaa vapautta"
+          Verkostotyön seurakuntapastori Maija Latvala Tampereelta puhuu paastonajan hartaudessaan hengellisestä kasvusta ja suunnan tarkistamisen välttämättömyydestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-10T07:00:00+02:00'
         end_time: '2026-03-10T07:05:00+02:00'
@@ -94,24 +95,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-10T09:04:00+02:00'
         end_time: '2026-03-10T09:59:00+02:00'
-        description: |+
-          Edu Kettunen: Tavallinen päivä.
+        description: |
+          Kettunen: Tavallinen päivä (Edu Kettunen).
           Godding: I know you love me not (Julie Driscoll).
           Guthrie: Lentsikkalaulu (Hootenanny Trio).
           Gifford: The Casa Loma stomp (Pasadena Roof Orchestra).
           Stremler: Trois petits tours (Francoise Hardy).
           Ojakäär: Kalastajan laulu (Georg Ots).
           Woodford: Tänk om den känslan försvann (Anna-Lena Löfgren).
-          Kern: Blue eyes (Paul England, laulu, ja Jack Hylton & His Orchersta).
+          Kern: Blue eyes (Jack Hylton and his Orchestra).
           McCoy: Why don't you do it right (Helen Merrill).
-          Ferre (sov. Kärki): Harmonikka nauraa (Metro-tytöt & Decca-yhtye).
+          Ferré: Harmonikka nauraa (Metro-tytöt).
           Donida: Help yourself (Tom Jones).
           Hoven: Onko synti? (Seija Lampila).
           Vian: Luna rossa (Claudio Villa).
           Olias: Kitara ja meri (Ritva Simuna).
           Styne: I'll walk alone (Martha Tilton).
           Reed/Mason: En kuitenkaan (Jouko ja Kosti).
-
       - title: Sari Valto
         start_time: '2026-03-10T10:00:00+02:00'
         end_time: '2026-03-10T10:55:00+02:00'
