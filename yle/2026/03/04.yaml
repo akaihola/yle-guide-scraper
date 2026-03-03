@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-02T03:02:37.399914+00:00'
+  generated_at: '2026-03-03T03:04:17.746717+00:00'
   git:
     branch: main
-    commit: 575635f72f98dc2436c0779194b1b65fb02a42d8
-  data_hash: 9a60998efe01740b3282929746858cbe9180272cfea4dd8b67fbbedde6bd88fe
+    commit: c27e8bcccbd527be2705c509b52dd815b6af8302
+  data_hash: 6f6c1c91c23ea321aa3d149c8f5b925419af7ad994fe372cf99101b846fc6cdf
 data:
   '':
     programmes:
@@ -166,6 +166,8 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-04T13:00:00+02:00'
         end_time: '2026-03-04T13:30:00+02:00'
+        description: |
+          Miksi Putinin hallinto vainoaa homoja? Haastattelussa tietokirjailija, toimittaja Erkka Mikkonen ja tutkija Elina Kahla. Toimittajana on Linda Pelkonen. 
       - title: 'Radio 1:n iltapäivä: elokuvaohjaaja Aleksi Salmenperä tarttuu nyt pärjäämisen kulttuuriin'
         start_time: '2026-03-04T13:30:00+02:00'
         end_time: '2026-03-04T15:00:00+02:00'
@@ -176,6 +178,10 @@ data:
         start_time: '2026-03-04T15:00:00+02:00'
         end_time: '2026-03-04T15:55:00+02:00'
         description: |-
+          Mitä kummallisesta kansanperinteestä pitäisi tietää ja miten kansanperinne rakentaa nykyaikaa? Koti, uskonto ja Marjomaa -sarjassa Sampo Marjomaa sukeltaa kansanperinteen yllättäviin ja hauskoihin puoliin. Marjomaa on Kulttuuriykkösen vieraana.
+
+          Juontajana Pietari Kylmälä.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-03-04T15:55:00+02:00'
@@ -224,7 +230,7 @@ data:
         end_time: '2026-03-04T19:02:00+02:00'
       - title: Oulu Sinfonia konsertoi – Kaksoiskonsertto yhdelle
         start_time: '2026-03-04T19:02:00+02:00'
-        end_time: '2026-03-04T20:30:00+02:00'
+        end_time: '2026-03-04T20:29:00+02:00'
         description: |-
           Kolme ajatonta klassikkoa ja yksi nykymusiikin merkkiteos: kapellimestari Simon Crawford-Phillipsin Oulun-debyytissä on kaikkea. Huippusuositut Unkarilaiset tanssit tekivät Johannes Brahmsista hetkessä viihdemusiikin valtiaan. Robert Schumannin neljännen sinfonian innovatiiviset keksinnöt ymmärrettiin vasta vuosikymmeniä myöhemmin.
 
@@ -234,15 +240,6 @@ data:
           Simon Crawford-Phillips kapellimestari
           Malin Broman viulu ja alttoviulu
           Oulu Sinfonia
-
-          Ohjelma
-          Johannes Brahms: Kolme Unkarilaista tanssia
-          Daniel Börtz: Double Concerto for One
-          —
-          Ruth Gipps: Song for Orchestra
-          Robert Schumann: Sinfonia nro 4 d-molli op. 120
-
-          Kuvassa Malin Broman (© Mats Bäcker)
       - title: 'Politiikkaradio '
         start_time: '2026-03-04T21:00:01+02:00'
         end_time: '2026-03-04T21:30:00+02:00'
@@ -254,11 +251,12 @@ data:
         end_time: '2026-03-04T22:50:00+02:00'
         description: |-
           Gnostilaisen opin alkuperä on osittain mysteerin peitossa, ja gnostilaisia on aikanaan myös vainottu. Miksi kuolemanjälkeinen elämä on olennainen kysymys, ja millaisia gnostilaisuuden muotoja on Suomessa? Toimittaja Nadja Mikkonen keskustelee Suomen gnostilaisen seuran puheenjohtaja, tietokirjailija Pentti Tuomisen ja professori emeritus Antti Marjasen kanssa.
-      - title: 'Ulkolinja-podcast: El Salvadorissa keskenmeno voi  tuoda naiselle murhatuomion'
+      - title: 'Ulkolinja-podcast: Ilmastonmuutos kurittaa Kreikkaa ja sen matkailubisnestä '
         start_time: '2026-03-04T23:20:00+02:00'
         end_time: '2026-03-04T23:39:30+02:00'
         description: |-
-          El Salvadorissa synnytyskomplikaatio tai keskenmeno voi merkitä naiselle vuosikymmenien vankeustuomiota. Syynä on yksi maailman tiukummista aborttilaeista. 
+          Ilmastonmuutos kuumentaa Välimeren aluetta muuta Eurooppaa nopeammin ja vaarantaa pahimmillaan ihmishenkiä. Kreikassa lomailijoiden on varauduttava aikaistuneisiin helleaaltoihin, maastopaloihin ja evakuointeihin. Toisaalta lomakausi pitenee syksyllä. Toimittaja Sara Saure vie sinut Ulkolinjan podcastissa Ateenasta Kreetan itärannikolle. Suomalaistenkin suosikkikohteissa Agios Nikolaoksessa ja Hersonisoksella paikalliset sinnittelevät kiivaimpana sesonkina, jotta vettä riittää turisteille.  
+          (Julkaistu Yle Areenassa lokakuussa 2025)
       - title: Yöklassinen
         start_time: '2026-03-04T23:40:00+02:00'
         end_time: '2026-03-05T06:30:00+02:00'
