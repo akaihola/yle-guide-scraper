@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-04T02:59:39.943895+00:00'
+  generated_at: '2026-03-05T03:01:39.502406+00:00'
   git:
     branch: main
-    commit: 42cf4906c1903ef66ba8fd670e71bf4bbc3654d7
-  data_hash: b61865923566ac53cfdc4cd9b0a09bf391553a9caf6a8f2190dabfe613f8971e
+    commit: dc1440695b1910debaa3d97637b166b3a1c78339
+  data_hash: cbaf63c7b8e5f857719a18434e4d1343dd39d821282c106de424d0b5aa69b35a
 data:
   '':
     programmes:
@@ -40,7 +40,8 @@ data:
         start_time: '2026-03-09T06:50:00+02:00'
         end_time: '2026-03-09T06:59:59+02:00'
         description: |-
-          Seurakuntapastori Petja Kopperoinen, Helsinki
+          "Missä Jumala on?"
+          Seurakuntapastori Petja Kopperoinen Helsingistä kehottaa löytämään Jumalan lopulta sieltä, missä me olemme valmiita Hänet näkemään.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-09T07:00:00+02:00'
         end_time: '2026-03-09T07:05:00+02:00'
@@ -76,6 +77,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-03-09T08:07:00+02:00'
         end_time: '2026-03-09T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-03-09T09:00:00+02:00'
         end_time: '2026-03-09T09:03:00+02:00'
@@ -126,13 +129,25 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-09T13:00:00+02:00'
         end_time: '2026-03-09T13:30:00+02:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Mikä Aapelin Vinski-tarinoissa kiehtoo ohjaaja Juha Wuolijokea?'
         start_time: '2026-03-09T13:30:00+02:00'
         end_time: '2026-03-09T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+        description: |
+          Juontajana Jalmari Laine. N. klo 14. studiovieraana on elokuvaohjaaja Juha Wuolijoki, jolta on juuri valmistunut toinen Vinski-elokuva. Millaisen maailman Juha Wuolijoki on luonut Hömpstadista? Entä miltä elokuvan tulevaisuus taiteenmuotona taidemuotona nyt, kun kun sarjojen "bingettäminen" ja lyhytvideot pitävät yleisöä otteessaan?  
+      - title: 'Kulttuuriykkönen: Katarina Wennstamin kirja Kuolleet naiset eivät anna anteeksi ja historiallinen feminismi'
         start_time: '2026-03-09T15:00:00+02:00'
         end_time: '2026-03-09T15:55:00+02:00'
         description: |-
+          Katarina Wennstamin Kuolleet naiset eivät anna anteeksi on historiallinen romaani, joka sijoittuu 1800-luvun lopun Tukholmaan, Södermalmiin. Uudenvuodenyönä 1896 löytyy nuori nainen, joka on kuollut laittoman sikiönlähdetyksen seurauksiin. Ompelijatar Hildur löytää talon sisäpihalla kuolleen piian.  Neljä erilaista naista alkaa tutkimaan tätä traagista tapahtumaa. Tuohon aikaan miehet hallitsivat yhteiskuntaa ja naisen asema oli heikko. Millä tavalla tämä romaani nostaa esille naisen asemaa tuohon aikaan? Miten sikiönlähdetys vaikutti naisen terveyteen? Miten yhteiskunta suhtautui yksinhuoltajanaisiin? Miten naiset auttoivat toisiaan? Millaista oli elää salaisuuden kanssa? Miten romaani kuvaa historiallista feminismiä? Mitkä oikeudet tuon ajan naisilla oli?
+
+          Katarina Wennstam on yksi Ruotsin suosituimmista rikoskirjailijoista ja hän on myös toiminut SVT:llä rikostoimittajana. Hän on erityisen kiinnostunut naisten oikeuksista ja on myös vaikuttanut useisiin lakimuutoksiin Ruotsissa. Vuonna 2019 hänelle myönnettiin Ruotsin YK-liiton ihmisoikeuspalkinto. Kuolleet naiset eivät anna anteeksi on ollut hitti Ruotsissa ja siitä on parhaillaan tekeillä tv-sarja.
+
+          Ohjelman vieraina ovat kirjailija Katarina Wennstam ja filosofian tohtori Helena Ruuska.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-03-09T15:55:00+02:00'
@@ -177,7 +192,7 @@ data:
         end_time: '2026-03-09T19:02:00+02:00'
       - title: 'Väkivallan markkinat: “Jos kuolet tehdessäs jotain mistä tykkäät, mikäs sen parempaa”'
         start_time: '2026-03-09T19:02:00+02:00'
-        end_time: '2026-03-09T19:50:00+02:00'
+        end_time: '2026-03-09T19:30:00+02:00'
         description: |-
           Millaista on kohdata se, että työssänsä saattaa tappaa tai tulla tapetuksi? Entä miten sotilaiden nuppi kestää, kun ympärillä tulitetaan? Näiden kysymysten edessä on myös tarkka-ampuja Sami. 
 

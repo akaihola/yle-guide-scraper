@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-04T02:59:46.498410+00:00'
+  generated_at: '2026-03-05T03:01:47.268503+00:00'
   git:
     branch: main
-    commit: 42cf4906c1903ef66ba8fd670e71bf4bbc3654d7
-  data_hash: b61865923566ac53cfdc4cd9b0a09bf391553a9caf6a8f2190dabfe613f8971e
+    commit: dc1440695b1910debaa3d97637b166b3a1c78339
+  data_hash: cbaf63c7b8e5f857719a18434e4d1343dd39d821282c106de424d0b5aa69b35a
 data:
   '':
     programmes:
@@ -13,3 +13,119 @@ data:
       - title: Yöklassinen
         start_time: '2026-04-07T23:40:00+03:00'
         end_time: '2026-04-08T06:30:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-04-08T06:30:50+03:00'
+        end_time: '2026-04-08T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-04-08T06:50:00+03:00'
+        end_time: '2026-04-08T06:59:59+03:00'
+        description: |-
+          Kirjailija Anna-Mari Kaskinen, Lohja
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-08T07:00:00+03:00'
+        end_time: '2026-04-08T07:05:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-04-08T07:06:00+03:00'
+        end_time: '2026-04-08T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-08T08:00:00+03:00'
+        end_time: '2026-04-08T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-04-08T08:07:00+03:00'
+        end_time: '2026-04-08T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-04-08T09:00:00+03:00'
+        end_time: '2026-04-08T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-04-08T09:04:00+03:00'
+        end_time: '2026-04-08T09:59:00+03:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2026-04-08T10:00:00+03:00'
+        end_time: '2026-04-08T10:50:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-04-08T10:50:00+03:00'
+        end_time: '2026-04-08T11:00:00+03:00'
+      - title: Klassinen kattaus
+        start_time: '2026-04-08T11:00:00+03:00'
+        end_time: '2026-04-08T11:57:00+03:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-04-08T11:57:00+03:00'
+        end_time: '2026-04-08T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-08T12:00:00+03:00'
+        end_time: '2026-04-08T12:05:00+03:00'
+      - title: Vakoojat
+        start_time: '2026-04-08T12:00:00+03:00'
+        end_time: '2026-04-08T12:50:00+03:00'
+        description: |-
+          Vakoojat-podcastin neljännellä kaudella kerrotaan mm.  marsalkka Mannerheimin urasta huippuvakoojana sekä vuosisadan vakoojaksi itsensä vaatimattomasti määritelleen petollisen huijarin, Reinhard Gehlenin, uraa. Toimittajana Raimo Tyykiluoto.
+      - title: Politiikkaradio
+        start_time: '2026-04-08T13:00:00+03:00'
+        end_time: '2026-04-08T13:30:00+03:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-04-08T13:30:00+03:00'
+        end_time: '2026-04-08T15:00:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2026-04-08T15:00:00+03:00'
+        end_time: '2026-04-08T15:55:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle News
+        start_time: '2026-04-08T15:55:00+03:00'
+        end_time: '2026-04-08T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-08T16:00:00+03:00'
+        end_time: '2026-04-08T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-04-08T16:07:00+03:00'
+        end_time: '2026-04-08T16:59:00+03:00'
+      - title: Uutispodcast
+        start_time: '2026-04-08T17:00:00+03:00'
+        end_time: '2026-04-08T17:20:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-04-08T17:20:00+03:00'
+        end_time: '2026-04-08T17:35:00+03:00'
+      - title: Jazzklubi
+        start_time: '2026-04-08T17:35:00+03:00'
+        end_time: '2026-04-08T18:35:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-04-08T18:35:00+03:00'
+        end_time: '2026-04-08T18:50:00+03:00'
+      - title: Iltahartaus
+        start_time: '2026-04-08T18:50:00+03:00'
+        end_time: '2026-04-08T19:00:00+03:00'
+        description: |-
+          Kappalainen Lauri Holma, Oulu
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-08T19:00:00+03:00'
+        end_time: '2026-04-08T19:02:00+03:00'
+      - title: Etnokonsertteja
+        start_time: '2026-04-08T19:02:00+03:00'
+        end_time: '2026-04-08T21:00:00+03:00'
+      - title: 'Politiikkaradio '
+        start_time: '2026-04-08T21:00:00+03:00'
+        end_time: '2026-04-08T21:30:00+03:00'
+      - title: Havaintoja muutoksesta
+        start_time: '2026-04-08T21:31:00+03:00'
+        end_time: '2026-04-08T22:20:00+03:00'
+      - title: 'Kuunnelma: Nuori Sorjonen - hiljainen uhri J5'
+        start_time: '2026-04-08T22:21:00+03:00'
+        end_time: '2026-04-08T23:00:00+03:00'
+        description: |-
+          Uhka kasvaa, kun Sorjosen kotiin ilmestyy karmaiseva paketti ja tutkinta tiivistyy yhä tiukemmin Karin henkilökohtaisen elämän ympärille. Samaan aikaan kaappaaja kiristää otettaan vankina olevan pojan ympärillä ja Karin on päätettävä, voiko hän jättää rikoksen lopullisesti taakseen vai jatkaako.
+      - title: 'Ulkolinja-podcast: Trumpin myötä seksuaalivähemmistöt ovat Yhdysvalloissa ahtaalla '
+        start_time: '2026-04-08T23:20:00+03:00'
+        end_time: '2026-04-08T23:39:30+03:00'
+        description: |-
+          Monissa Yhdysvaltain osavaltioissa seksuaalivähemmistöjen asema on heikentynyt nopeasti ja  voimakkasti.  Konservatiivisessa Tennesseessä on säädetty lukuisia uusia lakeja, joilla on rajoitettu transihmisten ja esimerkiksi drag-esiintyjien oikeuksia. Trumpia tukeva oikeistosiipi perustelee rajoituksia lasten suojelulla. Ulkolinjan Minna Pye tapasi Tennesseessä seksuaalivähemmistöjen edustajia, jotka pelkäävät tulevaa. Moni heistä muuttaa pois Tennesseestä. Tragedioiltakaan ei ole vältytty. 
+
+          Toimittaja: Minna Pye
+          Äänisuunnittelija: Anssi Tamminen
+          Tuottaja: Marko Lönnqvist
+      - title: Yöklassinen
+        start_time: '2026-04-08T23:40:00+03:00'
+        end_time: '2026-04-09T06:30:00+03:00'
