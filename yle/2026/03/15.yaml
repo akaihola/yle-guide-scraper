@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-05T03:01:41.673605+00:00'
+  generated_at: '2026-03-06T03:01:19.199490+00:00'
   git:
     branch: main
-    commit: dc1440695b1910debaa3d97637b166b3a1c78339
-  data_hash: cbaf63c7b8e5f857719a18434e4d1343dd39d821282c106de424d0b5aa69b35a
+    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
+  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
 data:
   '':
     programmes:
@@ -76,6 +76,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-15T11:00:00+02:00'
         end_time: '2026-03-15T11:59:00+02:00'
+        description: |+
+          Mancini: Days of wine and roses (Helena Siltala).
+          Williams: Rainy days and Mondays (Carpenters).
+          Webb: Wichita lineman (Glen Campbell).
+          Webb: Kun saavun Ouluun (Inga Sulin).
+          Kansanlaulu: Maria Rita cara bonita (Amalia Rodrigues).
+          Portela: Lissabonin yössä (Ossi Runnen orkesteri ja Sacy Sand).
+          Halletz: Verlieb dich in Lissabon (Maynie Siren ja Pärre Förars).
+          Brel: Ne me quitte pas (Toots Thielemans).
+          Brel: Orly (Jacques Brel).
+          Denver: Leaving on a jet plane (Peter, Paul and Mary).
+          Denver/Danoff/Nivert: Take me home, country roads (John Denver).
+          Johnson: Since I fell for you (Jimmy Smith).
+          Martin: Since I don't have you (The Skyliners).
+          Carmichael: Heart and soul (Ella Fitzgerald).
+          Rodgers: It might as well be spring (Astrud Gilberto ja Stan Getz).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-15T12:00:00+02:00'
         end_time: '2026-03-15T12:05:00+02:00'

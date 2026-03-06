@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-05T03:01:43.984420+00:00'
+  generated_at: '2026-03-06T03:01:21.279393+00:00'
   git:
     branch: main
-    commit: dc1440695b1910debaa3d97637b166b3a1c78339
-  data_hash: cbaf63c7b8e5f857719a18434e4d1343dd39d821282c106de424d0b5aa69b35a
+    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
+  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
 data:
   '':
     programmes:
@@ -105,9 +105,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T19:00:00+02:00'
         end_time: '2026-03-26T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Jazz Suomi Nyt! - Mikko Innanen & Juhlayhtye Turku Jazz -festivaalilla.'
         start_time: '2026-03-26T19:02:00+02:00'
         end_time: '2026-03-26T20:00:00+02:00'
+        description: |-
+          Äänitetty Logomon Teatro-salissa 6.3.2026.
       - title: Elokuvamusiikin Klassinen kattaus
         start_time: '2026-03-26T20:00:00+02:00'
         end_time: '2026-03-26T20:57:00+02:00'
@@ -142,6 +144,30 @@ data:
         end_time: '2026-03-26T22:20:00+02:00'
         description: |-
           Vaikka valtiolliset asevoimat pitävät tiukasti kiinni siitä, että hyökkäyspäätöksen tekee valtiollinen taho, perustuu hyökkäyspäätös yhä useammin yrityksen tuottamaan tiedustelutietoon. Miksi valtion arkaluontoisimpiakin tietoja annetaan yritysten käsiin, eikö tiedustelun pitäisi olla viimeinen asia, joka ulkoistetaan?Toimittajana Ippi Arjanne, asiantuntijoina yliopistonlehtori Mirva Salminen ja väitöskirjatutkija Mikko Räkköläinen. Jakso on julkaistu alunperin kesäkuussa 2023.
+      - title: 'Viihdekuunnelma: Lordi Arthur Savilen rikos'
+        start_time: '2026-03-26T22:31:00+02:00'
+        end_time: '2026-03-26T22:59:00+02:00'
+        description: |-
+          Osa 3/3. Lordi Arthur saa kuulla seurapiirien suosimalta kädestäennustajalta, että hänen kohtalonsa on joutua murhaajaksi. Järkyttynyt herrasmies lykkää tulevia häitään, sillä ennen avioitumistaan hän haluaa selvitä kiusallisesta velvollisuudestaan. Kuunnelma on Oscar Wilden novellista sovitettu salonkikomedia, jossa "loordilliseen" keskustelunsävyyn sekoittuu pisteliäitä nokkeluuksia. Lopulta rikoksesta määrättävä rangaistus lienee yksi pahimmista mahdollisista - wildemaiseen tyyliin.
+
+          Oscar Wilden aiheen mukaan kirjoittanut Basil Dawson. Radioteatterille suomentanut Albin Ahonen. Ohjaus: Aimo Hiltunen.
+
+          Henkilöt: 
+          Herttuatar - Hilkka Helinä. 
+          Lordi Arthur - Jussi Jurkka. 
+          Lordi Augustus Surbiton, Lordi Arthurin veli - Toivo Mäkelä. 
+          Lady Coniston - Pia Hattara. 
+          Neiti Sybil Merton, Lordi Arthurin kihlattu - Marita Nordberg.
+          Lady Clem - Alice Lyly. 
+          Herra Podgers, kädestäkatsoja - Tauno Kajander. 
+          Pestle, apteekkari - Matti Aulos. 
+          Kreivi Ruvalov - Rauno Ketonen. 
+          Herra Winckelkopf, anarkisti - Heikki Savolainen. 
+          Jane-serkku, Lordi Arthurin enon tytär - Sirkka-Liisa Wilén. 
+          Baker, lordi Arthurin palvelija - Leo Jokela. 
+          Herra Mansfield, Lady Clemin asiainhoitaja - Leevi Kuuranne. 
+          Herra Button, rikoskomisario - Kaarlo Halttunen.
+          Ensilähetys: 1961.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-03-26T23:01:00+02:00'
         end_time: '2026-03-26T23:57:00+02:00'

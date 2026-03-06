@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-05T03:01:43.420215+00:00'
+  generated_at: '2026-03-06T03:01:20.701522+00:00'
   git:
     branch: main
-    commit: dc1440695b1910debaa3d97637b166b3a1c78339
-  data_hash: cbaf63c7b8e5f857719a18434e4d1343dd39d821282c106de424d0b5aa69b35a
+    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
+  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
 data:
   '':
     programmes:
@@ -24,6 +24,25 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-23T07:06:00+02:00'
         end_time: '2026-03-23T08:00:00+02:00'
+        description: |+
+          Dusek: Allegro sinfoniasta G-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          J.S. Bach (sov. Rahmaninov): Osia Partitasta sooloviululle n:o 3 E-duuri (Vladimir Ashkenazy, piano).
+
+          Dvorak: Humoreski n:o 7 Ges-duuri (Stephen Hough, piano).
+
+          Beach: Dreaming (Judith Herbert, sello, ja Diana Ambache, piano).
+
+          Fauré: Mandoline (Renée Fleming, sopraano, ja Jean-Yves Thibaudet, piano).
+
+          Albéniz: Triana (Chicagon SO/Fritz Reiner).
+
+          Arban: Kapriisi ja muunnelmia (Claude Delangle, alttosaksofoni, ja Odile Delangle, piano).
+
+          Sibelius: Demanten på marssnön (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          Schubert - Liszt: Myrskyinen aamu ja Kylässä, transkriptioita sarjasta Winterreise (Antti Siirala, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-23T08:00:00+02:00'
         end_time: '2026-03-23T08:07:00+02:00'
@@ -85,31 +104,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-23T16:07:00+02:00'
         end_time: '2026-03-23T16:59:00+02:00'
-        description: |+
+        description: |
           Nyman: The heart asks pleasure first (Gautier Capucon, sello, Jerome Ducros, piano, sekä Pariisin kamariork./Adrien Perruchon).
 
           Melartin: Salaperäinen metsä kok. Kuusi kappaletta pianolle (Liisa Pohjola, piano).
 
           Chausson: Sicilienne konsertosta pianolle, viululle ja jousikvartetille D-duuri (Itzhak Perlman, viulu, Jorge Bolet, piano, ja Juilliard-kvartetti).
 
-          Gounod: Margaretan jalokiviaaria oopp. Faust (Maria Callas, sopraano, ja Ranskan radio-ork./Georges Pretre).
+          Gounod: Margaretan jalokiviaaria "O Dieu! que de bijoux! - Ah! je ris de me voir" oopp. Faust (Maria Callas, sopraano, ja Ranskan radio-ork./Georges Prêtre).
 
           Chopin: Valssi n:o 7 cis-molli (Yuja Wang, piano).
 
           Dollé: La Précieuse (Melisande Corriveau, viola da gamba, ja Eric Milnes, cembalo).
 
-          Rameau: Chaconne oopperabal. Jalot villit (Les Ambassadeurs/Alexis Kossenko).  
+          Rameau: Chaconne oopperabal. Les Indes galantes (Jalot villit) (Les Ambassadeurs/Alexis Kossenko).  
 
           Szymanowska: Valssi pianolle n:o 3 F-duuri (Tobias Koch, fortepiano).
 
-          Donizetti: Belcoren aaria "Come Paride vezzoso" oopp. Lemmenjuoma (Dmitri Hvorostovski, baritoni, ja Philharmonia-ork./Ion Marin).
+          Donizetti: Belcoren aaria "Come Paride vezzoso" oopp. L'elisir d'amore (Lemmenjuoma) (Dmitri Hvorostovski, baritoni, ja Philharmonia-ork./Ion Marin).
 
           Schubert: Allegro vivace - Trio oktetosta F-duuri (Bostonin SO:n kamariyhtye).
 
-          Kansansäv.: La filadora (La Capella Reial de Catalunya/Jordi Savall).
+          Kansansäv.: La filadora (Kehrääjätyttö) (La Capella Reial de Catalunya/Jordi Savall).
 
           Aaltoila: Akselin ja Elinan häävalssi (Tampere Filharmonia/John Storgårds).
-
       - title: Uutispodcast
         start_time: '2026-03-23T17:00:00+02:00'
         end_time: '2026-03-23T17:20:00+02:00'
@@ -118,11 +136,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-23T17:20:00+02:00'
         end_time: '2026-03-23T17:35:00+02:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Helmenkalastajan hullut päivät Italiassa'
         start_time: '2026-03-23T17:35:00+02:00'
         end_time: '2026-03-23T18:35:00+02:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Pizzica-musiikin kehto Salento, totta kai, mutta myös Campania ja Calabria, Sardinia ja Sisilia. Ympäri Italiaa nousee jatkuvasti uusia kiinnostavia tulokkaita maailmanmusiikkilistoille, samalla kun saapasmaan vanhat mestarit luovat nahkansa tuoreiksi. Juuri nyt Italia on luultavasti maista parhain maailmanmusiikin helmenkalastajalle. Millainen tyylillinen nauha pitää noita helmiä yhdessä? Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-03-23T18:35:00+02:00'
         end_time: '2026-03-23T18:50:00+02:00'
