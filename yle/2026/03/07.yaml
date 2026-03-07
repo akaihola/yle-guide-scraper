@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-06T03:01:17.399707+00:00'
+  generated_at: '2026-03-07T02:54:36.263035+00:00'
   git:
     branch: main
-    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
-  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
+    commit: a7bd61341f080026f00a0df31083ae31c751b187
+  data_hash: abeffc43643832ee31b870f52be36acb22e1501a2e9caf90c273e03a78bebd4c
 data:
   '':
     programmes:
@@ -47,7 +47,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-07T08:05:00+02:00'
         end_time: '2026-03-07T08:25:00+02:00'
-        description: |+
+        description: |-
           Mason: Sua kohti, Herrani (Oulun KK/Markku Jounela).
 
           Mäki-Lohiluoma: Viikatemies (Jouko Mäki-Lohiluoma, laulu ja kitara, sekä nimetön yhtye).
@@ -56,6 +56,7 @@ data:
 
           Tuntematon (sov. Nurkkala): Puolees, Jeesus, rukouksin (virsi 353) (Candomino/Tauno Satomaa).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-03-07T08:25:00+02:00'
         end_time: '2026-03-07T08:35:00+02:00'
@@ -94,12 +95,32 @@ data:
           Harper/Charles: Them that got (Ray Charles).
           Morricone: Mon ami de toujours (Mireille Mathieu).
           Thomas: The another morning (The Moody Blues).
+
+          Pasi Hiihtolan toimittaman konsertin juontajana on Tuija Kurvinen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-07T09:59:00+02:00'
         end_time: '2026-03-07T10:00:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-03-07T10:00:00+02:00'
         end_time: '2026-03-07T10:25:00+02:00'
+        description: |-
+          Yhdysvaltain ja Israelin sotatoimien kohteena olevassa Iranissa naiset elävät kakkosluokan kansalaisina. Näköpiirissä ei ole naistenoikeuksien nopeaa paranemista niin kauan kun islamilaisen hallinnon systeeminen epätasa-arvo pysyy.
+
+          Ohjelmassa haastateltavien iranilaisten tasa-arvoaktivistien mukaan uskonto ja valtio pitäisikin erottaa tilanteen muuttamiseksi. Sota voi tiukentaa Iranin hallinnon kuristusotetta naisista entisestään.
+
+          Iran lukeutuu naistenoikeuksissa maailmanmitassa häntäpäähän, mutta viime vuosina tasa-arvokehitys on alkanut hidastua myös kansainvälisesti.
+
+
+
+          Valtiojohtajina naisia on edelleen vain alle 30 maassa. Ohjelmassa YK:n tasa-arvojärjestö UN Womenin apulaisjohtaja sekä Suomen ensimmäinen, ja tähän mennessä ainoa, naispresidentti Tarja Halonen pohtivat syitä hitaalle kehitykselle.
+
+           
+
+          Meksiko sai reilu vuosi sitten maan ensimmäisen naispresidentin. Ohjelmassa kuullaan raportti Meksikosta, jossa naisiin kohdistuva väkivalta on iso ongelma, eikä siltä ole ollut turvassa presidentti itsekään.
+
+           
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Karoliina Kantola ja Paula Vilén. Äänitarkkailijana on Katja Kostiainen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Sukuni murhamysteeri: Onko CIA vastuussa Veikon kuolemasta?'
         start_time: '2026-03-07T10:25:00+02:00'
         end_time: '2026-03-07T11:02:00+02:00'
@@ -120,7 +141,7 @@ data:
         start_time: '2026-03-07T11:57:00+02:00'
         end_time: '2026-03-07T12:00:00+02:00'
         description: |
-          Ote Sinikka Nopolan kertomuksesta Junaihminen
+          Ote Sinikka Nopolan kertomuksesta Junaihminen. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-07T12:00:00+02:00'
         end_time: '2026-03-07T12:05:00+02:00'
@@ -144,11 +165,11 @@ data:
         end_time: '2026-03-07T14:53:00+02:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Johtajien räjäyttäminen ei ole oikotie vaikeiden poliittisten ongelmien ohi'
         start_time: '2026-03-07T14:53:00+02:00'
         end_time: '2026-03-07T14:58:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Trumpin tavoitteet Iranin hyökkäykselle ovat hämmentävän epäselviä, mutta mikään sodan skenaario ei lupaa erityisen hyvää iranilaisille, tutkija ja tietokirjailija Timo R. Stewart pohtii.
       - title: 'Viihdekuunnelma: Lordi Arthur Savilen rikos'
         start_time: '2026-03-07T14:58:00+02:00'
         end_time: '2026-03-07T15:30:00+02:00'
@@ -174,8 +195,8 @@ data:
           Herra Button, rikoskomisario - Kaarlo Halttunen.
           Ensilähetys: 1961.
       - title: 'Aristoteleen kantapää: Mitä Minna todella sanoi? Canthin sitaatit on usein ymmärretty väärin'
-        start_time: '2026-03-07T15:30:54+02:00'
-        end_time: '2026-03-07T15:55:54+02:00'
+        start_time: '2026-03-07T15:30:00+02:00'
+        end_time: '2026-03-07T15:55:00+02:00'
         description: |+
           Minna Canthin sitaateista keskustelee Aristoteleen kantapäässä Canth -tutkija Minna Maijala. Ohjelmassa selviää myös mitä eroa on epäonnella ja huonolla tuurilla ja mitä tiuku repii. Toimittajina ovat Pasi Heikura ja Niina Mäkeläinen. Ohjelma on uusinta maaliskuulta 2023.
 
@@ -212,6 +233,8 @@ data:
           Hisaishi: One summer's day anime-elok. Henkien kätkemä (Japanin uusi FO/Jo Hisaishi, piano).
 
           Böhme: Allegro con spirito sekstetosta Es-duuri (brass partout/Hermann Bäumer).
+
+          Konsertin on laatinut Inari Tilli.
 
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-07T16:59:59+02:00'
@@ -252,13 +275,18 @@ data:
           Dvorák: Adagio ma non troppo sellokonsertosta h-molli (Jacqueline Du Pre, sello, ja Chicagon SO/Daniel Barenboim).
 
       - title: 'Uutispodcast: Uudet asunnot seisovat tyhjillään – miksi kauppa ei käy?'
-        start_time: '2026-03-07T21:01:00+02:00'
-        end_time: '2026-03-07T21:25:00+02:00'
+        start_time: '2026-03-07T21:00:33+02:00'
+        end_time: '2026-03-07T21:21:46+02:00'
         description: |-
           Miksi uudet asunnot eivät mene kaupaksi? Miksi uudisrakentamisen elpymistä odotetaan yhä? Atte Uusinokan vieraana on pääekonomisti Julia Ruotsi Rakli ry:stä.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-03-07T21:21:46+02:00'
+        end_time: '2026-03-07T21:44:10+02:00'
+        description: |-
+          Jarmo Laitaneva haastattelee toimittaja, kirjailija ja lätkäasiantuntija Petteri Sihvosta. Ensiläehtys 25.2.2026.
       - title: 'Klassikkokuunnelma: Laulu tulipunaisesta kukasta 2/2'
-        start_time: '2026-03-07T21:51:00+02:00'
-        end_time: '2026-03-07T22:30:00+02:00'
+        start_time: '2026-03-07T21:44:10+02:00'
+        end_time: '2026-03-07T22:35:54+02:00'
         description: |-
           Olavi riitautuu vanhempiensa kanssa, kun ei saa mennä naimisiin piikatytön kanssa. Olavi lähtee tukkilaiseksi ja matkan varrella hurmaa tytön toisensa jälkeen.
           Johannes Linnankosken romaanin mukaan Yleisradiolle kirjoittanut ja ohjannut Eero Leväluoma. 
@@ -281,6 +309,12 @@ data:
           Kertoja - Kaarlo Halttunen.
 
           Teos vuodelta 1954.
+      - title: Radio 1 soi
+        start_time: '2026-03-07T22:35:54+02:00'
+        end_time: '2026-03-07T22:40:18+02:00'
+        description: |+
+          Fauré: Papillon (Perhonen) (Susanna Mälkki, sello, ja Eero Heinonen, piano).
+
       - title: 'Keinuva talo - Mika Kauhanen: Loitsut, peikot ja bardit lumoavat'
         start_time: '2026-03-07T22:40:18+02:00'
         end_time: '2026-03-07T23:39:18+02:00'

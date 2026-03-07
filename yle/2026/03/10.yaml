@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-06T03:01:18.024053+00:00'
+  generated_at: '2026-03-07T02:54:38.076758+00:00'
   git:
     branch: main
-    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
-  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
+    commit: a7bd61341f080026f00a0df31083ae31c751b187
+  data_hash: abeffc43643832ee31b870f52be36acb22e1501a2e9caf90c273e03a78bebd4c
 data:
   '':
     programmes:
@@ -125,6 +125,8 @@ data:
           Olias: Kitara ja meri (Ritva Simuna).
           Styne: I'll walk alone (Martha Tilton).
           Reed/Mason: En kuitenkaan (Jouko ja Kosti).
+
+          Konsertin on toimittanut Riikka Holopainen.
       - title: 'Sari Valto: Elämme itsekkyyden aikaa'
         start_time: '2026-03-10T10:00:00+02:00'
         end_time: '2026-03-10T10:55:00+02:00'
@@ -134,11 +136,31 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-10T10:55:00+02:00'
         end_time: '2026-03-10T11:00:00+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Vesielementtejä'
         start_time: '2026-03-10T11:00:00+02:00'
         end_time: '2026-03-10T11:57:00+02:00'
-        description: |-
+        description: |+
+          Vesi. Kaksi vetyatomia ja yksi happiatomi yhdessä molekyylissä. Vesi kiertää maapallolla ja ilmakehässä monenlaisissa muodoissa. Ilman sitä emme eläisi. Ja mihin kaikkeen se onkaan taiteilijoita inspiroinut. 
+          Veden lorinat ja aaltoilut, lumen ja jään ritinät ja rapinat, pilvien sävyt ja liikkeet. Veden voima ja lempeys.  Ne ovat innoittaneet monia säveltäjiä säveltämään mitä ihmeellisintä musiikkia. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+
+          Ohjelman musiikit:
+
+          Michelangelo Falvetti: Il Diluvio universale (Vedenpaisumus) (Namurin kamarikuoro ja Cappella Mediterranea/Leonardo Garcia Alarcon).
+
+          Antonio Vivaldi: Konsertto viululle, jousille ja continuolle Es-duuri RV253 op.8/5 (La tempesta di mare, Myrsky merellä) (Fabio Biondi, viulu, ja Europa Galante).
+
+          Mikel Urquiza: Elurretan (Lumessa), trio mandoliinille, kitaralle ja harpulle
+          (Ensemble C Barré/Sebastien Boin).
+
+          Claude Debussy: Nuages (Pilviä), teoksesta Trois Nocturnes (Ranskan radion filharmoninen orkesteri/Mikko Franck).
+
+          Outi Tarkiainen: Jään lauluja, orkesterille (Radion sinfoniaorkesteri/ Nicholas Collon).
+
+          Edvard Grieg: Puro (Alice Sara Ott, piano).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-10T11:57:00+02:00'
         end_time: '2026-03-10T12:00:00+02:00'
@@ -173,11 +195,16 @@ data:
 
           N. lo 14:30 arabialainen kulttuuri on tullut säveltäjä, viulisti ja äänisuunnittelija Sanna Salmenkalliolle viime vuosien aikana läheiseksi. Nyt hän kertoo, miksi ja miten näin on käynyt. Toimittajana on Inari Tilli.
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miten Elvis puree meidän aikanamme?'
         start_time: '2026-03-10T15:00:00+02:00'
         end_time: '2026-03-10T15:55:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Elvis teki paluun valkokankaille vuonna 2022 Baz Luhrmannin elämäkertaelokuvassa. Nyt Baz Luhrmann on tehnyt dokumentin ja konserttielokuvan rajoja rikkovan uuden elokuvan Elviksestä.
+          Luhrmannin Epic perustuu 68 laatikolliseen ennennäkemätöntä Elvis-aineistoa. Ne ovat käyttämättömäksi jäänyttä kuvaa 1970-luvulla tehdyistä Elvis: That’s the way it is -dokumentista ja Elvis on Tour -konserttielokuvasta. 
+
+          Kulttuuriykkönen ottaa Elviksen kokonaisvaltaiseen tarkasteluun: mitä annettavaa Elviksellä on meidän ajallemme, ja miltä Elviksen ilmiömäinen ura näyttää nykyajan perspektiivistä. Ennen kaikkea: voiko Elviksestä sanoa vielä jotain uutta?
+
+          Keskustelmassa korkeakoululehtori ja Elvis-asiantuntija Atte Varsta, lähihoitaja ja Elvisfani Ansku Airaksinen sekä musiikkitoimittaja Pekka Laine. Toimittajana on Jonni Roos.
       - title: Yle News
         start_time: '2026-03-10T15:55:00+02:00'
         end_time: '2026-03-10T15:58:00+02:00'
@@ -200,6 +227,26 @@ data:
         description: |2+
 
 
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2026-03-10T17:35:00+02:00'
+        end_time: '2026-03-10T18:30:00+02:00'
+        description: |
+          Sinisukista ja jazztytöistä lähtien tyttöihin ja naisiin on liitetty erilaisia nimityksiä ja määritelmiä. On yläasteen pissikset ja lukion suorittajat, joista keski-iässä voi tulla sitten vaikka puumia, futisäitejä tai winemomseja.
+
+          Erilaisiin tyttöihin ja naisiin tutustuessamme pääsemme sad girlin keittiöön kokkaamaan alligaattorin kesyttäjälle ja perehtymään erilaisiin rakastumisen ääniin. 
+          Voiko rakkauslaulu kuulostaa kiintymyshormoni oksitosiinilta, tai voiko se kuulostaa helkkarin pelottavalta.
+
+          The Ditty Bops: I wish I could shimmy like my sister Kate
+          M: Elämä kiitää
+          Meredith Brooks: Bitch
+          Asla Jo: Viistoista
+          Ethel Cain: Fuck me eyes
+          Akkajee: Mökkikirja
+          Lana Del Rey: White feather hawk tail deer hunter
+          Joyce Heath: I wouldn't dream of it
+          Kielo Kärkkäinen: Lintusein
+          Nina Simone: Take care of business
+          Julianna Barwick & Mary Lattimore: Rachel's song
       - title: 'Viikon luontoääni: Kiuru'
         start_time: '2026-03-10T18:30:00+02:00'
         end_time: '2026-03-10T18:35:00+02:00'
@@ -208,6 +255,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-10T18:35:00+02:00'
         end_time: '2026-03-10T18:50:00+02:00'
+        description: |+
+          Palmer: Mestari, myrsky on suuri (Braxén-kuoro/Harry Westerlund).
+
+          Koraalitoisinto (sov. Vintturi): Herra Jeesus kun täällä vain kanssamme on (Papas No Mamas/Juha Vintturi).
+
+          Simojoki: Sä Herra, armon tuoja (Maria Laakso, Markus Bäckman ja Inna Vintturi, laulu, sekä Tuomaskuoro, ja yhtye).
+
       - title: Iltahartaus
         start_time: '2026-03-10T18:50:00+02:00'
         end_time: '2026-03-10T19:00:00+02:00'
@@ -238,6 +292,24 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-03-10T20:35:00+02:00'
         end_time: '2026-03-10T21:00:00+02:00'
+        description: |-
+          Yhdysvaltain ja Israelin sotatoimien kohteena olevassa Iranissa naiset elävät kakkosluokan kansalaisina. Näköpiirissä ei ole naistenoikeuksien nopeaa paranemista niin kauan kun islamilaisen hallinnon systeeminen epätasa-arvo pysyy.
+
+          Ohjelmassa haastateltavien iranilaisten tasa-arvoaktivistien mukaan uskonto ja valtio pitäisikin erottaa tilanteen muuttamiseksi. Sota voi tiukentaa Iranin hallinnon kuristusotetta naisista entisestään.
+
+          Iran lukeutuu naistenoikeuksissa maailmanmitassa häntäpäähän, mutta viime vuosina tasa-arvokehitys on alkanut hidastua myös kansainvälisesti.
+
+
+
+          Valtiojohtajina naisia on edelleen vain alle 30 maassa. Ohjelmassa YK:n tasa-arvojärjestö UN Womenin apulaisjohtaja sekä Suomen ensimmäinen, ja tähän mennessä ainoa, naispresidentti Tarja Halonen pohtivat syitä hitaalle kehitykselle.
+
+           
+
+          Meksiko sai reilu vuosi sitten maan ensimmäisen naispresidentin. Ohjelmassa kuullaan raportti Meksikosta, jossa naisiin kohdistuva väkivalta on iso ongelma, eikä siltä ole ollut turvassa presidentti itsekään.
+
+           
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Karoliina Kantola ja Paula Vilén. Äänitarkkailijana on Katja Kostiainen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Politiikkaradio '
         start_time: '2026-03-10T21:00:01+02:00'
         end_time: '2026-03-10T21:30:00+02:00'

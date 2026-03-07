@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-06T03:01:20.519590+00:00'
+  generated_at: '2026-03-07T02:54:42.300591+00:00'
   git:
     branch: main
-    commit: 16c12b5de2c58aa1587b096514d3fb683fe102cc
-  data_hash: 0c638c45ea6332ffb0e1d56c0137a211b879bb559a0e4724cb7842c767076b8a
+    commit: a7bd61341f080026f00a0df31083ae31c751b187
+  data_hash: abeffc43643832ee31b870f52be36acb22e1501a2e9caf90c273e03a78bebd4c
 data:
   '':
     programmes:
@@ -52,11 +52,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-22T12:00:00+02:00'
         end_time: '2026-03-22T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Alastomuuden historia'
         start_time: '2026-03-22T12:05:00+02:00'
         end_time: '2026-03-22T12:55:00+02:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Haastateltavina: Anu Korhonen, FT, kulttuurintutkija, kulttuurihistorian dosentti ja Ville Hakanen FT, taidehistorioitsija. Toimittajana Liisa Vihmanen.
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-03-22T13:00:00+02:00'
         end_time: '2026-03-22T13:57:00+02:00'
@@ -120,6 +120,8 @@ data:
           Foote: Air teoks. Serenadi jousille op.25 (Seattlen SO/Gerard Schwarz).
 
           Hahn: À Chloris (Susan Graham, mezzosopraano, ja Roger Vignoles, piano).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Etnokonsertteja
         start_time: '2026-03-22T17:00:00+02:00'
         end_time: '2026-03-22T18:00:00+02:00'
