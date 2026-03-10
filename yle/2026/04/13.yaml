@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-09T03:05:09.929066+00:00'
+  generated_at: '2026-03-10T03:00:00.496906+00:00'
   git:
     branch: main
-    commit: 124bc18c62c291e63cf83634edaa62a82ad142f0
-  data_hash: ba9614cff8c607c11740f96d5da8d2d58fd76eab72ad84243f9c89f0db522efd
+    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
+  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
 data:
   '':
     programmes:
@@ -13,3 +13,128 @@ data:
       - title: Yöklassinen
         start_time: '2026-04-12T23:40:00+03:00'
         end_time: '2026-04-13T06:30:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-04-13T06:30:50+03:00'
+        end_time: '2026-04-13T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-04-13T06:50:00+03:00'
+        end_time: '2026-04-13T06:59:59+03:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-13T07:00:00+03:00'
+        end_time: '2026-04-13T07:05:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-04-13T07:06:00+03:00'
+        end_time: '2026-04-13T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-13T08:00:00+03:00'
+        end_time: '2026-04-13T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-04-13T08:07:00+03:00'
+        end_time: '2026-04-13T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-04-13T09:00:00+03:00'
+        end_time: '2026-04-13T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-04-13T09:04:00+03:00'
+        end_time: '2026-04-13T09:59:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-04-13T10:00:00+03:00'
+        end_time: '2026-04-13T10:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-04-13T10:52:00+03:00'
+        end_time: '2026-04-13T11:00:00+03:00'
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2026-04-13T11:00:00+03:00'
+        end_time: '2026-04-13T11:57:00+03:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-04-13T11:57:00+03:00'
+        end_time: '2026-04-13T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-13T12:00:00+03:00'
+        end_time: '2026-04-13T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2026-04-13T12:05:00+03:00'
+        end_time: '2026-04-13T12:55:00+03:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Politiikkaradio
+        start_time: '2026-04-13T13:00:00+03:00'
+        end_time: '2026-04-13T13:30:00+03:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-04-13T13:30:00+03:00'
+        end_time: '2026-04-13T15:00:00+03:00'
+      - title: Yle News
+        start_time: '2026-04-13T15:55:00+03:00'
+        end_time: '2026-04-13T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-13T16:00:00+03:00'
+        end_time: '2026-04-13T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-04-13T16:07:00+03:00'
+        end_time: '2026-04-13T16:59:00+03:00'
+      - title: Uutispodcast
+        start_time: '2026-04-13T17:00:00+03:00'
+        end_time: '2026-04-13T17:20:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-04-13T17:20:00+03:00'
+        end_time: '2026-04-13T17:35:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-04-13T17:35:00+03:00'
+        end_time: '2026-04-13T18:35:00+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2026-04-13T18:35:00+03:00'
+        end_time: '2026-04-13T18:50:00+03:00'
+        description: |-
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2026-04-13T18:50:00+03:00'
+        end_time: '2026-04-13T19:00:00+03:00'
+        description: |-
+          Maanantaista lauantaihin
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-13T19:00:00+03:00'
+        end_time: '2026-04-13T19:02:00+03:00'
+      - title: 'Väkivallan markkinat: Erik Princen ilmavoimat'
+        start_time: '2026-04-13T19:02:00+03:00'
+        end_time: '2026-04-13T19:50:00+03:00'
+        description: |-
+          Blackwaterin jälkeen Erik Princellä oli edelleen yksi toteutumaton unelma: omat ilmavoimat. Niitä hän lähti perustamaan salaa jopa omalta firmaltaan, kiinalaiselta FSG:ltä. Alkoi uskomaton, farssin piirteitä omaava saaga, johon liittyy amatöörivalokuvaaja, erinomaisia lakimiehiä ja koodikieltä.
+
+          Vaikka vuosikymmenet ja skandaalit ovat pakottaneet yksityistä turvallisuusalaa siistiytymään, hämäriä diilejä on tarjolla edelleen. Mihin ala suuntaa seuraavaksi? Toimittaja Ippi Arjanteen kanssa muuttuvia konflikteja, tekoälyn roolia ja muita tulevaisuuden skenaarioita pohtii Mikko Räkköläinen. Jakso on julkaistu alunperin kesäkuussa 2023.
+      - title: Ulkolinja-podcast
+        start_time: '2026-04-13T20:05:00+03:00'
+        end_time: '2026-04-13T20:25:00+03:00'
+      - title: 'Kaisa Pulakan aikamatkat: Unettomuus on melankolisten nerojen vaiva - unimatkoja'
+        start_time: '2026-04-13T20:25:00+03:00'
+        end_time: '2026-04-13T21:00:00+03:00'
+        description: |
+          Unettomuus on moderni kansantauti, jolla on pitkä historia. Melatoniini, kloraali, oopiumi - unettomuuden vaivoja on hoidettu jo antiikissa. 1800-luvulla unettomuus oli muotia. Se oli vaiva, josta yläluokan miesten sopi valittaa yhdessä ja suureen ääneen. Nykyaika vaatii meitä jopa nukkumaan tehokkaasti ja siksi 2000-luvun unettomat kärsivät ahdistuksesta. 
+          Käsikirjoitus ja äänisuunnittelu: Kaisa Pulakka. Lukija: Pietari Kylmälä. Tunnusmusiikki: Joonatan Kotila. Tuottaja: Pertti Ylikojola.
+      - title: Politiikkaradio
+        start_time: '2026-04-13T21:00:00+03:00'
+        end_time: '2026-04-13T21:30:00+03:00'
+      - title: Tiedeykkönen
+        start_time: '2026-04-13T21:30:30+03:00'
+        end_time: '2026-04-13T22:20:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-04-13T22:45:00+03:00'
+        end_time: '2026-04-13T23:39:30+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+      - title: Yöklassinen
+        start_time: '2026-04-13T23:40:00+03:00'
+        end_time: '2026-04-14T06:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-09T03:05:03.229914+00:00'
+  generated_at: '2026-03-10T02:59:52.969287+00:00'
   git:
     branch: main
-    commit: 124bc18c62c291e63cf83634edaa62a82ad142f0
-  data_hash: ba9614cff8c607c11740f96d5da8d2d58fd76eab72ad84243f9c89f0db522efd
+    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
+  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
 data:
   '':
     programmes:
@@ -46,6 +46,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-17T06:30:50+02:00'
         end_time: '2026-03-17T06:50:00+02:00'
+        description: |-
+          Tuntematon (sov. Jaakko Linjama): Kuule, Isä, lastes ääni (SRK:n lauluryhmä/Lauri Nurkkala, ja Sheldon Ylioja, urut).
+
+          Koraalitoisinto (sov. Sonninen): On laupeus sanomaton (Wähäpaimen/Sari Rantanen, ja Erkki Rautio, sello).
+
+          Tuntematon: Kristus, valo maailman (Cetus Noster).
+
+          Tuntematon: Sun haltuus, rakas Isäni (Topi Lehtipuu, tenori, ja The Spirit of Gambo).
       - title: Aamuhartaus
         start_time: '2026-03-17T06:50:00+02:00'
         end_time: '2026-03-17T06:59:59+02:00'
@@ -201,12 +209,22 @@ data:
         end_time: '2026-03-17T17:35:00+02:00'
         description: |2+
 
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Saukko'
         start_time: '2026-03-17T18:30:00+02:00'
         end_time: '2026-03-17T18:35:00+02:00'
+        description: |-
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2026-03-17T18:35:00+02:00'
         end_time: '2026-03-17T18:50:00+02:00'
+        description: |-
+          Stier: Täältä puolehen ylhäisen maan (Risto Lauriala, piano).
+
+          Tuntematon: Oi Jumalan Karitsa (Lumen Valo).
+
+          Valamon luostarin sävelmä: Maistakaa ja katsokaa (Turun ort. kirkon kuoro/Pekka Torhamo).
+
+          Medvedev: Sinun ristillesi (Joensuun yliopiston ort. kuoro/Risto Matsi).
       - title: Iltahartaus
         start_time: '2026-03-17T18:50:00+02:00'
         end_time: '2026-03-17T19:00:00+02:00'
