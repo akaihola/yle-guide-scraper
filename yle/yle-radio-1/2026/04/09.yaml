@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-09T03:05:09.000716+00:00'
+  generated_at: '2026-03-10T02:59:59.485205+00:00'
   git:
     branch: main
-    commit: dbe79e3c78f28f266805958e0acd1cc7975c9c65
-  data_hash: ba9614cff8c607c11740f96d5da8d2d58fd76eab72ad84243f9c89f0db522efd
+    commit: feb2363ad04db0b805fd2d1e465b9e071587da4b
+  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
 data:
   Yle Radio 1:
     programmes:
@@ -116,11 +116,8 @@ data:
         end_time: '2026-04-09T20:00:00+03:00'
         description: |
           Äänitetty Espoon Louhisalissa 24.4.2025.
-      - title: Klassinen kattaus
-        start_time: '2026-04-09T20:00:00+03:00'
-        end_time: '2026-04-09T20:57:00+03:00'
       - title: 'Politiikkaradio '
-        start_time: '2026-04-09T21:00:00+03:00'
+        start_time: '2026-04-09T21:00:01+03:00'
         end_time: '2026-04-09T21:30:00+03:00'
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-04-09T23:01:00+03:00'
