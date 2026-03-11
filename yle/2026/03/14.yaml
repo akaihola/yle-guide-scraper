@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-10T02:59:52.176926+00:00'
+  generated_at: '2026-03-11T02:59:19.983533+00:00'
   git:
     branch: main
-    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
-  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
+    commit: 7f925cbc6566ddb0913456a8e820d195842ab5aa
+  data_hash: fb5a67000c2a71d75ee1ad6768e1c349ca38cb0be630db117f5c6981408db7c4
 data:
   '':
     programmes:
@@ -74,8 +74,8 @@ data:
       - title: Aamuhartaus
         start_time: '2026-03-14T08:25:00+02:00'
         end_time: '2026-03-14T08:35:00+02:00'
-        description: |-
-          Pastori Jyrki Vehkavuori, Adventtikirkko, Piikkiö
+        description: |
+          Pastori Jyrki Vehkavuori, Adventtikirkko, Piikkiö puhuu levon ja paaston merkityksestä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-14T08:35:00+02:00'
         end_time: '2026-03-14T08:40:00+02:00'
@@ -126,9 +126,9 @@ data:
           Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: 'Virtasen taloushistoria: Lähiöiden eriytyminen - mitä pahaa, mitä hyvää?'
         start_time: '2026-03-14T11:00:00+02:00'
-        end_time: '2026-03-14T11:52:00+02:00'
+        end_time: '2026-03-14T11:54:00+02:00'
         description: |
-          Lähiöiden eriytymistä pidetään pahana asiana, mutta asia ei ole yksinkertainen. Vieraana on sosiologi Anna Kontula.
+          Lähiöiden eriytymistä pidetään yleisesti pahana asiana. Ei saa kehittyä vain varakkaiden ja vain köyhien asuinalueita. Sosiologi Anna Kontula on löytänyt eriytymisestä kielteisiä asioita, mutta myös myönteisiä.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-14T11:57:00+02:00'
         end_time: '2026-03-14T12:00:00+02:00'
@@ -144,7 +144,7 @@ data:
           Robert Redfordin tulkitsema purjehtija elokuvassa All is lost näyttää, miten merihädässä Intian valtamerellä toimitaan stoalaisen, käytännönläheisen filosofian mukaisesti. Samoin tulisi stoalaisittain suhtautua mihin tahansa haasteeseen, jonka elämä eteen heittää, ja jopa rakastaa kohtaloaan. Toisaalta elokuvan purjehtijan voi nähdä edustavan myös hyvin epästoalaisia piirteitä. Miten stoalaiset suhtautuivat omaisuuteen, kuten purjeveneisiin, matkailusta ja elämyshakuisuudesta puhumattakaan? Miksi stoalaisuudesta on tullut muotifilosofia, ja mistä sen mukaan onni on tehty?
 
           Stoalaiseen ajatteluun elokuvan kehystämänä uivat Marja Vehkasen luotsaamana kirjailija-kääntäjä, teologian tohtori Juhana Torkki ja filosofian tohtori Tommi Kakko.
-      - title: 'Näistä levyistä en luovu: elävä radioklassikko Jari Aula'
+      - title: 'Näistä levyistä en luovu: Elävä radioklassikko Jari Aula'
         start_time: '2026-03-14T13:00:00+02:00'
         end_time: '2026-03-14T13:55:00+02:00'
         description: |-
@@ -193,7 +193,7 @@ data:
         start_time: '2026-03-14T15:30:00+02:00'
         end_time: '2026-03-14T15:55:00+02:00'
         description: |
-          Pasi Heikura pohtii yleisen kielitieteen professori Matti Miestamon kanssa, miksi kielissä on epäsäännöllisiä verbejä. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
+          Pasi Heikura pohtii yleisen kielitieteen professori Matti Miestamon kanssa, miksi kielissä on epäsäännöllisiä verbejä. Ohjelmassa selvitetään myös, mihin asia menee, jos se on mukiinmenevä, miltä maistuu rokka sopassa ja lopuksi koitetaan saada laiva takaisin raiteilleen. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2026-03-14T15:55:00+02:00'
         end_time: '2026-03-14T15:58:00+02:00'
@@ -233,11 +233,12 @@ data:
         end_time: '2026-03-14T17:00:00+02:00'
       - title: 'Marko Gustafsson: Käännekohdissa: Matti Liimatainen'
         start_time: '2026-03-14T17:00:00+02:00'
-        end_time: '2026-03-14T17:53:00+02:00'
-        description: |-
-          Suomen Greenpeacen metsävastaavan Matti Liimataisen ura alkoi 1980-luvun lopulla Talaskankaan aarniometsissä. “Olin 14 kun liityin paikalliseen luontokerhoon ja 15-vuotiaana hiihdin poliiseja pakoon Talaskankaalla, kun yritimme estää hakkuut ” Matti muistelee.  Nuori luontoaktivisti päätyi muiden mukana putkaan, mutta se ei lannistanut Liimataista.
+        end_time: '2026-03-14T17:52:00+02:00'
+        description: |
+          Greenpeacen metsävastaavan Matti Liimataisen ura alkoi 1980-luvun lopulla Talaskankaan aarniometsissä. “Olin 14 kun liityin paikalliseen luontokerhoon ja 15-vuotiaana hiihdin poliiseja pakoon Talaskankaalla, kun yritimme estää hakkuut ” Matti muistelee.  Nuori luontoaktivisti päätyi muiden mukana putkaan, mutta se ei lannistanut Liimataista.
+          “Oivalsin siellä, että metsäyhtiöiden ja viranomaisten lausunnot suhteessa siihen mitä metsissä tehtiin eivät pitäneet paikkaansa. Ja näin on valitettavan usein edelleen.” Matti Liimatainen toteaa.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-03-14T17:53:00+02:00'
+        start_time: '2026-03-14T17:52:00+02:00'
         end_time: '2026-03-14T18:00:00+02:00'
       - title: Iltahartaus
         start_time: '2026-03-14T18:01:00+02:00'

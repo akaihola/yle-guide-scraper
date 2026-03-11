@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-10T02:59:52.712178+00:00'
+  generated_at: '2026-03-11T02:59:22.691522+00:00'
   git:
     branch: main
-    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
-  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
+    commit: 7f925cbc6566ddb0913456a8e820d195842ab5aa
+  data_hash: fb5a67000c2a71d75ee1ad6768e1c349ca38cb0be630db117f5c6981408db7c4
 data:
   '':
     programmes:
@@ -130,22 +130,40 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-16T12:00:00+02:00'
         end_time: '2026-03-16T12:05:00+02:00'
-      - title: 'Elävä historia: Alastomuuden historia'
+      - title: 'Elävä historia: Syntiä vai luonnollisuutta - kuinka alastomuudesta ja seksistä tuli häpeällistä'
         start_time: '2026-03-16T12:05:00+02:00'
         end_time: '2026-03-16T12:55:00+02:00'
-        description: |-
-          Haastateltavina: Anu Korhonen, FT, kulttuurintutkija, kulttuurihistorian dosentti ja Ville Hakanen FT, taidehistorioitsija. Toimittajana Liisa Vihmanen.
+        description: |
+          Raamatun luomiskertomuksessa Aatami ja Eeva huomaavat olevansa alasti ja kauhistuvat. Apuun tulee viikunapuu, joka tarjoaa alastomien vartaloiden peitteeksi lehtiään. Tästä mytologisesta tarinasta alkaa alastomuuden ja seksin kauhistelu. 
+
+          Kristinusko istutti alastomuuden häpeän myös kansoihin, jotka olivat eläneet lämpimässä ja tarvinneet vain vähän vaatteita suojakseen. Heille uskoteltiin, että vaatteet tekevät ihmisestä sivistyneen. 
+
+          Viktoriaaninen aika suhtautui alastomaan kehoon lähes hysteerisesti. Erityisesti naisten oli peitettävä vartalonsa, jottei heidän hallitsemattomana pidetty seksuaalisuutensa olisi vietellyt miehiä. Mutta millainen suhde alastomuuteen ja seksiin Euroopassa oli ennen viktoriaanista aikaa, 1600- ja 1700-luvuilla? 
+
+          Häpeä ei ollut ainoa syy peittää keho vaatteilla. 1600-luvulla ymmärrys ihmiskehosta perustui humoraaliteoriaan, jossa esimerkiksi liiallisen peseytymisen uskottiin olevan haitallista. Usein syyt paksuihin vaatekerroksiin olivat myös käytännöllisiä: Asunnot olivat kylmiä, eikä edes seksin vuoksi tarvinnut riisuutua, sillä alushousut olivat vasta tulossa. 
+
+          Entä miten oli mahdollista, että alastomuus oli kuitenkin sallitua veisto- ja maalaustaiteessa, porvariskotien seinillä ja kirkkojen pyhimyskuvissa? Ja mikä alastomuudessa eri aikakausina on ollut niin kiusallista?
+
+          Asiantuntijat: Kulttuurihistorian dosentti Anu Korhonen, sekä taidehistorioitsija FT Ville Hakanen 
+
+          Toimittaja: Liisa Vihmanen
+          Äänisuunnittelu: Katri Koivula
+          Arkistotoimittaja: Outi Kortelainen
       - title: Politiikkaradio
         start_time: '2026-03-16T13:00:00+02:00'
         end_time: '2026-03-16T13:30:00+02:00'
       - title: Radio 1:n iltapäivä
         start_time: '2026-03-16T13:30:00+02:00'
         end_time: '2026-03-16T15:00:00+02:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Mitä tapahtuu kun ihmismieli on uusi taistelukenttä? '
         start_time: '2026-03-16T15:00:00+02:00'
         end_time: '2026-03-16T15:55:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Tulevaisuuden taistelutantereet ovat juoksuhautojen sijaan yhä enenevässä määrin ihmisten korvien välissä. Tässä yhteydessä puhutaan kasvavassa määrin kognitiivisesta turvallisuudesta, jolla tarkoitetaan yhteiskunnan kykyä suojautua ihmismieleen kohdistuvalta vaikuttamiselta. 
+
+          Kyse ei ole vain väärästä tiedosta, vaan siitä, miten informaatio muokkaa käsityksiämme todellisuudesta, synnyttää tunteita ja ohjaa päätöksiä. Digitaalisessa ympäristössä mielipiteisiin voidaan vaikuttaa nopeammin ja tarkemmin kuin koskaan – algoritmien, sosiaalisen median, disinformaation ja tekoälyn avulla.
+
+          Aiheesta julkaistaan tässä kuussa artikkeliteos, jonka kirjoittajista ovat lähetyksessä keskustelemassa Jyväskylän yliopiston tutkijatohtori Teemu Häkkinen, yliopistotutkija Niina Meriläinen Tampereen yliopistosta sekä Maanpuolustuskorkeakoulun apulaisprofessori Matti Puranen. Ville Talola toimittaa.
       - title: Yle News
         start_time: '2026-03-16T15:55:00+02:00'
         end_time: '2026-03-16T15:58:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-10T02:59:58.747137+00:00'
+  generated_at: '2026-03-11T02:59:27.175758+00:00'
   git:
     branch: main
-    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
-  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
+    commit: 7f925cbc6566ddb0913456a8e820d195842ab5aa
+  data_hash: fb5a67000c2a71d75ee1ad6768e1c349ca38cb0be630db117f5c6981408db7c4
 data:
   '':
     programmes:
@@ -16,6 +16,28 @@ data:
       - title: Aamusoitto
         start_time: '2026-04-06T08:05:00+03:00'
         end_time: '2026-04-06T09:00:00+03:00'
+        description: |-
+          Vivaldi: Allegro konsertosta Kevät (Kreeta-Maria Kentala, viulu, sekä Barocco Boreale).
+
+          Spontini: Divertimento (Sören Hermansson, käyrätorvi, ja Erica Goodman, harppu).
+
+          Brahms: Maienkätzchen (Pajunkissat) (Dietrich Fischer-Dieskau, baritoni, ja Wolfgang Sawallisch, piano).
+
+          J.S. Bach: Kristus, valo valkeuden (Phillip McCann, kornetti, ja Simon Lindley, urut).
+
+          Boccherini: Rondo sellokonsertosta B-duuri (Yo-Yo Ma ja Saint Paulin kamariork./Pinchas Zukerman). 
+
+          Fambas: Sousta, kreikkalainen tanssi n:o 3 (Alison Stephens, mandoliini, ja Craig Ogden, kitara).
+
+          Delius: Kevään ensi käköä kuullessa (Lontoon FO/Vernon Handley).
+
+          Talma: The Pony Express (Diana Ambache, piano).
+
+          Wessman: Vesi väsyy lumen alle (Oulaisten Nuorisokuoro/Tapani Tirilä).
+
+          Piazzolla: Kevät teoks. Buenos Airesin neljä vuodenaikaa (Trey Lee, sello, ja Englantilainen kamariork./Emilia Hoving). 
+
+          Glazunov: Valssi balettisarjasta A-duuri (Minnesotan ork./Edo de Waart)
       - title: 'Yle Uutiset '
         start_time: '2026-04-06T09:00:00+03:00'
         end_time: '2026-04-06T09:03:00+03:00'
@@ -44,7 +66,7 @@ data:
         description: |-
           Haastateltavina: tutkija Saana Hansen HY, tutkimusprofessori Rauna Kuokkanen Lapin yliopisto. Toimittajana Harri Alanne.
       - title: Radio 1:n iltapäivä
-        start_time: '2026-04-06T13:30:00+03:00'
+        start_time: '2026-04-06T13:00:00+03:00'
         end_time: '2026-04-06T15:00:00+03:00'
       - title: Taiteilijatapaaminen
         start_time: '2026-04-06T15:00:00+03:00'
@@ -60,6 +82,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-06T16:07:00+03:00'
         end_time: '2026-04-06T16:59:00+03:00'
+        description: |-
+          Sinding: Presto sarjasta viululle ja pianolle (Suite im alten Stil, Sarja vanhaan tyyliin) (Henning Kraggerud ja Christian Ihle Hadland).
+
+          Kreutzer: Frühlingsglaube (Kevätuskoa) (Die Singphoniker).
+
+          Dowland: The King of Denmark's galliard (Hesperion XX/Jordi Savall).
+
+          Palmgren: Kevätunelmia (Turun FO/Jacques Mercier). 
+
+          Farrenc: Scherzo triosta huilulle, sellolle ja pianolle e-molli (Linos Ensemble).
+
+          Murcia: Zangarilleja. (Chatham Baroque). 
+
+          J.S. Bach: Preludi sarj. soolosellolle n:o 6 D-duuri (Lodestar Trio).
+
+          Moniuszko: Pelimanni (Urszula Kryger, mezzosopraano, ja Katarzyna Jankowska, piano).
+
+          Dvorák: Praeludium Tshekkiläisestä sarjasta D-duuri (Prahan kamarifilharmonia/Jakub Hrusa).
+
+          J. Haydn: Presto e scherzando jousikvartetosta n:o 34 D-duuri (The Angeles String Quartet).
+
+          Ljadov: Baba-Jaga (Noita-akka) (Minnesotan ork./Eiji Oue).
+
+          Schumann: Romanssi Fis-duuri (Alicia de Larrocha, piano).
+
+
+          Konsertin on laatinut Ainomaija Pennanen.
       - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2026-04-06T17:00:00+03:00'
         end_time: '2026-04-06T17:20:00+03:00'
@@ -81,12 +130,28 @@ data:
         end_time: '2026-04-06T19:02:00+03:00'
       - title: 'Kuukauden dokumentti: Inhimillisyyttä etsimässä'
         start_time: '2026-04-06T19:02:00+03:00'
-        end_time: '2026-04-06T19:50:00+03:00'
-        description: |
-          Ihmisten ja ihmisyyden jäljillä Kontulassa. Toimittaja Pauliina Motturi. (es. 29.1.2023)
+        end_time: '2026-04-06T19:40:00+03:00'
+        description: |-
+          Millainen oleskelu ja oleminen on sallittua? Kenelle tätä maailmaa rakennetaan ja mistä näkökulmasta? 
+
+          Helsingin Kontulaan sijoittuvassa feature-dokumentissa hengaillaan, paasataan ja heijastellaan ajan henkeä paikallisten ja paikattomien voimin.
+
+          Virpi kertoo unestaan, William kysyy missä rauha on. Paikallinen pastori on ostanut synttärikakun tuntemattomalle. 
+
+          “Tää on ehkä niinku omalla laillaan nykysuomi pienessä koossa… siitähän voi sitte tykätä tai vihata tai olla peloissaan… tai yli-ihastunu”, toteaa Valtteri lakonisesti.
+
+          Blade runner -henkinen äänimaisema luo vahvan visuaalisuuden soppaan, jossa osattomuuden ja osallisuuden kokemukset risteilevät sulassa sovussa, välillä toisiinsa törmäten.
+
+          Ohjelman dokumentaarinen materiaali on äänitetty yhdellä otolla, neljän tunnin aikana, syksyllä 2022.
+
+          Suurin osa kohtaamisista on täysin sattumanvaraisia.
+
+          Käsikirjoitus ja ohjaus: Pauliina Motturi
+          Äänisuunnittelu: Jani Orbinski
+          Tuottaja: Heikki Soini, Yle Dokumenttiryhmä
       - title: 'Ulkolinja-podcast: Trumpin myötä seksuaalivähemmistöt ovat Yhdysvalloissa ahtaalla '
-        start_time: '2026-04-06T20:05:00+03:00'
-        end_time: '2026-04-06T20:25:00+03:00'
+        start_time: '2026-04-06T20:02:00+03:00'
+        end_time: '2026-04-06T20:23:00+03:00'
         description: |-
           Monissa Yhdysvaltain osavaltioissa seksuaalivähemmistöjen asema on heikentynyt nopeasti ja  voimakkasti.  Konservatiivisessa Tennesseessä on säädetty lukuisia uusia lakeja, joilla on rajoitettu transihmisten ja esimerkiksi drag-esiintyjien oikeuksia. Trumpia tukeva oikeistosiipi perustelee rajoituksia lasten suojelulla. Ulkolinjan Minna Pye tapasi Tennesseessä seksuaalivähemmistöjen edustajia, jotka pelkäävät tulevaa. Moni heistä muuttaa pois Tennesseestä. Tragedioiltakaan ei ole vältytty. 
 
@@ -94,7 +159,7 @@ data:
           Äänisuunnittelija: Anssi Tamminen
           Tuottaja: Marko Lönnqvist
       - title: 'Sukuni murhamysteeri: Löysimme Veikon, mutta kuka kuoli Vuoremijokeen?'
-        start_time: '2026-04-06T20:25:00+03:00'
+        start_time: '2026-04-06T20:23:00+03:00'
         end_time: '2026-04-06T21:00:00+03:00'
         description: |
           Olemme löytäneet oikean Veikon, mutta kuka oikein kuoli Vuoremijokeen?  Viimeinkin vinkki päätyy umpikujaan, mutta jäljelle jää mystinen Viki, josta ei löydy mitään tietoja.

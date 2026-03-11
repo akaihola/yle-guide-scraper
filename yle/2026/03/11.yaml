@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-10T02:59:51.093519+00:00'
+  generated_at: '2026-03-11T02:59:14.637991+00:00'
   git:
     branch: main
-    commit: 9c1b2cdc995afd7eafe6c9dce06a419119d5c8d2
-  data_hash: 014086a79674acf521e93d8108d6b543a5b567be2794f10e7fe7ff1239fcb2d2
+    commit: 7f925cbc6566ddb0913456a8e820d195842ab5aa
+  data_hash: fb5a67000c2a71d75ee1ad6768e1c349ca38cb0be630db117f5c6981408db7c4
 data:
   '':
     programmes:
@@ -183,15 +183,16 @@ data:
       - title: 'Radio 1:n iltapäivä: Studiovieraana matkailun tutkija ja höyrylaivan kapteeni  Mikko Manka - interrail-muistoista, kulttuurimatkoista ja höyrylaivoista'
         start_time: '2026-03-11T13:30:00+02:00'
         end_time: '2026-03-11T15:00:00+02:00'
-        description: |
-          Juontajana Joni Timonen. Kevät kolkuttelee ovella ja matkakuume saattaa alkaa vaivata. Avartaako matkailu edelleen? Minkälaiset matkat jäävät mieleemme? Miksi interrail li aikoinaan niin vaikuttava elämys? Väitöskirjatutkija Mikko Manka selvittää tutkimuksissaan suomalaisen matkailun historiatutkimusta, matkailun ja kulttuurin kytköstä sekä kirjoittanut mm. kirjan Interrail-muistoista. 
+        description: |-
+          Juontajana Joni Timonen. Kevät kolkuttelee ovella ja matkakuume saattaa alkaa vaivata. Avartaako matkailu edelleen? Minkälaiset matkat jäävät mieleemme? Miksi interrail oli aikoinaan niin vaikuttava elämys? Väitöskirjatutkija Mikko Manka selvittää tutkimuksissaan suomalaisen matkailun historiatutkimusta, matkailun ja kulttuurin kytköstä sekä kirjoittanut mm. kirjan Interrail-muistoista. 
       - title: 'Kulttuuriykkönen: Bride ja feministinen Frankenstein'
         start_time: '2026-03-11T15:00:00+02:00'
         end_time: '2026-03-11T15:55:00+02:00'
         description: |-
           Maggie Gyllenhaal on ohjannut railakkaan punk-henkisen uusintaversion The Bride of Frankensteinista. The Bride! on alleviivatun voimakkaasti #metoo-elokuva.
-          Keskustelemme ainakin elokuvasta, naisnäkökulmasta Frankensteinin tarinaan, Frankensteinin morsiamen hahmon historiasta, #metoosta elokuvissa, tämän elokuvan suhteesta Joker: Folie à Deux -elokuvaan ja alkuperäiseen The Bride of Frankensteiniin jne. 
+          Keskustelua elokuvasta, naisnäkökulmasta Frankensteinin tarinaan, Frankensteinin morsiamen hahmon historiasta, #metoosta elokuvissa sekä tämän elokuvan suhteesta alkuperäiseen The Bride of Frankensteiniin. 
           Keskustelemassa kirjailija Tiina Raevaara, elokuvatutkija Jari Sedergren, kirjallisuuden tutkija, feministisen kauhupiirin jäsen Noora Vaakanainen.
+          Jussi Ahlroth toimittaa.
       - title: Yle News
         start_time: '2026-03-11T15:55:00+02:00'
         end_time: '2026-03-11T15:58:00+02:00'
@@ -233,7 +234,7 @@ data:
         start_time: '2026-03-11T17:00:00+02:00'
         end_time: '2026-03-11T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Hormuzinsalmi on säpissä – mitä se tarkoittaa maailman öljymarkkinalle? Ollaanko nyt öljykriisin partaalla, ja onko tilanne oikeastaan kenenkään hallinnassa? Reetta Röngän vieraana energia-analyytikko Vesa Ahoniemi.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-11T17:20:00+02:00'
         end_time: '2026-03-11T17:35:00+02:00'
@@ -243,10 +244,12 @@ data:
       - title: Jazzklubi
         start_time: '2026-03-11T17:35:00+02:00'
         end_time: '2026-03-11T18:35:00+02:00'
+        description: |-
+          Miten henkilökohtaisuus voi koskettaa suurta yleisöä jazzissa? Jazz-Emma-voittaja Kadi Vija kertoo albuminsa synnystä, vanhemmuuden vaikutuksesta musiikkiin ja vokaali-instrumentalismin saloista. Jaksossa pohditaan myös, missä kulkevat jazzin rajat ja miten elektroniset elementit istuvat uuteen musiikkiin.
       - title: Hartaita säveliä
         start_time: '2026-03-11T18:35:00+02:00'
         end_time: '2026-03-11T18:50:00+02:00'
-        description: |+
+        description: |-
           Kilpiö: Jeesus, ristinpolkuasi (Kamarikuoro Kaamos/Visa Yrjölä).
 
           Anonyymi: Hädässä huudan Herraa (Cetus Noster, Eero Palviainen, baritoni, ja Matti Apajalahti, arkkiluuttu).
@@ -254,7 +257,6 @@ data:
           Kansansäv. (sov. Alakotila): Maa järkkyy, murtuu (Minsku Tammela, laulu, Tommi Asplund, viulu, Senni Valtonen, huilu ja kantele, Maria Kalaniemi, harmonikka, Hannu Rantanen, bassokitara, Timo Alakotila, piano, ja Pekka Nyman, kehysrumpu).
 
           Tikka: Armolaulu (Jippu).
-
       - title: Iltahartaus
         start_time: '2026-03-11T18:50:00+02:00'
         end_time: '2026-03-11T19:00:00+02:00'
@@ -279,7 +281,19 @@ data:
         start_time: '2026-03-11T22:21:00+02:00'
         end_time: '2026-03-11T22:55:45+02:00'
         description: |-
-          Jakso 1/8: Ensimmäinen rikos. Suomen tunnetuin rikosetsivä tekee paluun uudessa muodossa! Voiko kukaan saada hiljaisen todistajan puhumaan? Nuori Sorjonen saa uransa ensimmäisen murhatapauksen: kadoksissa ollut poika löytyy, mutta trauma on sulkenut hänet omaan maailmaansa. Karin on löydettävä uusi tapa lähestyä uhria ja onnistuessaan hänen unelmansa toteutuu – ensimmäinen oikea rikostutkinta. 
+          Voiko kukaan saada hiljaisen todistajan puhumaan? Nuori Sorjonen saa uransa ensimmäisen murhatapauksen: kadoksissa ollut poika löytyy, mutta trauma on sulkenut hänet omaan maailmaansa. Karin on löydettävä uusi tapa lähestyä uhria ja onnistuessaan hänen unelmansa toteutuu – ensimmäinen oikea rikostutkinta. 
+
+          Päärooleissa:
+          Kari Sorjonen: Elias Gould
+          Outi Lanki: Maria Sid
+          Heikkinen: Samuli Niittymäki
+          Pauliina Rajala: Anna Böhm
+          Pietari: Kristo Salminen
+          Waltteri: Vertti Uusitalo
+          Kristian: Kuura Rossi
+
+          Muissa rooleissa:
+          Sari Puumalainen, Janne Reinikainen, Hannes Suominen, Saara Kotkaniemi, Tatu Siivonen, Eino Heiskanen, Anni Turunen, Katariina Havukainen, Marc Gassot, Reidar Palmgren, Ville Virkkunen, Peter Kanerva, Jasmin Hamid, Hilma Kotkaniemi, Arttu Kapulainen, Minka Kuustonen, Tarja Heinula, Tobias Holmberg, Aarne Lehti, Jarno Kovamäki, Sanna Maksimainen, Maria Nieminen, Juha Nurmela, Saaga Salo, Olli Sultiala, Matti Halonen, Pekka Ruohoranta, Nika Savolainen, Kari Kaarila, Kirsi Ryyppö, Ilkka Hautala, Edvin Salo, Henna Valkeamäki, Maija Paunio, Anni Turunen. 
       - title: 'Ulkolinja-podcast: El Salvadorissa keskenmenosta voi saada murhatuomion'
         start_time: '2026-03-11T23:25:19+02:00'
         end_time: '2026-03-11T23:38:58+02:00'
