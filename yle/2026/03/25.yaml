@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-12T03:02:49.622068+00:00'
+  generated_at: '2026-03-13T03:01:13.630598+00:00'
   git:
     branch: main
-    commit: 9ef2fe4f8f3b8e5cb5b3a2248b6cb3506176cca6
-  data_hash: a562919adad6d8ebf61b4784180f9d22f6f293e872bb4f3c08096cf1321e78d9
+    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
+  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
 data:
   '':
     programmes:
@@ -170,6 +170,8 @@ data:
       - title: Jazzklubi
         start_time: '2026-03-25T17:35:00+02:00'
         end_time: '2026-03-25T18:35:00+02:00'
+        description: |-
+          Jazzklubissa on vieraana saksofonisti ja säveltäjä Mikko Innanen. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-03-25T18:35:00+02:00'
         end_time: '2026-03-25T18:50:00+02:00'
@@ -194,7 +196,16 @@ data:
         start_time: '2026-03-25T19:02:00+02:00'
         end_time: '2026-03-25T21:00:00+02:00'
         description: |-
-          Nicholas Collon, kapellimestari, Leonidas Kavakos, viulu. - Grażyna Bacewicz: Pensieri notturni. Béla Bartók: Viulukonsertto nro 2. Ludwig van Beethoven: Sinfonia nro 3 Es-duuri “Eroica”. Suoran lähetyksen Musiikkitalosta juontaa Lotta Emanuelsson. 
+          Nicholas Collon, kapellimestari
+          Leonidas Kavakos, viulu
+
+          Grażyna Bacewicz: Pensieri notturni
+          Béla Bartók: Viulukonsertto nro 2
+          Ludwig van Beethoven: Sinfonia nro 3 Es-duuri “Eroica”
+
+          Suoran lähetyksen Musiikkitalosta juontaa Lotta Emanuelsson. 
+
+          Kaksi sointua rävähtää, ja länsimainen musiikki mullistuu. Beethovenin vallankumouksellisen Eroica-sinfonian sähköistävä huuma on omaa luokkaansa. Mutta tässä konsertissa Beethoven ei suinkaan ole ainoa radikaali: Grażyna Bacewicz uhmasi totunnaista sotienjälkeisessä Puolassa ja Béla Bartók ammensi uuden sävelkielen Unkarin maaperästä. Harvat elävät viulistit soittavat hänen toista viulukonserttoaan kuten Leonidas Kavakos.
       - title: 'Politiikkaradio '
         start_time: '2026-03-25T21:00:00+02:00'
         end_time: '2026-03-25T21:30:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-12T03:02:47.361219+00:00'
+  generated_at: '2026-03-13T03:01:10.838362+00:00'
   git:
     branch: main
-    commit: 9ef2fe4f8f3b8e5cb5b3a2248b6cb3506176cca6
-  data_hash: a562919adad6d8ebf61b4784180f9d22f6f293e872bb4f3c08096cf1321e78d9
+    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
+  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
 data:
   '':
     programmes:
@@ -117,6 +117,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-18T11:57:00+02:00'
         end_time: '2026-03-18T12:00:00+02:00'
+        description: |
+          Kirjailija Anneli Jussila hakeutuu luonnon alkulähteille kirjassaan Alkumetsä. Matkalla hän oivaltaa jotain luonnosta ja itsestäänkin. Mitkä olivat alkumetsän opetukset? Päivän mietelauseen on valinnut Riikka Kaihovaara. 
       - title: Yle Uutiset ja sää
         start_time: '2026-03-18T12:00:00+02:00'
         end_time: '2026-03-18T12:05:00+02:00'
@@ -196,6 +198,8 @@ data:
       - title: Jazzklubi
         start_time: '2026-03-18T17:35:00+02:00'
         end_time: '2026-03-18T18:35:00+02:00'
+        description: |-
+          Jazzklubissa on vieraana trumpetisti ja säveltäjä  Verneri Pohjola. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-03-18T18:35:00+02:00'
         end_time: '2026-03-18T18:50:00+02:00'
