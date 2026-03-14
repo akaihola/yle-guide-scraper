@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:08.677794+00:00'
+  generated_at: '2026-03-14T02:59:45.967907+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -42,9 +42,9 @@ data:
         start_time: '2026-03-14T07:30:41+02:00'
         end_time: '2026-03-14T07:52:08+02:00'
         description: |-
-          Kirjailija näyttelijä Matti Laineen Verilinja-romaanin tarinassa turvayhtiön suojelema henkilö murhataan. Myöhemmin käy ilmi, että turvapalveluja tarjoava yhtiö ei olekaan sitä mitä voisi olettaa. Vakoilutrillerimäisen romaanin Suomesta aina Berliiniin ja Sveitsiin ulottuvat valehenkilöllisyydet, pimeät rahansiirrot ja hämärät kuolemat tekevät Verilinjasta monella tapaa kovan toiminnan miesten ja naisten leikkikentän. 
+          Verilinja-romaanin tarinassa turvayhtiön suojelema henkilö murhataan. Myöhemmin käy ilmi, että turvapalveluja tarjoava yhtiö ei olekaan sitä mitä voisi olettaa. Vakoilutrillerimäisen romaanin Suomesta aina Berliiniin ja Sveitsiin ulottuvat valehenkilöllisyydet, pimeät rahansiirrot ja hämärät kuolemat tekevät Verilinjasta monella tapaa kovan toiminnan miesten ja naisten leikkikentän. 
 
-          Luomiskertomuksen vieraana on Verilinja-romaanin kirjoittanut Matti Laine. 
+          Luomiskertomuksen vieraana on Verilinja-romaanin kirjoittanut kirjailija näyttelijä Matti Laine. 
 
           Verilinja on Kovaset-sarjan toinen osa.
 
@@ -54,13 +54,16 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-14T07:52:08+02:00'
         end_time: '2026-03-14T08:00:00+02:00'
+        description: |+
+          Telemann: Fantasia nro 10 fis-molli (Marion Verbruggen, nokkahuilu). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-14T08:00:00+02:00'
         end_time: '2026-03-14T08:05:00+02:00'
       - title: Hartaita säveliä
         start_time: '2026-03-14T08:05:00+02:00'
         end_time: '2026-03-14T08:25:00+02:00'
-        description: |+
+        description: |-
           Strandsjö: Ottaos, Herra mun käteni (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
 
           Heikkilä: Kädetön rakkaus (Hanna Maria, laulu, ja yhtye).
@@ -71,6 +74,7 @@ data:
 
           Lagi: Oi armahda, Kristus (RKK/Tarja Viitanen, sekä Sirkku Rintamäki, sopraano, Kullervo Latvanen, baritoni, ja Pertti Eerola, urut).
 
+          Studiossa Inari Tilli.
       - title: Aamuhartaus
         start_time: '2026-03-14T08:25:00+02:00'
         end_time: '2026-03-14T08:35:00+02:00'
@@ -109,13 +113,36 @@ data:
           Berlin: Blue skies (Ella Fitzgerald).
           Peterson: Hymn to freedom (Oscar Peterson Trio).
 
-          Konsertin on toimittanut Pasi Hiihtola.
+          Konsertin on toimittanut Pasi Hiihtola. Juontajana Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-14T09:59:00+02:00'
         end_time: '2026-03-14T10:00:00+02:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-03-14T10:00:00+02:00'
         end_time: '2026-03-14T10:25:00+02:00'
+        description: |-
+          Onko Yhdysvallat luisunut silmiemme edessä fasismiin? Ainakin fasismitutkija Jason Stanley
+          on sitä mieltä.
+
+          Yhdysvaltalainen filosofian professori Jason Stanley lähti kotimaansa kehitystä pakoon
+          Toronton yliopistoon Kanadaan.
+
+          - Lähdin Yhdysvalloista protestina sille, että fasismi otti siellä vallan.
+
+          Stanleyn mielestä Donald Trumpin hallinnon metodit ovat fasismin pelikirjasta. Valkoinen
+          ylivalta, haikailu myyttiseen menneisyyteen ja johtajakultti ovat tuttuja fasismin historiasta.
+
+          Professori Jason Stanley katsoo Euroopan olevan naiivi suhteessaan Yhdysvaltoihin
+          uskossaan siihen, että USA on edelleen demokratia.
+
+          Stanley patistaa Eurooppaa ottamaan itseään niskasta kiinni ja irrottamaan kytköksensä
+          Yhdysvaltoihin. Euroopan hän näkee demokratian viimeisenä linnakkeena.
+
+          Maailmanpolitiikan arkipäivää -ohjelman demokratiasarjan kolmannessa osassa kuullaan
+          filosofi Jason Stanleyn painavia ajatuksia fasismista. Ohjelman toimittaa Sampo Vaarakallio.
+
+          Otteet Stanleyn kirjasta “Näin toimii fasismi” lukee Leonard Wilhelmus. Äänitarkkailija on
+          Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Sukuni murhamysteeri: Astuivatko Veikko ja Seppo ansaan?'
         start_time: '2026-03-14T10:25:00+02:00'
         end_time: '2026-03-14T11:03:00+02:00'
@@ -135,7 +162,13 @@ data:
         start_time: '2026-03-14T11:57:00+02:00'
         end_time: '2026-03-14T12:00:00+02:00'
         description: |-
-          Karl-Ove Knausgård: Taisteluni. Toinen kirja, suomentanut Kaarina Huttunen, Like 20212.
+          Päivän mietelause on ote Karl Ove Knausgårdin romaanisarjasta Taisteluni, sen toisesta kirjasta. 
+
+          Teoksen on suomentanut Katriina Huttunen.
+
+          Kirjan minäkertoja pitää puheen äitinsä 60-vuotisjuhlissa ja ilmaisee erikoisella tavalla rakkautensa.
+
+          Mietelauseen on valinnut Jakke Holvas. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-14T12:00:00+02:00'
         end_time: '2026-03-14T12:05:00+02:00'
@@ -270,6 +303,11 @@ data:
           Iran sulki maailman tärkeimmän öljyreitin Hormuzinsalmen reilu viikko sitten estäen öljytankkereiden kulun maailmalle. Nyt Iran on alkanut jopa miinoittaa salmea. Maailmalla paine kasvaa, kun öljytankkerit jumittavat Persianlahdella. Millaiset öljykriisin ainekset tässä on kasassa? Reetta Röngän vieraana energia-analyytikko Vesa Ahoniemi.
 
           Voit lähettää palautetta ja juttuvinkkejä uutispodcast@yle.fi.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-03-14T21:23:31+02:00'
+        end_time: '2026-03-14T21:45:06+02:00'
+        description: |-
+          Elokuvaohjaaja Juha Wuolijoki on Jalmari Laineen haastateltavana. Ensilähetys oli 9.3.2026
       - title: 'Klassikkokuunnelma: Juurakon Hulda, osa 1/2.'
         start_time: '2026-03-14T21:46:36+02:00'
         end_time: '2026-03-14T22:33:31+02:00'

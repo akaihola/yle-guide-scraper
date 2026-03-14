@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:14.183785+00:00'
+  generated_at: '2026-03-14T02:59:50.156481+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -13,6 +13,16 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-27T06:30:50+02:00'
         end_time: '2026-03-27T06:50:00+02:00'
+        description: |-
+          Löytty: Panen käden suulleni (Haava).
+
+          Traitler (sov. Malkamäki): Jeesus on paimen (Laetificus/Liisa Malkamäki, piano).
+
+          E. Mäki-Reini - O. Mäki-Reini: Hän ei osaa hymyillä (Eve ja Ossi).
+           
+          P. Viitanen: Rauhan laulu (Viitasen Piia).
+
+          Hovland: Jumala loi auringon, kuun (Tapiolan kuoro/Kari Ala-Pöllänen, ja Kaisa-Leena Harjunmaa, piano).
       - title: Aamuhartaus
         start_time: '2026-03-27T06:50:00+02:00'
         end_time: '2026-03-27T06:59:59+02:00'
@@ -77,6 +87,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-27T11:57:00+02:00'
         end_time: '2026-03-27T12:00:00+02:00'
+        description: |-
+          Ote J. Wargelin kirjoituksesta amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista.
+          (Kust. ISHPEMING, MICH., SUOMALAINEN KANSALLIS-RAITTIUS-VELJEYSSEURA, 1929)
       - title: Yle Uutiset ja sää
         start_time: '2026-03-27T12:00:00+02:00'
         end_time: '2026-03-27T12:05:00+02:00'
@@ -128,6 +141,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-27T18:35:00+02:00'
         end_time: '2026-03-27T18:50:00+02:00'
+        description: |-
+          Simojoki: Herra, kädelläsi asua mä saan (Nuorisokuoro Sympaatti/Pekka Nikula).
+
+          Tuntematon: Nimeesi kokoon tulleina (Cetus Noster, ja Teppo Lampela, baritoni).
+
+          Maasalo: Tuhansin kielin (Candomino/Tauno Satomaa).
+
+          Tuntematon: Jo päivä ehtii ehtoolle (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
       - title: Iltahartaus
         start_time: '2026-03-27T18:50:00+02:00'
         end_time: '2026-03-27T19:00:00+02:00'

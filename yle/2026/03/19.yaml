@@ -1,15 +1,53 @@
 metadata:
-  generated_at: '2026-03-13T03:01:11.113463+00:00'
+  generated_at: '2026-03-14T02:59:47.672115+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-18T23:40:00+02:00'
         end_time: '2026-03-19T06:30:00+02:00'
+        description: |
+          Gershwin (sov. Puerling): Love walked in (Chanticleer/Joseph Jennings).
+
+          23:45 Beach: Romanssi viululle ja pianolle (Rachel Barton Pine ja Matthew Hagle).
+
+          23:53 Beck: Sinfonia n:o 5 G-duuri. (Uuden-Seelannin kamariork./Donald Armstrong).
+
+          00:05 Rahmaninov: Pianokonsertto n:o 3 d-molli (Alexis Weissenberg ja Chicagon SO/Georges Prêtre).
+
+          00:49 Tuntematon: Messu, 5-ääninen a cappella (Ars Nova/Bo Holten).
+
+          01:41 Franck: Koraali n:o 3 a-molli. (Marcel Dupré, urut).
+
+          01:25 Järnefelt: Orkesterisarja näyt. Luvattu maa (RSO/Ilpo Mansnerus). 
+
+          01:39 W.A. Mozart: Divertimento B-duuri (Uuden Maailman basettitorvitrio).
+
+          02:03 Villa-Lobos: Konsertto huuliharpulle ja orkesterille a-molli (Robert Bonfiglio ja New Yorkin kamariork./Gerard Schwarz).
+
+          02:24 J. Haydn: Sinfonia n:o 88 G-duuri (Chicagon SO/Fritz Reiner).
+
+          02:46 Wolf: Nachtzauber (Elisabeth Schwarzkopf, sopraano, ja Gerald Moore, piano).
+
+          02:50 Martinu: La Revue de cuisine (Keittiörevyy). (St. Paulin kamariorkesterin yhtye/Christopher Hogwood)
+
+          03:05 Beethoven: Sonaatti käyrätorvelle ja pianolle F-duuri. (Jakov Shapiro ja Emil Gilels).
+
+          03:20 Skrjabin: Pianosonaatit n:o 6-10 (Boris Berman, piano).
+
+          04:22 Respighi: Sarja jousille ja uruille G-duuri (Kyler Brown, urut, ja New Yorkin kamariork./Salvatore Di Vittorio).
+
+          04:44 Tshaikovski: Serenade melancolique (James Ehnes, viulu, ja Sydneyn SO/Vladimir Ashkenazy).
+
+          04:53 Schubert (sov. Liszt): Die Stadt. (Vladimir Viardo, piano).
+
+          04:57 Henry Purcellin ja John Blow'n lauluja ja soitinmusiikkia (Christine Brandes, sopraano, ja kamariyhtye Arcadian Academy).
+
+          06:14 Händel: Sonaatti h-molli (Robert Stallman, huilu, Karl Bennion, sello, ja Edwin Swanborn, cembalo).
       - title: Hartaita säveliä
         start_time: '2026-03-19T06:30:50+02:00'
         end_time: '2026-03-19T06:50:00+02:00'
@@ -25,7 +63,8 @@ data:
         start_time: '2026-03-19T06:50:00+02:00'
         end_time: '2026-03-19T06:59:59+02:00'
         description: |-
-          Pastori, koomikko Ville Kormilainen, Helsinki
+          Pastori, koomikko Ville Kormilainen Helsingistä pohtii armeijan kertausharjoituksien tunnelmissa, miten tärkeimpiä eivät ole voima tai sankariteot.
+          Hartaudessa lauletaan virren 577 "Sun kätes, Herra, voimakkaan" säkeistöt 1-7. Virren esittävät Psallamus-kuoro, johtajanaan Ilmo Riihimäki, Juhani Haapasalo, urut
       - title: Yle Uutiset ja sää
         start_time: '2026-03-19T07:00:00+02:00'
         end_time: '2026-03-19T07:05:00+02:00'
@@ -74,9 +113,9 @@ data:
           Warren: Särkyneen toiveen katu (Eila Pellinen).
           Gershwin: It ain't necessarily so (Miles Davis).
           Skogman: Fröken Fräken (Sven Ingvars).
-          Paasonen/Alihanka: Lona (Tuula Amberla).
+          Paasonen: Lona (Tuula Amberla).
           Fogerty: Have you ever seen the rain? (CCR).
-          Cole: Straighten up and fly right (Linda Ronstadt, Nelson Riddle).
+          Cole: Straighten up and fly right (Linda Ronstadt).
           Cobain: Smells like teen spirit (Paul Anka).
           Bechet: Pequeña flor (Sara Montiel).
           Pace/Panzeri/Pilat/Conti: Niin (Lea Laven).
@@ -84,14 +123,15 @@ data:
           White/Madara: Vai tu sei libero (Dalida).
           Tiikasalo: Appelsiinipuita aavikkoon (Anneli Saaristo).
 
-          Toimittajana Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Käännekohdissa: Heli Isomäki'
         start_time: '2026-03-19T10:00:00+02:00'
-        end_time: '2026-03-19T10:53:00+02:00'
-        description: |-
-          Merkitykselliset kokemukset ja ihmiset, jotka ovat olennaisesti vaikuttaneet vieraan elämään ja uraan. Miten oma polku löytyi? Millaisia valintoja elämässä on uskallettu tehdä ja mitä on vielä tekemättä. 
+        end_time: '2026-03-19T10:49:00+02:00'
+        description: |
+          Neuropsykologi Heli Isomäki löysi itsestään yllättävän ominaisuuden. 
+          “En tunnistanut ihmisen pahuutta. Olin elänyt vain hyvien ihmisten ympäröimänä ja pahan kohtaaminen ja käsitteleminen on ollut minulle suurin opetus työssäni”, Isomäki toteaa. “Pahuuden kohtaamisessa olen lisännyt hyvyyttä. Se on ollut työni fokus.” Heli jatkaa. Heli Isomäki kertoo, ettei ole pitkän psykologin uransa aikana koskaan tavannut ihmistä, joka ei muuttuisi hyvän kosketuksesta. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-03-19T10:53:00+02:00'
+        start_time: '2026-03-19T10:49:00+02:00'
         end_time: '2026-03-19T11:00:00+02:00'
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-03-19T11:00:00+02:00'
@@ -106,12 +146,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-19T12:00:00+02:00'
         end_time: '2026-03-19T12:05:00+02:00'
-      - title: 'Maailma tarinoina: Tšehovin Vanja-eno – luonnon hätähuuto ihmiskeskeisessä tarinassa'
+      - title: 'Maailma tarinoina: Tšehov, Vanja-eno ja luonnon hätähuuto'
         start_time: '2026-03-19T12:05:00+02:00'
         end_time: '2026-03-19T13:00:00+02:00'
         description: |-
-          ​Anton Tšehovin Vanja-eno -näytelmään heijastuu kirjoittajansa kiinnostus ja perehtyneisyys luonnontieteisiin sekä pohdinnat ihmisen ja luonnon suhteesta, vaikka ihminen tunteineen ja ajatuksineen onkin draaman keskiössä. Mikä kaikki vaikutti siihen, että Tšehov antoi tilaa ihmisen ja luonnon suhteen kuvaamiselle sekä proosassa että draamassa? Millainen on ihmisen paikka suhteessa luontoon Vanja-enossa ja laajemminkin kirjailijan tuotannossa?
-          Marja Vehkasen kanssa pohtimassa ovat venäläisen kirjallisuuden vanhempi yliopistonlehtori Tintti Klapuri sekä ympäristöfilosofian dosentti Leena Vilkka.
+          Anton Tsehovin Vanja-eno -näytelmään heijastuu kirjoittajansa perehtyneisyys luonnontieteisiin ja rakkaus luontoon, vaikka ihminen tunteineen ja ajatuksineen onkin keskiössä. Voidaanko Tsehovia pitää ekologina ennen ekologiaa, kuten on väitetty? Mikä kaikki vaikutti siihen, että Tsehov antoi tilaa ihmisen ja luonnon suhteen kuvaamiselle sekä proosassa että draamassa? 
+
+          Ihmisen paikkaa suhteessa luontoon tsehovilaisittain hahmottelevat Marja Vehkasen johdattamana venäläisen kirjallisuuden vanhempi yliopiston lehtori Tintti Klapuri ja ympäristöfilosofian dosentti Leena Vilkka.
       - title: Politiikkaradio
         start_time: '2026-03-19T13:00:00+02:00'
         end_time: '2026-03-19T13:30:00+02:00'
@@ -174,7 +215,7 @@ data:
         end_time: '2026-03-19T17:35:00+02:00'
         description: |2+
 
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Polku edessämme eli maaliskuun parasta maailmanmusiikkia'
         start_time: '2026-03-19T17:35:00+02:00'
         end_time: '2026-03-19T18:25:00+02:00'
         description: |-

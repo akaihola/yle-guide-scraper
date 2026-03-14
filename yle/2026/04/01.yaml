@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:16.440463+00:00'
+  generated_at: '2026-03-14T02:59:51.315459+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -132,12 +132,23 @@ data:
       - title: 'Duo Pietilä & Saunamäki konsertissa: Ajaton Bach & vapaat äänet'
         start_time: '2026-04-01T19:02:00+03:00'
         end_time: '2026-04-01T21:00:00+03:00'
-        description: |-
+        description: |
           Nykymusiikkiin ja improvisaatioon erikoistuneet muusikot, Esa Pietilä ja Eero Saunamäki,  yhdistävät voimansa konsertissa, jossa korostuu molempien soittajien rakkaus vanhaan musiikkiin ja varsinkin J.S. Bachin ajattomiin teoksiin. Ajankohtaista kulmaa konsertissa etsitään muun muassa live-elektroniikan avulla. 13.3.2026 Espoonlahden kirkossa tallennetun konsertin toimittaa Ahti Paunu.
 
           Esiintyjät:
           Esa Pietilä: tenorisaksofoni, live-elektroniikka
-          Eero Saunamäki: saksofonit, nokkahuilut & live-elektroniikka.
+          Eero Saunamäki: saksofonit, nokkahuilut & live-elektroniikka
+
+          Ohjelma:
+
+          J.S. Bach: Sarja nro 2 sellolle d-molli BWV 1008: osa 1. Prelude ja osa 6. Gigue (Eero Saunamäki)
+          Pietilä/Saunamäki: Motion (duo nokkahuilu + saksofoni) 
+          J.S. Bach: Partita nro 2 viululle d-molli BWV 1004: osa 5. Ciaccona (Esa Pietilä) 
+          Pietilä/Saunamäki: Drifting Zones (duo nokkahuilu + saksofoni)
+          Pietilä/Saunamäki: Kinetics (duo saksofoni + saksofoni) 
+          J.S. Bach: Partita huilulle a-molli BWV 1013: osa 1. Allemande ja osa 4. Bourrée angloise (Eero Saunamäki) 
+          J.S. Bach: Sarja nro 1 sellolle G-duuri BWV 1007: osa 4. Sarabande (Esa Pietilä) Pietilä/Saunamäki: Breathing Texture (duo saksofoni/nokkahuilu + saksofoni) 
+          Pietilä/Saunamäki: Resonant Horizon (duo) 
       - title: 'Politiikkaradio '
         start_time: '2026-04-01T21:00:01+03:00'
         end_time: '2026-04-01T21:30:00+03:00'

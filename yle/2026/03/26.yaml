@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:13.928099+00:00'
+  generated_at: '2026-03-14T02:59:49.912780+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -13,11 +13,20 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-26T06:30:50+02:00'
         end_time: '2026-03-26T06:50:00+02:00'
+        description: |-
+          Waldis: Käyn armoalttarillesi (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
+          Koraalitoisinto: Arkana nyt olen tullut (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Laaksonen: Katsomaan kasvojesi rauhaa (Hanna Ekola, laulu, ja jousiyhtye).
+
+          Simojoki: Sä Herra, armon tuoja (Eeva Kuvaja, Pekka Simojoki ja Jaakko Löytty, laulu, sekä yhtye).
       - title: Aamuhartaus
         start_time: '2026-03-26T06:50:00+02:00'
         end_time: '2026-03-26T06:59:59+02:00'
         description: |-
-          Pastori, koomikko Ville Kormilainen, Helsinki
+          Pastori, koomikko Ville Kormilainen Helsingistä pohtii elämän monia outoja käänteitä ja sivupolkuja sekä näiden avaamia teitä johonkin uuteen.
+          Hartaudessa lauletaan virsi 509 "Herra, elämääni". Virren esittävät Oulaisten nuorisokuoro, johtajanaan Tapani Tirilä, Veli Ainali, urut
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T07:00:00+02:00'
         end_time: '2026-03-26T07:05:00+02:00'
@@ -69,6 +78,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-26T11:57:00+02:00'
         end_time: '2026-03-26T12:00:00+02:00'
+        description: |-
+          Hugo Hillilän runo amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista.
+          (Kust. ISHPEMING, MICH., SUOMALAINEN KANSALLIS-RAITTIUS-VELJEYSSEURA, 1929)
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T12:00:00+02:00'
         end_time: '2026-03-26T12:05:00+02:00'
@@ -142,6 +154,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-26T18:35:00+02:00'
         end_time: '2026-03-26T18:50:00+02:00'
+        description: |-
+          Koraalitoisinto (sov. Vesterinen): Oi, miksi tiellä Herrani (Mieskuoro Weljet, Heikki Rainio, tenori, ja kamariork. Religioso/Olli Heikkilä).
+
+          Koraalitoisinto (sov. Heikkilä-Mähönen): Maan ääriin asti, Herra (Vox Cantorum/Heikki Seppänen).
+
+          Hudson: Yksi tie (Juha Tapio).
+
+          Savolainen: Tee (Pietari Savolainen).
       - title: Iltahartaus
         start_time: '2026-03-26T18:50:00+02:00'
         end_time: '2026-03-26T19:00:00+02:00'

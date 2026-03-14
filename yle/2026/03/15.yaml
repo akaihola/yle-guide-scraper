@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:09.319439+00:00'
+  generated_at: '2026-03-14T02:59:46.384842+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -62,14 +62,56 @@ data:
           Outi Tarkiainen: Jään lauluja, orkesterille (Radion sinfoniaorkesteri/ Nicholas Collon).
 
           Edvard Grieg: Puro (Alice Sara Ott, piano).
+      - title: Radio 1 soi
+        start_time: '2026-03-15T07:54:39+02:00'
+        end_time: '2026-03-15T08:00:00+02:00'
+        description: |+
+          Raitio: Paimenlaulu ja Kukkien kuningatar sarj. Kesäkuvia Hämeestä (Tapiola Sinfonietta/Tuomas Hannikainen).  
+
       - title: Yle Uutiset ja sää
         start_time: '2026-03-15T08:00:00+02:00'
         end_time: '2026-03-15T08:05:05+02:00'
       - title: Narrin aamulaulu - Arto Noras ja sello, intohimosta kvaliteettiin, osa 2/2
-        start_time: '2026-03-15T08:05:35+02:00'
-        end_time: '2026-03-15T08:59:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        start_time: '2026-03-15T08:05:24+02:00'
+        end_time: '2026-03-15T08:59:44+02:00'
+        description: |+
+          Kun 10-vuotias Arto Noras esiintyi orkesterin solistina, arvosteluissa todettiin, että poika soittaa ihan hyvin, kun ottaa huomioon iän. "Nyt kun on täyttämässä 84 vuotta, niin sanotaan, että ottaen iän huomioon, hän soittaa ihan käyvästi. Näin se kaari menee. Soittoelämä alkaa ja se loppuu, mutta arvostelut pysyy samoina." Sellisti Arto Norasta haastattelee Outi Paananen. 
+
+          Ohjelmassa kuultava, Arto Noraksen soittama musiikki:
+
+          Joseph Haydn:
+          Rondo, 3. osa sellokonsertosta nro 2 D-duuri
+          Slovakian kamariorkesteri, joht. Bohdan Warchal
+          Levytysvuosi 1987
+
+          Claude Debussy: 
+          Finaali sonaatista sellolle ja pianolle d-molli
+          Piano: Bruno Rigutto
+          Levytysvuosi 1995
+
+          Krzysztof Penderecki: 
+          Sarabande, 1. osa Divertimentosta sellolle
+          Levytysvuosi 2001
+
+          Aulis Sallinen:
+          Katkelma teoksesta Kamarimusiikki III
+          Donjuanquijoten yölliset tanssit
+          Jyväskylä Sinfonia, joht. Ville Matvejeff
+          Levytysvuosi 2014
+
+          Pjotr Tshaikovski:
+          Pezzo capriccioso (Morceau de concert) h-molli
+          Kuopion kaupunginorkesteri, 
+          joht. Markus Lehtinen
+          Levytysvuosi 2003
+
+          Ylen arkistosta:
+          Katkelma Aamun peili -ohjelmasta 27.7.1983: 
+          Unikeon päivä Naantalissa 
+
+          Arto Noraksen haastattelu 18.6.19663 Tshaikovski-kilpailun ratkettua
+          Toimittajana Moskovassa Aarre Nojonen. 
+
       - title: 'Yle Uutiset '
         start_time: '2026-03-15T09:00:00+02:00'
         end_time: '2026-03-15T09:03:00+02:00'
@@ -160,6 +202,16 @@ data:
       - title: Uudet levyt
         start_time: '2026-03-15T14:00:00+02:00'
         end_time: '2026-03-15T14:55:00+02:00'
+        description: |-
+          Volckmar: Trio (Jerry Jantunen, fortepiano, Asko Heiskanen, klarinetti, ja Jussi Seppänen, sello).
+
+          Saariaho: Nocturne (In memory of Witold Lutoslawski) (Giorgos Panagiotidis, viulu).
+
+          Rautavaara: Cantus arcticus (Göteborgin sinfoniaorkesteri/Neeme Järvi).
+
+          M. Brown: Relationship (Osmo Vänskä, klarinetti, ja Erin Kneefe, viulu).
+
+          Ohjelman on toimittanut Markus Virtanen.
       - title: 'Ykköskolumni: Tekoäly korvaa monia asioita, mutta ei älyä'
         start_time: '2026-03-15T14:55:00+02:00'
         end_time: '2026-03-15T15:00:00+02:00'
@@ -168,12 +220,13 @@ data:
       - title: 'Klassikkokuunnelma: Juurakon Hulda, osa 2/2.'
         start_time: '2026-03-15T15:00:00+02:00'
         end_time: '2026-03-15T15:44:00+02:00'
-        description: |
+        description: |-
           Huvinäytelmä, kirjoittanut Hella Wuolijoki. Radiolle sovittanut Eila Raisalo. Ohjaus: Urpo Lauri.
           Henkilöt:
           Tuomari Kaarlo Kristian Soratie, ent. Carl Christian Sanmark - Joel Rinne.  Professori Magnus Norko - Oiva Sala. Toimittaja Purtiainen - Heimo Lepistö. Isäntä ja kunnallisneuvos Ali-Lehtonen - Matti Aulos. Hulda Juurakko - Hilkka Helinä. Neiti Constance Sanmark - Anni Hämäläinen.
           Kauppaneuvos Kaavio - Kauko Käyhkö. Kauppaneuvoksetar Kaavio - Ritva Arvelo. Neito Matero, näyttelijätär - Mai-Brit Heljo. Alinen - Mauno Hyvönen. Neiti Sinijärvi - Aino Lehtimäki.  Miina - Litja Ilmari. Rouva Kronenström - Alice Lyly.
           Äänite vuodelta 1956.
+          Kuunnelma löytyy Yle Areenasta puolitoistatuntisena versiona.
       - title: Musiikkikamari
         start_time: '2026-03-15T15:44:00+02:00'
         end_time: '2026-03-15T15:50:00+02:00'
@@ -263,7 +316,7 @@ data:
         start_time: '2026-03-15T19:00:00+02:00'
         end_time: '2026-03-15T19:02:05+02:00'
       - title: 'Jazzklubin viikon keikka: Dee Dee Bridgewater Quartet Novi Sad -festivaalilla Serbiassa.'
-        start_time: '2026-03-15T19:02:30+02:00'
+        start_time: '2026-03-15T19:02:05+02:00'
         end_time: '2026-03-15T20:00:00+02:00'
         description: |-
           April Jazziin huhtikuussa Espoo Big Bandin solistiksi saapuva amerikkalaislaulaja Dee Dee Bridgewater esiintyi viime syksynä omalla We Exist! -kvartetillaan Serbiassa Novi Sadin jazzfestivaalilla. 75-vuotiaan legendan toimintaan on aina kuulunut aktivismi ja yhteiskunnallinen vaikuttaminen, mikä kuului myös Serbian kansallisteatterissa äänitetyn konsertin ohjelmistossa: mukana oli mm. Nina Simonen sekä Roberta Flackin poliittisia kappaleita sekä yksi Bob Dylanin uskonnollisen tuotannon laulu.
@@ -308,14 +361,16 @@ data:
 
           Alkumusiikki: Missä toivoni ois, säv. Jussi Pyysalo, san. Antti Saarenketo
           Päätösmusiikki: Tahtosi tiellä, säv. ja san. Markku Perttilä
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Norjassa on “vakoojien kaupunki”, jossa näkyy Venäjän valmistautuminen sotaan'
         start_time: '2026-03-15T21:00:08+02:00'
-        end_time: '2026-03-15T21:24:00+02:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        end_time: '2026-03-15T21:24:16+02:00'
+        description: |
+          Kirkkoniemi on pieni kaupunki Pohjois-Norjassa, josta puhutaan jopa vakoojien keskittymänä. Norjan turvallisuuspoliisi on esimerkiksi varoittanut venäläisten vakoiluoperaatioista alueella, maan puolustusvoimissa taas on puhuttu Venäjän maahyökkäyksen uhasta juuri pohjoisessa. Ylen Pohjoismaiden-kirjeenvaihtaja Jenny Matikainen lähti Kirkkoniemeen selvittämään mitä siellä sotaisasta rajanaapurista ajatellaan – ja ovatko puheet vakoilukaupungista totta? Juontajana Reetta Rönkä.
+
+          Voit lähettää palautetta ja juttuvinkkejä uutispodcast@yle.fi.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Vesielementtejä'
-        start_time: '2026-03-15T21:25:00+02:00'
-        end_time: '2026-03-15T22:18:52+02:00'
+        start_time: '2026-03-15T21:25:04+02:00'
+        end_time: '2026-03-15T22:18:56+02:00'
         description: |
           Vesi. Kaksi vetyatomia ja yksi happiatomi yhdessä molekyylissä. Vesi kiertää maapallolla ja ilmakehässä monenlaisissa muodoissa. Ilman sitä emme eläisi. Ja mihin kaikkeen se onkaan taiteilijoita inspiroinut. 
           Veden lorinat ja aaltoilut, lumen ja jään ritinät ja rapinat, pilvien sävyt ja liikkeet.Veden voima ja lempeys.  Ne ovat innoittaneet monia säveltäjiä säveltämään mitä ihmeellisintä musiikkia. 
@@ -337,14 +392,25 @@ data:
 
           Edvard Grieg: Puro (Alice Sara Ott, piano).
       - title: 'Sari Valto: Elämme itsekkyyden aikaa'
-        start_time: '2026-03-15T22:19:30+02:00'
-        end_time: '2026-03-15T23:12:47+02:00'
+        start_time: '2026-03-15T22:20:09+02:00'
+        end_time: '2026-03-15T23:13:26+02:00'
         description: |-
           Yksilökeskeinen kultturi on mennyt liian pitkälle ja olemme siirtyneet itsekkyyden aikaan. Olemme siis luoneet kulttuurin, joka tuottaa pahoinvointia. Näin toteaa psykologian emeritaprofessori Liisa Keltikangas-Järvinen.
           Ratkaisu voisi olla se, että palauttaisimme klassiset hyveet olemassaolomme perustaksi. Arvopuhe on tyhjää, mutta hyveiden tavoittelu on konkreettista. Hyveiden puolesta puhuu filosofi Antti Kylliäinen.
+      - title: Radio 1 soi
+        start_time: '2026-03-15T23:13:26+02:00'
+        end_time: '2026-03-15T23:20:04+02:00'
+        description: |+
+          Brahms: Waldesnacht (Metsän yö) (Octopus -kuoro/Bart van Reyn).
+
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-03-15T23:20:04+02:00'
+        end_time: '2026-03-15T23:24:24+02:00'
+        description: |-
+          Psykoterapeutti Laura Mannila kertoo luontosuhteestaan. Nelikymppisenä hän hankki oman Riina-hevosen. Toimittajana on Satu Kivelä. Ensilähetys oli 10.2.2026.
       - title: 'Romano mirits: Miten kasvatetaan lapset pysymään lähellä – romaniyhteisön ihanne'
-        start_time: '2026-03-15T23:26:00+02:00'
-        end_time: '2026-03-15T23:39:30+02:00'
+        start_time: '2026-03-15T23:25:18+02:00'
+        end_time: '2026-03-15T23:39:37+02:00'
         description: |-
           14 minuuttia romanikulttuuria sarjan kolmannessa osassa kuullaan yksityisyrittäjä Dino Nymanin haastattelu. Toimittajana Mertsi Lindgren.
       - title: Yöklassinen

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-13T03:01:13.011422+00:00'
+  generated_at: '2026-03-14T02:59:48.879620+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
+  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
 data:
   '':
     programmes:
@@ -66,6 +66,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-23T09:04:00+02:00'
         end_time: '2026-03-23T09:59:00+02:00'
+        description: |-
+          Menendez: Green eyes (Anita O'Day ja Howard Dulany).
+          Rota: Gelsomina (Ossi Runne).
+          Fragna: Signora Futura (Robertino Loreti).
+          Bullock/Spina: Swing me an old-fashioned song (Shirley Temple).
+          Iglesias: Tällaista on rakkaus (Irmeli Mäkelä).
+          McGuinn: Ballad of Easy Rider (The Byrds).
+          Bergström: Sävelhurmaa (Arvi Tikkala). 
+          DePaul/Raye: He's my guy (Nancy Wilson).
+          Becaud: Dimanche à Orly (Gilbert Becaud).
+          Botkin/Murtagh/Garfield/Beethoven: Kaipuun kukka (Tuula Ikäheimo).
+          Hammerschmid/Knef: Für mich soll's rote Rosen regnen (Hildegard Knef).
+          Hazard/Jordan: Be-bop the beguine (Sammy Davis Jr.).
+          Secunda: Sä kaunehin oot (Laila ja Ritva Kinnunen).
+          Joel: Vienna (Billy Joel).
+          Richard: The Carousel waltz (Sinfonia of London).
+
+          Konsertin on toimittanut Pasi Hiihtola.
       - title: 'Virtasen taloushistoria: Rahan anatomia'
         start_time: '2026-03-23T10:00:00+02:00'
         end_time: '2026-03-23T10:52:00+02:00'
@@ -82,6 +100,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-23T11:57:00+02:00'
         end_time: '2026-03-23T12:00:00+02:00'
+        description: |-
+          Ote amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista.
+          (Kust. ISHPEMING, MICH., SUOMALAINEN KANSALLIS-RAITTIUS-VELJEYSSEURA, 1929)
       - title: Yle Uutiset ja sää
         start_time: '2026-03-23T12:00:00+02:00'
         end_time: '2026-03-23T12:05:00+02:00'
@@ -157,7 +178,11 @@ data:
         start_time: '2026-03-23T18:35:00+02:00'
         end_time: '2026-03-23T18:50:00+02:00'
         description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+          M. Nyberg: Tuolla keinuu pieni pursi (Jyväskylän studiokuoro/Matti Vainio).
+
+          Koraalitoisinto (sov. Heikkilä): Arkana nyt olen tullut (Raimo Laukka, baritoni, ja Pertti Eerola, urut).
+
+          Lithell: Kerran laulun saan taivaassa laulaa (Hanna-Maria Helenius, laulu, ja yhtye).
       - title: Iltahartaus
         start_time: '2026-03-23T18:50:00+02:00'
         end_time: '2026-03-23T19:00:00+02:00'
