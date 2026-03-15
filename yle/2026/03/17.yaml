@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-14T02:59:47.020103+00:00'
+  generated_at: '2026-03-15T03:07:37.196575+00:00'
   git:
     branch: main
-    commit: 67fede63c200c3116d7fb9a7826f4b23be361c43
-  data_hash: 1f77e22436734172d295b1f27a9809e9c3a1b789aa411a3ee9df613331e61bf5
+    commit: 2c10fec9f0d2387874ce1d00e1df4ab5d3007350
+  data_hash: 0d317d0a364b2bf151c366e174e5070d2f8a5542ce806758295fd5efbe9d8416
 data:
   '':
     programmes:
@@ -67,7 +67,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-17T07:06:00+02:00'
         end_time: '2026-03-17T08:00:00+02:00'
-        description: |+
+        description: |
           J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
 
           J. Haydn: Allegro molto jousikvartetosta n:o 8 (John Williams, kitara, Alan Loveday, viulu, Cecil Aronowitz, alttoviulu, Amaryllis Fleming, sello). 
@@ -87,7 +87,6 @@ data:
           Kálmán: Tangolaulu oper. Montmartren orvokki (Simon Keenlyside, baritoni, ja Ala-Itävallan Tonkünstler-ork./Alfred Eschwe).
 
           J. Strauss nuorempi: Pizzicato-polkka (German Brass).
-
       - title: Yle Uutiset ja sää
         start_time: '2026-03-17T08:00:00+02:00'
         end_time: '2026-03-17T08:07:00+02:00'
@@ -102,7 +101,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-17T09:04:00+02:00'
         end_time: '2026-03-17T09:59:00+02:00'
-        description: |
+        description: |-
           Dylan: Winterlude (Bob Dylan).
           Ripa: Aveva un bavero (Quarteto Cetra).
           Abrahams/Reid/Moisle: Rakkaus on muuttolintu (Tuula-Anneli Rantanen). 
