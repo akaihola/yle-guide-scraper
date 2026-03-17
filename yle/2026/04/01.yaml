@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-16T03:09:05.836934+00:00'
+  generated_at: '2026-03-17T03:03:41.516384+00:00'
   git:
     branch: main
-    commit: aca929a3261ff25054d0f8b4b474755b8c05be85
-  data_hash: 4d3ea7da05bad4757687ad59693bd0fc8ffa874544f6aee8e2a2b4d1fb750c07
+    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
+  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
 data:
   '':
     programmes:
@@ -13,6 +13,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-01T06:30:50+03:00'
         end_time: '2026-04-01T06:50:00+03:00'
+        description: |-
+          Kansansävelmä: Oi armo suur' (= Amazing grace) (Esa Kaartamo, Edu Kettunen ja Mikko Kuustonen).
+
+          Crüger (sov. J.S. Bach - Kukko): Laupias Jeesus, minkä rikkomuksen (virsi 71:1-4,7,9) (Jämsän kristillisen kansanopiston kuoro/Eero Kukko, ja jousiyhtye).
+
+          Mikkola: Rakkauden, armon lähde (virsi 80) (Jämsän kristillisen kansanopiston kuoro/Eero Kukko, ja jousiyhtye).
+
+          Kilpiö: Jeesus, ristinpolkuasi (virsi 964) (A-Men/Mikko Peltokorpi, ja Miikka Lehtoaho, urut).
       - title: Aamuhartaus
         start_time: '2026-04-01T06:50:00+03:00'
         end_time: '2026-04-01T06:59:59+03:00'
@@ -105,6 +113,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-01T16:07:00+03:00'
         end_time: '2026-04-01T16:59:00+03:00'
+        description: |-
+          Offenbach: Polkka oper. Matka kuuhun (Musiciens du Louvre -kamariork./Marc Minkowski).
+
+          Rossini: Don Basilion juoruaaria oopp. Sevillan parturi (Matti Salminen, basso, ja Sinfonia Lahti/Eri Klas).
+
+          Schickele: Last tango in Bayreuth (Viimeinen tango Bayreuthissa) (Gürzenich-fagottikvintetti).
+
+          J. Haydn: Adagio sinfoniasta n:o 60 C-duuri (Il distratto) (Orpheus-kamariork.).
+
+          W.A. Mozart: Papagenon ja Papagenan duetto oopp. Taikahuilu (Cecilia Bartoli, mezzosopraano, ja Bryn Terfel, baritoni, sekä Rooman Santa Cecilia -akatemian ork./Myung-Whun Chung).
+
+          P.D.Q. Bach: Presto changio teoks. Concerto for two pianos vs. orchestra (S. 2 are better than one) (Peter Schickele ja Jon Kimura Parker sekä The New York Pick-Up Ensemble/Jorge Mester).
+
+          Borrono: Saltarello de la Preditta (David Russell, kitara).
+
+          Jacob van Eyck: Englantilainen satakieli (Dorothee Oberlinger, nokkahuilu). 
+
+          Adams: Hoe-down teoks. Gnarly buttons (Elizabeth Jordan, klarinetti, ja Northern Chamber Orchestra/Stephen Barlow).
+
+          Poulenc: Voyage à Paris (Véronique Gens, sopraano, ja Roger Vignoles, piano). 
+
+          Satie: Neljä velttoa preludia koiralle (Pascal Rogé, piano).
+
+          J. Strauss: Ikiliikkuja (Budapestin musiikkijuhlien ork./Iván Fischer).
+
+          Konsertin on laatinut Eva Tigerstedt
       - title: Uutispodcast
         start_time: '2026-04-01T17:00:00+03:00'
         end_time: '2026-04-01T17:20:00+03:00'
@@ -121,11 +155,18 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-01T18:35:00+03:00'
         end_time: '2026-04-01T18:50:00+03:00'
+        description: |-
+          J.S. Bach: Jeesus, olet elämäni (sanat virrestä 57:1,4,6) (SRK:n kuoro/Olli Heikkilä, sekä Johanna Luokkanen ja Anna Manninen, viulu, Johannes Günther, alttoviulu, Mikael Säily, sello, Juha Hakulinen, kontrabasso, ja Niina Ylikulju, urut).
+
+          Klemetti: Puoleesi, Vapahtaja, katsahdan rukoillen (virsi 76) (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
+
+          I. Nyman: Ristin alla (virsi 940) (Pekka Nyman Ensemble).
       - title: Iltahartaus
         start_time: '2026-04-01T18:50:00+03:00'
         end_time: '2026-04-01T19:00:00+03:00'
         description: |-
-          Kappalainen Lauri Holma, Oulu
+          Kappalainen Lauri Holma Oulusta kuuntelee hiljaisella viikolla sielun hämärämpiäkin sopukoita puhdistavan Bachin Matteus-passion.
+          Hartaudessa lauletaan virren 71 "Laupias, Jeesus, minkä rikkomuksen" säkeistöt 1, 4, 7. Virren esittävät Lumen Valo, vokaaliyhtye, Markku Hietaharju, positiiviurut
       - title: Yle Uutiset ja sää
         start_time: '2026-04-01T19:00:00+03:00'
         end_time: '2026-04-01T19:02:00+03:00'

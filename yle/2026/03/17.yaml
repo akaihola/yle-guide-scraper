@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2026-03-16T03:09:01.075804+00:00'
+  generated_at: '2026-03-17T03:03:22.056044+00:00'
   git:
     branch: main
-    commit: aca929a3261ff25054d0f8b4b474755b8c05be85
-  data_hash: 4d3ea7da05bad4757687ad59693bd0fc8ffa874544f6aee8e2a2b4d1fb750c07
+    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
+  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-16T23:40:00+02:00'
         end_time: '2026-03-17T06:30:00+02:00'
-        description: |+
+        description: |
           Berwald: Sinfonia n:o 4 Es-duuri (San Franciscon SO/Herbert Blomstedt).
 
           00:11 Darzins: Surumielinen valssi (Detroitin SO/Neeme Järvi).
@@ -42,7 +42,6 @@ data:
           05:41 Bartolotti: Sarja kitaralle G-duuri (Gordon Ferries, barokkikitara).
 
           06:05 C.P.E Bach: Konsertto sellolle, jousille ja continuolle a-molli (Aleksandr Rudin ja Musica Viva, Moskova).
-
       - title: Hartaita säveliä
         start_time: '2026-03-17T06:30:50+02:00'
         end_time: '2026-03-17T06:50:00+02:00'
@@ -54,6 +53,8 @@ data:
           Tuntematon: Kristus, valo maailman (Cetus Noster).
 
           Tuntematon: Sun haltuus, rakas Isäni (Topi Lehtipuu, tenori, ja The Spirit of Gambo).
+
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-03-17T06:50:00+02:00'
         end_time: '2026-03-17T06:59:59+02:00'
@@ -67,7 +68,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-17T07:06:00+02:00'
         end_time: '2026-03-17T08:00:00+02:00'
-        description: |
+        description: |-
           J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
 
           J. Haydn: Allegro molto jousikvartetosta n:o 8 (John Williams, kitara, Alan Loveday, viulu, Cecil Aronowitz, alttoviulu, Amaryllis Fleming, sello). 
@@ -87,6 +88,8 @@ data:
           Kálmán: Tangolaulu oper. Montmartren orvokki (Simon Keenlyside, baritoni, ja Ala-Itävallan Tonkünstler-ork./Alfred Eschwe).
 
           J. Strauss nuorempi: Pizzicato-polkka (German Brass).
+
+          Juontajana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-17T08:00:00+02:00'
         end_time: '2026-03-17T08:07:00+02:00'
@@ -118,7 +121,7 @@ data:
           Moustaki: Ma solitude (Serge Reggiani).
           McCartney: Maybe I'm amazed (Nils Landgren). 
 
-          Konsertin on toimittanut Riikka Holopainen.
+          Konsertin on toimittanut Riikka Holopainen. Juontajana on Tuija Kurvinen.
       - title: 'Sari Valto: Vaikeata lapsuutta seurasi tasapainoinen aikuisuus'
         start_time: '2026-03-17T10:00:00+02:00'
         end_time: '2026-03-17T10:55:00+02:00'
@@ -144,7 +147,7 @@ data:
         start_time: '2026-03-17T11:57:00+02:00'
         end_time: '2026-03-17T12:00:00+02:00'
         description: |
-          Kirjailija Anneli Jussila etsii uusimmassa kirjassaan alkuperäistä metsää, jota ihmistoiminta ei ole näkyvästi muovannut ja muokannut. Retket ovat välillä raskaitakin, mutta lopulta Jussila pääsee perille. Päivän mietelauseen on valinnut Riikka Kaihovaara. 
+          Kirjailija Anneli Jussila etsii uusimmassa kirjassaan alkuperäistä metsää, jota ihmistoiminta ei ole näkyvästi muovannut ja muokannut. Retket ovat välillä raskaitakin, mutta lopulta Jussila pääsee perille. Päivän mietelauseen on valinnut Riikka Kaihovaara. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-17T12:00:00+02:00'
         end_time: '2026-03-17T12:05:00+02:00'
@@ -185,7 +188,7 @@ data:
 
           Miten Aapo Kukko on onnistunut vangitsemaan sarjakuvateokseensa Šostakovitšin elämän ja Neuvostoliiton karun todellisuuden? Mitä sarjakuvan muoto mahdollistaa Šostakovitšin tarinan esille tuomisessa? Miten tarina resonoi tähän päivään? Onko Punainen Beethoven sarjakuvasinfonia?
 
-          Haastateltavina ovat sarjakuvataiteilija Aapo Kukko, sarjakuvaneuvos Ville Hänninen sekä professori Timo Virtanen Helsingin yliopistosta.
+          Haastateltavina ovat sarjakuvataiteilija Aapo Kukko, sarjakuvaneuvos Ville Hänninen sekä professori Timo Virtanen Kansalliskirjastosta.
 
           Lähetyksen juontaa Nicklas Wancke.
       - title: Yle News
@@ -229,7 +232,7 @@ data:
         start_time: '2026-03-17T17:00:00+02:00'
         end_time: '2026-03-17T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Suomalaiset startup-yritykset keräsivät viime vuonna poikkeuksellisen paljon kansainvälistä rahoitusta. Miten temppu tehtiin? Atte Uusinokan vieraana Suomen Startup-yhteisön pääekonomisti Youssef Sad.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-17T17:20:00+02:00'
         end_time: '2026-03-17T17:35:00+02:00'
@@ -305,11 +308,11 @@ data:
           Muissa rooleissa:
           Sari Puumalainen, Janne Reinikainen, Hannes Suominen, Saara Kotkaniemi, Tatu Siivonen, Eino Heiskanen, Anni Turunen, Katariina Havukainen, Marc Gassot, Reidar Palmgren, Ville Virkkunen, Peter Kanerva, Jasmin Hamid, Hilma Kotkaniemi, Arttu Kapulainen, Minka Kuustonen, Tarja Heinula, Tobias Holmberg, Aarne Lehti, Jarno Kovamäki, Sanna Maksimainen, Maria Nieminen, Juha Nurmela, Saaga Salo, Olli Sultiala, Matti Halonen, Pekka Ruohoranta, Nika Savolainen, Kari Kaarila, Kirsi Ryyppö, Ilkka Hautala, Edvin Salo, Henna Valkeamäki, Maija Paunio, Anni Turunen. 
 
-      - title: Romano mirits
+      - title: 'Romano mirits: Romanimusiikki ennen ja nyt – katoava perinne vai elävä voima?'
         start_time: '2026-03-17T20:00:00+02:00'
         end_time: '2026-03-17T20:15:00+02:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |
+          14 minuuttia romanikulttuuria sarjan kolmannessa osassa kuullaan musiikin maisteri Miritza Lundbergin haastattelu. Ohjelmassa soivan sävellyksen  ”Mustalaiseks olen syntynyt” (tunnetaan usein myös nimellä ”Mustalainen”) on säveltänyt unkarilainen Elemér Szentirmay (alkuperäiseltä nimeltään János Németh). Toimittajana Mertsi Lindgren.
       - title: 'Maailman tärkein pieni asia: Seppo Simola vaalii sotilasperinnettä'
         start_time: '2026-03-17T20:15:00+02:00'
         end_time: '2026-03-17T20:35:00+02:00'
@@ -352,6 +355,16 @@ data:
       - title: Uudet levyt
         start_time: '2026-03-17T22:25:00+02:00'
         end_time: '2026-03-17T23:19:00+02:00'
+        description: |-
+          Volckmar: Trio (Jerry Jantunen, fortepiano, Asko Heiskanen, klarinetti, ja Jussi Seppänen, sello).
+
+          Saariaho: Nocturne (In memory of Witold Lutoslawski) (Giorgos Panagiotidis, viulu).
+
+          Rautavaara: Cantus arcticus (Göteborgin sinfoniaorkesteri/Neeme Järvi).
+
+          M. Brown: Relationship (Osmo Vänskä, klarinetti, ja Erin Kneefe, viulu).
+
+          Ohjelman on toimittanut Markus Virtanen.
       - title: Yöklassinen
         start_time: '2026-03-17T23:40:00+02:00'
         end_time: '2026-03-18T06:30:00+02:00'
