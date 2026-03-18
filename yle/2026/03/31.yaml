@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-17T03:03:41.254062+00:00'
+  generated_at: '2026-03-18T03:06:53.739585+00:00'
   git:
     branch: main
-    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
-  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
+    commit: 9f6bd75d06777ae5a3511b437ef43dabee0b9962
+  data_hash: f8d5e945f98962be168b90b79b912c9b5c025b9763a6a16ebdd8b193d1ab4600
 data:
   '':
     programmes:
@@ -13,7 +13,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-31T06:30:50+03:00'
         end_time: '2026-03-31T06:50:00+03:00'
-        description: |-
+        description: |+
           Anonyymi: On lepopaikka suloinen (Duo Lehtoaho, ja Saku Mattila, oboe).
 
           Sonninen: Laulakaa Jumalalle (Matti Lehtinen, baritoni, ja Pentti Savolainen, urut).
@@ -21,6 +21,7 @@ data:
           Tuntematon (sov. Haapasalo ja Salonen): Jeesus, sinun vaivas kovat (virsi 74) (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
 
           Spirituaali (sov. Törmälä): Kukaan ei tiedä (Vetelin poikakuoron mieskuoro/Simo Kangas).
+
       - title: Aamuhartaus
         start_time: '2026-03-31T06:50:00+03:00'
         end_time: '2026-03-31T06:59:59+03:00'
@@ -64,6 +65,26 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-31T09:04:00+03:00'
         end_time: '2026-03-31T09:59:00+03:00'
+        description: |-
+          Coleman: Tijuana taxi (Herb Alpert).
+          Young: Stella by starlight (Anita O'Day).
+          Becaud: Et maintenant (Gilbert Becaud).
+          Kuuva: Aikeet arvaan (Ritva Oksanen).
+          De Vita: Softly as I leave you (Matt Monro).
+          Chinn/Chapman: On ja ei (Lea Laven).
+          Collazo: La Ultima noche (Eydie Gorme). 
+          Safka: What they've done to my song ma (Ray Charles).
+          De Vries: Vood goed voor bij (Corry Brokken).
+          Lindholm: Annan kitaran laulaa vaan (Dave Lindholm, laulu, kitara ja dobro, Heikki 'Häkä' Virtanen, kontrabasso, ja Tapio 'Mongo' Aaltonen, lyömäsoittimet).
+          Barry/Greenwich: People say (The Dixie Cups).
+          Ebb - Klein: Pieni sininen mies (Laila Kinnunen).
+          Anonyymi: Il ciliegio (Angelo Branduardi).
+          Lindh: Flottarkärlek (Gösta "Snoddas" Nordgren).
+          Sainte-Marie: Universal soldier (Glen Campbell).
+          Petersen: Kotiarestissa (Inga Sulin).
+          Johansson: Elämää vain se ymmärtää (Markku Aro).
+
+          Konsertin on toimittanut Riikka Holopainen.
       - title: Sari Valto
         start_time: '2026-03-31T10:00:00+03:00'
         end_time: '2026-03-31T10:55:00+03:00'
@@ -120,6 +141,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-31T16:07:00+03:00'
         end_time: '2026-03-31T16:59:00+03:00'
+        description: |+
+          Rautavaara: Närböläisten braa peli sarj. Pelimannit (Keski-Pohjanmaan Kamariork./Juha Kangas). 
+
+          L. Onerva: Hymni tulelle (Helsingin kamarikuoro/Nils Schweckendiek).
+
+          Melartin: Menuetti - Trio triosta huilulle, klarinetille ja fagotille op.154 (Melartin Trio).
+
+          Delius/Grieg: Kevään ensi käköä kuullessa (Lontoon FO/Vernon Handley).
+
+          R. Schumann: Takkavalkean ääressä sarjasta Lapsikuvia (Martha Argerich, piano).
+
+          Casulana: Morir non puo il mio cuore -madrigaali (The Hilliard Ensemble/Paul Hillier).
+
+          Beethoven: osa 4. Rondo (Allegro ma non troppo) Sonaatista viululle ja pianolle nro 5 F-duuri (Isabelle Faust, viulu, ja Aleksandr Melnikov, piano).
+
+          Orff: Ecce gratum teoksesta Carmina burana (Montrealin SO:n kuoro ja Montrealin SO/Charles Dutoit)
+
+          Damström: Under stjärnhimlen (Osmo Palmu, kitara).
+
+          Beach: Scherzo (Perpetuum mobile) pianokons. cis-molli (Danny Driver, piano, ja BBC:n Skotlannin SO/Rebecca Miller). 
+
+          von Knorring: Svarta svanor (Mustat joutsenet) (Emma Kajander, sopraano, ja Tuula Hällström, piano).
+
+          Vuori: osa 3. Shamaani ja hänen heimonsa teoks. Kalliomaalaus, melodraama oktetille ja lausujalle (Giuseppe Gentile, klarinetti, Tuukka Vihtkari, fagotti, Satu Huuskonen, käyrätorvi, Elina Päkkilä, viulu, Erja Unkari, viulu, Albert Pappa, alttoviulu, Timo Alanen, sello, Teemu Kauppinen, kontrabasso, ja Charlotta Hagfors, lausunta).
+
       - title: Uutispodcast
         start_time: '2026-03-31T17:00:00+03:00'
         end_time: '2026-03-31T17:20:00+03:00'

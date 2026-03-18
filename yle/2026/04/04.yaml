@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-17T03:03:42.755759+00:00'
+  generated_at: '2026-03-18T03:06:54.593893+00:00'
   git:
     branch: main
-    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
-  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
+    commit: 9f6bd75d06777ae5a3511b437ef43dabee0b9962
+  data_hash: f8d5e945f98962be168b90b79b912c9b5c025b9763a6a16ebdd8b193d1ab4600
 data:
   '':
     programmes:
@@ -24,7 +24,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-04T08:05:00+03:00'
         end_time: '2026-04-04T08:25:00+03:00'
-        description: |-
+        description: |+
           Vavilov (sov. Kiviniemi): Ave Maria (Heikki Rainio, tenori, ja Kalevi Kiviniemi, urut).
 
           I. Krohn: On taisto tauonnut Golgatalla (virsi 81) (RKK/Tarja Viitanen, ja Harri Viitanen, urut).
@@ -32,6 +32,7 @@ data:
           Koraalitoisinto (sov. Mikkonen): Te murheelliset, kun kuljette kyynelten teitä (virsi 244) (Esa Ruuttunen, baritoni, ja Kajaanin Mieslaulajat/Harri Komulainen).
 
           Tuohioja: Näin kun hänet tuotiin (Pro Fide).
+
       - title: Aamuhartaus
         start_time: '2026-04-04T08:25:00+03:00'
         end_time: '2026-04-04T08:35:00+03:00'
@@ -140,7 +141,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-04T16:07:00+03:00'
         end_time: '2026-04-04T16:59:59+03:00'
-        description: |-
+        description: |+
           Händel: Süsse stille, sanfte Quelle (Suloinen hiljainen, lempeä lähde) (Julianne Baird, sopraano, ja Tempesta di Mare).
 
           Franck: Andantino quietoso Es-duuri (Tatiana Samouil, viulu, ja David Lively, piano).
@@ -162,6 +163,7 @@ data:
           T. Liu: Birdsong enchoing in quiet valley (Yu Hong Mei, erhu).
 
           Konsertin on laatinut Inari Tilli.
+
       - title: 'Marko Gustafsson: Käännekohdissa: Jukka Perko'
         start_time: '2026-04-04T17:00:00+03:00'
         end_time: '2026-04-04T17:55:00+03:00'

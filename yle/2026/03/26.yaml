@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-17T03:03:39.005813+00:00'
+  generated_at: '2026-03-18T03:06:52.737709+00:00'
   git:
     branch: main
-    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
-  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
+    commit: 9f6bd75d06777ae5a3511b437ef43dabee0b9962
+  data_hash: f8d5e945f98962be168b90b79b912c9b5c025b9763a6a16ebdd8b193d1ab4600
 data:
   '':
     programmes:
@@ -13,7 +13,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-26T06:30:50+02:00'
         end_time: '2026-03-26T06:50:00+02:00'
-        description: |-
+        description: |+
           Waldis: Käyn armoalttarillesi (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
 
           Koraalitoisinto: Arkana nyt olen tullut (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
@@ -21,12 +21,13 @@ data:
           Laaksonen: Katsomaan kasvojesi rauhaa (Hanna Ekola, laulu, ja jousiyhtye).
 
           Simojoki: Sä Herra, armon tuoja (Eeva Kuvaja, Pekka Simojoki ja Jaakko Löytty, laulu, sekä yhtye).
+
       - title: Aamuhartaus
         start_time: '2026-03-26T06:50:00+02:00'
         end_time: '2026-03-26T06:59:59+02:00'
         description: |-
+          "Jumala kulkee mukana, vaikka suunta muuttuu"
           Pastori, koomikko Ville Kormilainen Helsingistä pohtii elämän monia outoja käänteitä ja sivupolkuja sekä näiden avaamia teitä johonkin uuteen.
-          Hartaudessa lauletaan virsi 509 "Herra, elämääni". Virren esittävät Oulaisten nuorisokuoro, johtajanaan Tapani Tirilä, Veli Ainali, urut
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T07:00:00+02:00'
         end_time: '2026-03-26T07:05:00+02:00'
@@ -78,9 +79,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-26T11:57:00+02:00'
         end_time: '2026-03-26T12:00:00+02:00'
-        description: |-
+        description: |
           Hugo Hillilän runo amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista.
-          (Kust. ISHPEMING, MICH., SUOMALAINEN KANSALLIS-RAITTIUS-VELJEYSSEURA, 1929)
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T12:00:00+02:00'
         end_time: '2026-03-26T12:05:00+02:00'
@@ -109,7 +109,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-26T16:07:00+02:00'
         end_time: '2026-03-26T16:59:00+02:00'
-        description: |+
+        description: |
           Massenet: Marssi sarj. Scènes pittoresques (Maalauksellisia kuvia) (Uuden-Seelannin SO/Jean-Yves Ossonce).
 
           Bonis: Matin sarj. Soir, matin (Ilta, aamu) (Mozart-pianokvartetti). 
@@ -131,7 +131,6 @@ data:
           Ravel: Jeux d'eau (Suihkulähde) (Pascal Roge, piano). 
 
           Konsertin on laatinut Eva Tigerstedt.
-
       - title: Uutispodcast
         start_time: '2026-03-26T17:00:00+02:00'
         end_time: '2026-03-26T17:20:00+02:00'
@@ -154,7 +153,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-26T18:35:00+02:00'
         end_time: '2026-03-26T18:50:00+02:00'
-        description: |-
+        description: |+
           Koraalitoisinto (sov. Vesterinen): Oi, miksi tiellä Herrani (Mieskuoro Weljet, Heikki Rainio, tenori, ja kamariork. Religioso/Olli Heikkilä).
 
           Koraalitoisinto (sov. Heikkilä-Mähönen): Maan ääriin asti, Herra (Vox Cantorum/Heikki Seppänen).
@@ -162,6 +161,7 @@ data:
           Hudson: Yksi tie (Juha Tapio).
 
           Savolainen: Tee (Pietari Savolainen).
+
       - title: Iltahartaus
         start_time: '2026-03-26T18:50:00+02:00'
         end_time: '2026-03-26T19:00:00+02:00'
@@ -175,22 +175,7 @@ data:
         start_time: '2026-03-26T19:02:00+02:00'
         end_time: '2026-03-26T20:00:00+02:00'
         description: |
-          Juhlayhtye:
-          Mikko Innanen – saksofonit
-          Teemu Viinikainen – kitara
-          Kirke Karja – piano
-          Eero Tikkanen – basso
-          Mika Kallio – rummut
-
-          Solistivieraat:
-          Eero Koivistoinen – saksofoni
-          Emma Salokoski – laulu
-          Kalevi Louhivuori – trumpetti
-
           Äänitetty Logomon Teatro-salissa 6.3.2026.
-          Kuva: Maarit Kytöharju.
-
-          Toimittajana Markus Partanen.
       - title: Elokuvamusiikin Klassinen kattaus
         start_time: '2026-03-26T20:00:00+02:00'
         end_time: '2026-03-26T20:57:00+02:00'
@@ -229,7 +214,26 @@ data:
         start_time: '2026-03-26T22:34:00+02:00'
         end_time: '2026-03-26T23:02:23+02:00'
         description: |-
-          Lordi Arthurin piina jatkuu sukulaisten visiitin myötä. Lordin pakosuunnitelmat saavat yllättävän käänteen yllätysvieraiden johdosta. Ennustus toteutuu viimein – mutta tavalla, jota kädestä ennustajakaan ei osannut aavistaa. 
+          Osa 3/3. Lordi Arthur saa kuulla seurapiirien suosimalta kädestäennustajalta, että hänen kohtalonsa on joutua murhaajaksi. Järkyttynyt herrasmies lykkää tulevia häitään, sillä ennen avioitumistaan hän haluaa selvitä kiusallisesta velvollisuudestaan. Kuunnelma on Oscar Wilden novellista sovitettu salonkikomedia, jossa "loordilliseen" keskustelunsävyyn sekoittuu pisteliäitä nokkeluuksia. Lopulta rikoksesta määrättävä rangaistus lienee yksi pahimmista mahdollisista - wildemaiseen tyyliin.
+
+          Oscar Wilden aiheen mukaan kirjoittanut Basil Dawson. Radioteatterille suomentanut Albin Ahonen. Ohjaus: Aimo Hiltunen.
+
+          Henkilöt: 
+          Herttuatar - Hilkka Helinä. 
+          Lordi Arthur - Jussi Jurkka. 
+          Lordi Augustus Surbiton, Lordi Arthurin veli - Toivo Mäkelä. 
+          Lady Coniston - Pia Hattara. 
+          Neiti Sybil Merton, Lordi Arthurin kihlattu - Marita Nordberg.
+          Lady Clem - Alice Lyly. 
+          Herra Podgers, kädestäkatsoja - Tauno Kajander. 
+          Pestle, apteekkari - Matti Aulos. 
+          Kreivi Ruvalov - Rauno Ketonen. 
+          Herra Winckelkopf, anarkisti - Heikki Savolainen. 
+          Jane-serkku, Lordi Arthurin enon tytär - Sirkka-Liisa Wilén. 
+          Baker, lordi Arthurin palvelija - Leo Jokela. 
+          Herra Mansfield, Lady Clemin asiainhoitaja - Leevi Kuuranne. 
+          Herra Button, rikoskomisario - Kaarlo Halttunen.
+          Ensilähetys: 1961.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-03-26T23:03:00+02:00'
         end_time: '2026-03-26T23:59:00+02:00'

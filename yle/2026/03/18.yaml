@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2026-03-17T03:03:29.619787+00:00'
+  generated_at: '2026-03-18T03:06:50.971292+00:00'
   git:
     branch: main
-    commit: 21ff61d7bf94857d5b67fe34ef751b792928d8bb
-  data_hash: a1ea58bdd4e8d84c9adb188fc6f5b2cba703d52e8ff1b70d9a7c64a7070129bc
+    commit: 9f6bd75d06777ae5a3511b437ef43dabee0b9962
+  data_hash: f8d5e945f98962be168b90b79b912c9b5c025b9763a6a16ebdd8b193d1ab4600
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-17T23:40:00+02:00'
         end_time: '2026-03-18T06:30:00+02:00'
-        description: |-
+        description: |+
           C.P.E. Bach: Duo huilulle ja viululle e-molli (Pauliina Fred ja Minna Kangas).
 
           23:51 Copland: Quiet city (Hiljainen kaupunki) (Wynton Marsalis, trumpetti ja Philip Koch, englannintorvi, sekä Eastman-puhallinork./Donald Hunsberger.).
@@ -52,10 +52,11 @@ data:
           06:19 da Milano: Fantasia (David Russell, kitara).
 
           06:22 Monteverdi: Zefiro torna e di soavi accenti (Länsituuli palaa takaisin) (Jolle Greenleaf ja Molly Quinn, sopraano, Robert Mealy ja Daniel Lee, viulu, Hank Heijink, teorbi, Daniel Swenberg, barokkikitara, ja Avi Stein, cembalo).
+
       - title: Hartaita säveliä
         start_time: '2026-03-18T06:30:50+02:00'
         end_time: '2026-03-18T06:50:00+02:00'
-        description: |-
+        description: |+
           Koskimäki: Nyt jo taittuu talven valta (Jämsän kristillisen kansanopiston kuoro/Eero Kukko, sekä Liisa Keränen, urut, ja Anna Korkala, sello).
 
           Tuntematon: Jeesus elää, turvani (Kampin Laulu/Markku Pihlaja, ja Pertti Eerola, urut).
@@ -63,6 +64,7 @@ data:
           Koraalitoisinto Lapualta: Oi Herra, ilo suuri (Jaakko Kortekangas, baritoni, ja Matti Hannula, urut).
 
           Melartin - Hille: Improvisaatio virsisävelmästä Hyvyyden voiman ihmeelliseen suojaan (Sid Hille, piano).
+
       - title: Aamuhartaus
         start_time: '2026-03-18T06:50:00+02:00'
         end_time: '2026-03-18T06:59:59+02:00'
@@ -130,12 +132,12 @@ data:
           Repilado: Chan chan (Buena Vista Social Club).
 
           Konsertin on laatinut Tuuli Saksala.
-      - title: 'Havaintoja muutoksesta: Utopiat ja poliittinen mielikuvitus'
+      - title: 'Havaintoja muutoksesta: Arjen utopiat ja poliittinen mielikuvitus'
         start_time: '2026-03-18T10:00:00+02:00'
         end_time: '2026-03-18T10:50:00+02:00'
         description: |+
-          Tulevaisuus ei ole lukittu, vaikka siltä joskus saattaa monikriisien aikakaudella tuntua. Millainen voima toisenlaisten tulevaisuuksien ja maailmojen kuvittelemisella voi olla? Millaisia utopioita tieteessä, taiteessa ja arjessa luodaan?
-          Toimittaja Satu Kivelä keskustelee aiheesta Turun yliopiston sosiologian professori Suvi Salmenniemen ja taiteilija ja yliopistotutkija Pilvi Porkolan kanssa. 
+          Tulevaisuus ei ole lukittu, vaikka siltä joskus saattaa monikriisien aikakaudella tuntua. Millainen voima toisenlaisten tulevaisuuksien ja maailmojen kuvittelemisella voi olla?
+          Satu Kivelän vieraana Turun yliopiston sosiologian professori Suvi Salmenniemi ja taiteilija ja yliopistotutkija Pilvi Porkola.
 
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-18T10:50:00+02:00'
@@ -159,8 +161,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-18T11:57:00+02:00'
         end_time: '2026-03-18T12:00:00+02:00'
-        description: |
-          Kirjailija Anneli Jussila hakeutuu luonnon alkulähteille kirjassaan Alkumetsä. Matkalla hän oivaltaa jotain luonnosta ja itsestäänkin. Mitkä olivat alkumetsän opetukset? Päivän mietelauseen on valinnut Riikka Kaihovaara. 
+        description: |-
+          Ote Anneli Jussilan kirjasta Alkumetsä: Pentti Linkolan sydänmailla, Docendo 2025
       - title: Yle Uutiset ja sää
         start_time: '2026-03-18T12:00:00+02:00'
         end_time: '2026-03-18T12:05:00+02:00'
@@ -178,13 +180,15 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-18T13:00:00+02:00'
         end_time: '2026-03-18T13:30:00+02:00'
+        description: |-
+          Millaisia vaikutuksia yhteisöveron laskulla ja perintöveron poistolla olisi? Haastattelussa Finnwatchin veroasiantuntija Saara Hietanen ja Keskuskauppakamarin veroasiantuntija Tomi Viitala. Toimittajana on Linda Pelkonen. Suora lähetys. 
       - title: 'Radio 1:n iltapäivä: sarjakuvataiteilja JP Ahonen piirsi tummanpuhuvaan värityskirjaan suomalaiset taiteen klassikot'
         start_time: '2026-03-18T13:30:00+02:00'
         end_time: '2026-03-18T15:00:00+02:00'
         description: |-
-          Juontajana Jarmo Laitaneva. Studiovieraana sarjakuvataiteilija JP Ahonen, jonka piirroksissa suomalaiset kuvataiteen klassikot saavat pilke silmäkulmassa tummanpuhuvan sävyn. Dark Ateneun -värityskirjassa Ahonen on piirtänyt Ateneumin taideaarteisiin sekä rock-festivaalien mutaiset olosuhteet että Tuonelan virran rannalla auringon polttaman Lemminkäisen.
+          Juontajana Jarmo Laitaneva. N. klo 14 studiovieraana sarjakuvataiteilija JP Ahonen, jonka piirroksissa suomalaiset kuvataiteen klassikot saavat pilke silmäkulmassa tummanpuhuvan sävyn. Dark Ateneun -värityskirjassa Ahonen on piirtänyt Ateneumin taideaarteisiin sekä rock-festivaalien mutaiset olosuhteet että Tuonelan virran rannalla auringon polttaman Lemminkäisen.
 
-          Näyttelijä-ohjaaja Mikko Koukiin kolahti lukiolaisena Ryhmäteatterin yhteishenki. Narikkatöiden ja kahvin kaatamisen lomassa hän näki siellä Arto Mellerin näytelmän Sopimus Mr Evergreenin kanssa ja halusi sen jälkeen yhä vahvemmin teatterialalle.Toimittajana Janne Palkisto.
+          N. klo 14:30 Näyttelijä-ohjaaja Mikko Koukiin kolahti lukiolaisena Ryhmäteatterin yhteishenki. Narikkatöiden ja kahvin kaatamisen lomassa hän näki siellä Arto Mellerin näytelmän Sopimus Mr Evergreenin kanssa ja halusi sen jälkeen yhä vahvemmin teatterialalle.Toimittajana Janne Palkisto.
       - title: 'Kulttuuriykkönen: Kirjallisuuden unohdetut lajit, antiikista omaan aikaamme'
         start_time: '2026-03-18T15:00:00+02:00'
         end_time: '2026-03-18T15:55:00+02:00'
@@ -195,7 +199,12 @@ data:
 
           Ohjelman vieraina ovat professori Sari Kivistö ja tutkijatohtori Erika Pihl Tampereen yliopistosta.
 
-          Ohjelman juontajana on Pia-Maria Lehtola.
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-03-18T15:55:00+02:00'
         end_time: '2026-03-18T15:58:00+02:00'
@@ -233,24 +242,25 @@ data:
         start_time: '2026-03-18T17:00:00+02:00'
         end_time: '2026-03-18T17:20:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mitä yhdysvaltalaiset ajattelevat presidenttinsä aloittamasta Iranin sodasta? Reetta Röngän haastattelussa Yhdysvaltain-kirjeenvaihtaja Ilmari Reunamäki.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-18T17:20:00+02:00'
         end_time: '2026-03-18T17:35:00+02:00'
       - title: Jazzklubi
         start_time: '2026-03-18T17:35:00+02:00'
         end_time: '2026-03-18T18:35:00+02:00'
-        description: |-
-          Jazzklubissa on vieraana trumpetisti ja säveltäjä  Verneri Pohjola. Toimittajina Laura Korhonen ja Eero Koski.
+        description: |
+          Jazzklubissa on vieraana trumpetisti ja säveltäjä Verneri Pohjola. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-03-18T18:35:00+02:00'
         end_time: '2026-03-18T18:50:00+02:00'
-        description: |-
+        description: |+
           Lindqvist: Tanja (Treklangen).
 
           J. Kela: Jeesus jos huomaat (Pro Fide).
 
           Monk: Oi Herra, luoksein jää (CCF/Kari Turunen).
+
       - title: Iltahartaus
         start_time: '2026-03-18T18:50:00+02:00'
         end_time: '2026-03-18T19:00:00+02:00'
@@ -277,35 +287,17 @@ data:
       - title: 'Kuunnelma: Nuori Sorjonen - hiljainen uhri J2'
         start_time: '2026-03-18T22:21:00+02:00'
         end_time: '2026-03-18T22:52:55+02:00'
-        description: |+
-          Kadonneen Kristianin kohtalo tuo rikostutkintaan uuden ulottuvuuden. Sorjonen koettaa selvittää, mitä Waltterin sekavissa puheissa piilee ja miten kolme poikaa liittyvät toisiinsa – ennen kuin on liian myöhäistä. 
-
-          Päärooleissa:
-          Kari Sorjonen: Elias Gould
-          Outi Lanki: Maria Sid
-          Heikkinen: Samuli Niittymäki
-          Pauliina Rajala: Anna Böhm
-          Pietari: Kristo Salminen
-          Waltteri: Vertti Uusitalo
-          Kristian: Kuura Rossi
-
-          Muissa rooleissa:
-          Sari Puumalainen, Janne Reinikainen, Hannes Suominen, Saara Kotkaniemi, Tatu Siivonen, Eino Heiskanen, Anni Turunen, Katariina Havukainen, Marc Gassot, Reidar Palmgren, Ville Virkkunen, Peter Kanerva, Jasmin Hamid, Hilma Kotkaniemi, Arttu Kapulainen, Minka Kuustonen, Tarja Heinula, Tobias Holmberg, Aarne Lehti, Jarno Kovamäki, Sanna Maksimainen, Maria Nieminen, Juha Nurmela, Saaga Salo, Olli Sultiala, Matti Halonen, Pekka Ruohoranta, Nika Savolainen, Kari Kaarila, Kirsi Ryyppö, Ilkka Hautala, Edvin Salo, Henna Valkeamäki, Maija Paunio, Anni Turunen. 
-
+        description: |-
+          Jakso 2/8: Sanasalaatti. Kadonneen Kristianin kohtalo tuo rikostutkintaan uuden ulottuvuuden. Sorjonen yrittää selvittää, mitä Waltterin sekavissa puheissa piilee ja miten kolme poikaa liittyvät toisiinsa – ennen kuin on liian myöhäistä. 
       - title: 'Ulkolinja-podcast: Kreikan talouskasvua ihaillaan mutta palkansaaja ei juhli  '
         start_time: '2026-03-18T23:20:50+02:00'
         end_time: '2026-03-18T23:38:57+02:00'
-        description: |+
-          Talousluvuissa Kreikka on EU-maiden loistosuoriutuja: kasvu on Euroopan nopeinta ja julkista velkaa pienennetään vauhdilla. Kaukana ovat ajat, jolloin maata tuettiin satojen miljardien EU-lainoilla. Tavallisten kreikkalaisten arjessa talouden ilosanoma näkyy kuitenkin heikommin. Ulkolinja-podcastissa Sara Saure etsii Ateenassa selityksiä siihen, miksi kreikkalaisten hyvinvointi ei ole noussut edes velkakriisiä edeltävälle tasolle.
-
-          Toimittaja: Sara Saure
-          Äänisuunnittelija: Teemu Tanskanen 
-          Tuottaja: Marko Lönnqvist 
-
+        description: |-
+          Kreikassa talous kasvaa nyt  kovaa vauhtia mutta kansalaisten ostovoima pysyy heikkona. 
       - title: Yöklassinen
         start_time: '2026-03-18T23:40:00+02:00'
         end_time: '2026-03-19T06:30:00+02:00'
-        description: |
+        description: |+
           Gershwin (sov. Puerling): Love walked in (Chanticleer/Joseph Jennings).
 
           23:45 Beach: Romanssi viululle ja pianolle (Rachel Barton Pine ja Matthew Hagle).
@@ -343,3 +335,5 @@ data:
           04:57 Henry Purcellin ja John Blow'n lauluja ja soitinmusiikkia (Christine Brandes, sopraano, ja kamariyhtye Arcadian Academy).
 
           06:14 Händel: Sonaatti h-molli (Robert Stallman, huilu, Karl Bennion, sello, ja Edwin Swanborn, cembalo).
+
+...
