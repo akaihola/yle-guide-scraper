@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-18T03:06:52.033745+00:00'
+  generated_at: '2026-03-19T03:06:47.382708+00:00'
   git:
     branch: main
-    commit: 9f6bd75d06777ae5a3511b437ef43dabee0b9962
-  data_hash: f8d5e945f98962be168b90b79b912c9b5c025b9763a6a16ebdd8b193d1ab4600
+    commit: 8f3de1c8b8d0a3f6f34ed5f1bb0b81dfd9c3729e
+  data_hash: 17c3af848774172c5f1888cba6b4724d06977f9f41fa2e5004611155000e3069
 data:
   '':
     programmes:
@@ -85,6 +85,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-03-23T08:07:00+02:00'
         end_time: '2026-03-23T09:00:00+02:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-03-23T09:00:00+02:00'
         end_time: '2026-03-23T09:03:00+02:00'
@@ -224,16 +226,11 @@ data:
         end_time: '2026-03-23T19:50:00+02:00'
         description: |-
           Vaikka valtiolliset asevoimat pitävät tiukasti kiinni siitä, että hyökkäyspäätöksen tekee valtiollinen taho, perustuu hyökkäyspäätös yhä useammin yrityksen tuottamaan tiedustelutietoon. Miksi valtion arkaluontoisimpiakin tietoja annetaan yritysten käsiin, eikö tiedustelun pitäisi olla viimeinen asia, joka ulkoistetaan?Toimittajana Ippi Arjanne, asiantuntijoina yliopistonlehtori Mirva Salminen ja väitöskirjatutkija Mikko Räkköläinen. Jakso on julkaistu alunperin kesäkuussa 2023.
-      - title: 'Ulkolinja-podcast: Tanska on tuulivoiman suurvalta mutta sielläkin puhutaan nyt ydinvoimasta'
+      - title: 'Ulkolinja-podcast: Portugalin oli pakko vapauttaa huumepolitiikkansa'
         start_time: '2026-03-23T20:05:00+02:00'
         end_time: '2026-03-23T20:25:00+02:00'
         description: |-
-          Ukrainan sota ja sitä seurannut energiapolitiikan epävarmuus on heijastunut myös tuulivoimasta tunnettuun Tanskaan. Tanskassa on  ryhdytty pohtimaan myös ydinvoiman rakentamisen mahdollisuutta. Muutos on raju, sillä Tanska kielsi ydinvoiman rakentamisen jo 1980-luvulla ja sen jälkeen maa on ollut eturintamassa kehittämässä uusiutuvia energiamuotoja. Tanskan energiapolitiikan käänteisiin perehtyy Ulkolinja-podcastissa Karoliina Kantola. 
-          (Julkaistu Yle Areenassa joulukuussa 2025)
-
-          Toimittaja: Karoliina Kantola
-          Äänisuunnittelija: Teemu Tanskanen
-          Tuottaja: Marko Lönnqvist 
+          Portugalissa on lähdetty hakemaan ratkaisua pahaan huumeongelmaan vapauttamalla huumelainsäädäntöä ja sallimalla käyttöhuoneet. 
       - title: 'Sukuni murhamysteeri: Vakoiluun voi jäädä koukkuun'
         start_time: '2026-03-23T20:25:00+02:00'
         end_time: '2026-03-23T21:00:00+02:00'
