@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-19T03:06:48.590664+00:00'
+  generated_at: '2026-03-20T03:02:09.687903+00:00'
   git:
     branch: main
-    commit: 8f3de1c8b8d0a3f6f34ed5f1bb0b81dfd9c3729e
-  data_hash: 17c3af848774172c5f1888cba6b4724d06977f9f41fa2e5004611155000e3069
+    commit: 854d2287e96f6c9f1699f46b0da02a813dd15657
+  data_hash: 37c8bfc910d016efd350d95d1c5c2b22717c4e7e97c7f3217d4c39d27b801cfd
 data:
   '':
     programmes:
@@ -79,11 +79,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-27T10:55:00+02:00'
         end_time: '2026-03-27T11:00:00+02:00'
-      - title: 'Narrin aamulaulu - Katse Johannes-passioon, oppaana Topi Linjama '
+      - title: 'Narrin aamulaulu - Katse Matteus-passioon, oppaana Topi Linjama '
         start_time: '2026-03-27T11:00:00+02:00'
         end_time: '2026-03-27T11:55:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |
+          Bachin Matteus-passio hämmästyttää yhä väkevyydellään. "Matteus-passiolla on kyky koskettaa ihmisenä olemisen perusteita, moraalia ja kuolevaisuutta", toteaa musiikkitieteilijä Topi Linjama. Alun perin liturgiseen käyttöön sävelletty teos on "Bachin äärimmäinen yritys todistaa Lutherin väite, jonka mukaan nuotit herättävät sanat eloon", kirjoittaa puolestaan kapellimestari John Eliot Gardiner Bach-elämäkerrassaan. Toimittajana Outi Paananen. 
+
+           
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-27T11:55:00+02:00'
         end_time: '2026-03-27T11:57:00+02:00'
@@ -135,11 +137,11 @@ data:
         description: |2+
 
 
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Liisa Akimof'
         start_time: '2026-03-27T17:35:00+02:00'
         end_time: '2026-03-27T18:30:00+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Liisa Akimof on valinnut musiikkia joissa on tarinoita, vahvat lyriikat jotka puhuttelevat erittäin syvästi ja ottavat mukaansa. Millainen musiikki tuo näitä tunteita ja muistoja mieleen?
       - title: Hartaita säveliä
         start_time: '2026-03-27T18:35:00+02:00'
         end_time: '2026-03-27T18:50:00+02:00'
@@ -161,7 +163,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-03-27T19:00:00+02:00'
         end_time: '2026-03-27T19:02:00+02:00'
-      - title: Tapiola Sinfonietta – Mozart in Minor Key
+      - title: 'Konsertteja: Tapiola Sinfonietta – Mozart in Minor Key'
         start_time: '2026-03-27T19:02:00+02:00'
         end_time: '2026-03-27T21:00:00+02:00'
       - title: 'Politiikkaradio '

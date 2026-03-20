@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-19T03:06:54.267858+00:00'
+  generated_at: '2026-03-20T03:02:17.514855+00:00'
   git:
     branch: main
-    commit: 8f3de1c8b8d0a3f6f34ed5f1bb0b81dfd9c3729e
-  data_hash: 17c3af848774172c5f1888cba6b4724d06977f9f41fa2e5004611155000e3069
+    commit: 854d2287e96f6c9f1699f46b0da02a813dd15657
+  data_hash: 37c8bfc910d016efd350d95d1c5c2b22717c4e7e97c7f3217d4c39d27b801cfd
 data:
   '':
     programmes:
@@ -91,6 +91,8 @@ data:
       - title: Jazzklubi
         start_time: '2026-04-22T17:35:00+03:00'
         end_time: '2026-04-22T18:35:00+03:00'
+        description: |-
+          Jazzklubissa on vieraana rumpali Jonatan Sarikoski. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-04-22T18:35:00+03:00'
         end_time: '2026-04-22T18:50:00+03:00'
@@ -102,9 +104,47 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-22T19:00:00+03:00'
         end_time: '2026-04-22T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertteja: Tampere Biennale – Uusinta Ensemble & Ánnámáret'
         start_time: '2026-04-22T19:02:00+03:00'
         end_time: '2026-04-22T21:00:00+03:00'
+        description: |-
+          Musiikkia ikiaikaisesta maasta
+
+          Uusinta Ensemble yhdistää tässä konsertissa voimansa Nuorgamin tundralla poroja hoitavan perheensä kanssa asuvan Ánnámáretin eli Anna Näkkäläjärvi-Länsmanin kanssa. Ánnámáretin taide nousee suoraan porosaamelaisten esi-isien nomadisesta kulttuurista. Joiku on saamelaisille puhutun kielen jatke, jossa laulamalla luodaan (tai saamelaisittain ’vastaanotetaan’) äänellinen kuva jostain kohteesta. Konsertin sävellettyjen teosten väleissä kuullaan Ánnámáretin soololuohteja ennen konsertin huipentavaa teosta, jossa ne yhdistyvät nykymusiikin kanssa uudenlaiseksi ilmaisuksi.
+
+          Uusinta Ensemble:
+          Aino Szalai, viulu
+          Aleksi Kotila, viulu
+          Max Savikangas, alttoviulu
+          Pinja Nuñez, sello
+          Malla Vivolin, huilu
+          Sara Antikainen, huilu
+          Fanny Söderström, piano
+          Helmi Malmgren, klarinetti
+          Petteri Kippo, lyömäsoittimet
+
+          Ánnámáret, joiku
+          Jouni Hirvelä, elektroniikka
+
+          Ohjelma:
+
+          Anna Näkkäläjärvi-Länsman (*1979): luohtisooloja
+          Jouni Hirvelä (*1982): Hohka (2026) (ke)
+          Anna Näkkäläjärvi-Länsman: luohtisooloja
+          Tanya Tagaq (*1975): Sivunittinni (2015)
+          Jaime Belmonte Caparrós (*1988) / Anna Näkkäläjärvi-Länsman: Ráidu (2023)
+          1. Biekkastit
+          2. Čáihni
+          3. Ráidu
+          4. Vuoiŋŋat
+          5. Muohttit
+          6. Eanan
+          7. Goaivu
+          8. Vuoiŋŋadit
+          9. Moraš
+
+
+           Kuva: Ánnámáret (© Anna-Maria Viksten Valotus by Ama)
       - title: 'Politiikkaradio '
         start_time: '2026-04-22T21:00:00+03:00'
         end_time: '2026-04-22T21:30:00+03:00'

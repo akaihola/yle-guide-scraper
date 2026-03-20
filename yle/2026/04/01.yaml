@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-19T03:06:49.796255+00:00'
+  generated_at: '2026-03-20T03:02:11.204454+00:00'
   git:
     branch: main
-    commit: 8f3de1c8b8d0a3f6f34ed5f1bb0b81dfd9c3729e
-  data_hash: 17c3af848774172c5f1888cba6b4724d06977f9f41fa2e5004611155000e3069
+    commit: 854d2287e96f6c9f1699f46b0da02a813dd15657
+  data_hash: 37c8bfc910d016efd350d95d1c5c2b22717c4e7e97c7f3217d4c39d27b801cfd
 data:
   '':
     programmes:
@@ -174,24 +174,9 @@ data:
         end_time: '2026-04-01T19:02:00+03:00'
       - title: 'Duo Pietilä & Saunamäki konsertissa: Ajaton Bach & vapaat äänet'
         start_time: '2026-04-01T19:02:00+03:00'
-        end_time: '2026-04-01T21:00:00+03:00'
-        description: |
-          Nykymusiikkiin ja improvisaatioon erikoistuneet muusikot, Esa Pietilä ja Eero Saunamäki,  yhdistävät voimansa konsertissa, jossa korostuu molempien soittajien rakkaus vanhaan musiikkiin ja varsinkin J.S. Bachin ajattomiin teoksiin. Ajankohtaista kulmaa konsertissa etsitään muun muassa live-elektroniikan avulla. 13.3.2026 Espoonlahden kirkossa tallennetun konsertin toimittaa Ahti Paunu.
-
-          Esiintyjät:
-          Esa Pietilä: tenorisaksofoni, live-elektroniikka
-          Eero Saunamäki: saksofonit, nokkahuilut & live-elektroniikka
-
-          Ohjelma:
-
-          J.S. Bach: Sarja nro 2 sellolle d-molli BWV 1008: osa 1. Prelude ja osa 6. Gigue (Eero Saunamäki)
-          Pietilä/Saunamäki: Motion (duo nokkahuilu + saksofoni) 
-          J.S. Bach: Partita nro 2 viululle d-molli BWV 1004: osa 5. Ciaccona (Esa Pietilä) 
-          Pietilä/Saunamäki: Drifting Zones (duo nokkahuilu + saksofoni)
-          Pietilä/Saunamäki: Kinetics (duo saksofoni + saksofoni) 
-          J.S. Bach: Partita huilulle a-molli BWV 1013: osa 1. Allemande ja osa 4. Bourrée angloise (Eero Saunamäki) 
-          J.S. Bach: Sarja nro 1 sellolle G-duuri BWV 1007: osa 4. Sarabande (Esa Pietilä) Pietilä/Saunamäki: Breathing Texture (duo saksofoni/nokkahuilu + saksofoni) 
-          Pietilä/Saunamäki: Resonant Horizon (duo) 
+        end_time: '2026-04-01T20:10:00+03:00'
+        description: |-
+          Nykymusiikkiin ja improvisaatioon erikoistuneet muusikot, Esa Pietilä ja Eero Saunamäki, yhdistävät voimansa konsertissa, jossa korostuu molempien soittajien rakkaus vanhaan musiikkiin ja varsinkin J.S. Bachin ajattomiin teoksiin. Ajankohtaista kulmaa konsertissa etsitään muun muassa live-elektroniikan avulla. 13.3.2026 Espoonlahden kirkossa tallennetun konsertin toimittaa Ahti Paunu.
       - title: 'Politiikkaradio '
         start_time: '2026-04-01T21:00:01+03:00'
         end_time: '2026-04-01T21:30:00+03:00'
