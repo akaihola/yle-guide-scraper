@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-20T03:02:10.935152+00:00'
+  generated_at: '2026-03-21T02:57:52.271772+00:00'
   git:
     branch: main
-    commit: 854d2287e96f6c9f1699f46b0da02a813dd15657
-  data_hash: 37c8bfc910d016efd350d95d1c5c2b22717c4e7e97c7f3217d4c39d27b801cfd
+    commit: 6b9a298601de6c4ee0460712d4bf2b78645326b8
+  data_hash: e311855440198e14dd7f01c9e725974b318a0bbc4945d2bd41381cf51c018cd3
 data:
   '':
     programmes:
@@ -93,11 +93,25 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-31T10:55:00+03:00'
         end_time: '2026-03-31T11:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Pääsiäisen aikaan'
         start_time: '2026-03-31T11:00:00+03:00'
         end_time: '2026-03-31T11:57:00+03:00'
-        description: |-
+        description: |
+          Hiljainen viikko tiivistyy dramaattiseen surun ja kärsimyksen musiikkiin. Pääsiäispäivänä helisee valoisa laulanta ja lopuksi käki ja satakieli lurittelevat kevään ilmoille.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jan Dismas Zelenka: Miserere c-molli ZWV57 sopraanolle, kuorolle, soittimille ja continuolle. (Tanya Aspelmeier, sopraano,  sekä Balthasar Neumann -kuoro ja -yhtye /Thomas Hengelbrock).
+
+          Johann Sebastian Bach: Kohtaus Matteus-passiosta: Pilatus kysyy kansalta kenet se haluaa vapauttaa, Barrabaan vai Jeesuksen. Sopraanon resitatiivi ja aaria: Aus Liebe will mein Heiland sterben (Christine Schäfer, sopraano, Christoph Pregardien, tenori /Evankelista, Dietrich Henschel, basso /Pilatus, Arnold Schönberg -kuoro, Wienin Concentus Musicus -kamariorkesteri /Nikolaus Harnoncourt)
+
+          Arvo Pärt: Fratres, jousiorkesterille ja lyömäsoittimille (Viron valtion sinfoniaorkesteri / Paavo Järvi).
+
+          Leonora d'Este: Haec dies quam fecit Dominus (Tämä on se päivä, jonka Herra on tehnyt) pääsiäisunnuntain vesperin 5-ääninen hymni (Musica Secreta)
+
+          Georg Friedrich Händel: Konsertto uruille, orkesterille ja continuolle n:o 13 (The cuckoo and the nightingale, Käki ja satakieli) F-duuri HWV295.   osa 2. Allegro
+          (Richard Egarr, urut, ja The Academy of Ancient Music).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-03-31T11:57:00+03:00'
         end_time: '2026-03-31T12:00:00+03:00'

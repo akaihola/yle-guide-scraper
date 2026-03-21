@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-20T03:02:09.962192+00:00'
+  generated_at: '2026-03-21T02:57:51.622420+00:00'
   git:
     branch: main
-    commit: 854d2287e96f6c9f1699f46b0da02a813dd15657
-  data_hash: 37c8bfc910d016efd350d95d1c5c2b22717c4e7e97c7f3217d4c39d27b801cfd
+    commit: 6b9a298601de6c4ee0460712d4bf2b78645326b8
+  data_hash: e311855440198e14dd7f01c9e725974b318a0bbc4945d2bd41381cf51c018cd3
 data:
   '':
     programmes:
@@ -105,10 +105,10 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-28T13:55:00+02:00'
         end_time: '2026-03-28T14:00:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Kuinka Lapin naiskirjallisuus jälleenrakensi Suomen'
         start_time: '2026-03-28T14:00:00+02:00'
         end_time: '2026-03-28T14:55:00+02:00'
-        description: |-
+        description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Ykköskolumni
         start_time: '2026-03-28T14:55:00+02:00'
@@ -186,6 +186,8 @@ data:
       - title: 'Marko Gustafsson: Käännekohdissa Esa Eloranta'
         start_time: '2026-03-28T17:00:00+02:00'
         end_time: '2026-03-28T17:53:00+02:00'
+        description: |-
+          Muusikko Esa Elorannalla on takanaan kymmenien vuosien ja satojen itselle ja muille artisteille tehtyjen laulujen taival. ”Vasta nyt viimeisimmällä levylläni olen uskaltanut tehdä juuri niin kuin haluan, enkä ajattele esimerkiksi radion soittolistoille pääsyä”, Esa toteaa. Esa ihastui vaimonsa runoihin ja päätti tehdä niistäkin lauluja. ”Niissä ylitin oman häpeän kynnykseni ja onneksi uskalsin!”, Esa hymyilee.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-28T17:53:00+02:00'
         end_time: '2026-03-28T18:00:00+02:00'
