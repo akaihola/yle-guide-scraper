@@ -1,15 +1,46 @@
 metadata:
-  generated_at: '2026-03-23T03:07:49.699497+00:00'
+  generated_at: '2026-03-24T03:03:46.492149+00:00'
   git:
     branch: main
-    commit: e033c49b94c3b9ffd64f18006180915be9831883
-  data_hash: cc9ca08b6be55dd26178d4a9c37022095bd6fc87bfae5f58a9afa55ffd61e3d9
+    commit: b509005667e9fac7775a9d6f191fd695598c7cbc
+  data_hash: 2a98f2fdce42c841cb67ae28432dbb451274a8581a090c36fa857eae03319792
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-29T23:40:00+03:00'
         end_time: '2026-03-30T06:30:00+03:00'
+        description: |+
+          Respighi: Adagio ja muunnelmia sellolle ja orkesterille (Gaspar Cassadó ja Wienin Pro Musica -ork./Jonel Perlea).
+
+          23:52 Saint-Lubin: Grand duo concertant en forme de Sonata (Anastasija Hitruk, viulu, ja Jelizaveta Kopelman, piano).
+
+          00:20 W.A. Mozart: Ein Musikalischer Spass (Musiikillinen pila) (Wienin Concentus Musicus/Nikolaus Harnoncourt).
+
+          00:44 Mompou: Paisajes (Maisemia) (Julien Brocal, piano).
+
+          00:57 Foote: Kvartetto pianolle ja jousille C-duuri. (James Barbagallo, piano, ja  Da Vinci -kvartetti).
+
+          01:26 Musorgski: Ilman aurinkoa, laulusarja. (Boris Christoff,  basso, ja Alexandre Labinsky, piano).
+
+          01:43 Mahler: Sinfonia n:o 5 cis-molli (RSO/Jukka-Pekka Saraste).
+
+          02:52 Copland: Nonetto (Columbia-jousiyhtye/Aaron Copland).
+
+          03:10 Kuula: Orjan poika (Inari Gebhard, sopraano, Mikko Pasanen, baritoni, ja Suomen Laulu sekä RSO/Jussi Jalas).
+
+          03:35 Wagner: Alkusoitto oopp. Tannhäuser (Cincinnatin SO/Jesus Lopez-Cobos). 
+
+          03:53 W.A. Mozart: Jousikvartetot n:o 14 G-duuri, 15 d-molli ja 17 B-duuri (Metsästys) (Budapest-kvartetti). 
+
+          05:05 Reinecke: Konsertto huilulle ja orkesterille D-duuri. (Aurele Nicolet ja Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:26 Schäfer: Interludeja pianolle op.17. (David Kuyken).
+
+          05:38 Tshaikovski: Kuoromusiikkia (Juri Bogdanov, tenori, sekä Neuvostoliiton kulttuuriministeriön kamarikuoro ja Neuvostoliiton kulttuuriministeriön SO/Valeri Poljanski).
+
+          06:27 Senfl: Patientam muess ich han (Piffaro). 
+
       - title: Hartaita säveliä
         start_time: '2026-03-30T06:30:50+03:00'
         end_time: '2026-03-30T06:50:00+03:00'
@@ -27,8 +58,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-03-30T06:50:00+03:00'
         end_time: '2026-03-30T06:59:59+03:00'
-        description: |-
-          Toimittaja, pappi Niilo Rantala, Helsinki
+        description: |
+          "Puusepän pojan puhe"
+          Hiljaisen viikon aamuissa toimittaja, pappi Niilo Rantala Tampereelta kuvaa pääsiäisen tapahtumia neljän eri ihmisen silmin. Tässä monologihartaudessa ääneen pääsee puusepän poika.  
       - title: Aamusoitto
         start_time: '2026-03-30T07:06:00+03:00'
         end_time: '2026-03-30T08:00:00+03:00'
@@ -90,15 +122,15 @@ data:
 
           Konsertin on toimittanut Tarja Närhi.
 
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Hygieniaa, tehokkuutta ja kauneutta - pakkaukset kautta aikojen.'
         start_time: '2026-03-30T10:00:00+03:00'
         end_time: '2026-03-30T10:52:00+03:00'
-        description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat.
+        description: |
+          Hygieniaa, tehokkuutta ja kauneutta - pakkaukset kautta aikojen. Vieraana Antro Säilä
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-30T10:52:00+03:00'
         end_time: '2026-03-30T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Pietarin kyyneleet'
         start_time: '2026-03-30T11:00:00+03:00'
         end_time: '2026-03-30T11:57:00+03:00'
         description: |-
@@ -112,11 +144,12 @@ data:
       - title: 'Elävä historia: Juonittelijoita ja esimerkillisiä äitejä - roomattaret vallan liepeillä'
         start_time: '2026-03-30T12:05:00+03:00'
         end_time: '2026-03-30T12:55:00+03:00'
-        description: |
-          Rooman ensimmäisen keisarin, Augustuksen, perheen naiset osasivat käyttää vaikutusvaltaansa. Vaimo Livia, tytär Julia ja sisar Octavia joutuivat kuitenkin toimimaan myös politiikan pelinappuloina.
-          Miten he ilmensivät antiikin naisihannetta – tai sen vastakohtaa? 
-          Entä miten myyttien naiset heijastelivat käsityksiä siitä, millainen naisen tulisi olla?
-          Haastateltavina ovat historioitsijat Marja-Leena Hänninen ja Elina Pyy. Toimittajana on Riikka Suikkari.
+        description: |-
+          Rooman ensimmäisen keisarin, Augustuksen, perheen naiset osasivat käyttää vaikutusvaltaansa. Vaimo Livia, tytär Julia ja sisar Octavia joutuivat kuitenkin toimimaan myös politiikan välikappaleina.
+          Miten he ilmensivät antiikin naisihannetta – tai sen vastakohtaa? Entä miten myyttien naiset heijastelivat käsityksiä siitä, millainen naisen tulisi olla?
+          Haastateltavat: antiikin historian dosentti Marja-Leena Hänninen, historian dosentti Elina Pyy
+          Toimittaja: Riikka Suikkari
+          Äänisuunnittelija: Katja Kostiainen
       - title: Politiikkaradio
         start_time: '2026-03-30T13:00:00+03:00'
         end_time: '2026-03-30T13:30:00+03:00'

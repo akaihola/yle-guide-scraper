@@ -1,16 +1,37 @@
 metadata:
-  generated_at: '2026-03-23T03:07:48.916197+00:00'
+  generated_at: '2026-03-24T03:03:45.649283+00:00'
   git:
     branch: main
-    commit: e033c49b94c3b9ffd64f18006180915be9831883
-  data_hash: cc9ca08b6be55dd26178d4a9c37022095bd6fc87bfae5f58a9afa55ffd61e3d9
+    commit: b509005667e9fac7775a9d6f191fd695598c7cbc
+  data_hash: 2a98f2fdce42c841cb67ae28432dbb451274a8581a090c36fa857eae03319792
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-03-27T23:40:00+02:00'
         end_time: '2026-03-28T07:30:00+02:00'
-      - title: Luomiskertomus
+        description: |+
+          Kuhlau: Lulu, ooppera (Risto Saarman, tenori, Anne Frellesvik, sopraano, Tina Kiberg, sopraano, Ulrik Cold, basso, ja Erik Harbo, baritoni, sekä Tanskan radion kuoro ja Tanskan radion SO/Michael Schönwandt).
+
+          02:47 Sibelius: Jordens sång (Maan laulu), kantaatti (Akateeminen laulu, Helsingin katedraalikuoro ja RSO/Ulf Söderblom).
+
+          03:06 Tyberg: Messu n:o 1 G-duuri (Etelä-Dakotan kuoro/Brian A. Schmidt, ja Christopher Jacobson, urut).
+
+          03:48 Borodin (sov. Glazunov): Pieni sarja (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          04:19 Loewe: Die Auferweckung des Lazarus (Lasaruksen kuolleista herättäminen) (Katharina Kammerloher, altto, Eva Kirchner, sopraano, Markus Marquardt, bassobaritoni, ja Bernhard Schneider, tenori, sekä Kölnin radiokuoro ja Kölnin RO/Helmut Froschauer).
+
+          04:55 Bruch: Serenadi viululle ja orkesterille a-molli (Maksim Fedotov ja Venäjän FO/Dmitri Jablonski).
+
+          05:35 W.A. Mozart: Viulusonaatit n:o 21 e-molli, 23 D-duuri, 24 F-duuri ja 25 F-duuri (Joseph Szigeti, viulu, ja Mieczyslaw Horszowski, piano).
+
+          06:45 Verdi: Amelian aaria Morro, ma prima in grazia oopp. Naamiohuvit  (Anna Moffo, sopraano, ja Italian RCA:n oopperaork./Franco Ferrara).
+
+          06:51 Gianella: Huilukonsertto n:o 1 d-molli (Emmanuel Pahud ja Baselin kamariork./Giovanni Antonini).
+
+          07:10 Erlebach: Sarja orkesterille ja continuolle n:o 3 C-duuri (L'Arpa Festante München/Michi Gaigg).
+
+      - title: 'Luomiskertomus: Laura Anersson - Tähtipölyn bulevardi'
         start_time: '2026-03-28T07:31:00+02:00'
         end_time: '2026-03-28T07:55:00+02:00'
         description: |-
@@ -36,14 +57,17 @@ data:
       - title: Aamuhartaus
         start_time: '2026-03-28T08:25:00+02:00'
         end_time: '2026-03-28T08:35:00+02:00'
-        description: |-
-          Piirikunnanjohtaja Soile Kasi, Metodistikirkko, Oulu
+        description: |
+          "Rakkauden sanat: Minun Isäni!"
+          Piirikunnanjohtaja Soile Kasi, Metodistikirkko, Oulusta puhuu paastonaikansa aloittaneista raamatunjakeista ja näiden tuomista yllättävistä muutoksista elämäänsä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-03-28T08:35:00+02:00'
         end_time: '2026-03-28T08:40:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Niko Ikonen kerää lentopisteitä'
         start_time: '2026-03-28T08:40:00+02:00'
         end_time: '2026-03-28T09:00:00+02:00'
+        description: |-
+          Niko Ikonen on lentopisteiden keräilijä. Toimittajana Maija Salminen
       - title: 'Yle Uutiset '
         start_time: '2026-03-28T09:00:00+02:00'
         end_time: '2026-03-28T09:03:00+02:00'
@@ -217,7 +241,7 @@ data:
         description: |-
           Otsikoiden takana joka arkipäivä.
       - title: 'Klassikkokuunnelma: Tohvelisankarin rouva'
-        start_time: '2026-03-28T21:51:00+02:00'
+        start_time: '2026-03-28T21:49:18+02:00'
         end_time: '2026-03-28T22:30:00+02:00'
         description: |
           Osa 1/2. Juulia on avioitunut vanhan tilanomistajan, viinaanmenevän Aadolfin kanssa suvun rahojen ja perinnön toivossa. Maria Jotunin näytelmään perustuva farssimainen kuvaus naisen ja miehen avioliitosta ja taloudellisesta eriarvoisuudesta - sekä ahneudesta.
@@ -226,8 +250,8 @@ data:
 
           Kuunnelma on puolitoistatuntisena versiona kuunneltavissa Yle Areenassa.
       - title: 'Keinuva talo - Mika Kauhanen: Helmenkalastajan hullut päivät Italiassa'
-        start_time: '2026-03-28T22:40:06+02:00'
-        end_time: '2026-03-28T23:39:15+02:00'
+        start_time: '2026-03-28T22:40:01+02:00'
+        end_time: '2026-03-28T23:39:13+02:00'
         description: |-
           Pizzica-musiikin kehto Salento, totta kai, mutta myös Campania ja Calabria, Sardinia ja Sisilia. Ympäri Italiaa nousee jatkuvasti uusia kiinnostavia tulokkaita maailmanmusiikkilistoille, samalla kun saapasmaan vanhat mestarit luovat nahkansa tuoreiksi. Juuri nyt Italia on luultavasti maista parhain maailmanmusiikin helmenkalastajalle. Millainen tyylillinen nauha pitää noita helmiä yhdessä? Toimittajana Mika Kauhanen.
       - title: Yöklassinen
