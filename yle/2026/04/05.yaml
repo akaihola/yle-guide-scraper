@@ -1,15 +1,46 @@
 metadata:
-  generated_at: '2026-03-24T03:03:48.333981+00:00'
+  generated_at: '2026-03-25T03:06:18.646068+00:00'
   git:
     branch: main
-    commit: b509005667e9fac7775a9d6f191fd695598c7cbc
-  data_hash: 2a98f2fdce42c841cb67ae28432dbb451274a8581a090c36fa857eae03319792
+    commit: 5aa1319dcb0bab02b63f1d6e88b876976ec7e9c6
+  data_hash: 181e5fd8443e605bc6341381e4929c721605b08b0152e148717ff505fb85d987
 data:
   '':
     programmes:
-      - title: Yöklassinen
+      - title: Pääsiäislauantain Yöklassinen
         start_time: '2026-04-04T23:40:00+03:00'
         end_time: '2026-04-05T07:00:00+03:00'
+        description: |+
+          Anton Schweitzer: Die Auferstehung Christi (Kristuksen ylösnousemus), oratorio (Mirella Hagen, sopraano, Henriette Gödde, altto, Stephan Scherpe, tenori, ja Tobias Berndt, basso, sekä Thüringer Bach Collegium/Gernot Süssmuth).
+
+          00:43 J.S. Bach: Partita klaveerille n:o 5 G-duuri (Risto Lauriala, piano).
+
+          01:06 Cozzolani: Messa paschale (Pääsiäismessu) (Magnificat/Warren Stewart, ja John Dornenburg, viola da gamba, David Tayler, teorbi, ja Hanneke van Prossdij, urut).
+
+          02:16 Veracini: Sonaatti viululle ja continuolle n:o 1 D-duuri (John Holloway, viulu, Jaap ter Linden, sello, ja Lars Ulrik Mortensen, cembalo).
+
+          02:29 Selle: Historia der Auferstehung (Kristuksen ylösnousemus neljän evankelistan mukaan) (Weser-Renaissance Bremen/Manfred Cordes).
+
+          03:05 Schmelzer: Aria Viennese (Armonico Tributo Austria/Lorenz Duftschmid).
+
+          03:20 Falla: Öitä Espanjan puutarhoissa (Jean-Efflam Bavouzet, piano, ja BBC:n FO/Juanjo Mena).
+
+          03:43 Striggio: Missa Ecco si beato giorno (I Fagiolini/Robert Hollingworth).
+
+          04:10 Carbonelli: Sonaatti viululle ja continuolle n:o 4 g-molli (Bojan Cicic ja The Illyria Consort).
+
+          04:21 Caplet: Le Miroir de Jésus (Mystères de Rosaire) (Esther Choi, mezzosopraano, ja Hannoverin tyttökuoro, sekä Teresa Zimmermann, harppu, ja Il Gioco col suono).
+
+          05:24 Chopin: Balladit pianolle n:ot 1-4 (Garrick Ohlsson).
+
+          06:05 de Lalande: Ecce nunc benedicte (Emmanuelle De Negri, sopraano, Dagmar Sasková, sopraano, Sean Clayton, kontratenori, Cyril Auvity, tenori, Andre Morsch, basso, Ensemble Aedes/Mathieu Romano, ja Le Poème Harmonique/Vincent Dumestre). 
+
+          06:20 Hummel: Potpurri op.53 (Thomas Duis, piano, ja Sonja Prunnbauer, kitara).
+
+          06:32 von Herzogenberg: Kolme legendaa (Gerard Caussé, alttoviulu, ja Vadim Gladkov, piano).
+
+          06:47 P.D. Philidor: Trio n:o 1 G-duuri (Les Barricades Mysterieuses/Stéphan Perreau).
+
       - title: Klasariparatiisi - Eva Tigerstedt
         start_time: '2026-04-05T07:00:30+03:00'
         end_time: '2026-04-05T07:57:00+03:00'
@@ -44,6 +75,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-05T11:00:00+03:00'
         end_time: '2026-04-05T11:59:00+03:00'
+        description: |+
+          Fain: Rakkautta huhtikuussa (Ossi Malinen).
+          Duke: April in Paris (Ella Fitzgerald & Louis Armstrong).
+          Capotosti: Maliziusella (Laila Kinnunen).
+          Capotosti/De Simone: Nessuno (Mina).
+          Calabrese: Arrivederci (Umberto Bindi).
+          Baker: Il mio domani (Chet Baker).
+          Rodgers: My Funny Valentine (Dinah Shore).
+          Ellstein: Wedding samba (Xavier Cugat).
+          Bonner/Gordon: Happy together (The Turtles).
+          Chaplin: C'est ma chanson (Petula Clark).
+          Hatch: Kauan (Danny).
+          Brown/Gibson/Johnson/Mallett: Matelot (The Renegades).
+          Sainte-Marie: Arvaa kenet Pariisissa näin (Anki).
+          Gaste: Un jour je reverrai Paris (Line Renaud).
+          DePaul: I'll remember April (Shirley Bassey). 
+
+          Konsertin on toimittanut Ville Vilén.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-05T12:00:00+03:00'
         end_time: '2026-04-05T12:05:00+03:00'
@@ -56,7 +106,7 @@ data:
           Haastateltavat: antiikin historian dosentti Marja-Leena Hänninen, historian dosentti Elina Pyy
           Toimittaja: Riikka Suikkari
           Äänisuunnittelija: Katja Kostiainen
-      - title: 'Välilevyjä: Pietarin kyyneleet'
+      - title: Välilevyjä - Kare Eskola
         start_time: '2026-04-05T13:00:00+03:00'
         end_time: '2026-04-05T13:57:00+03:00'
         description: |-
@@ -175,3 +225,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-04-05T23:40:00+03:00'
         end_time: '2026-04-06T08:00:00+03:00'
+        description: |+
+          J.S. Bach: Pääsiäisoratorio. (Elly Ameling, sopraano, Helen Watts, altto, Werner Krenn, tenori, ja Tom Krause, basso, sekä Wiener Akademie -kuoro ja Stuttgartin kamariork./Karl Münchinger).
+
+          00:29 G.F. Giuliani: Mandoliinikonsertto F-duuri (Anna Torge ja Die Kölner Akademie/Michael Alexander Willens).
+
+          00:47 Pachelbel: Christ lag in Todesbanden, kantaatti (La Capella Ducale ja Musica Fiata/Roland Wilson).
+
+          01:01 Magnard: Sonaatti sellolle ja pianolle A-duuri (Roland Pidoux ja Jean-Claude Pennetier).
+
+          01:31 Jacquet de la Guerre: Susanne, kantaatti (Isabelle Poulenard, sopraano, Brigitte Haudebourg, cembalo, Francoise Bloch, viola da gamba, ja Robert Guy, teorbi).
+
+          01:44 Valls: Scala aretina, messu (Mieke van der Sluis, sopraano, David Cordier, kontratenori, ja John Elwes, tenori, sekä Alankomaiden Bach-yhdistyksen kuoro ja ork./Gustav Leonhardt).
+
+          02:19 Beethoven: Pianosonaatit n:o 8 c-molli (Pateettinen), n:o 9 E-duuri, n:o 10 G-duuri, n:o 13 Es-duuri ja n:o 14 cis-molli (Kuutamo) (Walter Gieseking).
+
+          03:34 E.T.A. Hoffmann: Arlequin (Harlekiini), balettimusiikkia (Deutsche Kammerakademie Neuss/Johannes Goritzki).
+
+          04:06 Cherubini: Requiem c-molli (Boston Baroque/Martin Pearlman).
+
+          04:46 Brahms: Yksitoista koraalialkusoittoa (Robert Parkins, urut).
+
+          05:29 Berg: Kamarikonsertto (Christian Ferras, viulu, ja Pierre Barbizet, piano, sekä Pariisin konservatorion puhallinork./Georges Prêtre).
+
+          06:00 Fuchs: Sinfonia n:o 2 E-duuri (Kölnin radion SO/Karl-Heinz Steffens).
+
+          06:38 Pierné: Konserttikappale op.39 (Emmanuel Ceysson, harppu, ja Orchestre regional Avignon Provence/Samuel Jean).
+
+          06:53 Bree: Allegro d-molli (Viotta-yhtye/Viktor Liberman).
+
+          07:05 Perti: Cantate laeta carmina, motetti (Baselin madrigalistit ja Musica Fiorita/Daniela Dolci).
+
+          07:27 Weiss: Luuttusonaatti fis-molli (Hopkinson Smith).
+
+...
