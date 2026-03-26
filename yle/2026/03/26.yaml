@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-25T03:06:12.332481+00:00'
+  generated_at: '2026-03-26T03:07:59.963236+00:00'
   git:
     branch: main
-    commit: 5aa1319dcb0bab02b63f1d6e88b876976ec7e9c6
-  data_hash: 181e5fd8443e605bc6341381e4929c721605b08b0152e148717ff505fb85d987
+    commit: bbb1f1df854784fde23109913b954ebf74a400dc
+  data_hash: 35edac1aea72fd38e8b2153273c11fcec5a8351cd75026d93f04754b64b7efee
 data:
   '':
     programmes:
@@ -42,7 +42,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-03-26T06:30:50+02:00'
         end_time: '2026-03-26T06:50:00+02:00'
-        description: |+
+        description: |-
           Waldis: Käyn armoalttarillesi (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
 
           Koraalitoisinto: Arkana nyt olen tullut (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
@@ -51,6 +51,7 @@ data:
 
           Simojoki: Sä Herra, armon tuoja (Eeva Kuvaja, Pekka Simojoki ja Jaakko Löytty, laulu, sekä yhtye).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-03-26T06:50:00+02:00'
         end_time: '2026-03-26T06:59:59+02:00'
@@ -81,6 +82,8 @@ data:
           Paganini: Cantabile (Sarah Chang, viulu, ja Charles Abramovic, piano).
 
           Tshaikovski: Valssi sinfoniasta n:o 5 e-molli (RSO/Leif Segerstam).
+
+          Juontajana Tatu Tamminen.
 
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T08:00:00+02:00'
@@ -113,7 +116,7 @@ data:
           Donaggio: You don't have to say you love me (Dusty Springfield). 
           Ornadel: Haavekuva (Topi Sorsakoski).
 
-          Konsertin on toimittanut Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola, juontajana Tatu Tamminen.
       - title: 'Marko Gustafsson: Käännekohdissa Esa Eloranta'
         start_time: '2026-03-26T10:00:00+02:00'
         end_time: '2026-03-26T10:53:00+02:00'
@@ -131,7 +134,7 @@ data:
         start_time: '2026-03-26T11:57:00+02:00'
         end_time: '2026-03-26T12:00:00+02:00'
         description: |
-          Hugo Hillilän runo amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista.
+          Hugo Hillilän runo amerikansuomalaisten Yhdysvalloissa 1929 julkaisemasta Raittiuskansan kalenterista. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-26T12:00:00+02:00'
         end_time: '2026-03-26T12:05:00+02:00'
@@ -142,9 +145,11 @@ data:
           Feministisen ajattelun kehittäjä Virginia Woolf kuvasi ihmisyyttä kenties realistisemmin kuin realismin edustajat. Kirjailija ja yhteiskuntakriitikko purki mieslähtöistä historiakäsitystä ja kirjoitti esiin naisten arkea ja kokemusmaailmaa. Tämä näkyy myös 100-vuotiaan, juuri uudelleen suomennetun läpimurtoteoksen, Rouva Dallowayn, sivuilla. Mitä Woolfin kerronnallisista konventioista ja normeista luopuminen tarkoittaa tekstin tasolla, ja mihin kirjailija sillä pyrki? Miksi niin moni nainen edelleen kokee Woolfin kuuluisan Oma huone -esseen sanoman tärkeäksi?
 
           Marja Vehkasen kanssa Virginia Woolfin moniulotteista tekijyyttä ja vaikutusta ruotivat Woolf-lukupiiriä vetänyt viestinnän ammattilainen ja kirjailija Kirsi Piha sekä kirjallisuudentutkija, tietokirjailija Susanna Suomela.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Inhimillinen pääoma'
         start_time: '2026-03-26T13:00:00+02:00'
         end_time: '2026-03-26T13:30:00+02:00'
+        description: |-
+          Inhimillinen pääoma selittää jopa 75 % talouskasvusta. Haastattelussa Sitran Kasvuatlas-julkaisun kirjoittajat Mikko Silliman, Petri Rouvinen ja Aleksi Kalenius. Toimittajana on Linda Pelkonen. Suora lähetys. 
       - title: 'Radio 1:n iltapäivä: Miksi lukemisen arvostus on nyt tärkeämpää kuin koskaan? Vieraana Maria Lassila-Merisalo'
         start_time: '2026-03-26T13:30:00+02:00'
         end_time: '2026-03-26T15:00:00+02:00'
@@ -154,7 +159,7 @@ data:
           N. klo 14 studiovieraana on tietokirjailija ja tutkija Maria Lassila-Merisalo, joka aloitti kirjallisuusjärjestö Sanaston puheenjohtajana tammikuussa. Lassila-Merisalo sanoo uskovansa sivistykseen ja lukemisen arvoon. Hän uskoo, että yhteiskunnallisesti vaikeanakin aikana yhteistyö ja yhtäläisyyksien etsiminen erojen sijaan luo toiveikkuutta.
 
           N. klo 14:30 näyttelijä, ohjaaja ja kirjailija Jani Toivola kertoo näkemästään ja kokemastaan vahvasta esityksestä, joka jäi erityisesti hänen mieleensä. Marko Gustafsson toimittajana.
-      - title: Runoilijan kuolema - kirjailijat Marja-Liisa Vartio ja Pentti Saarikoski teatterilavoilla
+      - title: 'Kulttuuriykkönen: Runoilijan kuolema - kirjailijat Marja-Liisa Vartio ja Pentti Saarikoski teatterilavoilla'
         start_time: '2026-03-26T15:00:00+02:00'
         end_time: '2026-03-26T15:55:00+02:00'
         description: |-

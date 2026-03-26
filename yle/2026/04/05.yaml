@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-25T03:06:18.646068+00:00'
+  generated_at: '2026-03-26T03:08:02.992462+00:00'
   git:
     branch: main
-    commit: 5aa1319dcb0bab02b63f1d6e88b876976ec7e9c6
-  data_hash: 181e5fd8443e605bc6341381e4929c721605b08b0152e148717ff505fb85d987
+    commit: bbb1f1df854784fde23109913b954ebf74a400dc
+  data_hash: 35edac1aea72fd38e8b2153273c11fcec5a8351cd75026d93f04754b64b7efee
 data:
   '':
     programmes:
@@ -60,6 +60,19 @@ data:
       - title: Aamusoitto
         start_time: '2026-04-05T09:03:00+03:00'
         end_time: '2026-04-05T09:53:00+03:00'
+        description: |+
+          J.S. Bach: Kommt, eilet und laufet (Fritz Wunderlich, tenori, ja August Messthaler, basso, sekä Choral-Ensemble Stuttgart ja Das Sinfonie-Ensemble Stuttgart, joht. Marcel Couraud).
+
+          Vivaldi: Pyhällä haudalla, sonaatti jousille ja continuolle (Milanon solistit/Angelo Ephrikian). 
+
+          Rimski-Korsakov: Venäläinen pääsiäinen, alkusoitto orkesterille (Atlantan SO/Robert Spano). 
+
+          Tshesnokov: Enkeli huusi armoitetulle (Pietarin kamarikuoro/Nikolai Kornijev, ja Natalija Kornijeva, sopraano).
+
+          J. S. Bach: Christ ist erstanden (Marie-Claire Alain, urut).
+
+          C.P.E. Bach: Finaali oratoriosta Jeesuksen ylösnousemus ja taivaaseenastuminen (Collegium Vocale Gent ja Valistuksen ajan ork./Philippe Herreweghe).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-04-05T09:56:00+03:00'
         end_time: '2026-04-05T09:59:00+03:00'
@@ -75,25 +88,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-05T11:00:00+03:00'
         end_time: '2026-04-05T11:59:00+03:00'
-        description: |+
-          Fain: Rakkautta huhtikuussa (Ossi Malinen).
+        description: |-
+          Fain: Rakkautta huhtikuussa (Hannu Hovi).
           Duke: April in Paris (Ella Fitzgerald & Louis Armstrong).
           Capotosti: Maliziusella (Laila Kinnunen).
           Capotosti/De Simone: Nessuno (Mina).
-          Calabrese: Arrivederci (Umberto Bindi).
+          Calabrese/Bindi: Arrivederci (Umberto Bindi).
           Baker: Il mio domani (Chet Baker).
-          Rodgers: My Funny Valentine (Dinah Shore).
+          Rodgers: My funny Valentine (Dinah Shore).
           Ellstein: Wedding samba (Xavier Cugat).
           Bonner/Gordon: Happy together (The Turtles).
           Chaplin: C'est ma chanson (Petula Clark).
           Hatch: Kauan (Danny).
-          Brown/Gibson/Johnson/Mallett: Matelot (The Renegades).
+          Brown/Gibson/Mallett/Johnson: Matelot (The Renegades).
           Sainte-Marie: Arvaa kenet Pariisissa näin (Anki).
           Gaste: Un jour je reverrai Paris (Line Renaud).
-          DePaul: I'll remember April (Shirley Bassey). 
+          DePaul: I'll remember April (Shirley Bassey).
 
           Konsertin on toimittanut Ville Vilén.
-
       - title: Yle Uutiset ja sää
         start_time: '2026-04-05T12:00:00+03:00'
         end_time: '2026-04-05T12:05:00+03:00'
@@ -222,7 +234,7 @@ data:
         end_time: '2026-04-05T23:39:30+03:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: Yöklassinen
+      - title: Pääsiäispäivän Yöklassinen
         start_time: '2026-04-05T23:40:00+03:00'
         end_time: '2026-04-06T08:00:00+03:00'
         description: |+
