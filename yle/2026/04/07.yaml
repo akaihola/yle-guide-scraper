@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-26T03:08:03.384535+00:00'
+  generated_at: '2026-03-27T03:08:11.729090+00:00'
   git:
     branch: main
-    commit: bbb1f1df854784fde23109913b954ebf74a400dc
-  data_hash: 35edac1aea72fd38e8b2153273c11fcec5a8351cd75026d93f04754b64b7efee
+    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
+  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
 data:
   '':
     programmes:
@@ -40,6 +40,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-07T06:30:50+03:00'
         end_time: '2026-04-07T06:50:00+03:00'
+        description: |+
+          Berthier: Laulakaa Herralle uusi virsi (Kirkkonummen kamarikuoro, joht. Tarja Viitanen, ja Kai Huopainen, baritoni, ja kamariyhtye).
+
+          S. Heikkilä: Sinulta saimme uuden elämän (Sakari Heikkilä ja yhtye).
+
+          J. Andersson: Aurinkomme ylösnousi (virsi 105) (A-Men/Mikko Peltokorpi/Sheldon Ylioja, urut/virtuaaliurut).
+
+          Kansansäv.: Aurinko tanssii, halleluja (virsi 942) (Jakaranda ja soitinyhtye/Pekka Nyman).
+
       - title: Aamuhartaus
         start_time: '2026-04-07T06:50:00+03:00'
         end_time: '2026-04-07T06:59:59+03:00'
@@ -89,15 +98,15 @@ data:
         description: |
           Afanasjev: Ära kurvasta (Georg Ots).
           Anderson: Mua lemmitkö vielä, oi Kustaa (Brita Koivunen).
-          Gatsos: To ekkremes (Maria Faranduri).
+          Theodorakis: To ekkremes (Maria Faranduri).
           Minucci: Domani - Huomenna (Olavi Virta).
-          Lee, Schluger: I love being here with you (Bette Midler, laulu, ja Barry Manilow, laulu, sekä yhtye, joht. Ray Ellis).
+          Lee/Schluger: I love being here with you (Bette Midler ja Barry Manilow).
           Danoff/Nivert/Denver: Vanha tie (Tapio Heinonen).
           Cortesao/Cabral: Anda estragar-me os planos (Salvador Sobral).
           Korepta: Yö saaristossa (Eija Merilä).
           Savio/Ambrosino: Cuore matto (Little Tony). 
           Arlen: The man that got away (Shirley Bassey).
-          Newman: The Moon of Manakoora elok. Hurrikaani (Vic Damone ja Billy Mayn ork.)
+          Newman: The Moon of Manakoora (Vic Damone).
           Bassman: Sun vuokses' haaveilen (Sinikka Oksanen). 
           Fernandez: Guantanamera (Joan Baez).
           Sondheim: Näytelmä (Carola).
@@ -172,11 +181,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-07T18:35:00+03:00'
         end_time: '2026-04-07T18:50:00+03:00'
+        description: |+
+          Haapasalo: Herra on minun paimeneni (Vox Ardens/Tapani Tirilä, ja Veli Ainali, urut).
+
+          Koraalitoisinto: Nyt se suuri päivä koitti (virsi 84) (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
+
+          Kansansäv.: Mua siipeis suojaan kätke (virsi 552) (Laura Sippola ja Tuki).
+
       - title: Iltahartaus
         start_time: '2026-04-07T18:50:00+03:00'
         end_time: '2026-04-07T19:00:00+03:00'
         description: |-
-          Majuri Kati Kivestö, Pelastusarmeija, Helsinki
+          "'Muistatko, missä olit kun...'"
+          Majuri Kati Kivestö, Pelastusarmeija, Helsingistä puhuu maailman pysyvästi toisenlaiseksi muuttaneista hetkistä.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-07T19:00:00+03:00'
         end_time: '2026-04-07T19:02:00+03:00'

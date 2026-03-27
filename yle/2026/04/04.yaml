@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-26T03:08:02.789636+00:00'
+  generated_at: '2026-03-27T03:08:10.966731+00:00'
   git:
     branch: main
-    commit: bbb1f1df854784fde23109913b954ebf74a400dc
-  data_hash: 35edac1aea72fd38e8b2153273c11fcec5a8351cd75026d93f04754b64b7efee
+    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
+  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
 data:
   '':
     programmes:
@@ -45,7 +45,11 @@ data:
         start_time: '2026-04-04T07:31:00+03:00'
         end_time: '2026-04-04T07:55:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Ymmärrämmekö elämästä jotain olennaista, jos uskallamme ajatella kuoleman vääjäämättömyyttä? Laituri-romaanin meren rannassa asuva kuvataitelija Hanna pohtii mitä ajan kuluminen, takana olevat vuodet ja muistot niin iloisista juhlista kuin elämän menetyksistä lopulta merkitsevät. Hannalle vanheneminen ei ole mikään tragedia vaan enemminkin luopumista. Luopumista jostain sellaisesta, jota aiemmin on pitänyt ihan itsestäänselvyytenä. Mitä elämästä jää jäljelle kun ei enää jaksakaan tehdä kaikkea arkista, matkustaa, innostua uusista asioista, maalata tai tavata ystäviä?
+
+          Luomiskertomuksen vieraana Laituri-romaanin kirjoittanut Kristiina Wallin.
+
+          Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-04T07:55:00+03:00'
         end_time: '2026-04-04T08:00:00+03:00'
@@ -140,7 +144,7 @@ data:
         start_time: '2026-04-04T13:00:00+03:00'
         end_time: '2026-04-04T13:55:00+03:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Moni pääsiäiskonserteissa vieraillut on todennäköisesti nähnyt ja kuullut alttoviulisti Markus Sarantolan soittavan – hän arvioi esiintyneensä erilaisissa passioiden esityksissä jo sata kertaa. Lappeenrannan kaupunginorkesterin alttoviulun äänenjohtaja on soittanut myös lukuisissa vanhaan musiikkiin erikoistuneissa orkestereissa. Sarantola on ollut kiinnostunut vanhan musiikin historiatietoisesta tulkinnasta jo nuoruudestaan lähtien. Suuren osan ohjelmassa kuultavista ääniteistä Sarantola on löytänyt ulkomailta ja kirpputoreilta. Joukossa on myös todellisia harvinaisuuksia. Toimittajana on Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-04T13:55:00+03:00'
         end_time: '2026-04-04T14:00:00+03:00'
@@ -233,8 +237,9 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-04-04T18:10:00+03:00'
         end_time: '2026-04-04T19:00:00+03:00'
-        description: |-
+        description: |+
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-04T19:00:00+03:00'
         end_time: '2026-04-04T19:02:00+03:00'
