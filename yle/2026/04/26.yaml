@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-27T03:08:16.982551+00:00'
+  generated_at: '2026-03-28T03:05:18.441426+00:00'
   git:
     branch: main
-    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
-  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
+    commit: f0e04160f317804df99596b939df395921955a74
+  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
 data:
   '':
     programmes:
@@ -32,9 +32,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-04-26T09:56:00+03:00'
         end_time: '2026-04-26T09:59:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Parkanon kirkosta
         start_time: '2026-04-26T10:00:00+03:00'
         end_time: '2026-04-26T10:59:20+03:00'
+        description: |-
+          Saarnaajana nuorisopastori Tiina Paakkola.
       - title: Muistojen bulevardi
         start_time: '2026-04-26T11:00:00+03:00'
         end_time: '2026-04-26T11:59:00+03:00'

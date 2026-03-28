@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-27T03:08:13.257426+00:00'
+  generated_at: '2026-03-28T03:05:14.836075+00:00'
   git:
     branch: main
-    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
-  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
+    commit: f0e04160f317804df99596b939df395921955a74
+  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
 data:
   '':
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-04-13T06:50:00+03:00'
         end_time: '2026-04-13T06:59:59+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Tuottaja-toimittaja Mikko Kurenlahti, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-04-13T07:00:00+03:00'
         end_time: '2026-04-13T07:05:00+03:00'
@@ -57,6 +57,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-13T09:04:00+03:00'
         end_time: '2026-04-13T09:59:00+03:00'
+        description: |
+          Hoffman/Manning: Papa loves mambo (Xavier Cugat).
+          Carmichael: Stardust (Nat King Cole).
+          Alstone: Tähtien kertomaa (Rauni Pekkala).
+          Stern: Un jour, un enfant (Frida Boccara). 
+          Rodgers: Have you met Miss Jones (Louis Armstrong).
+          Phillips: Pieni sana aamuin (Tuula Siponius).
+          Nisa/Califano/Bindi: La musica è finita (Ornella Vanoni).
+          Williams/Ascher: With one more look at you (Barbra Streisand).
+          Gardel: Por una cabeza (Carlos Gardel).
+          Chaplin: Limelight (Acker Bilk).
+          Cobb: If I could put you in my song (Cilla Black).
+          Truscott: Pepito (Yvonne Carré).
+          Wyle: Olkoon tää päiväsi parhain (Eino Grön).
+          Rainger: Easy living (Dinah Washington). 
+
+          Konsertin on toimittanut Pasi Hiihtola.
       - title: Virtasen taloushistoria
         start_time: '2026-04-13T10:00:00+03:00'
         end_time: '2026-04-13T10:52:00+03:00'
@@ -109,6 +126,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-13T17:20:00+03:00'
         end_time: '2026-04-13T17:35:00+03:00'
+        description: |2+
+
+
       - title: 'Keinuva talo - Mika Kauhanen: Kastele ja katsele kukkia'
         start_time: '2026-04-13T17:35:00+03:00'
         end_time: '2026-04-13T18:35:00+03:00'

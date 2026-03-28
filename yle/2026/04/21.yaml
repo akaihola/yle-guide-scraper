@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-27T03:08:15.420264+00:00'
+  generated_at: '2026-03-28T03:05:16.986927+00:00'
   git:
     branch: main
-    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
-  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
+    commit: f0e04160f317804df99596b939df395921955a74
+  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
 data:
   '':
     programmes:
@@ -17,13 +17,36 @@ data:
         start_time: '2026-04-21T06:50:00+03:00'
         end_time: '2026-04-21T06:59:59+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Tekstiilitaiteilija ja käsityömestari Helana Vaari, Hollola
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T07:00:00+03:00'
         end_time: '2026-04-21T07:05:00+03:00'
       - title: Aamusoitto
         start_time: '2026-04-21T07:06:00+03:00'
         end_time: '2026-04-21T08:00:00+03:00'
+        description: |+
+          Frescobaldi: Canzona sesta (Christian Lindberg, pasuuna, ja Neal Peres da Costa, cembalo ja urut).
+
+          Albéniz: Zortzico (David Russell, kitara).
+
+          Weber: Sonaatti n:o 4 Es-duuri (Lambert Orkis, piano, ja William Steck, viulu).
+
+          Pierné: Canzonetta (Asko Heiskanen, klarinetti, ja Juhani Lagerspetz, piano).
+
+          Dvorák: Valssi nro 1 (Prahan kamarifilharmonia/Jakub Hrusa).
+
+          Boccherini: Allegro-osa sonaatista sellolle ja continuolle A-duuri (Jukka Rautasalo ja Jussi Seppänen). 
+
+          Gouvy: Aubade (Aamusoitto) (Andreas Groethuysen ja Yaara Tal, piano).
+
+          Durand: Valssi n:o 1 (Jouko Harjanne, trumpetti, ja Anni Kuusimäki, harppu).
+
+          Madetoja: Aamu (Eeva Rysä, sello, ja Jouko Laivuori, piano).
+
+          Elgar (sov. Cassidy): Aamulaulu (Brodsky-kvartetti). 
+
+          Bizet: Habanera Carmen-sarjasta n:o 2 (New Yorkin filharmoninen orkesteri/Leonard Bernstein).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T08:00:00+03:00'
         end_time: '2026-04-21T08:07:00+03:00'
@@ -136,7 +159,7 @@ data:
         start_time: '2026-04-21T18:50:00+03:00'
         end_time: '2026-04-21T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Mikko Mentu, Ortodoksinen kirkko, Mikkeli
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T19:00:00+03:00'
         end_time: '2026-04-21T19:02:00+03:00'

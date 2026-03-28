@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-27T03:08:11.729090+00:00'
+  generated_at: '2026-03-28T03:05:12.758317+00:00'
   git:
     branch: main
-    commit: 4baba25d599ef2f6b5ec739d4da969a51f049361
-  data_hash: 1b57014c4bb0eb0eed9b1a95161d9b78687f7894dd312b079858a1dbdfd64f7b
+    commit: f0e04160f317804df99596b939df395921955a74
+  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
 data:
   '':
     programmes:
@@ -149,10 +149,21 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-04-07T13:30:00+03:00'
         end_time: '2026-04-07T15:00:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Panimonjohtaja ja hyväntekijä Anna Sinebrychoffin harvinainen elämä uuden tutkimuksen kohteena'
         start_time: '2026-04-07T15:00:00+03:00'
         end_time: '2026-04-07T15:55:00+03:00'
         description: |-
+          Anna Sinebrychoff (1830–1904) hallitsi 1800-luvun lopulla yhtä Suomen menestyksekkäintä yritystä, Sinebrychoffin panimoa, Helsingissä. Hänen elämänsä on nyt uuden tutkimuksen kohteena. Hän oli aikansa edelläkävijä hyväntekeväisyyden ja naisjohtajuuden saralla. Miten hän yhdisti oman hartaan uskonsa ja panimon päihtymystä aiheuttavat juomat? Mitkä olivat hänen luonteenpiirteensä? Millaisesta perheestä hän tuli? 
+
+          Anna Sinebrychoffin elämä liittyy Sinebrychoffin taidemuseon omaan historiaan. Hän asui Bulevardilla talon paraatiasunnossa yli 50 vuotta. Nyt Sinebrychoffin taidemuseon kellaritilassa on esillä näyttely Annan elämästä muotokuvineen, koruineen ja kävelykeppeineen. Millaisen taloudellisen ja henkisen perinnön hän jätti lapsilleen? Miten hän harjoitti hyväntekeväisyyttä? Millä tavalla ortodoksisuus näkyi hänen arjessaan ja suhtautumisessaan lähimmäisiinsä? On harvinaista että tuona aikana nainen maalautti itsestään niin monta potrettia. Näyttelyssä on esillä Albert Edelfeltin ja Gunnard Berndtsonin maalaamia muotokuvia panimonjohtattaresta. 
+
+          Ohjelman vieraina ovat näyttelyn kuraattori Ira Westergård, taidehistorioitsija Hanna Kemppi ja tutkija Alexandra Ramsay.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-04-07T15:55:00+03:00'
@@ -182,11 +193,13 @@ data:
         start_time: '2026-04-07T18:35:00+03:00'
         end_time: '2026-04-07T18:50:00+03:00'
         description: |+
-          Haapasalo: Herra on minun paimeneni (Vox Ardens/Tapani Tirilä, ja Veli Ainali, urut).
-
           Koraalitoisinto: Nyt se suuri päivä koitti (virsi 84) (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
 
-          Kansansäv.: Mua siipeis suojaan kätke (virsi 552) (Laura Sippola ja Tuki).
+          Maasalo: Tuhansin kielin (Petteri Salomaa, baritoni, ja Pentti Koskimies, piano).
+
+          Haapasalo: Herra on minun paimeneni (Vox Ardens/Tapani Tirilä, ja Veli Ainali, urut).
+
+          J. Larsson: Hengen voimallisen johdon alla (Perry Johansson, laulu, ja Paavo Haapiainen, piano).
 
       - title: Iltahartaus
         start_time: '2026-04-07T18:50:00+03:00'
