@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-28T03:05:09.573567+00:00'
+  generated_at: '2026-03-29T03:08:08.985224+00:00'
   git:
     branch: main
-    commit: f0e04160f317804df99596b939df395921955a74
-  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
+    commit: 6940d1df401d75d1ef33fc968eb9d34908d7996b
+  data_hash: 4c9c8b5d8967d4714f036c72389bd4111622a416f8008df98bdf19ebd4a9e8ba
 data:
   '':
     programmes:
@@ -75,7 +75,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-03-29T09:03:00+03:00'
         end_time: '2026-03-29T09:53:00+03:00'
-        description: |+
+        description: |-
           Boccherini: Sellokonsertto n:o 6 D-duuri (Misha Maisky ja Orpheus-kamariork.).
 
           J.S. Bach: Leget euch dem Heiland unter (Steven Rickards, kontratenori, ja The Bach Ensemble/Joshua Rifkin).
@@ -84,6 +84,7 @@ data:
 
           W.A. Mozart: Sonaatti n:o 25 F-duuri (Yefim Bronfman, piano, ja Isaac Stern, viulu).
 
+          Juontajana on Joni Timonen.
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-03-29T09:56:00+03:00'
         end_time: '2026-03-29T09:59:00+03:00'
@@ -97,7 +98,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-03-29T11:00:00+03:00'
         end_time: '2026-03-29T11:59:00+03:00'
-        description: |
+        description: |-
           Auric/Brahms: Quand tu dors près de moi (Yves Montand).
           Young: Kultaiset korvarenkaat (Eila Pellinen).
           Ruiz: Amor, amor, amor (Olavi Virta)
@@ -112,6 +113,8 @@ data:
           De Curtis: Torna a Surriento (Beniamino Gigli).
           Westlake/Most: How the web was woven (Elvis Presley).
           Bernstein: Somewhere (Oscar Peterson trio).
+
+          Joni Timonen juontaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-03-29T12:00:00+03:00'
         end_time: '2026-03-29T12:05:00+03:00'
@@ -186,7 +189,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-03-29T16:07:00+03:00'
         end_time: '2026-03-29T16:59:59+03:00'
-        description: |-
+        description: |
           Hadar: Erev shel shoshanim (Tiellä ken vaeltaa) (Sheku Kanneh-Mason, sello, Oliver Janes, klarinetti, ja Birminghamin SO:n sellot).
 
           Reger: Palmsonntagsmorgen (Palmusunnuntaiaamu) (Consortium/Andrew-John Smith).
@@ -210,6 +213,7 @@ data:
           Bonds: Young love in spring sarj. Songs of the seasons (Lawrence Brownlee, tenori, ja Kevin J. Miller, piano).
 
           Konsertin on toimittanut Annina Aho.
+          Juontajana on Joni Timonen.
       - title: Etnokonsertteja Tansaniasta Taiwaniin
         start_time: '2026-03-29T17:00:00+03:00'
         end_time: '2026-03-29T17:57:17+03:00'

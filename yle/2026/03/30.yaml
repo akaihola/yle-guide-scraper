@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-28T03:05:09.988863+00:00'
+  generated_at: '2026-03-29T03:08:09.460861+00:00'
   git:
     branch: main
-    commit: f0e04160f317804df99596b939df395921955a74
-  data_hash: a4dd9cc3af266d06bae44920cc42280a0e46a3dfda6d4a9f6230c8a5f08a8f6d
+    commit: 6940d1df401d75d1ef33fc968eb9d34908d7996b
+  data_hash: 4c9c8b5d8967d4714f036c72389bd4111622a416f8008df98bdf19ebd4a9e8ba
 data:
   '':
     programmes:
@@ -248,6 +248,17 @@ data:
       - title: Politiikkaradio
         start_time: '2026-03-30T21:00:01+03:00'
         end_time: '2026-03-30T21:30:00+03:00'
+      - title: 'Sukuni murhamysteeri: Oliko operaation taustalla ydinasevarustelu?'
+        start_time: '2026-03-30T21:25:00+03:00'
+        end_time: '2026-03-30T22:00:00+03:00'
+        description: |-
+          Amerikkalainen toimittaja ja vakooja nostaa Veikon ja Sepon operaation hurjalle tasolle. Olivatko suomalaiset nuoret miehet mukana operaatiossa, joka liittyi ydinaseisiin?
+          Haastateltavana jaksossa:
+          Tiedusteluhistorian asiantuntija, poliisi Mikko Porvali
+          Toimittaja Iida Tikka 
+          Vakoiluun erikoistunut toimittaja Jeff Stein
+          Sukutarina:  Kirsi Pollari
+          Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: Tiedeykkönen
         start_time: '2026-03-30T21:30:30+03:00'
         end_time: '2026-03-30T22:20:00+03:00'
