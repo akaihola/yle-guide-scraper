@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-30T03:08:47.302829+00:00'
+  generated_at: '2026-03-31T03:08:33.111575+00:00'
   git:
     branch: main
-    commit: 7238ed580abfc31d2679acde5e6565f90aba4cf2
-  data_hash: 10600d23158a32a7383bd2729c09d6b1f0f980b1401877cb746b90886068054a
+    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
+  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
 data:
   '':
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-04-23T07:06:00+03:00'
         end_time: '2026-04-23T08:00:00+03:00'
+        description: |+
+          Rameau: Alkusoitto oopp. Naïs (Les Talens Lyriques/Christophe Rousset).
+
+          Bon: Divertimento n:o 6 A-duuri (Sabine Dreier ja Peter Spohr, traverso, Rhoda Patrick, fagotti, Tatjana Geiger, cembalo, ja Thorsten Bleich, arkkiluuttu).
+
+          Chopin: Nokturno n:o 16 Es-duuri (Byron Janis, piano).
+
+          Fauré: Perhonen (Steven Isserlis, sello, ja Pascal Devoyon, piano).
+
+          Sousa: Valssi oper. Désirée (Cincinnati Pops -ork./Erich Kunzel).
+
+          Granados: Runoilija ja satakieli (Alicia de Larrocha, piano).
+
+          Prokofjev: Gavotte bal. Tuhkimo (Dmitri Sitkovetski, viulu, ja Pavel Gililov, piano).
+
+          Humperdinck: Unipantomiimi oopp. Hannu ja Kerttu (Baijerin radion SO/Jeffrey Tate).
+
+          Rossini: Espanjalainen canzonetta (Cecilia Bartoli, mezzosopraano, ja Charles Spencer, piano).
+
+          Sainz de la Maza: Zapateado (Sharon Isbin, kitara).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-23T08:00:00+03:00'
         end_time: '2026-04-23T08:07:00+03:00'
@@ -81,30 +102,29 @@ data:
         description: |-
           Saint-Saëns: Joutsen sarj. Eläinten karnevaali (Jan-Erik Gustafsson, sello, ja HKO/Leif Segerstam).
 
-          Liszt: Unkarilainen rapsodia pianolle n:o 11 a-molli (Alexandre Kantorow, piano). 
+          Liszt: Unkarilainen rapsodia n:o 11 a-molli (Alexandre Kantorow, piano). 
 
-          Brahms: Unkarilainen tanssi nro 10 F-duuri (Budapestin musiikkijuhlien ork./Ivan Fischer).
+          Brahms: Unkarilainen tanssi n:o 10 F-duuri (Budapestin musiikkijuhlien ork./Ivan Fischer).
 
-          Haydn: Bassoaaria "Schon eilet froh der Ackermann" oratoriosta Vuodenajat (Martti Talvela, basso, ja Wienin sinfonikot/Karl Böhm).
+          Haydn: Bassoaaria "Schon eilet froh der Ackermann" orat. Die Jahreszeiten (Vuodenajat) (Martti Talvela, basso, ja Wienin sinfonikot/Karl Böhm).
 
-          J.S. Bach: Siciliano Sonaatista nro 2 Es-duuri (Petri Alanko, huilu, ja Anssi Mattila, cembalo).
+          J.S. Bach: Siciliano sonaatista n:o 2 Es-duuri (Petri Alanko, huilu, ja Anssi Mattila, cembalo).
 
-          Glazunov: Meditaatio viululle ja orkesterille (Chloe Hanslip ja Italiankielisen Sveitsin ork./Aleksandr Vedernikov). 
+          Glazunov: Meditaatio D-duuri op.32 (Chloe Hanslip, viulu, ja Italiankielisen Sveitsin ork./Aleksandr Vedernikov). 
 
           Beach: Valse amoureuse sarj. Les rêves de Columbine (Columbinen unet) (Sunhwa Park, piano).
 
           Verdi: Ebolin huntulaulu "Nei giardin del bello" oopp. Don Carlos (Elina Garanca, mezzosopraano, Jennifer O'Loughlin, sopraano, sekä Cor de la Generalitat Valenciana ja Orquestra de la Comunitat Valenciana/Roberto Abbado).
 
-          Berwald: Adagio kvartetosta pianolle ja puhaltimille Es-duuri (Ronald Brautigam, fortepiano, Lorenzo Coppola, klarinetti, Teunis van der Zwart, käyrätorvi, Donna Agrell, fagotti).
+          Berwald: Adagio kvartetosta Es-duuri (Ronald Brautigam, fortepiano, Lorenzo Coppola, klarinetti, Teunis van der Zwart, käyrätorvi, ja Donna Agrell, fagotti).
 
-          Price: Juba sinf. n:o 3 c-molli (Philadelphian ork./Yannick Nezet-Seguin).
+          Price: Juba sinfoniasta n:o 3 c-molli (Philadelphian ork./Yannick Nezet-Seguin).
 
           Tárrega: Rosita (Timo Korhonen, kitara).
 
           Aaltio: Spring wonder elok. Metsän tarina (Ork./Panu Aaltio).
 
-          Fall: Achmedin laulu oper. Stambulin ruusu (Fritz Wunderlich, tenori, ja Baijerin valtionork./Hans Moltkau).
-
+          Fall: Achmedin laulu oper. Die Rose von Stambul (Stambulin ruusu) (Fritz Wunderlich, tenori, ja Baijerin valtionork./Hans Moltkau).
 
           Konsertin on laatinut Ainomaija Pennanen.
       - title: Uutispodcast

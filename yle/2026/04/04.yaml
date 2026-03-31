@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-30T03:08:43.559940+00:00'
+  generated_at: '2026-03-31T03:08:26.976162+00:00'
   git:
     branch: main
-    commit: 7238ed580abfc31d2679acde5e6565f90aba4cf2
-  data_hash: 10600d23158a32a7383bd2729c09d6b1f0f980b1401877cb746b90886068054a
+    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
+  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
 data:
   '':
     programmes:
@@ -77,9 +77,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-04T08:35:00+03:00'
         end_time: '2026-04-04T08:40:00+03:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: rc-autoilija Juha Sallmén'
         start_time: '2026-04-04T08:40:00+03:00'
         end_time: '2026-04-04T09:00:00+03:00'
+        description: |
+          Juha Sallménin laji on rc- eli pienoisautoilu. Toimittajana Maija Salminen.
       - title: 'Yle Uutiset '
         start_time: '2026-04-04T09:00:00+03:00'
         end_time: '2026-04-04T09:03:00+03:00'
@@ -122,7 +124,7 @@ data:
           Tietokirjailija Morten Jentoft
           Asianajaja Marko Tuhkanen
           Toimittaja ja käsikirjoittaja: Hannamari Vallila
-      - title: 'Virtasen taloushistoria: Hygieniaa, tehokkuutta ja kauneutta - pakkaukset kautta aikojen.'
+      - title: 'Virtasen taloushistoria: Hygieniaa, tehokkuutta ja kauneutta - pakkaukset kautta aikojen'
         start_time: '2026-04-04T11:00:00+03:00'
         end_time: '2026-04-04T11:52:00+03:00'
         description: |
@@ -185,9 +187,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-04T15:17:00+03:00'
         end_time: '2026-04-04T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Mämmi, pasha ja munivat puput – pääsiäisen symbolit ovat kristinuskoa vanhempia'
         start_time: '2026-04-04T15:30:00+03:00'
         end_time: '2026-04-04T15:55:00+03:00'
+        description: |
+          Pasi Heikura selvittää miksi pääsiäisenä syödään mämmiä ja ihaillaan koristeltuja munia. Haastateltavana on uuden testamentin tutkija, eksegetiikan dosentti Outi Lehtipuu.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2026-04-04T15:55:00+03:00'
         end_time: '2026-04-04T15:58:00+03:00'
@@ -250,12 +255,17 @@ data:
         end_time: '2026-04-04T20:35:00+03:00'
         description: |-
           Nicholas Collon, kapellimestari, John Findon, tenori, Musiikkitalon kuoro, Viron kansallinen mieskuoro, Somnium Ensemble, Nils Schweckendiek, kuorojen valmennus. - Hector Berlioz: Requiem “Grande Messe des morts”. Juontajana Lotta Emanuelsson, konsertti on äänitetty Musiikkitalossa 2.4. 
-      - title: Taiteilijatapaaminen
-        start_time: '2026-04-04T21:01:00+03:00'
-        end_time: '2026-04-04T21:55:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2026-04-04T20:35:00+03:00'
+        end_time: '2026-04-04T20:55:00+03:00'
+      - title: 'Taiteilijatapaaminen: Osmo Tapio Räihälä ja Karo Hämäläinen - liikuntaa ja luovuutta'
+        start_time: '2026-04-04T20:55:27+03:00'
+        end_time: '2026-04-04T21:50:48+03:00'
+        description: |-
+          Taiteilijatapaamisessa ruumiin ja sielun kulttuurista keskustelevat säveltäjä Osmo Tapio Räihälä sekä kirjailija Karo Hämäläinen. Toimittajana Marko Miettinen
       - title: 'Klassikkokuunnelma: Tohvelisankarin rouva'
-        start_time: '2026-04-04T21:56:00+03:00'
-        end_time: '2026-04-04T22:39:00+03:00'
+        start_time: '2026-04-04T21:51:04+03:00'
+        end_time: '2026-04-04T22:39:27+03:00'
         description: |
           Osa 2/2. Maria Jotunin Tohvelisankarin rouva on farssimainen kuvaus naisen ja miehen avioliitoista ja taloudellisesta eriarvoisuudesta - sekä ahneudesta. Tarinan keskiössä on Juulia, joka on avioitunut vanhan tilanomistajan, viinaanmenevän Aadolfin kanssa suvun rahojen ja perinnön toivossa. 
 
@@ -277,11 +287,11 @@ data:
           Teos vuodelta 1972.
 
           Kuunneltavissa kokonaisuudessaan Yle Areenassa
-      - title: Keinuva talo - Mika Kauhanen
-        start_time: '2026-04-04T22:40:00+03:00'
-        end_time: '2026-04-04T23:39:30+03:00'
+      - title: 'Keinuva talo - Mika Kauhanen: Maailman mandoliinit – romantikot ja rellestäjät'
+        start_time: '2026-04-04T22:40:50+03:00'
+        end_time: '2026-04-04T23:39:50+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Se on pienikokoinen ja pieniääninen, vähän vaatimatonkin. Kovin rajallinen mahdollisten soittotekniikoiden suhteen. Mutta kaikesta huolimatta, kuinka kätevä ja ilmaisuvoimainen peli se lopulta onkaan, sekä romantikkojen että rellestäjien käsissä. Keinuvan talon mandoliinijakso ei unohda Italiaa eikä Amerikkaa, mutta vie meidät myös tropiikkiin, Lähi-Itään ja aina Intiaan asti. Toimittajana Mika Kauhanen. Uusinta tammikuulta 2024.
       - title: Pääsiäislauantain Yöklassinen
         start_time: '2026-04-04T23:40:00+03:00'
         end_time: '2026-04-05T07:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-30T03:08:47.472906+00:00'
+  generated_at: '2026-03-31T03:08:33.285224+00:00'
   git:
     branch: main
-    commit: 7238ed580abfc31d2679acde5e6565f90aba4cf2
-  data_hash: 10600d23158a32a7383bd2729c09d6b1f0f980b1401877cb746b90886068054a
+    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
+  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
 data:
   '':
     programmes:
@@ -25,6 +25,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-04-24T07:06:00+03:00'
         end_time: '2026-04-24T08:00:00+03:00'
+        description: |+
+          Vivaldi: Allegro molto fagottikonsertosta F-duuri (Sergio Azzolini ja L'Aura Soave Cremona).
+
+          Brahms: Kevätrakkautta (Olaf Bär, baritoni, ja Helmut Deutsch, piano). 
+
+          Skrjabin: Etydi Des-duuri (Vilde Frang, viulu ja Jose Gallardo, piano).
+
+          Stenhammar: Välisoitto kant. Sången (Göteborgin SO/Neeme Järvi).
+
+          Rahmaninov: Kevättulvat (Jevgeni Sudbin, piano).
+
+          Debussy: Arabeski n:o 1 E-duuri (Emmanuel Pahud, huilu, ja Mariko Anraku, harppu).
+
+          Glazunov: Espanjalainen serenadi (Lynn Harrell, sello, ja Bruno Canino, piano).
+
+          Lehár: llonan ja Dragotinin duetto oper. Mustalaisrakkautta (Angelika Kirchschlager, mezzosopraano, ja Simon Keenlyside, baritoni, sekä Tonkünstler-Orchester Niederösterreich, joht. Alfred Eschwé).
+
+          Ravel (sov. Warnier - Zhang): Menuetti sarj. Couperinin hauta (Joint Venture Percussion Duo).
+
+          Moszkowski (sov. Sarasate): Kitara. (James Ehnes, viulu, ja Eduard Laurel, piano).
+
+          Klemetti (sov. Ali-Mattila): Metsän laulajaiset (HKO/Leif Segerstam). 
+
+          Elgar: Salut d'amour (Lemmentervehdys) (James Ehnes, viulu, ja Eduard Laurel, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-24T08:00:00+03:00'
         end_time: '2026-04-24T08:07:00+03:00'
