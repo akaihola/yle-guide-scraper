@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-31T03:08:27.844934+00:00'
+  generated_at: '2026-04-01T03:08:21.596795+00:00'
   git:
     branch: main
-    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
-  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
+    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
+  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
 data:
   '':
     programmes:
@@ -63,11 +63,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-05T08:00:00+03:00'
         end_time: '2026-04-05T08:05:05+03:00'
-      - title: Narrin aamulaulu - Katse Johannes-passioon, oppaana Topi Linjama
-        start_time: '2026-04-05T08:05:35+03:00'
-        end_time: '2026-04-05T08:59:00+03:00'
+      - title: 'Narrin aamulaulu - Katse Johannes-passioon, oppaana Topi Linjama '
+        start_time: '2026-04-05T08:05:39+03:00'
+        end_time: '2026-04-05T08:59:39+03:00'
         description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Bachin Johannes-passion ensiesityksestä Leipzigissa pitkäperjantaina 1724 ei ole säilynyt aikalaiskuvauksia. Voimme siis vain kuvitella, millaisen vaikutuksen kiihkeä ja dramaattinen Jeesuksen kärsimyskertomuksen kuvaus on tehnyt. Ainakin uuden Tuomaskanttorin "työnäyte" on toiminut seurakuntalaisten herättäjänä, heidän uskonsa vahvistajana ja rikastajana.   
+          Musiikkitieteilijä Topi Linjaman kanssa Johannes-passiota kuuntelee Outi Paananen. 
       - title: 'Yle Uutiset '
         start_time: '2026-04-05T09:00:00+03:00'
         end_time: '2026-04-05T09:03:00+03:00'
@@ -93,7 +94,7 @@ data:
       - title: Jumalanpalvelus Turun Mikaelinkirkosta
         start_time: '2026-04-05T10:00:00+03:00'
         end_time: '2026-04-05T10:59:20+03:00'
-        description: |-
+        description: |
           Saarnaajana kappalainen Pasi Jaakkola ja liturgina seurakuntapastori Jaakko Paakkanen.
           Kanttorina Silvia Koski ja urkurina Marko Hakanpää.
           Tekstinlukijoina Jorma Kalajoki ja Heli Karlsson.
@@ -238,11 +239,11 @@ data:
         end_time: '2026-04-05T22:22:00+03:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: 'Sari Valto '
-        start_time: '2026-04-05T22:23:00+03:00'
-        end_time: '2026-04-05T23:17:00+03:00'
+      - title: 'Sari Valto: Irti menestymisen paineista'
+        start_time: '2026-04-05T22:22:53+03:00'
+        end_time: '2026-04-05T23:16:53+03:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Millaista on vapautua jatkuvasta menestyksen metsästämisestä ja onnistumisen paineesta ja oppia elämään keskeneräisyydessä ja tässä hetkessä? Omasta tarinastaan kertovat valokuvaaja Ville Juurikkala ja tutkimusprofessori Antti Pentikäinen.
       - title: 'Romano mirits: Tampere Putiikki Oy on romanivaatteiden erikoisliike'
         start_time: '2026-04-05T23:24:35+03:00'
         end_time: '2026-04-05T23:38:53+03:00'

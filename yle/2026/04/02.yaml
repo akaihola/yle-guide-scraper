@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-31T03:08:25.203539+00:00'
+  generated_at: '2026-04-01T03:08:20.893932+00:00'
   git:
     branch: main
-    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
-  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
+    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
+  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
 data:
   '':
     programmes:
@@ -187,6 +187,37 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-02T16:07:00+03:00'
         end_time: '2026-04-02T16:59:00+03:00'
+        description: |-
+          Rameau: La poule (Kana) (St. Martin-in-the-Fields/Neville Marriner). 
+
+
+          Loewe: Tom der Reimer (Tom, runoniekka) yksinlaulu op.135/a (Thomas Quasthoff, baritoni, ja Norman Shetler, piano).
+
+
+          J. Haydn: Finaali sinfoniasta n:o 103 Es-duuri (Les Musiciens du Louvre/Marc Minkowski).
+
+
+          Alkan: Hupsun naisen laulu meren rannalla (Jack Gibbons, piano).
+
+
+          Berwald: Adagio kvartetosta Es-duuri (Ronald Brautigam, fortepiano, Lorenzo Coppola, klarinetti, Teunis van der Zwart, käyrätorvi, ja Donna Agrell, fagotti).
+
+
+          Donizetti: Norinan aaria oopp. Don Pasquale (Ileana Cotrubas, sopraano, ja Philharmonia-ork./John Pritchard
+
+
+          Smetana: Tshekkiläinen tanssi nro 2 "Pikku kana" (Antonín Kubálek, piano).
+
+
+          Ibert: Calme (Rooma - Palermo) teok. Escales (Välisatamia) (Minnesotan ork./Eiji Oue).
+
+
+          A. Zimmermann: Scherzo sonaatista d-molli (Mathilde Milwidsky, viulu, ja Sam Haywood, piano).
+
+
+          Williams: The lost world elok. The lost world: Jurassic park (Ork./John Williams).
+
+          Toimittanut Lotta Emanuelsson.
       - title: Uutispodcast
         start_time: '2026-04-02T17:00:00+03:00'
         end_time: '2026-04-02T17:20:00+03:00'
@@ -203,6 +234,9 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-04-02T18:25:00+03:00'
         end_time: '2026-04-02T18:35:00+03:00'
+        description: |-
+          Näyttelijä, ohjaaja ja kirjailija Jani Toivola kertoo näkemästään ja kokemastaan vahvasta esityksestä, joka perustuu Helena Juntusen ja Petri Tammisen kirjaan Joskus liikaa, aina liian vähän – Oopperalaulaja Helena Juntusen elämäntarinoita. Intiimin esityksen keskiössä taiteilijuus ja Helena Juntusen ääni.
+          Toimittaja Marko Gustafsson.
       - title: Hartaita säveliä
         start_time: '2026-04-02T18:35:00+03:00'
         end_time: '2026-04-02T18:50:00+03:00'
@@ -225,34 +259,11 @@ data:
       - title: 'J.S.Bach: Matteus-passio'
         start_time: '2026-04-02T19:03:00+03:00'
         end_time: '2026-04-02T21:51:00+03:00'
-        description: |
-          Nicholas Mulroy, tenori, evangelista
+        description: |-
+          J. S. Bach: Matteus-passio (Nicholas Mulroy, tenori, evankelista, Hana Blažíková, sopraano, Miku Yasukawa, sopraano, Alexander Chance, kontratenori, Christopher Lowrey, kontratenori, Raphael Höhn, tenori, Shimon Yoshida, tenori, Stephan MacLeod, basso, ja Toru Kaku, basso, sekä Kampen-poikakuoro ja
+          Alankomaiden Bach-yhdistyksen vokaaliyhtye ja orkesteri/Masaaki Suzuki).
 
-          Solistit:
-
-          Hana Blažíková, sopraano
-
-          Miku Yasukawa, sopraano
-
-          Alexander Chance, kontratenori
-
-          Christopher Lowrey, kontratenori
-
-          Raphael Höhn, tenori
-
-          Shimon Yoshida, tenori
-
-          Stephan MacLeod, basso
-
-          Toru Kaku, basso
-
-          Kampen-poikakuoro 
-
-          Alankomaiden Bach-yhdistyksen vokaaliyhtye ja orkesteri (Nederlandse Bach Vereniging)
-
-          Masaaki Suzuki, kapellimestari
-
-          29.3.2026 Naardenissa Alankomaissa tallennetun konsertin toimittaa Markus Virtanen
+          29.3.2026 Naardenissa Alankomaissa tallennetun konsertin toimittaa Markus Virtanen.
       - title: 'Jazzklubin viikon keikka: Silent Music – UMO Helsinki Jazz Orchestra & Anni Elif & Joris Roelofs'
         start_time: '2026-04-02T21:52:00+03:00'
         end_time: '2026-04-02T23:22:00+03:00'

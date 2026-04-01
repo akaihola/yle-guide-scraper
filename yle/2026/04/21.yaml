@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-31T03:08:32.755727+00:00'
+  generated_at: '2026-04-01T03:08:25.369790+00:00'
   git:
     branch: main
-    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
-  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
+    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
+  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
 data:
   '':
     programmes:
@@ -148,9 +148,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-21T17:20:00+03:00'
         end_time: '2026-04-21T17:35:00+03:00'
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Kattohaikara'
         start_time: '2026-04-21T18:30:00+03:00'
         end_time: '2026-04-21T18:35:00+03:00'
+        description: |-
+          Viikon luontoäänen esittelee Juha Laaksonen.
       - title: Hartaita säveliä
         start_time: '2026-04-21T18:35:00+03:00'
         end_time: '2026-04-21T18:50:00+03:00'

@@ -1,26 +1,26 @@
 metadata:
-  generated_at: '2026-03-31T03:08:34.516946+00:00'
+  generated_at: '2026-04-01T03:08:27.709451+00:00'
   git:
     branch: main
-    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
-  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
+    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
+  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-01T00:00:00+03:00'
         end_time: '2026-05-01T06:30:00+03:00'
-      - title: Hartaita säveliä
-        start_time: '2026-05-01T06:30:50+03:00'
-        end_time: '2026-05-01T06:50:00+03:00'
-      - title: Aamuhartaus
-        start_time: '2026-05-01T06:50:00+03:00'
-        end_time: '2026-05-01T06:59:59+03:00'
-        description: |-
-          Maanantaista lauantaihin
       - title: Yle Uutiset ja sää
         start_time: '2026-05-01T08:00:00+03:00'
-        end_time: '2026-05-01T08:07:00+03:00'
+        end_time: '2026-05-01T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-05-01T08:05:00+03:00'
+        end_time: '2026-05-01T08:25:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-05-01T08:25:00+03:00'
+        end_time: '2026-05-01T08:35:00+03:00'
+        description: |-
+          Maanantaista lauantaihin
       - title: 'Yle Uutiset '
         start_time: '2026-05-01T09:00:00+03:00'
         end_time: '2026-05-01T09:03:00+03:00'
@@ -55,8 +55,14 @@ data:
         description: |-
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
       - title: Radio 1:n iltapäivä
-        start_time: '2026-05-01T13:30:00+03:00'
+        start_time: '2026-05-01T13:00:00+03:00'
+        end_time: '2026-05-01T14:00:00+03:00'
+      - title: Kotimainen konsertti
+        start_time: '2026-05-01T14:00:00+03:00'
         end_time: '2026-05-01T15:00:00+03:00'
+      - title: Taiteilijatapaaminen
+        start_time: '2026-05-01T15:10:00+03:00'
+        end_time: '2026-05-01T15:55:00+03:00'
       - title: Yle News
         start_time: '2026-05-01T15:55:00+03:00'
         end_time: '2026-05-01T15:58:00+03:00'
@@ -68,11 +74,9 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-05-01T16:07:00+03:00'
         end_time: '2026-05-01T16:59:00+03:00'
-      - title: Uutispodcast
+      - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2026-05-01T17:00:00+03:00'
         end_time: '2026-05-01T17:20:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-01T17:20:00+03:00'
         end_time: '2026-05-01T17:35:00+03:00'
@@ -92,18 +96,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-01T19:00:00+03:00'
         end_time: '2026-05-01T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Hietsu is Happening! nro 62: Jokainen HiH!-minen on laulun arvoinen'
         start_time: '2026-05-01T19:02:00+03:00'
         end_time: '2026-05-01T21:00:00+03:00'
-      - title: Kotimainen konsertti
-        start_time: '2026-05-01T19:02:00+03:00'
-        end_time: '2026-05-01T21:00:00+03:00'
-      - title: 'Politiikkaradio '
+        description: |
+          Varaslähtönä kesään kuullaan uusintana Hietsu is Happening! -kesäkonsertti kesäkuulta 2025. Konsertin ohjelmisto on komea kattaus klassista, jazzia ja kansanmusiikkia. On sooloa, duoa, trioa, kvartettia ja ilta huipentuu, kun koko porukasta kootaan lopussa suuri Hietsun Orkesteri. Veikko Lavin hengessä käymme löysin rantein silakka-apajalle ja jokainen HiH!-minen todellakin on laulun arvoinen! Uusinta, ensilähetys 11.6.2025
+      - title: Taiteilijatapaaminen
         start_time: '2026-05-01T21:00:00+03:00'
-        end_time: '2026-05-01T21:30:00+03:00'
+        end_time: '2026-05-01T21:45:00+03:00'
       - title: Tuuli Saksalan keidas
-        start_time: '2026-05-01T22:26:00+03:00'
-        end_time: '2026-05-01T23:15:00+03:00'
+        start_time: '2026-05-01T22:21:00+03:00'
+        end_time: '2026-05-01T23:10:00+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

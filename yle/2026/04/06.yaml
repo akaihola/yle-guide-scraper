@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-03-31T03:08:28.270891+00:00'
+  generated_at: '2026-04-01T03:08:21.912819+00:00'
   git:
     branch: main
-    commit: 77ebdcd8de362a6b84fbc8c7a51a7f0b49b0ebab
-  data_hash: 9a2fe39b141f833f616952b1d71aafafb054bc5d17c0e634542a3db8c84049aa
+    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
+  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
 data:
   '':
     programmes:
@@ -129,7 +129,7 @@ data:
           N. klo 14. Maija Kajanto on suosittu hyvän mielen-kirjallisuuden kirjailija. Feel good-kirjojen suosio on noussut huimasti viime vuosina ja sen uskotaan johtuvan mm. rankkojen uutisaiheiden myötä. Kajanto itse kannustaa lukijoita astumaan rohkeasti ulos viihdekaapista. Miia Lahti haastattelee. Ohjelman ensilähetys oli  2.12.2025.
 
 
-      - title: Mikael Konttinen ja Aki Eronen - lentävät laulajat
+      - title: 'Taiteilijatapaaminen: Mikael Konttinen ja Aki Eronen - lentävät laulajat'
         start_time: '2026-04-06T15:00:00+03:00'
         end_time: '2026-04-06T15:55:00+03:00'
         description: |
@@ -225,14 +225,23 @@ data:
           Asianajaja Marko Tuhkanen
           Toimittaja ja käsikirjoittaja: Hannamari Vallila
       - title: 'Tiedeykkönen: Voiko oman läheisen tappajalle antaa anteeksi?'
-        start_time: '2026-04-06T21:01:00+03:00'
-        end_time: '2026-04-06T21:45:29+03:00'
+        start_time: '2026-04-06T21:00:00+03:00'
+        end_time: '2026-04-06T21:44:29+03:00'
         description: |-
           Anteeksiantamisen psykologinen prosessi. Millaista uhrin tai hänen omaistensa on kohdata rikoksentekijä silmästä silmään? 
           Haastateltavina Anne Haikola, Joensuun yliopisto sekä psykologian tohtori Arja Konttila Rikosseuraamuslaitokselta. Toimittajana Minna Korhonen.
-      - title: Taiteilijatapaaminen
-        start_time: '2026-04-06T21:50:00+03:00'
-        end_time: '2026-04-06T22:45:00+03:00'
+      - title: Radio 1 soi
+        start_time: '2026-04-06T21:44:29+03:00'
+        end_time: '2026-04-06T21:50:49+03:00'
+        description: |+
+          Tshaikovski: Canzonetta viulukonsertosta D-duuri (Viktorija Mullova, viulu, ja Bostonin SO/Seiji Ozawa). 
+
+      - title: 'Taiteilijatapaaminen: Mikael Konttinen ja Aki Eronen - lentävät laulajat'
+        start_time: '2026-04-06T21:50:49+03:00'
+        end_time: '2026-04-06T22:44:57+03:00'
+        description: |
+          Taitelijatapaamisessa tartutaan lentokoneen ohjaimiin, ja pohditaan mikä yhdistää ja erottaa laulamista ja lentämistä. Syntyykö lentäessä musiikkia ja toisaalta, onko keikkaillessa ikävä lentämään?
+          Taitelijatapaamisessa vieraana ovat Disco yhtyeestä tuttu lentokapteeni Aki Eronen sekä laulava perämies Mikael Konttinen. Marko Miettinen toimittaa.
       - title: 'Näistä levyistä en luovu: Markus Sarantola'
         start_time: '2026-04-06T22:45:30+03:00'
         end_time: '2026-04-06T23:39:37+03:00'
