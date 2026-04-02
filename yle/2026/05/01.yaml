@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-01T03:08:27.709451+00:00'
+  generated_at: '2026-04-02T03:07:59.928805+00:00'
   git:
     branch: main
-    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
-  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
+    commit: db1174076fd30e38cdec1f18e08f0307dbe8abd6
+  data_hash: d064cf7a08392b89960d700eacc05a4e0f1ddf271075aff40792893b657226e8
 data:
   '':
     programmes:
@@ -57,9 +57,29 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-05-01T13:00:00+03:00'
         end_time: '2026-05-01T14:00:00+03:00'
-      - title: Kotimainen konsertti
+      - title: Helsingin kaupunginorkesterin vappumatinea
         start_time: '2026-05-01T14:00:00+03:00'
         end_time: '2026-05-01T15:00:00+03:00'
+        description: |-
+          Mitä olisi stadilainen vappu ilman Mantan lakitusta, piknikkiä Ullanlinnanmäellä tai Helsingin kaupunginorkesterin vappumatineaa? Tänä vuonna vappuhuiskat heilahtelevat tähtisolisti Maria Ylipään tahdittamina.
+
+          Helsingin kaupunginorkesteri
+          Maria Ylipää
+          Thomas Bugnot
+          Víctor Álvarez Alegría
+
+          Richard Wagner: Lohengrin, III näytöksen alkusoitto
+          Kurt Weill (sov./arr. Marzi Nyman): Puukko-Mackie Kolmen pennin oopperasta
+          Max Raabe (sov./arr. Sampo Kasurinen): Ein Tag wie Gold
+          Friedrich Hollaender (sov./arr. Marzi Nyman): Kleptomaani
+          Jaques Brel (sov./arr. Marzi Nyman): Ala vetää vaan
+          Ricardo Mollá: Diamond hands
+          Monica Zetterlund (sov./arr. Sampo Kasurinen): Oodi Helsingille
+          Gualtiero Malgoni (sov./arr. Timo Hietala): Hopeinen kuu
+          Glanzberg Norbert/Henri Content (sov./arr. Marzi Nyman): Padam, padam
+          Christian F. Kress: Porilaisten marssi (sov./arr. Robert Kajanus)
+
+          Kuva: Maria Ylipää / ©Juliana Harkki
       - title: Taiteilijatapaaminen
         start_time: '2026-05-01T15:10:00+03:00'
         end_time: '2026-05-01T15:55:00+03:00'
@@ -92,7 +112,8 @@ data:
         start_time: '2026-05-01T18:50:00+03:00'
         end_time: '2026-05-01T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          "Tämä oli todella Jumalan Poika"
+          Kevään perjantai-illoissa toiminnanjohtaja Kalle Virta Kansan Raamattuseurasta tarjoaa kirjeitä pääsiäisen todistajille. Neljännessä jaksossa puhutellaan Jeesuksen tuomiota ja kuolemaa todistanutta sadanpäämiestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-01T19:00:00+03:00'
         end_time: '2026-05-01T19:02:00+03:00'

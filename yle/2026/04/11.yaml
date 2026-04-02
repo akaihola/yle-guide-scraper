@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-01T03:08:23.136428+00:00'
+  generated_at: '2026-04-02T03:07:56.355259+00:00'
   git:
     branch: main
-    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
-  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
+    commit: db1174076fd30e38cdec1f18e08f0307dbe8abd6
+  data_hash: d064cf7a08392b89960d700eacc05a4e0f1ddf271075aff40792893b657226e8
 data:
   '':
     programmes:
@@ -92,9 +92,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-11T12:00:00+03:00'
         end_time: '2026-04-11T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Bergmanin Talven valoa – Kun Jumala vaikenee'
         start_time: '2026-04-11T12:05:00+03:00'
         end_time: '2026-04-11T13:00:00+03:00'
+        description: |
+          Mitä tapahtuu, kun pappi menettää uskonsa Jumalaan ja kyvyn rakastaa?
+
+          Maailma tarinoina pureutuu Ingmar Bergmanin mestariteokseen Talven valoa (1963), joka on raastava kuvaus yksinäisyydestä, uskon kriisistä ja myötätunnon kaipuusta. Vaikka elokuva on yli 60 vuotta vanha, sen teemat ahdistuksesta, pelosta ja rakkaudettomuudesta ovat polttavan ajankohtaisia.
+
+          Elokuvaohjaaja ja käsikirjoittaja Arto Koskinen ja väitöskirjatutkija Niina Maskulin keskustelevat Marja Vehkasen kanssa siitä, miksi Jumalan hiljaisuus puhutteli Bergmania ja mikä on ihmisen toivo maailmassa, joka tuntuu kylmenevän.
       - title: 'Näistä levyistä en luovu: muusikko Osmo Ikonen'
         start_time: '2026-04-11T13:00:00+03:00'
         end_time: '2026-04-11T13:55:00+03:00'
@@ -188,7 +194,8 @@ data:
         start_time: '2026-04-11T18:01:00+03:00'
         end_time: '2026-04-11T18:10:00+03:00'
         description: |-
-          Pastori Virpi Sillanpää-Posio, Oulu
+          "Suuren Kutojan käsissä"
+          Lauantai-illan rukoushetkessä pastori Virpi Sillanpää-Posio Oulusta puhuu suomalaisen perinnetekstiili ryijyn kantamista merkityksistä ja elämän opeista.
       - title: Lauantain toivotut levyt
         start_time: '2026-04-11T18:10:00+03:00'
         end_time: '2026-04-11T19:00:00+03:00'
@@ -197,11 +204,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-11T19:00:00+03:00'
         end_time: '2026-04-11T19:02:00+03:00'
-      - title: Sävel on vapaa / 09 - 144 800
+      - title: Etnomusiikin Sävel on vapaa / 09 - 144 800
         start_time: '2026-04-11T19:02:00+03:00'
         end_time: '2026-04-11T21:00:00+03:00'
         description: |-
-          Juontajina... Ohjelman suunnittelusta vastaa...
+          Ohjelman juontavat romanimusiikin asiantuntija, laulaja Anette Åkerlund sekä musiikkitoimittaja Mika Kauhanen. Ohjelman suunnittelusta vastaa Annina Aho. Toivekonsertin puhelinlinjat aukeavat lähetyspäivän iltana klo 18. Soita numeroon 09-144 800 tai lähetä Whatsapp-viesti numeroon 044-5144 800.
       - title: Uutispodcast
         start_time: '2026-04-11T21:01:00+03:00'
         end_time: '2026-04-11T21:25:00+03:00'

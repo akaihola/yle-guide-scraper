@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-01T03:08:22.571622+00:00'
+  generated_at: '2026-04-02T03:07:55.995944+00:00'
   git:
     branch: main
-    commit: fbfc471bb752c73c6c1c64dee66525d116a439b6
-  data_hash: e630af60f9a6505d0a1e7d65dc38b05b92ba2a4fad8c1461c40c5472eab1b6ef
+    commit: db1174076fd30e38cdec1f18e08f0307dbe8abd6
+  data_hash: d064cf7a08392b89960d700eacc05a4e0f1ddf271075aff40792893b657226e8
 data:
   '':
     programmes:
@@ -61,13 +61,15 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-09T08:07:00+03:00'
         end_time: '2026-04-09T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies
       - title: 'Yle Uutiset '
         start_time: '2026-04-09T09:00:00+03:00'
         end_time: '2026-04-09T09:03:00+03:00'
       - title: Onnenrasia
         start_time: '2026-04-09T09:04:00+03:00'
         end_time: '2026-04-09T09:59:00+03:00'
-        description: |+
+        description: |
           Renis: Quando quando quando (Connie Francis).
           Chydenius: Jos rakastat (Kristiina Halkola).
           Raab: Björkens visa (Hootenanny Singers).
@@ -85,6 +87,7 @@ data:
           Pomus/Shuman: Saanhan viimeisen tanssin (Rauli 'Badding' Somerjoki).
           Ocasek: Drive (The Cars).
 
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Vieraana muusikko, lauluntekijä Samuli Putro'
         start_time: '2026-04-09T10:00:00+03:00'
         end_time: '2026-04-09T10:53:00+03:00'
@@ -104,15 +107,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-09T12:00:00+03:00'
         end_time: '2026-04-09T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Bergmanin Talven valoa – Kun Jumala vaikenee'
         start_time: '2026-04-09T12:05:00+03:00'
         end_time: '2026-04-09T13:00:00+03:00'
+        description: |
+          Mitä tapahtuu, kun pappi menettää uskonsa Jumalaan ja kyvyn rakastaa?
+
+          Maailma tarinoina pureutuu Ingmar Bergmanin mestariteokseen Talven valoa (1963), joka on raastava kuvaus yksinäisyydestä, uskon kriisistä ja myötätunnon kaipuusta. Vaikka elokuva on yli 60 vuotta vanha, sen teemat ahdistuksesta, pelosta ja rakkaudettomuudesta ovat polttavan ajankohtaisia.
+
+          Elokuvaohjaaja ja käsikirjoittaja Arto Koskinen ja väitöskirjatutkija Niina Maskulin keskustelevat Marja Vehkasen kanssa siitä, miksi Jumalan hiljaisuus puhutteli Bergmania ja mikä on ihmisen toivo maailmassa, joka tuntuu kylmenevän.
       - title: Politiikkaradio
         start_time: '2026-04-09T13:00:00+03:00'
         end_time: '2026-04-09T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Nina Tapio – ääni, joka taipuu mihin tahansa'
         start_time: '2026-04-09T13:30:00+03:00'
         end_time: '2026-04-09T15:00:00+03:00'
+        description: |-
+          Juontajana Miia Lahti.
+
+          Nina Tapio on laulaja, jonka ääni on yksi Suomen tunnetuimmista kevyen musiikin äänistä. Hän ollut mukana nuoruutensa Taikapeili-duossa, Adiemus-ryhmässä ja Rajattomassa. Hän on esiintynyt teatterissa, Euroviisujen taustalaulajana, tehnyt paljon erilaisia soolo-projekteja ja näytellyt ääninäyttelijänä lukuisissa animaatioelokuvissa. Nyt NinaTapiolla on menossa projekti nimeltä "Lohdun lauluja". Nina Tapio on studiovieraana  n. klo 14.
+
+          N. klo 14:30 Ohjaaja, koreografi Marco Bjurström kertoo toimittaja Malmiselle, miten hänen uskonsa suomalaiseen teatteriin nousi uudelle tasolle Kansallisteatterin Täällä Pohjantähden alla -näytelmän takia. 
       - title: Kulttuuriykkönen
         start_time: '2026-04-09T15:00:00+03:00'
         end_time: '2026-04-09T15:55:00+03:00'
@@ -169,6 +184,8 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-04-09T18:25:00+03:00'
         end_time: '2026-04-09T18:35:00+03:00'
+        description: |
+          Ajallemme on tyypillistä, että psykologista tietoa tarjoillaan meille kaikkialta. Pyrimme kehittämään itseämme lisäämällä ymmärrystämme ihmismielen toiminnasta. Ongelma on vain siinä, että kaikki psykologiaan liittyvä niin sanottu terapiapuhe, mitä somessa ja mediassa pyörii, ei ole totta. Voidaan puhua jopa tiedemyyteistä, joille kukaan meistä ei ole immuuni.. Sari Valto tapasi psykologi Minna Miaon. 
       - title: Hartaita säveliä
         start_time: '2026-04-09T18:35:00+03:00'
         end_time: '2026-04-09T18:50:00+03:00'
