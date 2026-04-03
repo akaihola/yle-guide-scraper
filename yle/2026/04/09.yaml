@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-02T03:07:55.995944+00:00'
+  generated_at: '2026-04-03T03:08:03.183776+00:00'
   git:
     branch: main
-    commit: db1174076fd30e38cdec1f18e08f0307dbe8abd6
-  data_hash: d064cf7a08392b89960d700eacc05a4e0f1ddf271075aff40792893b657226e8
+    commit: 60cf98e520160534616151542439af41d4328272
+  data_hash: ee2501f76666e1ce393e334f6012256f7ef66f73706fa56a71b9632019ed33be
 data:
   '':
     programmes:
@@ -96,7 +96,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-09T10:53:00+03:00'
         end_time: '2026-04-09T11:00:00+03:00'
-      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Hienovaraisia poikkeamia'
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Välitiloissa'
         start_time: '2026-04-09T11:00:00+03:00'
         end_time: '2026-04-09T11:57:00+03:00'
         description: |-
@@ -104,6 +104,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-04-09T11:57:00+03:00'
         end_time: '2026-04-09T12:00:00+03:00'
+        description: |-
+          Mikael Agricolan ja suomen kielen päivänä mietelauseena Mikael Agricolan runo Rukouskirian esipuhe.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-09T12:00:00+03:00'
         end_time: '2026-04-09T12:05:00+03:00'
@@ -115,7 +117,7 @@ data:
 
           Maailma tarinoina pureutuu Ingmar Bergmanin mestariteokseen Talven valoa (1963), joka on raastava kuvaus yksinäisyydestä, uskon kriisistä ja myötätunnon kaipuusta. Vaikka elokuva on yli 60 vuotta vanha, sen teemat ahdistuksesta, pelosta ja rakkaudettomuudesta ovat polttavan ajankohtaisia.
 
-          Elokuvaohjaaja ja käsikirjoittaja Arto Koskinen ja väitöskirjatutkija Niina Maskulin keskustelevat Marja Vehkasen kanssa siitä, miksi Jumalan hiljaisuus puhutteli Bergmania ja mikä on ihmisen toivo maailmassa, joka tuntuu kylmenevän.
+          Elokuvaohjaaja ja käsikirjoittaja Arto Koskinen ja väitöskirjatutkija Nina Maskulin keskustelevat Marja Vehkasen kanssa siitä, miksi Jumalan hiljaisuus puhutteli Bergmania ja mikä on ihmisen toivo maailmassa, joka tuntuu kylmenevän.
       - title: Politiikkaradio
         start_time: '2026-04-09T13:00:00+03:00'
         end_time: '2026-04-09T13:30:00+03:00'
@@ -128,11 +130,11 @@ data:
           Nina Tapio on laulaja, jonka ääni on yksi Suomen tunnetuimmista kevyen musiikin äänistä. Hän ollut mukana nuoruutensa Taikapeili-duossa, Adiemus-ryhmässä ja Rajattomassa. Hän on esiintynyt teatterissa, Euroviisujen taustalaulajana, tehnyt paljon erilaisia soolo-projekteja ja näytellyt ääninäyttelijänä lukuisissa animaatioelokuvissa. Nyt NinaTapiolla on menossa projekti nimeltä "Lohdun lauluja". Nina Tapio on studiovieraana  n. klo 14.
 
           N. klo 14:30 Ohjaaja, koreografi Marco Bjurström kertoo toimittaja Malmiselle, miten hänen uskonsa suomalaiseen teatteriin nousi uudelle tasolle Kansallisteatterin Täällä Pohjantähden alla -näytelmän takia. 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Roland Barthes ja valokuva - yhä yhdessä'
         start_time: '2026-04-09T15:00:00+03:00'
         end_time: '2026-04-09T15:55:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Ranskalainen kirjallisuudentutkija ja esseisti Roland Barthes kirjoitti uransa loppuvaiheessa tutkielman valokuvasta. Valoisa huone (1979) suomennettiin ensimmäisen kerran jo muutamaa vuotta myöhemmin. Teoksella on ollut suuri merkitys valokuvataiteen piirissä, missä sitä on luettu ja tulkittu ahkerasti. Kirjan julkaisemisen jälkeen valokuva on vakiinnuttanut asemansa hyväksyttynä taiteenlajina perinteisempien ilmaisutapojen, kuten maalaiustaiteen, kuvanveiston tai taidegrafiikan joukossa. Lisäksi valokuvan tekninen toteutustapa on muuttunut digitaaliseksi niin itse valokuvaamisen, kuin kuvien tulostamisenkin osalta. Toisaalta Barthesin työtä koskeva tutkimus ja kriittinen keskustelu ovat olleet vilkasta. Kulttuuriykkösessä keskustellaan siitä, miten maaliskuussa julkaistu uusi suomennos Valoisasta huoneesta päivittää käsityksiämme Barthesista valokuvan teoreetikkona. Haastateltavina suomennoksen tekijät, valoikuvauksen lehtori ja kirjailija Hanna Weselius sekä professori Marjaana Kella. Toimittajana on Jonni Roos.
       - title: Yle News
         start_time: '2026-04-09T15:55:00+03:00'
         end_time: '2026-04-09T15:58:00+03:00'
@@ -209,33 +211,14 @@ data:
         end_time: '2026-04-09T19:02:00+03:00'
       - title: 'Jazzklubin viikon keikka: Mäensivu – Berliner – McCabe – Wiening April Jazz -festivaalilla.'
         start_time: '2026-04-09T19:02:00+03:00'
-        end_time: '2026-04-09T20:00:00+03:00'
+        end_time: '2026-04-09T20:23:00+03:00'
         description: |
           Äänitetty Espoon Louhisalissa 24.4.2025.
-      - title: Kansainvälisen romanipäivän Klassinen kattaus
-        start_time: '2026-04-09T20:00:00+03:00'
-        end_time: '2026-04-09T20:57:00+03:00'
-        description: |+
-          Anonyymi 1600-l (sov. Lawrence-King): The Spanish jepsies (The Harp Consort/Andrew Lawrence-King, harppu).
-
-          Schmelzer: Balletto n:o 1 di zingari d-molli (Ars Antiqua Austria/Gunar Letzbor).
-
-          Kaksi romanialaista kansansävelmää (Hespèrion XXI/Jordi Savall).
-
-          Anonyymi, kok. Uhrovska 1730 (sov. Maute): Visel som (Ensemble Caprice/Matthias Maute, barokkiviulu).
-
-          Hubay: Csárdá-kohtaus n:o 1 (Hagai Shaham, viulu, ja Arnon Erez, piano).
-
-          Dinicu: Hora staccato (Jelizaveta Gilels, viulu, ja Abram Makarov, piano).
-
-          Járóka: Fekete gyemantok (Mustia timantteja) (I Salonisti).
-
-          Kodály: Viimeinen osa teoksesta Tansseja Galántasta (Berliinin filharmonikot/Victor de Sabata).
-
-          Dvorák: Lauloi mulle äiti muinoin (Pavol Breslik, tenori, ja Robert Pechanec, piano).
-
+      - title: Musiikkikamari
+        start_time: '2026-04-09T20:23:00+03:00'
+        end_time: '2026-04-09T21:00:00+03:00'
       - title: 'Politiikkaradio '
-        start_time: '2026-04-09T21:00:01+03:00'
+        start_time: '2026-04-09T21:00:00+03:00'
         end_time: '2026-04-09T21:30:00+03:00'
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia'
         start_time: '2026-04-09T22:31:00+03:00'
@@ -259,11 +242,11 @@ data:
           Äänisuunnittelu: Hanna-Helena Kinnunen
           Musiikki: Tatu Nenonen ja Epidemic Sound
           Tuotanto: Laura Jaakkola, Yle Draama, 2024.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Välitiloissa'
         start_time: '2026-04-09T23:01:00+03:00'
         end_time: '2026-04-09T23:57:00+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-04-10T00:00:00+03:00'
         end_time: '2026-04-10T06:30:00+03:00'
