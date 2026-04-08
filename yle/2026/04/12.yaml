@@ -1,20 +1,33 @@
 metadata:
-  generated_at: '2026-04-07T03:08:04.941694+00:00'
+  generated_at: '2026-04-08T03:08:12.671419+00:00'
   git:
     branch: main
-    commit: e1cac0dfb1662e3b52be19244bc170faa06235ff
-  data_hash: e1041a498f2192d638e22134a219ea4475c54b1716e1c9631e8c076f12834c36
+    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
+  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-04-11T23:40:00+03:00'
         end_time: '2026-04-12T07:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Il Distratto! Haydnin hajamielinen sinfonia puijaa meitä!'
         start_time: '2026-04-12T07:00:30+03:00'
         end_time: '2026-04-12T07:57:00+03:00'
-        description: |-
+        description: |
+          Voiko sinfonia olla hajamielinen? Tai voiko sillä olla rooli näytelmässä? Jospeh Haydn on säveltänyt sinfonian, jonka tuoksinnassa äiti määrää tytärtä, herra ei muista häitään, ja kaikki on sekaisin. Miten asia ratkaistaan musiikissa?
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikki:
+
+          Joseph Haydn: Sinfonia no 60 C-duuri "Il Distratto" 
+          1. Adagio - Allegro di molto
+          2. Andante
+          3. Menuetti - Trio
+          4. Presto
+          5. Adagio - Allgero
+          6. Finale3 - Prestissimo
+          (Il Giardino Armonico/Giovanni Antonini).
       - title: Yle Uutiset ja sää
         start_time: '2026-04-12T08:00:00+03:00'
         end_time: '2026-04-12T08:05:05+03:00'
@@ -40,21 +53,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-12T11:00:00+03:00'
         end_time: '2026-04-12T11:59:00+03:00'
-        description: |-
+        description: |
           Resnick/Young: Under the boardwalk (Drifters).
-          Hatch/Pallavicini: Ciao ciao (Petula Clark).
+          Hatch: Ciao ciao (Petula Clark).
           Bernstein: Somewhere (Tom Waits).
-          Lecuona: Malaguena (Wiola Talvikki).
+          Lecuona: Malagueña (Wiola Talvikki).
           Simon: Istanbul (Onni Gideon).
           Bart: From Russia with love (Matt Monro).
-          Brubeck: Blue rondo a la Turk (The Dave Brubeck Quartet).
+          Brubeck: Blue rondo à la Turk (The Dave Brubeck Quartet).
           Reed/Rae: Pilvi taivaan peittää (Pepe Willberg).
           Bacharach: Iät ja ajat (Eija Merilä).
           Bacharach: The look of love (Diana Krall).
           Bacharach: Sogni proibiti (Ornella Vanoni). 
           McDonald/Loggins: What a fool believes (The Doobie Brothers).
           Paich: Georgy Porgy (Toto).
-          Gershwin: But Not For Me (Miles Davis).
+          Gershwin: But not for me (Miles Davis).
 
           Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
@@ -162,11 +175,15 @@ data:
         end_time: '2026-04-12T23:17:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Romano mirits
+      - title: 'Romano mirits: Musiikki juurista voimaa – Anette Åkerlundin elämänmyönteinen tarina'
         start_time: '2026-04-12T23:26:00+03:00'
         end_time: '2026-04-12T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |
+          Romano Mirits-ohjelmassa kuullaan tällä kertaa laulaja ja taiteen parissa monipuolisesti työskentelevä Anette Åkerlund. Haastattelussa Åkerlund kertoo lämpimästi ja iloisesti omasta polustaan musiikin pariin. Kiinnostus laulamiseen ja taiteeseen sai alkunsa jo lapsuudessa, kun kotona musiikki ja kulttuuri olivat vahvasti läsnä vanhempien kautta.
+
+          Keskustelussa Åkerlund pohtii myös romanikulttuurin merkitystä elämässään sekä sitä, miten tärkeää romanikielen säilyminen on tuleville sukupolville. Hänen toiveensa on, että yhä useampi romaninuori oppisi ja käyttäisi romanikieltä ylpeästi osana omaa identiteettiään. Haastattelusta välittyy elämänmyönteinen ja inspiroiva näkökulma taiteeseen, kulttuuriin ja omiin juuriin. 
+
+          Toimittajana Dimitri Grönfors. 
       - title: Yöklassinen
         start_time: '2026-04-12T23:40:00+03:00'
         end_time: '2026-04-13T06:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-07T03:08:09.119465+00:00'
+  generated_at: '2026-04-08T03:08:19.099426+00:00'
   git:
     branch: main
-    commit: e1cac0dfb1662e3b52be19244bc170faa06235ff
-  data_hash: e1041a498f2192d638e22134a219ea4475c54b1716e1c9631e8c076f12834c36
+    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
+  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
 data:
   '':
     programmes:
@@ -50,6 +50,11 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-05-02T10:00:00+03:00'
         end_time: '2026-05-02T10:25:00+03:00'
+      - title: 'Lehmitytöt 1944 J3: Nyt väsyvät lehmät ja niiden ajajat'
+        start_time: '2026-05-02T10:25:00+03:00'
+        end_time: '2026-05-02T10:47:00+03:00'
+        description: |
+          Juhannusta vietetään apeissa tunnelmissa.  Viipurin menetys lisää pelkoa, mitä seuraavaksi? Koivistosta lähteneen 15-vuotiaan Lahjan vastuulla ovat perheen lehmät Käki ja Oma. Kengät kuluvat puhki ja sorkat ovat verillä. Matkalaiset väsyvät, mutta levätä ei ehdi, kun vihollinen lähestyy. Lehmitytöt ovat omillaan eikä tarjolla ole varusteita tai ruokaa. Yöt vietetään ladoissa ja taivasalla. 
       - title: Virtasen taloushistoria
         start_time: '2026-05-02T11:00:00+03:00'
         end_time: '2026-05-02T11:52:00+03:00'
@@ -82,9 +87,11 @@ data:
         end_time: '2026-05-02T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Viihdekuunnelma
+      - title: 'Radioteatteri esittää: Kauhua ja kihlauksia'
         start_time: '2026-05-02T15:00:00+03:00'
         end_time: '2026-05-02T15:25:00+03:00'
+        description: |-
+          Osa 6/10. Jane Austenin Northanger Abbey.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-02T15:25:00+03:00'
         end_time: '2026-05-02T15:30:00+03:00'
