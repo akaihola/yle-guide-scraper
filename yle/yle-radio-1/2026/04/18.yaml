@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-07T03:08:06.049699+00:00'
+  generated_at: '2026-04-08T03:08:14.457588+00:00'
   git:
     branch: main
-    commit: e676d6936f6182e933ea8003115ddc641f6157cd
-  data_hash: e1041a498f2192d638e22134a219ea4475c54b1716e1c9631e8c076f12834c36
+    commit: 5a1e79b3ce5dfc457bae3fc149ede91699022582
+  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
 data:
   Yle Radio 1:
     programmes:
@@ -52,7 +52,7 @@ data:
         end_time: '2026-04-18T10:25:00+03:00'
       - title: 'Lehmitytöt 1944 J1: Lehmiä ei jätetä!'
         start_time: '2026-04-18T10:25:00+03:00'
-        end_time: '2026-04-18T11:00:00+03:00'
+        end_time: '2026-04-18T10:55:00+03:00'
         description: |
           18-vuotias Annikki on muonitustöissä keskisellä kannaksella, kun Neuvostoliiton suurhyökkäys alkaa. Neljä nuorta saa käteensä kepin ja 200-päisen nimettömän lehmälauman, joka pitää ajaa satojen kilometrien päähän Savonlinnaan. 13-vuotias Eila lähtee Säkkijärveltä pakoon Ville-vasikkansa ja Rusina-lehmän kanssa, kun puna-armeija vyöryy päälle. Puoliorvon tytön isoäiti katoaa jo alkumatkasta. 
       - title: 'Virtasen taloushistoria: T-Fordista Mustangiin ja sähköponiin, Suomen Ford 100 vuotta'
@@ -87,9 +87,11 @@ data:
         end_time: '2026-04-18T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Viihdekuunnelma
+      - title: 'Radioteatteri esittää: Kauhua ja kihlauksia'
         start_time: '2026-04-18T15:00:00+03:00'
         end_time: '2026-04-18T15:25:00+03:00'
+        description: |-
+          Osa 4/10. Jane Austenin Northanger Abbey.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-18T15:25:00+03:00'
         end_time: '2026-04-18T15:30:00+03:00'
