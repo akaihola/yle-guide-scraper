@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-08T03:08:13.441265+00:00'
+  generated_at: '2026-04-09T03:07:55.985929+00:00'
   git:
     branch: main
-    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
-  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
+    commit: 90e30fb746c859f28af229b969bc2de1f90e8009
+  data_hash: a37fcf237d57a538fe34a8835ea5043c45ea5f19db856a36f1dbb2013dff969b
 data:
   '':
     programmes:
@@ -65,15 +65,37 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-15T08:07:00+03:00'
         end_time: '2026-04-15T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-04-15T09:00:00+03:00'
         end_time: '2026-04-15T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-04-15T09:04:00+03:00'
         end_time: '2026-04-15T09:59:00+03:00'
-      - title: Havaintoja muutoksesta
+        description: |
+          Burke: Black coffee (Peggy Lee).
+          Brel/Jouannest: La chanson des vieux amants (Jacques Brel).
+          Parks: Somethin' stupid (Nancy Sinatra ja Frank Sinatra).
+          Woods: Kevättuulella (Laila Kinnunen).
+          Ellington: It don't mean a thing (if it ain't got that swing) (The Boswell Sisters). 
+          Bacharach: Nyt herään öisin (Jukka Kuoppamäki).
+          Mourao-Ferreira/Rodrigues: Primavera (Mariza).
+          Bizet: L'amour est un oiseau rebelle (Glenn Miller Orchestra).
+          Kalmar/Ruby: A kiss to build a dream on (Louis Armstrong).
+          Parra: Kun palaan nuoruuteeni (Liisa Tavi).
+          Kärki: Märkää asfalttia (Kyösti Mäkimattila).
+          Barry: Goldfinger (Shirley Bassey).
+          Steinberg/D'Ubaldo/Nowels: Yks ja yks (Saimaa).
+          Jobim/Ferreira: Samba de uma nota só - Recado bossa nova (Leroy Holmes).
+
+          Konsertin on laatinut Tuuli Saksala.
+      - title: 'Havaintoja muutoksesta: Suhteemme kuluttamiseen ja vaatteisiin'
         start_time: '2026-04-15T10:00:00+03:00'
         end_time: '2026-04-15T10:50:00+03:00'
+        description: |
+          Ylikulutus on suomalaisessakin kulutuskulttuurissa normi. Opitut mallit, rutiinit ja kokemukset vaikuttavat siihen millaisia kulutusvalintoja teemme. Mainonta- ja markkinointi eri alustoilla synnyttää myös turhia tarpeita ja kannustaa ylikuluttamiseen. Vastuullisesti tuotetut vaatteet maksavat aina lähtökohtaisesti enemmän. Kirpputorilla myytävistä vaatteista ainakin osa on ihan uusien vaatteiden hintaluokassa. Kulutuskulttuuria myös vastustetaan eri tavoin korjaamalla vanhoja vaatteita ja ylipäätään pitämällä vaatemäärät maltillisina. Mitkä kaikki seikat vaikuttavat kuluttamiseemme? 
+          Toimittaja Satu Kivelän vieraana yliopistotutkija Essi Pöyry Kuluttajatutkimuskeskuksesta ja Tekstiili & Muoti ry:n toimitusjohtaja Marja-Liisa Permikangas.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-15T10:50:00+03:00'
         end_time: '2026-04-15T11:00:00+03:00'
@@ -96,9 +118,13 @@ data:
       - title: Politiikkaradio
         start_time: '2026-04-15T13:00:00+03:00'
         end_time: '2026-04-15T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Jukka Haapalainen - kurinalaisuutta, kunnianhimoa ja nollatoleranssi kiusaamiselle'
         start_time: '2026-04-15T13:30:00+03:00'
         end_time: '2026-04-15T15:00:00+03:00'
+        description: |
+          Juontajana Jarmo Laitaneva.
+
+          N. klo 14 haastattelussa tanssija, koreografi ja kilpatanssituomari Jukka Haapalainen, joka on puolisonsa Sirpa Suutari-Jääskön kanssa Suomen menestynein kilpatanssipari. Sekä Suomessa että Englannissa asuva Haapalainen kiertää Eurooppaa tekniikan ja esisintumisen asiantuntijana. Viime vuosina Jukka Haapalainen on tehnyt yhä enemmän töitä myös teattereissa. Hän on tehnyt koreografian kuvataiteililja Touko Laaksosesta kertovan Tom of Finland -musikaaliin, jonka harjoitukset ovat juuri alkaneet Hämeenlinnan teatterissa. Touko Laaksosen tarinaa kuvataan ylpeyden, rohkeuden ja vapauden tarinaksi. Tunteeko Haapalainen itse yhteyttä näihin teemoihin oman uransa kautta? Minkälaisia neuvoja opettaja Jukka Haapalainen antaa oppitunneillaan nuorille tanssinopiskelijolle? Haastattelijana Kati Turtola.
       - title: Kulttuuriykkönen
         start_time: '2026-04-15T15:00:00+03:00'
         end_time: '2026-04-15T15:55:00+03:00'
@@ -179,35 +205,26 @@ data:
         end_time: '2026-04-15T19:02:00+03:00'
       - title: Klassisen musiikin iltakonsertti
         start_time: '2026-04-15T19:02:00+03:00'
-        end_time: '2026-04-15T21:00:00+03:00'
-        description: |
+        end_time: '2026-04-15T20:36:00+03:00'
+        description: |-
           Banffin kansainvälinen jousikvartettikilpailu on yksi maailman arvostetuimmista jousikvartettikilpailuista, joka järjestettiin jo 15. kerran elokuussa 2025. 
-          Joka kolmas vuosi Kanadan Kalliovuorilla toteutettavaan kilpailuun voivat osallistua kvartetit, joiden kaikki soittajat ovat alle 35-vuotiaita. Kilpailu onkin erinomainen ponnahduslauta erityisesti Pohjois-Amerikan musiikkimarkkinoille, sillä voittaja saa paketin, joka sisältää 25 000 Kanadan dollarin rahapalkinnon, kiertueen Euroopassa ja Pohjois-Amerikassa sekä residenssit mm Banffissa sekä Eisenstadtin ja Luzernin festivaaleilla. 
 
-          Vuoden 2025 kilpailun voittajaksi valittiin Cincinnatissa toimiva yhdysvaltalainen Poiesis-kvartetti, jonka jäsenet ovat Sarah Ying Ma, viulu, Max Ball, viulu, Jasper de Boor, alttoviulu, ja Drew Dansby, sello. 
+          Tuolloin kilpailun voittajaksi valittiin Cincinnatissa toimiva yhdysvaltalainen Poiesis-kvartetti, jonka jäsenet ovat Sarah Ying Ma, viulu, Max Ball, viulu, Jasper de Boor, alttoviulu, ja Drew Dansby, sello. 
+
           Euroradion konsertti-illassa kuulemme Poiesis-kvartetin esitykset kilpailun toiseksi viimeiseltä kierrokselta sekä finaalista. 
 
-
-          Ludwig van Beethoven (1770-1827): Andante con moto – Allegro vivace jousikvartetosta nro 9 C-duuri, op. 59/3 “Razumovsky” 
-
-          Béla Bartók (1881-1945): Jousikvartetto nro 5, Sz. 102
-
-          Jerod Impichchaachaaha' Tate (1968): Pisachi (Reveal) 
-
-          Brian Raphael Nabors (1991): Jousikvartetto
-
-          Joe Hisaishi (1950): Phosphorescent Sea -osa jousikvartetosta nro 1
-
-          Kevin Lau (1982): Jousikvartetto nro 7, Surfacing
-
-
-          Esitykset on äänitetty 30. ja 31.8.2025 Banffin kulttuurikeskuksessa, Kanadassa. Ohjelman toimittaa Ainomaija Pennanen. 
+          Ohjelman toimittaa Ainomaija Pennanen. 
       - title: 'Politiikkaradio '
         start_time: '2026-04-15T21:00:00+03:00'
         end_time: '2026-04-15T21:30:00+03:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-04-15T21:31:00+03:00'
         end_time: '2026-04-15T22:20:00+03:00'
+      - title: Nuori Sorjonen - hiljainen uhri J6
+        start_time: '2026-04-15T22:21:00+03:00'
+        end_time: '2026-04-15T23:00:00+03:00'
+        description: |-
+          Kun Sorjonen pureutuu Waltterin kuntoutuskeskuksen tapahtumiin ja rakentaa "muistipalatsiaan", tutkinta saa uuden suunnan ja menneisyyden salaisuuksien vyyhti alkaa avautua. Samaan aikaan kaappaajan vanki on hengenvaarassa ja tutkijaryhmä kohtaa yllättävän käänteen.
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-04-15T23:20:00+03:00'
         end_time: '2026-04-15T23:39:30+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-08T03:08:12.671419+00:00'
+  generated_at: '2026-04-09T03:07:55.215391+00:00'
   git:
     branch: main
-    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
-  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
+    commit: 90e30fb746c859f28af229b969bc2de1f90e8009
+  data_hash: a37fcf237d57a538fe34a8835ea5043c45ea5f19db856a36f1dbb2013dff969b
 data:
   '':
     programmes:
@@ -35,21 +35,33 @@ data:
         start_time: '2026-04-12T08:05:35+03:00'
         end_time: '2026-04-12T08:59:00+03:00'
         description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          Sekä Richard Straussin viimeinen laulu että Béla Bartókin ensimmäinen viulukonsertto pysyivät vuosikymmeniä musiikkimaailmalta pimennossa. Taiteilijat, joille teokset oli omistettu, jemmasivat aarteet visusti. Historiaa ihmettelee Outi Paananen. 
+          (uusinta vuodelta 2022).
       - title: 'Yle Uutiset '
         start_time: '2026-04-12T09:00:00+03:00'
         end_time: '2026-04-12T09:03:00+03:00'
       - title: Aamusoitto
         start_time: '2026-04-12T09:03:00+03:00'
         end_time: '2026-04-12T09:53:00+03:00'
+        description: |+
+          Kohaut: Trietto A-duuri (Lutz Kirchhof, luuttu, Giuliano Carmignola, barokkiviulu, ja Francesco Galligioni, sello).
+
+          C.P.E.Bach: Cembalokonsertto G-duuri (Andreas Staier, cembalo, ja Freiburgin barokkiorkesteri/Petra Muellejans).  
+
+          Molter: Sinfonia A-duuri (Main-Barockorchester Frankfurt/Martin Jopp, viulu).
+
+          Kapsperger: Toccata n:o 2 (Toccata arpeggiata) (Hank Heijink, teorbi).
+
+          Telemann: Sonaatti huilulle ja continuolle G-duuri (Frans Brüggen, nokkahuilu, Anner Bylsma, sello, ja Gustav Leonhardt, cembalo).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-04-12T09:56:00+03:00'
         end_time: '2026-04-12T09:59:00+03:00'
       - title: Sohvakirkko Viikin kirkosta Helsingistä
         start_time: '2026-04-12T10:00:00+03:00'
         end_time: '2026-04-12T10:59:20+03:00'
-        description: |
-          Sohvakirkko Viikin kirkosta Helsingistä
+        description: |-
+          Sohvakirkossa kutsumuksesta ovat keskustelemassa teologian opiskelijat ja muusikot Virpi Kätkä ja Jyrki Linnankivi. Liturgi-juontajina toimivat Elina Vaittinen ja Kristiina Hyppölä. Muusikot: Make Perttilä, kitarat ja laulu, Teri Mantere, piano ja laulu, Kukka Lehto, viulu ja laulu, Jyrki Linnankivi, laulu sekä Pekko Käppi, jouhikko.
       - title: Muistojen bulevardi
         start_time: '2026-04-12T11:00:00+03:00'
         end_time: '2026-04-12T11:59:00+03:00'

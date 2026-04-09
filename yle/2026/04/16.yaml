@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-08T03:08:13.939867+00:00'
+  generated_at: '2026-04-09T03:07:56.251189+00:00'
   git:
     branch: main
-    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
-  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
+    commit: 90e30fb746c859f28af229b969bc2de1f90e8009
+  data_hash: a37fcf237d57a538fe34a8835ea5043c45ea5f19db856a36f1dbb2013dff969b
 data:
   '':
     programmes:
@@ -60,15 +60,37 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-16T08:07:00+03:00'
         end_time: '2026-04-16T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-04-16T09:00:00+03:00'
         end_time: '2026-04-16T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-04-16T09:04:00+03:00'
         end_time: '2026-04-16T09:59:00+03:00'
+        description: |
+          Bacharach: Sen drömmer jag en stund om dej (Siw Malmkvist).
+          Essen: Missä yösi vietitkään (Arvi Tikkala).
+          Waller: Ain't misbehavin' (Billie Holiday).
+          Barry: Midnight cowboy (Henry Mancini).
+          Legrand: Windmills of your mind (Dusty Springfield).
+          Davenport/Cooley: Fiebre (La Lupe).
+          Gietz: Mimmi lukee dekkaria sängyssään (Ismo Kallio).
+          Karas: The Harry Lime theme (Anton Karas).
+          Seeger: Turn! Turn! Turn! (The Byrds).
+          Hedkrok: Sateet tulevat (Lapinlahden Linnut).
+          Ferrat/Delecluse: Deux enfants au soleil (Isabelle Aubret).
+          Carmichael: Skylark (Aretha Franklin).
+          Cassano/Argenio/Conti: Amore a primavera (Jimmy Fontana).
+          Tyson: Neljä vahvaa tuulta (Barbara Helsingius).
+          Young: After the gold rush (Neil Young).
+
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Käännekohdissa Sofia Ruija'
         start_time: '2026-04-16T10:00:00+03:00'
         end_time: '2026-04-16T10:53:00+03:00'
+        description: |
+          Kuopiolainen Sofia  Ruija oli 14-vuotias ja tanssinut vasta kaksi vuotta balettia, kun hänet kutsuttiin Suomen Kansallisoopperan balettioppilaitokseen. Hän ilmoitti vanhemmilleen, että muuttaa Helsinkiin. ”En tuntenut Helsingistä ainuttakaan ihmistä, mutta en myöskään epäröinyt lähteä.”  Balettikoululla Sofia nähtiin joka päivä useilla eri tanssitunneilla, mutta siviilielämä oli muihin tanssijoihin verrattuna totaalisen erilainen. ”Minulla oli omaisuus repussa ja perhe toisessa kaupungissa”, Sofia toteaa. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-16T10:53:00+03:00'
         end_time: '2026-04-16T11:00:00+03:00'
@@ -83,17 +105,23 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-16T12:00:00+03:00'
         end_time: '2026-04-16T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Mummola - sukupolvien ja ihanteiden ristivetoa joulupöydässä'
         start_time: '2026-04-16T12:05:00+03:00'
         end_time: '2026-04-16T13:00:00+03:00'
+        description: |-
+          Tia Kouvon elokuva Mummola on rakkaudenosoitus epätäydelliselle perheelle, jossa kaikki yrittävät parhaansa mukaan tulla toimeen toistensa kanssa. Miksi juhlapyhät nostavat esiin perheen jännitteet? Onko nykyinen tunteista puhumisen eetos tai jopa edellytys tie parisuhde- ja perheonneen? Mistä syntyy "virtahepo olohuoneessa" ja miten sen kanssa voi elää? 
+
+          Elokuvan innoittamana perhedynamiikasta, vaikenemisen kulttuurista ja sen purkamisesta keskustelevat Marja Vehkasen kanssa ohjaaja-käsikirjoittaja Tia Kouvo ja  psykoterapeutti, tietokirjailija Katriina Järvinen.
       - title: Politiikkaradio
         start_time: '2026-04-16T13:00:00+03:00'
         end_time: '2026-04-16T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Anna Kortelainen Olavi Paavolaisesta: "Eräänlainen peritty aarre"'
         start_time: '2026-04-16T13:30:00+03:00'
         end_time: '2026-04-16T15:00:00+03:00'
-        description: |2+
-
+        description: |+
+          Radio 1:n iltapäivässä juontajana Miia Lahti.
+          Studiossa vieraana n. klo 14 filosofian tohtori, vapaa tutkija, taidehistorioitsija ja tietokirjailija Anna Kortelainen, joka on käsikirjoittanut Musiikkiteatteri Kapsäkin lavalle esityksen Ilta Rivieralla Olavi Paavolaisen kanssa.Tällä kertaa Kortelainen on myös lavalla, kertojana. Paavolaisen olemus on aina kuulunut Anna Kortelaisen maailmaan aina. Kortelainen itse kertoo: “Eräänlainen peritty aarre, loistelias sekä hahmona että kirjailijana.”
+           Kortelainen kertoo rakastavansa omaa työtään kirjailijana ja taidehistorioitsijana ja että on etuoikeus tehdä työtä, jota rakastaa.
 
       - title: Kulttuuriykkönen
         start_time: '2026-04-16T15:00:00+03:00'

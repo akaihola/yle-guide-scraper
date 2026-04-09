@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-08T03:08:12.940863+00:00'
+  generated_at: '2026-04-09T03:07:55.462411+00:00'
   git:
     branch: main
-    commit: 20eeca1de79837854bdc2d9c2efced5d1a3c08e8
-  data_hash: fc87c3659b3c8c26f1781be25fdcca1ec5a1351d4eda2a4ce0cfa82894d63ae6
+    commit: 90e30fb746c859f28af229b969bc2de1f90e8009
+  data_hash: a37fcf237d57a538fe34a8835ea5043c45ea5f19db856a36f1dbb2013dff969b
 data:
   '':
     programmes:
@@ -63,6 +63,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-13T08:07:00+03:00'
         end_time: '2026-04-13T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-04-13T09:00:00+03:00'
         end_time: '2026-04-13T09:03:00+03:00'
@@ -90,7 +92,7 @@ data:
         start_time: '2026-04-13T10:00:00+03:00'
         end_time: '2026-04-13T10:52:00+03:00'
         description: |-
-          T-Fordista Mustangiin ja sähköponiin, Suomen Ford 100 vuotta. Haastateltavina Suomen Fordin toimitusjohtaja Johan Lindberg ja tuoreen Fordin historiaa käsittelevän kirjan tekijä, tietokirjailija Juha Partanen
+          Virtasen taloushistoriassa muistellaan ja pohditaan nyt Suomen autoistumisen historiaa. Tasan sata vuotta sitten perustettiin maahantuontiliike Suomen Ford. Haastateltavina Suomen Fordin toimitusjohtaja Johan Lindberg ja tuoreen Fordin historiaa käsittelevän kirjan tekijä, tietokirjailija Juha Partanen. Toimittaja on Juha Virtanen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-13T10:52:00+03:00'
         end_time: '2026-04-13T11:00:00+03:00'
@@ -107,18 +109,24 @@ data:
         end_time: '2026-04-13T12:05:00+03:00'
       - title: 'Elävä historia: Ihmiskunnan historian tärkein käänne löytyi Turkin kivisten kukkuloiden sisältä'
         start_time: '2026-04-13T12:05:00+03:00'
-        end_time: '2026-04-13T12:55:00+03:00'
+        end_time: '2026-04-13T12:47:00+03:00'
         description: |-
           Göpeklitepe ja Karahantepe ovat 12000 vuotta vanhoja kulttuurialueita, joilla kivikauden ihmiset elivät ja tekivät valtavia kivirakennuksia ja yksityiskohtaisia kuusimetrisiä monumentteja. On edelleenkin mysteeri, miksi metsästäjä-keräilijät ryhtyivät moiseen voimanponnistukseen. Olivatko alueet tarkoitettu rituaalikäyttöön, vai olivatko ne varhaisia kaupunkeja? Toimittaja pääsi vierailemaan Kaakkois-Turkin arkeologisilla kaivauksilla.
           Haastateltavina Göpeklitepen ja Karahantepen kenttäarkeologit. Toimittajana Anniina Wallius.
       - title: Politiikkaradio
         start_time: '2026-04-13T13:00:00+03:00'
         end_time: '2026-04-13T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: laulaja-lauluntekijä Vilma Talvitie inspiroituu muukalaisuudesta ja ulkopuolisuudesta'
         start_time: '2026-04-13T13:30:00+03:00'
         end_time: '2026-04-13T15:00:00+03:00'
-        description: |2+
-
+        description: |
+          Juontajana Jarmo Laitaneva.
+          N. klo 14 studiossa on vieraana laulaja-lauluntekjä Vilmatalvitie. Kansanmusiikin ja akustisen pop-musiikin rajamailla seikkaileva muusikko on matkustanut ja esiintynyt viime vuosina kaikkiaan yli 30 maassa. Talvitien kulkurielämä on vaikuttanut vahvasti Talvitien omaan musiikkiin ja hän kutsuukin tyyliään nimellä nomadifolk. 
+      - title: Kulttuuriykkönen
+        start_time: '2026-04-13T15:00:00+03:00'
+        end_time: '2026-04-13T15:55:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-04-13T15:55:00+03:00'
         end_time: '2026-04-13T15:58:00+03:00'
@@ -174,9 +182,11 @@ data:
           Blackwaterin jälkeen Erik Princellä oli edelleen yksi toteutumaton unelma: omat ilmavoimat. Niitä hän lähti perustamaan salaa jopa omalta firmaltaan, kiinalaiselta FSG:ltä. Alkoi uskomaton, farssin piirteitä omaava saaga, johon liittyy amatöörivalokuvaaja, erinomaisia lakimiehiä ja koodikieltä.
 
           Vaikka vuosikymmenet ja skandaalit ovat pakottaneet yksityistä turvallisuusalaa siistiytymään, hämäriä diilejä on tarjolla edelleen. Mihin ala suuntaa seuraavaksi? Toimittaja Ippi Arjanteen kanssa muuttuvia konflikteja, tekoälyn roolia ja muita tulevaisuuden skenaarioita pohtii Mikko Räkköläinen. Jakso on julkaistu alunperin kesäkuussa 2023.
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Tuhotusta Gazasta vain harva lapsipotilas pääsee hoitoon ulkomaille '
         start_time: '2026-04-13T20:05:00+03:00'
         end_time: '2026-04-13T20:25:00+03:00'
+        description: |-
+          Gazassa on eri tavoin loukkaantunut noin 40 000 lasta Israelin iskuissa. Hoitoa ei saa, koska terveydenhuolto on käytännössä tuhoutunut. Vain harvat onnistuvat pääsemään ulkomaille hoitoon. Podcastissa seurataan gazalaisia lapsipotilaita Jordaniassa.  
       - title: 'Kaisa Pulakan aikamatkat: Unettomuus on melankolisten nerojen vaiva - unimatkoja'
         start_time: '2026-04-13T20:25:00+03:00'
         end_time: '2026-04-13T21:00:00+03:00'
@@ -187,16 +197,16 @@ data:
       - title: Politiikkaradio
         start_time: '2026-04-13T21:00:00+03:00'
         end_time: '2026-04-13T21:30:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Öljyn loppu - Kiina sähköistyy, Yhdysvallat takertuu fossiilisiin'
         start_time: '2026-04-13T21:30:30+03:00'
         end_time: '2026-04-13T22:20:00+03:00'
         description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+          Miten öljystä tuli keskeinen osa yhteiskuntia ja miksi siitä on niin vaikea päästä eroon? Mitä Kiinan energiamurroksesta seuraa? Haastateltavina Aalto-yliopiston teknillisen fysiikan emeritusprofessori Peter Lund ja johtava analyytikko Lauri Myllyvirta Crea-tutkimuslaitoksesta. Toimittajana Jaro Asikainen. 
+      - title: 'Näistä levyistä en luovu: muusikko Osmo Ikonen'
         start_time: '2026-04-13T22:45:00+03:00'
         end_time: '2026-04-13T23:39:30+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+        description: |
+          Muusikko Osmo Ikosen musiikkimuistot alkavat lapsuudesta. Toimittajana Maija Salminen. 
       - title: Yöklassinen
         start_time: '2026-04-13T23:40:00+03:00'
         end_time: '2026-04-14T06:30:00+03:00'
