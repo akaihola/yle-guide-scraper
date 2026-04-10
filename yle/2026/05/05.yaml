@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-09T03:08:01.080393+00:00'
+  generated_at: '2026-04-10T03:09:03.728252+00:00'
   git:
     branch: main
-    commit: 90e30fb746c859f28af229b969bc2de1f90e8009
-  data_hash: a37fcf237d57a538fe34a8835ea5043c45ea5f19db856a36f1dbb2013dff969b
+    commit: a58c8c64e24c1500c7dfc25fb14f4474fa1a4a37
+  data_hash: 2f9dfc6a701919245ccee14f9428add26feb50b3c8aa4de58ea0dc00c9855db2
 data:
   '':
     programmes:
@@ -55,6 +55,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-05T12:00:00+03:00'
         end_time: '2026-05-05T12:05:00+03:00'
+      - title: 'Kaisa Pulakan aikamatkat: Mistä voi tietää onko unessa vai valveilla? - unimatkoja'
+        start_time: '2026-05-05T12:05:00+03:00'
+        end_time: '2026-05-05T12:25:00+03:00'
+        description: |-
+          Tiede ei osaa vieläkään selittää, miksi näemme juuri sellaisia unia kuin näemme. Entisajan ihmisille oli selvää, että unet olivat jumalten lähettämiä. Unien sisällöntuottajana toimivat yliluonnolliset ja oudot voimat - paholaiset ja noidat sekä pyhimykset ja jumalat. 
       - title: Aristoteleen kantapää
         start_time: '2026-05-05T12:25:00+03:00'
         end_time: '2026-05-05T12:50:00+03:00'
@@ -102,6 +107,34 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-05T19:00:00+03:00'
         end_time: '2026-05-05T19:02:00+03:00'
+      - title: Murha Ahvenanmaalla
+        start_time: '2026-05-05T19:02:00+03:00'
+        end_time: '2026-05-05T19:45:00+03:00'
+        description: |
+          Myrskyisellä Ahvenanmaalla surun murtama, helsinkiläinen rikostutkija Pekka Jaakkola (Pelle Heikkilä) kohtaa arvoituksellisen murhan, joka johdattaa hänet syvälle vakoilun ja petoksen verkkoihin. Avukseen hän saa sokean, mutta äänianalyysissä mestarillisen Astrid Lindholmin (Laura Malmivaara). 
+
+          Kun Maarianhaminassa sijaitsevassa Venäjän konsulaatissa tapahtuu mystinen kuolema, käynnistyy tapahtumien vyöry, jossa panokset kasvavat nopeasti. Demilitarisoitu Ahvenanmaa ei olekaan se lintukoto, jollaiseksi se on mielletty. Myrskytuuleen kätkeytyneet salaisuudet alkavat paljastua ja kun tapahtumat Itämerellä huipentuvat – lopulta käsissä on koko saariston tulevaisuus.
+
+          Sarja on suomenkielinen käännös alunperin BBC:llä esitetylle "Murder in Åland" -audiodraamalle, jonka Yle on tuottanut yhdessä BBC:n kanssa. Sarjasta julkaistaan samalla ruotsinkielinen versio.
+
+          Du kan också lyssna på den svenskspråkiga versionen av serien på:
+          https://arenan.yle.fi/1-77085191
+
+          Päärooleissa: 
+          Pekka - Pelle Heikkilä
+          Astrid - Laura Malmivaara
+          Mikael - Santtu Karvonen
+          Fagerrud- Jaana Saarinen.
+
+
+          Muissa rooleissa:
+          Pääru Oja, Satu Tuuli Karhu, Thomas Dellinger, Olli Rahkonen, Joel Hirvonen, Asta Sveholm, Akseli Kouki, Anna Victoria Eriksson, Mikko Kouki, Riitta Havukainen, Kari-Pekka Toivonen, Sanna Stellan ja Pihla Penttinen.
+
+          Käsikirjoitus: Satu Rasila, Akseli Kouki ja Mikko Kouki
+          Ohjaus: Mikko Kouki
+          Äänisuunnittelu: Samuli Welin ja Steve Bond
+          Tuottajat: Alex Hollands ja Jenni Kaunisto
+          Tuotanto: Goldhawk Productions, Yle ja BBC Radio 4
       - title: Romano mirits
         start_time: '2026-05-05T20:00:00+03:00'
         end_time: '2026-05-05T20:15:00+03:00'
