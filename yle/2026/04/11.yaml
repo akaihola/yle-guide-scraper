@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-10T03:08:58.913726+00:00'
+  generated_at: '2026-04-11T03:06:22.783553+00:00'
   git:
     branch: main
-    commit: a58c8c64e24c1500c7dfc25fb14f4474fa1a4a37
-  data_hash: 2f9dfc6a701919245ccee14f9428add26feb50b3c8aa4de58ea0dc00c9855db2
+    commit: 989f9c39b3c0b4621e560b309a7c59cf64d5b3f2
+  data_hash: c0baff2b6891fc1bb3c90081daa1f53019aeaea673a741e3a89e56cae6b78057
 data:
   '':
     programmes:
@@ -64,6 +64,8 @@ data:
 
           Znamenni-sävelmä: Kristus nousi kuolleista - Nouskoon Jumala (Turun ortodoksisen kirkon kuoro/Pasi Torhamo, sekä Jopi Harri ja Matti Torhamo, laulu).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-04-11T08:25:00+03:00'
         end_time: '2026-04-11T08:35:00+03:00'
@@ -105,20 +107,36 @@ data:
           Russel: Pequeñas manzanas verdes (Julio Iglesias).
           Berlin: Isn't this a lovely day (Ella Fitzgerald ja Louis Armstrong).
 
-          Konsertin on toimittanut Pasi Hiihtola.
+          Konsertin on toimittanut Pasi Hiihtola. Juontajana Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-11T09:59:00+03:00'
         end_time: '2026-04-11T10:00:00+03:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-04-11T10:00:00+03:00'
         end_time: '2026-04-11T10:25:00+03:00'
+        description: |-
+          Sananvapauden mallimaana pidetty Yhdysvallat on vajonnut lehdistönvapaustilastossa
+          kauas kärjestä. Nykyhallinto suitsii mediaa ja sananvapauden tila kaventuu.
+          - Demokratia toimii vain, jos meillä on yhteisesti hyväksytyt faktat.
+          Näin sanoo brittiläisen The Guardian -lehden entinen päätoimittaja Alan Rusbridger.
+          Hän pitää uutisia yleisenä hyödykkeenä samalla tavoin kuin majakka on meriliikenteelle.
+          Luotettava tieto pitää yhteiskunnat pinnalla.
+          Yhdysvalloissa teknomiljardöörit ja mediamogulit hakeutuvat läheiseen suhteeseen
+          presidentti Donald Trumpin kanssa. Vapaa sana on polvillaan itsevaltiaan edessä.
+          Maailmanpolitiikan arkipäivää -ohjelman demokratiasarjan neljäs osa pohtii sananvapauden
+          ja demokratian suhdetta.
+          Ohjelman toimittaa Sampo Vaarakallio. Äänitarkkailija on Katja Kostiainen. Tunnusmusiikki:
+          Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Kaisa Pulakan aikamatkat: Unettomuus on melankolisten nerojen vaiva - unimatkoja'
         start_time: '2026-04-11T10:25:00+03:00'
-        end_time: '2026-04-11T11:00:00+03:00'
+        end_time: '2026-04-11T10:45:00+03:00'
         description: |+
           Unettomuus on moderni kansantauti, jolla on pitkä historia. 1800-luvulla unettomuus oli muotia. Se oli vaiva, josta yläluokan miesten sopi valittaa yhdessä ja suureen ääneen. Nykyaika vaatii meitä jopa nukkumaan tehokkaasti ja siksi 2000-luvun unettomat kärsivät ahdistuksesta. 
 
 
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-04-11T10:45:00+03:00'
+        end_time: '2026-04-11T11:00:00+03:00'
       - title: 'Virtasen taloushistoria: Kultasormi Aleks. Lampén pelasti konkurssikypsiä metsäteollisuusyhtiöitä '
         start_time: '2026-04-11T11:00:00+03:00'
         end_time: '2026-04-11T11:56:00+03:00'
@@ -130,7 +148,7 @@ data:
         start_time: '2026-04-11T11:57:00+03:00'
         end_time: '2026-04-11T12:00:00+03:00'
         description: |-
-          Mikael Agricola kirjoitti runosarjan kahdestatoista kuukaudesta. Päivän mietelauseena kuullaan runot huhti- ja toukokuusta, Aprilis ja Maius.
+          Mikael Agricola kirjoitti runosarjan kahdestatoista kuukaudesta. Päivän mietelauseena kuullaan runot huhti- ja toukokuusta, Aprilis ja Maius. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-11T12:00:00+03:00'
         end_time: '2026-04-11T12:05:00+03:00'
@@ -153,10 +171,10 @@ data:
         end_time: '2026-04-11T14:00:00+03:00'
       - title: 'Kalle Haatanen: Sotasyyllisyys'
         start_time: '2026-04-11T14:00:00+03:00'
-        end_time: '2026-04-11T14:55:00+03:00'
+        end_time: '2026-04-11T14:53:00+03:00'
         description: |
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Ilmari Käihkö: Sotaan liittyvät päätökset ovat usein järjenvastaisia'
         start_time: '2026-04-11T14:55:00+03:00'
         end_time: '2026-04-11T15:00:00+03:00'
         description: |-
@@ -226,7 +244,7 @@ data:
 
           Tikanmäki: L'amore elok. Tyttökuningas (The Girl King) (Johanna Rusanen-Kartano, sopraano, ja ork./Anssi Tikanmäki).
 
-          Konsertin on toimittanut Annina Aho.
+          Konsertin on toimittanut Annina Aho. Juontajana on Tuija Kurvinen.
       - title: 'Marko Gustafsson: Vieraana muusikko, lauluntekijä Samuli Putro'
         start_time: '2026-04-11T17:00:00+03:00'
         end_time: '2026-04-11T17:53:00+03:00'

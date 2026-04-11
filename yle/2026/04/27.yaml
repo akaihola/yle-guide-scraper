@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-10T03:09:02.202013+00:00'
+  generated_at: '2026-04-11T03:06:26.251218+00:00'
   git:
     branch: main
-    commit: a58c8c64e24c1500c7dfc25fb14f4474fa1a4a37
-  data_hash: 2f9dfc6a701919245ccee14f9428add26feb50b3c8aa4de58ea0dc00c9855db2
+    commit: 989f9c39b3c0b4621e560b309a7c59cf64d5b3f2
+  data_hash: c0baff2b6891fc1bb3c90081daa1f53019aeaea673a741e3a89e56cae6b78057
 data:
   '':
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-04-27T06:50:00+03:00'
         end_time: '2026-04-27T06:59:59+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Tuottaja-toimittaja Mikko Kurenlahti, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-04-27T07:00:00+03:00'
         end_time: '2026-04-27T07:05:00+03:00'
@@ -105,7 +105,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-27T16:07:00+03:00'
         end_time: '2026-04-27T16:59:00+03:00'
-        description: |-
+        description: |
           Lehár: Valse de fleurs (Kukkaisvalssi) oper. Frühling (Kevät) (Deutsche Kammerakademie Neuss/Johannes Goritzki).
 
           Palmgren: Kevätperhot (RKK/Matti Apajalahti).
@@ -118,18 +118,17 @@ data:
 
           Crusell: Romanssi kvartetosta klarinetille ja jousille n:o 1 Es-duuri (Eric Hoeprich ja Lontoon Haydn-kvartetti).
 
-          Paisiello: Rosinan aaria oopp. Sevillan parturi (Nuria Rial, sopraano, ja ArteMandoline).
+          Paisiello: Rosinan aaria "Rien ne peut calmer ma peine" oopp. Il barbiere di Siviglia (Sevillan parturi) (Nuria Rial, sopraano, ja ArteMandoline).
 
           Chaminade: Presto leggiero pianotriosta g-molli (Trio Parnassus).
 
           Mendelssohn: Saltarello sinfoniasta n:o 4 A-duuri (Italialainen) (Lontoon SO/John Eliot Gardiner).
 
-          Debussy: Pellavatukkainen tyttö (Leonidas Kavakos, viulu, ja Peter Nagy, piano). 
+          Debussy: La fille aux cheveux de lin (Pellavatukkainen tyttö) (Leonidas Kavakos, viulu, ja Peter Nagy, piano). 
 
-          Purcell: Yön aaria puolioopp. The Fairy queen (Dorothee Mields, sopraano, ja Lautten Compagney/Wolfgang Katschner).
+          Purcell: Yön aaria "See, even night herself" puolioopp. The Fairy Queen (Dorothee Mields, sopraano, ja Lautten Compagney/Wolfgang Katschner).
 
-          Tshaikovski: Preghiera (Rukous) orkesterisarj. n:o 4 G-duuri (Mozartiana) (Detroitin SO/Neeme Järvi).
-
+          Tshaikovski: Preghiera (Rukous) sarj. n:o 4 G-duuri (Mozartiana) (Detroitin SO/Neeme Järvi).
 
           Konsertin on laatinut Ainomaija Pennanen. 
       - title: Uutispodcast
@@ -140,6 +139,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-27T17:20:00+03:00'
         end_time: '2026-04-27T17:35:00+03:00'
+        description: |2+
+
+
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-04-27T17:35:00+03:00'
         end_time: '2026-04-27T18:35:00+03:00'
@@ -159,9 +161,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-27T19:00:00+03:00'
         end_time: '2026-04-27T19:02:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Rouva Peluri'
         start_time: '2026-04-27T19:02:00+03:00'
         end_time: '2026-04-27T19:50:00+03:00'
+        description: |
+          Dokumentissa seurataan vuoden ajan henkilöä, joka on pelannut omaisuutensa, työnsä ja miltei avioliittonsakin. Ohjelmassa tarkastellaan, mitä ongelmapelaajan mielessä liikkuu ja miltä hänen arkensa näyttää. Toteutus: Katarina Blomqvist. (es. 4.2.2028)
       - title: Ulkolinja-podcast
         start_time: '2026-04-27T20:05:00+03:00'
         end_time: '2026-04-27T20:25:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-10T03:09:05.459742+00:00'
+  generated_at: '2026-04-11T03:06:29.128558+00:00'
   git:
     branch: main
-    commit: a58c8c64e24c1500c7dfc25fb14f4474fa1a4a37
-  data_hash: 2f9dfc6a701919245ccee14f9428add26feb50b3c8aa4de58ea0dc00c9855db2
+    commit: 989f9c39b3c0b4621e560b309a7c59cf64d5b3f2
+  data_hash: c0baff2b6891fc1bb3c90081daa1f53019aeaea673a741e3a89e56cae6b78057
 data:
   '':
     programmes:
@@ -16,9 +16,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-05-14T09:56:00+03:00'
         end_time: '2026-05-14T09:59:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Pieksämäen Uudesta kirkosta
         start_time: '2026-05-14T10:00:00+03:00'
         end_time: '2026-05-14T10:59:20+03:00'
+        description: |-
+          Saarnaajana Jukka Erkkilä.
       - title: Faunin iltapäivä
         start_time: '2026-05-14T16:07:00+03:00'
         end_time: '2026-05-14T16:59:00+03:00'

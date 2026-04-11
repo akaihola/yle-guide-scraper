@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-10T03:08:59.767375+00:00'
+  generated_at: '2026-04-11T03:06:23.596046+00:00'
   git:
     branch: main
-    commit: a58c8c64e24c1500c7dfc25fb14f4474fa1a4a37
-  data_hash: 2f9dfc6a701919245ccee14f9428add26feb50b3c8aa4de58ea0dc00c9855db2
+    commit: 989f9c39b3c0b4621e560b309a7c59cf64d5b3f2
+  data_hash: c0baff2b6891fc1bb3c90081daa1f53019aeaea673a741e3a89e56cae6b78057
 data:
   '':
     programmes:
@@ -143,6 +143,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-04-15T11:57:00+03:00'
         end_time: '2026-04-15T12:00:00+03:00'
+        description: |
+          Ote Mari Uusivirran kirjasta Öiden lisäksi ovat päivät. Kertomuksia masentuneen viereltä. Gummerus 2026
       - title: Yle Uutiset ja sää
         start_time: '2026-04-15T12:00:00+03:00'
         end_time: '2026-04-15T12:05:00+03:00'
@@ -170,10 +172,19 @@ data:
 
           N. klo 14:30 Antti Reini
           Näyttelijä, kirjailija ja muusikko Antti Reini kertoo ikimuistoisen kulttuurikokemuksensa. Marko Miettinen haastattelee.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Museoiksi muutetut taiteilijakodit ja millaisia jälkiä jätämme koteihimme?'
         start_time: '2026-04-15T15:00:00+03:00'
         end_time: '2026-04-15T15:55:00+03:00'
         description: |-
+          Millaisia jälkiä taiteilijat jättivät koteihinsa? Mitä esineet, värimaailma ja sisustusratkaisut kertovat heidän elämäntyylistään ja ajatuksistaan? Elämäkertaromaaneista tuttu kirjailija Pirkko Soininen vieraili kirjailija Göran Schildtin Villa Skeppetissä Tammisaaressa, ITE-taiteilija Enni Idin mökissä Padasjoella ja taidemaalari Axel Haartmanin Casa Haartmanissa Naantalissa ja muissa kotimuseoissa. Millaisia uusia havaintoja hän teki näiden taiteilijoiden kodeista ja persoonista? Kuinka moni nykyinen taiteilijakoti avautuu jatkossa museona?
+
+          Tutkija Karoliina Sjö on mukana Turun yliopistossa meneillään olevassa Tarinoiden lehto -hankkeessa. Siinä tutkitaan Kemiönsaarella sijaitsevaa Sagalundin museomiljöötä ja sen kulttuurihistoriaa ja sen perustajajäsenten Nils Oskar Janssonin (1862–1927) ja Adèle Wemanin (1844–1936) elettyjen  elämien sekä ympäristöelämäkertametodologian avulla. Miten yksilön elämä rakentuu suhteessa ympäristöön ja miten tämä eletty elämä tallentuu myöhemmin museotoiminnan tuloksena osaksi kulttuurista muistia? Sjö  on myös tutkinut laajemmin pohjoismaisten kotimuseoiden kulttuurihistoriaa ja erityisesti museoissa säilytettäviä elämänkerronnallisia arkistoaineistoja. 
+
+          Ohjelman vieraina ovat Pirkko Soininen ja Karoliina Sjö.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-04-15T15:55:00+03:00'
