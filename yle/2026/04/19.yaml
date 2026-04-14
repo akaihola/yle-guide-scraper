@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:12.397816+00:00'
+  generated_at: '2026-04-14T03:08:54.821754+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -131,7 +131,7 @@ data:
         end_time: '2026-04-19T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Putkinotko
+      - title: 'Klassikkokuunnelma: Putkinotko'
         start_time: '2026-04-19T15:00:00+03:00'
         end_time: '2026-04-19T15:35:00+03:00'
         description: |-
@@ -194,9 +194,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-19T19:00:00+03:00'
         end_time: '2026-04-19T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubi: Severi Pyysalo in memoriam - UMO & Severi Pyysalo Silent Music.'
         start_time: '2026-04-19T19:02:30+03:00'
         end_time: '2026-04-19T20:00:00+03:00'
+        description: |
+          Äänitetty Agricolan kirkossa pitkäperjantaina 14.4.2006.
       - title: Evakko-Kristus -ikonin juhla Pyhän Nikolaoksen kirkosta Kuopiosta
         start_time: '2026-04-19T20:00:00+03:00'
         end_time: '2026-04-19T21:00:00+03:00'

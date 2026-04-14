@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:15.401005+00:00'
+  generated_at: '2026-04-14T03:08:59.688645+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -24,6 +24,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-05T07:06:00+03:00'
         end_time: '2026-05-05T08:00:00+03:00'
+        description: |+
+          Händel: Allegro concerto grossosta G-duuri (Boston Baroque/Martin Pearlman).
+
+          Sgambati (sov.): Menuetti pianolle Beethovenin teemasta (Petronel Malan).
+
+          Bartlett: Of all the birds that I do know (Kaikista linnuista, jotka tunnen) (The King's Singers ja Anthony Rooley, luuttu).
+
+          Fucik: Gladiaattorien tulo (Gürzenich-fagottikvintetti).
+
+          Respighi: Passo mezzo e mascherada sarj. Vanhoja aarioita ja tansseja n:o 1 (Los Angelesin kamariork./Neville Marriner).
+
+          Barrios: Tua imagem (Jeffrey McFadden, kitara).
+
+          Balakirev: Espanjalainen sävelmä (Alexander Paley, piano).
+
+          Kähärä: Aurinkolaulu (KYN/Kaija Viitasalo). 
+
+          Shostakovitsh: Gavotti balettisarjasta n:o 3 (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          van den Bergh: Lied (Frans van Ruth, piano).
+
+          Sibelius: Puiston lähteellä näyt. Pelléas ja Mélisande (RSO/Jukka-Pekka Saraste).
+
+          Holst: Sanaton laulu (Rupert Marshall-Luck, viulu, ja Matthew Rickard, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-05T08:00:00+03:00'
         end_time: '2026-05-05T08:07:00+03:00'
@@ -52,6 +77,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-05T11:57:00+03:00'
         end_time: '2026-05-05T12:00:00+03:00'
+        description: |-
+          Ote Juhani Ahon kirjasta Lastuja IV-VII, WSOY 1921
       - title: Yle Uutiset ja sää
         start_time: '2026-05-05T12:00:00+03:00'
         end_time: '2026-05-05T12:05:00+03:00'
@@ -134,7 +161,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-05T19:00:00+03:00'
         end_time: '2026-05-05T19:02:00+03:00'
-      - title: Murha Ahvenanmaalla
+      - title: 'Murha Ahvenanmaalla: Hylätty konsulaatti'
         start_time: '2026-05-05T19:02:00+03:00'
         end_time: '2026-05-05T19:45:00+03:00'
         description: |

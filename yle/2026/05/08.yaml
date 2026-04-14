@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:15.951088+00:00'
+  generated_at: '2026-04-14T03:09:00.438747+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -24,6 +24,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-08T07:06:00+03:00'
         end_time: '2026-05-08T08:00:00+03:00'
+        description: |+
+          Bach, J.S. (sov. Brueggen): Gigue sooloviulupartitasta n:o 3 (Bolette Roed, nokkahuilu).
+
+          Chopin - Liszt: Neidon toive (Benjamin Grosvenor, piano).
+
+          Fougstedt: Larghetto sellokonsertosta (Tuomas Lehto ja RSO/Hannu Lintu)
+
+          O. Merikanto: Omenankukat (Anu Komsi, sopraano, ja Pia Värri, piano).
+
+          Melartin: Perhosvalssi (Tampere Filharmonia/Leif Segerstam).
+
+          Presti: Serenadi kahdelle kitaralle (Olivier Chassain ja Stein-Erik Olsen).
+
+          J. Strauss: Die Libelle (Sudenkorento) (Budapestin musiikkijuhlien ork./Iván Fischer).
+
+          Lalo: Aubade (Aamulaulu) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          Kaski: Lapsi äitinsä sylissä (Jouni Somero, piano).
+
+          Squire: Serenadi (Susanna Mälkki, sello, ja Martti Rautio, piano).
+
+          Toselli: Serenata (Kerava-kvartetti sekä Teppo Koivisto, piano, ja Jorma Härkönen, kontrabasso).
+
+          Brahms: Unkarilainen tanssi nro 4 (Wienin filharmonikot/Claudio Abbado).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-08T08:00:00+03:00'
         end_time: '2026-05-08T08:07:00+03:00'
@@ -55,6 +80,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-08T11:57:00+03:00'
         end_time: '2026-05-08T12:00:00+03:00'
+        description: |-
+          Ote Emmi Tuuran tekstistä “Aurinkoista valoa ja lämpöä” julkaisussa Kesä-Viesti, New Yorkin uutisten kirjapaino, 1920
       - title: Yle Uutiset ja sää
         start_time: '2026-05-08T12:00:00+03:00'
         end_time: '2026-05-08T12:05:00+03:00'
@@ -107,9 +134,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-08T19:00:00+03:00'
         end_time: '2026-05-08T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: Kansainvälinen säveltäjärostrum 2026 & Ylen edustusteokset
         start_time: '2026-05-08T19:02:00+03:00'
         end_time: '2026-05-08T21:00:00+03:00'
+        description: |
+          Kansainvälinen säveltäjärostrum järjestetään 12.–15. toukokuuta Riiassa, Latviassa. Katselmus järjestetään nyt jo 72. kerran.
+
+          Yle osallistuu tapahtumaan tänäkin vuonna ja lähettää rostrumiin aikamme suomalaista musiikkia, jota on äänitetty menneen vuoden aikana eri puolilla Suomea.
+
+          Ainomaija Pennasen toimittamassa suorassa ohjelmassa paljastetaan Ylen edustusteokset säveltäjähaastatteluineen. 
       - title: 'Politiikkaradio '
         start_time: '2026-05-08T21:00:00+03:00'
         end_time: '2026-05-08T21:30:00+03:00'

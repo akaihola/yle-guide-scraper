@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:15.580294+00:00'
+  generated_at: '2026-04-14T03:08:59.936241+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -25,6 +25,33 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-06T07:06:00+03:00'
         end_time: '2026-05-06T08:00:00+03:00'
+        description: |+
+          Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
+
+          Tárrega: Gran vals (Suuri valssi) (Timo Korhonen, kitara).
+
+          Bochsa: Air irlandais konsertosta harpulle, huilulle ja jousiorkesterille (Lily Laskine, harppu, ja Jean-Francois Paillard -kamariork./Jean-Francois Paillard).
+
+          Vivaldi: Konsertto jousille ja continuolle C-duuri (Australian Brandenburg-ork./Paul Dyer).
+
+          Tshaikovski: Albuminlehti D-duuri (Kerava-kvartetti).
+
+          Smetana: Skladba (Kappale) C-duuri pianolle (Jitka Cechová).
+
+          Schumann: Unelmointia (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          Stanford: Kevät (Stephen Varcoe, baritoni, ja Clifford Benson, piano).
+
+          Tomlinson: Lakeside idyll (Royal Ballet Sinfonia/Gavin Sutherland).
+
+          Satie: Gymnopedie n:o 2 sarj. Trois gymnopedies (Noriko Ogawa, piano).
+
+          Schubert - Kreisler: Balettimusiikkia n:o 2 G-duuri näyt. Rosamunde (Vilde Frang, viulu ja Jose Gallardo, sello).
+
+          Linnala: Menuetti (RSO/Ari Rasilainen). 
+
+          Cairos-Rego: Valssi E-duuri (Jeanell Carrigan, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T08:00:00+03:00'
         end_time: '2026-05-06T08:07:00+03:00'
@@ -46,6 +73,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-06T11:57:00+03:00'
         end_time: '2026-05-06T12:00:00+03:00'
+        description: |-
+          Ote Juhani Ahon kirjasta Lastuja IV-VII, WSOY 1921
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T12:00:00+03:00'
         end_time: '2026-05-06T12:05:00+03:00'
@@ -102,15 +131,46 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T19:00:00+03:00'
         end_time: '2026-05-06T19:02:00+03:00'
-      - title: Radion sinfoniaorkesterin konsertti
+      - title: Radion sinfoniaorkesterin Nuorten solistien konsertti
         start_time: '2026-05-06T19:02:00+03:00'
         end_time: '2026-05-06T21:00:00+03:00'
+        description: |
+          Emilia Hoving, kapellimestari. - J. S. Bach: Osia konsertosta kahdelle viululle d-molli BWV 1043 (Helmi-Lilja Lindholm, viulu ja Else Lipasti, viulu). Louis Spohr: 1. osa klarinettikonsertosta nro 4 e-molli (Jino Pieviläinen, klarinetti). Georges Hüe: Fantaisie huilulle ja orkesterille (Olivia Mikkonen, huilu). Victor Herbert (sov. Jerome Cohen): Art Is Calling for Me operetista The Enchantress (Hanna Hasu, sopraano). Bruce Broughton: Tuubakonsertto (Einari Järvinen, tuuba). Marcel Bitsch: Concertino fagotille ja orkesterille (Pekko Aakko, fagotti). Alexander Arutjunjan: Trumpettikonsertto Es-duuri (Viggo Sundqvist, trumpetti). 
+          Henryk Wieniawski: Polonaise brillante D-duuri (Vilma Tikkanen, viulu). Charles Gounod: Margaretan jalokiviaaria oopperasta Faust (Kristianna Woller, sopraano). Suoran lähetyksen Musiikkitalosta juontavat Riikka Holopainen ja Elo Umukoro.
       - title: 'Politiikkaradio '
         start_time: '2026-05-06T21:00:00+03:00'
         end_time: '2026-05-06T21:30:00+03:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-05-06T21:31:00+03:00'
         end_time: '2026-05-06T22:20:00+03:00'
+      - title: 'Murha Ahvenanmaalla: Hylätty konsulaatti'
+        start_time: '2026-05-06T22:21:00+03:00'
+        end_time: '2026-05-06T23:00:00+03:00'
+        description: |
+          Myrskyisellä Ahvenanmaalla surun murtama, helsinkiläinen rikostutkija Pekka Jaakkola (Pelle Heikkilä) kohtaa arvoituksellisen murhan, joka johdattaa hänet syvälle vakoilun ja petoksen verkkoihin. Avukseen hän saa sokean, mutta äänianalyysissä mestarillisen Astrid Lindholmin (Laura Malmivaara). 
+
+          Kun Maarianhaminassa sijaitsevassa Venäjän konsulaatissa tapahtuu mystinen kuolema, käynnistyy tapahtumien vyöry, jossa panokset kasvavat nopeasti. Demilitarisoitu Ahvenanmaa ei olekaan se lintukoto, jollaiseksi se on mielletty. Myrskytuuleen kätkeytyneet salaisuudet alkavat paljastua ja kun tapahtumat Itämerellä huipentuvat – lopulta käsissä on koko saariston tulevaisuus.
+
+          Sarja on suomenkielinen käännös alunperin BBC:llä esitetylle "Murder in Åland" -audiodraamalle, jonka Yle on tuottanut yhdessä BBC:n kanssa. Sarjasta julkaistaan samalla ruotsinkielinen versio.
+
+          Du kan också lyssna på den svenskspråkiga versionen av serien på:
+          https://arenan.yle.fi/1-77085191
+
+          Päärooleissa: 
+          Pekka - Pelle Heikkilä
+          Astrid - Laura Malmivaara
+          Mikael - Santtu Karvonen
+          Fagerrud- Jaana Saarinen.
+
+
+          Muissa rooleissa:
+          Pääru Oja, Satu Tuuli Karhu, Thomas Dellinger, Olli Rahkonen, Joel Hirvonen, Asta Sveholm, Akseli Kouki, Anna Victoria Eriksson, Mikko Kouki, Riitta Havukainen, Kari-Pekka Toivonen, Sanna Stellan ja Pihla Penttinen.
+
+          Käsikirjoitus: Satu Rasila, Akseli Kouki ja Mikko Kouki
+          Ohjaus: Mikko Kouki
+          Äänisuunnittelu: Samuli Welin ja Steve Bond
+          Tuottajat: Alex Hollands ja Jenni Kaunisto
+          Tuotanto: Goldhawk Productions, Yle ja BBC Radio 4
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-05-06T23:20:00+03:00'
         end_time: '2026-05-06T23:39:30+03:00'

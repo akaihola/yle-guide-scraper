@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:14.470809+00:00'
+  generated_at: '2026-04-14T03:08:58.235875+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -150,6 +150,12 @@ data:
       - title: Tosi tarina
         start_time: '2026-04-30T21:31:00+03:00'
         end_time: '2026-04-30T22:20:00+03:00'
+      - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 5/10'
+        start_time: '2026-04-30T22:31:00+03:00'
+        end_time: '2026-04-30T22:59:00+03:00'
+        description: |+
+          Osa 5/10. Jane Austenin Northanger Abbey.
+
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-04-30T23:01:00+03:00'
         end_time: '2026-04-30T23:57:00+03:00'

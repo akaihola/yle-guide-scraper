@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:14.291977+00:00'
+  generated_at: '2026-04-14T03:08:57.979488+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -156,24 +156,28 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-29T19:00:00+03:00'
         end_time: '2026-04-29T19:02:00+03:00'
-      - title: 'Ylioppilaskunnan soittajat – 100 vuotta YStävyyttä '
+      - title: 'Ylioppilaskunnan Soittajat – 100 vuotta YStävyyttä '
         start_time: '2026-04-29T19:02:00+03:00'
         end_time: '2026-04-29T21:00:00+03:00'
-        description: |
-          Suomen vanhimman akateemisen sinfoniaorkesterin juhlakausi huipentuu!
+        description: |-
+          Suomen vanhin akateeminen sinfoniaorkesteri huipentaa juhlavuotensa 100-vuotiskonserttiin Musiikkitalossa.
 
-          Mikä voisikaan olla arvokkaampi juhlistus yli vuosisadan jatkuneelle soittamisen riemulle ja niille tuhansille soitinryhmä- ja tieteenalarajat ylittäneille YStävyyssuhteille, jotka Ylioppilaskunnan Soittajien piirissä ovat syntyneet, kuin suurkonsertti Suomen merkittävimmässä konserttisalissa? Juhlan kunniaksi kullakin ohjelmiston teoksella ja lavalle astuvalla esiintyjällä on erityinen side päivänsankariin. 
+          Juhlan kunniaksi kaikilla konsertin sävellyksillä ja lavalle astuvilla esiintyjillä on erityinen side päivänsankariin. 
 
-          Ylioppilaskunnan soittajat
-          joht. Aku Sorensen, Markus Lehtinen ja Mikk Murdvee
+          Lähetyksen lomassa kuullaan orkesterin nykyisten ja entisten soittajien muistoja YS:stä.
+
+          Ylioppilaskunnan Soittajat
+          joht. Aku Sorensen, Petri Sakari ja Mikk Murdvee
           John Storgårds, viulu
 
           Kalevi Aho: Fanfaari YS:lle
-          Elisar Riddelin: Tilausteos
+          Elisar Riddelin: Taivaannaula (kantaesitys)
           Lotta Wennäkoski: Het waait
           Ernst Mielck: Konserttikappale viululle ja orkesterille
           Jean Sibelius: Sinfonia nro 1
           Jean Sibelius: Finlandia
+
+          Musiikkitalossa 18.4. äänitetyn konsertin toimittaa Noora Hirn. Äänisuunnittelijana Antti Pohjola ja äänitarkkailijana Antti Snellman.
 
           Kuva: ©Marko Kaskelin
       - title: 'Politiikkaradio '
@@ -182,6 +186,11 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2026-04-29T21:31:00+03:00'
         end_time: '2026-04-29T22:20:00+03:00'
+      - title: Nuori Sorjonen - hiljainen uhri J8
+        start_time: '2026-04-29T22:21:00+03:00'
+        end_time: '2026-04-29T23:00:00+03:00'
+        description: |-
+          Lopulta kaikki johtolangat osoittavat samaan mieheen ja viimeinen jahti käynnistyy. Sorjonen joutuu kohtaamaan paitsi kaappaajan myös menneisyyden haamut ja sen, mitä oikeuden toteutuminen todella vaatii ja miten Kari tämän kaiken jälkeen jatkaa.
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-04-29T23:20:00+03:00'
         end_time: '2026-04-29T23:39:30+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:13.158161+00:00'
+  generated_at: '2026-04-14T03:08:56.122298+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -68,23 +68,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-23T09:04:00+03:00'
         end_time: '2026-04-23T09:59:00+03:00'
-        description: |-
+        description: |
           Orbison: Only the lonely (Roy Orbison).
-          Vaucaire: Tes yeux lilas (Lys Assia).
+          Dumont/Vaucaire: Tes yeux lilas (Lys Assia).
           Stone: Sinun silmiesi tähden (Olavi Virta).
           Cale: Sensitive kind (J.J. Cale).
           Chaves: Take me back to Piaui (Sylvia Vrethammar).
           Stamper: Tulip time (The Andrews Sisters).
           Haydn: Picardyn ruusuja (Eila Pellinen).
           Diamond: Girl, you'll be a woman soon (Neil Diamond).
-          Tikaram: Twist in My Sobriety (Tanita Tikaram).
+          Tikaram: Twist in my sobriety (Tanita Tikaram).
           Adler: Whatever Lola wants (Lola gets) (Sarah Vaughan).
           Reed/Mason: Når det bli'r forår igen (Michael).
           Tauro: Jos rakkautta noin mietit (Bo Andersson).
           Testa/Sciorilli: La riva bianca, la riva nera (Iva Zanicchi).
           Dylan: The times they are a-changin' (Bob Dylan).
 
-          Toimittajana Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Käännekohdissa Anna-Leena Härkönen'
         start_time: '2026-04-23T10:00:00+03:00'
         end_time: '2026-04-23T10:53:00+03:00'
@@ -221,6 +221,11 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-04-23T21:00:00+03:00'
         end_time: '2026-04-23T21:30:00+03:00'
+      - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 4/10'
+        start_time: '2026-04-23T22:31:00+03:00'
+        end_time: '2026-04-23T22:59:00+03:00'
+        description: |-
+          Osa 4/10. Jane Austenin Northanger Abbey.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-04-23T23:01:00+03:00'
         end_time: '2026-04-23T23:57:00+03:00'

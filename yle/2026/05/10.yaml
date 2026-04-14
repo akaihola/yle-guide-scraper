@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-13T03:10:16.346326+00:00'
+  generated_at: '2026-04-14T03:09:00.946867+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
@@ -61,9 +61,17 @@ data:
         end_time: '2026-05-10T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Klassikkokuunnelmia
+      - title: 'Klassikkokuunnelma: Ihmiset suviyössä, osa 1/2.'
         start_time: '2026-05-10T15:00:00+03:00'
         end_time: '2026-05-10T15:35:00+03:00'
+        description: |
+          Radionovelli.  F. E. Sillanpään aiheiden mukaan Yleisradiolle kirjoittanut Aarne Laurila. Ohjaus Urpo Lauri.
+          Henkilöt:
+          Telirannan isäntä ja emäntä - Matti Aulos ja Hilkka Helinä. Vanhaemätä - Emma Väänänen.
+          Helka, hänen tyttärentyttärensä - Eija Inkeri.  Arvid - Rauno Ketonen. Syrjämäen Jalmari - Pentti Irjala. Hilja, hänen vaimonsa - Terttu Soinvirta. Mettälän Jukka - Vilho Ruuskanen. Santra, hänen vaimonsa - Aino Lehtimäki. Eräs isäntämies - Kauko Käyhkö. Nokia - Martti Katajisto.
+          Ponttoonipäälikkö - Kauko Kokkonen. Taiteilija - Mauno Hyvönen. Kortsaanin äijä - Keijo Komppa.
+          Kunnanlääkäri - Tauno Kajander. Manu, tervapolttaja - Reimo Valkama. Kertojat: Aimo Hiltunen ja Unto Salminen.
+          Äänite vuodelta 1960.      
       - title: Musiikkikamari
         start_time: '2026-05-10T15:35:00+03:00'
         end_time: '2026-05-10T15:50:00+03:00'

@@ -1,15 +1,18 @@
 metadata:
-  generated_at: '2026-04-13T03:10:14.653988+00:00'
+  generated_at: '2026-04-14T03:08:58.490707+00:00'
   git:
     branch: main
-    commit: c42aa7c0aa36fc1ea3ce8262082718ecbc4dd712
-  data_hash: 2b14a99da1779e99ca7a248ed0edcacd0ae02d32e73aaa812bce932650303ddb
+    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
+  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-01T00:00:00+03:00'
         end_time: '2026-05-01T06:30:00+03:00'
+      - title: Aamuklassinen
+        start_time: '2026-05-01T07:00:00+03:00'
+        end_time: '2026-05-01T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-05-01T08:00:00+03:00'
         end_time: '2026-05-01T08:05:00+03:00'
