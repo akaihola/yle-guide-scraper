@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-14T03:08:56.785940+00:00'
+  generated_at: '2026-04-15T03:08:39.564275+00:00'
   git:
     branch: main
-    commit: 94b764dbe59b23bb38b158ccb5ccb4c17ba35c6b
-  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
+    commit: 4aa480240f9b46748f959d40de3428eccf532145
+  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
 data:
   Yle Radio 1:
     programmes:
@@ -135,6 +135,9 @@ data:
       - title: 'Marko Gustafsson: Käännekohdissa Anna-Leena Härkönen'
         start_time: '2026-04-25T17:00:00+03:00'
         end_time: '2026-04-25T17:53:00+03:00'
+        description: |
+          Kirjailija Anna-Leena Härkönen sanoo keräävänsä jatkuvasti materiaalia kirjoihinsa.
+          Häräntappoaseesta hän ei jaksaisi puhua enää sanaakaan, mutta kaikesta muusta Anna-Leena Härkönen puhuu mielellään ja suoraan. Hän kysyy tapaamiltaan ihmisiltä suoraan isoja kysymyksiä kuten, mikä on nöyryttävin muistosi. Vastaukset saattavat päätyä hänen tuleviin kirjoihinsa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-25T17:53:00+03:00'
         end_time: '2026-04-25T18:00:00+03:00'
