@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-14T03:08:55.870323+00:00'
+  generated_at: '2026-04-15T03:08:38.980498+00:00'
   git:
     branch: main
-    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
-  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
+    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
+  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
 data:
   '':
     programmes:
@@ -85,9 +85,12 @@ data:
           Woodlan: Mambo inn (George Shearing).
 
           Konsertin on laatinut Tuuli Saksala.
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Lapsiperheköyhyys'
         start_time: '2026-04-22T10:00:00+03:00'
         end_time: '2026-04-22T10:50:00+03:00'
+        description: |
+          Lapsiperheköyhyys on Suomessa kasvussa. Lapsuudessa koettu köyhyydellä on kokonaisvaltaisia vaikutuksia, jotka ulottuvat aikuisuuteen saakka. Miten lapsiperheköyhyys vaikuttaa Suomen tulevaisuuteen? 
+          Toimittaja Satu Kivelän vieraana Terveyden ja hyvinvoinnin laitoksen johtava tutkija Anna-Mari Isola ja Pelastakaa lapset ry:n erityisasiantuntija Aino Sarkia
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-22T10:50:00+03:00'
         end_time: '2026-04-22T11:00:00+03:00'

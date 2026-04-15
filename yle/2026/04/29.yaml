@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-14T03:08:57.979488+00:00'
+  generated_at: '2026-04-15T03:08:40.458757+00:00'
   git:
     branch: main
-    commit: 2a1cad48ef710a3a01ab467cdb946009cc7e0e83
-  data_hash: 351860c29df3e0784a14f1ddd20aa6eabce4b351811a3432e6d7c2d2dfcc7498
+    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
+  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
 data:
   '':
     programmes:
@@ -62,6 +62,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-29T09:04:00+03:00'
         end_time: '2026-04-29T09:59:00+03:00'
+        description: |-
+          Porter: Night and day (Ella Fitzgerald).
+          Kärki: Täysikuu (Olavi Virta).
+          Solano: El porompompero (Laila Kinnunen).
+          Brassens: Les amoureux des bancs publics (Petula Clark).
+          Gershwin: Let's call the whole thing off (The Ink Spots).
+          Secunda: Dona, Dona (Anki, Bosse ja Robert).
+          Vreeswijk:  Cool water - på den gyldene freden (Cornelis Vreeswijk).
+          Raye & DePaul: You don't know what love is (Nancy Wilson).
+          Ramsey & Axton: Suuret setelit (= Greenback dollar) (Four Cats).
+          Taieb: La plus belle chanson (Jacqueline Taieb).
+          Donner: Ei kauempaa (Ronnie Österberg & Blues Section).
+          Bush: The Man with the Child in His Eyes (Kate Bush).
+          Wiener: Le grisbi (Jean Wetzel & Jean Wiener).
+          Lennon & McCartney: With a little help from my friends (Joe Cocker).
+          Karlsson: Elämän kutsu (Pihasoittajat).
+          Morricone: Man with a harmonica (Ennio Morricone).
+
+          Konsertin laati Tuuli Saksala.
       - title: Havaintoja muutoksesta
         start_time: '2026-04-29T10:00:00+03:00'
         end_time: '2026-04-29T10:50:00+03:00'
@@ -74,6 +93,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-04-29T11:57:00+03:00'
         end_time: '2026-04-29T12:00:00+03:00'
+        description: |-
+          J. H. Erkko: ruono En tiedä miksi laulaa lintunen teoksesta Kantele. Koulun runokirja, WSOY, 1940.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-29T12:00:00+03:00'
         end_time: '2026-04-29T12:05:00+03:00'
@@ -109,12 +130,12 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-29T16:07:00+03:00'
         end_time: '2026-04-29T16:59:00+03:00'
-        description: |-
-          Bizet: Farandole näyt. Arlesitar (Cincinnati Pops/Erich Kunzel).
+        description: |
+          Bizet: Farandole näyt. L'Arlesienne (Arlesitar) (Cincinnati Pops/Erich Kunzel).
 
           Kähärä: Kuka nukkuu tuutussasi (EMO Ensemble/Pasi Hyökki).
 
-          Rossini: Alkusoitto oopp. Varasteleva harakka (Rooman oopperan ork./Tullio Serafin).
+          Rossini: Alkusoitto oopp. La gazza ladra (Varasteleva harakka) (Rooman oopperan ork./Tullio Serafin).
 
           Netzel: Colibri (Kajsa Dahlbäck, sopraano, ja Juho Alakärppä, piano). 
 
@@ -126,11 +147,13 @@ data:
 
           Wanne: Iltataivas (Iris Candelaria, sopraano, ja Tuula Hällström, piano).
 
-          Amerikkal. kansansävelmä (sov. Copland): Variations on a shaker melody (Uuden Englannin konservatorion puhallinyhtye/Frank Battisti).
+          Copland: Variations on a shaker melody (Uuden Englannin konservatorion puhallinyhtye/Frank Battisti).
 
-          Leiviskä: Allegro con fuoco Pianotriosta (Kaaås Trio: Tiina Karakorpi, piano, Annemarie Åström, viulu, Ulla Lampela, sello).
+          Leiviskä: Allegro con fuoco teoks. Pianotrio (Kaaås Trio).
 
-          Gardel, sov. Lenehan: Por una cabeza (Nicola Benedetti, viulu, Ksenija Sidorova, harmonikka, Aleksandr Sitkovetski, viulu, Leonard Elschenbroich, sello,  ja Aleksei Grynyuk, piano).
+          Gardel: Por una cabeza (Nicola Benedetti, viulu, Ksenija Sidorova, harmonikka, Aleksandr Sitkovetski, viulu, Leonard Elschenbroich, sello, ja Aleksei Grynyuk, piano).
+
+          Konsertin on toimittanut Noora Hirn.
       - title: Uutispodcast
         start_time: '2026-04-29T17:00:00+03:00'
         end_time: '2026-04-29T17:20:00+03:00'
