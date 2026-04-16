@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-15T03:08:39.182747+00:00'
+  generated_at: '2026-04-16T03:09:09.430944+00:00'
   git:
     branch: main
-    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
-  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
+    commit: 57ce794982055b76269341588419facb4012d45b
+  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
 data:
   '':
     programmes:
@@ -62,6 +62,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-23T08:07:00+03:00'
         end_time: '2026-04-23T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-04-23T09:00:00+03:00'
         end_time: '2026-04-23T09:03:00+03:00'
@@ -102,19 +104,31 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-04-23T11:57:00+03:00'
         end_time: '2026-04-23T12:00:00+03:00'
+        description: |-
+          Ote Oscar Wilden esseestä Valehtelun rappio
       - title: Yle Uutiset ja sää
         start_time: '2026-04-23T12:00:00+03:00'
         end_time: '2026-04-23T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: The Room Next Door on Pedro Almodóvarin oppitunti kuolemasta'
         start_time: '2026-04-23T12:05:00+03:00'
         end_time: '2026-04-23T13:00:00+03:00'
+        description: |
+          Pedro Almodóvarin elokuva The Room Next Door vuodelta 2024 näyttää kahden päähenkilönsä kautta kaksi hyvin erilaista suhtautumista kuolemaan. Sen kuvaama avustettu kuolema on kaukana tavallisesta ja saa miettimään yleisemmin kuoleman kuvaamista mediassa ja audiovisuaalisessa kulttuurissa. Elokuvaa sysää pohtimaan, syitä kuolemanpelon taustalla ja miten pelkoa voi käsitellä. Kenelle kuolema kuuluu? Miten kuolemisen prosessi sopii nyky-yhteiskuntaan? Miten kuolema nostaa esiin ihmissuhteet ja niiden merkityksen? 
+
+          Marja Vehkasen kanssa keskustelevat viestintätieteiden professori Outi Hakola ja hoitotieteen dosentti Anja Terkamo-Moisio.
       - title: Politiikkaradio
         start_time: '2026-04-23T13:00:00+03:00'
         end_time: '2026-04-23T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: miksi heikkojen signaalien havaitseminen on tärkeää? - vieraana tulevaisuusasiantuntija Mikko Dufva'
         start_time: '2026-04-23T13:30:00+03:00'
         end_time: '2026-04-23T15:00:00+03:00'
-        description: |2+
+        description: |+
+          Juontajana Miia Lahti.
+
+          N. klo 14 Sitran johtava asiantuntija Mikko Dufva on Samppa Korhosen haastattelussa. Aiheena ovat heikot signaalit ja erilaiset tulevaisuuskuvat.
+
+          N. klo Kirjailija Emmi Itärantaa vavahdutti Tampereen Työväen Teatterin näytelmä Helene, joka kertoo rakastetun, kansainvälisesti tunnetuimman suomalaisen kuvataiteilijan elämästä. Toimittajana Marja Vehkanen.
+
 
       - title: Kulttuuriykkönen
         start_time: '2026-04-23T15:00:00+03:00'
@@ -179,6 +193,8 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-04-23T18:25:00+03:00'
         end_time: '2026-04-23T18:35:00+03:00'
+        description: |-
+          Intohimoinen elokuvaharrastaja Topi Borg tuli jokunen vuosi sitten julkisuudessa tutuksi ollessaan mukaan Kirjolla-ohjelmassa, joka seuraa autisimin kirjolla olevien henkilöiden elämää. Myöhemmin hän on tehnyt myös matkailuaiheista ohjelmaa sisarensa Sointu Borgin kanssa. Tänä keväänä Yle Areenassa on alkanut Topi Borgin elokuvakerho -videopodcast-sarja. Siinä Borg jatsoo joka jaksossa yhden elokuvan vieraansa kanssa ja sarjan seuraajat pääsevät mukaan sohvalle seuraamaan keskusteluita, joita elokuvat vieraissa ja Borgissa herättävät. Topi Borg kertoi elokuvaharrastuksestaan Kati Turtolalle. 
       - title: Hartaita säveliä
         start_time: '2026-04-23T18:35:00+03:00'
         end_time: '2026-04-23T18:50:00+03:00'

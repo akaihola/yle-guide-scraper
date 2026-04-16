@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-15T03:08:42.172759+00:00'
+  generated_at: '2026-04-16T03:09:12.659953+00:00'
   git:
     branch: main
-    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
-  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
+    commit: 57ce794982055b76269341588419facb4012d45b
+  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
 data:
   '':
     programmes:
@@ -61,6 +61,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-05-08T09:04:00+03:00'
         end_time: '2026-05-08T09:59:00+03:00'
+        description: |-
+          Trad.: Aamuun käy sydän hämillään (Tuulikki Eloranta).
+          Cameron: Kukat kauniit aamuin sulle toisin (Sammy Babitzin).
+          Tiomkin: Wild is the wind (Barbra Streisand).
+          Anka: Les filles de Paris (Paul Anka ja Chris Botti).
+          Dominguez: Frenesi (Linda Ronstadt).
+          Kansa/Toivanen: Yössä toukokuun (Tapani Kansa).
+          Kansanlaulu: Sait multa kukkaset toukokuun (Eila Pellinen).
+          Karu: Toukokuun päiviä kaksi (Eino Grön).
+          Valkama: Valkovuokot (Taisto Tammi). 
+          Baez: Diamonds and rust (Joan Baez).
+          Jouannest: Mathilde (Jacques Brel).
+          Hinton/Fritts: Breakfast in bed (Dusty Springfield).
+          Andersson/Ulvaeus: The name of the game (Abba).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Kalle Haatanen
         start_time: '2026-05-08T10:00:00+03:00'
         end_time: '2026-05-08T10:55:00+03:00'
@@ -96,6 +112,8 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-05-08T13:30:00+03:00'
         end_time: '2026-05-08T15:00:00+03:00'
+        description: |2+
+
       - title: Kulttuuriykkönen
         start_time: '2026-05-08T15:00:00+03:00'
         end_time: '2026-05-08T15:55:00+03:00'

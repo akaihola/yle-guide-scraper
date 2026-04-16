@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-15T03:08:37.527064+00:00'
+  generated_at: '2026-04-16T03:09:07.483055+00:00'
   git:
     branch: main
-    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
-  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
+    commit: 57ce794982055b76269341588419facb4012d45b
+  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
 data:
   '':
     programmes:
@@ -142,9 +142,11 @@ data:
           Tia Kouvon elokuva Mummola on rakkaudenosoitus epätäydelliselle perheelle, jossa kaikki yrittävät parhaansa mukaan tulla toimeen toistensa kanssa. Miksi juhlapyhät nostavat esiin perheen jännitteet? Onko nykyinen tunteista puhumisen eetos tai jopa edellytys tie parisuhde- ja perheonneen? Mistä syntyy "virtahepo olohuoneessa" ja miten sen kanssa voi elää? 
 
           Elokuvan innoittamana perhedynamiikasta, vaikenemisen kulttuurista ja sen purkamisesta keskustelevat Marja Vehkasen kanssa ohjaaja-käsikirjoittaja Tia Kouvo ja  psykoterapeutti, tietokirjailija Katriina Järvinen.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Määräaikaiset sopimukset'
         start_time: '2026-04-16T13:00:00+03:00'
         end_time: '2026-04-16T13:30:00+03:00'
+        description: |
+          Määräaikaisten helpottamisesta kiistellään perustuslakivaliokunnassa. Keskustelemassa kansanedustajat Heikki Vestman (kok.), Fatim Diarra (vihr.) ja Petri Honkonen (kesk.). Toimittajana on Linda Pelkonen. 
       - title: 'Radio 1:n iltapäivä: Anna Kortelainen Olavi Paavolaisesta: "Eräänlainen peritty aarre"'
         start_time: '2026-04-16T13:30:00+03:00'
         end_time: '2026-04-16T15:00:00+03:00'
@@ -213,7 +215,7 @@ data:
         start_time: '2026-04-16T17:00:00+03:00'
         end_time: '2026-04-16T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mihin puolueissa valmistaudutaan tällä hetkellä, kun on vuosi eduskuntavaaleihin? Reetta Röngän vieraana politiikan toimittaja Robert Sundman Suomen Kuvalehdestä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-16T17:20:00+03:00'
         end_time: '2026-04-16T17:35:00+03:00'
@@ -236,6 +238,8 @@ data:
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-04-16T18:25:00+03:00'
         end_time: '2026-04-16T18:35:00+03:00'
+        description: |-
+          Dokumentaristi Sami Kieksi on tunnettu dokumentti-ja podcastsarjoistaan, joissa usein päähenkilöinä on syrjäytyneitä nuoria. Hän oli itsekin aikoinaan vaarassa syrjäytyä turvattomien kotiolojensa ja kokemansa koulukiusaamisen takia. Teininä teatteriharrastus oli hänelle yksi pelastavista tekijöistä. Sami toivookin, että kaikille nuorille mahdollistettaisiin pääsy harrastuksiin, joissa he pystyvät käsittelemään tunteitaan ja joissa he voivat loistaa. Sari Valto haastattelee.
       - title: Hartaita säveliä
         start_time: '2026-04-16T18:35:00+03:00'
         end_time: '2026-04-16T18:50:00+03:00'
@@ -262,17 +266,33 @@ data:
         end_time: '2026-04-16T20:00:00+03:00'
         description: |
           Äänitetty Sellosalissa 23.4.2025.
+      - title: Klassinen kattaus
+        start_time: '2026-04-16T20:00:00+03:00'
+        end_time: '2026-04-16T20:57:00+03:00'
+        description: |+
+          Albéniz (sov. Llobet Solés): Castilla (Kastilia) Espanjalaisesta sarjasta n:o 1 (John Williams ja Julian Bream, kitara).
+
+          Dvorák: Romanttisia kappaleita (Josef Suk, viulu, ja Josef Hala, piano).
+
+          Anonyymi: Johdanto, teema ja muunnelmia Es-duuri Rossinin oopperoiden teemoista (Christoffer Sundqvist, klarinetti, ja RSO/Hannu Lintu).
+
+          Vieuxtemps: Viulukonsertto n:o 5 a-molli (Grétry) (Jascha Heifetz ja Lontoon uusi SO/Malcolm Sargent).
+
+          Donizetti: Nemorinon romanssi oopp. Lemmenjuoma (Jorma Silvasti, tenori, ja RSO/Eri Klas).
+
+          Juontajana on Tuija Kurvinen.
+
       - title: 'Politiikkaradio '
         start_time: '2026-04-16T21:00:00+03:00'
         end_time: '2026-04-16T21:30:00+03:00'
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia: Kolmas pyörä'
-        start_time: '2026-04-16T22:31:00+03:00'
-        end_time: '2026-04-16T22:59:00+03:00'
+        start_time: '2026-04-16T22:45:56+03:00'
+        end_time: '2026-04-16T23:02:00+03:00'
         description: |-
           Jane Austenin Northanger Abbey. Osa 3/10.
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-04-16T23:01:00+03:00'
-        end_time: '2026-04-16T23:57:00+03:00'
+        start_time: '2026-04-16T23:02:49+03:00'
+        end_time: '2026-04-16T23:59:10+03:00'
         description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen

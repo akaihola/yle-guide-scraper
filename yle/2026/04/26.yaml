@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-15T03:08:39.753857+00:00'
+  generated_at: '2026-04-16T03:09:10.113861+00:00'
   git:
     branch: main
-    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
-  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
+    commit: 57ce794982055b76269341588419facb4012d45b
+  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
 data:
   '':
     programmes:
@@ -29,6 +29,17 @@ data:
       - title: Aamusoitto
         start_time: '2026-04-26T09:03:00+03:00'
         end_time: '2026-04-26T09:53:00+03:00'
+        description: |+
+          Buxtehude: Sonaatti viululle, viola da gamballe ja continuolle g-molli (Catherine Manson, viulu, Paolo Pandolfo, viola da gamba, Mike Fentross, luuttu, ja Ton Koopman, cembalo).
+
+          Hotteterre: Sarja huilulle ja continuolle e-molli (Barthold Kuijken, traverso, Wieland Kuijken, viola da gamba, ja Robert Kohnen, cembalo).
+
+          Fiorenza: Sellokonsertto D-duuri (Josetxu Obregon ja La Ritirata).
+
+          C.P.E. Bach: Rondo klaveerille d-molli (Mihail Pletnjov, piano).
+
+          Corelli: Concerto grosso n:o 2 F-duuri (The Avison Ensemble/Pavlo Beznosiuk, viulu).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-04-26T09:56:00+03:00'
         end_time: '2026-04-26T09:59:00+03:00'
@@ -43,11 +54,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-04-26T12:00:00+03:00'
         end_time: '2026-04-26T12:05:00+03:00'
-      - title: 'Elävä historia: Kommunismin historia toisen maailmansodan jälkeisessä Suomessa'
+      - title: 'Elävä historia: Suomalaiset lähetystyöntekijät Namibiassa'
         start_time: '2026-04-26T12:05:00+03:00'
         end_time: '2026-04-26T12:55:00+03:00'
         description: |-
-          Kuinka vakavasti kommunistit aikoivat liittää Suomen osaksi itäblokkia? Toimittajana Ville Talola. 
+          Toimittajana Pasi Toiviainen. 
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-04-26T13:00:00+03:00'
         end_time: '2026-04-26T13:57:00+03:00'

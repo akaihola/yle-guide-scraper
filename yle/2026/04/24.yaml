@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-15T03:08:39.374939+00:00'
+  generated_at: '2026-04-16T03:09:09.614647+00:00'
   git:
     branch: main
-    commit: ae4547dccbd7de05f53911d054c4ab77b9aa38b9
-  data_hash: b160374dee83dbe1a790aaa981eda4e92d6e613b152f28f83fe4a4d517797525
+    commit: 57ce794982055b76269341588419facb4012d45b
+  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
 data:
   '':
     programmes:
@@ -13,6 +13,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-24T06:30:50+03:00'
         end_time: '2026-04-24T06:50:00+03:00'
+        description: |+
+          Tuntematon: Nyt, Herra, aamun tullen (virsi 542) (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          L. Heikkilä: Täällä Pohjantähden alla (Päivi Sini Ristimäki, laulu, Jere Ristimäki, kitara, sekä yhtye).
+
+          Anonyymi: Jeesus, luona armopöydän sinut löydän (virsi 225:1-4,8) (Seurakunta, ja Sheldon Ylioja, urut).
+
+          Spirituaali (sov. Göransson - Rautasuo): Pilvimuurista valo välähtää (virsi 104) (Kuusankosken kirkon nuorisokuoro/Tapani Rautasuo).
+
       - title: Aamuhartaus
         start_time: '2026-04-24T06:50:00+03:00'
         end_time: '2026-04-24T06:59:59+03:00'
@@ -56,12 +65,29 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-24T08:07:00+03:00'
         end_time: '2026-04-24T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-04-24T09:00:00+03:00'
         end_time: '2026-04-24T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-04-24T09:04:00+03:00'
         end_time: '2026-04-24T09:59:00+03:00'
+        description: |-
+          Sivonen: Aikaan sinikellojen (Paula Koivuniemi).
+          Riedel: Vart tar vinet vägen (Monica Zetterlund).
+          Lennon/McCartney: Hey Jude (Tom Jones).
+          Benatzky: Seison sateessa (Seija Karpiomaa).
+          Battisti: Il mio canto libero (Laura Pausini ja Juanes).
+          Vacquez/Boyer: Koskaan et muuttua saa (Pasi Kaunisto).
+          Arlen: Come rain or come shine (Norah Jones).
+          Hamilton: Joet tulvimaan itke (Riki Sorsa).
+          Puente: Ran kan kan (Tito Puente).
+          Evans/Hewson: Goldeneye (Tina Turner).
+          Dupéré: Querer (Alma Nieto ja The Rosenberg Trio).
+          Revaux/Francois: My way (Elvis Presley).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Kalle Haatanen
         start_time: '2026-04-24T10:00:00+03:00'
         end_time: '2026-04-24T10:55:00+03:00'
@@ -70,25 +96,27 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-24T10:55:00+03:00'
         end_time: '2026-04-24T11:00:00+03:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: 'Narrin aamulaulu - 100-vuotias Ylioppilaskunnan Soittajat  '
         start_time: '2026-04-24T11:00:00+03:00'
         end_time: '2026-04-24T11:55:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |
+          Huhtikuun 14. päivä virallista syntymäpäiväänsä viettävä, Helsingin yliopiston piirissä toimiva sinfoniaorkesteri on virkeä "vanhus". YS:n virallinen perustamisvuosi on 1926, mutta soittajiston juuret ulottuvat aina vuoteen 1747, jolloin Turun akatemian yhteyteen perustettiin kuninkaan käskykirjeellä Akateeminen Kapelli. YS:n historiaa ja nykyhetkeä tarkastelee Outi Paananen. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-24T11:55:00+03:00'
         end_time: '2026-04-24T11:57:00+03:00'
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-04-24T11:57:00+03:00'
         end_time: '2026-04-24T12:00:00+03:00'
+        description: |-
+          Ote Oscar Wilden esseestä Valehtelun rappio
       - title: Yle Uutiset ja sää
         start_time: '2026-04-24T12:00:00+03:00'
         end_time: '2026-04-24T12:05:00+03:00'
-      - title: 'Tiedeykkönen: Rikosten ehkäisemisen tiedettä'
+      - title: 'Tiedeykkönen: Ilmastoturvallisuus'
         start_time: '2026-04-24T12:05:00+03:00'
         end_time: '2026-04-24T12:55:00+03:00'
         description: |-
-          Mitä tutkimus kertoo siitä, miten rikoksia ehkäistään? Miten asiaa lähestytään kriminologian sekä psykologian näkökulmasta? Toimittajana Pirjo Koskinen.
+          Toimittajana Asikainen.
       - title: Politiikkaradio
         start_time: '2026-04-24T13:00:00+03:00'
         end_time: '2026-04-24T13:30:00+03:00'
@@ -113,6 +141,25 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-04-24T16:07:00+03:00'
         end_time: '2026-04-24T16:59:00+03:00'
+        description: |+
+          Purcell: Rondeau teoksesta Abdelazer, or the moor's revenge (The Brandenburg Consort/Roy Goodman).
+
+          Händel: Kleopatran aaria Da tempeste il legno infranto oopp. Julius Caesar (Amanda Forsythe, sopraano, ja Apollo's Fire/Jeannette Sorrell).
+
+          Chopin: Nokturni n:o 20 cis-molli (Katia Skanavi, piano).
+
+          Glass: Tut wu-a yeri enti (The window of appearances) oopp. Akhnaten (Paul Esswood, kontratenori, Milagro Vargas, altto, ja Melinda Liebermann, sopraano, sekä Stuttgartin valtionork./Dennis Russell Davies).
+
+          Piazzolla: Adiós Nonino (Jouko Harjanne, trumpetti, Jari Valo ja Jukka Pohjola, viulu, Riitta-Liisa Ristiluoma, alttoviulu, Timo Alanen, sello, sekä Kati Harjanne, kontrabasso).
+
+          C. Schumann: n:o 3 D-duuri op.15/3 (Susanne Grützmann, piano).
+
+          Bizet: Toreadorin aaria "Votre toast je peux vous le rendre" oopp. Carmen (Dmitri Hvorostovski, baritoni, sekä Venäjän Henkisen renessanssin kuoro ja Venäjän FO/Constantine Orbelian). 
+
+          Beethoven: Adagio un poco mosso pianokonsertosta n:o 5 (Keisarikonsertto) Es-duuri (Clevelandin ork./Vladimir Ashkenazy, piano).
+
+          Dvorak: Slaavilainen tanssi n:o 4 F-duuri (Tshekkiläinen FO/Jirí Belohlávek).
+
       - title: Uutispodcast
         start_time: '2026-04-24T17:00:00+03:00'
         end_time: '2026-04-24T17:20:00+03:00'
@@ -132,6 +179,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-24T18:35:00+03:00'
         end_time: '2026-04-24T18:50:00+03:00'
+        description: |+
+          Sormunen: Sieluni janoaa Jumalaa (Juhani Aaltonen, huilu, ja yhtye).
+
+          Roth (sov. Järvinen): Menen Jeesuksen luokse (Lasse Heimonen, laulu, ja orkesteri).
+
+          Ahonen: Osani olkoon (Katajainen Kansa).
+
       - title: Iltahartaus
         start_time: '2026-04-24T18:50:00+03:00'
         end_time: '2026-04-24T19:00:00+03:00'
