@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-16T03:09:10.480288+00:00'
+  generated_at: '2026-04-17T03:09:00.303962+00:00'
   git:
     branch: main
-    commit: 57ce794982055b76269341588419facb4012d45b
-  data_hash: 4129489915f817d0dbc9b579660a95e699f8385fa2622fe77c46f22d8b462a5b
+    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
+  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
 data:
   '':
     programmes:
@@ -13,11 +13,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-28T06:30:50+03:00'
         end_time: '2026-04-28T06:50:00+03:00'
+        description: |+
+          Lagi: Mä silmät luon ylös taivaaseen (virsi 490) (Eve ja Ossi).
+
+          Melartin: Isä meidän (Lasse Riutamaa, tenori, ja Pentti Kotiranta, piano).
+
+          Turpela: Taivaassa minulla on sinut (Kirkkokuoro Haukiputaan Laulu/Hannu Niemelä).
+
+          Schop: Kirkkaat riemun äänet soivat (virsi 470) (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
+          West - Williams: Lapsuuden usko (Gospel Covertajat).
+
       - title: Aamuhartaus
         start_time: '2026-04-28T06:50:00+03:00'
         end_time: '2026-04-28T06:59:59+03:00'
         description: |-
-          Tekstiilitaiteilija ja käsityömestari Helana Vaari, Hollola
+          "Kolmiulotteista maalausta ompelukoneella"
+          Tekstiilitaiteilija ja käsityömestari Helana Vaari, Hollolasta  kertoo Liedon peruskorjatun keskiaikaisen kirkon kerroksellisista taidekäsitöistä.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-28T07:00:00+03:00'
         end_time: '2026-04-28T07:05:00+03:00'
@@ -175,6 +187,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-28T18:35:00+03:00'
         end_time: '2026-04-28T18:50:00+03:00'
+        description: |+
+          Irlantilainen kansansäv. (sov. Vainiomäki): Silmäni aukaise (virsi 923) (Nina Åström).
+
+          Haapala: Elämänpuu (Mustarastas).
+
+          Blomqvist: Oi sä laps' Jumalan (Chorus cantorum Finlandiae/Kari Turunen).
+
+          Haapalainen: Nyt melu tyyntyy (Duo Lehtoaho).
+
       - title: Iltahartaus
         start_time: '2026-04-28T18:50:00+03:00'
         end_time: '2026-04-28T19:00:00+03:00'
