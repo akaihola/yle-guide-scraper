@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-17T03:08:59.774013+00:00'
+  generated_at: '2026-04-18T03:07:34.123903+00:00'
   git:
     branch: main
-    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
-  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
+    commit: e6b4d8d5d1c46abf60d358f9267e310f2af3c9f7
+  data_hash: fdc1281e06759d5ed1a80bf64ff4dfe95a7fb99d20f05d488a23c7f7fc339ec1
 data:
   '':
     programmes:
@@ -51,14 +51,32 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-26T11:00:00+03:00'
         end_time: '2026-04-26T11:59:00+03:00'
+        description: |
+          Porter: Kaunis Pariisi (Juha Eirto).
+          Popp: Les lavandieres du Portugal (Yvette Giraud).
+          Ferrão: Portugalin huhtikuu (Eino Grön).
+          Gillar: Mama el baion (Maria Zamora).
+          Crane: Jos sä saisit sydämein (Annikki Tähti).
+          Louiguy: Cherry pink and apple blossom white (Onni Gideon).
+          Liliuokalani: Aloha oe (The King Sisters).
+          Weiss: Ku-u-i-po (Elvis Presley).
+          Legrand: Arrivée des camionneurs (Michel Legrand).
+          Tyson: Mot okänt land (Hep Stars).
+          Diamond: I'm believer (The Monkees).
+          Goldfaden: Rozhinkes mit Mandlen (Carola).
+          Kämpfert: Näin uudelleen kuljen (Aarno Raninen).
+          Brooker: Merimies (Maarit).
+          Silver: Doodlin' (Ray Charles).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-26T12:00:00+03:00'
         end_time: '2026-04-26T12:05:00+03:00'
-      - title: 'Elävä historia: Suomalaiset lähetystyöntekijät Namibiassa'
+      - title: 'Elävä historia: Suomalaiset Namibiaa luomassa - uskoa, Toivoja, rötöksiä ja sankaritekoja'
         start_time: '2026-04-26T12:05:00+03:00'
         end_time: '2026-04-26T12:55:00+03:00'
         description: |-
-          Toimittajana Pasi Toiviainen. 
+          Suomalaisilla on ollut värikäs historia Ovambomaalla ja suuri vaikutus nyky-Namibian kehitykseen. Haastateltavina Martti Eirola, Leila Koivunen ja Olli Löytty.
       - title: 'Välilevyjä: Aika musiikissa'
         start_time: '2026-04-26T13:00:00+03:00'
         end_time: '2026-04-26T13:57:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-17T03:08:56.910511+00:00'
+  generated_at: '2026-04-18T03:07:32.611725+00:00'
   git:
     branch: main
-    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
-  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
+    commit: e6b4d8d5d1c46abf60d358f9267e310f2af3c9f7
+  data_hash: fdc1281e06759d5ed1a80bf64ff4dfe95a7fb99d20f05d488a23c7f7fc339ec1
 data:
   '':
     programmes:
@@ -77,14 +77,20 @@ data:
 
            O solitude, my sweetest choice (Yksinäisyys, suloinen valittuni) san. Marc-Antoine Girard de Saint-Amant, Katherine Philips (Anne Sofie von Otter, mezzosopraano, ja Jakob Lindberg, teorbi).
 
+      - title: Radio 1 soi
+        start_time: '2026-04-19T07:57:07+03:00'
+        end_time: '2026-04-19T08:00:00+03:00'
+        description: |+
+          Fauré: Après un rêve (Joshua Bell ja St. Luken ork./Michael Stern).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-19T08:00:00+03:00'
         end_time: '2026-04-19T08:05:05+03:00'
       - title: Narrin aamulaulu - Oopperan ja tosielämän Herttua Siniparrat
-        start_time: '2026-04-19T08:05:35+03:00'
-        end_time: '2026-04-19T08:59:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        start_time: '2026-04-19T08:06:24+03:00'
+        end_time: '2026-04-19T08:59:41+03:00'
+        description: |
+          Mies antaa nuorikolleen avaimet kaikkiin linnansa oviin paitsi yhteen. Kun vaimo kuitenkin avaa kielletyn oven, hän löytää sen takaa miehensä edellisten puolisoiden katkaistut päät. Charles Perrault’n 1600-luvun satu on moraliteetti, joka on saanut ja saa yhä uusia tulkintoja ja muunnelmia. Oopperoiden Siniparta-musiikin äärellä on Outi Paananen. 
       - title: 'Yle Uutiset '
         start_time: '2026-04-19T09:00:00+03:00'
         end_time: '2026-04-19T09:03:00+03:00'
@@ -140,7 +146,7 @@ data:
         end_time: '2026-04-19T12:05:00+03:00'
       - title: 'Elävä historia: Ihmiskunnan historian tärkein käänne löytyi Turkin kivisten kukkuloiden sisältä'
         start_time: '2026-04-19T12:05:00+03:00'
-        end_time: '2026-04-19T12:55:00+03:00'
+        end_time: '2026-04-19T12:47:00+03:00'
         description: |-
           Göpeklitepe ja Karahantepe ovat 12000 vuotta vanhoja kulttuurialueita, joilla kivikauden ihmiset elivät ja tekivät valtavia kivirakennuksia ja yksityiskohtaisia kuusimetrisiä monumentteja. On edelleenkin mysteeri, miksi metsästäjä-keräilijät ryhtyivät moiseen voimanponnistukseen. Olivatko alueet tarkoitettu rituaalikäyttöön, vai olivatko ne varhaisia kaupunkeja? Toimittaja pääsi vierailemaan Kaakkois-Turkin arkeologisilla kaivauksilla.
           Haastateltavina Göpeklitepen ja Karahantepen kenttäarkeologit. Toimittajana Anniina Wallius.
@@ -238,22 +244,28 @@ data:
         end_time: '2026-04-19T19:02:05+03:00'
       - title: 'Jazzklubin keikka: Severi Pyysalo in memoriam - UMO & Severi Pyysalo Silent Music.'
         start_time: '2026-04-19T19:02:05+03:00'
-        end_time: '2026-04-19T20:00:00+03:00'
+        end_time: '2026-04-19T20:00:15+03:00'
         description: |
           Severi Pyysalo in memoriam - UMO & Severi Pyysalo Silent Music. Äänitetty Agricolan kirkossa pitkäperjantaina 14.4.2006.
       - title: Evakko-Kristus -ikonin juhla Pyhän Nikolaoksen kirkosta Kuopiosta
-        start_time: '2026-04-19T20:00:00+03:00'
-        end_time: '2026-04-19T21:00:00+03:00'
+        start_time: '2026-04-19T20:00:15+03:00'
+        end_time: '2026-04-19T20:48:51+03:00'
         description: |
           Akatistoksen toimittaa rovasti Timo Honkaselkä.
-      - title: Uutispodcast
-        start_time: '2026-04-19T21:00:30+03:00'
-        end_time: '2026-04-19T21:24:00+03:00'
+      - title: Radio 1 soi
+        start_time: '2026-04-19T20:48:51+03:00'
+        end_time: '2026-04-19T21:00:15+03:00'
+        description: |+
+          Wassenaer: Concerto armonico G-duuri (Combattimento Consort Amsterdam/Jan Willem de Vriend).
+
+      - title: 'Uutispodcast: Miksi kristinusko vetää nuoria miehiä nyt puoleensa?'
+        start_time: '2026-04-19T21:00:46+03:00'
+        end_time: '2026-04-19T21:25:01+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Nuoret miehet ovat yhä kiinnostuneempia kristinuskosta. Mitä tästä ilmiöstä tiedämme ja mikä tähän vaikuttaa? Leonard Wilhelmuksen haastateltavana yliopistonlehtori Pietari Hannikainen Helsingin yliopistosta. 
       - title: 'Klasariparatiisi - Eva Tigerstedt: Henry Purcell - Hulluuslauluja, kylmänhenkiä ja sfäärien harmoniaa barokin ajan Lontoossa'
-        start_time: '2026-04-19T21:25:00+03:00'
-        end_time: '2026-04-19T22:21:20+03:00'
+        start_time: '2026-04-19T21:26:01+03:00'
+        end_time: '2026-04-19T22:22:21+03:00'
         description: |+
           Muusikonpoika Henry Purcell liikkui kansan ja kuninkaallisten keskuudessa, ja teatteri oli hänen toinen kotinsa. 1600-luvun lopun Lontoo oli rujo, räävitön ja kiihkeä, täynnä valtataistelua ja loistoa. Tulipalot ja kulkutaudit eivät silti voineet hillitä kaupungin kasvua.  Täällä Purcell loi ihmeen kauniita lauluja ja värikkästä näyttämömusiikkia, mutta myös omintakeista kirkko- ja juhlamusiikkia. Ne ovat osa aikaansa, mutta koskettavat edelleen.
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -286,10 +298,21 @@ data:
            O solitude, my sweetest choice (Yksinäisyys, suloinen valittuni) san. Marc-Antoine Girard de Saint-Amant, Katherine Philips (Anne Sofie von Otter, mezzosopraano, ja Jakob Lindberg, teorbi).
 
       - title: 'Sari Valto: Rakastamme lemmikkejämme, mutta mitä ajattelemme tuotantoeläimistä?'
-        start_time: '2026-04-19T22:22:00+03:00'
-        end_time: '2026-04-19T23:16:04+03:00'
+        start_time: '2026-04-19T22:23:17+03:00'
+        end_time: '2026-04-19T23:17:21+03:00'
         description: |-
           Rakastamme lemmikkieläimiämme, mutta mikä on suhteemme tuotantoeläimiin? Tätä pohtivat eläinteologi Limppu Witick sekä Helinä Ääri, joka on tutkinut sitä, miten tuotantoeläimet näkyvät kaunokirjallisuudessa.
+      - title: Radio 1 soi
+        start_time: '2026-04-19T23:17:21+03:00'
+        end_time: '2026-04-19T23:19:35+03:00'
+        description: |+
+          Giuliani: Rondo kitaralle (David Starobin, kitara). 
+
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-04-19T23:19:35+03:00'
+        end_time: '2026-04-19T23:24:37+03:00'
+        description: |-
+          Koreografi, ohjaaja Marco Bjurström kertoo Maija Salmiselle erityisen vaikuttavasta kulttuurielämyksestään. Ensilähetys oli 9.4.2026.
       - title: 'Romano mirits: RRT-palvelu tukee romaanitaustaisia vankeja kohti uutta alkua'
         start_time: '2026-04-19T23:25:32+03:00'
         end_time: '2026-04-19T23:39:38+03:00'

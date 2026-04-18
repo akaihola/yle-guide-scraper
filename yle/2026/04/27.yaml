@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-17T03:09:00.033230+00:00'
+  generated_at: '2026-04-18T03:07:34.299909+00:00'
   git:
     branch: main
-    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
-  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
+    commit: e6b4d8d5d1c46abf60d358f9267e310f2af3c9f7
+  data_hash: fdc1281e06759d5ed1a80bf64ff4dfe95a7fb99d20f05d488a23c7f7fc339ec1
 data:
   '':
     programmes:
@@ -66,7 +66,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-27T09:04:00+03:00'
         end_time: '2026-04-27T09:59:00+03:00'
-        description: |+
+        description: |
           Myrow: You make me feel so young (Frank Sinatra).
           Kosma: Romance (Juliette Gréco).
           Pace/Panzeri/Livraghi: Milloinkaan en löydä samanlaista (Fredi).
@@ -77,13 +77,12 @@ data:
           Zetterlund: Vårvisa (Cornelis Vreeswijk ja Monica Zetterlund).
           Lehtonen: Tuntematon sydämeni (Marion Rung).
           Stewart: Daydream believer (The Monkees).
-          Panas/Munro/Dessca: La poupee, le prince et la maison (Vicky Leandros).
+          Panas/Munro/Dessca: La poupée, le prince et la maison (Vicky Leandros).
           Blanes: Rakkauden aamu (Juhani Markola).
-          Kollo: Kevätunelmia (Cölln-salonkiork. ja Ulrich Alshuth).
+          Kollo: Was eine Frau im Frühling träumt (Salonorchester Cölln).
           Warren: At last (Etta James).
 
-          Konsertin on toimittanut  Pasi Hiihtola.
-
+          Konsertin on toimittanut Pasi Hiihtola.
       - title: 'Virtasen taloushistoria: Onko olut hyvää myös liiketoimintana?'
         start_time: '2026-04-27T10:00:00+03:00'
         end_time: '2026-04-27T10:52:00+03:00'
@@ -179,8 +178,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-04-27T18:35:00+03:00'
         end_time: '2026-04-27T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Bischoff: Oikea hetki (Kuusankosken kirkon nuorisokuoro/Tapani Rautasuo ja Celesta-yhtye).
+
+          Álvarez: Jumalan sana (Eelis Palin).
+
+          Piiparinen: Hiljaa (Raita Karpo, laulu, Jouni Somero, piano, ja Anna-Claudia Somero, huilu).
+
       - title: Iltahartaus
         start_time: '2026-04-27T18:50:00+03:00'
         end_time: '2026-04-27T19:00:00+03:00'

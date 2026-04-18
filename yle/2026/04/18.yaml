@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-17T03:08:55.685538+00:00'
+  generated_at: '2026-04-18T03:07:32.460685+00:00'
   git:
     branch: main
-    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
-  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
+    commit: e6b4d8d5d1c46abf60d358f9267e310f2af3c9f7
+  data_hash: fdc1281e06759d5ed1a80bf64ff4dfe95a7fb99d20f05d488a23c7f7fc339ec1
 data:
   '':
     programmes:
@@ -50,6 +50,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-18T07:54:00+03:00'
         end_time: '2026-04-18T08:00:00+03:00'
+        description: |+
+          Madetoja: Aamu, lyyrillisestä sarjasta (Senja Rummukainen, sello, ja Jenni Lappalainen, piano). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-04-18T08:00:00+03:00'
         end_time: '2026-04-18T08:05:00+03:00'
@@ -114,6 +117,18 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-04-18T10:00:00+03:00'
         end_time: '2026-04-18T10:25:00+03:00'
+        description: |-
+          EU hakee nyt kauppaan uusia suuntia Trumpin epävakauttamana aikana. Tammikuussa unioni sopi neljän Etelä-Amerikan maan kanssa Mercosur-kauppasopimuksen.
+
+          Se astuu voimaan väliaikaisesti toukokuun alussa. Tällöin syntyy maailman suurin vapaakauppa-alue.
+
+          EU valmistelee vapaakauppadiiliä myös Intian, Indonesian ja Australian kanssa. Ohjelmassa haastateltavan asiantuntijan mukaan kauppasopimuksilla EU osoittaa, että sillä on Yhdysvaltain ulkopuolisia kauppasuuntia ja halua purkaa kaupan rajoituksia.
+
+          Mercosur-sopimus on herättänyt vastustusta etenkin EU:n suurimmassa maatalousmaassa Ranskassa. Ohjelmassa käydään kysymässä ranskalaisilta, mikä sopimuksessa hiertää.
+
+          Ohjelmassa haastateltava EU:n entinen kauppaneuvottelija arvioi, että neuvotteluissa onnistuttiin luomaan sopimukseen EU:n maataloutta suojaavia kohtia. Myös suomalainen maatalousekonomisti katsoo sopimuksen Suomen maataloudelle nettovaikutuksiltaan myönteiseksi.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Miina Väisänen ja Paula Vilén. Äänitarkkailijana on Pasi Ilkka. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Lehmitytöt 1944 J1: Lehmiä ei jätetä!'
         start_time: '2026-04-18T10:25:00+03:00'
         end_time: '2026-04-18T10:55:00+03:00'
@@ -181,7 +196,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-18T16:07:00+03:00'
         end_time: '2026-04-18T16:59:59+03:00'
-        description: |+
+        description: |-
           Madetoja: Tuulinen sää (Helena Juntunen, sopraano, ja Gustav Djupsjöbacka, piano).
 
           Brahms: Horch, der Wind klagt (Kuuntele, tuuli valittaa) teoks. Zigeunerlieder (Mustalaislauluja)  (RKK/Anders Eby, ja Antti Hotti, piano).
@@ -206,6 +221,7 @@ data:
 
           Konsertin on laatinut Inari Tilli.
 
+          Juontajana on Joni Timonen.
       - title: 'Marko Gustafsson: Käännekohdissa Sofia Ruija'
         start_time: '2026-04-18T17:00:00+03:00'
         end_time: '2026-04-18T17:53:00+03:00'

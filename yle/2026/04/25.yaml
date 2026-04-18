@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-17T03:08:59.522286+00:00'
+  generated_at: '2026-04-18T03:07:33.810834+00:00'
   git:
     branch: main
-    commit: 1b59413c18466ec42db212ac4425f8803ca1d1dd
-  data_hash: 6ee26bf3f7317e8aa25e6f6e549797152dfec4eb4487ebef382c81f23913156b
+    commit: e6b4d8d5d1c46abf60d358f9267e310f2af3c9f7
+  data_hash: fdc1281e06759d5ed1a80bf64ff4dfe95a7fb99d20f05d488a23c7f7fc339ec1
 data:
   '':
     programmes:
@@ -130,9 +130,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-25T15:25:00+03:00'
         end_time: '2026-04-25T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Korpi, räme, neva, luhta, letto – Suomessa on yli sata suotyyppiä, ja niiden nimet ovat tuhansia vuosia vanhoja '
         start_time: '2026-04-25T15:30:00+03:00'
         end_time: '2026-04-25T15:55:00+03:00'
+        description: |
+          Pasi Heikura tarpoo suossa seuranaan Suomen ympäristökeskuksen vanhempi tutkija Kaisu Aapala ja Helsingin yliopiston itämerensuomalaisten kielten dosentti Santeri Junttila. Ohjelmassa katsotaan myös noloja juttuja silmien läpi ja lopuksi ihmetellään kenkiä, jotka ovat kaikkien huulilla. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yle News
         start_time: '2026-04-25T15:55:00+03:00'
         end_time: '2026-04-25T15:58:00+03:00'
