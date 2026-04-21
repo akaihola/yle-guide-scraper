@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-20T03:09:45.858877+00:00'
+  generated_at: '2026-04-21T03:08:59.525626+00:00'
   git:
     branch: main
-    commit: 4cb53d133a9d9af9df79dd8be2a97fece7bc66d5
-  data_hash: f297e15ac07a0333339a099f92c74a22ac65534526d4807f0ad8e043fca24eb5
+    commit: 62e20fcb6152e616ec5ca873ee04fdd58772f835
+  data_hash: ed236dd9f9e39bde0aed71cd60d124cddb349fbd6581b49edff02d149d4e9e7c
 data:
   '':
     programmes:
@@ -38,7 +38,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-04-21T06:30:50+03:00'
         end_time: '2026-04-21T06:50:00+03:00'
-        description: |+
+        description: |-
           Tuntematon: Jumala ompi linnamme (Jorma Hynninen, baritoni, ja Pertti Eerola, urut).
 
           J.S. Bach: Dir, dir, Jehova, will ich singen (RKK/Andrew Lawrence-King, urut, ja Mika Suihkonen, violone).
@@ -49,19 +49,20 @@ data:
 
           Runyan: Uskollisuutesi suuri on (Braxén-kuoro/Harry Westerlund, ja Matti Pesonen, urut).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-04-21T06:50:00+03:00'
         end_time: '2026-04-21T06:59:59+03:00'
         description: |-
           "Kirjottuja elämänpuita"
-          Tekstiilitaiteilija ja käsityömestari Helana Vaari Hollolasta kertoo toteuttamiensa Hämeenkosken kirkon Elämänpuu-aiheisten kirkkotekstiilien luontosymboliikasta.
+          Tekstiilitaiteilija ja käsityömestari Helena Vaari Hollolasta kertoo toteuttamiensa Hämeenkosken kirkon Elämänpuu-aiheisten kirkkotekstiilien luontosymboliikasta.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T07:00:00+03:00'
         end_time: '2026-04-21T07:05:00+03:00'
       - title: Aamusoitto
         start_time: '2026-04-21T07:06:00+03:00'
         end_time: '2026-04-21T08:00:00+03:00'
-        description: |+
+        description: |-
           Frescobaldi: Canzona sesta (Christian Lindberg, pasuuna, ja Neal Peres da Costa, cembalo ja urut).
 
           Albéniz: Zortzico (David Russell, kitara).
@@ -84,6 +85,7 @@ data:
 
           Bizet: Habanera Carmen-sarjasta n:o 2 (New Yorkin filharmoninen orkesteri/Leonard Bernstein).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T08:00:00+03:00'
         end_time: '2026-04-21T08:07:00+03:00'
@@ -115,7 +117,7 @@ data:
           Warren: Jeepers creepers (Louis Armstrong).
           Van Heusen: To love and be loved (Frank Sinatra). 
 
-          Konsertin on toimittanut Riikka Holopainen.
+          Konsertin on toimittanut Riikka Holopainen. Juontajana Tatu Tamminen.
       - title: 'Sari Valto: Vainojen logiikka kertoo ihmisyyden nurjasta puolesta'
         start_time: '2026-04-21T10:00:00+03:00'
         end_time: '2026-04-21T10:55:00+03:00'
@@ -150,7 +152,7 @@ data:
         start_time: '2026-04-21T11:57:00+03:00'
         end_time: '2026-04-21T12:00:00+03:00'
         description: |-
-          Ote Mihail Šiškinin teoksesta Tulevaisuus
+          Ote Mihail Šiškinin teoksesta Tulevaisuus. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-21T12:00:00+03:00'
         end_time: '2026-04-21T12:05:00+03:00'
@@ -183,8 +185,12 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2026-04-21T15:00:00+03:00'
         end_time: '2026-04-21T15:55:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Suomalaisen kiertävän sirkuksen kruununjalokivi Sirkus Finlandia on nähnyt 50 vuoden aikana yhteiskunnan ja sirkustaiteen muutoksen. Enää sirkuksessa ei nähdä norsuja, mutta sirkustaide elää ajassa. Sirkus on aina ollut kansainvälistä ja se näkyy ja kuuluu myös Sirkus Finlandian arjessa. Ja vaikka sirkukseen liittyy paljon romantiikkaa, kiertävän sirkuksen arki on pitkälti työntekoa.
+
+          Kulttuuriykkönen kävi tutustumassa 50-vuotisjuhlakiertueeseen valmistautuvaan Sirkus Finlandiaan. Lähetyksessä ääneen pääsevät sirkuksen johtaja Calle Jernström Jr., Sirkus Finlandian miehensä kanssa perustanut Leena Jurvakainen, jonglööri Sofia Motturi ja klovni Anatoli Akerman.
+
+          Ohjelman toimittaa Pietari Kylmälä.
       - title: Yle News
         start_time: '2026-04-21T15:55:00+03:00'
         end_time: '2026-04-21T15:58:00+03:00'
@@ -228,7 +234,7 @@ data:
         start_time: '2026-04-21T17:00:00+03:00'
         end_time: '2026-04-21T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Hyvästi Yhdysvaltain konserttisalit! Viulisti Pekka Kuusisto päätti, ettei enää työskentele maassa, jonka hallinnon toimia on vaikea hyväksyä. Mitä Trumpin aika tekee yhdysvaltalaiselle kulttuurille? Pekka Kuusistoa haastattelee Reetta Rönkä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-21T17:20:00+03:00'
         end_time: '2026-04-21T17:35:00+03:00'
@@ -304,6 +310,8 @@ data:
           Ohjelmassa haastateltava EU:n entinen kauppaneuvottelija arvioi, että neuvotteluissa onnistuttiin luomaan sopimukseen EU:n maataloutta suojaavia kohtia. Myös suomalainen maatalousekonomisti katsoo sopimuksen Suomen maataloudelle nettovaikutuksiltaan myönteiseksi.
 
           Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Miina Väisänen ja Paula Vilén. Äänitarkkailijana on Pasi Ilkka. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+
+          Ohjelmasta on poistettu virheellinen ilmaisu Länsi-Ranskassa 20.4.2026 klo 13.15.
       - title: 'Politiikkaradio '
         start_time: '2026-04-21T21:00:00+03:00'
         end_time: '2026-04-21T21:30:00+03:00'

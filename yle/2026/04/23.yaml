@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-20T03:09:46.613561+00:00'
+  generated_at: '2026-04-21T03:08:59.879564+00:00'
   git:
     branch: main
-    commit: 4cb53d133a9d9af9df79dd8be2a97fece7bc66d5
-  data_hash: f297e15ac07a0333339a099f92c74a22ac65534526d4807f0ad8e043fca24eb5
+    commit: 62e20fcb6152e616ec5ca873ee04fdd58772f835
+  data_hash: ed236dd9f9e39bde0aed71cd60d124cddb349fbd6581b49edff02d149d4e9e7c
 data:
   '':
     programmes:
@@ -62,8 +62,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-04-23T06:50:00+03:00'
         end_time: '2026-04-23T06:59:59+03:00'
-        description: |-
-          Köyhyystutkija, dosentti Anna-Maria Isola, Helsinki
+        description: |
+          "Valppaus on etiikan ydin"
+          Köyhyystutkija, dosentti Anna-Maria Isola Helsingistä puhuu ajattelun ja vastuun ulkoistamisen vaaroista sekä tarkkaavaisuuden vaalimisen arvosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-04-23T07:00:00+03:00'
         end_time: '2026-04-23T07:05:00+03:00'
@@ -165,11 +166,17 @@ data:
           N. klo Kirjailija Emmi Itärantaa vavahdutti Tampereen Työväen Teatterin näytelmä Helene, joka kertoo rakastetun, kansainvälisesti tunnetuimman suomalaisen kuvataiteilijan elämästä. Toimittajana Marja Vehkanen.
 
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Mitä kuolleet meille kertovat?'
         start_time: '2026-04-23T15:00:00+03:00'
         end_time: '2026-04-23T15:55:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Onnettomuuksia ja rikoksia yhdistää toisinaan se, että kuolleiden henkilöllisyyttä voi olla vaikea selvittää. Eläkkeelle Helsingin poliisista jäänyt rikoskomisario Ismo Kopra on kirjoittanut tietokirjan Mykkä todistaja, jossa hän kertaa uraansa vainajien tunnistamisessa. Kopra oli mukana muun muassa Thaimaan tsunamin ja Estonian onnettomuuden selvittelytyössä.
+
+          Rikostoimittaja Linda Rantaselta puolestaan ilmestyy tällä viikolla teos Hiljaiset todistajat, mitä ruumiit meille kertovat. Kirjassa esitellään kuolemantapauksia, joissa vasta jälkikäteen on voitu todeta, että kyseess on ollut henkirikos.
+
+          Mitä kuolleet meille kertovat? Miten vainajien tunnistamisprosessi käytännössä toimii? Minkälaiset merkit vainajassa saavat tutkijat epäilemään rikosta? Kuinka kuormittavasta työstä on kyse? Miten aihepiiriä käsitellään suositussa true crime-kulttuurissa? 
+
+          Ohjelmassa ovat vieraana Ismo Kopra ja Linda Rantanen. Ville Talola toimittaa. 
       - title: Yle News
         start_time: '2026-04-23T15:55:00+03:00'
         end_time: '2026-04-23T15:58:00+03:00'
@@ -259,7 +266,7 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-04-23T20:00:00+03:00'
         end_time: '2026-04-23T20:57:00+03:00'
-        description: |+
+        description: |-
           Madetoja: Juhlamarssi näyt. Shakkipeli (Oulu Sinfonia/Arvo Volmer).
 
           Quantz: Sonaatti huilulle ja continuolle G-duuri (Barthold Kuijken, traverso, Wieland Kuijken, sello, ja Bob van Asperen, cembalo).
@@ -272,19 +279,27 @@ data:
 
           Vivaldi: Konsertto kahdelle mandoliinille, jousille ja continuolle G-duuri (Bonifacio Bianchi ja Alessandro Pitrelli sekä Veneton solistit/Claudio Scimone).
 
+          Juontajana Tatu Tamminen.
       - title: 'Politiikkaradio '
         start_time: '2026-04-23T21:00:00+03:00'
         end_time: '2026-04-23T21:30:00+03:00'
+      - title: 'Tosi tarina: Addiktio: Henna ja päihteet'
+        start_time: '2026-04-23T21:31:00+03:00'
+        end_time: '2026-04-23T22:21:11+03:00'
+        description: |+
+          Mitä kaikkea päihteiden maailmaan ajautumisen taustalta voi löytyä ja millaista on elämä erilaisten maailmojen välissä? Vaikea lapsuus, huumausaineet ja laitoskierre ovat kolmekymppisen Hennan menneisyyttä. Nykyään hän opiskelee ja yrittää selviytyä arjesta parhaansa mukaan kolmevuotiaan taaperon, innokkaan koiran ja rottien kanssa. Henna kertoo oman tarinansa lapsuudesta tähän hetkeen ja mitä itse ajattelee kaikesta kokemastaan.
+          Toteutus: Pauliina Motturi, Joonatan Kotila ja Sami Hahtala
+
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 4/10'
-        start_time: '2026-04-23T22:31:00+03:00'
-        end_time: '2026-04-23T22:59:00+03:00'
+        start_time: '2026-04-23T22:24:33+03:00'
+        end_time: '2026-04-23T22:42:00+03:00'
         description: |-
           Osa 4/10. Jane Austenin Northanger Abbey.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-04-23T23:01:00+03:00'
-        end_time: '2026-04-23T23:57:00+03:00'
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Hyrisevät pinnat ja hitaat siirtymät'
+        start_time: '2026-04-23T23:04:00+03:00'
+        end_time: '2026-04-23T23:59:25+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-04-24T00:00:00+03:00'
         end_time: '2026-04-24T06:30:00+03:00'

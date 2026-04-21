@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-20T03:09:48.995351+00:00'
+  generated_at: '2026-04-21T03:09:01.174743+00:00'
   git:
     branch: main
-    commit: 4cb53d133a9d9af9df79dd8be2a97fece7bc66d5
-  data_hash: f297e15ac07a0333339a099f92c74a22ac65534526d4807f0ad8e043fca24eb5
+    commit: 62e20fcb6152e616ec5ca873ee04fdd58772f835
+  data_hash: ed236dd9f9e39bde0aed71cd60d124cddb349fbd6581b49edff02d149d4e9e7c
 data:
   '':
     programmes:
@@ -71,9 +71,12 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-30T09:04:00+03:00'
         end_time: '2026-04-30T09:59:00+03:00'
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Käännekohdissa Arttu Unkari'
         start_time: '2026-04-30T10:00:00+03:00'
         end_time: '2026-04-30T10:53:00+03:00'
+        description: |
+          Arttu Unkari nautti työstään alakoulun opettajana, mutta Isämies -kirjasarja mahdollisti päivätyöstä luopumisen ja hän lopetti opettajan hommat. 
+          Unkari oli noin vuoden päätoimisena kirjailijana ja huomasi voivansa varsin huonosti. Kun hän palasi takaisin alakoulun opettajaksi, niin myös ahdistus katosi. Arttu Unkarin suosittua Isämies - sarjaa on myyty jo yli 300 000 kappaletta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-30T10:53:00+03:00'
         end_time: '2026-04-30T11:00:00+03:00'
@@ -120,10 +123,10 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-04-30T16:07:00+03:00'
         end_time: '2026-04-30T16:59:00+03:00'
-        description: |+
-          Offenbach: Galoppi oper. Geneviève de Brabant (Boston Pops -ork./Arthur Fiedler).
+        description: |-
+          Offenbach: Galoppi oper. Geneviève de Brabant (Boston Pops/Arthur Fiedler).
 
-          Sihvola: Liikettä kalossiin, polkka saksofonille ja pianolle (Olli-Pekka Tuomisalo ja Risto-Matti Marin).
+          Sihvola: Liikettä kalossiin (Olli-Pekka Tuomisalo, saksofoni, ja Risto-Matti Marin, piano).
 
           Tshaikovski: Valssi oopp. Jevgeni Onegin (New Yorkin FO/Kurt Masur).
 
@@ -139,14 +142,13 @@ data:
 
           Karajev: Intialainen kaunotar bal. Seitsemän kaunotarta (Lontoon kuninkaallinen FO/Dmitri Jablonski).
 
-          Respighi: Kevät sarj. Botticellin triptyykki (New Yorkin kamariork./Salvatore Di Vittorio).
+          Respighi: La primavera (Kevät) sarj. Trittico Botticelliano (Botticellin triptyykki) (New Yorkin kamariork./Salvatore Di Vittorio).
 
           Bacewicz: Slaavilainen tanssi (David Juritz, viulu, ja Diana Ambache, piano).
 
-          J. Strauss (nuor.): Kevään ääniä, valssi (Wienin sinfonikot/Manfred Honeck). 
+          J. Strauss, nuor.: Frühlingsstimmen (Kevään ääniä) (Wienin sinfonikot/Manfred Honeck). 
 
-          Konsertin laati EvaTigerstedt
-
+          Konsertin on laatinut EvaTigerstedt.
       - title: Uutispodcast
         start_time: '2026-04-30T17:00:00+03:00'
         end_time: '2026-04-30T17:20:00+03:00'

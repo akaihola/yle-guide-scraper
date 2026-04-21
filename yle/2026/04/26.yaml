@@ -1,20 +1,37 @@
 metadata:
-  generated_at: '2026-04-20T03:09:47.604645+00:00'
+  generated_at: '2026-04-21T03:09:00.518634+00:00'
   git:
     branch: main
-    commit: 4cb53d133a9d9af9df79dd8be2a97fece7bc66d5
-  data_hash: f297e15ac07a0333339a099f92c74a22ac65534526d4807f0ad8e043fca24eb5
+    commit: 62e20fcb6152e616ec5ca873ee04fdd58772f835
+  data_hash: ed236dd9f9e39bde0aed71cd60d124cddb349fbd6581b49edff02d149d4e9e7c
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-04-25T23:40:00+03:00'
         end_time: '2026-04-26T07:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-04-26T07:00:30+03:00'
-        end_time: '2026-04-26T07:57:00+03:00'
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Oi kevät'
+        start_time: '2026-04-26T07:00:47+03:00'
+        end_time: '2026-04-26T07:56:01+03:00'
         description: |-
+          Kevät saapuu ja sekös ilahduttaa polunraivaajaa. Klasariparatiisi kuulostelee vuodenajan musiikkia ja tarkistaa kasvillisuuden tilan.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Claudio Monteverdi: O primavera (Suzie LeBlanc, sopraano, Daniel Taylor kontratenori, ja Les Voix Humaines).
+
+          Luca Marenzio: Leggiadrissima eterna primavera (La Compagnia del Madrigale).
+
+          Antonio Vivaldi: Zeffiretti, che sussurrate (Cecilia Bartoli, mezzosopraano, ja Il Giardino Armonico/Giovanni Antonini).
+
+          Sven-David Sandström: April och tystnad (Eric Ericsonin kamarikuoro/Eric Ericson).
+
+          Kaija Saariaho: Der Frühling, teoksesta Tag des Jahrs (Helsingin kamarikuoro/Nils Schweckendiek, ja Timo Kurkikangas, elektroniikka).
+
+          Rebecca Clarke: Philomela (Cambridge Choir of Gonville and Caius College/Geoffrey Webber).
+
+          Carl Philipp Emanuel Bach: Sonaatti huilulle, viululle ja continuolle C-duuri Wq149 (Pauliina Fred, huilu, Minna Kangas, viulu, ja Aapo Häkkinen, cembalo).
       - title: Yle Uutiset ja sää
         start_time: '2026-04-26T08:00:00+03:00'
         end_time: '2026-04-26T08:05:05+03:00'
@@ -149,38 +166,62 @@ data:
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-04-26T19:02:30+03:00'
         end_time: '2026-04-26T20:00:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Varkauden adventtiseurakunnasta
         start_time: '2026-04-26T20:00:00+03:00'
         end_time: '2026-04-26T21:00:00+03:00'
         description: |-
-          Jumalanpalvelus Varkauden adventtiseurakunnasta.
-          Saarnaajana seurakuntatyöntekijä Veli Keronen, kokousta johtaa Maija Malinen.
-          Tekstinlukijana Eeva-Kaisa Immonen.
-          Muusikot:
-          Markku Eronen, urut ja esilaulu
-          Eriikka Laukkanen, piano
-          Mirka Baffoe-Mensah, viulu
-          Lauluryhmä
+          Kokousta johtaa Maija Malinen. Saarnaajana seurakuntatyöntekijä Veli Keronen. Yhteislaulut Seurakunta laulaa -kirjasta:
+          179, 392, 231, 522.
       - title: Uutispodcast
         start_time: '2026-04-26T21:00:30+03:00'
         end_time: '2026-04-26T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Oi kevät'
         start_time: '2026-04-26T21:25:00+03:00'
-        end_time: '2026-04-26T22:22:00+03:00'
+        end_time: '2026-04-26T22:20:14+03:00'
         description: |-
+          Kevät saapuu ja sekös ilahduttaa polunraivaajaa. Klasariparatiisi kuulostelee vuodenajan musiikkia ja tarkistaa kasvillisuuden tilan.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Claudio Monteverdi: O primavera (Suzie LeBlanc, sopraano, Daniel Taylor kontratenori, ja Les Voix Humaines).
+
+          Luca Marenzio: Leggiadrissima eterna primavera (La Compagnia del Madrigale).
+
+          Antonio Vivaldi: Zeffiretti, che sussurrate (Cecilia Bartoli, mezzosopraano, ja Il Giardino Armonico/Giovanni Antonini).
+
+          Sven-David Sandström: April och tystnad (Eric Ericsonin kamarikuoro/Eric Ericson).
+
+          Kaija Saariaho: Der Frühling, teoksesta Tag des Jahrs (Helsingin kamarikuoro/Nils Schweckendiek, ja Timo Kurkikangas, elektroniikka).
+
+          Rebecca Clarke: Philomela (Cambridge Choir of Gonville and Caius College/Geoffrey Webber).
+
+          Carl Philipp Emanuel Bach: Sonaatti huilulle, viululle ja continuolle C-duuri Wq149 (Pauliina Fred, huilu, Minna Kangas, viulu, ja Aapo Häkkinen, cembalo).
       - title: 'Sari Valto '
-        start_time: '2026-04-26T22:23:00+03:00'
-        end_time: '2026-04-26T23:17:00+03:00'
+        start_time: '2026-04-26T22:21:00+03:00'
+        end_time: '2026-04-26T23:15:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Romano mirits
-        start_time: '2026-04-26T23:26:00+03:00'
+      - title: 'Romano mirits: Nuori yrittäjä Ronja Koivisto inspiroi omalla polullaan'
+        start_time: '2026-04-26T23:24:38+03:00'
         end_time: '2026-04-26T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |
+          Haastattelimme 25-vuotiasta parturi kampaaja yrittäjää Ronja Koivistoa, joka on toiminut
+          yrittäjänä jo kaksi vuotta. Ronja tekee työtään omalta vuokra penkiltään Hiushuone
+          Dandy’ssa Helsingin hakaniemessä. Iloinen ja lämminhenkinen Ronja kertoi yrittäjyyden
+          polustaan, johon on mahtunut sekä haasteita että oppimista. Hänen mukaansa “ansat ja
+          sudenkuopat on käytävä läpi, jotta niistä voi vahvistua”.
+
+          Ronjalla on erityisosaamista kihariin hiuksiin, ja intohimo näkyy vahvasti hänen työssään.
+          Yksi uran kohokohdista oli osallistuminen Helsingin Sanomien Kuukausiliitteen Artistit,
+          yhteisö, taide ja perinteet -kokonaisuuteen, jossa hän pääsi tekemään hiuksia
+          romaanitaiteilijoille – kokemus, joka jäi syvästi mieleen.
+
+          Koko haastattelun ajan Ronjasta välittyi positiivinen, eteenpäin katsova asenne. On
+          inspiroivaa nähdä nuori romaaniyrittäjä, joka rohkeasti rakentaa omaa tulevaisuuttaan ja
+          kulkee määrätietoisesti kohti omia unelmiaan. Tomittajana Dimitri Grönfors. 
       - title: Yöklassinen
         start_time: '2026-04-26T23:40:00+03:00'
         end_time: '2026-04-27T06:30:00+03:00'
