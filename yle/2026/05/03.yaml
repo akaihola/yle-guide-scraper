@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-21T03:09:01.867070+00:00'
+  generated_at: '2026-04-22T03:09:27.916677+00:00'
   git:
     branch: main
-    commit: 62e20fcb6152e616ec5ca873ee04fdd58772f835
-  data_hash: ed236dd9f9e39bde0aed71cd60d124cddb349fbd6581b49edff02d149d4e9e7c
+    commit: 3a44905e87e33ca9cd7b3b46ebc48001d69b7cf8
+  data_hash: e2cf9d6ba9227694b9a5edfda4ffa709fd58a16b5cabd3fdbc92cbf4a0496041
 data:
   '':
     programmes:
@@ -111,9 +111,11 @@ data:
           Sieczynski: Wien, du Stadt meiner Träume (Wien, unelmieni kaupunki) (Elisabeth Schwarzkopf, sopraano, ja Lontoon Philharmonia-ork./Otto Ackermann).
 
           Konsertin on laatinut Inari Tilli.
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Taraful Cantea & Fanfara Complexa '
         start_time: '2026-05-03T17:00:00+03:00'
         end_time: '2026-05-03T18:00:00+03:00'
+        description: |
+          Romanialainen Taraful Cantea ja unkarilainen Fanfara Complexa konsertoivat Budapestin uudessa musiikkitalossa 26.1.2025. Konsertissa kuullaan perinteisiä kansansävelmiä Romaniasta ja Moldovasta. Toimittajana Miika Lauriala. 
       - title: Jazzklubi
         start_time: '2026-05-03T18:00:30+03:00'
         end_time: '2026-05-03T19:00:00+03:00'
