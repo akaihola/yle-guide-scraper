@@ -1,15 +1,58 @@
 metadata:
-  generated_at: '2026-04-22T03:09:26.259321+00:00'
+  generated_at: '2026-04-23T03:09:10.458006+00:00'
   git:
     branch: main
-    commit: 3a44905e87e33ca9cd7b3b46ebc48001d69b7cf8
-  data_hash: e2cf9d6ba9227694b9a5edfda4ffa709fd58a16b5cabd3fdbc92cbf4a0496041
+    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
+  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-04-27T23:40:00+03:00'
         end_time: '2026-04-28T06:30:00+03:00'
+        description: |+
+          Vejvanovský: Balletti per il carnuale (Musica Florea/Marek Stryncl).
+
+          23:51 C.P.E. Bach: Sonaatti huilulle ja continuolle D-duuri (Hans-Martin Linde, traverso, ja Konrad Ragossnig, kitara).
+
+          00:01 Kahn: Variationen über ein altes Lied (Muunnelmia vanhasta laulusta) a-molli (Elina Vähälä, viulu, ja Oliver Triendl, piano).
+
+          00:18 Wolf-Ferrari: Orkesterisarja oopp. Madonnan jalokivet (BBC:n FO/Gianandrea Noseda).
+
+          00:36 Mendelssohn: Kuusi laulua (RKK/Heikki Liimola).
+
+          00:50 W.A. Mozart: Jousikvartetto n:o 23 F-duuri. (Emerson-kvartetti).
+
+          01:18 Brahms: Sonaatti viululle ja pianolle n:o 1 G-duuri (Itzhak Perlman, viulu ja Daniel Barenboim, piano).
+
+          01:44 Borodin: Sinfonia n:o 3 a-molli (keskeneräinen) (Seattlen SO/Gerard Schwarz).
+
+          02:03 Sallinen: Shadows. (RSO/Leif Segerstam).
+
+          02:12 Ziehrer: Gramofoonivalssi (Radion viihdeork./George de Godzinsky).
+
+          00:20 Beethoven: Sonaatti pianolle n:o 1 f-molli op.2/1 (Svjatoslav Richter, piano).
+
+          02:41 Respighi (sov.): Viisi kappaletta Rahmaninovin pianokappaleista (Minnesotan ork./Eiji Oue). 
+
+          03:05 Schubert: Pianosonaatti n:o 21 B-duuri (Rudolf Serkin).
+
+          03:50 Saint-Saens: Sellokonsertto n:o 1 a-molli (Jacqueline Du Pré ja Philadelphian ork./Daniel Barenboim).
+
+          04:12 Delius: Sea drift (Bruce Boyce, baritoni, BBC:n kuoro ja Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          04:37 W.A. Mozart: Sinfonia n:o 35 D-duuri (Haffner) (Amsterdamin Concertgebouw-ork./Nikolaus Harnoncourt).
+
+          05:00 de La Rue: Missa Conceptio tua. (Schola Antiqua of Chicago/Michael Alan Anderson).
+
+          05:32 Mendelssohn: Andante E-duuri op.81/1 (Aurora-kvartetti).
+
+          05:38 Went: Partita dis-molli (Collegium Musicum Pragensae/Frantisek Vajnar).
+
+          05:55 V. Raitio: Kolme pientä pianokappaletta lapsille (Liisa Pohjola).
+
+          05:58 Weiss: Luuttusonaatti c-molli (Robert Barto, barokkiluuttu).
+
       - title: Hartaita säveliä
         start_time: '2026-04-28T06:30:50+03:00'
         end_time: '2026-04-28T06:50:00+03:00'
@@ -67,6 +110,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-04-28T08:07:00+03:00'
         end_time: '2026-04-28T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-04-28T09:00:00+03:00'
         end_time: '2026-04-28T09:03:00+03:00'
@@ -207,7 +252,7 @@ data:
         end_time: '2026-04-28T19:02:00+03:00'
       - title: Nuori Sorjonen - hiljainen uhri J8
         start_time: '2026-04-28T19:02:00+03:00'
-        end_time: '2026-04-28T19:45:00+03:00'
+        end_time: '2026-04-28T19:37:00+03:00'
         description: |-
           Lopulta kaikki johtolangat osoittavat samaan mieheen ja viimeinen jahti käynnistyy. Sorjonen joutuu kohtaamaan paitsi kaappaajan myös menneisyyden haamut ja sen, mitä oikeuden toteutuminen todella vaatii ja miten Kari tämän kaiken jälkeen jatkaa.
       - title: Romano mirits
@@ -215,9 +260,11 @@ data:
         end_time: '2026-04-28T20:15:00+03:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Anne Ahosen laji on tai chi'
         start_time: '2026-04-28T20:15:00+03:00'
         end_time: '2026-04-28T20:35:00+03:00'
+        description: |-
+          Anne Ahosen laji on tai chi. Toimittajana Maija Salminen.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-04-28T20:35:00+03:00'
         end_time: '2026-04-28T21:00:00+03:00'
@@ -235,3 +282,37 @@ data:
       - title: Yöklassinen
         start_time: '2026-04-28T23:40:00+03:00'
         end_time: '2026-04-29T06:30:00+03:00'
+        description: |+
+          Schumann: Sellokonsertto a-molli (Arto Noras ja RSO/Sakari Oramo).
+
+          00:04 Wagner: Siegfried-idylli (Chicagon SO/Daniel Barenboim).
+
+          00:23 Reger: Muunnelmia ja fuuga Bachin teemasta (Rudolf Serkin, piano).
+
+          00:55 Gershwin: Lullaby (Clevelandin ork./Riccardo Chailly).
+
+          01:03 Kuula: Tuijotin tulehen kauan (Jorma Hynninen, baritoni, ja Gustav Djupsjöbacka, piano).
+
+          01:09 Brahms: Kaksi yksinlaulua altolle, alttoviululle ja pianolle Op. 91 (Marilyn Horne, mezzosopraano, Pinchas Zukerman, alttoviulu, ja Martin Katz, piano).
+
+          01:21 Tshaikovski: Jousikvartetto n:o 2 F-duuri (Vermeer-kvartetti).
+
+          01:59 Sibelius: Orkesterisarja näyt. Belsassarin pidot (RSO/Jukka-Pekka Saraste).
+
+          02:13 Franck: Sonaatti viululle ja pianolle A-duuri (Pinchas Zukerman ja Marc Neikrug).
+
+          02:42 Beethoven: Sinfonia n:o 7 A-duuri (Wienin filharmonikot/Herbert von Karajan).
+
+          03:18 W.A. Mozart: Adagio ja fuuga c-molli (Dresdenin Staatskapelle/Peter Schreier).
+
+          03:25 Debussy: Khamma (Concertgebouw-ork./Riccardo Chailly).
+
+          03:47 Mendelssohn: Elia, 2-osainen oratorio (Thomas Hampson, baritoni, Barbara Bonney, sopraano, Marietta Simpson, mezzosopraano, Henriette Schellenberg, sopraano, Florence Quivar, mezzosopraano, Jerry Hadley, tenori, ja Richard Clement, tenori, sekä Atlantan sinfoniakuoro ja -SO/Robert Shaw). 
+
+          06:03 W.A. Mozart: Pianosonaatti n:o 2 F-duuri (Clara Haskil).
+
+          06:15 Kansansäv. (sov. Berio): Onneton on se, jolla on vaimo (Dawn Upshaw, sopraano, ja The Andalucian Dogs).
+
+          06:17 Avison: Concerto grosso D. Scarlattin mukaan n:o 9 C-duuri (The Brandenburg Consort/Roy Goodman).
+
+...

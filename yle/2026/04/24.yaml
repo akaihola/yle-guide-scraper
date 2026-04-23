@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-22T03:09:21.347465+00:00'
+  generated_at: '2026-04-23T03:09:08.678527+00:00'
   git:
     branch: main
-    commit: 3a44905e87e33ca9cd7b3b46ebc48001d69b7cf8
-  data_hash: e2cf9d6ba9227694b9a5edfda4ffa709fd58a16b5cabd3fdbc92cbf4a0496041
+    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
+  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
 data:
   '':
     programmes:
@@ -221,22 +221,13 @@ data:
         end_time: '2026-04-24T19:02:00+03:00'
       - title: Tampere Biennale 40 vuotta -juhlakonsertti
         start_time: '2026-04-24T19:02:00+03:00'
-        end_time: '2026-04-24T21:00:00+03:00'
-        description: |-
-          Usko Meriläisen Suvisoitto on duetto heinäsirkoille ja huilulle, Sebastian Fagerlundin Stonework tutkii kiven syvintä olemusta. Matilda Seppälän uutuudesta odotetaan hyperindividualismin purkuspektaakkelia, joka kaataa sosiaaliset normit ja vakiintuneet hierarkiat kumoon. Markku Klamin koskettava Requiem on enemmän kuin viulukonsertto – se on henkilökohtainen surutyö ja toivon turvasatama; se on sielunmessu elämälle, joka jäi alkamatta.
+        end_time: '2026-04-24T20:32:00+03:00'
+        description: |
+          Tampere Filharmonian konsertti juhlistaa Tampere Biennalen 40-vuotista taivalta. Solisteina esiintyvät huilisti Malla Vivolin ja viulisti Maria Puusaari, ja musiikkia johtaa Ruut Kiiski. 
+          Konsertissa kuullaan musiikkia viideltä eri säveltäjältä. Suomalaista säveltaidetta edustavat Usko Meriläisen, Markku Klamin, Matilda Seppälän ja Sebastian Fagerlundin teokset. Klamilta ja Seppälältä kuullaan aivan uudet sävellykset.  
+          Ohjelmassa on myös puolalaisen Agata Zubelin Fireworks, joka päättää konsertin.
 
-          Kuvassa: Säveltäjä Matilda Seppälä
-
-          Tampere Filharmonia
-          Ruut Kiiski, kapellimestari
-          Maria Puusaari, viulu
-          Malla Vivolin, huilu
-
-          Usko Meriläinen: Suvisoitto (1979)
-          Markku Klami (*1979): Viulukonsertto: Requiem (ke)
-          Sebastian Fagerlund (*1972): Stonework (2015)
-          Matilda Seppälä (*1993): Hetki jolloin huomaamme toisemme, Tampere Filharmonian tilausteos (ke)
-          Agata Zubel (*1978): Fireworks (2018) (Adam Mickiewicz Instituten tilausteos)
+          Konsertin toimittaa Ainomaija Pennanen.  
       - title: 'Politiikkaradio '
         start_time: '2026-04-24T21:00:00+03:00'
         end_time: '2026-04-24T21:30:00+03:00'
