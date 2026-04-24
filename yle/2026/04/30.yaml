@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-23T03:09:11.227786+00:00'
+  generated_at: '2026-04-24T03:09:39.289316+00:00'
   git:
     branch: main
-    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
-  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
+    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
+  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
 data:
   '':
     programmes:
@@ -153,11 +153,13 @@ data:
       - title: Politiikkaradio
         start_time: '2026-04-30T13:00:00+03:00'
         end_time: '2026-04-30T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: Paljon onnea! -Ylioppilaskunnan soittajat täyttää 100 vuotta
         start_time: '2026-04-30T13:30:00+03:00'
         end_time: '2026-04-30T15:00:00+03:00'
-        description: |2+
+        description: |
+          Ylioppilaskunnan soittajat viettää 100-vuotiskevättään. Orkesterin kapellimestari Aku Sorensen ja puheenjohtaja Eevi Hakala ovat Miia Lahden haastateltavina n. klo 14. Miten yhteisöllinen joukko perinteikäs orkesteri on? Vapunpäivänä Ylioppilaskunnan soittajat muuten tahdittavat taas Vanhan ylioppilastalon vapputanssiaisia.
 
+          Sopraano Helena Juntunen on lauantaina kuultavan Oopperaillan vieraana. Ahti Paunu kysyy klo 14:30 Juntuselta, miten paljon oopperalaulaja miettii arjessaan äänensä kuntoa.
       - title: Kulttuuriykkönen
         start_time: '2026-04-30T15:00:00+03:00'
         end_time: '2026-04-30T15:55:00+03:00'
@@ -215,7 +217,28 @@ data:
         start_time: '2026-04-30T17:35:00+03:00'
         end_time: '2026-04-30T18:25:00+03:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Vappu on paitsi kevään ja ylioppilaiden, myös juuriltaan työväen juhla. Tuuli Saksalan keitaalla soi työlauluja ja työväenlauluja. Miltä ne kuulostavat juuri nyt tässä ajassa? Ja voisiko niistä oppia jotain?
+
+          Työlaulut ovat rytmittäneet raskaita ja yksitoikkoisia töitä, niitä on laulettu yksin ja yhdessä. Työväenlaulut taas puhuvat työtä tekevän väen puolesta – niillä halutaan saada työläisen ääni kuuluviin ja kertoa raskaista olosuhteista, pienistä palkoista ja yhteenkuuluvuudesta.
+
+          Työväenlaulujen tarina alkaa Ranskan vallankumouksesta, ja monesta on tullut aikaa kestäviä klassikoita, joista tehdään aina uusia tulkintoja. Ohjelmassa kuullaan muun muassa Bob Marleyn laulu työstä, ikoninen Bella Ciao sekä kotimaisia tulkintoja Celenkalta, Paleface ja Laulavalta Unionilta ja Veljeksiltä Chydeniukselta. 
+
+          Bob Marley and the Wailers: Work
+          Soul Captain Band: Vapauden kaiho
+          Jukka Ahti: Vapauden aamu
+          Victor Jara: Manifiesto
+          Mon Laferte & Co: El Derecho de vivir en Paz
+          A Sud di Bella Ciao: Bella ciao
+          Pete Seeger: Which side are you on?
+          Celenka: Työväenlaulu
+          Valma ja Varsinaiset: Pyydänkö liikaa?
+          Paleface ja Laulava Unioni: Proletaarin valssi
+          Veljekset Chydenius: Siirtotyöläinen
+
+          Toimittaja: Tuuli Saksala
+          Tuottaja: Elina Roms
+          Vastaava tuottaja: Karoliina Vesa
+          Vastaava toimittaja: Johanna Törn-Mangs 2026
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-04-30T18:25:00+03:00'
         end_time: '2026-04-30T18:35:00+03:00'

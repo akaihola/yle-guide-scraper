@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-23T03:09:15.438224+00:00'
+  generated_at: '2026-04-24T03:09:42.294742+00:00'
   git:
     branch: main
-    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
-  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
+    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
+  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
 data:
   '':
     programmes:
@@ -28,7 +28,7 @@ data:
         start_time: '2026-05-16T08:25:00+03:00'
         end_time: '2026-05-16T08:35:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Veli Loponen, Metodistikirkko, Helsinki
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-16T08:35:00+03:00'
         end_time: '2026-05-16T08:40:00+03:00'
@@ -147,6 +147,15 @@ data:
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2026-05-16T19:02:00+03:00'
         end_time: '2026-05-16T21:00:00+03:00'
+        description: |+
+          Bartók: Viulukonsertto n:o 2 (Anne-Sophie Mutter ja Bostonin SO/Seiji Ozawa).
+           
+          Janácek: Sinfonietta (Clevelandin ork./Christoph von Dohnanyi).
+
+          Stravinsky: Tulilintu, baletti (Chicagon SO/Pierre Boulez).
+
+          Fauré: Berceuse (Anne-Sophie Mutter, viulu, ja Wienin filharmonikot/James Levine).
+
       - title: Uutispodcast
         start_time: '2026-05-16T21:01:00+03:00'
         end_time: '2026-05-16T21:25:00+03:00'

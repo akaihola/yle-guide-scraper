@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-23T03:09:09.196281+00:00'
+  generated_at: '2026-04-24T03:09:38.368284+00:00'
   git:
     branch: main
-    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
-  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
+    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
+  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
 data:
   '':
     programmes:
@@ -75,7 +75,7 @@ data:
       - title: 'Maailman tärkein pieni asia: Anne Ahosen laji on tai chi'
         start_time: '2026-04-25T08:40:00+03:00'
         end_time: '2026-04-25T09:00:00+03:00'
-        description: |-
+        description: |
           Anne Ahosen laji on tai chi. Toimittajana Maija Salminen.
       - title: 'Yle Uutiset '
         start_time: '2026-04-25T09:00:00+03:00'
@@ -142,16 +142,16 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-04-25T13:55:00+03:00'
         end_time: '2026-04-25T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Nykytelevision murrokset'
         start_time: '2026-04-25T14:00:00+03:00'
         end_time: '2026-04-25T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: 'Ykköskolumni: Onko säästämisessä enää järkeä, jos vatsatautinen vanhus lähetetään hoitoon 300 kilometrin päähän?'
+      - title: 'Ykköskolumni: Trumpin hallinto ei hylännyt arvoja vaan valitsi uudet'
         start_time: '2026-04-25T14:55:00+03:00'
         end_time: '2026-04-25T15:00:00+03:00'
         description: |-
-          Media toistelee, että tulossa ovat velkavaalit. Poliitikoille se sopii: rahasta on helpompi puhua kuin terveydenhuollon luhistumisesta, tiedetoimittaja ja terveysviestinnän tutkija Ulla Järvi toteaa.
+          USA:n hallinnon puheet yhteisestä sivilisaatiosta ovat tunteellista sumutusta. Euroopalle on elintärkeää nähdä vedätyksen läpi, tutkija ja tietokirjailija Timo R. Stewart toteaa.
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 5/10'
         start_time: '2026-04-25T15:00:00+03:00'
         end_time: '2026-04-25T15:25:00+03:00'
@@ -217,21 +217,25 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-04-25T18:10:00+03:00'
         end_time: '2026-04-25T19:00:00+03:00'
-        description: |-
+        description: |+
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
+      - title: Yle Uutiset ja sää
+        start_time: '2026-04-25T19:00:00+03:00'
+        end_time: '2026-04-25T19:02:00+03:00'
       - title: 'Oopperailta New Yorkin Metropolitanissa: Kaija Saariahon Innocence'
-        start_time: '2026-04-25T19:02:00+03:00'
-        end_time: '2026-04-25T21:00:00+03:00'
+        start_time: '2026-04-25T19:03:00+03:00'
+        end_time: '2026-04-25T21:15:15+03:00'
         description: |-
           Kaija Saariaho: Innocence. Libretto: Sofi Oksanen ja Aleksi Barrière. Musiikinjohto: Susanna Mälkki. Metropolitan-oopperan kuoro ja orkesteri. Rooleissa: Jacquelyn Stucker, sopraano - Morsian. Katheleen Kim, sopraano - Anoppi. Joyce DiDonato, mezzosopraano - Tarjoilija. Miles Mykkanen, tenori - Sulhanen. Rod Gilfry, baritoni - Appi. Stephen Milling, bassobaritoni - Pappi. Lucy Shelton, laulu - Opettaja. Vilma Jää, laulu - Markéta. Beate Mordal, laulaja-näyttelijä - Lilly. Julie Hega, näyttelijä - Iris. Simon Kluth, näyttelijä - Anton. Camilo Delgado Díaz, näyttelijä - Jerónimo. Marina Dumont Anastassiadou, näyttelijä - Alexia. - Äänitetty New Yorkin Metropolitan-oopperassa 18.4. Ohjelman toimittaa Noora Hirn.
-      - title: Uutispodcast
-        start_time: '2026-04-25T21:01:00+03:00'
-        end_time: '2026-04-25T21:25:00+03:00'
+      - title: 'Uutispodcast: Tekoäly ja Venäjän vaikutus – näihin uudet kirjeenvaihtajat aikovat pureutua'
+        start_time: '2026-04-25T21:15:45+03:00'
+        end_time: '2026-04-25T21:39:48+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Rosa Kettumäki on Ylen uusi kirjeenvaihtaja Yhdysvalloissa ja Hanna Visala Itä-Euroopassa. Mitä tulevat kirjeenvaihtajat aikovat raportoida eri puolilta maailmaa? Haastattelijana Leonard Wilhelmus.
       - title: 'Klassikkokuunnelma: Putkinotko 3/3'
-        start_time: '2026-04-25T21:51:00+03:00'
-        end_time: '2026-04-25T22:30:00+03:00'
+        start_time: '2026-04-25T22:03:30+03:00'
+        end_time: '2026-04-25T22:38:33+03:00'
         description: |-
           Osa 3/3. Kirjakauppias Aapeli Muttisella on vuokralla viinatrokari ja velikulta Juutas Käkriäinen kera monilukuisen perheensä. 
           Joel Lehtosen romaanin pohjalta sovittanut ja ohjannut Urpo Lauri. 

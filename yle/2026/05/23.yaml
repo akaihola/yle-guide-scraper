@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-23T03:09:17.479859+00:00'
+  generated_at: '2026-04-24T03:09:43.885603+00:00'
   git:
     branch: main
-    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
-  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
+    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
+  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
 data:
   '':
     programmes:
@@ -25,7 +25,7 @@ data:
         start_time: '2026-05-23T08:25:00+03:00'
         end_time: '2026-05-23T08:35:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Lassi Nuutinen, Ortodoksinen kirkko, Tampere
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-23T08:35:00+03:00'
         end_time: '2026-05-23T08:40:00+03:00'
@@ -100,6 +100,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-05-23T16:07:00+03:00'
         end_time: '2026-05-23T16:59:59+03:00'
+        description: |-
+          Händel: Saban kuningattaren tulo orat. Salomo (Les Concerts du Monde/Keith Clark).
+
+          Deutscher: The lonely pine-tree (Yksinäinen mänty) (Alma Deutscher, piano). 
+
+          Puccini: Mimin, Rodolfon, Musettan ja Marcellon kvartetto "Addio, dolce svegliare" oopp. La Bohème (Mirella Freni, sopraano, Nicolai Gedda, tenori, Mariella Adani, sopraano, Mario Sereni, baritoni, sekä Rooman oopperan kuoro ja ork./Thomas Schippers).
+
+          Tschetschulin: Berceuse (Annemarie Åström, viulu, ja Sonja Fräki, piano). 
+
+          Fauré: Après un rêve (Unen jälkeen) (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          Gjeilo: The ground (Tenebrae, Ola Gjeilo, piano, ja Chamber Orchestra of London).
+
+          Chaminade: La lisonjera (Mairittelija) (Peter Jacobs, piano).
+
+          R. Strauss: Oktavianin, Marsalkattaren ja Sophien tertsetto "Marie Theres'! - Hab mir's gelobt - Ist ein Traum, kann nicht wirklich sein" oopp. Ruusuritari (Anne-Sofie von Otter, mezzosopraano, Renée Fleming ja Heidi Grant Murphy, sopraano, sekä Metropolitan-oopperan ork./James Levine).
+
+          Nava d'Adda: Scherzo pianotriosta Es-duuri (La Gaia Scienza).
+
+          Dale: There will come (Steven Isserlis, sello, ja Philharmonia Orchestra/Michael Collins).
+
+          Portman: Flight (Jess Gillam, saksofoni, ja Anna Lapwood, urut).
+
+          Abrami: Transmission (Esther Abrami, viulu, ja Itävallan radion SO/Irene Delgado-Jimenez).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Marko Gustafsson
         start_time: '2026-05-23T17:00:00+03:00'
         end_time: '2026-05-23T17:53:00+03:00'
@@ -110,7 +136,7 @@ data:
         start_time: '2026-05-23T18:01:00+03:00'
         end_time: '2026-05-23T18:10:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Lähetysseuran toiminnanjohtaja Pauliina Parhiala, Helsinki
       - title: Lauantain toivotut levyt
         start_time: '2026-05-23T18:10:00+03:00'
         end_time: '2026-05-23T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-23T03:09:17.230856+00:00'
+  generated_at: '2026-04-24T03:09:43.701283+00:00'
   git:
     branch: main
-    commit: 2787e3531d727d32676ee99e0ef7516253d38f90
-  data_hash: 7b2a9153494f09bb63933cd223475c2c0aa5cf637bc2f198e9670fb10437141f
+    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
+  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
 data:
   '':
     programmes:
@@ -25,6 +25,35 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-22T07:06:00+03:00'
         end_time: '2026-05-22T08:00:00+03:00'
+        description: |+
+          J.-B. Lully Osa kohtauksesta La Chasse hovibaletista Ballet des arts (La Simphonie du Marais/Hugo Reyne).
+
+          F. Couperin: Le réveil-matin (Herätyskello) (Angela Hewitt, piano).
+
+          W.A. Mozart: Fiordiligin ja Dorabellan duetto "Ah, guarda sorella" oopp. Così fan tutte (Leontyne Price, sopraano, ja Marilyn Horne, mezzosopraano, sekä Metropolitan-oopperan ork./James Levine).
+
+          Tarrega: Recuerdos de la Alhambra (Muistoja Alhambrasta) (Narciso Yepes, kitara).
+
+          Mana-Zucca: Nostalgia (Nanette Kaplan Solomon, piano).
+
+          R. Schumann: Widmung (Thomas Quasthoff, bassobaritoni, ja Justus Zeyen, piano).
+
+          Rahmaninov: Vokaliisi (Christian Lindberg, pasuuna, ja Per Lundberg, piano).
+
+          Fauré: Alkusoitto sarj. Masques et bergamasques (Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          Ravel (sov. Warnier ja Zhang): Preludi (Joint Venture Percussion Duo, ja Nancy Zeltsman, marimba).
+
+          Brouwer: Cancion de cuna (Kehtolaulu) (Pepe Romero, kitara).
+
+          Hatshaturjan: Aishan tanssi bal. Gajane (Leonid Kogan, viulu, ja Andrei Mytnik, piano). 
+
+          L. Boulanger: D'un jardin clair (Valoisa puutarha) (Margit Rahkonen, piano).
+
+          Shostakovitsh: Romanssi mus. elok. Paarma (Nicola Benedetti, viulu, ja Bournemouthin SO/Kirill Karabits).
+
+          Gershwin: They all laughed (Sharon Kam, klarinetti, ja Lontoon SO/Gregor Bühl)
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-22T08:00:00+03:00'
         end_time: '2026-05-22T08:07:00+03:00'
@@ -100,7 +129,7 @@ data:
         start_time: '2026-05-22T18:50:00+03:00'
         end_time: '2026-05-22T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Toimittaja Elina Vaittinen, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-05-22T19:00:00+03:00'
         end_time: '2026-05-22T19:02:00+03:00'
