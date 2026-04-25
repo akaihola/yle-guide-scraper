@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-24T03:09:39.854763+00:00'
+  generated_at: '2026-04-25T03:07:29.464998+00:00'
   git:
     branch: main
-    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
-  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
+    commit: 8c87318eac83316ee55a83c82618c0fe90f0f542
+  data_hash: 4e7a015d7e16035f82a002518175903d260df5d65b437f67d18ca5d24cd0f833
 data:
   '':
     programmes:
@@ -49,6 +49,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-05-03T11:00:00+03:00'
         end_time: '2026-05-03T11:59:00+03:00'
+        description: |-
+          Kern: All the things you are (Sarah Vaughan).
+          Kern: Smoke gets in your eyes (Artie Shaw).
+          Nevins/Nevins/Dunn: Twilight time (The Platters).
+          Bolling/Riviere: Faite pour dormir (Brigitte Bardot).
+          Gainsbourg: La Javanaise (Serge Gainsbourg).
+          Withers: Ain't no sunshine (Bill Withers).
+          Taylor: Angel of the morning (Randy Crawford).
+          Hendrix: Angel (Jimi Hendrix).
+          Donner: Avaruuslaulu (Kirka).
+          Hatch/Trent: Beautiful in the rain (Petula Clark).
+          Pace/Panzeri/Pilat/Conti: Alle porte del sole (Gigliola Cinquetti).
+          Barroso: Para machuchar meu coracao (Joao Gilberto & Stan Getz).
+          Leiber/Stoller: Bossa nova baby (Elvis Presley).
+          Weil/Mann: Schuld war nur der bossa nova (Manuela).
+          Rodgers: Glad to be unhappy (Billie Holiday).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-03T12:00:00+03:00'
         end_time: '2026-05-03T12:05:00+03:00'
@@ -86,9 +104,11 @@ data:
       - title: Musiikkikamari
         start_time: '2026-05-03T15:35:00+03:00'
         end_time: '2026-05-03T15:50:00+03:00'
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Sepelsieppo'
         start_time: '2026-05-03T15:50:00+03:00'
         end_time: '2026-05-03T15:55:00+03:00'
+        description: |-
+          Viikon luontoäänen esittelee Pekka Toikka
       - title: Yle News
         start_time: '2026-05-03T15:55:00+03:00'
         end_time: '2026-05-03T15:58:00+03:00'

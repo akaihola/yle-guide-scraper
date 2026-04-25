@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-24T03:09:40.231666+00:00'
+  generated_at: '2026-04-25T03:07:30.064649+00:00'
   git:
     branch: main
-    commit: fe6091d7d78364bcf39f7841ef52727e0e09b50b
-  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
+    commit: 8c87318eac83316ee55a83c82618c0fe90f0f542
+  data_hash: 4e7a015d7e16035f82a002518175903d260df5d65b437f67d18ca5d24cd0f833
 data:
   '':
     programmes:
@@ -170,9 +170,16 @@ data:
         end_time: '2026-05-05T17:35:00+03:00'
         description: |2+
 
-      - title: Viikon luontoääni
+      - title: Kissankehto - Susanna Vainiola
+        start_time: '2026-05-05T17:35:00+03:00'
+        end_time: '2026-05-05T18:30:00+03:00'
+        description: |-
+          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+      - title: 'Viikon luontoääni: Sepelsieppo'
         start_time: '2026-05-05T18:30:00+03:00'
         end_time: '2026-05-05T18:35:00+03:00'
+        description: |-
+          Viikon luontoäänen esittelee Pekka Toikka
       - title: Hartaita säveliä
         start_time: '2026-05-05T18:35:00+03:00'
         end_time: '2026-05-05T18:50:00+03:00'
