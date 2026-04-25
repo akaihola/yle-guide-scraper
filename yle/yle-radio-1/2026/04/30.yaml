@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-24T03:09:39.289316+00:00'
+  generated_at: '2026-04-25T03:07:28.513818+00:00'
   git:
     branch: main
-    commit: 54d26648233925eb6c25103d5097679afafcab8a
-  data_hash: d531a9473fdc214a48d769bffc4ac8d21cd6164652957cde0bfc2cb5f1553b7a
+    commit: 4b3a19ccd511b7f0b87e8cb4b5e4d668e4364547
+  data_hash: 4e7a015d7e16035f82a002518175903d260df5d65b437f67d18ca5d24cd0f833
 data:
   Yle Radio 1:
     programmes:
@@ -104,15 +104,15 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-04-30T09:04:00+03:00'
         end_time: '2026-04-30T09:59:00+03:00'
-        description: |-
+        description: |
           Tobias: Espa helmi on Helsingin (Brita Koivunen ja Eino Virtanen).
           Makeba/Ragovoy: Pata pata (Miriam Makeba).
           Kansansäv.: Vappulaulu (Kukonpojat).
           Kärki: Viimeinen aamu satamassa (Kauko Käyhkö).
           Brel: Amsterdam (Jacques Brel).
           Clark/Haymes: They say it's spring (Blossom Dearie).
-          Malmsten: Shampanjakuhertelua (Tauno Palo, Birgit Kronström).
-          Mononen: Med min kvinna i riksdagshusets park (M. A. Numminen,).
+          Malmsten: Shampanjakuhertelua (Tauno Palo ja Birgit Kronström).
+          Mononen: Med min kvinna i riksdagshusets park (M.A. Numminen).
           Soja/Dostal: Yes Sir, I can boogie (Baccara).
           Ortega: Neljä rikollista (Agit Prop). 
           Ortega: El pueblo unido jamas sera vencido (Quilapayun).
@@ -121,7 +121,7 @@ data:
           Valle: Ihanaa se ois (Seija Simola).
           Debussy/Clinton: My reverie (Betty Carter).
 
-          Toimittajana Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Käännekohdissa Arttu Unkari'
         start_time: '2026-04-30T10:00:00+03:00'
         end_time: '2026-04-30T10:53:00+03:00'
