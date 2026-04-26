@@ -1,12 +1,129 @@
 metadata:
-  generated_at: '2026-03-13T03:01:37.557713+00:00'
+  generated_at: '2026-04-26T03:09:53.309953+00:00'
   git:
     branch: main
-    commit: 496e17a991c3fa8f7f8c4854495432d19a291f86
-  data_hash: 7e26d65d77d27d6ef26d4bdee0c0f470661b70787790a9a6102589661b43ea14
+    commit: 97d0156340eceec8e98290a98260833ae9e5c83b
+  data_hash: b028a66b5c152c85b56a9fe932bbb6658e8dcc3e036c8c16f29fc7346972f265
 data:
   '':
     programmes:
-      - title: Yöklassinen
-        start_time: '2026-04-05T23:40:00+03:00'
-        end_time: '2026-07-07T08:00:00+03:00'
+      - title: Luomiskertomus
+        start_time: '2026-05-30T07:31:00+03:00'
+        end_time: '2026-05-30T07:55:00+03:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-05-30T07:55:00+03:00'
+        end_time: '2026-05-30T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-05-30T08:00:00+03:00'
+        end_time: '2026-05-30T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-05-30T08:05:00+03:00'
+        end_time: '2026-05-30T08:25:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-05-30T08:25:00+03:00'
+        end_time: '2026-05-30T08:35:00+03:00'
+        description: |-
+          Pastori Kaarina Villa, Adventtikirkko, Siivikkala
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-05-30T08:35:00+03:00'
+        end_time: '2026-05-30T08:40:00+03:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2026-05-30T08:40:00+03:00'
+        end_time: '2026-05-30T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-05-30T09:00:00+03:00'
+        end_time: '2026-05-30T09:03:00+03:00'
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2026-05-30T10:00:00+03:00'
+        end_time: '2026-05-30T10:25:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-05-30T11:00:00+03:00'
+        end_time: '2026-05-30T11:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-05-30T11:57:00+03:00'
+        end_time: '2026-05-30T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-05-30T12:00:00+03:00'
+        end_time: '2026-05-30T12:05:00+03:00'
+      - title: Maailma tarinoina
+        start_time: '2026-05-30T12:05:00+03:00'
+        end_time: '2026-05-30T13:00:00+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-05-30T13:00:00+03:00'
+        end_time: '2026-05-30T13:55:00+03:00'
+        description: |
+          Käsikirjoittaja Anna Brotkinin levyvalinnat. Toimittajana Maija Salminen.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-05-30T13:55:00+03:00'
+        end_time: '2026-05-30T14:00:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-05-30T14:00:00+03:00'
+        end_time: '2026-05-30T14:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Ykköskolumni
+        start_time: '2026-05-30T14:55:00+03:00'
+        end_time: '2026-05-30T15:00:00+03:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+      - title: Kauhua ja kihlauksia
+        start_time: '2026-05-30T15:00:00+03:00'
+        end_time: '2026-05-30T15:25:00+03:00'
+        description: |-
+          Osa 10/10. Jane Austenin Northanger Abbey.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-05-30T15:25:00+03:00'
+        end_time: '2026-05-30T15:30:00+03:00'
+      - title: Aristoteleen kantapää
+        start_time: '2026-05-30T15:30:00+03:00'
+        end_time: '2026-05-30T15:55:00+03:00'
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2026-05-30T15:55:00+03:00'
+        end_time: '2026-05-30T16:00:00+03:00'
+      - title: Yle News
+        start_time: '2026-05-30T15:55:00+03:00'
+        end_time: '2026-05-30T15:58:00+03:00'
+        description: |-
+          Yle News broadcasts in English daily on Yle Radio 1 and on Yle Mondo.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-05-30T16:00:00+03:00'
+        end_time: '2026-05-30T16:07:00+03:00'
+      - title: Marko Gustafsson
+        start_time: '2026-05-30T17:00:00+03:00'
+        end_time: '2026-05-30T17:53:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-05-30T17:53:00+03:00'
+        end_time: '2026-05-30T18:00:00+03:00'
+      - title: Iltahartaus
+        start_time: '2026-05-30T18:01:00+03:00'
+        end_time: '2026-05-30T18:10:00+03:00'
+        description: |-
+          Pastori Virpi Sillanpää-Posio, Oulu
+      - title: Lauantain toivotut levyt
+        start_time: '2026-05-30T18:10:00+03:00'
+        end_time: '2026-05-30T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-05-30T19:00:00+03:00'
+        end_time: '2026-05-30T19:02:00+03:00'
+      - title: Oopperailta
+        start_time: '2026-05-30T19:02:00+03:00'
+        end_time: '2026-05-30T22:00:00+03:00'
+      - title: Uutispodcast
+        start_time: '2026-05-30T21:01:00+03:00'
+        end_time: '2026-05-30T21:25:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Klassikkokuunnelmia
+        start_time: '2026-05-30T21:51:00+03:00'
+        end_time: '2026-05-30T22:30:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-05-30T22:40:00+03:00'
+        end_time: '2026-05-30T23:39:30+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
