@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-27T03:11:04.838596+00:00'
+  generated_at: '2026-04-28T03:11:12.022581+00:00'
   git:
     branch: main
-    commit: b5b0d432b1873ceb828367bcb3c6ad017b1239dc
-  data_hash: 96948692991e6a003b13b50688dabafb43820cebe7cf4e66733d54dfcb701312
+    commit: 5ff07f84e9c9890700c9662d15f91c47ff1f2111
+  data_hash: 6137ada775b1b0567c875109bb9146134a9432bea95dcfdb1768ab437794e4e8
 data:
   '':
     programmes:
@@ -63,6 +63,26 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-05-22T09:00:00+03:00'
         end_time: '2026-05-22T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-05-22T09:04:00+03:00'
+        end_time: '2026-05-22T09:59:00+03:00'
+        description: |
+          Gold/Goland: Comment te dire adieu? (Francoise Hardy).
+          Kärki: Toukokuu (Tauno Palo).
+          Runne: Prahan kevät (Päivi Paunu).
+          Mäkinen: Kevät (New Joys). 
+          Duarte: Como fue (Buena Vista Social Club).
+          McVie: Songbird (Fleetwood Mac).
+          Shapiro: Arlecchino (Dalida).
+          Weisman: Moonlight swim (Elvis Presley).
+          Edwards/Wayne: Kohtalon tähti (Timo Jämsen).
+          Van Heusen: Here's that rainy day (Carola).
+          Strayhorn: Lush life (Ella Fitzgerald).
+          Torregrosa/de Lucia: Entre dos aguas (Paco de Lucia).
+          Arefeldt: Ett glatt humör (Alice Babs & Seymour Österwalls orkester).
+          Wonder: Higher ground (Stevie Wonder).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Kalle Haatanen
         start_time: '2026-05-22T10:00:00+03:00'
         end_time: '2026-05-22T10:55:00+03:00'
@@ -119,6 +139,8 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-22T17:20:00+03:00'
         end_time: '2026-05-22T17:35:00+03:00'
+        description: |2+
+
       - title: Näistä levyistä en luovu
         start_time: '2026-05-22T17:35:00+03:00'
         end_time: '2026-05-22T18:30:00+03:00'
