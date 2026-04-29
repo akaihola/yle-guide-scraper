@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-28T03:11:13.025105+00:00'
+  generated_at: '2026-04-29T03:10:44.816828+00:00'
   git:
     branch: main
-    commit: 5ff07f84e9c9890700c9662d15f91c47ff1f2111
-  data_hash: 6137ada775b1b0567c875109bb9146134a9432bea95dcfdb1768ab437794e4e8
+    commit: 4917cc8799f3b6604e14d044ec4c976bba69015f
+  data_hash: 9c3719ca7aaa6311525a75a84c31996afec9f5c8087aedb6b7cc7e8b5078fef3
 data:
   '':
     programmes:
@@ -108,6 +108,8 @@ data:
       - title: Klassisen musiikin iltakonsertti
         start_time: '2026-05-27T19:02:00+03:00'
         end_time: '2026-05-27T21:00:00+03:00'
+        description: |-
+          Euroradiokonsertissa soi Paulon sellokilpailun 2023 voittajan ja yleisön suuren suosikin Luka Coetzeen konsertti kansainvälisellä Pau Casals -festivaalilla 2025. Konsertin toimittaa Ainomaija Pennanen. 
       - title: 'Politiikkaradio '
         start_time: '2026-05-27T21:00:00+03:00'
         end_time: '2026-05-27T21:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-28T03:11:13.194129+00:00'
+  generated_at: '2026-04-29T03:10:45.036863+00:00'
   git:
     branch: main
-    commit: 5ff07f84e9c9890700c9662d15f91c47ff1f2111
-  data_hash: 6137ada775b1b0567c875109bb9146134a9432bea95dcfdb1768ab437794e4e8
+    commit: 4917cc8799f3b6604e14d044ec4c976bba69015f
+  data_hash: 9c3719ca7aaa6311525a75a84c31996afec9f5c8087aedb6b7cc7e8b5078fef3
 data:
   '':
     programmes:
@@ -21,6 +21,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-28T07:06:00+03:00'
         end_time: '2026-05-28T08:00:00+03:00'
+        description: |+
+          Telemann: Allegro sonaatista viululle ja continuolle A-duuri (Battalia). 
+
+          Giuliani: Muunnelmia Händelin teemasta A-duuri (John Williams, kitara).
+
+          Schubert: Balettimusiikkia näyt. Rosamunde (Orpheus-kamariork.).
+
+          Kaski: Preludi Ges-duuri pianolle (Janne Mertanen, piano). 
+
+          Sibelius: Andantino sellolle ja pianolle C-duuri (Raimo Sariola, sello, ja Tuula Sariola, piano).
+
+          Fariñas: Cancion triste (Ricardo Gallén, kitara).
+
+          Järnefelt: Preludi pienelle orkesterille (Minnesotan ork./Eiji Oue). 
+
+          R. Strauss: Andante (Hermann Baumann, käyrätorvi, ja Leonard Hokanson, piano).
+
+          Hellmesberger: Tanssiaiskohtaus (Göteborgin SO/Neeme Järvi). 
+
+          Rodgers: Oh, what a beautiful mornin' musik. Oklahoma (Bryn Terfel, baritoni, ja Leedsin FO/Paul Daniel). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-28T08:00:00+03:00'
         end_time: '2026-05-28T08:07:00+03:00'
@@ -69,6 +90,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-28T16:00:00+03:00'
         end_time: '2026-05-28T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-05-28T16:07:00+03:00'
+        end_time: '2026-05-28T16:59:00+03:00'
+        description: |-
+          Brahms: Unkarilainen tanssi nro 18 D-duuri (Wienin Filharmonikot/Claudio Abbado).
+
+          Beach: A mirage (Emma Kirkby, sopraano, ja The Romantic Chamber Group of London).
+
+          Tuntematon (sov. I. Krohn): Kesäillalla (RKK/Timo Nuoranne).
+
+          Kansansäv. (sov. Madetoja): Polska n:o 2 D-duuri kok. Vanhoja kansantansseja (Mikko Raasakka, klarinetti, ja Antti Vahtola, piano).
+
+          Verdi: Heprealaisten vankien kuoro "Va pensiero" oopp. Nabucco (Milanon La Scala -oopperan kuoro ja ork./Claudio Abbado).
+
+          Piazzolla (sov. Carli): Libertango (Berliinin filharmonikkojen selloyhtye).
+
+          Kostiainen (sov.): Mull' on heila ihana (Sibelius-lukion kamarikuoro/Marjukka Riihimäki).
+
+          Fagerudd: Bluesoresque 3  (Petri Kumela, steel-kitara ja Heikki Nikula, bassoklarinetti).
+
+          Hensel: Andante espressivo pianotriosta d-molli (Ambache-kamariyhtye).
+
+          Puccini: Toscan aaria "Vissi d'arte" oopperasta Tosca (Maria Callas, sopraano, ja Milanon La Scala -oopperan ork./Victor De Sabata).
+
+          Rahmaninov: Itämainen tanssi (Jan-Erik Gustafsson, sello, ja Arto Satukangas, piano).
+
+          Shaw: The beech tree sarjasta Plan and elevation (Pekka Kuusisto, viulu, ja Norjan kamariorkesteri).
+
+          L. Hynninen: Annin ja Viljamin valssi (Laura Hynninen, harppu ja laulu).
       - title: Uutispodcast
         start_time: '2026-05-28T17:00:00+03:00'
         end_time: '2026-05-28T17:20:00+03:00'
