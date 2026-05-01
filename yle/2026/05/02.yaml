@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-30T03:11:18.698311+00:00'
+  generated_at: '2026-05-01T03:11:09.975192+00:00'
   git:
     branch: main
-    commit: 65480778372f9264b0ca258c2bd6151d6325c4a5
-  data_hash: 32c3f9bda7cc604571d69358f0e08b17070115d3563db4aa202cd80f4d2b35f6
+    commit: 10bcdff10f975de8d8fd6e956ae61e1a3e4189c4
+  data_hash: d2c5991fb10080a8b44b6de7206443827a0e3a6dc673275b22df0dfb2bc31c99
 data:
   '':
     programmes:
@@ -55,9 +55,9 @@ data:
         start_time: '2026-05-02T07:30:40+03:00'
         end_time: '2026-05-02T07:52:14+03:00'
         description: |-
-          Elokuvaohjaaja Peter Lindholmin Irti-romaani kertoo mainosohjaaja Stefanista, jolla kaikesta menestyksestä huolimatta elämä meni jotenkin vinoon. Isä oli sodan traumatisoima hiljainen mies, joka ei koskaan halunnut puhua oikein mistään. Vaikka takana on hienoja vuosia, palkintoja, hulppeita matkoja ja töitä ulkomailla nyt kotona lojuvat vain erojen jälkeiset iänikuiset purkamattomat pahvilaatikot. 
+          Elokuvaohjaaja Peter Lindholmin esikoisromaani syntyi alun perin sormiharjoituksena. Kustantaja näki 20:n sivun näytteessä kuitenkin jotain muuta ja tilasi romaanin heti seuraavana aamuna. Lopputulos on intuitiivisesti ja ei-kronologisessa järjestyksessä kirjoitettu 254-sivuinen Irti-romaani, joka kertoo mainosohjaaja Stefanista.
 
-          Stefanin nuori tytär saa kuitenkin paatuneen mainosohjaajan miettimään elämänsä arvoja ja uutta suuntaa. Ensin pitäisi kuitenkin tyhjentää ne kodin pahvilaatikot ja uskaltaa käydä läpi niissä sisällä olevat kaikki muistot – hyvät ja huonot.
+          Vaikka Stefanilla on takanaan hienoja vuosia, palkintoja, hulppeita matkoja ja töitä ulkomailla nyt kotona lojuvat vain erojen jälkeiset iänikuiset purkamattomat pahvilaatikot. Nuori tytär saa kuitenkin paatuneen mainosohjaajan etsimään elämälleen uutta suuntaa. Ensin pitäisi kuitenkin tyhjentää ne kodin pahvilaatikot ja uskaltaa käydä läpi niissä sisällä olevat kaikki muistot – hyvät ja huonot.
 
           Luomiskertomuksen vieraana Irti -romaanin kirjoittanut Peter Lindholm.
 
@@ -124,7 +124,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-02T09:59:00+03:00'
         end_time: '2026-05-02T10:00:00+03:00'
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Raihnainen demokratia siirtyy vaaleista verkkoon'
         start_time: '2026-05-02T10:00:00+03:00'
         end_time: '2026-05-02T10:25:00+03:00'
         description: |-
@@ -173,7 +173,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-02T13:57:00+03:00'
         end_time: '2026-05-02T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Rohdot'
         start_time: '2026-05-02T14:00:00+03:00'
         end_time: '2026-05-02T14:55:00+03:00'
         description: |-
@@ -185,11 +185,11 @@ data:
           Naiset eivät edelleenkään innostu miesten tavoin tekniikan ja luonnontieteen aloista. Vika ei ole naisissa vaan suomalaisuudessa, emeritusprofessori Kari Enqvist pohtii.
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 6/10'
         start_time: '2026-05-02T15:00:00+03:00'
-        end_time: '2026-05-02T15:25:00+03:00'
+        end_time: '2026-05-02T15:18:00+03:00'
         description: |-
           Osa 6/10. Jane Austenin Northanger Abbey.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-05-02T15:25:00+03:00'
+        start_time: '2026-05-02T15:18:00+03:00'
         end_time: '2026-05-02T15:30:00+03:00'
       - title: 'Aristoteleen kantapää: Passiivi, nollapersoona, toisen persoonan avoin käyttö – suomen kielen passiivisissa ilmauksissa on valinnanvaraa'
         start_time: '2026-05-02T15:30:00+03:00'
@@ -235,7 +235,7 @@ data:
           Konsertin on laatinut Heikki Puskala.
       - title: 'Marko Gustafsson: Käännekohdissa Arttu Unkari'
         start_time: '2026-05-02T17:00:00+03:00'
-        end_time: '2026-05-02T17:53:00+03:00'
+        end_time: '2026-05-02T17:54:00+03:00'
         description: |
           Arttu Unkari nautti työstään alakoulun opettajana, mutta Isämies -kirjasarja mahdollisti päivätyöstä luopumisen ja hän lopetti opettajan hommat. 
           Unkari oli noin vuoden päätoimisena kirjailijana ja huomasi voivansa varsin huonosti. Kun hän palasi takaisin alakoulun opettajaksi, niin myös ahdistus katosi. Arttu Unkarin suosittua Isämies - sarjaa on myyty jo yli 300 000 kappaletta.
@@ -277,6 +277,14 @@ data:
         description: |-
           Osa 1/2. "Teidän lakinne ja oikeutenne, niitähän minun pitikin ampua." Minna Canthin Työmiehen vaimo on väkevä kuvaus epätasa-arvosta ja naisen alisteisuudesta miehelle 1800-luvun lopun Suomessa. Näytelmän muotoon kirjoitetussa tarinassa juhlitaan alkuun Johannan ja Riston häitä. Ihanteellisuus riisutaan jo häämusiikin soidessa, kun Riston teot ja mieltymykset alkavat paljastua vastavihitylle nuorikolle. Miten päästä miehen valtaa karkuun? Entä auttaako joku naisia ahdingossa? Canth kohahdutti radikaalilla teoksellaan vuonna 1885. 
           Teos vuodelta 1963.
+      - title: Radio 1 soi
+        start_time: '2026-05-02T22:24:24+03:00'
+        end_time: '2026-05-02T22:40:12+03:00'
+        description: |+
+          Buxtehude: Sonaatti viululle, viola da gamballe ja continuolle G-duuri (The Boston Museum Trio).
+
+          Saint-Saëns: Delilan aaria oopp. Simson ja Delila (Monica Groop, mezzosopraano, ja RSO/Muhai Tang).
+
       - title: 'Keinuva talo - Mika Kauhanen: Nuppu aukeaa musiikissa - esikoisen säihke'
         start_time: '2026-05-02T22:40:12+03:00'
         end_time: '2026-05-02T23:39:00+03:00'
@@ -285,3 +293,43 @@ data:
       - title: Yöklassinen
         start_time: '2026-05-02T23:40:00+03:00'
         end_time: '2026-05-03T07:00:00+03:00'
+        description: |+
+          Koechlin: Osia sarj. L' Album de Lilian 2 (Fenwick Smith, huilu, ja Martin Amlin, piano).
+
+          23:52 C.P.E. Bach: Triosonaatti d-molli (Merlin-yhtye).
+
+          00:06 Dvorák: Legenda orkesterille n:o 6 cis-molli (San Franciscon SO/Michael Tilson Thomas).
+
+          00:13 Dalberg: Jousikvartetto n:o 2 g-molli (Pohjoismainen jousikvartetti).
+
+          00:41 W.A. Mozart: Kvartetto pianolle ja jousille g-molli (Leonard Bernstein, piano, ja Juilliard-kvartetti).
+
+          01:09 Holst: Planeetat (Wienin filharmonikot ja Wienin valtionoopperan kuoron naisäänet/Herbert von Karajan).
+
+          01:58 Pierné: Poème symphonique d-molli (Jean-Efflam Bavouzet, piano, ja BBC:n FO/Juanjo Mena). 
+
+          02:12 Reinecke: Balladi (Eeva Heikkilä, huilu, ja RSO/Sakari Oramo).
+
+          02:22 Wagner: Isolden ja Brangänen kohtaus oopp. Tristan und Isolde (Birgit Nilsson, sopraano, ja Grace Hoffman, mezzosopraano, sekä Wienin filharmonikot/Hans Knappertsbusch).
+
+          02:44 Copland: Konsertto klarinetille, jousiorkesterille, pianolle ja harpulle (Martin Fröst, klarinetti, Benjamin Martin, piano, ja Lucy Reeves, harppu, sekä Australian kamariork./Richard Tognetti).
+
+          03:01 Schubert: Die Schöne Müllerin (Kaunis mylläritär) (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          04:01 Klami: All'ouverture (RSO/Leif Segerstam).
+
+          04:11 Beethoven: Pianosonaatti n:o 29 B-duuri (Hammerklavier) (Glenn Gould).
+
+          05:02 Fibich: Sinfonia n:o 2 Es-duuri (Detroitin SO/Neeme Järvi).
+
+          05:36 Desprez: Deus Miserere mei (Jumala, ole minulle armollinen) (Cappella Amsterdam/Daniel Reuss). 
+
+          05:51 Kajanus: Surusoitto ja sankarilaulu (Folke Gräsbeck, piano).
+
+          06:01 Giuliani: Duo concertante e-molli (Monica Huggett, viulu, ja Richard Savino, kitara).
+
+          06:38 Grigny: Ave maris stella (Joseph Payne, urut). 
+
+          06:41 van Noordt: Psalmi 119 (Autuaat ne, joiden tie on nuhteeton) (Manuel Tomadin, Lyypekin Pyhän Jaakobin kirkon urut).
+
+...

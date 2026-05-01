@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-30T03:11:18.330445+00:00'
+  generated_at: '2026-05-01T03:11:09.664896+00:00'
   git:
     branch: main
-    commit: 65480778372f9264b0ca258c2bd6151d6325c4a5
-  data_hash: 32c3f9bda7cc604571d69358f0e08b17070115d3563db4aa202cd80f4d2b35f6
+    commit: 10bcdff10f975de8d8fd6e956ae61e1a3e4189c4
+  data_hash: d2c5991fb10080a8b44b6de7206443827a0e3a6dc673275b22df0dfb2bc31c99
 data:
   '':
     programmes:
@@ -58,6 +58,8 @@ data:
 
           Black: Kohta valkeneepi (Viktor Klimenko).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-05-01T08:25:00+03:00'
         end_time: '2026-05-01T08:35:00+03:00'
@@ -84,8 +86,8 @@ data:
           Gibb: How deep is your love (Bee Gees).
           Gardel: El dia que me quieras (Susana Rinaldi).
 
-          Konsertin on laatinut Pekka Laine.
-      - title: Kalle Haatanen
+          Konsertin on laatinut Pekka Laine. Juontajana Inari Tilli.
+      - title: 'Kalle Haatanen: Rohdot'
         start_time: '2026-05-01T10:00:00+03:00'
         end_time: '2026-05-01T10:55:00+03:00'
         description: |-
@@ -105,21 +107,17 @@ data:
         start_time: '2026-05-01T11:57:00+03:00'
         end_time: '2026-05-01T12:00:00+03:00'
         description: |
-          Irmari Rantamala: Harhama I, Karisto 1980.
+          Irmari Rantamala: Harhama I, Karisto 1980. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-01T12:00:00+03:00'
         end_time: '2026-05-01T12:05:00+03:00'
-      - title: 'Tiedeykkönen: Rikosten ehkäisemisen keinot kriminologin ja psykologin näkökulmasta'
+      - title: 'Tiedeykkönen: Ehkäisevätkö rangaistukset rikoksia? Kriminologi ja psykologi vastaavat'
         start_time: '2026-05-01T12:05:00+03:00'
         end_time: '2026-05-01T12:55:00+03:00'
         description: |-
-          Lähes kaikilla vangeilla on päihdeongelma ja persoonallisuushäiriö. Miten rikollisuuden kierrettä voi ehkäistä ja miten siitä pääsee pois? Entä voiko vankila sittenkin vähentää uusintarikollisuutta? 
-
-          Tehokas kriminaalipolitiikka vaatii tutkittua tietoa siitä, millaiset rangaistukset ja millainen sosiaalipolitiikka on oikeasti tehokasta. 
+          Millaista on tehokas, tieteeseen perustuva kriminaalipolitiikka?
 
           Asiantuntijoina kriminologian professori Janne Kivivuori Kriminologian ja oikeuspolitiikan instituutista Helsingin yliopistosta sekä psykologi, tutkimuspäällikkö Marko Manninen Terveyden ja hyvinvoinnin laitokselta. Toimittajana on Pirjo Koskinen. 
-
-          Toimittajana Pirjo Koskinen.
       - title: 'Radio 1:n iltapäivä: Luomiskertomus -  Peter Lindholm - Irti '
         start_time: '2026-05-01T13:00:00+03:00'
         end_time: '2026-05-01T14:00:00+03:00'
@@ -129,25 +127,7 @@ data:
         start_time: '2026-05-01T14:00:00+03:00'
         end_time: '2026-05-01T15:00:00+03:00'
         description: |-
-          Mitä olisi stadilainen vappu ilman Mantan lakitusta, piknikkiä Ullanlinnanmäellä tai Helsingin kaupunginorkesterin vappumatineaa? Tänä vuonna vappuhuiskat heilahtelevat tähtisolisti Maria Ylipään tahdittamina.
-
-          Helsingin kaupunginorkesteri
-          Maria Ylipää
-          Thomas Bugnot
-          Víctor Álvarez Alegría
-
-          Richard Wagner: Lohengrin, III näytöksen alkusoitto
-          Kurt Weill (sov./arr. Marzi Nyman): Puukko-Mackie Kolmen pennin oopperasta
-          Max Raabe (sov./arr. Sampo Kasurinen): Ein Tag wie Gold
-          Friedrich Hollaender (sov./arr. Marzi Nyman): Kleptomaani
-          Jaques Brel (sov./arr. Marzi Nyman): Ala vetää vaan
-          Ricardo Mollá: Diamond hands
-          Monica Zetterlund (sov./arr. Sampo Kasurinen): Oodi Helsingille
-          Gualtiero Malgoni (sov./arr. Timo Hietala): Hopeinen kuu
-          Glanzberg Norbert/Henri Content (sov./arr. Marzi Nyman): Padam, padam
-          Christian F. Kress: Porilaisten marssi (sov./arr. Robert Kajanus)
-
-          Kuva: Maria Ylipää / ©Juliana Harkki
+          Helsingin kaupunginorkesterin vappumatinea, solistina laulaja Maria Ylipää. Teemana ohjelmallinen kabaree. Suoran lähetyksen Musiikkitalosta toimittaa Noora Hirn.
       - title: 'Taiteilijatapaaminen: Minna Pensola ja Iiro Rantala'
         start_time: '2026-05-01T15:10:00+03:00'
         end_time: '2026-05-01T15:55:00+03:00'
@@ -164,8 +144,8 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-05-01T16:07:00+03:00'
         end_time: '2026-05-01T16:59:00+03:00'
-        description: |+
-          Kansanlaulu: Tuoksuvat tuomien valkoiset kukkaset (Matti Salminen, basso, ja Tampere Filharmonia/Riku Niemi.).
+        description: |
+          Kansanlaulu: Tuoksuvat tuomien valkoiset kukkaset (Matti Salminen, basso, ja Tampere Filharmonia/Riku Niemi).
 
           Dvorák: Slaavilainen tanssi n:o 4 F-duuri (Clevelandin ork./Christoph von Dohnanyi).
 
@@ -173,21 +153,22 @@ data:
 
           Doga: Valssi elok. Olet rakkaani, olet petoni (NL:n valtion elokuvaork./Emin Hatshaturjan).
 
-          Grieg: Jeg elsker dig (Soile Isokoski ja Marita Viitasalo).
+          Grieg: Jeg elsker dig (Rakastan sinua) (Miah Persson, sopraano, ja Roger Vignoles, piano).
 
-          Sibelius: Impromptu h-molli nro 5 (Leif Ove Andsnes, piano).
+          Sibelius: Impromptu pianolle h-molli op.5/5 (Leif Ove Andsnes, piano).
 
           Hakola: Sunnuntai sarj. Kivi-laulut (Jorma Hynninen, baritoni, ja Keski-Pohjanmaan Kamariork./Juha Kangas).
 
-          Rahmaninov (sov. Rose): Vokaliisi (Martin Fröst, klarinetti, ja Roland Pöntinen, piano).
+          Rahmaninov: Vokaliisi (Martin Fröst, klarinetti, ja Roland Pöntinen, piano).
 
           Waldteufel: Dolores (Wienin kansanoopperan ork./Franz Bauer-Theussl).
 
           Riihimäki/Halavaara/Lähteenmäki/Lampenius/Parkkonen: Liekinheitin (Pete Parkkonen, Linda Lampenius ja RSO/Nicholas Collon). 
-
       - title: Poiminta Radio 1:n iltapäivästä
         start_time: '2026-05-01T17:00:00+03:00'
         end_time: '2026-05-01T17:20:00+03:00'
+        description: |-
+          Ymmärtävätkö kulttuuriväki ja urheiluväki toisiaan? Onko vastakkainasettelu kulttuurin ja urheilun välillä vanhanaikaista? Urheilutoimittaja, kirjailija ja jääkiekkovalmentaja Petteri Sihvonen on Jarmo Laitanevan studiovieraana. Ohjelma on uusinta helmikuulta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-01T17:20:00+03:00'
         end_time: '2026-05-01T17:35:00+03:00'

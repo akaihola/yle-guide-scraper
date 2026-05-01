@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-30T03:11:19.807444+00:00'
+  generated_at: '2026-05-01T03:11:10.691832+00:00'
   git:
     branch: main
-    commit: 65480778372f9264b0ca258c2bd6151d6325c4a5
-  data_hash: 32c3f9bda7cc604571d69358f0e08b17070115d3563db4aa202cd80f4d2b35f6
+    commit: 10bcdff10f975de8d8fd6e956ae61e1a3e4189c4
+  data_hash: d2c5991fb10080a8b44b6de7206443827a0e3a6dc673275b22df0dfb2bc31c99
 data:
   '':
     programmes:
@@ -129,10 +129,25 @@ data:
         end_time: '2026-05-06T15:00:00+03:00'
         description: |2
             Mikä on kirjojen ulkoasun ja visuaalisen ilmeen vaikutus lukukokemukseen? Fantasia-kirjallisuus on jo vuosia ollut nousussa. Onko kirjan kannella suurempi merkitys, jos kyseessä on  fantasia-kirja? N. klo 14 Jarmo Laitanevan studiovieraina ovat kuvittaja ja graafikko Kaisu Sandberg sekä kirjailija Ursula Mursu. WSOY:n kuvittajana työskentelevä Sandberg kerää harrastuksenaan kirjojen erikoispainoksia, Ursula Mursu puolestaan on erityisen innostunut Diana Wynne Jonesin fantasiakirjojen maailmaan.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Euphoria-tv-sarjailmiö ja millaista nykyaikaa se peilaa?'
         start_time: '2026-05-06T15:00:00+03:00'
         end_time: '2026-05-06T15:55:00+03:00'
         description: |-
+          HBO:n Euphoria on esteettinen mutta myös ahdistava sukellus nykynuorten elämään, jossa ei säästetä katsojaa. Sarjan keskiössä on Zendayan näyttelemä Rue Bennett, narkomaani, joka tasapainoilee riippuvuuden, mielenterveyden ja toipumisen kuilun reunalla.
+
+          Ohjaaja Sam Levinsonin luomus ei ole perinteinen teini-draama. Taiteellinen ja synkkä tv-sarja käsittelee päihderiippuvuutta, seksuaalisuutta, traumaa ja identiteettiä.
+
+          Sarjan vahvuus on sen rehellisyydessä – se ei moralisoi vaan näyttää. Jokainen hahmo kantaa omia haavojaan: Cassie etsii hyväksyntää väärissä paikoissa, Jules navigoi transnuoren identiteettiään, Nate kamppailee myrkyllisen maskuliinisuuden kanssa.
+
+          Euphoria on jakanut mielipiteitä – toisille se on tärkeä, validoiva teos, toisille liian graafinen. Miten sarja sijoittuu televisiohistoriaan ja millä tavalla se on avannut uudenlaisen keskustelun nuorten haavoittuvuudesta ja meidän kaikkien vastuusta?
+
+          Ohjelman vieraina ovat elokuvatoimittajat Tero Kartastenpää, Leena Virtanen ja Svenska Ylen toimittaja Jenny Jägerhorn.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-05-06T15:55:00+03:00'
@@ -198,7 +213,8 @@ data:
         start_time: '2026-05-06T18:50:00+03:00'
         end_time: '2026-05-06T19:00:00+03:00'
         description: |-
-          Kappalainen Lauri Holma, Oulu
+          "Ilosanoma kissojen mukaan"
+          Kappalainen Lauri Holma Oulusta kertoo kissanpentujensa välittämästä levon ja Jumalan lapseuden ilosanomasta.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T19:00:00+03:00'
         end_time: '2026-05-06T19:02:00+03:00'

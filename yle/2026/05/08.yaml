@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-04-30T03:11:20.375164+00:00'
+  generated_at: '2026-05-01T03:11:11.076307+00:00'
   git:
     branch: main
-    commit: 65480778372f9264b0ca258c2bd6151d6325c4a5
-  data_hash: 32c3f9bda7cc604571d69358f0e08b17070115d3563db4aa202cd80f4d2b35f6
+    commit: 10bcdff10f975de8d8fd6e956ae61e1a3e4189c4
+  data_hash: d2c5991fb10080a8b44b6de7206443827a0e3a6dc673275b22df0dfb2bc31c99
 data:
   '':
     programmes:
@@ -200,15 +200,9 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-08T19:00:00+03:00'
         end_time: '2026-05-08T19:02:00+03:00'
-      - title: Kansainvälinen säveltäjärostrum 2026 & Ylen edustusteokset
+      - title: Kotimainen konsertti
         start_time: '2026-05-08T19:02:00+03:00'
-        end_time: '2026-05-08T21:00:00+03:00'
-        description: |
-          Kansainvälinen säveltäjärostrum järjestetään 12.–15. toukokuuta Riiassa, Latviassa. Katselmus järjestetään nyt jo 72. kerran.
-
-          Yle osallistuu tapahtumaan tänäkin vuonna ja lähettää rostrumiin aikamme suomalaista musiikkia, jota on äänitetty menneen vuoden aikana eri puolilla Suomea.
-
-          Ainomaija Pennasen toimittamassa suorassa ohjelmassa paljastetaan Ylen edustusteokset säveltäjähaastatteluineen. 
+        end_time: '2026-05-08T20:15:00+03:00'
       - title: 'Politiikkaradio '
         start_time: '2026-05-08T21:00:00+03:00'
         end_time: '2026-05-08T21:30:00+03:00'
