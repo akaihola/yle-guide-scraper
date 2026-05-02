@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-01T03:11:10.525584+00:00'
+  generated_at: '2026-05-02T03:09:39.093533+00:00'
   git:
     branch: main
-    commit: 10bcdff10f975de8d8fd6e956ae61e1a3e4189c4
-  data_hash: d2c5991fb10080a8b44b6de7206443827a0e3a6dc673275b22df0dfb2bc31c99
+    commit: b71095acfd00b368ea83fd95531fbee5bd82130e
+  data_hash: 0bc70457608e136928fe2e7050f06c8b95162e6cc4065072e6ad1c93096792b9
 data:
   '':
     programmes:
@@ -139,11 +139,21 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-05T10:55:00+03:00'
         end_time: '2026-05-05T11:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Kaksi mielikuvaa merestä'
         start_time: '2026-05-05T11:00:00+03:00'
         end_time: '2026-05-05T11:57:00+03:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jean Sibelius: Aallottaret
+
+          Claude Debussy: La Mer, kolme sinfonista luonnosta orkesterille
+          1. De l'aube a midi sur la mer (Merellä aamunkoitosta keskipäivään)
+          2. Jeux de vagues (Aaltojen leikkiä)
+          3. Dialogue du vent et de la mer (Tuulen ja meren vuoropuhelu)
+          (Ranskan radion filharmoninen orkesteri/ Mikko Franck).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-05T11:57:00+03:00'
         end_time: '2026-05-05T12:00:00+03:00'
@@ -324,3 +334,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-05-05T23:40:00+03:00'
         end_time: '2026-05-06T06:30:00+03:00'
+        description: |+
+          John Dowlandin luuttumusiikkia (Paul O'Dette).
+
+          00:45 Beethoven: Pianotrio G-duuri op.1/2 (Daniel Barenboim, piano, Pinchas Zukerman, viulu, ja Jacqueline Du Pré, sello).
+
+          01:19 Fredrik II Suuri: Sonaatti huilulle ja klaveerille c-molli (Pour Potsdam) (Christoph Huntgeburth, traverso, ja Raphael Alpermann, fortepiano).
+
+          01:28 Brahms: Pianokonsertto n:o 2 B-duuri (Valistuksen ajan ork./András Schiff, piano ja joht.).
+
+          02:18 F.B. Price: Sinfonia n:o 1 e-molli (Philadelphian ork./Yannick Nézet-Séguin).
+
+          02:59 von Martinez: Come le limpide onde (Aleksandra Zamoiska, sopraano, Eva Schossleitner, mezzosopraano, ja Virgil Hartinger, tenori, sekä Salzburger Hofmusik ja kuoro/Wolfgang Brunner).
+
+          03:28 Paul Viardot: Sonaatti viululle ja pianolle n:o 3 a-molli (Reto Kuppel ja Wolfgang Manz).
+
+          03:50 Kraus: Alkusoitto d-molli (Ruotsalainen kamariork./Petter Sundkvist).
+
+          04:01 Ravel: Pianotrio a-molli (Neave Trio).
+
+          04:28 Dvorak: Legenda n:o 9 D-duuri (Budapestin musiikkijuhlien ork./Ivan Fischer).
+
+          04:32 Rössler: Käyrätorvikonsertto n:o 2 Es-duuri (Vitali Bujanovski, käyrätorvi, Leningradin filharmoninen kamariork./Viktor Fedotov).
+
+          04:54 Hensel: Das Jahr (Vuosi) (Liana Serbescu, piano).
+
+          05:50 Leclair: Sonaatti h-molli (Robert Stallman, huilu, Karl Bennion, sello, ja Edwin Swanborn, cembalo). 
+
+          06:00 J.S. Bach: Partita sooloviululle n:o 2 d-molli (Augustin Hadelich).
+
+...
