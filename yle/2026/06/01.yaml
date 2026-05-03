@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-02T03:09:47.081494+00:00'
+  generated_at: '2026-05-03T03:11:05.042581+00:00'
   git:
     branch: main
-    commit: b71095acfd00b368ea83fd95531fbee5bd82130e
-  data_hash: 0bc70457608e136928fe2e7050f06c8b95162e6cc4065072e6ad1c93096792b9
+    commit: 79596c49fc1706beeb5dcf6de324e0d7cb24dce7
+  data_hash: 610afb3bb14682d31922891cbcf899587727bf6718bfaec32ddaa0220f10ddcd
 data:
   '':
     programmes:
@@ -79,11 +79,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-01T17:30:00+03:00'
         end_time: '2026-06-01T17:35:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Valmis mutta aina kesken'
         start_time: '2026-06-01T17:35:00+03:00'
         end_time: '2026-06-01T18:35:00+03:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Viikonloppuna pidettiin pitkin Suomea ylioppilasjuhlia ja valmistujaisia – elämän merkityksellisiä hetkiä. Valmistuneet ja heidän läheisensä olivat mielessä jakson sommitelmassa, joka samalla vie meidät kotimaisen lauletun folkin moninaisuuteen. 
+
+          Löytyisikö listalta voimalauluja seuraaviin askeliin? Sellaisia kuin Pystyn mihin vaan, Älä pelkää tai Tuulet suotuisat. Kaikki valmistuminen on aina väliaikaista, mutta se on oikeastaan lohdullista. Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-06-01T18:35:00+03:00'
         end_time: '2026-06-01T18:50:00+03:00'
