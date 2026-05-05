@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-04T03:11:45.606637+00:00'
+  generated_at: '2026-05-05T03:10:08.914768+00:00'
   git:
     branch: main
-    commit: 19a8c4ba78552a9f287b3a4ba90d746c81587328
-  data_hash: 9f584e363b0d4f3fcaf76b434bb67c6a7a31949c138c0f8d650a6aa7d1051a7c
+    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
+  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
 data:
   '':
     programmes:
@@ -95,6 +95,12 @@ data:
       - title: Taiteilijatapaaminen
         start_time: '2026-05-14T15:00:00+03:00'
         end_time: '2026-05-14T15:55:00+03:00'
+        description: |-
+          Taiteilijatapaaminen Schroderus ja Kasitonni
+
+          Milloin olet esimerkiksi taidenäyttelyssä kuullut intohimoista keskustelua autoista? Jos satut samaan tilaan kuvanveistäjä Kimmo Schroderuksen ja monialataiteilija Anssi Kasitonnin kanssa niin intohimoinen keskustelu autoista on hyvin todennäköistä.
+          Nämä kaksi tunnettua taiteilijaa avaavat autointoiluaan ja sitä miten se on vaikuttanut heidän luomaansa taiteeseen. 
+          Toimittajana Marko Miettinen.
       - title: Yle News
         start_time: '2026-05-14T15:55:00+03:00'
         end_time: '2026-05-14T15:58:00+03:00'

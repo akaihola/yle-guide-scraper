@@ -1,26 +1,38 @@
 metadata:
-  generated_at: '2026-05-04T03:11:44.525988+00:00'
+  generated_at: '2026-05-05T03:10:07.762809+00:00'
   git:
     branch: main
-    commit: 19a8c4ba78552a9f287b3a4ba90d746c81587328
-  data_hash: 9f584e363b0d4f3fcaf76b434bb67c6a7a31949c138c0f8d650a6aa7d1051a7c
+    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
+  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-09T23:40:00+03:00'
         end_time: '2026-05-10T07:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-05-10T07:00:30+03:00'
-        end_time: '2026-05-10T07:57:00+03:00'
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Kaksi mielikuvaa merestä'
+        start_time: '2026-05-10T07:00:45+03:00'
+        end_time: '2026-05-10T07:54:44+03:00'
         description: |-
+          Meri on vanha, meri on jatkuvasti liikkeessä. Miltä kuulostavat kaksi merisävellystä, jotka syntyivät samoihin aikoihin, 1900-luvun alussa? Claude Debussyn La Mer ja Jean Sibeliuksen Aallottaret luovat molemmat vahvan ja huumaavan mielikuvan samasta asiasta. Niissä on eroja, mutta myös yhtäläisyyksiä. Molempiin voi upota.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jean Sibelius: Aallottaret
+          (Halle-orkesteri/ Mark Elder).
+
+          Claude Debussy: La Mer, kolme sinfonista luonnosta orkesterille
+          1. De l'aube a midi sur la mer (Merellä aamunkoitosta keskipäivään)
+          2. Jeux de vagues (Aaltojen leikkiä)
+          3. Dialogue du vent et de la mer (Tuulen ja meren vuoropuhelu)
+          (Ranskan radion filharmoninen orkesteri/ Mikko Franck).
       - title: Yle Uutiset ja sää
         start_time: '2026-05-10T08:00:00+03:00'
         end_time: '2026-05-10T08:05:05+03:00'
       - title: Narrin aamulaulu - Mikki-hiiri, Sairas karhunpoika ja Jori Malmstén
-        start_time: '2026-05-10T08:05:35+03:00'
-        end_time: '2026-05-10T08:59:00+03:00'
+        start_time: '2026-05-10T08:05:24+03:00'
+        end_time: '2026-05-10T08:59:44+03:00'
         description: |
           Jori Malmstén kertoi "storeja" eli musiikkisatuja alunperin pojalleen. Niistä ensimmäinen "Sairas karhunpoika" päätyi levylle 1930. Mikkihiiri ja susihukka (1934) saavutti niin suuren suosion, että Markus-setä kyllästyi sen soittamiseen Lastentunnilla ja pyysi Joria säveltämään uusia lauluja. 
           Rakastettujen lastenlauluklassikoiden historiaa valottaa Maisa Krokfors. Toimittajana Outi Paananen. 
@@ -51,6 +63,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-05-10T11:00:00+03:00'
         end_time: '2026-05-10T11:59:00+03:00'
+        description: |
+          Lehtinen: On hetki (Georg Ots).
+          Spirituaali: Sometimes I feel like a motherless child (Odetta).
+          Parkinson: Äideistä parhain (Jari Huhtasalo). 
+          Jürgens: Merci cherie (Udo Jürgens).
+          Runne: Playboy (Ann Christine). 
+          Modugno: Dio come ti amo (Domenico Modugno).
+          Linnavalli: Todo lleca a su tiempo (Seija Simola).
+          Belmonte: Hurmio (Radion viihdeorkesteri).
+          Kärki: Liljankukka (Henry Theel).
+          Kärki: Vanhan veräjän luona (Eila Pienimäki).
+          Swan: When your lover has gone (Oscar Peterson).
+          Ellington/Mills/Bigard: Mood indigo (Nina Simone).
+          Cachan: Ou sont tous mes amants? (Frehel).
+          Trenet/Lasry: Retour à Paris (Charles Trenet).
+          Karjalainen: Yö kun saapuu Helsinkiin (J. Karjalainen ja Mustat Lasit).
+          Monk/Williams: 'round midnight (Laurindo Almeida).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-10T12:00:00+03:00'
         end_time: '2026-05-10T12:05:00+03:00'
@@ -131,9 +162,11 @@ data:
           Kantelinen: Mother of mine elok. Äideistä parhain (Mother of mine) (London Orchestra/Matt Dunkley).
 
           Konsertin on toimittanut Annina Aho.
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja: Cristina Clara  '
         start_time: '2026-05-10T17:00:00+03:00'
         end_time: '2026-05-10T18:00:00+03:00'
+        description: |-
+          Cristina Clara yhdistelee musiikissaan portugalilaista fadoa, kapverdeläistä mornaa sekä brasilialaista chorinchoa ja samba-cançãonia. Konsertti on taltioitu Glatt & Verkehrt -festivaalilla 25.7.2025. Toimittajana Miika Lauriala.
       - title: Jazzklubi
         start_time: '2026-05-10T18:00:30+03:00'
         end_time: '2026-05-10T19:00:00+03:00'
@@ -153,14 +186,26 @@ data:
         end_time: '2026-05-10T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Kaksi mielikuvaa merestä'
         start_time: '2026-05-10T21:25:00+03:00'
-        end_time: '2026-05-10T22:22:00+03:00'
+        end_time: '2026-05-10T22:18:59+03:00'
         description: |-
+          Meri on vanha, meri on jatkuvasti liikkeessä. Miltä kuulostavat kaksi merisävellystä, jotka syntyivät samoihin aikoihin, 1900-luvun alussa? Claude Debussyn La Mer ja Jean Sibeliuksen Aallottaret luovat molemmat vahvan ja huumaavan mielikuvan samasta asiasta. Niissä on eroja, mutta myös yhtäläisyyksiä. Molempiin voi upota.
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+          Ohjelman musiikit:
+
+          Jean Sibelius: Aallottaret
+          (Halle-orkesteri/ Mark Elder).
+
+          Claude Debussy: La Mer, kolme sinfonista luonnosta orkesterille
+          1. De l'aube a midi sur la mer (Merellä aamunkoitosta keskipäivään)
+          2. Jeux de vagues (Aaltojen leikkiä)
+          3. Dialogue du vent et de la mer (Tuulen ja meren vuoropuhelu)
+          (Ranskan radion filharmoninen orkesteri/ Mikko Franck).
       - title: 'Sari Valto '
-        start_time: '2026-05-10T22:23:00+03:00'
-        end_time: '2026-05-10T23:17:00+03:00'
+        start_time: '2026-05-10T22:20:00+03:00'
+        end_time: '2026-05-10T23:14:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: Romano mirits

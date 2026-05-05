@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-04T03:11:46.266333+00:00'
+  generated_at: '2026-05-05T03:10:09.562787+00:00'
   git:
     branch: main
-    commit: 19a8c4ba78552a9f287b3a4ba90d746c81587328
-  data_hash: 9f584e363b0d4f3fcaf76b434bb67c6a7a31949c138c0f8d650a6aa7d1051a7c
+    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
+  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
 data:
   '':
     programmes:
@@ -116,9 +116,34 @@ data:
           Caplet: À la francaise C-duuri teoks. Deux divertissements (Elizabeth Hainen, harppu).
 
           Konsertin on toimittanut Laura Korhonen.
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertteja '
         start_time: '2026-05-17T17:00:00+03:00'
         end_time: '2026-05-17T18:00:00+03:00'
+        description: |-
+          Cristina Clara yhdistelee musiikissaan portugalilaista fadoa, kapverdeläistä mornaa sekä brasilialaista chorinhoa ja samba-cançãonia. Konsertti on taltioitu Glatt & Verkehrt -festivaalilla 25.7.2025. Toimittajana Miika Lauriala. 
+
+          Muusikot: 
+          Cristina Clara, laulu
+          Pedro Loch, kitara
+          Eduardo Miranda, mandoliini
+          Rolando Semedo, basso
+          Felipe Bastos, rummut
+
+          Kappaleet: 
+          Cobbett: Manjericos. 
+          Oulman: Cravos de Papel. 
+          Ferrão: Novo Fado da Melancia. 
+          Oulman: Madrugada de Alfama. 
+          Semedo: Bus Odjus. 
+          da Cruz: Galo Bedjo. 
+          Afonso/Villa-Lobos: Canção de Embalar / Trenzinho do Caipira. 
+          Nobre/de Abreu: Conta Errada / Tico Tico no Fubá. 
+          da Maia: A história do nosso amor (Fado perseguição). 
+          Semedo: Primeru bes. 
+          Trad. (Portugal): Moleirinha. 
+          Afonso: Mulheres do Minho. 
+          Silva: A minha saia (Fado Sevilha). 
+          Loch: Lua. 
       - title: Jazzklubi
         start_time: '2026-05-17T18:00:30+03:00'
         end_time: '2026-05-17T19:00:00+03:00'

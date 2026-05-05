@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-04T03:11:47.157200+00:00'
+  generated_at: '2026-05-05T03:10:10.456309+00:00'
   git:
     branch: main
-    commit: 19a8c4ba78552a9f287b3a4ba90d746c81587328
-  data_hash: 9f584e363b0d4f3fcaf76b434bb67c6a7a31949c138c0f8d650a6aa7d1051a7c
+    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
+  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
 data:
   '':
     programmes:
@@ -59,7 +59,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-05-21T09:04:00+03:00'
         end_time: '2026-05-21T09:59:00+03:00'
-        description: |+
+        description: |
           DeShannon: When you walk in the room (Jackie DeShannon).
           Öst: Du ser mej inte (Inger Öst).
           Godzinsky: Sulle salaisuuden kertoa mä voisin (Irmeli Mäkelä).
@@ -71,12 +71,11 @@ data:
           Elgaaen: Voi voi (Brita Koivunen).
           Remusat: Canal Saint-Martin (Maria Rémusat)
           Gibb/Gibb/Gibb: I started a joke (Bee Gees).
-          Cutugno, Minellono: Solo noi (Toto Cutugno).
+          Cutugno/Minellono: Solo noi (Toto Cutugno).
           Kuusamo: Fantasiaa (Ami Aspelund).
           Porter: I've got you under my skin (Frank Sinatra).
 
-          Toimittajana Susanna Vainiola.
-
+          Konsertin on toimittanut Susanna Vainiola.
       - title: 'Marko Gustafsson: Käännekohdissa Vesa Vierikko'
         start_time: '2026-05-21T10:00:00+03:00'
         end_time: '2026-05-21T10:53:00+03:00'
@@ -178,7 +177,7 @@ data:
       - title: 'Jazzklubin viikon keikka: Wishamalii April Jazzissa.'
         start_time: '2026-05-21T19:02:00+03:00'
         end_time: '2026-05-21T20:00:00+03:00'
-        description: |-
+        description: |
           Äänitetty Espoon Louhisalissa 23.4.2026.
       - title: 'Politiikkaradio '
         start_time: '2026-05-21T21:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-04T03:11:43.270793+00:00'
+  generated_at: '2026-05-05T03:10:06.864799+00:00'
   git:
     branch: main
-    commit: 19a8c4ba78552a9f287b3a4ba90d746c81587328
-  data_hash: 9f584e363b0d4f3fcaf76b434bb67c6a7a31949c138c0f8d650a6aa7d1051a7c
+    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
+  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
 data:
   '':
     programmes:
@@ -42,7 +42,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-06T06:30:50+03:00'
         end_time: '2026-05-06T06:50:00+03:00'
-        description: |+
+        description: |-
           Berthier: Leipä syö, viini juo - Eat this bread (virsi 958) (Lauluyhtye, Mikko Iivanainen, sähkökitara, ja Tuomas Karjalainen, urut).
 
           Maasalo: Tule kanssani, Herra Jeesus (virsi 548) (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
@@ -53,6 +53,7 @@ data:
 
           Tuntematon: On Jeesus nimi ihanin (Risto Saarman, tenori, ja Jorma Tiainen, urut).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-05-06T06:50:00+03:00'
         end_time: '2026-05-06T06:59:59+03:00'
@@ -65,7 +66,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-06T07:06:00+03:00'
         end_time: '2026-05-06T08:00:00+03:00'
-        description: |+
+        description: |-
           Lully: Alkusoitto oopp. Armide (Les Talens Lyriques/Christophe Rousset).
 
           Tárrega: Gran vals (Suuri valssi) (Timo Korhonen, kitara).
@@ -92,6 +93,7 @@ data:
 
           Cairos-Rego: Valssi E-duuri (Jeanell Carrigan, piano).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T08:00:00+03:00'
         end_time: '2026-05-06T08:07:00+03:00'
@@ -123,7 +125,7 @@ data:
           Allen: Kellä kulta sillä onni (Aili Ikonen ja Herd).
           Lennon/McCartney: Across the universe (The Beatles).
 
-          Konsertin on laatinut Tuuli Saksala.
+          Konsertin on laatinut Tuuli Saksala. Juontajana Tatu Tamminen.
       - title: Havaintoja muutoksesta
         start_time: '2026-05-06T10:00:00+03:00'
         end_time: '2026-05-06T10:50:00+03:00'
@@ -137,7 +139,7 @@ data:
         start_time: '2026-05-06T11:57:00+03:00'
         end_time: '2026-05-06T12:00:00+03:00'
         description: |-
-          Ote Juhani Ahon kirjasta Lastuja IV-VII, WSOY 1921
+          Ote Juhani Ahon kirjasta Lastuja IV-VII, WSOY 1921. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-06T12:00:00+03:00'
         end_time: '2026-05-06T12:05:00+03:00'
@@ -223,9 +225,11 @@ data:
         end_time: '2026-05-06T17:35:00+03:00'
         description: |2+
 
-      - title: Jazzklubi
+      - title: 'Jazzklubi: Aili Ikonen: "Mitä vanhemmaksi tulen, sitä vähemmän ajattelen laulutekniikkaa"'
         start_time: '2026-05-06T17:35:00+03:00'
         end_time: '2026-05-06T18:35:00+03:00'
+        description: |-
+          Jazzklubin vieraana on laulaja Aili Ikonen. Toimittajina Laura Korhonen ja Eero Koski. Ohjelma on uusinta helmikuulta 2026.
       - title: Hartaita säveliä
         start_time: '2026-05-06T18:35:00+03:00'
         end_time: '2026-05-06T18:50:00+03:00'
