@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-05T03:10:13.136401+00:00'
+  generated_at: '2026-05-06T03:11:46.053100+00:00'
   git:
     branch: main
-    commit: 977c3e70c6836b789bf3ce40846e02770c2240ec
-  data_hash: 5b4bdb30694c32e33f632f687305d63bb0df442d10a6eec6be639f58f13edef6
+    commit: 543a147811469231091de90107d48c223875b907
+  data_hash: de83d02cf72ce4996898bd77fb6d07e128c781d66a63acfbd7370c584b3d860b
 data:
   '':
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-06-02T07:06:00+03:00'
         end_time: '2026-06-02T08:00:00+03:00'
+        description: |+
+          Dusek: Andante sinfoniasta G-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          F.X.W. Mozart: Rondo allegretto, sonaatista pianolle G-duuri (Anna Liszewska, piano).
+
+          Dvorák: Bagatelli n:o 1 (Domus-kvartetin jäseniä ja Susan Tomes, harmoni). 
+
+          Bizet: Nadirin ja Zurgan duetto oopp. Helmenkalastajat (Bryn Terfel, baritoni, Andrea Bocelli, tenori, ja Lontoon SO/Barry Wordsworth).
+
+          Elgar: Salut d'amour (Lemmentervehdys) (Midori, viulu, ja Robert McDonald, piano).
+
+          Mendelssohn: Scherzo näyt. Kesäyön unelma (Ensemble Wien-Berlin).
+
+          Glazunov: Poloneesi balettisarj. A-duuri (Minnesotan ork./Edo de Waart).
+
+          Leiviskä: Sonatiini F-duuri (Terhi Dostal, piano).
+
+          J. Strauss: Ukkosta ja salamointia (Wienin filharmonikot/Mariss Jansons).
+
+          Cassadó: Liehittelyä (Yuli Turovsky, sello ja Montrealin I Musici). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-02T08:00:00+03:00'
         end_time: '2026-06-02T08:07:00+03:00'
