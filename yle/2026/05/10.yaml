@@ -1,15 +1,48 @@
 metadata:
-  generated_at: '2026-05-06T03:11:35.505931+00:00'
+  generated_at: '2026-05-07T03:12:05.944464+00:00'
   git:
     branch: main
-    commit: 543a147811469231091de90107d48c223875b907
-  data_hash: de83d02cf72ce4996898bd77fb6d07e128c781d66a63acfbd7370c584b3d860b
+    commit: 2112ec31aae9d9c6f4724a796efb28c2b6f3491e
+  data_hash: 477a806cac572b3a7106d43167f68186d139f121cfb472e6b2b09cbdf7f2c938
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-09T23:40:00+03:00'
         end_time: '2026-05-10T07:00:00+03:00'
+        description: |+
+          J. Haydn: Jousikvartetto n:o 74 g-molli (Ratsastaja) (Emerson-kvartetti).
+
+          00:03 von Hausegger: Aufklänge, sinfonisia muunnelmia (Bambergin sinfonikot/Antony Hermus).
+
+          00:35 Nordgren: Pelimannimuotokuvia (RSO:n jouset/Ulf Söderblom).
+
+          01:00 Brahms: Sinfonia n:o 3 F-duuri (Bostonin SO/Andris Nelsons).
+
+          01:40 W.A. Mozart: Serenadi D-duuri (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          02:18 Stravinsky: Sotilaan tarina, sarja (Clevelandin ork./Pierre Boulez).
+
+          02:46 Granados: Haltijatar ja lapsi (Alicia de Larrocha, piano).
+
+          02:49 Loeffler: Five Irish fantasies (Viisi irlantilaista fantasiaa) (Neil Rosenshein, tenori, ja Indianapolisin SO/John Nelson).
+
+          03:19 Lalo: Pianotrio n:o 2 h-molli (Trio Salomon).
+
+          03:46 Rangström: Häxorna (Karin Ingebäck, sopraano, ja Ruotsin radion SO/Hannu Koivula).
+
+          04:07 Vaughan Williams: Sinfonia n:o 4 f-molli (Bostonin SO/Colin Davis).
+
+          04:38 von Bülow: Il Carnevale di Milano (Ballabili e Intermezzi) (Mark Anderson, piano).
+
+          05:25 R. Strauss: Metamorfooseja (Baden-Badenin ja Freiburgin radion SO:n jouset/Francois-Xavier Roth).
+
+          05:52 Meyerbeer: Sieben geistliche Gesänge (Seitsemän hengellistä laulua) (Rheinische Kantorei/Hermann Max).
+
+          06:17 Pugnani: Alkusoitto n:o 4 B-duuri (Academia Montis Regalis/Luigi Mangiocavallo).
+
+          06:35 Gaultier: Sarja luutulle fis-molli (Hopkinson Smith, barokkiluuttu).
+
       - title: 'Klasariparatiisi - Eva Tigerstedt: Kaksi mielikuvaa merestä'
         start_time: '2026-05-10T07:00:45+03:00'
         end_time: '2026-05-10T07:54:44+03:00'
@@ -101,11 +134,11 @@ data:
       - title: Uudet levyt
         start_time: '2026-05-10T14:00:00+03:00'
         end_time: '2026-05-10T14:55:00+03:00'
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Tulkoon kesä, jolloin hankimme elämän'
         start_time: '2026-05-10T14:55:00+03:00'
         end_time: '2026-05-10T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Koneet vievät meiltä yhä enemmän elämää. Onneksi ei ole vielä liian myöhäistä viettää ihmisen kesää, kirjailija Joonas Konstig toteaa.
       - title: 'Klassikkokuunnelma: Ihmiset suviyössä, osa 1/2.'
         start_time: '2026-05-10T15:00:00+03:00'
         end_time: '2026-05-10T15:36:00+03:00'
@@ -164,7 +197,7 @@ data:
           Konsertin on toimittanut Annina Aho.
       - title: 'Etnokonsertteja: Cristina Clara  '
         start_time: '2026-05-10T17:00:00+03:00'
-        end_time: '2026-05-10T18:00:00+03:00'
+        end_time: '2026-05-10T17:59:51+03:00'
         description: |-
           Cristina Clara yhdistelee musiikissaan portugalilaista fadoa, kapverdeläistä mornaa sekä brasilialaista chorinchoa ja samba-cançãonia. Konsertti on taltioitu Glatt & Verkehrt -festivaalilla 25.7.2025. Toimittajana Miika Lauriala.
       - title: Jazzklubi
@@ -208,11 +241,61 @@ data:
         end_time: '2026-05-10T23:14:08+03:00'
         description: |-
           Millaista syvempää viisautta voi löytää seinää tuijottamalla? Zen-opettaja Mikko Ijäs kertoo tiestään zenbuddhalaiseksi.
-      - title: Romano mirits
+      - title: 'Romano mirits: Hengellisen romanimusiikin klassikot'
         start_time: '2026-05-10T23:26:00+03:00'
         end_time: '2026-05-10T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |
+          14 minuuttia romanikulttuuria sarjassa kuullaan Allanin, Leifin ja Dimitrin haastattelu Hengellisen romanimusiikin klassikot digijulkaisusta. Ohjelmassa alussa soivan näytteen kyseiseltä äänitteeltä; ”Usko vaan” on säveltänyt Toni Palm ja sanoittanut Leevi Launonen. Toimittajana Mertsi Lindgren.
       - title: Yöklassinen
         start_time: '2026-05-10T23:40:00+03:00'
         end_time: '2026-05-11T06:30:00+03:00'
+        description: |+
+          Suk: Äidin elämästä, pianosarja (Ivan Moravec).
+
+          00:03 Nielsen: Tågen letter (Sumu hälvenee) näyt. Moderen (Äiti) (Etelä-Jyllannin SO/Frans Rasmussen).
+
+          00:07 V. Hannikainen: Äidille (Sauli Tiilikainen, baritoni, ja Pentti Kotiranta, piano).
+
+          00:10 Rossini: À ma belle mère (Kauniille äidilleni) (Cecilia Bartoli, mezzosopraano, ja James Levine, piano).
+
+          00:13 Vásquez: Tulen poppelien luota, äiti (Andrew Lawrence-King, harppu, ja The Harp Consort).
+
+          00:16 Grieg: Bedstemors menuet (Isoäidin menuetti) sarj. Lyriske stykker (Lyyrisiä kappaleita) (Emil Gilels, piano).
+
+          00:18 I. Hannikainen: Äidin silmät (Usko Viitanen, baritoni, ja RSO/Kari Tikka).
+
+          00:20 Mascagni: Turiddun jäähyväiset äidille oopp. Cavalleria rusticana (Franco Corelli, tenori, ja Rooman ooopperan ork./Gabriele Santini).
+
+          00:25 Pohjanmies: Tuuti tuuti äidin lasta (Lilli Paasikivi, mezzosopraano, Pentti Kotiranta, piano).
+
+          00:27 Hämäläinen: Lapin äidin kehtolaulu (Sibelius-lukion kamarikuoro/Marjukka Riihimäki). 
+
+          00:31 Prokofjev: Vanhan isoäidin kertomuksia (Vladimir Sofronitski, piano). 
+
+          00:39 R. Strauss: Muttertändelei (Äidin juttelua) (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          00:43 Stenhammar: Dottern sade till sin gamla moder (Sanoi tyttö äidillensä) (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          00:44 Schumann: Muttertraum (Äidin unelma) (Håkan Hagegård, baritoni, ja Thomas Schuback, piano).
+
+          00:49 W.A. Mozart: Sinfonia n:o 40 g-molli (Wienin filharmonikot/Herbert von Karajan).
+
+          01:14 J.S. Bach: Sonaatit ja partitat sooloviululle n:o 1-3 (Itzhak Perlman).
+
+          03:38 Fauré: Kvartetto pianolle ja jousille n:o 1 c-molli (Ames-pianokvartetti). 
+
+          04:10 Sibelius: Rakastava (Key Ensemble/Teemu Honkanen).
+
+          04:18 Beethoven: Pianokonsertto n:o 5 Es-duuri (Keisarikonsertto) (Artur Rubinstein ja Bostonin SO/Erich Leinsdorf).
+
+          04:57 Berlioz: Waverley, alkusoitto (San Diegon SO/Yoav Talmi).
+
+          05:10 Tshaikovski: Muistoja Firenzestä (Kyoko Takezawa, viulu, Benny Kim, viulu, Lawrence Dutton, alttoviulu, Paul Neubauer, alttoviulu, David Finckel, sello, ja Andres Diaz, sello).
+
+          05:46 Telemann: Konsertto trumpetille, viululle, jousille ja continuolle D-duuri (David Kjar, luonnontrumpetti, ja kamariyhtye Rebel/Jörg-Michael Schwarz).
+
+          06:00 W. A. Mozart: Kvintetto käyrätorvelle ja jousille Es-duuri (Pierre-Yves Madeuf ja Kuijken-kvartetti).
+
+          06:17 Kohaut: Divertimento n:o 1 B-duuri (Hubert Hoffmann, luuttu, ja Ars Antiqua Austria/Gunar Letzbor)
+
+...

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-06T03:11:40.153450+00:00'
+  generated_at: '2026-05-07T03:12:13.469778+00:00'
   git:
     branch: main
-    commit: 543a147811469231091de90107d48c223875b907
-  data_hash: de83d02cf72ce4996898bd77fb6d07e128c781d66a63acfbd7370c584b3d860b
+    commit: 2112ec31aae9d9c6f4724a796efb28c2b6f3491e
+  data_hash: 477a806cac572b3a7106d43167f68186d139f121cfb472e6b2b09cbdf7f2c938
 data:
   '':
     programmes:
@@ -57,6 +57,17 @@ data:
       - title: Uudet levyt
         start_time: '2026-05-17T14:00:00+03:00'
         end_time: '2026-05-17T14:55:00+03:00'
+        description: |
+          Kuisma: Hökköpolska (Veera Kuisma, Jonna Lankinen, Veera Luomala, Ilkka Heinonen ja Lauri Marjakangas). 
+          Kansansäv.: Minuetti (Veera Kuisma, Veera Luomala, Antti Järvelä, Ape Anttila ja Vilho Louhivuori). 
+          Kuisma/Abdurrahmani: Yjet ne erresire (Veera Kuisma ja yhtye). 
+          Leppänen: Annikki (Susanna Leppänen ja yhtye). 
+          Leppänen: Oikee johtaja (Susanna Leppänen ja yhtye). 
+          Kansanlaulu: A u poli (Kasia Kadlubowska). 
+          Kansanlaulu: Drevo i czarna woda (Kasia Kadlubowska). 
+          Stenbäck: Norkkokuja (Freeta). 
+          Virtanen: Muistelen (polkkaa) (Freeta). 
+          Stenbäck: Sügis Stockholmis (Freeta). 
       - title: Ykköskolumni
         start_time: '2026-05-17T14:55:00+03:00'
         end_time: '2026-05-17T15:00:00+03:00'
@@ -116,34 +127,11 @@ data:
           Caplet: À la francaise C-duuri teoks. Deux divertissements (Elizabeth Hainen, harppu).
 
           Konsertin on toimittanut Laura Korhonen.
-      - title: 'Etnokonsertteja '
+      - title: 'Etnokonsertteja: Suranjana Ghosh & Teental '
         start_time: '2026-05-17T17:00:00+03:00'
         end_time: '2026-05-17T18:00:00+03:00'
         description: |-
-          Cristina Clara yhdistelee musiikissaan portugalilaista fadoa, kapverdeläistä mornaa sekä brasilialaista chorinhoa ja samba-cançãonia. Konsertti on taltioitu Glatt & Verkehrt -festivaalilla 25.7.2025. Toimittajana Miika Lauriala. 
-
-          Muusikot: 
-          Cristina Clara, laulu
-          Pedro Loch, kitara
-          Eduardo Miranda, mandoliini
-          Rolando Semedo, basso
-          Felipe Bastos, rummut
-
-          Kappaleet: 
-          Cobbett: Manjericos. 
-          Oulman: Cravos de Papel. 
-          Ferrão: Novo Fado da Melancia. 
-          Oulman: Madrugada de Alfama. 
-          Semedo: Bus Odjus. 
-          da Cruz: Galo Bedjo. 
-          Afonso/Villa-Lobos: Canção de Embalar / Trenzinho do Caipira. 
-          Nobre/de Abreu: Conta Errada / Tico Tico no Fubá. 
-          da Maia: A história do nosso amor (Fado perseguição). 
-          Semedo: Primeru bes. 
-          Trad. (Portugal): Moleirinha. 
-          Afonso: Mulheres do Minho. 
-          Silva: A minha saia (Fado Sevilha). 
-          Loch: Lua. 
+          Intialaisen tabla-rummunsoittaja Suranjana Ghoshin (s. 1972) Teental-yhtye yhdistää pohjoisintialaisen klassisen musiikin pohjoismaiseen jazziin ja kansanmusiikkiin. Konsertti on taltioitu Sävjan kulttuurikeskuksessa Uppsalassa 16.9.2025. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
         start_time: '2026-05-17T18:00:30+03:00'
         end_time: '2026-05-17T19:00:00+03:00'

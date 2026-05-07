@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-06T03:11:31.081748+00:00'
+  generated_at: '2026-05-07T03:11:53.906380+00:00'
   git:
     branch: main
-    commit: 543a147811469231091de90107d48c223875b907
-  data_hash: de83d02cf72ce4996898bd77fb6d07e128c781d66a63acfbd7370c584b3d860b
+    commit: 2112ec31aae9d9c6f4724a796efb28c2b6f3491e
+  data_hash: 477a806cac572b3a7106d43167f68186d139f121cfb472e6b2b09cbdf7f2c938
 data:
   '':
     programmes:
@@ -161,7 +161,7 @@ data:
         start_time: '2026-05-07T15:00:00+03:00'
         end_time: '2026-05-07T15:55:00+03:00'
         description: |-
-          Minne katosi kuuluisa suomalainen muotoilu? Onko se rappiolla, jos se ei näy yritysten tuotemallistoissa? Iittala lanseerasi vappuna Iittala X Pokemon -tuotesarjan, joka juhlistaa japanilaisten Pokemon-hahmojen 30-vuotista taivalta. Pokemon-hahmo Pikachu otettiin koristamaan alunperin Afredo Häberlin suunnitteleman Origo-sarjan rajoitettua erikoiserää. Vastaanotto on ollut ristiriitainen: muotoiluasiantuntija Kaj Kalin pitää yhteistyötä eptoivoisena yleisön kalasteluna ja suomalaisen muotoiluperinteen väheksymisenä,  ja monet yleisön edustajat ovat sosiaalisissa medioissa kummastelleet Iittalan valintaa. Toisaalta Iittala tiedottaa erikoiserän menneen hetkessä kaupaksi. Kulttuuriykkösessä keskustellaan muotoilun kansallisesta merkityksestä, siitä mitä muotoiluala tarvitsisi kukoistaakseen, sekä siitä, miten suuret yritykset näkevät muotoilun roolin.
+          Minne katosi kuuluisa suomalainen muotoilu? Onko se rappiolla, jos se ei näy yritysten tuotemallistoissa? Iittala lanseerasi vappuna Iittala X Pokemon -tuotesarjan, joka juhlistaa japanilaisten Pokemon-hahmojen 30-vuotista taivalta. Pokemon-hahmo Pikachu otettiin koristamaan alunperin Afredo Häberlin suunnitteleman Origo-sarjan rajoitettua erikoiserää. Vastaanotto on ollut ristiriitainen: muotoiluasiantuntija Kaj Kalin pitää yhteistyötä epätoivoisena yleisön kalasteluna ja suomalaisen muotoiluperinteen väheksymisenä,  ja monet yleisön edustajat ovat sosiaalisissa medioissa kummastelleet Iittalan valintaa. Toisaalta Iittala tiedottaa erikoiserän menneen hetkessä kaupaksi. Kulttuuriykkösessä keskustellaan muotoilun kansallisesta merkityksestä, siitä mitä muotoiluala tarvitsisi kukoistaakseen, sekä siitä, miten suuret yritykset näkevät muotoilun roolin. Keskustelemassa muotoiluasiantuntija Kaj Kalin, Hakola-yhtiön luova johtaja Annaleena Hakola, sekä arkkitehti, professori ja Kone Oyj:n entinen muotoilujohtaja Anne Stenros.
       - title: Yle News
         start_time: '2026-05-07T15:55:00+03:00'
         end_time: '2026-05-07T15:58:00+03:00'
@@ -173,11 +173,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-05-07T16:07:00+03:00'
         end_time: '2026-05-07T16:59:00+03:00'
+        description: |
+          J. Strauss, nuor.: Künstler-Quadrille (Taiteilijakatrilli) eri säveltäjien teemoista (Wienin filharmonikot/Mariss Jansons).
+
+          Poulenc: Pablo Picasso sarj. Le travail du peintre (Taidemaalarin työ) (Gerard Souzay, baritoni, ja Dalton Baldwin, piano).  
+
+          Granados: Intermezzo oopp. Goyescas (Misha Maisky, sello, ja Lily Maisky, piano).
+
+          Flodin: Mona Lisan gavotti (Margit Rahkonen, piano).
+
+          R. Schumann: Liebesbotschaft (Lemmenviesti) kok. Sechs Gedichte aus dem Liederbuch eines Malers op.36 (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
+
+          Foulds: Colombine teoks. Music-pictures op.33 (Birminghamin SO/Sakari Oramo).
+
+          Debussy: L'isle joyeuse (Ilojen saari) (Seong-Jin Cho, piano). 
+
+          Puccini: Mimin, Rodolfon ja Marcellon kohtaus "O mia vita" sekä Mimin jäähyväiset "Donde lieta usci" oopp. La bohème (Mirella Freni, sopraano, Luciano Pavarotti, tenori, ja Rolando Panerai, baritoni, sekä Berliinin filharmonikot/Herbert von Karajan).
+
+          Price: Sketches in sepia (Antonio Oyarzabal, piano).
+
+          Reger: Bacchanal teoks. Vier Tondichtungen nach Arnold Böcklin (Neljä sävelrunoa Arnold Böcklinin maalausten mukaan) (Baden-Badenin ja Freiburgin radion SO/Hans Zender).
+
+          Konsertin on toimittanut Lotta Emanuelsson.
       - title: Uutispodcast
         start_time: '2026-05-07T17:00:00+03:00'
         end_time: '2026-05-07T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mistä löytyy vihreille oma ekologinen lokero, kun vasemmisto on vienyt vihreiden paikan nuorten hip and cool -puolueena eivätkä ympäristökysymyksetkään ole enää vain vihreiden asia? Atte Uusinokan vieraana Iltalehden talouden ja politiikan toimituksen päällikkö Juha Ristamäki.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-07T17:20:00+03:00'
         end_time: '2026-05-07T17:35:00+03:00'
@@ -218,22 +240,70 @@ data:
         end_time: '2026-05-07T20:00:00+03:00'
         description: |
           Äänitetty Pajan Kongressissa 31.10.2025.
+      - title: Klassinen kattaus
+        start_time: '2026-05-07T20:00:00+03:00'
+        end_time: '2026-05-07T20:57:00+03:00'
+        description: |+
+          W.A. Mozart: Exsultate jubilate F-duuri (Teresa Wakim, sopraano, ja Handel and Haydn Society/Harry Christophers).
+
+          Albéniz - Pine: Asturias (Rachel Barton Pine, viulu).
+
+          J.S. Bach: Sonaatti viola da gamballe ja klaveerille n:o 2 D-duuri (Veli-Markus Tapio, viola da gamba, ja Elina Mustonen, cembalo).
+
+          Elgar: Froissart, konserttialkusoitto (Uuden-Seelannin SO/James Judd).
+
+          Moszkowski: Poème de Mai (Seta Tanyel, piano).
+
       - title: 'Politiikkaradio '
         start_time: '2026-05-07T21:00:00+03:00'
         end_time: '2026-05-07T21:30:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Addiktio: Alfa-PVP:n aika'
         start_time: '2026-05-07T21:31:00+03:00'
-        end_time: '2026-05-07T22:20:00+03:00'
+        end_time: '2026-05-07T22:17:32+03:00'
+        description: |
+          Alfa-PVP:n aika dokumentissa liikutaan Helsingin kaduilla ja vieraillaan nuorten kohtaamis- ja tukipiste Nuolessa, jossa päihteitä käyttävät nuoret voivat saada apua ja tukea ympäri vuorokauden. Toteutus: Pauliina Motturi, Anders Wiksten, Sami Hahtala.
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia 6/10'
-        start_time: '2026-05-07T22:31:00+03:00'
-        end_time: '2026-05-07T22:59:00+03:00'
+        start_time: '2026-05-07T22:23:10+03:00'
+        end_time: '2026-05-07T22:40:15+03:00'
         description: |-
           Osa 6/10. Jane Austenin Northanger Abbey.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-05-07T23:01:00+03:00'
-        end_time: '2026-05-07T23:57:00+03:00'
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: ​​Jäänteiden kierto'
+        start_time: '2026-05-07T23:03:16+03:00'
+        end_time: '2026-05-07T23:58:57+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-05-08T00:00:00+03:00'
         end_time: '2026-05-08T06:30:00+03:00'
+        description: |+
+          Eri säveltäjiä: Messe pour la naissance de Louis XIV (Messu Ludvig XIV:n syntymän kunniaksi) (Chantal Santon, sopraano, Stéphanie Révidat, sopraano, Jean-Christophe Clair, kontratenori, Yann Rolland, mezzosopraano, Vincent Bouchot, tenori, Martial Pauliat, tenori, Renaud Delaigue, basso, ja Igor Bouin, basso, sekä Galilei Consort -yhtye ja -kuoro/Benjamin Chénier).
+
+          01:07 de Séverac: Le Chant de la terre (Maan laulu) (Izumi Tateno, piano).
+
+          01:34 Kokkonen: Pielavesi, sarja pianolle (Eveliina Sumelius-Lindblom).
+
+          01:53 Diabelli: Gesänge für Herz und Gefühl (Lauluja sydämestä ja tunteesta) (Petteri Salomaa, baritoni, Mikael Helasvuo, huilu, ja Jukka Savijoki, kitara).
+
+          02:10 Karnavicius: Jousikvartetto n:o 2 d-molli (Vilna-kvartetti).
+
+          02:53 Mjaskovski: Viulukonsertto d-molli (Ilja Grubert ja Venäjän FO/Dmitri Jablonski).
+
+          03:33 Corteccia: Osia häämusiikista lauluäänille ja soittimille (Weser-Renaissance Bremen/Manfred Cordes).
+
+          03:54 Gottschalk: Sinfonia n:o 1 (Tropiikin yö) (Wienin valtionoopperan ork./Igor Buketoff).
+
+          04:15 S. Salonen: Toccata op.24 (Jan Lehtola, Helsingin Meilahden kirkon urut).
+
+          04:24 Shostakovitsh: Pultti, balettisarja (Göteborgin sinfoniakuoro ja -ork./Neeme Järvi).
+
+          04:54 Onslow: Duo pianolle ja viululle n:o 4 F-duuri (Stéphane de May ja Damien Pardoen).
+
+          05:18 Tshaikovski: Balettimusiikkia oopp. Tsaarittaren tossut (Covent Garden -oopperan ork./Colin Davis).
+
+          05:29 Saint-Saëns: Muusa ja runoilija (Jean-Jacques Kantorow, viulu, Torleif Thedéen, sello, ja Tapiola Sinfonietta/Tuomas Ollila).
+
+          05:45 Pleyel: Viulukonsertto D-duuri (Sebastian Bohren ja Padovan kamariork./Luca Bizzozero).
+
+          06:20 Händel: Triosonaatti B-duuri op.5/7 (Purcell-kvartetti).
+
+...
