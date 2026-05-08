@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-07T03:12:05.944464+00:00'
+  generated_at: '2026-05-08T03:09:09.099926+00:00'
   git:
     branch: main
-    commit: 2112ec31aae9d9c6f4724a796efb28c2b6f3491e
-  data_hash: 477a806cac572b3a7106d43167f68186d139f121cfb472e6b2b09cbdf7f2c938
+    commit: cefce1736331e03458f4d479dfa1a6d67b81d74b
+  data_hash: 83e908ec354c09ddd61f4086eae8f43495b8196efb2be7c383a03bbca0bda05f
 data:
   '':
     programmes:
@@ -200,14 +200,16 @@ data:
         end_time: '2026-05-10T17:59:51+03:00'
         description: |-
           Cristina Clara yhdistelee musiikissaan portugalilaista fadoa, kapverdeläistä mornaa sekä brasilialaista chorinchoa ja samba-cançãonia. Konsertti on taltioitu Glatt & Verkehrt -festivaalilla 25.7.2025. Toimittajana Miika Lauriala.
-      - title: Jazzklubi
-        start_time: '2026-05-10T18:00:30+03:00'
+      - title: 'Jazzklubi: Aili Ikonen: "Mitä vanhemmaksi tulen, sitä vähemmän ajattelen laulutekniikkaa"'
+        start_time: '2026-05-10T18:00:10+03:00'
         end_time: '2026-05-10T19:00:00+03:00'
+        description: |-
+          Jazzklubin vieraana on laulaja Aili Ikonen. Toimittajina Laura Korhonen ja Eero Koski. Ohjelma on uusinta helmikuulta 2026.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-10T19:00:00+03:00'
         end_time: '2026-05-10T19:02:05+03:00'
       - title: 'Jazzklubin viikon keikka '
-        start_time: '2026-05-10T19:02:30+03:00'
+        start_time: '2026-05-10T19:02:05+03:00'
         end_time: '2026-05-10T20:00:00+03:00'
       - title: Jumalanpalvelus Lapuan helluntaiseurakunnasta
         start_time: '2026-05-10T20:00:00+03:00'
@@ -242,8 +244,8 @@ data:
         description: |-
           Millaista syvempää viisautta voi löytää seinää tuijottamalla? Zen-opettaja Mikko Ijäs kertoo tiestään zenbuddhalaiseksi.
       - title: 'Romano mirits: Hengellisen romanimusiikin klassikot'
-        start_time: '2026-05-10T23:26:00+03:00'
-        end_time: '2026-05-10T23:39:30+03:00'
+        start_time: '2026-05-10T23:24:44+03:00'
+        end_time: '2026-05-10T23:39:05+03:00'
         description: |
           14 minuuttia romanikulttuuria sarjassa kuullaan Allanin, Leifin ja Dimitrin haastattelu Hengellisen romanimusiikin klassikot digijulkaisusta. Ohjelmassa alussa soivan näytteen kyseiseltä äänitteeltä; ”Usko vaan” on säveltänyt Toni Palm ja sanoittanut Leevi Launonen. Toimittajana Mertsi Lindgren.
       - title: Yöklassinen
