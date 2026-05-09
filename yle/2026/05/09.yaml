@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-08T03:09:08.902341+00:00'
+  generated_at: '2026-05-09T03:10:49.380330+00:00'
   git:
     branch: main
-    commit: cefce1736331e03458f4d479dfa1a6d67b81d74b
-  data_hash: 83e908ec354c09ddd61f4086eae8f43495b8196efb2be7c383a03bbca0bda05f
+    commit: 9b8be2199e94e4431be7380e45ce08a795c26549
+  data_hash: fd5d76fdd08b57f0536a6d1c83ab74782340000b8a4c998355ddf9467fb91f41
 data:
   '':
     programmes:
@@ -61,6 +61,8 @@ data:
 
           Tuntematon (sov. Nyman): Nyt soikoon taivas kiitostaan (virsi 420) (Jakaranda/Pekka Nyman).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-05-09T08:25:00+03:00'
         end_time: '2026-05-09T08:35:00+03:00'
@@ -97,10 +99,28 @@ data:
           Loewe: Det vore välan fr'underbart (Monica Zetterlund).
           Simon: The only living boy in New York (Simon and Garfunkel).
 
-          Konsertin on toimittanut Pasi Hiihtola.
+          Konsertin on toimittanut Pasi Hiihtola. Juontajana Inari Tilli.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-05-09T10:00:00+03:00'
         end_time: '2026-05-09T10:25:00+03:00'
+        description: |-
+          Pakistan on ottanut rauhanvälittäjän roolin Iranin sodassa. Sillä on hyvät suhteet sekä Iraniin että Yhdysvaltoihin ja onnistuikin samaan aikaan tulitauon.
+
+           
+
+          Hormuzinsalmen sulku on iskenyt voimakkaasti Pakistanin talouteen, ja säästötoimena maassa on siirrytty nelipäiväiseen työviikkoon. Ohjelmassa kuullaan raportti Pakistanista, mitä sikäläiset ajattelevat tilanteesta ja kotimaansa välittäjäroolista.
+
+           
+
+          Valtion vaikean taloustilanteen ohella Pakistania motivoi rauhanvälittämiseen pyrkimys kohottaa omaa imagoaan maailmannäyttämöllä. Rauhanponnisteluja läheltä seuraavan pakistanilaisen toimittajan mukaan Pakistan olisi jo onnistunut muuttamaan julkikuvaansa terrorismintukijasta vakauden tuottajaksi.
+
+           
+
+          Ohjelmassa haastateltavien asiantuntijoiden mukaan imagomuutosta rauhantekijäksi kuitenkin hankaloittaa Pakistanin konfliktit rajanaapurien Afganistanin ja Intian kanssa.
+
+           
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Maija Liuhto ja Paula Vilén. Äänitarkkailijana on Katja Kostiainen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Lehmitytöt 1944 J4: Lämmin turpa lohduttaa'
         start_time: '2026-05-09T10:25:00+03:00'
         end_time: '2026-05-09T11:00:00+03:00'
@@ -115,7 +135,7 @@ data:
         start_time: '2026-05-09T11:57:00+03:00'
         end_time: '2026-05-09T12:00:00+03:00'
         description: |-
-          Aki Salmelan proosaruno Simpukka teoksesta Eläimen varjo, Tammi 2019
+          Aki Salmelan proosaruno Simpukka teoksesta Eläimen varjo, Tammi 2019. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-09T12:00:00+03:00'
         end_time: '2026-05-09T12:05:00+03:00'
@@ -217,12 +237,17 @@ data:
         start_time: '2026-05-09T19:02:00+03:00'
         end_time: '2026-05-09T21:00:00+03:00'
         description: |
-          Juontajina Jazzklubin toimittajat Laura Korhonen ja Eero Koski. Ohjelman suunnittelusta vastaa Markus Partanen.
-      - title: 'Uutispodcast: Vasemmisto vei vihreiltä cooliuden – mistä uusi suunta?'
+          Juontajina Jazzklubin toimittajat Riikka Holopainen ja Eero Koski. Ohjelman suunnittelusta vastaa Markus Partanen.
+      - title: 'Uutispodcast: Vihreiden ongelma: “Vasemmisto on nyt freshimpi vaihtoehto”'
         start_time: '2026-05-09T21:01:17+03:00'
         end_time: '2026-05-09T21:23:59+03:00'
         description: |-
           Mistä löytyy vihreille oma ekologinen lokero, kun vasemmisto on vienyt vihreiden paikan nuorten hip and cool -puolueena eivätkä ympäristökysymyksetkään ole enää vain vihreiden asia? Atte Uusinokan vieraana Iltalehden talouden ja politiikan toimituksen päällikkö Juha Ristamäki.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-05-09T21:23:59+03:00'
+        end_time: '2026-05-09T21:48:11+03:00'
+        description: |-
+          Samppa Korhosen haastateltavana on johtava asiantuntija Mikko Dufva Sitrasta, joka kertoo, miksi heikkojen signaalien havaitseminen ja tulkitseminen on erittäin tärkeää. Ensilähetys oli 23.4.2026.
       - title: 'Klassikkokuunnelma: Työmiehen vaimo 2/2'
         start_time: '2026-05-09T21:49:47+03:00'
         end_time: '2026-05-09T22:33:57+03:00'
@@ -232,6 +257,12 @@ data:
           Kuunnelma vuodelta 1963.
 
           Työmiehen vaimo on kokonaisuudessaan kuunneltavissa Yle Areenassa.
+      - title: Radio 1 soi
+        start_time: '2026-05-09T22:33:57+03:00'
+        end_time: '2026-05-09T22:40:13+03:00'
+        description: |+
+          J. Stamitz: Allegro triosta orkesterille E-duuri (Uuden-Seelannin kamariork./Donald Armstrong).
+
       - title: 'Keinuva talo - Mika Kauhanen: Elämä junamatkana'
         start_time: '2026-05-09T22:40:13+03:00'
         end_time: '2026-05-09T23:39:18+03:00'
