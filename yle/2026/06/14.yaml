@@ -1,12 +1,109 @@
 metadata:
-  generated_at: '2026-05-10T03:11:28.875521+00:00'
+  generated_at: '2026-05-11T03:13:44.567229+00:00'
   git:
     branch: main
-    commit: 589f2592d9fad9a3cc884d22c6da40571dd27e42
-  data_hash: 485e5c9f11762ee78e5a54d7c89650d1a0957a739fb710f4a3235933608592fd
+    commit: f8ccc0a6ac958c5c5406b8b13f7542db70142517
+  data_hash: 26f1fca32f66e3e16f2143ed42e13d478ea35cdf1e85757a8a943f6a9100d90f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-13T23:40:00+03:00'
         end_time: '2026-06-14T07:00:00+03:00'
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-06-14T07:00:30+03:00'
+        end_time: '2026-06-14T07:57:00+03:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-14T08:00:00+03:00'
+        end_time: '2026-06-14T08:05:05+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-06-14T09:00:00+03:00'
+        end_time: '2026-06-14T09:03:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-06-14T09:03:00+03:00'
+        end_time: '2026-06-14T09:53:00+03:00'
+      - title: Tervetuloa jumalanpalvelukseen
+        start_time: '2026-06-14T09:56:00+03:00'
+        end_time: '2026-06-14T09:59:00+03:00'
+      - title: Jumalanpalvelus Hollolan Sovituksenkirkosta
+        start_time: '2026-06-14T10:00:00+03:00'
+        end_time: '2026-06-14T10:59:20+03:00'
+        description: |-
+          Liturgina ja saarnaajana seurakuntapastori Sanna Alanen. Kanttorina ja urkurina Annika Etuaho. Virret: 401; 728; 513; 954; 919 esirukouksen sisällä; 329:1,2,5.
+      - title: Muistojen bulevardi
+        start_time: '2026-06-14T11:00:00+03:00'
+        end_time: '2026-06-14T11:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-14T12:00:00+03:00'
+        end_time: '2026-06-14T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2026-06-14T12:05:00+03:00'
+        end_time: '2026-06-14T12:55:00+03:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2026-06-14T13:00:00+03:00'
+        end_time: '2026-06-14T13:57:00+03:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Uudet levyt
+        start_time: '2026-06-14T14:00:00+03:00'
+        end_time: '2026-06-14T15:00:00+03:00'
+      - title: Klassikkokuunnelmia
+        start_time: '2026-06-14T15:00:00+03:00'
+        end_time: '2026-06-14T15:24:00+03:00'
+      - title: Klassikkokuunnelmia
+        start_time: '2026-06-14T15:24:00+03:00'
+        end_time: '2026-06-14T15:40:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2026-06-14T15:40:00+03:00'
+        end_time: '2026-06-14T15:55:00+03:00'
+      - title: Viikon luontoääni
+        start_time: '2026-06-14T15:55:00+03:00'
+        end_time: '2026-06-14T16:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-14T16:00:00+03:00'
+        end_time: '2026-06-14T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-06-14T16:07:00+03:00'
+        end_time: '2026-06-14T16:59:59+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-14T17:00:00+03:00'
+        end_time: '2026-06-14T17:05:00+03:00'
+      - title: Etnokonsertteja
+        start_time: '2026-06-14T17:06:00+03:00'
+        end_time: '2026-06-14T18:00:00+03:00'
+      - title: Jazzklubi
+        start_time: '2026-06-14T18:00:30+03:00'
+        end_time: '2026-06-14T19:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-14T19:00:00+03:00'
+        end_time: '2026-06-14T19:02:05+03:00'
+      - title: 'Jazzklubin viikon keikka '
+        start_time: '2026-06-14T19:02:30+03:00'
+        end_time: '2026-06-14T20:00:00+03:00'
+      - title: Panihida Pyhän Sakariaan ja vanhurskaan Elisabethin kirkosta Savonlinnasta
+        start_time: '2026-06-14T20:00:00+03:00'
+        end_time: '2026-06-14T21:00:00+03:00'
+        description: |-
+          Vainajien muistopalveluksen toimittaa rovasti Bogdan Grosu.
+      - title: Uutispodcast
+        start_time: '2026-06-14T21:00:30+03:00'
+        end_time: '2026-06-14T21:24:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-06-14T21:25:00+03:00'
+        end_time: '2026-06-14T22:22:00+03:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Romano mirits
+        start_time: '2026-06-14T23:26:00+03:00'
+        end_time: '2026-06-14T23:39:30+03:00'
+        description: |-
+          Ajankohtaista asiaa romaneista.
+      - title: Yöklassinen
+        start_time: '2026-06-14T23:40:00+03:00'
+        end_time: '2026-06-15T06:30:00+03:00'
