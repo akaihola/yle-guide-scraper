@@ -1,15 +1,42 @@
 metadata:
-  generated_at: '2026-05-11T03:13:36.195031+00:00'
+  generated_at: '2026-05-12T03:11:40.716562+00:00'
   git:
     branch: main
-    commit: f8ccc0a6ac958c5c5406b8b13f7542db70142517
-  data_hash: 26f1fca32f66e3e16f2143ed42e13d478ea35cdf1e85757a8a943f6a9100d90f
+    commit: 6d97705c379f9e841708c32398dc8356b08d5bdf
+  data_hash: d47a2c42c440853ec062dd87893cfa1b4927da7985b6e45546d9d2effdc5e093
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-13T23:40:00+03:00'
         end_time: '2026-05-14T08:00:00+03:00'
+        description: |+
+          Carulli: Fantasia huilulle ja kitaralle G-duuri Bellinin oopperan Merirosvo teemoista (Jean-Piere Rampal ja Alexandre Lagoya).
+
+          23:52 Cozzolani: Maria-vesper (Vokaaliyhtye Magnificat, John Dornenburg, viola da gamba, David Tayler, teorbi, ja Hanneke van Proosdij, urut).
+
+          01:26 Liszt: Harmonies poétiques et religieuses (Runollisia ja hartaita sointuja) (Steven Osborne, piano).
+
+          02:50 E. Strauss: Ohne Aufenthalt (Pysähtymättä) (Cincinnati Pops/Erich Kunzel).
+
+          02:52 Halvorsen: Orkesterisarja näytelmämus. Askeladden (Latvian kansallinen SO/Terje Mikkelsen).
+
+          03:08 Schubert: Kolme kappaletta pianolle (Alfred Brendel).
+
+          03:34 Sacchini: Oidipus Kolonoksessa, 3-näytöksinen ooppera (Francois Loup, bassobaritoni, Nathalie Paulin, sopraano, Robert Getchell, tenori, Tony Boutte, tenori, ja Kirsten Blaise, sopraano ym. sekä Opera Lafayette -kuoro ja -ork./Ryan Brown).
+
+          05:28 Prokofjev: Sinfonia n:o 5 B-duuri (Rotterdamin FO/Valeri Gergijev).
+
+          06:11 W.A. Mozart: Trio Es-duuri (Kegelstatt). (Emanuel Ax, piano, Richard Stoltzman, klarinetti, ja Yo-Yo Ma, sello).
+
+          06:32 Somervell: Normandy (Martin Roscoe, piano, ja BBC:n Skotlannin SO/Martyn Brabbins).
+
+          06:54 Beethoven: Jousikvartetto n:o 13 B-duuri (Amadeus-kvartetti).
+
+          07:30 Boccherini: Sellokonsertto B-duuri (Jian Wang ja Salzburgin Mozarteumin akateeminen kamariork.).
+
+          07:50 Leclair: Sonaatti h-molli (Robert Stallman, huilu, Karl Bennion, sello, ja Edwin Swanborn, cembalo). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-14T08:00:00+03:00'
         end_time: '2026-05-14T08:05:00+03:00'
@@ -156,15 +183,17 @@ data:
         start_time: '2026-05-14T17:35:00+03:00'
         end_time: '2026-05-14T18:25:00+03:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Takatukka-ilmiö - Keitaan vieraana Antti Paalanen
+
+          Tuuli Saksalan keitaalle saapuu vieraaksi kansanmuusikko Antti Paalanen, joka nousi kertaheitolla tutuksi suurelle yleisölle UMK-finaalista ja sen kestohitistä "Takatukka". Miten UMK-kokemus muutti hänen elämänsä? Millainen filosofia hänellä on kampaustyylistään? Voiko öristä ilman alkoholia? Ja miten tähän kaikkeen liittyy enkelikivet? Paalanen pohtii myös, miten pienestä pojasta, joka unelmoi rokkistarasta, tuli haitaristi. Ohjelmassa kuullaan haitaristin tuoreimpia biisejä sekä hänen valitsemiaan musiikillisia tuliaisia. 
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-05-14T18:25:00+03:00'
         end_time: '2026-05-14T18:35:00+03:00'
-      - title: Luomiskertomus
+      - title: 'Luomiskertomus: Mariia Niskavaara kirjoitti näynomaisen tarinan lihansyöjien kaupungista'
         start_time: '2026-05-14T18:35:00+03:00'
         end_time: '2026-05-14T19:00:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Mariia Niskavaaran esikoisromaani "Ester, teurastaja" on näkyjen varaan kirjoitettu kertomus lihansyöjien kaupungista. Siellä kaikki, mikä on todellista, kaunista ja merkittävää, kiertyy lihan ja lihanjalostuksen ympärille. Niskavaara kertoo, että tapahtumat ja henkilöt  syntyivät vahvoina mielikuvina ennen sanoiksi pukemista. Päähenkilö, Ester on ammatiltaan teurastaja, ja hän kokee työnsä esteettisesti kiehtovaksi. Liitto keinosiementäjän kanssa kulkee kohti unelmaa omasta lapsesta, ja unelma omalla tavallaan toteutuukin.  Toimittajana on Jonni Roos. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-14T19:00:00+03:00'
         end_time: '2026-05-14T19:02:00+03:00'
@@ -178,23 +207,58 @@ data:
         end_time: '2026-05-14T20:57:00+03:00'
       - title: 'Tosi tarina: Yksi saari, yksi mies'
         start_time: '2026-05-14T21:00:00+03:00'
-        end_time: '2026-05-14T21:48:00+03:00'
+        end_time: '2026-05-14T21:49:01+03:00'
         description: |
           Ensio Sandell on elänyt kaikki elämänsä 86 vuotta Suomen läntisimmällä saarella Emskärissä. Kesällä hyvän sään aikana Ahvenanmaalla sijaitsevalla saarella vierailee muitakin, mutta kun tulee talvi, niin ainoa savu nousee Ension mökin piipusta. Kaikki muut ovat muuttaneet pois tai kuolleet. 
           Toimittaja: Mervi Leino. (es. 25.3.2024)
-      - title: Taiteilijatapaaminen
-        start_time: '2026-05-14T21:49:00+03:00'
-        end_time: '2026-05-14T22:44:00+03:00'
+      - title: 'Taiteilijatapaaminen: Kimmo Schroderus ja Anssi Kasitonni'
+        start_time: '2026-05-14T21:49:09+03:00'
+        end_time: '2026-05-14T22:43:43+03:00'
+        description: |-
+          Jos satut samaan tilaan kuvanveistäjä Kimmo Schroderuksen ja monialataiteilija Anssi Kasitonnin kanssa, intohimoinen keskustelu autoista on hyvin todennäköistä. Taiteilijatapaamisessa nämä kaksi tunnettua taiteilijaa avaavat autointoiluaan ja sitä miten se on vaikuttanut heidän luomaansa taiteeseen. 
+          Toimittajana Marko Miettinen.
       - title: Kauhua ja kihlauksia 7/10
-        start_time: '2026-05-14T22:45:00+03:00'
-        end_time: '2026-05-14T23:06:00+03:00'
+        start_time: '2026-05-14T22:43:53+03:00'
+        end_time: '2026-05-14T23:04:11+03:00'
         description: |-
           Osa 7/10 Jane Austenin Northanger Abbey.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mielikuvien musiikkia'
         start_time: '2026-05-14T23:01:00+03:00'
         end_time: '2026-05-14T23:57:00+03:00'
-        description: |-
+        description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen
         start_time: '2026-05-15T00:00:00+03:00'
         end_time: '2026-05-15T06:30:00+03:00'
+        description: |+
+          J.S. Bach: Kantaatti n:o 11 (Ylistäkää Jumalaa Hänen valtakunnassaan). (Sandrine Piau, sopraano, Bogna Bartosz, altto, James Gilchrist, tenori, Klaus Mertens, basso, sekä Amsterdamin barokkikuoro ja -orkesteri/Ton Koopman).  
+
+          00:28 Sibelius: Pelléas et Mélisande, sarja orkesterille näytelmämusiikista (RSO/Nicholas Collon).
+
+          00:55 Vivaldi: Konsertto kahdelle oboelle ja jousille d-molli (Marc Schachman ja Gonzalo X. Ruiz sekä Philharmonia Baroque/Nicholas McGegan).
+
+          01:04 Glazunov: Pimeydestä valoon, fantasia orkesterille. (Hong Kongin FO/Antonio de Almeida).
+
+          01:15 C.L. Lithander: Sonaatti pianolle C-duuri (Tapani Valsta).
+
+          01:33 Sopraano June Anderson laulaa aarioita Bellinin oopperoista Puritaanit, Capuletit ja Montecchit, Unissakävijä ja Beatrice di Tenda (Monte Carlon FO/Nicola Rescigno).
+
+          02:28 Anonyymi (1700-l.): Ascendit Deus in jubilatione (Carol Ann Allred, sopraano, ja Chatham Baroque). 
+
+          02:32 Saint-Saëns: Kuusi etydiä vasemmalle kädelle (Leon Fleisher, piano).
+
+          02:51 A. Estévez: La Cantata Criolla (Kreolilainen kantaatti) (Idwer Alvarez, tenori, ja William Alvarado, baritoni, sekä Schola Cantorum de Caracas -kuoro, Simon Bolivar Caracas -kuoro, ja Simon Bolivar -SO/Eduardo Mata).
+
+          03:26 Brahms: Pianokvartetto g-molli (Artur Rubinstein ja Guarneri-kvartetti).
+
+          04:05 J.S. Bach: Englantilaiset sarjat n:o 4 F-duuri, 5 e-molli ja 6 d-molli (Peter Watchorn, cembalo).
+
+          05:27 W.A. Mozart: Sinfonia n:o 41 C-duuri (Jupiter) (Berliinin filharmonikot/Herbert von Karajan).
+
+          05:55 Schumann: Abegg-muunnelmat (Clara Haskil, piano).
+
+          06:03 Lalo: Sonaatti sellolle ja pianolle a-molli (Étienne Péclard ja Dominique Ponty).
+
+          06:26 Händel: Abinoamin aaria orat. Deborah (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).
+
+...

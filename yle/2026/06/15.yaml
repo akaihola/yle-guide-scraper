@@ -1,12 +1,128 @@
 metadata:
-  generated_at: '2026-05-11T03:13:44.791373+00:00'
+  generated_at: '2026-05-12T03:11:47.363046+00:00'
   git:
     branch: main
-    commit: f8ccc0a6ac958c5c5406b8b13f7542db70142517
-  data_hash: 26f1fca32f66e3e16f2143ed42e13d478ea35cdf1e85757a8a943f6a9100d90f
+    commit: 6d97705c379f9e841708c32398dc8356b08d5bdf
+  data_hash: d47a2c42c440853ec062dd87893cfa1b4927da7985b6e45546d9d2effdc5e093
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-14T23:40:00+03:00'
         end_time: '2026-06-15T06:30:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-06-15T06:30:50+03:00'
+        end_time: '2026-06-15T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-06-15T06:50:00+03:00'
+        end_time: '2026-06-15T06:59:59+03:00'
+        description: |-
+          "Päästä varpaisiin rakastettu"
+          Kenttärovasti Risto Kaakinen Lahdesta muistuttaa sanoittamaan ja jakamaan lahjaksi saatua rakkautta eteenpäin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T07:00:00+03:00'
+        end_time: '2026-06-15T07:05:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-06-15T07:06:00+03:00'
+        end_time: '2026-06-15T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T08:00:00+03:00'
+        end_time: '2026-06-15T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-06-15T08:07:00+03:00'
+        end_time: '2026-06-15T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-06-15T09:00:00+03:00'
+        end_time: '2026-06-15T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-06-15T09:04:00+03:00'
+        end_time: '2026-06-15T09:59:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-06-15T10:00:00+03:00'
+        end_time: '2026-06-15T10:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-15T10:52:00+03:00'
+        end_time: '2026-06-15T11:00:00+03:00'
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2026-06-15T11:00:00+03:00'
+        end_time: '2026-06-15T11:57:00+03:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-06-15T11:57:00+03:00'
+        end_time: '2026-06-15T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T12:00:00+03:00'
+        end_time: '2026-06-15T12:05:00+03:00'
+      - title: 'Elävä historia: Häiden hurjempi historia'
+        start_time: '2026-06-15T12:05:00+03:00'
+        end_time: '2026-06-15T12:55:00+03:00'
+        description: |-
+          Toimittajana Inkeri Alatalo.
+      - title: Politiikkaradio
+        start_time: '2026-06-15T13:00:00+03:00'
+        end_time: '2026-06-15T13:30:00+03:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-06-15T13:30:00+03:00'
+        end_time: '2026-06-15T15:00:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2026-06-15T15:00:00+03:00'
+        end_time: '2026-06-15T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T16:00:00+03:00'
+        end_time: '2026-06-15T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-06-15T16:07:00+03:00'
+        end_time: '2026-06-15T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T17:00:00+03:00'
+        end_time: '2026-06-15T17:05:00+03:00'
+      - title: 'Tuntematon Baltia: Baltian 800 vuotta'
+        start_time: '2026-06-15T17:05:00+03:00'
+        end_time: '2026-06-15T17:30:00+03:00'
+        description: |
+          Oulun yliopiston historian professori Kari Alenius kertoo Baltian maiden historiasta ja nykypäivästä. Toimittaja on Jari Aula.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-15T17:30:00+03:00'
+        end_time: '2026-06-15T17:35:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-06-15T17:35:00+03:00'
+        end_time: '2026-06-15T18:35:00+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2026-06-15T18:35:00+03:00'
+        end_time: '2026-06-15T18:50:00+03:00'
+        description: |-
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2026-06-15T18:50:00+03:00'
+        end_time: '2026-06-15T19:00:00+03:00'
+        description: |-
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (UT2020)
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-15T19:00:00+03:00'
+        end_time: '2026-06-15T19:02:00+03:00'
+      - title: Mannerheimin agentti
+        start_time: '2026-06-15T20:05:00+03:00'
+        end_time: '2026-06-15T20:25:00+03:00'
+      - title: Politiikkaradio
+        start_time: '2026-06-15T21:00:00+03:00'
+        end_time: '2026-06-15T21:30:00+03:00'
+      - title: Tiedeykkönen
+        start_time: '2026-06-15T21:30:30+03:00'
+        end_time: '2026-06-15T22:20:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-06-15T22:45:00+03:00'
+        end_time: '2026-06-15T23:39:30+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+      - title: Yöklassinen
+        start_time: '2026-06-15T23:40:00+03:00'
+        end_time: '2026-06-16T06:30:00+03:00'
