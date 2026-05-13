@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-12T03:11:46.627718+00:00'
+  generated_at: '2026-05-13T03:12:29.209087+00:00'
   git:
     branch: main
-    commit: 6d97705c379f9e841708c32398dc8356b08d5bdf
-  data_hash: d47a2c42c440853ec062dd87893cfa1b4927da7985b6e45546d9d2effdc5e093
+    commit: 945b4c681203e2f079a5507ba58a44874b892960
+  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
 data:
   '':
     programmes:
@@ -59,8 +59,8 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-06-11T09:04:00+03:00'
         end_time: '2026-06-11T09:59:00+03:00'
-        description: |+
-          Steiner: (Theme from) a summer place (Percy Faith).
+        description: |
+          Steiner: (Theme from) a Summer Place (Percy Faith).
           Jobim: Yhden nuotin samba (Laila Kinnunen).
           Caulier/Lacombe: Mon amie la rose (Françoise Hardy).
           Sauter: A summer afternoon (Stan Getz).
@@ -76,8 +76,7 @@ data:
           Brennan: Robin (the hooded man) (Clannad).
           English: Vain kaksi nauhaa (Tapio Heinonen).
 
-          Toimittajana Susanna Vainiola.
-
+          Konsertin on toimittanut Susanna Vainiola.
       - title: Marko Gustafsson
         start_time: '2026-06-11T10:00:00+03:00'
         end_time: '2026-06-11T10:53:00+03:00'

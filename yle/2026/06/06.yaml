@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-12T03:11:45.718547+00:00'
+  generated_at: '2026-05-13T03:12:28.299649+00:00'
   git:
     branch: main
-    commit: 6d97705c379f9e841708c32398dc8356b08d5bdf
-  data_hash: d47a2c42c440853ec062dd87893cfa1b4927da7985b6e45546d9d2effdc5e093
+    commit: 945b4c681203e2f079a5507ba58a44874b892960
+  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
 data:
   '':
     programmes:
@@ -147,6 +147,8 @@ data:
       - title: Tämän runon haluaisin kuulla
         start_time: '2026-06-06T19:02:00+03:00'
         end_time: '2026-06-06T21:00:00+03:00'
+        description: |-
+          Suora lähetys Annikin runofestivaalilta Tampereelta. Toimittajina Pietari Kylmälä ja Kaisa Pulakka.
       - title: Uutispodcast
         start_time: '2026-06-06T21:01:00+03:00'
         end_time: '2026-06-06T21:25:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-12T03:11:40.526099+00:00'
+  generated_at: '2026-05-13T03:12:23.417359+00:00'
   git:
     branch: main
-    commit: 6d97705c379f9e841708c32398dc8356b08d5bdf
-  data_hash: d47a2c42c440853ec062dd87893cfa1b4927da7985b6e45546d9d2effdc5e093
+    commit: 945b4c681203e2f079a5507ba58a44874b892960
+  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
 data:
   '':
     programmes:
@@ -48,6 +48,8 @@ data:
           Piiparinen: Meren tiedän kirkkahan (Jippu).
 
           Simojoki: Sä Herra, armon tuoja (Pekka Simojoki, Jaakko Löytty ja Eeva Kuvaja sekä yhtye).
+
+          Juontajana on Tuija Kurvinen.
 
       - title: Aamuhartaus
         start_time: '2026-05-13T06:50:00+03:00'
@@ -116,18 +118,31 @@ data:
           Doelle: Wenn der weisse Flieder wieder blüht (Barnabas von Geczy).
 
           Konsertin on laatinut Tuuli Saksala.
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Lauma ja yhteistyö '
         start_time: '2026-05-13T10:00:00+03:00'
         end_time: '2026-05-13T10:50:00+03:00'
         description: |
           Muurahaiset ovat erittäin sosiaalisia. Lepakoilla on vastavuoroista auttamista. Ihminen pitää enemmän heistä, jotka osoittavat hyviä aikomuksia. Ostrakismia eli yksilön sulkemista lauman ulkopuolle esiintyy kaikilla lajeilla. Miksi? Millaista on mukaanottava yhteistyö?
-          Toimittaja Satu Kivelä ja etsii vastauksia yhdessä kasvatustieteen professori Niina Junttilan ja tutkija Emma Vitikaisen kanssa. 
+          Toimittaja Satu Kivelän vieraana kasvatuspsykologian professori Niina Junttila Turun yliopistosta ja ekologian evoluutiobiologian dosentti ja yliopistonlehtori Emma Vitikainen Helsingin yliopistosta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-13T10:50:00+03:00'
         end_time: '2026-05-13T11:00:00+03:00'
       - title: Klassinen kattaus
         start_time: '2026-05-13T11:00:00+03:00'
         end_time: '2026-05-13T11:57:00+03:00'
+        description: |+
+          Blavet: Sonaatti huilulle ja continuolle d-molli (Robert Stallman, huilu, Edwin Swanborn, cembalo,  ja Karl Bennion, sello).
+
+          Josef Strauss: Die Libelle (Sudenkorento) (RSO/Ralf Kircher).
+
+          J.S. Bach: Italialainen konsertto F-duuri (Rosalyn Tureck, piano).
+
+          W.A. Mozart: Kolme saksalaista tanssia (Lontoon Mozart-soittajat/Harry Blech).
+
+          Telemann: Konsertto trumpetille, viululle, jousille ja continuolle D-duuri (David Kjar, luonnontrumpetti, ja kamariyhtye Rebel/Jörg-Michael Schwarz).
+
+          Mendelssohn: Metsästäjien jäähyväiset (Die Singphoniker).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-13T11:57:00+03:00'
         end_time: '2026-05-13T12:00:00+03:00'
@@ -138,7 +153,7 @@ data:
         end_time: '2026-05-13T12:05:00+03:00'
       - title: 'Vakoojat: Rautarouva Thatcherin ristiretkeä Falklandinsaarille edelsi Britannian MI6 epäonnistuminen'
         start_time: '2026-05-13T12:05:00+03:00'
-        end_time: '2026-05-13T12:50:00+03:00'
+        end_time: '2026-05-13T12:40:00+03:00'
         description: |
           Falklandinsaarten sota oli 1980-luvun alkupuolen kuohuttavimpia tapahtumia dramaattisten meritaistelujensa takia ja siksi, että ensi kertaa sitten toisen maailmansodan läntisen Euroopan suuri sotilasmahti oli ”oikeassa sodassa” eikä vain siirtomaidensa itsenäistymisliikkeitä kukistamassa.
 
@@ -175,14 +190,14 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-05-13T16:07:00+03:00'
         end_time: '2026-05-13T16:59:00+03:00'
-        description: |-
+        description: |
           Bizet: Don Josen kukkaisaaria "La fleur que tu m'avais jetée" oopp. Carmen (Jonas Kaufmann, tenori, ja Prahan FO/Marco Armiliato).
 
           Rahmaninov: Tuhatkaunoja (Itzhak Perlman, viulu, ja Samuel Sanders, piano).
 
           Delius: To daffodils (Narsisseille) (Robin Tritschler, tenori, ja Malcolm Martineau, piano).
 
-          Delibes: Kukkaduetto oopp. Lakmé (Patricia Petibon, sopraano, Karine Deshayes, mezzosopraano, ja Lyonin oopperan ork./Yves Abel).
+          Delibes: Kukkaduetto "Viens Mallika - Dôme épais le jasmin" oopp. Lakmé (Patricia Petibon, sopraano, Karine Deshayes, mezzosopraano, ja Lyonin oopperan ork./Yves Abel).
 
           V. Hannikainen: Metsäorvokki (Aale Lindgren, oboe, ja Jussi Siirala, piano).
 
@@ -197,11 +212,14 @@ data:
           Fortier: Mon bouquet (Kuihtunut kukkakimppuni) (Russell Braun, baritoni, ja Carolyn Maule, piano).
 
           Tshaikovski: Kukkaisvalssi bal. Pähkinänsärkijä (Cincinnati Pops/Erich Kunzel, ja Gillian Benet Sella, harppu).
+
+          Konsertin on toimittanut Lotta Emanuelsson.
+          Juontajana Airik Hodge.
       - title: Uutispodcast
         start_time: '2026-05-13T17:00:00+03:00'
         end_time: '2026-05-13T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Suomi on yksi ennakkosuosikeista Euroviisuissa. Miten Wienissä valmistaudutaan viisuviikonloppuun? Reetta Röngän vieraana paikan päältä kulttuuritoimittaja Ville Vedenpää.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-13T17:20:00+03:00'
         end_time: '2026-05-13T17:35:00+03:00'
@@ -212,7 +230,7 @@ data:
         start_time: '2026-05-13T17:35:00+03:00'
         end_time: '2026-05-13T18:35:00+03:00'
         description: |-
-          Jazzklubissa vieraana on lyömäsoittaja ja tuottaja Abdissa "Mamba" Assefa. Kuuntelukerho on poikkeuksellisesti katselukerho, jonka teemana on 11.5. Areenaan julkaistu dokumentti Quincy Jones - Music man. Toimittajina Laura Korhonen ja Eero Koski.
+          Lyömäsoittaja, rumpali ja tuottaja Abdissa "Mamba" Assefa kertoo Jazzklubin studiossa, miten improvisaatio yhdistää sekä musiikkia että ruoanlaittoa - ja miksi elämässä kannattaa olla joustava. "Mä oon keittiössä hyvin luova. Mä katson kaapit läpi ja improvisoin. Se maustaminen on yhtä kuin lyömäsoittajan taito, ne pienet detaljit." Kuuntelukerho on poikkeuksellisesti katselukerho. Keskustelemme Yle Areenasta löytyvästä Quincy Jones -dokumentista. Toimittajat ovat Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-05-13T18:35:00+03:00'
         end_time: '2026-05-13T18:50:00+03:00'
@@ -224,6 +242,7 @@ data:
           Krasnostovski: Oi Jeesus Kristus (RKK/Peter Mirolybov).
 
           Simojoki: Niinkuin hopeaa (Hanna Ekola).
+          Juontajana Airik Hodge.
 
       - title: Iltahartaus
         start_time: '2026-05-13T18:50:00+03:00'
@@ -246,8 +265,8 @@ data:
         start_time: '2026-05-13T21:31:00+03:00'
         end_time: '2026-05-13T22:20:00+03:00'
       - title: 'Murha Ahvenanmaalla: Viimeinen sukellus'
-        start_time: '2026-05-13T22:21:00+03:00'
-        end_time: '2026-05-13T23:02:20+03:00'
+        start_time: '2026-05-13T22:24:46+03:00'
+        end_time: '2026-05-13T23:06:06+03:00'
         description: |
           Osa 2/4. Myrskyisellä Ahvenanmaalla surun murtama, helsinkiläinen rikostutkija Pekka Jaakkola (Pelle Heikkilä) kohtaa arvoituksellisen murhan, joka johdattaa hänet syvälle vakoilun ja petoksen verkkoihin. Avukseen hän saa sokean, mutta äänianalyysissä mestarillisen Astrid Lindholmin (Laura Malmivaara). Kun Maarianhaminassa sijaitsevassa Venäjän konsulaatissa tapahtuu mystinen kuolema, käynnistyy tapahtumien vyöry, jossa panokset kasvavat nopeasti. Demilitarisoitu Ahvenanmaa ei olekaan se lintukoto, jollaiseksi se on mielletty. Myrskytuuleen kätkeytyneet salaisuudet alkavat paljastua ja kun tapahtumat Itämerellä huipentuvat, valheiden verkko katkeaa ja järkyttävä petos muuttaa kaiken – lopulta käsissä on koko saariston tulevaisuus.
 
