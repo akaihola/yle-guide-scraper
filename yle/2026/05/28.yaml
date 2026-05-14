@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-13T03:12:26.501344+00:00'
+  generated_at: '2026-05-14T03:11:32.211048+00:00'
   git:
     branch: main
-    commit: 945b4c681203e2f079a5507ba58a44874b892960
-  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
+    commit: 501c60edd56d2e5bc4b71a23c8cb468c5c7a2a50
+  data_hash: 291ba2ce1188868eb555a9dd24fabbb618f7e313bc3f299cb77b2c1b0115e9c7
 data:
   '':
     programmes:
@@ -71,9 +71,12 @@ data:
           Cooke: A change is gonna come (Sam Cooke).
 
           Konsertin on toimittanut Susanna Vainiola.
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Käännekohdissa Irina Björklund'
         start_time: '2026-05-28T10:00:00+03:00'
         end_time: '2026-05-28T10:53:00+03:00'
+        description: |
+          Näyttelijä, muusikko Irina Björklund luottaa luonnon ohjaukseen.
+          Jokaisella meistä on vaisto, mikä kehottaa tekemään asioita, mutta harvempi meistä kykenee toimimaan luottaen sydämensä ääneen. Irina Björklund on aina tehnyt valintansa luottaen intuitioon. Parhaiten hän kuulee sydämensä  äänet luonnossa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-28T10:53:00+03:00'
         end_time: '2026-05-28T11:00:00+03:00'
@@ -176,6 +179,22 @@ data:
         end_time: '2026-05-28T20:00:00+03:00'
         description: |-
           Äänitetty Kirjurinluodon Lokkilavalla 13.7.1984.
+      - title: Klassinen kattaus
+        start_time: '2026-05-28T20:00:00+03:00'
+        end_time: '2026-05-28T20:57:00+03:00'
+        description: |+
+          Barrios: Maxixe (John Williams, kitara).
+
+          Sibelius: Alkusoitto f-molli vaskiseptetille (Solistiyhtye Imperial).
+
+          Schubert: 16 saksalaista tanssia (Ralf Gothóni, piano).
+
+          Verdi: Germontin aaria "Di Provenza il mar" oopp. La traviata (Georg Ots, baritoni, ja Viron RSO/Neeme Järvi)
+
+          Parry: The Chivalry of the Sea (Merioodi) (BBC:n sinfoniakuoro ja BBC:n SO/David Lloyd-Jones).
+
+          Bonporti: Serenadi A-duuri (Bloomington Baroque/Stanley Ritchie, joht. ja viulu). 
+
       - title: 'Politiikkaradio '
         start_time: '2026-05-28T21:00:00+03:00'
         end_time: '2026-05-28T21:30:00+03:00'

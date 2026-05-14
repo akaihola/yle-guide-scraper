@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-13T03:12:26.183516+00:00'
+  generated_at: '2026-05-14T03:11:32.036659+00:00'
   git:
     branch: main
-    commit: 945b4c681203e2f079a5507ba58a44874b892960
-  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
+    commit: 501c60edd56d2e5bc4b71a23c8cb468c5c7a2a50
+  data_hash: 291ba2ce1188868eb555a9dd24fabbb618f7e313bc3f299cb77b2c1b0115e9c7
 data:
   '':
     programmes:
@@ -52,12 +52,53 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-05-27T09:00:00+03:00'
         end_time: '2026-05-27T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-05-27T09:04:00+03:00'
+        end_time: '2026-05-27T09:59:00+03:00'
+        description: |
+          Gay: Lambeth walk (Django Reinhardt & Le Quintette du Hot Club de France).
+          Mårtenson: Cara domenica (Lasse Mårtenson).
+          Gershwin: Nice work if you can get it (Sarah Vaughan).
+          Gensler: Love is just around the corner (The Four Freshmen).
+          Whittaker: Finnish whistler (Roger Whittaker).
+          Kansansäv.: El condor pasa (Simon and Garfunkel ja Los Incas).
+          Panzuti: Kuinka paljon rakkautta (Brita Koivunen).
+          Kansansäv.: Väärä vitonen (Veikko Lavi).
+          Leitch: Catch the wind (Donovan).
+          Vivanco: Five bottles mambo (Yma Sumac).
+          Mann: Kuka kanalja varasti hääkellot (Sacy Sand).
+          Marques: Amor perfeito (Mariza).
+          Lindholm: Puhtaat laivat (Isokynä Lindholm).
+          Barry: Diamonds are forever (Shirley Bassey).
+          Cliffe: När jag putsar fönster (Svante Thuresson).
+          Wechter: The Spanish flea (Herb Alpert and The Tijuana Brass).
+          Barry: Born free (Matt Monro).
+          King: Nyt olen tullut maailmaan (Maarit).
+          Wonder: Sir Duke (Stevie Wonder).
+
+          Konsertin on laatinut Tuuli Saksala.
       - title: Havaintoja muutoksesta
         start_time: '2026-05-27T10:00:00+03:00'
         end_time: '2026-05-27T10:50:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-27T10:50:00+03:00'
         end_time: '2026-05-27T11:00:00+03:00'
+      - title: Klassinen kattaus
+        start_time: '2026-05-27T11:00:00+03:00'
+        end_time: '2026-05-27T11:57:00+03:00'
+        description: |+
+          Barrios: Maxixe (John Williams, kitara).
+
+          Sibelius: Alkusoitto f-molli vaskiseptetille (Solistiyhtye Imperial).
+
+          Schubert: 16 saksalaista tanssia (Ralf Gothóni, piano).
+
+          Verdi: Germontin aaria "Di Provenza il mar" oopp. La traviata (Georg Ots, baritoni, ja Viron RSO/Neeme Järvi)
+
+          Parry: The Chivalry of the Sea (Merioodi) (BBC:n sinfoniakuoro ja BBC:n SO/David Lloyd-Jones).
+
+          Bonporti: Serenadi A-duuri (Bloomington Baroque/Stanley Ritchie, joht. ja viulu). 
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-27T11:57:00+03:00'
         end_time: '2026-05-27T12:00:00+03:00'
@@ -76,11 +117,13 @@ data:
       - title: Radio 1:n iltapäivä
         start_time: '2026-05-27T13:30:00+03:00'
         end_time: '2026-05-27T15:00:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: The Mandalorian and Grogu - Tähtien sota tulee taas'
         start_time: '2026-05-27T15:00:00+03:00'
         end_time: '2026-05-27T15:55:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          The Mandalorian and Grogu on ensimmäinen Tähtien sota -elokuva seitsemään vuoteen. Edellisen elokuvan jälkeen kaukaisessa galaksissa on seikkailtu lähinnä tv-sarjoissa, vaihtelevalla menestyksellä. 
+          Nyt Tähtien sota siis palaa valkokankaalle. Sankarit ovat The Mandalorian -tv-sarjasta tuttuja: Pedro Pascalin esittämä jäyhän kunniallinen "Mandalorian" sekä pieni Grogu. 
+          Miltä tämä uusi Tähtien sodan aikakausi näyttää ja miten franchisella muuten menee? Aiheesta ovat keskustelemassa sarjakuvataiteilija Petri Hiltunen, toimittaja ja Star Wars -bloggaaja Aki Jörgensen, sekä Star Wars -harrastaja Linnea Peurakoski. Jussi Ahlroth toimittaa.
       - title: Yle News
         start_time: '2026-05-27T15:55:00+03:00'
         end_time: '2026-05-27T15:58:00+03:00'

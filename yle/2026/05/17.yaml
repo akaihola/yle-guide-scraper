@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-13T03:12:24.194709+00:00'
+  generated_at: '2026-05-14T03:11:30.277870+00:00'
   git:
     branch: main
-    commit: 945b4c681203e2f079a5507ba58a44874b892960
-  data_hash: 487e550c47146b4f31fb9e861cd99b7e3ff7576011d5459bf7708f20e5740a61
+    commit: 501c60edd56d2e5bc4b71a23c8cb468c5c7a2a50
+  data_hash: 291ba2ce1188868eb555a9dd24fabbb618f7e313bc3f299cb77b2c1b0115e9c7
 data:
   '':
     programmes:
@@ -142,11 +142,11 @@ data:
           Stenbäck: Norkkokuja (Freeta). 
           Virtanen: Muistelen (polkkaa) (Freeta). 
           Stenbäck: Sügis Stockholmis (Freeta). 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Odottamaan oppii odottamalla ja muita elämänviisauksia pullamössösukupolvelle'
         start_time: '2026-05-17T14:55:00+03:00'
         end_time: '2026-05-17T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Ponnistelu on elämän tarkoitus – sinnikkyys sen suola, kirjailija Roope Lipasti toteaa.
       - title: 'Klassikkokuunnelma: Ihmiset suviyössä, osa 2/2.'
         start_time: '2026-05-17T15:00:00+03:00'
         end_time: '2026-05-17T15:35:00+03:00'
@@ -206,9 +206,11 @@ data:
         end_time: '2026-05-17T17:59:19+03:00'
         description: |
           Intialaisen tabla-rummunsoittaja Suranjana Ghoshin (s. 1972) Teental-yhtye yhdistää pohjois-intialaisen klassisen musiikin pohjoismaiseen jazziin ja kansanmusiikkiin. Konsertti on taltioitu Sävjan kulttuurikeskuksessa Uppsalassa 16.9.2025. Toimittajana on Miika Lauriala. 
-      - title: Jazzklubi
-        start_time: '2026-05-17T18:00:30+03:00'
+      - title: 'Jazzklubi: "Turha stressata asioista, joita et voi hallita" – Mamba Assefan resepti elämään ja musiikkiin'
+        start_time: '2026-05-17T18:00:06+03:00'
         end_time: '2026-05-17T19:00:00+03:00'
+        description: |-
+          Lyömäsoittaja, rumpali ja tuottaja Abdissa "Mamba" Assefa kertoo Jazzklubin studiossa, miten improvisaatio yhdistää sekä musiikkia että ruoanlaittoa - ja miksi elämässä kannattaa olla joustava. "Mä oon keittiössä hyvin luova. Mä katson kaapit läpi ja improvisoin. Se maustaminen on yhtä kuin lyömäsoittajan taito, ne pienet detaljit." Kuuntelukerho on poikkeuksellisesti katselukerho. Keskustelemme Yle Areenasta löytyvästä Quincy Jones -dokumentista. Toimittajat ovat Laura Korhonen ja Eero Koski.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-17T19:00:00+03:00'
         end_time: '2026-05-17T19:02:05+03:00'
@@ -226,8 +228,8 @@ data:
         description: |-
           Otsikoiden takana joka arkipäivä.
       - title: 'Klasariparatiisi: Mariannan talossa'
-        start_time: '2026-05-17T21:25:00+03:00'
-        end_time: '2026-05-17T22:18:51+03:00'
+        start_time: '2026-05-17T21:25:09+03:00'
+        end_time: '2026-05-17T22:19:00+03:00'
         description: |
           Se, missä kerroksessa asuu, kertoo sosiaalisesta asemasta. Näin oli ainakin 1700-luvun puolivälissä Wienissä. Keitä asui suuressa talossa keskellä kaupunkia, ja miten asiaan liittyy musiikki....ja Marianna?
 
@@ -245,13 +247,13 @@ data:
 
           Marianna Martines: Kantaatti "Orgoglioso fiumicello" (Anna Bonitatibus, mezzo-sopraano, ja La Floridiana-orkesteri/Nicoleta Paraschivescu).
       - title: 'Sari Valto: Miksi ranskalaiset eivät liho? Voisimmeko oppia jotain heiltä?'
-        start_time: '2026-05-17T22:19:30+03:00'
-        end_time: '2026-05-17T23:11:29+03:00'
+        start_time: '2026-05-17T22:19:45+03:00'
+        end_time: '2026-05-17T23:11:44+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: 'Romano mirits: Jasmine Valentin'
-        start_time: '2026-05-17T23:26:00+03:00'
-        end_time: '2026-05-17T23:39:30+03:00'
+        start_time: '2026-05-17T23:24:30+03:00'
+        end_time: '2026-05-17T23:39:31+03:00'
         description: |+
           Jasmine Valentin on monelle tuttu ja vuosikymmenien takaa, kun hän edusti Suomea Euroviisuissa vuonna 1996. Sen jälkeen on tapahtunut paljon Jasminen elämässä. Hän on ollut jo kolmevuosikymmentä taitava ja pidetty muusikko, joka on ollut monessa mukana niin kotimaassa kuin ulkomaillakin. Viime vuonna tuli mukaan myös uudenlainen taidekokonaisuus, jossa yhdistyvät lapset. nukketeatteri, musiikki ja oman suvun historia ja tarina. Toimittajana Janette Grönfors.
 
