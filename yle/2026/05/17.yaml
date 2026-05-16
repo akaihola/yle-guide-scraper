@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-15T03:12:47.158958+00:00'
+  generated_at: '2026-05-16T03:10:21.094682+00:00'
   git:
     branch: main
-    commit: 95ff02973ce6b972d554c21459bce5e05c86b9c1
-  data_hash: 55e0aa3edf0660cd355185d449db5379ccfd064449e616af1e25189424d48e66
+    commit: 9d029fa2365feec980f8d26697d3f3bb40911d80
+  data_hash: 4c7827b71303ea75640371bd5763e7828b2205f9e7071f6e2ecc21384e0c035b
 data:
   '':
     programmes:
@@ -60,14 +60,21 @@ data:
           Marianna Martines: Allegro con spirito, Alkusoitosta C-duuri (La Floridiana-orkesteri/Nicoleta Paraschivescu).
 
           Marianna Martines: Kantaatti "Orgoglioso fiumicello" (Anna Bonitatibus, mezzo-sopraano, ja La Floridiana-orkesteri/Nicoleta Paraschivescu).
+      - title: Radio 1 soi
+        start_time: '2026-05-17T07:54:38+03:00'
+        end_time: '2026-05-17T08:00:00+03:00'
+        description: |+
+          Granados: Espanjalainen tanssi n:o 5 (Andaluza). (Andrés Segovia, kitara).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-17T08:00:00+03:00'
         end_time: '2026-05-17T08:05:05+03:00'
       - title: Narrin aamulaulu - Pianisti Risto Lauriala, johtotähtinä Bach, Beethoven ja Brahms
         start_time: '2026-05-17T08:05:35+03:00'
-        end_time: '2026-05-17T08:59:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        end_time: '2026-05-17T08:59:36+03:00'
+        description: |
+          Risto Laurialan intohimo musiikkiin ja pianonsoittoon syttyi pikkupoikana Oulussa, eikä se ole sammunut. Konsertteja, sekä omia resitaaleja että konsertteja kamarimusiikkona, on tasaiseen tahtiin. Takana on kuusi vuosikymmentä ammattipianistina, ja edelleen kulkee, voi Risto Laurialasta
+          todeta. Toimittajana Outi Paananen.
       - title: 'Yle Uutiset '
         start_time: '2026-05-17T09:00:00+03:00'
         end_time: '2026-05-17T09:03:00+03:00'
@@ -119,7 +126,7 @@ data:
         end_time: '2026-05-17T12:05:00+03:00'
       - title: 'Elävä historia: Metsäsuomalaisten tarina - miten palavasieluisesta opiskelijasta tuli karun kansan puolustaja'
         start_time: '2026-05-17T12:05:00+03:00'
-        end_time: '2026-05-17T12:55:00+03:00'
+        end_time: '2026-05-17T12:50:00+03:00'
         description: |-
           Savosta siirtyi väkeä Keski-Ruotsiin 1500-luvun lopulla metsiä kaskeamaan. Millaista oli metsäsuomalaisten karu elämä ja mikä oli miehiään heidän hyväntekijänsä, palavasieluinen opiskelija C.A. Gottlund?
           Toimittajana Anna-Kaisa Brenner.
@@ -149,7 +156,7 @@ data:
           Ponnistelu on elämän tarkoitus – sinnikkyys sen suola, kirjailija Roope Lipasti toteaa.
       - title: 'Klassikkokuunnelma: Ihmiset suviyössä, osa 2/2.'
         start_time: '2026-05-17T15:00:00+03:00'
-        end_time: '2026-05-17T15:35:00+03:00'
+        end_time: '2026-05-17T15:39:00+03:00'
         description: |
           Radionovelli.  F. E. Sillanpään aiheiden mukaan Yleisradiolle kirjoittanut Aarne Laurila. Ohjaus Urpo Lauri.
           Henkilöt:
@@ -159,7 +166,7 @@ data:
           Kunnanlääkäri - Tauno Kajander. Manu, tervapolttaja - Reimo Valkama. Kertojat: Aimo Hiltunen ja Unto Salminen.
           Äänite vuodelta 1960.      
       - title: Musiikkikamari
-        start_time: '2026-05-17T15:35:00+03:00'
+        start_time: '2026-05-17T15:39:00+03:00'
         end_time: '2026-05-17T15:50:00+03:00'
       - title: 'Viikon luontoääni: Lehtokerttu'
         start_time: '2026-05-17T15:50:00+03:00'
@@ -214,22 +221,26 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-17T19:00:00+03:00'
         end_time: '2026-05-17T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
-        start_time: '2026-05-17T19:02:30+03:00'
+      - title: 'Jazzklubin viikon keikka. UMO & Vellu Halkosalmi: This Is How I Feel About Jazz – Music of Quincy Jones'
+        start_time: '2026-05-17T19:02:05+03:00'
         end_time: '2026-05-17T20:00:00+03:00'
+        description: |
+          Äänitetty Savoy-teatterissa Helsingissä 13.11.2013.
       - title: Nikean kirkolliskokouksen pyhien isien sunnuntain liturgia Pyhän Kolminaisuuden katedraalista Oulusta
         start_time: '2026-05-17T20:00:00+03:00'
         end_time: '2026-05-17T21:00:00+03:00'
         description: |-
           Palveluksen toimittaa rovasti Marko Patronen.
-      - title: Uutispodcast
-        start_time: '2026-05-17T21:00:30+03:00'
-        end_time: '2026-05-17T21:24:00+03:00'
+      - title: 'Uutispodcast: Käärijä-ilmiö ei ollut sattumaa – näin se syntyi'
+        start_time: '2026-05-17T21:00:33+03:00'
+        end_time: '2026-05-17T21:24:50+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Jakso on uusinta keväältä 2023. Silloin Suomi pukeutui vihreään ja hoilasi cha cha cha, kun Käärijä osallistui Euroviisuihin. Mikä Käärijä-ilmiössä oli tarkasti suunniteltua ja mikä sattumaa? Miten rakennettiin brändi, jolla myytiin kaikkea kääretortusta kahvakuulaan?
+
+          Reetta Röngän vieraana Käärijä eli Jere Pöyhönen. Lisäksi ilmiötä avaavat biisintekijä Johannes Naukkarinen, Monsp Recordsin Ida Karimaa ja UMK:n Tapio Hakanen.
       - title: 'Klasariparatiisi: Mariannan talossa'
-        start_time: '2026-05-17T21:25:09+03:00'
-        end_time: '2026-05-17T22:19:00+03:00'
+        start_time: '2026-05-17T21:25:59+03:00'
+        end_time: '2026-05-17T22:19:50+03:00'
         description: |
           Se, missä kerroksessa asuu, kertoo sosiaalisesta asemasta. Näin oli ainakin 1700-luvun puolivälissä Wienissä. Keitä asui suuressa talossa keskellä kaupunkia, ja miten asiaan liittyy musiikki....ja Marianna?
 
@@ -247,13 +258,19 @@ data:
 
           Marianna Martines: Kantaatti "Orgoglioso fiumicello" (Anna Bonitatibus, mezzo-sopraano, ja La Floridiana-orkesteri/Nicoleta Paraschivescu).
       - title: 'Sari Valto: Miksi ranskalaiset eivät liho? Voisimmeko oppia jotain heiltä?'
-        start_time: '2026-05-17T22:19:45+03:00'
-        end_time: '2026-05-17T23:11:44+03:00'
+        start_time: '2026-05-17T22:20:35+03:00'
+        end_time: '2026-05-17T23:12:34+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Radio 1 soi
+        start_time: '2026-05-17T23:12:34+03:00'
+        end_time: '2026-05-17T23:23:23+03:00'
+        description: |+
+          Krieger: Sonaatti viululle, viola da gamballe ja continuolle (Trio Settecento).
+
       - title: 'Romano mirits: Jasmine Valentin'
-        start_time: '2026-05-17T23:24:30+03:00'
-        end_time: '2026-05-17T23:39:31+03:00'
+        start_time: '2026-05-17T23:23:23+03:00'
+        end_time: '2026-05-17T23:38:24+03:00'
         description: |+
           Jasmine Valentin on monelle tuttu ja vuosikymmenien takaa, kun hän edusti Suomea Euroviisuissa vuonna 1996. Sen jälkeen on tapahtunut paljon Jasminen elämässä. Hän on ollut jo kolmevuosikymmentä taitava ja pidetty muusikko, joka on ollut monessa mukana niin kotimaassa kuin ulkomaillakin. Viime vuonna tuli mukaan myös uudenlainen taidekokonaisuus, jossa yhdistyvät lapset. nukketeatteri, musiikki ja oman suvun historia ja tarina. Toimittajana Janette Grönfors.
 

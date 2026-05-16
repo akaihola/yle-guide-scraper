@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-15T03:12:52.876948+00:00'
+  generated_at: '2026-05-16T03:10:27.105313+00:00'
   git:
     branch: main
-    commit: 95ff02973ce6b972d554c21459bce5e05c86b9c1
-  data_hash: 55e0aa3edf0660cd355185d449db5379ccfd064449e616af1e25189424d48e66
+    commit: 9d029fa2365feec980f8d26697d3f3bb40911d80
+  data_hash: 4c7827b71303ea75640371bd5763e7828b2205f9e7071f6e2ecc21384e0c035b
 data:
   '':
     programmes:
@@ -24,6 +24,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-06-18T07:06:00+03:00'
         end_time: '2026-06-18T08:00:00+03:00'
+        description: |+
+          Weissenborn: Tee-Tanz im Landschlösschen (Gürzenich-fagottikvintetti).
+
+          Witt: Rondo huilukonsertosta C-duuri (Jyväskylä Sinfonia/Patrick Gallois, huilu)
+
+          Svendsen: Muunnelmia norjalaisesta kansansävelmästä (Norjan RO/Ari Rasilainen).
+
+          J. Parry: Sonaatti harpulle n:o 2 (Judy Loman).
+
+          Melartin: Perhosvalssi näyt. Prinsessa Ruusunen (Arto Satukangas, piano).
+
+          Tshaikovski: Kesäkuu (Stuttgartin RSO/Neville Marriner).
+
+          J. Gade: Mustasukkaisuutta (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
+
+          Morel: Jugueteando (David Russell, kitara).
+
+          Tshaikovski: Valssi orkesterisarjasta n:o 2 (Detroitin SO/Neeme Järvi).
+
+          Brahms: Valssi nro 15 As-duuri (Jouko Harjanne, trumpetti, ja Juhani Lagerspetz, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T08:00:00+03:00'
         end_time: '2026-06-18T08:07:00+03:00'
@@ -122,9 +143,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T19:00:00+03:00'
         end_time: '2026-06-18T19:02:00+03:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Émile Parisien Quartet Tampere Jazz Happeningissä.'
         start_time: '2026-06-18T19:02:00+03:00'
         end_time: '2026-06-18T20:00:00+03:00'
+        description: |-
+          Äänitetty Tampere-talon pienessä salissa 2.11.2025.
       - title: Klassinen kattaus
         start_time: '2026-06-18T20:00:00+03:00'
         end_time: '2026-06-18T20:57:00+03:00'

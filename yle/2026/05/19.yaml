@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-15T03:12:47.661037+00:00'
+  generated_at: '2026-05-16T03:10:21.572870+00:00'
   git:
     branch: main
-    commit: 95ff02973ce6b972d554c21459bce5e05c86b9c1
-  data_hash: 55e0aa3edf0660cd355185d449db5379ccfd064449e616af1e25189424d48e66
+    commit: 9d029fa2365feec980f8d26697d3f3bb40911d80
+  data_hash: 4c7827b71303ea75640371bd5763e7828b2205f9e7071f6e2ecc21384e0c035b
 data:
   '':
     programmes:
@@ -36,6 +36,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-19T06:30:50+03:00'
         end_time: '2026-05-19T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Virpi): Oi Jumalan', kuink' iloitsen (SRK:n kuoro/Mikko Niinikoski).
+
+          Suonio: Idästä länteen (Tuohus-kuoro ja Carmen Ensemble).
+
+          Herman: Oi, kuinka kevät säteilee (virsi 568) (Topi Lehtipuu, tenori, Jarmo Julkunen, teorbi, Jonte Knif, cembalo, ja Mikko Perkola, viola da gamba).
+
+          J. Hannikainen: Te saatte puolustajan (Puijon kamarikuoro/Jorma Hannikainen).
+
+          Jäntti: Repussa ripaus rohkeutta (Eerin Punkari ja Riikka Jäntti, laulu, Oskar ja Evert Punkari, taustalaulu, Antti Vuori, kitara, ohjelmointi ja taustalaulu, Joonas Kasurinen, kosketinsoittimet, Pasi Ryökkynen, basso, ja Henrik Sirelä, rummut).
+
       - title: Aamuhartaus
         start_time: '2026-05-19T06:50:00+03:00'
         end_time: '2026-05-19T06:59:59+03:00'
@@ -104,7 +115,7 @@ data:
           Marley: Three little birds (Bob Marley and the Wailers).
 
           Konsertin on toimittanut Riikka Holopainen.
-      - title: Sari Valto
+      - title: 'Sari Valto: Hiilijalanjäljen pienentäminen voi tuoda paljon hyvää elämään'
         start_time: '2026-05-19T10:00:00+03:00'
         end_time: '2026-05-19T10:55:00+03:00'
         description: |-
@@ -120,6 +131,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-19T11:57:00+03:00'
         end_time: '2026-05-19T12:00:00+03:00'
+        description: |-
+          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-19T12:00:00+03:00'
         end_time: '2026-05-19T12:05:00+03:00'
@@ -179,6 +192,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-19T18:35:00+03:00'
         end_time: '2026-05-19T18:50:00+03:00'
+        description: |+
+          Harju: Ilman Sinua ei ole huomista (Maksetut viulut).
+
+          Andersén: Leipää pelloilta maan (Oulaisten Nuorisokuoro/Tapani Tirilä, ja Veli Ainali, urut).
+
+          Haapasalo: Kanteleeni (Tapiolan kuoro/Kari Ala-Pöllänen, sekä Sinikka Kontio ja Matti Kontio, kantele).
+
+          Lvov: Osia helatorstain kanonista (Torhamo-kvartetti ja Matti Torhamo).
+
       - title: Iltahartaus
         start_time: '2026-05-19T18:50:00+03:00'
         end_time: '2026-05-19T19:00:00+03:00'
@@ -226,14 +248,24 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-05-19T20:35:00+03:00'
         end_time: '2026-05-19T21:00:00+03:00'
+        description: |-
+          Hormuzinsalmen sulku on tulpannut myös merkittävän osan lannoitteiden pääsystä maailmanmarkkinoille. Maailman ruokaohjelma, WFP varoittaa, että sulun seurauksena nälkää näkevien määrä voi maailmassa kasvaa jopa 45 miljoonalla.
+
+          WFP:n apulaispääjohtaja kertoo ohjelmassa, mitkä alueet ovat nyt haavoittuvaisimmassa asemassa.
+
+          Ohjelmassa kuullaan agroekologian ja kestävän ruoantuotannon asiantuntijoilta, miten riippuvaisuutta Persianlahden lannoitetuotannosta voitaisiin vähentää ja ruokaturvaa samalla parantaa.
+
+          Lisäksi käydään Kanta-Hämeessa Mustialan opetus- ja tutkimustilalla kuulemassa, miten lannoitteiden saatavuusshokki näkyy suomalaisviljelijälle.
+
+          Maailmanpolitiikan arkipäivää -ohjelman on toimittanut Paula Vilén. Äänitarkkailijana on Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Politiikkaradio '
         start_time: '2026-05-19T21:00:00+03:00'
         end_time: '2026-05-19T21:30:00+03:00'
-      - title: Sari Valto
+      - title: 'Sari Valto: Hiilijalanjäljen pienentäminen voi tuoda paljon hyvää elämään'
         start_time: '2026-05-19T21:31:00+03:00'
         end_time: '2026-05-19T22:24:00+03:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Sirpa Kaajakari toi Amerikasta Älä osta mitään -liikkeen, jossa lähialueen ihmiset antavat ja vaihtavat toisilleen tavaroita ja palveluksia. Tällä tavalla voi paitsi säästää rahaa ja ilmastoa, myös tutustua lähikorttelin ihmisiin. Esimerkki siitä, miten hiilijalanjäljen pienentäminen ei ankeuta elämää!
       - title: Uudet levyt
         start_time: '2026-05-19T22:25:00+03:00'
         end_time: '2026-05-19T23:19:00+03:00'

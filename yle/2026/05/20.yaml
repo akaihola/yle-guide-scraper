@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-15T03:12:47.837684+00:00'
+  generated_at: '2026-05-16T03:10:21.753916+00:00'
   git:
     branch: main
-    commit: 95ff02973ce6b972d554c21459bce5e05c86b9c1
-  data_hash: 55e0aa3edf0660cd355185d449db5379ccfd064449e616af1e25189424d48e66
+    commit: 9d029fa2365feec980f8d26697d3f3bb40911d80
+  data_hash: 4c7827b71303ea75640371bd5763e7828b2205f9e7071f6e2ecc21384e0c035b
 data:
   '':
     programmes:
@@ -13,6 +13,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-20T06:30:50+03:00'
         end_time: '2026-05-20T06:50:00+03:00'
+        description: |+
+          Haunio (sov. Nyman): Valon hymni (Maria Laakso ja Pekka Nyman Ensemble).
+
+          Tuntematon: Kaunis aamuaurinkomme (Kajaanin rauhanyhdistyksen seurakansa sekä Ossi Säily, urut).
+
+          Gustafson: Herra, tutki sydämeni (Jorma Pollari, laulu, ja Saara Mörsky, piano).
+
+          Simojoki: Jumalan virta (Nardus/Tiina Korhonen, ja Tuomas Turunen, piano).
+
       - title: Aamuhartaus
         start_time: '2026-05-20T06:50:00+03:00'
         end_time: '2026-05-20T06:59:59+03:00'
@@ -110,6 +119,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-20T11:57:00+03:00'
         end_time: '2026-05-20T12:00:00+03:00'
+        description: |
+          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-20T12:00:00+03:00'
         end_time: '2026-05-20T12:05:00+03:00'
@@ -130,10 +141,16 @@ data:
           Juontajana Jarmo Laitaneva. 
 
           Tuleeko meistä tyhmiä – toteutuuko Idioluutio-elokuvan tulevaisuudenkuva?  Psykologian professori ja älykkyystutkija Markus Jokela Helsingin yliopistosta on Samppa Korhosen haastattelussa n. klo 14.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Eveliina Talvitien romaani Matleena kertoo suomalaisen muodin kulta-ajasta'
         start_time: '2026-05-20T15:00:00+03:00'
         end_time: '2026-05-20T15:55:00+03:00'
         description: |-
+          Eveliina Talvitien ompelijatrilogian toinen osaa kertoo porilaisesta ompelijasta Matleenasta. Ajankuva on 1960-1980-luvut, jolloin Suomi-muoti otti ensimmäiset vahvat askeleensa. Talvitien romaanista tehdään parhaillaan näyttämösovitusta Porin Teatteriin. Puvustajana on Pasi Räbinä. Matleenan innostamana Eveliina Talvitie myös ompelutti retrohenkisen nimikkovaatteen romaanihenkilölleen. Millä tavalla kirjailijan omat porilaiset juuret näkyvät hänessä tänään? Nykyään hän asuu sekä Tallinnassa että Ateenassa. Miten dramaturgi näkee romaanin visuaaliset elementit lavalla? Trilogia käsittelee myös ylisukupolvisia traumoja ja haavoja. Miten tulkita rivien väliset tunnelmat?
+
+          Ohjelman vieraina ovat kirjailija Eveliina Talvitie ja dramaturgi Minna Nurmelin.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-05-20T15:55:00+03:00'
@@ -193,6 +210,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-20T18:35:00+03:00'
         end_time: '2026-05-20T18:50:00+03:00'
+        description: |+
+          Tikka: Armolaulu (Esa Ruuttunen, baritoni, ja Viva Vox/Seppo Murto).
+
+          Alakotila: Hiljaisessa siimeksessä (virsi 972) (Gospel Covertajat).
+
+          Löytty: Pidä minusta kiinni (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola)
+
+          J. Kela: Jeesus jos huomaat (Pro Fide).
+
       - title: Iltahartaus
         start_time: '2026-05-20T18:50:00+03:00'
         end_time: '2026-05-20T19:00:00+03:00'
@@ -238,9 +264,11 @@ data:
           Äänisuunnittelu: Samuli Welin ja Steve Bond
           Tuottajat: Alex Hollands ja Jenni Kaunisto
           Tuotanto: Goldhawk Productions, Yle ja BBC Radio 4
-      - title: 'Ulkolinja-podcast  '
+      - title: 'Ulkolinja-podcast: Yhdysvalloissa yksi takaisku voi syöstä ihmisen asunnottomuuteen '
         start_time: '2026-05-20T23:20:00+03:00'
         end_time: '2026-05-20T23:39:30+03:00'
+        description: |-
+          Yhdysvalloissa hintojen raju nousu ajaa erityisesti köyhimpiä ihmisiä ahdinkoon. Kun turvaverkkoja ei juuri ole, voi asunnottomaksi päätyä hyvin helposti.  
       - title: Yöklassinen
         start_time: '2026-05-20T23:40:00+03:00'
         end_time: '2026-05-21T06:30:00+03:00'
