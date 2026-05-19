@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-18T03:14:00.327127+00:00'
+  generated_at: '2026-05-19T03:12:37.133221+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
@@ -36,7 +36,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-19T06:30:50+03:00'
         end_time: '2026-05-19T06:50:00+03:00'
-        description: |+
+        description: |-
           Koraalitoisinto (sov. Virpi): Oi Jumalan', kuink' iloitsen (SRK:n kuoro/Mikko Niinikoski).
 
           Suonio: Idästä länteen (Tuohus-kuoro ja Carmen Ensemble).
@@ -47,6 +47,7 @@ data:
 
           Jäntti: Repussa ripaus rohkeutta (Eerin Punkari ja Riikka Jäntti, laulu, Oskar ja Evert Punkari, taustalaulu, Antti Vuori, kitara, ohjelmointi ja taustalaulu, Joonas Kasurinen, kosketinsoittimet, Pasi Ryökkynen, basso, ja Henrik Sirelä, rummut).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-05-19T06:50:00+03:00'
         end_time: '2026-05-19T06:59:59+03:00'
@@ -59,7 +60,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-19T07:06:00+03:00'
         end_time: '2026-05-19T08:00:00+03:00'
-        description: |+
+        description: |-
           J. Haydn: Finaali (Allegro) konsertosta trumpetille ja orkesterille Es-duuri (Wynton Marsalis, ja Lontoon kansallinen filharmoninen ork./Raymond Leppard).
 
           Locke: Ayre ja Saraband sarjasta kahdelle viululle, gamballe ja continuolle C-duuri n:o 4 (Battalia).
@@ -82,6 +83,7 @@ data:
 
           Lanner: Koti-ikävä (Alexander Schneider -kvintetti).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-19T08:00:00+03:00'
         end_time: '2026-05-19T08:07:00+03:00'
@@ -114,7 +116,7 @@ data:
           Loewe: Kotikadullasi (Laila Kinnunen).
           Marley: Three little birds (Bob Marley and the Wailers).
 
-          Konsertin on toimittanut Riikka Holopainen.
+          Konsertin on toimittanut Riikka Holopainen. Juontajana Tatu Tamminen.
       - title: 'Sari Valto: Hiilijalanjäljen pienentäminen voi tuoda paljon hyvää elämään'
         start_time: '2026-05-19T10:00:00+03:00'
         end_time: '2026-05-19T10:55:00+03:00'
@@ -155,7 +157,7 @@ data:
         start_time: '2026-05-19T11:57:00+03:00'
         end_time: '2026-05-19T12:00:00+03:00'
         description: |-
-          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. 
+          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-19T12:00:00+03:00'
         end_time: '2026-05-19T12:05:00+03:00'
@@ -186,10 +188,15 @@ data:
           N. klo 14:30 Sosiologi Tiina Helin kertoo mitä mökkeily hänelle merkitsee Toimittaja Satu Kivelä. Uusinta 11.6.2025.
 
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Unkarilaisen nobelistin László Krasznahorkain kirjoissa ollaan reunalla'
         start_time: '2026-05-19T15:00:00+03:00'
         end_time: '2026-05-19T15:55:00+03:00'
         description: |-
+          Unkarilainen nobelisti László Krasznahorkai on tullut suomalaiselle yleisölle tunnetuksi Unkarin köyhää maaseutua ja pikkukaupunkeja kuvaavista äärimmäisen kunnianhimoisista romaaneistaan. Hänen uusin romaanisuomennoksensa Seiobo tuolla alhaalla on episodiromaani taiteilijoista eri aikakausina. Mitä Krasznahorkai kertoo elämästämme ajasta ja millaisten äärimmäisten kysymysten ääreen hänen lukemisensa voi johtaa? Entä millaisia johtapäätöksiä Unkarista ja eurooppalaisista reuna-alueista voi Krasznahorkaita lukiessa tehdä?
+          Krasznahorkaista, taiteesta ja Euroopasta ovat Kulttuuriykkösessä keskustelemassa suomentaja Minnamari Sinisalo, Nuori Voima -lehden päätoimittaja Johanna Osváth ja runoilija Erkka Filander.
+          Juontajana Pietari Kylmälä
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle News
         start_time: '2026-05-19T15:55:00+03:00'
@@ -228,7 +235,7 @@ data:
         start_time: '2026-05-19T17:00:00+03:00'
         end_time: '2026-05-19T17:20:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Olemme tottuneet miettimään bensan kulutusta autoilussa ja sähkön säästämistä kotona, mutta entäpä tekoäly? Millaisia ympäristövaikutuksia tekoälyn käytöllä on? Tätä pohtii Atte Uusinoka vieraiden kanssa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-19T17:20:00+03:00'
         end_time: '2026-05-19T17:35:00+03:00'
@@ -311,12 +318,61 @@ data:
         end_time: '2026-05-19T21:30:00+03:00'
       - title: 'Sari Valto: Hiilijalanjäljen pienentäminen voi tuoda paljon hyvää elämään'
         start_time: '2026-05-19T21:31:00+03:00'
-        end_time: '2026-05-19T22:24:00+03:00'
+        end_time: '2026-05-19T22:26:08+03:00'
         description: |-
           Sirpa Kaajakari toi Amerikasta Älä osta mitään -liikkeen, jossa lähialueen ihmiset antavat ja vaihtavat toisilleen tavaroita ja palveluksia. Tällä tavalla voi paitsi säästää rahaa ja ilmastoa, myös tutustua lähikorttelin ihmisiin. Esimerkki siitä, miten hiilijalanjäljen pienentäminen ei ankeuta elämää!
       - title: Uudet levyt
-        start_time: '2026-05-19T22:25:00+03:00'
+        start_time: '2026-05-19T22:27:00+03:00'
         end_time: '2026-05-19T23:19:00+03:00'
+        description: |-
+          Kuisma: Hökköpolska (Veera Kuisma Original). 
+          Kansansäv.: Minuetti (Veera Kuisma Original). 
+          Kuisma/Abdurrahmani: Yjet ne erresire (Veera Kuisma Original). 
+          Leppänen: Annikki (Susanna Leppänen). 
+          Leppänen: Oikee johtaja (Susanna Leppänen). 
+          Kansanlaulu: A u poli (Kasia Kadlubowska). 
+          Kansanlaulu: Drevo i czarna woda (Kasia Kadlubowska). 
+          Stenbäck: Norkkokuja (Freeta). 
+          Virtanen: Muistelen (polkkaa) (Freeta). 
+          Stenbäck: Sügis Stockholmis (Freeta). 
+
+          Toimittanut Miika Lauriala. Juontajana Heikki Puskala.
       - title: Yöklassinen
         start_time: '2026-05-19T23:40:00+03:00'
         end_time: '2026-05-20T06:30:00+03:00'
+        description: |+
+          Kraus: Amphitryon (Chantal Santon, sopraano, Georg Poplutz, tenori, ja Bonnin kamarikuoro sekä L'arte del mondo/Werner Ehrhardt).
+
+          00:59 Beethoven: Yksitoista bagatellia pianolle (Alfred Brendel).
+
+          01:15 J. Haydn: Jousikvartetto n:o 60 A-duuri (Meta4-kvartetti).
+
+          01:33 Sibelius (Sov. Ekman): Humorski n:o 4 g-molli (Oleg Kagan, viulu, ja Irina Budarenko, piano).
+
+          01:36 Händel: Ariodanten aaria "Dopo notte, atra e funesta " oopperasta Ariodante (Franco Fagioli, kontratenori, ja Il Pomo d'oro/Zefira Valova, viulu).
+
+          01:45 Berlioz: Messe solennelle (Juhlamessu) (Adriana Gonzalez, sopraano, Julien Behr, tenori, ja Andreas Wolf, basso, sekä Le Concert Spirituel -kuoro ja -ork./Hervé Niquet).
+
+          02:37 Unsuk Chin: Sellokonsertto (Alban Gerhardt ja Soulin FO/Myung-Whun Chung).
+
+          03:06 Britten: A Time there was (Kerran oli aika) (Birminghamin SO/Simon Rattle).
+
+          03:23 J.S. Bach: Urkukonsertot n:o 1 G-duuri, 2 a-molli, 3 C-duuri, 4 C-duuri ja 5 d-molli (Johannes-Ernst Köhler).
+
+          04:17 von Hausegger: Dionyysinen fantasia (Bambergin sinfonikot/Antony Hermus).
+
+          04:37 Mascagni: Lodolettan resitatiivi ja aaria oopp. Lodoletta (Krassimira Stojanova, sopraano, ja Münchenin RO/Pavel Baleff).
+
+          04:52 Turina: Cinco danzas gitanas (Viisi mustalaistanssia) (BBC:n FO/Juanjo Mena).
+
+          05:08 d'Indy: Istar (Luxemburgin FO/Emmanluel Krivine).
+
+          05:22 Allegri: Missa Vidi turbam magnam (A Sei Voci/Bernard Fabre-Garrus).
+
+          05:48 Kraus: Kvintetto huilulle ja jousille D-duuri (Mikael Helasvuo ja Rantatie-kvartetti).
+
+          06:17 Corbetta: Chaconne D-duuri (Nigel North, barokkikitara). 
+
+          06:20 Uccellini: Sonaatti n:o 9 (Schola Cantorum Basiliensis).
+
+...

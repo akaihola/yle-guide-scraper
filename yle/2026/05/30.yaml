@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-18T03:14:03.221231+00:00'
+  generated_at: '2026-05-19T03:12:39.410998+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
@@ -21,6 +21,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-30T08:05:00+03:00'
         end_time: '2026-05-30T08:25:00+03:00'
+        description: |+
+          P.J. Hannikainen (sov. Kumpuvaara): Maan korvessa kulkevi lapsosen tie (Hannu Lehtikangas, laulu, ja Niko Kumpuvaara, harmonikka).
+
+          S. Heikkilä: Minä uskon Jumalaan (Sakari Heikkilä).
+
+          Andersson: Aurinkomme ylösnousi (Eve ja Ossi).
+
+          Viitanen: Jo joutui armas aika, koraalipartita uruille (Harri Viitanen, urut).
+
       - title: Aamuhartaus
         start_time: '2026-05-30T08:25:00+03:00'
         end_time: '2026-05-30T08:35:00+03:00'
@@ -30,9 +39,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-30T08:35:00+03:00'
         end_time: '2026-05-30T08:40:00+03:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Kai Varsio'
         start_time: '2026-05-30T08:40:00+03:00'
         end_time: '2026-05-30T09:00:00+03:00'
+        description: |-
+          Kai Varsio tuntee sotalaiva-aiheiset postimerkit. Toimittajana Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-05-30T09:00:00+03:00'
         end_time: '2026-05-30T09:03:00+03:00'
@@ -91,7 +102,7 @@ data:
         end_time: '2026-05-30T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Kauhua ja kihlauksia
+      - title: 'Viihdekuunnelma: Kauhua ja kihlauksia'
         start_time: '2026-05-30T15:00:00+03:00'
         end_time: '2026-05-30T15:25:00+03:00'
         description: |-

@@ -1,15 +1,56 @@
 metadata:
-  generated_at: '2026-05-18T03:14:01.894868+00:00'
+  generated_at: '2026-05-19T03:12:38.347395+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-05-24T23:40:00+03:00'
+        end_time: '2026-05-25T06:30:00+03:00'
+        description: |+
+          M-A Charpentier: Judith, sive Bethulia liberata (Ensemble Correspondances/Sébastien Daucé, urut ja cembalo).
+
+          00:21 de Fossa: Trio n:o 1 A-duuri (Simon Wynberg, kitara, Martin Beaver, viulu, ja Bryan Epperson, sello).
+
+          00:48 W.A. Mozart: Pianokvartetto g-molli (Joseph Roisman, viulu, Boris Kroyt, alttoviulu, Mischa Schneider, sello, ja Mieczyslaw Horszowski, piano).
+
+          01:14 Walton: Siesta (Northern Sinfonia/Richard Hickox).
+
+          01:21 Dutilleux: Sellokonsertto (Godfried Hoogeveen ja Amsterdamin Concertgebouw-ork./Yan Pascal Tortelier).
+
+          01:48 Louis Ferdinand, Preussin prinssi: Kvintetto pianolle ja jousille c-molli (Christoph Hammer, fortepiano, ja Schuppanzigh-kvartetti).
+
+          02:32 Stenhammar: Musiikkia näyt. Chitra (Göteborgin SO/Neeme Järvi).
+
+          02:55 Castelnuovo-Tedesco: Osia sarj. Platero y yo (Harmo ja minä) (Andrés Segovia, kitara).
+
+          03:34 R. Strauss (sov. Ille): Sinfoninen rapsodia oopp. Elektra (Pittsburghin SO/Manfred Honeck).
+
+          04:09 Melartin: Jousikvartetto n:o 4 F-duuri (Melartin-kvartetti).
+
+          04:35 Vivaldi: Sonaatti viululle ja continuolle c-molli (The Boston Museum Trio).
+
+          04:50 Cui: 25 preludia pianolle (Jeffrey Biegel). 
+
+          05:59 J.S. Bach: Partita sooloviululle n:o 1 h-molli (Jaakko Kuusisto).
+
       - title: Hartaita säveliä
         start_time: '2026-05-25T06:30:50+03:00'
         end_time: '2026-05-25T06:50:00+03:00'
+        description: |+
+          Piiparinen (sov. Järvinen): Oi, katso mikä aamu (Lasse Riutamaa, tenori, ja ork./Seppo J. Järvinen, piano).
+
+          Tuntematon: Kristus, valo maailman (Cetus Noster).
+
+          Mason: Sua kohti, Herrani (Oulun KK/Markku Jounela).
+
+          Laaksonen: Katsomaan kasvojesi rauhaa (Hanna Ekola, laulu, ja jousiyhtye).
+
+          Koraalitoisinto: Armoa, Jeesus, odotan (Katariina Airas, laulu, Maija Karhinen-Ilo, laulu ja nokkahuilu, sekä yhtye).
+
       - title: Aamuhartaus
         start_time: '2026-05-25T06:50:00+03:00'
         end_time: '2026-05-25T06:59:59+03:00'
@@ -142,7 +183,8 @@ data:
         start_time: '2026-05-25T18:50:00+03:00'
         end_time: '2026-05-25T19:00:00+03:00'
         description: |
-          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumin uutta käännöstä.
+          "Matteuksen evankeliumi: Jeesuksen sukuluettelo"
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (1:1-2:23) UT2020 käännöksen mukaan. Ensimmäisessä jaksossa puhutaan Jeesuksen syntymästä ja tietäjien vierailusta.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-25T19:00:00+03:00'
         end_time: '2026-05-25T19:02:00+03:00'
@@ -172,3 +214,44 @@ data:
         end_time: '2026-05-25T23:39:30+03:00'
         description: |-
           Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+      - title: Yöklassinen
+        start_time: '2026-05-25T23:40:00+03:00'
+        end_time: '2026-05-26T06:30:00+03:00'
+        description: |+
+          J.S. Bach: Fantasia ja fuuga uruille g-molli BWV542 (Pauliina Hyry, Kotkan kirkon urut).
+
+          23:54 Bruch: Romanssi alttoviululle ja orkesterille F-duuri (Joachim Krist ja Kölnin radio-ork./Helmuth Froschauer).
+
+          00:02 Händel: Resitatiivi ja aaria oopp. Rodelinda (Franco Fagioli, kontratenori, ja Il Pomo d'oro-kamariork./Zefira Valova, viulu).  
+
+          00:12 Cherubini: Missa solemnis n:o 2 d-molli (Monika Wiebe, sopraano, Helena Jungwirth, altto, Rodrigo Orrego, tenori, ja Wolf Matthias Friedrich, basso, sekä Münchenin motettikuoro ja Münchenin sinfonikot/Hans Rudolf Zöbeley).
+
+          01:19 J. Haydn: Pianokonsertto D-duuri (Alfred Brendel ja Wienin kamariork./Paul Angerer).
+
+          01:39 Liszt: Orfeus (Dresdenin filharmoniaork./Michel Plasson).
+
+          01:50 Chopin: Nokturnot n:o 1-8 (Guiomar Novaes, piano).
+
+          02:32 Franck: Jousikvartetto D-duuri (Malibran-kvartetti).
+
+          03:14 Bruckner: Sinfonia n:o 3 d-molli (Leopold Nowakin editio) (Chicagon SO/Georg Solti). 
+
+          04:15 Parry: Magnificat F-duuri (Amanda Roocroft, sopraano, ja BBC:n Walesin kansalliskuoro ja -ork./Neeme Järvi).
+
+          04:39 M. Haydn: Viulukonsertto A-duuri ( Arthur Grumiaux ja Amsterdamin Concertgebouw-ork./Edo de Waart).
+
+          04:59 J. Röntgen: Trio jousille n:o 4 D-duuri (Valssisarja) (Lendvai-jousitrio).
+
+          05:12 Barber: The School for Scandal (Detroitin SO/Neeme Järvi).
+
+          05:22 Beethoven: Sechs Lieder (Kuusi laulua) op.48 (Peter Schreier, tenori, ja Walter Olbertz, piano).
+
+          05:36 W.A. Mozart: Pianosonaatti n:o 3 B-duuri (Emil Gilels).
+
+          05:58 Händel: Araspen aaria oopp. Tolomeo (David Thomas, basso, ja Philharmonia -barokkiork./Nicholas McGegan).
+
+          06:01 de Fossa (sov.): Grand duo n:o 3 F-duuri (Jukka Savijoki ja Erik Stenstadvold, kitara).
+
+          06:21 Couperin: Pavanne fis-molli (Pavel Kolesnikov, piano).
+
+...

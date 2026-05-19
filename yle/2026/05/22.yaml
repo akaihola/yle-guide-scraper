@@ -1,15 +1,43 @@
 metadata:
-  generated_at: '2026-05-18T03:14:01.077450+00:00'
+  generated_at: '2026-05-19T03:12:37.680477+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-22T00:00:00+03:00'
         end_time: '2026-05-22T06:30:00+03:00'
+        description: |
+          Cimarosa: Konsertto G-duuri (Mathieu Dufour, huilu, ja Alex Klein, oboe, sekä Tshekin kansallinen SO/Paul Freeman).
+
+          00:20 Debussy: Pianotrio G-duuri (Premier trio) (Renaud Capucon, viulu, Edgar Moreau, sello, ja Bertrand Chamayou, piano).
+
+          00:42 Crusell: Concertino fagotille ja orkesterille B-duuri (Juhani Tapaninen ja RSO/ Jukka-Pekka Saraste).
+
+          01:02 Schubert: Fantasia pianolle C-duuri (Wanderer-fantasia) (Alfred Brendel).
+
+          01:25 Tshaikovski: Sinfonia n:o 5 e-molli (RSO/Leif Segerstam).
+
+          02:12 Quilter: Where the rainbow ends (Missä sateenkaari päättyy) (Northern Sinfonia/Richard Hickox).
+
+          02:28 Beethoven: Pianosonaatit n:o 13 Es-duuri, 16 G-duuri ja 21 C-duuri (Waldstein) (Rudolf Serkin). 
+
+          03:36 Guastavino: Los Dias perdidos (Denyce Graves, mezzosopraano, Pablo Ziegler, piano, Leo Grinhauz, sello, Pablo Aslan, kontrabasso, ja Susan Palma, huilu).
+
+          03:39 Weiss: Sonaatti luutulle, kahdelle viululle ja continuolle F-duuri (Richard Stone, luuttu, ja Tempesta di Mare).
+
+          03:56 W.A. Mozart: Sinfonia n:o 41 C-duuri (Jupiter) (Boston Baroque/Martin Pearlman).
+
+          04:32 Dvorák: Pianotrio n:o 4 e-molli (Dumky) (Rembrandt-trio). 
+
+          05:06 Rossini (sov. Sedlak): Sarja puhaltimille oopp. Sevillan parturi teemoista (Mozzafiato/Charles Neidich).
+
+          05:43 J.S. Bach (sov. Verbruggen): Sarja soolosellolle n:o 1 G-duuri (Marion Verbruggen, alttonokkahuilu).
+
+          06:00 Palestrina: Sicut lilium inter spinas (The Tallis Scholars/Peter Phillips).
       - title: Hartaita säveliä
         start_time: '2026-05-22T06:30:50+03:00'
         end_time: '2026-05-22T06:50:00+03:00'
@@ -132,11 +160,11 @@ data:
         end_time: '2026-05-22T15:00:00+03:00'
         description: |2+
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudio'
         start_time: '2026-05-22T15:00:00+03:00'
         end_time: '2026-05-22T15:55:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuuriykkösen Perjantaistudiossa ruoditaan ajankohtaisia kulttuurin ja median ilmiöitä, arvokysymyksiä sekä ajankuvaamme. Vakioraatilaisista tällä kertaa mukana eläköitynyt oikeushammaslääkäri Helena Ranta, Maaseudun tulevaisuuden entinen päätoimittaja Jouni Kemppainen sekä toimittaja-tietokirjailija Matti H. Virtanen.
       - title: Yle News
         start_time: '2026-05-22T15:55:00+03:00'
         end_time: '2026-05-22T15:58:00+03:00'
@@ -145,6 +173,30 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-22T16:00:00+03:00'
         end_time: '2026-05-22T16:07:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2026-05-22T16:07:00+03:00'
+        end_time: '2026-05-22T16:59:00+03:00'
+        description: |+
+          Charpentier: Alkusoitto Te Deumista (The Brandenburg Consort/Roy Goodman).
+
+          Händel: Piaceren aaria "Lascia la spina" orat. Il trionfo del Tempo e del Disinganno (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          Elgar: Nimrod Enigma-muunnelmista (Minnesotan ork./Neville Marriner).
+
+          Granados: Allegro de concierto Cis-duuri (Garrick Ohlsson, piano).
+
+          Vulpius: Die Beste Zeit im Jahr ist mein (Nyt saapui aika kukkasten) (Vanitatum Vanitas). 
+
+          Eller: Videvik (Iltahämärä) (Eesti Riiklik Sümfooniaorkester ERSO/Olari Elts). 
+
+          Monti: Csardas (Roby Lakatos ja yhtye).
+
+          W.A. Mozart: Sarastron aaria "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
+
+          Debussy: Clair de lune (Kuutamo) (Izumi Tateno, piano). 
+
+          Holst: Neptunus sarj. Planeetat (Atlantan SO ja Atlantan SO:n kuoron naisäänet/Yoel Levi).
+
       - title: Uutispodcast
         start_time: '2026-05-22T17:00:00+03:00'
         end_time: '2026-05-22T17:20:00+03:00'
@@ -182,9 +234,11 @@ data:
         start_time: '2026-05-22T19:02:00+03:00'
         end_time: '2026-05-22T21:00:00+03:00'
         description: |-
-          Bösendorfer – 1882 on konserttisarja, jossa esitetään merkittävää 1800-luvun ohjelmistoa ajanmukaisessa ympäristössä ja mahdollisuuksien mukaan ajanmukaisin soittimin. Konserttisarjan keskipisteenä on Bösendorfer-flyygeli vuodelta 1882 ja alkuperäiseen kuntoon entisöity vuonna 1886 valmistunut loistelias Angelicum-sali vuodelta Helsingin Ritarikadulla.
+          Bösendorfer – 1882 on konserttisarja, jossa esitetään merkittävää 1800-luvun ohjelmistoa ajanmukaisessa ympäristössä ja mahdollisuuksien mukaan ajanmukaisin soittimin. Konserttisarjan keskipisteenä on Bösendorfer-flyygeli vuodelta 1882 ja alkuperäiseen kuntoon entisöity vuonna 1886 valmistunut loistelias Angelicum-sali Helsingin Ritarikadulla.
 
           Kevätkauden päätöskonsertissa esiintyy vuonna 2025 perustettu suomalainen jousikvartetti Guts!, joka on ottanut haasteekseen esittää kvartettiohjelmistoa periodisoittimin ja historiallisia esityskäytäntöjä tarkoin tutkien. Angelicum-saliin he tuovat eri vuosisatoja peilaavan ohjelman ja yhdistävät lopulta voimansa Emil Holmströmin kanssa Robert Schumannin ikivihreän pianokvinteton parissa.
+
+          28. huhtikuuta Angelicum-salissa tallennetun konsertin toimitta Lotta Emanuelsson. Äänisuunnittelijana on Antti Pohjola ja äänitarkkailijana Hannu Huhtala.
 
           ​
           Konserttiohjelma:
@@ -220,3 +274,34 @@ data:
         end_time: '2026-05-22T23:15:00+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-05-22T23:40:00+03:00'
+        end_time: '2026-05-23T07:30:00+03:00'
+        description: |+
+          Franchetti: Cristoforo Colombo (Kristoffer Kolumbus), ooppera (Renato Bruson, baritoni, Roberto Scandiuzzi, basso, Rosella Ragatzu, sopraano, Marco Berti, tenori, Gisella Pasino, mezzosopraano, Vicente Ombuena, tenori ym. sekä Unkarin radion ja television kuoro ja Frankfurtin radion SO/Marcello Viotti).
+
+          02:25 Musiikkia ja laulua suurten löytöretkien ajalta Euroopasta (säv. tuntematon, Dalza, Escobar, Hume ym.). (New World Consort ja Suzie Le Blanc, sopraano).
+
+          03:36 Brahms: 16 valssia pianolle (Antti Siirala). 
+
+          03:57 Bizet: Carmen-sarjat n:o 1 ja n:o 2 (New Yorkin FO/Leonard Bernstein).
+
+          04:33 Aguado: Kahdeksan etydiä kitaralle (Andrés Segovia, kitara).
+
+          04:45 G. Ortiz: Concierto candela (Ricardo Gallardo, lyömäsoittimet, ja Meksikon kansallisen yliopiston FO/Ronald Zollman).
+
+          05:11 Vierne: Kvintetto pianolle ja jousille c-molli (Stephen Coombs ja Chilingirian-kvartetti).
+
+          05:43 Elgar: Sellokonsertto e-molli (Jacqueline du Pré ja Philadelphian ork./Daniel Barenboim).
+
+          06:15 Pujol: Tonadilla (David Russell, kitara).
+
+          06:18 Debussy: Fantasia G-duuri pianolle ja orkesterille (Noriko Ogawa ja Singaporen SO/Lan Shui).
+
+          06:43 Sullivan: Sarja orkesterille näytelmämus. The Tempest (Myrsky) (Kansas Cityn SO/Michael Stern).
+
+          07:12 Roman: Sonaatti n:o 4 G-duuri (Penelope Evison, traverso, Eva Nordenfelt, cembalo, ja Olof Larsson, barokkisello).
+
+          07:29 Dvorák: Katseesi lumouksessa (Uusi Helsinki-kvartetti).
+
+...

@@ -1,19 +1,54 @@
 metadata:
-  generated_at: '2026-05-18T03:14:00.530118+00:00'
+  generated_at: '2026-05-19T03:12:37.321779+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-05-19T23:40:00+03:00'
         end_time: '2026-05-20T06:30:00+03:00'
+        description: |+
+          Kraus: Amphitryon (Chantal Santon, sopraano, Georg Poplutz, tenori, ja Bonnin kamarikuoro sekä L'arte del mondo/Werner Ehrhardt).
+
+          00:59 Beethoven: Yksitoista bagatellia pianolle (Alfred Brendel).
+
+          01:15 J. Haydn: Jousikvartetto n:o 60 A-duuri (Meta4-kvartetti).
+
+          01:33 Sibelius (Sov. Ekman): Humorski n:o 4 g-molli (Oleg Kagan, viulu, ja Irina Budarenko, piano).
+
+          01:36 Händel: Ariodanten aaria "Dopo notte, atra e funesta " oopperasta Ariodante (Franco Fagioli, kontratenori, ja Il Pomo d'oro/Zefira Valova, viulu).
+
+          01:45 Berlioz: Messe solennelle (Juhlamessu) (Adriana Gonzalez, sopraano, Julien Behr, tenori, ja Andreas Wolf, basso, sekä Le Concert Spirituel -kuoro ja -ork./Hervé Niquet).
+
+          02:37 Unsuk Chin: Sellokonsertto (Alban Gerhardt ja Soulin FO/Myung-Whun Chung).
+
+          03:06 Britten: A Time there was (Kerran oli aika) (Birminghamin SO/Simon Rattle).
+
+          03:23 J.S. Bach: Urkukonsertot n:o 1 G-duuri, 2 a-molli, 3 C-duuri, 4 C-duuri ja 5 d-molli (Johannes-Ernst Köhler).
+
+          04:17 von Hausegger: Dionyysinen fantasia (Bambergin sinfonikot/Antony Hermus).
+
+          04:37 Mascagni: Lodolettan resitatiivi ja aaria oopp. Lodoletta (Krassimira Stojanova, sopraano, ja Münchenin RO/Pavel Baleff).
+
+          04:52 Turina: Cinco danzas gitanas (Viisi mustalaistanssia) (BBC:n FO/Juanjo Mena).
+
+          05:08 d'Indy: Istar (Luxemburgin FO/Emmanluel Krivine).
+
+          05:22 Allegri: Missa Vidi turbam magnam (A Sei Voci/Bernard Fabre-Garrus).
+
+          05:48 Kraus: Kvintetto huilulle ja jousille D-duuri (Mikael Helasvuo ja Rantatie-kvartetti).
+
+          06:17 Corbetta: Chaconne D-duuri (Nigel North, barokkikitara). 
+
+          06:20 Uccellini: Sonaatti n:o 9 (Schola Cantorum Basiliensis).
+
       - title: Hartaita säveliä
         start_time: '2026-05-20T06:30:50+03:00'
         end_time: '2026-05-20T06:50:00+03:00'
-        description: |+
+        description: |-
           Haunio (sov. Nyman): Valon hymni (Maria Laakso ja Pekka Nyman Ensemble).
 
           Tuntematon: Kaunis aamuaurinkomme (Kajaanin rauhanyhdistyksen seurakansa sekä Ossi Säily, urut).
@@ -22,6 +57,7 @@ data:
 
           Simojoki: Jumalan virta (Nardus/Tiina Korhonen, ja Tuomas Turunen, piano).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-05-20T06:50:00+03:00'
         end_time: '2026-05-20T06:59:59+03:00'
@@ -34,7 +70,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-05-20T07:06:00+03:00'
         end_time: '2026-05-20T08:00:00+03:00'
-        description: |+
+        description: |-
           Tshaikovski - Wild: Pienten joutsenten tanssi bal. Joutsenlampi (Earl Wild, piano). 
 
           Pärt: Kuus, kuus kallike (Tallinnan kamariorkesteri ja Viron filharmonian kamarikuoro/Tönu Kaljuste).   
@@ -59,6 +95,7 @@ data:
 
           J. Gade: Tango jalousie (Wienin filharmonikot/Sakari Oramo, viulu).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-20T08:00:00+03:00'
         end_time: '2026-05-20T08:07:00+03:00'
@@ -90,7 +127,7 @@ data:
           Sondheim: Näytelmä (Carola).
           Dylan: Don't think twice, it's all right (Bob Dylan).
 
-          Konsertin on laatinut Tuuli Saksala.
+          Konsertin on laatinut Tuuli Saksala. Juontajana Tatu Tamminen.
       - title: 'Havaintoja muutoksesta: Kintsugia, keramiikkaa ja iloa '
         start_time: '2026-05-20T10:00:00+03:00'
         end_time: '2026-05-20T10:50:00+03:00'
@@ -120,7 +157,7 @@ data:
         start_time: '2026-05-20T11:57:00+03:00'
         end_time: '2026-05-20T12:00:00+03:00'
         description: |
-          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. 
+          Ote teoksesta Kadonneet kirjallisuuden lajit, kirj. Sari Kivistö, Katariina Kärkelä, Erika Pihl, Isa Välimäki, 2026. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-05-20T12:00:00+03:00'
         end_time: '2026-05-20T12:05:00+03:00'
@@ -240,8 +277,8 @@ data:
         start_time: '2026-05-20T21:31:00+03:00'
         end_time: '2026-05-20T22:20:00+03:00'
       - title: 'Murha Ahvenanmaalla: Syyllisten saari'
-        start_time: '2026-05-20T22:21:00+03:00'
-        end_time: '2026-05-20T23:00:00+03:00'
+        start_time: '2026-05-20T22:27:00+03:00'
+        end_time: '2026-05-20T23:08:33+03:00'
         description: |
           Osa 3/4. Myrskyisellä Ahvenanmaalla surun murtama, helsinkiläinen rikostutkija Pekka Jaakkola (Pelle Heikkilä) kohtaa arvoituksellisen murhan, joka johdattaa hänet syvälle vakoilun ja petoksen verkkoihin. Avukseen hän saa sokean, mutta äänianalyysissä mestarillisen Astrid Lindholmin (Laura Malmivaara). Kun Maarianhaminassa sijaitsevassa Venäjän konsulaatissa tapahtuu mystinen kuolema, käynnistyy tapahtumien vyöry, jossa panokset kasvavat nopeasti. Demilitarisoitu Ahvenanmaa ei olekaan se lintukoto, jollaiseksi se on mielletty. Myrskytuuleen kätkeytyneet salaisuudet alkavat paljastua ja kun tapahtumat Itämerellä huipentuvat, valheiden verkko katkeaa ja järkyttävä petos muuttaa kaiken – lopulta käsissä on koko saariston tulevaisuus.
 
@@ -265,10 +302,40 @@ data:
           Tuottajat: Alex Hollands ja Jenni Kaunisto
           Tuotanto: Goldhawk Productions, Yle ja BBC Radio 4
       - title: 'Ulkolinja-podcast: Yhdysvalloissa yksi takaisku voi syöstä ihmisen asunnottomuuteen '
-        start_time: '2026-05-20T23:20:00+03:00'
-        end_time: '2026-05-20T23:39:30+03:00'
+        start_time: '2026-05-20T23:20:24+03:00'
+        end_time: '2026-05-20T23:38:59+03:00'
         description: |-
           Yhdysvalloissa hintojen raju nousu ajaa erityisesti köyhimpiä ihmisiä ahdinkoon. Kun turvaverkkoja ei juuri ole, voi asunnottomaksi päätyä hyvin helposti.  
       - title: Yöklassinen
         start_time: '2026-05-20T23:40:00+03:00'
         end_time: '2026-05-21T06:30:00+03:00'
+        description: |+
+          Krommer: Kvartetto klarinetille ja jousille B-duuri (Eduard Brunner, klarinetti, Willi Zimmermann, viulu, Nicolas Corti, alttoviulu, ja Claudius Herrmann, sello).
+
+          23:57 Offenbach: Sarja kahdelle sellolle n:o 3 E-duuri (Raphaela Gromes ja Wen-Sinn Yang).
+
+          00:17 Ludford: Missa Videte miraculum (Katsokaa ihmettä) (Westminster Abbeyn kuoro/James O'Donnell).
+
+          00:54 J. Haydn: Jousikvartetto n:o 61 f-molli (Partaveitsikvartetto) (Meta4-kvartetti).
+
+          01:17 Rodrigo: Concierto como un divertimento (Konsertto divertimenton tapaan) (Julian Lloyd Webber, sello, ja Lontoon FO/Jesus Lopez-Cobos).
+
+          01:42 Tshaikovski: Manfred-sinfonia (RSO/Sakari Oramo).
+
+          02:38 Lalo: Six romances populaires (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          03:23 de Falla: El Sombrero de tres picos (Kolmikolkkahattu), baletti (Teresa Berganza, mezzosopraano, ja Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          04:01 Fibich: Sinfonia n:o 3 e-molli (Tshekkiläinen FO/Karel Sejna).
+
+          04:40 W.A. Mozart: 13 yksinlaulua (Rita Streich, sopraano, ja Erik Werba, piano).
+
+          05:14 Schumann: Viisi kappaletta kansansävelmän tapaan (Erkki Rautio, sello ja Ralf Gothóni, piano).
+
+          05:31 Madetoja: Aamu (Margit Rahkonen, piano).
+
+          05:34 J.S. Bach: Partita sooloviululle n:o 2 d-molli (Augustin Hadelich).
+
+          06:03 Kuhnau: Magnificat C-duuri (Martina Lins, sopraano, Susanne Norin, altto, Markus Brutscher, tenori, Veikko Kiiver. tenori, ja Hans-Georg-Willer, basso, sekä Rheinische Kantorei ja Das Kleine Konzert/Hermann Max)
+
+...

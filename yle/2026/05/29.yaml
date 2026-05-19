@@ -1,15 +1,24 @@
 metadata:
-  generated_at: '2026-05-18T03:14:03.018603+00:00'
+  generated_at: '2026-05-19T03:12:39.237148+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
       - title: Hartaita säveliä
         start_time: '2026-05-29T06:30:50+03:00'
         end_time: '2026-05-29T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto Lapualta: Kylväjä lähti kylvämään (Seurakansa, laulu, ja Päivi Karsikas, urut).
+
+          Heiskanen: Elon merellä (Tapani Annala, laulu, ja yhtye).
+
+          Koraalitoisinto: Jo varhain Herra annoit (Pyhännän kappeliseurakunnan nuorisokuoro/Veijo Kinnunen).
+
+          Mason: Nyt pääsin kuormastain (Maksetut viulut).
+
       - title: Aamuhartaus
         start_time: '2026-05-29T06:50:00+03:00'
         end_time: '2026-05-29T06:59:59+03:00'
@@ -109,6 +118,30 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-29T16:00:00+03:00'
         end_time: '2026-05-29T16:07:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2026-05-29T16:07:00+03:00'
+        end_time: '2026-05-29T16:59:00+03:00'
+        description: |+
+          Hakanpää: Trumpettisävelmä uruille (Marko Hakanpää).
+
+          O. Merikanto: Onnelliset (Johanna Tuomi, sopraano, Raimo Laukka, baritoni, ja Pentti Kotiranta, piano).
+
+          Chopin: Nokturno n:o 20 cis-molli (Janne Mertanen, piano).
+
+          Dvorak: Tempo di valse serenadista jousiorkesterille E-duuri (Philharmonia Orchestra/Christopher Warren-Green).
+
+          Delibes: Lakmén ja Mallikan kukkaduetto "Dôme épais le jasmin" oopp. Lakmé (Renée Fleming, sopraano, Susan Graham, mezzosopraano, ja Lontoon Philharmonia-ork./Sebastian Lang-Lessing).
+
+          J.S. Bach: Fantasia ja fuuga a-molli. (Ralph Kirkpatrick, cembalo).
+
+          Rangström: Vinden och trädet (Miah Persson, sopraano, ja Roger Vignoles, piano). 
+
+          Grieg: Adagio konsertosta pianolle ja orkesterille a-molli op.16 (Lars Vogt ja Birminghamin SO/Simon Rattle).
+
+          W.A. Mozart: Cherubinon aaria "Voi che sapete" oopp. Figaron häät (Anne Sofie von Otter, mezzosopraano, ja Metropolitan-oopperan ork./James Levine).
+
+          Händel: Zadok the priest (Pappi Saadok) kruunajais-anthem kuorolle, orkesterille ja continuolle (Lontoon Bach-kuoro ja The English Concert/David Hill).
+
       - title: Uutispodcast
         start_time: '2026-05-29T17:00:00+03:00'
         end_time: '2026-05-29T17:20:00+03:00'
@@ -128,6 +161,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-29T18:35:00+03:00'
         end_time: '2026-05-29T18:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Turkka): Minä vaivainen vain mato matkamies maan (Tellu Turkka, laulu, ja Suden Aika).
+
+          Stier: Täältä puolehen ylhäisen maan (Risto Lauriala, piano).
+
+          I. Nyman (sov. Vuori): Minun sydämeni on levollinen (virsi 912) (Orquestra Montuno).
+
       - title: Iltahartaus
         start_time: '2026-05-29T18:50:00+03:00'
         end_time: '2026-05-29T19:00:00+03:00'

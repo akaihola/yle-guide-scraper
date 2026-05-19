@@ -1,15 +1,54 @@
 metadata:
-  generated_at: '2026-05-18T03:14:02.476587+00:00'
+  generated_at: '2026-05-19T03:12:38.751912+00:00'
   git:
     branch: main
-    commit: 87074e9d8466397fe1442b43852b75f58e9988ec
-  data_hash: 680258e14751ee2d35115eb29c237353d55cb5aa490e2ed141174ee4d43fc771
+    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
+  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-05-26T23:40:00+03:00'
+        end_time: '2026-05-27T06:30:00+03:00'
+        description: |+
+          Schubert: Yksinlauluja Goethen runoihin. (Dietrich Fischer-Dieskau, baritoni, ja Jörg Demus, piano).
+
+          00:27 Liszt: Italia sarj. Vaellusvuosia (Eero Heinonen, piano).
+
+          01:19 R. Parsons: Pandolpho (Alfred Deller, kontratenori, ja Desmond Dupré, luuttu).
+
+          01:27 Parry: Sinfonia n:o 3 C-duuri (Englantilainen) (Lontoon FO/Matthias Bamert).
+
+          02:04 Schubert: Sonaatti pianolle 4-kätisesti C-duuri (Grand Duo) (Allan Schiller ja John Humphreys).
+
+          02:48 Beethoven: Sinfonia n:o 3 Es-duuri (Eroica) (Berliinin filharmonikot/Herbert von Karajan).
+
+          03:38 Kansansäv.: Barbara Allen (Andreas Scholl, kontratenori, Edin Karamazov, luuttu, Stacey Shames, harppu, ja Orpheus-kamariork.).
+
+          03:45 Cui: Kaleidoskop (Sophie Lemonnier-Wallez, viulu, ja Philippa Neuteboom, piano).
+
+          04:34 Dukas: Sonaatti pianolle es-molli (Jean-Francois Heisser, piano).
+
+          05:22 W.A. Mozart: Duo G-duuri (Duo n:o 1) (Augustin Dumay, viulu, ja Gerard Caussé, alttoviulu).
+
+          05:39 Händel: Il Pianto di Maria (Marian kyyneleet), hengellinen kantaatti (Anne Sofie von Otter, mezzosopraano, ja Musica Antiqua Köln/Reinhard Goebel).
+
+          06:11 Lully: Sarja balettikomediasta Le Bourgeois gentilhomme (Porvari aatelismiehenä) (Tempesta di Mare).
+
       - title: Hartaita säveliä
         start_time: '2026-05-27T06:30:50+03:00'
         end_time: '2026-05-27T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto (sov. Rask): Juur hartaast (Me Naiset).
+
+          Klemetti: Taas siunattu päivä nyt luo valoaan (Riina Satomaa).
+
+          Attinen: Kiitä, sieluni, Herraa (Joensuun yliopiston ortodoksisen teologian laitoksen kuoro/Risto Matsi).
+
+          Sörlie: Jeesus, sä ainoa (virsi 318) (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
+
+          Kalenius: Elämänpuu (Tanja Torvikoski).
+
       - title: Aamuhartaus
         start_time: '2026-05-27T06:50:00+03:00'
         end_time: '2026-05-27T06:59:59+03:00'
@@ -177,6 +216,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-27T18:35:00+03:00'
         end_time: '2026-05-27T18:50:00+03:00'
+        description: |+
+          Anonyymi - Koivisto: Ken tahtoo käydä Herran askelissa (virsi 61) (Rinki).
+
+          Berthier: Ylistäkäämme Jumalaa (Tuohus-kuoro ja -yhtye/Juha Vintturi).
+
+          Koraalitoisinto (sov. Heikkilä-Mähönen): Maan ääriin asti, Herra (Vox Cantorum/Heikki Seppänen).
+
+          J. Iivanainen: Luojani mun (Johanna Iivanainen).
+
       - title: Iltahartaus
         start_time: '2026-05-27T18:50:00+03:00'
         end_time: '2026-05-27T19:00:00+03:00'
@@ -224,3 +272,42 @@ data:
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-05-27T23:20:00+03:00'
         end_time: '2026-05-27T23:39:30+03:00'
+      - title: Yöklassinen
+        start_time: '2026-05-27T23:40:00+03:00'
+        end_time: '2026-05-28T06:30:00+03:00'
+        description: |+
+          Brahms: Sonaatti viululle ja pianolle n:o 3 d-molli (Sergej Khatshatrjan ja Lusine Khatchatrjan).
+
+          00:04 Regondi: Nocturne - Rêverie (Otto Tolonen, kitara).
+
+          00:15 Weber: Concertino e-molli (Esa Tapani, käyrätorvi, ja RSO/John Storgårds).
+
+          00:32 Stanford: Magnificat B-duuri (Vasari Singer/Jeremy Backhouse).
+
+          00:45 J.S. Bach: Brandenburgilainen konsertto n:o 1 F-duuri (Euroopan Brandenburg-ork./Trevor Pinnock, cembalo).
+
+          01:05 Halvorsen: Sinfonia n:o 1 c-molli (Trondheimin SO/Ole Kristian Ruud).
+
+          01:47 Pfitzner: Pianotrio B-duuri (Robert Schumann Trio).
+
+          02:08 Pleyel: Viulukonsertto D-duuri (Sebastian Bohren ja Padovan kamariork./Luca Bizzozero).
+
+          02:43 Kokkonen: Jousikvartetto n:o 3 (Jean Sibelius -kvartetti).
+
+          03:01 Rodrigo: Concierto para una fiesta (Pepe Romero, kitara, ja St. Martin-in-the-Fields-kamariork./Neville Marriner).
+
+          03:30 J. Haydn: Jousikvartetto n:o 62 B-duuri (Meta4-kvartetti).
+
+          03:50 Weiss: Sarja luutulle c-molli (Konrad Junghänel).
+
+          04:14 Schubert: Der Einsame (Yksinäinen) (Elly Ameling, sopraano, ja Rudolf Jansen, piano).
+
+          Moszkowski: Viulukonsertto C-duuri (Tasmin Little ja BBC:n Skotlannin SO/Martyn Brabbins).
+
+          04:57 Padilla: Missa mexicana (Tuuli Lindeberg, sopraano, ja RKK/Andrew Lawrence-King). 
+
+          06:07 Pugnani: Kvartetto orkesterille n:o 1 B-duuri (Keski-Pohjanmaan kamariork./Juha Kangas).
+
+          06:26 Castaldi: Un Bocconcino di fantasia (Mielikuvituksen herkkupala) (Daniel Swenberg, tiorbino).
+
+...
