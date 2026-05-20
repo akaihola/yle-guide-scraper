@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-19T03:12:41.752058+00:00'
+  generated_at: '2026-05-20T03:12:48.324953+00:00'
   git:
     branch: main
-    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
-  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
+    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
+  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
 data:
   '':
     programmes:
@@ -159,6 +159,12 @@ data:
       - title: Tosi tarina
         start_time: '2026-06-11T21:31:00+03:00'
         end_time: '2026-06-11T22:20:00+03:00'
+      - title: Emma
+        start_time: '2026-06-11T22:31:00+03:00'
+        end_time: '2026-06-11T22:59:00+03:00'
+        description: |
+          Osa1/8. Amorin asialla
+          Highburyn kylässä asuvan nuoren Emma Woodhousen mieluisin ajanviete on järjestellä muiden ihmissuhdeasioita, mutta osaako hän todella toimia amorin apulaisena? Emma päättää vakuuttaa epäilijänsä, etenkin naapurissa asuvan herra Knightleyn, ja järjestää kodissaan Hartfieldissa juhlat. Juhliin kutsutaan Emman suunnitelmiin sopivat kohteet: nuori kirkkoherra Elton ja läheisen tyttökoulun sievä Harriet Smith.  
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-06-11T23:01:00+03:00'
         end_time: '2026-06-11T23:57:00+03:00'

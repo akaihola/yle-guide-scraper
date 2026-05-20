@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-19T03:12:37.680477+00:00'
+  generated_at: '2026-05-20T03:12:43.857706+00:00'
   git:
     branch: main
-    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
-  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
+    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
+  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
 data:
   '':
     programmes:
@@ -176,12 +176,12 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-05-22T16:07:00+03:00'
         end_time: '2026-05-22T16:59:00+03:00'
-        description: |+
-          Charpentier: Alkusoitto Te Deumista (The Brandenburg Consort/Roy Goodman).
+        description: |
+          Charpentier: Prelude (Alkusoitto) teoks. Te Deum D-duuri (The Brandenburg Consort/Roy Goodman).
 
           Händel: Piaceren aaria "Lascia la spina" orat. Il trionfo del Tempo e del Disinganno (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
 
-          Elgar: Nimrod Enigma-muunnelmista (Minnesotan ork./Neville Marriner).
+          Elgar: Nimrod teoks. Enigma-muunnelmat (Minnesotan ork./Neville Marriner).
 
           Granados: Allegro de concierto Cis-duuri (Garrick Ohlsson, piano).
 
@@ -189,14 +189,13 @@ data:
 
           Eller: Videvik (Iltahämärä) (Eesti Riiklik Sümfooniaorkester ERSO/Olari Elts). 
 
-          Monti: Csardas (Roby Lakatos ja yhtye).
+          Monti: Csardas (Roby Lakatos, viulu).
 
           W.A. Mozart: Sarastron aaria "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
 
           Debussy: Clair de lune (Kuutamo) (Izumi Tateno, piano). 
 
           Holst: Neptunus sarj. Planeetat (Atlantan SO ja Atlantan SO:n kuoron naisäänet/Yoel Levi).
-
       - title: Uutispodcast
         start_time: '2026-05-22T17:00:00+03:00'
         end_time: '2026-05-22T17:20:00+03:00'
@@ -226,7 +225,9 @@ data:
         start_time: '2026-05-22T18:50:00+03:00'
         end_time: '2026-05-22T19:00:00+03:00'
         description: |-
-          Toimittaja Elina Vaittinen, Helsinki
+          "Vastasyntyneen katseessa on ripaus taivasta"
+          Kesän perjantai-illoissa kysytään "Mikä on pyhää?"
+          Tuottaja  Elina Vaittinen Kirkon viestinnästä ihmettelee ja ihastelee vastasyntyneen lapsen katsetta. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-22T19:00:00+03:00'
         end_time: '2026-05-22T19:02:00+03:00'
@@ -271,7 +272,7 @@ data:
           (julkaistu v. 2018)
       - title: 'Tuuli Saksalan keidas: Kimppakämppiä ja kohtaamisia - toukokuun parasta maailmanmusiikkia'
         start_time: '2026-05-22T22:26:00+03:00'
-        end_time: '2026-05-22T23:15:00+03:00'
+        end_time: '2026-05-22T23:15:12+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

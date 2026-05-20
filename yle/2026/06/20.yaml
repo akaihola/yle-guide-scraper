@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-19T03:12:43.295204+00:00'
+  generated_at: '2026-05-20T03:12:49.971407+00:00'
   git:
     branch: main
-    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
-  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
+    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
+  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
 data:
   '':
     programmes:
@@ -71,9 +71,12 @@ data:
       - title: Viikon luontoääni
         start_time: '2026-06-20T14:55:00+03:00'
         end_time: '2026-06-20T15:00:00+03:00'
-      - title: Viihdekuunnelma
+      - title: Emma
         start_time: '2026-06-20T15:00:00+03:00'
         end_time: '2026-06-20T15:25:00+03:00'
+        description: |
+          Osa 3/8 Jouluaatto 
+          Herra Elton tuo Hartfieldiin sana-arvoituksen ja Emma uskoo, että sen tarkoitus on kertoa Harrietille kirkkoherran tunteista. Herra ja rouva Weston kutsuvat ystäviään jouluillalliselle, joille kaikkien ihmetykseksi herra Westonin poika Frank ei pääse. Menomatkalla herra Knightley kiinnittää huomiota herra Eltonin käytökseen ja paluumatkalla Emmalle selviää mistä käytöksessä onkaan todella kyse.    
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T15:25:00+03:00'
         end_time: '2026-06-20T15:30:00+03:00'

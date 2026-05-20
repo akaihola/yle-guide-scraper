@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-19T03:12:38.170954+00:00'
+  generated_at: '2026-05-20T03:12:44.378746+00:00'
   git:
     branch: main
-    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
-  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
+    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
+  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
 data:
   '':
     programmes:
@@ -203,7 +203,7 @@ data:
           Konsertin on toimittanut Inari Tilli.
       - title: 'Etnokonsertteja: Niyaz'
         start_time: '2026-05-24T17:00:00+03:00'
-        end_time: '2026-05-24T18:00:00+03:00'
+        end_time: '2026-05-24T17:59:00+03:00'
         description: |-
           Iranilais-turkkilais-kanadalaisen Niyaz-yhtyeen konsertti Rudolstadtin maailmanmusiikkifestivaalilla 5.7.2025. Luvassa on suufilaista mystiikkaa, perinnesoittimia ja elektronista tanssimusiikkia. Lauluja rakkaudesta, kaipuusta ja toivosta Iranista, Afganistanista ja Turkista. 
       - title: Jazzklubi
@@ -217,11 +217,11 @@ data:
         end_time: '2026-05-24T20:00:00+03:00'
       - title: Pelastusarmeijan Tampereen osaston jumalanpalvelus
         start_time: '2026-05-24T20:00:00+03:00'
-        end_time: '2026-05-24T21:00:00+03:00'
+        end_time: '2026-05-24T20:54:49+03:00'
         description: |-
           Jumalanpalveluksen johtavat ja saarnassa keskustelevat kapteenit Kaisu ja Riku Leino. Haastateltavina sotilas Henna Hurinki ja sotilas Markus Jalonen. Musiikkiryhmän johtajana Kaisu Leino.
       - title: Uutispodcast
-        start_time: '2026-05-24T21:00:30+03:00'
+        start_time: '2026-05-24T21:00:31+03:00'
         end_time: '2026-05-24T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
@@ -258,11 +258,15 @@ data:
         end_time: '2026-05-24T23:16:08+03:00'
         description: |-
           Sirpa Kaajakari toi Amerikasta Älä osta mitään -liikkeen, jossa lähialueen ihmiset antavat ja vaihtavat toisilleen tavaroita ja palveluksia. Tällä tavalla voi paitsi säästää rahaa ja ilmastoa, myös tutustua lähikorttelin ihmisiin. Esimerkki siitä, miten hiilijalanjäljen pienentäminen ei ankeuta elämää!
-      - title: Romano mirits
-        start_time: '2026-05-24T23:26:00+03:00'
-        end_time: '2026-05-24T23:39:30+03:00'
-        description: |-
+      - title: 'Romano mirits: Leif Valerius'
+        start_time: '2026-05-24T23:24:59+03:00'
+        end_time: '2026-05-24T23:39:17+03:00'
+        description: |+
           Ajankohtaista asiaa romaneista.
+
+          14 minuuttia romanikulttuuria sarjassa kuullaan henkilöhaastattelu Leif Valeriuksekselta. Haastattelijana Mertsi Lindgren
+
+
       - title: Yöklassinen
         start_time: '2026-05-24T23:40:00+03:00'
         end_time: '2026-05-25T06:30:00+03:00'

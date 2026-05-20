@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-19T03:12:38.526027+00:00'
+  generated_at: '2026-05-20T03:12:44.772603+00:00'
   git:
     branch: main
-    commit: 5cf6740fbb90afcb5636ef0891a14b6501682389
-  data_hash: 3035fa40602f58100359f28a50b30e181f9b119b086814b654c22279c93d78d4
+    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
+  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
 data:
   '':
     programmes:
@@ -140,6 +140,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-05-26T11:57:00+03:00'
         end_time: '2026-05-26T12:00:00+03:00'
+        description: |-
+          Ote Anton Tshehovin novellista Valot. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-26T12:00:00+03:00'
         end_time: '2026-05-26T12:05:00+03:00'
