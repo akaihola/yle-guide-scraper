@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-20T03:12:45.682111+00:00'
+  generated_at: '2026-05-21T03:13:18.727504+00:00'
   git:
     branch: main
-    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
-  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
+    commit: f79c8cf8ec3b421b7e122c4b33d6ab87dde5a26a
+  data_hash: 1c9e27e447d744c876922dcc52011c98e3287e251363eef01ae53bd375351af3
 data:
   '':
     programmes:
@@ -83,10 +83,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-30T12:00:00+03:00'
         end_time: '2026-05-30T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: Maailma tarinoina:Osuuko Kärpästen herra poikien nykytodellisuuteen?
         start_time: '2026-05-30T12:05:00+03:00'
         end_time: '2026-05-30T13:00:00+03:00'
-      - title: Näistä levyistä en luovu
+        description: |-
+          William Goldingin Kärpästen herra -klassikkoromaanissa poikajoukko äityy hirmutekoihin saarella ilman aikuisia. II maailmansodan hirveyksien jälkeen ilmestynyt teos maalasi synkän ihmiskuvan, jossa väkivaltaisuus saa herkästi otteen ja leviää. Onko romaani niin ajankohtainen kuin on väitetty? Miten sen kautta päästään kiinni nykynuorten, erityisesti poikien, todellisuuteen sekä aikuisten, sosiaalisen median ja koulun rooliin? 
+          Kärpästen herran kautta nuorten maailmaan uppoutuvat Marja Vehkasen vieraina helsinkiläisen Vuoniityn peruskoulun suomen kielen ja kirjallisuuden sekä median opettaja, luokanohjaaja Arto Alho sekä yhteiskuntatieteiden tohtori Antti Kivijärvi Nuorisotutkimusseurasta.
+      - title: 'Näistä levyistä en luovu: Anna Brotkin'
         start_time: '2026-05-30T13:00:00+03:00'
         end_time: '2026-05-30T13:55:00+03:00'
         description: |
@@ -94,7 +97,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-30T13:55:00+03:00'
         end_time: '2026-05-30T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Vastentahtoinen selibaatti - incel-yhteisöjen ajatusmaailma seksuaalisen pääoman maailmassa'
         start_time: '2026-05-30T14:00:00+03:00'
         end_time: '2026-05-30T14:55:00+03:00'
         description: |-
@@ -176,10 +179,10 @@ data:
         start_time: '2026-05-30T19:00:00+03:00'
         end_time: '2026-05-30T19:02:00+03:00'
       - title: Oopperailta
-        start_time: '2026-05-30T19:02:00+03:00'
-        end_time: '2026-05-30T22:00:00+03:00'
+        start_time: '2026-05-30T19:03:00+03:00'
+        end_time: '2026-05-30T21:06:20+03:00'
       - title: Uutispodcast
-        start_time: '2026-05-30T21:01:00+03:00'
+        start_time: '2026-05-30T21:07:00+03:00'
         end_time: '2026-05-30T21:25:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.

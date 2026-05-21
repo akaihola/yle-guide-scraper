@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-20T03:12:46.181018+00:00'
+  generated_at: '2026-05-21T03:13:19.060723+00:00'
   git:
     branch: main
-    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
-  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
+    commit: f79c8cf8ec3b421b7e122c4b33d6ab87dde5a26a
+  data_hash: 1c9e27e447d744c876922dcc52011c98e3287e251363eef01ae53bd375351af3
 data:
   '':
     programmes:
@@ -181,16 +181,22 @@ data:
       - title: Politiikkaradio
         start_time: '2026-06-01T21:00:00+03:00'
         end_time: '2026-06-01T21:30:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Nuoret löysivät Jeesuksen! Uskonelämä uskontososiologian silmin'
         start_time: '2026-06-01T21:30:30+03:00'
         end_time: '2026-06-01T22:20:00+03:00'
-        description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+        description: |
+          Jo jonkin aikaa on puhuttu poikien ja nuorten miesten kasvavasta kiinnostuksesta kristinuskoa kohtaan. Nyt tutkimuksissa on alkanut näyttää siltä, että tyttöjen uskonnollisuus kasvaa Suomessa kovaa vauhtia.
+
+          Jaksossa avataan sitä, mitä tutkimusten perusteella on tiedetty yksilön uskonelämästä Miten esimerkiksi yhteiskunnalliset kriisit, sukupuoli, perhetausta tai varallisuus vaikuttavat uskonnollisuuteen?
+
+          Toimittaja: Juuso Pekkinen
+          Haastateltava: Kati Tervo-Niemelä, Itä-Suomen yliopisto
+          Äänisuunnittelija: Mikko Kymäläinen
+      - title: 'Näistä levyistä en luovu: Anna Brotkin'
         start_time: '2026-06-01T22:45:00+03:00'
         end_time: '2026-06-01T23:39:30+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+        description: |
+          Käsikirjoittaja Anna Brotkinin levyvalinnat. Toimittajana Maija Salminen.
       - title: Yöklassinen
         start_time: '2026-06-01T23:40:00+03:00'
         end_time: '2026-06-02T06:30:00+03:00'

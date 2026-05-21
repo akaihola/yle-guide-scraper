@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-20T03:12:45.111771+00:00'
+  generated_at: '2026-05-21T03:13:18.186750+00:00'
   git:
     branch: main
-    commit: 38591c1fab4fcdaa7f538b6ec803cd3bc1b977f1
-  data_hash: 5454219f10dff6c73e49831fe54d9611b9e206be67ca14169dc25a03e17f1edf
+    commit: f79c8cf8ec3b421b7e122c4b33d6ab87dde5a26a
+  data_hash: 1c9e27e447d744c876922dcc52011c98e3287e251363eef01ae53bd375351af3
 data:
   '':
     programmes:
@@ -88,6 +88,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-05-27T08:07:00+03:00'
         end_time: '2026-05-27T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-05-27T09:00:00+03:00'
         end_time: '2026-05-27T09:03:00+03:00'
@@ -116,9 +118,12 @@ data:
           Wonder: Sir Duke (Stevie Wonder).
 
           Konsertin on laatinut Tuuli Saksala.
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Yhdessä lukemisen ilo '
         start_time: '2026-05-27T10:00:00+03:00'
         end_time: '2026-05-27T10:50:00+03:00'
+        description: |-
+          Moni haluaa lukea yhdessä tai samassa tilassa. Moninaiset lukupiirit tuovat ihmisiä yhteen kaunokirjallisuuden äärelle. Millaisesta muutoksesta lukupiirien suosio kertoo? Millainen merkitys yhdessä lukemisella on? Toimittaja Satu Kivelä etsii vastauksia yhdessä POC-lukupiirin vetäjien Aracelis Correan ja Téri Zambranon kanssa. 
+          Ohjelma on uusinta ajalta 25.2.2026.
       - title: Yksi on hyvää seuraa
         start_time: '2026-05-27T10:50:00+03:00'
         end_time: '2026-05-27T11:00:00+03:00'
@@ -237,7 +242,7 @@ data:
         end_time: '2026-05-27T19:02:00+03:00'
       - title: Klassisen musiikin iltakonsertti
         start_time: '2026-05-27T19:02:00+03:00'
-        end_time: '2026-05-27T21:00:00+03:00'
+        end_time: '2026-05-27T20:35:00+03:00'
         description: |-
           Euroradiokonsertissa soi Paulon sellokilpailun 2023 voittajan ja yleisön suuren suosikin Luka Coetzeen konsertti kansainvälisellä Pau Casals -festivaalilla 2025. Konsertin toimittaa Ainomaija Pennanen. 
       - title: 'Politiikkaradio '
