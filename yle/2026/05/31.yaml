@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-22T03:13:31.075291+00:00'
+  generated_at: '2026-05-23T03:10:27.446980+00:00'
   git:
     branch: main
-    commit: 7191e2b9d40e7e52ab4753bbcd401b08ba6f884d
-  data_hash: 2a931ec7a90f5351fea43a464fc4cac5a8ed0447cc5a9bbc6c6050619b31af31
+    commit: d871bdca738681a71ccfb1ad3346811b32b1d3c9
+  data_hash: 1f2ace5c164b4eba9db7220a30cb7a1a56b4d069c3791cbf5276255b13745aad
 data:
   '':
     programmes:
@@ -141,14 +141,17 @@ data:
           Konsertin on toimittanut Heikki Puskala.
       - title: 'Etnokonsertti Totó la Momposinan muistolle '
         start_time: '2026-05-31T17:00:00+03:00'
-        end_time: '2026-05-31T17:58:00+03:00'
+        end_time: '2026-05-31T17:59:15+03:00'
         description: |
-          Kolumbialainen laulaja Totó la Momposina menehtyi toukokuussa 2026. Totó la Momposina kuului afro-kolumbialaiseen alkuperäiskansaan ja nosti afrokolumbialaisen perinnemusiikin ja rytmit kansainväliseen tietoisuuteen. Kuulemme Totó la Momposina konsertin WOMAD-festivaalilta 31.5.2015. Toimittajana on Miika Lauriala. 
+          Kolumbialainen laulaja Totó la Momposina menehtyi toukokuussa 2026. Totó la Momposina oli sukujuuriltaan sekä Kolumbian alkuperäiskansaa että afro-kolumbialainen. Hän nosti afrokolumbialaisen perinnemusiikin ja rytmit kansainväliseen tietoisuuteen. Kuulemme Totó la Momposina konsertin WOMAD-festivaalilta 31.5.2015. Toimittajana on Miika Lauriala. 
       - title: RSO Ylen kesäfestivaalilla
         start_time: '2026-05-31T18:00:00+03:00'
-        end_time: '2026-05-31T19:05:00+03:00'
+        end_time: '2026-05-31T19:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-05-31T19:00:00+03:00'
+        end_time: '2026-05-31T19:02:00+03:00'
       - title: Musiikkikamari
-        start_time: '2026-05-31T19:05:00+03:00'
+        start_time: '2026-05-31T19:02:00+03:00'
         end_time: '2026-05-31T20:00:00+03:00'
       - title: Ortodoksinen liturgia Valamon luostarista Heinävedeltä
         start_time: '2026-05-31T20:00:00+03:00'

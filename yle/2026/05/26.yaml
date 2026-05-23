@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-22T03:13:28.797035+00:00'
+  generated_at: '2026-05-23T03:10:26.035713+00:00'
   git:
     branch: main
-    commit: 7191e2b9d40e7e52ab4753bbcd401b08ba6f884d
-  data_hash: 2a931ec7a90f5351fea43a464fc4cac5a8ed0447cc5a9bbc6c6050619b31af31
+    commit: d871bdca738681a71ccfb1ad3346811b32b1d3c9
+  data_hash: 1f2ace5c164b4eba9db7220a30cb7a1a56b4d069c3791cbf5276255b13745aad
 data:
   '':
     programmes:
@@ -63,7 +63,8 @@ data:
         start_time: '2026-05-26T06:50:00+03:00'
         end_time: '2026-05-26T06:59:59+03:00'
         description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+          "Kaikki mahtuvat"
+          Oulun Hiippakuntadekaani Juha Rauhala puhuu kirkkorakennuksien merkityksestä ja historiasta. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-26T07:00:00+03:00'
         end_time: '2026-05-26T07:05:00+03:00'
@@ -298,6 +299,14 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-05-26T20:35:00+03:00'
         end_time: '2026-05-26T21:00:00+03:00'
+        description: |-
+          Venäjän hyökkäyssota aiheuttaa ihmisuhrien lisäksi valtavia ympäristövahinkoja Ukrainassa. 
+
+          Ukrainalaiset ympäristöaktivistit syyttävät Venäjää tahallisesta luonnon tuhoamisesta. Sota on kasvattanut vaatimuksia, että luonnontuhonta lisättäisiin Kansainvälisen rikostuomioistuimen ICC:n tuomiovallan alle. 
+
+          Maailmanpolitiikan arkipäivää -ohjelma tarkastelee, millaisia tuhoja sota on aiheuttanut Ukrainassa. Sota kärjistää jo neuvostoajalta periytyviä ympäristöngelmia, kun taisteluja käydään idässä perinteisellä raskaan teollisuuden alueella. Maaperään leviävät raskasmetallit ja räjähteet taas uhkaavat maataloutta mustan mullan alueestaan tunnetussa Ukrainassa.
+
+          Ohjelman ovat toimittaneet Maxim Fedorov ja Heikki Heiskanen. Äänitarkkailijana on Panu Willman. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Politiikkaradio '
         start_time: '2026-05-26T21:00:00+03:00'
         end_time: '2026-05-26T21:30:00+03:00'

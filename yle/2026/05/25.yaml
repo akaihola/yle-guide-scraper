@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-22T03:13:28.028332+00:00'
+  generated_at: '2026-05-23T03:10:25.566974+00:00'
   git:
     branch: main
-    commit: 7191e2b9d40e7e52ab4753bbcd401b08ba6f884d
-  data_hash: 2a931ec7a90f5351fea43a464fc4cac5a8ed0447cc5a9bbc6c6050619b31af31
+    commit: d871bdca738681a71ccfb1ad3346811b32b1d3c9
+  data_hash: 1f2ace5c164b4eba9db7220a30cb7a1a56b4d069c3791cbf5276255b13745aad
 data:
   '':
     programmes:
@@ -40,7 +40,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-05-25T06:30:50+03:00'
         end_time: '2026-05-25T06:50:00+03:00'
-        description: |+
+        description: |-
           Piiparinen (sov. Järvinen): Oi, katso mikä aamu (Lasse Riutamaa, tenori, ja ork./Seppo J. Järvinen, piano).
 
           Tuntematon: Kristus, valo maailman (Cetus Noster).
@@ -51,6 +51,7 @@ data:
 
           Koraalitoisinto: Armoa, Jeesus, odotan (Katariina Airas, laulu, Maija Karhinen-Ilo, laulu ja nokkahuilu, sekä yhtye).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Aamuhartaus
         start_time: '2026-05-25T06:50:00+03:00'
         end_time: '2026-05-25T06:59:59+03:00'
@@ -84,6 +85,8 @@ data:
 
           Foulds: Sisilialainen aamulaulu (Cynthia Fleming, viulu, ja BBC:n konserttiork./Ronald Corp).
 
+          Juontajana on Tuomas Niemelä. 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-25T08:00:00+03:00'
         end_time: '2026-05-25T08:07:00+03:00'
@@ -116,7 +119,7 @@ data:
           Skogman: Tangoa Jällivaarassa (Siw Malmkvist).
           Marvin/Welch: Foot tapper (The Shadows). 
 
-          Konsertin on toimittanut Kai Ulmanen.
+          Konsertin on toimittanut Kai Ulmanen. Juontajana on Tuomas Niemelä. 
       - title: 'Virtasen taloushistoria: Ruotsi - suomalaisten taivas?'
         start_time: '2026-05-25T10:00:00+03:00'
         end_time: '2026-05-25T10:52:00+03:00'
@@ -134,7 +137,7 @@ data:
         start_time: '2026-05-25T11:57:00+03:00'
         end_time: '2026-05-25T12:00:00+03:00'
         description: |-
-          Ote Anton Tshehovin novellista Valtiattareni. 
+          Ote Anton Tshehovin novellista Valtiattareni. Lukijana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-05-25T12:00:00+03:00'
         end_time: '2026-05-25T12:05:00+03:00'
@@ -154,8 +157,8 @@ data:
       - title: Kulttuuriykkönen
         start_time: '2026-05-25T15:00:00+03:00'
         end_time: '2026-05-25T15:55:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Elämme terapiakulttuurissa jossa ratkaisu kaikkiin ongelmiin on yksilön psyykkaaminen. ADHD- ja autismidiagnooseja tehdään kiihtyvään tahtiin, työuupumiksesta on tullut epidemia, ja arjen psykologisointi on muodikasta. Entäpä jos muutettaisiin rakenteita, ja nähtäisiin ihminen osana laajempaa kokonaisuutta? Kulttuuriykkösen studiokeskustelussa psykologi Anssi Bwalya, tutkija Mona Mannevuo ja ekopsykologi Juni Sinkkonen keskustelevat siitä, miten ihmisen psykologia voitaisiin alkaa nähdä holistisemmin osana yhteiskuntaa ja luontoa. Toimittajana on Jonni Roos.
       - title: Yle News
         start_time: '2026-05-25T15:55:00+03:00'
         end_time: '2026-05-25T15:58:00+03:00'
@@ -164,6 +167,33 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-25T16:00:00+03:00'
         end_time: '2026-05-25T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-05-25T16:07:00+03:00'
+        end_time: '2026-05-25T16:59:00+03:00'
+        description: |-
+          O. Merikanto: Kevätlinnuille etelässä  (Usko Viitanen)
+
+          Kostiainen: Kiurun tie (Vox Aurea/Pekka Kostiainen).
+
+          Rautavaara: Joutsenet muuttavat konsertosta Cantus arcticus (Sinfonia Lahti/Osmo Vänskä).
+
+          Kansansäv. (sov. Beethoven): To the blackbird (Mustarastaalle) (Haakon Schaub, baritoni, Zsuzsa Zsizsmann, viulu, Cornelius Boensch, sello, ja Michael Clark, piano).
+
+          Messager: Finaali bal. Les deux pigeons (Kaksi kyyhkystä) (Covent Garden -oopperan ork./Charles Mackerras).
+
+          Hindemith: Kaksi iloista järripeippoa (Kölnin filharmoniset sellistit/Werner Thomas).
+
+          Rahmaninov: Etude-tableau a-molli (Meri ja lokit) teoks. Etudes-tableaux op.39 (Ruth Laredo, piano).
+
+          Boyle: Wildgeese (Villihanhet) (BBC:n konserttiork./Ronald Corp).
+
+          Stravinsky: Satakielen lauluja oopp. Satakieli (Anthony Marwood, viulu, ja Thomas Adès, piano).
+
+          Kansansäv. (sov. Runswick): El condor pasa (The London Cello Sound/Geoffrey Simon).
+
+          Josef Strauss: Itävallan kyläpääskysiä (Wienin sinfonikot/Robert Stolz).
+
+          Toimittaja Lotta Emanuelsson
       - title: Uutispodcast
         start_time: '2026-05-25T17:00:00+03:00'
         end_time: '2026-05-25T17:20:00+03:00'
@@ -201,17 +231,22 @@ data:
         end_time: '2026-05-25T19:02:00+03:00'
       - title: 'Tosi tarina: Addiktio:   Koukussa reseptilääkkeisiin 2'
         start_time: '2026-05-25T19:02:00+03:00'
-        end_time: '2026-05-25T19:50:00+03:00'
+        end_time: '2026-05-25T19:48:00+03:00'
         description: |-
           Kaksiosaisessa Koukussa reseptilääkkeisiin -dokumentissa toimittaja Ina Mikkola tutkii sitä, mihin, miten, miksi ja millaisissa tilanteissa ihmiset jäävät lääkekoukkuun. Mikä terveydenhuollossa on mennyt vikaan, että ihminen jää koukkuun lääkärin määräämiin reseptilääkkeisiin?
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Ruotsista karkotetaan nyt maahanmuuttajia ennätystahtiin'
         start_time: '2026-05-25T20:05:00+03:00'
         end_time: '2026-05-25T20:25:00+03:00'
+        description: |-
+          Ruotsissa maahanmuuttopolitiikka on tiukentunut nopeasti. Nyt maasta karkotetaan paljon myös sellaisia nuoria, jotka ovat jo ehtineet käydä koulunsa Ruotsissa ja ehtineet työelämään. Tämä on herättänyt Ruotsissa myös vastustusta. 
       - title: 'Lehmitytöt 1944 J6: Iloisia jälleennäkemisiä'
         start_time: '2026-05-25T20:25:00+03:00'
-        end_time: '2026-05-25T21:00:00+03:00'
+        end_time: '2026-05-25T20:45:00+03:00'
         description: |-
           Lehmitytöt pääsevät vihdoinkin turvallisimmille alueille. Odottavatko äiti ja pikkusisaret tulijoita? Matkan edetessä asenteet kiristyvät siirtoväkeä kohtaan – toisaalta lehmitytöt kohtaavat myös vieraanvaraisuutta. Jotkut lehmitytöistä ja lehmistä pääsevät vihdoin junaan, mutta niissäkään ei ole turvallista matkustaa.  Eila saapuu perille Perniöön. Löytyykö isoäiti vihdoinkin?       
+      - title: Musiikkikamari
+        start_time: '2026-05-25T20:45:00+03:00'
+        end_time: '2026-05-25T21:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-05-25T21:00:00+03:00'
         end_time: '2026-05-25T21:30:00+03:00'
