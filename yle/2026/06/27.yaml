@@ -1,12 +1,187 @@
 metadata:
-  generated_at: '2026-05-23T03:10:34.336664+00:00'
+  generated_at: '2026-05-24T03:12:39.913890+00:00'
   git:
     branch: main
-    commit: d871bdca738681a71ccfb1ad3346811b32b1d3c9
-  data_hash: 1f2ace5c164b4eba9db7220a30cb7a1a56b4d069c3791cbf5276255b13745aad
+    commit: 943342db5bdb2eca6ea9dda3c46869423d7e77c9
+  data_hash: 4cbb9ae514d4a5889fe7f1335d4c091025723f0e38e62be27fa77f1e8d5c686e
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-26T23:40:00+03:00'
         end_time: '2026-06-27T07:30:00+03:00'
+      - title: Luomiskertomus
+        start_time: '2026-06-27T07:31:00+03:00'
+        end_time: '2026-06-27T07:55:00+03:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T07:55:00+03:00'
+        end_time: '2026-06-27T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-27T08:00:00+03:00'
+        end_time: '2026-06-27T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-06-27T08:05:00+03:00'
+        end_time: '2026-06-27T08:25:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-06-27T08:25:00+03:00'
+        end_time: '2026-06-27T08:35:00+03:00'
+        description: |-
+          Everstiluutnantti Esa Nenonen, Pelastusarmeija, Helsinki
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T08:35:00+03:00'
+        end_time: '2026-06-27T08:40:00+03:00'
+      - title: 'Maailman tärkein pieni asia: Ari Tommiska'
+        start_time: '2026-06-27T08:40:00+03:00'
+        end_time: '2026-06-27T09:00:00+03:00'
+        description: |-
+          Ari Tommiskalla on ainutlaatuinen tietokone- ja tietokonepelikokoelma. Toimittajana Maija Salminen. 
+      - title: 'Yle Uutiset '
+        start_time: '2026-06-27T09:00:00+03:00'
+        end_time: '2026-06-27T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-06-27T09:04:00+03:00'
+        end_time: '2026-06-27T09:59:00+03:00'
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2026-06-27T10:00:00+03:00'
+        end_time: '2026-06-27T10:25:00+03:00'
+      - title: 'Hanna Tikander & Henkiset oppaat: “Ei tätä työtä voi tehdä, jos ei ole sydän auki”'
+        start_time: '2026-06-27T10:25:00+03:00'
+        end_time: '2026-06-27T11:00:00+03:00'
+        description: |-
+          Pia löysi tarot-kortit ja henkisen maailman, kun hän oli viulistina Italiassa. Hän sai lahjaksi kortit siskoltaan ja ryhtyi syventymään tarot-korttien merkitykseen. Viulistin ura jäi, kun Pian kertoman mukaan kortit alkoivat välittää henkioppailta viestejä ja henkinen maailma vei mennessään. Tarot-kortit antavat Pian mukaan kanavan henkiselle kasvulle ja reitin itsetuntemukseen. Kun Pia pudottelee studiossa kortteja, on hänellä isoa kerrottavaa Hannallekin.
+      - title: Virtasen taloushistoria
+        start_time: '2026-06-27T11:00:00+03:00'
+        end_time: '2026-06-27T11:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-06-27T11:57:00+03:00'
+        end_time: '2026-06-27T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-27T12:00:00+03:00'
+        end_time: '2026-06-27T12:05:00+03:00'
+      - title: Maailma tarinoina
+        start_time: '2026-06-27T12:05:00+03:00'
+        end_time: '2026-06-27T13:00:00+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-06-27T13:00:00+03:00'
+        end_time: '2026-06-27T13:55:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T13:55:00+03:00'
+        end_time: '2026-06-27T14:00:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-06-27T14:00:00+03:00'
+        end_time: '2026-06-27T14:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Viikon luontoääni
+        start_time: '2026-06-27T14:55:00+03:00'
+        end_time: '2026-06-27T15:00:00+03:00'
+      - title: Emma
+        start_time: '2026-06-27T15:00:00+03:00'
+        end_time: '2026-06-27T15:25:00+03:00'
+        description: |
+          Osa 4/8 Hurmaava nuori mies
+          Highburyn seurapiireissä tapahtuu: vaitelias neiti Jane Fairfax on saapunut tätinsä luo, kirkkoherra Eltonilla on uutisia ja Emman nuori ystävä Harriet Smith kaipaa tukea. Kaikkia kiinnostava herra Frank Churchill palaa viimein isänsä luo ja hänet esitellään Emmalle. Seurapiireille on luvassa myös juhlia. Tanssien ja juorujen pyörteissä Emma havahtuu uudenlaisiin tunteisiinsa. 
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T15:25:00+03:00'
+        end_time: '2026-06-27T15:30:00+03:00'
+      - title: Aristoteleen kantapää
+        start_time: '2026-06-27T15:30:00+03:00'
+        end_time: '2026-06-27T15:55:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T15:55:00+03:00'
+        end_time: '2026-06-27T16:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-27T16:00:00+03:00'
+        end_time: '2026-06-27T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-06-27T16:07:00+03:00'
+        end_time: '2026-06-27T16:59:59+03:00'
+        description: |-
+          Jenkins: Allegretto concerto grossosta Palladio (Pohjois-Saksan radio-ork./Ben Palmer).
+
+          Pejacevic: Rote Nelken (Punaiset neilikat) sarj. Blumenleben (Natasa Veljkovic, piano).
+
+          Händel: Morganan aaria "Tornami a vagheggiar" oopp. Alcina (Patricia Petibon, sopraano, ja Venetsian barokkiork./Andrea Marcon).
+
+          Kansansäv.: Scarborough fair (Sheku Kanneh-Mason, sello, ja Plinio Fernandes, kitara).
+
+          Smyth: Allegretto grazioso teoks. Symphonic serenade (BBC:n FO/Odaline de la Martinez).
+
+          Dylan: Make you feel my love (The Pembroke College Chapel Choir/Anna Lapwood, sekä Molly Hord, urut).
+
+          C. Schumann: Scherzo n:o 2 c-molli (Isata Kanneh-Mason, piano).
+
+          Verdi: Kolmannen näytöksen alkusoitto oopp. La Traviata (Lontoon SO/Colin Davis).
+
+          L. Boulanger: Nocturne (Stefan Welsch, sello, ja Ingrid Wendel, piano).
+
+          Tabakova: The rose garden by moonlight teoks. Suite in old style (Sarja vanhaan tyyliin) (Liettuan kamariork./Maxim Rysanov, alttoviulu, sekä Vaiva Eidukaityte-Storastiene, cembalo).
+
+          Piazzolla: Oblivion (Erwin Schrott, bassobaritoni, ja yhtye).
+
+          Konsertin on toimittanut Annina Aho.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-27T17:00:00+03:00'
+        end_time: '2026-06-27T17:05:00+03:00'
+      - title: Marko Gustafsson
+        start_time: '2026-06-27T17:05:00+03:00'
+        end_time: '2026-06-27T17:58:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-06-27T17:53:00+03:00'
+        end_time: '2026-06-27T18:00:00+03:00'
+      - title: Iltahartaus
+        start_time: '2026-06-27T18:01:00+03:00'
+        end_time: '2026-06-27T18:10:00+03:00'
+        description: |-
+          Kirkkoherra Ville Tikkanen, Kangasniemi
+      - title: Lauantain toivotut levyt
+        start_time: '2026-06-27T18:10:00+03:00'
+        end_time: '2026-06-27T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-06-27T19:00:00+03:00'
+        end_time: '2026-06-27T19:02:00+03:00'
+      - title: 'Musiikkikamari: Klassisen musiikin helmiä'
+        start_time: '2026-06-27T19:02:00+03:00'
+        end_time: '2026-06-27T21:00:00+03:00'
+        description: |+
+          Sarasate: Carmen-fantasia (Rachel Barton, viulu, ja Samuel Sanders, piano). 
+
+          J.S. Bach: Goldberg-muunnelmat (Simone Dinnerstein, piano).
+
+          Saint-Saens: Konsertto sellolle ja orkesterille n:o 1 a-molli (Daniel Mueller-Schott, sello, ja Berliinin saksalainen SO/Alexandre Bloch). 
+
+          W.A. Mozart: Sarastron aaria "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
+
+      - title: Uutispodcast
+        start_time: '2026-06-27T21:01:00+03:00'
+        end_time: '2026-06-27T21:25:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-06-27T21:51:00+03:00'
+        end_time: '2026-06-27T22:15:00+03:00'
+        description: |-
+          Jakso 6: Mari on yksin
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-06-27T22:15:00+03:00'
+        end_time: '2026-06-27T22:30:00+03:00'
+        description: |-
+          Jakso 7: Isä on kotona
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-06-27T22:40:00+03:00'
+        end_time: '2026-06-27T23:39:30+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Yöklassinen
+        start_time: '2026-06-27T23:40:00+03:00'
+        end_time: '2026-06-28T07:00:00+03:00'
