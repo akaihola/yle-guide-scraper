@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-26T03:13:14.012896+00:00'
+  generated_at: '2026-05-27T03:14:10.707442+00:00'
   git:
     branch: main
-    commit: f84c5e872307b008768a936280597d0af4fe78f1
-  data_hash: b1004dabe1c83e1628d474d4d2b9fb246210f63a406065447abaad4e657ddbbd
+    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
+  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
 data:
   '':
     programmes:
@@ -109,9 +109,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-19T19:00:00+03:00'
         end_time: '2026-06-19T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Urkuyö & Aaria: Juhannusiltamat'
         start_time: '2026-06-19T19:02:00+03:00'
         end_time: '2026-06-19T20:15:00+03:00'
+        description: |
+          Mari Palo, sopraano, Marko Hilpo, piano, Esa Pietilä, saksofoni. Ohjelmassa kuullaan kesäistä laulu- ja instrumentaalimusiikkia. Mukana on Ralf Gothóninin sovituksia suomalaisista kansanlauluista, Oskar Merikannon rakastettuja yksinlauluja sekä tietysti iki-ihana Kesäillan valssi. Konsertissa kuullaan myös Esa Pietilän soolosaksofonille säveltämä Sphere sekä Astor Piazzollan ja Johan Sebastian Bachin musiikkia. Kesäillan tunnelmissa myös yleisö pääsee laulamaan muusikoiden kanssa yhteislaulujen merkeissä. Nauhoitettu 20.6. Espoon tuomiokirkossa. Konsertin toimittaa Charlotta Hagfors. Uusinta vuodelta 2024.
       - title: Kulttuuriykkönen
         start_time: '2026-06-19T21:00:00+03:00'
         end_time: '2026-06-19T21:55:00+03:00'

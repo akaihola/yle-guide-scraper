@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-26T03:13:10.128682+00:00'
+  generated_at: '2026-05-27T03:14:07.959524+00:00'
   git:
     branch: main
-    commit: f84c5e872307b008768a936280597d0af4fe78f1
-  data_hash: b1004dabe1c83e1628d474d4d2b9fb246210f63a406065447abaad4e657ddbbd
+    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
+  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
 data:
   '':
     programmes:
@@ -153,11 +153,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-05T19:00:00+03:00'
         end_time: '2026-06-05T19:02:00+03:00'
-      - title: Kesän henki!
+      - title: 'Yleisradion vuoden nuorisokuoron konsertti : Tapiolan kuoro konserttilavalla'
         start_time: '2026-06-05T19:02:00+03:00'
         end_time: '2026-06-05T21:00:00+03:00'
         description: |-
-          Tapiolan kuoro esittää 4. kansainvälisen sävellyskilpailunsa voittajateokset. Kuoroa johtaa Pasi Hyökki. Kallion kirkossa 4.6.2026 äänitetyn konsertin toimittaa Inari Tilli.
+          Tapiolan kuoro on Ylen vuoden nuorisokuoro 2025–2026. Valinnassa kiinnitettiin huomiota kuoron sekä sen johtajan pitkäjänteiseen työhön korkeatasoisen lapsikuorotaiteen hyväksi.
+
+          Kallion kirkossa 4. kesäkuuta tallennetussa konsertissa kuoro esittää 4. kansainvälisen sävellyskilpailunsa voittajateokset. Kuoroa johtaa Pasi Hyökki. Konsertin toimittaa Inari Tilli.
       - title: 'Politiikkaradio '
         start_time: '2026-06-05T21:00:00+03:00'
         end_time: '2026-06-05T21:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-26T03:13:12.536386+00:00'
+  generated_at: '2026-05-27T03:14:09.525699+00:00'
   git:
     branch: main
-    commit: f84c5e872307b008768a936280597d0af4fe78f1
-  data_hash: b1004dabe1c83e1628d474d4d2b9fb246210f63a406065447abaad4e657ddbbd
+    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
+  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
 data:
   '':
     programmes:
@@ -24,6 +24,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-13T08:05:00+03:00'
         end_time: '2026-06-13T08:25:00+03:00'
+        description: |+
+          Stebbins: Kiitos sulle, Jumalani (virsi 341b) (Seppo Ruohonen, tenori, ja Ilkka Kuusisto, urut).
+
+          Neumark: Sinussa, Kristus, luotiin kerran (virsi 479) (SRK:n kuoro/Tauno Satomaa).
+
+          Koraalitoisinto: Kiitos olkoon Jumalalle (virsi 307: 1-2, 4, 6-7) (Cantilene/Merja Lohilahti, ja Olli Kinnunen, urut).
+
+          P.J. Hannikainen: Riennä riemuin eespäin vaan (Cantio Laudis/Olli Heikkilä).
+
+          Bashmakov: Riemuitkoon sielusi Herrassa (Joensuun yliopiston ortodoksinen kuoro/Risto Matsi).
+
+          Tuntematon: Iloitse, Kuningatar (Lahden ort. kirkkokuoro/Petri Huttu).
+
       - title: Aamuhartaus
         start_time: '2026-06-13T08:25:00+03:00'
         end_time: '2026-06-13T08:35:00+03:00'
@@ -77,11 +90,11 @@ data:
       - title: Maailma tarinoina
         start_time: '2026-06-13T12:05:00+03:00'
         end_time: '2026-06-13T13:00:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Waltteri Torikka'
         start_time: '2026-06-13T13:00:00+03:00'
         end_time: '2026-06-13T13:55:00+03:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Oopperalaulaja Waltteri Torikka kertoo itselleen tärkeästä musiikista. Toimittajana Maija Salminen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T13:55:00+03:00'
         end_time: '2026-06-13T14:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-26T03:13:11.586228+00:00'
+  generated_at: '2026-05-27T03:14:08.944114+00:00'
   git:
     branch: main
-    commit: f84c5e872307b008768a936280597d0af4fe78f1
-  data_hash: b1004dabe1c83e1628d474d4d2b9fb246210f63a406065447abaad4e657ddbbd
+    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
+  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
 data:
   '':
     programmes:
@@ -13,6 +13,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-10T06:30:50+03:00'
         end_time: '2026-06-10T06:50:00+03:00'
+        description: |+
+          Jääskeläinen: Tänä aamuna säteilevänä (Lasse Riutamaa, tenori, ja Kyrie-musiikkiryhmä).
+
+          Regnart (sov. Lehtipuu): Oi, kuinka ihana (virsi 200) (Topi Lehtipuu, tenori, Jonte Knif, positiiviurut, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          Tiainen: Pääni hiljaa rukoukseen vaipuu (Pelastusarmeijan kuoro/Vappu Lysti, ja Waltter Aarnisalo, piano). 
+
+          O. Mäki-Reini: Sun nimesi (Eve ja Ossi).
+
       - title: Aamuhartaus
         start_time: '2026-06-10T06:50:00+03:00'
         end_time: '2026-06-10T06:59:59+03:00'
@@ -114,6 +123,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-10T18:35:00+03:00'
         end_time: '2026-06-10T18:50:00+03:00'
+        description: |+
+          O. Merikanto: Kiitos sulle, Jumalani (virsi 341a: 1-3) (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Sosa: Kirkko olkoon niin kuin puu (virsi 949) (Gospel Covertajat).
+
+          Sweney: Jeesuksen voitosta kerro (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Harju: Ano minulta (Maksetut viulut).
+
       - title: Iltahartaus
         start_time: '2026-06-10T18:50:00+03:00'
         end_time: '2026-06-10T19:00:00+03:00'
@@ -126,6 +144,17 @@ data:
       - title: Kotimainen konsertti
         start_time: '2026-06-10T19:02:00+03:00'
         end_time: '2026-06-10T21:00:00+03:00'
+        description: |-
+          Hietsu is Happening! ylpeänä esittää:
+
+          Minna Canth: Spiritistinen istunto — ilveily kahdessa näytöksessä (holistinen konstruktio)
+
+          Pyörtyykö hienosäärinen herra Orell? Mitä henget oikein yrittävät kertoa? Eivät kai vehnäset pala uuniin?! Miten spirituaalinen jazz tai kambodžalainen klassinen musiikki liittyy tähän kaikkeen? 
+
+          Näihin ajankohtaisiin ja polttaviin kysymyksiin pureudutaan Hietsun Paviljongissa keskiviikkona 10.6., kun valtionpalkittu Hietsu is Happening! -kollektiivi järjestää 10-vuotisjuhlansa kunniaksi tapahtuman, jossa Minna Canthin 1894 kirjoittamasta näytelmästä tehdään uudenlainen kokonaistaideteos. 
+          Henkien lisäksi tapahtumasarjan perustaja- ja kuraattorikolmikko, basisti Antti Lötjönen, kitaristi Petri Kumela ja saksofonisti Mikko Innanen on tällä kertaa kutsunut rajan tältä puolelta mukaan mukaan pianisti ja harpisti Iro Haarlan, sellisti Kati Raitisen, rumpali Olavi Louhivuoren ja huilisti Malla Vivolinin sekä näyttelijät Sofia Smedsin, Vesa Vierikon ja Mikko Kauppilan. 
+
+          Suoran lähetyksen Hietsun paviljongista toimittaa Ainomaija Pennanen. 
       - title: 'Politiikkaradio '
         start_time: '2026-06-10T21:00:00+03:00'
         end_time: '2026-06-10T21:30:00+03:00'
