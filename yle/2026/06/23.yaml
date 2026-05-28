@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-27T03:14:11.648973+00:00'
+  generated_at: '2026-05-28T03:14:56.277466+00:00'
   git:
     branch: main
-    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
-  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
+    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
+  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
 data:
   '':
     programmes:
@@ -57,9 +57,35 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-06-23T09:04:00+03:00'
         end_time: '2026-06-23T09:59:00+03:00'
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+        description: |-
+          Käyhkö: Kalastaja-Eemelin valssi (Justeeri).
+          Mayer/Bradtke: Der Sommerwind (Peggy March).
+          Abreu: Tico-Tico (The Andrews Sisters).
+          Loudermilk: Pieni lintu (Marion Rung).
+          R. Legrand: Mademoiselle Swing (Irene de Trebert).
+          Veloso/Gil: Beira-Mar (Gilberto Gil).
+          Jones: Keskiyön aurinko (Laila Kinnunen).
+          Whitfield: I heard it through the grapevine (Marvin Gaye).
+          Lindström: La Petite midinette (Yvonne Carré).
+          Carmichael/Arodin: Lazy river (The Mills Brothers).
+          Gunaropulos: Häät joen rannalla (Magyar).
+          Toussaint: Java (Floyd Cramer).
+          Bacharach: Vihmapiisad (Jaak Joala).
+          Myers: Seven days to a holiday (Cliff Richard).
+          Woolson/Marnay: Soleil (Marie).
+          Berlin: Change partners (Fred Astaire).
+          Ledin: Sommaren är kort (Tomas Ledin).
+
+          Konsertin on toimittanut Riikka Holopainen.
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Ville Ranta ja Rebecka Naatus'
         start_time: '2026-06-23T10:00:00+03:00'
         end_time: '2026-06-23T10:55:55+03:00'
+        description: |-
+          Lapsuus roikkuu meissä kiinni. Kun lestadiolaisperheen tytär Rebekka Naatus oli 11-vuotias, hän koki herätyksen oivaltaessaan, että jonain päivänä jokainen ihminen, myös hän itse, kuolee. Kun isä innosti samana kesänä pitkille juoksulenkeille, Rebekka huomasi, että juokseminen oli hyvä tapa paeta kuoleman ajatuksia. Samaan aikaan toisaalla tuleva sarjakuvapiirtäjä Ville Ranta luki Herman Hesseä ja uskoi, että elämällä oli häntä varten suuri tarkoitus.
+
+          Rebekan ja Villen epätodennäköisessä rakkaustarinassa Ville ostaa vaimolleen vaatteet, koska Rebekkaa ei kiinnosta elämän kaunis turhuus. Masentunut Rebekka yrittää opetella terapiassa, miten puhua tunteista, joista jauhaminen on hänestä turhanpäiväistä, ja panee taas juoksukengät jalkaan. Koska eteenpäin on elävän mieli. Villellä on haave: vetäytyä erakoksi ja pyrkiä kohti yksinkertaista.
+
+          Toimittaja Maarit Tastula
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-23T10:55:00+03:00'
         end_time: '2026-06-23T11:00:00+03:00'

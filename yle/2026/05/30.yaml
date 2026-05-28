@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-27T03:14:06.101261+00:00'
+  generated_at: '2026-05-28T03:14:51.078869+00:00'
   git:
     branch: main
-    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
-  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
+    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
+  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
 data:
   '':
     programmes:
@@ -34,8 +34,8 @@ data:
           06:51 J.S. Bach: Sonaatit huilulle ja klaveerille n:o 1 h-molli, n:o 2 G-duuri ja n:o 3 G-duuri (Michala Petri, nokkahuilu ja Keith Jarrett, cembalo)
 
       - title: 'Luomiskertomus: Tuomo Pirttimaa – Lyijykausi Salametsästäjän elämä'
-        start_time: '2026-05-30T07:31:00+03:00'
-        end_time: '2026-05-30T07:55:00+03:00'
+        start_time: '2026-05-30T07:30:41+03:00'
+        end_time: '2026-05-30T07:53:51+03:00'
         description: |-
           Kirjailija Tuomo Pirttimaan Lyijykausi Salametsästäjän elämä -romaani perustuu todellisen henkilön tarinaan. Kehnot kortit elämässään saaneesta ja salametsästyksestä vankilassakin istuneesta Unto Ekistä tuli myöhemmin tunnettu eräkirjailija.
 
@@ -45,7 +45,7 @@ data:
 
           Toimittaja Jukka Kuosmanen.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-05-30T07:55:00+03:00'
+        start_time: '2026-05-30T07:53:51+03:00'
         end_time: '2026-05-30T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-05-30T08:00:00+03:00'
@@ -115,7 +115,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-05-30T12:00:00+03:00'
         end_time: '2026-05-30T12:05:00+03:00'
-      - title: Maailma tarinoina:Osuuko Kärpästen herra poikien nykytodellisuuteen?
+      - title: 'Maailma tarinoina: Osuuko Kärpästen herra poikien nykytodellisuuteen?'
         start_time: '2026-05-30T12:05:00+03:00'
         end_time: '2026-05-30T13:00:00+03:00'
         description: |-
@@ -134,11 +134,11 @@ data:
         end_time: '2026-05-30T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Aatteesta on tullut politiikassa ylimääräinen riesa'
         start_time: '2026-05-30T14:55:00+03:00'
         end_time: '2026-05-30T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Aikoinaan poliitikot julistivat, mitä on oikeudenmukaisuus. Nykyään on tärkeämpää olla oikeassa, politiikan tutkija Johanna Vuorelma pohtii.
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia'
         start_time: '2026-05-30T15:00:00+03:00'
         end_time: '2026-05-30T15:18:00+03:00'
@@ -205,8 +205,9 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-05-30T18:10:00+03:00'
         end_time: '2026-05-30T19:00:00+03:00'
-        description: |-
+        description: |+
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-05-30T19:00:00+03:00'
         end_time: '2026-05-30T19:02:00+03:00'
@@ -232,8 +233,8 @@ data:
           Nimismies - Eino Kaipainen.  Kirkkoherra - Helge Ranin.  Kertoja - Lauri Kuosmanen.
           Kuuntelijan toiveuusinta on vuodelta 1948. 
       - title: 'Keinuva talo : Aikamatka Euroopan etnovuoteen 2003'
-        start_time: '2026-05-30T22:40:00+03:00'
-        end_time: '2026-05-30T23:39:30+03:00'
+        start_time: '2026-05-30T22:39:56+03:00'
+        end_time: '2026-05-30T23:39:09+03:00'
         description: |
           Kesäkuussa Keinuvassa talossa tsuumataan siihen, millainen kansanmusiikki ja maailmanmusiikki innosti yleisöjä vuosikymmeniä sitten. Nostalginen minisarja kattaa vuodet 2003, 1993, 1983 ja 1973. Mikä teki silloin vaikutuksen – ja mikä on kestänyt parhaiten aikaa? Astu sisään, koe ja tiedä! Toimittajana Mika Kauhanen. Uusinta kesäkuulta 2023.
       - title: Yöklassinen

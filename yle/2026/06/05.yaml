@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-27T03:14:07.959524+00:00'
+  generated_at: '2026-05-28T03:14:52.387291+00:00'
   git:
     branch: main
-    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
-  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
+    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
+  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
 data:
   '':
     programmes:
@@ -55,6 +55,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-05T08:07:00+03:00'
         end_time: '2026-06-05T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-06-05T09:00:00+03:00'
         end_time: '2026-06-05T09:03:00+03:00'
@@ -77,7 +79,7 @@ data:
           Sebastian/Sebastian/Boone: Summer in the city (The Lovin' Spoonful).
 
           Konsertin on toimittanut Jenna Bågeberg.
-      - title: Kalle Haatanen
+      - title: Miksi terveydestä tapellaan?
         start_time: '2026-06-05T10:00:00+03:00'
         end_time: '2026-06-05T10:55:00+03:00'
         description: |-
@@ -137,11 +139,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-05T17:30:00+03:00'
         end_time: '2026-06-05T17:35:00+03:00'
-      - title: Sami Garam vannoo stadilaisuuden nimiin, myös biiseissä.
+      - title: 'Näistä levyistä en luovu: Sami Garam vannoo stadilaisuuden nimiin, myös biiseissä.'
         start_time: '2026-06-05T17:35:00+03:00'
         end_time: '2026-06-05T18:30:00+03:00'
         description: |-
-          Kuinka hyvin Kotkan poika on saanut syntyperäisen stadilaisen mielestä vangittua kaupunginosansa tunnelman? Tämä selviää kun stadintaja Sami Garam paljastaa levyjä joista hän ei luovu. 
+          Kuinka hyvin Kotkan poika on saanut syntyperäisen stadilaisen mielestä vangittua kaupunginosansa tunnelman? Tämä selviää, kun stadintaja Sami Garam paljastaa levyjä joista hän ei luovu. 
       - title: Hartaita säveliä
         start_time: '2026-06-05T18:35:00+03:00'
         end_time: '2026-06-05T18:50:00+03:00'
@@ -149,7 +151,8 @@ data:
         start_time: '2026-06-05T18:50:00+03:00'
         end_time: '2026-06-05T19:00:00+03:00'
         description: |-
-          Kirkkoherra Teemu Isokääntä, Tyrnävä
+          "Pyhä hoitaa häpeän pois"
+          Kesän perjantai-illoissa kysytään "Mikä on pyhää?" Kirkkoherra Teemu Isokääntä Tyrnävältä puhuu häpeän vallan voittamisesta.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-05T19:00:00+03:00'
         end_time: '2026-06-05T19:02:00+03:00'
@@ -163,9 +166,13 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-06-05T21:00:00+03:00'
         end_time: '2026-06-05T21:30:00+03:00'
-      - title: Vaihtuva sarja  (1.läh ke klo 12)
+      - title: 12 diktaattoria. Opettaja Robert Mugabe
         start_time: '2026-06-05T21:31:00+03:00'
         end_time: '2026-06-05T22:25:00+03:00'
+        description: |
+          Robert Mugabe aloitti uransa vapaustaistelijana ja Afrikan sankarina, mutta tämä WHO:n
+          hyväntahdonlähettilääksikin hetkeksi nimetty opettaja turmeltui yhdeksi aikamme pahimmista tyranneista ja johti kansakuntansa tuhoon. Mugaben aikakaudella Zimbabwe koki henkisen ja taloudellisen romahduksen. Toimittajana Raimo Tyykiluoto, vieraana tietokirjailija Hannu Pesonen. Kaikki sarjan jaksot ovat kuultavissa Yle Areenassa.
+          (julkaistu v. 2018)
       - title: Tuuli Saksalan keidas
         start_time: '2026-06-05T22:26:00+03:00'
         end_time: '2026-06-05T23:15:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-27T03:14:06.699193+00:00'
+  generated_at: '2026-05-28T03:14:51.468319+00:00'
   git:
     branch: main
-    commit: 0b356661cedd0cbb0d04f50ac0c273e60618cf50
-  data_hash: 711918d3bd35aadb044ea06ddbb7f4bc6bfbb66c014e4081749ac18139c49cc2
+    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
+  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
 data:
   '':
     programmes:
@@ -53,7 +53,8 @@ data:
         start_time: '2026-06-01T06:50:00+03:00'
         end_time: '2026-06-01T06:59:59+03:00'
         description: |-
-          Seurakuntapastori Miika Koistinen, Kuopio
+          "Kasa atomeita vai jotakin enemmän?"
+          Seurakuntapastori Miika Koistinen Kuopiosta pohtii ihmisarvon olemassaolon perusteita atomien ja molekyylien maailmassa.
       - title: Aamusoitto
         start_time: '2026-06-01T07:06:00+03:00'
         end_time: '2026-06-01T08:00:00+03:00'
@@ -81,6 +82,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-01T08:07:00+03:00'
         end_time: '2026-06-01T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-06-01T09:00:00+03:00'
         end_time: '2026-06-01T09:03:00+03:00'
@@ -127,7 +130,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-01T12:00:00+03:00'
         end_time: '2026-06-01T12:05:00+03:00'
-      - title: 'Elävä historia: Porkkalan vuokraamisesta 70 vuotta'
+      - title: 'Elävä historia: Porkkalan palauttamisesta 70 vuotta'
         start_time: '2026-06-01T12:05:00+03:00'
         end_time: '2026-06-01T12:55:00+03:00'
         description: |-
@@ -135,10 +138,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-06-01T13:00:00+03:00'
         end_time: '2026-06-01T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä:  Mikä on kirjojen ulkoasun ja visuaalisen ilmeen vaikutus lukukokemukseen?'
         start_time: '2026-06-01T13:30:00+03:00'
         end_time: '2026-06-01T15:00:00+03:00'
-        description: |2+
+        description: |+
+          Juontajana Jarmo Laitaneva. Mikä on kirjojen ulkoasun ja visuaalisen ilmeen vaikutus lukukokemukseen? Fantasia-kirjallisuus on jo vuosia ollut nousussa. Onko kirjan kannella suurempi merkitys, jos kyseessä on  fantasia-kirja? N. klo 14 Jarmo Laitanevan studiovieraina ovat kuvittaja ja graafikko Kaisu Sandberg sekä kirjailija Ursula Mursu. WSOY:n kuvittajana työskentelevä Sandberg kerää harrastuksenaan kirjojen erikoispainoksia, Ursula Mursu puolestaan on erityisen innostunut Diana Wynne Jonesin fantasiakirjojen maailmaan
 
       - title: Kulttuuriykkönen
         start_time: '2026-06-01T15:00:00+03:00'
@@ -236,3 +240,35 @@ data:
       - title: Yöklassinen
         start_time: '2026-06-01T23:40:00+03:00'
         end_time: '2026-06-02T06:30:00+03:00'
+        description: |-
+          Sibelius: Alkusoitto f-molli vaskiseptetille (Solistiyhtye Imperial).
+
+          23:49 Palmgren: Tähdet tuikkivat (Risto Lauriala, piano).
+
+          23:52 Grieg: Norske folkeviser (Norjalaisia kansanlauluja) op.66 (Eva Knardahl, piano).
+
+          00:22 Castelnuovo-Tedesco: Kitarakonsertto n:o 2 C-duuri (Kazuhito Yamashita ja Lontoon FO/Leonard Slatkin).
+
+          00:52 Andrew Norman: Switch (Colin Currie, lyömäsoittimet ja Utahin SO/Thierry Fischer).
+
+          01:22 Duparc: Kaksitoista yksinlaulua (Gérard Souzay, baritoni, ja Jacqueline Bonneau, piano).
+
+          02:10 Higdon: City scape (Atlantan SO/Robert Spano).
+
+          02:42 Massenet: Sarja orkesterille n:o 4 (Maalauksellisia kuvia). (Monte Carlon kansallisoopperan ork./John Eliot Gardiner).
+
+          02:59 Bartók: Pianokonsertto n:o 3 (Géza Anda ja Berliinin radion SO/Ferenc Fricsay).
+
+          03:24 Bottesini: Gran duo concertante (Joshua Bell, viulu, Edgar Meyer, kontrabasso, ja Saint Paulin kamariork./Hugh Wolff).
+
+          03:38 Klami: Karjalainen rapsodia (RSO/Sakari Oramo).
+
+          03:54 Elgar: Merikuvia (Lilli Paasikivi, mezzosopraano, ja RSO/Sakari Oramo).
+
+          04:16 Krufft: Sonaatti käyrätorvelle ja pianolle F-duuri (Lowell Greer ja Steven Lubin).
+
+          04:37 W.A. Mozart: Serenadi orkesterille D-duuri (Haffner-serenadi) (Baijerin radion SO/Colin Davis).
+
+          05:35 Brahms (sov.): Neljätoista saksalaista kansanlaulua (Amadeus-kuoro/Nicol Matt).
+
+          06:14 Lanzetti: Sonaatti sellolle ja continuolle D-duuri (Gaetano Nasillo, sello, Andrea Marchiol, cembalo, ja Sara Bennici, sello).
