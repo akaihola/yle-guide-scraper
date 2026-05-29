@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-28T03:14:53.761656+00:00'
+  generated_at: '2026-05-29T03:13:43.379545+00:00'
   git:
     branch: main
-    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
-  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
+    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
+  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
 data:
   '':
     programmes:
@@ -26,7 +26,8 @@ data:
         start_time: '2026-06-10T06:50:00+03:00'
         end_time: '2026-06-10T06:59:59+03:00'
         description: |-
-          Auttamistyön ammattilainen Jouni Hemberg, Vihti
+          "3. Auttajan päiväkirja"
+          Auttamistyön ammattilainen Jouni Hemberg Vihdistä puhuu omaelämäkerrallisen hartaussarjansa kolmannessa osassa lähdöstään Malawiin johtamaan jättimäistä avustusoperaatiota vuonna 1992. Sarja jatkuu (3/6).
       - title: Yle Uutiset ja sää
         start_time: '2026-06-10T07:00:00+03:00'
         end_time: '2026-06-10T07:05:00+03:00'
@@ -180,6 +181,12 @@ data:
       - title: Havaintoja muutoksesta
         start_time: '2026-06-10T21:31:00+03:00'
         end_time: '2026-06-10T22:20:00+03:00'
+      - title: 'Kuunnelma: Laskettua aikaa: May the force be with you 2/10'
+        start_time: '2026-06-10T22:21:00+03:00'
+        end_time: '2026-06-10T23:00:00+03:00'
+        description: |-
+          Nora ja Kalle saapuvat Ukrainaan, mutta toimittajana työskentely sodan keskellä osoittautuu pelottavammaksi kuin Nora odotti. Selviää, että sota on pakottanut Pertun käyttämän sijaissynnytysklinikan siirtymään Lviviin turvaan. Nora päättää selvittää voiko auttaa vanhaa ystävää keskellä kriisiä.
+          (ensies. v. 2025)
       - title: Mannerheimin agentti
         start_time: '2026-06-10T23:20:00+03:00'
         end_time: '2026-06-10T23:40:00+03:00'

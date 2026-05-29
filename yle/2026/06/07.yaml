@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-28T03:14:52.919102+00:00'
+  generated_at: '2026-05-29T03:13:42.850241+00:00'
   git:
     branch: main
-    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
-  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
+    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
+  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
 data:
   '':
     programmes:
@@ -72,11 +72,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-07T12:00:00+03:00'
         end_time: '2026-06-07T12:05:00+03:00'
-      - title: 'Elävä historia: Porkkalan palauttamisesta 70 vuotta'
+      - title: 'Elävä historia: Suomi sai Porkkalan takaisin 70 vuotta sitten – alueen kohtalo oli vaiettu puheenaihe'
         start_time: '2026-06-07T12:05:00+03:00'
         end_time: '2026-06-07T12:55:00+03:00'
         description: |-
-          Toimittajana Anna-Kaisa Brenner
+          Suomi joutui jatkosodan jälkeen vuokraamaan Porkkalanniemen Neuvostoliitolle 50 vuodeksi. Miksi alue palautettiin etuajassa ja minkä vuoksi Porkkalan kohtalo oli meillä vaiettu puheenaihe vielä vuosikymmeniä palautuksen jälkeenkin? 
+          Toimittaja: Anna-Kaisa Brenner, äänisuunnittelija: Mikko Kymäläinen, tuottaja: Jenni Stammeier
       - title: 'Välilevyjä: Miksi pidän barokkimusiikista, mutta sinun ei tarvitse'
         start_time: '2026-06-07T13:00:00+03:00'
         end_time: '2026-06-07T13:57:00+03:00'
@@ -130,9 +131,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-07T17:00:00+03:00'
         end_time: '2026-06-07T17:05:00+03:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertti Mia Marine ja Niklas Roswall
         start_time: '2026-06-07T17:06:00+03:00'
         end_time: '2026-06-07T18:00:00+03:00'
+        description: |-
+          Viulisti Mia Marine ja avainviulunsoittaja Niklas Roswall konsertoivat Korrön kansanmusiikkifestivaalilla 26.7.2024. Ruotsalaisia kansansävelmiä, polskia, marsseja, menuetteja ja valsseja sekä Game On -levyn kappaleita. Toimittajana Miika Lauriala.  
       - title: Jazzklubi
         start_time: '2026-06-07T18:00:30+03:00'
         end_time: '2026-06-07T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-28T03:14:52.182581+00:00'
+  generated_at: '2026-05-29T03:13:42.185520+00:00'
   git:
     branch: main
-    commit: bab34d02d1649b0281255fba60a5ac98f59f4882
-  data_hash: e5bc8cdee7311a0730661a967bf4b625896295abea83a7ff029357fb91aec336
+    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
+  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
 data:
   '':
     programmes:
@@ -244,16 +244,21 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-06-04T21:00:00+03:00'
         end_time: '2026-06-04T21:30:00+03:00'
+      - title: 'Tosi tarina: Pullopostia lapsuudesta.'
+        start_time: '2026-06-04T21:31:00+03:00'
+        end_time: '2026-06-04T22:20:00+03:00'
+        description: |
+          Mikä saa meidät käyttäytymään niin kuin me käyttäydymme? Mikä saa meidät tuntemaan, niin kuin me tunnemme? Keski-ikäinen, korsolainen koomikko ja nuori, Oulusta kotoisin oleva sarjakuvablogisti vaikuttavat ehkä pintapuolisesti tarkasteltuina olevan hyvin kaukana toisistaan, eivätkä pelkästään elämänkokemuksiltaan, vaan myös luonteenpiirteiltään, mutta heitä yhdistää ainakin yksi yhteinen kokemus: lapsuus alkoholistiperheessä. Toteutus: Pauliina Motturi, Kai Rantala ja Hannu Karisto. (es. 5.2.2015)
       - title: 'Viihdekuunnelma: Kauhua ja kihlauksia'
         start_time: '2026-06-04T22:31:00+03:00'
         end_time: '2026-06-04T22:59:00+03:00'
         description: |-
           Osa 10/10. Jane Austenin Northanger Abbey.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Kalaöljysäiliön jälkeen'
         start_time: '2026-06-04T23:01:00+03:00'
         end_time: '2026-06-04T23:57:00+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-06-05T00:00:00+03:00'
         end_time: '2026-06-05T06:30:00+03:00'
