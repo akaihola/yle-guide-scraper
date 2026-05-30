@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-29T03:13:44.547897+00:00'
+  generated_at: '2026-05-30T03:11:14.079603+00:00'
   git:
     branch: main
-    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
-  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
+    commit: b9e4a9a8ed988578d90b7a0619659d294ab1dbee
+  data_hash: efd85e1d5b744c3245a2caf01854b7f66e5931f028a444187307173731d1ecf3
 data:
   '':
     programmes:
@@ -58,6 +58,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-06-15T09:04:00+03:00'
         end_time: '2026-06-15T09:59:00+03:00'
+        description: |-
+          Gorney: Brother, can you spare a dime? (The Dave Brubeck Quartet).
+          Porter: Don't fence me in (Bing Crosby & The Andrews Sisters).
+          Weiss: Rhinestone cowboy (Glen Campbell).
+          Hartford: Takaa ajatusten virran (Jussi Raittinen).
+          Mardel: Tumma poikamies (Katri Helena).
+          Kuoppamäki: Katson veden pintaa (Tapio Heinonen).
+          Palmgren: Reflection (Barbara Helsingius).
+          Warren: Katten också (M. A. Numminen).
+          Karlsson: Girls (Cay and The Scaffolds).
+          Goodman: Boing, boing, boing (Warren Schatz).
+          Ramin: Music to watch girls by (Andy Williams).
+          Kansa: Tulkaa tytöt takaisin (Tapani Kansa).
+          Chydenius: Jos rakastat (Kristiina Halkola).
+          Lecuona: Canto india (Jaakko Salo).
+
+          Konsertin on koonnut Kai Ulmanen.
       - title: Virtasen taloushistoria
         start_time: '2026-06-15T10:00:00+03:00'
         end_time: '2026-06-15T10:52:00+03:00'
@@ -66,11 +83,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-15T10:52:00+03:00'
         end_time: '2026-06-15T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä retkellä: Hiljaa virtaa Vantaa'
         start_time: '2026-06-15T11:00:00+03:00'
         end_time: '2026-06-15T11:57:00+03:00'
         description: |-
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Kesän ensimmäiset kolme ohjelmaa ovat uusintoja Välilevyjen aiemmilta retkiltä. Tässä jaksossa Vantaanjoen ruskeasta vedestä muodostuu kirkasta historiaa ja kuohuvia ajatuksia.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-15T11:57:00+03:00'
         end_time: '2026-06-15T12:00:00+03:00'

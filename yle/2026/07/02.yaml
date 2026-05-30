@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-29T03:13:47.540634+00:00'
+  generated_at: '2026-05-30T03:11:18.213130+00:00'
   git:
     branch: main
-    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
-  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
+    commit: b9e4a9a8ed988578d90b7a0619659d294ab1dbee
+  data_hash: efd85e1d5b744c3245a2caf01854b7f66e5931f028a444187307173731d1ecf3
 data:
   '':
     programmes:
@@ -17,7 +17,7 @@ data:
         start_time: '2026-07-02T06:50:00+03:00'
         end_time: '2026-07-02T06:59:59+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Pastori Liisa Ruusukallio, Tampere
       - title: Yle Uutiset ja sää
         start_time: '2026-07-02T07:00:00+03:00'
         end_time: '2026-07-02T07:05:00+03:00'
@@ -142,7 +142,7 @@ data:
         start_time: '2026-07-02T18:50:00+03:00'
         end_time: '2026-07-02T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          Tuottaja-toimittaja Mari Ahvenjärvi, Ulvila
       - title: Yle Uutiset ja sää
         start_time: '2026-07-02T19:00:00+03:00'
         end_time: '2026-07-02T19:02:00+03:00'
@@ -157,6 +157,7 @@ data:
         end_time: '2026-07-02T22:59:00+03:00'
         description: |
           Osa 4/8 Hurmaava nuori mies
+
           Highburyn seurapiireissä tapahtuu: vaitelias neiti Jane Fairfax on saapunut tätinsä luo, kirkkoherra Eltonilla on uutisia ja Emman nuori ystävä Harriet Smith kaipaa tukea. Kaikkia kiinnostava herra Frank Churchill palaa viimein isänsä luo ja hänet esitellään Emmalle. Seurapiireille on luvassa myös juhlia. Tanssien ja juorujen pyörteissä Emma havahtuu uudenlaisiin tunteisiinsa. 
       - title: Epäilyttävän uutta - Aki Yli-Salomäki
         start_time: '2026-07-02T23:01:00+03:00'

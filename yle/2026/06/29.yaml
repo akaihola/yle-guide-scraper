@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-29T03:13:47.038830+00:00'
+  generated_at: '2026-05-30T03:11:17.455804+00:00'
   git:
     branch: main
-    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
-  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
+    commit: b9e4a9a8ed988578d90b7a0619659d294ab1dbee
+  data_hash: efd85e1d5b744c3245a2caf01854b7f66e5931f028a444187307173731d1ecf3
 data:
   '':
     programmes:
@@ -65,10 +65,10 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-29T10:52:00+03:00'
         end_time: '2026-06-29T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Viimeinen sävel'
         start_time: '2026-06-29T11:00:00+03:00'
         end_time: '2026-06-29T11:57:00+03:00'
-        description: |-
+        description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-29T11:57:00+03:00'

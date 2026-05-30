@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-05-29T03:13:46.869999+00:00'
+  generated_at: '2026-05-30T03:11:17.224376+00:00'
   git:
     branch: main
-    commit: 9615e94e86323fea1cf0bdcf9f65dce4e1a4c596
-  data_hash: a6b57c33e59fda84ab83e1eafa104f3f6967644b8eef3224f2fa2abd22b4baec
+    commit: b9e4a9a8ed988578d90b7a0619659d294ab1dbee
+  data_hash: efd85e1d5b744c3245a2caf01854b7f66e5931f028a444187307173731d1ecf3
 data:
   '':
     programmes:
@@ -35,10 +35,10 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-06-28T11:00:00+03:00'
         end_time: '2026-06-28T11:59:00+03:00'
-        description: |-
+        description: |
           Kansansäv.: Scarborough fair (Simon and Garfunkel).
           Gold/Marnay: Exodus (Edith Piaf).
-          Edelmann: Miten ja miksi (Arto Piispanen ja Toni Edelmann).
+          Edelmann: Miten ja miksi Toni Edelmann).
           Pethman: Kesäaamu (Carola).
           Donaldson: Makin' whoopee (Dinah Washington).
           Ramel: Kesälesken blues (Ismo Kallio).
@@ -50,7 +50,7 @@ data:
           De Angelis: Marseillen poika (Cumulus).
           Desmond: Take five (The Dave Brubeck Quartet).
           Marchetti: Fascination (Nat King Cole).
-          Baker: Chetty's lullaby (Chet Baker ).
+          Baker: Chetty's lullaby (Chet Baker).
 
           Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
@@ -61,11 +61,11 @@ data:
         end_time: '2026-06-28T12:55:00+03:00'
         description: |-
           Toimittajana Noora Hirn.
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä retkellä: Erilaiset vedet'
         start_time: '2026-06-28T13:00:00+03:00'
         end_time: '2026-06-28T13:57:00+03:00'
         description: |-
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Kesän ensimmäiset kolme ohjelmaa ovat uusintoja Välilevyjen aiemmilta retkiltä. Tässä jaksossa toimittaja Kare Eskola ja säveltäjä Olli Virtaperko melovat eteläsavolaista vesireittiä, jonka aika on muuttanut kulkuväylästä ja työmaasta viihdekeskukseksi.
       - title: Uudet levyt
         start_time: '2026-06-28T14:00:00+03:00'
         end_time: '2026-06-28T15:00:00+03:00'
