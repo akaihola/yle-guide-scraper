@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-01T03:15:44.503350+00:00'
+  generated_at: '2026-06-02T03:15:28.347784+00:00'
   git:
     branch: main
-    commit: bbe5905e1eb6721f4e8fa654254e433df4dfda76
-  data_hash: 1c5065d4cad778135e8ee7f13f13109250a8b5797a46b15b206de308d1b33ed5
+    commit: daf8062f54d94c4253b06169a5c4f7063eed2f7a
+  data_hash: 967e0ba895bb531eef787caa2e877adb304bb9185f6170cf1ea2992bf0bdf662
 data:
   '':
     programmes:
@@ -56,6 +56,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-06-24T09:04:00+03:00'
         end_time: '2026-06-24T09:59:00+03:00'
+        description: |+
+          Dominguez: Frenesi (Bullworkers).
+          Bergström: Pyykkinaru (Kipparikvartetti).
+          Carmichael: Skylark (Dinah Shore).
+          Jurva: Heili soittaa saksofonia (Jukka Poika).
+          Ben: Mas que nada (Sergio Mendes).
+          De Punta: Muista minua (Metro-tytöt).
+          Kämpfert: L-O-V-E (Nat King Cole).
+          Calderon: Runoni kaunein olla voit (Katri Helena).
+          Barcelata: Maria Elena (Los Indios Tabajaras).
+          Granholm: Kissankellojen aikaan (Johnny).
+          Mononen: Tähdet meren yllä (Emma Salokoski Trio).
+          Simon: Diamonds on the soles of her shoes (Paul Simon & Ladysmith Black Mambazo).
+          Young: Surujen kitara (Hortto Kaalo & Ellen Hagert).
+          Carmichael: Two sleepy people (Fats Waller). 
+
+          Konsertin on laatinut Tuuli Saksala.
+
       - title: Havaintoja muutoksesta
         start_time: '2026-06-24T10:00:00+03:00'
         end_time: '2026-06-24T10:50:00+03:00'
@@ -118,16 +136,17 @@ data:
       - title: Iltahartaus
         start_time: '2026-06-24T18:50:00+03:00'
         end_time: '2026-06-24T19:00:00+03:00'
-        description: |-
-          Pastori Aleksi Sakkolan-Leppänen, Hampuri
+        description: |
+          "Kadonneen kodin etsijä"
+          Pastori Aleksi Sakkolan-Leppänen Hampurista puhuu paratiisikertomuksessa ihmisen osaksi lankeavasta vierauden tunteesta maailmassa ja eheyden löytämisestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-24T19:00:00+03:00'
         end_time: '2026-06-24T19:02:00+03:00'
       - title: Riihimäen kesäkonsertit – Afrikan vaikutteet
         start_time: '2026-06-24T19:02:00+03:00'
         end_time: '2026-06-24T21:00:00+03:00'
-        description: |-
-          Miten Afrikka on vaikuttanut länsimaiseen taidemusiikkiin? Konsertin ohjelma peilaa kysymystä eri näkökulmista ja tuo esiin varsinkin säveltäjänaisia. Konsertissa soitetaan rakastettu ja huippuvaikea Maurice Ravelin viulusonaatti sekä erityisesti kamarimusiikkia säveltäneen Rebecca Clarken pianotrio. 3. kesäkuuta Riihimäen Lasimuseossa tallennetun konsertin toimittaa Riikka Holopainen.
+        description: |+
+          Miten Afrikka on vaikuttanut länsimaiseen taidemusiikkiin? Konsertin ohjelma peilaa kysymystä eri näkökulmista ja tuo esiin varsinkin säveltäjänaisia. Konsertissa soitetaan rakastettu ja huippuvaikea Maurice Ravelin viulusonaatti sekä erityisesti kamarimusiikkia säveltäneen Rebecca Clarken pianotrio. 3. kesäkuuta Suomen Lasimuseossa Riihimäellä tallennetun konsertin toimittaa Riikka Holopainen.
 
           Konserttiohjelma:
 
@@ -153,7 +172,6 @@ data:
           Rebecca Clarke: Piano Trio (1921) 
           Kreeta-Julia Heikkilä, viulu, Beata Antikainen, sello ja Tuomas Turriago, piano
 
-          Kuva: Kreeta-Julia Heikkilä ©Caroline Bittencourt
       - title: 'Politiikkaradio '
         start_time: '2026-06-24T21:00:00+03:00'
         end_time: '2026-06-24T21:30:00+03:00'

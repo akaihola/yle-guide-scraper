@@ -1,12 +1,159 @@
 metadata:
-  generated_at: '2026-06-01T03:15:46.947756+00:00'
+  generated_at: '2026-06-02T03:15:30.417715+00:00'
   git:
     branch: main
-    commit: bbe5905e1eb6721f4e8fa654254e433df4dfda76
-  data_hash: 1c5065d4cad778135e8ee7f13f13109250a8b5797a46b15b206de308d1b33ed5
+    commit: daf8062f54d94c4253b06169a5c4f7063eed2f7a
+  data_hash: 967e0ba895bb531eef787caa2e877adb304bb9185f6170cf1ea2992bf0bdf662
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-07-05T23:40:00+03:00'
         end_time: '2026-07-06T06:30:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-07-06T06:30:50+03:00'
+        end_time: '2026-07-06T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-07-06T06:50:00+03:00'
+        end_time: '2026-07-06T06:59:59+03:00'
+        description: |-
+          "Pieniä valkoisia enkeleitä"
+          Kenttärovasti Risto Kaakinen Lahdesta muistelee syntymäpäivävierailua yli 90-vuotiaan seurakuntalaisen luona ja tältä saamiaan siunauksen sanoja.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T07:00:00+03:00'
+        end_time: '2026-07-06T07:05:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-07-06T07:06:00+03:00'
+        end_time: '2026-07-06T08:00:00+03:00'
+        description: |+
+          Barrios: Caazapa (David Russell, kitara).
+
+          Zemlinsky: Ehetanzlied (Häätanssilaulu) (Hans Peter Blochwitz, tenori, ja Cord Garben, piano). 
+
+          M. Haydn: Finaali sellokonsertosta B-duuri (Jan Vogler, sello, ja Münchenin kamariork./Reinhard Goebel).
+
+          Crusell: Romanssi kvartetosta klarinetille ja jousille n:o 1 Es-duuri (Kari Kriikku ja Avanti!).
+
+          Hasselmans: Lähde (Lily Laskine, harppu).
+
+          Tammelin: Heinäkuun lapsi (Anu Hälvä, sopraano, ja Jouni Somero, piano).
+
+          Kraus: Päivänkoiton tanssi näyt. Amfitryon (L' Arte del mondo/Werner Ehrhardt).
+
+          Sibelius: Var det en dröm (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
+
+          Respighi: Belkisin tanssi aamunkoitteessa balettisarj. Belkis, Saban kuningatar (Minnesotan ork./Eiji Oue).
+
+          Rahmaninov (sov.): Scherzo Mendessohnin näytelmämus. Kesäyön unelma (Charles Rosen, piano).
+
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T08:00:00+03:00'
+        end_time: '2026-07-06T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-07-06T08:07:00+03:00'
+        end_time: '2026-07-06T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-07-06T09:00:00+03:00'
+        end_time: '2026-07-06T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-07-06T09:04:00+03:00'
+        end_time: '2026-07-06T09:59:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-07-06T10:00:00+03:00'
+        end_time: '2026-07-06T10:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-06T10:52:00+03:00'
+        end_time: '2026-07-06T11:00:00+03:00'
+      - title: 'Välilevyjä: Suuret voimat'
+        start_time: '2026-07-06T11:00:00+03:00'
+        end_time: '2026-07-06T11:57:00+03:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Ohjelma on uusinta vuodelta 2023.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-07-06T11:57:00+03:00'
+        end_time: '2026-07-06T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T12:00:00+03:00'
+        end_time: '2026-07-06T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2026-07-06T12:05:00+03:00'
+        end_time: '2026-07-06T12:55:00+03:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-07-06T13:30:00+03:00'
+        end_time: '2026-07-06T15:00:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2026-07-06T15:00:00+03:00'
+        end_time: '2026-07-06T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T16:00:00+03:00'
+        end_time: '2026-07-06T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-07-06T16:07:00+03:00'
+        end_time: '2026-07-06T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T17:00:00+03:00'
+        end_time: '2026-07-06T17:05:00+03:00'
+      - title: 'Tuntematon Baltia: Latvia - matkailun uusi tuntematon'
+        start_time: '2026-07-06T17:05:00+03:00'
+        end_time: '2026-07-06T17:30:00+03:00'
+        description: |
+          Rozentāls-seura ry:n toiminnanjohtaja Jenni Kallionsivu kertoo mm. Latviasta matkailumaana. Maassa asuu myös pieni liiviläiskansa. Toimittajana on Jari Aula.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-06T17:30:00+03:00'
+        end_time: '2026-07-06T17:35:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-07-06T17:35:00+03:00'
+        end_time: '2026-07-06T18:35:00+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2026-07-06T18:35:00+03:00'
+        end_time: '2026-07-06T18:50:00+03:00'
+        description: |-
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2026-07-06T18:50:00+03:00'
+        end_time: '2026-07-06T19:00:00+03:00'
+        description: |-
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (UT2020)
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-06T19:00:00+03:00'
+        end_time: '2026-07-06T19:02:00+03:00'
+      - title: 'Asekauppiaat: Mitä varten aseita oikeasti ostetaan?'
+        start_time: '2026-07-06T19:02:00+03:00'
+        end_time: '2026-07-06T19:50:00+03:00'
+        description: |-
+          Valtion aseisiin käyttämä raha ei tule erillisestä universumista, vaan samasta kukkarosta, josta maksetaan myös peruskoulut ja synnytysosastot. On kuitenkin itsestään selvää, että valtioilla on armeijat, joille ostetaan aseita - aina uusia ja parempia. Ja jos tämän pohjalta kysyy miksi, paljastuu ideologia nimeltä militarismi.
+
+          Jakson asiantuntijavieraana: poliittisen historian tutkija Noora Kotilainen Helsingin yliopistosta. Ampumaradalla Ippiä opastaa Osuvan kouluttaja Mikael Immonen.
+
+          (v. 2024)
+      - title: Mannerheimin agentti
+        start_time: '2026-07-06T20:05:00+03:00'
+        end_time: '2026-07-06T20:25:00+03:00'
+      - title: 'Hanna Tikander & Henkiset oppaat: “Kun työskentelen henkimaailman kanssa, en ole köyhä enkä kipee”'
+        start_time: '2026-07-06T20:25:00+03:00'
+        end_time: '2026-07-06T21:00:00+03:00'
+        description: |
+          Artturi sanoo olevansa henkiparannusenergian välittäjä ja transsimeedio. Vaipuessaan transsitilan hän kertoo välittävänsä viestejä henkimaailmasta. 
+          Artturi kuvailee, että transsissa ollessaan hän on kuin toisessa huoneessa, eikä muista jälkikäteen, mitä viestejä hän on välittänyt. 
+          Vaikka hän sanoo työskentelevänsä välittäjänä näkyvän ja näkymättömän maailman välillä, valtaa hänet silti välillä epäilys, voiko se kaikki olla totta.
+      - title: Tiedeykkönen
+        start_time: '2026-07-06T21:30:30+03:00'
+        end_time: '2026-07-06T22:20:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-07-06T22:45:00+03:00'
+        end_time: '2026-07-06T23:39:30+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+      - title: Yöklassinen
+        start_time: '2026-07-06T23:40:00+03:00'
+        end_time: '2026-07-07T06:30:00+03:00'
