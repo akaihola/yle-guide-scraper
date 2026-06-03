@@ -1,16 +1,16 @@
 metadata:
-  generated_at: '2026-06-02T03:15:30.101307+00:00'
+  generated_at: '2026-06-03T03:15:17.393054+00:00'
   git:
     branch: main
-    commit: daf8062f54d94c4253b06169a5c4f7063eed2f7a
-  data_hash: 967e0ba895bb531eef787caa2e877adb304bb9185f6170cf1ea2992bf0bdf662
+    commit: e7a228aad02d99514fb37b649f2668072e087304
+  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-07-03T23:40:00+03:00'
         end_time: '2026-07-04T07:30:00+03:00'
-      - title: 'Luomiskertomus: Vera Vala - Persikankukkien aikaan'
+      - title: 'Kirjani tarina: Vera Vala - Persikankukkien aikaan'
         start_time: '2026-07-04T07:31:00+03:00'
         end_time: '2026-07-04T07:55:00+03:00'
         description: |-
@@ -80,9 +80,11 @@ data:
         end_time: '2026-07-04T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Viikon luontoääni
+      - title: 'Viikon luontoääni: Mustaviklo'
         start_time: '2026-07-04T14:55:00+03:00'
         end_time: '2026-07-04T15:00:00+03:00'
+        description: |-
+          Viikon luontoäänen esittelee Pentti Halenius.
       - title: 'Viihdekuunnelma: Emma'
         start_time: '2026-07-04T15:00:00+03:00'
         end_time: '2026-07-04T15:25:00+03:00'

@@ -1,15 +1,49 @@
 metadata:
-  generated_at: '2026-06-02T03:15:25.496251+00:00'
+  generated_at: '2026-06-03T03:15:09.032213+00:00'
   git:
     branch: main
-    commit: daf8062f54d94c4253b06169a5c4f7063eed2f7a
-  data_hash: 967e0ba895bb531eef787caa2e877adb304bb9185f6170cf1ea2992bf0bdf662
+    commit: e7a228aad02d99514fb37b649f2668072e087304
+  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-07T23:40:00+03:00'
         end_time: '2026-06-08T06:30:00+03:00'
+        description: |-
+          L-E Jadin: Jousikvartetto n:o 2 f-molli (Mosaïques-kvartetti).
+
+          00:03 Tallis: Messu, 4-ääninen (Hilliard-yhtye).
+
+          00:24 Johnson: Pavan n:o 2 f-molli (Jakob Lindberg, luuttu).
+
+          00:32 Englund: Sarja soolosellolle (Viimeinen saari) (Kari Lindstedt).
+
+          00:54 Liszt: 24 suurta etydiä (Leslie Howard, piano).
+
+          02:09 Wagner: Wotanin jäähyväiset ja taikatuli oopp. Valkyyria (George London, bassobaritoni, ja Wienin filharmonikot/Hans Knappertsbusch).
+
+          02:27 Ippolitov-Ivanov: Kaukasialaisia kuvia (Baltimoren SO/David Zinman).
+
+          02:48 Prokofjev: Skyyttalainen sarja (Stuttgartin radion SO/Sergiu Celibidache).
+
+          03:12 Frescobaldi: Fioretti, 11 canzonaa ja toccata uruille (Wilhelm Krumbach).
+
+          04:10 Madetoja: Lyyrillinen sarja sellolle ja pianolle (Senja Rummukainen ja Jenni Lappalainen).
+
+          04:28 Brunetti: Sinfonia n:o 26 B-duuri (Concerto Köln).
+
+          04:51 Taffanel (sov. Gamzou): Fantasia von Weberin oopperan Taika-ampuja teemoista (Emmanuel Pahud, huilu, ja Rotterdamin FO/Yannick Nezet-Seguin).
+
+          05:05 Bartók: Tanssisarja (Philadelphian ork./István Kertész).
+
+          05:23 Beethoven: Pianosonaatti n:o 18 Es-duuri (Metsästys) (Clara Haskil).
+
+          05:47 Delibes: Valse lente bal. Coppélia (Cincinnati Pops/Erich Kunzel).
+
+          05:50 Sor: Kuusi bagatellia kitaralle op.43 (Petri Kumela).
+
+          06:11 J.S. Bach: Sonaatti huilulle, viululle ja continuolle c-molli (Jean-Pierre Rampal, huilu, Isaac Stern, viulu, John Steele Ritter, cembalo, ja Leslie Parnas, sello).
       - title: Hartaita säveliä
         start_time: '2026-06-08T06:30:50+03:00'
         end_time: '2026-06-08T06:50:00+03:00'
@@ -59,6 +93,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-08T08:07:00+03:00'
         end_time: '2026-06-08T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-06-08T09:00:00+03:00'
         end_time: '2026-06-08T09:03:00+03:00'
@@ -188,18 +224,15 @@ data:
         end_time: '2026-06-08T19:02:00+03:00'
       - title: 'Tosi tarina: Addiktio: Minnesota-hoidossa'
         start_time: '2026-06-08T19:02:00+03:00'
-        end_time: '2026-06-08T19:50:00+03:00'
+        end_time: '2026-06-08T19:58:00+03:00'
         description: |
           Vain harva tietää, mitä Minnesota-hoito todella on. Tämä dokumentti on harvinainen tilaisuus päästä seuraamaan kuntoutusjaksoa muilta suljettuun yhteisöön. Mitä siellä tapahtuu – niin hoidossa kuin toipujien mielissä? Mukana on iso joukko kuntoutujia, joita on suistanut sivuraiteille esimerkiksi alkoholi, huumeet tai rahapelit. Toteutus: Päivi Leino, Joonatan Kotila, Lasse Nousiainen, Sami Hahtala.
-      - title: Tosi tarina
-        start_time: '2026-06-08T19:02:00+03:00'
-        end_time: '2026-06-08T19:50:00+03:00'
       - title: Mannerheimin agentti
         start_time: '2026-06-08T20:05:00+03:00'
         end_time: '2026-06-08T20:25:00+03:00'
       - title: 'Lehmitytöt 1944 J8: Vihdoinkin perillä!'
         start_time: '2026-06-08T20:25:00+03:00'
-        end_time: '2026-06-08T21:00:00+03:00'
+        end_time: '2026-06-08T20:50:00+03:00'
         description: |
           Annikki on kulkenut jalan satoja kilometrejä ja näky alkaa olla sen mukainen.  Perille  Savonlinnaan saapuminen on  valtava pettymys. Onko lehmitytöillä mitään arvoa, kun lasti on saatu perille? Annikilla alkaa uusi ja nöyryyttävä matka kohti omaa elämää. Aseet vaikenevat ja jotain muutakin sykähdyttävää tapahtuu. Sota-ajan teinit pääsevät vihdoinkin tanssimaan, ja Eilasta tulee Miss Kemiö.
       - title: Politiikkaradio
@@ -218,3 +251,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-06-08T23:40:00+03:00'
         end_time: '2026-06-09T06:30:00+03:00'
+        description: |-
+          Raff: The Tempest (Myrsky), konserttialkusoitto g-molli (Ranskankielisen Sveitsin ork./Neeme Järvi).
+
+          23:55 Bartolotti: Sarja kitaralle g-molli (Gordon Ferries, barokkikitara).
+
+          00:28 Sibelius: Skogsrået (Metsänhaltija) (Sinfonia Lahti/Osmo Vänskä).
+
+          00:50 Dvorák: Jousikvartetto n:o 5 f-molli (Prahan jousikvartetti).
+
+          01:24 Browne: O mater venerabilis (Oxfordin Christ Church -katedraalin kuoro/Stephen Darlington).
+
+          01:39 Glinka: Sekstetto Es-duuri (Kölnin Ensemble Classique).
+
+          02:06 d'Indy: Konsertto pianolle, huilulle, sellolle ja jousille (Brigitte Engerer, Magali Mosnier ja Marc Coppey, sekä Bretagnen ork./Lionel Bringuier).
+
+          02:30 J.S. Bach: Kantaatit n:o 205 (Zerreisset, zerprenget, zertrümmert die Gruft) ja n:o 207 (Vereinigte Zwietracht der wechselnden Saiten) (Edith Mathis, sopraano, Carolyn Watkinson ja Julia Hamari, altto, Peter Schreier, tenori, ja Siegfried Lorenz, basso, sekä Berliner Solisten -kuoro ja Berliinin kamariork./Peter Schreier).
+
+          03:45 Lourié: Concerto da camera (Kamarikonsertto) (Gidon Kremer, viulu, ja Deutsche Kammerphilharmonie).
+
+          04:18 A. Karjalainen: Viva suite (Viva brass).
+
+          04:32 Bartók: Jousikvartetto n:o 6 (Juilliard-kvartetti).
+
+          05:04 Spohr: Sinfonia n:o 5 c-molli (Pohjois-Saksan RO/Howard Griffiths).
+
+          05:36 Rudel: Kuusi trubaduurilaulua (Paul Hillier, laulu, ja Andrew Lawrence-King, harppu ja psalttari).
+
+          06:18 Händel: Sonaatti huilulle ja continuolle G-duuri op.1/5 (Camerata Köln).
+
+          06:26 Ortiz: Quinta pars viola da gamballe ja continuolle (Mika Suihkonen ja Ballo della Battalia).

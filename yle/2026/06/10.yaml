@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-02T03:15:25.848611+00:00'
+  generated_at: '2026-06-03T03:15:10.165133+00:00'
   git:
     branch: main
-    commit: daf8062f54d94c4253b06169a5c4f7063eed2f7a
-  data_hash: 967e0ba895bb531eef787caa2e877adb304bb9185f6170cf1ea2992bf0bdf662
+    commit: e7a228aad02d99514fb37b649f2668072e087304
+  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
 data:
   '':
     programmes:
@@ -61,6 +61,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-10T08:07:00+03:00'
         end_time: '2026-06-10T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-06-10T09:00:00+03:00'
         end_time: '2026-06-10T09:03:00+03:00'
@@ -95,6 +97,18 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-06-10T11:00:00+03:00'
         end_time: '2026-06-10T11:57:00+03:00'
+        description: |-
+          Vaughan Williams: Alkusoitto näyt. Ampiaiset (Bournemouthin SO/Constantin Silvestri).
+
+          Morley: Arise, awake, you silly shepherds sleeping (The Consort of Musicke/ Anthony Rooley).
+
+          Schuncke: Capriccio n:o 2 (Gregor Weichert, piano).
+
+          W.A Mozart: Mia speranza adorata! (Rita Streich, sopraano, ja Baijerin radion SO/Charles Mackerras).
+
+          Halvorsen: Sarja näytelmämus. Kjöbmannen i Venedig (Venetsian kauppias) (Latvian kansallinen SO/Terje Mikkelsen).
+
+          M. Haydn (sov. Leppard): Trumpettikonsertto D-duuri (Wynton Marsalis ja Englantilainen kamariork./Raymond Leppard).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-10T11:57:00+03:00'
         end_time: '2026-06-10T12:00:00+03:00'
@@ -124,6 +138,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-06-10T16:07:00+03:00'
         end_time: '2026-06-10T16:59:00+03:00'
+        description: |+
+          Suk: Joutsenten ja riikinkukkojen leikkiä sarj. Keijukaissatu (Buffalon FO/JoAnn Falletta).
+
+          W.A. Mozart: Don Giovannin serenadi "Deh, vieni alla finestra" oopp. Don Giovanni (Peter Mattei, baritoni, ja Tukholman filharmoninen orkesteri/Lawrence Renes).
+
+          F. Kern: Einleitung - Giocoso teoks. Vier Stücke für Bläserquintett (Mihi Kim, huilu, Philippe Gonzalez, oboe, Emmanuel Chaussade, klarinetti, Luc Loubry, fagotti, sekä Ivo Hadermann, käyrätorvi).
+
+          Carreño: La corbeille de fleurs (Clara Rodriguez, piano).
+
+          J.S. Bach: Gavotit 1 ja 2 orkesterisarjasta n:o 3 D-duuri (Boston Baroque/Martin Pearlman).
+
+          C.Ph.E. Bach: Rondo C-duuri (Tuija Hakkila, fortepiano).
+
+          Fasch: Allegro konsertosta huilulle, oboelle, jousille ja continuolle h-molli (Il Gardellino).
+
+          G. Williams: Andante sekstetosta oboelle, trumpetille, jousitriolle ja pianolle (London Chamber Ensemble).
+
+          Fauré: Chanson d'amour (Rakkauslaulu) (Barbara Bonney, sopraano, ja Warren Jones, piano).
+
+          Saint-Saëns: Balettimusiikkia oopp. Henrik VIII (Victoria-ork./Guillaume Tourniaire).
+
+          Konsertin on laatinut Eva Tigerstedt
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-10T17:00:00+03:00'
         end_time: '2026-06-10T17:05:00+03:00'
