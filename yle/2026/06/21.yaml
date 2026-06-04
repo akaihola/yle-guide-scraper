@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-03T03:15:13.414903+00:00'
+  generated_at: '2026-06-04T03:14:28.584187+00:00'
   git:
     branch: main
-    commit: e7a228aad02d99514fb37b649f2668072e087304
-  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
+    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
+  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
 data:
   '':
     programmes:
@@ -122,9 +122,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-21T17:00:00+03:00'
         end_time: '2026-06-21T17:05:00+03:00'
-      - title: Etnokonsertteja
+      - title: 'Etnokonsertti Floating Sofa Quartet '
         start_time: '2026-06-21T17:06:00+03:00'
         end_time: '2026-06-21T18:00:00+03:00'
+        description: |-
+          Floating Sofa Quartet viettää 10-vuotisjuhliaan ja julkaisee uuden levyn (Tides). Konsertti on taltioitu Malmön kansanpuiston teatterissa 20.11.2025. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
         start_time: '2026-06-21T18:00:30+03:00'
         end_time: '2026-06-21T19:00:00+03:00'

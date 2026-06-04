@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-03T03:15:03.710715+00:00'
+  generated_at: '2026-06-04T03:14:24.637060+00:00'
   git:
     branch: main
-    commit: e7a228aad02d99514fb37b649f2668072e087304
-  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
+    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
+  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
 data:
   '':
     programmes:
@@ -143,9 +143,11 @@ data:
         end_time: '2026-06-05T12:55:00+03:00'
         description: |-
           Toimittajana Jari Mäkinen.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2026-06-05T13:00:00+03:00'
         end_time: '2026-06-05T13:30:00+03:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Radio 1:n iltapäivä
         start_time: '2026-06-05T13:30:00+03:00'
         end_time: '2026-06-05T15:00:00+03:00'
@@ -163,6 +165,27 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-06-05T16:07:00+03:00'
         end_time: '2026-06-05T16:59:00+03:00'
+        description: |+
+          J.S. Bach: 1. osa teoks. Brandenburgilainen konsertto n:o 1 F-duuri (Freiburgin barokkiorkesteri).
+
+          Klami: Intermezzo (Päivi Kärkäs, englannintorvi, ja RSO/Sakari Oramo).
+
+          Albéniz: Pavana-capricho pianolle 4-kätisesti (Katia ja Marielle Labeque).
+
+          R. Schumann: Intermezzo konsertosta pianolle ja orkesterille a-molli op.54 (Janne Mertanen ja Gävlen SO/Hannu Koivula). 
+
+          Reverberi: Andantino sarj. huuliharpulle ja jousille (Willi Burger sekä Ljubljanan Radion ja Television kamariork./Nevio Zanardi).
+
+          Chopin: Impromptu n:o 4 "Fantasia-impromptu" (Murray Perahia, piano).
+
+          Pergolesi: Stabat mater dolorosa (St Albans Abbey -tyttökuoro sekä London Baroque -kamariyhtye/Simon Johnson).
+
+          Bellini: Pollionen aaria "Meco all'altar di Venere" oopp. Norma (Franco Corelli, tenori, Piero de Palma, tenori, sekä Milanon La Scala -oopperan kuoro ja ork./Tullio Serafin).
+
+          Madetoja: Sunnuntaiaamu sarj. Maalaiskuvia (Tampere Filharmonia/John Storgårds).
+
+          Morricone: Chi Mai elok. Maddalena (Ork./Ennio Morricone).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-05T17:00:00+03:00'
         end_time: '2026-06-05T17:05:00+03:00'

@@ -1,15 +1,40 @@
 metadata:
-  generated_at: '2026-06-03T03:15:11.012034+00:00'
+  generated_at: '2026-06-04T03:14:26.526466+00:00'
   git:
     branch: main
-    commit: e7a228aad02d99514fb37b649f2668072e087304
-  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
+    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
+  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-12T23:40:00+03:00'
         end_time: '2026-06-13T07:30:00+03:00'
+        description: |+
+          Wagner: Lentävä hollantilainen, ooppera (James Morris, basso, Deborah Voigt, sopraano, Ben Heppner, tenori,  Jan-Hendrik Rootering, basso, Paul Groves, tenori, ja Birgitta Svenden, mezzosopraano, sekä Metropolitan-oopperan kuoro ja ork./James Levine).
+
+          02:14 Paganini: Serenadi alttoviululle, sellolle ja kitaralle C-duuri (Salvarore Accardo,  Rocco Filippini, ja Carlos Bonell).
+
+          02:36 Farrenc: Sinfonia n:o 2 D-duuri (Bretagnen ork./Stefan Sanderling).
+
+          03:10 Fitzenhagen: Konserttivalssi sellokvartetille (Andreas Brantelid, Ingemar Brantelid, Henrik Dam Thomsen, ja Fredrik Schöyen Sjölin).
+
+          03:17 T. Kuusisto: Suomalainen rukous (HKO/Leif Segerstam).
+
+          03:20 P.D. Philidor: Trio n:o 5 d-molli (Les Barricades Mysterieuses/Stéphan Perreau).
+
+          03:38 Elgar: Caractacus (Judith Howarth, sopraano, Arthur Davies, tenori, David Wilson-Johnson, baritoni, Stephen Roberts, basso, Alastair Miles, basso, ja Lontoon sinfoniakuoro sekä Lontoon SO/Richard Hickox).
+
+          05:21 Ravel: La Valse (Chicagon SO/Jean Martinon).
+
+          05:36 Saint-Saëns: Sarja orkesterille D-duuri (Ensemble Orchestral de Paris/Jean-Jacques Kantorow).
+
+          05:55 Burgmüller: Jousikvartetto n:o 4 a-molli (Mannheimin jousikvartetti).
+
+          06:30 Heise: Sonaatti sellolle ja pianolle F-duuri (Henrik Brendstrup ja Per Salo).
+
+          06:59 C. Fürstenau: Kaksitoista kappaletta huilulle ja kitaralle (Jaan Öun ja Heiki Mätlik).
+
       - title: 'Kirjani tarina: Niina Niskanen - Harakanmuna'
         start_time: '2026-06-13T07:31:00+03:00'
         end_time: '2026-06-13T07:55:00+03:00'
@@ -89,12 +114,18 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-13T11:57:00+03:00'
         end_time: '2026-06-13T12:00:00+03:00'
+        description: |-
+          Pauli Murtomäen runo
       - title: Yle Uutiset ja sää
         start_time: '2026-06-13T12:00:00+03:00'
         end_time: '2026-06-13T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Beckettin Leikin loppu – mitä tapahtuu kun mitään ei enää odoteta?'
         start_time: '2026-06-13T12:05:00+03:00'
         end_time: '2026-06-13T13:00:00+03:00'
+        description: |-
+          Samuel Beckettin näytelmätekstit tekee mieli kytkeä kunkin ajan kriiseihin, mutta itse tekstit pakenevat osoittelevuutta ja merkityksellistämistä. Absurdin teatterin merkittävimpiin kirjoittajiin lukeutuvan Beckettin tekstin aukkoisuus ja huokoisuus ovat sekä haaste että vapaus, ja kieli nousee keskiöön eri merkityksessä kuin realistisen teatterin perinteessä. Hänen taiteellisen työnsä alla lepäsi historian hirveyksien aiheuttama hämmennys, eksistentialistinen filosofia ja jumalan kuolema, joiden voisi väittää värittävän näytelmät pessimistiseksi – mutta onko niissä sijaa myös toivolle ja lämmölle? Missä pisteessä Beckettin myöhemmin yhä karsitummaksi ja riisutummaksi käyvä tyyli on vuonna 1957 ilmestyneen Leikin loppu -näytelmän kohdalla? 
+
+          Absurdin draaman maailmaa avaavat Marja Vehkasen vieraina dramaturgi, näytelmäkirjailija Ilja Lehtinen ja teatteritieteen professori Hanna Korsberg.
       - title: 'Näistä levyistä en luovu: Waltteri Torikka'
         start_time: '2026-06-13T13:00:00+03:00'
         end_time: '2026-06-13T13:55:00+03:00'
@@ -217,3 +248,31 @@ data:
       - title: Yöklassinen
         start_time: '2026-06-13T23:40:00+03:00'
         end_time: '2026-06-14T07:00:00+03:00'
+        description: |-
+          Beethoven: Pianokonsertto n:o 4 G-duuri (Maire Halava ja RSO/Paavo Berglund).
+
+          00:15 Mendelssohn: Sinfonia jousiorkesterille n:o 11 F-duuri (Concerto Köln).
+
+          00:51 Holst: Sekstetto (Ensemble Arabesques).
+
+          01:17 Shostakovitsh: Sinfonia n:o 9 Es-duuri (Ruotsin radion SO/Sergiu Celibidache).
+
+          01:43 Glazunov: Pianosonaatti n:o 1 b-molli (Stephen Coombs).
+
+          02:08 Sibelius: Lemminkäinen (RSO/Kari Tikka).
+
+          03:00 Saariaho: La Passion de Simone (Simonen kärsimys) (Dawn Upshaw, sopraano, Dominique Blanc, puhe, ja Tapiolan Kamarikuoro, sekä RSO/Esa-Pekka Salonen).
+
+          04:07 Döhler: Pianokonsertto A-duuri (Tasmanian SO/Howard Shelley, piano ja joht.).
+
+          04:36 J.S. Bach: Orkesterisarja n:o 2 h-molli (La Petite Bande/Sigiswald Kuijken).
+
+          04:58 Schubert: Pianosonaatti n:o 17 D-duuri (Emil Gilels).
+
+          05:40 Heise: Fantasiakappale käyrätorvelle ja pianolle (Ib Lanzky-Otto ja Wilhelm Lanzky-Otto).
+
+          05:43 Carulli: Konsertto huilulle, kitaralle ja orkesterille G-duuri (Jean-Pierre Rampal ja Alexandre Lagoya, sekä Franz Liszt -kamariork./János Rolla).
+
+          06:07 A. Lobo: Prudentes virgines (Viisaat neitsyet) (La Grande Chapelle/Albert Recasens).
+
+          06:34 Telemann: Sarja oboelle, trumpetille, jousille ja continuolle D-duuri (Wienin Concentus Musicus/Nikolaus Harnoncourt).

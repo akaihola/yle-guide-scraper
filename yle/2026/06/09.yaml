@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-03T03:15:09.626803+00:00'
+  generated_at: '2026-06-04T03:14:25.596182+00:00'
   git:
     branch: main
-    commit: e7a228aad02d99514fb37b649f2668072e087304
-  data_hash: a459917096edb26f5f73916f61fdc6989223866c97dfa40d7c33a71460d7a19d
+    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
+  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
 data:
   '':
     programmes:
@@ -55,8 +55,10 @@ data:
       - title: Aamuhartaus
         start_time: '2026-06-09T06:50:00+03:00'
         end_time: '2026-06-09T06:59:59+03:00'
-        description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+        description: |+
+          "Ihminen tarvitsee horisontin"
+          Hiippakuntadekaani Juha Rauhala Oulusta puhuu äärimmäisen rajan tarjoamasta näkökulmasta ihmiselämän mittasuhteisiin.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-09T07:00:00+03:00'
         end_time: '2026-06-09T07:05:00+03:00'
@@ -139,6 +141,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-09T11:57:00+03:00'
         end_time: '2026-06-09T12:00:00+03:00'
+        description: |-
+          Katri Valan runo Kesä
       - title: Yle Uutiset ja sää
         start_time: '2026-06-09T12:00:00+03:00'
         end_time: '2026-06-09T12:05:00+03:00'
@@ -275,3 +279,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-06-09T23:40:00+03:00'
         end_time: '2026-06-10T06:30:00+03:00'
+        description: |+
+          Bruch: Konsertto klarinetille, alttoviululle ja orkesterille e-molli (Paul Meyer ja Gerard Caussé sekä Lyonin oopperan ork./Kent Nagano).
+
+          00:01 Handl: Osia kok. Moralia (29-47) (Singer Pur).
+
+          00:29 Skrjabin: Yhdeksän masurkkaa (Eric Le Van, piano).
+
+          01:03 J. Strauss (nuor.): Nordseebilder (Kuvia Pohjanmereltä) (Wienin filharmonikot/Willi Boskovsky).
+
+          01:11 Gilles: Requiem (Le Concert Spirituel/Hervé Niquet).
+
+          01:50 Bruckner: Kvintetto jousille F-duuri (Amadeus-kvartetti ja Cecil Aronowitz, alttoviulu).
+
+          02:35 R. Strauss: Also sprach Zarathustra, sinfoninen runo (Chicagon SO/Pierre Boulez). 
+
+          03:09 Rota: Pasuunakonsertto (Christian Lindberg ja Tapiola Sinfonietta/Osmo Vänskä).
+
+          03:23 Reinecke: Kvintetto pianolle ja jousille A-duuri (Linos-yhtye).
+
+          03:53 Tulindberg: Viulukonsertto B-duuri (Jorma Rahkonen ja RSO/Okko Kamu).
+
+          04:14 Mendelssohn: Pianotrio n:o 1 d-molli (Atlantis Trio).
+
+          04:44 Messager: Osia bal. Kaksi kyyhkystä (Covent Garden -oopperan ork./Charles Mackerras).
+
+          05:09 Henry Purcellin,  John Blow'n ja Matthew Locken urkumusiikkia (John Butt, urut)
+
+          06:15 Visée: Kappaleita teorbille a-molli (Fred Jacobs).
+
+...
