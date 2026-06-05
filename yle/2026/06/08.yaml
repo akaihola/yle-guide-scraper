@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-04T03:14:25.336575+00:00'
+  generated_at: '2026-06-05T03:14:06.002831+00:00'
   git:
     branch: main
-    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
-  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
+    commit: e43203b6a882740301850600da449383808ff56c
+  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
 data:
   '':
     programmes:
@@ -121,12 +121,12 @@ data:
           Konsertin on toimittanut Kai Ulmanen.
       - title: Virtasen taloushistoria Pitkäkorvasta tekstareihin - puhelimien historia
         start_time: '2026-06-08T10:00:00+03:00'
-        end_time: '2026-06-08T10:52:00+03:00'
+        end_time: '2026-06-08T10:55:00+03:00'
         description: |+
           Pitkäkorva eli puhelin aiheutti meillä IT-huuman 150 vuotta sitten. Haastateltavana on Ulla Artte.
 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-06-08T10:52:00+03:00'
+        start_time: '2026-06-08T10:55:00+03:00'
         end_time: '2026-06-08T11:00:00+03:00'
       - title: 'Välilevyjä retkellä: Vanan taa'
         start_time: '2026-06-08T11:00:00+03:00'
@@ -145,6 +145,7 @@ data:
         start_time: '2026-06-08T12:05:00+03:00'
         end_time: '2026-06-08T12:55:00+03:00'
         description: |-
+          Norjalainen historiantutkija Odd Arne Westad esittää, että nykyhetki muistuttaa aikaa ennen ensimmäistä maailmansotaa. Westadin mielestä historiasta pitäisi nyt ottaa opiksi, jotta uusi suursota voitaisiin estää. Mitä mieltä Westadin ajatuksista ovat Helsingin yliopiston taloushistorian professori Jari Eloranta ja sotien ja väkivallan historiaan perehtynyt yliopistonlehtori Risto Marjomaa?
           Toimittajana Harri Alanne.
       - title: Politiikkaradio
         start_time: '2026-06-08T13:00:00+03:00'
@@ -198,7 +199,7 @@ data:
         start_time: '2026-06-08T17:05:00+03:00'
         end_time: '2026-06-08T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          THL haluaa kieltää energiajuomien myynnin alle 18-vuotiaille. Miksi juomat pitäisi kieltää? Kuinka iso ongelma niistä on tullut nuorille? Atte Uusinokan haastattelussa THL:n tutkimuspäällikkö Susanna Raulio.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-08T17:30:00+03:00'
         end_time: '2026-06-08T17:35:00+03:00'
@@ -244,16 +245,16 @@ data:
       - title: Politiikkaradio
         start_time: '2026-06-08T21:00:00+03:00'
         end_time: '2026-06-08T21:30:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Jättiteleskooppi ELT on valmistumassa, joten sille suunnitellaan jo seuraajaa: "En nuku öitäni hyvin"'
         start_time: '2026-06-08T21:30:30+03:00'
         end_time: '2026-06-08T22:20:00+03:00'
         description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+          Toimittajana Jari Mäkinen.
+      - title: 'Näistä levyistä en luovu: Sami Garam vannoo stadilaisuuden nimiin, myös biiseissä.'
         start_time: '2026-06-08T22:45:00+03:00'
         end_time: '2026-06-08T23:39:30+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+          Kuinka hyvin Kotkan poika on saanut syntyperäisen stadilaisen mielestä vangittua kaupunginosansa tunnelman? Tämä selviää, kun stadintaja Sami Garam paljastaa levyjä joista hän ei luovu. 
       - title: Yöklassinen
         start_time: '2026-06-08T23:40:00+03:00'
         end_time: '2026-06-09T06:30:00+03:00'

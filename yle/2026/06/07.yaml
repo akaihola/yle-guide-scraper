@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-04T03:14:25.097780+00:00'
+  generated_at: '2026-06-05T03:14:05.769643+00:00'
   git:
     branch: main
-    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
-  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
+    commit: e43203b6a882740301850600da449383808ff56c
+  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
 data:
   '':
     programmes:
@@ -185,31 +185,35 @@ data:
         end_time: '2026-06-07T17:05:00+03:00'
       - title: Etnokonsertti Mia Marine ja Niklas Roswall
         start_time: '2026-06-07T17:06:00+03:00'
-        end_time: '2026-06-07T17:59:58+03:00'
+        end_time: '2026-06-07T17:59:57+03:00'
         description: |-
           Viulisti Mia Marine ja avainviulunsoittaja Niklas Roswall konsertoivat Korrön kansanmusiikkifestivaalilla 26.7.2024. Ruotsalaisia kansansävelmiä, polskia, marsseja, menuetteja ja valsseja sekä Game On -levyn kappaleita. Toimittajana Miika Lauriala.  
-      - title: Jazzklubi
-        start_time: '2026-06-07T18:00:30+03:00'
+      - title: 'Jazzklubi: Matti Nives: "En usko, että on huonoa musiikkia – vain kuulijoiden erilaisia suhteita musiikkiin"'
+        start_time: '2026-06-07T18:00:01+03:00'
         end_time: '2026-06-07T19:00:00+03:00'
+        description: |-
+          Jazzklubin vieraana on musiikkivaikuttaja, dj, tuottaja ja toimittaja Matti Nives. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-07T19:00:00+03:00'
         end_time: '2026-06-07T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
-        start_time: '2026-06-07T19:02:30+03:00'
+      - title: 'Jazzklubin viikon keikka: All That Jazz! - UMO Helsinki Jazz Orchestra & HKO Musiikkitalossa.'
+        start_time: '2026-06-07T19:02:05+03:00'
         end_time: '2026-06-07T20:00:00+03:00'
+        description: |
+          Äänitetty Musiikkitalon konserttisalissa 31.10.2025.
       - title: Jumalanpalvelus Lahden metodistiseurakunnasta
         start_time: '2026-06-07T20:00:00+03:00'
         end_time: '2026-06-07T20:52:29+03:00'
         description: |-
           ”Herran hoidossa - savenvalajan pöydällä”. Liturgina pastori Susanna Jeremejeff. Saarnaajana pastori Elisa Brander. Muusikot: Tuija Helenius, laulu ja Elisa Brander, piano ja laulu.
-      - title: Uutispodcast
-        start_time: '2026-06-07T21:00:30+03:00'
-        end_time: '2026-06-07T21:24:00+03:00'
+      - title: 'Uutispodcast: Mitä Gazassa tapahtuu nyt, kun huomio on muissa Lähi-idän kriiseissä?'
+        start_time: '2026-06-07T21:01:11+03:00'
+        end_time: '2026-06-07T21:23:18+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mitä Gazassa on tänä keväänä tapahtunut Iranin sodan varjossa? Leonard Wilhelmuksen haastateltavana väitöskirjatutkija Tiina Hyyppä Helsingin yliopistosta.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Lintujen puutarha'
-        start_time: '2026-06-07T21:25:00+03:00'
-        end_time: '2026-06-07T22:21:14+03:00'
+        start_time: '2026-06-07T21:24:01+03:00'
+        end_time: '2026-06-07T22:20:15+03:00'
         description: |+
           Alkukesä on linnun parasta aikaa. Musiikissa lintuaihe on vanha, kaikkea löytyy liverrysmatkimisesta vertauskuvallisiin elämän mysteereihin. Lintu lentää barokista nykypäivään.
 
@@ -231,8 +235,8 @@ data:
           (Pekka Kuusisto, viulu, ja Norjan kamariorkesteri).
 
       - title: ' KC Kirjapodcast: Chatteja ja ruumiinvalvojaisia – Miten kirjoittaa omista juuristaan?'
-        start_time: '2026-06-07T22:22:00+03:00'
-        end_time: '2026-06-07T22:49:02+03:00'
+        start_time: '2026-06-07T22:20:48+03:00'
+        end_time: '2026-06-07T22:47:50+03:00'
         description: |-
           Vieraina Iida Aikio, Riko Saatsi ja Sofija Andruhovytš.
       - title: Romano mirits

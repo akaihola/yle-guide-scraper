@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-04T03:14:26.295968+00:00'
+  generated_at: '2026-06-05T03:14:06.900254+00:00'
   git:
     branch: main
-    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
-  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
+    commit: e43203b6a882740301850600da449383808ff56c
+  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
 data:
   '':
     programmes:
@@ -127,11 +127,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-12T12:00:00+03:00'
         end_time: '2026-06-12T12:05:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Me vs. muut – ryhmään kuuluminen määrittää meitä salaa,  mutta  voimme kurottaa sen yli'
         start_time: '2026-06-12T12:05:00+03:00'
         end_time: '2026-06-12T12:55:00+03:00'
         description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Ihmisellä on voimakas tarve kuulua ryhmään – olla me. Miten yhteistyötä rakennetaan yli ryhmärajojen?
+
+          Asiantuntijoina on sosiaalipsykologian apulaisprofessori Katarina Pettersson Helsingin yliopistosta, filosofi, apulaisprofessori Frank Martela Aalto-yliopiston Tuotantotalouden laitokselta ja väitöskirjatutkija Emil Salovuori Kuopion ja Turun yliopistosta. Toimittajana on Pirjo Koskinen. 
       - title: Politiikkaradio
         start_time: '2026-06-12T13:00:00+03:00'
         end_time: '2026-06-12T13:30:00+03:00'
@@ -152,14 +154,41 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-06-12T16:07:00+03:00'
         end_time: '2026-06-12T16:59:00+03:00'
+        description: |+
+          Crusell (sov. Kuikka): Marssi puhallinorkesterille (Kenthorns marsch) (Kaartin soittokunta/Raine Ampuja).
+
+          Leoncavallo: Mattinata (Peter Lindroos, tenori, ja Marita Viitasalo, piano).
+
+          Tshaikovski: Valse sentimentale f-molli kok. Six morceaux (Kuusi kappaletta) (Vladimir Leyetchkiss, piano).
+
+          Kähärä: Aurinkolaulu (Rajaton).
+
+          J.S. Bach (sov. Rahmaninov): Gavotte en Rondeau partitasta nro 3 E-duuri (Vikingur Olafsson, piano). 
+
+          Bingen (sov. Gaver): Kappale soittimille (Sequentia).
+
+          Chopin: Valssi n:o 10 h-molli op.posth (Dinu Lipatti, piano).
+
+          Händel: "Ombra mai fu" oopp. Serse (Anthony Roth Costanzo, kontratenori, ja Les Violons du Roy/Jonathan Cohen, cembalo).
+
+          Purcell: Rondeau teoks. Abdelazer, or the moor's revenge (The Brandenburg Consort/Roy Goodman).
+
+          Schubert (sov. Reger): Du bist die Ruh (Oi rauha suo) (Camilla Nylund, sopraano, ja Pohjois-Saksan RO/Werner Andreas Albert).
+
+          Liszt: Huokaus (Jorge Bolet, piano).
+
+          Kappel (sov. I. Kuusisto): Kallavesj (Jorma Hynninen, baritoni, ja RSO/Ilkka Kuusisto).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-12T17:00:00+03:00'
         end_time: '2026-06-12T17:05:00+03:00'
-      - title: Uutispodcast
+      - title: 'Tinder-lääkäri 2/3: Salaiset treffit sairaalassa'
         start_time: '2026-06-12T17:05:00+03:00'
         end_time: '2026-06-12T17:30:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Linda alkaa tavata lääkäri Aronia yhä uudelleen – usein keskellä yötä, sairaalassa, kesken hänen päivystysvuoronsa. Aron salakuljettaa Lindan sisään takaovesta, ja Linda odottaa lääkärien lepohuoneessa seinän takana, kun Aron hoitaa potilaita.
+
+          Sitten tapahtuu jotain, joka muuttaa kaiken: Linda saa viestin, joka paljastaa, kuinka pitkälle lääkärin vallankäyttö todella ulottuu.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-12T17:30:00+03:00'
         end_time: '2026-06-12T17:35:00+03:00'
@@ -188,7 +217,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-12T19:00:00+03:00'
         end_time: '2026-06-12T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Kotimainen konsertti: Naantalin musiikkijuhlat – Harmonikan hurmio'
         start_time: '2026-06-12T19:02:00+03:00'
         end_time: '2026-06-12T21:00:00+03:00'
         description: |-
@@ -220,9 +249,12 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-06-12T21:00:00+03:00'
         end_time: '2026-06-12T21:30:00+03:00'
-      - title: Vaihtuva sarja  (1.läh ke klo 12)
+      - title: 12 diktaattoria. Kuunkaltainen profeetta Saparmurat Nijazov
         start_time: '2026-06-12T21:31:00+03:00'
         end_time: '2026-06-12T22:25:00+03:00'
+        description: |
+          Keski-Aasiassa sijaitsevan Turkmenistanin presidentti Saparmurat Nijazov oli Aasian läpitunkevin itsevaltias. Hän johti Turkmeniaa, vanhan Neuvostoliiton raunioista syntynyttä itsenäistä valtiota sen presidenttinä vuodesta 1990 kuolemaansa saakka vuoteen 2006, jolloin kuolema keskeytti hänen elämäntyönsä eli rahan lapioimisen omille tileille. Toimittajana Raimo Tyykiluoto, vieraana Mikko Metsämäki. Kaikki sarjan jaksot ovat kuultavissa Yle Areenassa.
+          (julkaistu v. 2018)
       - title: Tuuli Saksalan keidas
         start_time: '2026-06-12T22:26:00+03:00'
         end_time: '2026-06-12T23:15:00+03:00'

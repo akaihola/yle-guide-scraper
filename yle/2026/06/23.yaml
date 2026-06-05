@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-04T03:14:29.099009+00:00'
+  generated_at: '2026-06-05T03:14:09.379883+00:00'
   git:
     branch: main
-    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
-  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
+    commit: e43203b6a882740301850600da449383808ff56c
+  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
 data:
   '':
     programmes:
@@ -171,6 +171,10 @@ data:
       - title: 'Maailman tärkein pieni asia: Hanna Pakarinen'
         start_time: '2026-06-23T20:15:00+03:00'
         end_time: '2026-06-23T20:35:00+03:00'
+        description: |-
+          Laulaja Hanna Pakarinen saunoo mahdollisimman usein. Se tekee niin hyvää sekä sielulle että ruumiille, hän sanoo. Hän on saunomisessa mukana monin tavoin, sillä hänestä on viime vuosina tullut Suomen Saunaseuran aktiivi, joka edistää sen toimintaa mahdollisimman paljon. Hanna Pakarinen juttelee saunomisesta Suomen Saunaseuralla Helsingin Lauttasaaressa.
+
+          .
       - title: 'Politiikkaradio '
         start_time: '2026-06-23T21:00:00+03:00'
         end_time: '2026-06-23T21:30:00+03:00'

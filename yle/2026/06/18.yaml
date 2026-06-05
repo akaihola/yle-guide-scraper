@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-04T03:14:27.830811+00:00'
+  generated_at: '2026-06-05T03:14:08.175814+00:00'
   git:
     branch: main
-    commit: 921365f3150f6e1532110b9eeadd7f867a0c76d3
-  data_hash: 9e2b11f0cdec192dd27c3fe42549a00979d6c8288381682e0179d3d449a6714f
+    commit: e43203b6a882740301850600da449383808ff56c
+  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
 data:
   '':
     programmes:
@@ -13,11 +13,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-18T06:30:50+03:00'
         end_time: '2026-06-18T06:50:00+03:00'
+        description: |+
+          Gibson: Tie on pitkä ja pölyinen (Reijo, Tapani ja Ari, sekä yhtye).
+
+          Simojoki (sov. Vintturi): Taivaan Isä suojan antaa (virsi 503) (Papas No Mamas/Juha Vintturi, ja Tuomas Ahola, laulu).
+
+          Sormunen: Kysytkö palvelushintaa (Jukka Leppilampi, laulu ja kitara, sekä Jouko Kantola, piano).
+
+          Laaksonen: Taivas kuuntelee (Petri Laaksonen, laulu, ja yhtye).
+
       - title: Aamuhartaus
         start_time: '2026-06-18T06:50:00+03:00'
         end_time: '2026-06-18T06:59:59+03:00'
-        description: |-
-          Pastori Liisa Ruusukallio, Tampere
+        description: |
+          "Erilaiset ihmiset tekevät messusta elävän"
+          Pastori Liisa Ruusukallio Tampereelta kokee, etteivät lapset tai kukaan muukaan yksinkertaisesti voi omalla erityisellä olemisellaan häiritä jumalanpalvelusta.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T07:00:00+03:00'
         end_time: '2026-06-18T07:05:00+03:00'
@@ -140,11 +150,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T17:00:00+03:00'
         end_time: '2026-06-18T17:05:00+03:00'
-      - title: Uutispodcast
+      - title: 'Tinder-lääkäri 3/3: Lääkäri katoaa jäljettömiin'
         start_time: '2026-06-18T17:05:00+03:00'
         end_time: '2026-06-18T17:30:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Kolme vuotta ensitreffien jälkeen Linda saa tietää järkyttävän totuuden lääkäri Aronin menneisyydestä. Hän tekee vihdoin rikosilmoituksen – mutta kun poliisin pitäisi kuulustella Aronia, käy ilmi, ettei kukaan tiedä, missä hän on.
+
+          Alkaa epätoivoinen etsintä. Linda, toimittajat ja poliisi eri maissa yrittävät jäljittää miestä, joka saattaa edelleen työskennellä lääkärinä jossakin Euroopassa. Samalla Linda kamppailee syyllisyyden kanssa: olisiko muita uhreja voinut välttää, jos hän olisi puhunut aikaisemmin?
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-18T17:30:00+03:00'
         end_time: '2026-06-18T17:35:00+03:00'
