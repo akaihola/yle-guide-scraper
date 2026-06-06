@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-05T03:14:07.237624+00:00'
+  generated_at: '2026-06-06T03:11:21.832577+00:00'
   git:
     branch: main
-    commit: e43203b6a882740301850600da449383808ff56c
-  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
+    commit: 2de68d34460604442e33e8570edfca52560e9502
+  data_hash: 5381519d66426d8d8baf507a9f101f9bf75ab774b35edeb8c9855e838281bab6
 data:
   '':
     programmes:
@@ -66,7 +66,8 @@ data:
         start_time: '2026-06-13T08:25:00+03:00'
         end_time: '2026-06-13T08:35:00+03:00'
         description: |-
-          Teologinen sihteeri Jelisei Heikkilä, Ortodoksinen kirkko, Helsinki
+          "Hänen nimensä on Johannes"
+          Teologinen sihteeri Jelisei Heikkilä, Ortodoksinen kirkko, Helsinki puhuu Johannes Kastajan syntymästä ja kehottaa valmistamaan Herralle tietä sanalla, ystävällisyydellä ja rukouksella.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T08:35:00+03:00'
         end_time: '2026-06-13T08:40:00+03:00'
@@ -153,9 +154,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T15:25:00+03:00'
         end_time: '2026-06-13T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Helsingin ja Tukholman yhteinen kadunnimistö kertoo maiden historiasta, luonnosta ja Mikko Repolaisesta'
         start_time: '2026-06-13T15:30:00+03:00'
         end_time: '2026-06-13T15:55:00+03:00'
+        description: |
+          Pasi Heikura käy läpi Helsingin ja Tukholman yhteistä kadunnimistöä nimistöntutkija, ruotsinkielen yliopistonlehtori Väinö Syrjälän kanssa. Ohjelmassa paljastetaan myös Kotuksen kuukauden sana. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T15:55:00+03:00'
         end_time: '2026-06-13T16:00:00+03:00'

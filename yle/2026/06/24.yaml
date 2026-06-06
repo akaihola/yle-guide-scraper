@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-05T03:14:09.562279+00:00'
+  generated_at: '2026-06-06T03:11:24.431083+00:00'
   git:
     branch: main
-    commit: e43203b6a882740301850600da449383808ff56c
-  data_hash: 9f3a18b6d30b5796ab3996eed8458ab49e4d200a77da94c77d91d4e7a455ca19
+    commit: 2de68d34460604442e33e8570edfca52560e9502
+  data_hash: 5381519d66426d8d8baf507a9f101f9bf75ab774b35edeb8c9855e838281bab6
 data:
   '':
     programmes:
@@ -90,6 +90,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-24T11:57:00+03:00'
         end_time: '2026-06-24T12:00:00+03:00'
+        description: |-
+          Ote A. H. Sidgwickin teoksesta Kävelyesseet, suom. Asmo Koste, Nastamuumio 2014.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-24T12:00:00+03:00'
         end_time: '2026-06-24T12:05:00+03:00'
@@ -173,34 +175,11 @@ data:
         end_time: '2026-06-24T19:02:00+03:00'
       - title: Riihimäen kesäkonsertit – Afrikan vaikutteet
         start_time: '2026-06-24T19:02:00+03:00'
-        end_time: '2026-06-24T21:00:00+03:00'
-        description: |+
-          Miten Afrikka on vaikuttanut länsimaiseen taidemusiikkiin? Konsertin ohjelma peilaa kysymystä eri näkökulmista ja tuo esiin varsinkin säveltäjänaisia. Konsertissa soitetaan rakastettu ja huippuvaikea Maurice Ravelin viulusonaatti sekä erityisesti kamarimusiikkia säveltäneen Rebecca Clarken pianotrio. 3. kesäkuuta Suomen Lasimuseossa Riihimäellä tallennetun konsertin toimittaa Riikka Holopainen.
-
-          Konserttiohjelma:
-
-          Maurice Ravel: Viulusonaatti (1927)
-          Kreeta-Julia Heikkilä, viulu ja Tuomas Turriago, piano
-
-          Scott Joplin: Maple Leaf Rag (1899)
-          Claude Debussy: Jimbos Lullaby (1908)
-          Claude Debussy: Golliwogs Cake Walk (1908)
-          Joshua Uzoigwe: Ukom 
-          György Ligeti: Fém (1988-94)
-          Tuomas Turriago, piano
-
-
-          väliaika
-
-          Arvo Pärt: Spiegel im Spiegel (1978)
-          Beata Antikainen, sello ja Tuomas Turriago, piano
-
-          Tuomas Turriago: Pantha Rhei, Capriccio for Piano Trio (2022) 
-          Kreeta-Julia Heikkilä, viulu, Beata Antikainen, sello ja Tuomas Turriago, piano
-
-          Rebecca Clarke: Piano Trio (1921) 
-          Kreeta-Julia Heikkilä, viulu, Beata Antikainen, sello ja Tuomas Turriago, piano
-
+        end_time: '2026-06-24T20:42:00+03:00'
+        description: |-
+          Maurice Ravel: Viulusonaatti (Kreeta-Julia Heikkilä, viulu ja Tuomas Turriago, piano). 
+          Scott Joplin: Maple Leaf Rag. Claude Debussy: Jimbos Lullaby; Golliwogs Cake Walk.
+          Joshua Uzoigwe: Ukom. György Ligeti: Fém. (Tuomas Turriago, piano). Arvo Pärt: Spiegel im Spiegel (Beata Antikainen, sello ja Tuomas Turriago, piano). Tuomas Turriago: Pantha Rhei, Capriccio for Piano Trio (Kreeta-Julia Heikkilä, viulu, Beata Antikainen, sello ja Tuomas Turriago, piano). Rebecca Clarke: Piano Trio (Kreeta-Julia Heikkilä, viulu, Beata Antikainen, sello ja Tuomas Turriago, piano). -Riihimäen lasimuseossa 3.6.2026 tallennetun konsertin toimittaa Riikka Holopainen.
       - title: 'Politiikkaradio '
         start_time: '2026-06-24T21:00:00+03:00'
         end_time: '2026-06-24T21:30:00+03:00'
@@ -216,6 +195,9 @@ data:
       - title: Mannerheimin agentti
         start_time: '2026-06-24T23:20:00+03:00'
         end_time: '2026-06-24T23:40:00+03:00'
+        description: |
+          Jakso 4/10: Mannerheimin salainen yhteys.
+          Tahvanainen palaa Karjalaan taskussaan Svinhufvudin allekirjoittama henkilökortti ja tehtävänään toimia kuriirina salaisessa viestien vaihdossa Neuvostoliittoon. Keväällä 1933 hänen on palattava takaisin Helsinkiin, jossa hän saa uuden tehtävän matkustaa Viroon tapaamaan Mannerheimin ystäviä. 
       - title: Yöklassinen
         start_time: '2026-06-24T23:40:00+03:00'
         end_time: '2026-06-25T06:30:00+03:00'
