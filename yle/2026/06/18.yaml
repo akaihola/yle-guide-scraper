@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-08T03:15:34.160956+00:00'
+  generated_at: '2026-06-09T03:12:52.190905+00:00'
   git:
     branch: main
-    commit: a953526d5303a876e05efd18fc2f780a29168510
-  data_hash: a559b3dcfb90cbef8d0183b56b4f2c98f532edb85044c2011d2dea95c8a7bf3f
+    commit: b6e18b4ce8dbf63aba04aaec72693a6fc1ab83c4
+  data_hash: cb898a0da2c847758008ad7fc9660bf9b396d997fd834e8752c1a044d7200dbc
 data:
   '':
     programmes:
@@ -129,6 +129,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-18T11:57:00+03:00'
         end_time: '2026-06-18T12:00:00+03:00'
+        description: |-
+          Charles Baudelaire: Kurja Belgia! suomentanut Antti Nylén, Sammakko-kustannus, 2003.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T12:00:00+03:00'
         end_time: '2026-06-18T12:05:00+03:00'
@@ -189,7 +191,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-18T17:30:00+03:00'
         end_time: '2026-06-18T17:35:00+03:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Keitaan juhannustanssit'
         start_time: '2026-06-18T17:35:00+03:00'
         end_time: '2026-06-18T18:25:00+03:00'
         description: |-
