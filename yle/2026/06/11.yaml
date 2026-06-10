@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-09T03:12:50.531242+00:00'
+  generated_at: '2026-06-10T03:13:02.660960+00:00'
   git:
     branch: main
-    commit: b6e18b4ce8dbf63aba04aaec72693a6fc1ab83c4
-  data_hash: cb898a0da2c847758008ad7fc9660bf9b396d997fd834e8752c1a044d7200dbc
+    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
+  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
 data:
   '':
     programmes:
@@ -122,11 +122,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-11T10:53:00+03:00'
         end_time: '2026-06-11T11:00:00+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Vuoristonäkymiä ja hiljaista syvyyttä'
         start_time: '2026-06-11T11:00:00+03:00'
         end_time: '2026-06-11T11:57:00+03:00'
-        description: |-
-          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
+        description: |
+          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-11T11:57:00+03:00'
         end_time: '2026-06-11T12:00:00+03:00'
@@ -173,6 +173,29 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-06-11T16:07:00+03:00'
         end_time: '2026-06-11T16:59:00+03:00'
+        description: |+
+          Vivaldi: Huilukonsertto F-duuri "Myrsky merellä" (Marion Verbruggen, alttonokkahuilu, ja Philharmonia-barokkiork./Nicholas McGegan).
+
+          Alfvén: Auringon kiloa pianosarj. Saaristokuvia (Armen Shaomian).
+
+          Tansman (sov. Segovia): Barcarolle (John Williams, kitara).
+
+          Rossini: Anzoleta dopo la regata sarj. La regata veneziana (Cecilia Bartoli, mezzosopraano, ja Charles Spencer, piano). 
+
+          Debussy: Veneessä (Emmanuel Pahud, huilu, ja Mariko Anraku, harppu).
+
+          Rimski-Korsakov: Tsaaritar ajelehtii tynnyrissä merellä (Philharmonia-ork./Paul Kletzki).
+
+          de Escobar: Pasame per Dios, barquero (Lautturi, Luojan tähden, viekää minut joen tuolle puolen). (Siobhan Stagg, sopraano, ja La Compania/Danny Lucin).
+
+          Forsström: Majakkasaari (Markus Rahko, baritonitorvi, ja Helsingin poliisisoittokunta/Sami Ruusuvuori).
+
+          Madetoja: Merituuli (Helena Juntunen, sopraano, ja Gustav Djupsjöbacka, piano).
+
+          Carreño: Un sueño en el mar (Unelma merellä) (Clara Rodriguez, piano).
+
+          Mäntyjärvi: Väinämöinen uneksii lentävästä veneestään (Kampin Laulu/Kari Turunen). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-11T17:00:00+03:00'
         end_time: '2026-06-11T17:05:00+03:00'
@@ -188,7 +211,15 @@ data:
         start_time: '2026-06-11T17:35:00+03:00'
         end_time: '2026-06-11T18:25:00+03:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Millaisia loitsuja tämä maailma tarvitsee? Lempeitä vai voimakkaita?
+
+          Tuuli Saksalan vieraana on muusikko Vilma Jää, joka viime aikoina on tehnyt töitä muun muassa Metropolitan Oopperassa ja Venetsian biennaalissa. Kansainvälisen kiireen keskellä hän istahtaa hetkeksi Keitaalle kertomaan uudesta Loitsui ja taikoi -albumistaan.
+
+          Jää on kaivanut esiin suomalaisia loitsuja ja muokannut niistä voimakasta nykymusiikkia. Uudella albumilla kuullaan ilmastokriisiloitsuja, mielenterveysloitsuja ja liekkilettiset lemmennostajat.
+
+          Vilma Jää kertoo, miten hän löysi tiensä kansanperinteen pariin, miksi karjankutsut ja karjalainen laulutyyli tuntuvat hänen ääneltään, ja miten ADHD on muovannut hänen luovuuttaan.
+
+          Loitsut eivät vaadi selityksiä - ne vain ovat. Ne tarjoavat rauhaa kaaoksessa ja tavan kommunikoida, kun sanat eivät riitä.
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-06-11T18:25:00+03:00'
         end_time: '2026-06-11T18:35:00+03:00'
@@ -242,15 +273,15 @@ data:
         description: |
           Vain harva tietää, mitä Minnesota-hoito todella on. Tämä dokumentti on harvinainen tilaisuus päästä seuraamaan kuntoutusjaksoa muilta suljettuun yhteisöön. Mitä siellä tapahtuu – niin hoidossa kuin toipujien mielissä? Mukana on iso joukko kuntoutujia, joita on suistanut sivuraiteille esimerkiksi alkoholi, huumeet tai rahapelit. Toteutus: Päivi Leino, Joonatan Kotila, Lasse Nousiainen, Sami Hahtala.
       - title: 'Viihdekuunnelma: Emma'
-        start_time: '2026-06-11T22:31:00+03:00'
-        end_time: '2026-06-11T22:49:34+03:00'
+        start_time: '2026-06-11T22:29:34+03:00'
+        end_time: '2026-06-11T22:48:08+03:00'
         description: |
           Osa 1/8. Amorin asialla
           Highburyn kylässä asuvan nuoren Emma Woodhousen mieluisin ajanviete on järjestellä muiden ihmissuhdeasioita, mutta osaako hän todella toimia amorin apulaisena? Emma päättää vakuuttaa epäilijänsä, etenkin naapurissa asuvan herra Knightleyn, ja järjestää kodissaan Hartfieldissa juhlat. Juhliin kutsutaan Emman suunnitelmiin sopivat kohteet: nuori kirkkoherra Elton ja läheisen tyttökoulun sievä Harriet Smith.  
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-06-11T23:01:00+03:00'
-        end_time: '2026-06-11T23:57:00+03:00'
-        description: |-
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Vuoristonäkymiä ja hiljaista syvyyttä'
+        start_time: '2026-06-11T23:02:54+03:00'
+        end_time: '2026-06-11T23:59:06+03:00'
+        description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Yöklassinen
         start_time: '2026-06-12T00:00:00+03:00'
