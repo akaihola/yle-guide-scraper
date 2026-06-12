@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:07.088516+00:00'
+  generated_at: '2026-06-12T03:14:19.973998+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -125,9 +125,40 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-03T19:00:00+03:00'
         end_time: '2026-07-03T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: Jousikvartettokutsut – Viitasaaren Musiikin aika
         start_time: '2026-07-03T19:02:00+03:00'
         end_time: '2026-07-03T21:00:00+03:00'
+        description: |
+          Saksalainen Fabrik Quartet kantaesittää yhdessä kitaristi Petri Kumelan kanssa suomalaisen Sebastian Hillin Herbarium-teoksen. Kumelan tilaama ja Kumelalle omistettu sävellys on saanut inspiraationsa yhdysvaltalaisen runoilija Emily Dickinsonin herbaariosta, johon säilötyt kasvit on prässätty, kuivattu ja säilötty, pysäytetty ajan kulusta hiljaisiksi muistoiksi. Musiikissa nämä ”säilötyt hetket” heräävät uudelleen eloon: hauraina, fragmentaarisina ja ajoittain intensiivisesti purkautuvina. Teoksen jokainen osa pohjautuu yhteen kasviin ja sen symboliikkaan. 
+
+          Konsertin muissa teoksissa päädytään vaihtelevien soittotyylien osittaisiin totuuksiin, levottomaan värimyrskyyn sekä ihmeelliseen kaninkoloon, joka johtaa unenomaisille jousikvartettokutsuille.
+
+          Suoran lähetyksen Viitasaaren kirkosta toimittaa Ainomaija Pennanen.
+
+          Fabrik Quartet:
+          Federico Ceppetelli, viulu
+          Muzi Lyu, viulu
+          Jacobo Díaz Robledillo, alttoviulu
+          Elena Cappelletti, sello
+
+          Petri Kumela, kitara
+
+          Konserttiohjelma:
+
+          Georgia Koumará: Down the Rabbit hole
+
+          Alex Paxton: Flowers
+
+          -väliaika-
+
+          Sebastian Hilli: Herbarium (2026, kantaesitys)
+          I Jasmine
+          II Violet
+          III Ghost Pipe
+          IV Poison Ivy
+          V  Sarracenia
+
+          George Lewis: String Quartet 4.5 ”Partial Truth”
       - title: Vaihtuva sarja  (1.läh ke klo 12)
         start_time: '2026-07-03T21:31:00+03:00'
         end_time: '2026-07-03T22:25:00+03:00'

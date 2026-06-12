@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:06.728486+00:00'
+  generated_at: '2026-06-12T03:14:19.620608+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -174,9 +174,24 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-01T19:00:00+03:00'
         end_time: '2026-07-01T19:02:00+03:00'
-      - title: Klassisen musiikin iltakonsertti
+      - title: Bach, Bach ja Bach – Baijerin radiokuoro ja Akademie für Alte Musik esiintyvät
         start_time: '2026-07-01T19:02:00+03:00'
         end_time: '2026-07-01T21:00:00+03:00'
+        description: |-
+          Sukupolvesta toiseen Bachit muovasivat Keski-Saksan musiikkimaisemaa urkureina, kanttoreina, kaupunginmuusikoina ja hovitrumpetisteina.Tuomaskirkon kanttori Johann Sebastian sävelsi musiikkia ikuisuudelle, hänen poikansa lähtivät maailmalle ja löysivät paikkansa kaupungeissa kuten Hampuri, Lontoo ja Berliini. Baijerin radiokuoro esittää taiteellisen johtajansa Peter Dijkstran ja Akademie für Alte Musik -orkesterin kanssa kolmen Bach-sukupolven mestariteoksia.
+
+          Esiintyjät: 
+
+          Baijerin radiokuoro
+          Akademie für Alte Musik, Berlin
+          Peter Dijkstra, kapellimestari
+
+          Diana Fischer, sopraano
+          Veronika Sammer, mezzo-sopraano	 
+          Nikolaus Pfannkuch, tenori
+          Andreas Burkhart, baritoni
+
+          Kuvassa: Baijerin radiokuoro © Astrid Ackermann
       - title: Havaintoja muutoksesta
         start_time: '2026-07-01T21:31:00+03:00'
         end_time: '2026-07-01T22:20:00+03:00'
@@ -189,6 +204,9 @@ data:
       - title: Mannerheimin agentti
         start_time: '2026-07-01T23:20:00+03:00'
         end_time: '2026-07-01T23:40:00+03:00'
+        description: |
+          Jakso 5/10: Dimoisin tarina.
+          Vuonna 1973 Tahvanainen julkaisi toisen romaaninsa, jonka päähenkilöön hän oli viitannut Erikoistehtävä-kirjansa sivulauseessa. Kyseessä oli Dimitri Dimitrejeff. joka oli kirjan mukaan ollut Leninin uskottu. Koskinen selvittää asiantuntijoiden kanssa Dimoisina tunnetun miehen tarinaa Venäjän vallankumouksen pyörteissä. Mitä Lenin sanoi Suomesta kuolinvuoteellaan?
       - title: Yöklassinen
         start_time: '2026-07-01T23:40:00+03:00'
         end_time: '2026-07-02T06:30:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:08.010109+00:00'
+  generated_at: '2026-06-12T03:14:20.841650+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -100,7 +100,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-07-08T16:07:00+03:00'
         end_time: '2026-07-08T16:59:00+03:00'
-        description: |+
+        description: |-
           Auer: Tyhjät kädet (Iris Candelaria, sopraano, ja Tuula Hällström, piano).
 
           Arriaga: Menuetti - Trio jousikvartetosta n:o 2 A-duuri (Guarneri-kvartetti).
@@ -109,7 +109,7 @@ data:
 
           Mayer: Scherzo sinf. n:o 3 C-duuri (Sotilassinfonia) (Bremerhavenin FO/Marc Niemann).
 
-          Trad., sov. Pianca: Greensleeves (Luca Pianca, arkkiluuttu).
+          Kansansäv.: Muunnelmia säv. Greensleeves (Luca Pianca, arkkiluuttu).
 
           Tschetschulin: Valse gracieuse (Maria Suokas, piano).
 
@@ -117,14 +117,15 @@ data:
 
           F. Caccini: Maria, dolce Maria (Suzie LeBlanc, sopraano, ja Tragicomedia).
 
-          Piazzolla: Enkelin ylösnousemus (Total Cello Ensemble).
+          Piazzolla: Resurreccion del Angel (Enkelin ylösnousemus) teoks. Concierto del Angel (Enkelikonsertto) (Total Cello Ensemble).
 
           Saariaho: Monkey fingers, velvet hand (Tuija Hakkila, piano).
 
           Viardot: Les étoiles (Tähdet) (Laetitia Grimaldi, sopraano, Ammiel Bushakevitz, piano, ja Talia Erdal, sello).
 
-          Trad. (sov. A-M. Kähärä, P. Kuusisto ja J. Saari): Olet maamme armahin Suomenmaa (Anna-Mari Kähärä, harmonikka, Pekka Kuusisto, viulu, ja The Luomu Players)
+          Kansansäv.: Olet maamme armahin Suomenmaa (Anna-Mari Kähärä, harmonikka, Pekka Kuusisto, viulu, ja The Luomu Players)
 
+          Konsertin on laatinut Noora Hirn.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-08T17:00:00+03:00'
         end_time: '2026-07-08T17:05:00+03:00'
@@ -152,9 +153,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-08T19:00:00+03:00'
         end_time: '2026-07-08T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: Sysmän Suvisoitto – Laura Hynninen
         start_time: '2026-07-08T19:02:00+03:00'
         end_time: '2026-07-08T21:00:00+03:00'
+        description: |-
+          Harpisti-säveltäjä Laura Hynnisen kaunis, salaperäinen ja leikkisä musiikki täyttää Sysmän Teatteritalon elämyksellisessä konsertissa, johon äänisuunnittelija Viljami Mehto toteuttaa yleisöä ympäröivän surround-äänentoiston. Musiikin keskiössä on harppu, jonka sointimaailmaa Hynninen laajentaa live-elektroniikalla ja monipuolisella äänenkäytöllään. 2.7. Sysmän Teatteritalossa tallennetun konsertin toimittaa Riikka Holopainen.
       - title: Havaintoja muutoksesta
         start_time: '2026-07-08T21:31:00+03:00'
         end_time: '2026-07-08T22:20:00+03:00'
@@ -167,6 +170,11 @@ data:
       - title: Mannerheimin agentti
         start_time: '2026-07-08T23:20:00+03:00'
         end_time: '2026-07-08T23:40:00+03:00'
+        description: |
+          Jakso 6/10: Tahvanainen koulutetaan radistiksi.
+          Tahvanaisen kirjan mukaan hänet koulutettiin radistiksi Saksassa, jotta yhteydenpito Neuvostoliiton johtoon olisi helpompaa. Olisiko yhteydenpito radioteitse ollut teknisesti mahdollista Helsingistä Moskovaan 1930-luvulla?
+
+          Koskinen keskustelee radiotekniikan asiantuntijoiden kanssa sen aikaisen radiotekniikan mahdollisuuksista. 
       - title: Yöklassinen
         start_time: '2026-07-08T23:40:00+03:00'
         end_time: '2026-07-09T06:30:00+03:00'

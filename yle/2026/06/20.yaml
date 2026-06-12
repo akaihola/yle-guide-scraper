@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:04.274027+00:00'
+  generated_at: '2026-06-12T03:14:17.409658+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -56,14 +56,14 @@ data:
           07:27 Palmgren: Juhannus (RKK/Matti Apajalahti).
 
       - title: 'Kirjani tarina: Laura Andersson kertoo romaanistaan Tähtipölyyn kirjoitettu'
-        start_time: '2026-06-20T07:31:00+03:00'
-        end_time: '2026-06-20T07:55:00+03:00'
+        start_time: '2026-06-20T07:30:41+03:00'
+        end_time: '2026-06-20T07:53:06+03:00'
         description: |-
           Tähtipölyyn kirjoitettu -romaanin tarina sijoittuu 1930-luvun Suomeen, jossa elokuvatähdeksi kohonnut Doris Laine kuvaa päivisin elokuvaa. Doris taiteilee kahden eri roolin välillä: kuinka olla päivisin näyttelijä ja elokuvatähti - öisin kabinettien yksityistanssija.
 
           Laura Andersson toimittaja Jukka Kuosmasen vieraana.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-06-20T07:55:00+03:00'
+        start_time: '2026-06-20T07:53:06+03:00'
         end_time: '2026-06-20T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-06-20T08:00:00+03:00'
@@ -121,11 +121,16 @@ data:
           Arlen: Somewhere over the rainbow (Eva Cassidy).
 
           Konserin on toimittanut Pasi Hiihtola.
+      - title: 'Taiteilijatapaaminen: Honey B & the T-Bones on 75%:sti perheyhtye'
+        start_time: '2026-06-20T10:00:00+03:00'
+        end_time: '2026-06-20T10:58:00+03:00'
+        description: |-
+          Aija Puurtinen sekä Kuloniemet Esa (isä) ja Mooses (poika) muodostavat 3/4 pitkäikäisestä Honey B & the T-Bones yhtyeestä. Millainen perhedynamiikka näiden kolmen huippumuusikon välillä on ja miten se heijastuu musisointiin?
       - title: 'Virtasen taloushistoria: Operaatio Esteri 1967'
         start_time: '2026-06-20T11:00:00+03:00'
         end_time: '2026-06-20T11:55:00+03:00'
         description: |
-          Operaatio Esteri 1967 - miksi, miten ja mitä siitä eli vuoden 1967 devalvaatiosta seurasi? Vieraana tohtori Antti Suvanto
+          Operaatio Esteri 1967 - miksi, miten ja mitä siitä eli vuoden 1967 devalvaatiosta seurasi? Kuinka devalvaatiot toisen maailmansodan jälkeen piristivät Suomen taloutta? Miten valuutan kellutus eroaa devalvaatiosta? Vieraana tohtori Antti Suvanto. Toimittaja on Juha Virtanen.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-20T11:57:00+03:00'
         end_time: '2026-06-20T12:00:00+03:00'
@@ -134,9 +139,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-20T12:00:00+03:00'
         end_time: '2026-06-20T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Nummisuutarit on komediaa syvimmässä merkityksessään'
         start_time: '2026-06-20T12:05:00+03:00'
         end_time: '2026-06-20T13:00:00+03:00'
+        description: |-
+          Aleksis Kiven Nummisuutarit on Suomen esitetyimpiä puhenäytelmä, joka tänäkin kesänä pyörii kesäteatterilavoilla. Se kantaa yli 160 vuoden takaa katsojien eteen kysymykset ihmisyydestä, yhteisöstä ja yksilön paikasta maailmassa. Vaikka näytelmä nimensämukaisesti kuvaa yhteisön elämää, sen keskushenkilönä voi nähdä harjastukkaisen, usein lapsekkaana hölmönä pidetyn Eskon. Millaisia kerroksia hahmossa on nähtävissä tämän päivän valossa? Millaista Kiven kieli on näyttämöllä, näyttelijöiden suussa? Millainen ihmiskuva näytelmästä paistaa? 
+          Nummisuutareiden kerroksia purkavat Marja Vehkasen johdattelemana ohjaaja Samuli Reunanen ja teatterintutkija Topi Vainikainen.
       - title: 'Näistä levyistä en luovu: Antti Paalanen'
         start_time: '2026-06-20T13:00:00+03:00'
         end_time: '2026-06-20T13:55:00+03:00'
@@ -145,7 +153,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T13:55:00+03:00'
         end_time: '2026-06-20T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: Sattumalta keksityt
         start_time: '2026-06-20T14:00:00+03:00'
         end_time: '2026-06-20T14:55:00+03:00'
         description: |-
@@ -164,9 +172,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T15:20:00+03:00'
         end_time: '2026-06-20T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Kristillisestä nimestä huolimatta juhannuksen vietossa näkyvät vahvasti sen pakanalliset juuret'
         start_time: '2026-06-20T15:30:00+03:00'
         end_time: '2026-06-20T15:55:00+03:00'
+        description: |
+          Pasi Heikura selvittää fennougristiikan väitöskirjatutkija Aleksi Palokankaan kanssa, miksi keskikesän juhlaa kutsutaan Suomessa juhannukseksi. Ohjelmassa hemaistaan myös aisteja, saunotaan oululaiseen tapaan ja lopuksi pudotaan ajan kelkasta. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T15:55:00+03:00'
         end_time: '2026-06-20T16:00:00+03:00'
@@ -205,13 +215,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-20T17:00:00+03:00'
         end_time: '2026-06-20T17:05:00+03:00'
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Käännekohdissa Kai Lehtisalmi'
         start_time: '2026-06-20T17:05:00+03:00'
         end_time: '2026-06-20T17:58:00+03:00'
+        description: |
+          Päiväkodin johtaja Kai Lehtisalmi on tehnyt lähes 40-vuotisen uran päiväkotialalla ja nähnyt valtaisan muutoksen, joka ei lupaa hyvää. "Alanvaihto on ollut monta kertaa mielessä, mutta kolmenkymmenen prosentin toiveikkuus on pitänyt kiinni tässä työssä", Lehtisalmi toteaa Marko Gustafssonin haastattelussa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T17:53:00+03:00'
         end_time: '2026-06-20T18:00:00+03:00'
-      - title: Ehtookellot
+      - title: 'Ehtookellot: Alajärven kirkon kellot'
         start_time: '2026-06-20T18:00:00+03:00'
         end_time: '2026-06-20T18:01:00+03:00'
       - title: Iltahartaus
@@ -249,20 +261,26 @@ data:
           Beethoven: Sinfonia n:o 6 F-duuri (Pastoraali) (RSO/Sakari Oramo).
 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-20T21:56:00+03:00'
-        end_time: '2026-06-20T22:19:00+03:00'
+        start_time: '2026-06-20T21:58:48+03:00'
+        end_time: '2026-06-20T22:21:48+03:00'
         description: |-
           Jakso 4: “Isä mikä on vapaus?”
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-20T22:20:00+03:00'
-        end_time: '2026-06-20T22:36:00+03:00'
+        start_time: '2026-06-20T22:21:48+03:00'
+        end_time: '2026-06-20T22:37:30+03:00'
         description: |-
           Jakso 5: “Miehet ovat miehiä”
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: Radio 1 soi
+        start_time: '2026-06-20T22:37:30+03:00'
+        end_time: '2026-06-20T22:39:46+03:00'
+        description: |+
+          Suom. kansanlaulu (sov. Sivori): Kesäilta (Ol' kaunis kesäilta -) (Candomino-kuoro/Tauno Satomaa, Tuuli Lindeberg, sopraano).
+
       - title: 'Keinuva talo - Mika Kauhanen: Kesäfiilis maalla'
-        start_time: '2026-06-20T22:40:00+03:00'
-        end_time: '2026-06-20T23:39:30+03:00'
+        start_time: '2026-06-20T22:39:46+03:00'
+        end_time: '2026-06-20T23:39:00+03:00'
         description: |-
           Kotimaiseen musiikkiin kannattaa luottaa, kun haetaan kesäfiilistä maalla. Katsomme hiljaista kylätietä ja ruuhkaa kesätorin parkkipaikalla, käymme saunassa vihtomassa, ihailemme poutapilviä ja kesäiltaa laiturin päässä, ja perhoset tanssivat kun farkut vaihtuvat verkkarihousuun. Tähän kesään ehdimme mukaan! Toimittajana Mika Kauhanen.
       - title: Juhannuspäivän Yöklassinen

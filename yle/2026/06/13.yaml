@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:03.023152+00:00'
+  generated_at: '2026-06-12T03:14:15.896964+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -39,7 +39,12 @@ data:
         start_time: '2026-06-13T07:31:00+03:00'
         end_time: '2026-06-13T07:55:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Maalta tulleet alaikäiset Milda ja Lelu päätyvät palvelijoiksi varakkaille perheille. Palkka on kehno ja kadulle heittäminen hienoistakin herraslukaaleista on vain rouvan mielijohteesta kiinni. Vuosien mittaan, tsaarinajan Suomen itsenäistyessä ja sisällissodan kääntyessä punaisten tappioksi, sisarukset näkevät varakkaiden porvariskotien loiston, mutta myös työläiskortteleiden kurjuuden.
+
+          Harakanmuna-romaani kertoo naisen heikosta asemasta ja paremman elämän tavoittelusta yhteiskunnallisen muutoksen keskellä.  
+
+
+          Toimittaja Jukka Kuosmasen vieraana kirjailija Niina Niskanen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T07:55:00+03:00'
         end_time: '2026-06-13T08:00:00+03:00'
@@ -108,7 +113,7 @@ data:
           Maassa on rauha ja lehmät ovat turvassa, mutta lehmiä ajaneet tytöt saavat kiitoksensa hitaasti. Henkiinjääneillä ei ole varaa valittaa kohtaloaan. Lehmitytöt sopeutuvat elämään uusilla kotiseuduilla ja löytävät vähitellen paikkansa maailmassa.  Elämä olisi muodostunut hyvin erilaiseksi ilman sotaa. Tapahtumista on yli 80 vuotta, mutta Lahja, Annikki, Eila ja Maija  eivät unohda kesää 1944. 
       - title: Virtasen taloushistoria Pitkäkorvasta tekstareihin - puhelimien historia
         start_time: '2026-06-13T11:00:00+03:00'
-        end_time: '2026-06-13T11:52:00+03:00'
+        end_time: '2026-06-13T11:55:00+03:00'
         description: |+
           Pitkäkorva eli puhelin aiheutti meillä IT-huuman 150 vuotta sitten. Haastateltavana on Ulla Artte.
 
@@ -147,13 +152,18 @@ data:
           Viikon luontoäänen esittelee Juha Laaksonen.
       - title: 'Viihdekuunnelma: Emma'
         start_time: '2026-06-13T15:00:00+03:00'
-        end_time: '2026-06-13T15:25:00+03:00'
+        end_time: '2026-06-13T15:18:00+03:00'
         description: |
           Osa 2/8 Lehtolapsi  
           Emma on varma, että hänen suunnitelmansa kirkkoherra Eltonin ja Harriet Smithin liitosta etenee. Harriet Smith saa kuitenkin kosintakirjeen aivan toiselta mieheltä. Neiti Bates on myös saanut kirjeen sisarentyttäreltään Jane Fairfaxilta, joka saapuu Emman mielestä epäilyttävän yllättäen Highburyyn. Herra Knightley alkaa epäillä onko Emma todellinen ystävä Harrietille. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-06-13T15:25:00+03:00'
+        start_time: '2026-06-13T15:18:00+03:00'
         end_time: '2026-06-13T15:30:00+03:00'
+      - title: Aristoteleen kantapää - haastateltavana Arvi Lind
+        start_time: '2026-06-13T15:30:00+03:00'
+        end_time: '2026-06-13T15:55:00+03:00'
+        description: |
+          Aristoteleen kantapää kurkottaa vuoden 2012 loppuun, jolloin vieraana oli entinen uutisankkuri Arvi Lind. Lind kuoli kesäkuun 2026 alussa 85-vuotiaana. Vuoden 2012 joulukuussa hän oli toimittaja Pasi Heikuran vieraana pureutumassa suomen kielen sanoihin ja sanontoihin.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-13T15:55:00+03:00'
         end_time: '2026-06-13T16:00:00+03:00'
@@ -194,13 +204,10 @@ data:
         end_time: '2026-06-13T17:05:00+03:00'
       - title: 'Marko Gustafsson: Käännekohdissa Jukka Eskola'
         start_time: '2026-06-13T17:05:00+03:00'
-        end_time: '2026-06-13T17:58:00+03:00'
+        end_time: '2026-06-13T18:00:00+03:00'
         description: |
           Huipputrumpetisti Jukka Eskola tekee jopa 200 keikkaa vuodessa ja harjoittelee silti joka päivä. "Rakastan soittamista, mutta joskus toivon, että tulisi aika, jolloin ei tarvitsisi enää pitää niin kurinalaisesti kiinni soittokunnosta", Eskola pohtii. 
           "Trumpetti on vaan niin armoton soitin, että jos haluaa soittaa hyvin, on treenattava joka päivä.",  Jukka toteaa.  
-      - title: Yksi on hyvää seuraa
-        start_time: '2026-06-13T17:53:00+03:00'
-        end_time: '2026-06-13T18:00:00+03:00'
       - title: 'Ehtookellot: Uskelan kirkon kellot'
         start_time: '2026-06-13T18:00:00+03:00'
         end_time: '2026-06-13T18:01:00+03:00'
@@ -224,26 +231,37 @@ data:
         end_time: '2026-06-13T21:00:00+03:00'
         description: |-
           Ohjelman juontavat musiikkitoimittajat Ainomaija Pennanen ja Ahti Paunu. Ohjelman suunnittelusta vastaa Noora Hirn. Toivekonsertin puhelinlinjat aukeavat lähetyspäivän iltana klo 18. Soita numeroon 09-144 800 tai lähetä Whatsapp-viesti numeroon 044-5144 800.
-      - title: Uutispodcast
-        start_time: '2026-06-13T21:01:00+03:00'
-        end_time: '2026-06-13T21:25:00+03:00'
+      - title: 'Uutispodcast: Jalkapallon MM-kisoja varjostaa arvaamaton Trump ja ICE'
+        start_time: '2026-06-13T21:00:30+03:00'
+        end_time: '2026-06-13T21:24:42+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Torstaina alkavien jalkapallon miesten mm-kisojen piti olla hyvän mielen turnaus. Ne kun pelataan demokratioissa toisin kuin edelliset Qatarin ja Venäjän turnaukset. Nyt kuitenkin Yhdysvaltojen presidentti Donald Trumpin hallinnon arvaamattomuus varjostaa kisatunnelmaa. Ennakkoasetelmia perkaa Yle Urheilun toimittaja Jelena Leppänen. Haastattelijana  Leonard Wilhelmus.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-06-13T21:24:42+03:00'
+        end_time: '2026-06-13T21:51:19+03:00'
+        description: |-
+          Juhani Bonsdorff on kääntänyt Isen tarinat klassisesta japanista. Hän on Jarmo Laitanevan haastattelussa. Ensilähetys oli 25.5.2026.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-13T21:51:00+03:00'
-        end_time: '2026-06-13T22:15:00+03:00'
+        start_time: '2026-06-13T21:51:19+03:00'
+        end_time: '2026-06-13T22:11:45+03:00'
         description: |-
           Jakso 2: “Vihille mentiin ja häitä pidettiin”
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-13T22:15:00+03:00'
-        end_time: '2026-06-13T22:30:00+03:00'
+        start_time: '2026-06-13T22:11:45+03:00'
+        end_time: '2026-06-13T22:29:49+03:00'
         description: |-
           Jakso 3: “Mari saa lapsia”
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: Radio 1 soi
+        start_time: '2026-06-13T22:29:49+03:00'
+        end_time: '2026-06-13T22:40:07+03:00'
+        description: |+
+          Tshaikovski: Sérénade mélancolique (Yehudi Menuhin, viulu, ja Lontoon kuninkaallinen FO/Adrian Boult).
+
       - title: 'Keinuva talo - Mika Kauhanen: Kesäfiilis rannalla'
-        start_time: '2026-06-13T22:40:00+03:00'
-        end_time: '2026-06-13T23:39:30+03:00'
+        start_time: '2026-06-13T22:40:07+03:00'
+        end_time: '2026-06-13T23:39:08+03:00'
         description: |-
           Miltä kesä tuntuu ja kuulostaa rannoilla? Haemme tuntumaa ensin Välimeren kohteista ja lopulta Karibialta asti. Tulee myös kysyttyä, mitä yksityisyys rannalla tarkoittaa, mitkä ovat rannan ihanteelliset mitat, pitääkö rannan välttämättä olla hiekkaranta, ja millaisia unelmia ranta voi herättää? Vamos a la playa! Toimittajana Mika Kauhanen.
       - title: Yöklassinen

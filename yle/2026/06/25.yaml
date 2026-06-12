@@ -1,23 +1,60 @@
 metadata:
-  generated_at: '2026-06-10T03:13:05.477351+00:00'
+  generated_at: '2026-06-12T03:14:18.441193+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-24T23:40:00+03:00'
         end_time: '2026-06-25T06:30:00+03:00'
+        description: |+
+          De Fesch: Konsertto kahdelle viululle, jousille ja continuolle B-duuri (Manfredo Kraemer ja Laura Johnson sekä Musica ad Rhenum -kamariyhtye).
+
+          23:50 Chopin: Poloneesi n:o 6 As-duuri (Sankari) (Artur Rubinstein, piano).
+
+          23:57 Sibelius: Svarta rosor (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
+          00:03 Dubois: Fantasia harpulle ja orkesterille (Emmanuel Ceysson ja Orchestre regional Avignon Provence/Samuel Jean).
+
+          00:16 Mahler: Sinfonia n:o 3 d-molli (Jessye Norman, sopraano, Tanglewoodin musiikkijuhlien kuoro, amerikkalainen poikakuoro, ja Bostonin SO/Seiji Ozawa).
+
+          01:54 Górecki: Jousikvartetto n:o 1 (Yö laskeutuu) (Tippett-kvartetti).
+
+          02:10 Borodin: Polovtsilaistansseja kuorolle ja orkesterille oopp. Ruhtinas Igor (Beecham Choral Society ja Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          02:23 Arkkiherttua Rudolf: Muunnelmia viululle ja pianolle F-duuri (Josef Suk ja Susan Kagan). 
+
+          02:42 Rahmaninov: Sinfonisia tansseja (RSO/Jukka-Pekka Saraste).
+
+          03:18 Verdi: Jousikvartetto e-molli (Juilliard-kvartetti).
+
+          03:41 Tshaikovski: Pianokonsertto n:o 1 b-molli (Lang Lang ja Chicagon SO/Daniel Barenboim).
+
+          04:21 Stravinsky: Agon, 3-osainen baletti (Amsterdamin Concertgebouw-ork./Riccardo Chailly).
+
+          04:47 Mendelssohn: Sinfonia n:o 1 c-molli. (Gewandhaus-ork./Kurt Masur).
+
+          05:17 W.A. Mozart: Trio pianolle, klarinetille ja alttoviululle Es-duuri (Kegelstatt).
+          (Mieczyslaw Horszowski, Reginald Kell ja Lillian Fuchs).
+
+          05:38 J.S. Bach: Kantaatti n:o 51 (Jauchzet Gott in allen Landen). (Elisabeth Schwarzkopf, sopraano, Harold Jackson, trumpetti, ja Philharmonia-ork./Peter Gellhorn).
+
+          05:56 Saint-Lubin: Potpuri Auberin oopperan La fiancée teemoista (Anastasija Hitruk, viulu, ja Jelizaveta Kopelman, piano).
+
+          06:10 Marais: Folies d'Espagne (Mika Suihkonen, viola da gamba, ja Ballo della Battalia).
+
       - title: Hartaita säveliä
         start_time: '2026-06-25T06:30:50+03:00'
         end_time: '2026-06-25T06:50:00+03:00'
       - title: Aamuhartaus
         start_time: '2026-06-25T06:50:00+03:00'
         end_time: '2026-06-25T06:59:59+03:00'
-        description: |-
-          Pastori Liisa Ruusukallio, Tampere
+        description: |
+          "Ottakaa mallia kaikkein pienimmistä"
+          Pastori Liisa Ruusukallio Tampereelta puhuu eri tavoin lapsista huolehtimisesta Jeesuksen kutsuun vastaamisena.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-25T07:00:00+03:00'
         end_time: '2026-06-25T07:05:00+03:00'
@@ -54,6 +91,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-25T08:07:00+03:00'
         end_time: '2026-06-25T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-06-25T09:00:00+03:00'
         end_time: '2026-06-25T09:03:00+03:00'
@@ -80,13 +119,13 @@ data:
 
           Konsertin on toimittanut Susanna Vainiola.
 
-      - title: Marko Gustafsson
+      - title: Marko Gustafsson:Käännekohdissa Atso Almila
         start_time: '2026-06-25T10:00:00+03:00'
         end_time: '2026-06-25T10:53:00+03:00'
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-25T10:53:00+03:00'
         end_time: '2026-06-25T11:00:00+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Soittimen roso ja tilan elämä'
         start_time: '2026-06-25T11:00:00+03:00'
         end_time: '2026-06-25T11:57:00+03:00'
         description: |-
@@ -99,9 +138,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-25T12:00:00+03:00'
         end_time: '2026-06-25T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Jobista self help -kirjallisuuteen - kärsimyksen tarinat'
         start_time: '2026-06-25T12:05:00+03:00'
         end_time: '2026-06-25T13:00:00+03:00'
+        description: |-
+          Vanhan testamentin Jobin kirja on kärsimystarinoiden klassikko, johon kaunokirjallisuus kautta aikojen on ottanut suhdetta varioiden, toisintaen ja myös kritisoiden. Sen vaikutuksen voi nähdä myös median, self help -kirjallisuuden tai populaarin psykologian narratiiveissa. Mitä hyvää ja haastavaa on tämän päivän trauma- ja tunnustuskulttuurissa? Entä nykykirjallisuuden autofiktiivisessa, kärsimykseen keskittyvässä kerronnassa?
+
+          Marja Vehkasen kanssa kärsimyksen äärelle pysähtyy yleisen kirjallisuustieteen professori Sari Kivistö.
       - title: Politiikkaradio
         start_time: '2026-06-25T13:00:00+03:00'
         end_time: '2026-06-25T13:30:00+03:00'
@@ -179,6 +222,8 @@ data:
       - title: 'Jazzklubin viikon keikka: Sami Leponiemi Quartet Jazzklubin studiosessioissa'
         start_time: '2026-06-25T19:02:00+03:00'
         end_time: '2026-06-25T20:00:00+03:00'
+        description: |-
+          Haastatteluvieraana Sami Leponiemi. Toimittaja Markus Partanen.
       - title: Klassinen kattaus
         start_time: '2026-06-25T20:00:00+03:00'
         end_time: '2026-06-25T20:57:00+03:00'

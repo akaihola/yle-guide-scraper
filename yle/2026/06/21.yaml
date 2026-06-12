@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:04.602097+00:00'
+  generated_at: '2026-06-12T03:14:17.722820+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -103,11 +103,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-21T12:00:00+03:00'
         end_time: '2026-06-21T12:05:00+03:00'
-      - title: 'Elävä historia: Häiden hurjempi historia'
+      - title: 'Elävä historia: Naimakauppaa, puukkoja ja kannutolkulla viinaa - suomalaisen hääperinteen hurjempi historia'
         start_time: '2026-06-21T12:05:00+03:00'
-        end_time: '2026-06-21T12:55:00+03:00'
+        end_time: '2026-06-21T12:48:00+03:00'
         description: |-
-          Toimittajana Inkeri Alatalo.
+          Miksi avioliitto oli naimakauppa, miksi morsian teki appivanhemmilleen kuolinpaidat ja miksi häävuoteen alle piilotettiin kirves? 
+
+          Haastateltavina folkloristi Roope Kotiniemi Suomalaisen Kirjallisuuden Seurasta sekä kriminologian ja yleisen oikeustieteen tohtori, yliopistonlehtori Miikka Vuorela Itä-Suomen Yliopistosta. Toimittajana Inkeri Alatalo. 
       - title: 'Välilevyjä retkellä: Hiljaa virtaa Vantaa'
         start_time: '2026-06-21T13:00:00+03:00'
         end_time: '2026-06-21T13:57:00+03:00'
@@ -118,18 +120,18 @@ data:
         end_time: '2026-06-21T15:00:00+03:00'
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-06-21T15:00:00+03:00'
-        end_time: '2026-06-21T15:15:00+03:00'
+        end_time: '2026-06-21T15:16:00+03:00'
         description: |-
           Jakso 6: Mari on yksin
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-21T15:15:00+03:00'
-        end_time: '2026-06-21T15:33:00+03:00'
+        start_time: '2026-06-21T15:16:00+03:00'
+        end_time: '2026-06-21T15:34:00+03:00'
         description: |-
           Jakso 7: Isä on kotona
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: Musiikkikamari
-        start_time: '2026-06-21T15:33:00+03:00'
+        start_time: '2026-06-21T15:34:00+03:00'
         end_time: '2026-06-21T15:55:00+03:00'
       - title: 'Viikon luontoääni: Kuhankeittäjä'
         start_time: '2026-06-21T15:55:00+03:00'

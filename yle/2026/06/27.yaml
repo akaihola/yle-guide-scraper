@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:05.992452+00:00'
+  generated_at: '2026-06-12T03:14:18.790709+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -81,9 +81,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-27T12:00:00+03:00'
         end_time: '2026-06-27T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Jobista self help -kirjallisuuteen - kärsimyksen tarinat'
         start_time: '2026-06-27T12:05:00+03:00'
         end_time: '2026-06-27T13:00:00+03:00'
+        description: |-
+          Vanhan testamentin Jobin kirja on kärsimystarinoiden klassikko, johon kaunokirjallisuus kautta aikojen on ottanut suhdetta varioiden, toisintaen ja myös kritisoiden. Sen vaikutuksen voi nähdä myös median, self help -kirjallisuuden tai populaarin psykologian narratiiveissa. Mitä hyvää ja haastavaa on tämän päivän trauma- ja tunnustuskulttuurissa? Entä nykykirjallisuuden autofiktiivisessa, kärsimykseen keskittyvässä kerronnassa?
+
+          Marja Vehkasen kanssa kärsimyksen äärelle pysähtyy yleisen kirjallisuustieteen professori Sari Kivistö.
       - title: 'Näistä levyistä en luovu: Eeppi Ursinin maailma.'
         start_time: '2026-06-27T13:00:00+03:00'
         end_time: '2026-06-27T13:55:00+03:00'
@@ -151,7 +155,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-27T17:00:00+03:00'
         end_time: '2026-06-27T17:05:00+03:00'
-      - title: Marko Gustafsson
+      - title: Marko Gustafsson:Käännekohdissa Atso Almila
         start_time: '2026-06-27T17:05:00+03:00'
         end_time: '2026-06-27T17:58:00+03:00'
       - title: Yksi on hyvää seuraa

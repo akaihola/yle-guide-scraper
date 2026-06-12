@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:05.666029+00:00'
+  generated_at: '2026-06-12T03:14:18.608199+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -30,6 +30,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-26T08:07:00+03:00'
         end_time: '2026-06-26T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-06-26T09:00:00+03:00'
         end_time: '2026-06-26T09:03:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-10T03:13:03.545992+00:00'
+  generated_at: '2026-06-12T03:14:16.565179+00:00'
   git:
     branch: main
-    commit: b7740a4b62a91ee4ba642b691eb86d721457909e
-  data_hash: ab60636130c9f3ab78d60edd9c48c3626320358f0ba34d1eb75041a5eba7db6f
+    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
+  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
 data:
   '':
     programmes:
@@ -60,8 +60,10 @@ data:
       - title: Aamuhartaus
         start_time: '2026-06-16T06:50:00+03:00'
         end_time: '2026-06-16T06:59:59+03:00'
-        description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+        description: |+
+          "Salattu valo"
+          Hiippakuntadekaani Juha Rauhala Oulusta puhuu ihmisen kyvystä hiljentyä mysteerin ja jonkin itseään suuremman äärelle.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-06-16T07:00:00+03:00'
         end_time: '2026-06-16T07:05:00+03:00'
@@ -97,6 +99,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-06-16T08:07:00+03:00'
         end_time: '2026-06-16T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-06-16T09:00:00+03:00'
         end_time: '2026-06-16T09:03:00+03:00'
@@ -126,7 +130,7 @@ data:
           Konsertin on toimittanut Riikka Holopainen. 
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sirkku Peltola'
         start_time: '2026-06-16T10:00:00+03:00'
-        end_time: '2026-06-16T10:55:55+03:00'
+        end_time: '2026-06-16T10:55:00+03:00'
         description: |-
           Taloudellisesti niukka lapsuus opetti näytelmäkirjailija Sirkku Peltolalle ajatuksen, että omalla tahdollakin voi olla merkitystä elämän suurissa taisteluissa. Kun kotiin ei ollut varaa hankkia pianoa, Sirkku harjoitteli soittamista voipaperille piirretyillä koskettimilla. Iltaisin hän rukoili kovaäänisesti Jumalalta, että korkeampi voima ostaisi hänelle pianon, Sinnikkyys kannatti, piano tuli taloon. Unelmaa kohti voi päästä myös voipaperiaskelin.
       - title: Yksi on hyvää seuraa
@@ -150,15 +154,19 @@ data:
         end_time: '2026-06-16T12:35:00+03:00'
         description: |-
           Vieraina Kristiina Drews, Lotta Toivanen ja Quynh Tran.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Kristillisestä nimestä huolimatta juhannuksen vietossa näkyvät vahvasti sen pakanalliset juuret'
         start_time: '2026-06-16T12:35:00+03:00'
         end_time: '2026-06-16T13:00:00+03:00'
+        description: |
+          Pasi Heikura selvittää fennougristiikan väitöskirjatutkija Aleksi Palokankaan kanssa, miksi keskikesän juhlaa kutsutaan Suomessa juhannukseksi. Ohjelmassa hemaistaan myös aisteja, saunotaan oululaiseen tapaan ja lopuksi pudotaan ajan kelkasta. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Politiikkaradio
         start_time: '2026-06-16T13:00:00+03:00'
         end_time: '2026-06-16T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: tanssilavakulttuuri elää! -  nuoret miehet ovat löytäneet lavat'
         start_time: '2026-06-16T13:30:00+03:00'
         end_time: '2026-06-16T15:00:00+03:00'
+        description: |-
+          Miia Lahti juontaa. Tanssilavakulttuuri on nosteessa. Lavoilla järjestettävät tanssikurssit houkuttelevat mukaan uusia tanssijoita ja suosittujen tanssiorkestereiden perässä saatetaan ajaa pitkiäkin matkoja. N. klo 14 studiovieraana on perinteikkään Pavin tanssilavan toiminnanjohtaja Karoliina Inkilä. N. klo 14:30 laulaja, lauluntekijä Esa Eloranta kertoo mieleenpäinuvimmasta keikkakokemukusestaan. Toimittajana Marko Gustafsson.
       - title: Kulttuuriykkönen
         start_time: '2026-06-16T15:00:00+03:00'
         end_time: '2026-06-16T15:58:00+03:00'
@@ -176,11 +184,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-16T17:30:00+03:00'
         end_time: '2026-06-16T17:35:00+03:00'
-      - title: Kissankehto - Susanna Vainiola
+      - title: 'Kissankehto - Susanna Vainiola: Litku, Suzi ja ne jotka ei pelkää mitään'
         start_time: '2026-06-16T17:35:00+03:00'
         end_time: '2026-06-16T18:30:00+03:00'
-        description: |-
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |+
+          Kissankehdossa ihmetellään mistä ne sellaiset pelottomat pienet tytöt on tehty ja etsitään heidän opastuksellaan rohkeampaa asennetta alkavaan kesään
+
       - title: 'Viikon luontoääni: Idänuunilintu'
         start_time: '2026-06-16T18:30:00+03:00'
         end_time: '2026-06-16T18:35:00+03:00'
@@ -211,7 +220,7 @@ data:
         end_time: '2026-06-16T19:02:00+03:00'
       - title: 'Kuunnelma: Laskettua aikaa: Klinikka 3/10'
         start_time: '2026-06-16T19:02:00+03:00'
-        end_time: '2026-06-16T19:45:00+03:00'
+        end_time: '2026-06-16T19:23:00+03:00'
         description: |-
           Nora yrittää saada tietoja etsimästään sijaissynnyttäjästä, mutta joutuu käyttämään epätoivoisia keinoja. Samalla hän huomaa olevansa syvemmällä sodan ja henkilökohtaisen vastuun ristipaineessa. Miten hän onnistuu auttamaan ystäviään ja samalla selviytymään omasta tehtävästään toimittajana?
           (ensies. v. 2025)
@@ -231,9 +240,11 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-06-16T21:00:00+03:00'
         end_time: '2026-06-16T21:30:00+03:00'
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
-        start_time: '2026-06-16T21:30:00+03:00'
-        end_time: '2026-06-16T22:25:00+03:00'
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sirkku Peltola'
+        start_time: '2026-06-16T21:31:00+03:00'
+        end_time: '2026-06-16T22:24:00+03:00'
+        description: |-
+          Taloudellisesti niukka lapsuus opetti näytelmäkirjailija Sirkku Peltolalle ajatuksen, että omalla tahdollakin voi olla merkitystä elämän suurissa taisteluissa. Kun kotiin ei ollut varaa hankkia pianoa, Sirkku harjoitteli soittamista voipaperille piirretyillä koskettimilla. Iltaisin hän rukoili kovaäänisesti Jumalalta, että korkeampi voima ostaisi hänelle pianon, Sinnikkyys kannatti, piano tuli taloon. Unelmaa kohti voi päästä myös voipaperiaskelin.
       - title: Uudet levyt
         start_time: '2026-06-16T22:25:00+03:00'
         end_time: '2026-06-16T23:19:00+03:00'
