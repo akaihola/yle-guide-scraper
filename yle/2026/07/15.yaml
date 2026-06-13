@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-12T03:14:22.437424+00:00'
+  generated_at: '2026-06-13T03:12:47.293407+00:00'
   git:
     branch: main
-    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
-  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
+    commit: dfae2530c8ac226162a01d6fd8507e8cd2f136b9
+  data_hash: ce162668f019cf53b2d41a39808a44f6e4a4cf3c9e3419b224811800baadbe2e
 data:
   '':
     programmes:
@@ -123,9 +123,38 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-15T19:00:00+03:00'
         end_time: '2026-07-15T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Urkuyö & Aaria: Ikuinen nuoruus - Toivo Kuulan elämä ja laulut'
         start_time: '2026-07-15T19:02:00+03:00'
         end_time: '2026-07-15T21:00:00+03:00'
+        description: |-
+          Kiihkeä halu säveltäjäksi, nousu suomalaisen musiikin huipulle, raastava rakkaustarina, traaginen kuolema – tästä kaikesta kertoo Ikuinen nuoruus puheen ja musiikin keinoin.
+
+          Toivo Kuula kohosi vaatimattomista lähtökohdista säveltäjäksi, jota pidettiin jo Sibeliuksesta seuraavana. Hänen ja laulajatar Alma Silventoisen suurta rakkaustarinaa varjosti Toivon nuoruudessa solmittu epäonninen avioliitto. Kun he lopulta saivat toisensa, syttyi sota, ja sen loppusmelskeissä Toivo Kuula surmattiin.
+
+          Elämäntarinan lomassa kuultavat laulut tuovat väriä Toivo ja Alma Kuulan vaiheisiin, laulut taas saavat uusia vivahteita yhdistyessään elämään. Puolentoista tunnin mittaisessa kokonaisuudessa on mukana kolmetoista Toivo Kuulan koskettavinta laulua.
+
+          Esiintyjät:
+          Tommi Hakala, baritoni
+          Kristian Attila, piano
+          Juhani Koivisto, kertoja
+
+          Konserttiohjelma:
+
+          1. Lyö, sydän! (Antti Rytkönen) 1906
+          2. Aamulaulu (Eino Leino) 1905
+          3. Sinipiika (V.A. Koskenniemi) 1912
+          4. Tuijotin tulehen kauan (Eino Leino) 1907
+          5. Suutelo (Aarni Kouta) 1907-1908
+          6. Tuuli se taivutti koivun larvan (trad) 1910
+          7. Syystunnelma (Eino Leino) 1904
+          8. Jääkukkia (V. A. Koskenniemi) 1913
+          9. Kesäyö kirkkomaalla (V. A. Koskenniemi) 1907
+          10. Purjein kuutamolla (Kalle Vuokoski) 1917, levytys Alma Kuula 1937
+          11. Tule armaani (V. A. Koskenniemi) 1915
+          12. Lauantai-ilta (Lauri Pohjanpää) 1913
+          13. Epilogi (V. A. Koskenniemi) 1907
+
+          Lisäksi kuullaan osia Nuijamiesten marssista ja Suojeluskuntain marssista.
       - title: Havaintoja muutoksesta
         start_time: '2026-07-15T21:31:00+03:00'
         end_time: '2026-07-15T22:20:00+03:00'

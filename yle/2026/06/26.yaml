@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-12T03:14:18.608199+00:00'
+  generated_at: '2026-06-13T03:12:43.606091+00:00'
   git:
     branch: main
-    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
-  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
+    commit: dfae2530c8ac226162a01d6fd8507e8cd2f136b9
+  data_hash: ce162668f019cf53b2d41a39808a44f6e4a4cf3c9e3419b224811800baadbe2e
 data:
   '':
     programmes:
@@ -85,9 +85,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-06-26T13:00:00+03:00'
         end_time: '2026-06-26T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Kirjani tarina -  Huomaa aina harlekiinit! -kirjan suomentaja Heikki Karjalainen'
         start_time: '2026-06-26T13:30:00+03:00'
         end_time: '2026-06-26T15:00:00+03:00'
+        description: |
+          Juontajana Miia Lahti. N. klo 14 Huomaa aina harlekiinit! on  Vladimir Nabokovin viimeinen hänen elinaikanaan julkaistu romaani. Kääntäjä Heikki Karjalainen kertoo Kirjani tarinassa, millaista oli työskennellä romaanin parissa joka on tunnettu vaikeatajuisuudestaan. Toimittaja on Jakke Holvas. N. klo 14:30 Viisitoistavuotiaana nähty horror komedia -show teki vaikutuksen ja sai toimittaja, stand up -koomikko Jukka Lindströmin kiinnostumaan huumorista ja komediasta. Toimittajana on Jari Aula. (Uusinta 5.6.25.)
       - title: Kulttuuriykkönen
         start_time: '2026-06-26T15:00:00+03:00'
         end_time: '2026-06-26T15:58:00+03:00'

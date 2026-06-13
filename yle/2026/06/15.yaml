@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-12T03:14:16.249976+00:00'
+  generated_at: '2026-06-13T03:12:40.954380+00:00'
   git:
     branch: main
-    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
-  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
+    commit: dfae2530c8ac226162a01d6fd8507e8cd2f136b9
+  data_hash: ce162668f019cf53b2d41a39808a44f6e4a4cf3c9e3419b224811800baadbe2e
 data:
   '':
     programmes:
@@ -142,9 +142,11 @@ data:
           Miksi avioliitto oli naimakauppa, miksi morsian teki appivanhemmilleen kuolinpaidat ja miksi häävuoteen alle piilotettiin kirves? 
 
           Haastateltavina folkloristi Roope Kotiniemi Suomalaisen Kirjallisuuden Seurasta sekä kriminologian ja yleisen oikeustieteen tohtori, yliopistonlehtori Miikka Vuorela Itä-Suomen Yliopistosta. Toimittajana Inkeri Alatalo. 
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Elinkeinoministeri Sakari Puisto'
         start_time: '2026-06-15T13:00:00+03:00'
         end_time: '2026-06-15T13:30:00+03:00'
+        description: |-
+          Miksi Suomi lähti arvosteltuun USA-vetoiseen tekoälyliittoumaan?Haastattelussa elinkeinoministeri Sakari Puisto (ps.). Toimittajana on Linda Pelkonen. 
       - title: 'Radio 1:n iltapäivä: Maanantaimuseo - Tehdas- ja alkoholimuseo Rajamäen Ryyppi'
         start_time: '2026-06-15T13:30:00+03:00'
         end_time: '2026-06-15T15:00:00+03:00'
@@ -206,8 +208,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-06-15T18:35:00+03:00'
         end_time: '2026-06-15T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Karanko: Sydämellä Jeesuksen (Kampin Laulu/Juhani Lamminmäki).
+
+          Pohjanmies: Mun vierivät vuoteni virran lailla (Briitta Jurmu, sopraano, Jussi Juola, baritoni, ja Seppo Kirkinen, urut).
+
+          Bortnjanski (sov. Jarov): Ken kielin voisi kuvaella (Ilkka Hämäläinen, tenori, ja Uspenskin katedraalin mieskuoro/Peter Mirolybov).
+
+          Nyberg: Kun nuoruuden aika on ruusuinen (Mauno Kuusisto, tenori, ja Ilkka Kuusisto, urut).
+
       - title: Iltahartaus
         start_time: '2026-06-15T18:50:00+03:00'
         end_time: '2026-06-15T19:00:00+03:00'

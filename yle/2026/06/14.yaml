@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-12T03:14:16.072044+00:00'
+  generated_at: '2026-06-13T03:12:40.658719+00:00'
   git:
     branch: main
-    commit: 0e5c4acf1d7de0259e170b2f398055e5425221dd
-  data_hash: ae4bd5a46762857ebd5fb7efd8ab049dfac7ff5e5ff6c529f9fb7adce0401ef6
+    commit: dfae2530c8ac226162a01d6fd8507e8cd2f136b9
+  data_hash: ce162668f019cf53b2d41a39808a44f6e4a4cf3c9e3419b224811800baadbe2e
 data:
   '':
     programmes:
@@ -56,6 +56,12 @@ data:
           Maurice Ravel (san. Tristan Klingsor): Sheherazade, sarja mezzosopraanolle ja orkesterille
           (Anne Sofie von Otter, mezzosopraano, ja Clevelandin orkesteri/ Pierre Boulez).
            
+
+      - title: Radio 1 soi
+        start_time: '2026-06-14T07:55:27+03:00'
+        end_time: '2026-06-14T08:00:00+03:00'
+        description: |+
+          J. Strauss: Kettenbrücken-Waltzer (Willi Boskovsky -yhtye)
 
       - title: Yle Uutiset ja sää
         start_time: '2026-06-14T08:00:00+03:00'
@@ -193,6 +199,12 @@ data:
         end_time: '2026-06-14T17:54:29+03:00'
         description: |-
           Budapest Mezőség Band vie kuulijat Magyarpalatkan kylän tansseihin Transsilvaniaan. Konserttitaltiointi Dankó Radion studiolla Budapestissä 22.11.2025. Toimittajana Miika Lauriala. 
+      - title: Radio 1 soi
+        start_time: '2026-06-14T17:54:29+03:00'
+        end_time: '2026-06-14T18:00:22+03:00'
+        description: |+
+          Respighi: Bergamasca sarj. Vanhoja aarioita ja tansseja (Los Angelesin kamariork./Neville Marriner).
+
       - title: 'Jazzklubi: Selma Savolainen: "Katse on vihdoinkin ulospäin, mutta maailma on mennyt aika kummalliseksi"'
         start_time: '2026-06-14T18:00:22+03:00'
         end_time: '2026-06-14T19:00:00+03:00'
@@ -201,22 +213,30 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-14T19:00:00+03:00'
         end_time: '2026-06-14T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: Ukiyoto Tampere Jazz Happeningissä.'
         start_time: '2026-06-14T19:02:05+03:00'
         end_time: '2026-06-14T20:00:00+03:00'
+        description: |
+          Äänitetty Pajan Kongressisalissa 1.11.2025.
       - title: Panihida Pyhän Sakariaan ja vanhurskaan Elisabethin kirkosta Savonlinnasta
         start_time: '2026-06-14T20:00:00+03:00'
-        end_time: '2026-06-14T21:00:00+03:00'
+        end_time: '2026-06-14T20:47:26+03:00'
         description: |-
           Vainajien muistopalveluksen toimittaa rovasti Bogdan Grosu.
-      - title: Uutispodcast
+      - title: Radio 1 soi
+        start_time: '2026-06-14T20:47:26+03:00'
+        end_time: '2026-06-14T21:00:15+03:00'
+        description: |+
+          Vierne: Eros (Steve Davislim, tenori, ja Queenslandin ork./Guillaume Tourniaire).
+
+      - title: 'Uutispodcast: SpaceX pörssiin – mihin entistä rikkaampi Musk maailmaa vie?'
         start_time: '2026-06-14T21:00:30+03:00'
-        end_time: '2026-06-14T21:24:00+03:00'
+        end_time: '2026-06-14T21:23:37+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Elon Muskin avaruusyhtiö SpaceX listautuu tällä viikolla pörssiin, ja tehnee Muskista maailman ensimmäisen biljonäärin. Millaista tulevaisuutta Musk ihmiskunnalle visioi, ja voiko sellaisen saada rahalla? Reetta Röngän haastattelussa Ylen ulkomaantoimittaja Mika Mäkeläinen.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Kesän kynnyksellä'
-        start_time: '2026-06-14T21:25:00+03:00'
-        end_time: '2026-06-14T22:19:40+03:00'
+        start_time: '2026-06-14T21:25:05+03:00'
+        end_time: '2026-06-14T22:19:45+03:00'
         description: |+
           Walesilainen merinäkymä ja tuoksuva ranskalais-itämainen satumaailma istuu myös suomalaiseen kesään. Ja aina on ilahduttavaa löytää tutun säveltäjän ei niin tuttua musiikkia. Mozart raikastaa päivämme!
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -234,10 +254,27 @@ data:
            
 
       - title: ' KC Kirjapodcast: Teurastaja ja vanginvartija – Miten kehollisuus kuuluu kirjoissa?'
-        start_time: '2026-06-14T22:20:30+03:00'
-        end_time: '2026-06-14T22:49:03+03:00'
+        start_time: '2026-06-14T22:20:43+03:00'
+        end_time: '2026-06-14T22:49:16+03:00'
         description: |-
           Vieraina Mariia Niskavaara, Osma Aarnos ja Juuli Niemi.
+      - title: Radio 1 soi
+        start_time: '2026-06-14T22:49:16+03:00'
+        end_time: '2026-06-14T22:54:08+03:00'
+        description: |+
+          Castello: Sonaatti n:o 5 (Christian Lindberg, pasuuna, Richard Tognetti, viulu, ja Australian kamariork.).
+
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-06-14T22:54:08+03:00'
+        end_time: '2026-06-14T23:18:51+03:00'
+        description: |-
+          Jarmo Laitanevan studiovieraina ovat kuvittaja ja graafikko Kaisu Sandberg sekä kirjailija Ursula Mursu. Ensilähetys oli 1.6.2026.
+      - title: Radio 1 soi
+        start_time: '2026-06-14T23:18:51+03:00'
+        end_time: '2026-06-14T23:24:50+03:00'
+        description: |+
+          Chopin: Nokturno n:o 7 cis-molli (Jevgeni Kisin, piano).
+
       - title: 'Romano mirits: Dimitri Blomerus henkilökuvassa'
         start_time: '2026-06-14T23:24:50+03:00'
         end_time: '2026-06-14T23:39:09+03:00'
