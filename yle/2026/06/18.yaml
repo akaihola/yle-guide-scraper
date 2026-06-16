@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-15T03:15:49.688349+00:00'
+  generated_at: '2026-06-16T03:14:33.373641+00:00'
   git:
     branch: main
-    commit: 172fe8d2805203430104af264a39b194a51b2f79
-  data_hash: c83aecc4cb63b08b7fc2c7a2db2908f6a3942683357b5f851ff5b79cb4b597ce
+    commit: 779996f73e743b78343d777034a76d5decca4d4f
+  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
 data:
   '':
     programmes:
@@ -152,10 +152,22 @@ data:
         end_time: '2026-06-18T15:00:00+03:00'
         description: |-
           Suomen ensimmäinen siirtolapuutarha perustettiin vuonna 1916 Tampereen Hatanpäälle. Tällä hetkellä Suomessa on kaikkiaan n. 60 siirtolapuutarhaa. Mikä siirtolapuutarhaelämässä viehättää? Miia Lahden studiovieraana n. klo 14 on Suomen Siirtolapuutarhaliiton liittosihteeri Tina Wessman. Näyttelijä Eija Ahvon kulttuurikokemus opintomatkalla Ghanassa oli veret seisauttava. Toimittajana on Inari Tilli. (Ensilähetys oli 2.10.26.)
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Ruokailun, juomien ja kattauksen kulttuurihistoriaa 1700-luvulta omaan aikaamme'
         start_time: '2026-06-18T15:00:00+03:00'
         end_time: '2026-06-18T15:58:00+03:00'
         description: |-
+          Millainen on juomien historia 1700-luvulta omaan aikaamme? Juhlavat juomat, kuten viini, samppanja ja väkevät viinit ovat syntyneet historiallisissa olosuhteissa hyvin erityisillä tavoilla. Samppanja syntyi vahingossa ranskalaisten ja englantilaisten yhteistyössä. Miten tietty juoma syntyi, miten sitä tarjoiltiin ja millaisista laseista? Miksi samppanjaa juodaan sekä laakeista että huilumaisista laseista? Historian aikana olutta juotiin litratolkulla, koska se oli puhtaampaa kuin vesi.
+
+          Miten kahvi tuli Suomeen? Kustaa III keitti salaa kahvia Tukholman linnassa. Miksi puhumme sekä kahvipannusta ja kahvikannusta? Euroopassa on kaksi erilaista teekulttuuria. Englannissa kaadetaan maitoa teehen ja Venäjällä vadelmahilloa. Millaista on kova tee? Mitä kaikkea esineistöä teen valmistamiseen löytyy historian saatosta ja antiikkiliikkeistä? 
+
+          Millainen on posliinin historia? Sitä kutsuttiin pitkään valkoiseksi kullaksi, koska sen valmistaminen oli niin kallista. Miksi Meissenin posliinin syntytarina on niin erikoinen? 
+
+          Keskustelemme myös eri ruokalajien synnystä. Miksi hienon pihvin nimi on Chateaubriand ja kuka keksi ilmavan jälkiruoan Pavlovan? Mitkä ovat kuuluisat alkuruoat, pääruoat ja jälkiruoat? Miten kattaukset kuvaavat omaa aikaansa?
+
+          Ohjelman vieraina ovat antiikkiasiantuntijat Maria Ekman ja Bernt Morelius.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-18T16:00:00+03:00'
@@ -249,10 +261,12 @@ data:
           J.D. Braun: Sonaatti n:o 4 G-duuri (Marion Treupel-Franck, huilu, Sergio Azzolini, fagotti, ja Axel Wolf, luuttu).
 
           Glinka: Divertimento brillante Bellinin teemoista (Leonid Ogrintshuk, piano, ja Venäjän kansall. ork. solistit). 
+
+          Juontajana Inari Tilli.
       - title: 'Politiikkaradio '
         start_time: '2026-06-18T21:00:00+03:00'
         end_time: '2026-06-18T21:30:00+03:00'
-      - title: 'Asekauppiaat: Pahamaineinen Viktor Bout kuljetti kuolemaa ja ruoka-apua rahtikoneellaan'
+      - title: 'Väkivallan markkinat: Pahamaineinen Viktor Bout kuljetti kuolemaa ja ruoka-apua rahtikoneellaan'
         start_time: '2026-06-18T21:31:00+03:00'
         end_time: '2026-06-18T22:20:00+03:00'
         description: |

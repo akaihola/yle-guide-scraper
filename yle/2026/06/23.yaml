@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-15T03:15:50.661705+00:00'
+  generated_at: '2026-06-16T03:14:34.609641+00:00'
   git:
     branch: main
-    commit: 172fe8d2805203430104af264a39b194a51b2f79
-  data_hash: c83aecc4cb63b08b7fc2c7a2db2908f6a3942683357b5f851ff5b79cb4b597ce
+    commit: 779996f73e743b78343d777034a76d5decca4d4f
+  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
 data:
   '':
     programmes:
@@ -109,7 +109,7 @@ data:
           Ledin: Sommaren är kort (Tomas Ledin).
 
           Konsertin on toimittanut Riikka Holopainen.
-      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Ville Ranta ja Rebecka Naatus'
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Ville Ranta ja Rebekka Naatus'
         start_time: '2026-06-23T10:00:00+03:00'
         end_time: '2026-06-23T10:55:55+03:00'
         description: |-
@@ -151,11 +151,16 @@ data:
         description: |-
           Juontajana Miia Lahti. N. klo 14 suomalaisten toive-elokuvien sarjassa Elokuvat, jotka halusimme nähdä on aiheena tänään varsinainen järkäle: Täällä Pohjantähden alla.  Elokuvasta ja sen tekemisestä kertoo Suomen Elokuvasäätiön Otto Suuronen, toimittaja on Jarmo Laitaneva. 
           N. 14:30 Parhaillaan Suomenlinnan kesäteatterissa Missä kuljimme kerran -näytelmää tähdittävä näyttelijä Miiko Toiviainen kertoo, millaiset kulttuurielämykset ovat jääneet hänen mieleensä. Toimittajana Sari Valto. (Ensilähetys olil 11.9.26.)
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miten ihmisten yhteiskunnallinen arvostus rakentuu?'
         start_time: '2026-06-23T15:00:00+03:00'
         end_time: '2026-06-23T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Suomessa puhutaan paljon tuloeroista, varallisuudesta ja hyvinvoinnista. Mutta ihmisten paikka yhteiskunnassa ei määräydy pelkästään rahan perusteella. Asemaan vaikuttavat myös koulutus, ammatti, arvostus, vaikutusvalta, näkyvyys ja kokemus siitä, tuleeko nähdyksi ja tunnustetuksi.
+
+          Millaisille portaille suomalaiset tässä yhteiskunnassa asettuvat? Kuka saa arvostusta, kuka jää näkymättömäksi ja kuinka helposti ihmiset voivat liikkua yhteiskunnallisesta asemasta toiseen?
+          Keskustelun pohjalla on Tampereen yliopiston sosiaalipolitiikan professori Juho Saaren teos Ihmisiä yhteiskunnan portailla, joka tarkastelee suomalaisen yhteiskunnan hierarkioita huomattavasti laajemmin kuin pelkkien tulojen tai varallisuuden näkökulmasta.
+
+          Mukana keskustelemassa ovat Suomen sosiaali ja terveys ry SOSTEn erikoistutkija Anne Järvinen, käyttäytymistaloustieteen tutkija Jori Grym Hankenin kauppakorkeakoulusta, sosiologian professori Jani Erola sekä etäyhteyden päässä Tampereelta Juho Saari. Ville Talola toimittaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-23T16:00:00+03:00'
         end_time: '2026-06-23T16:07:00+03:00'
@@ -216,7 +221,7 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-06-23T21:00:00+03:00'
         end_time: '2026-06-23T21:30:00+03:00'
-      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Ville Ranta ja Rebecka Naatus'
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Ville Ranta ja Rebekka Naatus'
         start_time: '2026-06-23T21:30:00+03:00'
         end_time: '2026-06-23T22:25:00+03:00'
         description: |-

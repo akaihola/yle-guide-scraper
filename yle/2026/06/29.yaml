@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-15T03:15:52.069860+00:00'
+  generated_at: '2026-06-16T03:14:36.098462+00:00'
   git:
     branch: main
-    commit: 172fe8d2805203430104af264a39b194a51b2f79
-  data_hash: c83aecc4cb63b08b7fc2c7a2db2908f6a3942683357b5f851ff5b79cb4b597ce
+    commit: 779996f73e743b78343d777034a76d5decca4d4f
+  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
 data:
   '':
     programmes:
@@ -74,11 +74,11 @@ data:
           Lindholm: Sitähän se kaikki on (Dave Lindholm).
 
           Konsertin on koonnut Pasi Hiihtola.
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Korkea peli - riskinottaja Walter Ahlström'
         start_time: '2026-06-29T10:00:00+03:00'
         end_time: '2026-06-29T10:52:00+03:00'
         description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+          Korkea peli - riskinottaja Walter Ahlström
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-29T10:52:00+03:00'
         end_time: '2026-06-29T11:00:00+03:00'
@@ -105,11 +105,17 @@ data:
         end_time: '2026-06-29T15:00:00+03:00'
         description: |-
           Juontajana Joni Timonen. Maanantaimuseo-sarjassa Marko Miettinen vierailee Tuusulan automuseossa. Haastateltavana yrittäjä, liikenneneuvos Raimo Stenvall.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Politiikan kova kieli pehmeni kaveruudeksi yhteisellä matkalla Mongoliaan '
         start_time: '2026-06-29T15:00:00+03:00'
         end_time: '2026-06-29T15:58:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kansanedustajat Atte Kaleva ja Timo Harakka julkaisivat toukokuussa yhteisen stautspäivirtyksen, jossa he kertoivat olevansa parlamentaarissa tehtävissä matkalla Mongoliaan. Matka Pekingistä Ulaanbaatariin kesti 30 tuntia ja se taittui sulassa sovussa yhteisessä makuuvaunussa. 
+
+          Eduskunnan istuntoja ja kyselytunteja seuratessa syntyy usein vaikutelma, että edustajat eivät erityisemmin pidä toisistaan. Keskustelu on kärjistynyttä, värittynyttä ja polarisoivaa. Kulissien takana todellisuus on monesti toinen.
+
+          Miksi politiikan kieli on kovaa, mikä sitä ohjaa ja mikä vastuu kansakunnan arvokkaimmalla keskustelufoorumilla, eduskunnalla, on yleisessä yhteiskunnallisessa keskustelussa? Onko politiikan keskustelukulttuuri rikki?
+
+          Junamatkatoverit SDP:n Timo Harakka ja Kokoomuksen Atte Kaleva ovat keskustelemassa aiheesta. Ville Talola toimittaa. 
       - title: Yle Uutiset ja sää
         start_time: '2026-06-29T16:00:00+03:00'
         end_time: '2026-06-29T16:07:00+03:00'
@@ -128,11 +134,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-29T17:30:00+03:00'
         end_time: '2026-06-29T17:35:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Aikamatka Euroopan etnovuoteen 1993'
         start_time: '2026-06-29T17:35:00+03:00'
         end_time: '2026-06-29T18:35:00+03:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          1990-luku oli etnossa seikkailujen ja kokeilujen aikaa! Soundia dominoivat pop- ja rock-pohjaiset groovet sekä afrikkalainen vaikutus, mutta myös isoilla karttavedoilla laaditut fuusiot olivat suosituimmillaan. Esimerkiksi intialainen eksotiikka kiehtoi sekä muusikoita että kuuntelijoita, sillä maailmaa ei vielä oltu reppureissattu halki. Samaan aikaan Britannian ja Irlannin folk löysivät paljon ystäviä.
+
+          Keinuvassa talossa tsuumataan siihen, millainen kansanmusiikki ja maailmanmusiikki innosti yleisöjä vuosikymmeniä sitten. Nostalginen minisarja kattaa vuodet 2003, 1993, 1983 ja 1973. Toimittajana Mika Kauhanen. Uusinta kesäkuulta 2023.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-06-29T18:35:00+03:00'
         end_time: '2026-06-29T18:50:00+03:00'
@@ -146,7 +154,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-29T19:00:00+03:00'
         end_time: '2026-06-29T19:02:00+03:00'
-      - title: 'Asekauppiaat: Kuinka Yhdysvallat aseisti vahingossa Talibania'
+      - title: 'Väkivallan markkinat: Kuinka Yhdysvallat aseisti vahingossa Talibania'
         start_time: '2026-06-29T19:02:00+03:00'
         end_time: '2026-06-29T19:50:00+03:00'
         description: |-

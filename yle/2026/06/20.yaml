@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-15T03:15:50.068615+00:00'
+  generated_at: '2026-06-16T03:14:33.805791+00:00'
   git:
     branch: main
-    commit: 172fe8d2805203430104af264a39b194a51b2f79
-  data_hash: c83aecc4cb63b08b7fc2c7a2db2908f6a3942683357b5f851ff5b79cb4b597ce
+    commit: 779996f73e743b78343d777034a76d5decca4d4f
+  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
 data:
   '':
     programmes:
@@ -148,8 +148,11 @@ data:
       - title: 'Näistä levyistä en luovu: Antti Paalanen'
         start_time: '2026-06-20T13:00:00+03:00'
         end_time: '2026-06-20T13:55:00+03:00'
-        description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai. Tällä kerralla Inari Tillin vieraana on artisti, hanuristi ja kurkkulaulaja Antti Paalanen.
+        description: |
+          Juhannusviikonloppuna levyhyllyään raottaa artisti, hanuristi ja kurkkulaulaja Antti Paalanen. 
+          Alavudelta kotoisin oleva Paalanen tunnustautuu myös rokkimieheksi. Kitaransoitto kuitenkin vaihtui nuoruudessa harmonikansoittoon ja ovet avautuivat Sibelius-Akatemian kansanmusiikin osastolle. Siellä olikin sitten ”ihan mahoton meininki” ja mukaan tarttui monia musiikkimuistoja. Minkä musiikin tahdissa tarttui mukaan aviovaimo ja mitä Paalanen tuumaa euroviisuista? Tämäkin selviää Näistä levyistä en luovu -ohjelmassa.
+
+          Antti Paalasen tapasi levyjen äärellä Inari Tilli.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-20T13:55:00+03:00'
         end_time: '2026-06-20T14:00:00+03:00'
