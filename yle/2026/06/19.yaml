@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-16T03:14:33.587034+00:00'
+  generated_at: '2026-06-17T03:14:08.976851+00:00'
   git:
     branch: main
-    commit: 779996f73e743b78343d777034a76d5decca4d4f
-  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
+    commit: e5784651281c163576f0931506ed69b819c6b291
+  data_hash: 9bc0c85d93296c099c06d643de786115fe557b3f42c0cc913858776cba12de7f
 data:
   '':
     programmes:
@@ -105,7 +105,7 @@ data:
           Henderson: On kesäyö (Topi Sorsakoski ja Agents).
 
           Konsertin on toimittanut Jenna Bågeberg.
-      - title: Sattumalta keksityt
+      - title: 'Kalle Haatanen: Sattumalta keksityt'
         start_time: '2026-06-19T10:00:00+03:00'
         end_time: '2026-06-19T10:55:00+03:00'
         description: |-
@@ -241,19 +241,22 @@ data:
       - title: Musiikkikamari
         start_time: '2026-06-19T20:15:00+03:00'
         end_time: '2026-06-19T21:00:00+03:00'
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kevään ja kesän kirjavinkit lomalaisille!'
         start_time: '2026-06-19T21:00:00+03:00'
-        end_time: '2026-06-19T21:55:00+03:00'
+        end_time: '2026-06-19T21:54:18+03:00'
         description: |-
+          Mitkä ovat kevään mielenpainuneimmat kirjat? Kulttuuriykkönen vinkkaa ja analysoi mitä kaunokirjallisuuden maailmassa tapahtuu tänä keväänä. Vieraana kirjallisuustoimittaja Anna Tulusto, kirjailija Vehka Kurjenmiekka sekä Kirjamimmit-someyhteisön ja -lukupiirin Elisa Vlahopoulou.
+          Juontajana on Pietari Kylmälä. 
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: 'Tuuli Saksalan keidas: Keitaan juhannustanssit'
-        start_time: '2026-06-19T21:56:00+03:00'
-        end_time: '2026-06-19T22:46:00+03:00'
+        start_time: '2026-06-19T21:54:36+03:00'
+        end_time: '2026-06-19T22:44:50+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sirkku Peltola'
-        start_time: '2026-06-19T22:47:00+03:00'
-        end_time: '2026-06-19T23:39:00+03:00'
+        start_time: '2026-06-19T22:45:40+03:00'
+        end_time: '2026-06-19T23:39:35+03:00'
         description: |-
           Taloudellisesti niukka lapsuus opetti näytelmäkirjailija Sirkku Peltolalle ajatuksen, että omalla tahdollakin voi olla merkitystä elämän suurissa taisteluissa. Kun kotiin ei ollut varaa hankkia pianoa, Sirkku harjoitteli soittamista voipaperille piirretyillä koskettimilla. Iltaisin hän rukoili kovaäänisesti Jumalalta, että korkeampi voima ostaisi hänelle pianon, Sinnikkyys kannatti, piano tuli taloon. Unelmaa kohti voi päästä myös voipaperiaskelin.
       - title: Juhannusaaton Yöklassinen

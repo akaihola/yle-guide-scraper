@@ -1,15 +1,44 @@
 metadata:
-  generated_at: '2026-06-16T03:14:36.098462+00:00'
+  generated_at: '2026-06-17T03:14:11.128379+00:00'
   git:
     branch: main
-    commit: 779996f73e743b78343d777034a76d5decca4d4f
-  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
+    commit: e5784651281c163576f0931506ed69b819c6b291
+  data_hash: 9bc0c85d93296c099c06d643de786115fe557b3f42c0cc913858776cba12de7f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-06-28T23:40:00+03:00'
         end_time: '2026-06-29T06:30:00+03:00'
+        description: |+
+          Ay Amor! Teatterimusiikkia ja lauluja 1600-luvun Espanjasta, säv. Hidalgo, Falconieri ja Selma y Salaverde (The Newberry Consort/Mary Springfels).
+
+          00:50 Reinecke: Sonaatti huilulle ja pianolle e-molli (Emmanuel Pahud ja Yefim Bronfman).
+
+          01:11 W.A. Mozart: Jousikvintetot n:o 4 g-molli, 5 D-duuri ja 6 Es-duuri (Budapest-kvartetti ja Milton Katims, alttoviulu). 
+
+          02:28 Arditi: Il bacio (Rita Streich, sopraano, ja Berliinin RSO/Kurt Gaebel). 
+
+          02:33 Lalo: Espanjalainen sinfonia (Jascha Heifetz, viulu, ja RCA Victor -SO/William Steinberg).
+
+          02:58 Palmgren: Sarja näyt. Tuhkimo (RSO/George de Godzinsky).
+
+          03:20 Falla: Kolmikolkkahattu, balettisarja n:o 2 (RSO/Sakari Oramo).
+
+          03:33 Loewe: Edward; Erlkönig; Odins Meeresritt; Wandelne Glocke ja Hinkende Jamben (Hans Hotter, baritoni, ja Gerald Moore, piano).
+
+          03:50 Ravel: Bolero (Dallasin SO/Eduardo Mata).
+
+          04:05 Beethoven: Sinfonia n:o 1 C-duuri (Clevelandin ork./Christoph von Dohnanyi).
+
+          04:32 Pacius: Jousikvartetto n:o 2 (Pro Musica -kvartetti).
+
+          05:03 Händel: Konsertto uruille, orkesterille ja continuolle n:o 7 B-duuri (Simon Preston ja The English Concert/Trevor Pinnock, cembalo).
+
+          05:23 Dowland: Ikuisesti Dowland, ikuisesti surullinen (Paul O'Dette, luuttu).
+
+          05:314 Schein: Sarjoja soittimille kok. Banchetto musicale (Sex Chordae Consort of Viols). 
+
       - title: Hartaita säveliä
         start_time: '2026-06-29T06:30:50+03:00'
         end_time: '2026-06-29T06:50:00+03:00'
@@ -165,9 +194,6 @@ data:
       - title: Mannerheimin agentti
         start_time: '2026-06-29T20:05:00+03:00'
         end_time: '2026-06-29T20:25:00+03:00'
-        description: |
-          Jakso 5/10: Dimoisin tarina.
-          Vuonna 1973 Tahvanainen julkaisi toisen romaaninsa, jonka päähenkilöön hän oli viitannut Erikoistehtävä-kirjansa sivulauseessa. Kyseessä oli Dimitri Dimitrejeff. joka oli kirjan mukaan ollut Leninin uskottu. Koskinen selvittää asiantuntijoiden kanssa Dimoisina tunnetun miehen tarinaa Venäjän vallankumouksen pyörteissä. Mitä Lenin sanoi Suomesta kuolinvuoteellaan?
       - title: 'Hanna Tikander & Henkiset oppaat: “Ei tätä työtä voi tehdä, jos ei ole sydän auki”'
         start_time: '2026-06-29T20:25:00+03:00'
         end_time: '2026-06-29T21:00:00+03:00'
@@ -186,3 +212,41 @@ data:
       - title: Yöklassinen
         start_time: '2026-06-29T23:40:00+03:00'
         end_time: '2026-06-30T06:30:00+03:00'
+        description: |+
+          Beethoven: Fantasia pianolle, kuorolle ja orkesterille c-molli (Vladimir Ashkenazy, piano, Mary Shearer, sopraano, Teresa Cash, sopraano, D'Anna Fortunato, altto, Jon Garrison, tenori, Terry Cooke, baritoni, Martin Horning, baritoni, Clevelandin orkesterin kuoro ja Clevelandin orkesteri/Vladimir Ashkenazy).
+
+          00:01 Krommer - Crusell: Rondo kahdelle klarinetille ja puhallinorkesterille (Mario Sgobba ja Paavo Lampinen sekä RSO:n puhaltajat/Ulf Söderblom).
+
+          00:07 Schubert: Impromptu B-duuri (Vladimir Horowitz, piano).
+
+          00:18 Giuliani: Gran Duo (James Galway, huilu, Kazuhito Yamashita, kitara).
+
+          00:35 Debussy: Images (Clevelandin ork./Pierre Boulez).
+
+          01:10 Brahms: Jousikvartetot n:ot 1 c-molli ja 3 B-duuri (Tokio-kvartetti).
+
+          02:15 Gesualdo: Ecco moriro dunque (The Deller Consort).
+
+          02:20 Revueltas: Kunnianosoitus Federico Garcia Lorcalle (Los Angelesin FO:n uuden musiikin yhtye/Esa-Pekka Salonen).
+
+          02:31 Wagner - Lemare: Valkyyrioiden ratsastus oopp. Valkyyria (Daniel Chorzempa, urut).
+
+          02:38 Fauré: Sarja näyt. Pelléas et Mélisande (Vancouverin RO/Mario Bernardi).
+
+          02:56 Hummel: Te Deum (Tower Voices-kamarikuoro ja Uuden-Seelannin SO/Uwe Grodd).
+
+          03:09 Musorgski: Aamunkoitto Moskova-joella ja Persialaisten orjien tanssi oopp. Hovanshtshina. (Venäjän FO/Samuel Friedmann).
+
+          03:22 Skrjabin: Le Poeme de l'extase, sinfoninen runo (Chicagon SO/Pierre Boulez). 
+
+          03:44 Röntgen: Serenadi A-duuri (Viotta-yhtye).
+
+          04:14 Dvorák: Sonatiini viululle ja pianolle G-duuri (Ivan Zenaty ja Antonin Kubalek).
+
+          04:36 Handl: Osia kok. Moralia (29-47) (Singer Pur).
+
+          05:05 Rejcha: Sinfonia Es-duuri (Cappella Coloniensis/Hans-Martin Linde). 
+
+          05:32 Monteverdi: Madrigaaleja (Taverner Consort/Andrew Parrott).
+
+...

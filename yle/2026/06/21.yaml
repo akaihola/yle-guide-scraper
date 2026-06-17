@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-16T03:14:34.179045+00:00'
+  generated_at: '2026-06-17T03:14:09.464764+00:00'
   git:
     branch: main
-    commit: 779996f73e743b78343d777034a76d5decca4d4f
-  data_hash: 411d224e3c45d266531ca30a2cdec3c827600650f0035a55d7d636bc3de0f681
+    commit: e5784651281c163576f0931506ed69b819c6b291
+  data_hash: 9bc0c85d93296c099c06d643de786115fe557b3f42c0cc913858776cba12de7f
 data:
   '':
     programmes:
@@ -52,17 +52,38 @@ data:
           06:35 Leoninus: Priusquam te formarem (Red Byrd).
 
           06:45 Händel: Harppukonsertto n:o 6 B-duuri (Vuokko Ahtila).
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-06-21T07:00:30+03:00'
-        end_time: '2026-06-21T07:57:00+03:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Vanhoja ystäviä ja uusia tuttavuuksia'
+        start_time: '2026-06-21T07:00:47+03:00'
+        end_time: '2026-06-21T07:53:37+03:00'
+        description: |
+          Suhde vanhoihinkin ystäviin, musiikkeihin, voi muuttua. Voi ilmetä uusia puolia, suhde voi syventyä.
+          Joskus kolahtaa kerralla. Jokin suhde kehittyy pikkuhiljaa, sille on annettava aikaa. Se voi vaatia ponnisteluja. 
+          Tämähän pätee aika monessa asiassa, tässä maailmassa. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+
+          Ohjelman musiikit: 
+
+          Jean-Philippe Rameau: Alkusoitto oopperasta Zais (Les Musiciens du Louvre/ Marc Minkowski).
+
+          Jean-Philippe Rameau: Entrée, ooperasta Les Boreades (Le Concert des Nations/ Jordi Savall).
+
+          Luca Marenzio: Solo e pensoso (Yksin ja mietteissäni) (Les Cris de Paris/ Geoffroy Jourdain).
+
+          Henry Purcell (san. Thomas Shadwell, sov. Christina Pluhar): Hark how the songsters ja Curtain tune on a ground (Raquel Andueza, sopraano, Philippe Jaroussky, kontratenori, ja L' Arpeggiata/ Christina Pluhar).
+
+          Antti Auvinen: Andalusian Panzerwagen Jazz (Petri Kumela, kitara, ja Tapiola Sinfonietta/ Dima Slobodeniouk).
+
+          Missy Mazzoli:  These worlds in us (Arctic Philharmonic Orchestra/ Timothy Weiss).
+
+          Johann Sebastian Bach (sov: Judith ja  Tineke Steenbrink): Sonaatti uruille n:o 5 C-duuri BWV529, osa Allegro  (Holland Baroque)
       - title: Yle Uutiset ja sää
         start_time: '2026-06-21T08:00:00+03:00'
         end_time: '2026-06-21T08:05:05+03:00'
       - title: 'Maisteri Lindgrenin musiikkiesitelmä: Sekaisin chalumeausta'
         start_time: '2026-06-21T08:05:35+03:00'
-        end_time: '2026-06-21T08:59:00+03:00'
+        end_time: '2026-06-21T08:59:37+03:00'
         description: |-
           "Te ette innostu, huomaan. Pilli kuin pilli, te sanotte, ja niinhän ihmiskunta on etupäässä ajatellut, sillä näitä erilaisia suoria soivia pillejä on tosiaan vielä 1600-luvulla niin villi sekamelska, että vain hullu musiikkitieteilijä alkaa niitä luokitella löytämättä silti jokaiselle omaa lokeroa. Jos pommeriperhe jäi vaivamaan mieltänne, voitte oikoen ajatella, että koko suku on nykyisen oboen esi-isiä. Tai äitejä, esiäitejä, sanokaamme siis esivanhempia. Toinen on tilanne chalumeaun kohdalla." - Minna Lindgren esitelmöi.
       - title: 'Yle Uutiset '
@@ -183,44 +204,73 @@ data:
         end_time: '2026-06-21T17:05:00+03:00'
       - title: 'Etnokonsertti Floating Sofa Quartet '
         start_time: '2026-06-21T17:06:00+03:00'
-        end_time: '2026-06-21T18:00:00+03:00'
+        end_time: '2026-06-21T18:00:01+03:00'
         description: |-
           Floating Sofa Quartet viettää 10-vuotisjuhliaan ja julkaisee uuden levyn (Tides). Konsertti on taltioitu Malmön kansanpuiston teatterissa 20.11.2025. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
-        start_time: '2026-06-21T18:00:30+03:00'
+        start_time: '2026-06-21T18:00:29+03:00'
         end_time: '2026-06-21T19:00:00+03:00'
+        description: |-
+          Juhannusviikon jakson vieraana on musiikkituottaja ja kiertuemanageri Charles Gil. Toimittajana Laura Korhonen. 
       - title: Yle Uutiset ja sää
         start_time: '2026-06-21T19:00:00+03:00'
         end_time: '2026-06-21T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
-        start_time: '2026-06-21T19:02:30+03:00'
+      - title: 'Jazzklubin viikon keikka: Émile Parisien Quartet Tampere Jazz Happeningissä.'
+        start_time: '2026-06-21T19:02:05+03:00'
         end_time: '2026-06-21T20:00:00+03:00'
+        description: |-
+          Äänitetty Tampere-talon pienessä salissa 2.11.2025.
       - title: Jumalanpalvelus Vaajakosken baptistiseurakunnasta
         start_time: '2026-06-21T20:00:00+03:00'
-        end_time: '2026-06-21T21:00:00+03:00'
+        end_time: '2026-06-21T20:58:29+03:00'
         description: |-
           Juontajana Eveliina Huhtala. Puhujana Markku Tiitinen. Piano: Kari Mouhu. Kitara: Juho-Aleksi Tiitinen. Yhteislaulut: Elämä on nyt, säv. P. Simojoki, san. A.-M. Kaskinen, Ei ketään toista, säv. T. Kalenius, san. A.-M. Kaskinen, Siksi nouse, säv. ja san. P. Simojoki, Mun Jeesus elää, säv. ja san. W. J. Gaither, suom. san. K. Vaija.
       - title: 'Uutispodcast: Hallitus leikkaa toimeentulotukea – tuleeko sillä enää toimeen?'
-        start_time: '2026-06-21T21:00:30+03:00'
-        end_time: '2026-06-21T21:24:00+03:00'
+        start_time: '2026-06-21T21:00:02+03:00'
+        end_time: '2026-06-21T21:22:23+03:00'
         description: |-
           Pystyykö leikatulla toimeentulotuella vielä elämään Suomessa? Leonard Wilhelmuksen vieraana tutkija Tuija Korpela Kelasta.
           (es. 4.2.2026)
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-06-21T21:25:00+03:00'
-        end_time: '2026-06-21T22:22:00+03:00'
-        description: |-
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Vanhoja ystäviä ja uusia tuttavuuksia'
+        start_time: '2026-06-21T21:23:06+03:00'
+        end_time: '2026-06-21T22:15:56+03:00'
+        description: |
+          Suhde vanhoihinkin ystäviin, musiikkeihin, voi muuttua. Voi ilmetä uusia puolia, suhde voi syventyä.
+          Joskus kolahtaa kerralla. Jokin suhde kehittyy pikkuhiljaa, sille on annettava aikaa. Se voi vaatia ponnisteluja. 
+          Tämähän pätee aika monessa asiassa, tässä maailmassa. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+
+
+          Ohjelman musiikit: 
+
+          Jean-Philippe Rameau: Alkusoitto oopperasta Zais (Les Musiciens du Louvre/ Marc Minkowski).
+
+          Jean-Philippe Rameau: Entrée, ooperasta Les Boreades (Le Concert des Nations/ Jordi Savall).
+
+          Luca Marenzio: Solo e pensoso (Yksin ja mietteissäni) (Les Cris de Paris/ Geoffroy Jourdain).
+
+          Henry Purcell (san. Thomas Shadwell, sov. Christina Pluhar): Hark how the songsters ja Curtain tune on a ground (Raquel Andueza, sopraano, Philippe Jaroussky, kontratenori, ja L' Arpeggiata/ Christina Pluhar).
+
+          Antti Auvinen: Andalusian Panzerwagen Jazz (Petri Kumela, kitara, ja Tapiola Sinfonietta/ Dima Slobodeniouk).
+
+          Missy Mazzoli:  These worlds in us (Arctic Philharmonic Orchestra/ Timothy Weiss).
+
+          Johann Sebastian Bach (sov: Judith ja  Tineke Steenbrink): Sonaatti uruille n:o 5 C-duuri BWV529, osa Allegro  (Holland Baroque)
       - title: 'KC Kirjapodcast: Luokkaväkivalta ja Super-A rajalinko – Miten kirjojen maailmat sanoitetaan suomeksi?'
-        start_time: '2026-06-21T22:23:00+03:00'
-        end_time: '2026-06-21T22:52:00+03:00'
+        start_time: '2026-06-21T22:16:55+03:00'
+        end_time: '2026-06-21T22:45:38+03:00'
         description: |-
           Vieraina Kristiina Drews, Lotta Toivanen ja Quynh Tran.
-      - title: Romano mirits
-        start_time: '2026-06-21T23:26:00+03:00'
-        end_time: '2026-06-21T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+      - title: 'Romano mirits:  ”Nuoriso-ohjaajan pitää olla nuorten puolella, mutta myös kasvattajan roolissa”'
+        start_time: '2026-06-21T23:24:37+03:00'
+        end_time: '2026-06-21T23:39:08+03:00'
+        description: |
+          Tenho Keväänranta työskentelee Kurikan kaupungissa nuoriso-ohjaajana. Lapsena Ruotsissa asunut Keväänranta kertoo, että Tukholmassa Rinkebyn ala-asteella lapsia ei eroteltu – ei suomalaisina eikä romaneina. Perheen muutettua Kurikkaan tilanne muuttui.
+           
+          Niin henkinen kuin fyysinen vahvuus löytyi Ilmajoen kisailijoiden painisalilta. Samoin luottamus pääväestön ihmisiin. Hengellisen heräämisen jälkeen Keväänranta kutsuttiin Espanjaan turistikirkon nuorisotyötä perustamaan. Sieltä palaamisen jälkeen polku johti lastensuojelutyöhön ja nuoriso-ohjaajaksi.
+           
+          Romano miritsin on toimittanut Jaakko Laakso.
       - title: Yöklassinen
         start_time: '2026-06-21T23:40:00+03:00'
         end_time: '2026-06-22T06:30:00+03:00'
