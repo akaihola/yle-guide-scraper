@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-17T03:14:13.378629+00:00'
+  generated_at: '2026-06-18T03:13:49.266627+00:00'
   git:
     branch: main
-    commit: e5784651281c163576f0931506ed69b819c6b291
-  data_hash: 9bc0c85d93296c099c06d643de786115fe557b3f42c0cc913858776cba12de7f
+    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
+  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
 data:
   '':
     programmes:
@@ -56,11 +56,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-12T12:00:00+03:00'
         end_time: '2026-07-12T12:05:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Irtolaisia ja vittuvelkaisia -  kun Suomea siivottiin sopeutumattomista'
         start_time: '2026-07-12T12:05:00+03:00'
         end_time: '2026-07-12T12:55:00+03:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Millaisesta Suomesta 1900-luvun työlaitokset kertovat, millaisia kohtaloita suljetut laitokset kätkivät sisäänsä ja miten niissä elettiin? Ojentuiko isänmaamme? Asiantuntijana työlaitosten toimintaan perehtynyt historiantutkija ja kriminologian dosentti Katariina Parhi.
+
+
+          Toimittaja on Leena Peltokangas ja äänisuunnittelija Panu Willman.
+
+          Lukijoina Antti Palomaa ja Kirsi Matson-Mäkelä. 
       - title: 'Välilevyjä: Suuret voimat'
         start_time: '2026-07-12T13:00:00+03:00'
         end_time: '2026-07-12T13:57:00+03:00'
@@ -154,11 +159,11 @@ data:
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-07-12T19:02:30+03:00'
         end_time: '2026-07-12T20:00:00+03:00'
-      - title: Herättäjäjuhlien päiväseurat Ylivieskasta
+      - title: Herättäjäjuhlien päiväseurat Melenderin aukiolta Ylivieskasta
         start_time: '2026-07-12T20:00:00+03:00'
         end_time: '2026-07-12T21:00:00+03:00'
         description: |-
-          Puhujina toiminnanjohtaja Kalle Hiltunen, EU-komissaari emerita Jutta Urpilainen, Kokkola, historiantutkija Pauliina Ylitalo, Jämsä ja emerituspiispa Voitto Huotari, Mikkeli.
+          Alkujuonto: Meri Toivanen. Juhlapuhe: toiminnanjohtaja Kalle Hiltunen. Muut puhujat: EU-komissaari emerita Jutta Urpilainen, pääkirjoitustoimittaja, historiantutkija Pauliina Ylitalo ja emerituspiispa Voitto Huotari. Yhteislaulut: Virsi 170:1,4 sekä seurojen aikana valitut Siionin virret.
       - title: Uutispodcast
         start_time: '2026-07-12T21:00:30+03:00'
         end_time: '2026-07-12T21:24:00+03:00'

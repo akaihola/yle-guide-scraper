@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-17T03:14:10.777927+00:00'
+  generated_at: '2026-06-18T03:13:44.206628+00:00'
   git:
     branch: main
-    commit: e5784651281c163576f0931506ed69b819c6b291
-  data_hash: 9bc0c85d93296c099c06d643de786115fe557b3f42c0cc913858776cba12de7f
+    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
+  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
 data:
   '':
     programmes:
@@ -142,9 +142,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-27T15:25:00+03:00'
         end_time: '2026-06-27T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Vesi eri olomuodoissaan on vanhojen suomalaisten sananlaskujen suosikkiaihe'
         start_time: '2026-06-27T15:30:00+03:00'
         end_time: '2026-06-27T15:55:00+03:00'
+        description: |-
+          Pasi Heikura sukeltaa perinteentutkimuksen dosentti Tiina Sepän kanssa suomalaiseen vettä käsittelevään kansanviisauteen.Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-06-27T15:55:00+03:00'
         end_time: '2026-06-27T16:00:00+03:00'
@@ -195,8 +197,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-06-27T18:01:00+03:00'
         end_time: '2026-06-27T18:10:00+03:00'
-        description: |-
-          Kirkkoherra Ville Tikkanen, Kangasniemi
+        description: |
+          "Elämässä olen ensikertalainen"
+          Lauantai-illan rukoushetkessä Kangasniemen kirkkoherra Ville Tikkanen puhuu ihmisen keskeneräisyydestä ja Jumalan suuruudesta.
       - title: Lauantain toivotut levyt
         start_time: '2026-06-27T18:10:00+03:00'
         end_time: '2026-06-27T19:00:00+03:00'
