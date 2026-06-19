@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:43.543535+00:00'
+  generated_at: '2026-06-19T03:14:35.551051+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -49,6 +49,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-25T06:30:50+03:00'
         end_time: '2026-06-25T06:50:00+03:00'
+        description: |+
+          Händel: Oi Herra, henkesi valo suo (Seinäjoen tyttökuoro/Tuulikki Orrenmaa, sekä Katri Järventausta, piano).
+
+          Sormunen: Tule luokse Jeesuksesi (Jukka Leppilampi).
+
+          Tansanialainen kansanlaulu: Kutsuhuuto (Musiikkiryhmä Amani).
+
+          Koraalitoisinto (sov. Bartling): Sinuhun turvaan, Jumala (Histan veisaajat).
+
+          Hovland: Jumala loi auringon, kuun (Tapiolan kuoro/Kari Ala-Pöllänen, ja Kaisa-Leena Harjunmaa, piano).
+
       - title: Aamuhartaus
         start_time: '2026-06-25T06:50:00+03:00'
         end_time: '2026-06-25T06:59:59+03:00'
@@ -155,10 +166,21 @@ data:
         end_time: '2026-06-25T15:00:00+03:00'
         description: |
           Juontajana Miia Lahti. Keskikesä on kesäteattereiden kiihkeintä aikaa. Improvisaatioteatteri Stella Polariksen improvisoitu näytelmä Loukussa on erityisen ainutlaaluien esitys. Näytelmä esitetään kaikkiaan 11 kertaa, eikä yksikään esitys ole ole keskenään samanlainen. Näyttelijä, ohjaaja Mikko Penttilä kertoo Radio 1:n iltapäivässä improvisoidun näytelmän tekemisen ilosta klo 14 N. klo 14:30 uskontotieteen dosentti ja alkuperäiskansatutkija Vesa Matteo Piludu kertoo Marja Vehkaselle häntä erityisesti kiinnostavasta, saamelaisesta kulttuurista.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kesän taidenäyttelyt vievät tanskalaisen posliinin aatelistoon, veden syvyimpään olemukseen, unenomaiseen taiteeseen ja pisaran filosofiaan'
         start_time: '2026-06-25T15:00:00+03:00'
         end_time: '2026-06-25T15:58:00+03:00'
         description: |-
+          Heinolan Kaupunginmuseon kesänäyttelyssä ”Luonnon lumoissa – Ru Runebergin hopeataidetta ja Flora Danica kattauksia” on esillä hopeaseppä Ru Runebergin hyönteismaailmasta inspiroituneita teoksia ja Tanskan kuninkaallisen posliinitehtaan historiallista Flora Danica astiastoa. Runeberg yhdistää leikkisissä esineissään hopeaa ja lasia. Museossa esillä olevat Flora Danica -astiat kuuluvat Heinolan museoiden omaan kokoelmaan, joka on tämän astiaston osalta yksi Suomen arvokkaimpia.  
+
+          Fiskars on kesän suosituimpia matkailukohteita. Fiskarsin ruukissa järjestetään tapahtumakokonaisuus, jonka pääteemana on vesi. Fiskars Village Art & Design Biennale: Kansainvälinen nykytaiteen, muotoilun ja arkkitehtuurin biennaali levittäytyy Kuparipajaan ja ympäristöön 7.6.–30.8.2026.
+          Veden taju on taiteilija-tutkija Riikka Latva-Sompin kuratoima näyttely, joka tarkastelee ihmisen suhdetta veteen. KASTE on Fiskarsilaisten muotoilijoiden ja taiteilijoiden osuuskunnan Onoman kesänäyttely, jonka kuraattorina ja arkkitehtina toimi Marco Casagrande.
+
+          Riihimäen taidemuseossa on esillä viiden tunnetun kuvataiteilijan unenonomainen näyttely. Institute of voyeurism and gardening on Pamela Brandtin, Leonora Fredrikssonin, Susanne Gottbergin, Sara Oravan ja Stiina Saariston fantasiaa ylistävä kesäjuhla. Teokset avaavat näkymiä muistoihin, uniin, tunteisiin ja kehollisiin kokemuksiin. Näyttelyn osana on taidemuseon ja Riihimäen kaupunginmuseon kokoelmista valitut teokset ja esineet, joiden ympärille taiteilijat ovat rakentaneet kuvitteellisen instituutin museon tiloihin. Teemoissa näkyy puutarha, luonto, kärsimys, intohimo, pyhä, uni, viattomuus ja yö.
+
+          Ohjelman vieraina ovat Riitta Koskinen, Kari-Paavo Kokki, Katja Vuorinen-Parm, Riikka Latva-Somppi ja Marco Casagrande.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-25T16:00:00+03:00'

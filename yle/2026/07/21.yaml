@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:52.141718+00:00'
+  generated_at: '2026-06-19T03:14:40.152629+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -35,6 +35,9 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-07-21T09:00:00+03:00'
         end_time: '2026-07-21T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-07-21T09:04:00+03:00'
+        end_time: '2026-07-21T09:59:00+03:00'
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Pekka Raudaskoski'
         start_time: '2026-07-21T10:00:00+03:00'
         end_time: '2026-07-21T10:55:55+03:00'
@@ -86,8 +89,8 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-07-21T16:07:00+03:00'
         end_time: '2026-07-21T16:59:00+03:00'
-        description: |
-          Humperdinck: Tähtien tanssi näyt. Sinilintu (Bambergin sinfonikot/Karl Anton Rickenbacher).
+        description: |-
+          Humperdinck: Sternenreigen (Tähtien tanssi) näyt. Der blaue Vogel (Sinilintu) (Bambergin sinfonikot/Karl Anton Rickenbacher).
 
           Pandolfi Mealli: Sonaatti viululle ja continuolle (Tähti) (Andrew Manze, viulu, ja Richard Egarr, cembalo).
 
@@ -97,19 +100,19 @@ data:
 
           Linnavuori: Minä laulan sun iltasi tähtihin (Petteri Salomaa, baritoni, ja Ilmo Ranta, piano).
 
-          Rautavaara: Stars swarming (Tähtien parvet) teoksesta A Tapestry of life (Elämän kuvakudos) (HKO/Leif Segerstam).
+          Rautavaara: Stars swarming (Tähtien parvet) teoks. A tapestry of life (Elämän kuvakudos) (HKO/Leif Segerstam).
 
-          Sibelius: Soluppgång (Auringonnousu) (Karita Mattila ja Birminghamin SO/Sakari Oramo).  
+          Sibelius: Soluppgång (Auringonnousu) (Karita Mattila, sopraano, ja Birminghamin SO/Sakari Oramo).  
 
           Moberg: Soluppgång (Auringonnousu) teoksesta Tondikt n:o 1 (Sävelruno n:o 1) (Göteborgin SO/Johannes Gustavsson).
 
-          Gade: Im Wald (Ars Nova Copenhagen/Paul Hillier). 
+          Gade: Im Wald (Metsässä) (Ars Nova Copenhagen/Paul Hillier). 
 
-          Severac: Kylpijöitä auringonpaisteessa (Izumi Tateno, piano).
+          Severac: Baigneuses au soleil (Kylpijöitä auringonpaisteessa) (Izumi Tateno, piano).
 
           R. Schumann: Rose, Meer und Sonne kok. Zwölf Gedichte aus Liebesfrühling (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
 
-          Konsertin on laatinut Eva Tigerstedt
+          Konsertin on laatinut Eva Tigerstedt.
       - title: Uutispodcast
         start_time: '2026-07-21T17:05:00+03:00'
         end_time: '2026-07-21T17:30:00+03:00'
@@ -123,6 +126,11 @@ data:
         end_time: '2026-07-21T18:30:00+03:00'
         description: |-
           Aika ja elämä ovat ylellisyyksiä, jotka hehkuvat upeissa väreissä Astrid Swanin videolla. Ne kieppuvat etelä-italialaisen pizzican tahtiin ja vierivät eteenpäin kuin ma-ti-ke-to-pe-la-su Antiloopin laulussa
+      - title: 'Viikon luontoääni: Naali'
+        start_time: '2026-07-21T18:30:00+03:00'
+        end_time: '2026-07-21T18:35:00+03:00'
+        description: |-
+          Viikon luontoäänen esittelee Juha Laaksonen
       - title: Hartaita säveliä
         start_time: '2026-07-21T18:35:00+03:00'
         end_time: '2026-07-21T18:50:00+03:00'

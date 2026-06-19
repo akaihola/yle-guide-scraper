@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:46.472127+00:00'
+  generated_at: '2026-06-19T03:14:37.216401+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -64,7 +64,7 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-07-04T10:00:00+03:00'
         end_time: '2026-07-04T10:25:00+03:00'
-      - title: 'Hanna Tikander & Henkiset oppaat: “Kun työskentelen henkimaailman kanssa, en ole köyhä enkä kipee”'
+      - title: 'Hanna Tikanderin toiset todellisuudet: “Kun työskentelen henkimaailman kanssa, en ole köyhä enkä kipee”'
         start_time: '2026-07-04T10:25:00+03:00'
         end_time: '2026-07-04T11:00:00+03:00'
         description: |
@@ -75,7 +75,11 @@ data:
         start_time: '2026-07-04T11:00:00+03:00'
         end_time: '2026-07-04T11:52:00+03:00'
         description: |-
-          Korkea peli - riskinottaja Walter Ahlström
+          Walter Ahlströmin isästä Antti Ahlströmistä on sanottu, että hänellä ei ollut koskaan rahaa. Aina kun yhtiön kassa kasvoi, rahat pantiin uusiin investointeihin. Poika Walter jatkoi kovaa riskinottoa ja laajensi yhtiötä.
+
+          Ahlströmin suvun ja yhtiön juuret ovat Noormarkun ruukissa. Suku on sitoutunut pitämään alueen hyvässä kunnossa ja yleisö pääsee tutustumaan paitsi suomalaiseen teollisuushistoriaan, myös arkkitehtuurin ja muotoilun historiaan. 
+
+          Haastateltavina ovat historioitsija, filosofian tohtori Sakari Siltala, joka on kirjoittanut Walter Ahlströmin elämäkerran ja Walter Ahlström -säätiön hallituksen puheenjohtaja, professori Markku Wilenius. Toimittaja on Juha Virtanen.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-07-04T11:57:00+03:00'
         end_time: '2026-07-04T12:00:00+03:00'
@@ -132,9 +136,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-04T17:00:00+03:00'
         end_time: '2026-07-04T17:05:00+03:00'
-      - title: Marko Gustafsson
+      - title: Marko Gustafssonin vieraana jalkapalloerotuomari Mohammad Al-Emara
         start_time: '2026-07-04T17:05:00+03:00'
         end_time: '2026-07-04T17:58:00+03:00'
+        description: |
+          “Pelaajana olin itse kuumakalle, jolla oli mielipide kaikkiin kentän tapahtumiin”, Al-Emara muistelee. Pelaajauransa loputtua hän kuuli, että hankalista pelaajista voisi tulla hyviä erotuomareita. “Menin takki auki tuomarikouluun, että minä kyllä osaan ne hommat. Nopeasti iski nöyryys ja aloitin sääntöjen opiskelun nollasta”, hän naurahtaa. Veikkausliigan pelaajat ovat valinneet Al-Emaran jo kuusi kertaa vuoden parhaaksi tuomariksi. Ohjelma on uusinta ajalta 5.12.2024.
       - title: Yksi on hyvää seuraa
         start_time: '2026-07-04T17:53:00+03:00'
         end_time: '2026-07-04T18:00:00+03:00'

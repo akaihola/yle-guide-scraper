@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:49.770969+00:00'
+  generated_at: '2026-06-19T03:14:38.990690+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -67,9 +67,9 @@ data:
           Monti: Tuliharja (Vieno Kekkonen).
           Olivieri: Komm' zurück (Rudi Schuricke).
           Karlsson: Tähti ja meripoika (Olavi Virta).
-          Crolla: Du soleil plein la tete (Jacqueline Francois). 
+          Hornez/Crolla: Du soleil plein la tete (Jacqueline Francois). 
           Kärki: Pieni katu (Ritva Mustonen).
-          Meksikolainen kansanlaulu: La Bamba (Ritchie Valens).
+          Kansanlaulu: La Bamba (Ritchie Valens).
           Thompson: Il mondo nelle mani (Rita Pavone). 
           Cutugno: Olen suomalainen (Kari Tapio).
           Stevens: Peace train (Cat Stevens).
@@ -126,6 +126,33 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-07-14T16:07:00+03:00'
         end_time: '2026-07-14T16:59:00+03:00'
+        description: |-
+          Grieg: Allegro marcato (Norjalainen tanssi n:o 1) (Michala Petri, nokkahuilu, ja Englantilainen kamariork./Okko Kamu).
+
+          Fibich: Adagio ma non troppo pianotriosta f-molli (Smetana Trio).
+
+          Pejacevic: Capriccio (Natasa Veljkovic, piano).
+
+          Händel: Andante konsertosta uruille, orkesterille ja continuolle n:o 4 F-duuri (Valistuksen ajan orkesteri/Bob van Asperen, urut).
+
+          Vivaldi (sov. Yesilcay): Laudamus te Gloriasta D-duuri (Francesca Lombardi Mazzulli, sopraano, Valer Sabadus, kontratenori, ja Pera Ensemble/Mehmet Cemal Yesilcay). 
+
+          Torroba: Torija (Elegia) kok. Castillos de España (Espanjan linnoja) (Jyrki Myllärinen, kitara).
+
+          Donizetti: Tonion aaria "Pour me rapprocher de Marie" oopp. Rykmentin tytär (Luciano Pavarotti, tenori, ja Covent Garden -oopperan ork./Richard Bonynge).
+
+          Boyce: Sinfonia n:o 2 A-duuri (Academy of St. Martin-in-the-Fields/Neville Marriner).
+
+          Krumpholtz: The Favorite Air of Robin Adair, muunnelmia irlantilaisesta kansansävelmästä (Chiara Granata, harppu).
+
+          Faure: Gavotti sarjasta Masques et bergamasques (Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          Pierné: Canzonetta (Asko Heiskanen, klarinetti, ja Juhani Lagerspetz, piano).
+
+          Ponchielli: Enzon aaria "Cielo e mar" oopp. La Gioconda. (Jussi Björling, tenori, ja Firenzen musiikkijuhlien ork./Alberto Erede).
+
+
+          Konsertin on laatinut Ainomaija Pennanen.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-14T17:00:00+03:00'
         end_time: '2026-07-14T17:05:00+03:00'

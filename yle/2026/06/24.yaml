@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:42.752189+00:00'
+  generated_at: '2026-06-19T03:14:35.373810+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -44,6 +44,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-24T06:30:50+03:00'
         end_time: '2026-06-24T06:50:00+03:00'
+        description: |+
+          J.S. Bach (sov. Rathbone): Liebster Jesu, wir sind hier (Tänne Jeesus tulimme) (The Swingle Singers).
+
+          Savolainen: Löydä mut uudestaan (Pietari Savolainen).
+
+          Koraalitoisinto (sov. Haapasalo): Taas kukkasilla kukkulat (Kajaanin rauhanyhdistyksen seurakansa, ja Ossi Säily, urut).
+
+          Koraalitoisinto - Ristolainen: Oi, miksi tiellä Herrani (Jari Parviainen, basso, ja Arto Ristolainen, urut).
+
       - title: Aamuhartaus
         start_time: '2026-06-24T06:50:00+03:00'
         end_time: '2026-06-24T06:59:59+03:00'
@@ -150,6 +159,9 @@ data:
           Filippiinien diktaattori Ferdinand Marcos oli korruptoitunut ja rosvoiluun taipuvainen luonne. Ferdinand Marcos syntyi Havaijilla 11.9.1917 ja kuoli 28.9.1989 niin ikää Havaijilla. Tilinsä hän teki kuitenkin Filippiineillä. Marcos oli Filippiinien kymmenes presidentti ja diktaattori eli hän ei ollut mikään yksittäistapaus Filippiinien historiassa vaan pikemminkin maan perinteiden jatkaja, tosin Marcosin moderni kädenjälki oli omaa luokkaansa. Marcos hallitsi Filippiinejä vuosina 1965–1986, kunnes hänet syrjäytettiin.
            Toimittajana Raimo Tyykiluoto.
           (v. 2018)
+      - title: Musiikkikamari
+        start_time: '2026-06-24T12:50:00+03:00'
+        end_time: '2026-06-24T13:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-06-24T13:00:00+03:00'
         end_time: '2026-06-24T13:30:00+03:00'
@@ -159,11 +171,14 @@ data:
         description: |+
           Jalmari Laine on juontajana. Mikä vanhoissa kirjoissa saa tuhansittain ihmisiä kokoontumaan vuosittain Sastamalaan yhtenä kesäisenä viikonloppuna? Miten tärkeä on kirja esineenä? Vai onko tarina tärkeintä? Vanhan kirjallisuuden päivät keräävät kirjojen ja erityisesti vanhojen kirjojen ystävät Pirkanmaalle, Sastamalaan perinteisesti näin kesä-heinäkuun vaihteessa. Klo 14 tapahtuman toiminnanjohtaja Päivi Mäki-Kerttula on Joni Timosen studiovieraana.  N. klo 14:30 Riikka Holopaisen haastattelussa oli Riihimäen kesäkonserttien taiteellinen johtaja, pianisti, säveltäjä ja kapellimestari Tuomas Turriago.
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kesäfestivaalien Suomi – muutakin kuin iloa ja yhdessäoloa'
         start_time: '2026-06-24T15:00:00+03:00'
         end_time: '2026-06-24T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Monelle Kuhmo merkitsee kansanmusiikkia ja Savonlinna oopperaa. Kesäfestivaalit tuovat paikkakunnille sekä kulttuuria että ennen kaikkea mainetta.
+          Perinteikkäät festivaalit kokoavat kävijöitä vuodesta toiseen, mutta festivaalikenttä elää. Uusia syntyy ja vanhoja kuolee. Jokaisella festivaalilla on kuitenkin vaikutusta seudun asukkaisiin ja elinkeinoihin. Ymmärretäänkö kaikkialla kulttuurin merkitys vetovoimana?
+
+          Kulttuuriykkösessä kesäfestivaalien näkymistä ovat keskustelemassa Kuhmon kamarimusiikin taiteellinen johtaja Minna Pensola, Ruisrcokin toimitusjohtaja Mikko Niemelä, Finland Festivalsin toiminnanjohtaja Kai Amberla ja Kuntaliiton erityisasiantuntija Johanna Selkee. Lähetyksen toimittaa Miia Gustafsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-24T16:00:00+03:00'
         end_time: '2026-06-24T16:07:00+03:00'
@@ -212,6 +227,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-24T18:35:00+03:00'
         end_time: '2026-06-24T18:50:00+03:00'
+        description: |+
+          A. Vuori: Valon samba (Orquestra Montuno).
+
+          Tuntematon: Apostolinsa maailmaan (Cetus Noster, ja Jarmo Julkunen, teorbi).
+
+          Wislöff: Oi kiitos Herran (Viktor Klimenko).
+
+          Tin: Baba Yetu (Isä meidän) (Ron Ragin, laulu, sekä Soweto Gospel Choir ja Royal Philharmonic Orchestra).
+
       - title: Iltahartaus
         start_time: '2026-06-24T18:50:00+03:00'
         end_time: '2026-06-24T19:00:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-18T03:13:45.727557+00:00'
+  generated_at: '2026-06-19T03:14:36.641889+00:00'
   git:
     branch: main
-    commit: 4b70d63b381e14e2bc3b2e7c71cfe3676ae3fcad
-  data_hash: cfe1728b40fd4a0665f350145412426c30cfea7a8eda73f3bd42e322b976a1cd
+    commit: b29ebf57bac077d80d9d6648d01ba05935126838
+  data_hash: a26fcadc7cc9bfc32ab9122d73ba21254de759e87d53aa2fc5196fcbea49547f
 data:
   '':
     programmes:
@@ -222,24 +222,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-01T19:00:00+03:00'
         end_time: '2026-07-01T19:02:00+03:00'
-      - title: Bach, Bach ja Bach – Baijerin radiokuoro ja Akademie für Alte Musik esiintyvät
+      - title: 'Valon ja pimeyden välissä: Baijerin radiokuoro ja Berliinin Akademie für Alte Musik -yhtye esiintyvät Gluck-festivaalilla'
         start_time: '2026-07-01T19:02:00+03:00'
         end_time: '2026-07-01T21:00:00+03:00'
-        description: |-
-          Sukupolvesta toiseen Bachit muovasivat Keski-Saksan musiikkimaisemaa urkureina, kanttoreina, kaupunginmuusikoina ja hovitrumpetisteina.Tuomaskirkon kanttori Johann Sebastian sävelsi musiikkia ikuisuudelle, hänen poikansa lähtivät maailmalle ja löysivät paikkansa kaupungeissa kuten Hampuri, Lontoo ja Berliini. Baijerin radiokuoro esittää taiteellisen johtajansa Peter Dijkstran ja Akademie für Alte Musik -orkesterin kanssa kolmen Bach-sukupolven mestariteoksia.
+        description: |
+          Gluck-festivaalin, Baijerin radiokuoron ja Berliinin Akademie für Alte Musik -yhtyeen yhteisessä konsertissa soi musiikki lähes 400 vuoden ajalta. 
+          Christoph Willibald Gluckin sovitus psalmista 130, "De profundis", joka on yksi hänen harvoista uskonnollisista laulusävellyksistään, on kehystetty Johann Michael Bachin ja Johann Sebastian Bachin kantaateilla ja moteteilla. Ranskalais-brittiläisen sopraanon ja säveltäjän Héloïse Wernerin uuden teoksen kantaesitys viitoittaa tietä nykypäivään.
 
           Esiintyjät: 
 
           Baijerin radiokuoro
-          Akademie für Alte Musik, Berlin
+          Berliinin Akademie für Alte Musik
           Peter Dijkstra, kapellimestari
 
+          Magdalena Dijkstra, sopraano 
           Diana Fischer, sopraano
-          Veronika Sammer, mezzo-sopraano	 
-          Nikolaus Pfannkuch, tenori
-          Andreas Burkhart, baritoni
+          Julia Price, sopraano
+          Veronika Sammer, mezzosopraano	 
+          Mareike Braun, altto
+          Q-Won Han, tenori
+          Moon Yung Oh, tenori
+          Nikolaus Pfannkuch, tenori 
+          Andreas Burkhart, baritoni 
+          Christopher Dollins, baritoni
+          Korbinian Schlag, bassobaritoni  
+          Nicolas Ries, basso
 
-          Kuvassa: Baijerin radiokuoro © Astrid Ackermann
+          Äänitetty 8.5.2026 Neumarktissa, Saksassa. 
+
+          Kuvassa: Baijerin radiokuoro © Astrid Ackermann 
       - title: Havaintoja muutoksesta
         start_time: '2026-07-01T21:31:00+03:00'
         end_time: '2026-07-01T22:20:00+03:00'
