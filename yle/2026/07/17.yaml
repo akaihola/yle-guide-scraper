@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-22T03:15:45.937073+00:00'
+  generated_at: '2026-06-23T03:12:12.432611+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
+  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
 data:
   '':
     programmes:
@@ -45,14 +45,20 @@ data:
         end_time: '2026-07-17T09:59:00+03:00'
       - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
         start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
+        end_time: '2026-07-17T11:55:00+03:00'
         description: |-
           ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
+      - title: 'Tiedeykkönen: Sotateknologia'
+        start_time: '2026-07-17T12:05:00+03:00'
+        end_time: '2026-07-17T12:55:00+03:00'
+        description: |-
+          Toimittajana Jari Mäkinen.
       - title: 'Radio 1:n iltapäivä: Kirjani tarina: Liisa Louhela kertoo romaanistaan Mies joka kantoi aurinkoa sylissään'
         start_time: '2026-07-17T13:30:00+03:00'
         end_time: '2026-07-17T15:00:00+03:00'
         description: |-
           Juontajana Jarmo Laitaneva. N. klo 14. Kirjani Tarina: Liisa Louhela kertoo romaanistaan Mies joka kantoi aurinkoa sylissään. Toimittajana Tina Cavén.
+          N. klo 14:30 muusikko Harri Saksala kertoo omasta eniten häneen vaikuttaneesta kokemuksestaan. Ensilähetys oli 5.3.2026. Toimittajana Jalmari Laine.
       - title: Kulttuuriykkönen
         start_time: '2026-07-17T15:00:00+03:00'
         end_time: '2026-07-17T15:58:00+03:00'
@@ -63,14 +69,44 @@ data:
         end_time: '2026-07-17T17:30:00+03:00'
         description: |
           Suomen Vilnan-suurlähettiläs Arja Makkonen ja lehdistö- ja kulttuuriassistentti Rytė Baublytė-Savaja sekä toimittaja Jari Aula keskustelevat sarjan päätösjakossa Liettuan nykypäivästä. (es. 2024)
+      - title: 'Näistä levyistä en luovu: Mikki Kauste'
+        start_time: '2026-07-17T17:35:00+03:00'
+        end_time: '2026-07-17T18:30:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
       - title: Iltahartaus
         start_time: '2026-07-17T18:50:00+03:00'
         end_time: '2026-07-17T19:00:00+03:00'
         description: |-
-          Oppilaitospastori Marjut Mulari, Helsinki
-      - title: Euroradion konsertti-ilta
+          "Kotini on pilvilinnani"
+          Kesän perjantai-illoissa kysytään "Mikä on pyhää?" Oppilaitospastori Marjut Mulari Helsingistä puhuu kodin pyhyydestä ja omistamisen aiheuttamista ristiriitaisista tunteista. 
+      - title: 'Konsertteja: Ukrainan Radion kuoro ja Liatoshinsky Capella -orkesteri'
         start_time: '2026-07-17T19:02:00+03:00'
         end_time: '2026-07-17T21:00:00+03:00'
+        description: |-
+          Ukrainan Radion kuoron ja Kiovan Kamarisolistien konsertti on tallennettu Kiovassa Ukrainan Radion studiotalossa 11. kesäkuuta 2026, jolloin Venäjän hyökkäyssota ylitti kestoltaan ensimmäisen maailmansodan. 
+          Konsertin ohjelma yhdistää ukrainalaisen klassisen musiikin juuret laajempaan eurooppalaiseen perinteeseen ja luo vuoropuhelua kulttuurien ja vuosisatojen yli. Ohjelmassa kuullaan muun muassa ensimmäinen ukrainalainen sinfonia, jonka on säveltänyt vuosina Maksym Berezovskyn (17451–1777) sekä Franz Schubertin Messu G-duuri. Ohjelman täydentävät ukrainalaiset kansanlaulut, jotka yhdistävät akateemisen musiikin elävään kulttuurimuistiin. Konsertin toimittaa Ainomaija Pennanen.
+
+          Maksym Berezovsky: Sinfonia nro 1 C-duuri
+          Kiovan kamarisolistit
+          Yuliia Tkach, kapellimestari
+
+          Franz Schubert: Messu nro 2 G-duuri
+          Solistit:
+          Viktoria Chenska, sopraano	 
+          Sergiy Bortnyk , tenori	 
+          Oleksandr Boiko, basso	 
+          Ukrainian Radion kuoro
+
+          Yevhen Fedorovych Stankovych (sov. Mykola Hobdych, orkestrointi: Heorhii Chernenko): Finale Kupalo kansanoopperasta 'Kun saniainen kukkii'
+          Solistit:
+          Iryna Miasoied, sopraano	 
+          Yuliia Maletska-Kolisnyk, mezzo-sopraano
+
+          Trad. (Ukraina) (sov. Volodymyr Schneider ): The Willow Board
+          Solistit:
+          Ruslana Lotsman, sopraano	 
+          Viktor Kolomiets, piano
       - title: Yöklassinen
         start_time: '2026-07-17T23:40:00+03:00'
         end_time: '2026-07-18T07:30:00+03:00'

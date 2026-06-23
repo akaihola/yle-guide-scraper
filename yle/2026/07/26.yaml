@@ -1,17 +1,12 @@
 metadata:
-  generated_at: '2026-06-22T03:15:47.560144+00:00'
+  generated_at: '2026-06-23T03:12:14.066827+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
+  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
-        description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
       - title: Jumalanpalvelus Espoonlahden kirkosta
         start_time: '2026-07-26T10:00:00+03:00'
         end_time: '2026-07-26T10:59:20+03:00'
@@ -50,6 +45,9 @@ data:
           1900-luvun alkupuolen legendaariset muusikot olivat poikkeusyksilöitä, mutta elivätkö he sen takia poikkeukselliset elämät? Vai johtaako tilastollisesti poikkeuksellinen elämä poikkeukselliseen muusikkouteen? Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
 
           Ohjelma on uusinta vuodelta 2019.
+      - title: Uudet levyt
+        start_time: '2026-07-26T14:00:00+03:00'
+        end_time: '2026-07-26T14:55:00+03:00'
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-07-26T15:00:00+03:00'
         end_time: '2026-07-26T15:30:00+03:00'
@@ -62,6 +60,9 @@ data:
         description: |-
           Osa 17/22: Sallin kävi hullusti
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
+      - title: Musiikkikamari
+        start_time: '2026-07-26T15:47:00+03:00'
+        end_time: '2026-07-26T15:55:00+03:00'
       - title: 'Viikon luontoääni: Kuningaskalastaja'
         start_time: '2026-07-26T15:55:00+03:00'
         end_time: '2026-07-26T16:00:00+03:00'

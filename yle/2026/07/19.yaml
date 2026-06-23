@@ -1,17 +1,12 @@
 metadata:
-  generated_at: '2026-06-22T03:15:46.324654+00:00'
+  generated_at: '2026-06-23T03:12:12.791239+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
+  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
-        description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
       - title: Yöklassinen
         start_time: '2026-07-18T23:40:00+03:00'
         end_time: '2026-07-19T07:00:00+03:00'
@@ -64,6 +59,9 @@ data:
           Osa 15/22 Liisukka menee naimisiin
 
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
+      - title: Musiikkikamari
+        start_time: '2026-07-19T15:40:00+03:00'
+        end_time: '2026-07-19T15:55:00+03:00'
       - title: 'Viikon luontoääni: Naali'
         start_time: '2026-07-19T15:55:00+03:00'
         end_time: '2026-07-19T16:00:00+03:00'

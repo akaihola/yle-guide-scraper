@@ -1,17 +1,12 @@
 metadata:
-  generated_at: '2026-06-22T03:15:47.052377+00:00'
+  generated_at: '2026-06-23T03:12:13.540149+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
+  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
-        description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
       - title: Aamuhartaus
         start_time: '2026-07-23T06:50:00+03:00'
         end_time: '2026-07-23T06:59:59+03:00'
@@ -21,6 +16,28 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-07-23T08:07:00+03:00'
         end_time: '2026-07-23T09:00:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-07-23T09:04:00+03:00'
+        end_time: '2026-07-23T09:59:00+03:00'
+        description: |+
+          Bacharach: Do you know the way to San Jose? (Dionne Warwick).
+          Sainte-Marie: Mä meidän maalle tahdon takaisin (Eija Merilä).
+          Ojakäär: Rannakolhoosis (Georg Ots).
+          Lehtinen: Toiset meistä (Pepe ja Paradise).
+          Ledin: Blå blå vindar (Björn Skifs).
+          Mancini: Charade (Si Zentner).
+          Maduri: Lannevannelaulu (Laila Kinnunen).
+          Bourgeois/Riviere: Moi je joue (Brigitte Bardot).
+          Mackintosh: The creep (Ted Heath).
+          Bowman: East of the sun (and west of the moon) (Sarah Vaughan).
+          Kansanlaulu: Silloin minä itkin/Yksi ruusu on kasvanut laaksossa (Brita Koivunen).
+          V. Ferri: Ti regalo gli occhi miei (Gabriella Ferri).
+          Murray: Liftari oon (Paula Koivuniemi).
+          Donato: A ra (Gal Costa).
+          Silvennoinen: Aamukasteen laiva (Tabula Rasa).
+
+          Toimittajana Susanna Vainiola.
+
       - title: 'Marko Gustafsson: Käännnekohdissa Juha-Pekka Koskinen'
         start_time: '2026-07-23T10:00:00+03:00'
         end_time: '2026-07-23T10:55:00+03:00'
@@ -37,6 +54,8 @@ data:
         end_time: '2026-07-23T15:00:00+03:00'
         description: |-
           Savolainen Joroisten kunta on yksi niitä suomalaisia pieniä paikkakuntia, joiden elämä vilkastuu selvästi kesälomakaudella. Seudulla on runsaasti mökkiläisiä, jotka näkyvät raitilla kesäaikaan. Lisäksi pitäjän kulttuurielämä elävöityy kesällä. Joroisilla järjestetään perinteikästä musiikkitapahtumaa, Joroisten Musiikkipäiviä, jonka konserttisaleina toimivat seudun kartanot ja kirkot. Vuodesta 1977 saakka järjestetyn Joroisten Musiikkipäivien taiteellinen johtaja Jussi Merikanto on Joni Timosen haastattelussa.
+
+          N. klo 14:30 tietokirjailija Markku Laukkanen kertoo sykähdyttävästä kulttuurielämyksestään Juha Virtaselle. Ensilähetys 29.1.2026.
       - title: 'Kulttuuriykkönen: Miten meidät laitetaan yhteiskunnassa arvojärjestykseen?'
         start_time: '2026-07-23T15:00:00+03:00'
         end_time: '2026-07-23T15:58:00+03:00'
@@ -58,9 +77,11 @@ data:
         end_time: '2026-07-23T19:00:00+03:00'
         description: |-
           Viestintäsuunnittelija Mari Ahvenjärvi, Ulvila
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Iiro Rantala & David Helbock pianoduo Porgy & Bess -klubilla.'
         start_time: '2026-07-23T19:02:00+03:00'
         end_time: '2026-07-23T20:00:00+03:00'
+        description: |-
+          Äänitetty Wienin Porgy & Bess -klubilla tammikuussa 2024.
       - title: Klassinen kattaus
         start_time: '2026-07-23T20:00:00+03:00'
         end_time: '2026-07-23T20:57:00+03:00'

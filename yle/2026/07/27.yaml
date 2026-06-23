@@ -1,14 +1,165 @@
 metadata:
-  generated_at: '2026-06-22T03:15:47.728911+00:00'
+  generated_at: '2026-06-23T03:12:14.251476+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
+  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-07-27T06:30:50+03:00'
+        end_time: '2026-07-27T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-07-27T06:50:00+03:00'
+        end_time: '2026-07-27T06:59:59+03:00'
         description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
+          Seurakuntapastori Miika Koistinen, Kuopio
+      - title: Aamusoitto
+        start_time: '2026-07-27T07:06:00+03:00'
+        end_time: '2026-07-27T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-27T08:00:00+03:00'
+        end_time: '2026-07-27T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-07-27T08:07:00+03:00'
+        end_time: '2026-07-27T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-07-27T09:00:00+03:00'
+        end_time: '2026-07-27T09:03:00+03:00'
+      - title: 'Virtasen taloushistoria: Lahti. Suomi. Miten radio ja tv mullistivat elämämme?'
+        start_time: '2026-07-27T10:00:00+03:00'
+        end_time: '2026-07-27T10:52:00+03:00'
+        description: |-
+          Lahti. Suomi. Miten radio ja tv mullistivat elämämme? Vieraana on Radio- ja tv-museo Mastolan museonjohtaja Tuulia Tuomi
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-27T10:52:00+03:00'
+        end_time: '2026-07-27T11:00:00+03:00'
+      - title: 'Välilevyjä: Taidepaussi'
+        start_time: '2026-07-27T11:00:00+03:00'
+        end_time: '2026-07-27T11:57:00+03:00'
+        description: |
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Ohjelma on uusinta keväältä 2023.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-07-27T11:57:00+03:00'
+        end_time: '2026-07-27T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-27T12:00:00+03:00'
+        end_time: '2026-07-27T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2026-07-27T12:05:00+03:00'
+        end_time: '2026-07-27T12:55:00+03:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: 'Tiedetrippi: Maailmamme voi olla simulaatio'
+        start_time: '2026-07-27T13:00:00+03:00'
+        end_time: '2026-07-27T13:30:00+03:00'
+        description: |-
+          Mikäli sivilisaatiomme selviää ja saavuttaa riittävän teknologisen tason, voisi tulevaisuuden ihminen luoda simuloituja todellisuuksia, joiden olennot eivät tiedosta olevansa simulaatiossa. Mutta mitä jos me olemme niitä olentoja?
+          (2025)
+      - title: 'Radio 1:n iltapäivä: Maanantaimuseo - Kellomuseo'
+        start_time: '2026-07-27T13:30:00+03:00'
+        end_time: '2026-07-27T15:00:00+03:00'
+        description: |-
+          Radio 1:n iltapäivää juontaa Joni Timonen. Espoossa sijaitsee pohjoismaalaisittain ainutlaatuinen museo, joka kerää tietoa ja esineistöä liittyen aikaan. Maanantaimuseo vierailee Suomen kellomuseossa, jossa Marko Miettistä luotsaa Museomestari Rami Laitinen.
+      - title: 'Kulttuuriykkönen: Kulttuuri litistyy, sanoo professori – nykyään kaikki kokevat olevansa uhattuina, myös enemmistö'
+        start_time: '2026-07-27T15:00:00+03:00'
+        end_time: '2026-07-27T15:58:00+03:00'
+        description: |-
+          Elämme kulttuurin häviämisen aikaa, sanoo ranskalaisprofessori Olivier Roy teoksessaan The Crisis of Culture (Kulttuurin kriisi). Kulttuuri korvautuu ohjeilla ja kärsimys-identiteeteillä. Miltä tilanne näyttää Suomessa? Royn kirjasta eskustelemassa kirjailija-toimittaja Iida Sofia Hirvonen sekä kriitikko Aleksis Salusjärvi. Jakke Holvas juontaa.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-27T16:00:00+03:00'
+        end_time: '2026-07-27T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-07-27T16:07:00+03:00'
+        end_time: '2026-07-27T16:59:00+03:00'
+        description: |
+          Lawes: Sleep soft, you cold clay cinders (Johannette Zomer, sopraano, ja Fred Jacobs, luuttu). 
+
+          F. Couperin: Le réveil-matin (Herätyskello) (Angela Hewitt, piano).
+
+          Beach: Dreaming (Judith Herbert, sello, ja Diana Ambache, piano).
+
+          Vaughan Williams: Let beauty awake (Herätköön kauneus) (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+
+          Mahler: Revelge (Christian Gerhaher, baritoni, ja Clevelandin ork./Pierre Boulez).
+
+          Pärt: Morning star (Polyphony/Stephen Layton). 
+
+          Madetoja: Aamu (Margit Rahkonen, piano).
+
+          Ravel: Narrin aamulaulu (Bostonin SO/Bernard Haitink).
+
+          Britten: Aikainen aamu-uinti pianosarj. Lomapäiväkirja (Dejan Lazic, piano).
+
+          Morley: Arise, awake, you silly shepherds sleeping (The Consort of Musicke/ Anthony Rooley).
+
+          Carreño: Un sueño en el mar (Unelma merellä) (Clara Rodriguez, piano).
+
+          Linsén: Kesäpäivä Kangasalla (Candomino/Tauno Satomaa).
+
+          Konsertin on laatinut Eva Tigerstedt
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-27T17:00:00+03:00'
+        end_time: '2026-07-27T17:05:00+03:00'
+      - title: 'Faijan vika valhe: Reposaari, paheiden pesä ja ahlaislaisten Amerikka'
+        start_time: '2026-07-27T17:05:00+03:00'
+        end_time: '2026-07-27T17:30:00+03:00'
+        description: |
+          Miten Jussi Fahlerista, herkästä runopojasta, tuli radikaali vallankumousaktiivi? Yksi vastaus
+          löytyy Reposaaresta, 1910-luvun vilkkaasta kauppasatamasta, jossa rankka työ maksoi
+          rankat huvit. Axa huomaa, että Jussi ei osannut painaa jarrua oikeaan aikaan. Niin tämä
+          ajautui mukaan sisällissotaa edeltävään loppurynnistykseen.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-27T17:30:00+03:00'
+        end_time: '2026-07-27T17:35:00+03:00'
+      - title: 'Keinuva talo - Mika Kauhanen: Aikamatka Euroopan etnovuoteen 1983'
+        start_time: '2026-07-27T17:35:00+03:00'
+        end_time: '2026-07-27T18:35:00+03:00'
+        description: |
+          Etnovuodesta 1983 kuulee, että syntikat ja chorus-pedaalit olivat saapuneet levytysstudioihin. Onneksi niitä osattiin käyttää tyylillä tuolloinkin. Vuosi oli hyvä vuosi, silloin uutta musiikkia julkaisivat mm. Clannad, Planxty, Amália Rodrigues ja Camarón de la Isla. Pelottavan ajankohtaiselta tuntuu Blowzabellan kappale Masters of War.
+
+          Keinuvassa talossa tsuumataan siihen, millainen kansanmusiikki ja maailmanmusiikki innosti yleisöjä vuosikymmeniä sitten. Nostalginen minisarja kattaa vuodet 2003, 1993, 1983 ja 1973. Toimittajana Mika Kauhanen. Uusinta kesäkuulta 2023. 
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2026-07-27T18:35:00+03:00'
+        end_time: '2026-07-27T18:50:00+03:00'
+        description: |-
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2026-07-27T18:50:00+03:00'
+        end_time: '2026-07-27T19:00:00+03:00'
+        description: |-
+          "Matteuksen evankeliumi: Kylväjävertauksen selitys"
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (13:18-13:58) UT2020 käännöksen mukaan. 10. jaksossa Jeesus selittää vertauksiensa merkitystä ja puhuu Taivaiden valtakunnasta.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-27T19:00:00+03:00'
+        end_time: '2026-07-27T19:02:00+03:00'
+      - title: 'Väkivallan markkinat: Laiton ase on rikollisen statussymboli'
+        start_time: '2026-07-27T19:02:00+03:00'
+        end_time: '2026-07-27T19:50:00+03:00'
+        description: |
+          “Mika” myi parikymmentä vuotta kokaiinia, ja siihen maailmaan kuuluivat nopeasti myös aseet. Ensimmäiset asekauppansa hän teki huoltoaseman pihalla. Aluksi ase oli hänelle machoilun väline, kunnes “Mika” alkoi kokea sen välttämättömäksi. Miten Suomessa hankitaan laiton ase? 
+      - title: Mannerheimin agentti
+        start_time: '2026-07-27T20:05:00+03:00'
+        end_time: '2026-07-27T20:25:00+03:00'
+        description: |-
+          Jakso 9/10: Kirje Kekkoselle.
+          Kaksi vuotta ennen kirjansa julkaisua Tahvanainen kirjoitti presidentti Kekkoselle ja ulkoasiainministeri Karjalaiselle pyytäen näiden mielipidettä eräässä poliittisesti tulenarassa asiassa.
+
+          Koskinen ja Oikuri ovat kansallisarkistossa lukemassa kyseistä pitkää kirjettä. Mitä kirje piti sisällään ja miten siihen reagoitiin? Jaksossa kuullaan myös Tahvanaisen vierailu Yleisradion Tässä ja nyt -ohjelmassa vuonna 1971.
+      - title: 'Hanna Tikanderin toiset todellisuudet: “Sain yhteyden kuolleeseen shamaaniopettajaani hengitysharjoituksen avulla”'
+        start_time: '2026-07-27T20:25:00+03:00'
+        end_time: '2026-07-27T21:00:00+03:00'
+        description: |
+          Janne on omien sanojensa mukaan aivan pärähtänyt hengitystekniikkaan nimeltä breathwork. Sen avulla voi Jannen mukaan kokea henkimaailman läsnäoloa, purkaa omia traumoja ja vaikeita tunteita. 
+          Syvähengitys, jooga ja muut henkisen maailman harjoitukset auttoivat Jannea pääsemään eroon päihteiden täyteisestä elämästä. Yhteys itseen sekä elämän tarkoituksen löytäminen kannattelevat nyt Jannea.
+      - title: Tiedeykkönen
+        start_time: '2026-07-27T21:30:30+03:00'
+        end_time: '2026-07-27T22:20:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-07-27T22:45:00+03:00'
+        end_time: '2026-07-27T23:39:30+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
