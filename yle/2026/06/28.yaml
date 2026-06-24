@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-23T03:12:08.264040+00:00'
+  generated_at: '2026-06-24T03:12:36.000751+00:00'
   git:
     branch: main
-    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
-  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
+    commit: 685ec6b4cd0651e56ff66d6348e45b81a316e5b8
+  data_hash: 3cf856b0a2f4fea3ee937ca90cb6d355927089ba129e252162139673925a975e
 data:
   '':
     programmes:
@@ -61,11 +61,11 @@ data:
           05:59 N. Bernier: Apollon ou le Dieu du jour (Robert Getchell, kontratenori, Gaëlle Mechaly, sopraano, ja Alain Buet, basso, sekä Les Floies Francaises/Patrick Cohën-Akenine, viulu).
 
           06:44 Zipoli: Sarja kosketinsoittimelle n:o 1 h-molli (Giovanni Nesi, piano).
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hiljaisuuksia'
         start_time: '2026-06-28T07:00:30+03:00'
         end_time: '2026-06-28T07:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Hiljaisuus voi olla lempeä ja armollinen, tai ahdistava ja yksinäinen. Se voi myös olla julmaa vallankäyttöä. Aikamme meluisassa ympäristössä hiljaisuudesta voi tulla ylellisyyttä. Musiikissa hiljaisuudet ovat yhtä tärkeitä kuin äänet jotka niitä ympäröivät. Hiljaisuutta pohtivat tutkija Outi Ampuja ja utelias äänimatkailija Eva Tigerstedt. Ohjelma on uusinta vuodelta 2017.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-28T08:00:00+03:00'
         end_time: '2026-06-28T08:05:05+03:00'
@@ -211,9 +211,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-06-28T19:00:00+03:00'
         end_time: '2026-06-28T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: Sami Leponiemi Quartet Jazzklubin studiosessioissa'
         start_time: '2026-06-28T19:02:30+03:00'
         end_time: '2026-06-28T20:00:00+03:00'
+        description: |-
+          Haastatteluvieraana Sami Leponiemi. Toimittaja Markus Partanen.
       - title: Elävän veden virrat – Siionin kanteleen seurat Evankelisen lähetysyhdistyksen kesäjuhlilta Ikaalisten kirkosta
         start_time: '2026-06-28T20:00:00+03:00'
         end_time: '2026-06-28T21:00:00+03:00'
@@ -224,16 +226,22 @@ data:
         end_time: '2026-06-28T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Hiljaisuuksia'
         start_time: '2026-06-28T21:25:00+03:00'
         end_time: '2026-06-28T22:22:00+03:00'
+        description: |
+          Hiljaisuus voi olla lempeä ja armollinen, tai ahdistava ja yksinäinen. Se voi myös olla julmaa vallankäyttöä. Aikamme meluisassa ympäristössä hiljaisuudesta voi tulla ylellisyyttä. Musiikissa hiljaisuudet ovat yhtä tärkeitä kuin äänet jotka niitä ympäröivät. Hiljaisuutta pohtivat tutkija Outi Ampuja ja utelias äänimatkailija Eva Tigerstedt. Ohjelma on uusinta vuodelta 2017.
+      - title: ' KC Kirjapodcast: Rakkauksia ja eroja – Miten kirjoittaa haaveista ja haavoista?'
+        start_time: '2026-06-28T22:23:00+03:00'
+        end_time: '2026-06-28T22:52:00+03:00'
         description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Romano mirits
+          Vieraina Aina Bergroth, Juha Itkonen ja Chimamanda Ngozi Adichie.
+      - title: 'Romano mirits: Allan Bollström'
         start_time: '2026-06-28T23:26:00+03:00'
         end_time: '2026-06-28T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |
+          14 minuuttia romanikulttuuria sarjassa kuullaan henkilöhaastattelu Allan Bollströmiltä. 
+          Haastattelijana Mertsi Lindgren.
       - title: Yöklassinen
         start_time: '2026-06-28T23:40:00+03:00'
         end_time: '2026-06-29T06:30:00+03:00'

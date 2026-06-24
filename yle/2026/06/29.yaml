@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-23T03:12:08.461471+00:00'
+  generated_at: '2026-06-24T03:12:36.392510+00:00'
   git:
     branch: main
-    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
-  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
+    commit: 685ec6b4cd0651e56ff66d6348e45b81a316e5b8
+  data_hash: 3cf856b0a2f4fea3ee937ca90cb6d355927089ba129e252162139673925a975e
 data:
   '':
     programmes:
@@ -46,7 +46,8 @@ data:
         start_time: '2026-06-29T06:50:00+03:00'
         end_time: '2026-06-29T06:59:59+03:00'
         description: |-
-          Seurakuntapastori Miika Koistinen, Kuopio
+          "Pysyvä turva"
+          Seurakuntapastori Miika Koistinen Kuopiosta palaa nuoruutensa lempilevyihin, joiden soinnissa kuuluu ihmisen aiheuttamat pettymykset. Turvallisinta on rakentaa identiteetti idolien sijaan Jumalan varaan.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-29T07:00:00+03:00'
         end_time: '2026-06-29T07:05:00+03:00'
@@ -166,6 +167,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-06-29T16:07:00+03:00'
         end_time: '2026-06-29T16:59:00+03:00'
+        description: |-
+          L. Mozart: Allegro pasuunakonsertosta D-duuri (Teppo Alestalo, pasuuna, ja RSO/Dima Slobodeniouk).
+
+          Sweelinck: Vihreiden lehmusten alla (Andrew Rangell, piano).
+
+          Rahmaninov: Yön hiljaisuudessa (Renée Fleming, sopraano, ja Jean-Yves Thibaudet, piano). 
+
+          Poulenc: Divertissement sekstetosta pianolle ja puhallinkvintetille (Eric Le Sage, piano, ja Les Vents Francais). 
+
+          Lully: Regina coeli (Les Arts Florissants -yhtyeen jäseniä).
+
+          J. Kuusisto: Loisto viululle ja pianolle (Jaakko Kuusisto ja Heini Kärkkäinen). 
+
+          Respighi: Nebbie (Usvat) (Freddie De Tommaso, tenori, ja Lontoon FO/Renato Balsadonna). 
+
+          Chopin. Impromptu n:o 3 Ges-duuri (Jon Nakamatsu, piano).
+
+          Rosenberg: Pust (Henkäys) (Anna-Kari Frisk, sopraano, ja Voces Nordicae/Lone Larsen).  
+
+          Legrand: Les parapluies de Cherbourg (Jessye Norman, sopraano, ja Michel Legrand, piano).
+
+          Sallinen: Allegro - Presto - Prestissimo sellokonsertosta op.44 (Jan-Erik Gustafsson, sello, ja Norrköpingin SO/Ari Rasilainen).
+
+          Toimuttaja Lotta Emanuelsson
       - title: Yle Uutiset ja sää
         start_time: '2026-06-29T17:00:00+03:00'
         end_time: '2026-06-29T17:05:00+03:00'

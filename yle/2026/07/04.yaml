@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-23T03:12:09.934392+00:00'
+  generated_at: '2026-06-24T03:12:38.581548+00:00'
   git:
     branch: main
-    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
-  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
+    commit: 685ec6b4cd0651e56ff66d6348e45b81a316e5b8
+  data_hash: 3cf856b0a2f4fea3ee937ca90cb6d355927089ba129e252162139673925a975e
 data:
   '':
     programmes:
@@ -90,9 +90,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-04T12:00:00+03:00'
         end_time: '2026-07-04T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Neljäntienristeys näyttää lestadiolaisyhteisön kontrollin ja hoivan'
         start_time: '2026-07-04T12:05:00+03:00'
         end_time: '2026-07-04T13:00:00+03:00'
+        description: |-
+          Tommi Kinnusen Neljäntienristeys on avausosa tarinalliselle jatkumolle, joka täydentyy syksyllä julkaistavalla Pitkä aukea -romaanilla. Kinnusen esikoisromaani Neljäntienristeys reilun kymmenen vuoden takaa lukeutuu teoksiin, jotka kuvaavat vanhoillislestadiolaisuuden vaikutusta yksilöihin ja yhteisön normeihin. Kuusamoon sijoittuva tarina ulottuu 1800-luvun lopulta vuoteen 1996. Kuinka lähelle todellisuutta romaani osuu? Mikä on muuttunut vanhoillislestadiolaisuuden piirissä, mikä ei? Millaista on olla nainen tai vähemmistön edustaja vanhoillislestadiolaisuuden vaikutuspiirissä? 
+          Neljäntienristeyksen esiin nostaman aihepiirin äärelle pysähtyvät kulttuurintutkimuksen dosentti Teija Rantala ja teologian tohtori, lestadiolaisuustutkija Meri-Anna Paloniemi, joka on lähestynyt tutkimusaluettaan myös taiteen keinoin. Keskustelua johtaa Marja Vehkanen.
       - title: 'Näistä levyistä en luovu: Timo Tuominen'
         start_time: '2026-07-04T13:00:00+03:00'
         end_time: '2026-07-04T13:55:00+03:00'
@@ -135,6 +138,30 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-07-04T16:07:00+03:00'
         end_time: '2026-07-04T16:59:59+03:00'
+        description: |-
+          Pheloung: Inspector Morse tv-sar. Endeavour (Nuori Morse) (Ork./Barrington Pheloung).
+
+          Hatshaturjan: Spartacuksen ja Fryygian adagio bal. Spartacus (Skotlannin kansallisork./Neeme Järvi).
+
+          O. Palmgren: Spegling (Heijastus) (Walton Grönroos, baritoni, ja yhtye/Kaj-Erik Gustafsson).
+
+          Beach: Valse amoureuse sarj. Les rêves de Columbine (Columbinen unet) (Sunhwa Park, piano).
+
+          Bright: Intermezzo - Andante espressivo kons. pianolle ja orkesterille n:o 1 a-molli (Samantha Ward ja Liverpoolin kuninkaallinen FO/Charles Peebles).
+
+          Barns: Idylli (Alexandra Mackenzie, sello, ja Ingrid Sawers, piano).
+
+          Canteloube (sov.): Pastorale kok. Chants d'Auvergne (Veronique Gens, sopraano, ja Lillen kansallisork./Serge Baudo). 
+
+          Price: Scherzo kvintetosta pianolle ja jousille a-molli (Kaleidoscope Chamber Collective).
+
+          Nepomuceno: Batuque teoks. Serie brasileira (Sao Paulon SO/Roberto Minczuk).
+
+          A. Järvelä: Pato (Vox Aurea/Sanna Salminen).
+
+          Forsström: Five corners teoks. Life in the capital city (Töölö Brass/Okko Kivikataja).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-04T17:00:00+03:00'
         end_time: '2026-07-04T17:05:00+03:00'

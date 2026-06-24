@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-23T03:12:13.713668+00:00'
+  generated_at: '2026-06-24T03:12:45.331276+00:00'
   git:
     branch: main
-    commit: e9356e2dde3534b0d1e70f5a245c49c137d15da6
-  data_hash: f683d6c3652b962033d9464576ca73bd2801a80348e467dff0284eaeea81dd9b
+    commit: 685ec6b4cd0651e56ff66d6348e45b81a316e5b8
+  data_hash: 3cf856b0a2f4fea3ee937ca90cb6d355927089ba129e252162139673925a975e
 data:
   '':
     programmes:
@@ -55,8 +55,10 @@ data:
       - title: Iltahartaus
         start_time: '2026-07-24T18:50:00+03:00'
         end_time: '2026-07-24T19:00:00+03:00'
-        description: |-
-          Rovasti, toiminnanjohtaja Medialähetys Sanansaattajat Mikko Matikainen, Vantaa
+        description: |
+          "Juurihoitoa katkeruuteen"
+          Kesän perjantai-illoissa kysytään "Mikä on pyhää?" 
+          Rovasti, Medialähetys Sanansaattajien toiminnanjohtaja Mikko Matikainen Vantaalta huomaa arkisen ja pyhän koskettavan toisiaan hammaslääkärin vastaanotolla. Katkeruudella ja hammasvaivoilla on yllättäviä yhtäläisyyksiä. 
       - title: 'Konsertteja: Kuhmon Kamarimusiikki – Villisti kaupunki'
         start_time: '2026-07-24T19:02:00+03:00'
         end_time: '2026-07-24T21:00:00+03:00'
