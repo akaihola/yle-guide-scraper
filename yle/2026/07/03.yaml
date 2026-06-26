@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-25T03:12:18.856090+00:00'
+  generated_at: '2026-06-26T03:13:19.321072+00:00'
   git:
     branch: main
-    commit: 309592dcf2ed5b0aceb3ffe03c34f14a5b983fa8
-  data_hash: ef7915a258785feb9e96e5ab12fe8b88a05125de0895e180aca578d09cbccaaa
+    commit: 55901b84d673ec495c10a610551f81595f8c4171
+  data_hash: fd1850f82ea8c7f0c4b066d8bc41a1595962ac5ecd5fc1d1bd4a2c73a92aa341
 data:
   '':
     programmes:
@@ -13,6 +13,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-03T06:30:50+03:00'
         end_time: '2026-07-03T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto: Salattu voima uskonelämässä (Rinki).
+
+          Federley: Viimeinen aamu (Gospel Covertajat ja Tulus/Esa Jaakkola).
+
+          Nikkola: Herra, lahjanasi sain nuoren elämäni (virsi 507) (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
+
+          Madetoja: Ei mitään multa puutu (CCF/Kari Turunen).
+
+          Haapalainen (sov. Nyman): Oi, ilon lähde ja aurinkomme (virsi 755) (Jakaranda/Pekka Nyman).
+
       - title: Aamuhartaus
         start_time: '2026-07-03T06:50:00+03:00'
         end_time: '2026-07-03T06:59:59+03:00'
@@ -59,7 +70,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-07-03T09:04:00+03:00'
         end_time: '2026-07-03T09:59:00+03:00'
-      - title: 'Kalle Haatanen: Suuri suomalainen vakoilutapaus'
+      - title: Kalle Haatanen
         start_time: '2026-07-03T10:00:00+03:00'
         end_time: '2026-07-03T10:55:00+03:00'
         description: |-
@@ -83,11 +94,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-03T12:00:00+03:00'
         end_time: '2026-07-03T12:05:00+03:00'
-      - title: 'Tiedeykkönen: Uusinta tietoa lihavuustutkimuksesta'
+      - title: 'Tiedeykkönen: Uusinta tietoa lihavuuden biologiasta ja hoitokeinoista'
         start_time: '2026-07-03T12:05:00+03:00'
         end_time: '2026-07-03T12:55:00+03:00'
         description: |-
-          Tietämys lihavuuden monimutkaisesti biologiasta lisääntyy. Miten paljon geenit, aivokemia ja suolistomikrobit vaikuttavat? Haasteltavina  lihavuuslääkäri Johanna Matilainen ja Julia Lautaoja-Kivipelto. Toimittajana Minna Korhonen.
+          Tietämys lihavuuden monimutkaisesti biologiasta lisääntyy. Siitä huolimatta lihavia syyllistetään ja tämä aiheuttaa heille häpeää. Miten paljon geenit, aivokemia ja suolistomikrobit vaikuttavat? Haasteltavina lihavuuslääkäri Kirsi Pietiläinen sekä tutkijatohtori Johanna Matilainen Helsingin yliopistosta ja tutkijatohtori Julia Lautaoja-Kivipelto Oulun yliopistosta. Toimittajana Minna Korhonen.
       - title: 'Radio 1:n iltapäivä: Kirjani tarina - Vera Vala - Persikankukkien aikaan'
         start_time: '2026-07-03T13:30:00+03:00'
         end_time: '2026-07-03T15:00:00+03:00'
@@ -146,6 +157,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-03T18:35:00+03:00'
         end_time: '2026-07-03T18:50:00+03:00'
+        description: |+
+          Voipio: Niityn kukat ihanat (Risto Lauriala, piano).
+
+          Tuntematon (sov. Sippola): Mua siipeis suojaan kätke (virsi 552) (Laura Sippola ja Tuki).
+
+          Koraalitoisinto: Rauhan Herra, siunaa meitä (virsi 589) (Jaakko Kortekangas, baritoni, ja Eero Annala, urut).
+
       - title: Iltahartaus
         start_time: '2026-07-03T18:50:00+03:00'
         end_time: '2026-07-03T19:00:00+03:00'

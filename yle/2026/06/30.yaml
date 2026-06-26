@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-25T03:12:18.188955+00:00'
+  generated_at: '2026-06-26T03:13:18.647790+00:00'
   git:
     branch: main
-    commit: 309592dcf2ed5b0aceb3ffe03c34f14a5b983fa8
-  data_hash: ef7915a258785feb9e96e5ab12fe8b88a05125de0895e180aca578d09cbccaaa
+    commit: 55901b84d673ec495c10a610551f81595f8c4171
+  data_hash: fd1850f82ea8c7f0c4b066d8bc41a1595962ac5ecd5fc1d1bd4a2c73a92aa341
 data:
   '':
     programmes:
@@ -50,11 +50,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-30T06:30:50+03:00'
         end_time: '2026-06-30T06:50:00+03:00'
+        description: |+
+          Williams: Laula Herran rakkaudesta (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Koraalitoisinto (sov. Paukkeri): Suo, Jeesus, paras opettaja (virsi 409) (SRK:n nuorten miesten kuoro/Joska Vähäjylkkä).
+
+          Faltin: Mä elän laupeudesta (virsi 275) (Kampin Laulu/Markku Pihlaja).
+
+          Koraalitoisinto: Soi, virteni, kiitosta Herran (Lauluyhtye Toisinto ja Sinikka Kontio, veisuu).
+
+          Spirituaali: Kuulkaa, keitä Mestari (virsi 516) (RKK/Timo Nuoranne).
+
       - title: Aamuhartaus
         start_time: '2026-06-30T06:50:00+03:00'
         end_time: '2026-06-30T06:59:59+03:00'
         description: |-
-          Hiippakuntadekaani Juha Rauhala, Oulu
+          "Missä on surua, siellä on pyhää maata"
+          Hiippakuntadekaani Juha Rauhala Oulusta puhuu pyhän maan löytämisestä pysähtymällä toisen ihmisen todellisuuden äärelle.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-30T07:00:00+03:00'
         end_time: '2026-06-30T07:05:00+03:00'
@@ -178,11 +190,14 @@ data:
         end_time: '2026-06-30T15:00:00+03:00'
         description: |
           Juontajana Jarmo Laitaneva. N. klo 14 käsikirjoittaja-ohjaaja Markus Lehmusruusun käsikirjoittama ja ohjaama elokuva, Orava, vie aikamatkalle tulevaisuuteen. Huhtikuun alussa ensi-iltansa saanut suomalais-eurooppalainen elokuva vie katsojansa maailmaan, jossa luonto on hävinnyt miltei kokonaan. Mikä inspiroi Lehmusruusua kirjoittamaan maailman viimeisestä oravasta? Toimittajana Miia Lahti. (Ensilähetys oli 31.3.26.) . N. klo 14:30 Näyttelijä-laulaja-muusikko Reeta Vestman kertoo lempielokuvastaan. Toimittajana Maija Salminen.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miksi synkkä ja raaka fantasiaromaani Alchemised vetoaa lukijoihin ympäri maailmaa?'
         start_time: '2026-06-30T15:00:00+03:00'
         end_time: '2026-06-30T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Yhdysvaltalaisen kirjailijan SenLin Yunin Alchemised on äärimmäisyyksien romaani. Siinä on yli tuhat sivua, se on synkkääkin synkempi ja lisäksi se on hyvin raaka. Tästä huolimatta, tai tämän ansiosta se myytiin loppuun parissa päivässä maailmanlaajuisesti, kun se ilmestyi viime syksynä. Elokuvaoikeuksista maksettiin seitsemännumeroinen summa jo ennen kirjan julkaisua.
+          Nyt tämä järkäle on myös suomennettu. Urakkaan tarvittiin neljä suomentajaa.
+          Kulttuuriykkösessä keskustellaan Alchemised-romaanista sekä synkän fantasian ja romantasian suosiosta. Miksi lajityyppi kiinnostaa juuri tässä ajassa?
+          Lähetyksessä ovat mukana Tammen kustannuspäällikkö Laura Kurki, kustannustoimittaja Viia Viitanen ja kirjailija Siri Kolu. Lähetyksen toimittaa Miia Gustafsson. 
       - title: Yle Uutiset ja sää
         start_time: '2026-06-30T16:00:00+03:00'
         end_time: '2026-06-30T16:07:00+03:00'
@@ -230,7 +245,7 @@ data:
         start_time: '2026-06-30T17:35:00+03:00'
         end_time: '2026-06-30T18:30:00+03:00'
         description: |-
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+          Ihmiset pakkautuvat rantahiekalle vieri viereen ja parveilevat kuin lokit. Ihmiselämä kesken kaiken kuvattuna on rujoa, inhimillistä ja humoristista. Valokuvaaja Martin Parrin näyttely on kuin luontodokumenttia ihmisistä.
       - title: 'Viikon luontoääni: Mustaviklo'
         start_time: '2026-06-30T18:30:00+03:00'
         end_time: '2026-06-30T18:35:00+03:00'
@@ -239,6 +254,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-30T18:35:00+03:00'
         end_time: '2026-06-30T18:50:00+03:00'
+        description: |+
+          Tuntematon: Oi Pyhä Henki, Herramme (virsi 111) (Lumen Valo, ja Markku Hietaharju, positiiviurut).
+
+          Blomqvist: Oi sä laps' Jumalan (Sauli Tiilikainen, baritoni, ja Jukka Savijoki, kitara).
+
+          Waldis: Ken on mun lähimmäiseni (virsi 431) (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Melartin - Kajava: Hyvyyden voiman ihmeelliseen suojaan (virsi 600) (Joose Vähäsöyrinki, baritoni, ja Vesa Kajava, urut).
+
       - title: Iltahartaus
         start_time: '2026-06-30T18:50:00+03:00'
         end_time: '2026-06-30T19:00:00+03:00'
@@ -250,10 +274,13 @@ data:
         end_time: '2026-06-30T19:02:00+03:00'
       - title: 'Kuunnelma: Laskettua aikaa: Pieni käsi 5/10'
         start_time: '2026-06-30T19:02:00+03:00'
-        end_time: '2026-06-30T19:45:00+03:00'
+        end_time: '2026-06-30T19:25:00+03:00'
         description: |-
           Etsiessään Olhaa sairaaloista ja klinikoilta, Nora alkaa ymmärtää avuttomuutensa ja vastuunsa. Kun Olha lopulta löytää tiensä hotellille, Nora saa uuden mahdollisuuden auttaa. Samaan aikaan sodan uhka kasvaa Kiovassa, ja Nora joutuu miettimään omaa rooliaan ja motiivejaan.
           (ensies. v. 2025)
+      - title: Musiikkikamari
+        start_time: '2026-06-30T19:25:00+03:00'
+        end_time: '2026-06-30T20:00:00+03:00'
       - title: Romano mirits
         start_time: '2026-06-30T20:00:00+03:00'
         end_time: '2026-06-30T20:15:00+03:00'
@@ -267,9 +294,11 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-06-30T20:35:00+03:00'
         end_time: '2026-06-30T21:00:00+03:00'
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sophia Jansson'
         start_time: '2026-06-30T21:30:00+03:00'
         end_time: '2026-06-30T22:25:00+03:00'
+        description: |-
+          Sophia Jansson kasvoi suvussa, jossa satu ja todellisuus kulkivat rinnakkain. Muumien lämmin maailma tunnetaan maailmalla, mutta oman perheen sisällä elettiin myös varjoissa. Maarit Tastulan vieraana esikoiskirjailija Sophia Jansson. 
       - title: Uudet levyt
         start_time: '2026-06-30T22:25:00+03:00'
         end_time: '2026-06-30T23:19:00+03:00'
