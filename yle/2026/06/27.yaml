@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-26T03:13:18.104397+00:00'
+  generated_at: '2026-06-27T03:11:30.105364+00:00'
   git:
     branch: main
-    commit: 55901b84d673ec495c10a610551f81595f8c4171
-  data_hash: fd1850f82ea8c7f0c4b066d8bc41a1595962ac5ecd5fc1d1bd4a2c73a92aa341
+    commit: 20eaca8b2e9a22851b53b830359a3c0c0d8efc91
+  data_hash: 9ad699a5a7f75c37c818df254835b1381330fbf505ca874aaafac5c30d48b5e9
 data:
   '':
     programmes:
@@ -36,12 +36,12 @@ data:
           07:16 Goldberg: Sonaatti kahdelle viululle, alttoviululle ja continuolle c-molli (Rebel-kamariyhtye).
 
       - title: Kirjani tarina
-        start_time: '2026-06-27T07:31:00+03:00'
-        end_time: '2026-06-27T07:55:00+03:00'
+        start_time: '2026-06-27T07:30:40+03:00'
+        end_time: '2026-06-27T07:54:20+03:00'
         description: |-
           Kirjani tarina -ohjelman jaksossa on haastateltavana suomentaja Heikki Karjalainen. Hän käänsi Vladimir Nabokovin romaanin Huomaa aina harlekiinit! Toimittaja on Jakke Holvas.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-06-27T07:55:00+03:00'
+        start_time: '2026-06-27T07:54:20+03:00'
         end_time: '2026-06-27T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-06-27T08:00:00+03:00'
@@ -49,7 +49,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-06-27T08:05:00+03:00'
         end_time: '2026-06-27T08:25:00+03:00'
-        description: |+
+        description: |-
           P. Viitanen: Rauhan laulu (Viitasen Piia).
 
           Berthier: Laulakaa Herralle uusi virsi (Kirkkonummen kamarikuoro, joht. Tarja Viitanen, ja Kai Huopainen, baritoni, ja kamariyhtye).
@@ -60,6 +60,7 @@ data:
 
           Williams: Lähde matkaan rohkeasti (Toukomettiset/Risto Ainali, ja Tuomas Keskitalo, piano).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-06-27T08:25:00+03:00'
         end_time: '2026-06-27T08:35:00+03:00'
@@ -96,25 +97,33 @@ data:
           Chydenius: Kalliolle kukkulalle (Kom-teatterin kuoro).
           Borodin/Wright/Forrest: Stranger in paradise (Ann Blyth ja Vic Damone).
 
-          Konsertin on toimittanut Pasi Hiihtola.
+          Konsertin on toimittanut Pasi Hiihtola. Juontajana on Tuija Kurvinen.
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-06-27T10:00:00+03:00'
         end_time: '2026-06-27T10:25:00+03:00'
+        description: |-
+          Iskut siviilikohteita vastaan ovat lisääntyneet konfliktialueilla. Elintärkeä vesi voi olla sekä sodan syy että seuraus. Tällä viikolla Maailmanpolitiikan arkipäivää -ohjelmassa tarkastellaan veden merkitystä geopolitiikassa. Esimerkiksi Persianlahden maat ovat havahtuneet vesivarojen haavoittuvuuteen Yhdysvaltain, Israelin ja Iranin sodan myötä. 
+
+          YK-yliopiston professori Kaveh Madani kertoo sodan olleen herätys koko alueelle. Suolanpoistolaitoksista  ja matkailusta riippuvaisella alueella vedenpuhdistamot voivat välttämätön osa väestön hyvinvointia.
+
+          Afrikassa elinolot ovat vaikeat monin paikoin kuivuuden vuoksi. Vesi on aseellisille ryhmille myös kiristyksen ja kontrollin väline. Niinpä Suomen edistämällä vesidiplomatialla on sijansa epävakaina aikoina.
+
+          Maailmanpolitiikan arkipäivää -ohjelman toimitti Erja Tuomaala.  Äänitarkkailijana on Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hanna Tikanderin toiset todellisuudet: “Ei tätä työtä voi tehdä, jos ei ole sydän auki”'
         start_time: '2026-06-27T10:25:00+03:00'
-        end_time: '2026-06-27T11:00:00+03:00'
+        end_time: '2026-06-27T10:55:00+03:00'
         description: |-
           Pia löysi tarot-kortit ja henkisen maailman, kun hän oli viulistina Italiassa. Hän sai lahjaksi kortit siskoltaan ja ryhtyi syventymään tarot-korttien merkitykseen. Viulistin ura jäi, kun Pian kertoman mukaan kortit alkoivat välittää henkioppailta viestejä ja henkinen maailma vei mennessään. Tarot-kortit antavat Pian mukaan kanavan henkiselle kasvulle ja reitin itsetuntemukseen. Kun Pia pudottelee studiossa kortteja, on hänellä isoa kerrottavaa Hannallekin.
       - title: 'Virtasen taloushistoria: T-Fordista Mustangiin ja sähköponiin, Suomen Ford 100 vuotta'
         start_time: '2026-06-27T11:00:00+03:00'
-        end_time: '2026-06-27T11:52:00+03:00'
+        end_time: '2026-06-27T11:55:00+03:00'
         description: |-
           Virtasen taloushistoriassa muistellaan ja pohditaan nyt Suomen autoistumisen historiaa. Tasan sata vuotta sitten perustettiin maahantuontiliike Suomen Ford. Haastateltavina Suomen Fordin toimitusjohtaja Johan Lindberg ja tuoreen Fordin historiaa käsittelevän kirjan tekijä, tietokirjailija Juha Partanen. Toimittaja on Juha Virtanen. Ohjelma on uusinta viime huhtikuulta.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-06-27T11:57:00+03:00'
         end_time: '2026-06-27T12:00:00+03:00'
         description: |-
-          Ote nimimerkin K. kirjoitelmasta Keskikesä, Nuori Voima, WSOY 1924
+          Ote nimimerkin K. kirjoitelmasta Keskikesä, Nuori Voima, WSOY 1924. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-06-27T12:00:00+03:00'
         end_time: '2026-06-27T12:05:00+03:00'
@@ -232,25 +241,36 @@ data:
           W.A. Mozart: Sarastron aaria "In diesen heil'gen Hallen" oopp. Taikahuilu (Matti Salminen, basso, ja Zürichin oopperan ork./Nikolaus Harnoncourt).
 
       - title: 'Uutispodcast: Suomi hakee kritisoituun YK:n turvallisuusneuvostoon – miksi?'
-        start_time: '2026-06-27T21:01:00+03:00'
-        end_time: '2026-06-27T21:25:00+03:00'
+        start_time: '2026-06-27T21:00:30+03:00'
+        end_time: '2026-06-27T21:23:35+03:00'
         description: |-
           YK:n turvallisuusneuvostoa on viime vuosina kritisoitu siitä, ettei se kykene tekemään päätöksiä ja ratkomaan tämän ajan isoja kriisejä. Samalla Yhdysvaltain presidentti Donald Trump on häärännyt omaa rauhanneuvostoaan. Miksi Suomi haluaa silti nyt jäseneksi? Atte Uusinokan haastateltavana ovat YK:n turvallisuusneuvosto -kampanjan päällikkö Satu Suikkari-Kleven sekä yliopistonlehtori, dosentti Anna Kronlund Turun yliopistosta. 
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-06-27T21:23:35+03:00'
+        end_time: '2026-06-27T21:49:55+03:00'
+        description: |-
+          Marko Miettisellä on haastateltavana arkistopunkkari Teijo Hintikka Punkmuseosta. Ensilähetys oli 22.6.26.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-27T21:51:00+03:00'
-        end_time: '2026-06-27T22:15:00+03:00'
+        start_time: '2026-06-27T21:49:55+03:00'
+        end_time: '2026-06-27T22:05:31+03:00'
         description: |-
           Jakso 6/22: Mari on yksin
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-06-27T22:15:00+03:00'
-        end_time: '2026-06-27T22:30:00+03:00'
+        start_time: '2026-06-27T22:05:31+03:00'
+        end_time: '2026-06-27T22:23:16+03:00'
         description: |-
           Jakso 7/22: Isä on kotona
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: Radio 1 soi
+        start_time: '2026-06-27T22:23:16+03:00'
+        end_time: '2026-06-27T22:39:47+03:00'
+        description: |+
+          Fauré: Masques et bergamasques (Monte Carlon FO/James De Preist).
+
       - title: 'Keinuva talo - Mika Kauhanen: Kesäfiilis klubilla'
-        start_time: '2026-06-27T22:40:00+03:00'
-        end_time: '2026-06-27T23:39:30+03:00'
+        start_time: '2026-06-27T22:39:47+03:00'
+        end_time: '2026-06-27T23:39:00+03:00'
         description: |-
           Kuuma kesäpäivä on takana, hyvä illallinen syötynä ja pimeä laskeutunut. Tekee mieli jatkaa iltaa. Siispä klubille jännittävän musiikin vietäväksi!
 

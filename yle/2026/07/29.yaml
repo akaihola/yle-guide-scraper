@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-26T03:13:23.826660+00:00'
+  generated_at: '2026-06-27T03:11:39.483581+00:00'
   git:
     branch: main
-    commit: 55901b84d673ec495c10a610551f81595f8c4171
-  data_hash: fd1850f82ea8c7f0c4b066d8bc41a1595962ac5ecd5fc1d1bd4a2c73a92aa341
+    commit: 20eaca8b2e9a22851b53b830359a3c0c0d8efc91
+  data_hash: 9ad699a5a7f75c37c818df254835b1381330fbf505ca874aaafac5c30d48b5e9
 data:
   '':
     programmes:
@@ -46,6 +46,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-07-29T11:57:00+03:00'
         end_time: '2026-07-29T12:00:00+03:00'
+        description: |-
+          Ote Juha Seppälän romaanista Kehtolaulun koordinaatit
       - title: Yle Uutiset ja sää
         start_time: '2026-07-29T12:00:00+03:00'
         end_time: '2026-07-29T12:05:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-26T03:13:22.862959+00:00'
+  generated_at: '2026-06-27T03:11:38.110738+00:00'
   git:
     branch: main
-    commit: 55901b84d673ec495c10a610551f81595f8c4171
-  data_hash: fd1850f82ea8c7f0c4b066d8bc41a1595962ac5ecd5fc1d1bd4a2c73a92aa341
+    commit: 20eaca8b2e9a22851b53b830359a3c0c0d8efc91
+  data_hash: 9ad699a5a7f75c37c818df254835b1381330fbf505ca874aaafac5c30d48b5e9
 data:
   '':
     programmes:
@@ -41,6 +41,10 @@ data:
       - title: 'Marko Gustafsson: Käännnekohdissa Juha-Pekka Koskinen'
         start_time: '2026-07-23T10:00:00+03:00'
         end_time: '2026-07-23T10:55:00+03:00'
+        description: |+
+          Juha-Pekka Koskinen on yli kuudellakymmenellä teoksellaan suomen tuotteliaimpia kirjailijoita. J P Koskisen mielessä kiehuu tarina, jota ei vielä ole olemassa, mutta se on pakko synnyttää ja saattaa valmiiksi. Hänelle kirjoittaminen on parhaimmillaan ja myös pahimmillaankin sitä, että ei muista syödä eikä nukkua. 
+
+
       - title: Yksi on hyvää seuraa
         start_time: '2026-07-23T10:55:00+03:00'
         end_time: '2026-07-23T11:00:00+03:00'
