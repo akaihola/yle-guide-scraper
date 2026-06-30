@@ -1,14 +1,136 @@
 metadata:
-  generated_at: '2026-06-22T03:15:48.873871+00:00'
+  generated_at: '2026-06-30T03:12:30.415521+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: e13a26f9d55a7c617db30a5fd7fd805a49c05872
+  data_hash: 18b870b0b027d16de59603c4ad908b59bd1d7defc6c4fd7f0cb76ff6b2795318
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-08-03T06:30:50+03:00'
+        end_time: '2026-08-03T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-08-03T06:50:00+03:00'
+        end_time: '2026-08-03T06:59:59+03:00'
         description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
+          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne, Tallinna
+      - title: Aamusoitto
+        start_time: '2026-08-03T07:06:00+03:00'
+        end_time: '2026-08-03T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-03T08:00:00+03:00'
+        end_time: '2026-08-03T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-08-03T08:07:00+03:00'
+        end_time: '2026-08-03T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-08-03T09:00:00+03:00'
+        end_time: '2026-08-03T09:03:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-08-03T10:00:00+03:00'
+        end_time: '2026-08-03T10:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-03T10:52:00+03:00'
+        end_time: '2026-08-03T11:00:00+03:00'
+      - title: Välilevyjä - Kare Eskola
+        start_time: '2026-08-03T11:00:00+03:00'
+        end_time: '2026-08-03T11:57:00+03:00'
+        description: |-
+          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-08-03T11:57:00+03:00'
+        end_time: '2026-08-03T12:00:00+03:00'
+        description: |-
+          Leo Tolstoi: Lapsuus, poikaikä, nuoruus, suomentanut Viktor Karl Trast, WSOY 1998.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-03T12:00:00+03:00'
+        end_time: '2026-08-03T12:05:00+03:00'
+      - title: Elävä historia
+        start_time: '2026-08-03T12:05:00+03:00'
+        end_time: '2026-08-03T12:55:00+03:00'
+        description: |-
+          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+      - title: 'Tiedetrippi: Antikytheraan koneesta kvanttitietokoneisiin'
+        start_time: '2026-08-03T13:00:00+03:00'
+        end_time: '2026-08-03T13:30:00+03:00'
+        description: |-
+          Antiikin aikaista Antikytheran konetta on luonnehdittu maailman ensimmäiseksi analogiseksi tietokoneeksi. Seuraavat pari tuhatta vuotta tietotekninen kehitys mateli, mutta harppauksia alkoi tapahtua 1900-luvun loppupuolella. Nyt olemme siirtymässä uuteen aikaan, kvanttitietokoneiden maailmaan.
+          (12.1.2026)
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-08-03T13:30:00+03:00'
+        end_time: '2026-08-03T15:00:00+03:00'
+      - title: Kulttuuriykkönen
+        start_time: '2026-08-03T15:00:00+03:00'
+        end_time: '2026-08-03T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-03T16:00:00+03:00'
+        end_time: '2026-08-03T16:07:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-03T17:00:00+03:00'
+        end_time: '2026-08-03T17:05:00+03:00'
+      - title: 'Faijan vika valhe: Nainen joka rakastui agitaattoriin'
+        start_time: '2026-08-03T17:05:00+03:00'
+        end_time: '2026-08-03T17:30:00+03:00'
+        description: |
+          Axalle Thyra Fahler oli sydämellinen isomummu, joka tarjosi synttäreillään siskonmakkarasoppaa. Mutta tutkimusmatkan varrella Thyrasta selviääkin toinen puoli. Tämä oli nähnyt villin lännen ja tragedian toisensa perään. Eikä Thyra pelännyt lyödä nyrkkiä pöytään, kun sulhasehdokas Jussi Fahler kärähti kulkurielämän syrjähypyistä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-03T17:30:00+03:00'
+        end_time: '2026-08-03T17:35:00+03:00'
+      - title: 'Keinuva talo - Mika Kauhanen: Parhaat kotimaiset ja radio-interrail Eurooppaan'
+        start_time: '2026-08-03T17:35:00+03:00'
+        end_time: '2026-08-03T18:35:00+03:00'
+        description: |-
+          Aloitamme parhaista kotimaisista ennen lähtökuulutusta radio-interrailille Eurooppaan. Jakson aikana kohtaamme ilkikurisen katastrofin, harmonisen puutarhan, ranskalaisen kapinamielen ja katalaanirumban kuninkaat. Entä millaisen ilmiasun musiikissa saavat sellaiset suuret tärkeät sanat kuin totuus ja toivo? Toimittajana Mika Kauhanen.
+      - title: Hengellisen musiikin toivekonsertti
+        start_time: '2026-08-03T18:35:00+03:00'
+        end_time: '2026-08-03T18:50:00+03:00'
+        description: |-
+          Kuuntelijoiden toivomaa hengellistä musiikkia.
+      - title: Iltahartaus
+        start_time: '2026-08-03T18:50:00+03:00'
+        end_time: '2026-08-03T19:00:00+03:00'
+        description: |-
+          "Matteuksen evankeliumi: Johannes Kastajan kuolema"
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (14:1-15:20) UT2020 käännöksen mukaan. 11. jaksossa Johannes Kastaja mestataan ja Jeesus ruokkii tuhansia ihmisiä viidellä leivällä sekä kahdella kalalla.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-03T19:00:00+03:00'
+        end_time: '2026-08-03T19:02:00+03:00'
+      - title: 'Väkivallan markkinat: Mistä laittomat aseet tulevat Suomeen?'
+        start_time: '2026-08-03T19:02:00+03:00'
+        end_time: '2026-08-03T19:50:00+03:00'
+        description: |+
+          Poliisin haaviin laittomat aseet päätyvät useimmiten jonkin muun rikoksen yhteydessä. Myös “Mikan” aseista poliisi takavarikoi lopulta osan, mutta hän hankki tilalle uusia ja pääsi osingoille isommista asekaupoista. Kun huumekauppa muuttui ammattimaisemmaksi, vastaan tuli tilanteita, jolloin Mika veti liipaisimesta.
+
+          Jakson lopussa kuullaan yksityiskohtaista väkivallanteon kuvausta, joka saattaa järkyttää kuulijaa.
+
+          Jakson asiantuntijavieraana: Poliisihallituksen entinen ylitarkastaja Reima Pensala. 
+
+      - title: Mannerheimin agentti
+        start_time: '2026-08-03T20:05:00+03:00'
+        end_time: '2026-08-03T20:25:00+03:00'
+        description: |+
+          Jakso 10/10: Ei-toivottu henkilö.
+          Mitä tapahtui Tahvanaiselle kirjan julkaisun jälkeen? Pidettiinkö Kekkosen johdolla salainen tapaaminen ja miten Tahvanaisesta tuli persona non grata? Koskinen matkustaa toimittaja Paavo Einin luokse, joka haastatteli Tahvanaista vuonna 1971. Oliko kyseessä vain Tahvanaisen mustamaalaaminen?
+
+      - title: 'Hanna Tikanderin toiset todellisuudet: “Universumin sanoitus tulee energiahoitajan kautta”'
+        start_time: '2026-08-03T20:25:00+03:00'
+        end_time: '2026-08-03T21:00:00+03:00'
+        description: |
+          Katja on käynyt jo vuosia energiahoidoissa, jotta voisi purkaa omia tunnemaailman traumojaan. Energiahoidon avulla Katja kertoo saaneensa viestejä edesmenneeltä isältään sekä henkimaailmalta ohjeistusta uuden työpaikan haussa.
+
+          Vuosien mittaan hän on huomannut, että hoidoista ja henkistymisestä ei välttämättä kannata kertoa aivan kaikille, koska kritiikkiä tulee. Katja ei tästä välitä, sillä hän kokee saavansa henkimaailmasta lohtua ja rakkaudellisuutta.
+      - title: Tiedeykkönen
+        start_time: '2026-08-03T21:30:30+03:00'
+        end_time: '2026-08-03T22:20:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-08-03T22:45:00+03:00'
+        end_time: '2026-08-03T23:39:30+03:00'
+        description: |-
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita

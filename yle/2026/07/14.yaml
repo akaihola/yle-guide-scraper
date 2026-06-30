@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-29T03:15:05.644633+00:00'
+  generated_at: '2026-06-30T03:12:25.178887+00:00'
   git:
     branch: main
-    commit: 123bf84082a921b4323a036ccb782f54ce34d302
-  data_hash: 86ad7aa79f3b32fd712d28751115863633fd8de6e83277e50ffc2963312995f4
+    commit: e13a26f9d55a7c617db30a5fd7fd805a49c05872
+  data_hash: 18b870b0b027d16de59603c4ad908b59bd1d7defc6c4fd7f0cb76ff6b2795318
 data:
   '':
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-07-14T06:50:00+03:00'
         end_time: '2026-07-14T06:59:59+03:00'
         description: |-
-          Muusikkopastori Severi Laakso, Kangasala
+          "Kolme tapaa tehdä laulu"
+          Muusikkopastori Severi Laakso Kangasalta puhuu musiikin tekemisestä ja Jumalasta, joka on yhtäaikaa sekä lähellä että ääretön.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-14T07:00:00+03:00'
         end_time: '2026-07-14T07:05:00+03:00'
@@ -217,7 +218,8 @@ data:
         start_time: '2026-07-14T18:50:00+03:00'
         end_time: '2026-07-14T19:00:00+03:00'
         description: |-
-          Maahanmuuttajatyöntekijä Anni Bäckman, Metodistikirkko, Tampere
+          "Minä olen ylösnousemus ja elämä"
+          Maahanmuuttajatyöntekijä Anni Bäckman, Metodistikirkko, Tampere puhuu kuolemasta ja kristityn toivosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-14T19:00:00+03:00'
         end_time: '2026-07-14T19:02:00+03:00'

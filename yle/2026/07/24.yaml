@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-06-29T03:15:07.819559+00:00'
+  generated_at: '2026-06-30T03:12:27.843128+00:00'
   git:
     branch: main
-    commit: 123bf84082a921b4323a036ccb782f54ce34d302
-  data_hash: 86ad7aa79f3b32fd712d28751115863633fd8de6e83277e50ffc2963312995f4
+    commit: e13a26f9d55a7c617db30a5fd7fd805a49c05872
+  data_hash: 18b870b0b027d16de59603c4ad908b59bd1d7defc6c4fd7f0cb76ff6b2795318
 data:
   '':
     programmes:
@@ -12,6 +12,30 @@ data:
         end_time: '2026-07-24T06:59:59+03:00'
         description: |-
           Kirkkoherra Ilona Yliräisänen, Pelkosenniemi
+      - title: Aamusoitto
+        start_time: '2026-07-24T07:06:00+03:00'
+        end_time: '2026-07-24T08:00:00+03:00'
+        description: |+
+          Bishop: Sweet Evelina (Anonymous 4).
+
+          Vivaldi: Konsertto jousille ja continuolle B-duuri (Conca) (Accademia Bizantina/Ottavio Dantone).
+
+          Satie (sov. Hannibal): Gymnopedie n:o 1 (Michala Petri, nokkahuilu, ja Lars Hannibal, kitara).
+
+          Loder: Etydi n:o 9 G-duuri (Ian Hobson, piano).
+
+          Delius: Air and dance jousille (Lontoon FO/Vernon Handley).
+
+          Mendelssohn: Sanaton laulu (Misha Maisky, sello, ja Pavel Gililov, piano).
+
+          Ravel: Five o'clock foxtrot (World Saxophone Orchestra/Ed Bogaard).
+
+          Massenet: Valkoisia perhosia (Jean-Efflam Bavouzet, piano).
+
+          Stenhammar: Tunteellinen romanssi A-duuri (Berndt Lysell, viulu, ja Lucia Negro, piano).
+
+          Phillips: A Summer nocturne (Kesänokturni) (BBC:n konserttiork./Gavin Sutherland).
+
       - title: Radio 1:n aamu
         start_time: '2026-07-24T08:07:00+03:00'
         end_time: '2026-07-24T09:00:00+03:00'
