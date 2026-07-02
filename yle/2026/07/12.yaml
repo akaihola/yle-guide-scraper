@@ -1,23 +1,47 @@
 metadata:
-  generated_at: '2026-07-01T03:14:05.501701+00:00'
+  generated_at: '2026-07-02T03:11:04.515912+00:00'
   git:
     branch: main
-    commit: 9d28cbe77c9452db5b102adaed4c59e2b3c39185
-  data_hash: 96d9de174073f6418b853dc80e0361b2d81c8972ebc4762cb798735c8665f987
+    commit: 5ea71ce1feda933808d7ee61750b0d950f90dec2
+  data_hash: 761d335179bf2968b970c8bdb651ca99fcf9b88d5c99fb3b4e205798b87c3996
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-07-11T23:40:00+03:00'
         end_time: '2026-07-12T07:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Tuli, joka varastettiin'
         start_time: '2026-07-12T07:00:30+03:00'
         end_time: '2026-07-12T07:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |+
+          Kun ihminen kesytti tulen, avautui polku kohti uudenlaista sivilisaatiota. Miten se näkyy maailmassamme ja kuuluu musiikissamme?
+          Utelias äänimatkailija Eva Tigerstedt tieteen, taiteen ja musiikin risteyksessä, äänisunnittelijana Anders Wiksten.
+          Uusinta vuodelta 2018.
+
+          Ohjelman musiikit:
+
+          Sebastian Fagerlund: Ignite (Radion sinfoniaorkesteri/Hannu Lintu).
+
+          Tomas Luis de Victoria: Veni, creator spiritus( Ensemble Plus Ultra/Michael Noone). 
+
+          W.A.Mozart: Don Giovanni, Finaali (Simon Keenlyside, baritoni/Don Giovanni, Matti Salminen, basso/Komtuuri, Bryn Terfel, baritoni/Leporello, Coro di Ferrara Musica- kuoro, Eroopan kamariorkesteri/Claudio Abbado).
+
+          Ludwig van Beethoven: Sonaatti pianolle no 23 "Appassionata" (Svjatoslav Richter, piano).
+
+          Aleksandr Skrjabin: Prometheus, Tulen runoelma op.60 pianolle, kuorolle ja orkesterille (Pjotr Izotov, piano, Moskovan radion kuoro ja Venäjän valtion sinfoniaorkesteri/Jevgeni Svetlanov).
+            
+          Bernd Alois Zimmermann: Stille und Umkehr (Reininmaan ja Pfalzin valtiollinen filharmoninen orkesteri/Karl-Heinz Steffens).
+
+          Hans Abrahamsen: Liebeslied (Ensemble Recherche).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-07-12T08:00:00+03:00'
         end_time: '2026-07-12T08:05:05+03:00'
+      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Tuonelan joutsenen matka oopperan alkusoitosta modernismin helmeksi'
+        start_time: '2026-07-12T08:05:35+03:00'
+        end_time: '2026-07-12T08:59:00+03:00'
+        description: |-
+          "Kun Sibelius nimesi vuonna 1895 entisen oopperansa alkusoiton Tuonelan joutseneksi, hän teki teidän laiskalle tyttärellennekin selväksi, että teos edustaa symbolismia. Silloin tiedämme, että musiikki ei kuvaa joutsenta, vaan sitä, mitä joutsen symboloi. Jos englannintorven soolo saa teidät kuvittelemaan joutsenen laulua, ette ole koskaan kuullut sen rääkäisyä tai puheliasta ääntä." - Minna Lindgren esitelmöi.
       - title: 'Yle Uutiset '
         start_time: '2026-07-12T09:00:00+03:00'
         end_time: '2026-07-12T09:03:00+03:00'
@@ -152,9 +176,11 @@ data:
         end_time: '2026-07-12T18:00:00+03:00'
         description: |
           Ranskalaisen Les Égarés -kvartetin konsertti JazzBaltica Festivaalilla Timmendorfer Strandissa Pohjois-Saksassa 29.6.2025. Muusikot Émile Parisien, saksofoni, Ballaké Sissoko, kora, Vincent Ségal, sello, ja Vincent Peirani, harmonikka. Toimittajana Miika Lauriala. 
-      - title: Jazzklubi
+      - title: 'Laura Korhosen Jazzklubi: Jazzin värikartta – rumbaa, bossa novaa ja afrokuubalaisia rytmejä'
         start_time: '2026-07-12T18:00:30+03:00'
         end_time: '2026-07-12T19:00:00+03:00'
+        description: |
+          Lattarjazz ei ole vain yhden maan, rytmin tai muusikkosukupolven juttu, se on jatkuvaa vuoropuhelua esimerkiksi New Orleansin, Havannan, Rio de Janeiron ja jopa Helsingin välillä. (U)
       - title: Yle Uutiset ja sää
         start_time: '2026-07-12T19:00:00+03:00'
         end_time: '2026-07-12T19:02:05+03:00'
@@ -171,11 +197,35 @@ data:
         end_time: '2026-07-12T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Tuli, joka varastettiin'
         start_time: '2026-07-12T21:25:00+03:00'
         end_time: '2026-07-12T22:22:00+03:00'
+        description: |+
+          Kun ihminen kesytti tulen, avautui polku kohti uudenlaista sivilisaatiota. Miten se näkyy maailmassamme ja kuuluu musiikissamme?
+          Utelias äänimatkailija Eva Tigerstedt tieteen, taiteen ja musiikin risteyksessä, äänisunnittelijana Anders Wiksten.
+          Uusinta vuodelta 2018.
+
+          Ohjelman musiikit:
+
+          Sebastian Fagerlund: Ignite (Radion sinfoniaorkesteri/Hannu Lintu).
+
+          Tomas Luis de Victoria: Veni, creator spiritus( Ensemble Plus Ultra/Michael Noone). 
+
+          W.A.Mozart: Don Giovanni, Finaali (Simon Keenlyside, baritoni/Don Giovanni, Matti Salminen, basso/Komtuuri, Bryn Terfel, baritoni/Leporello, Coro di Ferrara Musica- kuoro, Eroopan kamariorkesteri/Claudio Abbado).
+
+          Ludwig van Beethoven: Sonaatti pianolle no 23 "Appassionata" (Svjatoslav Richter, piano).
+
+          Aleksandr Skrjabin: Prometheus, Tulen runoelma op.60 pianolle, kuorolle ja orkesterille (Pjotr Izotov, piano, Moskovan radion kuoro ja Venäjän valtion sinfoniaorkesteri/Jevgeni Svetlanov).
+            
+          Bernd Alois Zimmermann: Stille und Umkehr (Reininmaan ja Pfalzin valtiollinen filharmoninen orkesteri/Karl-Heinz Steffens).
+
+          Hans Abrahamsen: Liebeslied (Ensemble Recherche).
+
+      - title: ' KC Kirjapodcast: Tähtitieteilijä ja kaksoisagentti – Miten kirjoittaa historiasta vetävästi?'
+        start_time: '2026-07-12T22:23:00+03:00'
+        end_time: '2026-07-12T22:52:00+03:00'
         description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+          Vieraina Ann-Christin Antell, Pauli Jokinen ja yllätyskirjailija.
       - title: 'Romanitarinoita: Rainer Friskin tie gospelin äärelle'
         start_time: '2026-07-12T23:12:00+03:00'
         end_time: '2026-07-12T23:37:00+03:00'

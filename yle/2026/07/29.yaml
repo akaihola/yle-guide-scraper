@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-01T03:14:08.679462+00:00'
+  generated_at: '2026-07-02T03:11:10.788754+00:00'
   git:
     branch: main
-    commit: 9d28cbe77c9452db5b102adaed4c59e2b3c39185
-  data_hash: 96d9de174073f6418b853dc80e0361b2d81c8972ebc4762cb798735c8665f987
+    commit: 5ea71ce1feda933808d7ee61750b0d950f90dec2
+  data_hash: 761d335179bf2968b970c8bdb651ca99fcf9b88d5c99fb3b4e205798b87c3996
 data:
   '':
     programmes:
@@ -81,6 +81,36 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-29T16:00:00+03:00'
         end_time: '2026-07-29T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-07-29T16:07:00+03:00'
+        end_time: '2026-07-29T16:59:00+03:00'
+        description: |-
+          Bruch: Allegro agitato d-molli (Paul Meyer, klarinetti, Gérard Caussé, alttoviulu, ja Francois-René Duchable, piano).
+
+          Kajanus-Blenner: Impromptu sooloharpulle (Katri Tikka).
+
+          Ireland: Andante moderato jousikvartetosta n:o 1 d-molli (Maggini-kvartetti).
+
+          Moore: Baby Doen aaria oopp. Balladi Baby Doesta (Renée Fleming, sopraano, ja Metropolitan-oopp. ork./James Levine).
+
+          Cui: Poltettu kirje (Misha Maisky, sello, ja Pavel Gililov, piano).
+
+          Hopkin: Bugeilo'r Gwenith Gwyn (Bryn Terfel, bassobaritoni, ja Lontoon SO/Barry Wordsworth, sekä Catrin Finch, harppu).
+
+          Prokofjev: Julia, nuori neito bal. Romeo ja Julia (RSO/Jukka-Pekka Saraste).
+
+          Grieg: Det var engang (Olipa kerran) sarj. Lyyrisiä kappaleita n:o 10 (Alice Sara Ott, piano).
+
+          W.A. Mozart: Kreivittären aaria "Dove sono i bei momenti" oopp. Figaron häät (Kiri Te Kanawa, sopraano, ja Lontoon FO/Georg Solti).
+
+          C.P.E. Bach: Presto triosonaatista h-molli (Emmanuel Pahud, huilu, Lisa Batiashvili, viulu, Sebastian Klinger, sello, ja Peter Kofler, cembalo).
+
+          Britten: Playful Pizzicato (Orpheus-kamariork.).
+
+          Schreker: Tanssi Romanttisesta sarjasta (BBC:n FO/Vasili Sinaiski).
+
+
+          Konsertin on laatinut Ainomaija Pennanen. 
       - title: Yle Uutiset ja sää
         start_time: '2026-07-29T17:00:00+03:00'
         end_time: '2026-07-29T17:05:00+03:00'
