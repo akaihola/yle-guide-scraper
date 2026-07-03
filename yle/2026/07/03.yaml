@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-02T03:10:53.545345+00:00'
+  generated_at: '2026-07-03T03:08:24.752084+00:00'
   git:
     branch: main
-    commit: 5ea71ce1feda933808d7ee61750b0d950f90dec2
-  data_hash: 761d335179bf2968b970c8bdb651ca99fcf9b88d5c99fb3b4e205798b87c3996
+    commit: 205d50569e32f76bfb56a01bcc614e41323c3383
+  data_hash: 26a95bd949fe674f601bf4e33276bdf710f9ed34fc79cc2e9c71ef7e4a0223bc
 data:
   '':
     programmes:
@@ -102,7 +102,26 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-07-03T09:04:00+03:00'
         end_time: '2026-07-03T09:59:00+03:00'
-      - title: Amerikan yhdysvallat 250 vuotta
+        description: |
+          Salo: Aamu niityllä (Marjatta Leppänen).
+          Bacharach: I say a little prayer (Aretha Franklin).
+          Sanders: Adios muchachos (Angelo Pinton orkesteri ja Severiano Alvarez).
+          Stordahl/Weston: Day by day (Anki ja Timo T. A. Mikkonen).
+          Morrison: Days like this (Van Morrison).
+          Kansansäv.: Niin aikaisin (Anki).
+          Jobim: So danco samba (Joao Gilberto). 
+          Roiha: Saunasamba (Soitinyhtye Liisa).
+          Ben: Hör min samba (Lill Lindfors).
+          Portela: Lissabonin yössä (Sacy Sand).
+          Erdelyi: Budapestin yössä (Annikki Tähti).
+          Jacobs/Casey: Summer nights (Olivia Newton-John ja John Travolta).
+          Hurmerinta: Hymypoika (Maarit).
+          Wilson: Good vibrations (The Beach Boys).
+          Zama: Etsin kesän tuulta (Inga Sulin).
+          Farina/Minellono: Dimmi quando (Ricchi e Poveri).
+
+          Konsertin on toimittanut Jenna Bågeberg.
+      - title: 'Kalle Haatanen: Amerikan yhdysvallat 250 vuotta'
         start_time: '2026-07-03T10:00:00+03:00'
         end_time: '2026-07-03T10:55:00+03:00'
         description: |-
@@ -142,11 +161,14 @@ data:
         end_time: '2026-07-03T15:00:00+03:00'
         description: |-
           Juontajana Tatu Tamminen. N. klo 14 Kirjani tarinassa haastateltavana kirjailija Vera Vala, joka kertoo kirjansa Persikankukkien aikaan synnystä. Ti. Jukka Kuosmanen. N. klo 14:30 Laulaja Essi Wuorela kertoo errityisesti häneen vaikuttaneesta kulttuurielämyksestä. Toimittajana Inari Tilli.
-      - title: 'Kulttuuriykkönen: Perjantaistudiossa elokuvakriitikko Jussi Ahlroth, liikemies Sami Kuusela ja kirjailija Vehka Kurjenmiekka'
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa Garden Helsinki -hankkeen sotkuinen vyyhti, kovasanainen Pride-kritiikki, millaisia tunteita löytyy poliittisten liikkeiden taustalta ja The Odyssey -elokuvan aiheuttama kulttuurisota'
         start_time: '2026-07-03T15:00:00+03:00'
         end_time: '2026-07-03T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Kulttuuriykkösen Perjantaistudiossa ruoditaan ajankohtaisia kulttuurin ja median ilmiöitä, arvokysymyksiä sekä ajankuvaamme.
+          Tällä kertaa raatilaisina ovat elokuvakriitikko Leena Virtanen, liikemies Sami Kuusela ja toimittaja, tietokirjailija Jussi Ahlroth.
+          Tällä kertaa puheenaiheina ovat Garden Helsinki -hanke, Pride-kritiikki, poliittisten liikkeiden tunnemaailma, The Odyssey -elokuvan ympärille syntynyt ennakkokohu ja kirjailija  Eeva Kilven perintö.
+          Ohjelman juontaa Miia Gustafsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-03T16:00:00+03:00'
         end_time: '2026-07-03T16:07:00+03:00'
@@ -247,21 +269,38 @@ data:
           George Lewis: String Quartet 4.5 ”Partial Truth”
       - title: 'Tiedetrippi: Sieppari ruispellossa – antisankarin nousu'
         start_time: '2026-07-03T21:00:00+03:00'
-        end_time: '2026-07-03T21:30:00+03:00'
+        end_time: '2026-07-03T21:25:15+03:00'
         description: |-
           Sieppari ruispellossa (1951) on kirja, jota on luonnehdittu teiniangstin raamatuksi. Kirjailija J. D. Salinger ei kuitenkaan tarkoittanut teostaan nuorten lukemistoksi. Yleensä nuorten kirjoissa seikkaili rohkea ja nokkela sankari, mutta Salinger kirjoitti aivan toisenlaisesta hahmosta: nuoresta syrjäytymässä olevasta miehestä. Toimittajana Henry Tikkanen.
           (13.1.2025)
       - title: 12 diktaattoria.Valtionpää Francisco Franco
-        start_time: '2026-07-03T21:31:00+03:00'
-        end_time: '2026-07-03T22:25:00+03:00'
+        start_time: '2026-07-03T21:26:09+03:00'
+        end_time: '2026-07-03T22:03:49+03:00'
         description: |-
           Kenraali Francisco Franco, Espanjan generalissimo vuodesta 1939 vuoteen 1975, on tietyllä tavalla unohdettu tyranni, sillä hänen tekonsa jäävät Adolf Hitlerin ja Josif Stalinin varjoon. Hän kuitenkin oli yksi historian todellisista hirviöistä. Tämä fasistinen sotaherra pääsi Hitlerin avittamana valtaan 1930-luvulla julman sisällissodan kautta ja jatkoi Espanjan siviiliväestön terrorisointia kuolemaansa asti. Kauheita rikoksia ympäröi yhä hiljaisuus, kertoo tietokirjailija, filosofi Leif Sundström. Toimittajana Raimo Tyykiluoto.
           (v. 2018)
+      - title: Radio 1 soi
+        start_time: '2026-07-03T22:03:49+03:00'
+        end_time: '2026-07-03T22:16:36+03:00'
+        description: |+
+          Debussy: Sonaatti sellolle ja pianolle d-molli. (Mstislav Rostropovitsh ja Benjamin Britten).
+
       - title: 'Tuuli Saksalan keidas: Peléstä Mbappéen: Jalkapallon soundtrack'
-        start_time: '2026-07-03T22:26:00+03:00'
-        end_time: '2026-07-03T23:15:00+03:00'
+        start_time: '2026-07-03T22:16:36+03:00'
+        end_time: '2026-07-03T23:05:41+03:00'
         description: |
           Tiesitkö, että brasilialainen jalkapallolegenda Pelé teki yli sata laulua, useat salanimellä? Tai että suomenjuutalaiseen perinteeseen kuuluu satiiri jalkapallotähdistä jo vuodelta 1910? Tuuli Saksalan Keitaalla kuullaan Pelén ja espanjalaisen puolustajan Sergio Ramoksen omia lauluja, Lionel Messin ja Kylian Mbappén suosikkilauluja sekä legendaarisia jalkapallobiisejä. Peléstä Mbappéen - Jalkapallon soundtrack MM-kisojen hengessä.
+      - title: Radio 1 soi
+        start_time: '2026-07-03T23:05:41+03:00'
+        end_time: '2026-07-03T23:18:09+03:00'
+        description: |+
+          Rossini: Alkusoitto oopp. Semiramide (Atlantan SO/ Yoel Levi).
+
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-07-03T23:18:09+03:00'
+        end_time: '2026-07-03T23:40:00+03:00'
+        description: |-
+          Vuoden -26 ite-taiteilija Jyri Rastas on Kati Turtolan haastattelussa Hämeen keskiaikaisessa linnassa, jossa on esillä ite-taiteen näyttely nimeltä Karnevaali. Ensilähetys 2.7.26.
       - title: Yöklassinen
         start_time: '2026-07-03T23:40:00+03:00'
         end_time: '2026-07-04T07:30:00+03:00'

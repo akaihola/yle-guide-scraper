@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-02T03:11:01.309318+00:00'
+  generated_at: '2026-07-03T03:08:25.582865+00:00'
   git:
     branch: main
-    commit: 5ea71ce1feda933808d7ee61750b0d950f90dec2
-  data_hash: 761d335179bf2968b970c8bdb651ca99fcf9b88d5c99fb3b4e205798b87c3996
+    commit: 205d50569e32f76bfb56a01bcc614e41323c3383
+  data_hash: 26a95bd949fe674f601bf4e33276bdf710f9ed34fc79cc2e9c71ef7e4a0223bc
 data:
   '':
     programmes:
@@ -93,7 +93,7 @@ data:
           Konsertin on toimittanut Riikka Holopainen.
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Suvi Auvinen'
         start_time: '2026-07-07T10:00:00+03:00'
-        end_time: '2026-07-07T10:55:55+03:00'
+        end_time: '2026-07-07T10:55:00+03:00'
         description: |-
           Kirjailija Suvi Auvinen on ehtinyt moneksi. Lama-ajan lapsi on profetoinut seurakuntaväkeä, vallannut taloja, mellakoinut maailmalla - ja toisaalta konsultoinut yritysjohtajia. Tunne on vienyt usein syvään päätyyn, niin kävi karhukaistenkin kohdalla.
 
@@ -157,10 +157,19 @@ data:
 
           N. klo 14:30 Millainen kulttuurikokemus voi olla Turun linna?
           Haastateltavana on amanuenssi Bengt Selin ja toimittajana on Juha Virtanen.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miten perinnesaunominen tapahtuu? Millaisia uskomuksia saunomiseen liittyy?'
         start_time: '2026-07-07T15:00:00+03:00'
         end_time: '2026-07-07T15:58:00+03:00'
         description: |-
+          Kuvittaja-kirjailija Sanna Pelliccioni on alkuperäiseltä koulutukseltaan biologi ja nykyään sivutyökseen perinnesaunottaja. Hän on tutkinut saunomista historian ja eri kulttuurien näkökulmasta. Uudessa Saunan sylissä – kaikuja perinnesaunasta -kirjassaan perinnesaunottaja johdattaa lukijat saunapolun mittaisen matkan vanhan saunan ovelle, itämerensuomalaisen saunan muinaisiin perinteisiin. Millä tavalla perinnesaunottaja voi uudistaa näitä vanhoja, mystisiäkin perinteitä? Miksi löylyjä kuuluu tervehtiä? Ja millaisia ovat Suomen Kansan Vanhoista Runoista ammentavat saunalaulut?
+
+          Ohjelman vieraina ovat kirjailija Sanna Pelliccioni, tutkija ja perinnesaunaopettaja Maaria Alen ja tutkija Kaarina Kailo.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-07T16:00:00+03:00'
@@ -245,11 +254,6 @@ data:
           Vaikka soittotaito ja ääni olivat mukana jo nuoruudessa, usko omaan soolouraansa ei aina ollut itsestäänselvyys.
 
           Silti intohimo ja nöyrä sydän ovat vieneet eteenpäin – ja tehneet hänestä arvostetun artistin romanigospelin kentällä.
-      - title: 'Maailman tärkein pieni asia: Hannu Lakee'
-        start_time: '2026-07-07T20:15:00+03:00'
-        end_time: '2026-07-07T20:35:00+03:00'
-        description: |-
-          Hannu Lakee tallentaa poliisin historiaa. Toimittajana Maija Salminen. 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-07-07T20:35:00+03:00'
         end_time: '2026-07-07T21:00:00+03:00'

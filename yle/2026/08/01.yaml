@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-02T03:11:12.190458+00:00'
+  generated_at: '2026-07-03T03:08:29.850169+00:00'
   git:
     branch: main
-    commit: 5ea71ce1feda933808d7ee61750b0d950f90dec2
-  data_hash: 761d335179bf2968b970c8bdb651ca99fcf9b88d5c99fb3b4e205798b87c3996
+    commit: 205d50569e32f76bfb56a01bcc614e41323c3383
+  data_hash: 26a95bd949fe674f601bf4e33276bdf710f9ed34fc79cc2e9c71ef7e4a0223bc
 data:
   '':
     programmes:
@@ -62,11 +62,22 @@ data:
         end_time: '2026-08-01T12:00:00+03:00'
         description: |-
           Vuoden 1776 Yhdysvaltain itsenäisyysjulistus oli yksi ensimmäisistä poliittisista asiakirjoista, jossa esitettiin nykyaikaisten ihmisoikeuksien periaatteita. Päivän mietelauseen on valinnut Jussi Pylväs.
-      - title: Olavi Uusivirta.
+      - title: 'Maailma tarinoina: Mies vailla menneisyyttä tarjoaa Kaurismäen katseen asunnottomuuteen'
+        start_time: '2026-08-01T12:05:00+03:00'
+        end_time: '2026-08-01T13:00:00+03:00'
+        description: |-
+          Aki Kaurismäen Mies vailla menneisyyttä (2002) kuvaa muistinsa menettänyttä miestä, joka päätyy helsinkiläiseen konttikylään asunnottomien keskuuteen. Elokuva sysää hahmottamaan kaarta Suomen asunnottomuuden vähentämisen menestystarinasta kohti tämän päivän tilannetta, jossa asunnottomien määrä on jälleen nousussa. Miten elokuvassa kuvataan kodin rajoja ja merkitystä? Millainen on Kaurismäen katse ihmiseen järjestelmän rattaissa ja sen ulkopuolella? 
+          Kaurismäen kerronnan raameissa asunnottomuuden ja kodin monitahoista vyyhtiä purkavat  Marja Vehkasen kanssa arkkitehti, taiteilija ja tutkija Helmi Kajaste ja asunnottomuustutkija, yliopisto-opettaja Veera Niemi.
+      - title: 'Näistä levyistä en luovu: Olavi Uusivirta'
         start_time: '2026-08-01T13:00:00+03:00'
         end_time: '2026-08-01T13:55:00+03:00'
         description: |-
           Olavi Uusivirta aloitti rokkariuransa 10-vuotiaana hajoittamalla kitaransa, kuten Kurt Cobain. "Se oli hyvälaatuinen kitara jonka sain kummivanhemmiltani, anteeksi".
+      - title: 'Kalle Haatanen: Rohdot'
+        start_time: '2026-08-01T14:00:00+03:00'
+        end_time: '2026-08-01T14:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: Rehtorin tyttäret 1/5.
         start_time: '2026-08-01T15:00:00+03:00'
         end_time: '2026-08-01T15:25:00+03:00'
@@ -123,7 +134,7 @@ data:
         start_time: '2026-08-01T18:01:00+03:00'
         end_time: '2026-08-01T18:10:00+03:00'
         description: |-
-          Kirkkoherra Ville Tikkanen, Kangasniemi
+          Lauantai-illan rukoushetkessä puhuu Kangasniemen kirkkoherra Ville Tikkanen
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2026-08-01T19:02:00+03:00'
         end_time: '2026-08-01T21:00:00+03:00'
