@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-05T03:09:43.097441+00:00'
+  generated_at: '2026-07-06T03:11:03.360431+00:00'
   git:
     branch: main
-    commit: a1753b776daed7ed6065b76f818c9a971c899384
-  data_hash: 178f0cb326d28fa46ab9bfc85e114092591c1b6c14ab651dce4564a2595d1c8e
+    commit: cae5cdc6e185866ecacca774455808a87bad2f02
+  data_hash: 82ef52e8e9f90c4cd875b360c4a4e8f11e13f6be72614633cd74b384de777da7
 data:
   '':
     programmes:
@@ -158,6 +158,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-07-08T11:57:00+03:00'
         end_time: '2026-07-08T12:00:00+03:00'
+        description: |
+          Otteita Tea Mäkipereen toimittamasta kirjasta Horoskoopiltaan etana, 2026.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-08T12:00:00+03:00'
         end_time: '2026-07-08T12:05:00+03:00'

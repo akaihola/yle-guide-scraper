@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-05T03:09:42.601672+00:00'
+  generated_at: '2026-07-06T03:11:02.833449+00:00'
   git:
     branch: main
-    commit: a1753b776daed7ed6065b76f818c9a971c899384
-  data_hash: 178f0cb326d28fa46ab9bfc85e114092591c1b6c14ab651dce4564a2595d1c8e
+    commit: cae5cdc6e185866ecacca774455808a87bad2f02
+  data_hash: 82ef52e8e9f90c4cd875b360c4a4e8f11e13f6be72614633cd74b384de777da7
 data:
   '':
     programmes:
@@ -52,6 +52,8 @@ data:
 
           Krank (sov. Turpela): Kirkasta, oi Kristus (virsi 301) (Mieskuoro Weljet, Heikki Rainio, tenori, ja kam.ork. Religioso/Olli Heikkilä).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-07-06T06:50:00+03:00'
         end_time: '2026-07-06T06:59:59+03:00'
@@ -85,6 +87,8 @@ data:
 
           Rahmaninov (sov.): Scherzo Mendessohnin näytelmämus. Kesäyön unelma (Charles Rosen, piano).
 
+          Juontajana Inari Tilli.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-07-06T08:00:00+03:00'
         end_time: '2026-07-06T08:07:00+03:00'
@@ -115,7 +119,7 @@ data:
           Evans: Monicas vals (Monica Zetterlund).
           Sarmanto: Helsinki at noon (Christian Schwindt Quintet). 
 
-          Konsertin on koonnut Pasi Hiihtola.
+          Konsertin on koonnut Pasi Hiihtola. Juontajana Inari Tilli.
       - title: 'Virtasen taloushistoria: Verla - kun aika pysähtyi'
         start_time: '2026-07-06T10:00:00+03:00'
         end_time: '2026-07-06T10:53:00+03:00'
@@ -132,6 +136,9 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-07-06T11:57:00+03:00'
         end_time: '2026-07-06T12:00:00+03:00'
+        description: |
+          Eino Leinon runo Jumalien keinussa, kokoelmasta Kangastuksia, Otava 1902.
+          Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-06T12:00:00+03:00'
         end_time: '2026-07-06T12:05:00+03:00'
@@ -250,11 +257,6 @@ data:
       - title: Mannerheimin agentti
         start_time: '2026-07-06T20:05:00+03:00'
         end_time: '2026-07-06T20:25:00+03:00'
-        description: |
-          Jakso 6/10: Tahvanainen koulutetaan radistiksi.
-          Tahvanaisen kirjan mukaan hänet koulutettiin radistiksi Saksassa, jotta yhteydenpito Neuvostoliiton johtoon olisi helpompaa. Olisiko yhteydenpito radioteitse ollut teknisesti mahdollista Helsingistä Moskovaan 1930-luvulla?
-
-          Koskinen keskustelee radiotekniikan asiantuntijoiden kanssa sen aikaisen radiotekniikan mahdollisuuksista. 
       - title: 'Hanna Tikanderin toiset todellisuudet: “Kun työskentelen henkimaailman kanssa, en ole köyhä enkä kipee”'
         start_time: '2026-07-06T20:25:00+03:00'
         end_time: '2026-07-06T20:46:00+03:00'
