@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-06T03:11:04.071157+00:00'
+  generated_at: '2026-07-07T03:09:21.213573+00:00'
   git:
     branch: main
-    commit: cae5cdc6e185866ecacca774455808a87bad2f02
-  data_hash: 82ef52e8e9f90c4cd875b360c4a4e8f11e13f6be72614633cd74b384de777da7
+    commit: f284a6132a34a20db809492a9f37ff07fc392919
+  data_hash: d694e57f56e44780caed541303aa477886dac41f9a0480138260b37d9eae2415
 data:
   '':
     programmes:
@@ -34,12 +34,12 @@ data:
           07:18 D. Funck: Sarja neljälle viola da gamballe D-duuri (Les Escapades).
 
       - title: 'Kirjani tarina: Jarkko Volanen kertoo romaanistaan Vainovalkeat'
-        start_time: '2026-07-11T07:31:00+03:00'
-        end_time: '2026-07-11T07:55:00+03:00'
+        start_time: '2026-07-11T07:30:40+03:00'
+        end_time: '2026-07-11T07:52:20+03:00'
         description: |-
           Kirjailija Jarkko Volasen Vainovalkeat-romaani kertoo millaista on elää ilman demokratiaa. Tarina sijoittuu Medaljonkikaupunkiin, jossa ihmisiä katoaa kaduilta ja kodeista. Kirjailija Jarkko Volanen toimittaja Jukka Kuosmasen vieraana. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-07-11T07:55:00+03:00'
+        start_time: '2026-07-11T07:52:20+03:00'
         end_time: '2026-07-11T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-07-11T08:00:00+03:00'
@@ -230,15 +230,26 @@ data:
         end_time: '2026-07-11T21:25:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-07-11T21:25:00+03:00'
+        end_time: '2026-07-11T21:50:00+03:00'
+        description: |-
+          Marko Miettisen haastateltavana on Suomen ilmailumuseon museojohtaja Pia Illikainen. Ensilähetys 6.7.26.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-07-11T21:51:00+03:00'
-        end_time: '2026-07-11T22:30:00+03:00'
+        end_time: '2026-07-11T22:13:19+03:00'
         description: |-
           Jakso 10/22: Nälkä on punikki
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-07-11T22:13:19+03:00'
+        end_time: '2026-07-11T22:34:05+03:00'
+        description: |-
+          Jakso 11/22: Maaliskuu 1918. Kansalaissota
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Madrid'
-        start_time: '2026-07-11T22:40:00+03:00'
-        end_time: '2026-07-11T23:39:30+03:00'
+        start_time: '2026-07-11T22:39:44+03:00'
+        end_time: '2026-07-11T23:39:00+03:00'
         description: |-
           Kesän 2025 teemasarja kaupunkikansan musiikit jatkuu nyt Keinuvassa talossa uusin jaksoin. Madridissa flamenco dominoi etnoskeneä erilaisina variaatioina: klubeja ja festivaaleja riittää. Vaikka lajin syntykoti on Andalusiassa, juuri Madrid on niitä paikkoja, joissa flamenco nykyisin vaikuttaa voimakkaasti. Suurkaupunkien tavoin mahdollisuuksia on monenlaiseen kansanmusiikkiin ja maailmanmusiikkiin, esimerkiksi afrikkalaiseen sekä tietenkin latinalaisamerikkalaiseen, jolla on espanjalaisia juuriakin. 
 
