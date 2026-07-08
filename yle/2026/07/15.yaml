@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-07T03:09:22.449935+00:00'
+  generated_at: '2026-07-08T03:06:42.705109+00:00'
   git:
     branch: main
-    commit: f284a6132a34a20db809492a9f37ff07fc392919
-  data_hash: d694e57f56e44780caed541303aa477886dac41f9a0480138260b37d9eae2415
+    commit: 1f8bae113d229395465be681e37c2d6f3a99a18f
+  data_hash: 0366020cb2d6725e0b359ac8dea65eb68812f351d3de08ddf83be454f8336d61
 data:
   '':
     programmes:
@@ -13,6 +13,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-15T06:30:50+03:00'
         end_time: '2026-07-15T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto: Herra Jeesus kun täällä vain kanssamme on (Rinki).
+
+          Jauhiainen: Herra, saavumme synkiltä teiltä (Jaana Pöllänen, laulu, ja Ville Uusitalo, piano).
+
+          Koraalitoisinto: Herrassa on valo, autuus (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
+
       - title: Aamuhartaus
         start_time: '2026-07-15T06:50:00+03:00'
         end_time: '2026-07-15T06:59:59+03:00'
@@ -182,6 +189,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-15T18:35:00+03:00'
         end_time: '2026-07-15T18:50:00+03:00'
+        description: |+
+          Laaksonen: Uskon salaisuus (Laulu- ja soitinyhtye).
+
+          Kekäle: Laula ihmisille (Jukka Leppilampi, laulu ja kitara, ja Jouko Kantola, piano).
+
+          Sinikumpu: Kesälaulu (Taivaan Valtiaan) (Satu Sinikumpu).
+
       - title: Iltahartaus
         start_time: '2026-07-15T18:50:00+03:00'
         end_time: '2026-07-15T19:00:00+03:00'
