@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-08T03:06:47.153702+00:00'
+  generated_at: '2026-07-09T03:08:45.234249+00:00'
   git:
     branch: main
-    commit: 1f8bae113d229395465be681e37c2d6f3a99a18f
-  data_hash: 0366020cb2d6725e0b359ac8dea65eb68812f351d3de08ddf83be454f8336d61
+    commit: db910ad29a7080230206dbd144c0b50adfd07601
+  data_hash: 8e42bd43ffc48cb1333f0efc41f39ff103f61560a559cfe3aedbf1650e88eedf
 data:
   '':
     programmes:
@@ -24,11 +24,17 @@ data:
 
           Muu musiikki: 
           Elämä on nyt, säv. Pekka Simojoki, san. Anna-Mari Kaskinen
-      - title: Elävä historia
+      - title: Muistojen bulevardi
+        start_time: '2026-08-09T11:00:00+03:00'
+        end_time: '2026-08-09T11:59:00+03:00'
+      - title: 'Elävä historia: Begiinit - keskiajan itsenäiset ja rohkeat naiset'
         start_time: '2026-08-09T12:05:00+03:00'
         end_time: '2026-08-09T12:55:00+03:00'
         description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+          Oliko Länsi-Euroopassa keskiajalla naisten oma, matriarkaattinen utopia?
+          Haastateltavana: Virpi Mäkinen, vanhempi yliopistonlehtori ja teologisen tiedekunnan dosentti, Helsingin yliopisto
+          Toimittaja: Assu Asikainen
+          Äänisuunnittelu: Joonatan Kotila
       - title: 'Välilevyjä retkellä: Paratiisi jossa ei voinut elää'
         start_time: '2026-08-09T13:00:00+03:00'
         end_time: '2026-08-09T13:57:00+03:00'

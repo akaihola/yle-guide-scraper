@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-08T03:06:46.463444+00:00'
+  generated_at: '2026-07-09T03:08:44.167159+00:00'
   git:
     branch: main
-    commit: 1f8bae113d229395465be681e37c2d6f3a99a18f
-  data_hash: 0366020cb2d6725e0b359ac8dea65eb68812f351d3de08ddf83be454f8336d61
+    commit: db910ad29a7080230206dbd144c0b50adfd07601
+  data_hash: 8e42bd43ffc48cb1333f0efc41f39ff103f61560a559cfe3aedbf1650e88eedf
 data:
   '':
     programmes:
@@ -21,12 +21,39 @@ data:
       - title: Aamusoitto
         start_time: '2026-08-05T07:06:00+03:00'
         end_time: '2026-08-05T08:00:00+03:00'
+        description: |+
+          Dowland: The Frogg galliard (Paul O'Dette, luuttu).
+
+          Müller: Andante grazioso huilukonsertosta n:o 7 d-molli (Tatjana Ruhland, huilu, ja Lounais-Saksan kamariork.).
+
+          Rubinstein: Sävelmä F-duuri (Kerava-kvartetti).
+
+          Durand: Valssi nro 1 (Philip Martin, piano).
+
+          Palmgren: Violoncello (Arto Noras, sello, ja Tapani Valsta, piano).
+
+          Crusell: Andante pastorale konsertosta klarinetille ja orkesterille n:o 2 f-molli (Grand Concerto) (Kari Kriikku ja RSO/Sakari Oramo).
+
+          Falla: Tuomarin tanssi bal. Kolmikolkkahattu (Nicanor Zabaleta, harppu).
+
+          Schumann: Romanssi a-molli (Anssi Karttunen, sello, ja Tuija Hakkila, piano).
+
+          Glazunov: Muunnelma n:o 3 (A la Schumann) Kvartetosta saksofoneille (Quatuor Habanera).
+
+          Sibelius: Andante cantabile viululle ja pianolle G-duuri (Fenella Humphreys ja Joseph Tong). 
+
+          Piazzolla: Verano porteno (Buenos Airesin kesä) kok. Buenos Airesin neljä vuodenaikaa (Emanuel Ax ja Pablo Ziegler, piano).
+
+          Ravel: Modéré teoksesta Yleviä ja tunteellisia valsseja (Clevelandin ork./Pierre Boulez).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-08-05T08:00:00+03:00'
         end_time: '2026-08-05T08:07:00+03:00'
       - title: Radio 1:n aamu
         start_time: '2026-08-05T08:07:00+03:00'
         end_time: '2026-08-05T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-08-05T09:00:00+03:00'
         end_time: '2026-08-05T09:03:00+03:00'

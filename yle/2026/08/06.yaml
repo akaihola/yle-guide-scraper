@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-08T03:06:46.639241+00:00'
+  generated_at: '2026-07-09T03:08:44.347561+00:00'
   git:
     branch: main
-    commit: 1f8bae113d229395465be681e37c2d6f3a99a18f
-  data_hash: 0366020cb2d6725e0b359ac8dea65eb68812f351d3de08ddf83be454f8336d61
+    commit: db910ad29a7080230206dbd144c0b50adfd07601
+  data_hash: 8e42bd43ffc48cb1333f0efc41f39ff103f61560a559cfe3aedbf1650e88eedf
 data:
   '':
     programmes:
@@ -22,12 +22,39 @@ data:
       - title: Aamusoitto
         start_time: '2026-08-06T07:06:00+03:00'
         end_time: '2026-08-06T08:00:00+03:00'
+        description: |+
+          Levitzki: Valssi pianolle A-duuri (Stephen Hough).
+
+          Kansansäv. (sov. V. Hannikainen): Aamusella kun herään (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
+
+          Langgaard: Ensimmäinen osa jousikvartetosta n:o 4 (Kesäpäiviä) (Nightingale-jousikvartetti).
+
+          Moreno Torroba,: La siega, sarja Estampas neljälle kitaralle (EMO-kitarakvartetti).
+
+          Grovlez: Sicilienne ja Allegro giocoso (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
+
+          Giordano: Intermezzo oopp. Fedora (Göteborgin SO/Neeme Järvi).
+
+          J.S. Bach: Preludi ja fuuga n:o 1 C-duuri kokoelmasta Das Wohltemperierte Klavier 1 (Olli Mustonen, piano).
+
+          Paloheimo (sov. Sonninen): Oriental (Päivi Rissanen, viulu, ja Sonja Fräki, piano).
+
+          Lalo: L'aube naît (Aamu herää) (Tassis Christoyannis, baritoni, ja Jeff Cohen, piano).
+
+          R. Schumann: Scherzo teoks. Alkusoitto, scherzo ja finaali op.52 (Seattlen SO/Gerard Schwarz).
+
+          Barrios: Valssi n:o 4 G-duuri (Juuso Nieminen, kitara).
+
+          Rahmaninov: Preludi D-duuri (Juhani Lagerspetz, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T08:00:00+03:00'
         end_time: '2026-08-06T08:07:00+03:00'
       - title: Radio 1:n aamu
         start_time: '2026-08-06T08:07:00+03:00'
         end_time: '2026-08-06T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-08-06T09:00:00+03:00'
         end_time: '2026-08-06T09:03:00+03:00'
