@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-09T03:08:38.207435+00:00'
+  generated_at: '2026-07-10T03:08:43.581989+00:00'
   git:
     branch: main
-    commit: db910ad29a7080230206dbd144c0b50adfd07601
-  data_hash: 8e42bd43ffc48cb1333f0efc41f39ff103f61560a559cfe3aedbf1650e88eedf
+    commit: 13fb33e075a7e1bf924525ba57b377925baedf64
+  data_hash: b270e54c31171ed46064928af28e5aaa895fe80462bd348443319e26103b0736
 data:
   '':
     programmes:
@@ -195,6 +195,8 @@ data:
 
           Bizet: Nadirin ja Zurgan duetto "Au fond du temple saint" oopp. Les pêcheurs de perles (Helmenkalastajat) (Jussi Björling, tenori, ja Robert Merrill, baritoni, sekä RCA Victor -sinfoniaork./Renato Cellini).
 
+          Juontajana Inari Tilli.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-07-10T17:00:00+03:00'
         end_time: '2026-07-10T17:05:00+03:00'
@@ -223,6 +225,8 @@ data:
 
           Nkounkou: Ye nzolele nata malongi maku - Vien suuren viestin nyt maailmalle (Jakaranda ja soitinyhtye/Pekka Nyman).
 
+          Studiossa Inari Tilli.
+
       - title: Iltahartaus
         start_time: '2026-07-10T18:50:00+03:00'
         end_time: '2026-07-10T19:00:00+03:00'
@@ -240,23 +244,41 @@ data:
           Viitasaaren Musiikin aika -festivaalilla 4.7.2026 äänitetyn konsertin toimittaa Ainomaija Pennanen.  
       - title: 'Tiedetrippi: Kun ihminen lähtee tähtiin'
         start_time: '2026-07-10T21:00:00+03:00'
-        end_time: '2026-07-10T21:30:00+03:00'
+        end_time: '2026-07-10T21:27:11+03:00'
         description: |-
           Maailman rikkain ihminen Elon Musk haluaa valloittaa Mars-planeetan. Voi olla, että ihmiskunnan kannattaa pyrkiä Marsiin, mutta kannattaako ihmisen yrittää asua siellä – tai ylipäätään millään planeetalla? Tulevaisuuden ihmiskunta saattaa kukoistaa avaruudessa kelluvissa valtavissa megasatelliittikaupungeissa.
           Toimittaja Henry Tikkanen.
           (17.2.2025)
       - title: 12 diktaattoria. Kapteeni Augusto Pinochet
-        start_time: '2026-07-10T21:31:00+03:00'
-        end_time: '2026-07-10T22:13:00+03:00'
+        start_time: '2026-07-10T21:27:45+03:00'
+        end_time: '2026-07-10T22:09:05+03:00'
         description: |-
           Chilessä sotilaskaappauksen kulku 11. syyskuuta 1973 sekä sitä seuranneet murhat ja karkotukset nostivat komentaja kapteeni Augusto Pinochetin aikansa voimakkaimmaksi oikeistolaisen sotilasdiktatuurin symboliksi.
           12 diktaattoria sarjaa toimittaa Raimo Tyykiluoto. 
           (v. 2018)
-      - title: Tuuli Saksalan keidas
-        start_time: '2026-07-10T22:14:00+03:00'
-        end_time: '2026-07-10T23:03:00+03:00'
+      - title: Radio 1 soi
+        start_time: '2026-07-10T22:09:05+03:00'
+        end_time: '2026-07-10T22:14:08+03:00'
+        description: |+
+          Brahms: Wie bist du, meine Königin (Ihana valtiattareni) (Petteri Salomaa, baritoni, ja Ilmo Ranta, piano).
+
+      - title: 'Tuuli Saksalan keidas: Malin kirkkaimmat tähdet ja muuta keskikesän parasta maailmanmusiikkia'
+        start_time: '2026-07-10T22:14:08+03:00'
+        end_time: '2026-07-10T23:04:20+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Radio 1 soi
+        start_time: '2026-07-10T23:04:22+03:00'
+        end_time: '2026-07-10T23:15:25+03:00'
+        description: |+
+          J. Strauss (nuor.): Keisarivalssi (Cincinnati Pops/Erich Kunzel).
+
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-07-10T23:15:25+03:00'
+        end_time: '2026-07-10T23:40:00+03:00'
+        description: |+
+          Käsikirjoittaja-ohjaaja Markus Lehmusruusu on Miia Lahden studiovieraana. Ensilähetys oli 31.3.2026.
+
       - title: Yöklassinen
         start_time: '2026-07-10T23:40:00+03:00'
         end_time: '2026-07-11T07:30:00+03:00'

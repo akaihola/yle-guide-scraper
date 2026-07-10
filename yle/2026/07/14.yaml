@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-09T03:08:39.417995+00:00'
+  generated_at: '2026-07-10T03:08:44.549311+00:00'
   git:
     branch: main
-    commit: db910ad29a7080230206dbd144c0b50adfd07601
-  data_hash: 8e42bd43ffc48cb1333f0efc41f39ff103f61560a559cfe3aedbf1650e88eedf
+    commit: 13fb33e075a7e1bf924525ba57b377925baedf64
+  data_hash: b270e54c31171ed46064928af28e5aaa895fe80462bd348443319e26103b0736
 data:
   '':
     programmes:
@@ -255,7 +255,7 @@ data:
         end_time: '2026-07-14T19:02:00+03:00'
       - title: 'Kuunnelma: Laskettua aikaa: Tšernihiv 7/10'
         start_time: '2026-07-14T19:02:00+03:00'
-        end_time: '2026-07-14T19:45:00+03:00'
+        end_time: '2026-07-14T19:23:00+03:00'
         description: |-
           Nora ja Kalle uhmaavat vaaroja ja pomoaan auttaakseen Olhaa pelastamaan perheensä Tšernihivistä pommitusten keskeltä. Kun pelastusoperaatio on vihdoin onnistumassa, paluumatka johtaa odottamattomaan käänteeseen. Jälleen yksi tarkastuspiste, mutta kumman puolen?
       - title: 'Romanitarinoita: Nuorena valittu, uskollisesti kuljettu – Joni Enroth'
@@ -270,12 +270,24 @@ data:
         end_time: '2026-07-14T20:35:00+03:00'
         description: |-
           Jukka Kuosmasen idoli on Bruce Springsteen. Toimittajana Maija Salminen. 
+      - title: Poiminta Radio 1:n iltapäivästä
+        start_time: '2026-07-14T20:25:00+03:00'
+        end_time: '2026-07-14T20:35:00+03:00'
+        description: |2-
+
+          Kesälomien aikaan moni kerää kulttuurikokemuksia kesätapahtumista ja kesämatkoilta. Minkälaisia kulttuurikokemuskia voi saada Turun Forum Marinumissa eli merenkulkua käsittelevässä museossa?
+          Haastateltavana on museolehtori Noora Rummukainen ja toimittajana on Juha Virtanen. (Ensilähetys 14.6.26)
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-14T20:25:00+03:00'
+        end_time: '2026-07-14T20:35:00+03:00'
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-07-14T20:35:00+03:00'
         end_time: '2026-07-14T21:00:00+03:00'
-      - title: Maarit Tastula - Yksi maailma, kaksi katsetta
+      - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Sixten Korkman'
         start_time: '2026-07-14T21:30:00+03:00'
         end_time: '2026-07-14T22:25:00+03:00'
+        description: |-
+          Mistä ihmiset puhuvat, kun he väittävät puhuvansa arvoista? Taloustieteilijä Sixten Korkmanin mielestä kyse on harmillisen usein vain omasta lompakosta. Omat taloudelliset intressit vaikuttavat siihen, miten maailman näkee ja miten asioita tulkitsee. 
       - title: Uudet levyt
         start_time: '2026-07-14T22:25:00+03:00'
         end_time: '2026-07-14T23:19:00+03:00'

@@ -1,14 +1,53 @@
 metadata:
-  generated_at: '2026-06-22T03:15:50.561756+00:00'
+  generated_at: '2026-07-10T03:08:50.391338+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: 13fb33e075a7e1bf924525ba57b377925baedf64
+  data_hash: b270e54c31171ed46064928af28e5aaa895fe80462bd348443319e26103b0736
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-08-13T06:50:00+03:00'
+        end_time: '2026-08-13T06:59:59+03:00'
         description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
+          "Minä olen kanaanilainen nainen"
+          Kouluttaja, rovasti Mika Aspinen Vantaalta kutsuu loppukesän torstaiaamuissa eläytymään Raamatun henkilöiden sisäiseen matkaan. Neljännessä jaksossa vuorossa on Kanaanilainen nainen (Matt. 15:21-28). 4/6.
+      - title: Radio 1:n aamu
+        start_time: '2026-08-13T08:07:00+03:00'
+        end_time: '2026-08-13T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
+      - title: 'Marko Gustafsson: Käännekohdissa Pelle Miljoona'
+        start_time: '2026-08-13T10:00:00+03:00'
+        end_time: '2026-08-13T10:53:00+03:00'
+        description: |-
+          “Olet kaunis, olet rohkea, olet  vapaa, syntynyt voittamaan!”, Pelle Miljoona lauloi 80-luvun alussa ja valoi  toivoa ahdistuneisiin nuoriin. Hän ei kadehdi nuoruutta tällä maailma ajalla. Syyksi Pelle Miljoona  pohtii maailman menoa, joka hänen mielestään on äitynyt aivan karmeaksi. Hän pohtii myös sitä, ettei  musiikin voimaa ei enää käytetä yhteisten asioiden puolesta puhumiseen. “Jengi tekee biisejä parisuhteistaan ja omista pienistä ympyröistään, minkä kyllä ymmärrän tässä kaoottisessa maailmassa”, Pelle toteaa Marko Gustafssonin haastattelussa.
+      - title: 'Maailma tarinoina: Shakespearen Kesäyön unelmassa rakkaus ja mielikuvitus ovat liittolaiset'
+        start_time: '2026-08-13T12:05:00+03:00'
+        end_time: '2026-08-13T13:00:00+03:00'
+        description: |-
+          Kesäyön unelma on noin 31-vuotiaan Shakespearen käsialaa. Komediassa punoutuu yhteen useampikin juonikuvio ja lopussa koittaa näytelmä näytelmässä -rakenne, jossa kiteytyy kirjailijalle tyypillinen kyky tehdä nopeita leikkauksia koomisesta traagiseen. Nuori Shakespeare tarttuu unen värittämässä näytelmässä rakkauden eri sävyhin ja lajeihin sekä vallan ja sukupuolen kysymyksiin. Miten näytelmän kautta voidaan tarkastella vastasyttynyttä ja kauan pitkässä liitossa kytenyttä rakkautta? Miten se johdattelee pohtimaan rakkautta laajempana, mullistavana kokonaisuutena? 
+
+          Shakespearen luomassa kehikossa rakkauden ulottuvuuksia hahmottavat Marja Vehkasen kanssa filosofi, kirjailija ja käsikirjoittaja Pärttyli Rinne ja vanhempi yliopistonlehtori, Shakespeare-tutkija ja kääntäjä Nely Keinänen.
+      - title: Kulttuuriykkönen
+        start_time: '2026-08-13T15:00:00+03:00'
+        end_time: '2026-08-13T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: 'Tuuli Saksalan keidas: Keitaan kesämatkat – Napoli-sarja'
+        start_time: '2026-08-13T17:35:00+03:00'
+        end_time: '2026-08-13T18:25:00+03:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Iltahartaus
+        start_time: '2026-08-13T18:50:00+03:00'
+        end_time: '2026-08-13T19:00:00+03:00'
+        description: |-
+          Viestintäpäällikkö Mervi Viuhko, Helsinki
+      - title: Jazzklubin viikon keikka
+        start_time: '2026-08-13T19:02:00+03:00'
+        end_time: '2026-08-13T20:00:00+03:00'
+      - title: Klassinen kattaus
+        start_time: '2026-08-13T20:00:00+03:00'
+        end_time: '2026-08-13T20:57:00+03:00'
