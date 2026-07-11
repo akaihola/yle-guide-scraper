@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-10T03:08:45.235678+00:00'
+  generated_at: '2026-07-11T03:05:58.723957+00:00'
   git:
     branch: main
-    commit: 13fb33e075a7e1bf924525ba57b377925baedf64
-  data_hash: b270e54c31171ed46064928af28e5aaa895fe80462bd348443319e26103b0736
+    commit: a2079a297517abfdd4e16d86ff64f26476468d00
+  data_hash: c88461144d1877f49201762b0ac3a66d195d320b14be5c4f1bd08e9fa0f50bfd
 data:
   '':
     programmes:
@@ -77,7 +77,7 @@ data:
         end_time: '2026-07-18T13:55:00+03:00'
         description: |-
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
-      - title: Kalle Haatanen
+      - title: Noitavainojen vuosisadat
         start_time: '2026-07-18T14:00:00+03:00'
         end_time: '2026-07-18T14:55:00+03:00'
         description: |-
@@ -142,6 +142,12 @@ data:
           "Kumpi on lyhty ja kumpi on kuu?"
           Lauantai-illan rukoushetkessä verkkoviestintäpäällikkö Hanna Paavilainen Helsingistä kertoo pimeässä suunnistavista yöperhosista ja valosta, joka pitää lentokurssin suorana.
           Rukoushetkessä 1. Mooseksen kirjaa uuden käännöksen mukaan lukee näyttelijä Krista Kosonen.
+      - title: Lauantain toivotut levyt
+        start_time: '2026-07-18T18:10:00+03:00'
+        end_time: '2026-07-18T19:00:00+03:00'
+        description: |+
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2026-07-18T19:02:00+03:00'
         end_time: '2026-07-18T21:00:00+03:00'
@@ -159,6 +165,18 @@ data:
         end_time: '2026-07-18T21:25:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-07-18T21:51:00+03:00'
+        end_time: '2026-07-18T22:30:00+03:00'
+        description: |-
+          Jakso 12/22: Paljon on kärsitty vilua ja nälkää
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-07-18T21:51:00+03:00'
+        end_time: '2026-07-18T22:30:00+03:00'
+        description: |-
+          Osa 13/22: Elämä asettuu
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
       - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Dublin'
         start_time: '2026-07-18T22:40:00+03:00'
         end_time: '2026-07-18T23:39:30+03:00'

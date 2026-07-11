@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-10T03:08:46.383168+00:00'
+  generated_at: '2026-07-11T03:06:00.140789+00:00'
   git:
     branch: main
-    commit: 13fb33e075a7e1bf924525ba57b377925baedf64
-  data_hash: b270e54c31171ed46064928af28e5aaa895fe80462bd348443319e26103b0736
+    commit: a2079a297517abfdd4e16d86ff64f26476468d00
+  data_hash: c88461144d1877f49201762b0ac3a66d195d320b14be5c4f1bd08e9fa0f50bfd
 data:
   '':
     programmes:
@@ -41,6 +41,11 @@ data:
         end_time: '2026-07-24T09:00:00+03:00'
         description: |-
           Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
+      - title: 'Kalle Haatanen: Aktinen alue suurvaltapolitiikan kourissa'
+        start_time: '2026-07-24T10:00:00+03:00'
+        end_time: '2026-07-24T10:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
       - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miten Verdi teki Shakespearen näytelmistä vielä alkuperäistä parempia'
         start_time: '2026-07-24T11:00:00+03:00'
         end_time: '2026-07-24T11:55:00+03:00'

@@ -1,14 +1,40 @@
 metadata:
-  generated_at: '2026-06-22T03:15:50.732526+00:00'
+  generated_at: '2026-07-11T03:06:04.272479+00:00'
   git:
     branch: main
-    commit: 65386bc904642c447f4b0d2d27e66e7961815a66
-  data_hash: 1d86ac77590161bded6dfbcc351fdf288596b664265ba5d17ed025adf884a3c5
+    commit: a2079a297517abfdd4e16d86ff64f26476468d00
+  data_hash: c88461144d1877f49201762b0ac3a66d195d320b14be5c4f1bd08e9fa0f50bfd
 data:
   '':
     programmes:
-      - title: 'Maisteri Lindgrenin musiikkiesitelmä: Miksi Maisteri rakastaa Bruckneria'
-        start_time: '2026-07-17T11:00:00+03:00'
-        end_time: '2027-07-16T23:59:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-08-14T06:50:00+03:00'
+        end_time: '2026-08-14T06:59:59+03:00'
         description: |-
-          ”Ja minun hirveä harhani oli se, että oudon pitkään sijoitin Brucknerin ja Mahlerin samaan laariin, eikä se mikään ihan pieni laari ollutkaan, pikemminkin tehdashalli, ja siellä muhivat nämä kaksi 75-minuuttisten sinfonioiden säveltäjää, jotka inspiroivat grandiositeettia potevia kapellimestareita, tosin sillä erolla, että grandioosit kapellimestarit johtavat mieluummin Mahleria kuin Bruckneria.” - Minna Lindgren esitelmöi.
+          Aluekappalainen Sanni Rissanen, Kerimäki
+      - title: Radio 1:n aamu
+        start_time: '2026-08-14T08:07:00+03:00'
+        end_time: '2026-08-14T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
+      - title: Maisteri Lindgrenin musiikkiesitelmä
+        start_time: '2026-08-14T11:00:00+03:00'
+        end_time: '2026-08-14T11:55:00+03:00'
+      - title: 'Tiedeykkönen: Väärinymmärretty kissa - moni tulkitsee kissan eleet protestina turhaan'
+        start_time: '2026-08-14T12:05:00+03:00'
+        end_time: '2026-08-14T12:55:00+03:00'
+        description: |
+          Kissa eleet ovat paljon hienovaraisempia kuin ymmärrämme. Mitä kissa tarvitsee, ja mistä tiedämme, voiko se hyvin? Asiantuntijoina on eläinlääkäri Johanna Lankila, kissa-asiantuntija, eläintenhoidon  opettaja Päivi Ylikorpi sekä eläinten käyttäytymistieteen tohtori Helena Telkänranta. Toimittajana on Pirjo Koskinen. 
+      - title: Kulttuuriykkönen
+        start_time: '2026-08-14T15:00:00+03:00'
+        end_time: '2026-08-14T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Iltahartaus
+        start_time: '2026-08-14T18:50:00+03:00'
+        end_time: '2026-08-14T19:00:00+03:00'
+        description: |-
+          Perheneuvoja Anja Nwose, Forssa
+      - title: Kotimainen konsertti
+        start_time: '2026-08-14T19:02:00+03:00'
+        end_time: '2026-08-14T21:00:00+03:00'
