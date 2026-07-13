@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-12T03:07:08.214620+00:00'
+  generated_at: '2026-07-13T03:08:05.897145+00:00'
   git:
     branch: main
-    commit: 26953b200002a1b9e64d8678c13c818fe36bbe38
-  data_hash: fb26b729dfd570e8054e69571fb0de8dac430a0c43cec22c311e84dfbb3b0f2d
+    commit: e9c061d30f3d75383c564d07bbfacffaea660cf0
+  data_hash: 8f647a0b233b67eae8b394a59ec1eb3c7f9f1deca1a875b48d60af82736c930f
 data:
   '':
     programmes:
@@ -145,11 +145,12 @@ data:
         end_time: '2026-07-13T15:00:00+03:00'
         description: |
           Juontajana Jalmari Laine. N. klo 14 Maanantaimuseo-sarjassa Marko Miettinen vierailee säveltäjä Jean Sibeliuksen ja hänen puolisonsa Aino Sibeliuksen kotimuseo Ainolassa. Haastatteltavana on museojohtaja Julia Donner.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Anish Kapoorin taide vie värin ytimeen '
         start_time: '2026-07-13T15:00:00+03:00'
         end_time: '2026-07-13T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Maailman tunnetuimpiin kuuluvan kuvataiteilijan teokset rakentavat siltoja sisäisen kokemuksen ja ulkoisen maailman välille. Teosten värit ja mittasuhteet vievät arkisten aistikokemusten tuolle puolen, ja herättelevät tuntemuksia, joissa on samalla kertaa jotain tuttua ja jotain uutta. Anish Kapoorin teoksia on parhaillaan esillä Serlachiuksen taidemuseossa Mäntässä. 
+          Keskustelussa mukana taidekriitikko Timo Valjakka ja avaruustähtitieteen emeritusprofessori ja kirjailija Esko Valtaoja. Toimittajana on Jonni Roos.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-13T16:00:00+03:00'
         end_time: '2026-07-13T16:07:00+03:00'
@@ -203,8 +204,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-07-13T18:35:00+03:00'
         end_time: '2026-07-13T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Salumäe: Elämä on meri (RKK/Timo Nuoranne, ja Pertti Eerola, urut).
+
+          Runyan: Uskollisuutesi suuri on (Braxén-kuoro/Harry Westerlund, ja Matti Pesonen, urut).
+
+          Nyberg (sov. Deringer): Tuolla keinuu pieni pursi (Tupu Savunen, laulu, sekä lapsikuoro ja yhtye/Mikko von Deringer).
+
+          L. Heikkilä: Viimeiset veneet (Outi Mattila, Maija Salokivi, Sami Kosola ja Ahti Paunu, laulu, sekä Valkia-yhtye).
+
       - title: Iltahartaus
         start_time: '2026-07-13T18:50:00+03:00'
         end_time: '2026-07-13T19:00:00+03:00'
