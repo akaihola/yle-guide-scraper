@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-13T03:08:07.633169+00:00'
+  generated_at: '2026-07-14T03:05:32.469409+00:00'
   git:
     branch: main
-    commit: e9c061d30f3d75383c564d07bbfacffaea660cf0
-  data_hash: 8f647a0b233b67eae8b394a59ec1eb3c7f9f1deca1a875b48d60af82736c930f
+    commit: 6143b737d21678071a9bf4db4668483bbda10c95
+  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
 data:
   '':
     programmes:
@@ -78,6 +78,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-07-17T09:04:00+03:00'
         end_time: '2026-07-17T09:59:00+03:00'
+        description: |-
+          Levine/Brown: Nosta lippu salkoon (Kai Hyttinen).
+          Louiguy: La vie en rose (Edith Piaf).
+          Vlavianos: We pretend (Demis Roussos).
+          Findon/Shelley: Aurinkoon, tuuleen (Katri Helena).
+          Seeger/Hays: Datemi un martello (Rita Pavone).
+          Paxton: The last thing on my mind (Tom Paxton). 
+          Christopher/Thompson/James: Always on my mind (Elvis Presley).
+          Sarmasto: Sinu oma (Kalmer Tennosaar).
+          Anderson: Blue tango (Mantovani).
+          Lindström: Sininen laguuni (Helena Siltala).
+          Lindström: Laina-aurinko (Sinikka Oksanen).
+          Wonder: Isn't she lovely (Stevie Wonder).
+          Trini: Yo no soy esa (Mari Trini).
+          Allen: Cumana (Edmundo Rosin ork.).
+          Andersson/Ulvaeus: Summer night city (Abba).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Noitavainojen vuosisadat
         start_time: '2026-07-17T10:00:00+03:00'
         end_time: '2026-07-17T10:55:00+03:00'
@@ -98,6 +116,12 @@ data:
         end_time: '2026-07-17T12:55:00+03:00'
         description: |-
           Toimittajana Jari Mäkinen.
+      - title: 'Tiedetrippi: Mies, joka venytti aikaa'
+        start_time: '2026-07-17T13:00:00+03:00'
+        end_time: '2026-07-17T13:30:00+03:00'
+        description: |-
+          Vuonna 1962 nuori ranskalainen geologi Michel Siffre kömpi sisään säkkipimeään luolaan mukanaan tarvikkeita pitkäaikaiseen oleiluun. Siffre oli tullut tutkimusmatkalle, mutta tutkimuksen kohde ei suinkaan ollut luola, vaan hän itse. Siffre ei ottanut mukaansa kelloa, ja se oli koko jutun juoni.
+          (30.6.2025)
       - title: 'Radio 1:n iltapäivä: Kirjani tarina: Liisa Louhela kertoo romaanistaan Mies joka kantoi aurinkoa sylissään'
         start_time: '2026-07-17T13:30:00+03:00'
         end_time: '2026-07-17T15:00:00+03:00'
@@ -162,6 +186,12 @@ data:
           Konsertin ohjelma yhdistää ukrainalaisen klassisen musiikin juuret laajempaan eurooppalaiseen perinteeseen ja luo vuoropuhelua kulttuurien ja vuosisatojen yli. 
 
           Ennen konserttia Ainomaija Pennasen haastateltavana on sellisti ja elokuvaohjaaja Lukas Stasevskij, joka kertoo huomioitaan kulttuurista ja sen merkityksestä tämän päivän Ukrainassa.
+      - title: 'Tiedetrippi: Mies, joka venytti aikaa'
+        start_time: '2026-07-17T21:00:00+03:00'
+        end_time: '2026-07-17T21:30:00+03:00'
+        description: |-
+          Vuonna 1962 nuori ranskalainen geologi Michel Siffre kömpi sisään säkkipimeään luolaan mukanaan tarvikkeita pitkäaikaiseen oleiluun. Siffre oli tullut tutkimusmatkalle, mutta tutkimuksen kohde ei suinkaan ollut luola, vaan hän itse. Siffre ei ottanut mukaansa kelloa, ja se oli koko jutun juoni.
+          (30.6.2025)
       - title: 12 diktaattoria. Arjalaisten aurinko Mohammad Reza Pahlavi Shaahi
         start_time: '2026-07-17T21:31:00+03:00'
         end_time: '2026-07-17T22:25:00+03:00'

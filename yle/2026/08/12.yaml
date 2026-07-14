@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-13T03:08:14.461855+00:00'
+  generated_at: '2026-07-14T03:05:38.408479+00:00'
   git:
     branch: main
-    commit: e9c061d30f3d75383c564d07bbfacffaea660cf0
-  data_hash: 8f647a0b233b67eae8b394a59ec1eb3c7f9f1deca1a875b48d60af82736c930f
+    commit: 6143b737d21678071a9bf4db4668483bbda10c95
+  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
 data:
   '':
     programmes:
@@ -12,6 +12,32 @@ data:
         end_time: '2026-08-12T06:59:59+03:00'
         description: |-
           Historioitsija, tietokirjailija Laura Kolbe, Helsinki
+      - title: Aamusoitto
+        start_time: '2026-08-12T07:06:00+03:00'
+        end_time: '2026-08-12T08:00:00+03:00'
+        description: |+
+          Dall'Abaco: Primo passepied - Secondo passepied teoksesta Concerto a piu instrumenti n:o 3 (Concerto Köln/Werner Ehrhardt).
+
+          Beethoven: Rondo sonaatista n:o 15 D-duuri (Pastoraali) (Andras Schiff, piano).
+
+          Paradis: Sicilienne (Jian Wang, sello, ja Göran Söllscher, kitara).
+
+          G. Holst: Menuetti kok. Kolme kappaletta oboelle ja jousikvartetille (Ensemble Arabesques).
+
+          Tárrega: Aamusoitto (Timo Korhonen, kitara).
+
+          Durante: Konsertto jousille ja continuolle n:o 5 A-duuri (Raglan Baroque Players/Nicholas Kraemer).
+
+          Bruckner: Rondo jousikvartetille (L'Archibudelli).
+
+          Bizet: Intermezzo orkesterisarjasta Carmen (New Yorkin FO/Leonard Bernstein). 
+
+          Hensel: Elokuu pianosarj. Vuosi (Lauma Skride).
+
+          Ginastera: Danza (Tanssi) teoks. Impresiones de la puna (Tunnelmakuvia ylänköarolta) (Sharon Bezaly, huilu, ja Australian kamariork./Richard Tognetti).
+
+          L. Anderson: Sarabande (Kölnin RO/Pinchas Steinberg).
+
       - title: Radio 1:n aamu
         start_time: '2026-08-12T08:07:00+03:00'
         end_time: '2026-08-12T09:00:00+03:00'

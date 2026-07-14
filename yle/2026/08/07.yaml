@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-13T03:08:13.193506+00:00'
+  generated_at: '2026-07-14T03:05:37.172276+00:00'
   git:
     branch: main
-    commit: e9c061d30f3d75383c564d07bbfacffaea660cf0
-  data_hash: 8f647a0b233b67eae8b394a59ec1eb3c7f9f1deca1a875b48d60af82736c930f
+    commit: 6143b737d21678071a9bf4db4668483bbda10c95
+  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
 data:
   '':
     programmes:
@@ -145,12 +145,25 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-07T19:00:00+03:00'
         end_time: '2026-08-07T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertteja: Tahdon! Häämusiikkia Kuhmon Kamarimusiikista'
         start_time: '2026-08-07T19:02:00+03:00'
         end_time: '2026-08-07T21:00:00+03:00'
-      - title: Vaihtuva sarja  (1.läh ke klo 12)
+        description: |-
+          Konsertti tulvillaan rakkautta! Toivo Kuulan ja Felix Mendelssohnin häämarssit, Jean Sibeliuksen Romanssi ja Edvard Griegin Rakastan sinua kietoutuvat César Franckin A-duuri sonaatin ympärille. Franck sävelsi sonaattinsa 63-vuotiaana ystävänsä 28-vuotiaan viulistin Eugène Ysaÿen häälahjaksi. Sonaattia pidetään yhtenä parhaista koskaan kirjoitetuista viulu-piano-sonaateista. Kuhmon kirkossa 21.7.2026 tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Esiintyjät:
+          Susanne Kujala, urut 
+          Arttu Kataja, baritoni
+          Antti Tikkanen ja Kaija Saarikettu, viulu 
+          Anna Laakso, Pauliina Tukiainen ja Sophia Rahman, piano
+
+          Kuva: © Jonas Kukkonen
+      - title: 'Pieleen mennyt historia: Nälkä on vallan puutetta, ei ruoan puutetta'
         start_time: '2026-08-07T21:31:00+03:00'
         end_time: '2026-08-07T22:25:00+03:00'
+        description: |-
+          Miksi nälästä ei vieläkään ole päästy eroon? Miten nälän syyt ovat muuttuneet eri aikoina? Näitä kysymyksiä pohtivat talous- ja sosiaalihistorian dosentti Antti Häkkinen, ympäristötutkija Ville Lähde, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren.
+          (2024)
       - title: Tuuli Saksalan keidas
         start_time: '2026-08-07T22:26:00+03:00'
         end_time: '2026-08-07T23:15:00+03:00'

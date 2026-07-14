@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-13T03:08:14.689229+00:00'
+  generated_at: '2026-07-14T03:05:38.575553+00:00'
   git:
     branch: main
-    commit: e9c061d30f3d75383c564d07bbfacffaea660cf0
-  data_hash: 8f647a0b233b67eae8b394a59ec1eb3c7f9f1deca1a875b48d60af82736c930f
+    commit: 6143b737d21678071a9bf4db4668483bbda10c95
+  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
 data:
   '':
     programmes:
@@ -13,6 +13,28 @@ data:
         description: |-
           "Minä olen kanaanilainen nainen"
           Kouluttaja, rovasti Mika Aspinen Vantaalta kutsuu loppukesän torstaiaamuissa eläytymään Raamatun henkilöiden sisäiseen matkaan. Neljännessä jaksossa vuorossa on Kanaanilainen nainen (Matt. 15:21-28). 4/6.
+      - title: Aamusoitto
+        start_time: '2026-08-13T07:06:00+03:00'
+        end_time: '2026-08-13T08:00:00+03:00'
+        description: |+
+          Rameau: Alkusoitto komediabal. Platée (Les Talens Lyriques/Christophe Rousset).
+
+          Coste: Meulan (Jouni Stenroos, kitara).
+
+          Sinding (sov. Piper): Itämainen tanssi (Les Siecles -ork./Francois-Xavier Roth).  
+
+          Balakirev: Puutarhassa (Alexander Paley, piano).
+
+          Godard: Valssi sarjasta B-duuri (William Bennett, huilu, ja Englantilainen kamariork./Steuart Bedford).
+
+          Massenet: Nuit d'Espagne (Philippe Jaroussky, kontratenori, ja Jerome Ducros, piano).
+
+          Nielsen: Turha serenadi (Chicago Pro Musica).
+
+          Ravel: Narrin aamulaulu (Seattlen SO/Ludovic Morlot).
+
+          Henselt: Muisto (Esther Budiardjo, piano).
+
       - title: Radio 1:n aamu
         start_time: '2026-08-13T08:07:00+03:00'
         end_time: '2026-08-13T09:00:00+03:00'
@@ -51,3 +73,8 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-08-13T20:00:00+03:00'
         end_time: '2026-08-13T20:57:00+03:00'
+      - title: Rehtorin tyttäret 2/5.
+        start_time: '2026-08-13T22:31:00+03:00'
+        end_time: '2026-08-13T22:59:00+03:00'
+        description: |-
+          Osa 2/5 Sodassa menehtyneen rehtori Sipolan perhe kohtaa uuden elämänvaiheen. Jokaisen olisi nyt huolehdittava itsestään. Vanhimmat tyttäret Raija, Pirkko, Sirkka ja Satu alkavat huushollaamaan ja äiti hakeutuu opettajan töihin. Pienimmät Kaarina sekä kuopus Jorma saavat vielä temmeltää vapaasti. Sarja vuodelta 1959.
