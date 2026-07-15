@@ -1,15 +1,26 @@
 metadata:
-  generated_at: '2026-07-14T03:05:34.096821+00:00'
+  generated_at: '2026-07-15T03:06:09.743093+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
       - title: Hartaita säveliä
         start_time: '2026-07-23T06:30:50+03:00'
         end_time: '2026-07-23T06:50:00+03:00'
+        description: |+
+          Perttilä (sov. Mannila): Oodi rakkaudelle (Maria Laakso).
+
+          Nikunen: Sinua siunata tahdon (Oulun konservatorion kirkkomusiikin opiskelijoiden kuoro/Tuomo Nikkola).
+
+          Koraalitoisinto: Sä käskit, Herra, valona (Harjun Nuorten Kuoro/Heikki Liimola).
+
+          Löytty: Kahden maan kansalainen (Herännäisnuorten kuoro/Samuli Korkalainen, ja Anna Hietala, viulu).
+
+          Maasalo: Boade muinna (=Tule kanssani, Herra Jeesus) (Wimme Saari, laulu).
+
       - title: Aamuhartaus
         start_time: '2026-07-23T06:50:00+03:00'
         end_time: '2026-07-23T06:59:59+03:00'
@@ -162,6 +173,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-23T18:35:00+03:00'
         end_time: '2026-07-23T18:50:00+03:00'
+        description: |+
+          Löytty: Oi suruton (Jaakko Löytty, laulu, sekä Espoon srk:n nuorten kuoro ja Soitinyhtye Wirren Wiemää/Matti Kallio).
+
+          Heikkilä: Eri tuuli (Saila Seurujärvi ja Valkia).
+
+          Tikka: Sinun luoksesi, Herra, saan tulla (Toukomettiset/Risto Ainali).
+
       - title: Iltahartaus
         start_time: '2026-07-23T18:50:00+03:00'
         end_time: '2026-07-23T19:00:00+03:00'

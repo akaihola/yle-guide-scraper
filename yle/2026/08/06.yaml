@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-14T03:05:36.984294+00:00'
+  generated_at: '2026-07-15T03:06:13.211518+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
@@ -111,6 +111,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T16:00:00+03:00'
         end_time: '2026-08-06T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-08-06T16:07:00+03:00'
+        end_time: '2026-08-06T16:59:00+03:00'
+        description: |-
+          Zelenka: Fanfaari neljälle trumpetille ja patarummuille (Trompeten-Consort Innsbruck).
+
+          Kuula: Aamulaulu (Kaari Ensemble/Saara Aittakumpu).
+
+          Sundblad-Halme: Crepuscule sarj. Nukketeatterissa op.16 (Tiina Karakorpi, piano).
+
+          A. Mahler: Die stille Stadt, yksinlaulu nro 1 kokoelmasta Fünf Lieder (Iris Vermillion, mezzosopraano, ja Concertgebouw-orkesteri/Riccardo Chailly)
+
+          Kumela: Paksun myyrän parempi passacaglia kitaralle (Petri Kumela).
+
+          Händel: Xerxeen aaria "Ombra mai fu" oopp. Serse (Cecilia Bartoli, mezzosopraano, ja Il Giardino Armonico/Giovanni Antonini). 
+
+          Weir: The sweet primeroses kons. pianolle ja yhdeksälle jouselle (Xak Bjerken ja Ensemble X/Mark Davis Scatterday).
+
+          Boccherini: Sinfonia D-duuri (Tafelmusik-kamariorkesteri/Jeanne Lamon).
+
+          Kats-Chernin: Naïve waltz (The Smith Quartet).
+
+          Telemann: Fantasia soolohuilulle nro 1 A-duuri (Jean-Pierre Rampal, huilu).
+
+          Debussy: Yön tuoksuja ork.sarjasta Images (Clevelandin ork./Pierre Boulez).
+
+          C. Schumann: Romanssi nro 3 B-duuri (Lisa Batiashvili, viulu, ja Alice Sara Ott, piano).
+
+          Harline: When you wish upon a star (Barbara Hendricks, sopraano, sekä London Voices -kuoro ja  Abbey Road -yhtye/Jonathan Tunick).
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T17:00:00+03:00'
         end_time: '2026-08-06T17:05:00+03:00'

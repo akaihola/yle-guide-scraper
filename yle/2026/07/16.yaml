@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-14T03:05:32.121678+00:00'
+  generated_at: '2026-07-15T03:06:03.232447+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
@@ -123,12 +123,12 @@ data:
           Konsertin on toimittanut Susanna Vainiola.
       - title: Marko Gustafssonin vieraana ex-jalkapalloilija Essi Sainio
         start_time: '2026-07-16T10:00:00+03:00'
-        end_time: '2026-07-16T10:53:00+03:00'
+        end_time: '2026-07-16T10:46:00+03:00'
         description: |
           “Olin kärsinyt jo pitkään syömishäiriöstä, mutta en tunnistanut, enkä halunnut myöntää sitä”, Essi muistelee. Raja tuli vastaan, kun Essi eräänä päivänä istahti harjoituksissa nurmelle eikä pystynyt enää liikkumaan. “Valmentajan kanssa sovimme, että pidän viikon tauon”, Essi hymähtää. Essin taistelu psyykkisten ja fyysisten oireiden kanssa kesti kolme pitkää vuotta.
           Mutta hän voitti ja palasi kentille ja aina huipulle maajoukkueeseen asti. Ohjelma on uusinta ajalta 27.2.2025.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-07-16T10:53:00+03:00'
+        start_time: '2026-07-16T10:46:00+03:00'
         end_time: '2026-07-16T11:00:00+03:00'
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Kivien hiljaisuus, virtaavat pinnat'
         start_time: '2026-07-16T11:00:00+03:00'
@@ -166,7 +166,7 @@ data:
         start_time: '2026-07-16T15:00:00+03:00'
         end_time: '2026-07-16T15:58:00+03:00'
         description: |-
-          Suorassa lähetyksessä Kaustiselta syvennytään kansanmusiikkifestivaalin teemaan perinteet käsissä. Luvassa on hyviä ja huonoja uutisia. Soitinrakentajat alkavat olla uhanalainen laji. Kansallispukujen rintamalta sen sijaan kuuluu hyviä uutisia. Nuoret ja miehet ovat tarttuneet neulaan ja lankaan. Kansallispukupoliisit ovat rentoutuneet. Torstaina Kaustisella järjestetään maailman suurin perinnepukujen ja -asujen kokoontuminen. Toimittajana on Minna Joenniemi.  
+          Suorassa lähetyksessä Kaustiselta syvennytään kansanmusiikkifestivaalin teemaan perinne käsissä. Luvassa on hyviä ja huonoja uutisia. Soitinrakentajat alkavat olla uhanalainen laji. Mutta kansallispuvut kiinnostavat nyt jälleen nuoria ja myös miehiä. Kansallispukupoliisit ovat rentoutuneet. Torstaina Kaustisella järjestetään suuri perinnepukujen ja -asujen kulkue. Ohjelmassa käsillä tekemisen merkityksestä keskustelevat soitinrakentaja Juhana Nyrhinen ja kansallispukuklinikan asiantuntijat Ritva Hänninen ja Helena Antikainen. Soitinrakentajamestari  Rauno Nieminen kommentoi myös perinnesoitinten tulevaisuutta. Toimittajana on Minna Joenniemi.  
       - title: Yle Uutiset ja sää
         start_time: '2026-07-16T16:00:00+03:00'
         end_time: '2026-07-16T16:07:00+03:00'
@@ -201,7 +201,7 @@ data:
         start_time: '2026-07-16T17:35:00+03:00'
         end_time: '2026-07-16T18:25:00+03:00'
         description: |-
-          Keidas lähetetään suorana Kaustisen kansanmusiikkijuhlilta ja Tuuli Saksala saa juontajaparikseen Kare Eskolan. Ohjelmassa festivaalihuumaa ja musiikkia festivaali konserteista. Vieraina romanimusiikin ikoni Hilja Grönfors sekä "koodinmurtaja" Roope Aarnio. Jälkimmäinen esittelee 1700-luvun Rinta-Nikkolan arvoituksellista nuottikirjaa ja soittaa esimerkkejä. Mukana menossa myös Maria Kalaniemen ja Pekko Käpin Kalevala-duoprojekti.
+          Keidas lähetetään suorana Kaustisen kansanmusiikkijuhlilta ja Tuuli Saksala saa juontajaparikseen Kare Eskolan. Ohjelmassa festivaalihuumaa ja musiikkia festivaalin konserteista. Vieraina romanimusiikin ikoni Hilja Grönfors sekä "koodinmurtaja" Roope Aarnio, joka esittelee 1700-luvun Rinta-Nikkolan arvoituksellista nuottikirjaa ja soittaa esimerkkejä. Mukana menossa myös Maria Kalaniemen ja Pekko Käpin Kalevala-duoprojekti.
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-07-16T18:25:00+03:00'
         end_time: '2026-07-16T18:35:00+03:00'
@@ -235,22 +235,35 @@ data:
         start_time: '2026-07-16T19:02:00+03:00'
         end_time: '2026-07-16T20:57:00+03:00'
         description: |-
-          Tuuli Saksala ja Kare Eskola jatkavat suoraa lähetystä Kaustiselta. Ohjelmassa festivaalihuumaa, nauhoitteita festivaalin keikoilta ja Näppäreitä. Vieraina Nordik Tree, Johanna Juhola, Oona Sinkko sekä Maria Kalaniemi ja Pekko Käppi, jotka kertovat Kalevala-duoprojektistaan. Lähetyksessä selviää myös, miksi Kaustinen on niin tärkeä festivaali.
+          Tuuli Saksala ja Kare Eskola jatkavat suoraa lähetystä Kaustiselta. Ohjelmassa festivaalihuumaa sekä nauhoitteita festivaalin keikoilta ja Näppäreitä. Vieraina Nordik Tree, Johanna Juhola, Oona Sinkko sekä Maria Kalaniemi ja Pekko Käppi, jotka kertovat Kalevala-duoprojektistaan. Lähetyksessä selviää myös, miksi Kaustinen on niin erityinen festivaali.
       - title: 'Tiedetrippi: Kuka keksi työn?'
         start_time: '2026-07-16T21:00:00+03:00'
         end_time: '2026-07-16T21:32:10+03:00'
         description: |-
           Metsästäjä-keräilijät hankkivat ravintonsa suoraan luonnosta metsästämällä, kalastamalla ja keräilemällä. Meidän lajimme, homo sapiens eli tällä tavalla satojen tuhansien vuosien ajan. Tämä tarkoittaa sitä, että suurimman osan lajimme olemassaolon ajasta työn käsite ja vaade on ollut hyvin erilainen kuin se on nykypäivänä. Miten työ siis keksittiin?
           (23.6.2025)
+      - title: 'Väkivallan markkinat: Kuka päättää, kenelle Suomi myy aseita? '
+        start_time: '2026-07-16T21:33:05+03:00'
+        end_time: '2026-07-16T22:12:29+03:00'
+        description: |
+          Kun valtiollisia asekauppoja tehdään, julkiselle tai edes poliittiselle keskustelulle ei tunnu löytyvän sopivaa hetkeä. Suomesta on myyty aseita sotaa käyviin Arabiemiraatteihin ja Saudi-Arabiaan siitä huolimatta, että Suomi painottaa ihmisoikeuksien kunnioittamista, rauhaa ja demokratiaa. Miksi? Millainen prosessi on kranaatinheitinten myyminen Saudi-Arabiaan?
+
+          Jaksossa asiantuntijavieraina: Sadankomitean pääsihteeri Jarmo Pykälä, Tampereen yliopiston rauhan- ja konfliktintutkimuskeskuksen väitöskirjatutkija Kari Paasonen, Puolustusministeriön resurssipoliittisen osaston materiaaliyksikön erityisasiantuntija Riikka Pitkänen, Ulkoministeriön asevalvonnan yksikön vastuuvirkamies Päivi Pihlajamäki. 
+      - title: Radio 1 soi
+        start_time: '2026-07-16T22:12:29+03:00'
+        end_time: '2026-07-16T22:23:48+03:00'
+        description: |+
+          Smetana: Alkusoitto ja polkka oopp. Kaksi leskeä (Clevelandin ork./Christoph von Dohnányi).
+
       - title: 'Viihdekuunnelma: Emma'
-        start_time: '2026-07-16T22:31:00+03:00'
-        end_time: '2026-07-16T22:59:00+03:00'
+        start_time: '2026-07-16T22:23:48+03:00'
+        end_time: '2026-07-16T22:40:33+03:00'
         description: |
           Osa 6/8 Tunnustuksia
           Viimein pariskunta Westonit pääsevät järjestämään omat tanssiaisensa ja Emma tapaa jälleen mieluisan ystävänsä Frank Churchillin. Harriet Smithin iltaa Westoneilla uhkaa karu kohtalo, mutta onneksi herra Knightley on paikalla. Samoin myöhemmin onneksi paikalla on Frank Churchill, kun Harriet on jälleen pinteessä. Kaikkien koettelemustensa jälkeen Harriet tunnustaa Emmalle, että hänen ihailuillaan on uusi kohde.
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Kivien hiljaisuus, virtaavat pinnat'
-        start_time: '2026-07-16T23:01:00+03:00'
-        end_time: '2026-07-16T23:57:00+03:00'
+        start_time: '2026-07-16T23:02:57+03:00'
+        end_time: '2026-07-16T23:59:00+03:00'
         description: |-
           Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen

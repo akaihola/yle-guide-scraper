@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-14T03:05:37.885934+00:00'
+  generated_at: '2026-07-15T03:06:14.094232+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
@@ -84,6 +84,38 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-10T16:00:00+03:00'
         end_time: '2026-08-10T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-08-10T16:07:00+03:00'
+        end_time: '2026-08-10T16:59:00+03:00'
+        description: |-
+          Telemann: Presto konsertosta nokkahuilulle, huilulle, jousille ja continuolle e-molli (Ekkehard Hering, nokkahuilu, Ernst-Burghard Hilse, flauto traverso, ja Akademie für alte Musik Berlin).
+
+          Sor: Etydi A-duuri (William Carter, kitara).
+
+          Gershwin: Promenade (Kävely) (Washingtonin kansallinen SO/Mstislav Rostropovitsh).
+
+          Shimomura: Valse di fantastica (Esther Abrami, viulu, ja Itävallan radion SO/Irene Delgado-Jimenez).
+
+          Gade: Andantino con moto kok. Fantasistykker op.43 (Lauri Sallinen, klarinetti, ja Anna Kuvaja, piano).
+
+          Dowland: The King of Denmark's galliard (Hesperion XX/Jordi Savall).
+
+          Villa-Lobos: Aaria teoks. Bachianas brasileiras n:o 5 (Elina Garanca, mezzosopraano ja Dresdenin valtionork./Fabio Luisi).
+
+          Bacewicz: Masovialainen tanssi (David Juritz, viulu, ja Diana Ambache, piano).
+
+          Dvorák: Valssi nro 1 (Prahan kamarifilharmonia/Jakub Hrusa).
+
+          Verdi: Don Carloksen resitatiivi ja aaria oopp. Don Carlo (Placido Domingo, tenori, ja Milanon La Scala -oopperan ork./Claudio Abbado). 
+
+          Grieg: Pieni lintu (Michala Petri, nokkahuilu, ja Englantilainen kamariork./Okko Kamu). 
+
+          Serrano: Aaria "Marinela, Marinela" zarzuelasta La cancion del olvido (Montserrat Caballé, sopraano, ja Barcelonan SO/Eugenio M. Marco). 
+
+          W.A. Mozart: Rondo käyrätorvelle ja orkesterille Es-duuri (Konzertsatz) (Herman Jeurissen ja Alankomaiden kamariork./Roy Goodman).
+
+
+          Konsertin on laatinut Ainomaija Pennanen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-10T17:00:00+03:00'
         end_time: '2026-08-10T17:05:00+03:00'

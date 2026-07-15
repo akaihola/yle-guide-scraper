@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-14T03:05:38.746669+00:00'
+  generated_at: '2026-07-15T03:06:15.540133+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
@@ -12,6 +12,34 @@ data:
         end_time: '2026-08-14T06:59:59+03:00'
         description: |-
           Aluekappalainen Sanni Rissanen, Kerimäki
+      - title: Aamusoitto
+        start_time: '2026-08-14T07:06:00+03:00'
+        end_time: '2026-08-14T08:00:00+03:00'
+        description: |+
+          D. Scarlatti: Sonaatti G-duuri (David Russell, kitara).
+
+          Baltzar: Muunnelmia viululle ja continuolle (Battalia).
+
+          Crusell (sov. Lind): Marssi vaskikvintetille (Heimo Savolainen, flyygelitorvi, Jorma Rautakoski, trumpetti, Esa Tukia, käyrätorvi, Pertti Hostikka, pasuuna, ja Eino Talo-Eskola, tuuba).
+
+          Kuula: Metsän kuninkaalle (YL/Pasi Hyökki).
+
+          Mendelssohn: Nokturni näyt. Kesäyön unelma (Orpheus-kamariorkesteri).
+
+          Darzins: Valse melancolique (Detroitin SO/Neeme Järvi).
+
+          Vaughan Williams: Menuetti ja musette konsertosta oboelle ja jousille a-molli (John Williams ja Lontoon kuninkaallinen FO/Paavo Berglund).
+
+          Sanz (sov. Lagoya): Canarios (Alexandre Lagoya, kitara, ja St. Martin-in-the-Fields/Kenneth Sillito).
+
+          Beethoven: Mefiston kirppulaulu (Petteri Salomaa, baritoni, ja Tuija Hakkila, fortepiano).
+
+          Popper: Espanjalainen tanssi nro 4 (Helen Lindén, sello, ja Folke Gräsbeck, piano).
+
+          Hahn: Iberienne teoks. Le bal de Beatrice d'Este (Ensemble Initium/Nicolas Chalvin).
+
+          Saint-Saëns: Hääkakku (Heini Kärkkäinen, piano, ja Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
       - title: Radio 1:n aamu
         start_time: '2026-08-14T08:07:00+03:00'
         end_time: '2026-08-14T09:00:00+03:00'
@@ -35,6 +63,7 @@ data:
         end_time: '2026-08-14T19:00:00+03:00'
         description: |-
           Perheneuvoja Anja Nwose, Forssa
+          Jumala on uskollinen lohduttaja. Psalmi 51 puhuttelee elämän kolhimaa.
       - title: Kotimainen konsertti
         start_time: '2026-08-14T19:02:00+03:00'
         end_time: '2026-08-14T21:00:00+03:00'

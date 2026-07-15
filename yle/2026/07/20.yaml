@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-14T03:05:33.323669+00:00'
+  generated_at: '2026-07-15T03:06:08.221828+00:00'
   git:
     branch: main
-    commit: 6143b737d21678071a9bf4db4668483bbda10c95
-  data_hash: 3fe40f050b4687ec5939f48c87402bf72d81a35d9f561eb3d95bb9178f54516f
+    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
+  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
 data:
   '':
     programmes:
@@ -46,6 +46,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-20T06:30:50+03:00'
         end_time: '2026-07-20T06:50:00+03:00'
+        description: |+
+          Bradbury: Jeesus meitä rakastaa (Merja Wirkkala, sopraano, ja Gustav Djupsjöbacka, piano).
+
+          Tuntematon: Ah autuas, ken armosta (Cetus Noster, ja Eero Palviainen, luuttu).
+
+          Koraalitoisinto: Matkamiehen mieli palaa (Kampin Laulu/Markku Pihlaja).
+
+          Koraalitoisinto: Jo herää, sielu, synnin unestasi (Kampin Laulu/Eric-Olof Söderström, ja Pertti Eerola, urut).
+
+          Harju: Olemme parantuneet (Maksetut viulut).
+
       - title: Aamuhartaus
         start_time: '2026-07-20T06:50:00+03:00'
         end_time: '2026-07-20T06:59:59+03:00'
@@ -250,8 +261,8 @@ data:
         end_time: '2026-07-20T22:20:00+03:00'
         description: |-
           Toimittajana Jari Mäkinen.
-      - title: 'Näistä levyistä en luovu: Mikki Kauste'
+      - title: Näistä levyistä en luovu
         start_time: '2026-07-20T22:45:00+03:00'
         end_time: '2026-07-20T23:39:30+03:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
