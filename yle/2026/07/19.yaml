@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-15T03:06:06.963246+00:00'
+  generated_at: '2026-07-16T03:05:56.695080+00:00'
   git:
     branch: main
-    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
-  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
+    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
+  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
 data:
   '':
     programmes:
@@ -154,11 +154,14 @@ data:
         end_time: '2026-07-19T13:57:00+03:00'
         description: |
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola. Ohjelma on uusinta vuodelta 2022.
-      - title: Ykköskolumni
+      - title: Uudet levyt
+        start_time: '2026-07-19T14:00:00+03:00'
+        end_time: '2026-07-19T14:55:00+03:00'
+      - title: 'Ykköskolumni: USA:n puolustusministerin soturieetos on vastenmielistä uhoa, ja jotain samaa löytyy meiltäkin'
         start_time: '2026-07-19T14:55:00+03:00'
         end_time: '2026-07-19T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Yhdysvalloissa puolustusministerin ihannesotilas on tappokone. Mutta pelkkä tappokone ei voita sotia, vaan on lopulta poliittinen rasite, sotatieteilijä Ilmari Käihkö muistuttaa.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-07-19T15:00:00+03:00'
         end_time: '2026-07-19T15:20:00+03:00'
@@ -210,6 +213,11 @@ data:
         end_time: '2026-07-19T18:00:00+03:00'
         description: |
           Vojvodian romanialaisten kansanmusiikkiorkesteri konsertoi Festivalul de Romanțe -festivaalilla Zrenjanin kaupungin historiallisessa Toša Jovanovićin teatterissa 26.9.2025. Konsertissa kuullaan 1800-luvun lopulla kaupungeissa syntynyttä melodista ja tunteikasta Romanță-laulua, jonka teemat liikkuvat rakkaudesta kaipaukseen. Toimittajana on Miika Lauriala. 
+      - title: 'Laura Korhosen Jazzklubi: Lintujen siivillä jazzin vapauteen'
+        start_time: '2026-07-19T18:00:39+03:00'
+        end_time: '2026-07-19T19:00:00+03:00'
+        description: |
+          Kiikarit silmille ja jazzkorvat hörölle, tällä viikolla nimittäin heittäydymme siivekkäiden ystäviemme seuraan. Jakso tarjoilee linnuista inspiroitunutta musiikkia. Ohjelman ensilähetys oli toukokuussa 2025.
       - title: 'Jazzklubin viikon keikka: Timo Lassy Trio We Jazz -festivaalilla.'
         start_time: '2026-07-19T19:02:30+03:00'
         end_time: '2026-07-19T20:00:00+03:00'
@@ -270,8 +278,8 @@ data:
         description: |-
           Vieraina Elli Salo, Sirkku Peltola ja Andrev Walden.
       - title: 'Romanitarinoita: Nuorena valittu, uskollisesti kuljettu – Joni Enroth'
-        start_time: '2026-07-19T23:12:00+03:00'
-        end_time: '2026-07-19T23:37:00+03:00'
+        start_time: '2026-07-19T23:14:37+03:00'
+        end_time: '2026-07-19T23:39:00+03:00'
         description: |
           Miltä tuntuu, kun kutsumus löytyy jo 15-vuotiaana – ja sydän tietää suunnan, vaikka maailma tarjoaa vaihtoehtoja?
           Joni Enrothin tarina on vahva muistutus siitä, että nuoruudessa tehty valinta voi kantaa pitkälle. Hän on kulkenut pitkän matkan musiikin parissa: kokenut, oppinut ja samalla kasvanut isäksi ja esikuvaksi.

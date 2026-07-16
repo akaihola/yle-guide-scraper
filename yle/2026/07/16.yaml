@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-15T03:06:03.232447+00:00'
+  generated_at: '2026-07-16T03:05:55.707302+00:00'
   git:
     branch: main
-    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
-  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
+    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
+  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
 data:
   '':
     programmes:
@@ -197,6 +197,14 @@ data:
           Kärki: Illan viimeinen tango (RKK/Ilkka Kuusisto).
 
           Toimittaja Lotta Emanuelsson
+      - title: Uutispodcast
+        start_time: '2026-07-16T17:05:00+03:00'
+        end_time: '2026-07-16T17:30:00+03:00'
+        description: |-
+          Mitkä kolme asiaa suomalaisten olisi vähintään tärkeä ymmärtää Afrikan mantereesta? Ylen ulkomaantoimittaja Eeva Eronen vetää yhteen kaksi vuotta kestänyttä Afrikan-kirjeenvaihtajan pestiään ja kertoo millaista on raportoida kokonaisesta mantereesta yksin. Haastattelijana on Leonard Wilhelmus.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-16T17:30:00+03:00'
+        end_time: '2026-07-16T17:35:00+03:00'
       - title: Tuuli Saksalan keidas
         start_time: '2026-07-16T17:35:00+03:00'
         end_time: '2026-07-16T18:25:00+03:00'
@@ -261,6 +269,11 @@ data:
         description: |
           Osa 6/8 Tunnustuksia
           Viimein pariskunta Westonit pääsevät järjestämään omat tanssiaisensa ja Emma tapaa jälleen mieluisan ystävänsä Frank Churchillin. Harriet Smithin iltaa Westoneilla uhkaa karu kohtalo, mutta onneksi herra Knightley on paikalla. Samoin myöhemmin onneksi paikalla on Frank Churchill, kun Harriet on jälleen pinteessä. Kaikkien koettelemustensa jälkeen Harriet tunnustaa Emmalle, että hänen ihailuillaan on uusi kohde.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-07-16T22:40:33+03:00'
+        end_time: '2026-07-16T23:02:57+03:00'
+        description: |-
+          Jazzliiton pj. , muusikko, musiikin tohtori Jari Perkiömäki on Kati Turtolan haastattelussa. Ensilähetys oli 4.6.2026.
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Kivien hiljaisuus, virtaavat pinnat'
         start_time: '2026-07-16T23:02:57+03:00'
         end_time: '2026-07-16T23:59:00+03:00'

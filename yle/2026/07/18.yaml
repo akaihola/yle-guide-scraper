@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-15T03:06:05.487536+00:00'
+  generated_at: '2026-07-16T03:05:56.447940+00:00'
   git:
     branch: main
-    commit: 246398dcb6134209f83cacb78eeaa56cdaef59d5
-  data_hash: 312cee10b2d9679e7c66db64a2435cdc099d4c737c0adddf7c104b5615e7948b
+    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
+  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
 data:
   '':
     programmes:
@@ -112,16 +112,16 @@ data:
         end_time: '2026-07-18T13:55:00+03:00'
         description: |-
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
-      - title: Noitavainojen vuosisadat
+      - title: 'Kalle Haatanen: Noitavainojen vuosisadat'
         start_time: '2026-07-18T14:00:00+03:00'
         end_time: '2026-07-18T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Kuuluisa vaahtokarkkikoe sen kertoo: köyhän vinkkelistä fiksut valinnat näyttävät riskiltä'
         start_time: '2026-07-18T14:55:00+03:00'
         end_time: '2026-07-18T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Jos ihmisellä on enemmän välttämättömiä tarpeita kuin rahaa, järkevä taloudenhallinta muuttuu riskipeliksi, vapaa kirjoittaja Auli Viitala analysoi.
       - title: 'Viihdekuunnelma: Emma'
         start_time: '2026-07-18T15:00:00+03:00'
         end_time: '2026-07-18T15:19:00+03:00'
@@ -203,23 +203,34 @@ data:
 
           Kaski: Vuorenpeikkojen iltasoitto (Juhani Lagerspetz, piano).
 
-      - title: Uutispodcast
-        start_time: '2026-07-18T21:01:00+03:00'
-        end_time: '2026-07-18T21:25:00+03:00'
+      - title: 'Uutispodcast: Millaisen tahran Garden-jupakka jättää Petteri Orpoon?'
+        start_time: '2026-07-18T21:00:30+03:00'
+        end_time: '2026-07-18T21:24:42+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Millaisen tahran Helsingin Garden -hanke jättää kokoomukseen ja pääministeri Petteri Orpoon? Entä missä menee suhmuroinnin ja normaalin poliittisen päätöksenteon raja? Ylen politiikan toimittaja Marica Paukkeri on Leonard Wilhelmuksen haastateltavana.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-07-18T21:24:42+03:00'
+        end_time: '2026-07-18T21:45:18+03:00'
+        description: |-
+          Kirjailija Tapani Bagge on Kati Turtolan haastattelussa. Ensilähetys oli 13.5.2026.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-07-18T21:51:00+03:00'
-        end_time: '2026-07-18T22:30:00+03:00'
+        start_time: '2026-07-18T21:45:18+03:00'
+        end_time: '2026-07-18T22:14:58+03:00'
         description: |-
           Jakso 12/22: Paljon on kärsitty vilua ja nälkää
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-07-18T21:51:00+03:00'
-        end_time: '2026-07-18T22:30:00+03:00'
+        start_time: '2026-07-18T22:14:58+03:00'
+        end_time: '2026-07-18T22:31:49+03:00'
         description: |-
           Osa 13/22: Elämä asettuu
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
+      - title: Radio 1 soi
+        start_time: '2026-07-18T22:31:49+03:00'
+        end_time: '2026-07-18T22:33:50+03:00'
+        description: |+
+          Schubert: Mehiläinen (Jan-Erik Gustafsson, sello, ja Heini Kärkkäinen, piano).
+
       - title: 'Poiminta Radio 1:n iltapäivästä '
         start_time: '2026-07-18T22:33:50+03:00'
         end_time: '2026-07-18T22:40:00+03:00'
