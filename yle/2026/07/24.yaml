@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2026-07-16T03:05:58.198472+00:00'
+  generated_at: '2026-07-17T03:06:07.038354+00:00'
   git:
     branch: main
-    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
-  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
+    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
+  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-07-24T00:00:00+03:00'
+        end_time: '2026-07-24T06:30:00+03:00'
       - title: Hartaita säveliä
         start_time: '2026-07-24T06:30:50+03:00'
         end_time: '2026-07-24T06:50:00+03:00'
@@ -23,7 +26,7 @@ data:
         start_time: '2026-07-24T06:50:00+03:00'
         end_time: '2026-07-24T06:59:59+03:00'
         description: |-
-          Kirkkoherra Ilona Yliräisänen, Pelkosenniemi
+          Kirkkoherra Ilona Yliräisänen Pelkosenniemeltä pohtii aamuhartaudessa omaa paikkaa.
       - title: Aamusoitto
         start_time: '2026-07-24T07:06:00+03:00'
         end_time: '2026-07-24T08:00:00+03:00'
@@ -181,3 +184,11 @@ data:
           Harvan maan nykyhistoria on niin surkea kuin Etiopian, jonka kansalaisia ovat piinanneet pahat nälänhädät ja sanoin kuvaamattomia julmuuksia toteuttanut Mengistu Haile Mariamin marxilainen diktatuuri.
           Toimittajana Raimo Tyykiluoto.
           (2018)
+      - title: 'Tuuli Saksalan keidas: Keitaan kesämatkat – Vanhan rouvan lokikirja'
+        start_time: '2026-07-24T22:26:00+03:00'
+        end_time: '2026-07-24T23:15:00+03:00'
+        description: |
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-07-24T23:40:00+03:00'
+        end_time: '2026-07-25T07:30:00+03:00'

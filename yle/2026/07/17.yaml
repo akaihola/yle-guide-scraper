@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-16T03:05:55.950750+00:00'
+  generated_at: '2026-07-17T03:06:04.604756+00:00'
   git:
     branch: main
-    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
-  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
+    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
+  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
 data:
   '':
     programmes:
@@ -79,11 +79,17 @@ data:
 
           Tshaikovski: Valssi Serenadista jousiorkesterille (Pietarin filharmoninen orkesteri/Vladimir Ashkenazy).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-17T08:00:00+03:00'
+        end_time: '2026-07-17T08:07:00+03:00'
       - title: Radio 1:n aamu
         start_time: '2026-07-17T08:07:00+03:00'
         end_time: '2026-07-17T09:00:00+03:00'
         description: |-
           Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
+      - title: 'Yle Uutiset '
+        start_time: '2026-07-17T09:00:00+03:00'
+        end_time: '2026-07-17T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-07-17T09:04:00+03:00'
         end_time: '2026-07-17T09:59:00+03:00'
@@ -120,6 +126,9 @@ data:
         end_time: '2026-07-17T12:00:00+03:00'
         description: |-
           Aaro Hellaakosken runo Haukka. Päivän mietelauseen on valinnut Juho-Pekka Rantala.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-17T12:00:00+03:00'
+        end_time: '2026-07-17T12:05:00+03:00'
       - title: 'Tiedeykkönen: Millaista on tulevaisuuden sodankäynti? (Spoiler alert: ei vain drooneja)'
         start_time: '2026-07-17T12:05:00+03:00'
         end_time: '2026-07-17T12:55:00+03:00'
@@ -137,11 +146,18 @@ data:
         description: |-
           Juontajana Jarmo Laitaneva. N. klo 14. Kirjani Tarina: Liisa Louhela kertoo romaanistaan Mies joka kantoi aurinkoa sylissään. Toimittajana Tina Cavén.
           N. klo 14:30 muusikko Harri Saksala kertoo omasta eniten häneen vaikuttaneesta kokemuksestaan. Ensilähetys oli 5.3.2026. Toimittajana Jalmari Laine.
-      - title: 'Kulttuuriykkönen: Perjantaistudiossa Jori Grym, Jussi Turhala ja Leena Virtanen'
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa syöpähoitojen korvaushämminki, mediasotaa ja elokuvasensuuria '
         start_time: '2026-07-17T15:00:00+03:00'
         end_time: '2026-07-17T15:58:00+03:00'
         description: |-
-          Heinäkuisen viikon kulttuuri- ja mediapuheenaiheet sekä arvokysymykset samassa paketissa.
+          Kelan syöpälääkekorvaukset herättävät kysymyksen hoitojen yhdenvertaisuudesta. Suomen Kuvalehti arvostelee kovin sanoin Uusi Juttu -mediaa, Saksassa kiistellään maahanmuuttajataustaista rikollisuutta kuvaavan kostoelokuvan levityksestä ja ravintola-ala syyttää päättäjiä ihmisten ohjaamisesta kotisohville.
+
+          Lopuksi kysytään, voiko turismin iloista yhä nauttia hyvällä omallatunnolla.
+
+          Keskustelemassa ovat elokuvakriitikko Leena Virtanen, mainosmies Jussi Turhala ja tutkija Jori Grym. Toimittajana on Ville Talola.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-17T16:00:00+03:00'
+        end_time: '2026-07-17T16:07:00+03:00'
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-07-17T16:07:00+03:00'
         end_time: '2026-07-17T16:59:00+03:00'
@@ -168,11 +184,17 @@ data:
 
           Mårtenson: Laulu suuresta merestä (Karita Mattila, sopraano, ja Jyväskylä Sinfonia/Riku Niemi).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-17T17:00:00+03:00'
+        end_time: '2026-07-17T17:05:00+03:00'
       - title: 'Tuntematon Baltia: Arkielämää Nato- ja EU-Liettuassa'
         start_time: '2026-07-17T17:05:00+03:00'
         end_time: '2026-07-17T17:30:00+03:00'
         description: |
           Suomen Vilnan-suurlähettiläs Arja Makkonen ja lehdistö- ja kulttuuriassistentti Rytė Baublytė-Savaja sekä toimittaja Jari Aula keskustelevat sarjan päätösjakossa Liettuan nykypäivästä. (es. 2024)
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-17T17:30:00+03:00'
+        end_time: '2026-07-17T17:35:00+03:00'
       - title: 'Näistä levyistä en luovu: Mikki Kauste'
         start_time: '2026-07-17T17:35:00+03:00'
         end_time: '2026-07-17T18:30:00+03:00'
@@ -196,6 +218,9 @@ data:
         description: |-
           "Kotini on pilvilinnani"
           Kesän perjantai-illoissa kysytään "Mikä on pyhää?" Oppilaitospastori Marjut Mulari Helsingistä puhuu kodin pyhyydestä ja omistamisen aiheuttamista ristiriitaisista tunteista. 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-17T19:00:00+03:00'
+        end_time: '2026-07-17T19:02:00+03:00'
       - title: 'Konsertteja: Ukrainan radion kuoro ja Kiovan kamarisolistit'
         start_time: '2026-07-17T19:02:00+03:00'
         end_time: '2026-07-17T20:01:00+03:00'
@@ -211,8 +236,8 @@ data:
           Vuonna 1962 nuori ranskalainen geologi Michel Siffre kömpi sisään säkkipimeään luolaan mukanaan tarvikkeita pitkäaikaiseen oleiluun. Siffre oli tullut tutkimusmatkalle, mutta tutkimuksen kohde ei suinkaan ollut luola, vaan hän itse. Siffre ei ottanut mukaansa kelloa, ja se oli koko jutun juoni.
           (30.6.2025)
       - title: 12 diktaattoria. Arjalaisten aurinko Mohammad Reza Pahlavi Shaahi
-        start_time: '2026-07-17T21:31:00+03:00'
-        end_time: '2026-07-17T22:25:00+03:00'
+        start_time: '2026-07-17T21:27:50+03:00'
+        end_time: '2026-07-17T22:14:20+03:00'
         description: |
           Mohammad Reza Pahlavi nousi Iranin valtaistuimelle toisen maailmansodan aikana 1941 brittien ja neuvostoliittolaisten syrjäytettyä hänen natsimielisen isänsä vallasta. 
           Toimittaja Raimo Tyykiluoto.

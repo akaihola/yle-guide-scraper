@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-16T03:05:57.440645+00:00'
+  generated_at: '2026-07-17T03:06:06.038319+00:00'
   git:
     branch: main
-    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
-  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
+    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
+  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
 data:
   '':
     programmes:
@@ -191,6 +191,9 @@ data:
           R. Schumann: Rose, Meer und Sonne kok. Zwölf Gedichte aus Liebesfrühling (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
 
           Konsertin on laatinut Eva Tigerstedt.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-07-21T17:00:00+03:00'
+        end_time: '2026-07-21T17:05:00+03:00'
       - title: Uutispodcast
         start_time: '2026-07-21T17:05:00+03:00'
         end_time: '2026-07-21T17:30:00+03:00'
@@ -232,7 +235,7 @@ data:
         end_time: '2026-07-21T19:02:00+03:00'
       - title: 'Kuunnelma: Laskettua aikaa: Häkkieläin 8/10'
         start_time: '2026-07-21T19:02:00+03:00'
-        end_time: '2026-07-21T19:45:00+03:00'
+        end_time: '2026-07-21T19:22:00+03:00'
         description: |-
           Venäläisten sotilaiden otettua Noran ja hänen matkakumppaninsa kiinni, tilanne muuttuu hengenvaaralliseksi. Kun ryhmä viedään venäläisten tukikohtaan, heitä kuulustellaan ja epäillään vakoilusta. Tilanne kärjistyy lopulta pahimpaan mahdolliseen. 
       - title: 'Romanitarinoita: Leif Åkerlund - Kun musiikki ei tunnu työltä'
@@ -258,7 +261,7 @@ data:
           (14.7.2025)
       - title: 'Maarit Tastula - Yksi maailma, kaksi katsetta: Pekka Raudaskoski'
         start_time: '2026-07-21T21:30:00+03:00'
-        end_time: '2026-07-21T22:25:00+03:00'
+        end_time: '2026-07-21T22:24:00+03:00'
         description: |-
           Lääkäri Pekka Raudaskoski on elänyt lähes sata vuotta. Elämään ovat mahtuneet Suomen historian suuret käänteet: sodat ja pula-ajat. Pakkohuutokaupassa kotinsa menettäneet vanhemmat antoivat lapselle lahjan: he hautasivat oman katkeruutensa ja valoivat lapsiin uskon paremmasta tulevaisuudesta.
 

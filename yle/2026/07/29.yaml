@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2026-07-16T03:05:59.699114+00:00'
+  generated_at: '2026-07-17T03:06:08.345546+00:00'
   git:
     branch: main
-    commit: 16eba23ccc1f8f395c08957627721446ffe05cb8
-  data_hash: 63ea8bae2d62a3758324fd951eccacbf632f7b5254fae689e5f51bd195e09c1c
+    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
+  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-07-28T23:40:00+03:00'
+        end_time: '2026-07-29T06:30:00+03:00'
       - title: Hartaita säveliä
         start_time: '2026-07-29T06:30:50+03:00'
         end_time: '2026-07-29T06:50:00+03:00'
@@ -225,3 +228,6 @@ data:
           Kaksi vuotta ennen kirjansa julkaisua Tahvanainen kirjoitti presidentti Kekkoselle ja ulkoasiainministeri Karjalaiselle pyytäen näiden mielipidettä eräässä poliittisesti tulenarassa asiassa.
 
           Koskinen ja Oikuri ovat kansallisarkistossa lukemassa kyseistä pitkää kirjettä. Mitä kirje piti sisällään ja miten siihen reagoitiin? Jaksossa kuullaan myös Tahvanaisen vierailu Yleisradion Tässä ja nyt -ohjelmassa vuonna 1971.
+      - title: Yöklassinen
+        start_time: '2026-07-29T23:40:00+03:00'
+        end_time: '2026-07-30T06:30:00+03:00'
