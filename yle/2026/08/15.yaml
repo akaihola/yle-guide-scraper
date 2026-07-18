@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2026-07-17T03:06:13.083915+00:00'
+  generated_at: '2026-07-18T03:05:19.573526+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-08-14T23:40:00+03:00'
+        end_time: '2026-08-15T07:30:00+03:00'
       - title: 'Kirjani tarina: Joel Haahtela - Talvikappeli'
         start_time: '2026-08-15T07:31:00+03:00'
         end_time: '2026-08-15T07:55:00+03:00'
@@ -15,15 +18,27 @@ data:
 
           Toimittaja Jukka Kuosmasen vieraana kirjailija Joel Haahtela
 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-15T08:00:00+03:00'
+        end_time: '2026-08-15T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-08-15T08:05:00+03:00'
+        end_time: '2026-08-15T08:25:00+03:00'
       - title: Aamuhartaus
         start_time: '2026-08-15T08:25:00+03:00'
         end_time: '2026-08-15T08:35:00+03:00'
         description: |-
           "Taivas levittää helmansa"
           Dir. cant. Varvara Merras-Häyrynen, Ortodoksinen kirkko, Helsinki kertoo tänään vietettävästä Jumalansynnyttäjän neitseen Marian kuolonuneen nukkumisen juhlasta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-15T08:35:00+03:00'
+        end_time: '2026-08-15T08:40:00+03:00'
       - title: Maailman tärkein pieni asia
         start_time: '2026-08-15T08:40:00+03:00'
         end_time: '2026-08-15T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-08-15T09:00:00+03:00'
+        end_time: '2026-08-15T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-08-15T09:04:00+03:00'
         end_time: '2026-08-15T09:59:00+03:00'
@@ -43,11 +58,20 @@ data:
           Calabrese: Arrivederci (Marino Barreto, Jr.)
 
           Konsertin on laatinut Pasi Hiihtola.
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2026-08-15T10:00:00+03:00'
+        end_time: '2026-08-15T10:25:00+03:00'
       - title: 'Virtasen taloushistoria: Valmisvaatteita ja deodoranttia - kuluttamisen muutos'
         start_time: '2026-08-15T11:00:00+03:00'
         end_time: '2026-08-15T11:52:00+03:00'
         description: |
           Valmisvaatteita ja deodoranttia - kuluttamisen muutos. Haastateltavana on tutkijatohtori Matleena Frisk. Toimittaja on Juha Virtanen. Ohjelma on uusinta helmikuulta 2026.
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-08-15T11:57:00+03:00'
+        end_time: '2026-08-15T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-15T12:00:00+03:00'
+        end_time: '2026-08-15T12:05:00+03:00'
       - title: 'Maailma tarinoina: Shakespearen Kesäyön unelmassa rakkaus ja mielikuvitus ovat liittolaiset'
         start_time: '2026-08-15T12:05:00+03:00'
         end_time: '2026-08-15T13:00:00+03:00'
@@ -55,16 +79,43 @@ data:
           Kesäyön unelma on noin 31-vuotiaan Shakespearen käsialaa. Komediassa punoutuu yhteen useampikin juonikuvio ja lopussa koittaa näytelmä näytelmässä -rakenne, jossa kiteytyy kirjailijalle tyypillinen kyky tehdä nopeita leikkauksia koomisesta traagiseen. Nuori Shakespeare tarttuu unen värittämässä näytelmässä rakkauden eri sävyhin ja lajeihin sekä vallan ja sukupuolen kysymyksiin. Miten näytelmän kautta voidaan tarkastella vastasyttynyttä ja kauan pitkässä liitossa kytenyttä rakkautta? Miten se johdattelee pohtimaan rakkautta laajempana, mullistavana kokonaisuutena? 
 
           Shakespearen luomassa kehikossa rakkauden ulottuvuuksia hahmottavat Marja Vehkasen kanssa filosofi, kirjailija ja käsikirjoittaja Pärttyli Rinne ja vanhempi yliopistonlehtori, Shakespeare-tutkija ja kääntäjä Nely Keinänen.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-08-15T13:00:00+03:00'
+        end_time: '2026-08-15T13:55:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-15T13:55:00+03:00'
+        end_time: '2026-08-15T14:00:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-08-15T14:00:00+03:00'
+        end_time: '2026-08-15T14:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Ykköskolumni
+        start_time: '2026-08-15T14:55:00+03:00'
+        end_time: '2026-08-15T15:00:00+03:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
       - title: Rehtorin tyttäret 3/5.
         start_time: '2026-08-15T15:00:00+03:00'
         end_time: '2026-08-15T15:25:00+03:00'
         description: |-
           Osa 3/5 Sodassa menehtyneen rehtori Sipolan perhe kohtaa uuden elämänvaiheen. Jokaisen olisi nyt huolehdittava itsestään. Vanhimmat tyttäret Raija, Pirkko, Sirkka ja Satu alkavat huushollaamaan ja äiti hakeutuu opettajan töihin. Pienimmät Kaarina sekä kuopus Jorma saavat vielä temmeltää vapaasti. Sarja vuodelta 1959.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-15T15:25:00+03:00'
+        end_time: '2026-08-15T15:30:00+03:00'
       - title: 'Aristoteleen kantapää: Kivien ja mineraalien nimissä vuorottelevat tunnetut geologit ja paikannimet'
         start_time: '2026-08-15T15:30:00+03:00'
         end_time: '2026-08-15T15:55:00+03:00'
         description: |-
           Aristoteleen kantapää kaivautuu Pasi Heikuran johdolla mineraalien ja kivien nimistöön. Sinne hänet johdattavat geotieteiden tutkijat Elina Lehtonen ja Jussi Heinonen. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. Ohjelma on uusinta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-15T15:55:00+03:00'
+        end_time: '2026-08-15T16:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-15T16:00:00+03:00'
+        end_time: '2026-08-15T16:07:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2026-08-15T16:07:00+03:00'
         end_time: '2026-08-15T16:59:59+03:00'
@@ -96,6 +147,9 @@ data:
           Tabakova: Orpheus' Comet (Hallé-ork./Delyana Lazarova).
 
           Konsertin on toimittanut Annina Aho. 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-15T17:00:00+03:00'
+        end_time: '2026-08-15T17:05:00+03:00'
       - title: 'Marko Gustafsson: Käännekohdissa Pelle Miljoona'
         start_time: '2026-08-15T17:05:00+03:00'
         end_time: '2026-08-15T17:58:00+03:00'
@@ -112,6 +166,11 @@ data:
         end_time: '2026-08-15T18:10:00+03:00'
         description: |-
           Verkkoviestintäpäällikkö Hanna Paavilainen, Helsinki
+      - title: Lauantain toivotut levyt
+        start_time: '2026-08-15T18:10:00+03:00'
+        end_time: '2026-08-15T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2026-08-15T19:02:00+03:00'
         end_time: '2026-08-15T21:00:00+03:00'
@@ -124,6 +183,11 @@ data:
 
           Schumann: Träumerei (Unelmointia) (Joshua Bell, viulu, ja Academy of St. Martin-in-the-Fields/Michael Stern).
 
+      - title: Uutispodcast
+        start_time: '2026-08-15T21:01:00+03:00'
+        end_time: '2026-08-15T21:25:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-08-15T21:51:00+03:00'
         end_time: '2026-08-15T22:30:00+03:00'
@@ -142,3 +206,11 @@ data:
         description: |-
           Osa 21/22: Riikka rypyssä
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-08-15T22:40:00+03:00'
+        end_time: '2026-08-15T23:39:30+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Yöklassinen
+        start_time: '2026-08-15T23:40:00+03:00'
+        end_time: '2026-08-16T07:00:00+03:00'

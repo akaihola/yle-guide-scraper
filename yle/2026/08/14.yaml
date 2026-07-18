@@ -1,17 +1,26 @@
 metadata:
-  generated_at: '2026-07-17T03:06:12.855860+00:00'
+  generated_at: '2026-07-18T03:05:19.085515+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-08-14T00:00:00+03:00'
+        end_time: '2026-08-14T06:30:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-08-14T06:30:50+03:00'
+        end_time: '2026-08-14T06:50:00+03:00'
       - title: Aamuhartaus
         start_time: '2026-08-14T06:50:00+03:00'
         end_time: '2026-08-14T06:59:59+03:00'
         description: |-
           Aluekappalainen Sanni Rissanen, Kerimäki
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T07:00:00+03:00'
+        end_time: '2026-08-14T07:05:00+03:00'
       - title: Aamusoitto
         start_time: '2026-08-14T07:06:00+03:00'
         end_time: '2026-08-14T08:00:00+03:00'
@@ -40,32 +49,108 @@ data:
 
           Saint-Saëns: Hääkakku (Heini Kärkkäinen, piano, ja Tapiola Sinfonietta/Jean-Jacques Kantorow).
 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T08:00:00+03:00'
+        end_time: '2026-08-14T08:07:00+03:00'
       - title: Radio 1:n aamu
         start_time: '2026-08-14T08:07:00+03:00'
         end_time: '2026-08-14T09:00:00+03:00'
         description: |-
           Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
+      - title: 'Yle Uutiset '
+        start_time: '2026-08-14T09:00:00+03:00'
+        end_time: '2026-08-14T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-08-14T09:04:00+03:00'
+        end_time: '2026-08-14T09:59:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-08-14T10:00:00+03:00'
+        end_time: '2026-08-14T10:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-14T10:55:00+03:00'
+        end_time: '2026-08-14T11:00:00+03:00'
       - title: Maisteri Lindgrenin musiikkiesitelmä
         start_time: '2026-08-14T11:00:00+03:00'
         end_time: '2026-08-14T11:55:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-14T11:55:00+03:00'
+        end_time: '2026-08-14T11:57:00+03:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-08-14T11:57:00+03:00'
+        end_time: '2026-08-14T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T12:00:00+03:00'
+        end_time: '2026-08-14T12:05:00+03:00'
       - title: 'Tiedeykkönen: Väärinymmärretty kissa - moni tulkitsee kissan eleet protestina turhaan'
         start_time: '2026-08-14T12:05:00+03:00'
         end_time: '2026-08-14T12:55:00+03:00'
         description: |
           Kissa eleet ovat paljon hienovaraisempia kuin ymmärrämme. Mitä kissa tarvitsee, ja mistä tiedämme, voiko se hyvin? Asiantuntijoina on eläinlääkäri Johanna Lankila, kissa-asiantuntija, eläintenhoidon  opettaja Päivi Ylikorpi sekä eläinten käyttäytymistieteen tohtori Helena Telkänranta. Toimittajana on Pirjo Koskinen. 
+      - title: Politiikkaradio
+        start_time: '2026-08-14T13:00:00+03:00'
+        end_time: '2026-08-14T13:30:00+03:00'
+      - title: Radio 1:n iltapäivä
+        start_time: '2026-08-14T13:30:00+03:00'
+        end_time: '2026-08-14T15:00:00+03:00'
       - title: Kulttuuriykkönen
         start_time: '2026-08-14T15:00:00+03:00'
         end_time: '2026-08-14T15:58:00+03:00'
         description: |-
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T16:00:00+03:00'
+        end_time: '2026-08-14T16:07:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2026-08-14T16:07:00+03:00'
+        end_time: '2026-08-14T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T17:00:00+03:00'
+        end_time: '2026-08-14T17:05:00+03:00'
+      - title: 'Faijan vika valhe: Faijan kuolinvuoteella'
+        start_time: '2026-08-14T17:05:00+03:00'
+        end_time: '2026-08-14T17:30:00+03:00'
+        description: |-
+          On aika vastata siihen todelliseen kysymykseen, jota on vältelty kaksi vuotta. Kuka oli Mika
+          Fahler, Axan faija? Miksi hänen oli niin vaikea kertoa totuutta ja miksi hän ei koskaan
+          puhunut isästään? Axa lähtee suvun syntymaisemiin Satakuntaan ja vierailee muistoissaan
+          faijan kuolinvuoteella.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-14T17:30:00+03:00'
+        end_time: '2026-08-14T17:35:00+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-08-14T17:35:00+03:00'
+        end_time: '2026-08-14T18:30:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
       - title: Iltahartaus
         start_time: '2026-08-14T18:50:00+03:00'
         end_time: '2026-08-14T19:00:00+03:00'
         description: |-
           Perheneuvoja Anja Nwose, Forssa
           Jumala on uskollinen lohduttaja. Psalmi 51 puhuttelee elämän kolhimaa.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-14T19:00:00+03:00'
+        end_time: '2026-08-14T19:02:00+03:00'
       - title: 'Konsertteja: Entisajan salonkikonsertti Uudenkaupungin Crusell-viikolla'
         start_time: '2026-08-14T19:02:00+03:00'
         end_time: '2026-08-14T21:00:00+03:00'
         description: |
           Sopraano Helena Juntunen ja harpisti Laura Hynninen konsertoivat Uudenkaupungin Crusell-viikolla. Entisajan salonkikonsertin tyyliin toteutettava konsertti soitetaan 1800-luvun yksityiskodissa  joka sijaitsee säveltäjä Bernhard Crusellin (1775–1838) syntymäkorttelissa Myllykadun ja Alisenkadun kulmassa. Ohjemassa on kotimiljööseen sopivia lauluja sekä Juntusen kertomuksia elämästään juhlittuna oopperalaulajana. 31.7. Uudenkaupungin Uta-salissa tallennertun konsertin juontaa ja toimittaa Ainomaija Pennanen.
+      - title: 'Politiikkaradio '
+        start_time: '2026-08-14T21:00:00+03:00'
+        end_time: '2026-08-14T21:30:00+03:00'
+      - title: 'Pieleen mennyt historia: Inflaatio syö rahan arvon, mutta öljyää taloutta '
+        start_time: '2026-08-14T21:31:00+03:00'
+        end_time: '2026-08-14T22:25:00+03:00'
+        description: |
+          Milloin inflaation historia alkoi? Mikä inflaatiota aiheuttaa ja milloin se on vaarallista? Näitä kysymyksiä pohtivat taloushistorian professori emeritus Sakari Heikkinen, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren.
+      - title: Tuuli Saksalan keidas
+        start_time: '2026-08-14T22:26:00+03:00'
+        end_time: '2026-08-14T23:15:00+03:00'
+        description: |-
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-08-14T23:40:00+03:00'
+        end_time: '2026-08-15T07:30:00+03:00'

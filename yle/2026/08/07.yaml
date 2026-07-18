@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2026-07-17T03:06:10.932111+00:00'
+  generated_at: '2026-07-18T03:05:17.311533+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-08-07T00:00:00+03:00'
+        end_time: '2026-08-07T06:30:00+03:00'
       - title: Hartaita säveliä
         start_time: '2026-08-07T06:30:50+03:00'
         end_time: '2026-08-07T06:50:00+03:00'
@@ -53,6 +56,21 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-08-07T09:00:00+03:00'
         end_time: '2026-08-07T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-08-07T09:04:00+03:00'
+        end_time: '2026-08-07T09:59:00+03:00'
+        description: |
+          Taylor: Palanen maata (Tapio Heinonen).
+          Tempchin: Peaceful easy feeling (Eagles).
+          Kansansävelmä: Tytön huivi (Tapio Rautavaara).
+          Hardy: Voila (Francoise Hardy).
+          Costa: A Chico chico (Amalia Rodrigues).
+          Baker: Motivo su raggio di luna (Chet Baker).
+          Farres: Quizas, quizas, quizas (Gregory Porter).
+          Dylan: Boots of spanish leather (Joan Baez).
+          Hebb: Sunny (Carola).
+          Somerjoki: Paratiisi (Ville Valo).
+          Springsteen: The River (Bruce Springsteen).
       - title: Kalle Haatanen
         start_time: '2026-08-07T10:00:00+03:00'
         end_time: '2026-08-07T10:55:00+03:00'
@@ -141,7 +159,7 @@ data:
         start_time: '2026-08-07T18:50:00+03:00'
         end_time: '2026-08-07T19:00:00+03:00'
         description: |-
-          Perheneuvoja Anja Nwose, Forssa
+          Perheneuvoja Anja Nwose Forssasta löytää turvaa psalmeista ja pohtii iltahartaudessa kuinka Jumala kysyy, mitä minä tarvitsen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-07T19:00:00+03:00'
         end_time: '2026-08-07T19:02:00+03:00'
@@ -169,3 +187,6 @@ data:
         end_time: '2026-08-07T23:15:00+03:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-08-07T23:40:00+03:00'
+        end_time: '2026-08-08T07:30:00+03:00'

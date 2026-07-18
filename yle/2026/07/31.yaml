@@ -1,12 +1,15 @@
 metadata:
-  generated_at: '2026-07-17T03:06:09.165020+00:00'
+  generated_at: '2026-07-18T03:05:15.524883+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-07-31T00:00:00+03:00'
+        end_time: '2026-07-31T06:30:00+03:00'
       - title: Aamuhartaus
         start_time: '2026-07-31T06:50:00+03:00'
         end_time: '2026-07-31T06:59:59+03:00'
@@ -96,6 +99,30 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-07-31T16:00:00+03:00'
         end_time: '2026-07-31T16:07:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2026-07-31T16:07:00+03:00'
+        end_time: '2026-07-31T16:59:00+03:00'
+        description: |+
+          O. Merikanto (sov. Fougstedt): Valse lente (Helsingin kaupunginork./Leif Segerstam).
+
+          Mendelssohn: Auf Flügeln des Gesanges (Laulun siivin) (Barbara Bonney, sopraano, ja Geoffrey Parsons, piano).
+
+          Chopin: Nokturni n:o 20 cis-molli (Katia Skanavi, piano).
+
+          Mahler: Adagietto sinfoniasta nro 5 cis-molli (RSO/Jukka-Pekka Saraste).
+
+          Bizet: Toreadorin aaria oopp. Carmen (Aarne Vainio, bassobaritoni, Suomen Kansallisoopperan kuoro, Malmi Vilppula ja Marja Eskola, sopraano, Maiju Kuusoja, altto, Eero Rousti, basso, sekä RSO/Paavo Berglund).
+
+          Linkola: Häävalssi sarj. Häämusiikkia (Kaartin soittokunta/Raine Ampuja).
+
+          Kilpinen: Laululle (Matti Lehtinen, baritoni, ja Hermann Hoppe, piano).
+
+          Carreño: Balladi op.15 (Clara Rodriguez, piano).
+
+          W.A. Mozart: Papagenon aaria oopp. Taikahuilu (Bryn Terfel, bassobaritoni, ja Skotlantilainen kamariork./Charles Mackerras).
+
+          Orff: O fortuna kant. Carmina burana (Shinyukai Choir, Berliinin tuomiokirkon ja valtion poikakuoro sekä Berliinin filharmonikot/Seiji Ozawa).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-07-31T17:00:00+03:00'
         end_time: '2026-07-31T17:05:00+03:00'
@@ -169,3 +196,6 @@ data:
         description: |-
           Isaac Newton keksi liikkeen ja painovoiman lait, kehitti matemaattisia laskutapoja ja tutki valon luonnetta. Hänen työnsä muutti tavan, jolla ymmärrämme maailmaa. Moni ei kuitenkaan tiedä, että professori Newton ajoi takaa rahanväärentäjiä 1700-luvun Lontoon hämyisillä kaduilla, Englannin rahapajan palveluksessa.
           (5.1.2026)
+      - title: Yöklassinen
+        start_time: '2026-07-31T23:40:00+03:00'
+        end_time: '2026-08-01T07:30:00+03:00'

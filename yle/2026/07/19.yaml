@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-17T03:06:05.591305+00:00'
+  generated_at: '2026-07-18T03:05:11.042198+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
@@ -104,7 +104,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-07-19T09:03:00+03:00'
         end_time: '2026-07-19T09:53:00+03:00'
-        description: |+
+        description: |-
           Purcell: Sonata while the sun rises (Sonaatti auringon noustessa) puolioopp. The Fairy Queen (Keijukaiskuningatar) (Le Concert des Nations/Jordi Savall).
 
           Blavet: Huilukonsertto a-molli (Per Öien ja Norjan kamariork./Terje Tönnesen).
@@ -115,6 +115,7 @@ data:
 
           Händel: Tanssisarja oopp. Almira (Akademie für alte Musik Berlin).
 
+          Aamusoiton on toimittanut Teemu Sipilä. Juontajana on Tuomas Niemelä. 
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-07-19T09:56:00+03:00'
         end_time: '2026-07-19T09:59:00+03:00'
@@ -143,7 +144,7 @@ data:
           Ager/Yellen: Big Bad Bill is Sweet William now (Ry Cooder).
           Ellington: In a sentimental mood (Bill Evans).
 
-          Konsertin on toimittanut Ville Vilén.
+          Konsertin on toimittanut Ville Vilén. Juontajana on Tuomas Niemelä. 
       - title: 'Elävä historia: Pronssikauden romahdus: kun itäisen Välimeren verkostoitunut maailma hajosi'
         start_time: '2026-07-19T12:05:00+03:00'
         end_time: '2026-07-19T12:55:00+03:00'
@@ -215,10 +216,10 @@ data:
 
           Rozsa: English waltz (Vienna In Scotland) elok. The private life of Sherlock Holmes (Nürnbergin sinfonikot/Elmer Bernstein).
 
-          Konsertin on laatinut Inari Tilli. 
+          Konsertin on laatinut Inari Tilli. Juontajana on Tuomas Niemelä. 
       - title: 'Etnokonserti Romanță-lauluja Vojvodinasta '
         start_time: '2026-07-19T17:06:00+03:00'
-        end_time: '2026-07-19T18:00:00+03:00'
+        end_time: '2026-07-19T17:59:02+03:00'
         description: |
           Vojvodian romanialaisten kansanmusiikkiorkesteri konsertoi Festivalul de Romanțe -festivaalilla Zrenjanin kaupungin historiallisessa Toša Jovanovićin teatterissa 26.9.2025. Konsertissa kuullaan 1800-luvun lopulla kaupungeissa syntynyttä melodista ja tunteikasta Romanță-laulua, jonka teemat liikkuvat rakkaudesta kaipaukseen. Toimittajana on Miika Lauriala. 
       - title: 'Laura Korhosen Jazzklubi: Lintujen siivillä jazzin vapauteen'
@@ -227,23 +228,29 @@ data:
         description: |
           Kiikarit silmille ja jazzkorvat hörölle, tällä viikolla nimittäin heittäydymme siivekkäiden ystäviemme seuraan. Jakso tarjoilee linnuista inspiroitunutta musiikkia. Ohjelman ensilähetys oli toukokuussa 2025.
       - title: 'Jazzklubin viikon keikka: Timo Lassy Trio We Jazz -festivaalilla.'
-        start_time: '2026-07-19T19:02:30+03:00'
+        start_time: '2026-07-19T19:02:05+03:00'
         end_time: '2026-07-19T20:00:00+03:00'
         description: |
           Äänitetty Korjaamon Vaunusalissa 30.11.2024.
       - title: Suviseurojen kesäjuhlaradiointi Kauhavalta
         start_time: '2026-07-19T20:00:00+03:00'
-        end_time: '2026-07-19T21:00:00+03:00'
+        end_time: '2026-07-19T20:57:21+03:00'
         description: |-
           Juontajana Sakari Typpö. Kuuluttajana Antti Juola. Puhujina opetusneuvos Antti Paananen ja aluepäällikkö Aimo Koskelo. Kanttorina ja esilaulajana kanttori Olli-Jaakko Miettunen. Urkurina kanttori Vesa Kajava. Virret/Yhteislaulut: Siionin laulu 249, Virret 178, 272 ja 389, Siionin laulu 304.
-      - title: Uutispodcast
-        start_time: '2026-07-19T21:00:30+03:00'
-        end_time: '2026-07-19T21:24:00+03:00'
+      - title: Radio 1 soi
+        start_time: '2026-07-19T20:57:21+03:00'
+        end_time: '2026-07-19T21:02:56+03:00'
+        description: |+
+          Chopin: Berceuse Des-duuri (Murray Perahia, piano).
+
+      - title: 'Uutispodcast: Kolme oppia Afrikasta – Eeva Eronen summaa vuotensa kirjeenvaihtajana'
+        start_time: '2026-07-19T21:02:56+03:00'
+        end_time: '2026-07-19T21:24:19+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Mitkä kolme asiaa suomalaisten olisi vähintään tärkeä ymmärtää Afrikan mantereesta? Ylen ulkomaantoimittaja Eeva Eronen vetää yhteen kaksi vuotta kestänyttä Afrikan-kirjeenvaihtajan pestiään ja kertoo millaista on raportoida kokonaisesta mantereesta yksin. Haastattelijana on Leonard Wilhelmus.
       - title: 'Klasariparatiisi: Ohutta yläpilveä'
-        start_time: '2026-07-19T21:25:00+03:00'
-        end_time: '2026-07-19T22:22:00+03:00'
+        start_time: '2026-07-19T21:25:02+03:00'
+        end_time: '2026-07-19T22:19:13+03:00'
         description: |
           Ilmaa hengitämme ja ilma pitää meidät hengissä. Ilmakehä suojaa maapallon elämää.
           Värähtelevistä ilmapatsaista voi myös tehdä taidetta, jota kutsutaan musiikiksi.
@@ -281,10 +288,18 @@ data:
           W. A. Mozart: Serenadi B-duuri KV361 "Gran Partita", osa Adagio
           (18. vuosisadan orkesteri/Frans Brueggen).
       - title: ' KC Kirjapodcast: Keräilijöitä ja kärpäsiä – Mikä synkkyydessä naurattaa?'
-        start_time: '2026-07-19T22:23:00+03:00'
-        end_time: '2026-07-19T22:52:00+03:00'
+        start_time: '2026-07-19T22:20:16+03:00'
+        end_time: '2026-07-19T22:48:46+03:00'
         description: |-
           Vieraina Elli Salo, Sirkku Peltola ja Andrev Walden.
+      - title: Radio 1 soi
+        start_time: '2026-07-19T22:48:46+03:00'
+        end_time: '2026-07-19T23:14:37+03:00'
+        description: |+
+          Berlioz: Lemmenkohtaus sinf. Romeo ja Julia. (Cincinnatin SO/Paavo Järvi). 
+
+          Sarasate: Mustalaislauluja (Jascha Heifetz, viulu, ja RCA Victor SO/William Steinberg).
+
       - title: 'Romanitarinoita: Nuorena valittu, uskollisesti kuljettu – Joni Enroth'
         start_time: '2026-07-19T23:14:37+03:00'
         end_time: '2026-07-19T23:39:00+03:00'

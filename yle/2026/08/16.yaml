@@ -1,12 +1,32 @@
 metadata:
-  generated_at: '2026-07-17T03:06:13.572924+00:00'
+  generated_at: '2026-07-18T03:05:20.074579+00:00'
   git:
     branch: main
-    commit: 8c4fc51f61fa95b54c79babcc7945f0e3faa3d6d
-  data_hash: 8b14c7094e692d34144fa8fdc3fe6fdbb865ee7bb4302ec3a38320dc66da48d2
+    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
+  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
 data:
   '':
     programmes:
+      - title: Yöklassinen
+        start_time: '2026-08-15T23:40:00+03:00'
+        end_time: '2026-08-16T07:00:00+03:00'
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-08-16T07:00:30+03:00'
+        end_time: '2026-08-16T07:57:00+03:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-16T08:00:00+03:00'
+        end_time: '2026-08-16T08:05:05+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-08-16T09:00:00+03:00'
+        end_time: '2026-08-16T09:03:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-08-16T09:03:00+03:00'
+        end_time: '2026-08-16T09:53:00+03:00'
+      - title: Tervetuloa jumalanpalvelukseen
+        start_time: '2026-08-16T09:56:00+03:00'
+        end_time: '2026-08-16T09:59:00+03:00'
       - title: Haagan seurakunnan jumalanpalvelus Huopalahden kirkosta Helsingistä
         start_time: '2026-08-16T10:00:00+03:00'
         end_time: '2026-08-16T10:59:20+03:00'
@@ -15,6 +35,9 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-16T11:00:00+03:00'
         end_time: '2026-08-16T11:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-16T12:00:00+03:00'
+        end_time: '2026-08-16T12:05:00+03:00'
       - title: 'Elävä historia: Wartholm - linna, joka katosi'
         start_time: '2026-08-16T12:05:00+03:00'
         end_time: '2026-08-16T12:55:00+03:00'
@@ -25,11 +48,28 @@ data:
         end_time: '2026-08-16T13:57:00+03:00'
         description: |-
           Tuntsan syrjäisessä erämaassa musiikkitoimittaja Kare Eskolan maastopyörävaellus piirtää itärajan näkyviin. Ja kun kirkas joki muuttuu tekojärveksi, koskematon alkumetsä kaivokseksi ja pokasaha metsäkoneeksi, piirtyy näkyviin myös kiistelty raja luonnon ja luonnottoman välillä. Jos lapinnoita Akmeeli Lokan rannalla heräisi transsista, johon 1600-luvulla vajosi, näkisikö hän maansa samoin kuin retkeilijä nyt? Elokuun kolmet Välilevyt on tehty kesän aikana retkillä.
+      - title: Uudet levyt
+        start_time: '2026-08-16T14:00:00+03:00'
+        end_time: '2026-08-16T14:55:00+03:00'
+      - title: Ykköskolumni
+        start_time: '2026-08-16T14:55:00+03:00'
+        end_time: '2026-08-16T15:00:00+03:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+      - title: Klassikkokuunnelmia
+        start_time: '2026-08-16T15:00:00+03:00'
+        end_time: '2026-08-16T15:35:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2026-08-16T15:35:00+03:00'
+        end_time: '2026-08-16T15:55:00+03:00'
       - title: 'Viikon luontoääni: Mustaleppälintu'
         start_time: '2026-08-16T15:55:00+03:00'
         end_time: '2026-08-16T16:00:00+03:00'
         description: |-
           Viikon luontoäänen esittelee Juha Laaksonen.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-16T16:00:00+03:00'
+        end_time: '2026-08-16T16:07:00+03:00'
       - title: Faunin iltapäivä
         start_time: '2026-08-16T16:07:00+03:00'
         end_time: '2026-08-16T16:59:59+03:00'
@@ -57,14 +97,36 @@ data:
           Sibelius: Scène romantique teoks. Viisi romanttista kappaletta op.101 (Janne Mertanen, piano).
 
           Konsertin on toimittanut Tuomas Niemelä. 
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-16T17:00:00+03:00'
+        end_time: '2026-08-16T17:05:00+03:00'
       - title: Etnokonsertteja
         start_time: '2026-08-16T17:06:00+03:00'
         end_time: '2026-08-16T18:00:00+03:00'
+      - title: Jazzklubi
+        start_time: '2026-08-16T18:00:30+03:00'
+        end_time: '2026-08-16T19:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-16T19:00:00+03:00'
+        end_time: '2026-08-16T19:02:05+03:00'
+      - title: 'Jazzklubin viikon keikka '
+        start_time: '2026-08-16T19:02:30+03:00'
+        end_time: '2026-08-16T20:00:00+03:00'
       - title: Katolinen messu
         start_time: '2026-08-16T20:00:00+03:00'
         end_time: '2026-08-16T21:00:00+03:00'
         description: |
           Katolinen messu
+      - title: Uutispodcast
+        start_time: '2026-08-16T21:00:30+03:00'
+        end_time: '2026-08-16T21:24:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Klasariparatiisi - Eva Tigerstedt
+        start_time: '2026-08-16T21:25:00+03:00'
+        end_time: '2026-08-16T22:22:00+03:00'
+        description: |-
+          Eva Tigerstedt avaa polkuja musiikkiin.
       - title: 'Romanitarinoita: Leif Isberg – musiikin kautta kutsumuksessaan'
         start_time: '2026-08-16T23:12:00+03:00'
         end_time: '2026-08-16T23:37:00+03:00'
@@ -73,3 +135,6 @@ data:
 
           Isberg on ollut vuosia mukana Elämä ja Valo ry:n toiminnassa, erityisesti Keuruun hengellisessä kesäkonferenssissa, jossa hän on johtanut kuoroa ja ollut mukana järjestämässä tilaisuuksia. Hän puhuu kiitollisuudella saamastaan lahjasta ja pitää tärkeänä sen käyttämistä: "Nämä ovat minun jalkani ja käteni – niin kauan kuin pystyn palvelemaan, teen tätä työtä."
           Leifin elämässä yhdistyvät musiikki, usko ja palava halu tuoda ihmisille toivoa ja valoa.
+      - title: Yöklassinen
+        start_time: '2026-08-16T23:40:00+03:00'
+        end_time: '2026-08-17T06:30:00+03:00'
