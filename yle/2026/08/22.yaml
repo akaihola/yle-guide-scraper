@@ -1,12 +1,194 @@
 metadata:
-  generated_at: '2026-07-18T03:05:21.700954+00:00'
+  generated_at: '2026-07-19T03:07:10.645795+00:00'
   git:
     branch: main
-    commit: 05072e3e6ac84bd3f6698370a16dae0694af9e4e
-  data_hash: 3583b769e1833a03d9ffcc2d8085949770d04e3ad757718338f91af0e4ecf72d
+    commit: 260983f8ba3a35567ba459ce315d68e3b15a447b
+  data_hash: da14529f1bdfd8763f0e928a7c1a5e8bbad1fcdc756c48751e69e48c81461e77
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-08-21T23:40:00+03:00'
         end_time: '2026-08-22T07:30:00+03:00'
+      - title: Kirjani tarina
+        start_time: '2026-08-22T07:31:00+03:00'
+        end_time: '2026-08-22T07:55:00+03:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T07:55:00+03:00'
+        end_time: '2026-08-22T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-22T08:00:00+03:00'
+        end_time: '2026-08-22T08:05:00+03:00'
+      - title: Hartaita säveliä
+        start_time: '2026-08-22T08:05:00+03:00'
+        end_time: '2026-08-22T08:25:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-08-22T08:25:00+03:00'
+        end_time: '2026-08-22T08:35:00+03:00'
+        description: |-
+          Osaston johtaja Jaana Jokiniemi, Pelastusarmeija, Rauma
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T08:35:00+03:00'
+        end_time: '2026-08-22T08:40:00+03:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2026-08-22T08:40:00+03:00'
+        end_time: '2026-08-22T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-08-22T09:00:00+03:00'
+        end_time: '2026-08-22T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-08-22T09:04:00+03:00'
+        end_time: '2026-08-22T09:59:00+03:00'
+        description: |-
+          Danoff/Nivert/Denver: Vanha tie (Eero ja Jussi Raittinen).
+          Turner: Candy apple red (George Hamilton IV).
+          Marfisi/Darbal/Bacara: Solenzara (Enrico Macias). 
+          Moreno: Maria Isabel (Ossi Ahlapuro ja Ritva Oksanen). 
+          Waard: Dangerous happiness (Jerry Williams and The Violents).
+          Mononen: Kohtalon tango (Eino Grön).
+          Bruhn: Rakkaus aito on vain kerran (Anneli Sari).
+          Bruhn: Wunder gibt es immer wieder (Katja Ebstein). 
+          Stewart/Gouldman: I'm not in love (10cc).
+          Lehtinen: Tanssivat kengät (Radion tanssiork./Rauno Lehtinen).
+          Mancini: Moon river (Acker Bilk).
+          Mancini: Baby elephant walk (Henry Mancini). 
+          Pinder: A simple game (The Moody Blues).
+          Burnett/O'Neill/Holden: Olen syytön (Kirka).
+
+          Konsertin on koonnut Kalevi Pollari. 
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2026-08-22T10:00:00+03:00'
+        end_time: '2026-08-22T10:25:00+03:00'
+      - title: Virtasen taloushistoria
+        start_time: '2026-08-22T11:00:00+03:00'
+        end_time: '2026-08-22T11:52:00+03:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-08-22T11:57:00+03:00'
+        end_time: '2026-08-22T12:00:00+03:00'
+        description: |-
+          Ote Antti Rytkösen Honkaiset holvit ja siintävät sillat -teoksen lastenlorusta Sienimetsässä.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-22T12:00:00+03:00'
+        end_time: '2026-08-22T12:05:00+03:00'
+      - title: 'Maailma tarinoina: Osuuko Kärpästen herra poikien nykytodellisuuteen?'
+        start_time: '2026-08-22T12:05:00+03:00'
+        end_time: '2026-08-22T13:00:00+03:00'
+        description: |-
+          William Goldingin Kärpästen herra -klassikkoromaanissa poikajoukko äityy hirmutekoihin saarella ilman aikuisia. II maailmansodan hirveyksien jälkeen ilmestynyt teos maalasi synkän ihmiskuvan, jossa väkivaltaisuus saa herkästi otteen ja leviää. Onko romaani niin ajankohtainen kuin on väitetty? Miten sen kautta päästään kiinni nykynuorten, erityisesti poikien, todellisuuteen sekä aikuisten, sosiaalisen median ja koulun rooliin? 
+          Kärpästen herran kautta nuorten maailmaan uppoutuvat Marja Vehkasen vieraina helsinkiläisen Vuoniityn peruskoulun suomen kielen ja kirjallisuuden sekä median opettaja, luokanohjaaja Arto Alho sekä yhteiskuntatieteiden tohtori Antti Kivijärvi Nuorisotutkimusseurasta.
+      - title: Näistä levyistä en luovu
+        start_time: '2026-08-22T13:00:00+03:00'
+        end_time: '2026-08-22T13:55:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T13:55:00+03:00'
+        end_time: '2026-08-22T14:00:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-08-22T14:00:00+03:00'
+        end_time: '2026-08-22T14:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Ykköskolumni
+        start_time: '2026-08-22T14:55:00+03:00'
+        end_time: '2026-08-22T15:00:00+03:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+      - title: Rehtorin tyttäret 4/5.
+        start_time: '2026-08-22T15:00:00+03:00'
+        end_time: '2026-08-22T15:25:00+03:00'
+        description: |-
+          Osa 4/5 Sodassa menehtyneen rehtori Sipolan perhe kohtaa uuden elämänvaiheen. Jokaisen olisi nyt huolehdittava itsestään. Vanhimmat tyttäret Raija, Pirkko, Sirkka ja Satu alkavat huushollaamaan ja äiti hakeutuu opettajan töihin. Pienimmät Kaarina sekä kuopus Jorma saavat vielä temmeltää vapaasti. Sarja vuodelta 1959.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T15:25:00+03:00'
+        end_time: '2026-08-22T15:30:00+03:00'
+      - title: 'Aristoteleen kantapää: Suomen hassujen paikannimien taustat ovat aivan tavallisia'
+        start_time: '2026-08-22T15:30:00+03:00'
+        end_time: '2026-08-22T15:55:00+03:00'
+        description: |
+          Pasi Heikura seikkailee Suomen hassujen paikannimien seuduilla professori Terhi Ainialan kanssa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén. Ohjelma on uusinta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T15:55:00+03:00'
+        end_time: '2026-08-22T16:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-22T16:00:00+03:00'
+        end_time: '2026-08-22T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-08-22T16:07:00+03:00'
+        end_time: '2026-08-22T16:59:59+03:00'
+        description: |-
+          Kats-Chernin: Re-invention n:o 1 sarj. Re-inventions (Angèle Dubeau, viulu, ja La Pietà).
+
+          Fauré: Nell (Gregory Hustis, käyrätorvi, ja Steven Harlos, piano).
+
+          Rossini: Figaron cavatina "Largo al factotum" oopp. Sevillan parturi (Simon Keenlyside, baritoni, ja Münchenin radio-ork./Ulf Schirmer).
+
+          Debussy: En bateau (Veneessä) teoks. Petite suite (Petri Alanko, huilu, ja Juhani Lagerspetz, piano).
+
+          Barns: La chasse (Metsästys) (Clare Howick, viulu, ja Sophia Rahman, piano).
+
+          Lindström: Song about Em (Emil Jonason, klarinetti, ja Helsingborgin SO/Stefan Solyom).
+
+          Makaroff: Omat on virret oppimani (Sibelius-lukion kamarikuoro/Reijo Aittakumpu).
+
+          L. Boulanger: D'un jardin clair (Valoisa puutarha) (Margit Rahkonen, piano).
+
+          Puccini: Mimin aaria "Si, mi chiamano Mimi" oopp. La Bohème (Helena Juntunen, sopraano, ja RSO/Pietro Rizzo).
+
+          Respighi: Serenata teoks. Sei pezzi (Kuusi kappaletta) (Tanja Becker-Bender, viulu, ja Peter Nagy, piano). 
+
+          Dale: Song's flight (Laulun lento) koraalisinf. When music sounds (Nazan Fikret, sopraano, Cantus Ensemble ja The Studio Orchestra/Jeff Atmajian).
+
+          C. Schumann: Romanssi es-molli (Isata Kanneh-Mason, piano).
+
+          Holst: Finaali (The Dargason) teoks. St. Paul's Suite (Saint Paulin kamariork./Christopher Hogwood). 
+
+          Konsertin on toimittanut Annina Aho.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-22T17:00:00+03:00'
+        end_time: '2026-08-22T17:05:00+03:00'
+      - title: Marko Gustafsson
+        start_time: '2026-08-22T17:05:00+03:00'
+        end_time: '2026-08-22T17:58:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-22T17:58:00+03:00'
+        end_time: '2026-08-22T18:00:00+03:00'
+      - title: 'Ehtookellot: Sievin kirkon kellot'
+        start_time: '2026-08-22T18:00:00+03:00'
+        end_time: '2026-08-22T18:01:00+03:00'
+      - title: Iltahartaus
+        start_time: '2026-08-22T18:01:00+03:00'
+        end_time: '2026-08-22T18:10:00+03:00'
+        description: |-
+          Kirkkoherra Ville Tikkanen, Kangasniemi
+      - title: Lauantain toivotut levyt
+        start_time: '2026-08-22T18:10:00+03:00'
+        end_time: '2026-08-22T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-08-22T19:00:00+03:00'
+        end_time: '2026-08-22T19:02:00+03:00'
+      - title: Euroradion konsertti-ilta
+        start_time: '2026-08-22T19:02:00+03:00'
+        end_time: '2026-08-22T21:00:00+03:00'
+      - title: Uutispodcast
+        start_time: '2026-08-22T21:01:00+03:00'
+        end_time: '2026-08-22T21:25:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Klassikkokuunnelmia
+        start_time: '2026-08-22T21:51:00+03:00'
+        end_time: '2026-08-22T22:30:00+03:00'
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-08-22T22:40:00+03:00'
+        end_time: '2026-08-22T23:39:30+03:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Yöklassinen
+        start_time: '2026-08-22T23:40:00+03:00'
+        end_time: '2026-08-23T07:00:00+03:00'
