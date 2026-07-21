@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-20T03:07:52.447757+00:00'
+  generated_at: '2026-07-21T03:06:22.995237+00:00'
   git:
     branch: main
-    commit: 5f654fbaf26ef2dd5568c9bf8358d4e3aed0f6b4
-  data_hash: d11449559b10fc660f80480fa458e53e9aafb05a9f063a4784aeaf2c4abc4de8
+    commit: 3bfaa51e8501c6d4bda0374aaba215dee510f2f9
+  data_hash: c336afde6e3c9d92fb9c1fc955284b7965b67ff4babe54d0663719ed2eafb9ca
 data:
   '':
     programmes:
@@ -125,11 +125,15 @@ data:
 
           N. klo 14:30 kokki Sami Garam muistelee lapsuuden sairaspäiviään, jolloin isä, sellisti Károly Garam joutui ottamaan lapsen mukaan töihin. Toim. Marko Miettinen.
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudio'
         start_time: '2026-07-24T15:00:00+03:00'
         end_time: '2026-07-24T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Kulttuuriykkösen Perjantaistudiossa ruodimme ajankohtaisia kulttuurin ja median ilmiöitä, arvokysymyksiä sekä ajankuvaamme.
+
+          Tällä kertaa raatilaisina ovat tieto- ja fiktiokirjailija Tiina Raevaara,  toimittaja/tietokirjailija Jussi Ahlroth sekä elokuvatutkija Jari Sedergren.
+
+          Ohjelman juontaa Nicklas Wancke.
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-07-24T16:07:00+03:00'
         end_time: '2026-07-24T16:59:00+03:00'
@@ -185,27 +189,8 @@ data:
       - title: 'Konsertteja: Kuhmon Kamarimusiikki – Villisti kaupunki'
         start_time: '2026-07-24T19:02:00+03:00'
         end_time: '2026-07-24T20:02:00+03:00'
-        description: |-
+        description: |
           Kuhmon Kamarimusiikin konsertti vie matkalle Pariisiin ja New Yorkiin. Konsertissa saa kantaesityksensä Kuhmon Kamarimusiikin tilausteos, säveltäjä Cecilia Damströmin teos "Raakku", jonka kantaesitys on osa Oulun Euroopan kulttuuripääkaupunkivuoden juhlintaa. 20. heinäkuuta Kuhmo-talossa tallennetun konsertin toimittaa Ainomaija Pennanen.
-
-          Kontrastien Pariisi:
-          Maurice Ravel: Allegro sonaatista viululle ja sellolle
-          Berit Cardas, viulu, ja Bjørg Lewis, sello
-
-          Kiihkeä New York:
-          George Gershwin: Rhapsody in Blue kahdelle pianolle
-          Mackenzie Melemed ja Anna Laakso, piano
-
-          Kansainvälinen Kuhmo:
-          Cecilia Damström: Puhallinkvintetto ”Raakku” (Kuhmon Kamarimusiikin tilausteos,
-          kantaesitys)
-          Orsino Ensemble
-
-          Kahviloiden Pariisi:
-          Jean Françaix: L’Heure du Berger (Paimenen hetki) puhallinkvintetille ja pianolle
-          Orsino Ensemble, Olli Mustonen, piano
-
-          Kuva: ©Jonas Kukkonen
       - title: 'Tiedetrippi: Karttojen salatut maailmat'
         start_time: '2026-07-24T21:00:00+03:00'
         end_time: '2026-07-24T21:30:00+03:00'
@@ -227,3 +212,27 @@ data:
       - title: Yöklassinen
         start_time: '2026-07-24T23:40:00+03:00'
         end_time: '2026-07-25T07:30:00+03:00'
+        description: |+
+          Rossini: Ricciardo e Zoraide, ooppera (William Matteuzzi, tenori, Bruce Ford, tenori, Della Jones, mezzosopraano, Alastair Miles, basso, Nelly Miricioiu, sopraano, Carol Smith, altto, Paul Nilon, tenori, ja Toby Spence, tenori ym. sekä Geoffrey Mitchell -kuoro ja St.Martin-in-the-Fields -kamariork./David Parry).
+
+          02:48 Dvorák: Sinfonia n:o 2 B-duuri (Tshekkiläinen FO/Vaclav Neumann).
+
+          03:39 Villa-Lobos: Carnaval das criancas brasileiras (Brasilailaisten lasten karnevaali) (Sonia Rubinsky ja Tatjana Rankovitsh, piano).
+
+          03:55 Poulenc: Hirvinaaraat, balettisarja (Pariisin konservatorion ork./Roger Désormière).
+
+          04:19 W.A. Mozart: Kvintetto jousille n:o 4 g-molli (Music from Aston Magna/Daniel Stepner). 
+
+          04:50 Hindemith: Die Harmonie der Welt, sinfonia (RSO/Sakari Oramo). 
+
+          05:27 Elgar: Viulukonsertto h-molli (Yehudi Menuhin ja Lontoon SO/Edward Elgar).
+
+          06:18 Grieg: Holbergin ajoilta (Orpheus-kamariork.).
+
+          06:38 Berwald: Duo concertante kahdelle viululle a-molli (Tobias Ringborg ja David Bergström).
+
+          07:03 Charpentier: Litanies de la Vierge (Litanioita Neitsyt Marialle) (Les Arts Florissants/WIlliam Christie).
+
+          07:22 Vivaldi: Konsertto kahdelle huilulle, jousille ja continuolle C-duuri (Janet See ja Stephen Schulz, traverso, sekä Philharmonia-barokkiork./Nicholas McGegan).
+
+...
