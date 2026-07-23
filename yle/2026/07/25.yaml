@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-22T03:06:29.958010+00:00'
+  generated_at: '2026-07-23T03:06:31.064379+00:00'
   git:
     branch: main
-    commit: dbb041d5beaaa899bbf499cfa10a1f9cdf528212
-  data_hash: 27e3cb61b00ea7bfb1c5189449987e56136e178fb832c518649b9b31791985d5
+    commit: 0d7947211cc6cca35e41b451be46b51daab8a820
+  data_hash: 352186431613482e3cbc1a5e49182e39fff0658df4eba3ccd5680d1cc4ce2cab
 data:
   '':
     programmes:
@@ -34,13 +34,27 @@ data:
           07:22 Vivaldi: Konsertto kahdelle huilulle, jousille ja continuolle C-duuri (Janet See ja Stephen Schulz, traverso, sekä Philharmonia-barokkiork./Nicholas McGegan).
 
       - title: 'Kirjani tarina: Kristiina Wallin kertoo romaanistaan Laituri'
-        start_time: '2026-07-25T07:31:00+03:00'
-        end_time: '2026-07-25T07:55:00+03:00'
+        start_time: '2026-07-25T07:30:46+03:00'
+        end_time: '2026-07-25T07:54:13+03:00'
         description: |-
           Ymmärrämmekö elämästä jotain olennaista, jos uskallamme ajatella kuoleman vääjäämättömyyttä? Laituri-romaanin meren rannassa asuva kuvataitelija Hanna pohtii mitä ajan kuluminen, takana olevat vuodet ja muistot niin iloisista juhlista kuin elämän menetyksistä lopulta merkitsevät. Kirjailija Kristiina Wallin Jukka Kuosmasen vieraana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-07-25T07:54:13+03:00'
+        end_time: '2026-07-25T08:00:00+03:00'
       - title: Hartaita säveliä
         start_time: '2026-07-25T08:05:00+03:00'
         end_time: '2026-07-25T08:25:00+03:00'
+        description: |+
+          Jäntti: Repussa ripaus rohkeutta (Eerin Punkari ja Riikka Jäntti, laulu, Oskar ja Evert Punkari, taustalaulu, Antti Vuori, kitara, ohjelmointi ja taustalaulu, Joonas Kasurinen, kosketinsoittimet, Pasi Ryökkynen, basso, ja Henrik Sirelä, rummut).
+
+          Vulpius: Oi Herra, ilo suuri (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          Bourgeois: Oi Jeesus Kristus, Herramme, Jumalan Poika, turvamme (virsi 266) (Cetus Noster, ja Eero Palviainen, arkkiluuttu).
+
+          Tuntematon: Kaunis aamuaurinkomme (Kajaanin rauhanyhdistyksen seurakansa sekä Ossi Säily, urut).
+
+          Bahmetev: Kiittäkää Herran nimeä (Kuoro/Juhani Matsi).
+
       - title: Aamuhartaus
         start_time: '2026-07-25T08:25:00+03:00'
         end_time: '2026-07-25T08:35:00+03:00'
@@ -101,7 +115,7 @@ data:
         end_time: '2026-07-25T13:55:00+03:00'
         description: |
           Kirjailija Sirpa Kähkönen kertoo itselleen tärkeästä musiikista. Toimittajana Maija Salminen. 
-      - title: 'Kalle Haatanen: Aktinen alue suurvaltapolitiikan kourissa'
+      - title: 'Kalle Haatanen: Arktinen alue suurvaltapolitiikan kourissa'
         start_time: '2026-07-25T14:00:00+03:00'
         end_time: '2026-07-25T14:55:00+03:00'
         description: |-
@@ -175,32 +189,37 @@ data:
         description: |-
           "Tee minusta saari"
           Lauantai-illan rukoushetkessä Kangasniemen kirkkoherra Ville Tikkanen puhuu armosta, joka on kuin aaltojen loputon liike.
+      - title: Lauantain toivotut levyt
+        start_time: '2026-07-25T18:10:00+03:00'
+        end_time: '2026-07-25T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: 'Konsertti: Sastamala Gregoriana – Iloa ja surua'
         start_time: '2026-07-25T19:02:00+03:00'
-        end_time: '2026-07-25T21:00:00+03:00'
+        end_time: '2026-07-25T20:20:00+03:00'
         description: |-
           Kreeta-Maria Kentala, viulu & Andrew Lawrence-King, harppu. Playford: Duke of Norfolk. - Biber: Sonata Representativa. - Niittykoski: Surunvoittoinen marssi & Iloa ja surua.  Matteis: Passaggio Rotto. - Trad: Himlens polska. - Pandolfi: La Stella. - Dowland: Osia sarjasta Lachrimae or Seven Teares. - Biber: Taivaaseenastuminen teoksesta Mysteerisonaatti nro 12. - Niittykoski: Verkkokankaan marssi & Silia-valssi mollissa. Tyrvään pappilan kivinavetassa 19.7. äänitetyn konsertin toimittaa Noora Hirn.
       - title: 'Uutispodcast: Naisia kiusataan ja häiritään intissä – miten se saadaan loppumaan?'
-        start_time: '2026-07-25T21:01:00+03:00'
-        end_time: '2026-07-25T21:25:00+03:00'
+        start_time: '2026-07-25T21:00:31+03:00'
+        end_time: '2026-07-25T21:23:22+03:00'
         description: |-
           Naisia kohdellaan yhä erittäin usein epäasiallisesti varusmiespalveluksessa. Noin 40 prosenttia palveluksen suorittavista naisista kokee palveluksen aikana häirintää tai kiusaamista. Miksi häirintä on edelleen niin yleistä? Ylen politiikan toimittaja Kalle Hyttinen on Leonard Wilhelmuksen haastateltavana.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-07-25T21:51:00+03:00'
-        end_time: '2026-07-25T22:30:00+03:00'
+        start_time: '2026-07-25T21:53:00+03:00'
+        end_time: '2026-07-25T22:13:03+03:00'
+        description: |-
+          Jakso 14: Kun kuolleetkin heräävät
+          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
+      - title: 'Klassikkokuunnelma: Työmiehen perhe'
+        start_time: '2026-07-25T22:13:03+03:00'
+        end_time: '2026-07-25T22:31:24+03:00'
         description: |-
           Osa 15/22 Liisukka menee naimisiin
 
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
-      - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-07-25T21:51:00+03:00'
-        end_time: '2026-07-25T22:30:00+03:00'
-        description: |-
-          Jakso 14: Kun kuolleetkin heräävät
-          Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarja alkaa 1800-luvun lopusta ja kattaa vuodet aina sen tekohetkeen 1950-luvun alkuun saakka. Kysymykset niin torppareiden asemasta, kaupungistumisesta, kansalaissodasta kuin lapualaisvuosistakin tulivat käsitellyiksi Rantasen perheen vaiheiden kautta. 
       - title: 'Keinuva talo - Mika Kauhanen: Kaupunkikansan musiikit: Rooma'
-        start_time: '2026-07-25T22:40:00+03:00'
-        end_time: '2026-07-25T23:39:30+03:00'
+        start_time: '2026-07-25T22:40:31+03:00'
+        end_time: '2026-07-25T23:39:35+03:00'
         description: |-
           Mitä tapahtuu, kun yhdistetään ikuinen kaupunki ja ikiaikaisista perinteistä kumpuava kansanmusiikki? Syntyykin tuoretta, elinvoimaista ja jännittävää kuunneltavaa! Kitchistä ollaan kaukana, kun sellaisetkin artikkelit kuin Bella Ciao, Tarantella ja I love Italia soivat ilmiömäisten laulajien ja soittajien voimin. Keinuvan talon kesäsarjassa vuoronsa saa Rooma, joka maansa valtasuonena kokoaa musiikkikulttuurit kaikkialta Italiasta ja kauempaakin. Toimittajana Mika Kauhanen.
       - title: Yöklassinen

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-22T03:06:31.309396+00:00'
+  generated_at: '2026-07-23T03:06:33.498597+00:00'
   git:
     branch: main
-    commit: dbb041d5beaaa899bbf499cfa10a1f9cdf528212
-  data_hash: 27e3cb61b00ea7bfb1c5189449987e56136e178fb832c518649b9b31791985d5
+    commit: 0d7947211cc6cca35e41b451be46b51daab8a820
+  data_hash: 352186431613482e3cbc1a5e49182e39fff0658df4eba3ccd5680d1cc4ce2cab
 data:
   '':
     programmes:
@@ -19,6 +19,9 @@ data:
           Kirjailija Linnea Kuuluvaisen romaani Hukkumisleikki kietoo yhteen surun ja rakkaussuhteen trillerimäiseksi tarinaksi.
 
           Toimittaja Jukka Kuosmanen.
+      - title: Hartaita säveliä
+        start_time: '2026-08-01T08:05:00+03:00'
+        end_time: '2026-08-01T08:25:00+03:00'
       - title: Aamuhartaus
         start_time: '2026-08-01T08:25:00+03:00'
         end_time: '2026-08-01T08:35:00+03:00'
@@ -154,6 +157,11 @@ data:
         end_time: '2026-08-01T18:10:00+03:00'
         description: |-
           Lauantai-illan rukoushetkessä puhuu Kangasniemen kirkkoherra Ville Tikkanen
+      - title: Lauantain toivotut levyt
+        start_time: '2026-08-01T18:10:00+03:00'
+        end_time: '2026-08-01T19:00:00+03:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: 'Musiikkikamari: Klassisen musiikin helmiä'
         start_time: '2026-08-01T19:02:00+03:00'
         end_time: '2026-08-01T21:00:00+03:00'
