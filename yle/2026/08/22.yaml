@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-23T03:06:39.281426+00:00'
+  generated_at: '2026-07-24T03:06:26.286781+00:00'
   git:
     branch: main
-    commit: 0d7947211cc6cca35e41b451be46b51daab8a820
-  data_hash: 352186431613482e3cbc1a5e49182e39fff0658df4eba3ccd5680d1cc4ce2cab
+    commit: 5bd23164e36cdb1770cbf10398bc640fa3c72434
+  data_hash: 59456b598ec2c1407e1e251c64315f58632b4c15dfb4b4ab1315624440df09f1
 data:
   '':
     programmes:
@@ -173,9 +173,54 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-22T19:00:00+03:00'
         end_time: '2026-08-22T19:02:00+03:00'
-      - title: Euroradion konsertti-ilta
+      - title: 'Konsertteja: Camilla Nylund Budapestin Wagner-päivillä'
         start_time: '2026-08-22T19:02:00+03:00'
         end_time: '2026-08-22T21:00:00+03:00'
+        description: |-
+          Suomalainen sopraano Camilla Nylund esiintyy Budapestin Wagner-päivillä resitaalissa yhdessä Helmut Deutschin kanssa, jota pidetään yhtenä maailman parhaista lied-pianisteista. Ohjelmassa on muun muassa Richard Wagnerin, Richard Straussin ja Antonín Dvořákin lauluja sekä valikoima Jean Sibeliuksen teoksia. 12.6.2026 Budapestin MÜPA-taidepalatsissa taltioidun konsertin toimittaa Ainomaija Pennanen.
+
+          Esiintyjät:
+          Camilla Nylund, sopraano
+          Helmut Deutsch, piano
+
+          Ohjelma:
+          Antonín Dvořák: Mustalaislauluja op. 55
+
+          Richard Wagner: Gretchen am Spinnrade WWV 15
+
+           Richard Wagner: Tout n’est qu‘images fugitives WWV 58
+
+           Richard Wagner:  Attente WWV 55
+
+           Alban Berg: 7 frühe Lieder
+
+          väliaika
+
+          Jean Sibelius: Illalle op. 17/6
+
+          Jean Sibelius: Norden op. 90/1
+
+          Jean Sibelius: En slända op.17/5
+
+          Jean Sibelius: Soluppgång op. 37/3
+
+          Jean Sibelius: Höstkväll op. 38/1
+
+          Richard Strauss: Lob des Leidens op. 15/3
+
+          Richard Strauss: Die Nacht op. 10/3
+
+          Richard Strauss: Die Georgine op. 10/4
+
+          Richard Strauss: Allerseelen op. 10/8
+
+          Richard Strauss: Wer hat’s getan op. 84A
+
+          Richard Strauss: Wie sollten wir geheim sie halten op. 19/4 
+
+          Hugo Wolf : Auch kleine Dinge können uns entzücken kokoelmasta 'Italienisches Liederbuch' (ylimääräinen numero)
+
+          Kuva: © Tamás Boldizsár
       - title: Uutispodcast
         start_time: '2026-08-22T21:01:00+03:00'
         end_time: '2026-08-22T21:25:00+03:00'

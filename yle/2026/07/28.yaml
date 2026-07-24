@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-23T03:06:32.076458+00:00'
+  generated_at: '2026-07-24T03:06:18.709281+00:00'
   git:
     branch: main
-    commit: 0d7947211cc6cca35e41b451be46b51daab8a820
-  data_hash: 352186431613482e3cbc1a5e49182e39fff0658df4eba3ccd5680d1cc4ce2cab
+    commit: 5bd23164e36cdb1770cbf10398bc640fa3c72434
+  data_hash: 59456b598ec2c1407e1e251c64315f58632b4c15dfb4b4ab1315624440df09f1
 data:
   '':
     programmes:
@@ -82,11 +82,26 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-07-28T10:55:00+03:00'
         end_time: '2026-07-28T11:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Yksinäisyyden ääni'
         start_time: '2026-07-28T11:00:00+03:00'
         end_time: '2026-07-28T11:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        description: |
+          Yksinäisyys on eri asia kuin yksin oleminen.
+          Yksinäisyys on Suomessa yleisempää kuin luulisi, ja meillä on myös vahva yksinpärjäämien eetos. Yksinäisyys voi kuitenkin halvaannuttaa ja ajaa eristäytymisen kierteeseen, ja yksinäisyyttä voi kokea myös muiden seurassa. Vaan miten toimii ostrakismi, julma vallankäytön muoto, jota on vaikea todentaa? Samalla yksinäinen ihminen ei ole huonompi kuin muut, ja me kaikki voimme ehkäistä yksinäisyyttä.
+          Musiikissa yksinäisyys ilmenee monella tasolla, ja välillä yksin oleminen voi olla voimanlähde jota tarvitsemme.
+
+          Haastateltavana kasvatuspsykologian professori Niina Junttila. Haastattelu on tehty kevään 2020 koronaeristyksen aikana etähaastatteluna. 
+
+          Eva Tigerstedt tieteen, taiteen ja musiikin risteyksessä, äänisunnittelijana Anders Wiksten. Uusinta vuodelta 2020.
+
+          Ohjelmassa kuullaan otteita seuraavista teoksista:
+
+          Jean Sibelius: Belsazarin pidot, osa Yksinäisyys (BBC:n sinfoniaorkesteri/Sakari Oramo).
+          Olivier Messiaen: Aikojen lopun kvartetto, osa Lintujen kuilu (Michael Collins, klarinetti).
+          Barbara Strozzi: L’Eraclito amoroso (Ruby Hughes, sopraano, Mime Yamahiro, sello, ja Jonas Nordberg, teorbi). 
+          Dmitri Shostakovich: Sinfonia no 10, osa Allegro (Liverpoolin kuninkaallinen filharmoninen orkesteri/Vasili Petrenko).
+          Franz Schubert: Der Leiermann (Christian Gerhaher, baritoni, ja Gerold Huber, piano).
+          Henry Purcell: O Solitude, my sweetest choice (Anne Sofie von Otter, mezzosopraano, ja Jakob Lindberg, teorbi).
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-07-28T11:57:00+03:00'
         end_time: '2026-07-28T12:00:00+03:00'
