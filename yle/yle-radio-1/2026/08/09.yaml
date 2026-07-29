@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-28T03:06:04.112071+00:00'
+  generated_at: '2026-07-29T03:05:13.912131+00:00'
   git:
     branch: main
-    commit: ee7e24e55f257882f04264555863e378ce438698
-  data_hash: 5e1304c95b2122c0ed15a33584a703b03acf74a03ec751dc80c2f169a42cf0ea
+    commit: cde0cc309774f1ca7d8937aad4231fc9ab00006e
+  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
 data:
   Yle Radio 1:
     programmes:
@@ -24,6 +24,15 @@ data:
       - title: Aamusoitto
         start_time: '2026-08-09T09:03:00+03:00'
         end_time: '2026-08-09T09:53:00+03:00'
+        description: |+
+          Biber: Passacaglia g-molli (Evan Johnson, barokkiviulu).
+
+          J.S. Bach: Singet dem Herrn ein neues Lied (Voces8 ja The Senesino Players/Barnaby Smith).
+
+          Hammerschmidt: Sarja G-duuri (Hesperion XX/Jordi Savall, diskanttigamba).
+
+          Montéclair: Airs de fanfares (Ensemble Odyssee).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-08-09T09:56:00+03:00'
         end_time: '2026-08-09T09:59:00+03:00'
