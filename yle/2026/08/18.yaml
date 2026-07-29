@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-28T03:06:06.287719+00:00'
+  generated_at: '2026-07-29T03:05:16.557804+00:00'
   git:
     branch: main
-    commit: 511eca7aa8d44c36aa3c33d14e1e5c1d357bf0bf
-  data_hash: 5e1304c95b2122c0ed15a33584a703b03acf74a03ec751dc80c2f169a42cf0ea
+    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
+  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
 data:
   '':
     programmes:
@@ -151,14 +151,15 @@ data:
       - title: Iltahartaus
         start_time: '2026-08-18T18:50:00+03:00'
         end_time: '2026-08-18T19:00:00+03:00'
-        description: |-
-          Pastori Tuukka Rantanen, Ortodoksinen kirkko, Oulu
+        description: |
+          "Ihminen näkee ikonin ja ikoni ihmisen"
+          Rovasti Tuukka Rantanen, Ortodoksinen kirkko, Oulusta kertoo ikonien kautta yllättäen ja mystisesti avautuneesta ovesta ortodoksiseen traditioon ja kirkkoon.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-18T19:00:00+03:00'
         end_time: '2026-08-18T19:02:00+03:00'
       - title: 'Jussi Halla-aho - kylmä peli: Kitara ja kissapaita '
         start_time: '2026-08-18T19:02:00+03:00'
-        end_time: '2026-08-18T19:45:00+03:00'
+        end_time: '2026-08-18T19:27:00+03:00'
         description: |-
           Osa 1/8.
           Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.

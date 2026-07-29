@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-28T03:06:05.558150+00:00'
+  generated_at: '2026-07-29T03:05:15.524550+00:00'
   git:
     branch: main
-    commit: 511eca7aa8d44c36aa3c33d14e1e5c1d357bf0bf
-  data_hash: 5e1304c95b2122c0ed15a33584a703b03acf74a03ec751dc80c2f169a42cf0ea
+    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
+  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
 data:
   '':
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-08-14T06:50:00+03:00'
         end_time: '2026-08-14T06:59:59+03:00'
         description: |-
-          Aluekappalainen Sanni Rissanen, Kerimäki
+          "Tutkimusmatka omaan itseen"
+          Aluekappalainen Sanni Rissanen Kerimäeltä rohkaisee tutkimaan itseämme ja lähestymään Jumalaa juuri sellaisina kuin olemme.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-14T07:00:00+03:00'
         end_time: '2026-08-14T07:05:00+03:00'
@@ -132,9 +133,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-08-14T18:50:00+03:00'
         end_time: '2026-08-14T19:00:00+03:00'
-        description: |-
-          Perheneuvoja Anja Nwose, Forssa
-          Jumala on uskollinen lohduttaja. Psalmi 51 puhuttelee elämän kolhimaa.
+        description: |
+          "Särkynyttä sydäntä et hylkää, Jumala"
+          Perheneuvoja Anja Nwose Forssasta puhuttelee psalmin 51 saattelemana elämän kolhimaa särkynyttä sydäntä.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-14T19:00:00+03:00'
         end_time: '2026-08-14T19:02:00+03:00'

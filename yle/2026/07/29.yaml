@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-28T03:06:01.434356+00:00'
+  generated_at: '2026-07-29T03:05:09.936130+00:00'
   git:
     branch: main
-    commit: 511eca7aa8d44c36aa3c33d14e1e5c1d357bf0bf
-  data_hash: 5e1304c95b2122c0ed15a33584a703b03acf74a03ec751dc80c2f169a42cf0ea
+    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
+  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
 data:
   '':
     programmes:
@@ -260,7 +260,7 @@ data:
         end_time: '2026-07-29T19:02:00+03:00'
       - title: 'Konsertteja: Kuhmon Kamarimusiikki – Rohkeasti reunalla'
         start_time: '2026-07-29T19:02:00+03:00'
-        end_time: '2026-07-29T21:00:00+03:00'
+        end_time: '2026-07-29T20:22:00+03:00'
         description: |-
           Musiikkia maailman reunoilta. Konsertissa kuullaan kantaesitys italialais-intialaisen Suomeen kotiutuneen säveltäjän, viulistin ja alttoviulistin Krishna Nagarajan tilausteoksesta Peripheries. Valerie Coleman yhdistelee musiikissaan aineksia Afrikasta, Amerikoista ja Karibialta. Aloituskappaleena on oululaissyntyisen Leevi Madetojan pianotrio. Tuupalan alakoulussa Kuhmossa 23. heinäkuuta tallennetun konsertin toimittaa Ainomaija Pennanen.
       - title: 'Tiedetrippi: Mielen diagnoosien aikakausi'
@@ -275,9 +275,14 @@ data:
         description: |
           Suomessa on arvioiden mukaan noin 4300 aktiivista kylää. Kylän rakentuu niin kulttuurihistoriallisista paikoista, yhteisöistä, jaetuista kokemuksista, muistoista ja kertomuksista. Jokaisella kylällä on omat erityiset piirteensä. Millainen merkitys kylillä on Suomelle? 
           Toimittaja Satu Kivelä keskustelee aiheesta Suomen kylät ry:n toiminnanjohtaja Suvi Louhelaisen ja kyläaktiivi Jussi Lähteen kanssa. 
+      - title: 'Kuunnelma: Laskettua aikaa: Syntymä 9/10'
+        start_time: '2026-07-29T22:25:05+03:00'
+        end_time: '2026-07-29T22:43:56+03:00'
+        description: |-
+          Kriisin keskellä tapahtuu odottamaton käänne, joka pakottaa Noran ja hänen kumppaninsa toimimaan nopeasti. Kun tilanne muuttuu yhä vaarallisemmaksi, ryhmä tekee kaikkensa selvitäkseen hengissä. Lopulta uudet ja vanhat ystävät kohtaavat.
       - title: Mannerheimin agentti
-        start_time: '2026-07-29T23:20:00+03:00'
-        end_time: '2026-07-29T23:40:00+03:00'
+        start_time: '2026-07-29T23:18:20+03:00'
+        end_time: '2026-07-29T23:39:15+03:00'
         description: |-
           Jakso 9/10: Kirje Kekkoselle.
           Kaksi vuotta ennen kirjansa julkaisua Tahvanainen kirjoitti presidentti Kekkoselle ja ulkoasiainministeri Karjalaiselle pyytäen näiden mielipidettä eräässä poliittisesti tulenarassa asiassa.
