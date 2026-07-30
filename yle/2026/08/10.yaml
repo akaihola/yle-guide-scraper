@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-29T03:05:14.432945+00:00'
+  generated_at: '2026-07-30T03:06:01.210190+00:00'
   git:
     branch: main
-    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
-  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
+    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
+  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
 data:
   '':
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-08-10T06:50:00+03:00'
         end_time: '2026-08-10T06:59:59+03:00'
         description: |-
-          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne, Tallinna
+          "'Joskus' on aikataulu, johon Jumalakin sitoutuu"
+          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne lukee Saarnaajan kirjan kolmannesta luvusta ja puhuu ajan suhteellisuudesta.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-10T07:00:00+03:00'
         end_time: '2026-08-10T07:05:00+03:00'
@@ -156,11 +157,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-10T17:30:00+03:00'
         end_time: '2026-08-10T17:35:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Aika aloittaa uutta?'
         start_time: '2026-08-10T17:35:00+03:00'
         end_time: '2026-08-10T18:35:00+03:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Kaikkea voi kokeilla kerran, varsinkin kesäloman jälkeen. Alkamassa on nimittäin uusi harrastuskausi kerhoissa, joukkueissa ja opistoissa. On liikuntaa, kulttuuria, kieliä ja kädentaitoja. Joko ilmoittauduit jonnekin? Harrastuksia pyörittelee ja niihin sopivaa musiikkia valitsee toimittaja Mika Kauhanen. Miten olisi vaikka kalpamiekkailu tai korealainen kalligrafia?
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-08-10T18:35:00+03:00'
         end_time: '2026-08-10T18:50:00+03:00'

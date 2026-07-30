@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-29T03:05:18.360232+00:00'
+  generated_at: '2026-07-30T03:06:04.710305+00:00'
   git:
     branch: main
-    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
-  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
+    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
+  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
 data:
   '':
     programmes:
@@ -68,6 +68,38 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-24T16:00:00+03:00'
         end_time: '2026-08-24T16:07:00+03:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-08-24T16:07:00+03:00'
+        end_time: '2026-08-24T16:59:00+03:00'
+        description: |-
+          Debussy: Golliwogg's cake-walk (Paavali Jumppanen, piano).
+
+          Mascagni: Turiddun aaria "Mamma, quel vino e generoso" oopp. Cavalleria rusticana (Pekka Nuotio, tenori, ja RSO/Kari Tikka). 
+
+          Cahuzac: Cantilene (Jonathan Cohler, klarinetti, ja Rasa Vitkauskaite, piano).
+
+          Tailleferre: Perpetuum mobile (Ikiliikkuja) (Maria Graf, harppu).
+
+          Esmail: Charukeshi bandish (Reena Esmail, laulu, ja Chicago Sinfonietta/Mei-Ann Chen). 
+
+          Böhme: Andante cantabile sekstetosta trumpeteille Es-duuri (brass partout/Hermann Bäumer).
+
+          Lalo: Allegro - Presto Norjalaisesta fantasiasta (Philippe Graffin, viulu, ja Ulsterin ork./Thierry Fischer).
+
+          Palmgren: Preludi F-duuri (Henri Sigfridsson, piano).
+
+          Massenet: Wertherin aaria oopp. Werther (José Carreras, tenori, ja Covent Garden -oopp. ork./Colin Davis).
+
+          Mendelssohn: Allegretto non troppo - Allegro molto vivace konsertosta viululle ja orkesterille e-molli (Sarah Chang ja Berliinin filharmonikot/Mariss Jansons).
+
+          Hahn: Matinée parisienne (Aamu Pariisissa) sarj. Le rossignol eperdu (Hämmentynyt satakieli) (Earl Wild, piano).
+
+          Järnefelt: Allegretto teoks. Serenadi orkesterille (Sinfonia Lahti/Jaakko Kuusisto).
+
+          Schumann: Träumerei (Unelmointia) (Joshua Bell, viulu, ja Academy of St. Martin-in-the-Fields/Michael Stern).
+
+
+          Konsertin on laatinut Ainomaija Pennanen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-24T17:00:00+03:00'
         end_time: '2026-08-24T17:05:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-29T03:05:11.023328+00:00'
+  generated_at: '2026-07-30T03:05:57.202853+00:00'
   git:
     branch: main
-    commit: 6b3352c026d263eac6a3533fa9f5036efd4217fd
-  data_hash: 86267ae61bbd959beb39519432651044db1f1e2645ad0ed28f0f950fd57e812d
+    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
+  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
 data:
   '':
     programmes:
@@ -43,7 +43,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-07-31T06:30:50+03:00'
         end_time: '2026-07-31T06:50:00+03:00'
-        description: |+
+        description: |-
           Tuntematon: Oi armon merta ihmeellistä (virsi 215) (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
 
           Koraalitoisinto: Oi Pyhä Henki, vahvista (Gospel Covertajat).
@@ -52,6 +52,7 @@ data:
 
           Simojoki: Kova maa (Jakaranda/Pekka Simojoki).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-07-31T06:50:00+03:00'
         end_time: '2026-07-31T06:59:59+03:00'
@@ -65,7 +66,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-07-31T07:06:00+03:00'
         end_time: '2026-07-31T08:00:00+03:00'
-        description: |+
+        description: |-
           Schubert (sov. Mertz): Postivaunut laulusarjasta Winterreise (Jari Tarjasalo, kitara). 
 
           Kraus: Välisoitto näyt. Olympie (Uuden-Seelannin SO/Uwe Grodd).
@@ -86,8 +87,9 @@ data:
 
           Mendelssohn: Rondo capriccioso E-duuri (Murray Perahia, piano).
 
-          Henriques: Elämänilon tanssi bal. Pieni merenneito (Etelä-Jyllannin SO/Frans Rasmussen).
+          Suolahti: Finaali Sinfonia piccolasta h-molli (RSO/Kari Tikka).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-31T08:00:00+03:00'
         end_time: '2026-07-31T08:07:00+03:00'
@@ -120,7 +122,7 @@ data:
           Morricone: Deborah's theme (Ennio Morricone).
           Barry: We have all the time in the world (Louis Armstrong).
 
-          Konsertin on toimittanut Jenna Bågeberg.
+          Konsertin on toimittanut Jenna Bågeberg. Juontajana Tatu Tamminen.
       - title: 'Kalle Haatanen: Rohdot '
         start_time: '2026-07-31T10:00:00+03:00'
         end_time: '2026-07-31T10:55:00+03:00'
@@ -138,7 +140,7 @@ data:
         start_time: '2026-07-31T11:57:00+03:00'
         end_time: '2026-07-31T12:00:00+03:00'
         description: |-
-          Ote Juha Seppälän romaanista Kehtolaulun koordinaatit
+          Ote Juha Seppälän romaanista Kehtolaulun koordinaatit. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-31T12:00:00+03:00'
         end_time: '2026-07-31T12:05:00+03:00'
@@ -168,11 +170,11 @@ data:
           Kirjailija Linnea Kuuluvaisen romaani Hukkumisleikki kietoo yhteen surun ja rakkaussuhteen trillerimäiseksi tarinaksi.
 
           Toimittaja Jukka Kuosmanen.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudio'
         start_time: '2026-07-31T15:00:00+03:00'
         end_time: '2026-07-31T15:58:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuuriykkösen Perjantaistudio syventyy ajankohtaisiin ja kiinnostaviin kulttuurin ja median ilmiöihin ja arvokysymyksiin. Raadissa päätoimittaja Jouni Kemppainen, tutkija Jori Grym ja X (vahvistuu myöhemmin). Toimittajana on Jonni Roos.
       - title: Yle Uutiset ja sää
         start_time: '2026-07-31T16:00:00+03:00'
         end_time: '2026-07-31T16:07:00+03:00'
@@ -247,17 +249,17 @@ data:
           Konsertin verran musiikkia, joka saa miehet polvilleen! Ranskalaisten säveltäjänaisten mestariteoksia täydentävät kotimaiset helmet. Suoran lähetyksen Uudenkaupungin Wallilan kartanosta toimittaa Ainomaija Pennanen.
       - title: 'Tiedetrippi: Rahamies Isaac Newton'
         start_time: '2026-07-31T21:00:00+03:00'
-        end_time: '2026-07-31T21:30:00+03:00'
+        end_time: '2026-07-31T21:28:20+03:00'
         description: |-
           Isaac Newton keksi liikkeen ja painovoiman lait, kehitti matemaattisia laskutapoja ja tutki valon luonnetta. Hänen työnsä muutti tavan, jolla ymmärrämme maailmaa. Moni ei kuitenkaan tiedä, että professori Newton ajoi takaa rahanväärentäjiä 1700-luvun Lontoon hämyisillä kaduilla, Englannin rahapajan palveluksessa.
           (5.1.2026)
       - title: Pieleen mennyt historia
         start_time: '2026-07-31T21:31:00+03:00'
         end_time: '2026-07-31T22:25:00+03:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Keitaan kesämatkat – Sinuhe egyptiläinen'
         start_time: '2026-07-31T22:26:00+03:00'
         end_time: '2026-07-31T23:15:00+03:00'
-        description: |-
+        description: |
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen
         start_time: '2026-07-31T23:40:00+03:00'
