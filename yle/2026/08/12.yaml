@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-30T03:06:01.740468+00:00'
+  generated_at: '2026-07-31T05:35:51.583122+00:00'
   git:
     branch: main
-    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
-  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
+    commit: f9ca0d73bb567c37069fa122ef6caee83cbb8a60
+  data_hash: 22f7be5291491c8dd2b920027005c99d1a1b54fb8657cf73995cc63e0f131000
 data:
   '':
     programmes:
@@ -96,14 +96,17 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-08-12T11:57:00+03:00'
         end_time: '2026-08-12T12:00:00+03:00'
+        description: |-
+          Ote A. H. Sidgwickin teoksesta Kävelyesseet, suom. Asmo Koste, Nastamuumio 2014
       - title: Yle Uutiset ja sää
         start_time: '2026-08-12T12:00:00+03:00'
         end_time: '2026-08-12T12:05:00+03:00'
       - title: 'Pieleen mennyt historia: Inflaatio syö rahan arvon, mutta öljyää taloutta '
         start_time: '2026-08-12T12:05:00+03:00'
         end_time: '2026-08-12T12:50:00+03:00'
-        description: |
-          Milloin inflaation historia alkoi? Mikä inflaatiota aiheuttaa ja milloin se on vaarallista? Näitä kysymyksiä pohtivat taloushistorian professori emeritus Sakari Heikkinen, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren.
+        description: |-
+          Milloin inflaation historia alkoi? Mikä inflaatiota aiheuttaa ja milloin se on vaarallista? Näitä kysymyksiä pohtivat taloushistorian professori emeritus Sakari Heikkinen, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren. (2024)
+          Sarjan Pieleen mennyt historia kaikki jaksot ovat kuunneltavissa Yle Areenassa.
       - title: Politiikkaradio
         start_time: '2026-08-12T13:00:00+03:00'
         end_time: '2026-08-12T13:30:00+03:00'
@@ -191,7 +194,28 @@ data:
 
           Konsertin ohjelma rakentuu eri tyylien ja ilmaisutapojen rinnakkaisuudesta. Illassa kohtaavat kolme vahvaa taiteilijaa, joiden erilaiset taustat ja estetiikat törmäävät ja alkavat vähitellen löytää yhteisen suunnan. Musiikkia kuullaan niin Suomesta kuin Kreikastakin ja tyylisuunnat vaihtelevat aina kansanmusiikista vanhaan musiikkiin. Tuusulan kirkossa 28.7. tallennetun konsertin toimittaa Eero Koski.
 
+          1. Seikilos Epitaph (Seikilos-hymni)
+          2. Claudio Monteverdi – Oblivion soave
+          3. Lauri Porra – The Lettuce (kantaesitys)
+          4. Kurt Weill – Youkali
+          5. Franz Schubert – Der Leiermann, D. 911 No. 24
+          6. Greek & Finnish Lullabies (trad.)
+          Ύπνε που παίρνεις τα μικρά
+          Nuku nuku nurmilintu
+          7. Jean Sibelius – Sydämeni laulu, Op. 18 No. 6
+          8. Μέρα μέρωσε (kreikkalainen kansansävelmä)
+          9. Belle Doëtte (Chanson de toile) & Lapseni minä
+          10. Lauri Porra – Kävely (Walk)
+          11. Henry Purcell – What Power Art Thou (from King Arthur, Z. 628)
+          12. J. S. Bach – Prelude from Cello Suite No. 5 in C minor, BWV 1011
+          13. Henry Purcell – Thy Hand, Belinda / When I Am Laid in Earth (from Dido and Aeneas, Z. 626)
+          14. Lauri Porra – Lenteli liitelevi (kantaesitys)
+          15. Jean Sibelius – Jubal, Op. 35 No. 1
+
           Kuva: © Maarit Kytöharju
+      - title: 'Politiikkaradio '
+        start_time: '2026-08-12T21:00:00+03:00'
+        end_time: '2026-08-12T21:30:00+03:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-08-12T21:31:00+03:00'
         end_time: '2026-08-12T22:20:00+03:00'

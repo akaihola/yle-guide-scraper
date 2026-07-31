@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-30T03:06:01.467886+00:00'
+  generated_at: '2026-07-31T05:35:51.365709+00:00'
   git:
     branch: main
-    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
-  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
+    commit: f9ca0d73bb567c37069fa122ef6caee83cbb8a60
+  data_hash: 22f7be5291491c8dd2b920027005c99d1a1b54fb8657cf73995cc63e0f131000
 data:
   '':
     programmes:
@@ -93,6 +93,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-08-11T11:57:00+03:00'
         end_time: '2026-08-11T12:00:00+03:00'
+        description: |-
+          Ote Veera Ikosen romaanista Rakkaudella, meistä, WSOY 2026
       - title: Yle Uutiset ja sää
         start_time: '2026-08-11T12:00:00+03:00'
         end_time: '2026-08-11T12:05:00+03:00'

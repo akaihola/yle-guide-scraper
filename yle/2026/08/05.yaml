@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-07-30T03:05:59.272430+00:00'
+  generated_at: '2026-07-31T05:35:50.045066+00:00'
   git:
     branch: main
-    commit: 5b77a0d29cbb23f09085028a83b9959d7e6ab484
-  data_hash: 41e0958437516020c9b2909e214ec82612ab430046ac438bfe09649c0ccc3ece
+    commit: f9ca0d73bb567c37069fa122ef6caee83cbb8a60
+  data_hash: 22f7be5291491c8dd2b920027005c99d1a1b54fb8657cf73995cc63e0f131000
 data:
   '':
     programmes:
@@ -63,7 +63,7 @@ data:
         end_time: '2026-08-05T06:59:59+03:00'
         description: |-
           "Rakkaus antaa suunnan"
-          Elokuun alun keskiviikkoaamuissa puhuu historioitsija, tietokirjailija Laura Kolbe Helsingistä. Viidennessä osassa puhutaan rakkaudesta kotiseutuun.
+          Sydänkesän keskiviikkoaamuissa puhuu historioitsija, tietokirjailija Laura Kolbe Helsingistä. Viidennessä osassa puhutaan rakkaudesta kotiseutuun.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-05T07:00:00+03:00'
         end_time: '2026-08-05T07:05:00+03:00'
@@ -168,8 +168,8 @@ data:
         start_time: '2026-08-05T12:05:00+03:00'
         end_time: '2026-08-05T12:48:00+03:00'
         description: |-
-          Miksi nälästä ei vieläkään ole päästy eroon? Miten nälän syyt ovat muuttuneet eri aikoina? Näitä kysymyksiä pohtivat talous- ja sosiaalihistorian dosentti Antti Häkkinen, ympäristötutkija Ville Lähde, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren.
-          (2024)
+          Miksi nälästä ei vieläkään ole päästy eroon? Miten nälän syyt ovat muuttuneet eri aikoina? Näitä kysymyksiä pohtivat talous- ja sosiaalihistorian dosentti Antti Häkkinen, ympäristötutkija Ville Lähde, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren. (2024)
+          Sarjan Pieleen mennyt historia kaikki jaksot ovat kuunneltavissa Yle Areenassa.
       - title: Musiikkikamari
         start_time: '2026-08-05T12:48:00+03:00'
         end_time: '2026-08-05T13:00:00+03:00'
@@ -186,11 +186,14 @@ data:
           Juontajana Miia Lahti. 
           N. klo 14 vedellä ja järvillä on arkkitehti, kuvataitelilija Ulla-Maija Alaselle aivan erityinen merkitys. Uppoutujaksi itseään kuvaava Alanen valokuvaa metsäjärvien pinnanalaista näkymää, kuten vesikasveja ja niiden elämää. Kati Turtola haastattelee.
           N. klo 14.30 tanssitaiteilija Alpo Aaltokoski kertoo Marko Gustafssonille, mikä mikä on Alpon ihan ensimmäinen tanssiin liittyvä muisto? Ensilähetys oli 23.10.25.
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Ovatko suomalaiset vihdoin viisastumassa alkoholin suhteen?'
         start_time: '2026-08-05T15:00:00+03:00'
         end_time: '2026-08-05T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Alkoholilainsäädäntö on viime vuosina muuttunut saatavuutta ja tarjontaa vapauttavaan suuntaan. Tänä kesänä Alkon aukioloaikoja väljennettiin, ja eduskunta hyväksyi alkoholin kotiinkuljetuksen sallivan lain. Samaan aikaan alkoholin kulutus on laskenut, erityisen selvästi nuoremmissa sukupolvissa.
+          Ovatko suomalaiset siis oppineet juomatavoille ja kypsyneet vastuullisiksi alkoholinkäyttäjiksi? Mitä tilastojen taakse kätkeytyy, kuinka suuri ongelma alkoholi Suomessa yhä on – ja ovatko järki ja kohtuus vähitellen voittamassa haitat ja uhkakuvat?
+
+          Aiheesta keskustelevat yhteiskuntatieteilijä Antti Maunu, päihdelääkäri Kaarlo Simojoki, tulevaisuustutkija Ilkka Halava sekä viininviljelijä ja viiniharrastaja Kari Latvus. Ville Talola toimittaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-05T16:00:00+03:00'
         end_time: '2026-08-05T16:07:00+03:00'
@@ -233,6 +236,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-05T17:35:00+03:00'
         end_time: '2026-08-05T17:50:00+03:00'
+        description: |+
+          Nyman: Jumalamme, suuruuttasi (Gospel Covertajat).
+
+
+          Tuntematon (sov. Perkola - Julkunen - Knif): Ylistän Herran nimeä (Topi Lehtipuu, tenori, Jarmo Julkunen, teorbi, Mikko Perkola, viola da gamba, ja Jonte Knif, cembalo).
+
+
+          Stebbins: Tahtosi, Herra, tapahtukoon (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+      - title: Iltahartaus
+        start_time: '2026-08-05T17:50:00+03:00'
+        end_time: '2026-08-05T18:00:00+03:00'
+        description: |-
+          "Elämää kuolemankin keskellä"
+          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta puhuu surusta ja menetyksestä veljensä äkillisen kuoleman kohtaamana.
       - title: 'Konsertteja: Philharmonia-orkesteri & Rouvali & Montero Mikkelin Musiikkijuhlilla'
         start_time: '2026-08-05T18:00:00+03:00'
         end_time: '2026-08-05T20:00:00+03:00'
@@ -245,12 +263,6 @@ data:
       - title: Musiikkikamari
         start_time: '2026-08-05T20:00:00+03:00'
         end_time: '2026-08-05T20:20:00+03:00'
-      - title: Iltahartaus
-        start_time: '2026-08-05T20:20:00+03:00'
-        end_time: '2026-08-05T20:30:00+03:00'
-        description: |-
-          "Elämää kuolemankin keskellä"
-          Toimittaja, muusikko Ariel Neulaniemi Seinäjoelta puhuu surusta ja menetyksestä veljensä äkillisen kuoleman kohtaamana.
       - title: 'Laura Korhosen Jazzklubi: Soljuvan lyyrisiä vähemmistökieliä'
         start_time: '2026-08-05T20:20:00+03:00'
         end_time: '2026-08-05T21:20:00+03:00'
@@ -262,12 +274,9 @@ data:
         description: |-
           Propaganda tarkoittaa harkittua ja systemaattista tiedon levittämistä, joka pyrkii vaikuttamaan yleiseen mielipiteeseen ja ihmisten asenteisiin. Kun musta propaganda on tehokasta, kukaan ei voi olla oikein varma, mikä sen lähde loppujen lopuksi on.
           (26.1.2026)
-      - title: 'Havaintoja muutoksesta: Perheystävällinen työpaikka'
-        start_time: '2026-08-05T21:50:30+03:00'
-        end_time: '2026-08-05T22:40:00+03:00'
-        description: |
-          Perheystävällisyys työelämässä on asennetta, käytänteitä ja kulttuuria. Miten perheystävällinen työkulttuuri rakennetaan?
-          Toimittaja Satu Kivelän vieraana Mothers in Business -yhdistyksen toiminnanjohtaja Jenny Söderman ja Great Place to Work Suomen toimitusjohtaja Kirsi Ilmasti. Ohjelma on uusinta ajalta 11.3.2026.
+      - title: Havaintoja muutoksesta
+        start_time: '2026-08-05T22:01:00+03:00'
+        end_time: '2026-08-05T22:50:00+03:00'
       - title: 'Kuunnelma: Laskettua aikaa: Kotiinpaluu 10/10'
         start_time: '2026-08-05T22:40:30+03:00'
         end_time: '2026-08-05T23:02:00+03:00'
