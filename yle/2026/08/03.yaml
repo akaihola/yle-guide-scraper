@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-02T05:28:06.208635+00:00'
+  generated_at: '2026-08-03T05:41:59.815951+00:00'
   git:
     branch: main
-    commit: 19124b15821d4237015c544f87f9e2162a22c0db
-  data_hash: d1a5e215c580bda0be90b926648df03cc03e48cab26f2a74078136b44220b3f9
+    commit: 506565c2979f5bd2856cd27718cc9d6a1d2f56c4
+  data_hash: f040c3d894861a160fc8f79770c235dd0f6e5b6f83d31c277f83fb6293cc266e
 data:
   '':
     programmes:
@@ -43,7 +43,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-03T06:30:50+03:00'
         end_time: '2026-08-03T06:50:00+03:00'
-        description: |+
+        description: |-
           Lowry: Koko tien hän kanssain kulkee (Risto Saarman, tenori, ja Jorma Tiainen, urut).
 
           Hakanpää: Improvisaatio uruille virrestä 499 "Jumalan kämmenellä" (Marko Hakanpää, urut).
@@ -54,18 +54,20 @@ data:
 
           Koraalitoisinto: Ah, herää, sydämeni (Herännäisnuorten kuoro/Samuli Korkalainen).
 
+          Juontajana on Joni Timonen.
       - title: Aamuhartaus
         start_time: '2026-08-03T06:50:00+03:00'
         end_time: '2026-08-03T06:59:59+03:00'
         description: |-
-          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne, Tallinna
+          "Yhteinen salaisuus"
+          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne puhuu vähemmistön edustajana elämisestä vieraassa maassa ja uskonnollisten ihmisten jakamasta yhteydestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-03T07:00:00+03:00'
         end_time: '2026-08-03T07:05:00+03:00'
       - title: Aamusoitto
         start_time: '2026-08-03T07:06:00+03:00'
         end_time: '2026-08-03T08:00:00+03:00'
-        description: |+
+        description: |-
           Popper: Piiritanssi (Wendy Warner, sello, ja Eileen Buck, piano).
 
           van den Bergh: Lied (Frans van Ruth, piano).
@@ -86,6 +88,7 @@ data:
 
           Beethoven: Alkusoitto bal. Die Geschöpfe des Prometheus (Atlantan SO/Yoel Levi).
 
+          Juontajana on Joni Timonen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-03T08:00:00+03:00'
         end_time: '2026-08-03T08:07:00+03:00'
@@ -159,11 +162,11 @@ data:
         end_time: '2026-08-03T15:00:00+03:00'
         description: |-
           Juontajana Miia Lahti. N. klo 14 museonjohtaja Johanna Rassi opastaa Marko Miettisen leikin maailmaan Museo Leikissä. 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Keskiaikaisten linnojemme asukkaiden kuviteltu elämä'
         start_time: '2026-08-03T15:00:00+03:00'
         end_time: '2026-08-03T15:58:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Miltä tuntui elää linnanrouvana, ritarina tai tavallisena ihmisenä keskiajan Suomessa linnan muurien sisällä tai niiden ulkopuolella? Keskiajan tutkija ja tietokirjailija Elisa Pihlajaniemi ja arkeologi sekä tietokirjailija Ilari Aalto keskustelevat historian elävöittämisestä faktoihin perustuvien mutta pitkälti kuviteltujen tarinoiden äärellä. Toimittajana on Jonni Roos. 
       - title: Yle Uutiset ja sää
         start_time: '2026-08-03T16:00:00+03:00'
         end_time: '2026-08-03T16:07:00+03:00'
