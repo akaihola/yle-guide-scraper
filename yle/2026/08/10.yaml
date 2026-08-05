@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-04T05:15:08.484889+00:00'
+  generated_at: '2026-08-05T05:15:07.201298+00:00'
   git:
     branch: main
-    commit: 27aaad759e8654436b70c4228c9da1c2645d6559
-  data_hash: 0111581bb8250116d6825aea223c848b7ecca828f9cc3f13374e61a51de305ef
+    commit: 149d411514c5f796d762525940ca19c88b5d1dbe
+  data_hash: 720ecc2a0a46d33335fb92db71b5ec278585b16abc643a45c1c978e34cd342e7
 data:
   '':
     programmes:
@@ -142,9 +142,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-10T13:00:00+03:00'
         end_time: '2026-08-10T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Bibliofiili Jesse Raatikaisen intohimo on kerätä kirjoja omistuskirjoituksilla'
         start_time: '2026-08-10T13:30:00+03:00'
         end_time: '2026-08-10T15:00:00+03:00'
+        description: |-
+          Juontajana Miia Lahti. N. klo 14: toimittaja ja kulttuurinrakastaja Jesse Raatikainen on hurahtanut sekä kulttuuriin että myös harrastukseensa liittyvään oheistoimintaan, keräilyyn. Raatikaisen intohimo on kerätä kirjoja ja muita teoksia omistuskirjoituksilla - tai ainakin tekijän nimellä varustettuna. Ohjelman toimittaa Jarmo Laitaneva. Ensilähetys oli kesäkuussa 2025.
       - title: Kulttuuriykkönen
         start_time: '2026-08-10T15:00:00+03:00'
         end_time: '2026-08-10T15:58:00+03:00'
