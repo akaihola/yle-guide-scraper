@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-05T05:15:05.772851+00:00'
+  generated_at: '2026-08-06T03:05:45.898052+00:00'
   git:
     branch: main
-    commit: 149d411514c5f796d762525940ca19c88b5d1dbe
-  data_hash: 720ecc2a0a46d33335fb92db71b5ec278585b16abc643a45c1c978e34cd342e7
+    commit: c5f3eb068f409639056df2c19e16fe8dc4bf7770
+  data_hash: f93fff137da55be0927ca8bc61e95ec9320ed1a7d78d2a0c02dac6e0e08b058f
 data:
   '':
     programmes:
@@ -47,7 +47,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-06T06:30:50+03:00'
         end_time: '2026-08-06T06:50:00+03:00'
-        description: |+
+        description: |-
           J.Andersson: Oi, katsohan lintua oksalla puun (Mika Nisula, tenori, ja Jouni Somero, piano).
 
           Kuula: Oi riemun rikkautta (virsi 629:1,4,9) (SRK:n nuorten kuoro, ja Juha Soranta, urut).
@@ -56,6 +56,7 @@ data:
 
           Löytty: Lahjoillasi meitä siunaat (Lahjalaulu) (virsi 954) (Jaakko Löytty, laulu ja kitara, sekä Anna-Maaria Varonen ja Olli Varonen, sello).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Aamuhartaus
         start_time: '2026-08-06T06:50:00+03:00'
         end_time: '2026-08-06T06:59:59+03:00'
@@ -68,14 +69,14 @@ data:
       - title: Aamusoitto
         start_time: '2026-08-06T07:06:00+03:00'
         end_time: '2026-08-06T08:00:00+03:00'
-        description: |+
+        description: |-
           Levitzki: Valssi pianolle A-duuri (Stephen Hough).
 
           Kansansäv. (sov. V. Hannikainen): Aamusella kun herään (Jaakko Kortekangas, baritoni, ja Ilkka Paananen, piano).
 
           Langgaard: Ensimmäinen osa jousikvartetosta n:o 4 (Kesäpäiviä) (Nightingale-jousikvartetti).
 
-          Moreno Torroba,: La siega, sarja Estampas neljälle kitaralle (EMO-kitarakvartetti).
+          Moreno Torroba: La siega, sarja Estampas neljälle kitaralle (EMO-kitarakvartetti).
 
           Grovlez: Sicilienne ja Allegro giocoso (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
 
@@ -93,6 +94,7 @@ data:
 
           Rahmaninov: Preludi D-duuri (Juhani Lagerspetz, piano).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T08:00:00+03:00'
         end_time: '2026-08-06T08:07:00+03:00'
@@ -125,7 +127,7 @@ data:
           Pinkard/Tracey/Tauber: Them there eyes (Billie Holiday).
           Caulier/Lacombe: Mon amie la rose (Françoise Hardy).
 
-          Konsertin on toimittanut Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola. Juontajana on Tuomas Niemelä. 
       - title: 'Marko Gustafsson: Käännekohdissa Heli Isomäki'
         start_time: '2026-08-06T10:00:00+03:00'
         end_time: '2026-08-06T10:53:00+03:00'
@@ -146,7 +148,7 @@ data:
         start_time: '2026-08-06T11:57:00+03:00'
         end_time: '2026-08-06T12:00:00+03:00'
         description: |-
-          Plutarkhos: Kuuluisien miesten elämäkertoja, suomennos Kalle Suuronen, WSOY 1989.
+          Plutarkhos: Kuuluisien miesten elämäkertoja, suomennos Kalle Suuronen, WSOY 1989. Lukijana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T12:00:00+03:00'
         end_time: '2026-08-06T12:05:00+03:00'
@@ -205,6 +207,8 @@ data:
           C. Schumann: Romanssi nro 3 B-duuri (Lisa Batiashvili, viulu, ja Alice Sara Ott, piano).
 
           Harline: When you wish upon a star (Barbara Hendricks, sopraano, sekä London Voices -kuoro ja  Abbey Road -yhtye/Jonathan Tunick).
+
+          Konsertin on toimittanut Noora Hirn. Juontajana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-06T17:00:00+03:00'
         end_time: '2026-08-06T17:05:00+03:00'
@@ -212,7 +216,7 @@ data:
         start_time: '2026-08-06T17:05:00+03:00'
         end_time: '2026-08-06T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Ceutan ihmisryntäys sai EU-maat nopeasti riitelemään maahanmuutosta. Mitä Ceutan tapaus paljastaa EU:sta ja sen maahanmuuttopolitiikasta? Leonard Wilhelmuksen vieraana vanhempi tutkija Saila Heinikoski Ulkopoliittisesta instituutista.
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-06T17:30:00+03:00'
         end_time: '2026-08-06T17:35:00+03:00'
@@ -229,13 +233,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-06T18:35:00+03:00'
         end_time: '2026-08-06T18:50:00+03:00'
-        description: |+
+        description: |-
           P. Nyman: Astukaa valoon (Maria Laakso ja Jakaranda).
 
           Koraalitoisinto (sov. Vänskä): Muistan päivää autuasta (Sinfonia Lahti/Osmo Vänskä).
 
           Tikka: Johanneksen kirje (Hannu Holma, baritoni, ja kamariyhtye).
 
+          Juontajana on Tuija Kurvinen.
       - title: Iltahartaus
         start_time: '2026-08-06T18:50:00+03:00'
         end_time: '2026-08-06T19:00:00+03:00'
@@ -262,7 +267,7 @@ data:
 
           Rajula (sov. Eerola): Liukkaat jalkineet (Suomalainen Klarinettiyhtye/Jyri Nissilä).
 
-          Lortzing: Puukenkätanssi oopp. Tsaari kirvesmiehenä (Bambergin sinfonikot/Robert Heger).
+          Lortzing: Puukenkätanssi oopp. Tsaari kirvesmiehenä (Bambergin sinfonikot/Hans Gierster).
 
           Villa-Lobos: Vestidinho branco (Valkoinen mekko) (Sonia Rubinsky, piano).
 

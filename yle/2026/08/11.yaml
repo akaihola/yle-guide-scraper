@@ -1,18 +1,57 @@
 metadata:
-  generated_at: '2026-08-05T05:15:07.451716+00:00'
+  generated_at: '2026-08-06T03:05:47.178006+00:00'
   git:
     branch: main
-    commit: 149d411514c5f796d762525940ca19c88b5d1dbe
-  data_hash: 720ecc2a0a46d33335fb92db71b5ec278585b16abc643a45c1c978e34cd342e7
+    commit: c5f3eb068f409639056df2c19e16fe8dc4bf7770
+  data_hash: f93fff137da55be0927ca8bc61e95ec9320ed1a7d78d2a0c02dac6e0e08b058f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-08-10T23:40:00+03:00'
         end_time: '2026-08-11T06:30:00+03:00'
+        description: |-
+          Viardot-Garcia: Sonatiini viululle ja pianolle (Richard Melone ja Diana Ambache).
+
+          23:51 Foote: Four character pieces (Seattlen SO/Gerard Schwarz).
+
+          00:08 Tshaikovski: Kukkaisvalssi bal. Pähkinänsärkijä (Cincinnati Pops/Erich Kunzel, ja Gillian Benet Sella, harppu).
+
+          00:16 Schmidt: Kvintetto A-duuri (Linos-yhtye).
+
+          01:20 Grieg: Balladi g-molli (Arthur Rubinstein, piano).
+
+          01:38 Liszt: Fantasia ja fuuga uruille (Wolfgang Rübsam).
+
+          02:09 Hummel: Fagottikonsertto F-duuri (Valeri Popov ja Venäjän valtion SO/Valeri Poljanski).
+
+          02:35 Rahmaninov: Sinfonia n:o 3 a-molli (Baltimoren SO/David Zinman).
+
+          03:17 Sonninen: Pessi ja Illusia (RSO/Ilpo Mansnerus).
+
+          03:43 Brahms: Pianokonsertto n:o 1 d-molli (Clifford Curzon ja Amsterdamin Concertgebouw-ork./Eduard van Beinum).
+
+          04:31 Biber: Missa Christi resurgentis (American Boychoir ja The New York Collegium/Andrew Parrott).  
+
+          05:47 W.A. Mozart: Divertimento D-duuri (Nannerl-septetto) (Wienin Concentus Musicus/Nikolaus Harnoncourt).
+
+          06:14 Mercadante: Kvartetto huilulle ja jousille ja C-duuri (András Adorján ja Münchenin jousitrio).
+
+          06:28 Tye: In Nomine n:o 12 (Empire Brass/Rolf Smedvig). 
       - title: Hartaita säveliä
         start_time: '2026-08-11T06:30:50+03:00'
         end_time: '2026-08-11T06:50:00+03:00'
+        description: |+
+          Jääskeläinen: Tänä aamuna säteilevänä (Lasse Riutamaa, tenori, ja Kyrie-musiikkiryhmä).
+
+          Pietarinen: Laula, matkalainen korpimaan (Toukomettiset/Risto Ainali, ja Marja Laitala, laulu).
+
+          Tuntematon: Jeesus, ilo sydämeni (virsi 546) (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
+
+          Koraalitoisinto (sov. Hakomäki): Ah, armon Herra suloinen (Herännäisnuorten kuoro/Samuli Korkalainen).
+
+          Ruuska: Kuljeta ja johda (Pekka Ruuska).
+
       - title: Aamuhartaus
         start_time: '2026-08-11T06:50:00+03:00'
         end_time: '2026-08-11T06:59:59+03:00'
@@ -111,12 +150,12 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-11T13:00:00+03:00'
         end_time: '2026-08-11T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Miten juoni punotaan? - haastattelussa kirjailija Max Manner'
         start_time: '2026-08-11T13:30:00+03:00'
         end_time: '2026-08-11T15:00:00+03:00'
-        description: |2+
-
-
+        description: |
+          Voiko kaupunki olla yksi kirjan päähenkilöistä? Kirjailija Max Mannerin jännitystarinoiden hahmot seikkailevat usein Mannerin kotikaupungissa  Turussa ja pitkään Luxemburgissa asuneen kirjailijan teoksissa liikutaan tottuneesti myös Benelux-maissa. Melkein kaksikymmentä vuotta jännityskirjoja kirjoittanut Manner julkaisi tänä kesänä murhalorutrilogiansa toisen kirjan Viiltävä kuin paperi. Max  Manner on Kati Turtolan studiovieraana n. klo 14.
+          N. klo 14:30 yrittäjä, tietokirjailija Saku Tuominen kertoo häneen erityisesti vaikuttaneesta kulttuurielämyksestään Maija Salmiselle.
       - title: Kulttuuriykkönen
         start_time: '2026-08-11T15:00:00+03:00'
         end_time: '2026-08-11T15:58:00+03:00'
@@ -173,6 +212,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-11T18:35:00+03:00'
         end_time: '2026-08-11T18:50:00+03:00'
+        description: |+
+          Lithénius: Ilta on tullut, Luojani (virsi 563) (Soile Isokoski, sopraano).
+
+          Anonyymi: Sun haltuus, rakas Isäni (virsi 377) (Henna Nieminen).
+
+          Roth: Vain pisara Jeesuksen verta (Jippu).
+
+          Herman (sov. Julkunen - Knif - Perkola): Suo, Herra, mun sinuhun uskaltaa (virsi 360) (Topi Lehtipuu, tenori, sekä The Spirit of Gambo).
+
       - title: Iltahartaus
         start_time: '2026-08-11T18:50:00+03:00'
         end_time: '2026-08-11T19:00:00+03:00'
