@@ -1,18 +1,69 @@
 metadata:
-  generated_at: '2026-08-06T03:05:47.916422+00:00'
+  generated_at: '2026-08-07T03:03:09.062519+00:00'
   git:
     branch: main
-    commit: c5f3eb068f409639056df2c19e16fe8dc4bf7770
-  data_hash: f93fff137da55be0927ca8bc61e95ec9320ed1a7d78d2a0c02dac6e0e08b058f
+    commit: 36e34dc0b8894420ca6acce35d7548051b214129
+  data_hash: fa911fa95c6cac480496fc6ee304779373865c73206705053292b7144b2a0075
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-08-12T23:40:00+03:00'
         end_time: '2026-08-13T06:30:00+03:00'
+        description: |-
+          Hue: Theme varié (Teema ja muunnelmia) (Lawrence Power, alttoviulu, ja Simon Crawford-Phillips, piano).
+
+          23:50 Vivaldi: Huilukonsertto G-duuri op.44/6 (Jean-Pierre Rampal ja Veneton solistit/Claudio Scimone).
+
+          00:01 Boccherini: Sellokonsertto D-duuri (Edgar Moreau ja Il Pomo d'oro/Riccardo Minasi).
+
+          00:17 Reinecke: Kvartetto pianolle ja jousille n:o 2 D-duuri (Linos-yhtye).
+
+          00:35 Beethoven: Trio jousille n:o 4 c-molli (Zürichin jousitrio).
+
+          01:01 Pejacevic: Pianokonsertto g-molli (Oliver Triendl ja Brandenburgisches Staatsorchester Frankfurt/Howard Griffiths).
+
+          01:31 Lalo: Pianotrio n:o 3 a-molli (Trio Salomon).
+
+          02:00 Tartini: Konsertto D-duuri (Mstislav Rostropovitsh, sello, ja St. Paulin kamariork./Hugh Wolff).
+
+          02:21 Foote: Francesca da Rimini (Seattlen SO/Gerard Schwarz).
+
+          02:36 Turina: Sevillalainen sinfonia (Cincinnatin SO/Jesus Lopez-Cobos). 
+
+          02:59 Ravel: Sheherazade, sarja (kolme laulua) mezzosopraanolle ja orkesterille (Jennifer Larmore, mezzosopraano, ja Grant Park ork./Carlos Kalmar).
+
+          03:17 Beethoven: Pianokvartetto Es-duuri (Emanuel Ax, piano, Isaac Stern, viulu, Jaime Laredo, alttoviulu, ja Yo-Yo Ma, sello).
+
+          03:44 Skrjabin: Sinfonia n:o 3 c-molli (Philadelphian ork./Riccardo Muti).
+
+          04:34 Granados: Nuoruuden kertomuksia (Alicia de Larrocha, piano).
+
+          04:52 Bruch: Skotlantilainen fantasia (Maksim Fedotov, viulu, ja Venäjän FO/Dmitri Jablonski).
+
+          05:25 Schumann: Aamulauluja op.133 (Antonin Kubalek, piano).
+
+          05:40 Telemann: Ich hebe meine Augen auf zu den Berg (Minä nostan silmäni vuoria kohti) (Veronika Winter, sopraano, ja Markus Flaig, basso, sekä L' Arpa Festante München/Rien Voskuilen).
+
+          05:52 Anna Amalia, Saksi-Weimarin herttuatar: Divertimento B-duuri (Il Cenacolo della Chimera).
+
+          06:02 Holborne: The fairy round (The King's Noyse/David Douglass).
+
+          06:04 Fasch: Concerto grosso D-duuri (Tempesta di Mare).
       - title: Hartaita säveliä
         start_time: '2026-08-13T06:30:50+03:00'
         end_time: '2026-08-13T06:50:00+03:00'
+        description: |+
+          P.J. Hannikainen: Riennä riemuin eespäin vaan (Cantio Laudis/Olli Heikkilä).
+
+          Neumark: Sinussa, Kristus, luotiin kerran (virsi 479) (SRK:n kuoro/Tauno Satomaa).
+
+          Koraalitoisinto: Kiitos olkoon Jumalalle (virsi 307: 1-2, 4, 6-7) (Cantilene/Merja Lohilahti, ja Olli Kinnunen, urut).
+
+          Tuntematon: Loit Herra, minut maailmaasi (virsi 523) (Topi Lehtipuu, tenori, Jonte Knif, cembalo, Jarmo Julkunen, kitara ja Mikko Perkola, viola da gamba).
+
+          Stebbins: Kiitos sulle, Jumalani (virsi 341) (Seppo Ruohonen, tenori, ja Ilkka Kuusisto, urut).
+
       - title: Aamuhartaus
         start_time: '2026-08-13T06:50:00+03:00'
         end_time: '2026-08-13T06:59:59+03:00'
@@ -153,12 +204,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-13T18:35:00+03:00'
         end_time: '2026-08-13T18:50:00+03:00'
+        description: |+
+          Wesley: On Kristus kirkon Herra (virsi 164) (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+
+          Ahnfelt (sov. Lindell): Päivä vain ja hetki kerrallansa (virsi 338) (Maksetut viulut).
+
+          Kosonen: Isästäni, Jeesus, kiittää tahtoisin (virsi 974) (Gospel Covertajat).
+
+          Maukonen: Kutsu (Jarkko Maukonen).
+
       - title: Iltahartaus
         start_time: '2026-08-13T18:50:00+03:00'
         end_time: '2026-08-13T19:00:00+03:00'
         description: |-
-          "Ilmastonmuutos on oikeudenmukaisuuskysymys"
-          Viestintäpäällikkö Mervi Viuhko Suomen Lähetysseurasta puhuu elämästä Jumalan luomassa maailmassa ilmastokriisin keskellä.
+          "Kutsumus ei vaadi täydellisyyttä"
+          Viestintäpäällikkö Mervi Viuhko Suomen Lähetysseurasta puhuu kutsumuksesta ja Jumalan halusta käyttää myös keskeneräistä ihmistä.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-13T19:00:00+03:00'
         end_time: '2026-08-13T19:02:00+03:00'
@@ -170,6 +230,19 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-08-13T20:00:00+03:00'
         end_time: '2026-08-13T20:57:00+03:00'
+        description: |+
+          J. Strauss (nuor.): Balettimusiikkia oper. Lepakko. (Wienin filharmonikot/Herbert von Karajan).
+
+          Krohn: Vanhassa puistossa (Margit Rahkonen, piano).
+
+          Muffat: Sonaatti jousille ja continuolle n:o 4 e-molli kokoelmasta Armonico tributo (Opus X/Petri Tapio Mattson).
+
+          Verdi: Desdemonan rukous oopp. Otello (Elisabeth Grümmer, sopraano, ja Berliinin saksalaisen oopperan ork./Richard Kraus).
+
+          Adriaenssen (sov.): Ancor che col partire (Toyohiko Satoh, renessanssiluuttu).
+
+          Röntgen: Pianotrio n:o 4 c-molli (Sepp Grotenhuis, piano, Alexander Kerr, viulu, ja Gregor Horsch, sello).
+
       - title: 'Politiikkaradio '
         start_time: '2026-08-13T21:00:00+03:00'
         end_time: '2026-08-13T21:30:00+03:00'
@@ -186,3 +259,33 @@ data:
       - title: Yöklassinen
         start_time: '2026-08-14T00:00:00+03:00'
         end_time: '2026-08-14T06:30:00+03:00'
+        description: |-
+          Schumann: Sonaatti viululle ja pianolle n:o 3 a-molli (Eriikka Maalismaa ja Emil Holmström). 
+
+          00:23 Byrd: Ne irascaris, Domine, satis (Älä, Herra, vihastu ylenmäärin) (The Gesualdo Six/Owain Park).
+
+          00:34 Sibelius: Sinfonia n:o 6 d-molli (Sinfonia Lahti/Osmo Vänskä).
+
+          01:02 I. Müller: Serenadi klarinetille ja kitaralle (Dieter Klöcker ja Sonja Prunnbauer).
+
+          01:11 Dvorák: Serenadi jousiorkesterille E-duuri (Saint Paulin kamariork./Hugh Wolff).
+
+          01:41 A. Scarlatti: No non fuggire o Nice, kantaatti (Tuuli Lindeberg, sopraano, ja Baccano).
+
+          01:52 Tshaikovski: Sarja orkesterille n:o 3 G-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          02:35 Kuhlau: Huilukvintetto n:o 2 E-duuri (Jean-Pierre Rampal ja Juilliard-kvartetti).
+
+          03:03 Beethoven: Missa solemnis (Saramae Endich, sopraano, Florence Kopleff, altto, Ernst Haefliger, tenori, ja Ezio Flagello, basso, sekä Clevelandin kuoro ja ork./George Szell).
+
+          04:20 Schubert: Jousikvartetto n:o 13 a-molli (Rosamunde) (Quartetto Italiano).
+
+          05:00 Wilms: Kvartetto pianolle ja jousille C-duuri (Valentin-pianokvartetti).
+
+          05:31 Offenbach: Lumihiutaleiden baletti oper. Matka kuuhun (Les Musiciens du Louvre/Marc Minkowski).
+
+          05:42 Weiss: Sarja luutulle D-duuri (David Russell, kitara).
+
+          06:03 J.S. Bach: Sonaatti viululle ja klaveerille n:o 3 E-duuri (Michelle Makarski, viulu, ja Keith Jarrett, piano).
+
+          06:20 Cecere: Mandoliinikonsertto A-duuri (Juan Carlos Muñoz, barokkimandoliini, ja ArteMandoline).
