@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-07T03:03:07.196155+00:00'
+  generated_at: '2026-08-08T02:40:38.776082+00:00'
   git:
     branch: main
-    commit: 36e34dc0b8894420ca6acce35d7548051b214129
-  data_hash: fa911fa95c6cac480496fc6ee304779373865c73206705053292b7144b2a0075
+    commit: c39ee68a5b9ae5ee888c0654794215e7bd5e9b23
+  data_hash: dbdbc433b9c6332c9d4b1d628c2601fa2f1030786376d1905f21dc628e620f58
 data:
   '':
     programmes:
@@ -66,6 +66,8 @@ data:
 
           Huhtala: Lastenkaltaisten (Elina Vettenranta).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-08-08T08:25:00+03:00'
         end_time: '2026-08-08T08:35:00+03:00'
@@ -101,11 +103,23 @@ data:
           Kalmar/Ruby: Suukon salaisuudet (Kari Fall).
           King: You've got a friend (Carole King).
 
-          Konsertin on laatinut Pasi Hiihtola.
+          Konsertin on laatinut Pasi Hiihtola. Juontajana Inari Tilli.
 
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-08-08T10:00:00+03:00'
         end_time: '2026-08-08T10:25:00+03:00'
+        description: |
+          Useassa EU-maassa medianvapaus on heikentynyt viime vuosien aikana. Näin siitä huolimatta, että EU:ssa astui kaksi vuotta sitten voimaan medianvapaussäädös. 
+
+          Toimittajat ilman rajoja -järjestön selvityksen mukaan EU-maista vain Suomi, Ruotsi ja Tanska ovat toteuttaneet säädöksen täysimääräisesti. Järjestön EU-edustaja sanoo ohjelmassa, että EU-komission tulisi ryhtyä toimiin, jotta EU-maat saataisiin noudattamaan medianvapaussäädöstä.
+
+          Huonoin medianvapaustilanne on Kreikassa. Se sijoittuu kansainvälisessä medianvapaustilastossa EU-maista heikoimmalle sijalle. Ohjelmassa kuullaan raportti Kreikasta ja selviää, miksi medianvapaus Kreikassa mataa.
+
+          Unkarissa mediakenttä on myllerryksessä huhtikuisten vaalien jälkeen. Victor Orbánin vaalitappion myötä myös mediaan luotu Orbánin propagandakoneisto on murenemassa. Unkarilaisprofessori avaa ohjelmassa, mitä Unkarissa nyt tehdään, jotta maahan saataisiin aidosti vapaa, poliittisesta johdosta riippumaton media. Unkarin televisio- ja radiouutiset on keskeytetty elokuun puoliväliin asti toimitusten uudistamisen ajaksi.
+
+          Ohjelman lopuksi suomalaisasiantuntija arvioi Suomen medianvapauden tilaa ja potentiaalisia uhkia.
+
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Sara Saure ja Paula Vilén. Äänitarkkailijana on Marko Vierikko. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hanna Tikanderin toiset todellisuudet:  “Mä uskon, et kivet on tietoisia olentoja”'
         start_time: '2026-08-08T10:25:00+03:00'
         end_time: '2026-08-08T10:50:00+03:00'
@@ -126,7 +140,7 @@ data:
         start_time: '2026-08-08T11:57:00+03:00'
         end_time: '2026-08-08T12:00:00+03:00'
         description: |-
-          Ivan Gontšarov: Oblomov, suomentanut Juhani Konkka, Tammi 1999.
+          Ivan Gontšarov: Oblomov, suomentanut Juhani Konkka, Tammi 1999. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-08T12:00:00+03:00'
         end_time: '2026-08-08T12:05:00+03:00'
@@ -150,11 +164,11 @@ data:
         end_time: '2026-08-08T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Euroopan kannanotot palestiinalaisten sorrosta ovat surkuhupaisaa piipittämistä'
         start_time: '2026-08-08T14:55:00+03:00'
         end_time: '2026-08-08T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Israel viittaa kintaalla Euroopan maiden huolille ja lausunnoille. Gaza on tuhottu ja Länsirantaa liitetään nyt kiihtyvään tahtiin, tietokirjailija ja tutkija Timo R. Stewart toteaa.
       - title: Rehtorin tyttäret 2/5.
         start_time: '2026-08-08T15:00:00+03:00'
         end_time: '2026-08-08T15:25:00+03:00'
@@ -178,7 +192,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-08-08T16:07:00+03:00'
         end_time: '2026-08-08T16:59:59+03:00'
-        description: |+
+        description: |
           W.A. Mozart: Sextuksen aaria "Parto, parto, ma tu, ben mio - Guardami, e tutto obblio" oopp. La clemenza di Tito (Tituksen lempeys) (Margaret Price, sopraano, ja Englantilainen kamariork./James Lockhardt). 
 
           Brahms: Intermezzo a-molli (Michel Block, piano).
@@ -200,7 +214,7 @@ data:
           Boccherini: Finaali kvintetosta kitaralle ja jousille d-molli (Almodis).
 
           Konsertin on laatinut Heikki Puskala.
-
+          Juontajana on Joni Timonen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-08T17:00:00+03:00'
         end_time: '2026-08-08T17:05:00+03:00'
@@ -245,6 +259,17 @@ data:
         end_time: '2026-08-08T21:23:30+03:00'
         description: |-
           Andy Burnhamista tuli Britannian seitsemäs pääministeri kymmeneen vuoteen. Miksi maata on niin vaikea johtaa? Entä pystyykö Burnham ratkaisemaan brittiäänestäjille tärkeitä ongelmia? Atte Uusinokan haastattelussa Ylen Britannian kirjeenvaihtaja Kirsi Crowley.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-08-08T21:23:30+03:00'
+        end_time: '2026-08-08T21:48:33+03:00'
+        description: |-
+          Marko Miettisen oppaana leikin maailmaan toimii Museo Leikin museonjohtaja Johanna Rassi. Ohjelman ensilähetys oli 3.8.26.
+      - title: Radio 1 soi
+        start_time: '2026-08-08T21:48:33+03:00'
+        end_time: '2026-08-08T22:00:29+03:00'
+        description: |+
+          Anonyymi: Sarja soittimille F-duuri kok. Terpsichore. (New Yorkin renessanssiyhtye/Sally Logemann).
+
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
         start_time: '2026-08-08T22:00:29+03:00'
         end_time: '2026-08-08T22:24:36+03:00'
@@ -257,6 +282,12 @@ data:
         description: |-
           Osa 19/22: Riikka rikeeraa
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
+      - title: Radio 1 soi
+        start_time: '2026-08-08T22:35:47+03:00'
+        end_time: '2026-08-08T22:40:12+03:00'
+        description: |+
+          Chausson: Sicilienne kons. pianolle, viululle ja jousikvartetille D-duuri (Itzhak Perlman, Jorge Bolet ja Juilliard-kvartetti).
+
       - title: 'Keinuva talo - Mika Kauhanen: Parhaat kotimaiset ja radio-interrail Eurooppaan'
         start_time: '2026-08-08T22:40:12+03:00'
         end_time: '2026-08-08T23:39:17+03:00'

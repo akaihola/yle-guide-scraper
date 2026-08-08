@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-07T03:03:10.037218+00:00'
+  generated_at: '2026-08-08T02:40:40.969448+00:00'
   git:
     branch: main
-    commit: 36e34dc0b8894420ca6acce35d7548051b214129
-  data_hash: fa911fa95c6cac480496fc6ee304779373865c73206705053292b7144b2a0075
+    commit: c39ee68a5b9ae5ee888c0654794215e7bd5e9b23
+  data_hash: dbdbc433b9c6332c9d4b1d628c2601fa2f1030786376d1905f21dc628e620f58
 data:
   '':
     programmes:
@@ -163,11 +163,11 @@ data:
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-08-16T19:02:30+03:00'
         end_time: '2026-08-16T20:00:00+03:00'
-      - title: Katolinen messu
+      - title: Katolinen messu Pyhän Henrikin katedraalista Helsingistä
         start_time: '2026-08-16T20:00:00+03:00'
         end_time: '2026-08-16T21:00:00+03:00'
-        description: |
-          Katolinen messu
+        description: |-
+          Messun viettää emerituspiispa Teemu Sippo SCJ.
       - title: Uutispodcast
         start_time: '2026-08-16T21:00:30+03:00'
         end_time: '2026-08-16T21:24:00+03:00'
