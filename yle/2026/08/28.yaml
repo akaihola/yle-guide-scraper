@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-08T02:40:43.962945+00:00'
+  generated_at: '2026-08-09T02:44:36.038824+00:00'
   git:
     branch: main
-    commit: c39ee68a5b9ae5ee888c0654794215e7bd5e9b23
-  data_hash: dbdbc433b9c6332c9d4b1d628c2601fa2f1030786376d1905f21dc628e620f58
+    commit: c03c174ff8bfbcf04d1ba621b182235b61643b06
+  data_hash: 57ecee98aa9b216658e8f214eb1c8225edb11070d91a529d5bc6603ebb5ea3e0
 data:
   '':
     programmes:
@@ -33,6 +33,27 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-08-28T09:00:00+03:00'
         end_time: '2026-08-28T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-08-28T09:04:00+03:00'
+        end_time: '2026-08-28T09:59:00+03:00'
+        description: |-
+          Malmsten: Auringon lapset (Johanna Iivanainen).
+          Dimitriu: Maria lapsi auringon (Päivi Paunu).
+          Theodorakis: Pira tus dromus t'uranu (Maria Faranduri).
+          Herbert: Indian summer (Frank Sinatra).
+          Williamson/Marinari: Kaupungilla juorutaan (Monica Aspelund).
+          Green: Albatross (Fleetwood Mac).
+          Vainio: Albatrossi (Juha Vainio).
+          Vainio: Ääretön aava ympärilläin (Eino Grön).
+          Carvalho: Meu fado meu (Mariza).
+          Gelmini: Aito italiano (Laila Kinnunen).
+          Merrill: Mambo Italiano (Bette Midler).
+          Lennon/McCartney: Eleanor Rigby (The Beatles).
+          Mauriat: Si tu reviens un jour (Gloria Lasso).
+          Strange/Davis: A little less conversation (Elvis Presley).
+          Ellington: Things ain't what they used to be (Seija Simola & Fyrkka).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Kalle Haatanen
         start_time: '2026-08-28T10:00:00+03:00'
         end_time: '2026-08-28T10:55:00+03:00'
