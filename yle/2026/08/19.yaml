@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-10T02:48:55.438819+00:00'
+  generated_at: '2026-08-11T02:44:19.583934+00:00'
   git:
     branch: main
-    commit: 21d6be983c2234a4a3a50c04aed65bea45e32fa2
-  data_hash: 3714953e9353d9ad86ecb7fd48d725423f98fcedb071aa0e3b248e7d70efcc7c
+    commit: 99561933d25a4c9f0e6cce999825a957968f1984
+  data_hash: cc4c933f9d8247387cedcd1e423c337a480e77816969cc2ed92c114ae4bb219b
 data:
   '':
     programmes:
@@ -170,9 +170,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-19T17:30:00+03:00'
         end_time: '2026-08-19T17:35:00+03:00'
-      - title: Jazzklubi
+      - title: 'Jazzklubi: UMO:n johto vaihtuu. Vieraina Ville Vannemaa ja Bianca Rantala'
         start_time: '2026-08-19T17:35:00+03:00'
         end_time: '2026-08-19T18:35:00+03:00'
+        description: |-
+          Miten UMO Helsinki Jazz Orchestran uusi kolmihenkinen taiteellinen johto muuttaa suomalaisen jazzin kenttää? Pääkapellimestari Ville Vannemaa ja residenssisäveltäjä Bianca Rantala kertovat yhteistyöstään, luovuudesta ja jazzin tulevaisuudesta. Toimittajina Laura Korhonen ja Eero Koski. Ohjelma on uusinta keväältä 2026.
       - title: Hartaita säveliä
         start_time: '2026-08-19T18:35:00+03:00'
         end_time: '2026-08-19T18:50:00+03:00'
@@ -188,52 +190,8 @@ data:
       - title: 'Konsertteja: Häähumua! BRQ Vantaa'
         start_time: '2026-08-19T19:02:00+03:00'
         end_time: '2026-08-19T21:00:00+03:00'
-        description: |-
-          Häähumua 1700-luvun Tukholmassa ja Leipzigissa! Kaikki tässä konsertissa kuultava laulumusiikki on alun perin esitetty osana hääjuhlallisuuksia.
-
-          J.H. Roman oli "Ruotsin musiikin isä", jonka sukujuurten arvellaan olleen kuitenkin lähtöisin Suomesta. Bröllopsmusik -kantaatti esitettiin luultavasti vuonna 1728 eräiden Ruotsin hovin piirissä pidettyjen häiden kunniaksi. Konsertissa kuultava katkelma kantaatin alusta säteilee onnea ja toiveikkuutta uuden elämänvaiheen alkaessa.
-
-          J.S. Bachin hääkantaatti O Holder Tag esitettiin ensi kertaa Leipzigissa oletettavasti 1740-luvun alussa. Koska kantaatin säilynyt nuottimateriaali on poikkeuksellisen viimeistelty ja kaunis, on arveltu, että säveltäjä tunsi hääparin henkilökohtaisesti ja antoi nuottikäsikirjoituksen heille lahjaksi.Kantaatin maallinen teksti käsittelee musiikin kykyä liikuttaa, lumota, lohduttaa ja virkistää kuulijaa; avioparin syvä ja vilpitön rakkaus rinnastetaan musiikin väkevään voimaan.
-
-          9.8.2026 Vantaalla Pyhän Laurin kirkossa tallennetun konsertin toimittaa Noora Hirn.
-
-          Esiintyjät:
-
-          Tuuli Lindeberg sopraano
-          Ensemble Nylandia
-          Matias Häkkinen, cembalo ja musiikillinen johtaja
-
-          Ohjelma:
-
-          Johan Helmich Roman (1694–1758): Bröllopsmusik 
-
-          Johann Sebastian Bach (1685–1750): Kantaatti O holder Tag, erwünschte Zeit, BWV 210
-
-
-          J.S. Bach: Orkesterisarjasta nro 2 h-molli BWV 1067:
-          osa 4 Bourrée I–II
-
-          J.S. Bach: Kantaatista O holder Tag:
-          osa 3 Rezitativ: Doch, haltet ein, ihr muntern Saiten
-          osa 4  Aria: Ruhet hie, matte Töne
-
-          J.S. Bach: Sonaatista huilulle ja basso continuolle e-molli, BWV 1034: 
-          osa 3 Andante
-
-          J.S. Bach: Kantaatista O holder Tag:
-          osa 5 Rezitativ: So glaubt man denn, dass die Musik verführe
-          osa 6 Aria: Schweigt, ihr Flöten, schweigt, ihr Töne
-          osa 7 Rezitativ: Was Luft? was Grab?
-          osa 8 Aria: Großer Gönner, dein Vergnügen
-
-          J.S. Bach: Orkesterisarjasta nro 2 h-molli BWV 1067:
-          osa 1 Ouverture
-
-          J.S. Bach: Kantaatista O holder Tag:
-          osa 9 Rezitativ: Hochteurer Mann, so fahre ferner fort
-          osa 10 Aria: Seid beglückt
-
-          Kuva: © Kari Kohvakka
+        description: |
+          Sopraano Tuuli Lindeberg ja Ensemble Nylandia, joht. cembalisti Matias Häkkinen. Osia Johan Helmich Romanin Bröllopsmusik-kantaatista. - J. S. Bach: Kantaatti O holder Tag, erwünschte Zeit, BWV 210. Bach: Osia Orkesterisarjasta nro 2 h-molli BWV 1067 sekä Sonaatista huilulle ja basso continuolle e-molli, BWV 1034. 9.8. Vantaan Pyhän Laurin kirkossa äänitetyn konsertin toimittaa Noora Hirn.
       - title: 'Politiikkaradio '
         start_time: '2026-08-19T21:00:00+03:00'
         end_time: '2026-08-19T21:30:00+03:00'

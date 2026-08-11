@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-10T02:48:54.432879+00:00'
+  generated_at: '2026-08-11T02:44:18.820032+00:00'
   git:
     branch: main
-    commit: 21d6be983c2234a4a3a50c04aed65bea45e32fa2
-  data_hash: 3714953e9353d9ad86ecb7fd48d725423f98fcedb071aa0e3b248e7d70efcc7c
+    commit: 99561933d25a4c9f0e6cce999825a957968f1984
+  data_hash: cc4c933f9d8247387cedcd1e423c337a480e77816969cc2ed92c114ae4bb219b
 data:
   '':
     programmes:
@@ -80,6 +80,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-16T11:00:00+03:00'
         end_time: '2026-08-16T11:59:00+03:00'
+        description: |-
+          Lehtinen: On hetki (Jörgen Petersen).
+          Rodgers: My heart stood still (Chet Baker).
+          Louiguy: La vie en rose (Patricia Kaas).
+          Louiguy: Cerisier rose et pommier blanc (Perez Prado).
+          Merrill: Mambo Italiano (Rosemary Clooney).
+          Siegel: Johnny Blue (Lena Valaitis).
+          Kansansäv.: Mexico (The Les Humphries Singers).
+          Mancini: Charade (Duke Ellington).
+          Rodgers: Lumottu (Henry Theel).
+          Alguero: Bruxeria (Caterina Valente).
+          Alguero: Vähän ennen kyyneleitä (Danny).
+          Lloyd Webber: Don't cry for me Argentina (Elaine Paige).
+          Jobim: Wave (Oscar Peterson).
+          Gershwin: How long has this been going on (Carmen McRae).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-16T12:00:00+03:00'
         end_time: '2026-08-16T12:05:00+03:00'
@@ -178,6 +195,11 @@ data:
         end_time: '2026-08-16T22:22:00+03:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: ' KC Kirjapodcast: Romantasiaa ja glitternestettä – Miten kirjoittaa seksistä?'
+        start_time: '2026-08-16T22:23:00+03:00'
+        end_time: '2026-08-16T22:52:00+03:00'
+        description: |-
+          Vieraina ovat S. K. Rostedt, Laura Laakso ja Taneli Viljanen.
       - title: 'Romanitarinoita: Leif Isberg – musiikin kautta kutsumuksessaan'
         start_time: '2026-08-16T23:12:00+03:00'
         end_time: '2026-08-16T23:37:00+03:00'

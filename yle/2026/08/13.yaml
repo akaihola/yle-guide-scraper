@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-10T02:48:53.603359+00:00'
+  generated_at: '2026-08-11T02:44:18.053233+00:00'
   git:
     branch: main
-    commit: 21d6be983c2234a4a3a50c04aed65bea45e32fa2
-  data_hash: 3714953e9353d9ad86ecb7fd48d725423f98fcedb071aa0e3b248e7d70efcc7c
+    commit: 99561933d25a4c9f0e6cce999825a957968f1984
+  data_hash: cc4c933f9d8247387cedcd1e423c337a480e77816969cc2ed92c114ae4bb219b
 data:
   '':
     programmes:
@@ -164,11 +164,15 @@ data:
         description: |+
           Juontajana Miia Lahti. Kohta saa ensi-iltansa laulaja, näyttelijä, ihmisoikeusaktivisti Arja Saijonmaasta kertova dokumenttielokuva ”Laula minulle, Arja”. Selvisikö tuottaja-ohjaaja Marko Tallille elokuvan tekoprosessin aikana, mistä Saijonmaan karisma kumpuaa? Ohjaaja, tuottaja Marko Talli on Kati Turtolan haastattelussa n. klo 14.
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Voiko tekoäly syrjäyttää kirjailijan?'
         start_time: '2026-08-13T15:00:00+03:00'
         end_time: '2026-08-13T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Tekoäly on nopeasti muuttamassa myös kirjallisuuden ja kustannusalan toimintatapoja.
+          Se voi olla kirjailijalle oiva apuri esimerkiksi ideoinnissa, taustatiedon etsimisessä, tekstin muokkaamisessa ja kääntämisessä. Mutta missä menee raja? Miten paljon tekoäly saa auttaa luovassa työssä ja kirjoitusprosessissa?
+          Kustantamoille tekoäly avaa uusia mahdollisuuksia. Tekoäly pystyy suoltamaan kevyttä viihdelukemista nopeasti ja vaivatta.Samalla nousee vaikeita kysymyksiä. Kuka omistaa tekoälyn avulla syntyneen tekstin? Miten varmistetaan kirjailijan oma ääni ja tekijänoikeudet, kun kone on oppinut valtavasta määrästä ihmisten kirjoittamia teoksia? Entä mitä tapahtuu kirjallisuudelle, jos markkinoille tulvii nopeasti ja halvalla tuotettua tekoälytekstiä?
+          Millaisen roolin haluamme antaa tekoälylle kirjallisuudessa? Kulttuuriykkösessä näitä kiperiä kysymyksiä pohtivat kirjailija Virpi Hämeen-Anttila, Gummeruksen toimitusjohtaja Anna Baijars ja esikoiskirjailija, tekoälykonsultti Antti Ukkonen.
+          Ohjelman toimittaa Miia Gustafsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-13T16:00:00+03:00'
         end_time: '2026-08-13T16:07:00+03:00'
@@ -266,15 +270,15 @@ data:
         start_time: '2026-08-13T21:00:00+03:00'
         end_time: '2026-08-13T21:30:00+03:00'
       - title: Rehtorin tyttäret 2/5.
-        start_time: '2026-08-13T22:31:00+03:00'
-        end_time: '2026-08-13T22:59:00+03:00'
+        start_time: '2026-08-13T22:19:06+03:00'
+        end_time: '2026-08-13T22:40:30+03:00'
         description: |-
           Osa 2/5 Sodassa menehtyneen rehtori Sipolan perhe kohtaa uuden elämänvaiheen. Jokaisen olisi nyt huolehdittava itsestään. Vanhimmat tyttäret Raija, Pirkko, Sirkka ja Satu alkavat huushollaamaan ja äiti hakeutuu opettajan töihin. Pienimmät Kaarina sekä kuopus Jorma saavat vielä temmeltää vapaasti. Sarja vuodelta 1959.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-08-13T23:01:00+03:00'
-        end_time: '2026-08-13T23:57:00+03:00'
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Villien kasvien tuntumassa'
+        start_time: '2026-08-13T23:03:12+03:00'
+        end_time: '2026-08-13T23:59:30+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-08-14T00:00:00+03:00'
         end_time: '2026-08-14T06:30:00+03:00'
