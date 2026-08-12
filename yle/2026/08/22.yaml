@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-11T02:44:20.336905+00:00'
+  generated_at: '2026-08-12T02:55:05.533782+00:00'
   git:
     branch: main
-    commit: 99561933d25a4c9f0e6cce999825a957968f1984
-  data_hash: cc4c933f9d8247387cedcd1e423c337a480e77816969cc2ed92c114ae4bb219b
+    commit: fcb77d069391a5d0fed2424847660836ae6e23dd
+  data_hash: f4ff895a9b3574b7d5bd237bfac8aad8c1224af7a7ca95c4c2eac0e72cd3db19
 data:
   '':
     programmes:
@@ -188,38 +188,22 @@ data:
           Antonín Dvořák: Mustalaislauluja op. 55
 
           Richard Wagner: Gretchen am Spinnrade WWV 15
+          Richard Wagner: Tout n’est qu‘images fugitives WWV 58
+          Richard Wagner:  Attente WWV 55
 
-           Richard Wagner: Tout n’est qu‘images fugitives WWV 58
-
-           Richard Wagner:  Attente WWV 55
-
-           Alban Berg: 7 frühe Lieder
-
-          väliaika
+          Alban Berg: Sieben frühe Lieder
 
           Jean Sibelius: Illalle op. 17/6
-
           Jean Sibelius: Norden op. 90/1
-
-          Jean Sibelius: En slända op.17/5
-
           Jean Sibelius: Soluppgång op. 37/3
 
-          Jean Sibelius: Höstkväll op. 38/1
-
           Richard Strauss: Lob des Leidens op. 15/3
-
           Richard Strauss: Die Nacht op. 10/3
-
           Richard Strauss: Die Georgine op. 10/4
-
           Richard Strauss: Allerseelen op. 10/8
-
           Richard Strauss: Wer hat’s getan op. 84A
-
           Richard Strauss: Wie sollten wir geheim sie halten op. 19/4 
 
-          Hugo Wolf : Auch kleine Dinge können uns entzücken kokoelmasta 'Italienisches Liederbuch' (ylimääräinen numero)
 
           Kuva: © Tamás Boldizsár
       - title: Uutispodcast
@@ -227,14 +211,18 @@ data:
         end_time: '2026-08-22T21:25:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
-      - title: Klassikkokuunnelmia
+      - title: 'Klassikkokuunnelma: Kuunsilta, osa 1/2'
         start_time: '2026-08-22T21:51:00+03:00'
         end_time: '2026-08-22T22:30:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+        description: |-
+          Osa 1/2. Hella Wuolijoen kirjoittama ja ohjaama kuunnelma vuodelta 1951 kertoo miehen ja naisen uinuneesta rakkaudesta.
+          Päärooleissa Tauno Palo ja Eeva-Kaarina Volanen.
+          Kuunnelma on kokonaisuudessaan kuunneltavissa Yle Areenassa.
+      - title: 'Keinuva talo - Mika Kauhanen: Ystävän käsi ja välähdys tropiikista'
         start_time: '2026-08-22T22:40:00+03:00'
         end_time: '2026-08-22T23:39:30+03:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Kuratoitu valikoima tuoreita etnolevyjä suo meille brittifolkin laulutarinoita, eurooppalaista tradia ja globalismia sekä tropiikin rytmien kutsun. Kuuntele, kuinka 200-vuotias palmettopalmu sai kuninkaallisen tilausteoksen, miksi 18-vuotias Adrian ikuistettiin lauluun, ja mitä eroa on käsitteillä populaarimusiikki ja música popular. Toimittajana Mika Kauhanen.
       - title: Yöklassinen
         start_time: '2026-08-22T23:40:00+03:00'
         end_time: '2026-08-23T07:00:00+03:00'
