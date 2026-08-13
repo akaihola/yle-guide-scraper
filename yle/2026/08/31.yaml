@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-12T02:55:08.172009+00:00'
+  generated_at: '2026-08-13T02:56:19.606561+00:00'
   git:
     branch: main
-    commit: fcb77d069391a5d0fed2424847660836ae6e23dd
-  data_hash: f4ff895a9b3574b7d5bd237bfac8aad8c1224af7a7ca95c4c2eac0e72cd3db19
+    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
+  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
 data:
   '':
     programmes:
@@ -69,7 +69,7 @@ data:
       - title: Aitiovieras
         start_time: '2026-08-31T13:35:00+03:00'
         end_time: '2026-08-31T14:00:00+03:00'
-      - title: Aitio
+      - title: Musiikkiaitio
         start_time: '2026-08-31T14:00:00+03:00'
         end_time: '2026-08-31T15:00:00+03:00'
       - title: Kulttuuriykkönen
@@ -133,7 +133,8 @@ data:
         start_time: '2026-08-31T18:50:00+03:00'
         end_time: '2026-08-31T19:00:00+03:00'
         description: |-
-          Maanantaista lauantaihin
+          "Matteuksen evankeliumi: Vertaus työmiehistä viinitarhassa"
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (20:1-21:17) UT2020 käännöksen mukaan. 15. jaksossa Jeesus ratsastaa Jerusalemiin ja kaataa temppelissä rahanvaihtajien pöydät.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-31T19:00:00+03:00'
         end_time: '2026-08-31T19:02:00+03:00'

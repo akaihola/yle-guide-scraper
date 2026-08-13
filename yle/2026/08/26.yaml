@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-12T02:55:06.559798+00:00'
+  generated_at: '2026-08-13T02:56:18.410328+00:00'
   git:
     branch: main
-    commit: fcb77d069391a5d0fed2424847660836ae6e23dd
-  data_hash: f4ff895a9b3574b7d5bd237bfac8aad8c1224af7a7ca95c4c2eac0e72cd3db19
+    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
+  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
 data:
   '':
     programmes:
@@ -70,14 +70,14 @@ data:
           Redi: Non dimenticar (Dean Martin).
           Lincoln: Rantaan, rantaan (Päivi Paunu).
           Barry: Out of Africa main title (I had a farm in Africa) (John Barry).
-          Kosonen: Muistan sua, Elaine (Leo Adamson ja Ramblers-orkesteri).
+          Kosonen: Muistan sua, Elaine (Leo Adamson).
           Tuntematon: Rainy days (The Boswell Sisters).
           Kärki: Elokuun jenkka (Reino Helismaa).
           Lindquist: Mittani on täys' (Cumulus).
-          Salter, MacDonald, Withers: Just the two of us (Bill Withers).
+          Salter/MacDonald/Withers: Just the two of us (Bill Withers).
           Lasanen: Lähde pois (Radion viihdeorkesteri).
 
-          Konsertin laati Tuuli Saksala.
+          Konsertin on laatinut Tuuli Saksala.
       - title: Havaintoja muutoksesta
         start_time: '2026-08-26T10:00:00+03:00'
         end_time: '2026-08-26T10:50:00+03:00'
@@ -87,6 +87,19 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-08-26T11:00:00+03:00'
         end_time: '2026-08-26T11:57:00+03:00'
+        description: |+
+          Ziehrer: Wieniläisneidot (RSO/George de Godzinsky).
+
+          Landi: T'amai gran tempo (Marco Beasley, tenori, ja L' Arpeggiata/Christina Pluhar).
+
+          Coenen: Nokturno huilulle ja orkesterille (La Serenata) (Jacques Zoon ja Alankomaiden radion kamariork./Thierry Fischer).
+
+          Sarasate: Navarra (Gil Shaham ja Adele Anthony, viulu, sekä Kastilian ja Leonin SO/Alejandro Posada).
+
+          Eler: Alkusoitto puhallinorkesterille n:o 16 (Bordeaux'n kaupungin puhallinork./Lucien Mora).
+
+          Beethoven: Muunnelmia pianolle, viululle ja sellolle G-duuri (Eugene Istomin, Isaac Stern ja Leonard Rose).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-08-26T11:57:00+03:00'
         end_time: '2026-08-26T12:00:00+03:00'
@@ -118,11 +131,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-26T17:30:00+03:00'
         end_time: '2026-08-26T17:35:00+03:00'
-      - title: 'Jazzklubi: "Turha stressata asioista, joita et voi hallita" – Mamba Assefan resepti elämään ja musiikkiin'
+      - title: Jazzklubi
         start_time: '2026-08-26T17:35:00+03:00'
         end_time: '2026-08-26T18:35:00+03:00'
-        description: |-
-          Lyömäsoittaja, rumpali ja tuottaja Abdissa "Mamba" Assefa kertoo Jazzklubin studiossa, miten improvisaatio yhdistää sekä musiikkia että ruoanlaittoa - ja miksi elämässä kannattaa olla joustava. "Mä oon keittiössä hyvin luova. Mä katson kaapit läpi ja improvisoin. Se maustaminen on yhtä kuin lyömäsoittajan taito, ne pienet detaljit." Kuuntelukerho on poikkeuksellisesti katselukerho. Keskustelemme Yle Areenasta löytyvästä Quincy Jones -dokumentista. Toimittajat ovat Laura Korhonen ja Eero Koski. Ohjelma on uusinta keväältä 2026. Ensi viikolla Jazzklubi palaa uusin jaksoin.
       - title: Hartaita säveliä
         start_time: '2026-08-26T18:35:00+03:00'
         end_time: '2026-08-26T18:50:00+03:00'

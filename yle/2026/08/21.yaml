@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-12T02:55:05.271207+00:00'
+  generated_at: '2026-08-13T02:56:17.205907+00:00'
   git:
     branch: main
-    commit: fcb77d069391a5d0fed2424847660836ae6e23dd
-  data_hash: f4ff895a9b3574b7d5bd237bfac8aad8c1224af7a7ca95c4c2eac0e72cd3db19
+    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
+  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
 data:
   '':
     programmes:
@@ -53,13 +53,15 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-08-21T08:07:00+03:00'
         end_time: '2026-08-21T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-08-21T09:00:00+03:00'
         end_time: '2026-08-21T09:03:00+03:00'
       - title: Muistojen bulevardi
         start_time: '2026-08-21T09:04:00+03:00'
         end_time: '2026-08-21T09:59:00+03:00'
-        description: |
+        description: |-
           Renard: La Maritza (Sylvie Vartan).
           Mascheroni: Casetta in Canada (Umberto Marcato).
           Coleman: Witchcraft (Mark Murphy).
@@ -67,13 +69,15 @@ data:
           Böttcher: Lyckans serenad (Carli Tornehave).
           Youmans: Tea for two (Doris Day).
           Piazzolla: Marron y azul (Astor Piazzolla).
-          Lyra-Boscoli: Lobo bobo (Alaide Costa).
+          Lyra/Boscoli: Lobo bobo (Alaide Costa).
           Bacharach: I'll never fall in love again (Dionne Warwick).
-          Goldsmith: Theme from Dr. Kildare (The Johnny Spence orchestra).
-          Stordahl: Day by day (The Four Freshmen).
+          Goldsmith: Theme from Dr. Kildare (Johnny Spence).
+          Stordahl/Weston: Day by day (The Four Freshmen).
           Zawinul: Mercy, mercy, mercy (Julian 'Cannonball' Adderley).
-          Kansansävelmä: Danny Boy (Eva Cassidy).
-          Kansansävelmä: Hyvää yötä (Georg Ots).
+          Kansansäv.: Danny Boy (Eva Cassidy).
+          Kansansäv.: Hyvää yötä (Georg Ots).
+
+          Konsertin on laatinut Pekka Laine.
       - title: Kalle Haatanen
         start_time: '2026-08-21T10:00:00+03:00'
         end_time: '2026-08-21T10:55:00+03:00'
@@ -106,10 +110,13 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-21T13:00:00+03:00'
         end_time: '2026-08-21T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: Kirjani tarina - Katja Kettu'
         start_time: '2026-08-21T13:30:00+03:00'
         end_time: '2026-08-21T15:00:00+03:00'
-        description: |2+
+        description: |+
+          Juontajana Miia Lahti.
+          N. klo 14 Kirjani tarina: Brita-Kajsa-romaani on elävä tutkimusmatka 1800-luvun Ruotsin Lappiin, sen luontoon ja pohjoisen saamelaisväestön ahdingon kuvaamiseen kun etelästä saapuvat Tukholman lait ja sorto. Tarinan päähenkilö ja kertoja on herätysliikkeen johtaja Lars Levi Laestadiuksen vaimo Brita-Kajsa. Kielellisesti rikkaan tarinan teemat kietoutuvat naisen ja alkuperäisväestön aseman lisäksi seksuaalisuuden ja luonnon voiman kuvauksen sekä anteeksiannon lohdullisen mahdollisuuden ympärille. Vieraana on kirjailija Katja Kettu. Toimittaja Jukka Kuosmanen. 
+          N. klo 14:30 Illan kynttiläkonsertissa kuullaan intiimiä kotimusiikkia. Sopraano Tuuli Lindeberg ja cembalisti Matias Häkkinen ovat penkoneet Johann Sebastian Bachin toisen vaimon, Anna Magdalenan nuottikirjaa. Konsertin esiintyjät Tuuli Lindeberg ja Matias Häkkinen kertovat nyt illan konsertin ohjelmasta. Haastattelijana on musiikkitoimittaja Noora Hirn.
 
       - title: Kulttuuriykkönen
         start_time: '2026-08-21T15:00:00+03:00'

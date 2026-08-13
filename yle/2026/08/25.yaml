@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-12T02:55:06.302489+00:00'
+  generated_at: '2026-08-13T02:56:18.229697+00:00'
   git:
     branch: main
-    commit: fcb77d069391a5d0fed2424847660836ae6e23dd
-  data_hash: f4ff895a9b3574b7d5bd237bfac8aad8c1224af7a7ca95c4c2eac0e72cd3db19
+    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
+  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
 data:
   '':
     programmes:
@@ -107,9 +107,9 @@ data:
         description: |+
           Salieri: Alkusoitto oopp. Tarare (Mannheimin Mozart-ork./Thomas Fey).
 
-          Porpora: Adonen aaria "Giusto amor, tu che m'accendi" oopp. Hesperidien puutarha (Cecilia Bartoli, sopraano, Sol Gabetta, sello, ja Cappella Gabetta -kamariork./Andres Gabetta). 
+          Porpora: Adonen aaria "Giusto amor, tu che m'accendi" oopp. Gli orti esperidi (Hesperidien puutarha) (Cecilia Bartoli, sopraano, Sol Gabetta, sello, ja Cappella Gabetta/Andres Gabetta). 
 
-          Ligeti: Etydi pianolle n:o 10 (Taikurin oppipoika) (Pierre-Laurent Aimard). 
+          Ligeti: Etydi n:o 10 (Taikurin oppipoika) (Pierre-Laurent Aimard, piano). 
 
           Whitacre: Water night (The Eric Whitacre Singers/Eric Whitacre).
 
@@ -126,6 +126,8 @@ data:
           Anderson: The Typewriter (Werner Brock, kirjoituskone, ja Kölnin radio-ork./Pinchas Steinberg).
 
           Sallinen: Lauluja mereltä (Tapiolan kuoro/Erkki Pohjola, sekä Eeva Erlich, sopraano).
+
+          Konsertin on laatinut Eva Tigerstedt.
 
       - title: Yle Uutiset ja sää
         start_time: '2026-08-25T17:00:00+03:00'
