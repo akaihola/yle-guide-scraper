@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-13T02:56:19.412537+00:00'
+  generated_at: '2026-08-14T02:55:46.752549+00:00'
   git:
     branch: main
-    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
-  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
+    commit: a86f8ca3a64ec77d0e81217e66b85e731725686e
+  data_hash: 0770023c5d6373086757f7fb85e375561b3984ba1b5d86bafbb0bbde29c99789
 data:
   '':
     programmes:
@@ -42,6 +42,36 @@ data:
         end_time: '2026-08-30T16:00:00+03:00'
         description: |-
           Viikon luontoäänen esittelee Kerttu Kotakorpi
+      - title: Faunin iltapäivä
+        start_time: '2026-08-30T16:07:00+03:00'
+        end_time: '2026-08-30T16:59:59+03:00'
+        description: |+
+          Rameau: Alkusoitto komediabal. Les surprises de l'Amour (Les Talens Lyriques/Christophe Rousset).
+
+          Chausson: Sicilienne konsertosta pianolle, viululle ja jousikvartetille D-duuri (The Weiss Duo ja Coup d'Archet Quartet).
+
+          Kansansäv.: My love's an arbutus (Ian Bostridge, tenori, ja Julius Drake, piano).
+
+          Mozart: Marssi teoks. Serenadi D-duuri (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          Kortekangas: Venetsia teoks. Välimeri (Candomino-kuoro/Tauno Satomaa).
+
+          Hatshaturjan: Aishan tanssi bal. Gajane (Leonid Kogan, viulu, ja Andrei Mytnik, piano). 
+
+          Kaski (sov. Kuusimäki): Pankakoski (Anni Kuusimäki, harppu). 
+
+          Villa-Lobos: A lenda do caboclo (Yo-Yo Ma, sello, sekä Sergio Assad ja Odair Assad, kitara).
+
+          Warlock: Sleep (Dawn Upshaw, sopraano, ja Margo Garrett, piano).
+
+          Dvorák: Luonto uinuu ja uneksii sarj. Sypressejä (Emerson-kvartetti).
+
+          Le Beau: Ballade b-molli (Ana-Marija Markovina, piano).
+
+          Lanner: Cerrito-Polka (Wienin Concentus Musicus/Nikolaus Harnoncourt).
+
+          Konsertin on toimittanut Riikka Holopainen. 
+
       - title: Etnokonsertti Totó la Momposina
         start_time: '2026-08-30T17:06:00+03:00'
         end_time: '2026-08-30T18:00:00+03:00'

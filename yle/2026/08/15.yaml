@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-13T02:56:15.789465+00:00'
+  generated_at: '2026-08-14T02:55:38.967293+00:00'
   git:
     branch: main
-    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
-  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
+    commit: a86f8ca3a64ec77d0e81217e66b85e731725686e
+  data_hash: 0770023c5d6373086757f7fb85e375561b3984ba1b5d86bafbb0bbde29c99789
 data:
   '':
     programmes:
@@ -40,13 +40,16 @@ data:
           07:21 Vivaldi: Konsertto kahdelle trumpetille C-duuri RV537 (Atsuko Sakuragi, Miikka Saarinen, luonnontrumpetti, Maria Puusaari, Pauline Fleming-Unelius, viulu, Atso Lehto, alttoviulu, Eeva Rysä, sello, Kati Salovaara, kontrabasso, ja Jouko Laivuori, cembalo).
 
       - title: 'Kirjani tarina: Joel Haahtela - Talvikappeli'
-        start_time: '2026-08-15T07:31:00+03:00'
-        end_time: '2026-08-15T07:55:00+03:00'
+        start_time: '2026-08-15T07:30:40+03:00'
+        end_time: '2026-08-15T07:53:25+03:00'
         description: |+
           Talvikappelin tarina kattaa kaiken olennaisen elämästä: taiteen tekemisen salat, rakkauden ihmellisyyden ja kuoleman teemat. Kirjailija Joel Haahtela tietää tarkasti miksi sijoitti uusimman romaaninsa tapahtumat juuri 1300-luvun Italiaan ja ruton keskelle. Silti hän pitää kaikkien lukuisten omien romaanien kirjoittamisen jälkeenkin kirjailijan työssä onnistumista mahdottomuutena.
 
           Toimittaja Jukka Kuosmasen vieraana kirjailija Joel Haahtela
 
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-08-15T07:53:25+03:00'
+        end_time: '2026-08-15T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-08-15T08:00:00+03:00'
         end_time: '2026-08-15T08:05:00+03:00'
@@ -121,7 +124,7 @@ data:
           Kesäyön unelma on noin 31-vuotiaan Shakespearen käsialaa. Komediassa punoutuu yhteen useampikin juonikuvio ja lopussa koittaa näytelmä näytelmässä -rakenne, jossa kiteytyy kirjailijalle tyypillinen kyky tehdä nopeita leikkauksia koomisesta traagiseen. Nuori Shakespeare tarttuu unen värittämässä näytelmässä rakkauden eri sävyhin ja lajeihin sekä vallan ja sukupuolen kysymyksiin. Miten näytelmän kautta voidaan tarkastella vastasyttynyttä ja kauan pitkässä liitossa kytenyttä rakkautta? Miten se johdattelee pohtimaan rakkautta laajempana, mullistavana kokonaisuutena? 
 
           Shakespearen luomassa kehikossa rakkauden ulottuvuuksia hahmottavat Marja Vehkasen kanssa filosofi, kirjailija ja käsikirjoittaja Pärttyli Rinne ja vanhempi yliopistonlehtori, Shakespeare-tutkija ja kääntäjä Nely Keinänen.
-      - title: Näistä levyistä en luovu; Iida Tikka
+      - title: 'Näistä levyistä en luovu: Iida Tikka'
         start_time: '2026-08-15T13:00:00+03:00'
         end_time: '2026-08-15T13:55:00+03:00'
         description: |-
@@ -235,28 +238,35 @@ data:
         end_time: '2026-08-15T21:22:56+03:00'
         description: |-
           Jalkapallohuuman täyttämä kesä sai oudon käänteen, kun kansainvälisen jalkapalloliiton Fifan pomon Gianni Infantinon kaavailemat Fifan yksityistämiskuviot paljastuivat. Onko Fifassa enää kyse jalkapallosta vai onko se nykyään eliitin rahantekokone? Mihin suuntaan Infantino Fifaa vie, jos saa jatkaa pestissään? Atte Uusinokan haastattelussa Ilta-Sanomien urheilutoimittaja Juha Kanerva.
+      - title: 'Poiminta Radio 1:n iltapäivästä '
+        start_time: '2026-08-15T21:22:56+03:00'
+        end_time: '2026-08-15T21:44:35+03:00'
+        description: |-
+          Suomen Elokuvasäätiön kulttuuriviennin suunnittelija (SES) Otto Suurosta haastattelee Jarmo Laitaneva. Ensilähetys oli 23.6.2026.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-08-15T21:50:43+03:00'
-        end_time: '2026-08-15T22:01:36+03:00'
+        start_time: '2026-08-15T21:44:35+03:00'
+        end_time: '2026-08-15T21:55:28+03:00'
         description: |-
           Osa 20/22: Odottamaton vieras
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-08-15T22:01:36+03:00'
-        end_time: '2026-08-15T22:13:38+03:00'
+        start_time: '2026-08-15T21:55:28+03:00'
+        end_time: '2026-08-15T22:07:29+03:00'
         description: |-
           Osa 21/22: Riikka rypyssä
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
       - title: 'Klassikkokuunnelma: Työmiehen perhe'
-        start_time: '2026-08-15T22:13:38+03:00'
-        end_time: '2026-08-15T22:29:17+03:00'
+        start_time: '2026-08-15T22:07:29+03:00'
+        end_time: '2026-08-15T22:23:07+03:00'
         description: |-
           Osa 22/22: Ympäri käydään, yhteen tullaan.
           Hella Wuolijoen kirjoittama ja ohjaama sarja kertoo Kustaa Rantasen työläisperheen tarinan Suomen yhteiskuntahistorian avainkohtien kautta. Sarjan tapahtumat alkavat 1800-luvun lopun Suomesta ja jatkuvat aina 1950-luvulle asti. Sarjassa käsitellään mm. kaupungistumista, maanviljelijän asemaa ja kansalaissotaa.
       - title: Radio 1 soi
-        start_time: '2026-08-15T22:29:17+03:00'
+        start_time: '2026-08-15T22:23:07+03:00'
         end_time: '2026-08-15T22:40:32+03:00'
         description: |+
+          W.A. Mozart: Osminin aaria "Solche hergelaufe'ne Laffen" oopp. Ryöstö seraljista (Martti Talvela, basso, ja RSO/Paavo Berglund).
+
           Liszt: Mefisto-valssi (Earl Wild, piano). 
 
       - title: 'Keinuva talo - Mika Kauhanen: Aika aloittaa uutta?'

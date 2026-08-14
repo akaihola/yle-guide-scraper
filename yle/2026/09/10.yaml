@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-13T02:56:21.482205+00:00'
+  generated_at: '2026-08-14T02:55:50.111208+00:00'
   git:
     branch: main
-    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
-  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
+    commit: a86f8ca3a64ec77d0e81217e66b85e731725686e
+  data_hash: 0770023c5d6373086757f7fb85e375561b3984ba1b5d86bafbb0bbde29c99789
 data:
   '':
     programmes:
@@ -70,6 +70,8 @@ data:
       - title: Musiikkiaitio
         start_time: '2026-09-10T14:00:00+03:00'
         end_time: '2026-09-10T15:00:00+03:00'
+        description: |-
+          Lähde mukaan musiikin maailmankiertueelle
       - title: Kulttuuriykkönen
         start_time: '2026-09-10T15:00:00+03:00'
         end_time: '2026-09-10T15:58:00+03:00'

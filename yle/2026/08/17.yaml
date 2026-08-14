@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-13T02:56:16.326352+00:00'
+  generated_at: '2026-08-14T02:55:42.744652+00:00'
   git:
     branch: main
-    commit: 8ee400f42f9e1c686b391e96e1ab96fc113cda9f
-  data_hash: 0fc22edc15d339fead29f29a2b73a6ae9ad14d0f987664e01bc50db6b06cd45f
+    commit: a86f8ca3a64ec77d0e81217e66b85e731725686e
+  data_hash: 0770023c5d6373086757f7fb85e375561b3984ba1b5d86bafbb0bbde29c99789
 data:
   '':
     programmes:
@@ -110,11 +110,11 @@ data:
           Konsertin on toimittanut Pasi Hiihtola.
       - title: 'Virtasen taloushistoria: Mitä veroja pitäisi alentaa, mitä veroja pitäisi nostaa?'
         start_time: '2026-08-17T10:00:00+03:00'
-        end_time: '2026-08-17T10:52:00+03:00'
+        end_time: '2026-08-17T10:54:00+03:00'
         description: |
-          Mikä on verotuksen ideaali taso? Pitäisikö palkka- ja yrittäjäveroja alentaa nostamalla muita veroja? Haastateltavana on Teemu Lehtinen Veronmaksajain keskusliitosta.
+          Mikä on verotuksen ideaali taso? Pitäisikö palkka- ja yrittäjäveroja alentaa nostamalla muita veroja? Haastateltavana on Teemu Lehtinen Veronmaksajain keskusliitosta. Toimittaja on Juha Virtanen.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-08-17T10:52:00+03:00'
+        start_time: '2026-08-17T10:54:00+03:00'
         end_time: '2026-08-17T11:00:00+03:00'
       - title: 'Välilevyjä retkellä: Vieraalla maalla'
         start_time: '2026-08-17T11:00:00+03:00'
@@ -207,27 +207,29 @@ data:
         end_time: '2026-08-17T19:02:00+03:00'
       - title: 'Väkivallan markkinat: Kun koko maa on valjastettu palvelemaan asetuotantoa '
         start_time: '2026-08-17T19:02:00+03:00'
-        end_time: '2026-08-17T19:50:00+03:00'
+        end_time: '2026-08-17T19:46:00+03:00'
         description: |
           Miehitys tarjoaa testikentän esimerkiksi tekoälyä hyödyntävälle aseistukselle. 90-luvulla Israelin armeijasta alettiin kehittää start up -koneistoa, jonka hedelmistä nauttivat niin asetuottajat kuin somejätitkin – ja myös Suomi. Vaikka asekauppa on osa Suomen ulkopolitiikkaa, miksi asehankinnan perusteena käytetään vain teknistä suorituskykyä?
 
           Jakson asiantuntijavieraina: Lähi-idän instituutin tutkija ja Helsingin yliopiston väitöskirjatutkija Antti Tarvainen, Tampereen yliopiston rauhan- ja konfliktintutkimuskeskuksen väitöskirjatutkija Kari Paasonen. Jakso on äänitetty syyskuussa 2024.
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Epätoivo ja häpeä ajavat venäläissotilaita itsemurhiin Ukrainassa '
         start_time: '2026-08-17T20:05:00+03:00'
         end_time: '2026-08-17T20:25:00+03:00'
+        description: |-
+          Venäläiset sotilaat ajautuvat Ukrainan taisteluissa helposti itsemurhaan epätoivon ja myrkyllisen armeijakultturin takia. 
       - title: Politiikkaradio
         start_time: '2026-08-17T21:00:00+03:00'
         end_time: '2026-08-17T21:30:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Väärinymmärretty kissa - moni tulkitsee kissan eleet protestina turhaan'
         start_time: '2026-08-17T21:30:30+03:00'
         end_time: '2026-08-17T22:20:00+03:00'
-        description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Näistä levyistä en luovu
+        description: |
+          Kissan eleet ovat paljon hienovaraisempia kuin ymmärrämme. Mitä kissa tarvitsee, ja mistä tiedämme, voiko se hyvin? Asiantuntijoina on eläinlääkäri Johanna Lankila, kissa-asiantuntija, eläintenhoidon  opettaja Päivi Ylikorpi sekä eläinten käyttäytymistieteen tohtori Helena Telkänranta. Toimittajana on Pirjo Koskinen. 
+      - title: 'Näistä levyistä en luovu: Iida Tikka'
         start_time: '2026-08-17T22:45:00+03:00'
         end_time: '2026-08-17T23:39:30+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+          Toimittaja Iida Tikka kertoo itselleen tärkeästä musiikista. Toimittajana Maija Salminen. 
       - title: Yöklassinen
         start_time: '2026-08-17T23:40:00+03:00'
         end_time: '2026-08-18T06:30:00+03:00'
