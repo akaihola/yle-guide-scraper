@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-14T02:55:45.501093+00:00'
+  generated_at: '2026-08-15T02:23:58.557984+00:00'
   git:
     branch: main
-    commit: a86f8ca3a64ec77d0e81217e66b85e731725686e
-  data_hash: 0770023c5d6373086757f7fb85e375561b3984ba1b5d86bafbb0bbde29c99789
+    commit: 3baaf00d0fed992e833e6fedc172d0fb6d689734
+  data_hash: 3c3f61f612587fe55643b68a0fcf64af4ee6d8af1b1cf5904ba6488968f1acb7
 data:
   '':
     programmes:
@@ -17,7 +17,8 @@ data:
         start_time: '2026-08-24T06:50:00+03:00'
         end_time: '2026-08-24T06:59:59+03:00'
         description: |-
-          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne, Tallinna
+          "Rempallaan mutta rakas"
+          Tallinnan suomalaisen seurakunnan kirkkoherra Tomi Kallanne puhuu hengellisen kotipaikan merkityksestä.
       - title: Aamusoitto
         start_time: '2026-08-24T07:06:00+03:00'
         end_time: '2026-08-24T08:00:00+03:00'
@@ -56,6 +57,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-24T09:04:00+03:00'
         end_time: '2026-08-24T09:59:00+03:00'
+        description: |+
+          Rodgers: Oh, what a beautiful mornin' (Ray Charles).
+          Ellington: Sophisticated lady (Ella Fitzgerald).
+          Mårtenson: Ole pienistä hetkistä onnellinen (Lasse Mårtenson).
+          Travis: Päivän työ (Olavi Virta).
+          Churchill: Laulain työtäs tee (Harmony Sisters).
+          Kansansäv.: Early one morning (Roger Whittaker).
+          Gaze: On Kalkutassa Ganges (Kai Lind).
+          Goodman: St. Pauli ja Reeperbahn (Irwin Goodman).
+          Jary/Herz: Das Herz von St. Pauli (Liselotte Malkowsky). 
+          Ferre: Paris canaille (Catherine Sauvage).
+          Tikka: Odotusta Pariisissa (Susanna Haavisto).
+          Ciacci/Giangrano: Odota en (Ann Christine).
+          Viljanen: En liten önskan (Matti Viljanen).
+
+          Konsertin on toimittanut Kai Ulmanen.
+
       - title: Virtasen taloushistoria
         start_time: '2026-08-24T10:00:00+03:00'
         end_time: '2026-08-24T10:52:00+03:00'
@@ -164,11 +182,12 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-24T21:00:00+03:00'
         end_time: '2026-08-24T21:30:00+03:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Suolistomikrobien merkitys terveydelle on oletettua isompi'
         start_time: '2026-08-24T21:30:30+03:00'
         end_time: '2026-08-24T22:20:00+03:00'
         description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+          Mitä uusin tutkimus kertoo suolistomikrobeista? 
+          toimittajana Minna Korhonen
       - title: Näistä levyistä en luovu
         start_time: '2026-08-24T22:45:00+03:00'
         end_time: '2026-08-24T23:39:30+03:00'
