@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-15T02:23:56.102204+00:00'
+  generated_at: '2026-08-16T02:29:06.272802+00:00'
   git:
     branch: main
-    commit: 3baaf00d0fed992e833e6fedc172d0fb6d689734
-  data_hash: 3c3f61f612587fe55643b68a0fcf64af4ee6d8af1b1cf5904ba6488968f1acb7
+    commit: f4e7107477a2dcfd968083c9e6429e7eee57b9b4
+  data_hash: b62b1de2bdf552e360812072b153bacb1cca912eb27cc250ce20cca979d17d03
 data:
   '':
     programmes:
@@ -44,7 +44,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-17T06:30:50+03:00'
         end_time: '2026-08-17T06:50:00+03:00'
-        description: |+
+        description: |-
           Mason: Nyt kulkee halki korpimaan (virsi 498) (Jämsän kristillisen kansanopiston musiikkileirin oppilaiden kuoro/Juha Paukkeri, ja Reeta Kinnunen, urut).
 
           Traitler (sov. Malkamäki): Jeesus on paimen (virsi 177) (Laetificus/Liisa Malkamäki, piano).
@@ -55,6 +55,7 @@ data:
 
           Anonyymi: Oi Herra, kaiken luoja (Ranuan kristillisen kansanopiston kuoro/Jouko Juntunen).
 
+          Juontajana on Joni Timonen.
       - title: Aamuhartaus
         start_time: '2026-08-17T06:50:00+03:00'
         end_time: '2026-08-17T06:59:59+03:00'
@@ -67,7 +68,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-08-17T07:06:00+03:00'
         end_time: '2026-08-17T08:00:00+03:00'
-        description: |+
+        description: |-
           J.S. Bach: Trio uruille G-duuri (John Williams, kitara, ja Peter Hurford, urut).
 
           Myslivecek: Presto assai Concertinosta Es-duuri (Concerto Köln/Werner Ehrhardt).
@@ -88,6 +89,7 @@ data:
 
           Sjögren: Aamukävely (Mats Widlund, piano).
 
+          Juontajana on Joni Timonen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-17T08:00:00+03:00'
         end_time: '2026-08-17T08:07:00+03:00'
@@ -102,7 +104,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-17T09:04:00+03:00'
         end_time: '2026-08-17T09:59:00+03:00'
-        description: |
+        description: |-
           Porter: It's all right with me (Lena Horne).
           Dietmar: Manzanilla (Arja Tuomarila ja Erkki Liikanen).
           Mancini: Moon river (Count Basie).
@@ -119,6 +121,7 @@ data:
           Porter: Ev'ry time we say goodbye (Sammy Davis, Jr.).
 
           Konsertin on toimittanut Pasi Hiihtola.
+          Juontajana on Joni Timonen.
       - title: 'Virtasen taloushistoria: Mitä veroja pitäisi alentaa, mitä veroja pitäisi nostaa?'
         start_time: '2026-08-17T10:00:00+03:00'
         end_time: '2026-08-17T10:54:00+03:00'
@@ -135,6 +138,10 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-08-17T11:57:00+03:00'
         end_time: '2026-08-17T12:00:00+03:00'
+        description: |-
+          Antti Rytkösen Matin, Kaisun ja kissan retket -teoksesta ote Tuulikki ja Topi -lastenlorusta.
+
+          Lukijana on joni Timonen.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-17T12:00:00+03:00'
         end_time: '2026-08-17T12:05:00+03:00'
@@ -213,8 +220,15 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-08-17T18:35:00+03:00'
         end_time: '2026-08-17T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Arponen: Kauttakulkumatkalla (Erkki Ahonen ja Juho Sainio).
+
+          Salmi: Kasvoista kasvoihin (Heli Heikkilä).
+
+          Norjal. kansansäv.: Taivaan kellot (Ertta Salo, laulu, ja Jouko Kunnas, piano).
+
+          Siitonen: Suurin on rakkaus (Fredi).
+
       - title: Iltahartaus
         start_time: '2026-08-17T18:50:00+03:00'
         end_time: '2026-08-17T19:00:00+03:00'
