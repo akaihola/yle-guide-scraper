@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-17T02:29:08.187743+00:00'
+  generated_at: '2026-08-18T02:25:40.387373+00:00'
   git:
     branch: main
-    commit: 5a2765ec49fdbc3ab1f2a6af10d18eef33858910
-  data_hash: 0bd4f1e0219bdae9763066bad9d5963a65a3ab9d2d2e33166ee20db4240c8fc9
+    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
+  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
 data:
   '':
     programmes:
@@ -243,14 +243,17 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-08-21T21:00:00+03:00'
         end_time: '2026-08-21T21:30:00+03:00'
-      - title: Vaihtuva sarja  (1.läh ke klo 12)
+      - title: 'Pieleen mennyt historia: Työttömyydellä on ankara historia'
         start_time: '2026-08-21T21:31:00+03:00'
-        end_time: '2026-08-21T22:25:00+03:00'
-      - title: Tuuli Saksalan keidas
+        end_time: '2026-08-21T22:16:40+03:00'
+        description: |-
+          Miten työttömyyden ongelmia on eri aikoina ratkottu? Tätä pohtivat historiantutkija Ella Viitaniemi, Suomen historian yliopistonlehtori Marko Nenonen, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren. (2024)
+          Sarjan Pieleen mennyt historia kaikki jaksot ovat kuunneltavissa Yle Areenassa.
+      - title: 'Tuuli Saksalan keidas: Nouskaa laivaan! Se vie yli valtameren!'
         start_time: '2026-08-21T22:26:00+03:00'
         end_time: '2026-08-21T23:15:00+03:00'
-        description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+        description: |
+          Keidas on kohtauspaikka, jossa soivat Lähi-idän rytmit, Karibianmeren satamien kadut, Vörumaan luonto ja saamelainen joiku. Musiikilla ei ole rajoja eikä sanoituksilla kielimuureja. Toimittaja on Tuuli Saksala. Ohjelma on uusinta vuodelta 2019. 
       - title: Yöklassinen
         start_time: '2026-08-21T23:40:00+03:00'
         end_time: '2026-08-22T07:30:00+03:00'

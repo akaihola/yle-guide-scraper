@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-17T02:29:06.988502+00:00'
+  generated_at: '2026-08-18T02:25:39.675833+00:00'
   git:
     branch: main
-    commit: 5a2765ec49fdbc3ab1f2a6af10d18eef33858910
-  data_hash: 0bd4f1e0219bdae9763066bad9d5963a65a3ab9d2d2e33166ee20db4240c8fc9
+    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
+  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
 data:
   '':
     programmes:
@@ -127,11 +127,41 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-18T10:55:00+03:00'
         end_time: '2026-08-18T11:00:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: ' Herra Köyhän elämästä'
         start_time: '2026-08-18T11:00:00+03:00'
         end_time: '2026-08-18T11:57:00+03:00'
-        description: |-
+        description: |
+          Erik Satien elämä oli surullinen ja yksinäinen. Samalla hän oli aikansa omaleimaisimpia taiteilijoita. Hän sävelsi riisuttua musiikkia, kirjoitti hapokkaita tekstejä ja oli myös visuaalisesti lahjakas. Hänellä oli ajatuksia kokonaistaideteoksista, mutta eri tyylisiä kuin suurella Herra Wagnerilla. Satien elämä kuvastaa 1900-luvun taitteen pariisilaista taide-elämää. 
+
           Eva Tigerstedt avaa polkuja musiikkiin.
+          Lukijat: Pietari Kylmälä ja Pentti Männikkö. 
+
+
+          Ohjelman musiikit: 
+
+          Erik Satie:
+
+          Musiikkia elokuvaan Entr'acte
+
+          Musiikkia baletista Relache (Nancyn sinfoniaorkesteri, joht. Jérome Kaltenbach)
+
+          Gymnopedie no 3 (Pascal Rogé, piano)
+
+          Ogives no 1 (Olof Höjer, piano)
+
+          Claude Debussy: Ote teoksesta Faunin iltapäivä (Berliinin filharmonikot, joht. Claudio Abbado)
+
+          Erik Satie: 
+
+          Vexations (Alan Marks, piano)
+
+          Je te veux (Juliette, laulu, ja Alexandre Tharaud, piano)
+
+          Kolme päärynänmuotoista kappaletta, osa Vähän lisää (Alexandre Tharaud ja Eric Le Sage, piano)
+
+          Urheilua ja huvituksia, osat: Mauton koraali, Keinu, Metsästys, Morsiamen herääminen, Kalastus, Huvipurjehdus, Merikylpy, Karnevaali, Kilpajuoksut, Nelinurkka, Taukoamaton tango, Ilotulitus (Anne Queffélec, piano)
+
+          Socrate, sinfoninen drama, osa I: Sokrateen muotokuva (Jean-Paul Fouchecourt, tenori, ja Ensemble Erwartung, joht. Bernard Desgraupes)
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-08-18T11:57:00+03:00'
         end_time: '2026-08-18T12:00:00+03:00'
@@ -160,11 +190,11 @@ data:
           Miia Lahti haastattelee. Musiikkikustantajat ry täyttää tänä vuonna 50 vuotta. Mitä musiikin kustantaja tekee ja mikä on kustantajan merkitys suoratoiston aikakaudella?  Radio 1:n iltapäivän vieraana on n. klo 14 Musiikkikustantajien toiminnanjohtaja Jari Muikku, joka on tehnyt pitkän uran musiikkiviennin ja tekijänoikeusasioiden parissa.
 
           N. klo 14:30 kirjailija, näyttelijä Eppu Nuotio nostaa esille kulttuurikentän merkityksen ihmisen hyvinvoinnille. Hänelle teatterit ja kirjat olivat henkireikä ajoittain ahdistavissa nuoruusvuosissa. Sari Valto haastattelee. (Ensilähetys oli 14.8.25.)
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Suomalaistettu Petsamo oli Suomen oma siirtomaa'
         start_time: '2026-08-18T15:00:00+03:00'
         end_time: '2026-08-18T15:58:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Tutkijat Janne Lahti ja Sonja Tanhua  sekä kirjailija Katja Kettu keskustelevat uuden Petsamoa koskevan kirjan pohjalta alueen kolonialismin historiasta, suomalaistamisesta ja siitä, miksi kolttasaamelaisten kokemukset ovat jääneet varjoon. Kulttuuriykkösessä pohditaan, miten ”Petsamon siirtomaahistoria” auttaa ymmärtämään Suomen menneisyyttä. Toimittajana on Jonni Roos.
       - title: Yle Uutiset ja sää
         start_time: '2026-08-18T16:00:00+03:00'
         end_time: '2026-08-18T16:07:00+03:00'
@@ -200,7 +230,7 @@ data:
         start_time: '2026-08-18T17:05:00+03:00'
         end_time: '2026-08-18T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Suomen talous on kääntynyt kasvuun. Mistä tämä kasvu johtuu? Entä milloin se alkaa näkyä ihmisten arjessa? Laboren ennustepäällikkö Juho Koistinen on Leonard Wilhelmuksen haastateltavana.
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-18T17:30:00+03:00'
         end_time: '2026-08-18T17:35:00+03:00'
@@ -208,7 +238,7 @@ data:
         start_time: '2026-08-18T17:35:00+03:00'
         end_time: '2026-08-18T18:30:00+03:00'
         description: |-
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+          Kesän aikana on ilmestynyt paljon hienoa musiikkia ja siitä nautitaan tänään Kissankehdossa. Tunnelma on kuin mummon reseptillä leivottua mustikkapiirakkaa syödessä; perinteistä ja samalla tuoretta
       - title: 'Viikon luontoääni: Mustaleppälintu'
         start_time: '2026-08-18T18:30:00+03:00'
         end_time: '2026-08-18T18:35:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-17T02:29:10.109538+00:00'
+  generated_at: '2026-08-18T02:25:41.738924+00:00'
   git:
     branch: main
-    commit: 5a2765ec49fdbc3ab1f2a6af10d18eef33858910
-  data_hash: 0bd4f1e0219bdae9763066bad9d5963a65a3ab9d2d2e33166ee20db4240c8fc9
+    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
+  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
 data:
   '':
     programmes:
@@ -57,7 +57,29 @@ data:
       - title: 'Yle Uutiset '
         start_time: '2026-08-27T09:00:00+03:00'
         end_time: '2026-08-27T09:03:00+03:00'
-      - title: Marko Gustafsson
+      - title: Muistojen bulevardi
+        start_time: '2026-08-27T09:04:00+03:00'
+        end_time: '2026-08-27T09:59:00+03:00'
+        description: |+
+          Bacharach: Regnet det bara öser ner (Siw Malmkvist).
+          Fisher/Roberts: Into each life some rain must fall (The Ink Spots & Ella Fitzgerald).
+          Mononen: Onni vaihtuu (Raija Isto).
+          Bourdin/Rouzaud: Atlantis (Les Baxter).
+          Stein: Johnny, tu n'es pas un ange (Edith Piaf).
+          Mayfield: Painu pois, Jack (Four Cats).
+          Porter: Att vara kär (C'est magnifique) (Wiola Talvikki).
+          Karjalainen: Hän (J. Karjalainen).
+          Russell: Vaya con dios (Les Paul & Mary Ford).
+          Bolan: Cosmic dancer (T. Rex).
+          Madara/White: Vai tu sei libero (Dalida).
+          Chydenius: Minä kaipaan Espalle takaisin (Sinikka Sokka).
+          Bechet: Si tu vois ma mere (Sidney Bechet).
+          Webb: Mac Arthur Park (Richard Harris).
+          Kosonen: Sinä lupasit (Pepe Willberg, Saimaa-yhtye, Lumos-jouset, Kaartin Soittokunta).
+
+          Toimittajana Susanna Vainiola.
+
+      - title: 'Marko Gustafsson: Käännekohdissa Christoffer Strandberg'
         start_time: '2026-08-27T10:00:00+03:00'
         end_time: '2026-08-27T10:53:00+03:00'
       - title: Yksi on hyvää seuraa
