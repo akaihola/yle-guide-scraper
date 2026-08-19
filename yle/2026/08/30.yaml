@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-18T02:25:42.452730+00:00'
+  generated_at: '2026-08-19T02:27:37.894887+00:00'
   git:
     branch: main
-    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
-  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
+    commit: 815c3fc010405d21543403951d59695d9891beea
+  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
 data:
   '':
     programmes:
@@ -87,6 +87,11 @@ data:
         end_time: '2026-08-30T21:24:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
+      - title: ' KC Kirjapodcast: Kapinoivia naisia ja pakolaisäitejä – Millaisia ovat kirjojen vahvat naiset?'
+        start_time: '2026-08-30T22:23:00+03:00'
+        end_time: '2026-08-30T22:52:00+03:00'
+        description: |-
+          Vieraina Monika Fagerholm, Amani Al-mehsen ja Arundhati Roy.
       - title: 'Romanitarinoita: Kyösti Roth – Elämäntyö, joka jätti jäljen osa 2'
         start_time: '2026-08-30T23:12:00+03:00'
         end_time: '2026-08-30T23:37:00+03:00'

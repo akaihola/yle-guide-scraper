@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-18T02:25:40.387373+00:00'
+  generated_at: '2026-08-19T02:27:34.964333+00:00'
   git:
     branch: main
-    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
-  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
+    commit: 815c3fc010405d21543403951d59695d9891beea
+  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
 data:
   '':
     programmes:
@@ -120,7 +120,7 @@ data:
           Kansansäv.: Hyvää yötä (Georg Ots).
 
           Konsertin on laatinut Pekka Laine.
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Kieli vie'
         start_time: '2026-08-21T10:00:00+03:00'
         end_time: '2026-08-21T10:55:00+03:00'
         description: |-
@@ -205,13 +205,13 @@ data:
         end_time: '2026-08-21T17:05:00+03:00'
       - title: Uutispodcast
         start_time: '2026-08-21T17:05:00+03:00'
-        end_time: '2026-08-21T17:30:00+03:00'
+        end_time: '2026-08-21T17:35:00+03:00'
         description: |-
           Otsikoiden takana joka arkipäivä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-08-21T17:30:00+03:00'
         end_time: '2026-08-21T17:35:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Analogimies, runoilija Tapani Kinnunen'
         start_time: '2026-08-21T17:35:00+03:00'
         end_time: '2026-08-21T18:30:00+03:00'
         description: |-
@@ -239,7 +239,7 @@ data:
         start_time: '2026-08-21T19:02:00+03:00'
         end_time: '2026-08-21T20:10:00+03:00'
         description: |-
-          Sopraano Tuuli Lindeberg ja cembalisti Matias Häkkinen esittävät konsertissa musiikkia, joka on liittynyt 1700-luvun avioelämään ja kotimusisointiin. BRQ Vantaa -festivaalilla 9. elokuuta äänitetyssä konsertissa tutustutaan Bachin toisen vaimon, Anna Magdalenan sekä helsinkiläisen aatelistytön Ulrica Tauben nuottikirjojen antiin. 9.8. Vantaalla Pyhän Laurin kirkossa tallennetun konsertin toimittaa Noora Hirn.
+          Sopraano Tuuli Lindeberg ja cembalisti Matias Häkkinen esittävät konsertissa musiikkia, joka on liittynyt 1700-luvun avioelämään ja kotimusisointiin. BRQ Vantaa -festivaalin konsertissa tutustutaan Bachin toisen vaimon, Anna Magdalenan, sekä helsinkiläisen aatelistytön Ulrica Tauben nuottikirjojen antiin. Vantaalla Pyhän Laurin kirkossa 9.8. tallennetun konsertin toimittaa Noora Hirn.
       - title: 'Politiikkaradio '
         start_time: '2026-08-21T21:00:00+03:00'
         end_time: '2026-08-21T21:30:00+03:00'

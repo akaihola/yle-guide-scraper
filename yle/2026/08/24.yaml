@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-18T02:25:41.103149+00:00'
+  generated_at: '2026-08-19T02:27:36.045028+00:00'
   git:
     branch: main
-    commit: aba9b0c57a12a1d64fd9961d63ce4e76387d09f3
-  data_hash: 651de372a98c2fb1819026485dec646df7bfeee9617c0d9dfb392e8eb84becb2
+    commit: 815c3fc010405d21543403951d59695d9891beea
+  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
 data:
   '':
     programmes:
@@ -91,23 +91,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-24T09:04:00+03:00'
         end_time: '2026-08-24T09:59:00+03:00'
-        description: |+
+        description: |-
           Rodgers: Oh, what a beautiful mornin' (Ray Charles).
           Ellington: Sophisticated lady (Ella Fitzgerald).
           Mårtenson: Ole pienistä hetkistä onnellinen (Lasse Mårtenson).
           Travis: Päivän työ (Olavi Virta).
-          Churchill: Laulain työtäs tee (Harmony Sisters).
+          Churchill: Laulain työtäs tee (Dallapé ja Harmony Sisters).
           Kansansäv.: Early one morning (Roger Whittaker).
           Gaze: On Kalkutassa Ganges (Kai Lind).
           Goodman: St. Pauli ja Reeperbahn (Irwin Goodman).
           Jary/Herz: Das Herz von St. Pauli (Liselotte Malkowsky). 
-          Ferre: Paris canaille (Catherine Sauvage).
+          Ferré: Paris canaille (Catherine Sauvage).
           Tikka: Odotusta Pariisissa (Susanna Haavisto).
           Ciacci/Giangrano: Odota en (Ann Christine).
           Viljanen: En liten önskan (Matti Viljanen).
 
           Konsertin on toimittanut Kai Ulmanen.
-
       - title: 'Virtasen taloushistoria: Ritareita, linnanrouvia ja merirosvoja'
         start_time: '2026-08-24T10:00:00+03:00'
         end_time: '2026-08-24T10:52:00+03:00'
@@ -211,9 +210,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-24T19:00:00+03:00'
         end_time: '2026-08-24T19:02:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Demokratian toivot'
         start_time: '2026-08-24T19:02:00+03:00'
         end_time: '2026-08-24T19:50:00+03:00'
+        description: |-
+          Julkisesta keskustelusta voisi joskus päätellä, että demokratia on kuollut ja politiikka kriisissä. Tuula Rajavaaran dokumentti todistaa asioiden olevan aivan toisin - ainakin Vantaan nuorisovaltuustossa. (es. 14.4.2025)
       - title: Ulkolinja-podcast
         start_time: '2026-08-24T20:05:00+03:00'
         end_time: '2026-08-24T20:25:00+03:00'
@@ -226,11 +227,11 @@ data:
         description: |-
           Mitä uusin tutkimus kertoo suolistomikrobeista? 
           toimittajana Minna Korhonen
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Analogimies, runoilija Tapani Kinnunen'
         start_time: '2026-08-24T22:45:00+03:00'
         end_time: '2026-08-24T23:39:30+03:00'
         description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
       - title: Yöklassinen
         start_time: '2026-08-24T23:40:00+03:00'
         end_time: '2026-08-25T06:30:00+03:00'
