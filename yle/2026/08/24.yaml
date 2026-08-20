@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-19T02:27:36.045028+00:00'
+  generated_at: '2026-08-20T02:26:41.277607+00:00'
   git:
     branch: main
-    commit: 815c3fc010405d21543403951d59695d9891beea
-  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
+    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
+  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
 data:
   '':
     programmes:
@@ -47,6 +47,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-08-24T06:30:50+03:00'
         end_time: '2026-08-24T06:50:00+03:00'
+        description: |+
+          Koraalitoisinto: Jeesus, sana elämän (virsi 202) (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
+
+          K. Haapasalo (sov. Kesti): Kanteleeni (Soli Deo Gloria -kamariorkesterin jousikvartetti).
+
+          Anonyymi: Nyt ylös vuoriin tiellä (virsi 383) (Cantilene/Merja Lohilahti).
+
+          Koraalitoisinto: Vuodata nyt meihin, Herra (virsi 948) (Minsku Tammela, laulu, Tommi Asplund, viulu, Senni Valtonen, kantele, Maria Kalaniemi, harmonikka, Hannu Rantanen, kontrabasso, ja Timo Alakotila, piano).
+
       - title: Aamuhartaus
         start_time: '2026-08-24T06:50:00+03:00'
         end_time: '2026-08-24T06:59:59+03:00'
@@ -85,6 +94,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-08-24T08:07:00+03:00'
         end_time: '2026-08-24T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Jarmo Laitaneva.
       - title: 'Yle Uutiset '
         start_time: '2026-08-24T09:00:00+03:00'
         end_time: '2026-08-24T09:03:00+03:00'
@@ -134,9 +145,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-24T13:00:00+03:00'
         end_time: '2026-08-24T13:30:00+03:00'
-      - title: Radio 1:n iltapäivä
+      - title: 'Radio 1:n iltapäivä: viulumusiikin lehtori ja Suomen jousisoitinopettajien puheenjohtaja Päivyt Meller - mikä tekee jousisoittimen soiton opiskelusta erityistä?'
         start_time: '2026-08-24T13:30:00+03:00'
         end_time: '2026-08-24T15:00:00+03:00'
+        description: |-
+          Juontajana Joni Timonen. N. klo 14 studiovieraana on Sibelius-Akatemian viulumusiikin lehtori ja Suomen jousisoitinopettajien puheenjohtaja Päivyt Meller. Elokuun lopussa Helsinkiin kokoontuu yli 300 jousipedagogia ja muusikkoa. Mikä tekee jousisoittimen soiton opiskelusta erityistä?
       - title: Kulttuuriykkönen
         start_time: '2026-08-24T15:00:00+03:00'
         end_time: '2026-08-24T15:58:00+03:00'
@@ -215,19 +228,21 @@ data:
         end_time: '2026-08-24T19:50:00+03:00'
         description: |-
           Julkisesta keskustelusta voisi joskus päätellä, että demokratia on kuollut ja politiikka kriisissä. Tuula Rajavaaran dokumentti todistaa asioiden olevan aivan toisin - ainakin Vantaan nuorisovaltuustossa. (es. 14.4.2025)
-      - title: Ulkolinja-podcast
+      - title: 'Ulkolinja-podcast: Detroitissa rasismin perintö kärjistää köyhyyskierrettä '
         start_time: '2026-08-24T20:05:00+03:00'
         end_time: '2026-08-24T20:25:00+03:00'
+        description: |-
+          Autoteollisuudestaan tunnettu Detroit on nykyään kurjan ja köyhän kaupungin maineessa. Kurjistumisen taustalta löytyy talouden rakkemuutoksen lisäksi raskas rasismin taakka. 
       - title: Politiikkaradio
         start_time: '2026-08-24T21:00:00+03:00'
         end_time: '2026-08-24T21:30:00+03:00'
-      - title: 'Tiedeykkönen: Suolistomikrobien merkitys terveydelle on oletettua isompi'
+      - title: 'Tiedeykkönen: Suolistomikrobien merkitys terveydelle oletettua isompi'
         start_time: '2026-08-24T21:30:30+03:00'
         end_time: '2026-08-24T22:20:00+03:00'
         description: |-
-          Mitä uusin tutkimus kertoo suolistomikrobeista? 
-          toimittajana Minna Korhonen
-      - title: 'Näistä levyistä en luovu: Analogimies, runoilija Tapani Kinnunen'
+          Mitä uusin tutkimus kertoo suolistomikrobeista? Kuinka paljon ne vaikuttavat terveyteen ja toisaalta sairauksien syntymiseen kuten masennukseen tai muistisairauksiin.
+          Toimittajana Minna Korhonen, haastateltavana mikrobitutkija Justus Reunanen Oulun yliopistosta.
+      - title: 'Näistä levyistä en luovu: Runoilija Tapani Kinnunen'
         start_time: '2026-08-24T22:45:00+03:00'
         end_time: '2026-08-24T23:39:30+03:00'
         description: |-

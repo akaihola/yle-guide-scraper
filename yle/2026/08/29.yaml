@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-19T02:27:37.653017+00:00'
+  generated_at: '2026-08-20T02:26:43.585497+00:00'
   git:
     branch: main
-    commit: 815c3fc010405d21543403951d59695d9891beea
-  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
+    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
+  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
 data:
   '':
     programmes:
@@ -61,9 +61,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-29T12:00:00+03:00'
         end_time: '2026-08-29T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Rikhard III - miten shakespearilainen tutkielma vallasta osuu aikaamme?'
         start_time: '2026-08-29T12:05:00+03:00'
         end_time: '2026-08-29T13:00:00+03:00'
+        description: |-
+          Shakespeare ei ole puolueellinen hahmojensa suhteen, ja siksi ne kestävät aikaa ja uusia lähestymistapoja. Rikhard III on hahmona karismaattinen manipulaattori, joka viettelee lukija-katsojaa liittolaisekseen. Nimihenkilön raaoin ottein saavutettu valta eristää hänet muusta maailmasta, ja entiset liittolaiset muuttuvat uhreiksi, kun he eivät enää palvele hänen tarkoitusperiään. Millaisia yhteyksiä häikäilemättömällä Rikhard III:lla on aikamme hahmoihin vallan kahvassa ja millaisia yhteyksiä nimihenkilön puheenvuorot luovat nykypäivän  populistiseen retoriikkaan?
+          Näyttelijä-ohjaaja Jussi Nikkilä ja Shakespeare-tutkija Nely Keinänen avaavat monisäikeisesti näytelmän maailmaa ja sen ajattomuutta Marja Vehkasen vieraina.
       - title: 'Näistä levyistä en luovu: Reeta Vestman'
         start_time: '2026-08-29T13:00:00+03:00'
         end_time: '2026-08-29T13:55:00+03:00'

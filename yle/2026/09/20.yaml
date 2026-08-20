@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-19T02:27:43.469995+00:00'
+  generated_at: '2026-08-20T02:26:49.544272+00:00'
   git:
     branch: main
-    commit: 815c3fc010405d21543403951d59695d9891beea
-  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
+    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
+  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
 data:
   '':
     programmes:
@@ -54,19 +54,19 @@ data:
         description: |-
           Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Uudet levyt
-        start_time: '2026-09-20T14:00:00+03:00'
-        end_time: '2026-09-20T14:55:00+03:00'
-      - title: Ykköskolumni
-        start_time: '2026-09-20T14:55:00+03:00'
-        end_time: '2026-09-20T15:00:00+03:00'
-        description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+        start_time: '2026-09-20T13:00:00+03:00'
+        end_time: '2026-09-20T13:55:00+03:00'
       - title: Klassikkokuunnelmia
         start_time: '2026-09-20T15:00:00+03:00'
         end_time: '2026-09-20T15:35:00+03:00'
       - title: Musiikkikamari
-        start_time: '2026-09-20T15:35:00+03:00'
+        start_time: '2026-09-20T15:40:00+03:00'
         end_time: '2026-09-20T15:55:00+03:00'
+      - title: Ykköskolumni
+        start_time: '2026-09-20T15:55:00+03:00'
+        end_time: '2026-09-20T16:00:00+03:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
       - title: Yle Uutiset ja sää
         start_time: '2026-09-20T16:00:00+03:00'
         end_time: '2026-09-20T16:07:00+03:00'

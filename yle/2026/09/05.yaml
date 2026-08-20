@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-19T02:27:39.609629+00:00'
+  generated_at: '2026-08-20T02:26:45.732415+00:00'
   git:
     branch: main
-    commit: 815c3fc010405d21543403951d59695d9891beea
-  data_hash: f0786cec8a0f66314ba8c88dc1f8ff0a9789065035f202be422d7fd65dbfea44
+    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
+  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
 data:
   '':
     programmes:
@@ -37,6 +37,8 @@ data:
       - title: Maailman tärkein pieni asia
         start_time: '2026-09-05T08:40:00+03:00'
         end_time: '2026-09-05T09:00:00+03:00'
+        description: |-
+          Helena Honka-Hallila on ollut siirtolapuutarhaihminen jo lähes 40 vuotta. Oma palsta Peltolan siirtolapuutarhassa Turussa on tärkeä paikka. Hyvin tärkeää on myös siirtolapuutarhaharrastukseen liittyvä yhteisöllisyys.
       - title: 'Yle Uutiset '
         start_time: '2026-09-05T09:00:00+03:00'
         end_time: '2026-09-05T09:03:00+03:00'
@@ -96,6 +98,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-09-05T16:07:00+03:00'
         end_time: '2026-09-05T16:59:59+03:00'
+        description: |-
+          Tshaikovski: Valssi bal. Prinsessa Ruusunen (New Yorkin FO/Kurt Masur).
+
+          Barns: Idylli (Alexandra Mackenzie, sello, ja Ingrid Sawers, piano).
+
+          Bizet: Kuorokohtaus "Les voici, voici la quadrille" oopp. Carmen (Robert Shaw -kuoro ja RCA Victor -ork./Robert Shaw).
+
+          Nava d'Adda: Scherzo pianotriosta Es-duuri (La Gaia Scienza).
+
+          Dudley: Poldark prelude tv-sarj. Poldark (Lang Lang, piano).
+
+          Verdi: Violettan aaria "Addio del passato" oopp. La Traviata (Edita Gruberová, sopraano, ja Lontoon SO/Carlo Rizzi).
+
+          Chaminade: Sommeil d'enfant (Michael Gross, sello, ja Johann Blanchard, piano).
+
+          Richter: Whispers tv-sarj. Loistava ystäväni (Ork./Max Richter).
+
+          Price: Dance of the cotton blossoms (Puuvillankukkien tanssi) (Althea Waites, piano).
+
+          Mendelssohn: Sanaton laulu n:o 25 G-duuri (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          Kansanlaul: My love is like a red, red rose (The Choral Scholars of University College Dublin/Desmond Earley, ja Mikie Smyth, tinapilli).
+
+          Williams: Hedwig's theme elok. Harry Potter ja viisasten kivi (Anne-Sophie Mutter, viulu, ja Recording Arts Orchestra of Los Angeles/John Williams).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-05T17:00:00+03:00'
         end_time: '2026-09-05T17:05:00+03:00'
