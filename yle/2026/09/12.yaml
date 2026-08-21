@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:47.349154+00:00'
+  generated_at: '2026-08-21T02:30:56.814761+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -125,9 +125,13 @@ data:
       - title: Oopperailta
         start_time: '2026-09-12T19:02:00+03:00'
         end_time: '2026-09-12T21:00:00+03:00'
-      - title: Euroradion konsertti-ilta
+      - title: 'Konsertti: BBC Proms -festivaalin viimeinen ilta'
         start_time: '2026-09-12T21:00:00+03:00'
         end_time: '2026-09-13T00:30:00+03:00'
+        description: |
+          Maailman suurin klassisen musiikin festivaali huipentuu suoraan lähetykseen Lontoon Royal Albert Hallista. Luvassa on muun muassa Bernsteinin, Barberin ja Gershwinin musiikkia perinteisiä viimeisen illan numeroita unohtamatta.
+          Illan supertähdet ovat pianisti Yuja Wang sekä karismaattinen skottitenori Nicky Spence. BBC:n sinfoniaorkesteria ja -kuoroa johtaa Sakari Oramo, jolle tämä Last Night of the Proms on jo seitsemäs. 
+          Pasilan studiossa suoran lähetyksen toimittaa Ainomaija Pennanen. 
       - title: Aitiovieras (1. läh ti  klo 13.35)
         start_time: '2026-09-12T21:26:00+03:00'
         end_time: '2026-09-12T21:50:00+03:00'

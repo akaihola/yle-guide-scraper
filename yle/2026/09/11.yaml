@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:47.063470+00:00'
+  generated_at: '2026-08-21T02:30:56.631793+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -146,9 +146,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-11T19:00:00+03:00'
         end_time: '2026-09-11T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Kaivosfestivaali – Aallot viikkokausia oikealla puolellani'
         start_time: '2026-09-11T19:02:00+03:00'
         end_time: '2026-09-11T21:00:00+03:00'
+        description: |-
+          Konsertissa kuultava musiikki vie yleisön mukanaan alttoviulistin pitkälle yksinvaellukselle Lounais-Englannin auringonpaahteisilla ja myrskyisillä rannoilla. Puhetta, musiikkia ja kuvia yhdistelevä konsertti välittää tunnelmia, ajatuksia, haasteita ja onnistumisia vaellukselta ja pohtii osaltaan ihmisen paikkaa loputtomalta tuntuvan Atlantin valtameren äärellä. Esiintymässä Tami Pohjola, viulu; Mari Viluksela, alttoviulu; Sirja Nironen, sello; Aleksei Zaitsev, piano. Outokummun Vanhan kaivoksen Teatteri Kiisussa 4.9.2026 tallennetun konsertin toimittaa Pia Antikainen.
+
+          Ohjelma:
+
+          Sally Beamish(*1956): Stone, Salt and Sky viululle ja sellolle
+          II Horizon
+          III Harbour Blues
+
+          Caroline Shaw (*1982): Limestone and Felt alttoviululle ja sellolle
+
+          Henry Cowell (1897-1965): The Tides of Manaunaun pianolle
+
+          Ingibjörg Ýr (*1990): Undiralda – Undercurrent viululle ja alttoviululle
+
+          Maleena Linjama (*1992): Zirkoni ZrSiO4 alttoviululle ja pianolle
+
+          Rebecca Clarke (1886-1979): I’ll bid my heart be still alttoviululle ja pianolle
       - title: 'Politiikkaradio '
         start_time: '2026-09-11T21:00:00+03:00'
         end_time: '2026-09-11T21:30:00+03:00'

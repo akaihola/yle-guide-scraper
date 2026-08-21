@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:43.859785+00:00'
+  generated_at: '2026-08-21T02:30:53.092397+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -18,11 +18,18 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-08-30T11:00:00+03:00'
         end_time: '2026-08-30T11:59:00+03:00'
-      - title: 'Elävä historia: USA:n uskonnollisen oikeiston historia'
+      - title: 'Elävä historia: Amerikkalaisten ristiretket - miten sota ja uskonto ovat Yhdysvalloissa kietoutuneet toisiinsa '
         start_time: '2026-08-30T12:05:00+03:00'
-        end_time: '2026-08-30T12:55:00+03:00'
-        description: |-
-          Toimittajana Harri Alanne.
+        end_time: '2026-08-30T13:00:00+03:00'
+        description: |+
+          Yhdysvallat on hyvin uskonnollinen kansakunta ja uskonnolla on ollut merkittävä rooli sen käymissä sodissa ja diplomatiassa. Yhdysvaltain sotaretkissä on usein ollut moraalisen ristiretken sävy.
+          Mistä uskonnon suuri merkitys Yhdysvalloissa oikein lopulta johtuu? Miten uskonto on kietoutunut Yhdysvaltain ulkopolitiikkaan? Mikä rooli tässä on Amerikan mantereelle 1600-luvulla saapuneilla puritaaneilla?
+          Haastateltavina Yhdysvaltain tutkimuksen emeritusprofessori Markku Henriksson ja teologian tohtori Olli Saukko.
+          Toimittaja: Harri Alanne 
+          Äänisuunnittelija: Katri Koivula
+          Lukija: Pasi Toiviainen
+
+
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-08-30T13:00:00+03:00'
         end_time: '2026-08-30T13:57:00+03:00'
@@ -72,11 +79,9 @@ data:
 
           Konsertin on toimittanut Riikka Holopainen. 
 
-      - title: Etnokonsertti Totó la Momposina
+      - title: Etnokonsertteja
         start_time: '2026-08-30T17:06:00+03:00'
         end_time: '2026-08-30T18:00:00+03:00'
-        description: |
-          Kolumbialainen laulaja Totó la Momposina menehtyi toukokuussa 2026. Totó la Momposina oli sukujuuriltaan sekä Kolumbian alkuperäiskansaa että afro-kolumbialainen. Hän nosti afrokolumbialaisen perinnemusiikin ja rytmit kansainväliseen tietoisuuteen. Kuulemme Totó la Momposina konsertin WOMAD-festivaalilta 31.7.2015. Toimittajana on Miika Lauriala. Ohjelman ensilähetys oli 31.5.2026. 
       - title: Jumalanpalvelus Hämeenlinnan adventtiseurakunnasta
         start_time: '2026-08-30T20:00:00+03:00'
         end_time: '2026-08-30T21:00:00+03:00'

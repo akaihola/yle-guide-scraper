@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:48.670948+00:00'
+  generated_at: '2026-08-21T02:30:57.756435+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -106,9 +106,23 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-16T19:00:00+03:00'
         end_time: '2026-09-16T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Kaivosfestivaali – Aaltojen aiheuttajat, rajojen rikkojat'
         start_time: '2026-09-16T19:02:00+03:00'
         end_time: '2026-09-16T21:00:00+03:00'
+        description: |-
+          Aaltojen inspiroimaa musikkia klassista musiikkia uudistaneilta säveltäjiltä. Esiintymässä Tami Pohjola, viulu; Mari Viluksela, alttoviulu; Sirja Nironen, sello; Aleksei Zaitsev, piano. Katariina Vähäkallion tanssiteos Missy Mazzolin ja Henry Cowellin musiikkiin. Esiintymässä Riveria Outokummun tanssinkoulutuksen opiskelijat; Aleksei Zaitsev, piano. Outokummun Teatteri Kiisussa 6.9.2026 tallennetun konsertin toimitaa Ainomaija Pennanen.
+
+          Ohjelma:
+
+          Missy Mazzoli (*1980): Orizzonte pianolle ja elektroniikalle
+
+          Henry Cowell (1897-1965): The Banshee pianolle
+
+          Cecilia Damström (*1988): Celestial Beings viululle ja alttoviululle
+
+          Kaija Saariaho (1952-2023): Light and Matter pianotriolle
+
+          Sebastian Fagerlund (*1972): Oceano jousitriolle
       - title: 'Politiikkaradio '
         start_time: '2026-09-16T21:00:00+03:00'
         end_time: '2026-09-16T21:30:00+03:00'

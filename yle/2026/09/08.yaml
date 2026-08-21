@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:46.521972+00:00'
+  generated_at: '2026-08-21T02:30:56.036406+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -38,11 +38,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-09-08T09:04:00+03:00'
         end_time: '2026-09-08T09:59:00+03:00'
-        description: |
-          Gietz: Astuhan haaveiden purteen (Taru Pyhälä). 
+        description: |-
+          Gietz: Astuhan haaveiden purteen (Taru Pyhälä).
           Silver: The Cape Verdean blues (Horace Silver Quintet).
           Gummoe: Regnets rytme (Ole Ivars).
-          Last/Rae: Onnellinen sydän (Tuulikki Eloranta).
+          Rae/Last: Onnellinen sydän (Tuulikki Eloranta).
           Becaud: Mademoiselle Lise (Gilbert Becaud).
           Kreuder: Mein blondes Baby (Marlene Dietrich).
           Nemo: 'Tis autumn (Nat King Cole Trio).
@@ -112,7 +112,7 @@ data:
 
           Respighi: La colomba (Kyyhkynen) sarj. Gli uccelli (Orpheus-kamariork.).
 
-          Glazunov: Pieni adagio baletista Vuodenajat (Marc-André Hamelin, piano).
+          Glazunov: Pieni adagio (Marc-André Hamelin, piano).
 
           Wolf-Ferrari: Strimpellata teoks. Suite-concertino F-duuri (Karen Geoghegan, fagotti, ja BBC:n FO/Gianandrea Noseda).
 
@@ -133,7 +133,6 @@ data:
           Jongen: Nostalgique (Nostalginen) kok. 13 preludia (Ivan Ilic, piano).
 
           Liszt: Consolation Des-duuri (James Galway, huilu, ja Lontoon kansallinen FO/David Measham).
-
 
           Konsertin on laatinut Ainomaija Pennanen. 
       - title: Yle Uutiset ja sää

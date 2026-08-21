@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-20T02:26:46.891774+00:00'
+  generated_at: '2026-08-21T02:30:56.390052+00:00'
   git:
     branch: main
-    commit: 3c536db1b7e019327a30db6dd1d4018dbce6c8ac
-  data_hash: 68f0cef1d68030c9118d1e08363432926b73a8ca32c09f5f606505b428e2c481
+    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
+  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
 data:
   '':
     programmes:
@@ -19,7 +19,8 @@ data:
         start_time: '2026-09-10T06:50:00+03:00'
         end_time: '2026-09-10T06:59:59+03:00'
         description: |-
-          Yhteisen seurakuntatyön pappi Jari Pitkälä, Helsinki
+          "Jumalan rauha ei odota parempaa aikaa"
+          Yhteisen seurakuntatyön pappi Jari Pitkälä Helsingistä pohtii vuodenkierron tuomia erilaisia viikkoja sekä juuri tähän hetkeen annettua Jumalan rauhaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-10T07:00:00+03:00'
         end_time: '2026-09-10T07:05:00+03:00'
@@ -83,6 +84,35 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-09-10T16:07:00+03:00'
         end_time: '2026-09-10T16:59:00+03:00'
+        description: |+
+          Bolzoni: Menuetti jousiorkesterille (Detroitin SO/Neeme Järvi).
+
+          P. J. Hannikainen: Annin laulu (Ylioppilaskunnan Laulajat/Matti Hyökki).
+
+          Tschetschulin: Berceuse (Annemarie Åström, viulu, ja Sonja Fräki, piano). 
+
+          Musorgski: Scherzo B-duuri (Berliinin filharmonikot/Claudio Abbado). 
+
+          A. Scarlatti: Toivon aaria "Mentre io godo in dolce oblio" orat. Il giardino di rose (Cecilia Bartoli, mezzosopraano, ja Les Musiciens du Louvre/Marc Minkowski).
+
+          Schubert: Moment musical n:o 3 f-molli kok. Moments musicaux (Mitsuko Uchida, piano).
+
+          Nielsen: Kineserdans (Kiinalainen tanssi) sarj. Aladdin (Ruotsin radion SO/Esa-Pekka Salonen).
+
+          Farrenc: Andante sostenuto sekstetosta puhallinkvintetille ja pianolle (Les Vents Francais ja Eric Le Sage, piano).
+
+          Verdi: Riccardon aaria "Di' tu se fedele" oopp. Naamiohuvit (Placido Domingo, tenori, Sumi Jo, sopraano, Kurt Rydl, basso, Goran Simic, basso, sekä Wienin valtionoopperan kuoro ja Wienin filharmonikot/Herbert von Karajan). 
+
+          Pujol: Tango (David Russell, kitara).
+
+          Milhaud: Brazileira sarj. Scaramouche (Philippe Corre ja Edouard Exerjean, piano).
+
+          Tosti: Marechiare (Giuseppe Di Stefano, tenori, ja ork./Dino Olivieri).
+
+          Mendelssohn: Andante con moto sinf. n:o 4 A-duuri (Italialainen) (Atlantan SO/Yoel Levi).
+
+          Konsertin on laatinut Ainomaija Pennanen.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-10T17:00:00+03:00'
         end_time: '2026-09-10T17:05:00+03:00'
