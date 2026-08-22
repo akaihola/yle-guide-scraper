@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-21T02:30:54.779516+00:00'
+  generated_at: '2026-08-22T02:24:59.730539+00:00'
   git:
     branch: main
-    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
-  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
+    commit: d56076cf87234975c70bba22bbe43c458d054df8
+  data_hash: bff03d67f95edc0f1d55601369568dd4664e35860944624ac9ada2f8fa7c9522
 data:
   '':
     programmes:
@@ -84,6 +84,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-09-04T11:57:00+03:00'
         end_time: '2026-09-04T12:00:00+03:00'
+        description: |-
+          Jaakko Juteinin runo Juoma-laulu
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T12:00:00+03:00'
         end_time: '2026-09-04T12:05:00+03:00'
@@ -112,12 +114,36 @@ data:
         start_time: '2026-09-04T13:35:00+03:00'
         end_time: '2026-09-04T14:00:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Tommi Kinnunen kertoo romaaninsa Pitkä aukea syntytarinan. Jakke Holvas haastattelee.
       - title: Musiikkiaitio
         start_time: '2026-09-04T14:00:00+03:00'
         end_time: '2026-09-04T15:00:00+03:00'
-        description: |-
-          Lähde mukaan musiikin maailmankiertueelle
+        description: |+
+          Lähde mukaan musiikin maailmankiertueelle!
+
+
+          Hancock: Watermelon Man (David Benoit).
+
+          Yona: Syyssävelmä.
+
+          Gunning: The double clue tv-sarj. Hercule Poirot (Leslie Pearson, piano, Stan Sulzmann, saksofoni, ja ork./Christopher Gunning).
+
+          Blick Bassy: Maqui.
+
+          Hirvonen, Muikku, Kauhanen: Ukkonen (Okra Playground).
+
+          Ahehehinnout, Pierre, Bentho: Omonyi (Orchestre Poly-Rythmo de Cotonou).
+
+          Serrano Dalmas: Tootsology (Antonio Serrano, Albert Sanz, Dee Jay Foster ja Esteve Pi).
+
+          Jobim: Chovendo na roseira (Elis Regina ja Antonio Carlos Jobim).
+
+          Leppänen: Ilta (Imandra).
+
+          Renard: Le Plateau du nord (Serge Bouzouki). 
+
+          Kosonen: Oodi kahville (Emma Salokoski).
+
       - title: Kulttuuriykkönen
         start_time: '2026-09-04T15:00:00+03:00'
         end_time: '2026-09-04T15:58:00+03:00'
@@ -129,34 +155,35 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-09-04T16:07:00+03:00'
         end_time: '2026-09-04T16:59:00+03:00'
-        description: |-
-          Kern: Alkusoitto musikaalista Show boat (Lontoon Sinfonietta-orkesteri/John McGlinn).
+        description: |+
+          Kern: Alkusoitto musik. Show boat (Lontoon Sinfonietta-orkesteri/John McGlinn).
 
-          Schubert: Sei mir gegruesst (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+          Schubert: Sei mir gegrüsst (Sua tervehdin) (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
 
-          Bortkiewicz: Preludi pianolle es-molli op.6/1 (Jouni Somero).
+          Bortkiewicz: Preludi es-molli kok. Trois morceaux (Jouni Somero, piano).
 
           Bellini: Vaga luna che inargenti (Kulkee kuu hopeinen) (Luciano Pavarotti, tenori, ja Lontoon Philharmonia-ork./Piero Gamba).
 
           Paganini: Duo sooloviululle (Duo merveille) (Rachel Barton Pine).
 
-          Hakola: Finaali (Khasene) konsertosta klarinetille ja orkesterille (Kari Kriikku, klarinetti, ja RSO/Sakari Oramo).
+          Hakola: Khasene kons. klarinetille ja orkesterille (Kari Kriikku ja RSO/Sakari Oramo).
 
           A. Merikanto: Pan (Matti Lehtinen, baritoni, ja Pentti Koskimies, piano). 
 
-          Puccini: Krysanteemit (Philarte-kvartetti).
+          Puccini: Crisantemi (Krysanteemit)(Philarte Quartet).
 
           Loewe: Häälaulu (Matti Tuloisela, baritoni, ja Marja Oja, piano).
 
           Kilar: Vocalise elok. The Ninth Gate (Yhdeksäs portti) (Sumi Jo, sopraano, ja Prahan FO/Stepan Konicek). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T17:00:00+03:00'
         end_time: '2026-09-04T17:05:00+03:00'
-      - title: Uutispodcast
+      - title: 'Kun Ruotsi muuttui 3/5: Miksi Ruotsissa ei puhuta köyhistä?'
         start_time: '2026-09-04T17:05:00+03:00'
         end_time: '2026-09-04T17:35:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
+        description: |
+          Kirjeenvaihtaja Jenny Matikaisen minisarjan kolmas jakso käsittelee tuloeroja. Kaikki tietävät, että Ruotsissa on rikkaita, mutta Ruotsissa on myös köyhyyttä, ihan yhtä paljon kuin Suomessa. Lisäksi maa on naapureitaan selvästi taloudellisesti epätasa-arvoisempi, mutta sitä ei haluta myöntää. Jenny on huomannut, että Ruotsin mediassa pienituloisten ääni ei juuri kuulu. Tarvitaan tukholmalainen suomalaisprofessori selittämään, miksi näin on.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-04T17:30:00+03:00'
         end_time: '2026-09-04T17:35:00+03:00'

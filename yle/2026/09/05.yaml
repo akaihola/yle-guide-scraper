@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-21T02:30:55.097422+00:00'
+  generated_at: '2026-08-22T02:24:59.905030+00:00'
   git:
     branch: main
-    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
-  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
+    commit: d56076cf87234975c70bba22bbe43c458d054df8
+  data_hash: bff03d67f95edc0f1d55601369568dd4664e35860944624ac9ada2f8fa7c9522
 data:
   '':
     programmes:
@@ -56,6 +56,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-09-05T11:57:00+03:00'
         end_time: '2026-09-05T12:00:00+03:00'
+        description: |-
+          Ote A. oksasen tunosta Kerran viinikellarissa
       - title: Yle Uutiset ja sää
         start_time: '2026-09-05T12:00:00+03:00'
         end_time: '2026-09-05T12:05:00+03:00'

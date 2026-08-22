@@ -1,14 +1,145 @@
 metadata:
-  generated_at: '2026-08-21T02:30:59.615328+00:00'
+  generated_at: '2026-08-22T02:25:03.654451+00:00'
   git:
     branch: main
-    commit: c18f1e42b058ea4e73464d87283b3c7b1d7696b1
-  data_hash: 6c70be91685be093d54cf74f01470f382c6b1995a693e371192cb1846ad3f1e1
+    commit: d56076cf87234975c70bba22bbe43c458d054df8
+  data_hash: bff03d67f95edc0f1d55601369568dd4664e35860944624ac9ada2f8fa7c9522
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-09-25T00:00:00+03:00'
         end_time: '2026-09-25T06:30:00+03:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Hartaita säveliä
+        start_time: '2026-09-25T06:30:50+03:00'
+        end_time: '2026-09-25T06:50:00+03:00'
+      - title: Aamuhartaus
+        start_time: '2026-09-25T06:50:00+03:00'
+        end_time: '2026-09-25T06:59:59+03:00'
+        description: |-
+          Kirkkoherra Ilona Yliräisänen, Savukoski
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T07:00:00+03:00'
+        end_time: '2026-09-25T07:05:00+03:00'
+      - title: Aamusoitto
+        start_time: '2026-09-25T07:06:00+03:00'
+        end_time: '2026-09-25T08:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T08:00:00+03:00'
+        end_time: '2026-09-25T08:07:00+03:00'
+      - title: Radio 1:n aamu
+        start_time: '2026-09-25T08:07:00+03:00'
+        end_time: '2026-09-25T09:00:00+03:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-09-25T09:00:00+03:00'
+        end_time: '2026-09-25T09:03:00+03:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-09-25T09:04:00+03:00'
+        end_time: '2026-09-25T09:59:00+03:00'
+      - title: Kalle Haatanen
+        start_time: '2026-09-25T10:00:00+03:00'
+        end_time: '2026-09-25T10:55:00+03:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-09-25T10:55:00+03:00'
+        end_time: '2026-09-25T11:00:00+03:00'
+      - title: Narrin aamulaulu - Outi Paananen
+        start_time: '2026-09-25T11:00:00+03:00'
+        end_time: '2026-09-25T11:55:00+03:00'
+        description: |-
+          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-09-25T11:55:00+03:00'
+        end_time: '2026-09-25T11:57:00+03:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-09-25T11:57:00+03:00'
+        end_time: '2026-09-25T12:00:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T12:00:00+03:00'
+        end_time: '2026-09-25T12:05:00+03:00'
+      - title: Tiedeykkönen
+        start_time: '2026-09-25T12:05:00+03:00'
+        end_time: '2026-09-25T12:55:00+03:00'
+        description: |-
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+      - title: Politiikkaradio
+        start_time: '2026-09-25T13:00:00+03:00'
+        end_time: '2026-09-25T13:30:00+03:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-09-25T13:30:00+03:00'
+        end_time: '2026-09-25T13:35:00+03:00'
+      - title: Kirjani tarina
+        start_time: '2026-09-25T13:35:00+03:00'
+        end_time: '2026-09-25T14:00:00+03:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Musiikkiaitio
+        start_time: '2026-09-25T14:00:00+03:00'
+        end_time: '2026-09-25T15:00:00+03:00'
+        description: |-
+          Lähde mukaan musiikin maailmankiertueelle.
+      - title: Kulttuuriykkönen
+        start_time: '2026-09-25T15:00:00+03:00'
+        end_time: '2026-09-25T15:58:00+03:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T16:00:00+03:00'
+        end_time: '2026-09-25T16:07:00+03:00'
+      - title: Faunin iltapäivän kuuntelijoiden toiveita
+        start_time: '2026-09-25T16:07:00+03:00'
+        end_time: '2026-09-25T16:59:00+03:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T17:00:00+03:00'
+        end_time: '2026-09-25T17:05:00+03:00'
+      - title: Uutispodcast
+        start_time: '2026-09-25T17:05:00+03:00'
+        end_time: '2026-09-25T17:30:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-09-25T17:30:00+03:00'
+        end_time: '2026-09-25T17:35:00+03:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-09-25T17:35:00+03:00'
+        end_time: '2026-09-25T18:30:00+03:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+      - title: Hartaita säveliä
+        start_time: '2026-09-25T18:35:00+03:00'
+        end_time: '2026-09-25T18:50:00+03:00'
+      - title: Iltahartaus
+        start_time: '2026-09-25T18:50:00+03:00'
+        end_time: '2026-09-25T19:00:00+03:00'
+        description: |-
+          Henkisen ja hengellisen tuen asiantuntija Virpi Sipola, Helsinki
+      - title: Yle Uutiset ja sää
+        start_time: '2026-09-25T19:00:00+03:00'
+        end_time: '2026-09-25T19:02:00+03:00'
+      - title: Kotimainen konsertti
+        start_time: '2026-09-25T19:02:00+03:00'
+        end_time: '2026-09-25T21:00:00+03:00'
+      - title: 'Politiikkaradio '
+        start_time: '2026-09-25T21:00:00+03:00'
+        end_time: '2026-09-25T21:30:00+03:00'
+      - title: Aitiovieras (1. läh ti  klo 13.35)
+        start_time: '2026-09-25T21:31:00+03:00'
+        end_time: '2026-09-25T21:55:00+03:00'
+      - title: Sari Valto
+        start_time: '2026-09-25T21:55:00+03:00'
+        end_time: '2026-09-25T22:50:00+03:00'
+        description: |-
+          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+      - title: Tuuli Saksalan keidas
+        start_time: '2026-09-25T22:51:00+03:00'
+        end_time: '2026-09-25T23:39:00+03:00'
+        description: |-
+          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+      - title: Yöklassinen
+        start_time: '2026-09-25T23:40:00+03:00'
+        end_time: '2026-09-26T07:30:00+03:00'
         description: |-
           Klassista musiikkia.
