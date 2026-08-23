@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-22T02:24:57.610259+00:00'
+  generated_at: '2026-08-23T02:30:51.611528+00:00'
   git:
     branch: main
-    commit: d56076cf87234975c70bba22bbe43c458d054df8
-  data_hash: bff03d67f95edc0f1d55601369568dd4664e35860944624ac9ada2f8fa7c9522
+    commit: e32424f1a50aa3a83b603b6b9b86daba2dae6376
+  data_hash: c45de59e251876bd81921dd39e6ab0ed9355b44923eeb562a6c2c3cdee4afa09
 data:
   '':
     programmes:
@@ -255,12 +255,11 @@ data:
       - title: Politiikkaradio
         start_time: '2026-08-24T21:00:00+03:00'
         end_time: '2026-08-24T21:30:00+03:00'
-      - title: 'Tiedeykkönen: Suolistomikrobit ovat luultua tärkeämpiä terveydelle'
+      - title: Tiedeykkönen
         start_time: '2026-08-24T21:30:30+03:00'
         end_time: '2026-08-24T22:20:00+03:00'
         description: |-
-          Mitä uusin tutkimus kertoo suolistomikrobeista? Kuinka paljon ne vaikuttavat terveyteen ja toisaalta sairauksien syntymiseen kuten masennukseen tai muistisairauksiin.
-          Toimittajana Minna Korhonen, haastateltavana mikrobitutkija Justus Reunanen Oulun yliopistosta.
+          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
       - title: 'Näistä levyistä en luovu: Runoilija Tapani Kinnunen'
         start_time: '2026-08-24T22:45:00+03:00'
         end_time: '2026-08-24T23:39:30+03:00'
