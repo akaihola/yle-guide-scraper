@@ -1,18 +1,59 @@
 metadata:
-  generated_at: '2026-08-27T03:49:13.663549+00:00'
+  generated_at: '2026-08-28T04:46:56.023282+00:00'
   git:
     branch: main
-    commit: c1ee841dac6d321546a64187514e6a8ee826cdf0
-  data_hash: adb90db8bdb9e5a589b9371a39599b50eeafce077fd65eadaabf196e402963ad
+    commit: eb6e934511b4b2bc7d4b5cc7cfd80d3dbdaf4d21
+  data_hash: 460e12ccd8ef9e077873f5b4977da52bd6375bb5086cc5be9a69c81125ff5781
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-08-30T23:40:00+03:00'
         end_time: '2026-08-31T06:30:00+03:00'
+        description: |+
+          W.A. Mozart: Klarinettikonsertto A-duuri (Sabine Meyer, basettiklarinetti, ja Dresdenin valtionork./Hans Vonk).
+
+          00:08 Coleridge-Taylor: Viisi fantasiakappaletta jousikvartetille (Catalyst-kvartetti).
+
+          00:32 Kuula (sov.): Eteläpohjalaisia kansanlauluja (Jaakko Ryhänen, basso, ja Pentti Kotiranta, piano).
+
+          00:38 Dvorák: Othello,  konserttialkusoitto. (Clevelandin ork./Vladimir Ashkenazy).
+
+          00:53 Brahms: Pianokvintetto f-molli (Vladimir Ashkenazy ja Clevelandin orkesterin jousikvartetti).
+
+          01:35 Borodin: Polovtsilaistansseja kuorolle ja orkesterille oopp. Ruhtinas Igor (Beecham Choral Society ja Lontoon kuninkaallinen FO/Thomas Beecham).
+
+          01:48 Keulen: Tympan (Concertgebouw-ork./Riccardo Chailly).
+
+          02:08 Tshaikovski: Sinfonia n:o 5 e-molli (Philadelphian ork./Christoph Eschenbach).
+
+          02:59 Mahler: Blumine (RSO/Sakari Oramo).
+
+          03:06 Fauré: Viulusonaatti n:o 1 A-duuri ja n:o 2 e-molli (Zino Francescatti, viulu, ja Robert Casadesus, piano).
+
+          03:51 Beethoven: An die ferne Geliebte (Kaukaiselle rakastetulle) (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+
+          04:05 Schubert: Alkusoitto italialaiseen tyyliin n:o 2 C-duuri (San Franciscon SO/Herbert Blomstedt).
+
+          04:13 Pujol: Cancion amatoria (David Russell, kitara).
+
+          04:16 Paganini: Kapriiseja (James Ehnes, viulu). 
+
+          05:34 Massenet: Pourquoi me reveiller oopp. Werther (Joshua Bell, viulu, ja St. Luken orkesteri, joht. Michael Stern).
+
+          05:37 Glazunov: Rakkauden juonet, 1-näytöksinen baletti (Mihail Tshernjahovski, viulu, Viktor Simon, sello sekä Neuvostoliiton radion SO/Algis Ziuraitis).
+
       - title: Hartaita säveliä
         start_time: '2026-08-31T06:30:50+03:00'
         end_time: '2026-08-31T06:50:00+03:00'
+        description: |-
+          Tuntematon: Jumala ompi linnamme (Jorma Hynninen, baritoni, ja Pertti Eerola, urut).
+
+          Bourgeois: Niin kuin peura janoissansa (virsi 348) (Topi Lehtipuu, tenori, Jonte Knif, nokkahuilu, Jarmo Julkunen, teorbi, ja Mikko Perkola, viola da gamba).
+
+          Simojoki: Kiitos, Jumalamme, kun annoit kauniin maan (Cetus Noster ja Jarmo Julkunen, kitara).
+
+          E.A. Hagfors: Oi Herra, jos mä matkamies maan (Rinki).
       - title: Aamuhartaus
         start_time: '2026-08-31T06:50:00+03:00'
         end_time: '2026-08-31T06:59:59+03:00'
@@ -100,11 +141,6 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-08-31T12:00:00+03:00'
         end_time: '2026-08-31T12:05:00+03:00'
-      - title: Elävä historia
-        start_time: '2026-08-31T12:05:00+03:00'
-        end_time: '2026-08-31T12:55:00+03:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
       - title: Politiikkaradio
         start_time: '2026-08-31T13:00:00+03:00'
         end_time: '2026-08-31T13:30:00+03:00'
@@ -226,7 +262,7 @@ data:
           Netta joutui autokolariin parikymppisenä ja oli hetken kuolleena. Hän sanoo kokeneensa rakkautta, armollisuutta ja hyväksyntää eikä paluu kehoon silloin tuntunut houkuttelevalta. 
           Henkimaailma on ollut Netalle läsnä lapsuudesta asti, ja aikuisiällä kokemukset yhteydestä edesmenneeseen sisareen ovat vahvistaneet hänen näkemystään: kuolemaa ei ole, se on vain toinen värähtelytaajuus. ‘Kun ei pelkää kuolla, ei myöskään pelkää elää’, toteaa Netta.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-08-31T20:55:00+03:00'
+        start_time: '2026-08-31T20:51:00+03:00'
         end_time: '2026-08-31T21:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-08-31T21:00:00+03:00'
@@ -248,4 +284,34 @@ data:
         start_time: '2026-08-31T23:40:00+03:00'
         end_time: '2026-09-01T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Loewe: Alppifantasia (Linda Nicholson, piano).
+           
+          23:49 Massenet: Charlotten kirjeaaria oopp. Werther (Shirley Verrett, mezzosopraano, ja Italian RCA:n ork./Georges Prêtre).
+           
+          23:57 Norman: Konserttialkusoitto Es-duuri (Helsingborgin SO/Hans-Peter Frank).
+           
+          00:08 Crusell: Kvartetto klarinetille ja jousille n:o 1 Es-duuri (Tapio Lötjönen, klarinetti, Jorma Rahkonen, viulu, Esa Kamu, alttoviulu, ja Esko Valsta, sello).
+           
+          00:31 Suk: Praha, sinfoninen runo (BBC:n SO/Jirí Belohlávek).
+           
+          00:57  Loeffler: La Mort de Tintagiles (Jennie Hansen, viola d'amore, ja Indianapolisin SO/John Nelson).
+           
+          01:21 Schubert: Die Schöne Müllerin (Kaunis mylläritär), sarja lauluäänelle ja pianolle (Olaf Bär, baritoni ja Geoffrey Parsons, piano).
+           
+          02:27 Glazunov: Scènes de ballet (Balettikohtauksia) A-duuri (Minnesotan ork./Edo de Waart).
+           
+          02:56 Suk: Fantasia viululle ja orkesterille g-molli (Michael Ludwig ja Buffalon FO/JoAnn Falletta).
+           
+          03:20 Brahms: Pianokonsertto n:o 1 d-molli (Alexis Weissenberg ja Philadelphian ork./Riccardo Muti).
+           
+          04:08 von Schillings: Glockenlieder (Kellolauluja) (Peter Anders, tenori, ja Berliinin valtionork./Robert Heger).
+           
+          04:31 von Koch: Sonaatti viululle ja pianolle e-molli (Cecilia Zilliacus ja Bengt-Åke Lundin).
+           
+          05:00 Dussek: Notturno concertante Es-duuri (Aleksei Ljubimov, fortepiano, Sirkka-Liisa Kaakinen-Pilch, viulu, ja Tommi Hyytinen, käyrätorvi).
+           
+          05:32 Steffani: Kohtauksia oopp. Tassilone (Monique Zanetti, sopraano, ja Musica Alta Ripa).
+           
+          05:48 J.S. Bach: Sonaatit huilulle ja klaveerille n:o 1 h-molli, n:o 2 G-duuri ja n:o 3 G-duuri (Michala Petri, nokkahuilu ja Keith Jarrett, cembalo)
+           
+          06:27 Campion: Thrice tosse these oaken ashes in the ayre (Drew Minter, kontratenori, ja Jacob Herringman, luuttu).

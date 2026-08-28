@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-27T03:49:14.648329+00:00'
+  generated_at: '2026-08-28T04:46:58.020408+00:00'
   git:
     branch: main
-    commit: c1ee841dac6d321546a64187514e6a8ee826cdf0
-  data_hash: adb90db8bdb9e5a589b9371a39599b50eeafce077fd65eadaabf196e402963ad
+    commit: eb6e934511b4b2bc7d4b5cc7cfd80d3dbdaf4d21
+  data_hash: 460e12ccd8ef9e077873f5b4977da52bd6375bb5086cc5be9a69c81125ff5781
 data:
   '':
     programmes:
@@ -30,7 +30,8 @@ data:
         start_time: '2026-09-05T08:25:00+03:00'
         end_time: '2026-09-05T08:35:00+03:00'
         description: |-
-          Rovasti Tuomas Järvelin, Ortodoksinen kirkko, Joensuu
+          "Ajatuksia rauhasta"
+          Rovasti Tuomas Järvelin, Ortodoksinen kirkko, Joensuu puhuu ortodoksisen kirkkovuoden alussa rauhasta.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T08:35:00+03:00'
         end_time: '2026-09-05T08:40:00+03:00'
@@ -70,8 +71,8 @@ data:
         description: |
           Liettualaiselta koiratarhalta tuodaan vuosittain satoja rescuekoiria Suomeen. Paikalliset viranomaiset syyttävät koiratarhaa eläinrääkkäyksestä. Ovatko suomalaiset koiranomistajat osa ratkaisua, vai ongelmaa? Toimittaja Ronja Salmi aloittaa selvityksen rescuekoirailmiön monista puolista. 
       - title: 'Virtasen taloushistoria: Asuntojen hinnat - koska ylös?'
-        start_time: '2026-09-05T11:07:00+03:00'
-        end_time: '2026-09-05T11:54:00+03:00'
+        start_time: '2026-09-05T11:06:00+03:00'
+        end_time: '2026-09-05T11:57:00+03:00'
         description: |
           Koska asuntojen hinnat lähtevät taas nousuun? Mitkä muut asiat kuin korkotaso vaikuttavat asuntojen hintoihin? Vieraana on Suomen Hypoteekkiyhdistyksen ja Suomen Asuntohypopankin toimitusjohtaja Ari Pauna
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12

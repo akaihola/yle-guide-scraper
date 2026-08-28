@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-27T03:49:14.445507+00:00'
+  generated_at: '2026-08-28T04:46:57.547647+00:00'
   git:
     branch: main
-    commit: c1ee841dac6d321546a64187514e6a8ee826cdf0
-  data_hash: adb90db8bdb9e5a589b9371a39599b50eeafce077fd65eadaabf196e402963ad
+    commit: eb6e934511b4b2bc7d4b5cc7cfd80d3dbdaf4d21
+  data_hash: 460e12ccd8ef9e077873f5b4977da52bd6375bb5086cc5be9a69c81125ff5781
 data:
   '':
     programmes:
@@ -19,7 +19,8 @@ data:
         start_time: '2026-09-04T06:50:00+03:00'
         end_time: '2026-09-04T06:59:59+03:00'
         description: |-
-          Aluekappalainen Sanni Rissanen, Kerimäki
+          "Onko välinpitämättömyys maailman palkka?"
+          Aluekappalainen Sanni Rissanen Kerimäeltä kehottaa vetämään hätäjarrusta ja pysähtymään maailman mennessä yhä hullumpaa tahtia eteenpäin.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T07:00:00+03:00'
         end_time: '2026-09-04T07:05:00+03:00'
@@ -125,7 +126,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-04T13:30:00+03:00'
         end_time: '2026-09-04T13:35:00+03:00'
-      - title: Kirjani tarina
+      - title: 'Kirjani tarina: Tommi Kinnunen kirjoitti rakkausromaanin tavallisesta miehestä'
         start_time: '2026-09-04T13:35:00+03:00'
         end_time: '2026-09-04T14:00:00+03:00'
         description: |-
@@ -223,26 +224,7 @@ data:
         start_time: '2026-09-04T19:02:00+03:00'
         end_time: '2026-09-04T21:00:00+03:00'
         description: |-
-          Onko unelmien toteutuminen onnellisuutta?
-
-          Klassikkoteosten tähdittämä Radalla-festivaalin päätöskonsertti on heijastus ihmiselle ominaisista tarpeista tuntea, kokea, elää ja olla. Mitä on elämä ilman menetystä ja rakkautta? Ei ole toivoa ilman epäoikeudenmukaisuutta, ei juhlaa ilman arkea, ei rakkautta ilman riskiä. Kauklahden kappelissa, Espoossa 30.8.2026  tallennetun konsertin toimittaa Noora Hirn
-
-          Clara Schumann (1819–1896): Kolme romanssia viululle ja pianolle Op. 22 (1853)
-          Otto Antikainen, viulu
-          Iivari Aalto, piano
-
-          Robert Schumann (1810–1856): Fantasiestücke klarinetille ja pianolle (1849)
-          Klaara Vasara, klarinetti
-          Iivari Aalto, piano
-
-          Johannes Brahms (1833–1897): Pianokvintetto f-molli op. 34 
-          Rebecca Roozeman, viulu
-          Otto Antikainen, viulu
-          Charlotta Westerback, alttoviulu 
-          Artturi Aalto, sello
-          Fanny Söderström, piano
-
-          Kuva: Essi Koski
+          Radalla-festivaalin päätöskonsertissa esiintyvät pianistit Iivari Aalto ja Fanny Söderström, viulistit Rebecca Roozeman ja Otto Antikainen, alttoviulisti Charlotta Westerback, sellisti Artturi Aalto ja klarinetisti Klaara Vasara. Ohjelmassa on kamarimusiikkia Clara ja Robert Schumannilta sekä Johannes Brahmsilta. Espoon Kauklahden kappelissa 30.8. äänitetyn konsertin toimittaa Noora Hirn.
       - title: 'Politiikkaradio '
         start_time: '2026-09-04T21:00:00+03:00'
         end_time: '2026-09-04T21:30:00+03:00'
