@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-28T04:47:00.697854+00:00'
+  generated_at: '2026-08-29T02:15:20.788598+00:00'
   git:
     branch: main
-    commit: eb6e934511b4b2bc7d4b5cc7cfd80d3dbdaf4d21
-  data_hash: 460e12ccd8ef9e077873f5b4977da52bd6375bb5086cc5be9a69c81125ff5781
+    commit: 8e1353ea268d7f9ed9067fc04b1a0e77dc2d77eb
+  data_hash: d0073a222f5693d0f7612379884574d4c7229e4568e5d6c54cbb4f22e4c83d6c
 data:
   '':
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-09-14T07:06:00+03:00'
         end_time: '2026-09-14T08:00:00+03:00'
+        description: |+
+          Torelli: Sonaatti trumpetille, jousille ja continuolle D-duuri (Ludwig Güttler, trumpetti, ja Leipzigin uusi Bachin Collegium Musicum/Max Pommer).
+
+          Hensel: Allegro moderato op.8/1 kok. Vier Lieder für das Pianoforte (Sarah Cahill, piano).
+
+          Monteverdi: Poppean ja Neron duetto oopp. Poppean kruunaus (Molly Quinn ja Jolle Greenleaf, sopraano, sekä Avi Stein, cembalo).
+
+          J.S. Bach: Jesus bleibet meine Freude (Kristus, valo valkeuden) (Angela Hewitt, piano).
+
+          Weiss: Allegro konsertosta luutulle ja huilulle B-duuri (Richard Stone, luuttu, Gwyn Roberts, huilu, ja Ann Marie Morgan, viola da gamba).
+
+          Castelnuovo-Tedesco: Cielo di settembre (Syyskuun taivas) (Eric Le Van, piano).
+
+          Falla: Naapurien tanssi bal. Kolmikolkkahattu (Ranskankielisen Sveitsin ork./Ernest Ansermet).
+
+          Walter-Kühne: Fantasia Tshaikovskin oopp. Jevgeni Onegin teemoista (Emmanuel Ceysson, harppu). 
+
+          Mannsén: L'adieu: Souvenir à l'Åbo (Hyvästit: Muisto Turusta) (Tiina Karakorpi, piano).
+
+          Delibes: Pizzicato baletista Sylvia (Göteborgin SO/Neeme Järvi).
+
+          Sibelius: Svarta rosor (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-14T08:00:00+03:00'
         end_time: '2026-09-14T08:07:00+03:00'
@@ -76,8 +99,34 @@ data:
       - title: Musiikkiaitio
         start_time: '2026-09-14T14:00:00+03:00'
         end_time: '2026-09-14T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle! Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Mårtenson (sov. Kiiski): Stormkärs Maja - Myrskyluodon Maija (Waltteri Torikka, baritoni, Maria Ylipää, sopraano, ja Jyväskylä Sinfonia/Ville Matvejeff).
+
+          Philemon: Grazing in the grass (Hugh Masekela).
+
+          Kansanlaulu, Viro: Kiik tahab kindaid (Karmen Roivassepp).
+
+          Juhola: Pieni täydellinen hetki (Johanna Juhola Trio).
+
+          Lionel Loueke: Gbe.
+
+          Kansanlaulu, Makedonia: Usti baba (Dikanda).
+
+          de Brito: Acordem as guitarras (Camané).
+
+          Traore: Ile (Rokia Traore ja yhtye). 
+
+          Na linha do arco-iris (Dona Onete).
+
+          Joey Burns, John Burns, Convertino: Miles from the sea (Gaby Moreno ja Calexico).
+
+          Donaldson: My blue heaven (Harry Connick Jr.).
+
+          Hilliard: Our day will come (The Wade Mikkola Quintet).
+
       - title: Kulttuuriykkönen
         start_time: '2026-09-14T15:00:00+03:00'
         end_time: '2026-09-14T15:58:00+03:00'
@@ -141,8 +190,6 @@ data:
       - title: Iltahartaus
         start_time: '2026-09-14T18:50:00+03:00'
         end_time: '2026-09-14T19:00:00+03:00'
-        description: |-
-          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (UT2020)
       - title: Yle Uutiset ja sää
         start_time: '2026-09-14T19:00:00+03:00'
         end_time: '2026-09-14T19:02:00+03:00'
