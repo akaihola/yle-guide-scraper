@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-31T02:19:16.864581+00:00'
+  generated_at: '2026-09-01T02:19:26.968137+00:00'
   git:
     branch: main
-    commit: c8b3e1cdc511e74306a8616f5858b6040c8cd4b9
-  data_hash: 1af573e3c6e0d8bed59eac8cdb26f68cbadd7ee701fbb2b985bc714a43eb1ff2
+    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
+  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
 data:
   '':
     programmes:
@@ -15,15 +15,40 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-09-15T06:30:50+03:00'
         end_time: '2026-09-15T06:50:00+03:00'
-      - title: Yksi on hyvää seuraa
+      - title: Aamuhartaus
         start_time: '2026-09-15T06:50:00+03:00'
         end_time: '2026-09-15T06:59:59+03:00'
+        description: |-
+          Seurakuntapastori Helmi Pykäläinen ja seurakuntapastori Nea Similä, Helsinki
       - title: Yle Uutiset ja sää
         start_time: '2026-09-15T07:00:00+03:00'
         end_time: '2026-09-15T07:05:00+03:00'
       - title: Aamusoitto
         start_time: '2026-09-15T07:06:00+03:00'
         end_time: '2026-09-15T08:00:00+03:00'
+        description: |+
+          F. Schubert: Forelli (Misha Maisky, sello, ja Daria Hovora, piano).
+
+          Sor: Etydi C-duuri kok. Douze Etudes (William Carter, kitara).
+
+          Massenet: Meditaatio oopp. Thaïs (Michael Rabin, viulu, ja Hollywood Bowl -SO/Felix Slatkin).
+
+          D. Scarlatti: Sonaatti kosketinsoittimelle D-duuri (Angela Hewitt, piano).
+
+          Dusek: Allegro sinfoniasta G-duuri (Helsingin barokkiork./Aapo Häkkinen).
+
+          Chopin - Rossini (sov. Holliger): Muunnelmia Rossinin Tuhkimo-oopperan teemasta (Heinz Holliger, oboe, ja Ursula Holliger, harppu).
+
+          Henselt: Gondoli (Esther Budiardjo, piano).
+
+          Chausson: Interlude teoksesta Rakkauden ja meren runoelma (BBC:n SO/Yan Pascal Tortelier).
+
+          Ponce: Allegro non troppo sonaatista kitaralle n:o 3 (Juuso Nieminen).
+
+          Piazzolla: Otono porteno (Syksy) (Izumi Tateno Trio).
+
+          Quilter: Merry pranks sarj. As you like it (Bratislavan radion SO/Adrian Leaper).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-15T08:00:00+03:00'
         end_time: '2026-09-15T08:07:00+03:00'
@@ -132,6 +157,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-09-15T16:07:00+03:00'
         end_time: '2026-09-15T16:59:00+03:00'
+        description: |
+          Bacewicz: Tanieck slowianski (Slaavilainen tanssi) (David Juritz, viulu, ja Diana Ambache, piano).
+
+          Elgar: Menuetti sarj. Severn suite op.87 (Lontoon kuninkaallisen musiikkiakatemian puhallinork./James Watson).
+
+          Korngold: Fritzin laulu "Mein Sehnen, mein Wähnen" oopp. Kuollut kaupunki (Matthias Goerne, baritoni, Ruotsin radiokuoro ja Ruotsin radion SO/Manfred Honeck).
+
+          Pejacevic: Allegretto grazioso kvartetosta pianolle ja jousille d-molli op.25 (Oliver Triendl ja Sine Nomine -kvartetti). 
+
+          Pierne: Impromptu-caprice As-duuri (Isabelle Moretti, harppu). 
+
+          Antognini: Aimhirgin (The Choral Scholars of University College Dublin/Desmond Earley, ja David Agnew, englannintorvi).
+
+          Pasquini: Toccata (Igor Kipnis).
+
+          Poulenc: Allegro moderato sonaatista trumpetille, käyrätorvelle ja pasuunalle (Trio Puhallus). 
+
+          O. Merikanto: Kirstin aaria "Yksi ainut hetki" oopp. Elinan surma (Eeva-Liisa Saarinen, mezzosopraano, ja RSO/Atso Almila).
+
+          Chaminade: Valse carnevalesque kahdelle pianolle (Peter Jablonski ja Bengt Forsberg).
+
+          Konsertin on laatinut Riikka Holopainen.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-15T17:00:00+03:00'
         end_time: '2026-09-15T17:05:00+03:00'
@@ -172,11 +219,9 @@ data:
         end_time: '2026-09-15T20:15:00+03:00'
         description: |-
           Ajankohtaista asiaa romaneista.
-      - title: 'Ulkolinja-podcast: Trumpin uhkailu herätti Kanadassa kansallistunteen'
+      - title: Ulkolinja-podcast
         start_time: '2026-09-15T20:15:00+03:00'
         end_time: '2026-09-15T20:35:00+03:00'
-        description: |-
-          Yhdysvaltain presidentin Donald Trumpin jatkuva uhkailu on saanut naapurimaassa Kanadassa kansallistunteen aivan uudenlaiseen nousuun. 
       - title: Maailman tärkein pieni asia
         start_time: '2026-09-15T20:35:00+03:00'
         end_time: '2026-09-15T20:55:00+03:00'

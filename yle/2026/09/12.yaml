@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-31T02:19:16.318605+00:00'
+  generated_at: '2026-09-01T02:19:25.989097+00:00'
   git:
     branch: main
-    commit: c8b3e1cdc511e74306a8616f5858b6040c8cd4b9
-  data_hash: 1af573e3c6e0d8bed59eac8cdb26f68cbadd7ee701fbb2b985bc714a43eb1ff2
+    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
+  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
 data:
   '':
     programmes:
@@ -52,11 +52,11 @@ data:
         end_time: '2026-09-12T11:05:00+03:00'
         description: |
           Liettualaisista kodittomista koirista selviää jotain yllättävää: kaikki koirat eivät ole kodittomia, eivätkä edes liettualaisia. Miksi Liettuan suurin koiratarha haalii lisää koiria, vaikka tarha on ollut jo vuosia täynnä? 
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Taistelua radioaalloilla 1939 - 1945'
         start_time: '2026-09-12T11:10:00+03:00'
         end_time: '2026-09-12T11:57:00+03:00'
-        description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+        description: |
+          Millaista taistelua käytiin sotavuosina radioaalloilla? Arkistopäällikkö Lasse Vihonen on tutkinut tuon ajan radiotoimintaa. Hän on kirjoittanut kirjan Radio sodissamme 1939 -1945.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-09-12T11:57:00+03:00'
         end_time: '2026-09-12T12:00:00+03:00'

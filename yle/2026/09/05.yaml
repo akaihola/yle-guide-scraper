@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-08-31T02:19:14.781745+00:00'
+  generated_at: '2026-09-01T02:19:24.257713+00:00'
   git:
     branch: main
-    commit: c8b3e1cdc511e74306a8616f5858b6040c8cd4b9
-  data_hash: 1af573e3c6e0d8bed59eac8cdb26f68cbadd7ee701fbb2b985bc714a43eb1ff2
+    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
+  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
 data:
   '':
     programmes:
@@ -162,9 +162,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T15:25:00+03:00'
         end_time: '2026-09-05T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Aristoteleen kantapää: Naruja, värttinöitä, papinkuristajia – pastalajien nimissä maistuu historia ja huumori '
         start_time: '2026-09-05T15:30:00+03:00'
         end_time: '2026-09-05T15:55:00+03:00'
+        description: |-
+          Pasi Heikura herkuttelee pastalajien maukkailla nimillä toimittaja Sini Sovijärven kanssa. Ohjelmassa selvitetään myös, mikä on kultamunia lypsävä lehmä ja mitä tapahtuu, jos jokin menee toisesta silmästä sisään ja toisesta ulos.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T15:55:00+03:00'
         end_time: '2026-09-05T16:00:00+03:00'
@@ -206,6 +209,8 @@ data:
       - title: 'Marko Gustafsson: Käännekohdissa Kjell Westö'
         start_time: '2026-09-05T17:05:00+03:00'
         end_time: '2026-09-05T17:58:00+03:00'
+        description: |2
+           "On monta asiaa, joita en ole pystynyt pitämään koossa, kuten kaksi eroon päättynyttä  avioliittoa, mutta kirjailijuuden olen kuitenkin kyennyt säilyttämään, vaikka helppoa se ei ole ollut, Westö toteaa. Kjell Westön esikoisromaani Leijat Helsingin yllä julkaistiin 30 vuotta sitten 1996 . Syyskuussa 2026 ilmestyy hänen kymmenes romaaninsa Coda.   
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T17:53:00+03:00'
         end_time: '2026-09-05T18:00:00+03:00'
@@ -216,7 +221,8 @@ data:
         start_time: '2026-09-05T18:01:00+03:00'
         end_time: '2026-09-05T18:10:00+03:00'
         description: |-
-          Suomen Pipliaseuran verkkoviestintäpäällikkö Hanna Paavilainen, Helsinki
+          "Opettele olemaan itsesi ystävä"
+          Suomen Pipliaseuran verkkoviestintäpäällikkö Hanna Paavilainen Helsingistä kehottaa kohtelemaan itseä niin kuin ystävää kohdellaan.
       - title: Lauantain toivotut levyt
         start_time: '2026-09-05T18:10:00+03:00'
         end_time: '2026-09-05T19:00:00+03:00'
