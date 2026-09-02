@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-01T02:19:27.184825+00:00'
+  generated_at: '2026-09-02T02:34:23.762557+00:00'
   git:
     branch: main
-    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
-  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
+    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
+  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
 data:
   '':
     programmes:
@@ -98,8 +98,35 @@ data:
       - title: Musiikkiaitio
         start_time: '2026-09-16T14:00:00+03:00'
         end_time: '2026-09-16T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle! Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Wonder: Sir Duke (Iiro Rantala ja Ulf Wakenius).
+
+          Spanish Harlem Orchestra: Como lo canto yo.
+
+          Withers: Ain't no sunshine (Eva Cassidy).
+
+          Yona: Kappeli (Yona).
+
+          Jimenez: Luna de plata (Gitana) (Diego El Cigala, laulu, ja Tomatito, kitara). 
+
+          Leinonen: Late autumn bossa (Tjango!).
+
+          A. Kidjo & Kansanlaulu, Kongo: Bana (Angelique Kidjo ja Yvonne Kidjo).
+
+          Tania Saleh: No justice in the forests.
+
+
+          Vanha valokuva (Maco Oey, Maija Kauhanen, Pekko Käppi). 
+
+          Tranchant: Voulez vous danser, madame (Les Chauds Lapins).
+
+          Denver: Sweet surrender (Halie Loren).
+
+          Hurwitz: Another day of sun (The La La Land -elokuvan näyttelijät ja orkesteri).
+
       - title: Kulttuuriykkönen
         start_time: '2026-09-16T15:00:00+03:00'
         end_time: '2026-09-16T15:58:00+03:00'
@@ -160,7 +187,8 @@ data:
         start_time: '2026-09-16T18:50:00+03:00'
         end_time: '2026-09-16T19:00:00+03:00'
         description: |-
-          Psykoterapeutti Seppo Laakso, Klaukkala
+          "Kutsumuksena hiljaisuus"
+          Psykoterapeutti Seppo Laakso Klaukkalasta palaa 40 vuotta ajassa taaksepäin ja kertoo ensimmäisestä hiljaisuuden retriitistään.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-16T19:00:00+03:00'
         end_time: '2026-09-16T19:02:00+03:00'

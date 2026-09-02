@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-01T02:19:24.257713+00:00'
+  generated_at: '2026-09-02T02:34:21.618448+00:00'
   git:
     branch: main
-    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
-  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
+    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
+  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
 data:
   '':
     programmes:
@@ -60,11 +60,6 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T08:35:00+03:00'
         end_time: '2026-09-05T08:40:00+03:00'
-      - title: Maailman tärkein pieni asia
-        start_time: '2026-09-05T08:40:00+03:00'
-        end_time: '2026-09-05T09:00:00+03:00'
-        description: |-
-          Helena Honka-Hallila on ollut siirtolapuutarhaihminen jo lähes 40 vuotta. Oma palsta Peltolan siirtolapuutarhassa Turussa on tärkeä paikka. Hyvin tärkeää on myös siirtolapuutarhaharrastukseen liittyvä yhteisöllisyys.
       - title: 'Yle Uutiset '
         start_time: '2026-09-05T09:00:00+03:00'
         end_time: '2026-09-05T09:03:00+03:00'
@@ -119,7 +114,7 @@ data:
         start_time: '2026-09-05T13:00:00+03:00'
         end_time: '2026-09-05T13:55:00+03:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Löytyykö Mikko Kuustosen levylautaselta muutakin kuin bluesia?
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T13:55:00+03:00'
         end_time: '2026-09-05T14:00:00+03:00'
@@ -128,11 +123,11 @@ data:
         end_time: '2026-09-05T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Ydinaseiden käyttö ei ole ainoa riski, joka niihin liittyy'
         start_time: '2026-09-05T14:55:00+03:00'
         end_time: '2026-09-05T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Vaikka turvallisuutemme nojaa nykyään ydinpelotteeseen, myös ydinasevarustelun haitat on tunnustettava, tutkijatohtori Saara Särmä toteaa.
       - title: 'Viihdekuunnelma: Knalli ja sateenvarjo'
         start_time: '2026-09-05T15:00:00+03:00'
         end_time: '2026-09-05T15:25:00+03:00'
@@ -162,7 +157,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T15:25:00+03:00'
         end_time: '2026-09-05T15:30:00+03:00'
-      - title: 'Aristoteleen kantapää: Aristoteleen kantapää: Naruja, värttinöitä, papinkuristajia – pastalajien nimissä maistuu historia ja huumori '
+      - title: 'Aristoteleen kantapää: Naruja, värttinöitä, papinkuristajia – pastalajien nimissä maistuu historia ja huumori '
         start_time: '2026-09-05T15:30:00+03:00'
         end_time: '2026-09-05T15:55:00+03:00'
         description: |-
@@ -251,12 +246,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T22:05:00+03:00'
         end_time: '2026-09-05T22:10:00+03:00'
-      - title: 'Klassikkokuunnelma: Kihlaus'
-        start_time: '2026-09-05T22:10:00+03:00'
-        end_time: '2026-09-05T22:47:00+03:00'
-        description: |-
-          Kraatarin matalaan majaan saapuu morsianehdokas, ja naimakauppaa ryhdytäänkin suunnittelemaan suin päin. Herrojen taloudenhoitajana ollut morsian tulee kuitenkin katumapäälle. Vaan voiko lupausta perua?
-          Aleksis Kiven komedian kuunnelmaversio on äänitetty Tampereella 1952, radiossa teos lähetettiin ensimmäisen kerran vuonna 1998.
+      - title: Klassikkokuunnelmia
+        start_time: '2026-09-05T21:51:00+03:00'
+        end_time: '2026-09-05T22:30:00+03:00'
       - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-09-05T22:40:00+03:00'
         end_time: '2026-09-05T23:39:30+03:00'
@@ -265,9 +257,15 @@ data:
       - title: Aitiovieras
         start_time: '2026-09-05T22:48:00+03:00'
         end_time: '2026-09-05T23:18:00+03:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Siirtolapuutarha on Helena Honka-Hallillalle yhteisöllisyyttä'
         start_time: '2026-09-05T23:20:00+03:00'
         end_time: '2026-09-05T23:39:00+03:00'
+        description: |-
+          Siirtolapuutarhatoiminnalla on Suomessa pitkät perinteet. Alkuaikoina oli tärkeää kasvattaa ruokapöytään syötävää, nykyään korostuvat mm. puutarhan esteettiset arvot.   
+
+          Helena Honka-Hallila on ollut siirtolapuutarhaihminen jo lähes 40 vuotta. Oma palsta Peltolan siirtolapuutarhassa Turussa on tärkeä paikka. Hyvin tärkeää on myös siirtolapuutarhaharrastukseen liittyvä yhteisöllisyys.
+
+          Siirtolapuutarhalla kävi Maija Salminen. 
       - title: Yöklassinen
         start_time: '2026-09-05T23:40:00+03:00'
         end_time: '2026-09-06T07:00:00+03:00'

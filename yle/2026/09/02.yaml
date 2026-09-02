@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-01T02:19:23.674341+00:00'
+  generated_at: '2026-09-02T02:34:20.823698+00:00'
   git:
     branch: main
-    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
-  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
+    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
+  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
 data:
   '':
     programmes:
@@ -45,7 +45,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-09-02T06:30:50+03:00'
         end_time: '2026-09-02T06:50:00+03:00'
-        description: |+
+        description: |-
           Knapp (sov. Siponkoski): Varmana laulaa Herrasta saan (Tuomas Laatu ja yhtye).
 
           S. Heikkilä: Aika on (Sakari Heikkilä, laulu ja yhtye).
@@ -54,6 +54,7 @@ data:
 
           S. Löytty: Halki pimeän maan (Maria Laakso).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-09-02T06:50:00+03:00'
         end_time: '2026-09-02T06:59:59+03:00'
@@ -66,7 +67,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-09-02T07:06:00+03:00'
         end_time: '2026-09-02T08:00:00+03:00'
-        description: |+
+        description: |-
           Beck: Sinfonia C-duuri (Uuden-Seelannin kamariork./Donald Armstrong). 
 
           F. Lithander: Rondo D-duuri (Tuija Hakkila, fortepiano).
@@ -87,6 +88,7 @@ data:
 
           Sibelius: Lulu-valssi (Raimo Sariola, sello, ja Tuula Sariola, piano).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-02T08:00:00+03:00'
         end_time: '2026-09-02T08:07:00+03:00'
@@ -117,7 +119,7 @@ data:
           Lindh: Fåglar (Cornelis Vreeswijk).
           Barbara: Septembre (Camelia Jordana).
 
-          Konsertin on laatinut Tuuli Saksala.
+          Konsertin on laatinut Tuuli Saksala. Juontajana Tatu Tamminen.
       - title: 'Havaintoja muutoksesta: Kouluttautuminen käynnistää muodonmuutoksen'
         start_time: '2026-09-02T10:00:00+03:00'
         end_time: '2026-09-02T10:50:00+03:00'
@@ -145,7 +147,7 @@ data:
         start_time: '2026-09-02T11:57:00+03:00'
         end_time: '2026-09-02T12:00:00+03:00'
         description: |-
-          Juhni Siljon runo Kalkki
+          Juhni Siljon runo Kalkki. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-02T12:00:00+03:00'
         end_time: '2026-09-02T12:05:00+03:00'
@@ -155,9 +157,11 @@ data:
         description: |-
           Miten vanhat ihmiset ovat eläneet eri aikoina? Milloin vanhusten hoiva kriisiytyi? Näitä kysymyksiä pohtivat historiantutkija Johanna Annola, sosiaalityön professori emerita Marja Vaarama, historianopettaja Lasse Hongisto ja toimittaja Jussi Nygren. (2024)
           Sarjan Pieleen mennyt historia kaikki jaksot ovat kuunneltavissa Yle Areenassa.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Toimittiko USA Venäjälle varoitusviestin?'
         start_time: '2026-09-02T13:00:00+03:00'
         end_time: '2026-09-02T13:30:00+03:00'
+        description: |
+          CIA:n johtajan yllätyslento Moskovaan herättää huolta matkan todellisista tarkoitusperistä. Onko Yhdysvallat saanut käsiinsä poikkeuksellista tiedustelutietoa Venäjän aikeista? Toimitettiinko Venäjälle varoitusviesti, jotta maa pidättäytyy laajentamasta sotaa Nato-maihin? CIA:n johtajan Moskovan vierailua arvioivat ulkoministeriön strategiajohtaja, entinen Moskovan suurlähettiläs Antti Helanterä, Ulkopoliittisen instituutin vanhempi tutkija Matti Pesu sekä kriisinhallinan asiantuntija, professori Timo Hellenberg. Toimittajana on Tapio Pajunen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-02T13:30:00+03:00'
         end_time: '2026-09-02T13:35:00+03:00'
@@ -281,8 +285,8 @@ data:
           Koulutusmahdollisuuksissa ei ole kyse vain yksilön henkilökohtaisista valinnoista. Sukupuoli, luokka ja alue vaikuttavat siihen millaiset koulutuspolut näyttäytyvät edes mahdollisina. Millaisen muodonmuutoksen kouluttautuminen voi käynnistää? Miten se vaikuttaa sosiaalisiin suhteisiin? 
           Toimittaja Satu Kivelä keskustelee aiheesta sosiologian lehtori Mari Käyhkön ja kirjailija ja sarjakuvataiteilija Riina Tanskasen kanssa. 
       - title: 'Jussi Halla-aho - kylmä peli: Hyppy politiikkaan'
-        start_time: '2026-09-02T22:30:00+03:00'
-        end_time: '2026-09-02T22:57:25+03:00'
+        start_time: '2026-09-02T22:29:31+03:00'
+        end_time: '2026-09-02T22:56:56+03:00'
         description: |-
           Osa 3/8.
           Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.

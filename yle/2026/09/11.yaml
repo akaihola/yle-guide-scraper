@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-01T02:19:25.759126+00:00'
+  generated_at: '2026-09-02T02:34:22.757932+00:00'
   git:
     branch: main
-    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
-  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
+    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
+  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
 data:
   '':
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-09-11T06:50:00+03:00'
         end_time: '2026-09-11T06:59:59+03:00'
-        description: |-
-          Aluekappalainen Sanni Rissanen, Kerimäki
+        description: |
+          "Elämänohjeita Puolen hehtaarin metsästä"
+          Aluekappalainen Sanni Rissanen Kerimäeltä puhuu Nalle Puh -saduissa esiintyvän Puolen hehtaarin metsän asukkaiden erilaisista tavoista elää ja täydentää toistensa elämiä.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-11T07:00:00+03:00'
         end_time: '2026-09-11T07:05:00+03:00'

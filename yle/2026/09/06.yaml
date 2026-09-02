@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-01T02:19:24.477392+00:00'
+  generated_at: '2026-09-02T02:34:21.788722+00:00'
   git:
     branch: main
-    commit: 7da6dc16fad198eb3a3f60822a7855398a3adb79
-  data_hash: e7b87b03b955c036ce150b4c2c212ab751b79d1e4e3d482b9ab65826a72e6679
+    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
+  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
 data:
   '':
     programmes:
@@ -43,8 +43,8 @@ data:
            
           06:26 Roman: Bröllopsmusik (Häämusiikkia) (Susanne Rydén, sopraano, Christina Högman, sopraano, ja Peter Mattei, basso, sekä Nils-Erik Sparf, viulu, ja Drottningholmin barokkiyhtye/Eric Ericson).
       - title: 'Klasariparatiisi - Eva Tigerstedt: He sävelsivät myös elokuvamusiikkia'
-        start_time: '2026-09-06T07:00:30+03:00'
-        end_time: '2026-09-06T07:57:00+03:00'
+        start_time: '2026-09-06T07:00:47+03:00'
+        end_time: '2026-09-06T07:53:04+03:00'
         description: |-
           Moni elokuvamusiikin klassikkosäveltäjä on tehnyt myös ns. konserttimusiikkia. Miltä kuulostavat Nino Rotan, Erich Korngoldin ja Bernard Herrmannin teokset, joita ei kuultu valkokankaalla?
           Eva Tigerstedt avaa polkuja musiikkiin.
@@ -83,7 +83,7 @@ data:
           Lennon/McCartney: Keltainen jäänsärkijä (Simo Salminen ja Pertti Pasanen).
           Donaggio: En koskaan (Kristina Hautala).
           Ragowoy/Berns: Piece of my heart (Dusty Springfield).
-          Brel: La valse a mille temps (Jacques Brel).
+          Brel: La valse à mille temps (Jacques Brel).
           Joyce: Syysunelmia (Olavi Virta ja Harmony Sisters).
           Chydenius: Syysidylli (Eija Ahvo).
           Warren: Jeepers creepers (Gene Krupa).
@@ -107,25 +107,26 @@ data:
       - title: Uudet levyt
         start_time: '2026-09-06T14:00:00+03:00'
         end_time: '2026-09-06T14:55:00+03:00'
-        description: |+
+        description: |-
           Eskelinen: Vapaa lapsi (Cienna). 
           Venäläinen/Viitala/Storm: Mahti (Melkutus Party). 
           Venäläinen/Viitala/Storm: Oi emoseni (Melkutus Party). 
           Kansansäv./Lumikivi-Lemmetty: Obtsikruugg (Suömmkar). 
-          Kansansäv.(Kolttasaame): Peäccam siid leu'dd (Suömmkar). 
+          Kansansäv.: Peäccam siid leu'dd (Suömmkar). 
           Kiprianoff: Paccjoogg ääkkaz (Suömmkar). 
           Isotalo/Haapoja: Pyöriäinen (Uni Uni). 
-          Kansanlaulu (Viro): Tsastuska (Nublu, Tief city 44 ja Curly Strings). 
-          Kansanlaulu (Viro) (sov. Meentalo/Ahun): Hanemäng (Oopus). 
-          Kansanlaulu (Viro): Lullitused (Nova Lyre). 
+          Kansanlaulu: Tsastuska (Nublu, Tief city 44 ja Curly Strings). 
+          Kansanlaulu: Hanemäng (Oopus). 
+          Pöldsepp/Misnik: Lullitused (Nova Lyre). 
           Kaya/Haarlöv/Oztufan: Harabe (Hilal Kaya). 
-          Kansansäv. (Turkki) (sov. Tombuloglu): Basındaki yazma - Avsar elleri (Hilal Kaya). 
+          Kansansäv.: Basındaki yazma - Avsar elleri (Hilal Kaya). 
 
-      - title: Ykköskolumni
+          Ohjelman on toimittanut Miika Lauriala.
+      - title: 'Ykköskolumni: Onko meillä roolimallia, jossa väkivalta ei olisi miehen vastuulla?'
         start_time: '2026-09-06T14:55:00+03:00'
         end_time: '2026-09-06T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Nykymieheltä odotetaan hellyyttä, herkkyyttä, empatiaa ja jatkuvaa valmiutta väkivaltaan, kirjailija Pekka Juntti pohtii.
       - title: 'Klassikkokuunnelma: Niskavuoren Heta'
         start_time: '2026-09-06T15:00:00+03:00'
         end_time: '2026-09-06T15:35:00+03:00'
@@ -171,7 +172,7 @@ data:
         start_time: '2026-09-06T17:06:00+03:00'
         end_time: '2026-09-06T18:00:00+03:00'
         description: |-
-          Pianisti Sharon Mansurin trio ja saksofonisti Jasmine Myran yhtye konsertoivat Jazzahead! -festivaalilla 25.4.2026. 
+          Pianisti Sharon Mansurin trio ja saksofonisti Jasmine Myra yhtyeineen konsertoivat Jazzahead! -festivaalilla Saksan Bremenissä 25.4.2026.
       - title: Jazzklubi
         start_time: '2026-09-06T18:00:30+03:00'
         end_time: '2026-09-06T19:00:00+03:00'
@@ -200,13 +201,52 @@ data:
         description: |-
           Moni elokuvamusiikin klassikkosäveltäjä on tehnyt myös ns. konserttimusiikkia. Miltä kuulostavat Nino Rotan, Erich Korngoldin ja Bernard Herrmannin teokset, joita ei kuultu valkokankaalla?
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Romano mirits
-        start_time: '2026-09-06T23:26:00+03:00'
-        end_time: '2026-09-06T23:39:30+03:00'
+      - title: ' KC Kirjapodcast: Kaksoiselämää ja kasvukipuja – Miten kylmä sota kaikuu Suomessa?'
+        start_time: '2026-09-06T22:44:00+03:00'
+        end_time: '2026-09-06T23:12:27+03:00'
         description: |-
-          Ajankohtaista asiaa romaneista.
+          Vieraina Daniil Kozlov, Roope Lipasti ja yllätyskirjailija.
+      - title: 'Romano mirits: Raija Mäntyniemen lapsuudenhaave konkretisoitui tangokuningattareksi kruunaamiseen'
+        start_time: '2026-09-06T23:25:24+03:00'
+        end_time: '2026-09-06T23:39:16+03:00'
+        description: |-
+          Raija Mäntyniemen lapsuudenhaave konkretisoitui tangokuningattareksi kruunaamiseen
+
+          Toimittaja Jaakko Laakso ja tangokuningatar Raija Mäntyniemi istahtivat kahvipöytään Kauhajoella syyskesästä, kun voiton jälkeisten viikkojen kiivain kiire oli hieman hellittänyt.
       - title: Yöklassinen
         start_time: '2026-09-06T23:40:00+03:00'
         end_time: '2026-09-07T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Winter: Concertino fagotille ja orkesterille n:o 1 c-molli (Jaakko Luoma ja Tapiola Sinfonietta).
+
+          23:58 Schubert: Sonatiinit viululle ja pianolle n:o 1 D-duuri, n:o 2 a-molli, n:o 3 g-molli; Sonaatti A-duuri (Arthur Grumiaux ja Riccardo Castagnone).
+
+          00:58 Beethoven: Septetto Es-duuri jousille ja puhaltimille (Lincoln Centerin kamariyhtye). 
+
+          01:39 Bruch: Viulukonsertto n:o 1 g-molli (Isaac Stern ja Philadelphian ork./Eugene Ormandy).
+
+          02:03 Bizet: Rooma, sinfonia C-duuri (Melbournen SO/John Lanchbery).
+
+          02:37 Ginastera: Harppukonsertto op.25 (Vera Badings ja Amsterdamin Concertgebouw-ork./Jesus Lopez-Cobos).
+
+          03:01 Klami: Kalevala-sarja (RSO/Mikko Franck).
+
+          03:39 Holst: Jupiter sarj. Planeetat (Atlantan SO/Yoel Levi).
+
+          03:48 Mahler: Lieder eines fahrenden Gesellen (Vaeltavan kisällin lauluja) (Håkan Hagegård, baritoni, ja New Yorkin FO/Kurt Masur).
+
+          04:05 Poulenc: Sonaatti viululle ja pianolle (Daishin Kashimoto ja Itamar Golan).
+
+          04:25 Debussy (sov. Ravel): Sarabande (Minnesotan ork./Eiji Oue).
+
+          04:30 Balakirev: Korol Lir (Kuningas Lear), näytelmämusiikkia (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          05:08 Reinagle: Pianosonaatti n:o 3 C-duuri (Philadelphia-sonaatti n:o 3) (Stephen Siek).
+
+          05:26 Glazunov: Novelletteja (Pietarin jousikvartetti).
+
+          05:56 J. S. Bach: Partita klaveerille n:o 4 D-duuri (Benjamin Grosvenor, piano).
+
+          06:15 Albinoni: Konsertto kahdelle oboelle, jousille ja continuolle F-duuri (Gail Hennessy ja Rachel Chaplin, sekä La Serenissima/Adrian Chandler).
+
+          06:26 Schütz: Ich weiss, dass mein Erlöser lebt (RKK/Otto Kargl, sekä Markku Luolajan-Mikkola, barokkisello, ja Markus Malmgren, urut).
