@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-02T02:34:22.583647+00:00'
+  generated_at: '2026-09-03T02:25:06.862706+00:00'
   git:
     branch: main
-    commit: 85b4a17fe08cdecacff3380526f94827468dfc84
-  data_hash: 32b7a5c0d8ca4f9c7ad623b2b0a0d8769c49cdc0f73988a8c6a1d9ec92da8ee2
+    commit: 9ed7b0ea7620a0719dac022cbd5b6ff39bb15773
+  data_hash: 9488e5f69fda3d85cc39ee690239a52ed9b334c57eb8c5ced416f66e40577623
 data:
   '':
     programmes:
@@ -54,6 +54,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-09-10T08:07:00+03:00'
         end_time: '2026-09-10T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-09-10T09:00:00+03:00'
         end_time: '2026-09-10T09:03:00+03:00'
@@ -109,11 +111,13 @@ data:
       - title: Aitiovieras
         start_time: '2026-09-10T13:35:00+03:00'
         end_time: '2026-09-10T14:00:00+03:00'
+        description: |-
+          Yle tv 1:llä nähtävä Puoli seitsemän on yksi maan suosituimmista televisio-ohjelmista. Sitä katsoo parhaimmillaan yli puoli miljoonaa ihmistä. Mikko Kekäläinen on ollut ohjelman yhtenä juontajana alusta saakka, vuodesta 2009. Mikko Kekäläinen kohtaa vieraansa lämpimästi ja hyväntuulisesti yhdessä kollegansa Ella Kannisen kanssa. Miten kuuluisan pinkin sohvan hyvä tunnelma syntyy? Mikko Kekäläinen on Miia Lahden haastattelussa.
       - title: Musiikkiaitio
         start_time: '2026-09-10T14:00:00+03:00'
         end_time: '2026-09-10T15:00:00+03:00'
         description: |+
-          Lähde mukaan musiikin maailmankiertueelle! Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+          Lähde mukaan musiikin maailmankiertueelle! Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin. Miia Lahti juontaa.
 
 
           Duke: Autumn in New York (Dawn Upshaw, sopraano, ja ork./Eric Stern).
@@ -189,7 +193,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-10T17:30:00+03:00'
         end_time: '2026-09-10T17:35:00+03:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Pilvilampaat ravaavat ja kuu kumottaa - Unien Keidas'
         start_time: '2026-09-10T17:35:00+03:00'
         end_time: '2026-09-10T18:25:00+03:00'
         description: |-
