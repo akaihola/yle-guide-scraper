@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-03T02:24:55.440387+00:00'
+  generated_at: '2026-09-04T02:17:59.406724+00:00'
   git:
     branch: main
-    commit: 9ed7b0ea7620a0719dac022cbd5b6ff39bb15773
-  data_hash: 9488e5f69fda3d85cc39ee690239a52ed9b334c57eb8c5ced416f66e40577623
+    commit: bdd6f2df803ec4c3f667c805aafed63fabc1d12a
+  data_hash: c66a0265b3abddb9267c3d5c42a943a8118d6921d3f3c1fb5ec9c76593a729cd
 data:
   '':
     programmes:
@@ -47,6 +47,8 @@ data:
 
           Laakso: Luojan kaunein ajatus (Maria Laakso, laulu, Senni Valtonen, huilu, Laura Airola, viulu, Mikko Iivanainen ja Markku Perttilä, kitara, sekä Pekka Nyman, lyömäsoittimet).
 
+          Studiossa Inari Tilli.
+
       - title: Aamuhartaus
         start_time: '2026-09-04T06:50:00+03:00'
         end_time: '2026-09-04T06:59:59+03:00'
@@ -84,6 +86,8 @@ data:
 
           Järnefelt (sov. Palmgren): Solsken (Päivänpaistetta) (Janne Oksanen, piano). 
 
+          Juontajana Inari Tilli.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T08:00:00+03:00'
         end_time: '2026-09-04T08:07:00+03:00'
@@ -112,7 +116,7 @@ data:
           Kämpfert: Silmäsi odottavat minua (Jorma Kääriäinen).
           Rodgers: Most beautiful girl in the world (The Dave Brubeck Quartet).
 
-          Konsertin on laatinut Pekka Laine.
+          Konsertin on laatinut Pekka Laine. Juontajana Inari Tilli.
       - title: 'Kalle Haatanen: Kuningas Arthurin legenda ja muita tekeleitä'
         start_time: '2026-09-04T10:00:00+03:00'
         end_time: '2026-09-04T10:55:00+03:00'
@@ -135,7 +139,7 @@ data:
         start_time: '2026-09-04T11:57:00+03:00'
         end_time: '2026-09-04T12:00:00+03:00'
         description: |-
-          Jaakko Juteinin runo Juoma-laulu
+          Jaakko Juteinin runo Juoma-laulu. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T12:00:00+03:00'
         end_time: '2026-09-04T12:05:00+03:00'
@@ -151,9 +155,11 @@ data:
           Haastateltavina jaksossa:
           Mikko Möttönen, kvanttiteknologian professori, Aalto-yliopisto
           Tuomas Uusnäkki, väitöskirjatutkija, Aalto-yliopisto
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2026-09-04T13:00:00+03:00'
         end_time: '2026-09-04T13:30:00+03:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-04T13:30:00+03:00'
         end_time: '2026-09-04T13:35:00+03:00'
@@ -191,11 +197,11 @@ data:
 
           Kosonen: Oodi kahville (Emma Salokoski).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudio'
         start_time: '2026-09-04T15:00:00+03:00'
         end_time: '2026-09-04T15:58:00+03:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Kulttuurin ja median ajankohtaisia ilmiöitä ja arvokysymyksiä ruotivat mainonnan ja markkinoinnin suunnittelija Jussi Turhala, kulttuuritoimittaja/tietokirjailija Ville Hänninen sekä toimittaja/tietokirjailija/elokuvakriitikko Leena Virtanen. Toimittajana on Jonni Roos.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-04T16:00:00+03:00'
         end_time: '2026-09-04T16:07:00+03:00'
