@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-04T02:18:00.843496+00:00'
+  generated_at: '2026-09-05T02:17:03.362184+00:00'
   git:
     branch: main
-    commit: bdd6f2df803ec4c3f667c805aafed63fabc1d12a
-  data_hash: c66a0265b3abddb9267c3d5c42a943a8118d6921d3f3c1fb5ec9c76593a729cd
+    commit: e06600afec1d27e6d10e0cfe441d566509c8e21f
+  data_hash: 8afa029f59eb554073c820770c0969bc961dfdd98e4b094a7b85db008ad1ac73
 data:
   '':
     programmes:
@@ -47,6 +47,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-09-07T06:30:50+03:00'
         end_time: '2026-09-07T06:50:00+03:00'
+        description: |+
+          Tuntematon: Herran ristin kantajiksi (Human Organ/Säde Bartling).
+
+          Koraalitoisinto: Sinulle kiitos, Isä maan ja taivaan (virsi 326:1-2,6-9) (SRK:n lauluyhtye/Mikko Niinikoski, Virve Ruokokoski, klarinetti, Sini Hyvärinen, sello, ja Sheldon Ylioja, urut).
+
+          Koraalitoisinto: Nyt Herran hyvyydestä (virsi 330) (Papas No Mamas/Juha Vintturi, ja Hannu Lepola, tenori).
+
+          Anonyymi: Kun on turva Jumalassa (virsi 397) (Henna Nieminen, laulu ja piano, Janne-Tapani Simola, laulu, sekä Henrik Perelló, viulu).
+
+          Doane: Mä Jeesuksesta laulan (Braxén-kuoro/Harry Westerlund ja Matti Pesonen, urut).
+
       - title: Aamuhartaus
         start_time: '2026-09-07T06:50:00+03:00'
         end_time: '2026-09-07T06:59:59+03:00'
@@ -195,6 +206,26 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-09-07T16:07:00+03:00'
         end_time: '2026-09-07T16:59:00+03:00'
+        description: |-
+          Ippolitov-Ivanov: Sardarin kulkue sinfonisesta sarj. Kaukasialaisia kuvia (Baltimoren SO/David Zinman).
+
+          Rossini: Teema muunnelmineen puhallinkvintetosta n:o 6 Es-duuri (Taffanel-puhallinkvintetin jäseniä). 
+
+          R. Schumann: Mondnacht (Octopus/Bart van Reyn).
+
+          Sirmen: Allegretto jousikvartetosta n:o 1 Es-duuri (Allegri-kvartetti).
+
+          Ives: The Unanswered question (Melbournen SO/Andrew Davis).
+
+          Hahn: Je me souviens (Susan Graham, mezzosopraano, ja Roger Vignoles, piano).
+
+          Bononcini: Sinfonia nona kahdelle viululle ja continuolle (L'Yriade-kamariyhtye). 
+
+          Hämeenniemi: Trastevere-muunnelmat (Risto-Matti Marin, piano).
+
+          Ginastera: Danza final balettisarj. Estancia (Simon Bolivar -nuorisosinfoniaork./Gustavo Dudamel).
+
+          Toimittaja Lotta Emanuelsson
       - title: Yle Uutiset ja sää
         start_time: '2026-09-07T17:00:00+03:00'
         end_time: '2026-09-07T17:05:00+03:00'
@@ -216,8 +247,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-09-07T18:35:00+03:00'
         end_time: '2026-09-07T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Tuntematon: Jo joutui armas aika (virsi 571) (Tapiolan kuoro/Kari Ala-Pöllänen, sekä Kaisa-Leena Harjunmaa, urut).
+
+          E.G.O.: Vain sinä tunnet minut, Vapahtaja (virsi 289) (Soile Isokoski, sopraano, ja Marita Viitasalo, harmoni).
+
+          Kansansäv.: Oh happy day (The Edwin Hawkins Singers).
+
       - title: Iltahartaus
         start_time: '2026-09-07T18:50:00+03:00'
         end_time: '2026-09-07T19:00:00+03:00'
@@ -237,7 +273,7 @@ data:
         description: |
           Liettualaiselta koiratarhalta tuodaan vuosittain satoja rescuekoiria Suomeen. Paikalliset viranomaiset syyttävät koiratarhaa eläinrääkkäyksestä. Ovatko suomalaiset koiranomistajat osa ratkaisua, vai ongelmaa? Toimittaja Ronja Salmi aloittaa selvityksen rescuekoirailmiön monista puolista. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-09-07T20:55:00+03:00'
+        start_time: '2026-09-07T20:38:00+03:00'
         end_time: '2026-09-07T21:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-09-07T21:00:00+03:00'

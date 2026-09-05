@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-04T02:18:00.007934+00:00'
+  generated_at: '2026-09-05T02:17:02.656207+00:00'
   git:
     branch: main
-    commit: bdd6f2df803ec4c3f667c805aafed63fabc1d12a
-  data_hash: c66a0265b3abddb9267c3d5c42a943a8118d6921d3f3c1fb5ec9c76593a729cd
+    commit: e06600afec1d27e6d10e0cfe441d566509c8e21f
+  data_hash: 8afa029f59eb554073c820770c0969bc961dfdd98e4b094a7b85db008ad1ac73
 data:
   '':
     programmes:
@@ -45,6 +45,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-05T07:54:57+03:00'
         end_time: '2026-09-05T08:00:00+03:00'
+        description: |+
+          Beach: Dancing leaves (Tanssivat lehdet) (Marie-Catherine Girod, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-05T08:00:00+03:00'
         end_time: '2026-09-05T08:05:00+03:00'
@@ -103,6 +106,16 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-09-05T10:00:00+03:00'
         end_time: '2026-09-05T10:25:00+03:00'
+        description: |
+          Venäjällä vallanpitäjät valmistautuvat syksyn suureen vaalinäytökseen, mutta kansalaisten mielialat synkkenevät. Kreml pyrkii osoittamaan tiukasti orkestroiduissa parlamenttivaaleissa, että venäläiset seisovat presidentti Vladimir Putinin sotapolitiikan takana. Maailmanpolitiikan arkipäivää tarkastelee Venäjän politiikan tilaa parlamentin alahuoneen, duuman vaalien valossa. 
+
+          Kremlin pyörittämää vaaliteatteria varjostaa se, että pitkittynyt sotahanke Ukrainassa tunkeutuu yhä enemmän tavallisten venäläisten arkeen. 
+
+          Ukrainan kiihtyneet drooni-iskut, bensiinikriisi, internetkatkokset ja yleensä heikkenevät talousnäkymät nostattavat tyytymättömyyttä, mutta vallanpitäjät pyrkivät kaikin tavoin estämään protestimielialojen näkymistä vaaleissa. Rauhan puolesta kampanjoineen pienen Jabloko-puolueen osallistuminen vaaleihin estettiin viime hetkellä, kun sen kannatus alkoi kasvaa. 
+
+          Vaaleja ei nyky-Venäjällä voi pitää vapaina eikä oikeudenmukaisina, mutta maanpaossa toimivat oppositioaktivistit toivovat vaalien paljastavan halkeamia putinismin julkisivussa. Helsingissä vieraileva oppositiopoliitikko Ilja Jašin kehottaa sotaa vastustavia venäläisiä protestiäänestykseen.
+
+          Ohjelman ovat toimittaneet Mika Hentunen ja Heikki Heiskanen. Äänitarkkailijana on Katja Kostiainen. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Hyviä aikeita 1: Koiratarhan todellisuus '
         start_time: '2026-09-05T10:25:00+03:00'
         end_time: '2026-09-05T10:53:00+03:00'
@@ -110,7 +123,7 @@ data:
           Liettualaiselta koiratarhalta tuodaan vuosittain satoja rescuekoiria Suomeen. Paikalliset viranomaiset syyttävät koiratarhaa eläinrääkkäyksestä. Ovatko suomalaiset koiranomistajat osa ratkaisua, vai ongelmaa? Toimittaja Ronja Salmi aloittaa selvityksen rescuekoirailmiön monista puolista. 
       - title: 'Virtasen taloushistoria: Asuntojen hinnat - koska ylös?'
         start_time: '2026-09-05T11:06:00+03:00'
-        end_time: '2026-09-05T11:53:00+03:00'
+        end_time: '2026-09-05T11:57:00+03:00'
         description: |
           Koska asuntojen hinnat lähtevät taas nousuun? Mitkä muut asiat kuin korkotaso vaikuttavat asuntojen hintoihin? Vieraana on Suomen Hypoteekkiyhdistyksen ja Suomen Asuntohypopankin toimitusjohtaja Ari Pauna
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
@@ -130,11 +143,11 @@ data:
           Homeerisen eepoksen ja antiikin maailmaa raottavat Marja Vehkasen vieraina filosofian tohtori, kreikkalaisen kirjallisuuden dosentti Tua Korhonen sekä filosofian tohtori, antiikin historian dosentti Marja-Leena Hänninen.
       - title: 'Näistä levyistä en luovu: Mikko Kuustosen memory lane'
         start_time: '2026-09-05T13:00:00+03:00'
-        end_time: '2026-09-05T13:55:00+03:00'
+        end_time: '2026-09-05T13:54:30+03:00'
         description: |-
           Löytyykö Mikko Kuustosen levylautaselta muutakin kuin bluesia?
       - title: Yksi on hyvää seuraa
-        start_time: '2026-09-05T13:55:00+03:00'
+        start_time: '2026-09-05T13:56:00+03:00'
         end_time: '2026-09-05T14:00:00+03:00'
       - title: 'Kalle Haatanen: Kuningas Arthurin legenda ja muita tekeleitä'
         start_time: '2026-09-05T14:00:00+03:00'
@@ -148,7 +161,7 @@ data:
           Vaikka turvallisuutemme nojaa nykyään ydinpelotteeseen, myös ydinasevarustelun haitat on tunnustettava, tutkijatohtori Saara Särmä toteaa.
       - title: 'Viihdekuunnelma: Knalli ja sateenvarjo'
         start_time: '2026-09-05T15:00:00+03:00'
-        end_time: '2026-09-05T15:25:00+03:00'
+        end_time: '2026-09-05T15:27:00+03:00'
         description: |-
           Siltasekoilu
           Tervetuloa jälleen ministeriön erikoisosastolle, jossa sattuu ja tapahtuu!
@@ -173,7 +186,7 @@ data:
           Tohtori Tooth - Eija Nousiainen
           Kertoja - Asko Sarkola.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-09-05T15:25:00+03:00'
+        start_time: '2026-09-05T15:27:00+03:00'
         end_time: '2026-09-05T15:30:00+03:00'
       - title: 'Aristoteleen kantapää: Naruja, värttinöitä, papinkuristajia – pastalajien nimissä maistuu historia ja huumori '
         start_time: '2026-09-05T15:30:00+03:00'
@@ -221,11 +234,11 @@ data:
         end_time: '2026-09-05T17:05:00+03:00'
       - title: 'Marko Gustafsson: Käännekohdissa Kjell Westö'
         start_time: '2026-09-05T17:05:00+03:00'
-        end_time: '2026-09-05T17:58:00+03:00'
+        end_time: '2026-09-05T17:56:00+03:00'
         description: |2
            "On monta asiaa, joita en ole pystynyt pitämään koossa, kuten kaksi eroon päättynyttä  avioliittoa, mutta kirjailijuuden olen kuitenkin kyennyt säilyttämään, vaikka helppoa se ei ole ollut, Westö toteaa. Kjell Westön esikoisromaani Leijat Helsingin yllä julkaistiin 30 vuotta sitten 1996 . Syyskuussa 2026 ilmestyy hänen kymmenes romaaninsa Coda.   
       - title: Yksi on hyvää seuraa
-        start_time: '2026-09-05T17:53:00+03:00'
+        start_time: '2026-09-05T17:56:00+03:00'
         end_time: '2026-09-05T18:00:00+03:00'
       - title: 'Ehtookellot: Espoon kirkon kellot'
         start_time: '2026-09-05T18:00:00+03:00'
@@ -267,7 +280,7 @@ data:
         end_time: '2026-09-05T22:10:00+03:00'
       - title: 'Klassikkokuunnelma: Kihlaus'
         start_time: '2026-09-05T22:10:00+03:00'
-        end_time: '2026-09-05T22:47:00+03:00'
+        end_time: '2026-09-05T22:46:38+03:00'
         description: |-
           Kraatarin matalaan majaan saapuu morsianehdokas, ja naimakauppaa ryhdytäänkin suunnittelemaan suin päin. Herrojen taloudenhoitajana ollut morsian tulee kuitenkin katumapäälle. Vaan voiko lupausta perua?
           Aleksis Kiven komedian kuunnelmaversio on äänitetty Tampereella 1952, radiossa teos lähetettiin ensimmäisen kerran vuonna 1998.

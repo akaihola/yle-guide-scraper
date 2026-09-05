@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-04T02:18:10.096337+00:00'
+  generated_at: '2026-09-05T02:17:10.601801+00:00'
   git:
     branch: main
-    commit: bdd6f2df803ec4c3f667c805aafed63fabc1d12a
-  data_hash: c66a0265b3abddb9267c3d5c42a943a8118d6921d3f3c1fb5ec9c76593a729cd
+    commit: e06600afec1d27e6d10e0cfe441d566509c8e21f
+  data_hash: 8afa029f59eb554073c820770c0969bc961dfdd98e4b094a7b85db008ad1ac73
 data:
   '':
     programmes:
@@ -34,9 +34,11 @@ data:
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-10-04T09:56:00+03:00'
         end_time: '2026-10-04T09:59:00+03:00'
-      - title: Jumalanpalvelus
+      - title: Jumalanpalvelus Tampereen Messukylän kirkosta
         start_time: '2026-10-04T10:00:00+03:00'
         end_time: '2026-10-04T10:59:20+03:00'
+        description: |-
+          Liturgina Eva Rosengrén-Bancsi. Saarnaajana kirkkoherra Juha Itkonen. Kanttorina Sanna Osmala. Urkurina Kaisu Leinonen. Virret: 923; synnintunnustus 704; kiitosrukous 716; 134; 138; 498; 329:1,2,5.
       - title: Muistojen bulevardi
         start_time: '2026-10-04T11:00:00+03:00'
         end_time: '2026-10-04T11:59:00+03:00'
@@ -103,9 +105,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-04T17:00:00+03:00'
         end_time: '2026-10-04T17:05:00+03:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertti Dugan poljentoa Ruotsista
         start_time: '2026-10-04T17:06:00+03:00'
         end_time: '2026-10-04T18:00:00+03:00'
+        description: |
+          Duga -yhtyeen konsertti Rudolstadtin Shiller-teatterissa 5.7.2026. Musiikissa kuuluu Hedningarnan vaikutteet - raskas poljento ja kiihtyvät riffit. Trion muodostavat Olof Kennemarkin resonoiva viola d´amore, Albin Brobergin mora-oud, efektit ja sämplet, sekä ahvenanmaalaisen Anton Johanssonin lyömäsoittimet. Sävellykset ovat omia sekä sovituksia polskista, sottiiseista ja valsseista. Ohjelmassa aluksi Albin Brobergin haastattelu. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
         start_time: '2026-10-04T18:00:30+03:00'
         end_time: '2026-10-04T19:00:00+03:00'
@@ -115,9 +119,11 @@ data:
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-10-04T19:02:30+03:00'
         end_time: '2026-10-04T20:00:00+03:00'
-      - title: Ortodoksinen jumalanpalvelus
+      - title: Ortodoksinen liturgia Pyhän Aleksandran kirkosta Turusta
         start_time: '2026-10-04T20:00:00+03:00'
         end_time: '2026-10-04T21:00:00+03:00'
+        description: |-
+          Palveluksen toimittaa KP Arkkipiispa Elia yhdessä papiston ja ulkomaalaisten vieraiden kanssa. Kirkkokuoroa johtaa kanttori dir.cant. Pasi Torhamo.
       - title: Uutispodcast
         start_time: '2026-10-04T21:00:30+03:00'
         end_time: '2026-10-04T21:24:00+03:00'
