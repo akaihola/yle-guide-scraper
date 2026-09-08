@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-07T02:19:07.945125+00:00'
+  generated_at: '2026-09-08T02:17:38.423534+00:00'
   git:
     branch: main
-    commit: 914f0c927b3edd4d51ad93fe50e6fb2ebeb0b056
-  data_hash: 2b3055515f582022922f61df0f95779911fe26c01a339ce77b4563bfeb533063
+    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
+  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
 data:
   '':
     programmes:
@@ -45,11 +45,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-27T12:00:00+03:00'
         end_time: '2026-09-27T12:05:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Tampereen Robin Hood - Miljoonakavaltaja Nils Idmanin tarina'
         start_time: '2026-09-27T12:05:00+03:00'
         end_time: '2026-09-27T12:55:00+03:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
+        description: |
+          Kun Nils Idman pidätettiin vuonna 1912, koko Tampere pysähtyi ja mummot itkivät kauppahallissa. Rakastettu pankinjohtaja jäi kiinni tehtyään Suomen suurimman talousrikokseen, mutta silti Nils Idmania kutsutaan Tampereen Robin Hoodiksi. Miksi?  
+          Toimittaja: Kaisa Pulakka
+          Haastateltavat: Ari Järvelä, Petra Käppi
+          Lukijat: Harri Alanne, Sampo Mäkelä, Anna Sirén.
+          Äänisuunittelu: Laura Koso.
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-09-27T13:00:00+03:00'
         end_time: '2026-09-27T13:57:00+03:00'
@@ -63,15 +67,13 @@ data:
         end_time: '2026-09-27T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: 'Kuunnelman tiet: Alku - ääniä ilmaan'
+      - title: 'Kuunnelman tiet 1/13: Alku - ääniä ilmaan'
         start_time: '2026-09-27T15:00:00+03:00'
         end_time: '2026-09-27T15:35:00+03:00'
         description: |
-          Osa 1/13.
           Pekka Kyrö kertoo radiokuunnelman kehitysvaiheista ja käännekohdista. 
-          Tekninen toteutus Tiina Luoma. 
           Tässä osassa kerrotaan, millaisten vaiheitten kautta kuunnelma syntyi. 
-          (ensies. 2009)
+          Ohjelma on vuodelta 2009.
       - title: Musiikkikamari
         start_time: '2026-09-27T15:35:00+03:00'
         end_time: '2026-09-27T15:55:00+03:00'
