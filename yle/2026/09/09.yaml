@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:33.637257+00:00'
+  generated_at: '2026-09-09T02:17:39.842038+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -174,6 +174,8 @@ data:
       - title: Politiikkaradio
         start_time: '2026-09-09T13:00:00+03:00'
         end_time: '2026-09-09T13:30:00+03:00'
+        description: |-
+          Vievätkö datakeskukset suomalaisilta edullisen vihreän sähkön aiheuttaen korkeita kuluttajahintoja ja ilmastotavoitteiden vesittymisen? Haastattelussa LUT yliopiston professori Lassi Linnanen ja Energiateollisuuden toimitusjohtaja Jukka Leskelä. Toimittajana on Linda Pelkonen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-09T13:30:00+03:00'
         end_time: '2026-09-09T13:35:00+03:00'
@@ -211,12 +213,12 @@ data:
 
           Fain: I'll be seeing you (Jools Holland and his Rhythm and Blues Orchestra & Jimmy Scott).
 
-      - title: 'Kulttuuriykkönen: Yle 100 – kulttuuritehtävän jännitteet'
+      - title: 'Kulttuuriykkönen: Miten hyvin Yle tuo esiin kulttuuria?'
         start_time: '2026-09-09T15:00:00+03:00'
         end_time: '2026-09-09T15:58:00+03:00'
         description: |-
           Yleisradion syntymäpäivänä Kulttuuriykkösessä puhutaan jännitteistä, joita liittyy Ylen kulttuuritehtävään. Studiossa kohtaavat mediatutkija Anu Koivunen, toimittajat Pekka Torvinen ja Ina Mikkola sekä Ylen Kulttuuri ja asia - yksikön vastaava päätoimittaja Johanna Törn-Mangs.  
-          Sadassa vuodessa Ylen kulttuuritehtävä on laajentunut ja kulttuurin käsite laventunut. Onnistuuko Yle palvelemaan kaikkia suomalaisia, kun nuoriso ei enää katso televisiota, kuuntele radiota ja sukupolvien ero repeää? Miten Yle pärjää kilpailussa Tiktokin ja Youtuben kanssa? Löytääkö yleisö kulttuurisisällöt, klikkaako sormi? Onko Yle yhä kansakunnan muisti? Toimittajana on Minna Joenniemi.
+          Sadassa vuodessa Ylen kulttuuritehtävä on laajentunut ja kulttuurin käsite laventunut. Onnistuuko Yle palvelemaan kaikkia suomalaisia, kun nuoriso ei enää katso televisiota, kuuntele radiota ja sukupolvien ero repeää? Miten Yle pärjää kilpailussa Tiktokin ja Youtuben kanssa? Löytääkö yleisö kulttuurisisällöt, klikkaako sormi? Onko Yle yhä kansakunnan muisti? Toimittajana on Ville Talola.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-09T16:00:00+03:00'
         end_time: '2026-09-09T16:07:00+03:00'
@@ -252,7 +254,7 @@ data:
         start_time: '2026-09-09T17:05:00+03:00'
         end_time: '2026-09-09T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Yle täyttää tänään 100 vuotta. Uutispodcast kysyi kuulijoiltaan sekä kolmelta eri alan edustajalta, millainen satavuotiaan yleisradioyhtiön pitäisi olla tulevaisuudessa. Haastattelussa Ylen hallintoneuvostossa istuva perussuomalaisten kansanedustaja Joakim Vigelius, toimittaja Sonja Saarikoski sekä elokuvaohjaaja Lauri-Matti Parppei. Jakson juontaa Leonard Wilhelmus.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-09T17:30:00+03:00'
         end_time: '2026-09-09T17:35:00+03:00'
@@ -282,28 +284,28 @@ data:
         end_time: '2026-09-09T19:02:00+03:00'
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-09-09T19:02:00+03:00'
-        end_time: '2026-09-09T21:00:00+03:00'
+        end_time: '2026-09-09T21:10:00+03:00'
         description: |-
           Nicholas Collon, kapellimestari, sol. Antoine Tamestit, alttoviulu. - Karol Szymanowski: Konserttialkusoitto. Sofia Gubaidulina: Alttoviulukonsertto, Suomen ensiesitys. Sergei Prokofjev: Osia baletista Romeo ja Julia. Suoran lähetyksen Musiikkitalosta juontaa Riikka Holopainen. 
       - title: 'Politiikkaradio '
-        start_time: '2026-09-09T21:00:00+03:00'
-        end_time: '2026-09-09T21:30:00+03:00'
+        start_time: '2026-09-09T21:20:00+03:00'
+        end_time: '2026-09-09T21:50:00+03:00'
       - title: 'Havaintoja muutoksesta: Kaunokirjallisuus kuljettaa kohti kokemuksellista ymmärrystä'
-        start_time: '2026-09-09T21:31:00+03:00'
-        end_time: '2026-09-09T22:20:00+03:00'
+        start_time: '2026-09-09T21:51:04+03:00'
+        end_time: '2026-09-09T22:42:10+03:00'
         description: |
           Kaunokirjallisuus voi tehdä näkyväksi jaettua ihmisyyttä ja siihen liittyvää monimutkaisuutta, tilanteisuutta ja suhteisuutta. Millainen pedagoginen työkalu kirjallisuus on ja voisi olla? Miten kirjallisuus voi rakentaa tulevaisuutta?
           Toimittaja Satu Kivelä keskustelee aiheesta kirjailija ja dokumenttielokuvien ohjaaja Elina Hirvosen ja Diakonia-ammattikorkeakoulun Helsingin kampuksen lehtori Tiina Lintusen kanssa. 
       - title: 'Jussi Halla-aho - kylmä peli: Haastaja herää'
-        start_time: '2026-09-09T22:21:00+03:00'
-        end_time: '2026-09-09T22:50:00+03:00'
+        start_time: '2026-09-09T22:47:00+03:00'
+        end_time: '2026-09-09T23:13:17+03:00'
         description: |-
           Osa 4/8.
           Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.
           (ensies. v. 2025)
       - title: 'Ulkolinja-podcast: Kreikka houkuttelee Hollywood-tuotantoja'
-        start_time: '2026-09-09T23:20:00+03:00'
-        end_time: '2026-09-09T23:39:30+03:00'
+        start_time: '2026-09-09T23:22:40+03:00'
+        end_time: '2026-09-09T23:39:07+03:00'
         description: |-
           Yhä useampi kansainvälinen elokuvatuotanto kuvataan Kreikassa. Kreikka houkuttelee suurtuotantoja muun muassa suurilla verohelpotuksilla. 
       - title: Yöklassinen

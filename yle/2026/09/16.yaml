@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:35.370537+00:00'
+  generated_at: '2026-09-09T02:17:42.000025+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -60,6 +60,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-09-16T09:04:00+03:00'
         end_time: '2026-09-16T09:59:00+03:00'
+        description: |+
+          Kern: All the Things You Are (Tommy Dorsey).
+          Frazier: Tyttöjen iskijä Mohair Sam (Carola).
+          Hardy: L'amour s'en va (Francoise Hardy).
+          Arlen: It's only a paper moon (The King Cole Trio).
+          Dominguez: Tu me acostumbraste (Olga Guillot).
+          John: After the lights go out (The Walker Brothers).
+          Rae: Pieni sydän (Laila Kinnunen).
+          Kärki: Kulkurin iltatahti (Matti Louhivuori).
+          Hazlewood: The last of the secret agents (Nancy Sinatra).
+          Jokela: Et voi jäädä nukkumaan (Kaseva).
+          Berlin: How deep is the ocean (Peggy Lee). 
+          Zaizar, Zaizar & Martinez: Cielo rojo (Luis Miguel).
+          Dahlgren: Vem tänder stjärnorna (Eva Dahlgren, laulu).
+          Salo: Jos kuusi kertaa sun pyssys laukeaa (Tamara Lund).
+          Waits: Tom Traubert's blues (Four sheets to the wind in Copenhagen) (Tom Waits).
+
       - title: 'Havaintoja muutoksesta: Suhteemme kuluttamiseen ja vaatteisiin'
         start_time: '2026-09-16T10:00:00+03:00'
         end_time: '2026-09-16T10:50:00+03:00'
@@ -219,15 +236,19 @@ data:
           Kaija Saariaho (1952-2023): Light and Matter pianotriolle
 
           Sebastian Fagerlund (*1972): Oceano jousitriolle
+
+          Kuva: Sanni Penttinen
       - title: 'Politiikkaradio '
         start_time: '2026-09-16T21:00:00+03:00'
         end_time: '2026-09-16T21:30:00+03:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-09-16T21:31:00+03:00'
         end_time: '2026-09-16T22:20:00+03:00'
-      - title: 'Ulkolinja-podcast  '
+      - title: 'Ulkolinja-podcast: Trumpin uhkailu herätti Kanadassa kansallistunteen'
         start_time: '2026-09-16T23:20:00+03:00'
         end_time: '2026-09-16T23:39:30+03:00'
+        description: |-
+          Yhdysvaltain presidentin Donald Trumpin jatkuva uhkailu on saanut naapurimaassa Kanadassa kansallistunteen aivan uudenlaiseen nousuun. 
       - title: Yöklassinen
         start_time: '2026-09-16T23:40:00+03:00'
         end_time: '2026-09-17T06:30:00+03:00'

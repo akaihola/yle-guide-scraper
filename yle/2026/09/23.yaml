@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:37.060601+00:00'
+  generated_at: '2026-09-09T02:17:43.333109+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -27,6 +27,31 @@ data:
       - title: Aamusoitto
         start_time: '2026-09-23T07:06:00+03:00'
         end_time: '2026-09-23T08:00:00+03:00'
+        description: |+
+          Dowland: The Earle of Essex galliard (Paul O'Dette, luuttu).
+
+          Weber: Rondo klarinettikvintetosta B-duuri (Jon Manasse ja Manhattan-jousikvartetti).
+
+          Dvorák: Bagatelli n:o 3 (Domus-kvartetti).
+
+          Satie: Le Piccadilly (Janne Mertanen, piano).
+
+          Fauré: Aamun sarastaessa (Sanford Sylvan, baritoni, David Breitman, piano, ja Lyydinen kvartetti).
+
+          Leiviskä: Humoreski sarj. n:o 2 (Sinfonia Lahti/Dalia Stasevska).
+
+          Falla (sov. Barrueco): Myllärinvaimon tanssi bal. Kolmikolkkahattu (Manuel Barrueco, kitara).
+
+          Chopin: Impromptu n:o 3 Ges-duuri (Arto Satukangas, piano).
+
+          W.A. Mozart (sov. Hasel): Andante Flötenuhr-soittimelle F-duuri KV616 (Berliinin filharmoninen puhallinkvintetti).
+
+          Sibelius: Morceau romantique sur un motif de M. Jacob de Julin (Turun filharmoninen ork./Leif Segerstam).
+
+          Hasselmans: La source (Lähde) (Marjatta Haahti, harppu).
+
+          Rodgers: Oh, what a beautiful mornin' musik. Oklahoma (Bryn Terfel, baritoni, ja Leedsin FO/Paul Daniel). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-23T08:00:00+03:00'
         end_time: '2026-09-23T08:07:00+03:00'

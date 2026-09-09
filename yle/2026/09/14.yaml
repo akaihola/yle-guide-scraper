@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:34.877755+00:00'
+  generated_at: '2026-09-09T02:17:41.453207+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -115,7 +115,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-14T10:47:00+03:00'
         end_time: '2026-09-14T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Lisää vain sanat'
         start_time: '2026-09-14T11:00:00+03:00'
         end_time: '2026-09-14T11:57:00+03:00'
         description: |-
@@ -168,11 +168,13 @@ data:
 
           Hilliard: Our day will come (The Wade Mikkola Quintet).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kirjoista tutut tarinat ovat suosiossa teattereissa – Miten käy näytelmäkirjallisuuden?'
         start_time: '2026-09-14T15:00:00+03:00'
         end_time: '2026-09-14T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Teattereissa nähdään tänä syksynä paljon tuttuja tarinoita: Suliko, Elolliset, Passio, Käräjät, Aino A. .… Nämä kaikki ovat sovituksia kirjoista, vieläpä varsin tuoreista romaaneista. Yleisöä on helpompi houkutella teattereihin, kun jo etukäteen tietää vähän, mitä on luvassa.
+          Miten tässä romaanisovitusten vyöryssä käy näytelmäkirjallisuuden? Kiinnostavatko näytelmätekstit enää ketään, ja kannattaako niitä kirjoittaa? 
+          Näitä asioita pohditaan Kulttuuriykkösessä. Lähetyksessä ovat mukana Helsingin kaupunginteatterin dramaturgi Henna Piirto, kirjailija, ohjaaja Saara Turunen ja näytelmäkoordinaattori Mika Vainio Suomen näytelmäkirjailijoiden yhdistyksestä. Lähetyksen toimittaa Miia Gustafsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-14T16:00:00+03:00'
         end_time: '2026-09-14T16:07:00+03:00'
@@ -231,6 +233,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-09-14T18:50:00+03:00'
         end_time: '2026-09-14T19:00:00+03:00'
+        description: |-
+          "Matteuksen evankeliumi: Kysymys verojen maksamisesta"
+          Näyttelijä Krista Kosonen lukee Matteuksen evankeliumia (22:15-23:12) UT2020 käännöksen mukaan. 17. jaksossa Jeesus vastaa kysymyksiin ylösnousemuksesta ja tärkeimmästä käskystä sekä varoittaa tekopyhyydestä.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-14T19:00:00+03:00'
         end_time: '2026-09-14T19:02:00+03:00'

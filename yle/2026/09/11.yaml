@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:34.137771+00:00'
+  generated_at: '2026-09-09T02:17:40.555153+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -97,6 +97,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-09-11T09:04:00+03:00'
         end_time: '2026-09-11T09:59:00+03:00'
+        description: |-
+          Lindström: Höstens sång (Maynie Sirén).
+          Aznavour: Eilen kun mä tiennyt en (Aili Ikonen ja Jukka Perko).
+          Cutugno: Il etait une fois nous deux (Joe Dassin).
+          Goodman: Hyvää huomenta Suomi (Karma).
+          Layton: 'Way down yonder in New Orleans (The Andrews Sisters & Al Jolson).
+          Alter: Do you know what it means to miss New Orleans (Louis Armstrong).
+          Sarmanto: Syksy (Maija Hapuoja).
+          Trejo: Tata Dios (Linda Ronstadt).
+          Wechter: The Spanish Flea (Herb Alpert and The Tijuana Brass).
+          Jagger/Richards: Miss you (Carla Bruni).
+          Anonyymi: Syksyn lehdet (Oili Vainio).
+          Marley: Turn your lights down low (Bob Marley and the Wailers).
+          Nash: I can see clearly now (Johnny Nash).
+          Battisti: Il mio canto libero (Laura Pausini ja Juanes).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: 'Kalle Haatanen: Eheytyksen rikkomat ihmiset'
         start_time: '2026-09-11T10:00:00+03:00'
         end_time: '2026-09-11T10:55:00+03:00'
@@ -137,7 +154,11 @@ data:
         start_time: '2026-09-11T13:35:00+03:00'
         end_time: '2026-09-11T14:00:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Kirjailija Elisa Savolaisen Kerro heille oliivipuista -romaani kuvaa suomalaisen antropologi Hilma Granqvistin elämää Lähi-idän maisemissa. Uraauurtavaa tieteellistä tutkimusta tehnyt Granqvist näki jo 100 vuotta sitten myös alueen nykyisten ongelmien ja sotien syitä. Kuinka itsenäisestä tiedenaisesta tuli sitten kaunokirjan päähenkilö ja mitä kaikkea taiteen avulla oikean ihmisen elämästä voi kertoa?
+
+          Kirjani tarinan vieraana kirjailija Elisa Savolainen. 
+
+          Toimittaja Jukka Kuosmanen. 
       - title: Musiikkiaitio
         start_time: '2026-09-11T14:00:00+03:00'
         end_time: '2026-09-11T15:00:00+03:00'
@@ -242,38 +263,23 @@ data:
       - title: 'Konsertti: Kaivosfestivaali – Aallot viikkokausia oikealla puolellani'
         start_time: '2026-09-11T19:02:00+03:00'
         end_time: '2026-09-11T21:00:00+03:00'
-        description: |-
-          Konsertissa kuultava musiikki vie yleisön mukanaan alttoviulistin pitkälle yksinvaellukselle Lounais-Englannin auringonpaahteisilla ja myrskyisillä rannoilla. Puhetta, musiikkia ja kuvia yhdistelevä konsertti välittää tunnelmia, ajatuksia, haasteita ja onnistumisia vaellukselta ja pohtii osaltaan ihmisen paikkaa loputtomalta tuntuvan Atlantin valtameren äärellä. Esiintymässä Tami Pohjola, viulu; Mari Viluksela, alttoviulu; Sirja Nironen, sello; Aleksei Zaitsev, piano. Outokummun Vanhan kaivoksen Teatteri Kiisussa 4.9.2026 tallennetun konsertin toimittaa Ainomaija Pennanen.
-
-          Ohjelma:
-
-          Sally Beamish(*1956): Stone, Salt and Sky viululle ja sellolle
-          II Horizon
-          III Harbour Blues
-
-          Caroline Shaw (*1982): Limestone and Felt alttoviululle ja sellolle
-
-          Henry Cowell (1897-1965): The Tides of Manaunaun pianolle
-
-          Ingibjörg Ýr (*1990): Undiralda – Undercurrent viululle ja alttoviululle
-
-          Maleena Linjama (*1992): Zirkoni ZrSiO4 alttoviululle ja pianolle
-
-          Rebecca Clarke (1886-1979): I’ll bid my heart be still alttoviululle ja pianolle
-
-          Kuvassa Mari Viluksela © Nelly Frilander
+        description: |
+          Kaivosfestivaalin konsertti “Aallot viikkokausia oikealla puolellani” yhdistää puhetta, musiikkia ja kuvia ja välittää siten tunnelmia, ajatuksia, haasteita ja onnistumisia vaellukselta Lounais-Englannin rannoilla. 
+          Konsertissa esiintyvät Tami Pohjola, viulu, Mari Viluksela, alttoviulu, Sirja Nironen, sello, ja Aleksei Zaitsev, piano. Outokummun Vanhan kaivoksen Teatteri Kiisussa 4.9.2026 tallennetun konsertin toimittaa Ainomaija Pennanen.
       - title: 'Politiikkaradio '
         start_time: '2026-09-11T21:00:00+03:00'
         end_time: '2026-09-11T21:30:00+03:00'
-      - title: 'Aitiovieras '
+      - title: 'Aitiovieras: Elokuvaohjaaja Klaus Härö antaa äänen väsyneille hoitajille'
         start_time: '2026-09-11T21:31:00+03:00'
         end_time: '2026-09-11T21:55:00+03:00'
+        description: |-
+          Elokuvaohjaaja Klaus Härön tuore elokuva Hetki ennen valoa kertoo hoitoalan tiukasta tilanteesta. Siitä, mitä tapahtuu, kun hoitaja ei enää jaksa. Useaan otteeseen palkittu elokuvaohjaaja Härö on sanonut, että hän pyrkii antamaan äänen niille, joiden oma ääni ei kuulu. Härö pitää itseään ennen kaikkea tarinan kertojana. Miia Lahti haastattelee.
       - title: Sari Valto
         start_time: '2026-09-11T21:55:00+03:00'
         end_time: '2026-09-11T22:50:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: 'Tuuli Saksalan keidas: Pilvilampaat ravaavat ja kuu kumottaa - Unien Keidas'
+      - title: Tuuli Saksalan keidas
         start_time: '2026-09-11T22:51:00+03:00'
         end_time: '2026-09-11T23:39:00+03:00'
         description: |-

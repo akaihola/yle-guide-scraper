@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:37.537505+00:00'
+  generated_at: '2026-09-09T02:17:43.712787+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -26,6 +26,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-09-25T07:06:00+03:00'
         end_time: '2026-09-25T08:00:00+03:00'
+        description: |+
+          J.S. Bach: Alkusoitto orkesterisarjasta n:o 1 C-duuri (Bostonin barokkiork./Martin Pearlman).
+
+          Le Jeune: Lempeä sulho (The King's Singers ja The Consort of Musicke).
+
+          W.A. Mozart: Sonaatti pianolle, huilulle ja sellolle A-duuri (Guy Penson, fortepiano, Marc Grauwels, huilu, ja Jan Sciffer, sello).
+
+          Byström: Poloneesi C-duuri (Juhani Lagerspetz, piano).
+
+          Saint-Saëns: Allegro scherzando fagottisonaatista G-duuri (Christopher Millard, fagotti, ja Stephane Lemelin, piano).
+
+          Bruch: Andante Serenadista ruotsalaisten kansansävelmien mukaan (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          Madetoja: Aamu, lyyrillisestä sarjasta (Senja Rummukainen, sello, ja Jenni Lappalainen, piano). 
+
+          Shostakovitsh (sov. Solin): Pariisin näkymiä näyt. Inhimillinen komedia (Rustem Hayroudinoff, piano).
+
+          Grieg: Gavotti ja Musette sarjasta Holbergin ajoilta (Berliinin filharmonikot/ Herbert von Karajan).
+
+          Drigo: Serenadi bal. Harlekiinin miljoonat (James Galway, huilu, ja Lontoon kansallinen FO/Charles Gerhardt). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-25T08:00:00+03:00'
         end_time: '2026-09-25T08:07:00+03:00'

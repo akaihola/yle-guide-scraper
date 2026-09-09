@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:36.332839+00:00'
+  generated_at: '2026-09-09T02:17:42.758898+00:00'
   git:
     branch: main
-    commit: 3532a6f4d5061eb4a515671c646aa6fc8f89b076
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   '':
     programmes:
@@ -52,14 +52,20 @@ data:
           Ensimmäiset seikkailijat uskaltautuivat kivikautisen Ahvenanmaan saarille noin 7000 vuotta sitten Lounais-Suomesta, ja myöhemmin asukkaita tuli myös Ruotsista sekä kaukaa etelästä. Miten näiden ihmisten kohtaamiset sujuivat? Entä mitä kertovat pienet ja ilmeikkäät saviveistokset?
           haastateltava: arkeologi Jan Fast
           toimittaja: Riikka Suikkari
-      - title: Välilevyjä - Kare Eskola
-        start_time: '2026-09-20T13:00:00+03:00'
-        end_time: '2026-09-20T13:57:00+03:00'
-        description: |-
-          Taidemusiikin tarinoita kertoo ja purkaa Kare Eskola.
       - title: Uudet levyt
         start_time: '2026-09-20T13:00:00+03:00'
         end_time: '2026-09-20T13:55:00+03:00'
+        description: |-
+          Matada: Hiona mbilo (Chico Matada) levyltä Kuya Kaya. 
+          Konsta Jylhä: Laulu (Hot Heros) levyltä Tähtisilmä. 
+          Hynninen: Tuliketun jäljillä (Laura Hynninen) levyltä Botaurus stellaris.  
+          Hynninen: Lyhty (Laura Hynninen).    
+          Kansanlaulu (Ahvenanmaa): Skön Anna (Cienna) levyltä Muinainen armas. 
+          Kansansäv. Pollonizer -sikermä (Nordik Tree) levyltä Ratas. 
+          Keskitalo/Hanikka: Kuinka kauan siinä kestää (Inariveljet). 
+          Verdi/IkonenPerko: La donna e mobile (Mun oma miekkonen suuttui taas vähäsen (Aili Ikonen ja Jukka Perko) levyltä Klasstet. 
+          Pohjonen/Gustafsson: Two balls are enough (Kimmo Pohjonen ja Mats Gustafsson). 
+          Pajakkala: Rauha (Utopianisti, Tampereen Ihankaikkinen Kuninkaallinen Tuomiokuoro/Petra Poutanen). 
       - title: Klassikkokuunnelmia
         start_time: '2026-09-20T15:00:00+03:00'
         end_time: '2026-09-20T15:35:00+03:00'
