@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:35.851666+00:00'
+  generated_at: '2026-09-09T02:17:42.382959+00:00'
   git:
     branch: main
-    commit: b2a9d6b2e886a8500f3a712b59a3c967996ef0b7
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 06f02b4c09e008063a6fe763688cdb1fa6a47701
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   Yle Radio 1:
     programmes:
@@ -83,11 +83,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-18T10:55:00+03:00'
         end_time: '2026-09-18T11:00:00+03:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Säveltäjän teosluettelo ei ole päätepiste, vaan alkupiste
         start_time: '2026-09-18T11:00:00+03:00'
         end_time: '2026-09-18T11:55:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |2-
+           "Jos Suomi olisi aito sivistysmaa, opetus- ja kulttuuriministeriö perustaisi teosluetteloprojektin ja palkkaisi siihen tutkijat. Säveltäjien tuotannon perusteellinen kartoitus on perustutkimusta, johon meillä ei vain tunnu olevan kiinnostusta", sanoo Heikki Poroila. Poroila on  tiedonjärjestämisen ammattilainen, jonka työn tuloksena mm. Oskar Merikannon laaja tuotanto on yksissä kansissa. Heikki Poroilan tapasi Outi Paananen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-18T11:55:00+03:00'
         end_time: '2026-09-18T11:57:00+03:00'

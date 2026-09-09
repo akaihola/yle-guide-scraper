@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-08T02:17:38.423534+00:00'
+  generated_at: '2026-09-09T02:17:44.090240+00:00'
   git:
     branch: main
-    commit: b2a9d6b2e886a8500f3a712b59a3c967996ef0b7
-  data_hash: 1c4bc6585c6fcd81b8f53da243f5b8e4ad8e4764003d2a8ecce4a31b9e8d8888
+    commit: 06f02b4c09e008063a6fe763688cdb1fa6a47701
+  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
 data:
   Yle Radio 1:
     programmes:
@@ -67,13 +67,9 @@ data:
         end_time: '2026-09-27T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: 'Kuunnelman tiet 1/13: Alku - ääniä ilmaan'
+      - title: Klassikkokuunnelmia
         start_time: '2026-09-27T15:00:00+03:00'
         end_time: '2026-09-27T15:35:00+03:00'
-        description: |
-          Pekka Kyrö kertoo radiokuunnelman kehitysvaiheista ja käännekohdista. 
-          Tässä osassa kerrotaan, millaisten vaiheitten kautta kuunnelma syntyi. 
-          Ohjelma on vuodelta 2009.
       - title: Musiikkikamari
         start_time: '2026-09-27T15:35:00+03:00'
         end_time: '2026-09-27T15:55:00+03:00'
