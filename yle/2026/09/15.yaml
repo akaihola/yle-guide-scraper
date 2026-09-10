@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-09T02:17:41.803016+00:00'
+  generated_at: '2026-09-10T02:17:56.025755+00:00'
   git:
     branch: main
-    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
-  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
+    commit: 35d0b3f2b87aa791b97460fe5637a039bba7587b
+  data_hash: 5ffd1c29ccce0b2179754c985c889af93752e61bc22309ad2c56452a5fc95534
 data:
   '':
     programmes:
@@ -56,6 +56,8 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-09-15T08:07:00+03:00'
         end_time: '2026-09-15T09:00:00+03:00'
+        description: |-
+          Ajatuksia tarjoileva aamulähetys, jollaista et kuule mistään muualta. Radio 1:n aamu kutsuu lempeän rytmikkäälle matkalle maailman ympäri. Matkalla soivat eri aikakausien ja kulttuurien sävyttämät popin, jazzin, maailmanmusiikin ja instrumentaalimusiikin helmet. Juontajana Paula Jokimies.
       - title: 'Yle Uutiset '
         start_time: '2026-09-15T09:00:00+03:00'
         end_time: '2026-09-15T09:03:00+03:00'
@@ -80,11 +82,11 @@ data:
           Carpenter: Top of the world (Carpenters).
 
           Konsertin on toimittanut Riikka Holopainen.
-      - title: Sari Valto
+      - title: 'Sari Valto: Entä jos tietoisuus ei synnykään vain aivoissa, vaan on jotain niiden ulkopuolista?'
         start_time: '2026-09-15T10:00:00+03:00'
         end_time: '2026-09-15T10:55:00+03:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Uskonnonfilosofian dosentti Leo Näreaho ja mielenfilosofi Paavo Pylkkänen pohtivat tietoisuuden mysteeriä. Entä jos kaikki, mitä olemme tähän mennessä käsittäneet tietoisuudesta, onkin ihan toisin?
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-15T10:55:00+03:00'
         end_time: '2026-09-15T11:00:00+03:00'
@@ -96,6 +98,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-09-15T11:57:00+03:00'
         end_time: '2026-09-15T12:00:00+03:00'
+        description: |-
+          Paavo Rintala: Jumala on kauneus, 1959.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-15T12:00:00+03:00'
         end_time: '2026-09-15T12:05:00+03:00'

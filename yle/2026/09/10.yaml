@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-09T02:17:40.193304+00:00'
+  generated_at: '2026-09-10T02:17:54.440021+00:00'
   git:
     branch: main
-    commit: 3d2c1f3da16df63197eb8b564d12a8ac6042d235
-  data_hash: f2eaa9cc32a8f692b547601227a2f1d63d1040c582e3c377d1d6801115930cf0
+    commit: 35d0b3f2b87aa791b97460fe5637a039bba7587b
+  data_hash: 5ffd1c29ccce0b2179754c985c889af93752e61bc22309ad2c56452a5fc95534
 data:
   '':
     programmes:
@@ -51,7 +51,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-09-10T06:30:50+03:00'
         end_time: '2026-09-10T06:50:00+03:00'
-        description: |+
+        description: |-
           Koraalitoisinto: Soi, virteni, kiitosta Herran (Matti Tuloisela, baritoni, ja Paavo Soinne, urut).
 
           Nurkkala: Vapahtaja, ystävämme (Cantilene/Merja Lohilahti).
@@ -60,6 +60,7 @@ data:
 
           Tuntematon: Nyt kiittäkää! On Herra hyvä (virsi 199) (Topi Lehtipuu, tenori, sekä Jonte Knif, cembalo, Jarmo Julkunen, kitara, ja Mikko Perkola, viola da gamba).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-09-10T06:50:00+03:00'
         end_time: '2026-09-10T06:59:59+03:00'
@@ -93,6 +94,8 @@ data:
 
           Tárrega: Muistoja Alhambrasta (Aale Lindgrén, oboe, ja Mikko Niemi, piano).
 
+          Juontajana on Tuija Kurvinen.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-10T08:00:00+03:00'
         end_time: '2026-09-10T08:07:00+03:00'
@@ -124,7 +127,7 @@ data:
           Serrat: Mediterraneo (Joan Manuel Serrat).
           Samuli: Pieni ja lämpöinen (Ville Leinonen).
 
-          Konsertin on toimittanut Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola. Juontajana on Tuija Kurvinen.
       - title: 'Marko Gustafsson: Käännekohdissa Erja Lyytinen'
         start_time: '2026-09-10T10:00:00+03:00'
         end_time: '2026-09-10T10:53:00+03:00'
@@ -143,7 +146,7 @@ data:
         start_time: '2026-09-10T11:57:00+03:00'
         end_time: '2026-09-10T12:00:00+03:00'
         description: |-
-          Tommi Kinnunen: Pitkä aukea. Rakkausromaani, WSOY 2026.
+          Tommi Kinnunen: Pitkä aukea. Rakkausromaani, WSOY 2026. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-10T12:00:00+03:00'
         end_time: '2026-09-10T12:05:00+03:00'
@@ -251,11 +254,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-10T17:00:00+03:00'
         end_time: '2026-09-10T17:05:00+03:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Terapiakulttuurin aika – milloin omien tunteiden tarkkailu menee yli?'
         start_time: '2026-09-10T17:05:00+03:00'
         end_time: '2026-09-10T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Tässä ajassa ihmisiä usein kannustetaan keskittymään omaan hyvinvointiin ja tuntemuksiin. Mutta milloin omien tuntemusten tarkkailu menee liian pitkälle ja alkaa aiheuttaa pahoinvointia? Sosiaalipsykologi ja psykoterapeutti Emilia Kujala on Leonard Wilhelmuksen haastateltavana. Uutispodcast syventyy suuskuussa mielenterveysteemaan kolmen jakson verran, eri näkökulmista.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-10T17:30:00+03:00'
         end_time: '2026-09-10T17:35:00+03:00'
@@ -317,19 +320,49 @@ data:
 
           I. Hannikainen: Valssi op.17/1 (Tapani Valsta, piano).
 
+          Homilius: Mache dich, mein Geist, bereit (Tomi Satomaa, Naantalin kirkon urut).
+
           Sibelius: Andante festivo (Radio-orkesteri/Jean Sibelius).
 
       - title: 'Politiikkaradio '
         start_time: '2026-09-10T21:00:00+03:00'
         end_time: '2026-09-10T21:30:00+03:00'
-      - title: Tosi tarina
+      - title: 'Tosi tarina: Supernainen Rand - Ainoa vaihtoehto on onnistua'
         start_time: '2026-09-10T21:31:00+03:00'
-        end_time: '2026-09-10T22:20:00+03:00'
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
-        start_time: '2026-09-10T23:01:00+03:00'
-        end_time: '2026-09-10T23:57:00+03:00'
+        end_time: '2026-09-10T22:18:16+03:00'
+        description: |
+          Lapsena pommituksia kotona Bagdadissa pelännyt Rand päätyi perheineen kiintiöpakolaisena outoon ja lumiseen Suomeen. Hänestä kasvoi sisukas nainen, kolmen lapsen yksinhuoltaja ja yrittäjä, joka ei vähästä lannistu, vaikka haasteita ja vastoinkäymisiä riittää. Nyt hän toteuttaa unelmaansa omasta leipomosta ja rohkaisee sisukkuudellaan muita maahanmuuttajataustaisia naisia. Toimittaja Päivi Leino.
+      - title: 'Viihdekuunnelma: Knalli ja sateenvarjo'
+        start_time: '2026-09-10T22:31:00+03:00'
+        end_time: '2026-09-10T22:59:00+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Siltasekoilu
+          Tervetuloa jälleen ministeriön erikoisosastolle, jossa sattuu ja tapahtuu!
+          Yle100 -vuoden kunniaksi iki-ihana ja rakastettu Knalli ja sateenvarjo -kuunnelmasarja saa kolme upouutta jaksoa.
+          Tämä Ylen kaikkien aikojen kuunnelluimmista ja toivotuimmista sarjoista pilailee valtion virkamiesten ja virastojen kustannuksella, ja tälläkin kertaa ystävämme Mr. Lennox-Brown, Mr. Lamm sekä sihteeri Mildred Murfin saapuvat töihin byrokratian rattaisiin knallit päässä ja äly ämpärissä.
+
+          Käsikirjoitus (vuosilta 1979-80): Crawford Campbell
+          Suomennos: Kersti Juva
+          Ohjaus: Aila Svedberg ja Soila Valkama
+          Musiikki: Jani Uhlenius 
+          Äänisuunnittelu: Anders Wiksten
+          Apulaistuottaja: Jori Pessala
+          Tuotanto: Laura Jaakkola, Yle Draama 2026. 
+
+          Rooleissa:
+          Lennox-Brown - Heikki Nousiainen
+          Lamm - Pekka Autiovuori
+          Mildred - Aila Svedberg
+          Sir Gregory Pitkin - Jarmo Koski
+          Cornelius Crook - Tuomas Uusitalo
+          Lollita Crook - Anna-Leena Sipilä
+          Tohtori Tooth - Eija Nousiainen
+          Kertoja - Asko Sarkola.
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki:Juurettomuutta ja rauhaa '
+        start_time: '2026-09-10T23:03:40+03:00'
+        end_time: '2026-09-10T23:59:13+03:00'
+        description: |-
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-09-11T00:00:00+03:00'
         end_time: '2026-09-11T06:30:00+03:00'
