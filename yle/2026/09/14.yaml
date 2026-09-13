@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-12T02:17:44.580897+00:00'
+  generated_at: '2026-09-13T02:17:48.246165+00:00'
   git:
     branch: main
-    commit: fb5f4f9d231d3c1ed7c412230e42d49b59ba6e5a
-  data_hash: a9893193e9569f863b8c920dc5e06e356b684557775ed8cd1a38061c958ec467
+    commit: f30df4f8981d0ed23343bed301ea96e8db1f98da
+  data_hash: 7189726f1d2261dc23e4c27eba6811a4c56cc212896f8af5a298d19be0f3c7d8
 data:
   '':
     programmes:
@@ -246,8 +246,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-09-14T18:35:00+03:00'
         end_time: '2026-09-14T18:50:00+03:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Bull (sov. Törmä): Paimentytön sunnuntai (Raita Karpo).
+
+          Anonyymi: Armahda, oi Herra, meitä (virsi 391) (Kampin Laulu/Timo Lehtovaara, ja Pertti Eerola, urut).
+
+          Laaksonen: Teit kaiken ajallansa (Petri Laaksonen).
+
       - title: Iltahartaus
         start_time: '2026-09-14T18:50:00+03:00'
         end_time: '2026-09-14T19:00:00+03:00'
@@ -269,14 +274,24 @@ data:
         start_time: '2026-09-14T21:00:00+03:00'
         end_time: '2026-09-14T21:30:00+03:00'
       - title: 'Tiedeykkönen: 6G aistii ympäristöä ja tuo uusia menetelmiä lääketieteeseen'
-        start_time: '2026-09-14T21:30:30+03:00'
-        end_time: '2026-09-14T22:20:00+03:00'
+        start_time: '2026-09-14T21:30:49+03:00'
+        end_time: '2026-09-14T22:19:52+03:00'
         description: |-
           Voiko tulevaisuuden 6G-verkko havainnoida ympäristöään ja toimia kuin tutka? 
           Toimittaja Mari Heikkinen.
       - title: Maailmanpolitiikan arkipäivää
-        start_time: '2026-09-14T22:21:00+03:00'
-        end_time: '2026-09-14T22:44:00+03:00'
+        start_time: '2026-09-14T22:20:04+03:00'
+        end_time: '2026-09-14T22:43:48+03:00'
+        description: |+
+          Ruotsalaiset äänestävät valtiopäivävaaleissa, joissa valta voi vaihtua. 
+
+          Mielipidekyselyt ennakoivat vaalivoittoa Magdalena Anderssonin sosiaalidemokraateille. Ruotsidemokraatit voivat nousta jopa Ruotsin toiseksi suurimmaksi puolueeksi, ohi pääministeri Ulf Kristerssonin maltillisen kokoomuksen.
+          Ohjelmassa kuullaan ruotsalaisten tuntoja vaalien alla. Terveydenhuolto, koulutus ja talous ovat äänestäjille tärkeimpiä teemoja.
+
+          Ruotsin politiikan asiantuntijat arvioivat lähetyksessä, millaiseksi Ruotsin ulkopolitiikka muotoutuu vaalien jälkeen. Suuria muutoksia ei odoteta.
+           
+          Maailmanpolitiikan arkipäivää -ohjelman ovat toimittaneet Erja Tuomaala ja Paula Vilén. Äänitarkkailijana on Pasi Ilkka. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
+
       - title: 'Näistä levyistä en luovu: Julia Thurén, himmee jouluttaja.'
         start_time: '2026-09-14T22:45:00+03:00'
         end_time: '2026-09-14T23:39:30+03:00'

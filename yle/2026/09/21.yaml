@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-12T02:17:45.951074+00:00'
+  generated_at: '2026-09-13T02:17:50.249339+00:00'
   git:
     branch: main
-    commit: fb5f4f9d231d3c1ed7c412230e42d49b59ba6e5a
-  data_hash: a9893193e9569f863b8c920dc5e06e356b684557775ed8cd1a38061c958ec467
+    commit: f30df4f8981d0ed23343bed301ea96e8db1f98da
+  data_hash: 7189726f1d2261dc23e4c27eba6811a4c56cc212896f8af5a298d19be0f3c7d8
 data:
   '':
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-09-21T06:30:50+03:00'
         end_time: '2026-09-21T06:50:00+03:00'
+        description: |+
+          Selnecker: Herää sielun' ja mielell' (Sauli Tiilikainen, baritoni, ja Pertti Eerola, urut).
+
+          Tuntematon: Mä huudan, Kristus, sinua (Cetus Noster).
+
+          Tuntematon: Käy köyhään sydämeeni (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
+
+          Lagi: Mä silmät luon ylös taivaaseen (virsi 490) (Palo-yhtye).
+
       - title: Aamuhartaus
         start_time: '2026-09-21T06:50:00+03:00'
         end_time: '2026-09-21T06:59:59+03:00'
@@ -193,11 +202,15 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-21T17:30:00+03:00'
         end_time: '2026-09-21T17:35:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Brittifolkin tarinankertoja juhlii'
         start_time: '2026-09-21T17:35:00+03:00'
         end_time: '2026-09-21T18:35:00+03:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Yhtä juhlavuosilevyjen juhlaa keitämme kokoon tässä jaksossa. Brittifolkin ykköslauluntekijä Martin Simpson saavutti 50 vuotta urallaan, Itä-Euroopan naisten perinnettä jatkava lauluyhtye Kitka päätti juhlia jo 45 vuoden merkkipaalua, Unkarin merkittävin etnolevymerkki Fonó täytti 30.
+
+          Kuulemme myös reelin Kaustisen Folkkareilta sekä reel-sikermän Irish Festival of Oulun pääesiintyjältä Altanilta.
+
+          Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-09-21T18:35:00+03:00'
         end_time: '2026-09-21T18:50:00+03:00'

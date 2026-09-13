@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-12T02:17:47.635543+00:00'
+  generated_at: '2026-09-13T02:17:52.559640+00:00'
   git:
     branch: main
-    commit: fb5f4f9d231d3c1ed7c412230e42d49b59ba6e5a
-  data_hash: a9893193e9569f863b8c920dc5e06e356b684557775ed8cd1a38061c958ec467
+    commit: f30df4f8981d0ed23343bed301ea96e8db1f98da
+  data_hash: 7189726f1d2261dc23e4c27eba6811a4c56cc212896f8af5a298d19be0f3c7d8
 data:
   '':
     programmes:
@@ -164,9 +164,27 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-30T19:00:00+03:00'
         end_time: '2026-09-30T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Helsingin kaupunginorkesteri – Sibelius 5'
         start_time: '2026-09-30T19:02:00+03:00'
         end_time: '2026-09-30T21:00:00+03:00'
+        description: |-
+          Helsingin kaupunginorkesteri kantaesitti Jean Sibeliuksen viidennen sinfonian säveltäjän 50-vuotissyntymäpäivän juhlakonsertissa joulukuussa 1915 Helsingin yliopiston juhlasalissa. Päivänsankari itse johti konsertin, ja menestys oli myrskyisä. Onnittelupuheista, kukkalähetyksistä ja adresseista ei ollut tulla loppua. 
+
+          Japanilainen pianisti-ilmiö Hayato Sumino soittaa loppuunmyydyille katsomoille Tokiosta Lontooseen ja Berliinistä New Yorkiin. Sumino on soittanut itsensä Guinessin ennätystenkirjaan saavutuksenaan ‘eniten pianoresitaaliin (sisätiloissa) myytyjä lippuja’. Marraskuussa 2025 Sumino soitti Japanissa Yokohama K-Arenassa konsertin, johon myytiin 18 564 pääsylippua.
+
+          Suoran lähetyksen Helsingin Musiikkitalosta toimittaa Noora Hirn.
+
+          Helsingin kaupunginorkesteri
+          Jukka-Pekka Saraste, kapellimestari
+          Hayato Sumino, piano
+
+          Ohjelma:
+
+          Jean Sibelius: Musiikkia sarjasta Pelléas ja Mélisande op. 46
+          Sergei Prokofjev: Pianokonsertto nro 3
+          Jean Sibelius: Sinfonia nro 5
+
+          Kuvassa Hayato Sumino © Ryuya Amao
       - title: 'Politiikkaradio '
         start_time: '2026-09-30T21:00:00+03:00'
         end_time: '2026-09-30T21:30:00+03:00'
