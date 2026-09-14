@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-13T02:17:50.007824+00:00'
+  generated_at: '2026-09-14T02:20:56.176565+00:00'
   git:
     branch: main
-    commit: f30df4f8981d0ed23343bed301ea96e8db1f98da
-  data_hash: 7189726f1d2261dc23e4c27eba6811a4c56cc212896f8af5a298d19be0f3c7d8
+    commit: 2ad76253f505a11d88ad91a9e83222250f7800e9
+  data_hash: a0c83c32683bbe2daf703bdec6224ddf6d9f16460a0bdd43acbbdf1420c697d8
 data:
   '':
     programmes:
@@ -12,10 +12,13 @@ data:
         end_time: '2026-09-20T07:00:00+03:00'
         description: |-
           Klassista musiikkia.
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-09-20T07:00:30+03:00'
-        end_time: '2026-09-20T07:57:00+03:00'
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Miksi klassinen musiikki ei ole yksi genre'
+        start_time: '2026-09-20T07:00:47+03:00'
+        end_time: '2026-09-20T07:55:28+03:00'
         description: |-
+          Onko klassinen musiikki sama kuin sinfoniaorkesterimusiikki? No eipä ole!
+          Toisin kuin joku voisi luulla, klassinen musiikki sisältää itsessään kymmeniä, ellei satoja genrejä. Mistä on kyse? Tätä pohditaan Klasariparatiisissa, jossa taas soi muutamia siruja klassisen musiikin loputtomasta historiasta ja moninaisuudesta.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-20T08:00:00+03:00'
@@ -149,14 +152,17 @@ data:
       - title: 'Aitiovieras '
         start_time: '2026-09-20T21:25:00+03:00'
         end_time: '2026-09-20T21:50:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi - Eva Tigerstedt: Miksi klassinen musiikki ei ole yksi genre'
         start_time: '2026-09-20T21:51:00+03:00'
-        end_time: '2026-09-20T22:47:00+03:00'
+        end_time: '2026-09-20T22:45:41+03:00'
         description: |-
+          Onko klassinen musiikki sama kuin sinfoniaorkesterimusiikki? No eipä ole!
+          Toisin kuin joku voisi luulla, klassinen musiikki sisältää itsessään kymmeniä, ellei satoja genrejä. Mistä on kyse? Tätä pohditaan Klasariparatiisissa, jossa taas soi muutamia siruja klassisen musiikin loputtomasta historiasta ja moninaisuudesta.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
       - title: ' KC Kirjapodcast: Hurmosta ja huumoria – Miksi nauraa yhteiskunnan kipupisteille?'
-        start_time: '2026-09-20T22:48:00+03:00'
-        end_time: '2026-09-20T23:17:00+03:00'
+        start_time: '2026-09-20T22:46:30+03:00'
+        end_time: '2026-09-20T23:14:32+03:00'
         description: |-
           Vieraina Evelin Kask, Ivan Maniraho ja Markku Paasonen.
       - title: 'Romano mirits: ”Laulaminen on tuonut itsevarmuutta ja luottamusta omaan tekemiseen”'
