@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-14T02:20:55.186771+00:00'
+  generated_at: '2026-09-15T02:18:42.400020+00:00'
   git:
     branch: main
-    commit: 2ad76253f505a11d88ad91a9e83222250f7800e9
-  data_hash: a0c83c32683bbe2daf703bdec6224ddf6d9f16460a0bdd43acbbdf1420c697d8
+    commit: aced81001f11e2704c620a947645816f220ab513
+  data_hash: 29cfee578f9b77187a88da99fe9bc11973f96b2698bfc46b6ec95dbeac4aee6b
 data:
   '':
     programmes:
@@ -104,23 +104,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-09-16T09:04:00+03:00'
         end_time: '2026-09-16T09:59:00+03:00'
-        description: |+
-          Kern: All the Things You Are (Tommy Dorsey).
+        description: |-
+          Kern: All the things you are (Tommy Dorsey).
           Frazier: Tyttöjen iskijä Mohair Sam (Carola).
           Hardy: L'amour s'en va (Francoise Hardy).
           Arlen: It's only a paper moon (The King Cole Trio).
           Dominguez: Tu me acostumbraste (Olga Guillot).
-          John: After the lights go out (The Walker Brothers).
+          Walker: After the lights go out (The Walker Brothers).
           Rae: Pieni sydän (Laila Kinnunen).
           Kärki: Kulkurin iltatahti (Matti Louhivuori).
           Hazlewood: The last of the secret agents (Nancy Sinatra).
           Jokela: Et voi jäädä nukkumaan (Kaseva).
           Berlin: How deep is the ocean (Peggy Lee). 
-          Zaizar, Zaizar & Martinez: Cielo rojo (Luis Miguel).
-          Dahlgren: Vem tänder stjärnorna (Eva Dahlgren, laulu).
+          Zaizar: Cielo rojo (Luis Miguel).
+          Dahlgren: Vem tänder stjärnorna (Eva Dahlgren).
           Salo: Jos kuusi kertaa sun pyssys laukeaa (Tamara Lund).
           Waits: Tom Traubert's blues (Four sheets to the wind in Copenhagen) (Tom Waits).
 
+          Konsertin on laatinut Tuuli Saksala.
       - title: 'Havaintoja muutoksesta: Suhteemme kuluttamiseen ja vaatteisiin'
         start_time: '2026-09-16T10:00:00+03:00'
         end_time: '2026-09-16T10:51:00+03:00'
@@ -200,10 +201,19 @@ data:
 
           Hurwitz: Another day of sun (The La La Land -elokuvan näyttelijät ja orkesteri).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Mitä evakko ja moderni kuvataiteilija Elga Sesemann käsitteli psykologisissa omakuvissaan?'
         start_time: '2026-09-16T15:00:00+03:00'
         end_time: '2026-09-16T15:58:00+03:00'
         description: |-
+          Elga Sesemannin näyttely aloittaa Ateneumin uuden Modernit klassikot -näyttelysarjan. Sesemannin koko uraa tarkasteleva näyttely on ensimmäinen katselmus taiteilijan tuotantoon. Sesemannia kuvataan Itsenäiseksi ja omaehtoiseksi, miten nämä luonteenpiirteet näkyvät hänen taiteessaan? 
+
+          Näyttelyssä on lukuisia päiväkirjamaisia omakuvia. Mitä nämä psykologisesti käsittelivät? Millä tavalla Viipurissa syntynyt taiteilija koki evakkouden?  Sesemann oli modernin ajan taiteen uudistaja. Mitkä olivat hänen uudet otteensa ja tyylikeinonsa? Sesemann kiinnitti kriitikoiden ja taideyleisön huomion jo ensimmäisillä näyttelyillään. Miten hänen uransa lähti nousuun näiden näyttelyiden jälkeen? Miten haluttuja Elga Sesemannin taideteokset ovat tänään taidemarkkinoilla?
+
+          Ohjelman vieraina ovat taidehistorioitsijat Anu Utriainen ja Marja Lahelma sekä evakkotutkija Ulla Savolainen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-16T16:00:00+03:00'
@@ -284,12 +294,9 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-09-16T21:00:00+03:00'
         end_time: '2026-09-16T21:30:00+03:00'
-      - title: 'Havaintoja muutoksesta: Suhteemme kuluttamiseen ja vaatteisiin'
+      - title: Havaintoja muutoksesta
         start_time: '2026-09-16T21:31:00+03:00'
         end_time: '2026-09-16T22:20:00+03:00'
-        description: |
-          Ylikulutus on suomalaisessakin kulutuskulttuurissa normi. Opitut mallit, rutiinit ja kokemukset vaikuttavat siihen millaisia kulutusvalintoja teemme. Mainonta- ja markkinointi eri alustoilla synnyttää myös turhia tarpeita ja kannustaa ylikuluttamiseen. Vastuullisesti tuotetut vaatteet maksavat aina lähtökohtaisesti enemmän. Kirpputorilla myytävistä vaatteista ainakin osa on ihan uusien vaatteiden hintaluokassa. Kulutuskulttuuria myös vastustetaan eri tavoin korjaamalla vanhoja vaatteita ja ylipäätään pitämällä vaatemäärät maltillisina. Mitkä kaikki seikat vaikuttavat kuluttamiseemme? 
-          Toimittaja Satu Kivelän vieraana yliopistotutkija Essi Pöyry Kuluttajatutkimuskeskuksesta ja Tekstiili & Muoti ry:n toimitusjohtaja Marja-Liisa Permikangas. Ohjelma on uusinta ajalta 15.4.2026.
       - title: 'Jussi Halla-aho - kylmä peli: Peli kylmenee'
         start_time: '2026-09-16T22:21:00+03:00'
         end_time: '2026-09-16T22:50:00+03:00'
