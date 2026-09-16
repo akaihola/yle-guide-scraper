@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-15T02:18:47.412361+00:00'
+  generated_at: '2026-09-16T02:17:40.984344+00:00'
   git:
     branch: main
-    commit: aced81001f11e2704c620a947645816f220ab513
-  data_hash: 29cfee578f9b77187a88da99fe9bc11973f96b2698bfc46b6ec95dbeac4aee6b
+    commit: ee54205f395c509446a624c036d4b3acffce0625
+  data_hash: d31720b128f177d8fb51981744842c68b5d19fbe9f4a4673379511040206f6e2
 data:
   '':
     programmes:
@@ -100,6 +100,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-11T17:00:00+03:00'
         end_time: '2026-10-11T17:05:00+03:00'
+      - title: Etnokonsertti - Puolalaiset kylätanssit
+        start_time: '2026-10-11T17:06:00+03:00'
+        end_time: '2026-10-11T18:00:00+03:00'
+        description: |-
+          Puolalainen WoWaKin -kansanmusiikkiyhtye konsertoi Rudolstadtin festivaalilla 3.7.2026. Luvassa on puolalaisia kylätansseja kujawiakkeja, masurkkoja, oberekkeja ja polkkia. Viulisti Paula Kinaszewska kertoo kansantanssien suosiosta Puolassa. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
         start_time: '2026-10-11T18:00:30+03:00'
         end_time: '2026-10-11T19:00:00+03:00'

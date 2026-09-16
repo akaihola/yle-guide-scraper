@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-15T02:18:46.324172+00:00'
+  generated_at: '2026-09-16T02:17:39.950789+00:00'
   git:
     branch: main
-    commit: aced81001f11e2704c620a947645816f220ab513
-  data_hash: 29cfee578f9b77187a88da99fe9bc11973f96b2698bfc46b6ec95dbeac4aee6b
+    commit: ee54205f395c509446a624c036d4b3acffce0625
+  data_hash: d31720b128f177d8fb51981744842c68b5d19fbe9f4a4673379511040206f6e2
 data:
   '':
     programmes:
@@ -121,11 +121,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T17:30:00+03:00'
         end_time: '2026-10-05T17:35:00+03:00'
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Sadesään seuraksi'
         start_time: '2026-10-05T17:35:00+03:00'
         end_time: '2026-10-05T18:35:00+03:00'
-        description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+        description: |-
+          Kappaleita sadesään seuraksi kuulemme tällä kertaa Keinuvassa talossa. Kun aluksi tanssitaan kuivuus pois ja torjutaan rankkasateet, päästään lempeään ja seesteiseen vihmaan. 
+
+          Sadeikkunassa vilahtaa moneen kertaan kantele, jonka kieliltä putoaa ääniä kuin soinnillisia pisaroita. Tangon ja flamencon rytmikkäät sateet rummuttavat myös. Toimittajana Mika Kauhanen.
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-10-05T18:35:00+03:00'
         end_time: '2026-10-05T18:50:00+03:00'
