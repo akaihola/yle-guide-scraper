@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-16T02:17:36.742967+00:00'
+  generated_at: '2026-09-17T02:17:59.913801+00:00'
   git:
     branch: main
-    commit: ee54205f395c509446a624c036d4b3acffce0625
-  data_hash: d31720b128f177d8fb51981744842c68b5d19fbe9f4a4673379511040206f6e2
+    commit: 67ccc6dc2c30e4c2a7f69fea88674dbee15204ed
+  data_hash: 1e05654365f5bb104ebdedbb3ea0afe0dee68b209c20358058b2752c7655aa5c
 data:
   '':
     programmes:
@@ -148,12 +148,19 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-09-17T12:00:00+03:00'
         end_time: '2026-09-17T12:05:00+03:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Neljäntienristeys näyttää lestadiolaisyhteisön kontrollin ja hoivan'
         start_time: '2026-09-17T12:05:00+03:00'
         end_time: '2026-09-17T13:00:00+03:00'
-      - title: Politiikkaradio
+        description: |-
+          Tommi Kinnusen Neljäntienristeys on avausosa tarinalliselle jatkumolle, joka täydentyy syksyllä julkaistavalla Pitkä aukea -romaanilla. Kinnusen esikoisromaani Neljäntienristeys reilun kymmenen vuoden takaa lukeutuu teoksiin, jotka kuvaavat vanhoillislestadiolaisuuden vaikutusta yksilöihin ja yhteisön normeihin. Kuusamoon sijoittuva tarina ulottuu 1800-luvun lopulta vuoteen 1996. Kuinka lähelle todellisuutta romaani osuu? Mikä on muuttunut vanhoillislestadiolaisuuden piirissä, mikä ei? Millaista on olla nainen tai vähemmistön edustaja vanhoillislestadiolaisuuden vaikutuspiirissä? 
+          Neljäntienristeyksen esiin nostaman aihepiirin äärelle pysähtyvät kulttuurintutkimuksen dosentti Teija Rantala ja teologian tohtori, lestadiolaisuustutkija Meri-Anna Paloniemi, joka on lähestynyt tutkimusaluettaan myös taiteen keinoin. Keskustelua johtaa Marja Vehkanen.
+
+          Ohjelma on uusinta heinäkuulta 2026.
+      - title: 'Politiikkaradio: EU ajaa some-kieltoa alle 13-vuotiaille'
         start_time: '2026-09-17T13:00:00+03:00'
         end_time: '2026-09-17T13:30:00+03:00'
+        description: |-
+          "Ei sosiaalista mediaa alle 13-vuotiaille. Ei henkilökohtaista tiliä alle 15-vuotiaille. Me päätämme säännöistä, eivät digijätit", jyrisi EU-komission puheenjohtaja Ursula Von der Leyen Unionin tila -puheessaan Euroopan parlamentissa Strasbourgissa. Ottiko EU niskalenkin some-yhtiöistä asettamalla ikärajat ja puhumalla lapsikaappauksesta? Von der Leyenin Unionin tila -puhetta arvioivat europarlamentaarikot Mika Aaltola (kok. / epp), Maria Guzenina (sd. / s&d) ja Merja Kyllönen (vas. / left). Toimittajana on Tapio Pajunen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-17T13:30:00+03:00'
         end_time: '2026-09-17T13:35:00+03:00'
@@ -162,7 +169,7 @@ data:
         end_time: '2026-09-17T14:00:00+03:00'
         description: |2-
            Anna-Mari Raaskan esikoisromaani Aamukampa käsittelee keski-ikää, työelämän muutosta ja selviytymistä, kun kokenut mediapersoona korvataan nuoremmalla sometähdellä. Raaska kuvaa itseään viihdeihmiseksi, jolle hauskuuttaminen on tärkeää. Kirja käsitteleekin vakavia teemoja huumorin keinoin. Raaska itse on opiskelllut kielenkääntäjäksi  irtisanouduttuaan radiojuontajan työstä. Anna-Mari Raaskan omaan tarinaan kuuluu työ- ja asumisjaksoja useissa maissa. Hänen kotinsa on ollut muassa Belizessä, Espanjassa, Jamaikalla ja Saksassa. Miia Lahti haastattelee.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Sisällä valtameri'
         start_time: '2026-09-17T14:00:00+03:00'
         end_time: '2026-09-17T15:00:00+03:00'
         description: |+
@@ -242,7 +249,9 @@ data:
         start_time: '2026-09-17T17:05:00+03:00'
         end_time: '2026-09-17T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Psykiatriset diagnoosit, kuten ADHD, masennus, autismi ja ahdistuneisuushäiriö ovat yleistyneet valtavasti. Näitä diagnooseja yhdistää se, että niiden kriteerit on laveat. Psykologian tutkijatohtori ja tiedetoimittaja Anssi Bwalya ajattelee, että näitä diagnooseja ei välttämättä tarvita. Haastattelijana Leonard Wilhelmus. Uutispodcast syventyy syyskuussa mielenterveysteemaan kolmen jakson verran, eri näkökulmista.
+
+          Voit lähettää palautetta ja juttuvinkkejä uutispodcast@yle.fi.
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-17T17:30:00+03:00'
         end_time: '2026-09-17T17:35:00+03:00'
@@ -281,7 +290,7 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-09-17T20:00:00+03:00'
         end_time: '2026-09-17T20:57:00+03:00'
-        description: |+
+        description: |
           Erkel: Palotache (czardas) oopp. Hunyadi László (Tonavan SO/Domonkos Héja).
 
           Lauro: Suite venezolana (Venezuelalainen sarja) (Juuso Nieminen, kitara).
@@ -292,6 +301,7 @@ data:
 
           Stenhammar: Sonaatti viululle ja pianolle a-molli (Lauma Skride ja Baiba Skride). 
 
+          Juontajana Inari Tilli.
       - title: 'Politiikkaradio '
         start_time: '2026-09-17T21:00:00+03:00'
         end_time: '2026-09-17T21:30:00+03:00'
@@ -328,11 +338,11 @@ data:
           Ministeri - Santeri Kinnunen
           Oldman, hovimestari - Jori Pessala
           Kertoja ja uutistenlukija - Asko Sarkola.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Pitkään mukana kulkeneet'
         start_time: '2026-09-17T23:01:00+03:00'
         end_time: '2026-09-17T23:57:00+03:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Puhallinmusiikin Yöklassinen
         start_time: '2026-09-18T00:00:00+03:00'
         end_time: '2026-09-18T06:30:00+03:00'

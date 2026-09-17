@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-16T02:17:38.349181+00:00'
+  generated_at: '2026-09-17T02:18:12.588156+00:00'
   git:
     branch: main
-    commit: ee54205f395c509446a624c036d4b3acffce0625
-  data_hash: d31720b128f177d8fb51981744842c68b5d19fbe9f4a4673379511040206f6e2
+    commit: 67ccc6dc2c30e4c2a7f69fea88674dbee15204ed
+  data_hash: 1e05654365f5bb104ebdedbb3ea0afe0dee68b209c20358058b2752c7655aa5c
 data:
   '':
     programmes:
@@ -115,11 +115,9 @@ data:
         end_time: '2026-09-26T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: 'Kansallisen turvallisuuden virasto: Ydinase. Suomi.'
+      - title: Viihdekuunnelma
         start_time: '2026-09-26T15:00:00+03:00'
         end_time: '2026-09-26T15:25:00+03:00'
-        description: |-
-          Agenttikomedia kahdesta tunarista ja ydinaseesta joka katosi. Jakso 1/8.
       - title: Musiikkikamari
         start_time: '2026-09-26T15:15:00+03:00'
         end_time: '2026-09-26T15:30:00+03:00'
@@ -199,14 +197,9 @@ data:
         end_time: '2026-09-26T21:00:00+03:00'
         description: |
           Ohjelman juontavat pianisti-tutkija Jenna Ristilä ja musiikkitoimittaja Markus Virtanen. Ohjelman suunnittelusta vastaa Noora Hirn. Toivekonsertin puhelinlinjat aukeavat lähetyspäivän iltana klo 18. Soita numeroon 09-144 800 tai lähetä Whatsapp-viesti numeroon 044-5144 800.
-      - title: Uutispodcast
-        start_time: '2026-09-26T21:01:00+03:00'
-        end_time: '2026-09-26T21:25:00+03:00'
-        description: |-
-          Otsikoiden takana joka arkipäivä.
       - title: Kuunnelman vuosisata
-        start_time: '2026-09-26T21:01:00+03:00'
-        end_time: '2026-09-26T22:40:00+03:00'
+        start_time: '2026-09-26T21:00:13+03:00'
+        end_time: '2026-09-26T22:40:09+03:00'
         description: |
           Kuunnelma on radion kehittämä draaman laji ja se on yhtä vanha kuin Yleisradion koko ohjelmatoiminta. Ylen aloittaessa syksyllä 1926, lähetettiin myös näytelmä suorana teatterin lavalta. Siitä asti kuunnelma on tehnyt matkaa ”teatterin sokeasta sisaresta” itsenäiseksi ääni-ilmaisun muodoksi. Mitä kaikkea tässä sadassa vuodessa on muuttunut?
           Pekka Kyrön (Radioteatterin päällikkö vuosina 1990-2009) toimittama ohjelma suuntaa huomion kuunnelman monipuoliseen maailmaan ennen ja nyt. Lyhyiden näytteiden kautta kuullaan lajin kehittyminen vuosien varrella aina kuulonäytelmästä nykyiseen audiodraamaan.
@@ -215,6 +208,11 @@ data:
           Lukija: Eva Tigerstedt
           Äänisuunnittelu: Anders Wiksten
           Tuotanto: Matti Kajander ja Laura Jaakkola, Yle Draama 2026.
+      - title: Uutispodcast
+        start_time: '2026-09-26T21:01:00+03:00'
+        end_time: '2026-09-26T21:25:00+03:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
       - title: Klassikkokuunnelmia
         start_time: '2026-09-26T21:51:00+03:00'
         end_time: '2026-09-26T22:30:00+03:00'
