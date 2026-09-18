@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-17T02:18:15.112305+00:00'
+  generated_at: '2026-09-18T02:17:51.231577+00:00'
   git:
     branch: main
-    commit: 67ccc6dc2c30e4c2a7f69fea88674dbee15204ed
-  data_hash: 1e05654365f5bb104ebdedbb3ea0afe0dee68b209c20358058b2752c7655aa5c
+    commit: 50a3f0a17b56fb07815c417d7c1693e90cc27fc6
+  data_hash: 8ce7b88bedfe0cf3df913ec2cdec8e7861ea0528daca4632b7435a953d148a19
 data:
   '':
     programmes:
@@ -65,11 +65,12 @@ data:
       - title: Maailma tarinoina
         start_time: '2026-10-03T12:05:00+03:00'
         end_time: '2026-10-03T13:00:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Risto Vuorimies'
         start_time: '2026-10-03T13:00:00+03:00'
         end_time: '2026-10-03T13:55:00+03:00'
-        description: |-
+        description: |
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Risto Vuorimies kuvasi 70-luvulla levyn kansia Love Recordsille. Joukosta löytyy mm. legendaarinen Hurriganesin Roadrunnerin kansi, joka on valittu parhaaksi suomalaiseksi levyn kanneksi. Mutta löytyykö Riston levyistä Hurriganesia? 
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-03T13:55:00+03:00'
         end_time: '2026-10-03T14:00:00+03:00'

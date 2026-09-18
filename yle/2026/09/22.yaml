@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-17T02:18:10.564484+00:00'
+  generated_at: '2026-09-18T02:17:45.493905+00:00'
   git:
     branch: main
-    commit: 67ccc6dc2c30e4c2a7f69fea88674dbee15204ed
-  data_hash: 1e05654365f5bb104ebdedbb3ea0afe0dee68b209c20358058b2752c7655aa5c
+    commit: 50a3f0a17b56fb07815c417d7c1693e90cc27fc6
+  data_hash: 8ce7b88bedfe0cf3df913ec2cdec8e7861ea0528daca4632b7435a953d148a19
 data:
   '':
     programmes:
@@ -116,7 +116,7 @@ data:
           Sartori/Quarantotto: Con te partirò (Andrea Bocelli).
 
           Konsertin on toimittanut Riikka Holopainen.
-      - title: 'Sari Valto:  Meillä on yhtä enemmän kanavia pitää yhteyttä toisiimme, mutta silti erillisyytemme vain kasvaa'
+      - title: 'Sari Valto:  Meillä on yhä enemmän kanavia pitää yhteyttä toisiimme, mutta silti erillisyytemme vain kasvaa'
         start_time: '2026-09-22T10:00:00+03:00'
         end_time: '2026-09-22T10:55:00+03:00'
         description: |-
@@ -141,7 +141,7 @@ data:
         start_time: '2026-09-22T12:05:00+03:00'
         end_time: '2026-09-22T12:35:00+03:00'
         description: |-
-          Nykytieto ponnistaa historiasta.
+          Uusiutuva tiede -sarjassa perehdytään eri tieteenalojen historiaan, kehitykseen ja harha-askeliin. Ensimmäisen jakson aiheena tähtitiede. Haastateltavana avaruustähtitieteen emeritusprofessori Esko Valtaoja. Toimittajana Samppa Korhonen.
       - title: Aristoteleen kantapää
         start_time: '2026-09-22T12:35:00+03:00'
         end_time: '2026-09-22T13:00:00+03:00'
@@ -155,8 +155,8 @@ data:
         start_time: '2026-09-22T13:35:00+03:00'
         end_time: '2026-09-22T14:00:00+03:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+           Suomalaisen teenjuonnin historian juuret ulottuvat 1700-luvulle. Mitä kuuluu suomalaiselle teekulttuurille vuonna 2026? Mikä on trendikästä teemaailmassa juuri nyt? Noora Hinkka on Teen ystävät ry:n puheenjohtaja, mikä sai hänet ja muut yhdistyksen toimijat ryhtymään teeaktivisteiksi. Miia Lahti haastattelee.
+      - title: 'Musiikkiaitio: Polska in red'
         start_time: '2026-09-22T14:00:00+03:00'
         end_time: '2026-09-22T15:00:00+03:00'
         description: |+
@@ -189,11 +189,13 @@ data:
 
           Julien Clerc ja Stephan Gaubert: Ma preference.
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Poliittinen satiiri viiltää ja naurattaa, mutta voiko sillä vaikuttaa?'
         start_time: '2026-09-22T15:00:00+03:00'
         end_time: '2026-09-22T15:58:00+03:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Poliitikkojen kritisointi ja epäkohtien osoittaminen satiirin keinoin on osa demokratiaa. Politiikkaa voi kommentoida ja nostaa tikun nokkaan niin taiteen kuin viihteen keinoilla. Mutta onko sillä vaikutusta?  Voiko vakavaa aihetta tuoda esiin poliittisella satiirilla? Miten pitkälle sananvapaus kantaa?
+
+          Näitä kysymyksiä pohditaan Kulttuuriykkösen lähetyksessä. Keskustelemassa ovat sarjakuvataiteilija ja pilapiirtäjä Ville Ranta,  toimittaja, käsikirjoittaja Janne Zareff sekä teatteriohjaaja Susanna Kuparinen, jonka Poiskatsojat-näytelmä kommentoi suomalaispoliitikkojen suhtautumista Gazaan. Lähetyksen toimittaa Miia Gustafsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-09-22T16:00:00+03:00'
         end_time: '2026-09-22T16:07:00+03:00'
@@ -239,11 +241,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-22T17:30:00+03:00'
         end_time: '2026-09-22T17:35:00+03:00'
-      - title: Kissankehto - Susanna Vainiola
+      - title: 'Kissankehto - Susanna Vainiola: Entä jos maailma ei loppuisikaan'
         start_time: '2026-09-22T17:35:00+03:00'
         end_time: '2026-09-22T18:30:00+03:00'
-        description: |-
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Mammutin luista ja stellerinmerilehmän katoamisesta, elollisista suurilla ja pienillä kirjaimilla. Niistä syntyy Kissankehto, jossa kesä päättyy ja maailmanloppu tulee, mutta leikitään ettei tuliskaan.
       - title: Hartaita säveliä
         start_time: '2026-09-22T18:35:00+03:00'
         end_time: '2026-09-22T18:50:00+03:00'
@@ -265,11 +267,14 @@ data:
         end_time: '2026-09-22T19:02:00+03:00'
       - title: 'Jussi Halla-aho - kylmä peli: Kitkerä voitto'
         start_time: '2026-09-22T19:02:00+03:00'
-        end_time: '2026-09-22T19:45:00+03:00'
+        end_time: '2026-09-22T19:25:00+03:00'
         description: |-
           Osa 6/8.
           Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.
           (ensies. v. 2025)
+      - title: Musiikkikamari
+        start_time: '2026-09-22T19:25:00+03:00'
+        end_time: '2026-09-22T20:00:00+03:00'
       - title: Romano mirits
         start_time: '2026-09-22T20:00:00+03:00'
         end_time: '2026-09-22T20:15:00+03:00'
