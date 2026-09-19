@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-18T02:17:51.231577+00:00'
+  generated_at: '2026-09-19T02:17:12.719120+00:00'
   git:
     branch: main
-    commit: 50a3f0a17b56fb07815c417d7c1693e90cc27fc6
-  data_hash: 8ce7b88bedfe0cf3df913ec2cdec8e7861ea0528daca4632b7435a953d148a19
+    commit: d04f74aaa4db85c43eb7b6f62d214d2587167356
+  data_hash: 47d059593a63097f0f3a100451d9522da7b9690b4f93e9228f5d5ed27a39b4c3
 data:
   '':
     programmes:
@@ -156,9 +156,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-03T19:00:00+03:00'
         end_time: '2026-10-03T19:02:00+03:00'
-      - title: Oopperailta
+      - title: 'Oopperailta: György Ligetin Le Grand Macabre Helsingin juhlaviikoilla'
         start_time: '2026-10-03T19:02:00+03:00'
-        end_time: '2026-10-03T22:00:00+03:00'
+        end_time: '2026-10-03T21:35:00+03:00'
+        description: |-
+          Ligetin rajoja rikkova kulttiooppera sai viimeinkin Suomen ensiesityksensä Helsingin juhlaviikoilla elokuussa. Nicholas Collon johtaa Musiikkitalossa Radion sinfoniaorkesteria, Helsingin kamarikuoroa sekä kovatasoista kansainvälistä solistijoukkoa. Illan aikana haastateltavina ovat oopperan ohjaaja Frederic Wake-Walker, Venuksen ja Gepopon kaksoisroolin tekevä sopraano Sarah Aristidou sekä Suomen kansallisoopperan ja -baletin ylikapellimestari Dima Slobodeniouk. Oopperaillan toimittaa Ahti Paunu. 
       - title: Uutispodcast
         start_time: '2026-10-03T21:01:00+03:00'
         end_time: '2026-10-03T21:24:00+03:00'

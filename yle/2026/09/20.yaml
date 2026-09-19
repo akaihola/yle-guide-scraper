@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-18T02:17:42.990986+00:00'
+  generated_at: '2026-09-19T02:17:08.646607+00:00'
   git:
     branch: main
-    commit: 50a3f0a17b56fb07815c417d7c1693e90cc27fc6
-  data_hash: 8ce7b88bedfe0cf3df913ec2cdec8e7861ea0528daca4632b7435a953d148a19
+    commit: d04f74aaa4db85c43eb7b6f62d214d2587167356
+  data_hash: 47d059593a63097f0f3a100451d9522da7b9690b4f93e9228f5d5ed27a39b4c3
 data:
   '':
     programmes:
@@ -46,14 +46,20 @@ data:
           Toisin kuin joku voisi luulla, klassinen musiikki sisältää itsessään kymmeniä, ellei satoja genrejä. Mistä on kyse? Tätä pohditaan Klasariparatiisissa, jossa taas soi muutamia siruja klassisen musiikin loputtomasta historiasta ja moninaisuudesta.
 
           Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Radio 1 soi
+        start_time: '2026-09-20T07:55:28+03:00'
+        end_time: '2026-09-20T08:00:00+03:00'
+        description: |+
+          Debussy: Reverie (Unelmointia) (Jan-Erik Gustafsson, sello, ja Heini Kärkkäinen, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-09-20T08:00:00+03:00'
         end_time: '2026-09-20T08:05:05+03:00'
-      - title: Narrin aamulaulu - Outi Paananen
-        start_time: '2026-09-20T08:05:35+03:00'
-        end_time: '2026-09-20T08:59:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+      - title: Narrin aamulaulu - Säveltäjän teosluettelo ei ole päätepiste, vaan alkupiste
+        start_time: '2026-09-20T08:05:29+03:00'
+        end_time: '2026-09-20T08:59:46+03:00'
+        description: |2-
+           "Jos Suomi olisi aito sivistysmaa, opetus- ja kulttuuriministeriö perustaisi teosluetteloprojektin ja palkkaisi siihen tutkijat. Säveltäjien tuotannon perusteellinen kartoitus on perustutkimusta, johon meillä ei vain tunnu olevan kiinnostusta", sanoo Heikki Poroila. Poroila on  tiedonjärjestämisen ammattilainen, jonka työn tuloksena mm. Oskar Merikannon laaja tuotanto on yksissä kansissa. Heikki Poroilan tapasi Outi Paananen.
       - title: 'Yle Uutiset '
         start_time: '2026-09-20T09:00:00+03:00'
         end_time: '2026-09-20T09:03:00+03:00'
@@ -107,16 +113,18 @@ data:
         start_time: '2026-09-20T13:00:00+03:00'
         end_time: '2026-09-20T13:55:00+03:00'
         description: |-
-          Matada: Hiona mbilo (Chico Matada). 
-          Konsta Jylhä: Laulu (Hot Heros). 
-          Hynninen: Tuliketun jäljillä (Laura Hynninen).  
-          Hynninen: Lyhty (Laura Hynninen).    
-          Kansanlaulu (Ahvenanmaa): Skön Anna (Cienna). 
-          Kansansäv. Pollonizer -sikermä (Nordik Tree). 
+          Matada: Hiona mbilo (Chico Matada).
+          Jylhä: Laulu (Hot Heros).
+          Hynninen: Tuliketun jäljillä (Laura Hynninen).
+          Hynninen: Lyhty (Laura Hynninen). 
+          Kansanlaulu: Skön Anna (Cienna). 
+          Kansansäv.: Pollonizer (Nordik Tree). 
           Keskitalo/Hanikka: Kuinka kauan siinä kestää (Inariveljet). 
-          Verdi/IkonenPerko: La donna e mobile (Mun oma miekkonen suuttui taas vähäsen) (Aili Ikonen ja Jukka Perko). 
+          Verdi/Ikonen/Perko: La donna è mobile (Aili Ikonen ja Jukka Perko: Klasstet).
           Pohjonen/Gustafsson: Two balls are enough (Kimmo Pohjonen ja Mats Gustafsson). 
-          Pajakkala: Rauha (Utopianisti ja Tampereen Ihankaikkinen Kuninkaallinen Tuomiokuoro). 
+          Pajakkala: Rauha (Utopianisti).
+
+          Ohjelman on toimittanut Miika Lauriala. 
       - title: Kuunnelman vuosisata
         start_time: '2026-09-20T14:00:00+03:00'
         end_time: '2026-09-20T15:40:00+03:00'
@@ -177,7 +185,7 @@ data:
         description: |-
           Päivi Hirvonen trio konsertoi Saksan Rudolstadtin -maailmanmusiikkifestivaalilla 5.7.2026. Luvassa lauluja rakkaudesta, ympäristötuhosta ja surusta. Alussa Päivi Hirvosen haastattelu. Toimittajana on Miika Lauriala.  
       - title: Jazzklubi
-        start_time: '2026-09-20T18:00:30+03:00'
+        start_time: '2026-09-20T18:01:21+03:00'
         end_time: '2026-09-20T19:00:00+03:00'
         description: |-
           Jazzklubin vieraana on saksofonisti ja säveltäjä Manuel Dunkel. Toimittajina Eero Koski ja Laura Korhonen.
@@ -195,26 +203,42 @@ data:
         description: |-
           Palveluksen toimittaa rovasti Aleksander Roszczenko. Kuoroa johtaa director cantus Aleksi Suikkanen.
       - title: Uutispodcast
-        start_time: '2026-09-20T21:00:30+03:00'
-        end_time: '2026-09-20T21:24:00+03:00'
+        start_time: '2026-09-20T21:00:33+03:00'
+        end_time: '2026-09-20T21:22:14+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
-      - title: 'Aitiovieras '
-        start_time: '2026-09-20T21:25:00+03:00'
-        end_time: '2026-09-20T21:50:00+03:00'
+          Psykiatriset diagnoosit, kuten ADHD, masennus, autismi ja ahdistuneisuushäiriö ovat yleistyneet valtavasti. Näitä diagnooseja yhdistää se, että niiden kriteerit on laveat. Psykologian tutkijatohtori ja tiedetoimittaja Anssi Bwalya ajattelee, että näitä diagnooseja ei välttämättä tarvita. Haastattelijana Leonard Wilhelmus. Uutispodcast syventyy syyskuussa mielenterveysteemaan kolmen jakson verran, eri näkökulmista.
+
+          Voit lähettää palautetta ja juttuvinkkejä uutispodcast@yle.fi.
+      - title: Radio 1 soi
+        start_time: '2026-09-20T21:22:14+03:00'
+        end_time: '2026-09-20T21:27:02+03:00'
+        description: |+
+          Debussy: Kulkue ja tanssi, lyyrinen kohtaus orkesterille (Lontoon kuninkaallinen FO/Thomas Beecham).
+
+      - title: 'Aitiovieras: Esikoiskirjailija Anna-Mari Raaska - keski-ikäistymisen ihana raadollisuus työelämässä'
+        start_time: '2026-09-20T21:27:02+03:00'
+        end_time: '2026-09-20T21:51:46+03:00'
+        description: |2-
+           Anna-Mari Raaskan esikoisromaani Aamukampa käsittelee keski-ikää, työelämän muutosta ja selviytymistä, kun kokenut mediapersoona korvataan nuoremmalla sometähdellä. Raaska kuvaa itseään viihdeihmiseksi, jolle hauskuuttaminen on tärkeää. Kirja käsitteleekin vakavia teemoja huumorin keinoin. Raaska itse on opiskelllut kielenkääntäjäksi  irtisanouduttuaan radiojuontajan työstä. Anna-Mari Raaskan omaan tarinaan kuuluu työ- ja asumisjaksoja useissa maissa. Hänen kotinsa on ollut muassa Belizessä, Espanjassa, Jamaikalla ja Saksassa. Miia Lahti haastattelee.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Miksi klassinen musiikki ei ole yksi genre'
-        start_time: '2026-09-20T21:51:00+03:00'
-        end_time: '2026-09-20T22:45:41+03:00'
+        start_time: '2026-09-20T21:52:14+03:00'
+        end_time: '2026-09-20T22:46:55+03:00'
         description: |-
           Onko klassinen musiikki sama kuin sinfoniaorkesterimusiikki? No eipä ole!
           Toisin kuin joku voisi luulla, klassinen musiikki sisältää itsessään kymmeniä, ellei satoja genrejä. Mistä on kyse? Tätä pohditaan Klasariparatiisissa, jossa taas soi muutamia siruja klassisen musiikin loputtomasta historiasta ja moninaisuudesta.
 
           Eva Tigerstedt avaa polkuja musiikkiin.
       - title: ' KC Kirjapodcast: Hurmosta ja huumoria – Miksi nauraa yhteiskunnan kipupisteille?'
-        start_time: '2026-09-20T22:46:30+03:00'
-        end_time: '2026-09-20T23:14:32+03:00'
+        start_time: '2026-09-20T22:47:47+03:00'
+        end_time: '2026-09-20T23:15:49+03:00'
         description: |-
           Vieraina Evelin Kask, Ivan Maniraho ja Markku Paasonen.
+      - title: Radio 1 soi
+        start_time: '2026-09-20T23:15:49+03:00'
+        end_time: '2026-09-20T23:24:56+03:00'
+        description: |+
+          Corelli: Concerto grosso n:o 4 D-duuri (Philharmonia-barokkiork./Nicholas McGegan).
+
       - title: 'Romano mirits: Mitä kaaleet ajattelevat kaajeista?'
         start_time: '2026-09-20T23:24:56+03:00'
         end_time: '2026-09-20T23:38:58+03:00'
