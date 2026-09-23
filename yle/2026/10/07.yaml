@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-22T02:18:24.318764+00:00'
+  generated_at: '2026-09-23T02:18:48.531584+00:00'
   git:
     branch: main
-    commit: 92bcc2ea56ca0c92de589ec9e4c0c1720629faba
-  data_hash: 57b11e999afa64f31690dd765fe2a489b72e147a0ccbda827455f4d05f6e4034
+    commit: ac895c628d9f4619286cc8b3aed5867149f69214
+  data_hash: 44a1b30b49e12f353680128f9b19fa4564f547cd9522b8e3ca19c4e0fc48252c
 data:
   '':
     programmes:
@@ -26,6 +26,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-10-07T07:06:00+03:00'
         end_time: '2026-10-07T08:00:00+03:00'
+        description: |+
+          Schubert - Kreisler: Balettimusiikkia n:o 2 G-duuri näyt. Rosamunde (Vilde Frang, viulu ja Jose Gallardo, sello).
+
+          Busoni: Andantino, con grazia Pienestä sarjasta (Dorothy Lawson, sello, ja Steven Blier, piano).
+
+          Reinecke: Adagio konsertosta harpulle ja orkesterille e-molli (Lily Laskine ja Bambergin SO/Theodor Guschlbauer).
+
+          W.A. Mozart: Menuetti - Trio sinfoniasta n:o 39 Es-duuri (Mozart Akademie Amsterdam/Jaap ter Linden).
+
+          Chopin: Preludi n:o 15 (Sadepisara) Des-duuri (Sadepisara) (Murray Perahia, piano).
+
+          Grieg: Anitran tanssi näyt. Peer Gynt (San Franciscon SO/Herbert Blomstedt).
+
+          Glass (sov. P. Kuusisto): Mishima (Closing) jousikvartetosta n:o 3 (Mishima) (Norjan kamariork./Pekka Kuusisto).
+
+          de Falla: Myllärin tanssi bal. Kolmikolkkahattu (Petri Kumela ja Joonas Widenius, kitara).
+
+          Gnattali: Batuque (Debora Halasz, piano).
+
+          Fauré: Papillon (Perhonen)  (Yo-Yo Ma, sello, ja Kathryn Stott, piano).
+
+          Respighi: Valle Giulian suihkulähde aamunkoitteessa sinf. runosta Rooman suihkulähteitä (Chicagon SO/Fritz Reiner).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-07T08:00:00+03:00'
         end_time: '2026-10-07T08:07:00+03:00'
@@ -150,12 +173,22 @@ data:
       - title: Radion sinfoniaorkesterin konsertti
         start_time: '2026-10-07T19:02:00+03:00'
         end_time: '2026-10-07T21:00:00+03:00'
+        description: |
+          Nicholas Collon, kapellimestari, Ava Bahari, viulu. - 
+          Ralph Vaughan Williams: Fantasia Thomas Tallisin teemasta. Antti Auvinen: Diesel Engel Rodeo Radio, kantaesitys (Ylen tilaus). Dmitri Šostakovitš: Sinfonia nro 11 “Vuosi 1905”. Suoran lähetyksen Musiikkitalosta juontaa Riikka Holopainen.
       - title: 'Politiikkaradio '
         start_time: '2026-10-07T21:00:00+03:00'
         end_time: '2026-10-07T21:30:00+03:00'
       - title: Havaintoja muutoksesta
         start_time: '2026-10-07T21:31:00+03:00'
         end_time: '2026-10-07T22:20:00+03:00'
+      - title: 'Jussi Halla-aho - kylmä peli: Herra ja puhemies'
+        start_time: '2026-10-07T22:21:00+03:00'
+        end_time: '2026-10-07T22:50:00+03:00'
+        description: |-
+          Osa 8/8.
+          Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.
+          (ensies. v. 2025)
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-10-07T23:20:00+03:00'
         end_time: '2026-10-07T23:39:30+03:00'

@@ -1,17 +1,46 @@
 metadata:
-  generated_at: '2026-09-22T02:18:22.325204+00:00'
+  generated_at: '2026-09-23T02:18:42.765062+00:00'
   git:
     branch: main
-    commit: 92bcc2ea56ca0c92de589ec9e4c0c1720629faba
-  data_hash: 57b11e999afa64f31690dd765fe2a489b72e147a0ccbda827455f4d05f6e4034
+    commit: ac895c628d9f4619286cc8b3aed5867149f69214
+  data_hash: 44a1b30b49e12f353680128f9b19fa4564f547cd9522b8e3ca19c4e0fc48252c
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-09-25T23:40:00+03:00'
         end_time: '2026-09-26T07:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Marschner: Der Vampyr (Vampyyri), ooppera (Franz Hawlata, baritoni, Jonas Kaufmann, tenori, Regina Klepper, sopraano, Anke Hoffmann, sopraano, Markus Marquardt, basso, ja Thomas Devalt, tenori, sekä Kölnin radiokuoro ja -ork./Helmut Froschauer).
+
+          01:52 Mendelssohn: Sinfonia n:o 3 a-molli (Skotlantilainen) (Gewandhaus-ork./Kurt Masur).
+
+          02:30 Weber: Konserttikappale f-molli (Mihail Pletnjov, piano, ja Venäjän kans. ork./Pletnjov).
+
+          02:46 Burgmüller (täyd. R. Schumann): Sinfonia n:o 2 D-duuri (keskeneräinen) (Wuppertalin SO/Gernot Schmalfuss).
+
+          03:18 O. Merikanto: Venhelaulu (Kimmo Hakasalo, piano).
+
+          03:21 Röntgen: Serenadi A-duuri (Viotta-yhtye).
+
+          03:51 Elgar: Viulukonsertto h-molli (Pinchas Zukerman ja St. Louisin SO/Leonard Slatkin).
+
+          04:40 Pingoud: Avaruuden laulu (RSO/Sakari Oramo).
+
+          04:59 Copland (sov.): Old American songs 2 (Bruce Hubbard, baritoni, ja St. Luken ork./Dennis Russell Davies).
+
+          05:12 Madetoja: Sinfoninen sarja (Oulu Sinfonia/Arvo Volmer).
+
+          05:48 Stantshinski: Kahdeksan preludia pianolle (Eduard Sjomin).
+
+          06:00 Charpentier: Litanies de la Vierge (Litanioita Neitsyt Marialle) (Les Arts Florissants/WIlliam Christie).
+
+          06:18 Satie: Gnossiennes, seitsemän kappaletta pianolle (Jean-Yves Thibaudet).
+
+          06:44 Sterkel: Sonaatti viululle ja pianolle B-duuri (Meret Lüthi, viulu, ja Els Biesemans, fortepiano).
+
+          07:11 Mundy: Vox patris caelestis (Taivaallisen Isän ääni) (The Sixteen/Harry Christophers).
+
       - title: Kirjani tarina
         start_time: '2026-09-26T07:31:00+03:00'
         end_time: '2026-09-26T07:55:00+03:00'
@@ -46,9 +75,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-26T08:35:00+03:00'
         end_time: '2026-09-26T08:40:00+03:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Jari Karppinen on viettänyt jalkapallokatsomossa ison osan elämästään'
         start_time: '2026-09-26T08:40:00+03:00'
         end_time: '2026-09-26T09:00:00+03:00'
+        description: |-
+          Lahtelainen Jari Karppinen on aina ollut innokas jalkapallon seuraaja. Hän käy katsomassa lähes kaikki "oman" seuransa FC Lahden ottelut. Intohimoa riittää myös jalkapallomaajoukkueelle.. Hän on nähnyt viimeisten 30 vuoden aikana kaikki miesten joukkueen MM- ja EM-karsintaottelut. Lisäksi Karppinen on käynyt vuoden -90 jälkeen kaikissa jalkapallon MM- ja EM-kisoissa. Korona tietysti keskeytti harrastuksen toviksi, mutta sitten taas jatkettiin. 
+
+          Jari Karppisen tapasi Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-09-26T09:00:00+03:00'
         end_time: '2026-09-26T09:03:00+03:00'
@@ -98,7 +131,7 @@ data:
         end_time: '2026-09-26T13:00:00+03:00'
         description: |
           Edward Bergerin ohjaama Konklaavi-elokuva avaa omanlaisensa ikkunan katolisen kirkon nykytilaan ja kardinaalien salaiseen kokoukseen uuden paavin valitsemiseks. Missä määrin elokuvan kuvaus kardinaalien juonittelusta, valtakamppailuista ja yllätyspaavin valinnasta vastaa todellisuutta? Mikä on nykyisen paavin rooli 2020-luvun maailmassa, jossa roomalaiskatolisen kirkon 1,4 miljardin jäsenen ylimmän hengellisen johtajan on otettava kantaa muun muassa tekoälyyn, katolisen kirkon hyväksikäyttökriisiin, ilmastokriisiin ja geopoliittisiin konflikteihin ja osoittaa toiminnallaan oma linjansa? Konklaavin draamallisesti puhuttelevaa asetelmaa ja sen suhdetta todellisuuteen ruotivat Marja Vehkasen kanssa kirkkohistorian vanhempi yliopistonlehtori Mikko Ketola ja keskiajan historian dosentti Reima Välimäki.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Musiikki on intohimon laji – Wille Rydman'
         start_time: '2026-09-26T13:00:00+03:00'
         end_time: '2026-09-26T13:55:00+03:00'
         description: |
@@ -107,16 +140,16 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-09-26T13:55:00+03:00'
         end_time: '2026-09-26T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Ristiretkien historiaa'
         start_time: '2026-09-26T14:00:00+03:00'
         end_time: '2026-09-26T14:55:00+03:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Tapamme ”haittaeläimiä”, ja aiheutamme lisää haittoja'
         start_time: '2026-09-26T14:55:00+03:00'
         end_time: '2026-09-26T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Ihminen on ärhäkkä eläin puolustamaan reviiriään. Määrittelemme helposti muut reviirillemme tulijat hävitettäviksi haittaeläimiksi, tiedetoimittaja Mia Rönkä pohdiskelee.
       - title: 'Kansallisen turvallisuuden virasto: Ydinase. Suomi.'
         start_time: '2026-09-26T15:00:00+03:00'
         end_time: '2026-09-26T15:25:00+03:00'
@@ -224,17 +257,47 @@ data:
       - title: Klassikkokuunnelmia
         start_time: '2026-09-26T21:51:00+03:00'
         end_time: '2026-09-26T22:30:00+03:00'
-      - title: 'Keinuva talo - Mika Kauhanen: Brittifolkin tarinankertoja juhlii'
+      - title: Keinuva talo - Mika Kauhanen
         start_time: '2026-09-26T22:41:00+03:00'
         end_time: '2026-09-26T23:39:30+03:00'
-        description: |-
-          Yhtä juhlavuosilevyjen juhlaa keitämme kokoon tässä jaksossa. Brittifolkin ykköslauluntekijä Martin Simpson saavutti 50 vuotta urallaan, Itä-Euroopan naisten perinnettä jatkava lauluyhtye Kitka päätti juhlia jo 45 vuoden merkkipaalua, Unkarin merkittävin etnolevymerkki Fonó täytti 30.
-
-          Kuulemme myös reelin Kaustisen Folkkareilta sekä reel-sikermän Irish Festival of Oulun pääesiintyjältä Altanilta.
-
-          Toimittajana Mika Kauhanen.
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
       - title: Yöklassinen
         start_time: '2026-09-26T23:40:00+03:00'
         end_time: '2026-09-27T07:00:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Schubert: Pianosonaatti n:o 17 D-duuri (Emil Gilels).
+
+          00:23 Dvorák: Kultainen rukki (Amsterdamin Concertgebouw-ork./Nikolaus Harnoncourt).
+
+          00:52 Griffes: Kolme intiaaniteemoihin pohjautuvaa luonnosta jousikvartetille (Ensemble Perspectives).
+
+          01:05 Brahms: Immer leiser wird mein Schlummer (Unten maille hiljaa raukenen) (Christa Ludwig, mezzosopraano, ja Geoffrey Parsons, piano).
+
+          01:09 Buxtehude: Cantate Domino canticum novum (Veisatkaa Herralle uusi virsi) (Suzie LeBlanc ja Emma Kirkby, sopraano, Peter Harvey, basso, ja Purcell-kvartetti).
+
+          01:18 Franck: Solo de piano (David Lively, piano, ja Malibran-kvartetti, sekä Koneel Le Compte, kontrabasso).
+
+          01:38 Couperin: Messe pour les paroisses (Kati Hämäläinen ja Ville Urponen, Helsingin Hyvän Paimen kirkon urut, sekä Plein-Jeu -vokaaliyhtyeen miesäänet).
+
+          02:42 Tshaikovski: Sinfonia n:o 4 f-molli (Clevelandin ork./Christoph von Dohnanyi). 
+
+          03:24 Galuppi: Sonaatti n:o 5 C-duuri (Arturo Benedetti Michelangeli, piano).
+
+          03:39 Liszt: Kuusi unkarilaista rapsodiaa orkesterille (Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          04:43 Chopin: Pianosonaatti n:o 2 b-molli (Surumarssisonaatti) (Guiomar Novaes).
+
+          05:05 J. Strauss: Feuerfest (Cincinnati Pops/Erich Kunzel).
+
+          05:08 Mendelssohn: Jousikvartetto n:o 2 a-molli (Tinalley-kvartetti).
+
+          05:42 M-A. Charpentier: Salve Regina (Le Concert des Nations/Jordi Savall).
+
+          05:52 Vivaldi: Perseuksen aaria serenatasta Andromeda liberata (Vapautettu Andromeda) (Nathalie Stutzmann, altto, ja Thibault Noally, viulu, sekä Orfeo 55).
+
+          06:02 C. Stamitz: Klarinettikonsertto n:o 11 Es-duuri (Karl Schlechta ja Kurpfalzin kamariork./Jirí Malát).
+
+          06:22 Conti: Languet anima mea officium (Magdalena Kozena, mezzosopraano, ja Musica Antiqua/Reinhard Goebel).
+
+          06:36 J.S. Bach: Konsertto cembalolle, jousille ja continuolle n:o 1 d-molli (Angela Hewitt, piano ja Australian kamariork./ Richard Tognetti).
