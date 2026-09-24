@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-23T02:18:48.161299+00:00'
+  generated_at: '2026-09-24T02:18:24.724524+00:00'
   git:
     branch: main
-    commit: ac895c628d9f4619286cc8b3aed5867149f69214
-  data_hash: 44a1b30b49e12f353680128f9b19fa4564f547cd9522b8e3ca19c4e0fc48252c
+    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
+  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
 data:
   '':
     programmes:
@@ -89,16 +89,42 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T13:30:00+03:00'
         end_time: '2026-10-05T13:35:00+03:00'
+        description: |2+
+
       - title: Aitiovieras
         start_time: '2026-10-05T13:35:00+03:00'
         end_time: '2026-10-05T14:00:00+03:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Täydellinen cappuccino'
         start_time: '2026-10-05T14:00:00+03:00'
         end_time: '2026-10-05T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Young: Street of dreams (Joey DeFrancesco, sähköurut, ja Joe Doggs, laulu).
+
+          Piazzolla: Libertango (Severi Pyysalo ja Otra Vez!).
+
+          Tri Muzike: Oriental rumba.
+
+          Kansanlaulu (Latvia): Netisami ed iegaju (Auli ja Tautumeitas). 
+
+          Monroy: Mozamo (Sergio Monroy, Raul Galvez, Javier Ruibal, Orquesta Manuel de Falla)
+
+          Rantalainen: Täydellinen cappuccino (Tuija Rantalainen & Heikki Salo).
+
+          Richardson: The Groove merchant (The Oiling Boiling Rhythm'n Blues Band).
+
+          Kansanlaulu, Irlanti: Brid og ni mhaille (The Corrs ja BBC:n konserttiorkesteri).
+
+          Hyväluoma: Triolipolska (Tsuumi Sound System).
+
+          Kähärä: En mä tullut niinkuin ennen (How Many Sisters ja Tapiola Sinfonietta/Kirmo Lintinen).
+
+          Porter: What is this thing called love (Willie Nelson).
+
       - title: Kulttuuriykkönen
         start_time: '2026-10-05T15:00:00+03:00'
         end_time: '2026-10-05T15:58:00+03:00'
@@ -110,6 +136,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-10-05T16:07:00+03:00'
         end_time: '2026-10-05T16:59:00+03:00'
+        description: |
+          Palmgren: Oriental serenade (Itämainen serenadi) (Jan Söderblom, viulu ja Henri Sigfridsson, piano).
+
+          Nielsen: Intermezzo teoks. Pieni sarja a-molli (Royal Strings/Magnus Ericsson).
+
+          Grieg: Koti-ikävä e-molli op.57/6 sarj. Lyyrisiä kappaleita (Stephen Hough, piano).
+
+          Mägi: Mötisklused (Mietiskelyjä) (Suomen Nuorisokuoro/Elisa Huovinen). 
+
+          Salvador: Preludi teoks. Homenatge a Mistral (Kunnianosoitus Mistralille) (Dejan Ivanovic, kitara).
+
+          Gaubert: Kirkkaana aamuna (Jean-Marc Phillips-Varjabedian, viulu, Henri Demarquette, sello, ja Marie-Josephe Jude, piano). 
+
+          Ravel: Five o'clock foxtrot (World Saxophone Orchestra/Ed Bogaard).
+
+          Desportes: Ballade normande (Normandialainen balladi) (Tanja Nisonen, käyrätorvi, ja Emil Holmström, piano). 
+
+          Byrd: Non vos relinquam orphanos (Rolf Smedvig, trumpetti, johtaja, Empire Brass Quintet, sekä jäseniä: Bostonin SO, New FO ja Boston Pops Esplande Orchestra). 
+
+          Merula: La Luisignola (Belladonna).
+
+          Purcell (sov. Pluhar): Junon aaria "O let me weep" puolioopp. The Fairy queen (Raquel Andueza, sopraano, ja L' Arpeggiata/Christina Pluhar). 
+
+          Chopin: Valssi nro 6 Des-duuri "Minuuttivalssi" (Garrick Ohlsson, piano).
+
+          Konsertin laati Eva Tigerstedt
       - title: Yle Uutiset ja sää
         start_time: '2026-10-05T17:00:00+03:00'
         end_time: '2026-10-05T17:05:00+03:00'
@@ -165,11 +217,12 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-10-05T22:21:00+03:00'
         end_time: '2026-10-05T22:44:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Risto Vuorimies'
         start_time: '2026-10-05T22:45:00+03:00'
         end_time: '2026-10-05T23:39:30+03:00'
-        description: |-
-          Musiikin harrastajat ja ammattilaiset kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita
+        description: |
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Risto Vuorimies kuvasi 70-luvulla levyn kansia Love Recordsille. Joukosta löytyy mm. legendaarinen Hurriganesin Roadrunnerin kansi, joka on valittu parhaaksi suomalaiseksi levyn kanneksi. Mutta löytyykö Riston levyistä Hurriganesia? 
       - title: Yöklassinen
         start_time: '2026-10-05T23:40:00+03:00'
         end_time: '2026-10-06T06:30:00+03:00'
