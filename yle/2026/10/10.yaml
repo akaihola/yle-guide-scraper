@@ -1,17 +1,42 @@
 metadata:
-  generated_at: '2026-09-24T02:18:25.898307+00:00'
+  generated_at: '2026-09-25T02:17:18.545250+00:00'
   git:
     branch: main
-    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
-  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
+    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
+  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-10-09T23:40:00+03:00'
         end_time: '2026-10-10T07:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Heise: Drot og Marsk (Kuningas ja Marski), ooppera (Poul Elming, tenori, Bent Norup, basso, Eva Johansson, sopraano, Kurt Westi, tenori, Christian Christiansson, basso, Aage Haugland, basso, Ole Hedegaar, tenori, ja Inga Nielsen, sopraano, sekä Tanskan Radion kuoro ja Tanskan radion SO/Michael Schönwandt).
+
+          02:21 W.A. Mozart: Pianokonsertto n:o 25 C-duuri (Mitsuko Uchida ja Clevelandin ork.).
+
+          02:56 Klami: Pyörteitä, balettisarja n:o 2 (Radio-ork./Paavo Berglund).
+
+          03:16 Rangström: Sinfonia n:o 4 d-molli (Invocatio) (Tukholman FO/Juri Aronovitsh, ja Erik Lundkvist, urut).
+
+          03:46 Prokofjev: Rakkaus kolmeen appelsiiniin, sarja orkesterille samannimisestä oopperasta (Boston Pops/Arthur Fiedler).
+
+          04:02 Ernst: Pensées fugitives (Thomas Christian, viulu, ja Jevgeni Sinaiski, piano).
+
+          04:41 Rheinberger: Sechs Stücke (Kuusi kappaletta) (Konstantin Weitz, viulu, ja Sixten Enlund, urut).
+
+          05:17 Ravel: Pianokonsertto G-duuri (Arturo Benedetti Michelangeli ja Lontoon Philharmonia -ork./Ettore Gracis).
+
+          Barrios: Menuetti kitaralle A-duuri (Enno Voorhorst).
+
+          05:43 Musiikkia keskiaikaisiin pitoihin, säv. Jacopo da Bologna, Landini, Ciconia ym. (The Newberry Consort/Mary Springfels).
+
+          06:46 Purcell: Soitinmusiikkia puolioopp. King Arthur (Freiburgin barokkiork./Thomas Hengelbrock).
+
+          07:08 Händel: Chi rapi la pace, kantaatti. (Patrice Michaels, sopraano, ja Chicagon barokkiyhtye).
+
+          07:17 Bach - Liszt: Fantasia ja fuuga g-molli (Risto Lauriala, piano).
+
       - title: Kirjani tarina
         start_time: '2026-10-10T07:31:00+03:00'
         end_time: '2026-10-10T07:55:00+03:00'
@@ -59,6 +84,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-10T11:57:00+03:00'
         end_time: '2026-10-10T12:00:00+03:00'
+        description: |-
+          Ote Aleksis Kiven Seitsemän veljestä -romaanista.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-10T12:00:00+03:00'
         end_time: '2026-10-10T12:05:00+03:00'
@@ -195,5 +222,35 @@ data:
       - title: Yöklassinen
         start_time: '2026-10-10T23:40:00+03:00'
         end_time: '2026-10-11T07:00:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Schubert: Elysium (Susanna Phillips, sopraano, ja Brian Zeger, piano).
+
+          23:49  Molino: Trio huilulle, alttoviululle ja kitaralle D-duuri (Sérénade à trois).
+
+          00:05 Respighi: Vanhoja aarioita ja tansseja, sarja n:o 2 (Los Angelesin kamariork./Neville Marriner).
+
+          00:23 Dett: Enchantment, pianosarja (Clipper Erickson).
+
+          00:43 Bartók: Jousikvartetto n:o 1 (Emerson-kvartetti).
+
+          01:13 Tshaikovski: Sarja orkesterille n:o 3 G-duuri (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          01:56 Dvorák: Määriläisiä duettoja (Elisabeth Schwarzkopf ja Irmgard Seefried, sopraano, ja Gerald Moore, piano).
+
+          02:25 Schumann: Das Paradies und die Peri (Paratiisi ja Peri), oratorio (Dorothea Röschmann, sopraano, Christoph Strehl, tenori, Malin Hartelius,  sopraano, Rebecca Martin, mezzosopraano, Bernarda Fink, altto, Christian Gerhaher, baritoni, ja Werner Güra, tenori, sekä Baijerin radion kuoro ja Baijerin radion SO/Nikolaus Harnoncourt).
+
+          04:07 W.A. Mozart: Jousikvartetot n:o 14 G-duuri ja n:o 15 d-molli (Guarneri-kvartetti).
+
+          05:06 Schubert: Jousikvartetto n:o 4 C-duuri (Tokio-kvartetti).
+
+          05:29 Dukas: Villanelle (Esa Tukia, käyrätorvi,  ja RSO/Michael Adelson).
+
+          05:38 Padilla: Missa Ego flos campi (Los Angeles Chamber Singers' Cappella/Peter Rutenberg). 
+
+          05:59 Anonyymi: Tom Scarlett (David Douglass, viulu, Paul O´Dette, teorbi, ja Andrew Lawrence-King, harppu).
+
+          06:03 J. Haydn: Kuusi divertimentoa op.100 (Aurèle Nicolet, huilu, Jean-Jacques Kantorow, viulu, ja Mari Fujiwara, sello).
+
+          06:51 Guerau: Marionas (Hopkinson Smith, barokkikitara).
+
+...

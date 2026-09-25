@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-24T02:18:28.142397+00:00'
+  generated_at: '2026-09-25T02:17:21.202557+00:00'
   git:
     branch: main
-    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
-  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
+    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
+  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
 data:
   '':
     programmes:
@@ -47,6 +47,21 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-10-21T11:00:00+03:00'
         end_time: '2026-10-21T11:57:00+03:00'
+        description: |+
+          J. Haydn: Käyrätorvikonsertto n:o 2 D-duuri (Hermann Baumann ja St. Martin-in-the-Fields -kamariork./Iona Brown).
+
+          Boyce: Sinfonia nro 6 F-duuri (Academy of St. Martin-in-the-Fields/Neville Marriner).
+
+          Delius: To daffodils (Narsisseille) (Robin Tritschler, tenori, ja Malcolm Martineau, piano).
+
+          J. Röntgen: Trio jousille n:o 4 D-duuri (Valssisarja) (Lendvai-jousitrio).
+
+          Söderlundh: Andante sostenuto Concertinosta oboelle ja jousiorkesterille (Alf Nilsson ja Tukholman filharmonisen orkesterin kamariyhtye).
+
+          Offenbach: Poloneesi sarj. kahdelle sellolle n:o 2 E-duuri (Roland Pidoux ja Étienne Peclard).
+
+          Anderson: Bugler's holiday (Reinhard Ehritt, Hugo Wolf ja Mathias Kiefer, trumpetti, sekä Kölnin RO/Pinchas Steinberg). 
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-21T11:57:00+03:00'
         end_time: '2026-10-21T12:00:00+03:00'
@@ -134,9 +149,35 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-21T19:00:00+03:00'
         end_time: '2026-10-21T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertteja: Uuden Musiikin Lokakuu & Defun Ensemble'
         start_time: '2026-10-21T19:02:00+03:00'
         end_time: '2026-10-21T21:00:00+03:00'
+        description: |+
+          Suomen tunnetuin nykymusiikkiyhtye soittaa konsertin, jossa kohtaavat Matilda Seppälän yhteisöllisyyttä ja kehoa tutkiva musiikki, Øyvind Torvundin huumorilla höystetty ja yllätyksellinen äänimaailma sekä Perttu Haapasen leikkisä ja vinksahtanut suosikkiteos. Illan kruunaa Sami Klemolan uusi teos, jossa akustiset ja sähköiset kosketinsoittimet kohtaavat uudella tavalla.
+
+          17.10.2026 Tulindbergin salissa Oulussa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Esiintyjät:
+
+          Defunensemble
+            Hanna Kinnunen, huilu
+            Mikko Raasakka, klarinetti
+            Markus Hohti, sello
+            Emil Holmström, piano
+            Anders Pohjola, elektroniikka
+
+          Tiina Karakorpi, piano
+          Sami Klemola, syntetisaattorit
+
+          Ohjelma:
+
+          Matilda Seppälä: The Monstruous Bond of Togetherness (2024)
+          Öivind Torvund: Yes or No (2025)
+          Perttu Haapanen: Doll Garden (2013)
+          Sami Klemola: Aspen Cape Melodies II (2026), Kahdelle pianolle ja kahdelle syntetisaattorille (Kantaesitys)
+
+          Kuva ©www.alexbp.dk_web
+
       - title: 'Politiikkaradio '
         start_time: '2026-10-21T21:00:00+03:00'
         end_time: '2026-10-21T21:30:00+03:00'

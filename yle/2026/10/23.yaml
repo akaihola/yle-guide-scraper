@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-24T02:18:28.572890+00:00'
+  generated_at: '2026-09-25T02:17:21.710002+00:00'
   git:
     branch: main
-    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
-  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
+    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
+  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
 data:
   '':
     programmes:
@@ -38,6 +38,22 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-23T09:04:00+03:00'
         end_time: '2026-10-23T09:59:00+03:00'
+        description: |-
+          Evans: Monicas vals (Monica Zetterlund).
+          Dobos/Hálmagyi: Kuihtuu kesäinen maa (Rauli 'Badding' Somerjoki).
+          Celentano/Detto: Il ragazzo della via Gluck (Adriano Celentano). 
+          Romero: Soy infeliz (Lola Beltrán).
+          Troup: This October (Julie London).
+          Carter: Something for october (Benny Carter). 
+          Harrison: Something (Frank Sinatra).
+          Farres: Mua lähemmäks' käy (Sacy Sand).
+          Legrand: Windmills of your mind (Dusty Springfield).
+          Lehtinen: Silloin kun kaiken antaa (Tuulikki Eloranta).
+          Bernstein: Somewhere (Aretha Franklin).
+          Sarstedt: Kuningatar (Hector).
+          Sherwin: A nightingale sang in Berkeley Square (The Manhattan Transfer).
+
+          Konsertin on toimittanut Jenna Bågeberg.
       - title: Kalle Haatanen
         start_time: '2026-10-23T10:00:00+03:00'
         end_time: '2026-10-23T10:55:00+03:00'
@@ -119,9 +135,49 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-23T19:00:00+03:00'
         end_time: '2026-10-23T19:02:00+03:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Uuden Musiikin Lokakuu & Oulu Sinfonia'
         start_time: '2026-10-23T19:02:00+03:00'
         end_time: '2026-10-23T21:00:00+03:00'
+        description: |-
+          Uuden Musiikin Lokakuun orkesterikonsertissa mannerlaatat murahtelevat ja peruskallio kuiskii. 
+           
+          The National -yhtyeen kitaristi, säveltäjä Bryce Dessner on räätälöinyt konserttoja maailman suurimmille solisteille. Lontoossa, Sydneyssä ja Berliinissä kuultu sellosinfonia Trembling Earth syntyi Anastasia Kobekinan poikkeuksellisen runolliselle ilmaisuvoimalle. Lyyrinen, paikoin aavemainen sellon ja orkesterin dialogi on koskettava ylistys luontoäidin äärettömälle kestokyvylle.
+           
+          Amerikkalaissäveltäjän Ellen Reidin tuore Earth Between Oceans kiitää Yhdysvaltain rannikolta toiselle. Kuoron, orkesterin ja kenttä-äänitysten puhutteleva kokonaisuus rakentuu neljän peruselementin voimalla, ja ilmassa roikkuu väistämätön kysymys: kauanko näin voi vielä jatkua?
+           
+          Kroatialainen Mirela Ivičević moukaroi musiikkikäsityksiämme taiteellaan: se ärjyy, kirkuu, kiroaa ja vaikeroi. 
+           
+          15.10.2026 Oulussa Madetojan salissa tallennetun konsertin toimittaa Ainomaija Pennanen.
+           
+          Ohjelma:
+           
+          Mirela Ivičević: Neon Aeon (2026) (Ensi kertaa Suomessa)
+          Bryce Dessner: Trembling Earth (2025) (Ensi kertaa Suomessa)
+          Johanna Ruotsalainen: The Failing Landscape (2026) for Symphonic Orchestra (k.e.)
+          Ellen Reid: Earth Between Oceans (2025) (Ensi kertaa Suomessa)
+           
+          Esiintyjät:
+           
+          André de Ridder, kapellimestari
+          Anastasia Kobekina, sello
+          Soma Ensemble
+          Cassiopeia
+          Kuorojen valmennus Suvi Timm ja Elina Kärki. 
+           
+          Ensemble Recherche
+            Adam Woodward, viulu
+            Sofia von Atzingen, alttoviulu
+            Åsa Åkerberg, sello
+            Anja Clift, huilu
+            Eduardo Olloqui, oboe
+            Shizuyo Oka, klarinetti
+            Klaus Steffes-Holländer, piano
+            Christian Dierstein, lyömäsoittimet
+            Lukas Nowok, äänisuunnittelu
+           
+          Oulu Sinfonia
+           
+          Kuvassa Anastasia Kobekina ©Nicolas Hudak / Sony Music Entertainment
       - title: 'Politiikkaradio '
         start_time: '2026-10-23T21:00:00+03:00'
         end_time: '2026-10-23T21:30:00+03:00'

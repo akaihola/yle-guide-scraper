@@ -1,17 +1,49 @@
 metadata:
-  generated_at: '2026-09-24T02:18:25.541821+00:00'
+  generated_at: '2026-09-25T02:17:18.298580+00:00'
   git:
     branch: main
-    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
-  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
+    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
+  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-10-09T00:00:00+03:00'
         end_time: '2026-10-09T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |
+          Sarasate: Mustalaislauluja (Olivier Pons, viulu ja Risto Lauriala, piano).
+
+          00:10 J. Haydn: Sinfonia n:o 92 G-duuri (Oxford) (RSO/Sakari Oramo). 
+
+          00:38 Rimski-Korsakov: Sarja oopperabal. Mlada (Seattlen SO/Gerard Schwarz).
+
+          00:57 Beethoven: Sonaatti viululle ja pianolle n:o 4 a-molli (Pinchas Zukerman ja Marc Neikrug).
+
+          01:21 Chopin: Pianokonsertto n:o 1 e-molli (Krystian Zimerman ja Los Angelesin FO/Carlo Maria Giulini).
+
+          02:01 Ziehrer: Wiener Bürger (Wienin porvareita) (Wienin filharmonikot/Hans Knappertsbusch).
+
+          02:11 Schubert: Sonaatti pianolle 4-kätisesti C-duuri (Jevgeni Kisin ja James Levine).
+
+          02:52 Glinka: Jousikvartetto D-duuri (Shostakovitsh-kvartetti).
+
+          03:28 Röntgen: Teema ja muunnelmia B-duuri (Wyneke Jordans ja Leo van Doeselaar, piano).
+
+          03:38 Palmgren (sov.): Kun ensi kerran silmäs näin (Lilli Paasikivi, mezzosopraano, ja Ilmo Ranta, piano).
+
+          03:41 Prokofjev: Sinfonia n:o 1 D-duuri (Klassinen) (Clevelandin ork./Christoph von Dohnanyi). 
+
+          03:55 Glinka: Adele (Petteri Salomaa, baritoni, ja Ilmo Ranta, piano).
+
+          03:59 Debussy - Leinsdorf: Orkesterisarja oopp. Pelleas ja Melisande (Chicagon SO/Erich Leinsdorf).
+
+          04:26 Saint-Saëns: Balettimusiikkia oopp. Étienne Marcel (Victoria-ork./Guillaume Tourniaire).
+
+          04:44 Huet: Fantasia (Toyohiko Satoh, renessanssiluuttu).
+
+          04:50 Buxtehude: Jesu, meine Freude (Suzie LeBlanc ja Emma Kirkby, sopraano, Peter Harvey, basso, ja Purcell-kvartetti).
+
+          05:05 J.S. Bach: Sonaatit viululle ja klaveerille n:o 1-6 (Mela Tenenbaum, viulu, ja Richard Kapp, piano).
       - title: Hartaita säveliä
         start_time: '2026-10-09T06:30:50+03:00'
         end_time: '2026-10-09T06:50:00+03:00'
@@ -63,7 +95,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-09T09:04:00+03:00'
         end_time: '2026-10-09T09:59:00+03:00'
-        description: |
+        description: |-
           Endrigo: Miksi näin? (Päivi Paunu).
           Alvarez: Sabeline (Digno Garcia).
           Sullivan/Walker: When my blue moon turns to gold again (Elvis Presley).
@@ -99,6 +131,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-09T11:57:00+03:00'
         end_time: '2026-10-09T12:00:00+03:00'
+        description: |-
+          J. H. Erkon runo Raskas syksy.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-09T12:00:00+03:00'
         end_time: '2026-10-09T12:05:00+03:00'
@@ -118,11 +152,37 @@ data:
         end_time: '2026-10-09T14:00:00+03:00'
         description: |-
           Kirjojen syntytarinoita kirjailijoiden kertomana.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Tähtipölyä'
         start_time: '2026-10-09T14:00:00+03:00'
         end_time: '2026-10-09T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Hirvonen: Varjon viemä (Okra Playground). 
+
+          Linetzky: Madera de roble (Vale Tango/Andres Linetzky).
+
+          Joao Gilberto: Eu vim da Bahia.
+
+          Brandqvist: View from above (Emil Brandqvist Trio).
+
+          Kähärä: Tahto (Maria Ylipää).
+
+          Cristicchi, Pari: La Prima volta (Simone Cristicchi).
+
+          Jacobsson: Cumbia för dig (Efia Abu).
+
+          Fadda, Geri: Madreperla (Riccardo Tesi & Banditaliana).
+
+          Caceres: Argentina (Tango Negro Trio).
+
+          Toussaint: Trouble with my lover (Alison Krauss ja Robert Plant).
+
+          Joplin: Heliotrope bouquet (Pink Martini).
+
+          Saari: Tähtipölyä (Sami Saari ja Jazzpojat).
+
       - title: Kulttuuriykkönen
         start_time: '2026-10-09T15:00:00+03:00'
         end_time: '2026-10-09T15:58:00+03:00'
@@ -134,6 +194,29 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-10-09T16:07:00+03:00'
         end_time: '2026-10-09T16:59:00+03:00'
+        description: |+
+          Rossini: Don Basilion juoruaaria "La calunnia è un venticello" oopp. Sevillan parturi (Matti Salminen, basso, ja Sinfonia Lahti/Eri Klas).
+
+          Rodrigo: Canconeta viululle ja jousiorkesterille (Agustín León Ara ja St. Martin-in-the-Fields -kamariork./Neville Marriner).  
+
+          Grieg: Solveigs sang (Solveigin laulu) (Soile Isokoski, sopraano, ja Marita Viitasalo, piano).
+
+          Williams: Battle of the heroes elok. Star wars: Episode III - Revenge of the Sith (London Voices ja Lontoon SO/John Williams).
+
+          Fauré: Pavane (Birminghamin SO:n kuoro ja BBC:n FO/Yan Pascal Tortelier).
+
+          Sjöberg: Tonerna (Jussi Björling, tenori, ja ork./Nils Grevillius).
+
+          Chopin: Etydi n:o 1 C-duuri op.10 (Martha Argerich, piano).
+
+          Marais: Sappikivileikkauskuvaelma (Le Tableau de l’Opération de la Taille) sarj. viola da gamballe ja continuolle (Pieces de viole 5) (Markku Luolajan-Mikkola, ja Timo Juntura, viola da gamba, Eero Palviainen, luuttu, Elina Mustonen, cembalo, sekä Lasse Pöysti, lausunta). 
+
+          Weill: Johnny Johnson medley (Kathy Dalton, laulu, ja ork./Van Dyke Parks).
+
+          Tosti: 'A vucchella (Pieni suu) (Dmitri Hvorostovski, baritoni, ja Philharmonia of Russia/Constantine Orbelian).
+
+          Arnalds: For now I am winter (Voces8 sekä Eleanor Turner, harppu, Benjamin Roskams, alttoviulu, ja Stephanie Oade, sello). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-09T17:00:00+03:00'
         end_time: '2026-10-09T17:05:00+03:00'
@@ -188,5 +271,31 @@ data:
       - title: Yöklassinen
         start_time: '2026-10-09T23:40:00+03:00'
         end_time: '2026-10-10T07:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Heise: Drot og Marsk (Kuningas ja Marski), ooppera (Poul Elming, tenori, Bent Norup, basso, Eva Johansson, sopraano, Kurt Westi, tenori, Christian Christiansson, basso, Aage Haugland, basso, Ole Hedegaar, tenori, ja Inga Nielsen, sopraano, sekä Tanskan Radion kuoro ja Tanskan radion SO/Michael Schönwandt).
+
+          02:21 W.A. Mozart: Pianokonsertto n:o 25 C-duuri (Mitsuko Uchida ja Clevelandin ork.).
+
+          02:56 Klami: Pyörteitä, balettisarja n:o 2 (Radio-ork./Paavo Berglund).
+
+          03:16 Rangström: Sinfonia n:o 4 d-molli (Invocatio) (Tukholman FO/Juri Aronovitsh, ja Erik Lundkvist, urut).
+
+          03:46 Prokofjev: Rakkaus kolmeen appelsiiniin, sarja orkesterille samannimisestä oopperasta (Boston Pops/Arthur Fiedler).
+
+          04:02 Ernst: Pensées fugitives (Thomas Christian, viulu, ja Jevgeni Sinaiski, piano).
+
+          04:41 Rheinberger: Sechs Stücke (Kuusi kappaletta) (Konstantin Weitz, viulu, ja Sixten Enlund, urut).
+
+          05:17 Ravel: Pianokonsertto G-duuri (Arturo Benedetti Michelangeli ja Lontoon Philharmonia -ork./Ettore Gracis).
+
+          Barrios: Menuetti kitaralle A-duuri (Enno Voorhorst).
+
+          05:43 Musiikkia keskiaikaisiin pitoihin, säv. Jacopo da Bologna, Landini, Ciconia ym. (The Newberry Consort/Mary Springfels).
+
+          06:46 Purcell: Soitinmusiikkia puolioopp. King Arthur (Freiburgin barokkiork./Thomas Hengelbrock).
+
+          07:08 Händel: Chi rapi la pace, kantaatti. (Patrice Michaels, sopraano, ja Chicagon barokkiyhtye).
+
+          07:17 Bach - Liszt: Fantasia ja fuuga g-molli (Risto Lauriala, piano).
+
+...

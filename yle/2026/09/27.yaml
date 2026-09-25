@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-24T02:18:22.720888+00:00'
+  generated_at: '2026-09-25T02:17:15.269976+00:00'
   git:
     branch: main
-    commit: 4e490e6d479ded6de872ce4a26b34479285a9bf5
-  data_hash: ac870aa94bd2927c784bdec7b84e63fea589785c4395314ada3566a1754a367e
+    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
+  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
 data:
   '':
     programmes:
@@ -126,6 +126,9 @@ data:
           Haastateltavat: Ari Järvelä, Petra Käppi
           Lukijat: Harri Alanne, Sampo Mäkelä, Anna Sirén.
           Äänisuunittelu: Laura Koso.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-09-27T12:49:00+03:00'
+        end_time: '2026-09-27T13:00:00+03:00'
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-09-27T13:00:00+03:00'
         end_time: '2026-09-27T13:57:00+03:00'
@@ -141,13 +144,13 @@ data:
           Kun auktoriteettiongelmat ja myrkylliset esikuvat törmäävät, näköpiirissä on ikävyyksiä, kirjallisuuden kouluttaja Aleksis Salusjärvi varoittaa.
       - title: 'Kuunnelman tiet 1/13: Alku - ääniä ilmaan'
         start_time: '2026-09-27T15:00:00+03:00'
-        end_time: '2026-09-27T15:35:00+03:00'
+        end_time: '2026-09-27T15:40:00+03:00'
         description: |
           Pekka Kyrö kertoo radiokuunnelman kehitysvaiheista ja käännekohdista. 
           Tässä osassa kerrotaan, millaisten vaiheitten kautta kuunnelma syntyi. 
           Ohjelma on vuodelta 2009.
       - title: Musiikkikamari
-        start_time: '2026-09-27T15:35:00+03:00'
+        start_time: '2026-09-27T15:40:00+03:00'
         end_time: '2026-09-27T15:55:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-09-27T16:00:00+03:00'
@@ -196,7 +199,7 @@ data:
         start_time: '2026-09-27T19:00:00+03:00'
         end_time: '2026-09-27T19:02:05+03:00'
       - title: 'Jazzklubin viikon keikka: Joe Lovano / Leo Genovese / Antti Lötjönen / Joonas Riippa Turku Jazzissa.'
-        start_time: '2026-09-27T19:02:30+03:00'
+        start_time: '2026-09-27T19:02:05+03:00'
         end_time: '2026-09-27T20:00:00+03:00'
         description: |-
           Äänitetty Logomon Teatro-salissa 6.3.2026.
@@ -205,17 +208,19 @@ data:
         end_time: '2026-09-27T20:58:32+03:00'
         description: |-
           Liturgina Tero Ojasalo. Saarnaajana pastori Manu Hagert. Muusikot: Betanian brass band, joht. Matti Kausalainen sekä Nuorten lauluryhmä, joht. Damaris Diaz. Yhteislaulut: Hengellisestä laulukirjasta numerot 14, 279, 423, 481.
-      - title: Uutispodcast
-        start_time: '2026-09-27T21:00:30+03:00'
-        end_time: '2026-09-27T21:24:00+03:00'
+      - title: 'Uutispodcast: Miksi bensan hinta saa puolueet paniikkiin?'
+        start_time: '2026-09-27T21:00:28+03:00'
+        end_time: '2026-09-27T21:23:45+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
-      - title: 'Aitiovieras '
-        start_time: '2026-09-27T21:25:00+03:00'
-        end_time: '2026-09-27T21:50:00+03:00'
+          Bensan korkeaa hintaa päivitellään pumpulla ja eduskunnassa. Miksi bensa on nyt kallista ja millaiselta poliitikkojen keskustelu aiheesta näyttää? Leonard Wilhelmuksen haastateltavana Maaseudun Tulevaisuuden päätoimittaja Jussi Orell.
+      - title: 'Aitiovieras: Puolet suomalaisista harrastaa käsitöitä - mitä se kertoo meistä? - haastattelussa Taito ry:n Milla Satola'
+        start_time: '2026-09-27T21:25:07+03:00'
+        end_time: '2026-09-27T21:51:19+03:00'
+        description: |-
+          Käsityö on aineetonta kulttuuriperintöämme. Käsityöharrastus kasvoi huimasti koronan aikana ja edelleen noin puolet suomalaisista kertoo harrastavansa käsitöitä tai nikkarointia kerran kuukaudessa. Käsitöiden tekemiseen liittyy usein halu nähdä omien kätten töiden tuloksia. Harrastus kertoo nykyään usein myös ihmisen arvovalinnoista. Toiminnanjohtaja Milla Satola Taito Etelä-Suomi ry:stä on Miia Lahden haastattelussa.
       - title: 'Klasariparatiisi - Eva Tigerstedt: Tapiola hengittää valtavaa tilaa'
-        start_time: '2026-09-27T21:51:00+03:00'
-        end_time: '2026-09-27T22:44:58+03:00'
+        start_time: '2026-09-27T21:52:19+03:00'
+        end_time: '2026-09-27T22:46:17+03:00'
         description: |+
           Kuin luonto hengittäisi syvään, välittämättä ihmisestä, joka vain voi ihmetellä…jotain sellaista Jean Sibeliuksen viimeinen orkesteriteos Tapiola huokuu. Samalla se on ällistyttävän moderni teos.
           Lopuksi soi Bach, mutta epätavallisella tavalla resonoivasti.
@@ -226,8 +231,8 @@ data:
 
 
       - title: 'Romano mirits: Mitä kaajeet ajattelevat kaaleista? '
-        start_time: '2026-09-27T23:26:00+03:00'
-        end_time: '2026-09-27T23:39:30+03:00'
+        start_time: '2026-09-27T23:24:40+03:00'
+        end_time: '2026-09-27T23:39:03+03:00'
         description: |-
           Mitä kaajeet ajattelevat kaaleista? Minkälaisia kohtaamisia on ollut ja minkälaisia voisi olla? Romaneilta pyydetään anteeksi – mistä on kysymys? Haastateltavana on hotelli Valon toimitusjohtaja Hannu Holma. Toimittajana Mertsi Lindgren.
       - title: Yöklassinen
