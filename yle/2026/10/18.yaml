@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-25T02:17:20.505875+00:00'
+  generated_at: '2026-09-26T02:16:52.009379+00:00'
   git:
     branch: main
-    commit: 2f4667753098eecaa2c45ce626f33869262e9f34
-  data_hash: 1fb5c59485671a5e87fc000c792edc40bd331c7f8e020e1f94644af562fa0837
+    commit: 7a68d8d432be0e0281f7498a5ef7686f47d23b1d
+  data_hash: b185005b7c315f183f678a8c204cad9964dedf7c4742791faf09250a7d2523f3
 data:
   '':
     programmes:
@@ -45,10 +45,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-18T12:00:00+03:00'
         end_time: '2026-10-18T12:05:00+03:00'
-      - title: Elävä historia
+      - title: 'Elävä historia tutkii: Pälkäneen kallot 2/5 - Oliko Gustav Retzius kallonryöstäjä?'
         start_time: '2026-10-18T12:05:00+03:00'
         end_time: '2026-10-18T12:55:00+03:00'
         description: |-
+          Gustav Retziuksesta on maalattu kuvaa rasistisena kallonryöstäjänä. Toimittaja Kaisa Pulakka selvittää, mistä rotututkija Retziuksen kalloretkessä todella oli kyse. Tuoko Retziuksen kadonneeksi luultu päiväkirja vastauksia?  Toimittaja ja käsikirjoittaja: Kaisa Pulakka
+          Äänisuunnittelu: Joonatan Kotila
+          Dramaturgi: Are Nikkinen
+          Tuottaja: Pertti Ylikojola
+
+
+
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
       - title: Välilevyjä - Kare Eskola
         start_time: '2026-10-18T13:00:00+03:00'
