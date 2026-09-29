@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-28T02:26:30.247381+00:00'
+  generated_at: '2026-09-29T02:20:06.898581+00:00'
   git:
     branch: main
-    commit: 6e025cab2f03c0375cd17841412508269a9cb98f
-  data_hash: cbc453b551e04b13b5a5e111fa9a8af46587efde85d59e84fe3a0779bf3548da
+    commit: a8b6a8016d0f4f95330bda64bb14a8524154bc26
+  data_hash: e2ccc29345029a0365afe2d9284f0ae4bf235441cb8cb49f3bcb226a5919a6d7
 data:
   '':
     programmes:
@@ -50,7 +50,7 @@ data:
         end_time: '2026-10-03T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-10-03T08:00:00+03:00'
-        end_time: '2026-10-03T08:05:00+03:00'
+        end_time: '2026-10-03T09:20:00+03:00'
       - title: Hartaita säveliä
         start_time: '2026-10-03T08:05:00+03:00'
         end_time: '2026-10-03T08:25:00+03:00'
@@ -70,6 +70,31 @@ data:
         end_time: '2026-10-03T08:35:00+03:00'
         description: |-
           Evankelista Tapio Levelä, Baptistikirkko, Teerijärvi
+
+          Käy yrttitarhasta polku (virsi 77)
+          Original Title
+          empty
+          Length
+          00:03:51.144
+          Säveltäjä
+          Liander, Carl Gotthard
+          Pirttimaa, Kati (alkusoiton säveltäjä)
+          Esittäjä
+          Lilli Paasikivi, mezzosopraano
+          Kati Pirttimaa, urut
+          Vocalist
+          None
+          Announcement
+          Säveltäjä: Liander, Carl Gotthard; Pirttimaa, Kati (alkusoiton säveltäjä)
+          Sovittaja: Pirttimaa, Kati
+          Sanoittaja: Liander, Carl Gotthard; Ruuth, Martti (Käännös)
+          Teos: Käy yrttitarhasta polku (virsi 77)
+          Esittäjä: Lilli Paasikivi, mezzosopraano, ja Kati Pirttimaa, urut
+          Fono2-Id: CDY-1324-01-06
+          Kesto: 00:03:49
+
+          Press Information
+          Liander: Käy yrttitarhasta polku (virsi 77) (Lilli Paasikivi, mezzosopraano, ja Kati Pirttimaa, urut).
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-03T08:35:00+03:00'
         end_time: '2026-10-03T08:40:00+03:00'
@@ -82,11 +107,11 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-03T09:04:00+03:00'
         end_time: '2026-10-03T09:59:00+03:00'
-        description: |
+        description: |-
           Legrand: Place in Paris (Matt Monro).
-          Spyropoulos/Singer/Campbell-Lyons/Hardy: Je ne sais pas ce que je veux (Francoise Hardy). 
+          Spyropoulos/Singer/Campbell-Lyons: Je ne sais pas ce que je veux (Francoise Hardy). 
           Majewski: Afrikan tähti (Ossi Runne).
-          Hilliard: Bongo, bongo, bongo (Olavi Virta).
+          Hilliard/Sigman: Bongo, bongo, bongo (Olavi Virta).
           Kosma: Autumn leaves (Eartha Kitt).
           Sourire: Dominicus (Marion Rung). 
           Van Heusen: Sunday, Monday or always (Bing Crosby). 
