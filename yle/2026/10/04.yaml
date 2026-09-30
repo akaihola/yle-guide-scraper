@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-29T02:20:07.144511+00:00'
+  generated_at: '2026-09-30T02:23:33.723484+00:00'
   git:
     branch: main
-    commit: a8b6a8016d0f4f95330bda64bb14a8524154bc26
-  data_hash: e2ccc29345029a0365afe2d9284f0ae4bf235441cb8cb49f3bcb226a5919a6d7
+    commit: fd3768ba5621e5081d3d64835e962cd0b514bd10
+  data_hash: d2ca3cbc49c5edfd269e9007d5f8376a181baa743337c34c56b5a4d13958ada2
 data:
   '':
     programmes:
@@ -40,11 +40,11 @@ data:
           06:45 J.S. Bach: Brandenburgilainen konsertto n:o 2 F-duuri (Bach-Collegium Japan/Masaaki Suzuki).
 
           06:56 Narvaez: Diferencias sobre Conde Claros (David Russell, kitara).
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-10-04T07:00:30+03:00'
-        end_time: '2026-10-04T07:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: 'Klasariparatiisi: Matka Huolettomaan'
+        start_time: '2026-10-04T07:00:47+03:00'
+        end_time: '2026-10-04T07:53:37+03:00'
+        description: |
+          Klasariparatiisi. "Mikä on Preussin kuningaskunnan pelottavin eläin?" Tämän kysymykset esittää eräs muusikko Fredrik Suuren hoviorkesterissa. Vastaus kuullaan matkalla Huolettomaan . Siellä Fredrik Suuri soittaa huilua.Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-04T08:00:00+03:00'
         end_time: '2026-10-04T08:05:05+03:00'
@@ -129,8 +129,11 @@ data:
           Friman: This tune (Lassi Friman Quartet). 
           Wiening: Jarabe tapatio teoks. Sinfonia de la Santa Muerte (Kalle Kalima ja Mareike Wiening). 
           Bauduc: Super-Sirkka (Ykspihlajan Kino-orkesteri). 
+          Kansansäv. (Inkeri): Pyllynkannikoista (Duo Pimperot). 
           Palis/Kansansäv.: For Bertsie (T.I.M.). 
-           
+          Kanerva: Bright white light (Markku Kanerva, Seppo Kantonen, Lauri Porra, Anssi Nykänen). 
+
+          Konsertin on toimittanut Miika Lauriala. 
       - title: Ykköskolumni
         start_time: '2026-10-04T14:55:00+03:00'
         end_time: '2026-10-04T15:00:00+03:00'
@@ -203,11 +206,11 @@ data:
       - title: Aitiovieras
         start_time: '2026-10-04T21:25:00+03:00'
         end_time: '2026-10-04T21:50:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Matka Huolettomaan'
         start_time: '2026-10-04T21:51:00+03:00'
-        end_time: '2026-10-04T22:47:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        end_time: '2026-10-04T22:43:50+03:00'
+        description: |
+          Klasariparatiisi. "Mikä on Preussin kuningaskunnan pelottavin eläin?" Tämän kysymykset esittää eräs muusikko Fredrik Suuren hoviorkesterissa. Vastaus kuullaan matkalla Huolettomaan . Siellä Fredrik Suuri soittaa huilua.Eva Tigerstedt avaa polkuja musiikkiin.
       - title: 'Uusiutuva tiede: Psykiatria – demoneista ja kahleista avohoitoon'
         start_time: '2026-10-04T22:48:00+03:00'
         end_time: '2026-10-04T23:19:00+03:00'
