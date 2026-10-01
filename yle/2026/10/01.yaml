@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-30T02:23:32.953425+00:00'
+  generated_at: '2026-10-01T02:28:19.919724+00:00'
   git:
     branch: main
-    commit: fd3768ba5621e5081d3d64835e962cd0b514bd10
-  data_hash: d2ca3cbc49c5edfd269e9007d5f8376a181baa743337c34c56b5a4d13958ada2
+    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
+  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
 data:
   '':
     programmes:
@@ -45,7 +45,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-01T06:30:50+03:00'
         end_time: '2026-10-01T06:50:00+03:00'
-        description: |+
+        description: |-
           Tuntematon: Ainoan Herran Jumalan (Lumen Valo ja Markku Hietaharju, positiiviurut).
 
           Kansansävelmä (sov. Miettinen): Täällä Pohjantähden alla (Jorma Hynninen, baritoni, ja Käsikelloyhtye Sonus).
@@ -56,6 +56,7 @@ data:
 
           Lemmel: Käännä katseesi Jeesukseen (Merja Wirkkala, sopraano, ja Pekka Suikkanen, urut).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-10-01T06:50:00+03:00'
         end_time: '2026-10-01T06:59:59+03:00'
@@ -68,7 +69,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-10-01T07:06:00+03:00'
         end_time: '2026-10-01T08:00:00+03:00'
-        description: |+
+        description: |
           Vivaldi: Allegro konsertosta D-duuri (Marion Verbruggen, nokkahuilu, Dennis Godburn, fagotti, Paul Goodwin, oboe, John Holloway, viulu, ja John Toll, cembalo).
 
           Herschel (sov. Briggs): Allegro sinfoniasta n:o 17 C-duuri (Lontoon Mozart-soittajat/Matthias Bamert)
@@ -89,6 +90,7 @@ data:
 
           Suk: Andante con moto serenadista jousille Es-duuri (Orpheus-kamariork.). 
 
+          Juontajana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-01T08:00:00+03:00'
         end_time: '2026-10-01T08:07:00+03:00'
@@ -116,14 +118,14 @@ data:
           Goodman: Pyhämaan Paula (Irwin Goodman).
           Bacharach: Vad världen behöver är kärleken (Sylvia Vrethammar).
 
-          Konsertin on toimittanut Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola. Juontajana on Tuija Kurvinen.
       - title: 'Marko Gustafsson: Käännekohdissa Risto Isomäki'
         start_time: '2026-10-01T10:00:00+03:00'
-        end_time: '2026-10-01T10:53:00+03:00'
+        end_time: '2026-10-01T10:54:00+03:00'
         description: |-
           Kirjailija, ympäristöaktivisti Risto Isomäki arvelee, että jos hän olisi syntynyt myöhemmin niin olisi ehkä saanut kirjoilla diagnoosin. Hän nimittäin oivalsi vasta muutama vuosi sitten, että ei ole ymmärtänyt nuorena ihmisten sosiaalisista tavoista juuri mitään. Hän joutui opettelemaan ja kyselemään ihmisiltä miten kussakin tilanteessa tulisi toimia. Hän kokee että jotakin hyötyä sosiaalisten taitojen puutteesta on myös ollut, hän ei automaattisesti muodosta käsitystä maailmasta sen mukaan miten ympärillä olevat ihmiset ajattelee.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-10-01T10:53:00+03:00'
+        start_time: '2026-10-01T10:54:00+03:00'
         end_time: '2026-10-01T11:00:00+03:00'
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mitä tapahtuu, kun kaikki menee uusiksi?'
         start_time: '2026-10-01T11:00:00+03:00'
@@ -134,7 +136,7 @@ data:
         start_time: '2026-10-01T11:57:00+03:00'
         end_time: '2026-10-01T12:00:00+03:00'
         description: |-
-          Ote Iida Kalakosken ja Riina Sirénin kirjasta Pelastakaa talot! Purkuvimmaa purkamassa, SKS 2026
+          Ote Iida Kalakosken ja Riina Sirénin kirjasta Pelastakaa talot! Purkuvimmaa purkamassa, SKS 2026. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-01T12:00:00+03:00'
         end_time: '2026-10-01T12:05:00+03:00'
@@ -143,9 +145,12 @@ data:
         end_time: '2026-10-01T13:00:00+03:00'
         description: |-
           Saara Turuselle teatteri taidemuotona on outoutta rakastavaa ja normeja hylkivää. Samalla Huonetrilogian näytelmät tekevät normit ja niiden kanssa kamppailun näkyväksi riipaisevalla ja koomisella tavalla, ratkaisuja tarjoamatta. Näytelmät asettuvat osaksi 2000-luvun kertomustodellisuutta, jossa moninaisuus on vahvemmin läsnä, mutta jossa perinteiset käsitykset elämänkulusta, ihmissuhteista ja sukupuolesta elävät edelleen vahvoina. Mitä mieskatseen läpileikkaavuus on saanut aikaan taiteessa ja elämässä? Miten normit ohjaavat toimintaa ja asenteita ja miten niitä ylläpidetään ympäröivässä tekstuaalisessa todellisuudessa? Keskusteluun Marja Vehkasen kanssa omakohtaisiakin kokemuksia tarjoten heittäytyvät kirjailija-ohjaaja Saara Turunen ja Suomen kirjallisuuden yliopistonlehtori, kotimaisen kirjallisuuden dosentti Hanna Samola.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Bensan hinta ja ilmastokriisi'
         start_time: '2026-10-01T13:00:00+03:00'
         end_time: '2026-10-01T13:30:00+03:00'
+        description: |
+          Bensan hinnan lasku voi tulla kalliiksi ilmastolle ja veronmaksajalle.
+          Studiossa tutkimusprofessori Paula Kivimaa Suomen ympäristökeskuksesta, professori Timo Vesala ilmakehätieteiden keskuksesta ja Ilmastopaneelin puheenjohtaja Jyri Seppälä. Toimittajana on Linda Pelkonen. Suora lähetys. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-01T13:30:00+03:00'
         end_time: '2026-10-01T13:35:00+03:00'
@@ -274,7 +279,7 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-10-01T20:00:00+03:00'
         end_time: '2026-10-01T20:57:00+03:00'
-        description: |+
+        description: |-
           Kodály: Wieniläinen kellopeli laulunäyt. Háry János (Chicagon SO/Georg Solti). 
 
           Scheibe: Sinfonia B-duuri (Combattimento Consort Amsterdam/Jan Willem de Vriend).
@@ -287,6 +292,7 @@ data:
 
           Ernst: Fantaisie brillante (Leonidas Kavakos, viulu, ja Peter Nagy, piano).
 
+          Klassisen kattauksen on koonnut Jari Rantschukoff. Juontajana on Tuomas Niemelä. 
       - title: 'Politiikkaradio '
         start_time: '2026-10-01T21:00:00+03:00'
         end_time: '2026-10-01T21:30:00+03:00'
@@ -300,10 +306,10 @@ data:
         end_time: '2026-10-01T22:59:00+03:00'
         description: |-
           Agenttikomedia kahdesta tunarista ja ydinaseesta joka katosi. Jakso 1/8.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Mitä tapahtuu, kun kaikki menee uusiksi?'
         start_time: '2026-10-01T23:01:00+03:00'
         end_time: '2026-10-01T23:57:00+03:00'
-        description: |-
+        description: |
           Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
       - title: Balettimusiikin Yöklassinen
         start_time: '2026-10-02T00:00:00+03:00'

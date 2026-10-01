@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-30T02:23:33.723484+00:00'
+  generated_at: '2026-10-01T02:28:20.513098+00:00'
   git:
     branch: main
-    commit: fd3768ba5621e5081d3d64835e962cd0b514bd10
-  data_hash: d2ca3cbc49c5edfd269e9007d5f8376a181baa743337c34c56b5a4d13958ada2
+    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
+  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
 data:
   '':
     programmes:
@@ -78,7 +78,7 @@ data:
         start_time: '2026-10-04T10:00:00+03:00'
         end_time: '2026-10-04T10:59:20+03:00'
         description: |-
-          Liturgina Eva Rosengrén-Bancsi. Saarnaajana kirkkoherra Juha Itkonen. Kanttorina Sanna Osmala. Urkurina Kaisu Leinonen. Virret: 923; synnintunnustus 704; kiitosrukous 716; 134; 138; 498; 329:1,2,5.
+          Liturgina Eva Rosengrén-Bancsi. Saarnaajana kirkkoherra Juha Itkonen. Kanttorina Sanna Osmala. Urkurina Kaisu Leinonen. Virret: 923; synnintunnustus 704; kiitosrukous 716; 134; 498; 138; 329:1,2,5
       - title: Muistojen bulevardi
         start_time: '2026-10-04T11:00:00+03:00'
         end_time: '2026-10-04T11:59:00+03:00'
@@ -148,7 +148,7 @@ data:
           Ohjelma on vuodelta 2009.
       - title: Musiikkikamari
         start_time: '2026-10-04T15:40:00+03:00'
-        end_time: '2026-10-04T15:55:00+03:00'
+        end_time: '2026-10-04T16:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-10-04T16:00:00+03:00'
         end_time: '2026-10-04T16:07:00+03:00'
@@ -181,12 +181,14 @@ data:
         end_time: '2026-10-04T17:05:00+03:00'
       - title: 'Etnokonsertteja: Dugan raskasta poljentoa Ruotsista'
         start_time: '2026-10-04T17:06:00+03:00'
-        end_time: '2026-10-04T18:00:00+03:00'
+        end_time: '2026-10-04T17:59:52+03:00'
         description: |
           Duga -yhtyeen konsertti Rudolstadtin Schiller-teatterissa 5.7.2026. Dugan musiikissa soi raskas viulupoljento, sampleri ja lyömäsoittimet. Länsi-Göötanmaalta kotoisin olevat Olof Kennemark (s. 1994) ja Albin Broberg (s. 1993) ovat musisoineet yhdessä teini-iästä lähtien. Kennemark soittaa resonoivaa viola d´amorea ja Broberg mora-oudia ja sämpleriä. Ahvenanmaalta kotoisin oleva Anton Johansson soittaa lyömäsoittimia ja elektroniikkaa. Ohjelmassa alussa kuullaan Albin Brobergin haastattelu. Toimittajana on Miika Lauriala. 
-      - title: Jazzklubi
+      - title: 'Jazzklubi: Reiska Laine: "Laukomaan voi oppia yksin, syöttämistä ei"'
         start_time: '2026-10-04T18:00:30+03:00'
         end_time: '2026-10-04T19:00:00+03:00'
+        description: |-
+          Jazzklubin vieraana on 80-vuotias konkari, rumpali ja jazz-vaikuttaja Reiska Laine. Toimittajina Laura Korhonen ja Eero Koski. 
       - title: Yle Uutiset ja sää
         start_time: '2026-10-04T19:00:00+03:00'
         end_time: '2026-10-04T19:02:05+03:00'
@@ -216,11 +218,12 @@ data:
         end_time: '2026-10-04T23:19:00+03:00'
         description: |-
           Psyykkisiin sairauksiin suhtauduttiin julman taikauskoisesti vuosisatojen ajan. Niiden ajateltiin johtuvan esimerkiksi demonien riivauksista. Potilaita hoidettiin mm. manauksella, kahleilla ja polttamalla roviolla. Vielä 1900-luvullakin mielenterveyspotilailta revittiin hampaita, heitä vaivutettiin koomaan ja sidottiin pitkiksi ajoiksi ammeisiin kylmään tai kuumaan veteen. Lobotomioita tehtiin Suomessa aina 1970-luvulle asti. Millaisia vaiheita ja ajatuksia on liittynyt mielenterveyshäiriöihin? Mitkä ovat puolestaan olleet tärkeimpiä edistysaskeleita niiden hoidossa? Haastateltavana Tiina Paunio, joka on psykiatrian professori Helsingin yliopistossa ja Husin psykiatrian ylilääkäri. Toimittajana Samppa Korhonen.
-      - title: Romano mirits
-        start_time: '2026-10-04T23:26:00+03:00'
-        end_time: '2026-10-04T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+      - title: 'Romano mirits:  Anita Lindgren – Romaninaisten ääntä ja osallisuutta vahvistamassa'
+        start_time: '2026-10-04T23:24:07+03:00'
+        end_time: '2026-10-04T23:39:03+03:00'
+        description: |+
+          Miten romaninaisten ääntä ja osallisuutta vahvistetaan yhteiskunnassa? Tämänkertaisessa Romano Miritsissä vieraana on asiantuntija Anita Lindgren Diakin ja Ami-säätiön Naisten vuoro -hankkeesta. Inspiroivassa haastattelussa pureudutaan romaninaisten yhdenvertaisuuteen sekä siihen, miten ryhmätoiminta, vertaistuki ja työelämään tutustuminen ovat siivittäneet naisia eteenpäin. Keskustelu osoittaa, että kun romaninaisille annetaan mahdollisuus kehittää osaamistaan ja vaikuttaa, koko yhteiskunta voittaa.Toimittajana Dimitri Grönfors.
+
       - title: Yöklassinen
         start_time: '2026-10-04T23:40:00+03:00'
         end_time: '2026-10-05T06:30:00+03:00'

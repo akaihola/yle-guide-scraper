@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-09-30T02:23:35.195971+00:00'
+  generated_at: '2026-10-01T02:28:21.532345+00:00'
   git:
     branch: main
-    commit: fd3768ba5621e5081d3d64835e962cd0b514bd10
-  data_hash: d2ca3cbc49c5edfd269e9007d5f8376a181baa743337c34c56b5a4d13958ada2
+    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
+  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
 data:
   '':
     programmes:
@@ -50,8 +50,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-10-09T06:50:00+03:00'
         end_time: '2026-10-09T06:59:59+03:00'
-        description: |-
-          Pappi, kirkkotila-asiantuntija Mika K T Pajunen, Sastamala
+        description: |
+          "Sinä et ole kaukana Jumalan valtakunnasta"
+          Pappi, kirkkotila-asiantuntija Mika K T Pajunen Sastamalasta lukee Viidennestä Mooseksen kirjasta ja Markuksen evankeliumista johdattaen uskontunnustukseen ja rukoukseen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-09T07:00:00+03:00'
         end_time: '2026-10-09T07:05:00+03:00'
@@ -231,7 +232,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-09T17:30:00+03:00'
         end_time: '2026-10-09T17:35:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: Risto Vuorimies aka Papá Montero kuvaaja ja musiikkitoimittaja.
         start_time: '2026-10-09T17:35:00+03:00'
         end_time: '2026-10-09T18:30:00+03:00'
         description: |-
@@ -261,16 +262,32 @@ data:
       - title: Aitiovieras
         start_time: '2026-10-09T21:31:00+03:00'
         end_time: '2026-10-09T21:55:00+03:00'
-      - title: Sari Valto
+      - title: 'Sari Valto: Ota oma tarinasi haltuun kirjoittamalla'
         start_time: '2026-10-09T21:55:00+03:00'
         end_time: '2026-10-09T22:50:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Eliades Ochoa, Aynur ja Wardruna" – syksyn konserttivinkit Keitaalla'
         start_time: '2026-10-09T22:51:00+03:00'
         end_time: '2026-10-09T23:39:00+03:00'
         description: |-
-          Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
+          Tuuli Saksalan Keitaalla haarukoidaan syksyn kiinnostavaa konserttitarjontaa – luvassa on vieraita ympäri maailman, Turkista Kuubaan ja Kongosta Maliin.
+
+          Ohjelmassa kuullaan kuubalaisen musiikin legenda Eliades Ochoa, joka juhlii 80-vuotissyntymäpäiviään livekiertueella ja saapuu Suomeen Fiesta de Cuba -tapahtumaan lokakuun lopulla. Ranskalainen Kolinga tuo mukanaan kongolaisjuurista popia ja rumbaa. Kuubalaisen musiikin uusi tähti Ana Carla Maza ja perinteitä uudistava Elio Revé y su Charangón täydentävät latinalaisamerikkalaista tarjontaa.
+
+          Etnosoi!-festivaalin kunniaksi kuullaan kurdilaista laulua ja Turkin sensuroimaa hittiä esittävä Aynur sekä suomalais-latinalaista harmonikkamusiikkia tekevä Saarenkylä-yhtye, joka juhlistaa uutta Island Village -albumiaan. Norjalainen Wardruna vie kuulijat viikinkiaikaan muinaisilla soittimilla ja luonnon äänillä täydennettynä.
+
+          Lopuksi vinkataan Yle Areenan Etnokonsertteihin, joista tällä viikolla kuultavana on puolalaisen WoWakinin livekonsertti.
+
+          Eliades Ochoa – All Along the Watchtower
+          Kolinga – Kongo
+          Songhoy Blues – Soubour
+          Ana Carla Maza – Cha cha cha
+          Elio Revé – Rumba Caliente
+          Aynur – Kece Kurdan
+          Saarenkylä – Katastrofi
+          Wardruna – Gra
+          WoWakin – Rutka
       - title: Yöklassinen
         start_time: '2026-10-09T23:40:00+03:00'
         end_time: '2026-10-10T07:30:00+03:00'
