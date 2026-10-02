@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-01T02:28:21.732578+00:00'
+  generated_at: '2026-10-02T02:21:43.123026+00:00'
   git:
     branch: main
-    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
-  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
+    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
+  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
 data:
   '':
     programmes:
@@ -51,6 +51,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-10T08:05:00+03:00'
         end_time: '2026-10-10T08:25:00+03:00'
+        description: |+
+          Anonyymi: Yö synkkä on jo hälvennyt (virsi 541) (Aarne Pelkonen, baritoni, ja Juho Alakärppä, piano).
+
+          Simojoki (sov. Nikula): Taivaan Isä suojan antaa (virsi 503) (Nuorisokuoro Sympaatti/Pekka Nikula, kitara, ja Maria Rossi, huilu).
+
+          Löytty: Kahden maan kansalainen (Herännäisnuorten kuoro/Samuli Korkalainen, ja Anna Hietala, viulu).
+
+          Tuntematon: Kaunis aamuaurinkomme (Kajaanin rauhanyhdistyksen seurakansa sekä Ossi Säily, urut).
+
+          Koraalitoisinto: Jo varhain Herra annoit (Pyhännän kappeliseurakunnan nuorisokuoro/Veijo Kinnunen).
+
       - title: Aamuhartaus
         start_time: '2026-10-10T08:25:00+03:00'
         end_time: '2026-10-10T08:35:00+03:00'
@@ -90,7 +101,7 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-10-10T10:00:00+03:00'
         end_time: '2026-10-10T10:25:00+03:00'
-      - title: Oikeushistoria – miehet mestatiin, naiset hukuttiin
+      - title: 'Uusiutuva tiede: Oikeushistoria – miehet mestattiin, naiset hukutettiin'
         start_time: '2026-10-10T10:25:00+03:00'
         end_time: '2026-10-10T10:55:00+03:00'
         description: |-
@@ -111,7 +122,7 @@ data:
       - title: Maailma tarinoina
         start_time: '2026-10-10T12:05:00+03:00'
         end_time: '2026-10-10T13:00:00+03:00'
-      - title: Risto Vuorimies aka Papá Montero kuvaaja ja musiikkitoimittaja.
+      - title: 'Näistä levyistä en luovu: Risto Vuorimies aka Papá Montero kuvaaja ja musiikkitoimittaja'
         start_time: '2026-10-10T13:00:00+03:00'
         end_time: '2026-10-10T13:55:00+03:00'
         description: |-
@@ -129,7 +140,7 @@ data:
         end_time: '2026-10-10T15:00:00+03:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: 'Kansallisen turvallisuuden virasto: Koodinimi Peikko'
+      - title: 'Viihdekuunnelma: Kansallisen turvallisuuden virasto: Koodinimi Peikko'
         start_time: '2026-10-10T15:00:00+03:00'
         end_time: '2026-10-10T15:25:00+03:00'
         description: |-
@@ -140,9 +151,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-10T15:25:00+03:00'
         end_time: '2026-10-10T15:30:00+03:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Aleksis Kiven Seitsemän veljeksen kieltä moitittiin jo ilmestyessään toisaalta kansanomaiseksi, toisaalta vanhahtavan raamatulliseksi '
         start_time: '2026-10-10T15:30:00+03:00'
         end_time: '2026-10-10T15:55:00+03:00'
+        description: |
+          Pasi Heikura perehtyy Aleksis Kiven Seitsemän veljestä -teoksen ylistetyn kielen syntyyn oppaanaan dosentti Petri Lauerma. Ohjelmassa selvitetään myös, miten käy, jos kaivaa kuoppa itsensä alta, tai heittää työkaverin kölin alle. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-10T15:55:00+03:00'
         end_time: '2026-10-10T16:00:00+03:00'
@@ -202,7 +215,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-10T19:00:00+03:00'
         end_time: '2026-10-10T19:02:00+03:00'
-      - title: Minkä laulutekstin haluaisit kuulla?
+      - title: 'Tämän runon haluaisin kuulla: Minkä laulutekstin haluaisit kuulla?'
         start_time: '2026-10-10T19:02:00+03:00'
         end_time: '2026-10-10T21:00:00+03:00'
         description: |-

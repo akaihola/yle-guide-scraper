@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-01T02:28:20.717437+00:00'
+  generated_at: '2026-10-02T02:21:40.719568+00:00'
   git:
     branch: main
-    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
-  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
+    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
+  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
 data:
   '':
     programmes:
@@ -132,7 +132,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T10:50:00+03:00'
         end_time: '2026-10-05T11:00:00+03:00'
-      - title: Välilevyjä - Kare Eskola
+      - title: 'Välilevyjä: Taltiointi on väärentämistä!'
         start_time: '2026-10-05T11:00:00+03:00'
         end_time: '2026-10-05T11:57:00+03:00'
         description: |-
@@ -161,7 +161,7 @@ data:
         end_time: '2026-10-05T13:35:00+03:00'
         description: |2+
 
-      - title: 'Aitiovieras: Kuvataiteilija Kari Puikkonen teki sarjakuvakirjan mykkkäelokuvasta'
+      - title: 'Aitiovieras: Kuvataiteilija Kari Puikkonen teki sarjakuvakirjan mykkäelokuvasta'
         start_time: '2026-10-05T13:35:00+03:00'
         end_time: '2026-10-05T14:00:00+03:00'
         description: |2-
@@ -170,7 +170,9 @@ data:
         start_time: '2026-10-05T14:00:00+03:00'
         end_time: '2026-10-05T15:00:00+03:00'
         description: |+
-          Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+          Juontajana Jarmo Laitaneva. Lähde mukaan musiikin maailmankiertueelle. 
+          Lähetyksessä mukana myös kurkistuksia kulttuurielämyksiin.
+
 
 
           Young: Street of dreams (Joey DeFrancesco, sähköurut, ja Joe Doggs, laulu).
@@ -195,10 +197,18 @@ data:
 
           Porter: What is this thing called love (Willie Nelson).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Krista Mikkolan elämäkerta, galleristina Suomessa ja Ranskassa'
         start_time: '2026-10-05T15:00:00+03:00'
         end_time: '2026-10-05T15:58:00+03:00'
         description: |-
+          Madame Krista Mikkola -teos avaa galleristin näkemykset taiteesta, tyylistä ja kaupunki- ja ruokakulttuurista Helsingissä ja Pariisissa.
+          Krista Mikkola on Suomen tunnetuin galleristi, taidehistorioitsija ja kaupunkikulttuurin kehittäjä. Kansainväliset tähdet David Bowiesta Marguerite Duras’n kuuluivat Mikkolan ystäväpiiriin. Millaisia oivalluksia hän on saanut eurooppalaisesta taide-elämästä 1980-luvulla? Millä tavalla Välimeren biennalen entinen presidentti auttaa yhä nuoria taiteilijoita eteenpäin urallaan? Millaisia neuvoja hän antaa suomalaisen taide-elämän virkistämiseksi? Millaista taidetta hänellä on kotona omilla seinillään?
+
+          Ohjelman vieraina ovat galleristi Krista Mikkola ja kirjailija Lamppu Laamanen.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-05T16:00:00+03:00'

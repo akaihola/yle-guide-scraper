@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-01T02:28:22.763654+00:00'
+  generated_at: '2026-10-02T02:21:44.860046+00:00'
   git:
     branch: main
-    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
-  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
+    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
+  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
 data:
   '':
     programmes:
@@ -58,9 +58,11 @@ data:
           Cooke: A change is gonna come (Sam Cooke).
 
           Konsertin on toimittanut Susanna Vainiola.
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Käännekohdissa Ile Kallio'
         start_time: '2026-10-15T10:00:00+03:00'
         end_time: '2026-10-15T10:53:00+03:00'
+        description: |
+          “Musiikilla on vastustamaton voima. Se tulee ihmisen sisälle, halusi ihminen sitä tai ei”,  toteaa legendaarisen Hurriganes-yhtyeen kitaristi Ile Kallio.  Ile oli vasta 16-vuotias kun Remu Aaltonen pyysi hänet yhtyeeseen. “Olin vielä silloin liian nuori siihen touhuun, mutta sitten kun Remu pyysi kolmen vuoden kuluttua uudelleen olin jo niin sanotusti valmis, vaikka valmishan ihminen ei ole koskaan”, Ile naurahtaa. Ohjelma on uusinta ajalta 7.5.2026.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-15T10:53:00+03:00'
         end_time: '2026-10-15T11:00:00+03:00'
@@ -89,11 +91,35 @@ data:
         end_time: '2026-10-15T14:00:00+03:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Kuiskaus'
         start_time: '2026-10-15T14:00:00+03:00'
         end_time: '2026-10-15T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Lassy, James: The More I look at you (Timo Lassy, Jose James, Jukka Eskola, Ari Jokelainen, Mikko Mustonen, Jorgos Kontrafuris, Antti Lötjönen, Teppo Mäkynen, Abdissa Assefa).
+
+          Neuza: Djar fogo.
+
+          Oliver: When will you call (Terence Blanchard, Bilal, Walter Smith, Lionel Loueke, Fabian Almazan, Derrick Hodge ja Kendrick Scott).
+
+          Nubya Garcia feat. La Perla: La cumbia me está llamando.
+
+          Sally Nyolo: Djine.
+
+          Tammela: Kell' onni on (Juurakko).
+
+          Mirkka ja Luis: Kuraa, kuraa, kuraa!
+
+          Johanna Juhola: A brighter future.
+
+          Vatn Ström: Blundende öyne (Aevestaden). 
+
+          Timonen: Kuiskaus (Vilma Timonen Quartet).
+
+          Styne: I'm the greatest star (Emma Smith).
+
       - title: Kulttuuriykkönen
         start_time: '2026-10-15T15:00:00+03:00'
         end_time: '2026-10-15T15:58:00+03:00'
@@ -154,7 +180,8 @@ data:
         start_time: '2026-10-15T18:50:00+03:00'
         end_time: '2026-10-15T19:00:00+03:00'
         description: |-
-          Vanhempi yliopistonlehtori, pappi Raimo Hakola, Jämsä
+          "Urheilusankareita ja ristin luusereita"
+          Vanhempi yliopistonlehtori, pappi Raimo Hakola Jämsästä puhuu voiman ja menestyksen sekä huippu-urheilusta lainattujen vertauskuvien ongelmallisesta liittämisestä Jumalan apuun.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-15T19:00:00+03:00'
         end_time: '2026-10-15T19:02:00+03:00'
@@ -187,7 +214,7 @@ data:
       - title: Tosi tarina
         start_time: '2026-10-15T21:31:00+03:00'
         end_time: '2026-10-15T22:20:00+03:00'
-      - title: 'Kansallisen turvallisuuden virasto: Koodinimi Peikko'
+      - title: 'Viihdekuunnelma: Kansallisen turvallisuuden virasto: Koodinimi Peikko'
         start_time: '2026-10-15T22:31:00+03:00'
         end_time: '2026-10-15T22:59:00+03:00'
         description: |-
@@ -200,5 +227,35 @@ data:
       - title: Yöklassinen
         start_time: '2026-10-16T00:00:00+03:00'
         end_time: '2026-10-16T06:30:00+03:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Literes: Acis y Galatea, zarzuela (Lola Casariego, mezzosopraano, Marta Almajano, sopraano, Xenia Meijer, mezzosopraano, María Luz Álvarez, sopraano, Marina Pardo, mezzosopraano, ja Jordi Ricart, baritoni, sekä Al Ayre Español/Eduardo López Banzo).
+
+          01:01 Reinecke: Kolme kappaletta sellolle ja pianolle (Martin Rummel ja Roland Krüger).
+
+          01:14 Musorgski: Pimenin monologi, Pimenin kertomus ja Varlaamin laulu oopp. Boris Godunov (Pjotr Gluboki, basso, ja Neuvostoliiton valtion elokuvaork./Emin Hatshaturjan).
+
+          01:26 Bonporti: Konsertto F-duuri (Bloomington Baroque/Stanley Ritchie).
+
+          01:38 Beethoven: Sinfonia n:o 2 D-duuri (Minnesotan ork./Osmo Vänskä).
+
+          02:12 Netzel: Pianosonaatti Es-duuri (Lucia Negro).
+
+          02:32 Prokofjev: Viulukonsertto n:o 2 g-molli (David Oistrah ja Philharmonia-ork./Alceo Galliera).
+
+          03:00 Weber: Muunnelmia B-duuri oopp. Silvana teemasta (Jon Manasse, klarinetti, ja Samuel Sanders, piano).
+
+          03:17 J. Haydn: Sinfonia n:o 101 (Kello) (Wienin filharmonikot/Pierre Monteux).
+
+          03:44 Korngold: Jousikvartetto n:o 1 A-duuri (Aron-kvartetti).
+
+          04:13 Crusell: Sinfonia concertante B-duuri (Reijo Koskinen, klarinetti, Esa Tukia, käyrätorvi, Pekka Katajamäki, fagotti, ja RSO/Jukka-Pekka Saraste). 
+
+          04:41 Janácek: Jousikvartetto n:o 2 (Intiimejä kirjeitä) (Belcea-kvartetti).
+
+          05:09 Sor: Divertimento kahdelle kitaralle E-duuri (Rohkaisu) (Julian Bream ja John Williams).
+
+          05:24 J.S. Bach: Partita klaveerille n:o 1 B-duuri (Dinu Lipatti, piano).
+
+          05:43 Schütz: Schwanengesang I (Werner Marschall ja Jochen Kowalski, kontratenori, Berliinin radion lapsikuoro, Berliner Solisten -vokaaliyhtye sekä Dresdenin Capella Sagittariana -yhtye/Dietrich Knothe).
+
+...

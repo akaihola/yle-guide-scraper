@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-01T02:28:22.565523+00:00'
+  generated_at: '2026-10-02T02:21:44.670702+00:00'
   git:
     branch: main
-    commit: 71214de613bc3ce808e5e3476141a2c004c59c3a
-  data_hash: 2d1615eb4d3e54e4b23644c4b7d749e0ed7de997061de8a3c016434d10a69b93
+    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
+  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
 data:
   '':
     programmes:
@@ -11,7 +11,41 @@ data:
         start_time: '2026-10-13T23:40:00+03:00'
         end_time: '2026-10-14T06:30:00+03:00'
         description: |-
-          Klassista musiikkia.
+          Molter: Trumpettikonsertto n:o 1 D-duuri (Hans-Martin Rux, luonnontrumpetti, ja Main-Barockorchester Frankfurt/Martin Jopp, viulu).
+           
+          23:51 Saint-Saëns: Fantasia orkesterille bal. Javotte (Monte Carlon FO/David Robertson).
+           
+          00:13 Lalo: Pianotrio n:o 1 c-molli. (Trio Salomon).
+           
+          00:35 Cimarosa: Il Maestro di cappella (Kapellimestari) (Fernando Corena, basso, ja Covent Garden -oopperan ork./Argeo Quadri).
+           
+          00:54 J. Haydn: Teema ja muunnelmia pianolle f-molli (Ingrid Haebler).
+           
+          01:02 Chaplin: Bombay (Kalevi Kiviniemi, urut).
+           
+          01:05 Pleyel: Sinfonia concertante A-duuri (David Perry ja Isabella Lippi, viulu, ja Baltimoren kamariork./Markand Thakar).
+           
+          01:34 Franchomme & Chopin: Grand duo concertant Meyerbeerin oopp. Robert Paholainen temoista (Anner Bylsma, sello, ja Lambert Orkis, fortepiano). 
+           
+          01:47 Shostakovitsh: Jousikvartetto n:o 14 Fis-duuri (Emerson-kvartetti).
+           
+          02:13 Lanner: Maria-valssi (Willi Boskovsky -yhtye).
+           
+          02:22 Schumann: Fünf Lieder (viisi yksinlaulua) Op. 40 (Peter Schreier, tenori, ja Christoph Eschenbach, piano).
+           
+          02:34 O. Kozlovski: Alkusoitto näytelmämus. Esfir (Esther) (Neuvostoliiton radion suuri SO/Vladimir Jesipov).
+           
+          02:45 Beethoven: Jousikvartetto n:o 3 D-duuri ja n:o 4 c-molli op.18 (Guarneri-kvartetti).
+           
+          03:37 J.S. Bach: Sonaatit huilulle ja continuolle n:o 1 C-duuri, n:o 2 g-molli ja n:o 3 F-duuri (Michala Petri, nokkahuilu, ja Keith Jarrett, cembalo).
+           
+          04:11 de Lalande: Deitatis majestatem (Majesteettinen jumaluus) (Emmanuelle De Negri, sopraano, Dagmar Sasková, sopraano, Sean Clayton, kontratenori, Cyril Auvity, tenori, ja Andre Morsch, basso, sekä Ensemble Aedes ja Le Poème Harmonique/Vincent Dumestre).
+           
+          04:38 Telemann: Sonaatti oboelle ja continuolle B-duuri (Battalia).
+           
+          04:52 Buxtehude: Das jüngste Gericht, osia (Ulrike Hofbauer, sopraano, Monika Mauch, sopraano, Margret Hunter. sopraano, Henning Voss, kontratenori, Hans Jörg Mammel, tenori, Harry van der Kamp, basso, Olaf Tetampel, basso, ja Jörg Jacobi, basso, sekä Weser-Renaissance Bremen/Manfred Cordes).
+           
+          06:12 J.S. Bach: Brandenburgilainen konsertto n:o 6 B-duuri (Bach-Collegium Japan/Masaaki Suzuki).
       - title: Hartaita säveliä
         start_time: '2026-10-14T06:30:50+03:00'
         end_time: '2026-10-14T06:50:00+03:00'
@@ -63,6 +97,24 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-14T09:04:00+03:00'
         end_time: '2026-10-14T09:59:00+03:00'
+        description: |-
+          Hoffman: Heartaches (Ted Weems).
+          Lehtinen: Yksin (Marjatta Leppänen).
+          Lecuona: Siboney (Veikko Tuomi). 
+          Sherman: Winnie The Pooh (Disney Chorus).
+          Kosma: En stjärna föll (Nora Brockstedt).
+          Jones: It had to be you (Lunceford Quartet).
+          Pinto: Maldicao (Amalia Rodrigues).
+          Abreu: Tico tico (Charlie Parker).
+          Warren: Särkyneen toiveen katu (Seija Karpiomaa).
+          Taccani: Chella lla (Teddy Reno).
+          Rainger: Easy living (Billie Holiday).
+          Jurva: Kaunis Veera eli Balladi Saimaalta (Kipparikvartetti).
+          Schallies: Een Beetje (Teddy Scholten).
+          Kansanlaulu: Tuomen juurella (Punainen Lanka).
+          Wonder: Pastime paradise (Stevie Wonder).
+
+          Konsertin laati Tuuli Saksala.
       - title: 'Havaintoja muutoksesta: Täydellisyyden harha'
         start_time: '2026-10-14T10:00:00+03:00'
         end_time: '2026-10-14T10:50:00+03:00'
@@ -96,6 +148,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-14T12:00:00+03:00'
         end_time: '2026-10-14T12:05:00+03:00'
+      - title: 'Sukuni murhamysteeri K4J5: Arseeni, radioaktiivinen polonium ja psykoase'
+        start_time: '2026-10-14T12:05:00+03:00'
+        end_time: '2026-10-14T12:40:00+03:00'
+        description: |-
+          Useita Neuvostoliittoon kohdistuneen tiedustelumme johtohahmoja on kuollut epäilyttävästi. Olisiko mahdollista, että itänaapurimme on järjestelmällisesti salamurhannut tiedustelu-upseereitamme yksi toisensa jälkeen?
+          Sarjan kaikki neljä tuotantokautta ovat kuunneltavissa Yle Areenassa.
       - title: Musiikkikamari
         start_time: '2026-10-14T12:40:00+03:00'
         end_time: '2026-10-14T13:00:00+03:00'
