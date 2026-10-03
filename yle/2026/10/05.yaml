@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-02T02:21:40.719568+00:00'
+  generated_at: '2026-10-03T02:20:01.267870+00:00'
   git:
     branch: main
-    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
-  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
+    commit: 71ab09f131e4242fba2b0ccc845d201a63348a44
+  data_hash: 4107b829e48ba4281e8bb5c2ac9dfe961b3898fc7a8960e4e05bbdb494f7731a
 data:
   '':
     programmes:
@@ -153,9 +153,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T12:40:00+03:00'
         end_time: '2026-10-05T13:00:00+03:00'
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kansanedustajien koteihin tunkeuduttu'
         start_time: '2026-10-05T13:00:00+03:00'
         end_time: '2026-10-05T13:30:00+03:00'
+        description: |-
+          Miten poikkeuksellista on, että kansanedustajien koteihin tunkeudutaan? Keskustelemassa entinen ulkoministeri Timo Soini ja turvallisuuspolitiikan asiantuntija Henri Vanhanen. Toimittajana on Linda Pelkonen. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T13:30:00+03:00'
         end_time: '2026-10-05T13:35:00+03:00'
@@ -249,7 +251,7 @@ data:
         start_time: '2026-10-05T17:05:00+03:00'
         end_time: '2026-10-05T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Kotioppijien määrä on kasvanut viime vuosina. Samaan aikaan Suojelupoliisi on varoittaa kotikoulujen valvonnan puutteista ja ääriajattelun riskistä. Miksi kotikoulujen suosio kasvaa? Ja ovatko ne todella vaarallisia? Uhkaako kotikoulu lapsen oikeuksia. Atte Uusinokan haastateltavana on MOT:n toimittaja Sara Hussein.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-05T17:30:00+03:00'
         end_time: '2026-10-05T17:35:00+03:00'
@@ -288,11 +290,18 @@ data:
           Helsingin Töölössä sijaitsee Lallukan taiteilijakoti. Sen syntysanat lausuivat ja talon toiminnan rahoittivat karjalalaiset Juho ja Maria Lallukka. Ensimmäiset asukkaat taloon muuttivat vuonna 1933. Tässä dokumentissa ollaan kylässä Lallukassa, kuullaan sen asukkaita ja kuulostellaan talon henkeä. Aikana jolloin poliittinen toiminta pitkälti köyhdyttää kulttuurielämää, Lallukka on kuin keidas erämaassa. Mutta minkälaista se taiteiijaelämä tässä talossa sitten on? Käsikirjoitus, ohjaus ja äänisuunnittelu: Hanna-Helena Kinnunen.
       - title: 'Hyviä aikeita 5: Koiran elämää  '
         start_time: '2026-10-05T20:10:00+03:00'
-        end_time: '2026-10-05T20:50:00+03:00'
+        end_time: '2026-10-05T20:46:00+03:00'
         description: |
           Kodittomalle koiralle adoptio Suomeen on lottovoitto. Aina kaikki ei kuitenkaan mene odotusten mukaan, vaan sopeutuminen voi olla yllättävän vaikeaa. Sarjan lopussa virolaisen koirien suojakodin edustaja vastaa puhelimeen. 
+      - title: 'Maailman tärkein pieni asia: Jari Karppinen on viettänyt ison osan elämästään jalkapallokatsomossa'
+        start_time: '2026-10-05T20:40:00+03:00'
+        end_time: '2026-10-05T21:00:00+03:00'
+        description: |-
+          Jalkapallon yhteisöllisyys vetää puoleensa lahtelaista Jari Karppista. Hän on 30 vuoden ajan käynyt katsomassa kaikki "oman" seuransa FC Lahden ottelut. Myös maajoukkueen pelejä sekä EM- ja MM- kisoja on mies kiertänyt katsomassa vuosikymmenten aikana
+
+          Jalkapallomiehen tapasi Maija Salminen. 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-10-05T20:55:00+03:00'
+        start_time: '2026-10-05T20:46:00+03:00'
         end_time: '2026-10-05T21:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-10-05T21:00:00+03:00'

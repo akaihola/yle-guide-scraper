@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-02T02:21:39.234005+00:00'
+  generated_at: '2026-10-03T02:20:00.860600+00:00'
   git:
     branch: main
-    commit: 9f689c0a33949c57c8133d63caa8a015edc5fa76
-  data_hash: e08d1b847dc035f279fdb0f7aed6260b223ed81e890ddafc53b1605f30f620f9
+    commit: 71ab09f131e4242fba2b0ccc845d201a63348a44
+  data_hash: 4107b829e48ba4281e8bb5c2ac9dfe961b3898fc7a8960e4e05bbdb494f7731a
 data:
   '':
     programmes:
@@ -45,15 +45,21 @@ data:
         end_time: '2026-10-04T07:53:37+03:00'
         description: |
           Klasariparatiisi. "Mikä on Preussin kuningaskunnan pelottavin eläin?" Tämän kysymykset esittää eräs muusikko Fredrik Suuren hoviorkesterissa. Vastaus kuullaan matkalla Huolettomaan . Siellä Fredrik Suuri soittaa huilua.Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Radio 1 soi
+        start_time: '2026-10-04T07:53:37+03:00'
+        end_time: '2026-10-04T08:00:00+03:00'
+        description: |+
+          Saint-Saëns: Tarantelle (Petri Alanko, huilu, Reijo Koskinen, klarinetti, sekä RSO/Sakari Oramo).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-04T08:00:00+03:00'
         end_time: '2026-10-04T08:05:05+03:00'
       - title: Narrin aamulaulu - Matti Hyökki, 60 vuotta täyttä törinää kuorokulttuurin kentällä
-        start_time: '2026-10-04T08:05:35+03:00'
-        end_time: '2026-10-04T08:59:00+03:00'
-        description: |+
+        start_time: '2026-10-04T08:05:23+03:00'
+        end_time: '2026-10-04T08:59:45+03:00'
+        description: |-
           Maamme kuoroelämä näyttäisi kovin toisenlaiselta ilman emeritusprofessori Matti Hyökin mittavaa panosta. Kunnianhimoinen työ kuorokulttuurin hyväksi on kuulunut hänen johtamissaan kuoroissa, kuten YL:ssä ja Laulu-Miehissä. Laajat levytyshankkeet ovat luoneet mieskuorolaulun kansallisgallerian, joka on täydentynyt parilla sadalla sävellystilauksilla. Hyökki sai myös ensimmäisenä Sibelius-Akatemian kuoronjohdon lehtorina organisoitavakseen kuoronjohtajien koulutuksen. 
-
+          Matti Hyökkiä haastattelee Outi Paananen. 
       - title: 'Yle Uutiset '
         start_time: '2026-10-04T09:00:00+03:00'
         end_time: '2026-10-04T09:03:00+03:00'
@@ -134,11 +140,11 @@ data:
           Kanerva: Bright white light (Markku Kanerva, Seppo Kantonen, Lauri Porra, Anssi Nykänen). 
 
           Konsertin on toimittanut Miika Lauriala. 
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Auli Viitala: Sosiaali­turvamme on diagnoosien varassa, nyt niitä kyseen­alaistetaan'
         start_time: '2026-10-04T14:55:00+03:00'
         end_time: '2026-10-04T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          On hyväntahtoinen mutta ikävä kyllä väärä ajatus, että psykiatrisista diagnooseista voitaisiin siirtyä oireiden mukaiseen hoitoon, toteaa vapaa kirjoittaja Auli Viitala.
       - title: 'Kuunnelman tiet 2/12: Toiston ja jatkuvuuden voima'
         start_time: '2026-10-04T15:00:00+03:00'
         end_time: '2026-10-04T15:40:00+03:00'
@@ -193,7 +199,7 @@ data:
         start_time: '2026-10-04T19:00:00+03:00'
         end_time: '2026-10-04T19:02:05+03:00'
       - title: 'Jazzklubin viikon keikka: The Bad Plus Potter Taborn Cully Jazz Festivalilla.'
-        start_time: '2026-10-04T19:02:30+03:00'
+        start_time: '2026-10-04T19:02:05+03:00'
         end_time: '2026-10-04T20:00:00+03:00'
         description: |-
           The Bad Plus Potter Taborn Cully Jazz Festivalilla. Äänitetty Sveitsin Cullyssa 11.4.2026.
@@ -208,20 +214,26 @@ data:
         description: |-
           Hirmuteot ajatellaan usein historiassa tapahtuneiksi ihmisen harha-askeleiksi, mutta todistamme niitä nytkin. Miksi käännämme katseen pois, emmekä tee mitään? Tätä pohtii tutkija ja tietokirjailija Timo R. Stewart uudessa Gazan sotaa käsittelevässä kirjassaan. Haastattelijana Reetta Rönkä.
       - title: 'Aitiovieras: Petri Liski -  Näyttelijä, muusikko, ohjaaja ja Hessu Hopon äänenä 38 vuotta'
-        start_time: '2026-10-04T21:25:00+03:00'
-        end_time: '2026-10-04T21:50:00+03:00'
+        start_time: '2026-10-04T21:25:35+03:00'
+        end_time: '2026-10-04T21:50:10+03:00'
         description: |2-
            Petri Liski on työteliäs mies. Hänen päätyönsä on Kansallisteatterissa, mutta sen lisäksi hän näyttelee ääninäyttelijänä, vierailee muiden teatteritalojen tuotannoissa, toimii muusikkona ja orkesterinjohtajana, ohjaa harrastajanäyttämöillä ja on mukana järjestöissä. Tuorein Liskin töistä on Kansallisteatterin Orvot-näytelmän Harold. Hän jatkaa tänä syksynä myös Toinen tasavalta -esityksessä. Miia Lahti haastattelee Petri Liskiä.
       - title: 'Klasariparatiisi: Matka Huolettomaan'
-        start_time: '2026-10-04T21:51:00+03:00'
-        end_time: '2026-10-04T22:43:50+03:00'
+        start_time: '2026-10-04T21:51:02+03:00'
+        end_time: '2026-10-04T22:43:52+03:00'
         description: |
           Klasariparatiisi. "Mikä on Preussin kuningaskunnan pelottavin eläin?" Tämän kysymykset esittää eräs muusikko Fredrik Suuren hoviorkesterissa. Vastaus kuullaan matkalla Huolettomaan . Siellä Fredrik Suuri soittaa huilua.Eva Tigerstedt avaa polkuja musiikkiin.
       - title: 'Uusiutuva tiede: Psykiatria – demoneista ja kahleista avohoitoon'
-        start_time: '2026-10-04T22:48:00+03:00'
-        end_time: '2026-10-04T23:19:00+03:00'
+        start_time: '2026-10-04T22:44:38+03:00'
+        end_time: '2026-10-04T23:13:23+03:00'
         description: |-
           Psyykkisiin sairauksiin suhtauduttiin julman taikauskoisesti vuosisatojen ajan. Niiden ajateltiin johtuvan esimerkiksi demonien riivauksista. Potilaita hoidettiin mm. manauksella, kahleilla ja polttamalla roviolla. Vielä 1900-luvullakin mielenterveyspotilailta revittiin hampaita, heitä vaivutettiin koomaan ja sidottiin pitkiksi ajoiksi ammeisiin kylmään tai kuumaan veteen. Lobotomioita tehtiin Suomessa aina 1970-luvulle asti. Millaisia vaiheita ja ajatuksia on liittynyt mielenterveyshäiriöihin? Mitkä ovat puolestaan olleet tärkeimpiä edistysaskeleita niiden hoidossa? Haastateltavana Tiina Paunio, joka on psykiatrian professori Helsingin yliopistossa ja Husin psykiatrian ylilääkäri. Toimittajana Samppa Korhonen.
+      - title: Radio 1 soi
+        start_time: '2026-10-04T23:13:23+03:00'
+        end_time: '2026-10-04T23:24:07+03:00'
+        description: |+
+          Dvorák: Kotiseutuni, alkusoitto (Los Angelesin FO/André Previn).
+
       - title: 'Romano mirits:  Anita Lindgren – Romaninaisten ääntä ja osallisuutta vahvistamassa'
         start_time: '2026-10-04T23:24:07+03:00'
         end_time: '2026-10-04T23:39:03+03:00'
