@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-05T02:28:59.886718+00:00'
+  generated_at: '2026-10-06T02:21:40.882456+00:00'
   git:
     branch: main
-    commit: 3d9b6fd937fa0cbaf85c5da953817c1f5c4e6bc5
-  data_hash: e93005f9dc4a7597e3a46094b293c96afe5f1dff3421d8b0e38ba059d09828e7
+    commit: 719f58b5e6a04994216df8eaf99949c9065374b4
+  data_hash: b7b439b7b754595cc701dae7964633eff06d0dfcac4d0648162ea74a2fb9c4bd
 data:
   '':
     programmes:
@@ -35,7 +35,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-06T06:30:50+03:00'
         end_time: '2026-10-06T06:50:00+03:00'
-        description: |+
+        description: |-
           Koraalitoisinto: Ah herää, sydämeni (Martti Talvela, basso, ja Pentti Savolainen, urut).
 
           Kansansävelmä: Nyt kiitosvirsin mä riemuin laulan. (Toukomettiset/Risto Ainali),
@@ -44,6 +44,7 @@ data:
 
           Koraalitoisinto: Herrassa on valo, autuus (Esa Ruuttunen, baritoni, ja Markku Hietaharju, urut).
 
+          Juontajana Tatu Tamminen.
       - title: Aamuhartaus
         start_time: '2026-10-06T06:50:00+03:00'
         end_time: '2026-10-06T06:59:59+03:00'
@@ -56,7 +57,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-10-06T07:06:00+03:00'
         end_time: '2026-10-06T08:00:00+03:00'
-        description: |+
+        description: |-
           Beethoven: Allegretto alla polacca serenadista D-duuri (Alexa Still, huilu, Robert Alemany, klarinetti, ja JoAnn Falletta, kitara).
 
           Gouvy: Aubade (Aamusoitto) (Andreas Groethuysen ja Yaara Tal, piano).
@@ -81,6 +82,7 @@ data:
 
           I. Hannikainen: Tanssikohtaus näyt. Talkootanssit (RSO/Petri Sakari).
 
+          Juontajana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-06T08:00:00+03:00'
         end_time: '2026-10-06T08:07:00+03:00'
@@ -111,7 +113,7 @@ data:
           Secunda: Sä kaunehin oot (Laila ja Ritva Kinnunen).
           Charles: Hallelujah I love her so (Ray Charles).
 
-          Konsertin on laatinut Riikka Holopainen.
+          Konsertin on laatinut Riikka Holopainen. Juontajana Tatu Tamminen.
       - title: 'Sari Valto: Ota oma tarinasi haltuun kirjoittamalla'
         start_time: '2026-10-06T10:00:00+03:00'
         end_time: '2026-10-06T10:55:00+03:00'
@@ -132,7 +134,7 @@ data:
         start_time: '2026-10-06T11:57:00+03:00'
         end_time: '2026-10-06T12:00:00+03:00'
         description: |-
-          L. Onervan runo Syksyinen rakkaudenlaulu.
+          L. Onervan runo Syksyinen rakkaudenlaulu. Lukijana Tatu Tamminen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-06T12:00:00+03:00'
         end_time: '2026-10-06T12:05:00+03:00'
@@ -152,11 +154,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-06T13:30:00+03:00'
         end_time: '2026-10-06T13:35:00+03:00'
-      - title: Aitiovieras
+      - title: 'Aitiovieras: Elsa Saisio matkaa Sörkka svengaa -musiikkinäytelmässä kotikaupunkinsa menneisyyteen'
         start_time: '2026-10-06T13:35:00+03:00'
         end_time: '2026-10-06T14:00:00+03:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista.
+           Näyttelijä Elsa Saisio siirtyy musiikkinäytelmässä Sörkka Svengaa sadan vuoden takaiseen Helsinkiin. Anneli Kannon käsikirjoittama ja Reetta Ristimäen ohjaama esitys vie Sörkan kujille, keskelle kieltolain aikaa. Elsa Saisio on itse stadilainen, miten kotiseuturakkaana hän itseään pitää? Musiikkiteatteriesitys on täynnäi tanssia ja lauluja, miten raskas formaaatti se on näyttelijälle? Miia Lahti haastattelee.
       - title: 'Musiikkiaitio: Metsän tyttö'
         start_time: '2026-10-06T14:00:00+03:00'
         end_time: '2026-10-06T15:00:00+03:00'
@@ -206,23 +208,23 @@ data:
         start_time: '2026-10-06T16:07:00+03:00'
         end_time: '2026-10-06T16:59:00+03:00'
         description: |-
-          Massenet: Lokakuun ruusuja kok. Lokakuinen runoelma (Bernard Kruysen, baritoni, ja Noel Lee, piano).
+          Massenet: Roses d'octobre (Lokakuun ruusuja) teoks. Poème d'octobre (Lokakuinen runoelma) (Bernard Kruysen, baritoni, ja Noel Lee, piano).
 
-          Rautavaara: Suo konsertosta Cantus arcticus (HKO/Leif Segerstam).
+          Rautavaara: Suo kons. Cantus arcticus (HKO/Leif Segerstam).
 
           F. Guerau: Españoleta (Xavier Diaz-Latorre, kitara). 
 
-          Martinaityte:  Autumn sarj. Sielunmaisema sellolle ja jousiorkesterille (Rokas Vaitkevicius, sello, ja Liettuan kamariork./Karolis Variakojis). 
+          Martinaityte:  Autumn teoks. Sielunmaisema sellolle ja jousiorkesterille (Rokas Vaitkevicius ja Liettuan kamariork./Karolis Variakojis).
 
-          Kapustin: Allegro giocoso Triosta huilulle, pianolle ja sellolle op.38 (Emanuel Ensemble).
+          Kapustin: Allegro giocoso teoks. Trio op.38 (Emanuel Ensemble).
 
           Bankole: Nigerian suite (Nigerialainen sarja) (Rebeca Omordia, piano).
 
-          W.A. Mozart: Kreivittären resitatiivi ja aaria E Susanna non vien - Dove sono oopp. Figaron häät (Kiri Te Kanawa, sopraano ja Metropolitan-oopperan ork./James Levine).
+          W.A. Mozart: Kreivittären resitatiivi ja aaria "E Susanna non vien - Dove sono" oopp. Le nozze di Figaro (Figaron häät) (Kiri Te Kanawa, sopraano, ja Metropolitan-oopperan ork./James Levine).
 
           Lanner: Die Schönbrunner (Alexander Schneider -kvintetti).
 
-          Toimittaja Lotta Emanuelsson
+          Konsertin on toimittanut Lotta Emanuelsson.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-06T17:00:00+03:00'
         end_time: '2026-10-06T17:05:00+03:00'
@@ -230,7 +232,7 @@ data:
         start_time: '2026-10-06T17:05:00+03:00'
         end_time: '2026-10-06T17:30:00+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Putin esiintyy perinteisten arvojen puolustajana, joka sotii Jumalan tahdosta Ukrainassa. Kaksi tuoretta tietokirjaa Putinista punnitsevat Venäjän presidentin maailmankuvaa. Uskooko Putin itse siihen, mitä hän julistaa? Entä mitä väliä sillä on, mitä Putin oikeasti ajattelee? Leonard Wilhelmuksen haastateltavana Ylen toimittaja Erkka Mikkonen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-06T17:30:00+03:00'
         end_time: '2026-10-06T17:35:00+03:00'
@@ -267,25 +269,51 @@ data:
           Osa 8/8.
           Tositapahtumiin pohjaava, fiktiivinen sarja kuvaa populismin nousua Suomessa, Perussuomalaisten murrosta ja Jussi Halla-ahon ja Timo Soinin kamppailua puolueen suunnasta ja johtajuudesta.  Jussi Halla-ahoa esittää Jussi Vatanen.
           (ensies. v. 2025)
-      - title: Romano mirits
+      - title: 'Romano mirits: Kun elämä antaa uuden mahdollisuuden – Mertsi Hagert'
         start_time: '2026-10-06T20:00:00+03:00'
         end_time: '2026-10-06T20:15:00+03:00'
         description: |-
-          Ajankohtaista asiaa romaneista.
+          Kun elämä antaa uuden mahdollisuuden – Mertsi Hagert
+
+          Tämänkertaisessa Romano Mirits -ohjelmassa vieraana on 38-vuotias Mertsi Hagert, jonka elämäntarina kertoo rohkeudesta, muutoksesta ja uuden suunnan löytämisestä. Mertsi kertoo avoimesti päihdetaustastaan, joka alkoi jo nuoruudessa, sekä siitä hetkestä, jolloin hän ymmärsi, että elämälle oli tehtävä muutos.
+          Haastattelussa kuullaan myös, kuinka hän peruskoulun jälkeen ajatteli, ettei enää koskaan lähtisi opiskelemaan. Elämä kuitenkin yllätti, ja vuosien jälkeen hän päätti tarttua uuteen mahdollisuuteen, lähti opiskelemaan ja valmistui kasvatus- ja ohjausalan ammattilaiseksi. Nykyään Mertsi tekee työtä nuorten parissa ja toimii myös vapaaehtoistyössä.
+          Hänen tarinansa osoittaa, että ihminen voi muuttua, kasvaa ja löytää itsestään voimavaroja, joita ei ehkä aiemmin uskonut omaavansa. Luvassa on inspiroiva keskustelu siitä, kuinka vaikeistakin lähtökohdista voi rakentaa uuden suunnan elämälleen ja löytää oman paikkansa yhteiskunnassa. Toimittajana Dimitri Grönfors.
       - title: 'Ulkolinja-podcast: Kaliforniassa varautuminen paheneviin maastopaloihin on arkipäivää '
         start_time: '2026-10-06T20:15:00+03:00'
         end_time: '2026-10-06T20:36:00+03:00'
         description: |-
           Kaliforniassa tuhoisia maastopaloja on yhä useammin. Niihin varautumisesta on tullut arkipäivää. 
+      - title: 'Maailman tärkein pieni asia: Jari Karppinen on viettänyt ison osan elämästään jalkapallokatsomossa'
+        start_time: '2026-10-06T20:36:00+03:00'
+        end_time: '2026-10-06T20:55:00+03:00'
+        description: |-
+          Jalkapallon yhteisöllisyys vetää puoleensa lahtelaista Jari Karppista. Hän on 30 vuoden ajan käynyt katsomassa kaikki "oman" seuransa FC Lahden ottelut. Myös maajoukkueen pelejä sekä EM- ja MM- kisoja on mies kiertänyt katsomassa vuosikymmenten aikana
+
+          Jalkapallomiehen tapasi Maija Salminen. 
       - title: 'Politiikkaradio '
         start_time: '2026-10-06T21:00:00+03:00'
         end_time: '2026-10-06T21:30:00+03:00'
-      - title: Aitiovieras
-        start_time: '2026-10-06T21:31:00+03:00'
-        end_time: '2026-10-06T21:56:00+03:00'
+      - title: 'Aitiovieras: Kuvataiteilija Kari Puikkonen teki sarjakuvakirjan mykkäelokuvasta'
+        start_time: '2026-10-06T21:30:48+03:00'
+        end_time: '2026-10-06T21:55:00+03:00'
+        description: |2-
+           Kari Puikkonen on monipuolinen kuvataiteilija, joka on uransa aikana tehnnyt niin veistoksia, grafiikkaa kuin akvarellejakin. Puikkosesta sanotaan, että hän on tinkimätön perfektionisti. Nyt Puikkonen on erityisen innostunut sarjakuvasta. Tänä syksynä Kari Puikkoselta on ilmestynyt sarjakuvakirja Karu, joka kertoo mykkäelokuvan ajoista Suomessa. Sarjakuvan pääosassa on ohjaaja ja elokuvamoguli Erkki Karu ja tarina elokuvan Nummisuutarit kuvauksista. Jarmo Laitaneva haastattelee.
       - title: Uudet levyt
         start_time: '2026-10-06T21:56:00+03:00'
-        end_time: '2026-10-06T22:45:00+03:00'
+        end_time: '2026-10-06T22:53:16+03:00'
+        description: |-
+          Kentala: Parkunselän vasenjalka ja Polokureeli (Huippu). 
+          Kola: Hääpolska (Huippu). 
+          Rönkä: Magic meadow (Ilmari Rönkä ja Mikko Antila). 
+          Pohjola/Karvonen/Vehmanen/Haarala: Lucky penny (Ultralum). 
+          Friman: This tune (Lassi Friman Quartet). 
+          Wiening: Jarabe tapatio teoks. Sinfonia de la Santa Muerte (Kalle Kalima ja Mareike Wiening). 
+          Bauduc: Super-Sirkka (Ykspihlajan Kino-orkesteri). 
+          Kansansäv. (Inkeri): Pyllynkannikoista (Duo Pimperot). 
+          Palis/Kansansäv.: For Bertsie (T.I.M.). 
+          Kanerva: Bright white light (Markku Kanerva, Seppo Kantonen, Lauri Porra, Anssi Nykänen). 
+
+          Konsertin on toimittanut Miika Lauriala. Juontajana Inari Tilli.
       - title: 'Sukuni murhamysteeri K4J3: Lauhialan viimeinen illallinen - Viktor Vladimirov ja osasto 13'
         start_time: '2026-10-06T23:00:23+03:00'
         end_time: '2026-10-06T23:39:11+03:00'

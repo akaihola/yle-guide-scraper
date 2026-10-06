@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-05T02:29:00.651197+00:00'
+  generated_at: '2026-10-06T02:21:41.859811+00:00'
   git:
     branch: main
-    commit: 3d9b6fd937fa0cbaf85c5da953817c1f5c4e6bc5
-  data_hash: e93005f9dc4a7597e3a46094b293c96afe5f1dff3421d8b0e38ba059d09828e7
+    commit: 719f58b5e6a04994216df8eaf99949c9065374b4
+  data_hash: b7b439b7b754595cc701dae7964633eff06d0dfcac4d0648162ea74a2fb9c4bd
 data:
   '':
     programmes:
@@ -124,7 +124,7 @@ data:
           Lennon/McCartney: Give peace a chance (John Lennon ja The Plastic Ono Band).
 
           Konsertin on toimittanut Jenna Bågeberg.
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Perustuslain valvonta'
         start_time: '2026-10-09T10:00:00+03:00'
         end_time: '2026-10-09T10:55:00+03:00'
         description: |-
@@ -165,7 +165,9 @@ data:
         start_time: '2026-10-09T13:35:00+03:00'
         end_time: '2026-10-09T14:00:00+03:00'
         description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+          Virginia Woolfin Orlando-klassikkoromaanin päähenkilö seikkailee eri vuosisadoilla pitkin Eurooppaa ja muuttuu nukkuessaan miehestä naiseksi. Herättyään naisena Orlando huomaakin yhteiskunnan kohtelevan häntä aivan toisin kuin aiemmin miehenä. Jo vuonna 1928 ilmestyessään romaani haastoi aikansa sukupuolirooleja ja samalla koko käsityksemme sukupuolesta.
+
+          Orlandon suomentanut Kaisa Kattelus ja toimittaja Jukka Kuosmanen keskustelevat klassikkoromaanin merkityksestä ja modernin itsenäisen naisen synnystä.
       - title: 'Musiikkiaitio: Tähtipölyä'
         start_time: '2026-10-09T14:00:00+03:00'
         end_time: '2026-10-09T15:00:00+03:00'
@@ -272,7 +274,7 @@ data:
         end_time: '2026-10-09T19:02:00+03:00'
       - title: 'Konsertti: Aria Borealis -barokkilaulukilpailun finaali'
         start_time: '2026-10-09T19:02:00+03:00'
-        end_time: '2026-10-09T21:00:00+03:00'
+        end_time: '2026-10-09T21:20:00+03:00'
         description: |-
           Toista kertaa järjestettävä kansainvälinen barokkilaulukilpailu Aria Borealis käytiin lokakuun alussa Helsingissä. Finaaliin yltäneet kahdeksan nuorta laulajaa ovat kotoisin kahdeksasta eri maasta, ja he edustavat eri äänialoja koloratuurisopraanosta bassobaritoniin. Finaalikonsertissa kuullaan kohtauksia Gerog Friedrich Händelin aarioista.
 
