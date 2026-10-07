@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-06T02:21:43.710008+00:00'
+  generated_at: '2026-10-07T02:26:40.700951+00:00'
   git:
     branch: main
-    commit: 719f58b5e6a04994216df8eaf99949c9065374b4
-  data_hash: b7b439b7b754595cc701dae7964633eff06d0dfcac4d0648162ea74a2fb9c4bd
+    commit: 18017f3950d4253c40a1eea75fb47f3a8529185f
+  data_hash: 36a95bc04ed37815878de2fa68b2aa74aa36d9ffc34f7e4438c0f642e6987d87
 data:
   '':
     programmes:
@@ -87,6 +87,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-16T09:04:00+03:00'
         end_time: '2026-10-16T09:59:00+03:00'
+        description: |+
+          Bart: From Russia with Love (Count Basie).
+          Petrov: Hiljainen satama (Tapio Rautavaara).
+          Kristofferson: Me and Bobby McGee (Kris Kristofferson).
+          Carpenter: Top of the world (Carpenters).
+          Hatch: Soita minulle (Ann Christine).
+          Kansansävelmä: Cielito lindo (Gabriella Ferri).
+          Zaldivar: Suukkonen aamuin, suukkonen illoin (Olavi Virta).
+          Isomeri: Niin gimis on stadi (Jussi Raittinen).
+          Bécaud: Nathalie (Tapani Perttu).
+          Farina: Questo amore (Ricchi e Poveri).
+          Brel: Ala vetää vaan (Susanna Haavisto). 
+          Jobim: Corvocado (Elis Regina, Antonio Carlos Jobim).
+
       - title: Kalle Haatanen
         start_time: '2026-10-16T10:00:00+03:00'
         end_time: '2026-10-16T10:55:00+03:00'
@@ -95,11 +109,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-16T10:55:00+03:00'
         end_time: '2026-10-16T11:00:00+03:00'
-      - title: Narrin aamulaulu - Outi Paananen
+      - title: Narrin aamulaulu - Opettajamme Einojuhani Rautavaara
         start_time: '2026-10-16T11:00:00+03:00'
         end_time: '2026-10-16T11:55:00+03:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |
+          "Sävellyksen opettajat voi jakaa neljään luokkaan: kuuluisat, kiltit, harjoitusmestarit ja persoonallisuudet", kirjoitti Einojuhani Rautavaara. Olli Kortekangas ja Otto Romanowski muistelevat opettajaansa ja kertovat, mihin loketoon he Rautavaaran sijoittaisivat. Säveltäjiä puhuttaa Outi Paananen. 
+          (Uusinta vuodelta 2023)
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-16T11:55:00+03:00'
         end_time: '2026-10-16T11:57:00+03:00'
@@ -213,7 +228,8 @@ data:
         start_time: '2026-10-16T18:50:00+03:00'
         end_time: '2026-10-16T19:00:00+03:00'
         description: |+
-          Henkisen ja hengellisen tuen asiantuntija Virpi Sipola, Helsinki
+          "Minä suojelen sinua kaikelta"
+          Kirkkohallituksen henkisen ja hengellisen tuen asiantuntija Virpi Sipola Helsingistä puhuu kärsimyksen mielettömyydestä ja toivosta, joka kiinnittyy hyvän mahdollisuuteen.
 
       - title: Yle Uutiset ja sää
         start_time: '2026-10-16T19:00:00+03:00'
@@ -222,7 +238,7 @@ data:
         start_time: '2026-10-16T19:02:00+03:00'
         end_time: '2026-10-16T21:00:00+03:00'
         description: |-
-          Fabien Gabel, kapellimestari, Veronika Eberle, viulu. - Igor Stravinsky: Scherzo fantastique. Béla Bartók: Viulukonsertto nro 1. Paul Dukas: La Péri, fanfaari ja tanssirunoelma yhdessä kohtauksessa. Claude Debussy (ork. Charles Koechlin): Khamma.
+          Fabien Gabel, kapellimestari, Veronika Eberle, viulu. - Igor Stravinsky: Scherzo fantastique. Béla Bartók: Viulukonsertto nro 1. Paul Dukas: La Péri, fanfaari ja tanssirunoelma yhdessä kohtauksessa. Claude Debussy (ork. Charles Koechlin): Khamma. Suoran lähetyksen Musiikkitalosta juontaa Riikka Holopainen.
       - title: 'Politiikkaradio '
         start_time: '2026-10-16T21:00:00+03:00'
         end_time: '2026-10-16T21:30:00+03:00'

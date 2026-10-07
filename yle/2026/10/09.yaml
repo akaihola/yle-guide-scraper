@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-06T02:21:41.859811+00:00'
+  generated_at: '2026-10-07T02:26:39.349237+00:00'
   git:
     branch: main
-    commit: 719f58b5e6a04994216df8eaf99949c9065374b4
-  data_hash: b7b439b7b754595cc701dae7964633eff06d0dfcac4d0648162ea74a2fb9c4bd
+    commit: 18017f3950d4253c40a1eea75fb47f3a8529185f
+  data_hash: 36a95bc04ed37815878de2fa68b2aa74aa36d9ffc34f7e4438c0f642e6987d87
 data:
   '':
     programmes:
@@ -47,7 +47,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-09T06:30:50+03:00'
         end_time: '2026-10-09T06:50:00+03:00'
-        description: |+
+        description: |-
           Sibelius: Soi kunniaksi Luojan (Candomino/Tauno Satomaa).
 
           Simojoki (sov. J. Kuusisto): Herra, kädelläsi asua mä saan (Sinfonia Lahti/Osmo Vänskä).
@@ -58,6 +58,7 @@ data:
 
           Hawkins: Jeesuksesta tahdon laulaa (Musica Fidei/Tomi Aalto, sekä Matti Pesonen, piano).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-10-09T06:50:00+03:00'
         end_time: '2026-10-09T06:59:59+03:00'
@@ -70,7 +71,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-10-09T07:06:00+03:00'
         end_time: '2026-10-09T08:00:00+03:00'
-        description: |+
+        description: |-
           Hoffstetter: Andante cantabile (Orpheus-kamariork.). 
 
           Beethoven - Tarrega: Menuetti septetosta Es-duuri  (Timo Korhonen, kitara).
@@ -95,6 +96,7 @@ data:
 
           Orff (sov. Wanek): Szene der drei Strolche (Kolmen kulkurin kohtaus) oopperasta Die Kluge (Kuningas ja viisas neitsyt) (Mainzin puhallinyhtye/Klaus Rainer Schöll).
 
+          Juontajana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-09T08:00:00+03:00'
         end_time: '2026-10-09T08:07:00+03:00'
@@ -123,7 +125,7 @@ data:
           Rannikko: Kun muistelet minua (Eila Pellinen).
           Lennon/McCartney: Give peace a chance (John Lennon ja The Plastic Ono Band).
 
-          Konsertin on toimittanut Jenna Bågeberg.
+          Konsertin on toimittanut Jenna Bågeberg. Juontajana on Tuija Kurvinen.
       - title: 'Kalle Haatanen: Perustuslain valvonta'
         start_time: '2026-10-09T10:00:00+03:00'
         end_time: '2026-10-09T10:55:00+03:00'
@@ -146,7 +148,7 @@ data:
         start_time: '2026-10-09T11:57:00+03:00'
         end_time: '2026-10-09T12:00:00+03:00'
         description: |-
-          J. H. Erkon runo Raskas syksy.
+          J. H. Erkon runo Raskas syksy. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-09T12:00:00+03:00'
         end_time: '2026-10-09T12:05:00+03:00'
@@ -280,19 +282,16 @@ data:
 
           Musiikkitalossa 4.10. tallennetun konsertin toimittaa Ahti Paunu. Äänisuunnittelijana on Jari Rantakaulio ja äänitarkkailijana Anna-Kaisa Kemppi.
       - title: 'Politiikkaradio '
-        start_time: '2026-10-09T21:00:00+03:00'
-        end_time: '2026-10-09T21:30:00+03:00'
-      - title: Aitiovieras
-        start_time: '2026-10-09T21:31:00+03:00'
-        end_time: '2026-10-09T21:55:00+03:00'
+        start_time: '2026-10-09T21:21:00+03:00'
+        end_time: '2026-10-09T21:50:00+03:00'
       - title: 'Sari Valto: Ota oma tarinasi haltuun kirjoittamalla'
-        start_time: '2026-10-09T21:55:00+03:00'
-        end_time: '2026-10-09T22:50:00+03:00'
+        start_time: '2026-10-09T21:51:00+03:00'
+        end_time: '2026-10-09T22:48:00+03:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
       - title: 'Tuuli Saksalan keidas: Eliades Ochoa, Aynur ja Wardruna" – syksyn konserttivinkit Keitaalla'
-        start_time: '2026-10-09T22:51:00+03:00'
-        end_time: '2026-10-09T23:39:00+03:00'
+        start_time: '2026-10-09T22:49:00+03:00'
+        end_time: '2026-10-09T23:38:00+03:00'
         description: |-
           Tuuli Saksalan Keitaalla haarukoidaan syksyn kiinnostavaa konserttitarjontaa – luvassa on vieraita ympäri maailman, Turkista Kuubaan ja Kongosta Maliin.
 
