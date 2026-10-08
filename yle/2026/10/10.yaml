@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-07T02:26:39.546681+00:00'
+  generated_at: '2026-10-08T02:25:33.272267+00:00'
   git:
     branch: main
-    commit: 18017f3950d4253c40a1eea75fb47f3a8529185f
-  data_hash: 36a95bc04ed37815878de2fa68b2aa74aa36d9ffc34f7e4438c0f642e6987d87
+    commit: 1519924a15ab6d362775573bbb728d02e7058f13
+  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
 data:
   '':
     programmes:
@@ -73,9 +73,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-10T08:35:00+03:00'
         end_time: '2026-10-10T08:40:00+03:00'
-      - title: Maailman tärkein pieni asia
+      - title: "Maailman tärkein pieni asia: Veijo Toivanen on Päätalo-tietäjä'"
         start_time: '2026-10-10T08:40:00+03:00'
         end_time: '2026-10-10T09:00:00+03:00'
+        description: |-
+          Veijo Toivanen tuntee Kalle Päätalon tuotannon kuin omat taskunsa.Toimittajana Maija Salminen.
       - title: 'Yle Uutiset '
         start_time: '2026-10-10T09:00:00+03:00'
         end_time: '2026-10-10T09:03:00+03:00'
@@ -143,7 +145,7 @@ data:
         start_time: '2026-10-10T14:55:00+03:00'
         end_time: '2026-10-10T15:00:00+03:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Näemme vain puolet maahanmuuton kokonais­kuvasta, kun keskitymme vastaanottavan maan näkökulmaan, väestötutkija Shadia Rask pohtii kolumnissaan.
       - title: 'Viihdekuunnelma: Kansallisen turvallisuuden virasto: Koodinimi Peikko'
         start_time: '2026-10-10T15:00:00+03:00'
         end_time: '2026-10-10T15:25:00+03:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-07T02:26:42.052167+00:00'
+  generated_at: '2026-10-08T02:25:36.741579+00:00'
   git:
     branch: main
-    commit: 18017f3950d4253c40a1eea75fb47f3a8529185f
-  data_hash: 36a95bc04ed37815878de2fa68b2aa74aa36d9ffc34f7e4438c0f642e6987d87
+    commit: 1519924a15ab6d362775573bbb728d02e7058f13
+  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
 data:
   '':
     programmes:
@@ -181,9 +181,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-10-23T18:50:00+03:00'
         end_time: '2026-10-23T19:00:00+03:00'
-        description: |+
-          Henkisen ja hengellisen tuen asiantuntija Virpi Sipola, Helsinki
-
+        description: |
+          "Elämä on lahja ja tehtävä"
+          Henkisen ja hengellisen tuen asiantuntija Virpi Sipola Helsingistä puhuu oman ihmisyytemme tulemisesta näkyväksi suhteessa toiseen ja hänen kokemuksiinsa.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-23T19:00:00+03:00'
         end_time: '2026-10-23T19:02:00+03:00'

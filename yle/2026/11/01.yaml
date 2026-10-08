@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-07T02:26:43.785132+00:00'
+  generated_at: '2026-10-08T02:25:39.137227+00:00'
   git:
     branch: main
-    commit: 18017f3950d4253c40a1eea75fb47f3a8529185f
-  data_hash: 36a95bc04ed37815878de2fa68b2aa74aa36d9ffc34f7e4438c0f642e6987d87
+    commit: 1519924a15ab6d362775573bbb728d02e7058f13
+  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
 data:
   '':
     programmes:
@@ -102,12 +102,9 @@ data:
           Godzinsky: Sininen valssi (Radion viihdeork./George de Godzinsky).
 
           Konsertin on laatinut Inari Tilli. 
-      - title: Yle Uutiset ja sää
-        start_time: '2026-11-01T17:00:00+02:00'
-        end_time: '2026-11-01T17:05:00+02:00'
       - title: Jazzklubi
-        start_time: '2026-11-01T18:00:30+02:00'
-        end_time: '2026-11-01T19:00:00+02:00'
+        start_time: '2026-11-01T17:00:00+02:00'
+        end_time: '2026-11-01T20:00:00+02:00'
       - title: 'Jazzklubin viikon keikka '
         start_time: '2026-11-01T19:02:30+02:00'
         end_time: '2026-11-01T20:00:00+02:00'
