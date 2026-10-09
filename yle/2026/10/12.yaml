@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-08T02:25:33.763733+00:00'
+  generated_at: '2026-10-09T02:26:36.454032+00:00'
   git:
     branch: main
-    commit: 1519924a15ab6d362775573bbb728d02e7058f13
-  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
+    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
+  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
 data:
   '':
     programmes:
@@ -55,8 +55,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-10-12T06:50:00+03:00'
         end_time: '2026-10-12T06:59:59+03:00'
-        description: |-
-          Toiminnanjohtaja Anna Munsterhjelm, Helsinki
+        description: |
+          "Etänä elämisen aika"
+          Toiminnanjohtaja Anna Munsterhjelm Helsingistä puhuu vähenevien kasvokkaisten kohtaamisten ja yksilöllisyyden varjossa kasvavan yksinäisyyden ajasta.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-12T07:00:00+03:00'
         end_time: '2026-10-12T07:05:00+03:00'
@@ -112,7 +113,7 @@ data:
           Somerjoki: Suon kulkija (Rauli 'Badding' Somerjoki).
           Somerjoki: Hikari (The Charades ja Ayako Minase).
 
-          Konsertin on laatinut Pasi Hiihtola.
+          Konsertin on laatinut Kai Ulmanen.
       - title: 'Virtasen taloushistoria: Yrityskulttuurien yhdistäminen - esimerkkeinä SYP ja KOP'
         start_time: '2026-10-12T10:00:00+03:00'
         end_time: '2026-10-12T10:55:00+03:00'
@@ -144,9 +145,11 @@ data:
 
 
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Suomen median kriisi'
         start_time: '2026-10-12T13:00:00+03:00'
         end_time: '2026-10-12T13:30:00+03:00'
+        description: |
+          Onko suuri osa Suomen mediakenttää tuhon partaalla kun STT lopetetaan? Haastattelussa viestintätieteen dosentti Heikki Hellman Tampereen yliopistosta ja Journalistiliiton puheenjohtaja Marjaana Varmavuori. Toimittajana on Linda Pelkonen. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-12T13:30:00+03:00'
         end_time: '2026-10-12T13:35:00+03:00'
@@ -203,6 +206,28 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-10-12T16:07:00+03:00'
         end_time: '2026-10-12T16:59:00+03:00'
+        description: |-
+          Suppé: Alkusoitto oper. Hilpeä talonpoika (Berliinin valtionork./Otmar Suitner).
+
+          Marais: Maalaisjuhla (Hille Perl, viola da gamba ja Lee Santana, teorbi).
+
+          Borràs i Fornell: Paisatge (Maisema) (Lluïsa Ibáñez, harppu).
+
+          Schumann: Waldesgespräch (Håkan Hagegård, baritoni, ja Thomas Schuback, piano).
+
+          Squire: Maalaistanssi (Susanna Mälkki, sello, ja Martti Rautio, piano).
+
+          Vanonen: Kävellä reunalla jolta voi pudota peltoon sarjasta Tässä on valo sekakuorolle a cappella (YL/Pasi Hyökki).
+
+          Poulenc: Andante konsertosta Concert champetre (Ton Koopman, cembalo, ja Rotterdamin FO/James Conlon).
+
+          Brediceanu: Stancutan Sadonkorjuulaulu oopp. Kukkia kukkulalla (Angela Gheorghiu, sopraano, ja Covent Garden -oopperan ork./Ion Marin). 
+
+          Tshaikovski: Dumka c-molli (Lang Lang, piano).
+
+          Villa-Lobos: Pikku maalaisjuna teoksesta Bachianas brasileiras n:o 2 (Cincinnatin SO/Jesús López-Cobos).
+
+          Toimittaja Lotta Emanuelsson
       - title: Yle Uutiset ja sää
         start_time: '2026-10-12T17:00:00+03:00'
         end_time: '2026-10-12T17:05:00+03:00'
@@ -243,13 +268,13 @@ data:
           Toteutus: Pauliina Motturi, Jukka Herva ja Sami Hahtala.
       - title: 'Suuri juomapodi J1: (Oispa) kaljaa '
         start_time: '2026-10-12T20:10:00+03:00'
-        end_time: '2026-10-12T20:55:00+03:00'
+        end_time: '2026-10-12T20:42:00+03:00'
         description: |
           Tuoppiemme sisällössä näkyvät edelleen kieltolaki, 1960-luvun alkoholipolitiikka ja naisten asema maatalossa. Peruskaljasta on tultu raparperi-soureihin ja alkoholittomiin ipoihin, mutta eniten suomalaisten suihin livahtaa yhä vaaleaa lageria. Miksi? Ja kun halpa kalja on niin halpaa, miten sitä edes kannattaa tehdä? 
 
           Oluen tietä suomalaisen kuluttajan käteen avaa toimittaja ja olutasiantuntija Anikó Lehtinen. Kielitieteilijä Janne Saarikivi selittää, mistä oluen monet nimet tulevat, ja markkinoinnin asiantuntija Kari Tervonen kertoo, millaisia oluenostajia suomalaiset ovat.
-      - title: Yksi on hyvää seuraa
-        start_time: '2026-10-12T20:55:00+03:00'
+      - title: Musiikkikamari
+        start_time: '2026-10-12T20:42:00+03:00'
         end_time: '2026-10-12T21:00:00+03:00'
       - title: Politiikkaradio
         start_time: '2026-10-12T21:00:00+03:00'

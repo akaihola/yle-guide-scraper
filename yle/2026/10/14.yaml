@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-08T02:25:34.509790+00:00'
+  generated_at: '2026-10-09T02:26:36.892245+00:00'
   git:
     branch: main
-    commit: 1519924a15ab6d362775573bbb728d02e7058f13
-  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
+    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
+  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
 data:
   '':
     programmes:
@@ -174,11 +174,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-14T13:30:00+03:00'
         end_time: '2026-10-14T13:35:00+03:00'
-      - title: Aitiovieras
+      - title: 'Aitiovieras: Niilo Turkka eli Kraiden yhdistää musiikissaan jazzin ja räpin'
         start_time: '2026-10-14T13:35:00+03:00'
         end_time: '2026-10-14T14:00:00+03:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista
+           Nuori musiikintekijä Niilo Turkka eli Kraiden musiikissaan jazzia ja räppiä. Miten Turkka on päätynyt juuri näiden kahden genren liittoon? Miten hänen sanoituksensa syntyvät? Parhaillaan Po-jazz -konservatoriossa opiskeleva Turkka on kuuluisan Vaskivuoren lukion kasvatti, minkälaisena hän itse näkee erikoislukion roolin omassa taiteilijuudessaan? Tatu Tamminen haastattelee.
       - title: 'Musiikkiaitio: Chin chin'
         start_time: '2026-10-14T14:00:00+03:00'
         end_time: '2026-10-14T15:00:00+03:00'
@@ -219,6 +219,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-10-14T16:07:00+03:00'
         end_time: '2026-10-14T16:59:00+03:00'
+        description: |+
+          Tshaikovski: Ilveilijöiden tanssi oopp. Orleansin neitsyt (Covent Garden -oopperan ork./Colin Davis).
+
+          Holmès: Les lavandieres (Pyykkärinaiset) (Laetitia Grimaldi, sopraano, ja Ammiel Bushakevitz, piano). 
+
+          Tailleferre: Perpetuum mobile (Ikiliikkuja) (Maria Graf, harppu).
+
+          Respighi: Humoresque teoks. Cinque pezzi (Tanja Becker-Bender, viulu, ja Peter Nagy, piano).
+
+          Kähärä: Aurinkolaulu (Somnium Ensemble/Elisa Huovinen). 
+
+          Järnefelt: Valssi F-duuri (Janne Oksanen, piano). 
+
+          Brahms: Unkarilainen tanssi n:o 7 A-duuri (Webster-trio).
+
+          O. Merikanto (sov. Bister): Laatokka (Matti Salminen, basso, ja ork./Hannu Bister).
+
+          Marais: Sarabande sarjasta huilulle, viululle ja continuolle (Music's Re-creation). 
+
+          J.S. Bach: Preludi sarj. soolosellolle n:o 6 D-duuri (Lodestar Trio).
+
+          Delibes (sov. Dohnanyi): Valssi baletista Coppelia (Polina Leschenko, piano).
+
+          Kondo (sov. Skeet): Super Mario Bros: Themes (Lontoon FO/Andrew Skeet).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-14T17:00:00+03:00'
         end_time: '2026-10-14T17:05:00+03:00'
@@ -271,9 +296,22 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-10-14T21:00:00+03:00'
         end_time: '2026-10-14T21:30:00+03:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Täydellisyyden harha'
         start_time: '2026-10-14T21:31:00+03:00'
         end_time: '2026-10-14T22:20:00+03:00'
+        description: |
+          Täydellisyyteen pyrkimisen ihanne elää kulttuurissamme ja yhteiskunnassamme vahvana. 
+          Täydellisyyden alttarille uhrataan yöunet, terveys ja ihmissuhteet. Täydellisyyden tavoittelussa ei ole kyse vain yksilöistä vaan kulttuurista, yhteiskunnasta ja ajan hengestä. Monissa maissa nuorten aikuisten perfektionismi on lisääntynyt. Miksi täydellisyyttä tavoitellaan? Mitä siitä seuraa? Toimittaja Satu Kivelän vieraana kirjailija Antti Rönkä ja psykologi Julia Sangervo. Ohjelma on uusinta ajalta 14.1.2026.
+      - title: 'Päivi Räsänen – Syntiseksi syntynyt: Jumalan suuri suunnitelma'
+        start_time: '2026-10-14T22:21:00+03:00'
+        end_time: '2026-10-14T22:50:00+03:00'
+        description: |-
+          Jakso 1/8. Tositapahtumiin pohjaava fiktiivinen audiodraama.
+      - title: 'Päivi Räsänen – Syntiseksi syntynyt: Viisaat miehet'
+        start_time: '2026-10-14T22:21:00+03:00'
+        end_time: '2026-10-14T22:50:00+03:00'
+        description: |-
+          Jakso 2/8. Tositapahtumiin pohjaava fiktiivinen audiodraama.
       - title: 'Ulkolinja-podcast  '
         start_time: '2026-10-14T23:20:00+03:00'
         end_time: '2026-10-14T23:39:30+03:00'

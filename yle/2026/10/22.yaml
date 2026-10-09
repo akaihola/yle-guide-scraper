@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-08T02:25:36.530327+00:00'
+  generated_at: '2026-10-09T02:26:38.700429+00:00'
   git:
     branch: main
-    commit: 1519924a15ab6d362775573bbb728d02e7058f13
-  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
+    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
+  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
 data:
   '':
     programmes:
@@ -45,7 +45,8 @@ data:
         start_time: '2026-10-22T06:50:00+03:00'
         end_time: '2026-10-22T06:59:59+03:00'
         description: |-
-          Toimittaja Mari Teinilä, Helsinki
+          "Maa kukkii murheiden tähtiä"
+          Toimittaja Mari Teinilä Helsingistä puhuu vuonna 1956 alkaneesta Unkarin kansannoususta ja muistuttaa olemaan kiitollinen elämästä vapaassa maassa.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-22T07:00:00+03:00'
         end_time: '2026-10-22T07:05:00+03:00'
@@ -135,11 +136,39 @@ data:
         end_time: '2026-10-22T14:00:00+03:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Sattumaa '
         start_time: '2026-10-22T14:00:00+03:00'
         end_time: '2026-10-22T15:00:00+03:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Koivistoinen: Sattumaa (Johanna Iivanainen ja Eero Koivistoisen yhtye).
+
+          Jobim: Girl from Ipanema (Gunnar Sandevärn).
+
+          Burns, Convertino, Mendoza, Zavala: Cumbia peninsula (Calexico).
+
+          Näkkäläjärvi: Mu vailevasvuodat (Annamaret Ensemble).
+
+          Kimmo Pohjonen: Kalmukki.
+
+          Oliveri: J'attendrai (Ibrahim Maalouf ja Melody Gardot).
+
+          Scott: A taste of honey (Jackie Gleason).
+
+          Silva, Teixeira: O Pato (Karita Mattila ja Fever Band/Kirmo Lintinen).
+
+          Jennifer Castle: I'll never walk alone. 
+
+          Bermudez: Tolu (Sonido Gallo Negro).
+
+          Puurtinen: Julmat jäähyväiset (Aija Puurtinen ja Brooklynin satu).
+
+          Korcia: Minor tango (Laurent Korcia, Michel Portal & Pierre Boussaguet).
+
+          Trenet: La mer (Chantal Chamberland).
+
       - title: Kulttuuriykkönen
         start_time: '2026-10-22T15:00:00+03:00'
         end_time: '2026-10-22T15:58:00+03:00'

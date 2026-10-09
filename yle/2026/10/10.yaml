@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-08T02:25:33.272267+00:00'
+  generated_at: '2026-10-09T02:26:36.012661+00:00'
   git:
     branch: main
-    commit: 1519924a15ab6d362775573bbb728d02e7058f13
-  data_hash: 6f6131d93304c9ad46fa5c585d8372115670bf1bb77cc7af66d67c110adaf8e8
+    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
+  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
 data:
   '':
     programmes:
@@ -73,7 +73,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-10T08:35:00+03:00'
         end_time: '2026-10-10T08:40:00+03:00'
-      - title: "Maailman tärkein pieni asia: Veijo Toivanen on Päätalo-tietäjä'"
+      - title: 'Maailman tärkein pieni asia: Veijo Toivanen on Päätalo-tietäjä'
         start_time: '2026-10-10T08:40:00+03:00'
         end_time: '2026-10-10T09:00:00+03:00'
         description: |-
@@ -219,7 +219,7 @@ data:
       - title: Lauantain toivotut levyt
         start_time: '2026-10-10T18:10:00+03:00'
         end_time: '2026-10-10T19:00:00+03:00'
-        description: |-
+        description: |
           Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-10T19:00:00+03:00'
@@ -237,14 +237,16 @@ data:
           Lähetyspäivänä lauantaina 10.10. runotoiveita otetaan vastaan numerossa 09 144 800 klo 18-21.
 
           Toiveita toteuttavat näyttelijä Vuokko Hovatta ja lausuja Jarmo Heikkinen. Ohjelman toimittavat Pietari Kylmälä ja Kaisa Pulakka.
-      - title: Uutispodcast
-        start_time: '2026-10-10T21:01:00+03:00'
-        end_time: '2026-10-10T21:25:00+03:00'
+      - title: 'Uutispodcast: Mitä Cornellin epäilty joukkoraiskaus kertoo veljeskuntien kulttuurista?'
+        start_time: '2026-10-10T21:00:32+03:00'
+        end_time: '2026-10-10T21:22:24+03:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
-      - title: 'Aitiovieras '
-        start_time: '2026-10-10T21:26:00+03:00'
-        end_time: '2026-10-10T21:50:00+03:00'
+          Yhdysvaltoja kuohuttaa epäilty joukkoraiskaus arvostetun Cornellin yliopiston kampuksella. Miksi epäasiallinen käytös jatkuu Yhdysvaltain veljeskunnissa? Entä miten keskustelu tästä tapauksesta meni heti rumaksi? Leonard Wilhelmuksen jututettavana on Ylen Yhdysvaltain-kirjeenvaihtaja Ilmari Reunamäki.
+      - title: 'Aitiovieras: Näyttelijä Marketta Tikkanen - Seilin naiset ja nykypäivän kaiut '
+        start_time: '2026-10-10T21:23:16+03:00'
+        end_time: '2026-10-10T21:47:04+03:00'
+        description: |2-
+           Näyttelijä Marketta Tikkanen esittää pääosaa Alli Haapasalon elokuvassa Kerro kaikille. Elokuva kertoo naisista, jotka suljettiin Seilin saarelle mielenterveysongelmien, köyhyyden tai asunnottomuuden takia. Miltä Tikkasesta tuntui sukeltaa rankkaan tarinaan? Löysikö näyttelijä yhteneväisyyttä nykyajan naisten elämästä sadan vuoden takaisiin kohtaloihin? Entä minkälaista Airiston saarella oli kuvata elokuvaa? Kati Turtola haastattelee.
       - title: 'Kuunnelman tiet 2/13: Toiston ja jatkuvuuden voima'
         start_time: '2026-10-10T21:51:00+03:00'
         end_time: '2026-10-10T22:30:00+03:00'
