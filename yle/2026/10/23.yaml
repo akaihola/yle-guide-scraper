@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-09T02:26:38.919068+00:00'
+  generated_at: '2026-10-10T02:25:31.859888+00:00'
   git:
     branch: main
-    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
-  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
+    commit: e3514c0dc29d917f3abf07f9e0c3e127ae8751cd
+  data_hash: 8619c970e59df213c97e763b742c0810872ea9ced343c77168b47edb3164c2e5
 data:
   '':
     programmes:
@@ -46,8 +46,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-10-23T06:50:00+03:00'
         end_time: '2026-10-23T06:59:59+03:00'
-        description: |-
-          Urheilupastori Sami Lahtinen, Helsinki
+        description: |
+          "Luther, some ja uskonpuhdistus"
+          Urheilupastori Sami Lahtinen Helsingistä lukee tulevan sunnuntain lukukappaleesta Roomalaiskirjeen luvusta 5. ja pohtii mitä yhteistä uskonpuhdistuksella ja sosiaalisella medialla on. 
       - title: Yle Uutiset ja sää
         start_time: '2026-10-23T07:00:00+03:00'
         end_time: '2026-10-23T07:05:00+03:00'
@@ -199,11 +200,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-23T17:30:00+03:00'
         end_time: '2026-10-23T17:35:00+03:00'
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: Litku Klemetti.'
         start_time: '2026-10-23T17:35:00+03:00'
         end_time: '2026-10-23T18:30:00+03:00'
         description: |-
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Olet varmasti joskus miettinyt, miltä jonkin ihmisen päässä kuulostaa, millainen äänimaailma siellä on. Litku Klemetti paljastaa Näistä levyistä en luovu -ohjelmassa oman sisäisen äänensä ja toki paljon muutakin, kuten sen, mikä on maailman paras biisi, sekä sen, onko hän swiftie.
       - title: Hartaita säveliä
         start_time: '2026-10-23T18:35:00+03:00'
         end_time: '2026-10-23T18:50:00+03:00'

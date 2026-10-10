@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-09T02:26:37.771652+00:00'
+  generated_at: '2026-10-10T02:25:30.813217+00:00'
   git:
     branch: main
-    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
-  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
+    commit: e3514c0dc29d917f3abf07f9e0c3e127ae8751cd
+  data_hash: 8619c970e59df213c97e763b742c0810872ea9ced343c77168b47edb3164c2e5
 data:
   '':
     programmes:
@@ -79,27 +79,27 @@ data:
         start_time: '2026-10-18T10:00:00+03:00'
         end_time: '2026-10-18T10:59:20+03:00'
         description: |-
-          Saarnaajana kirkkoherra Kari Kanala.
+          Liturgina ja saarnaajana kirkkoherra Kari Kanala. Kanttorina ja urkurina Jaakko Tyni. Musiikkiryhmä: Barokkiyhtye Galantina, joht. Timo Kiiskinen. Virret: 510; 328:1,4; 416; 429.
       - title: Muistojen bulevardi
         start_time: '2026-10-18T11:00:00+03:00'
         end_time: '2026-10-18T11:59:00+03:00'
-        description: |
+        description: |-
           Arlen: Stormy weather (Radion viihdeork./George de Godzinsky).
           Troup: Route 66 (Nat King Cole Trio).
-          Anka: Olet kohtaloni ( Seija Karpiomaa).
+          Anka: Olet kohtaloni (Seija Karpiomaa).
           Anka: Ogni giorno (Paul Anka).
           Sherman: Eso beso (Arja Tuomarila).
-          Blackwell: Return to sender (Elvis Presley & The Jordanaires).
-          Medley/Russell: Twist and shout (The Beatles).
+          Blackwell/Scott: Return to sender (Elvis Presley & The Jordanaires).
+          Russell/Medley: Twist and shout (The Beatles).
           Tézé/Distel: Ting-toung (Sacha Distel).
-          Jurgens: Rakkauden jälkeen (Carola).
+          Jürgens: Rakkauden jälkeen (Carola).
           Modugno: Musetto (Domenico Modugno).
           Tiikasalo: Sinun kanssasi sinua ilman (Anneli Saaristo).
           Vysotski: Ystävän laulu (Vesa-Matti Loiri).
           Vainio: Yksinäinen saarnipuu (Juha Vainio).
-          Magne: La valse (Juliette Greco).
-          Rodgers: Edelweiss (Christopher Plummer ja Julie Andrews).
-          Bernstein: Somewhere (The Dave Brubeck Quartet).
+          Magne: La valse (Juliette Gréco).
+          Rodgers: Edelweiss (Julie Andrews ja Christopher Plummer).
+          Bernstein: Somewhere (Dave Brubeck Quartet).
 
           Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
@@ -125,6 +125,18 @@ data:
       - title: Uudet levyt
         start_time: '2026-10-18T14:00:00+03:00'
         end_time: '2026-10-18T14:55:00+03:00'
+        description: |-
+          Friman: Not everyday (Lassi Friman Quartet). 
+          Jää/Liinamaa/Kekkonen: Her guidance (Vilma Jää ja Metal Scar Radio). 
+          Nyberg/Malmivaara: Oi Herra jos mä matkamies maan virsi (Jyrki 69 ja Pekko Käppi). 
+          Wideen: Ystävä sä lapsien virsi (Gud som haver barnen kär) (Jyrki 69 ja Pekko Käppi). 
+          Kallinen/Aalto: Perhosen nousu siivilleen (Hulda Huima). 
+          Salo/Aaltonen: Somebody blew up our country (Jazzpastori, Juhani Aaltonen ja Simo Laihonen). 
+          Salo/Aaltonen: Valo tulee sisältäni (Jazzpastori ja Juhani Aaltonen). 
+          Airaksinen: Hevajra (Pekka Airaksinen). 
+          Airaksinen: Space (Pekka Airaksinen). 
+          Rauhala: Kerran varhainen pyhäaamu (Hot Heros). 
+          Alakotila: Höst igen (Nordik Tree).
       - title: Ykköskolumni
         start_time: '2026-10-18T14:55:00+03:00'
         end_time: '2026-10-18T15:00:00+03:00'

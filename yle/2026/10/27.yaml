@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-09T02:26:39.820736+00:00'
+  generated_at: '2026-10-10T02:25:32.703015+00:00'
   git:
     branch: main
-    commit: 367f321bf71c7cf2a79b8e8d0da7310aa4ae3e5e
-  data_hash: 291d28b88322bf602d13bfad6a23d1529aa4ad48abeb9873cd3e93993eb6d28a
+    commit: e3514c0dc29d917f3abf07f9e0c3e127ae8751cd
+  data_hash: 8619c970e59df213c97e763b742c0810872ea9ced343c77168b47edb3164c2e5
 data:
   '':
     programmes:
@@ -90,16 +90,43 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-27T13:30:00+02:00'
         end_time: '2026-10-27T13:35:00+02:00'
+        description: |+
+          Kilpeläinen: Kumma kaupunki (Vuokko Hovatta).
+
       - title: Aitiovieras
         start_time: '2026-10-27T13:35:00+02:00'
         end_time: '2026-10-27T14:00:00+02:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Ballerina'
         start_time: '2026-10-27T14:00:00+02:00'
         end_time: '2026-10-27T15:00:00+02:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          B ja S. Womack: It's all over now (Dr. John ja The Dirty Dozen Brass Band).
+
+          Lampela: Together we went (Jussi Lampela Nonet).
+
+          Widenius: Viento de seda (Gru'Flem ja Anna Murtola).
+
+          Dunja Knebl: Dva se dragi ljube.
+
+          Mathias Duplessy: Texas bolero.
+
+          Sigman/Russell: Ballerina (Gregory Porter).
+
+          Suutarinen: Love is all we all came here for (Siina Suutarinen, laulu, Casimir Ekman, tenorisaksofoni, Johannes Granroth, kitara, Ilari Mäkelä, piano, Oona Mattsson, alttosaksofoni, Antti Ahoniemi, kontrabasso, ja Kasper Halttunen, rummut). 
+
+          Post: Hill Street Blues (Kyösti Rautio).
+
+          Barbara: Göttingen (Baptiste Trotignon, piano, ja Arthur Teboul, laulu).
+
+          Torres: Sambroso (Poncho Sanchez).
+
+          Kivilehto: Sinä yönä (Mirkka ja Madrugada).
+
       - title: Kulttuuriykkönen
         start_time: '2026-10-27T15:00:00+02:00'
         end_time: '2026-10-27T15:58:00+02:00'
