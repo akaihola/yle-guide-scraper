@@ -1,14 +1,161 @@
 metadata:
-  generated_at: '2026-10-10T02:25:35.980801+00:00'
+  generated_at: '2026-10-11T02:27:41.372307+00:00'
   git:
     branch: main
-    commit: e3514c0dc29d917f3abf07f9e0c3e127ae8751cd
-  data_hash: 8619c970e59df213c97e763b742c0810872ea9ced343c77168b47edb3164c2e5
+    commit: 29068b1d80ea1496170acfa321925e2298e40010
+  data_hash: 261fb4d4dd689649248daca8d5dbde806c91d7fd3e60ec8da88b58659c446e8f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-11-13T23:40:00+02:00'
         end_time: '2026-11-14T07:30:00+02:00'
+        description: |-
+          Klassista musiikkia.
+      - title: Kirjani tarina
+        start_time: '2026-11-14T07:31:00+02:00'
+        end_time: '2026-11-14T07:55:00+02:00'
+        description: |-
+          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-14T07:55:00+02:00'
+        end_time: '2026-11-14T08:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-11-14T08:00:00+02:00'
+        end_time: '2026-11-14T08:05:00+02:00'
+      - title: Hartaita säveliä
+        start_time: '2026-11-14T08:05:00+02:00'
+        end_time: '2026-11-14T08:25:00+02:00'
+      - title: Aamuhartaus
+        start_time: '2026-11-14T08:25:00+02:00'
+        end_time: '2026-11-14T08:35:00+02:00'
+        description: |-
+          Pastori Tuomas Kallonen, Ortodoksinen kirkko, Tampere
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-14T08:35:00+02:00'
+        end_time: '2026-11-14T08:40:00+02:00'
+      - title: Maailman tärkein pieni asia
+        start_time: '2026-11-14T08:40:00+02:00'
+        end_time: '2026-11-14T09:00:00+02:00'
+      - title: 'Yle Uutiset '
+        start_time: '2026-11-14T09:00:00+02:00'
+        end_time: '2026-11-14T09:03:00+02:00'
+      - title: Muistojen bulevardi
+        start_time: '2026-11-14T09:04:00+02:00'
+        end_time: '2026-11-14T09:59:00+02:00'
+      - title: Maailmanpolitiikan arkipäivää
+        start_time: '2026-11-14T10:00:00+02:00'
+        end_time: '2026-11-14T10:25:00+02:00'
+      - title: Uusiutuva tiede
+        start_time: '2026-11-14T10:25:00+02:00'
+        end_time: '2026-11-14T10:55:00+02:00'
+        description: |-
+          Nykytieto ponnistaa historiasta.
+      - title: Virtasen taloushistoria
+        start_time: '2026-11-14T11:00:00+02:00'
+        end_time: '2026-11-14T11:55:00+02:00'
+        description: |-
+          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-11-14T11:57:00+02:00'
+        end_time: '2026-11-14T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-11-14T12:00:00+02:00'
+        end_time: '2026-11-14T12:05:00+02:00'
+      - title: Maailma tarinoina
+        start_time: '2026-11-14T12:05:00+02:00'
+        end_time: '2026-11-14T13:00:00+02:00'
+      - title: Näistä levyistä en luovu
+        start_time: '2026-11-14T13:00:00+02:00'
+        end_time: '2026-11-14T13:55:00+02:00'
+        description: |-
+          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-14T13:55:00+02:00'
+        end_time: '2026-11-14T14:00:00+02:00'
+      - title: Kalle Haatanen
+        start_time: '2026-11-14T14:00:00+02:00'
+        end_time: '2026-11-14T14:55:00+02:00'
+        description: |-
+          Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
+      - title: Ykköskolumni
+        start_time: '2026-11-14T14:55:00+02:00'
+        end_time: '2026-11-14T15:00:00+02:00'
+        description: |-
+          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+      - title: 'Viihdekuunnelma: Kansallisen turvallisuuden virasto: Likainen myyrä'
+        start_time: '2026-11-14T15:00:00+02:00'
+        end_time: '2026-11-14T15:16:00+02:00'
+        description: |
+          Agenttikomedia, 8/8. Agentit ottavat yhteen vaarallisen myyrän kanssa. 
+      - title: Musiikkikamari
+        start_time: '2026-11-14T15:16:00+02:00'
+        end_time: '2026-11-14T15:30:00+02:00'
+      - title: Aristoteleen kantapää
+        start_time: '2026-11-14T15:30:00+02:00'
+        end_time: '2026-11-14T15:55:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-14T15:55:00+02:00'
+        end_time: '2026-11-14T16:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-11-14T16:00:00+02:00'
+        end_time: '2026-11-14T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-11-14T16:07:00+02:00'
+        end_time: '2026-11-14T16:59:59+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-11-14T17:00:00+02:00'
+        end_time: '2026-11-14T17:05:00+02:00'
+      - title: Marko Gustafsson
+        start_time: '2026-11-14T17:05:00+02:00'
+        end_time: '2026-11-14T17:58:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-14T17:53:00+02:00'
+        end_time: '2026-11-14T18:00:00+02:00'
+      - title: 'Ehtookellot: Kangasniemen kirkon kellot'
+        start_time: '2026-11-14T18:00:00+02:00'
+        end_time: '2026-11-14T18:01:00+02:00'
+      - title: Iltahartaus
+        start_time: '2026-11-14T18:01:00+02:00'
+        end_time: '2026-11-14T18:10:00+02:00'
+        description: |-
+          Rovasti Jaana Rantala, Tampere
+      - title: Lauantain toivotut levyt
+        start_time: '2026-11-14T18:10:00+02:00'
+        end_time: '2026-11-14T19:00:00+02:00'
+        description: |-
+          Kuuntelijoiden suosikkilevyt ovat soineet radiossa syksystä 1935 lähtien. Toiveita voi lähettää Radio 1:n verkkosivujen kautta ja osoitteella: Lauantain toivotut levyt, PL 8, 00024 Yleisradio. Sähköposti: lauantain.toivotut@yle.fi.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-11-14T19:00:00+02:00'
+        end_time: '2026-11-14T19:02:00+02:00'
+      - title: Sävel on vapaa / 09 - 144 800
+        start_time: '2026-11-14T19:02:00+02:00'
+        end_time: '2026-11-14T21:00:00+02:00'
+        description: |-
+          Juontajina... Ohjelman suunnittelusta vastaa...
+      - title: Uutispodcast
+        start_time: '2026-11-14T21:01:00+02:00'
+        end_time: '2026-11-14T21:25:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: 'Aitiovieras '
+        start_time: '2026-11-14T21:26:00+02:00'
+        end_time: '2026-11-14T21:50:00+02:00'
+      - title: 'Kuunnelman tiet 7/13: Ajanvietteestä komediaan'
+        start_time: '2026-11-14T21:51:00+02:00'
+        end_time: '2026-11-14T22:30:00+02:00'
+        description: |
+          Pekka Kyrö kertoo radiokuunnelman kehitysvaiheista ja käännekohdista.  
+          Tekninen toteutus Tiina Luoma. 
+          Tässä osassa kerrotaan, miten kuunnelmilla hauskuutettiin yleisöä.
+          Ohjelma on vuodelta 2009.
+      - title: Keinuva talo - Mika Kauhanen
+        start_time: '2026-11-14T22:40:00+02:00'
+        end_time: '2026-11-14T23:39:30+02:00'
+        description: |
+          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+      - title: Yöklassinen
+        start_time: '2026-11-14T23:40:00+02:00'
+        end_time: '2026-11-15T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
