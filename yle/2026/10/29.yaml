@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-12T02:34:46.539677+00:00'
+  generated_at: '2026-10-13T02:30:49.768469+00:00'
   git:
     branch: main
-    commit: f51879d289fa38416de6daef669a70d335959e94
-  data_hash: 2999ecc33fd5006d242e541547527d4ef0b901a889a49368433ee7c0b3fd55d8
+    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
+  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
 data:
   '':
     programmes:
@@ -104,6 +104,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-10-29T16:07:00+02:00'
         end_time: '2026-10-29T16:59:00+02:00'
+        description: |-
+          Dunajevski: Marssi elok. Tsirk (Sirkus) (Puhallinorkesteri Turbo/Pertti Pekkanen).
+
+          Rodgers: The Carousel Waltz (Stephen Hough, piano).
+
+          Debussy: Chevaux de bois sarj. Ariettes oubliées (Dawn Upshaw, sopraano, ja James Levine, piano).
+
+          Bizet: Carnaval (Karnevaali) sinf. Roma C-duuri (RTE National Symphony Orch./Jean-Luc Tingaud).
+
+          Bonis: Étiolles (Myriam Barbaux-Cohen, piano).
+
+          Leoncavallo: Kuorokohtaus "Ohè! Ohè! Presto, affrettiamoci" oopp. I Pagliacci (Pajatso) (Daniela Dessi, sopraano, Paolo Coni, baritoni, Juan Pons, baritoni, Ernesto Gavazzi, tenori, sekä Westminsterin sinfoniakuoro ja Philadelphian ork./Riccardo Muti).
+
+          Valpola: Surullinen klovni hymyilee sarj. Klovnit (Matti Rantanen, harmonikka).
+
+          Kálmán: Herra X:n laulu "Wieder hinaus ins strahlende Licht - Zwei Märchenaugen" oper. Die Zirkusprinzessin (Sirkusprinsessa) (Simon Keenlyside, baritoni, ja Tonkünstler-Orchester Niederösterreich/Alfred Eschwe).
+
+          Pasquet: Carnaval antiquo (Vanha karnevaali) sarj. Aires del Cono Sur (Viisi kappaletta Etelä-Amerikasta) (Luis Pasquet, piano, ja Lahden vaskikvintetti).
+
+          Danglas: L'amour s'éveille (Les Siecles/Francois-Xavier Roth). 
+
+          Wrubel: The masquerade is over (Voces8).
+
+          Hisaishi: Merry-go-round of life animaatioelok. Hauru no ugoku shiro (Liikkuva linna) (Ray Chen, viulu, ja Julien Quentin, piano).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-29T17:00:00+02:00'
         end_time: '2026-10-29T17:05:00+02:00'
@@ -126,8 +152,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-10-29T18:50:00+02:00'
         end_time: '2026-10-29T19:00:00+02:00'
-        description: |-
-          Vanhempi yliopistonlehtori, pappi Raimo Hakola, Jämsä
+        description: |
+          "Jumala on suurempi kuin sukupuoliroolit"
+          Vanhempi yliopistonlehtori, pappi Raimo Hakola Jämsästä puhuu naisen eri rooleista yhteiskunnassa ja Raamatussa keskittyen kertomuksiin purppurakankaiden myyjä Lyydiasta.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-29T19:00:00+02:00'
         end_time: '2026-10-29T19:02:00+02:00'

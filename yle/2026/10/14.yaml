@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-12T02:34:43.249421+00:00'
+  generated_at: '2026-10-13T02:30:41.914879+00:00'
   git:
     branch: main
-    commit: f51879d289fa38416de6daef669a70d335959e94
-  data_hash: 2999ecc33fd5006d242e541547527d4ef0b901a889a49368433ee7c0b3fd55d8
+    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
+  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
 data:
   '':
     programmes:
@@ -156,6 +156,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-14T11:57:00+03:00'
         end_time: '2026-10-14T12:00:00+03:00'
+        description: |
+          Sananparsia teoksesta Selevä pyy, toim. Leea Virtanen, 1990.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-14T12:00:00+03:00'
         end_time: '2026-10-14T12:05:00+03:00'
@@ -306,22 +308,22 @@ data:
         end_time: '2026-10-14T21:30:00+03:00'
       - title: 'Havaintoja muutoksesta: Täydellisyyden harha'
         start_time: '2026-10-14T21:31:00+03:00'
-        end_time: '2026-10-14T22:20:00+03:00'
+        end_time: '2026-10-14T22:20:49+03:00'
         description: |
           Täydellisyyteen pyrkimisen ihanne elää kulttuurissamme ja yhteiskunnassamme vahvana. 
           Täydellisyyden alttarille uhrataan yöunet, terveys ja ihmissuhteet. Täydellisyyden tavoittelussa ei ole kyse vain yksilöistä vaan kulttuurista, yhteiskunnasta ja ajan hengestä. Monissa maissa nuorten aikuisten perfektionismi on lisääntynyt. Miksi täydellisyyttä tavoitellaan? Mitä siitä seuraa? Toimittaja Satu Kivelän vieraana kirjailija Antti Rönkä ja psykologi Julia Sangervo. Ohjelma on uusinta ajalta 14.1.2026.
       - title: 'Päivi Räsänen – Syntiseksi syntynyt: Jumalan suuri suunnitelma'
-        start_time: '2026-10-14T22:21:00+03:00'
-        end_time: '2026-10-14T22:50:00+03:00'
+        start_time: '2026-10-14T22:31:00+03:00'
+        end_time: '2026-10-14T22:51:08+03:00'
         description: |-
           Jakso 1/8. Tositapahtumiin pohjaava fiktiivinen audiodraama.
       - title: 'Päivi Räsänen – Syntiseksi syntynyt: Viisaat miehet'
-        start_time: '2026-10-14T22:21:00+03:00'
-        end_time: '2026-10-14T22:50:00+03:00'
+        start_time: '2026-10-14T22:51:08+03:00'
+        end_time: '2026-10-14T23:12:01+03:00'
         description: |-
           Jakso 2/8. Tositapahtumiin pohjaava fiktiivinen audiodraama.
       - title: 'Ulkolinja-podcast: Ruanda hiljentää toisinajattelijoita Euroopassa asti'
-        start_time: '2026-10-14T23:20:00+03:00'
+        start_time: '2026-10-14T23:19:37+03:00'
         end_time: '2026-10-14T23:39:30+03:00'
         description: |-
           Ruandaa pidetään Afrikan menestystarinana. Talous kasvaa ja maa vetää investointeja. Kääntöpuoli on, että hallito ei siedä arvostelua ja toisinajattelijat pyritään hiljentämääm myös ulkomailla. 

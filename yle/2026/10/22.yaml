@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-12T02:34:45.002795+00:00'
+  generated_at: '2026-10-13T02:30:48.081256+00:00'
   git:
     branch: main
-    commit: f51879d289fa38416de6daef669a70d335959e94
-  data_hash: 2999ecc33fd5006d242e541547527d4ef0b901a889a49368433ee7c0b3fd55d8
+    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
+  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
 data:
   '':
     programmes:
@@ -230,8 +230,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-10-22T18:50:00+03:00'
         end_time: '2026-10-22T19:00:00+03:00'
-        description: |-
-          Vanhempi yliopistonlehtori, pappi Raimo Hakola, Jämsä
+        description: |
+          "Abrahamin avara teltta"
+          Vanhempi yliopistonlehtori, pappi Raimo Hakola Jämsästä puhuu Abrahamista eri kulttuureja ja kansoja yhdistävänä sekä vieraanvaraisuutta edustavana hahmona.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-22T19:00:00+03:00'
         end_time: '2026-10-22T19:02:00+03:00'

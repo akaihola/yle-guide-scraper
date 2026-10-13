@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-12T02:34:45.870547+00:00'
+  generated_at: '2026-10-13T02:30:49.214376+00:00'
   git:
     branch: main
-    commit: f51879d289fa38416de6daef669a70d335959e94
-  data_hash: 2999ecc33fd5006d242e541547527d4ef0b901a889a49368433ee7c0b3fd55d8
+    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
+  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
 data:
   '':
     programmes:
@@ -47,8 +47,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-10-26T06:50:00+02:00'
         end_time: '2026-10-26T06:59:59+02:00'
-        description: |-
-          Toiminnanjohtaja Anna Munsterhjelm, Helsinki
+        description: |
+          "Mikään ei aja ihmistä niin kuin kannustaminen"
+          Toiminnanjohtaja Anna Munsterhjelm Helsingistä puhuu toisen ihmisen näkemisen ja kehumisen jaksamista kannattelevasta voimasta.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-26T07:00:00+02:00'
         end_time: '2026-10-26T07:05:00+02:00'
