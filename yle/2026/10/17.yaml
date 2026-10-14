@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-13T02:30:44.916554+00:00'
+  generated_at: '2026-10-14T02:16:38.638745+00:00'
   git:
     branch: main
-    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
-  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
+    commit: b52662779dd8410159101c37bbfa9ee43395d739
+  data_hash: 43b579ed96da382232da7d46331a220fc1756841cf80c68d02a08b6171c86107
 data:
   '':
     programmes:
@@ -33,13 +33,13 @@ data:
 
           07:04 J.C.F. Bach: Sinfonia G-duuri (Freiburgin barokkiork./Gottfried von der Goltz, viulu).
 
-      - title: Kirjani tarina
-        start_time: '2026-10-17T07:31:00+03:00'
-        end_time: '2026-10-17T07:55:00+03:00'
-        description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+      - title: 'Kirjani tarina:  Liisa Louhela kertoo romaanistaan Mies joka kantoi aurinkoa sylissään '
+        start_time: '2026-10-17T07:30:47+03:00'
+        end_time: '2026-10-17T07:54:18+03:00'
+        description: |
+          Vieraana on Mies joka kantoi aurinkoa sylissään -romaanin kirjoittanut Liisa Louhela. Toimittajana Tina Cavén.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-10-17T07:55:00+03:00'
+        start_time: '2026-10-17T07:54:18+03:00'
         end_time: '2026-10-17T08:00:00+03:00'
       - title: Yle Uutiset ja sää
         start_time: '2026-10-17T08:00:00+03:00'
@@ -131,7 +131,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-17T13:55:00+03:00'
         end_time: '2026-10-17T14:00:00+03:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Diagnoositulva'
         start_time: '2026-10-17T14:00:00+03:00'
         end_time: '2026-10-17T14:55:00+03:00'
         description: |-

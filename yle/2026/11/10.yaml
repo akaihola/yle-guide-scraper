@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-13T02:30:52.503787+00:00'
+  generated_at: '2026-10-14T02:16:43.825029+00:00'
   git:
     branch: main
-    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
-  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
+    commit: b52662779dd8410159101c37bbfa9ee43395d739
+  data_hash: 43b579ed96da382232da7d46331a220fc1756841cf80c68d02a08b6171c86107
 data:
   '':
     programmes:
@@ -119,6 +119,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-10T19:00:00+02:00'
         end_time: '2026-11-10T19:02:00+02:00'
+      - title: Sanna Marin - miljoonat seuraa Olkoon Forssa kanssasi
+        start_time: '2026-11-10T19:02:00+02:00'
+        end_time: '2026-11-10T19:45:00+02:00'
+        description: |-
+          Sanna Marin aloittaa poliittisen uransa Tampereen kaupunginvaltuustossa. Miten nuori Sanna Marin päätyy valitsemaan puolueekseen juuri SDP:n? Twitter- sanasodan myötä hän huomaa, että julkisuuden avulla saa poliittista näkyvyyttä. Mutta tuleeko mukana myös riskejä? 
       - title: Romano mirits
         start_time: '2026-11-10T20:00:00+02:00'
         end_time: '2026-11-10T20:15:00+02:00'

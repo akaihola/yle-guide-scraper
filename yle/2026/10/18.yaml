@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-13T02:30:45.996460+00:00'
+  generated_at: '2026-10-14T02:16:38.958914+00:00'
   git:
     branch: main
-    commit: 0e5d299e546ca1a5eb21aeb8d86a0bd6c9da2441
-  data_hash: 1f08ad8f2730abd42270372ce7e0a8b179cb67e0c1b305882cea7ad68a61d1d5
+    commit: b52662779dd8410159101c37bbfa9ee43395d739
+  data_hash: 43b579ed96da382232da7d46331a220fc1756841cf80c68d02a08b6171c86107
 data:
   '':
     programmes:
@@ -52,17 +52,43 @@ data:
           06:15 Weiss: Sonaatti luutulle A-duuri (Franklin Lei).
 
           06:40 Salieri: Konsertto huilulle, oboelle ja orkesterille C-duuri (Aurèle Nicolet ja Heinz Holliger, sekä St. Martin-in-the-Fields -kamariork./Kenneth Sillito).
-      - title: Klasariparatiisi - Eva Tigerstedt
-        start_time: '2026-10-18T07:00:30+03:00'
-        end_time: '2026-10-18T07:57:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: 'Klasariparatiisi: B.H. Crusell - Suomen ensimmäinen kansainvälinen säveltäjä, osa 1'
+        start_time: '2026-10-18T07:00:47+03:00'
+        end_time: '2026-10-18T07:57:06+03:00'
+        description: |+
+          Hän tuli köyhästä perheestä Suomen Uudestakaupungista. Pikkupoikana hän sai klarinetin, ja se vei hänet maailmalle. Hänestä tuli virtuoosinen soittaja, ja hänen klarinettisävellyksensä kuuluvat nykyään klarinetistien persuohjelmistoon. Hän oli kielimies, hyväntekijä ja käsineiden ompelija.
+          Hänen musiikkinsa on täynnä soiton- ja elämäniloa.
+          Miksi emme tunne häntä paremmin?
+
+          Nyt Bernhard Henrik Crusell viettää 250-vuotisjuhlavuottaan. Klasariparatiisissa Crusellin elämään meidät kuljettaa Janne Palkisto, joka on Crusell-viikon toiminnanjohtaja, Crusellista väitellyt tutkija ja elämäkerran kirjoittaja. 
+          Eva Tigerstedt haastattelee, ja avaa polkuja musiikkiin.
+
+          (uusinta vuodelta 2025, jolloin vietettiin Crusellin 250-vuotisjuhlavuotta)
+
+
+          Ohjelman musiikit:
+
+          Bernhard Henrik Crusell: 
+          Allegro non tanto ja Finaali, Kvartetosta klarinetille ja jousille n:o 3 D-duuri op.7.  (Kari Kriikku, klarinetti, ja  Avanti!-trio). 
+
+          Trio klarinetille, fagotille ja käyrätorvelle F-duuri, ote  (Emma Johnson, klarinetti, Philip Gibbon, fagotti, Michael Thompson, käyrätorvi).
+
+          Wolfgang Amadeus Mozart: Adagio Serenadista B-duuri (Gran partita) (Harmonie l'Orchestre des Champs Elysees/Philippe Herreweghe).
+           
+          Christian Cannabich: Finaali Sinfoniasta n:o 67 G-duuri (Lukas Consort/ Viktor Lukas). 
+
+          Bernhard Henrik Crusell: Duo kahdelle klarinetille n:o 1 F-duuri, ote (Christoffer Sundqvist ja Giuseppe Gentile, klarinetti).
+
+          Christoph Willibald Gluck: Venez, secondez mes  desirs, oopperasta Armide (Patricia Petibon, sopraano, ja Concerto Köln/Daniel Harding).
+
+          Bernhard Henrik Crusell: Romanssi, Kvartetosta klarinetille ja jousille n:o 1 Es-duuri op.2. (Kari Kriikku, klarinetti, ja  Avanti!-trio). 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-18T08:00:00+03:00'
         end_time: '2026-10-18T08:05:05+03:00'
       - title: Narrin aamulaulu - Opettajamme Einojuhani Rautavaara
         start_time: '2026-10-18T08:05:35+03:00'
-        end_time: '2026-10-18T08:59:00+03:00'
+        end_time: '2026-10-18T08:59:35+03:00'
         description: |
           "Sävellyksen opettajat voi jakaa neljään luokkaan: kuuluisat, kiltit, harjoitusmestarit ja persoonallisuudet", kirjoitti Einojuhani Rautavaara. Olli Kortekangas ja Otto Romanowski muistelevat opettajaansa ja kertovat, mihin loketoon he Rautavaaran sijoittaisivat. Säveltäjiä puhuttaa Outi Paananen. 
           (Uusinta vuodelta 2023)
@@ -185,7 +211,7 @@ data:
         end_time: '2026-10-18T17:05:00+03:00'
       - title: 'Etnokonsertti Länsi-Karpaateilta miniBaroši Rudolstadtissa 2026 '
         start_time: '2026-10-18T17:06:00+03:00'
-        end_time: '2026-10-18T18:00:00+03:00'
+        end_time: '2026-10-18T17:57:49+03:00'
         description: |-
           Tsekkiläinen miniBaroši -trio soittaa Länsi-Karpaattien kansanmusiikkia Rudolstadtin kaupunginteatterissa 4.7.2026. Luvassa on kansansävelmiä Tšekin, Puolan ja Slovakian rajaseuduilta sekä yhtyeen omia sävellyksiä. Toimittajana on Miika Lauriala. 
       - title: Jazzklubi
@@ -194,9 +220,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-18T19:00:00+03:00'
         end_time: '2026-10-18T19:02:05+03:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: Robinson Khoury Mÿa April Jazzissa.'
         start_time: '2026-10-18T19:02:30+03:00'
         end_time: '2026-10-18T20:00:00+03:00'
+        description: |-
+          Jazzklubin viikon keikka: Robinson Khoury Mÿa April Jazzissa. Äänitetty Espoon Louhisalissa 23.4.2026.
       - title: Pieni vedenpyhitys Jumalansynnyttäjän Kazanilaisen ikonin kirkosta Järvenpäästä
         start_time: '2026-10-18T20:00:00+03:00'
         end_time: '2026-10-18T21:00:00+03:00'
@@ -210,21 +238,50 @@ data:
       - title: Aitiovieras
         start_time: '2026-10-18T21:25:00+03:00'
         end_time: '2026-10-18T21:50:00+03:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: B.H. Crusell - Suomen ensimmäinen kansainvälinen säveltäjä, osa 1'
         start_time: '2026-10-18T21:51:00+03:00'
-        end_time: '2026-10-18T22:47:00+03:00'
-        description: |-
-          Eva Tigerstedt avaa polkuja musiikkiin.
+        end_time: '2026-10-18T22:47:19+03:00'
+        description: |+
+          Hän tuli köyhästä perheestä Suomen Uudestakaupungista. Pikkupoikana hän sai klarinetin, ja se vei hänet maailmalle. Hänestä tuli virtuoosinen soittaja, ja hänen klarinettisävellyksensä kuuluvat nykyään klarinetistien persuohjelmistoon. Hän oli kielimies, hyväntekijä ja käsineiden ompelija.
+          Hänen musiikkinsa on täynnä soiton- ja elämäniloa.
+          Miksi emme tunne häntä paremmin?
+
+          Nyt Bernhard Henrik Crusell viettää 250-vuotisjuhlavuottaan. Klasariparatiisissa Crusellin elämään meidät kuljettaa Janne Palkisto, joka on Crusell-viikon toiminnanjohtaja, Crusellista väitellyt tutkija ja elämäkerran kirjoittaja. 
+          Eva Tigerstedt haastattelee, ja avaa polkuja musiikkiin.
+
+          (uusinta vuodelta 2025, jolloin vietettiin Crusellin 250-vuotisjuhlavuotta)
+
+
+          Ohjelman musiikit:
+
+          Bernhard Henrik Crusell: 
+          Allegro non tanto ja Finaali, Kvartetosta klarinetille ja jousille n:o 3 D-duuri op.7.  (Kari Kriikku, klarinetti, ja  Avanti!-trio). 
+
+          Trio klarinetille, fagotille ja käyrätorvelle F-duuri, ote  (Emma Johnson, klarinetti, Philip Gibbon, fagotti, Michael Thompson, käyrätorvi).
+
+          Wolfgang Amadeus Mozart: Adagio Serenadista B-duuri (Gran partita) (Harmonie l'Orchestre des Champs Elysees/Philippe Herreweghe).
+           
+          Christian Cannabich: Finaali Sinfoniasta n:o 67 G-duuri (Lukas Consort/ Viktor Lukas). 
+
+          Bernhard Henrik Crusell: Duo kahdelle klarinetille n:o 1 F-duuri, ote (Christoffer Sundqvist ja Giuseppe Gentile, klarinetti).
+
+          Christoph Willibald Gluck: Venez, secondez mes  desirs, oopperasta Armide (Patricia Petibon, sopraano, ja Concerto Köln/Daniel Harding).
+
+          Bernhard Henrik Crusell: Romanssi, Kvartetosta klarinetille ja jousille n:o 1 Es-duuri op.2. (Kari Kriikku, klarinetti, ja  Avanti!-trio). 
+
       - title: 'Uusiutuva tiede: Lääketiede 1/2 – Tupakansavua peräsuoleen ja muita harha-askelia'
         start_time: '2026-10-18T22:48:00+03:00'
         end_time: '2026-10-18T23:19:00+03:00'
         description: |-
           Miten sairauksista ajateltiin historiassa, esimerkiksi antiikissa ja keskiajalla? Miten tauteja ja vaivoja yritettiin parantaa? Mitkä ovat lääketieteen historian synkimpiä sivuja ja kamalimpia tai erikoisimpia hoitomuotoja? Haastateltavana Suomen Lääketieteen Historian Seuran puheenjohtaja Elina Maaniitty. Toimittajana Samppa Korhonen.
-      - title: Romano mirits
+      - title: 'Romano mirits: “Ei mitään meistä ilman meitä”'
         start_time: '2026-10-18T23:26:00+03:00'
         end_time: '2026-10-18T23:39:30+03:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Suomessa laaditaan parhaillaan ensimmäisiä romanitutkimuksen ja tiedonkeruun eettisiä ohjeita, jotka perustuvat yhteisölähtöiselle tutkimusetiikalle ja periaatteelle “Ei mitään meistä ilman meitä”. 
+          Haastateltavana THL:n eritystutkija Marko Stenroos. Toimittajana Mertsi Lindgren. 
+
+
       - title: Yöklassinen
         start_time: '2026-10-18T23:40:00+03:00'
         end_time: '2026-10-19T06:30:00+03:00'
