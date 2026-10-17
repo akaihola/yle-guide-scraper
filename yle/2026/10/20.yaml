@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-16T02:16:52.604108+00:00'
+  generated_at: '2026-10-17T02:16:13.268512+00:00'
   git:
     branch: main
-    commit: aa8c3bfd2b592e71e34f4b067e4c5d4f4b9489f7
-  data_hash: 4d924742282d4ef0a2ff5730b90776cefd76beffe4331f91fe1e7297de18b793
+    commit: c136fd8777a61e11846d3d0090e4406fe2f4f066
+  data_hash: ffc8c2dc5b443b651d08972421d3c6e16c95d0674317c3713b9b9d1d9c162ed5
 data:
   '':
     programmes:
@@ -236,26 +236,25 @@ data:
         description: |-
           Dvorák: Slaavilainen tanssi n:o 8 g-molli (Jouko Harjanne, trumpetti, ja Kari Hänninen, piano).
 
-          Holst: Merkurius, siivekäs sanansaattaja sarj. Planeetat (Atlantan SO/Yoel Levi).
+          Holst: Mercury, the winged messenger (Merkurius, siivekäs sanansaattaja) teoks. The Planets (Planeetat) (Atlantan SO/Yoel Levi).
 
           Similä: Laulu oravasta (Matti Lehtinen, baritoni, ja soitinyhtye/Jorma Panula).
 
           Smyth: Allegro molto leggiero jousikvartetosta e-molli (Mannheimin jousikvartetti).
 
-          van den Bergh: Lied (Frans van Ruth, piano).
+          Bergh: Lied (Frans van Ruth, piano).
 
           Boyle: Alkusoitto orkesterille (BBC:n konserttiork./Ronald Corp).
 
-          Mendelssohn: Andante konserttikappaleesta n:o 1 (Kari Kriikku, klarinetti, Osmo Linkola, basettitorvi, ja Arto Satukangas, piano).
+          Mendelssohn: Andante teoks. Konzertstück n:o 1 (Kari Kriikku, klarinetti, Osmo Linkola, basettitorvi, ja Arto Satukangas, piano).
 
           Vaughan Williams: Whither must I wander (Minne vie vaellukseni) sarj. Songs of travel (Matkalauluja) (James Gilchrist, tenori, ja Anna Tilbrook, piano).
 
-          S. Dussek: La Chasse (Metsästys) (Floradela Sacchi, harppu).
+          S. Dussek: La chasse (Metsästys) (Floradela Sacchi, harppu).
 
           Debussy: Finaali sonaatista huilulle, alttoviululle ja harpulle (Aurèle Nicolet, Nobuko Imai ja Naoko Yoshino).
 
-          Ohjelman on toimittanut Laura Korhonen.
-          Juontajana Airik Hodge.
+          Ohjelman on toimittanut Laura Korhonen. Juontajana Airik Hodge.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-20T17:00:00+03:00'
         end_time: '2026-10-20T17:05:00+03:00'
@@ -267,11 +266,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-20T17:30:00+03:00'
         end_time: '2026-10-20T17:35:00+03:00'
-      - title: Kissankehto - Susanna Vainiola
+      - title: 'Kissankehto - Susanna Vainiola: Metsä, ystäväni?'
         start_time: '2026-10-20T17:35:00+03:00'
         end_time: '2026-10-20T18:30:00+03:00'
-        description: |-
-          Hemmottelumusiikkia ja laulun mittaisia tarinoita tarjoilee musiikkitoimittaja Susanna Vainiola.
+        description: |
+          Kissankehdon lauluissa oppaina toimivat puolisudet ja antiikin ajan henkiolennot
       - title: Hartaita säveliä
         start_time: '2026-10-20T18:35:00+03:00'
         end_time: '2026-10-20T18:50:00+03:00'
