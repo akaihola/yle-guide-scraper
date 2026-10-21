@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-20T02:16:32.886572+00:00'
+  generated_at: '2026-10-21T02:18:19.719796+00:00'
   git:
     branch: main
-    commit: 7b17208fc9757a661b6bacb8a951036298259775
-  data_hash: 8c51c990d9991daacf0e3053b9ad890f6fa184c2ab05803e9a50b2f8cbc0e24b
+    commit: daecf2bf43d9128431ceef9f4b0ba4083f6ce3fa
+  data_hash: f08f3bc95186c76d277886215e472abf678d567bbb04f27a428f3d6299833177
 data:
   '':
     programmes:
@@ -86,17 +86,19 @@ data:
       - title: Uudet levyt
         start_time: '2026-11-01T14:00:00+02:00'
         end_time: '2026-11-01T14:55:00+02:00'
-        description: |
+        description: |-
           Saarenkylä: Cubic cubic (Viivi Maria Saarenkylä). 
           Saarenkylä: Silkkiuikut (Kata Vuoristo ja Viivi Maria Saarenkylä). 
-          Saarenkylä: Island village (Viivi Maria Saarenkylä). 
+          Kaipiainen: Tanssi, tanssi (Lapua-Uusi-Guinea). 
+          Kaipiainen: Lähde (Lapua-Uusi-Guinea). 
           Majidi/Saikkonen/Pirttijärvi: Yötön yö (Ulla Pirttijärvi ja Mood Suprim). 
-          Majidi/Saikkonen/Kiprianoff: Jie'llem miar (Hanna-Maaria Kiprianoff ja Mood Suprim). 
           Mattus-Kumpunen: Kyehtlov sekunttid (Ulpu Mattus-Kumpunen ja Mood Suprim). 
           Kakko/Therman: Shepherds of darkness (Tahko HZ). 
           Haavisto: Juniper-grooc(v)e (Jukka Haavisto Löydy Syndicate). 
           Haavisto: Opus nr. 10 (Jukka Haavisto - Löyly Syndicate).
           Rahmel: Suru ei tunne mua (Jutta Rahmel ja Mikko Malmivaara). 
+
+          Konsertin on toimittanut Miika Lauriala. 
       - title: Ykköskolumni
         start_time: '2026-11-01T14:55:00+02:00'
         end_time: '2026-11-01T15:00:00+02:00'
