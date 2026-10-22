@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-21T02:18:25.509880+00:00'
+  generated_at: '2026-10-22T02:18:17.478605+00:00'
   git:
     branch: main
-    commit: daecf2bf43d9128431ceef9f4b0ba4083f6ce3fa
-  data_hash: f08f3bc95186c76d277886215e472abf678d567bbb04f27a428f3d6299833177
+    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
+  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
 data:
   '':
     programmes:
@@ -136,9 +136,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-20T19:00:00+02:00'
         end_time: '2026-11-20T19:02:00+02:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Auringon korkea nousu – suomalaista kuoromusiikkia'
         start_time: '2026-11-20T19:02:00+02:00'
         end_time: '2026-11-20T21:00:00+02:00'
+        description: |-
+          Sibelius-Akatemian Kuopion yksikön kamarikuoron konsertissa kuullaan laaja kattaus suomalaista kuoromusiikkia tunnetuista klassikoista nykymusiikkiin.
+
+          Konsertissa kuullaan muun muassa Jean Sibeliuksen ja Toivo Kuulan rakastettuja klassikkosävelmiä, harvemmin kuultua kansallisromanttista ohjelmistoa Greta Dahlströmin ja Armas Maasalon kynästä sekä uudempaa kuoromusiikkia, jota edustavat muun muassa Einojuhani Rautavaaran Halavan himmeän alla, joka on vaikuttava kolmiosainen sarja Aleksis Kiven runoihin, sekä Anna-Mari Kähärän Mika Waltarin runoon säveltämä Aurinkolaulu. Konsertin johtaa kuoronjohdon lehtori Saara Aittakumpu.
+
+          17.11.2026 Kuopion Musiikkikeskuksessa tallennetun konsertin toimittaa Ainomaija Pennanen.
+
+          Kuva: Katariina Ylimäki
       - title: 'Politiikkaradio '
         start_time: '2026-11-20T21:00:00+02:00'
         end_time: '2026-11-20T21:30:00+02:00'

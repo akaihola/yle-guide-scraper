@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-21T02:18:18.570151+00:00'
+  generated_at: '2026-10-22T02:18:12.131194+00:00'
   git:
     branch: main
-    commit: daecf2bf43d9128431ceef9f4b0ba4083f6ce3fa
-  data_hash: f08f3bc95186c76d277886215e472abf678d567bbb04f27a428f3d6299833177
+    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
+  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
 data:
   '':
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-28T06:30:50+02:00'
         end_time: '2026-10-28T06:50:00+02:00'
+        description: |+
+          Kansansäv. (sov. Linkola): Mua siipeis suojaan kätke (Jukka Perko, saksofoni, ja Virtuosi di Kuhmo/John Storgårds).
+
+          Ahnfelt (sov. Matis Metsala): Joka aamu on armo uus' (Mehis Metsala, sello, ja yhtye).
+
+          Purday: Kirkkahin tähti (Braxén-kuoro/Harry Westerlund).
+
+          T. Kuusisto: Suomalainen rukous (Soile Isokoski, sopraano, ja Helsingin kaupunginork./John Storgårds).
+
       - title: Aamuhartaus
         start_time: '2026-10-28T06:50:00+02:00'
         end_time: '2026-10-28T06:59:59+02:00'
@@ -62,7 +71,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-28T09:04:00+02:00'
         end_time: '2026-10-28T09:59:00+02:00'
-        description: |+
+        description: |-
           Rodygin: Uralin pihlaja (Seija Järvinen).
           Vreeswijk: Polaren Per är kärlekskrank (Cornelis Vreeswijk).
           Manze: Tyttö kulmapöydässä (Ritva Mustonen).
@@ -80,13 +89,15 @@ data:
           Tizol/Ellington: Caravane (Laura Fygi).
           Kontio: Castle mood (The Strangers).
 
-      - title: Havaintoja muutoksesta
+          Konsertin on laatinut Tuuli Saksala.
+      - title: 'Havaintoja muutoksesta: Koiran ja ihmisen välinen tunneyhteys ja vuorovaikutus'
         start_time: '2026-10-28T10:00:00+02:00'
         end_time: '2026-10-28T10:50:00+02:00'
-        description: |
+        description: |+
           Koirat kiintyvät ihmisiin ja monelle ihmiselle koira on perheenjäsen. Koiran ja ihmisen välinen tunneyhteys näkyy käyttäytymisen lisäksi myös autonomisen hermoston toiminnassa.
-          Millainen biologinen perusta koiran ja ihmisen välisessä suhteessa on? Millainen yhteydellä koiraan on? 
-          Toimittaja Satu Kivelä keskustelee aiheesta väitöskirjatutkija Aija Koskelan ja kirjailija Tiina Raevaaran kanssa.
+          Millainen biologinen perusta koiran ja ihmisen välisessä suhteessa on? 
+          Toimittaja Satu Kivelä keskustelee aiheesta tutkija Aija Koskelan ja kirjailija Tiina Raevaaran kanssa.
+
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-28T10:50:00+02:00'
         end_time: '2026-10-28T11:00:00+02:00'
@@ -130,16 +141,16 @@ data:
         description: |+
           Liisa Akimof: 2000 litraa omenamehua.
 
-      - title: Aitiovieras
+      - title: 'Aitiovieras: Liisa Akimofin vilkas syksy: uusi musiikki, elokuva ja Soihdunkantaja-palkinto'
         start_time: '2026-10-28T13:35:00+02:00'
         end_time: '2026-10-28T14:00:00+02:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista
+           Liisa Akimofilla on menossa vilkas syksy. Pitkään erityisesti tv-tuottajan töihin keskittynyt Akimof teki pari vuotta sitten 27 vuoden tauon jälkeen uuden levyn ja on julkaissut uutta musiikkia myös tänä vuonna. Syksyn keikkailun lomassa hän on ehtinyt myös viimeistellä elokuvan Minä ja Riikka Purra. Se on ensi-illassa perjantaina 30.10. Lisäksi Avate Audiovisuaalisen alan tekijät jakoi nyt syksyllä Soihdunkantaja-palkinnon Akimofille av-teosten immateriaalioikeuksien puolustamisesta. Jarmo Laitaneva haastattelee.
       - title: 'Musiikkiaitio: Usko aina unelmiin'
         start_time: '2026-10-28T14:00:00+02:00'
         end_time: '2026-10-28T15:00:00+02:00'
         description: |+
-          Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+          Lähde mukaan musiikin maailmankiertueelle. Juontajana Jarmo Laitaneva. Lähetyksessä mukana myös kurkistus illan konsertin kulisseihin.
 
 
           Van Heusen: Se tapahtuu (Timo Kiiskinen).
@@ -215,14 +226,24 @@ data:
         end_time: '2026-10-28T18:35:00+02:00'
         description: |-
           Jazzklubin vieraina ovat Suomen jazzliiton toiminnanjohtaja Maria Silvennoinen ja viestintä- ja tuotantokoordinaattori Valtteri Pokela. Toimittajina Laura Korhonen ja Eero Koski. 
-      - title: Hartaita säveliä
+      - title: 'Herra, pelasta meidät '
         start_time: '2026-10-28T18:35:00+02:00'
         end_time: '2026-10-28T18:50:00+02:00'
+        description: |+
+          J.S. Bach: Ich ruf zu dir, Herr Jesu Christ (Mä huudan Kristus sinua) (Murray Perahia, piano).
+
+          Turpela: Herra, pelasta meidät (Sibelius-Akatemian Kuopion osaston kuoro/Heikki Liimola).
+
+          J.S. Bach: Mua armahda, oi Jumala (Tauno Äikää, urut).
+
+          Koraalitoisinto (sov. Rissanen - Taipale - Kallio): Jo mahtaisimme yötä ja päivääkin kiittää (Jaakko Löytty, laulu, Espoon seurakuntien nuorten kuoro, ja Wirren Wiemää -yhtye).
+
       - title: Iltahartaus
         start_time: '2026-10-28T18:50:00+02:00'
         end_time: '2026-10-28T19:00:00+02:00'
         description: |-
-          Kirkkoherra Satu Linko, Isokyrö
+          "Hämärässä pienikin valo näkyy kauas"
+          Isonkyrön Kirkkoherra Satu Linko huomaa syysillan pimetessä näkevänsä selvemmin sisäisen maailmansa ja kysyy, mitä sinä kannat hämärässä mukanasi?
       - title: Yle Uutiset ja sää
         start_time: '2026-10-28T19:00:00+02:00'
         end_time: '2026-10-28T19:02:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-21T02:18:19.059829+00:00'
+  generated_at: '2026-10-22T02:18:12.841698+00:00'
   git:
     branch: main
-    commit: daecf2bf43d9128431ceef9f4b0ba4083f6ce3fa
-  data_hash: f08f3bc95186c76d277886215e472abf678d567bbb04f27a428f3d6299833177
+    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
+  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
 data:
   '':
     programmes:
@@ -15,11 +15,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-30T06:30:50+02:00'
         end_time: '2026-10-30T06:50:00+02:00'
+        description: |+
+          Klemetti (sov. Vänskä): Taas siunattu päivä nyt luo valoaan (virsi 532) (Sinfonia Lahti/Osmo Vänskä).
+
+          Tuntematon: Oi armon merta ihmeellistä (virsi 215) (RKK/Tarja Viitanen, ja Pertti Eerola, urut).
+
+          Williams: Laula Herran rakkaudesta (Musica Fidei/Tomi Aalto, ja Matti Pesonen, piano).
+
+          Krank: Oi kuningasten kuningas (Cetus Noster, ja Pekka Suikkanen, urut).
+
       - title: Aamuhartaus
         start_time: '2026-10-30T06:50:00+02:00'
         end_time: '2026-10-30T06:59:59+02:00'
         description: |-
-          Pappi, kirkkotila-asiantuntija Mika K T Pajunen, Sastamala
+          "Pyhiinvaeltajien rukous"
+          Pappi, kirkkotila-asiantuntija Mika K T Pajunen Sastamalasta muistaa ennen meitä kulkeneita uskon todistajia yhteisellä vaelluksella kohti Jumalan kirkkautta.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-30T07:00:00+02:00'
         end_time: '2026-10-30T07:05:00+02:00'
@@ -59,19 +69,20 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-10-30T09:04:00+02:00'
         end_time: '2026-10-30T09:59:00+02:00'
-        description: |+
-          Kosma: Feuilles mortes (Matti Viljanen).
-          Becaud:  L'Important c'est la rose (Tapio Heinonen).
+        description: |-
+          Kosma: Les feuilles mortes (Matti Viljanen).
+          Becaud: L'important c'est la rose (Tapio Heinonen).
           Modugno: Taivaan sinessä (Jorma Lyytinen).
-          Wolf: I'm a fool to want you (Tom Jones).
+          Wolf/Herron/Sinatra: I'm a fool to want you (Tom Jones).
           Kuoppamäki: Paljon sanomatta jää (Jukka Kuoppamäki).
           Kuoppamäki: Will I ever love again? (Warren Schatz).
           Calderon: Tu volveras (Sergio y Estibaliz).
           Farres: Quizas, quizas, quizas (Gaby Moreno).
           Brel: La cathedrale (Jacques Brel).
           Kern: Ol' man river (Ray Charles).
-          Olias: Mustalaistango (Radion viihdeorkesteri).
+          Olias: Mustalaistango (Radion viihdeork./Erik Cronvall).
 
+          Konsertin on laatinut Pekka Laine.
       - title: Kalle Haatanen
         start_time: '2026-10-30T10:00:00+02:00'
         end_time: '2026-10-30T10:55:00+02:00'
@@ -164,7 +175,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-30T17:30:00+02:00'
         end_time: '2026-10-30T17:35:00+02:00'
-      - title: Euroviisuja Suomentava Kalle Niemi ei ole euroviisufani.
+      - title: 'Näistä levyistä en luovu: Euroviisuja suomentava Kalle Niemi ei ole euroviisufani'
         start_time: '2026-10-30T17:35:00+02:00'
         end_time: '2026-10-30T18:30:00+02:00'
         description: |-
