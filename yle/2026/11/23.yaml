@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-22T02:18:17.948340+00:00'
+  generated_at: '2026-10-23T02:18:17.393866+00:00'
   git:
     branch: main
-    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
-  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
+    commit: 850f1d6eea0af9e7877c0523fb305267ccac235c
+  data_hash: aad519a051f3d9a96227d3a960693b92f4e51c5e7e7ebfaf7df32de6b89f8758
 data:
   '':
     programmes:
@@ -18,8 +18,10 @@ data:
       - title: Aamuhartaus
         start_time: '2026-11-23T06:50:00+02:00'
         end_time: '2026-11-23T06:59:59+02:00'
-        description: |-
-          Seurakuntapastori ja kaupunkiteologian väitöskirjatutkija Anu Rask, Helsinki
+        description: |+
+          "Tila kantaa merkityksiä ja muistoja"
+          Seurakuntapastori ja kaupunkiteologian väitöskirjatutkija Anu Rask Helsingistä puhuu ihmisen monimerkityksellisestä suhteesta itselleen rakkaisiin ja tärkeisiin paikkoihin.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-23T07:00:00+02:00'
         end_time: '2026-11-23T07:05:00+02:00'

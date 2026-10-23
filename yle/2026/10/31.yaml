@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-22T02:18:13.109591+00:00'
+  generated_at: '2026-10-23T02:18:11.220530+00:00'
   git:
     branch: main
-    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
-  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
+    commit: 850f1d6eea0af9e7877c0523fb305267ccac235c
+  data_hash: aad519a051f3d9a96227d3a960693b92f4e51c5e7e7ebfaf7df32de6b89f8758
 data:
   '':
     programmes:
@@ -57,9 +57,13 @@ data:
         end_time: '2026-10-31T11:00:00+02:00'
         description: |-
           Saarnaajana kirkkoherra Pauli Niemelä.
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Yön lapsi - vanhemmuuden pimeästä puolesta kauhun keinoin'
         start_time: '2026-10-31T11:00:00+02:00'
         end_time: '2026-10-31T11:55:00+02:00'
+        description: |
+          Hanna Bergholmin ohjaama ja yhdessä Ilja Rautsin kanssa käsikirjoittama Yön lapsi voidaan nähdä osana 2010-luvulta alkanutta kauhun uutta aaltoa, jossa psykologinen syvyys, yhteiskunnallisten näkökulmien laajentuminen ja naisohjaajien esiinnousu korostuvat. Elokuvassa tuodaan yhteen vanhemmuuteen liittyvät tabut,  suomalainen mytologia sekä ajattomat kauhun teemat, kuten kuolema, identiteetin menetys, vampyyrit ja hirviölapsi. Miksi kauhu on otollinen genre käsittelemään mielensisäisiä asioita? Mitä kaikkea elokuvan luontokuvauksesta voi lukea?
+
+          Uutuuselokuvan kimppuun käyvät Marja Vehkasen johdattelemana elokuvatutkija Antti Alanen ja alue- ja kulttuuritutkimuksen ja mediatutkimuksen dosentti Outi Hakola.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-31T11:57:00+02:00'
         end_time: '2026-10-31T12:00:00+02:00'
@@ -76,11 +80,11 @@ data:
           Kiviaseista miekkojen kautta ruutiin ja sotavaunuista ratsuväen kautta tankkeihin. Mitkä ovat olleet sodankäynnin isoimpia murroskohtia? Kumpi on taistelussa tärkeämpää, tehokkaammat aseet vai parempi taktiikka? Kuka on historian taitavin sotapäällikkö? Millainen vaikutus tulee olemaan autonomisilla aseilla ja tekoälyllä, juoksevatko taistelukentille pian tappajarobottiarmeijat?
 
           Sotataidosta ja sodankäynnin historiallisesta kehityksestä kertoo eversti (evp.), sotahistorian professori Petteri Jouko Maanpuolustuskorkeakoulusta. Toimittajana Samppa Korhonen.
-      - title: 'Näistä levyistä en luovu: Euroviisuja suomentava Kalle Niemi ei ole euroviisufani'
+      - title: 'Näistä levyistä en luovu: Euroviisuja suomentava Kalle Niemi ei ole viisufani'
         start_time: '2026-10-31T13:00:00+02:00'
         end_time: '2026-10-31T13:55:00+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Näistä levyistä en luovu esittelee suomentaja Kalle Niemen tärkeitä musiikkeja. Niemi on tunnettu muun muassa Euroviisu-kappaleiden kekseliäänä suomentajana. Hän on myös Suomen pääsarjatasolla pitkään pelannut jalkapalloilija. Millainen musiikki liikuttaa entistä HJK:n laitapuolustajaa? Toimittajana on Marko Miettinen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-31T13:55:00+02:00'
         end_time: '2026-10-31T14:00:00+02:00'
@@ -105,9 +109,12 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-31T15:25:00+02:00'
         end_time: '2026-10-31T15:30:00+02:00'
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Elämän loppumetrit, deadline vai exitus – Muistisairaiden hoitokodissakaan ei ole helppoa puhua kuolemasta'
         start_time: '2026-10-31T15:30:00+02:00'
         end_time: '2026-10-31T15:55:00+02:00'
+        description: |
+          Pasi Heikura menee muistisairaiden hoitokotiin akatemiatutkija Jenny Paanasen kanssa selvittämään, miten siellä puhutaan kuolemasta. Ohjelmassa selviää myös, mitä tapahtuu, kun valmentaja saa monokkelia ja onko ahdistavaa olla 24 seinän sisällä.
+          Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-31T15:55:00+02:00'
         end_time: '2026-10-31T16:00:00+02:00'
@@ -158,11 +165,13 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-31T19:00:00+02:00'
         end_time: '2026-10-31T19:02:00+02:00'
-      - title: Sävel on vapaa / 09 - 144 800
+      - title: Kirkkomusiikin ja hengellisen musiikin Sävel on vapaa / 09 - 144 800
         start_time: '2026-10-31T19:02:00+02:00'
         end_time: '2026-10-31T21:00:00+02:00'
         description: |-
-          Juontajina... Ohjelman suunnittelusta vastaa...
+          Juontajina seurakuntapastori Petja Kopperoinen ja musiikkitoimittaja Markus Virtanen. Ohjelman suunnittelusta vastaa Annina Aho.
+
+          Toivekonsertin puhelinlinjat aukeavat lähetyspäivän iltana klo 18. Soita numeroon 09-144 800 tai lähetä Whatsapp-viesti numeroon 044-5144 800.
       - title: Uutispodcast
         start_time: '2026-10-31T21:01:00+02:00'
         end_time: '2026-10-31T21:25:00+02:00'

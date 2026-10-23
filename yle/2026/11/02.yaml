@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-22T02:18:13.698792+00:00'
+  generated_at: '2026-10-23T02:18:11.750380+00:00'
   git:
     branch: main
-    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
-  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
+    commit: 850f1d6eea0af9e7877c0523fb305267ccac235c
+  data_hash: aad519a051f3d9a96227d3a960693b92f4e51c5e7e7ebfaf7df32de6b89f8758
 data:
   '':
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-02T07:06:00+02:00'
         end_time: '2026-11-02T08:00:00+02:00'
+        description: |+
+          W.A. Mozart: Menuetti 2 serenadista Es-duuri (Mozzafiato, ja Marji Danilow, kontrabasso).
+
+          Sor: Andantino A-duuri (David Starobin, kitara).
+
+          Liszt: Konserttietydi n:o 3 Des-duuri (Huokaus) (Matti Raekallio, piano).
+
+          Holst: Air ja muunnelmia kvintetosta puhaltimille As-duuri op.14 (Ensemble Arabesques).
+
+          Rorem: Early in the morning (Aamulla varhain) (Susan Graham, mezzosopraano, ja Malcolm Martineau, piano).
+
+          Ravel: Peukaloinen orkesterisarj. Hanhiemo (Soulin FO/Myung-Whun Chung).
+
+          Rossini: Andante ja muunnelmia F-duuri (Heinz Holliger, oboe, Ursula Holliger, harppu).
+
+          J.S. Bach: Allegro non troppo konsertosta n:o 1 d-molli BWV1052 (Murray Perahia, piano, ja Academy of St. Martin-in-the-Fields).
+
+          Couperin (sov. S. Assad): Le Bavolet-flotant sarj. cembalolle n:o 9 (Sergio Assad ja Odair Assad, kitara).
+
+          Squire: Danse rustique (Maalaistanssi) (Susanna Mälkki, sello, ja Martti Rautio, piano).
+
+          Dvorák: Rusalkan laulu kuulle (Jouko Harjanne, trumpetti, ja Norjan radio-orkesteri/Ari Rasilainen) 
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-02T08:00:00+02:00'
         end_time: '2026-11-02T08:07:00+02:00'
@@ -77,10 +100,13 @@ data:
         end_time: '2026-11-02T12:05:00+02:00'
       - title: 'Elävä historia tutkii: Pälkäneen kallot 5/5 - Kalloista paljastuu yllättäviä totuuksia'
         start_time: '2026-11-02T12:05:00+02:00'
-        end_time: '2026-11-02T12:55:00+02:00'
+        end_time: '2026-11-02T12:46:00+02:00'
         description: |-
           Kaikki kallot eivät olleetkaan sitä, mitä kuviteltiin! Viimeisessä jaksossa Suomeen palautetuista kalloista saadaan mullistavia uutisia ja kuullaan, mitä geenitestit kertovat muumioituneen "Huolestuneen Rouvan" elämästä ja perheestä.
           Toimittaja: Kaisa Pulakka. Äänisuunnittelu: Joonatan Kotila.
+      - title: Musiikkikamari
+        start_time: '2026-11-02T12:46:00+02:00'
+        end_time: '2026-11-02T13:00:00+02:00'
       - title: Politiikkaradio
         start_time: '2026-11-02T13:00:00+02:00'
         end_time: '2026-11-02T13:30:00+02:00'
@@ -226,11 +252,11 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-11-02T22:21:00+02:00'
         end_time: '2026-11-02T22:44:00+02:00'
-      - title: 'Näistä levyistä en luovu: Euroviisuja suomentava Kalle Niemi ei ole euroviisufani'
+      - title: 'Näistä levyistä en luovu: Euroviisuja suomentava Kalle Niemi ei ole viisufani'
         start_time: '2026-11-02T22:45:00+02:00'
         end_time: '2026-11-02T23:39:30+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Näistä levyistä en luovu esittelee suomentaja Kalle Niemen tärkeitä musiikkeja. Niemi on tunnettu muun muassa Euroviisu-kappaleiden kekseliäänä suomentajana. Hän on myös Suomen pääsarjatasolla pitkään pelannut jalkapalloilija. Millainen musiikki liikuttaa entistä HJK:n laitapuolustajaa? Toimittajana on Marko Miettinen.
       - title: Yöklassinen
         start_time: '2026-11-02T23:40:00+02:00'
         end_time: '2026-11-03T06:30:00+02:00'

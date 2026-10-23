@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-22T02:18:14.004478+00:00'
+  generated_at: '2026-10-23T02:18:12.017765+00:00'
   git:
     branch: main
-    commit: 7c688da19b8b98fe3f6acab8d0946806acded5ae
-  data_hash: c0fa17c868d1fa418722aa67a17b7b78b70320a907d487f0f7f309de5e502104
+    commit: 850f1d6eea0af9e7877c0523fb305267ccac235c
+  data_hash: aad519a051f3d9a96227d3a960693b92f4e51c5e7e7ebfaf7df32de6b89f8758
 data:
   '':
     programmes:
@@ -27,6 +27,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-03T07:06:00+02:00'
         end_time: '2026-11-03T08:00:00+02:00'
+        description: |+
+          Faure: Berceuse (Andreas Brantelid, sello, ja Bengt Forsberg, piano).
+
+          Haydn: Menuetti divertimentosta jousille Es-duuri (The Angeles String Quartet).
+
+          Beethoven: Onnittelumenuetti (Tapiola Sinfonietta/John Storgårds).
+
+          Mielck: Kolme fantasiakappaletta (Margit Rahkonen, piano).
+
+          Shostakovitsh: Romanssi elok. Paarma (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
+
+          J. Haydn: Adagio sinfoniasta n:o 60 C-duuri (Il distratto) (Orpheus-kamariork.).
+
+          Tshaikovski: Pienten joutsenten tanssi bal. Joutsenlampi (Philadelphian ork./Riccardo Muti).
+
+          Debussy: Clair de lune (Kuutamo) (Samson Francois, piano).
+
+          Kodály: Lyyrinen romanssi (Natalie Clein, sello, ja Julius Drake, piano).
+
+          Kansansävelmä (sov. Vänskä): Niin minä neitonen sinulle laulan (Sinfonia Lahti/Osmo Vänskä).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-03T08:00:00+02:00'
         end_time: '2026-11-03T08:07:00+02:00'
