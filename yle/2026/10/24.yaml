@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-23T02:18:08.892137+00:00'
+  generated_at: '2026-10-24T02:16:01.842259+00:00'
   git:
     branch: main
-    commit: 850f1d6eea0af9e7877c0523fb305267ccac235c
-  data_hash: aad519a051f3d9a96227d3a960693b92f4e51c5e7e7ebfaf7df32de6b89f8758
+    commit: 0ad65ccc6a7a7166fbff533c98632ce942af7ab5
+  data_hash: 38c5b25d59846c29bdaffbb6b9eaae97425006dffb0f890b79427ee34ffc38ac
 data:
   '':
     programmes:
@@ -47,6 +47,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-24T07:54:36+03:00'
         end_time: '2026-10-24T08:00:00+03:00'
+        description: |+
+          Netzel: Romance (Romanssi) (Mirka Malmi, viulu, ja Tiina Karakorpi, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-10-24T08:00:00+03:00'
         end_time: '2026-10-24T08:05:00+03:00'
@@ -54,15 +57,15 @@ data:
         start_time: '2026-10-24T08:05:00+03:00'
         end_time: '2026-10-24T08:25:00+03:00'
         description: |+
-          Lowry: Koko tien hän kanssain kulkee (Risto Saarman, tenori, ja Jorma Tiainen, urut).
+          Lagi: Menkää maitten ääriin asti (Vox Cantorum/Heikki Seppänen, ja Markku Mäkinen, urut).
 
-          Tuntematon: Ken Jumalan tuomion torjua voi (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+          Lowry: Koko tien hän kanssain kulkee (Risto Saarman, tenori, ja Jorma Tiainen, urut).
 
           Koraalitoisinto: Oi Pyhä Henki, vahvista (Gospel Covertajat).
 
           Koraalitoisinto (sov. Alakotila): Nyt nouse, kiitä Luojaa (Minsku Tammela, laulu, Tommi Asplund, viulu, Senni Valtonen, kantele, Maria Kalaniemi, harmonikka, Hannu Rantanen, kontrabasso, ja Timo Alakotila, piano).
 
-          Tuntematon: Ken Jumalan tuomion torjua voi (RKK/Timo Nuoranne, ja Harri Viitanen, urut).
+          Nkounkou: Vien suuren viestin (MMV-kuoro/Matti Mertanen).
 
       - title: Aamuhartaus
         start_time: '2026-10-24T08:25:00+03:00'
@@ -101,14 +104,25 @@ data:
           Schönberg: Master of the house (Alun Armstrong ja Susan Jane Tanner).
 
           Konsertin on laatinut Pasi Hiihtola.
-      - title: Maailmanpolitiikan arkipäivää
+      - title: 'Maailmanpolitiikan arkipäivää: Rämpiikö mellakoihin ajatutunut Ranska hybridioperaatioiden hetteikössä?'
         start_time: '2026-10-24T10:00:00+03:00'
         end_time: '2026-10-24T10:25:00+03:00'
+        description: |-
+          Hybridivaikuttamisen päällimmäisenä tavoitteena on lietsoa epävarmuutta ja kylvää hämmennystä.
+          Erityisesti Venäjä pyrkii luomaan jakolinjoja Euroopassa ja muualla myös valtioiden sisälle.
+          Hybridivaikuttamisen roolia pohditaan juuri nyt Ranskassa, jossa mielenosoitukset kärjistyivät mellakoinniksi aiemmin tässä kuussa.
+          Maailmanpolitiikan arkipäivää-ohjelman toimittavat  Teemu Juhola, Miina Väisänen ja Erja Tuomaala. Äänitarkkailijana on Marko Vierikko.
       - title: 'Uusiutuva tiede: Lääketiede 2/2 – Kallonporausta ja muita toimivia hoitoja'
         start_time: '2026-10-24T10:25:00+03:00'
         end_time: '2026-10-24T10:55:00+03:00'
         description: |-
           Lääketieteen historiaan mahtuu kamalia harhapolkuja, mutta myös loistavia läpimurtoja ja voittokulkuja. Onnistuneita kallonporauksia tehtiin tuhansia vuosia sitten ja silmäleikkauksiakin jo keskiajalla. Parantamisesta oli ymmärrystä, vaikka esimerkiksi taudinaiheuttajat olivat tuntemattomia. Lääketieteen kehityksestä ja edistyaskeleista kertoo Suomen Lääketieteen Historian Seuran puheenjohtaja Elina Maaniitty. Toimittajana Samppa Korhonen.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-10-24T10:55:00+03:00'
+        end_time: '2026-10-24T11:00:00+03:00'
+        description: |+
+          Marais: Sappikivileikkauskuvaelma (Le Tableau de l’Opération de la Taille) sarj. viola da gamballe ja continuolle (Pieces de viole 5) (Markku Luolajan-Mikkola, ja Timo Juntura, viola da gamba, Eero Palviainen, luuttu, Elina Mustonen, cembalo, sekä Lasse Pöysti, lausunta). 
+
       - title: 'Virtasen taloushistoria: Miten pääomasijoittaja eroaa sijoittajasta?'
         start_time: '2026-10-24T11:00:00+03:00'
         end_time: '2026-10-24T11:55:00+03:00'
@@ -139,6 +153,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-24T13:55:00+03:00'
         end_time: '2026-10-24T14:00:00+03:00'
+        description: |+
+          W.A. Mozart: Figaron resitatiivi ja aaria "Aprite un po" oopp. Figaron häät (Ferrucio Furlanetto, baritoni, ja Metropolitan-oopperan ork./James Levine).
+
       - title: 'Kalle Haatanen: Suuri suomalainen vakoilutapaus'
         start_time: '2026-10-24T14:00:00+03:00'
         end_time: '2026-10-24T14:55:00+03:00'
@@ -208,7 +225,7 @@ data:
 
 
       - title: Yksi on hyvää seuraa
-        start_time: '2026-10-24T17:53:00+03:00'
+        start_time: '2026-10-24T17:58:00+03:00'
         end_time: '2026-10-24T18:00:00+03:00'
       - title: Ehtookellot
         start_time: '2026-10-24T18:00:00+03:00'
@@ -227,7 +244,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-10-24T19:00:00+03:00'
         end_time: '2026-10-24T19:02:00+03:00'
-      - title: Donizettia La Scalassa, Mozartia Verbier’ssä, Peter Grimes Lontoossa sekä Camilla Nylundin haastattelu
+      - title: 'Oopperailta: Donizettia La Scalassa, Mozartia Verbier’ssä, Peter Grimes Lontoossa sekä Camilla Nylundin haastattelu'
         start_time: '2026-10-24T19:05:00+03:00'
         end_time: '2026-10-24T20:59:17+03:00'
         description: |-
