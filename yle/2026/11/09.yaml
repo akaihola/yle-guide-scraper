@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-26T02:21:49.660926+00:00'
+  generated_at: '2026-10-27T02:19:31.228566+00:00'
   git:
     branch: main
-    commit: 2cd786818e8601ba791544e59ce5e6dca9a1a96a
-  data_hash: 7b2106376fa2088850d74b0248c10b5677d6490d6abc5fdd9cfd6401e2dc6512
+    commit: d65fece2074c10845941c6b5cd3b8490a55e132b
+  data_hash: 1f9362f0ee371e1f62a7a5c649f85a2a4bbcc172a3984163a08d358cbe0bc561
 data:
   '':
     programmes:
@@ -27,6 +27,25 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-09T07:06:00+02:00'
         end_time: '2026-11-09T08:00:00+02:00'
+        description: |+
+          W.A. Mozart: Neljä kontratanssia (Tapiola Sinfonietta/Jean-Jacques Kantorow).
+
+          D. Scarlatti: Sonaatti C-duuri (David Russell, kitara).
+
+          Chopin: Andante spianato G-duuri (Jan Lisiecki, piano). 
+
+          Schubert: Välisoitto n:o 3 B-duuri näyt. Rosamunde (RSO/Sakari Oramo).
+
+          J. King: Everyone's gone to the moon (Laura van der Heijden, sello, ja Jâms Coleman, piano).
+
+          Debussy: Balladi (Anna Kuvaja, piano).
+
+          Alfven: Så tag mit hjerte (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano).
+
+          Elgar: Dream children (Unen lapset) (Lontoon FO/Adrian Boult).
+
+          Offenbach: Poloneesi sarj. kahdelle sellolle n:o 2 E-duuri (Roland Pidoux ja Étienne Peclard).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-09T08:00:00+02:00'
         end_time: '2026-11-09T08:07:00+02:00'
@@ -90,7 +109,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-11-09T16:07:00+02:00'
         end_time: '2026-11-09T16:59:00+02:00'
-        description: |
+        description: |-
           Klami: Sumuinen aamu teoks. Merikuvia (RSO/Leif Segerstam).
 
           Nielsen: Tågen letter (Sumu hälvenee) näyt. Moderen (Äiti) (Etelä-Jyllannin SO/Frans Rasmussen).
@@ -99,23 +118,23 @@ data:
 
           Moszkowski: Etydi F-duuri (Mihail Pletnjov, piano). 
 
-          Prokofjev: Vanhan isoäidin kertomuksia (Midori, viulu, ja Robert McDonald, piano).
+          Prokofjev: Andantino ja Andante assai teoks. Vanhan isoäidin kertomuksia (Midori, viulu, ja Robert McDonald, piano).
 
-          W.F.Bach: Sinfonia D-duuri (Carl Philipp Emanuel Bach -kamariork./Hartmut Haenchen)
+          W.F.Bach: Sinfonia D-duuri (Carl Philipp Emanuel Bach -kamariork./Hartmut Haenchen).
 
           Héritte-Viardot: Divertimento kvartetosta D-duuri (Espanjalainen kvartetto) (Ensemble Viardot).
 
-          Kraus: Elmiran tanssi laulunäytelmästä Soliman II (Concerto Köln ja Stefan Gawlik, tamburell-rumpu).
+          Kraus: Danza di Elmira (Elmiran tanssi) oopp. Soliman II eller de tre sultaninnorna (Concerto Köln ja Stefan Gawlik, tamburello).
 
-          Händel: Ptolemaioksen resitatiivi ja aaria "Stille amare" oopperasta Tolomeo (Anthony Roth Costanzo, kontratenori, ja Les Violons du Roy/Jonathan Cohen).
+          Händel: Ptolemaioksen aaria "Stille amare" oopp. Tolomeo (Ptolemaios) (Anthony Roth Costanzo, kontratenori, ja Les Violons du Roy/Jonathan Cohen).
 
           Ewart: Preludi n:o 3 (Jeanell Carrigan, piano).
 
-          Christian Lindberg: Rakastunut panda (Öystein Baadsvik, tuuba ja Pohjois-Norjan SO).
+          Lindberg: Rakastunut panda (Öystein Baadsvik, tuuba, ja Pohjois-Norjan SO).
 
           Whitacre: Water night (The Eric Whitacre Singers/Eric Whitacre).
 
-          Konsertin on laatinut Eva Tigerstedt
+          Konsertin on laatinut Eva Tigerstedt.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-09T17:00:00+02:00'
         end_time: '2026-11-09T17:05:00+02:00'

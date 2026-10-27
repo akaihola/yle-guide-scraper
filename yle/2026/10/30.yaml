@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-26T02:21:46.587567+00:00'
+  generated_at: '2026-10-27T02:19:27.214119+00:00'
   git:
     branch: main
-    commit: 2cd786818e8601ba791544e59ce5e6dca9a1a96a
-  data_hash: 7b2106376fa2088850d74b0248c10b5677d6490d6abc5fdd9cfd6401e2dc6512
+    commit: d65fece2074c10845941c6b5cd3b8490a55e132b
+  data_hash: 1f9362f0ee371e1f62a7a5c649f85a2a4bbcc172a3984163a08d358cbe0bc561
 data:
   '':
     programmes:
@@ -94,14 +94,18 @@ data:
       - title: Narrin aamulaulu - Suomen suosituimmat Pokelat
         start_time: '2026-10-30T11:00:00+02:00'
         end_time: '2026-10-30T11:55:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |
+          "Yksi haamu oli Marjaanan ovella" tai "Laula kukko" - 1950- ja -60-luvuilla kaikki tiesivät näiden laulujen esittäjät, Marjatta ja Martti Pokelan. Duo voittikin vuonna 1952 radion yleisöäänestyksessä suosituimman esiintyjän palkinnon. Kun vanhempien seuraan liittyi tytär, taiteilijanimeltään Eveliina, muodostui Pokeloista myös merkittävä osa tv-historiaa. 
+          Elämästä ja musiikin tekemisestä koko kansan Pokeloina kertoo Eeva-Leena Pokela. Outi Paanasen haastateltavana on lisäksi musiikintutkija Hannu Saha.
+          Osa 1/2. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-10-30T11:55:00+02:00'
         end_time: '2026-10-30T11:57:00+02:00'
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-10-30T11:57:00+02:00'
         end_time: '2026-10-30T12:00:00+02:00'
+        description: |-
+          Markku Envallin aforismeja kokoelmasta Rakeita.
       - title: Yle Uutiset ja sää
         start_time: '2026-10-30T12:00:00+02:00'
         end_time: '2026-10-30T12:05:00+02:00'
@@ -205,6 +209,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-10-30T18:35:00+02:00'
         end_time: '2026-10-30T18:50:00+02:00'
+        description: |+
+          Maasalo: Aurinko vaipuu mailleen (Radion kamariork./Erik Cronvall).
+
+          Koraalitoisinto: Eijaa! Jo laulaa sielu kiitostansa (Pertti Rusanen, baritoni, ja Eero Väätäinen, urut).
+
+          L. Moberg (sov. Stefan Jansson): Var inte rädd (Nanna Rosengård, laulu, Stefan Jansson, piano, ja yhtye).
+
       - title: Iltahartaus
         start_time: '2026-10-30T18:50:00+02:00'
         end_time: '2026-10-30T19:00:00+02:00'

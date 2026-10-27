@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-26T02:21:50.410099+00:00'
+  generated_at: '2026-10-27T02:19:31.932194+00:00'
   git:
     branch: main
-    commit: 2cd786818e8601ba791544e59ce5e6dca9a1a96a
-  data_hash: 7b2106376fa2088850d74b0248c10b5677d6490d6abc5fdd9cfd6401e2dc6512
+    commit: d65fece2074c10845941c6b5cd3b8490a55e132b
+  data_hash: 1f9362f0ee371e1f62a7a5c649f85a2a4bbcc172a3984163a08d358cbe0bc561
 data:
   '':
     programmes:
@@ -39,6 +39,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-11-12T09:04:00+02:00'
         end_time: '2026-11-12T09:59:00+02:00'
+        description: |-
+          Burke/Johnston: Pennies from heaven (Louis Prima).
+          Jularbo: Elämää suomalaismetsissä (Metro-tytöt).
+          Joyce: Höstdrömmar (Carl Holmberg).
+          Dominguez: Perfidia (Xavier Cugat ork.).
+          Gibb/Gibb/Gibb: Islands in the stream (Dolly Parton ja Kenny Rogers).
+          Samuli: Syysunelma (Katri Helena).
+          Adamo: Dans ton sommeil (Salvatore Adamo).
+          Swanstone/McCarron/Morgan: Blues my naughty sweetie gives to me (Sidney Bechet).
+          Arlen: It's only a paper moon (Ella Fitzgerald & The Delta Rhythm Boys).
+          Carosone: O sarracino (Renato Carosone).
+          Bruhn: Tina ja Marina (Tuula ja Paula). 
+          Hamlisch: Nobody does it better (Carly Simon).
+          Knuutinen: Voin odottaa (Yari).
+          Brooker: As strong as Samson (Procol Harum).
+
+          Toimittajana Susanna Vainiola.
       - title: Marko Gustafsson
         start_time: '2026-11-12T10:00:00+02:00'
         end_time: '2026-11-12T10:53:00+02:00'
@@ -133,7 +150,8 @@ data:
         start_time: '2026-11-12T21:10:00+02:00'
         end_time: '2026-11-12T21:20:00+02:00'
         description: |-
-          Diakoni Katariina Ottosson, Turku
+          "Pysähtymisen siunauksia"
+          Diakoni Katariina Ottosson Turusta odottaa syksyn tuomaa aikaa olemiselle ja pohtii kiirehtimisestä luopumisen tarjoamia näkökulmia elämään.
       - title: 'Politiikkaradio '
         start_time: '2026-11-12T21:25:00+02:00'
         end_time: '2026-11-12T21:55:00+02:00'
