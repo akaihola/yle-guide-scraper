@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-28T02:13:11.529232+00:00'
+  generated_at: '2026-10-29T02:13:14.647940+00:00'
   git:
     branch: main
-    commit: c0ba6b48a58a0452b2e027483c1e2698c5d8caa6
-  data_hash: fe1b7fc7888a10c9963dd06d09e1f850f55fb2622f7f5cf39fc2e2c02c9c0b20
+    commit: dcf27ae876519381f8a9ae9130049454beb3043d
+  data_hash: 03b719173fa9ab95590949f7e9ea55fae23170787b882e7f0e5c960a3143e870
 data:
   '':
     programmes:
@@ -74,6 +74,17 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-01T09:03:00+02:00'
         end_time: '2026-11-01T09:53:00+02:00'
+        description: |+
+          Vivaldi: Konsertto luutulle, kahdelle viululle ja continuolle D-duuri (Luca Lucini, kitara, Mario Stefano Pietrodarchi, bandoneon, ja Constantinus-jousikvartetti).
+
+          Leclair: Sonaatti c-molli (Hauta) (Yuval Yaron, viulu, ja Jeremy Denk, piano).
+
+          Lotti: Credo F-duuri (Balthasar Neumann -kuoro ja -ork./Thomas Hengelbrock).
+
+          Rameau: La poule (Kana) (St. Martin-in-the-Fields/Neville Marriner). 
+
+          Gluck: Raivotarten tanssi ja Autuaitten sielujen karkelo oopp. Orfeus ja Eurydike (Orpheus-kamariork.).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-11-01T09:56:00+02:00'
         end_time: '2026-11-01T09:59:00+02:00'
@@ -191,12 +202,12 @@ data:
         end_time: '2026-11-01T17:05:00+02:00'
       - title: 'Jazzklubi: Tampere Jazz Happening special.'
         start_time: '2026-11-01T17:05:00+02:00'
-        end_time: '2026-11-01T20:00:00+02:00'
+        end_time: '2026-11-01T19:59:00+02:00'
         description: |-
           Toimittajina Laura Korhonen ja Eero Koski.
       - title: Akatistos Johannes Valamolaiselle Mikkelin Pyhän ylienkeli Mikaelin kirkosta
-        start_time: '2026-11-01T20:05:00+02:00'
-        end_time: '2026-11-01T21:05:00+02:00'
+        start_time: '2026-11-01T20:00:00+02:00'
+        end_time: '2026-11-01T21:00:00+02:00'
         description: |-
           Palveluksen toimittaa pastori Mikko Mentu. Tekstinlukijana toimii ja kirkkokuoroa johtaa kanttori Maria Mentu.
       - title: Uutispodcast
@@ -221,11 +232,14 @@ data:
           Kiviaseista miekkojen kautta ruutiin ja sotavaunuista ratsuväen kautta tankkeihin. Mitkä ovat olleet sodankäynnin isoimpia murroskohtia? Kumpi on taistelussa tärkeämpää, tehokkaammat aseet vai parempi taktiikka? Kuka on historian taitavin sotapäällikkö? Millainen vaikutus tulee olemaan autonomisilla aseilla ja tekoälyllä, juoksevatko taistelukentille pian tappajarobottiarmeijat?
 
           Sotataidosta ja sodankäynnin historiallisesta kehityksestä kertoo eversti (evp.), sotahistorian professori Petteri Jouko Maanpuolustuskorkeakoulusta. Toimittajana Samppa Korhonen.
-      - title: Romano mirits
+      - title: 'Romano mirits: Teresa Koivisto-Bolström – rohkeasti kohti omia unelmia'
         start_time: '2026-11-01T23:26:00+02:00'
         end_time: '2026-11-01T23:39:30+02:00'
         description: |-
-          Ajankohtaista asiaa romaneista.
+          Tämänkertaisessa Romano Mirits -ohjelmassa vieraana on 34-vuotias nuoriso- ja vapaa-ajanohjaaja Teresa Koivisto-Bollström. Haastattelussa Teresa kertoo elämästään, työstään ja siitä, kuinka tärkeää on uskoa omiin kykyihinsä myös vastoinkäymisten keskellä.
+          Pohjanmaalla varttunut Teresa on kohdannut matkansa varrella ennakkoluuloja, mutta periksi antamisen sijaan hän päätti näyttää, että kovalla työllä ja määrätietoisuudella voi saavuttaa tavoitteensa. Nykyisin hän toimii aktiivisesti Nurmijärvellä paikallisen
+          romanityön parissa ja puheenjohtajana yhdistyksessä, joka tukee alueen romaneita, nuoria ja perheitä. Luvassa on lämmin ja inspiroiva keskustelu sitkeydestä, yhteisöllisyydestä ja uskosta
+          tulevaisuuteen. Toimittajana Dimitri Grönfors
       - title: Yöklassinen
         start_time: '2026-11-01T23:40:00+02:00'
         end_time: '2026-11-02T06:30:00+02:00'

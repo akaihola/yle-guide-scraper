@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-10-28T02:13:13.697572+00:00'
+  generated_at: '2026-10-29T02:13:20.205641+00:00'
   git:
     branch: main
-    commit: c0ba6b48a58a0452b2e027483c1e2698c5d8caa6
-  data_hash: fe1b7fc7888a10c9963dd06d09e1f850f55fb2622f7f5cf39fc2e2c02c9c0b20
+    commit: dcf27ae876519381f8a9ae9130049454beb3043d
+  data_hash: 03b719173fa9ab95590949f7e9ea55fae23170787b882e7f0e5c960a3143e870
 data:
   '':
     programmes:
@@ -106,16 +106,46 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-09T13:30:00+02:00'
         end_time: '2026-11-09T13:35:00+02:00'
-      - title: Aitiovieras
+        description: |+
+          Cecile Verny Quartet: Amoureuse.
+
+
+      - title: Aitiovieras:Julistetaide ja yleisön muistot kohtaavat Malvan näyttelyssä - kokoelma-amanuenssi Hanna Suihko vieraana
         start_time: '2026-11-09T13:35:00+02:00'
         end_time: '2026-11-09T14:00:00+02:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+           Lahden Malva-museon Kellarigalleriassa on esillä näyttely "Komisario Palmun erehdys ja muita kotimaisia elokuvajulisteita". Näyttely esittelee alkuperäisiä elokuvajulisteita Malvan kokoelmasta, jotka kuvastavat eri vuosikymmenten visuaalisia tyylisuuntia, yleisön odotuksia ja tuotantoyhtiöiden linjauksia, ja julisteiden yhteyteen on liitetty katsojien lähettämiä elokuvatoiveiden sitaatteja. Näyttely liittyy Ylen 100-vuotisjuhlintaan ja se on yhteistyö Yle Teeman kanssa. Elokuvajulisteita ja julistetaiteen tilasta muutenkin keskustelemassa Malva-museon kokolema-amanuessi Hanna Suihko. Jarmo Laitaneva haastattelee.
+      - title: 'Musiikkiaitio: Kaarnalaiva '
         start_time: '2026-11-09T14:00:00+02:00'
         end_time: '2026-11-09T15:00:00+02:00'
-        description: |-
-          Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+        description: |+
+          Juontajana Jarmo Laitaneva. Lähde mukaan musiikin maailmankiertueelle. 
+          Kasvatuspsykologian professori Niina Junttila on nähnyt Oopperan kummituksen kaksi kertaa ja se on tehnyt häneen suuren vaikutuksen. 
+          Toimittaja Satu Kivelä. (Ensilähetys oli 22.1.26).
+
+
+          The Cinematic Orchestra feat. Fontella Bass: All That You Give.
+
+          Corea: Spain (Michel Camilo ja Tomatito).
+
+          W.A. Mozart (sov. Edenroth): Gee! Mine or Mozart's? (Molto allegro sinfoniasta n:o 40 g-molli) (The Real Group).
+
+          I. Cissoko: Bikowa (Orchestra Baobab).
+
+          J. Kola: Kaarnalaiva (Huippu) levyltä Huiputusta.
+
+          Melissa Laveaux: Angeli-ko.
+
+          Brito - Duarte: Rosa da Madragoa (Mariza).
+
+          Lautamaja: Queen tower (Floating Sofa Quartet).
+
+          Van Heusen: The second time around (Elena Mindru). 
+
+          Youssou N'Dour: Ahmadou bamba.
+
+          Oberfeld: Paris sera toujours Paris (Zaz).
+
       - title: Kulttuuriykkönen
         start_time: '2026-11-09T15:00:00+02:00'
         end_time: '2026-11-09T15:58:00+02:00'
@@ -134,7 +164,7 @@ data:
 
           W.A. Mozart: Zaiden aaria "Ruhe sanft, mein holdes Leben" oopp. Zaide (Soile Isokoski, sopraano, ja Tapiola Sinfonietta/Peter Schreier).  
 
-          Moszkowski: Etydi F-duuri (Mihail Pletnjov, piano). 
+          Moszkowski: Etydi F-duuri (Mihail Pletnjov, piano).
 
           Prokofjev: Andantino ja Andante assai teoks. Vanhan isoäidin kertomuksia (Midori, viulu, ja Robert McDonald, piano).
 
@@ -148,7 +178,7 @@ data:
 
           Ewart: Preludi n:o 3 (Jeanell Carrigan, piano).
 
-          Lindberg: Rakastunut panda (Öystein Baadsvik, tuuba, ja Pohjois-Norjan SO).
+          C. Lindberg: Panda in love kons. Panda in love tuuballe ja orkesterille (Öystein Baadsvik ja Pohjois-Norjan SO).
 
           Whitacre: Water night (The Eric Whitacre Singers/Eric Whitacre).
 
