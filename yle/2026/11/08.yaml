@@ -1,8 +1,8 @@
 metadata:
-  generated_at: '2026-10-29T02:13:19.388880+00:00'
+  generated_at: '2026-10-30T02:13:07.786071+00:00'
   git:
     branch: main
-    commit: dcf27ae876519381f8a9ae9130049454beb3043d
+    commit: a0cc5f3fdc7853f2e62c0a0b595fcb29b869aabc
   data_hash: 03b719173fa9ab95590949f7e9ea55fae23170787b882e7f0e5c960a3143e870
 data:
   '':
@@ -42,16 +42,38 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-11-08T11:00:00+02:00'
         end_time: '2026-11-08T11:59:00+02:00'
+        description: |-
+          Parks: Qualche stupido ti amo (Sacha Distel ja Joanna Shimkus).
+          Loesser: Baby it's cold outside (Ray Charles ja Betty Carter).
+          Panula: Olen mikä olen (Tamara Lund).
+          Kaartinen: Satelliitti kahdelle (Kai Lind).
+          Granholm: Niinkuin jokainen (Inga Sulin).
+          Kansansävelmä: Vem kan segla förutan vind (Svend Asmussen ja Toots Thielemans)
+          Kohlman: Cry (Johnnie Ray).
+          Young: Love letters (Ketty Lester).
+          Geld: Suudelmin suljetut kirjeet (Eino Grön).
+          Kämpfert: Strangers in the Night (Peggy Lee).
+          Weill: Puukko-Mackie (Brita Koivunen).
+          Icini: Uskothan (Maynie Siren).
+          T. Lundgren/J. Lundgren: I will stay (The Lollipops).
+          Hardin: Reason to believe (Rod Stewart).
+          Kristofferson/Foster: Me and Bobby McGee (Janis Joplin).
+          Ellington: Prelude to a kiss (Mel Tormé).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-08T12:00:00+02:00'
         end_time: '2026-11-08T12:05:00+02:00'
       - title: 'Elävä historia tutkii: Pälkäneen kallot 5/5 - Kalloista paljastuu yllättäviä totuuksia'
         start_time: '2026-11-08T12:05:00+02:00'
-        end_time: '2026-11-08T12:55:00+02:00'
+        end_time: '2026-11-08T12:46:00+02:00'
         description: |-
           Kaikki kallot eivät olleetkaan sitä, mitä kuviteltiin! Viimeisessä jaksossa Suomeen palautetuista kalloista saadaan mullistavia uutisia ja kuullaan, mitä geenitestit kertovat muumioituneen "Huolestuneen Rouvan" elämästä ja perheestä.
           Toimittaja: Kaisa Pulakka. Äänisuunnittelu: Joonatan Kotila.
-      - title: Välilevyjä - Kare Eskola
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-11-08T12:46:00+02:00'
+        end_time: '2026-11-08T13:00:00+02:00'
+      - title: 'Välilevyjä: Kun yksi ihminen merkitsee'
         start_time: '2026-11-08T13:00:00+02:00'
         end_time: '2026-11-08T13:57:00+02:00'
         description: |-
@@ -64,9 +86,6 @@ data:
         end_time: '2026-11-08T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Klassikkokuunnelmia
-        start_time: '2026-11-08T15:00:00+02:00'
-        end_time: '2026-11-08T15:35:00+02:00'
       - title: 'Kuunnelman tiet 7/13: Ajanvietteestä komediaan'
         start_time: '2026-11-08T15:00:00+02:00'
         end_time: '2026-11-08T15:35:00+02:00'

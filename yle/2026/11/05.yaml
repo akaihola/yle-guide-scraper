@@ -1,8 +1,8 @@
 metadata:
-  generated_at: '2026-10-29T02:13:18.270767+00:00'
+  generated_at: '2026-10-30T02:13:07.016370+00:00'
   git:
     branch: main
-    commit: dcf27ae876519381f8a9ae9130049454beb3043d
+    commit: a0cc5f3fdc7853f2e62c0a0b595fcb29b869aabc
   data_hash: 03b719173fa9ab95590949f7e9ea55fae23170787b882e7f0e5c960a3143e870
 data:
   '':
@@ -15,11 +15,19 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-05T06:30:50+02:00'
         end_time: '2026-11-05T06:50:00+02:00'
+        description: |+
+          Koraalitoisinto (sov. Kujanpää): Sen suven suloisuutta (Histan veisaajat, ja Reetta Välimäki, laulu).
+
+          Koraalitoisinto: Pyhä Henki, lohduttaja (virsi 117) (RKK/Timo Nuoranne).
+
+          Huhtala: Saavu Herra (Nina Åström).
+
       - title: Aamuhartaus
         start_time: '2026-11-05T06:50:00+02:00'
         end_time: '2026-11-05T06:59:59+02:00'
-        description: |-
-          Yhteisen seurakuntatyön pappi Jari Pitkälä, Helsinki
+        description: |
+          "Ego eimi - Minä olen"
+          Yhteisen seurakuntatyön pappi Jari Pitkälä Helsingistä pohtii kolmiyhteistä Jumalaa Jeesuksen "Minä olen" -lauseiden avulla.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-05T07:00:00+02:00'
         end_time: '2026-11-05T07:05:00+02:00'
@@ -79,9 +87,12 @@ data:
           Salo/Nurro: Marraskuu (Miljoonasade ja Jyväskylä Sinfonia/Jukka Myllys).
 
           Konsertin on toimittanut Susanna Vainiola.
-      - title: 'Marko Gustafsson: Käännekohdissa Iiro Rantala'
+      - title: 'Marko Gustafsson: Käännekohdissa Anna-Leena Härkönen'
         start_time: '2026-11-05T10:00:00+02:00'
         end_time: '2026-11-05T10:53:00+02:00'
+        description: |
+          Kirjailija Anna-Leena Härkönen sanoo keräävänsä jatkuvasti materiaalia kirjoihinsa.
+          Häräntappoaseesta hän ei jaksaisi puhua enää sanaakaan, mutta kaikesta muusta Anna-Leena Härkönen puhuu mielellään ja suoraan. Hän kysyy tapaamiltaan ihmisiltä suoraan isoja kysymyksiä kuten, mikä on nöyryttävin muistosi. Vastaukset saattavat päätyä hänen tuleviin kirjoihinsa. Ohjelma on uusinta ajalta 23.4.2026.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-05T10:53:00+02:00'
         end_time: '2026-11-05T11:00:00+02:00'
@@ -93,6 +104,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-05T11:57:00+02:00'
         end_time: '2026-11-05T12:00:00+02:00'
+        description: |-
+          Carlo Rovelli: Seitsemän lyhyttä luentoa fysiikasta
       - title: Yle Uutiset ja sää
         start_time: '2026-11-05T12:00:00+02:00'
         end_time: '2026-11-05T12:05:00+02:00'
@@ -112,11 +125,11 @@ data:
         description: |+
           Calexico, Amparo Sanchez: Inspiración.
 
-      - title: 'Aitiovieras: "Maija Kylkilahti: Miten hallinto ja musiikki kohtaavat orkesterin intendentinarjessa?"'
+      - title: 'Aitiovieras: Maija Kylkilahti: Miten hallinto ja musiikki kohtaavat orkesterin intendentinarjessa?'
         start_time: '2026-11-05T13:35:00+02:00'
         end_time: '2026-11-05T14:00:00+02:00'
-        description: |2-
-           Maija Kylkilahti aloitti juuri Radion sinfoniaorkesterin intendenttinä. Kylkilahti on haastatteluissa kuvaillut uutta tehtäväänsa kunniatehtäväksi, johon hän tarttuu suurella innolla. Kylkilahdella on laaja kokemus suomalaisen orkesterikentän johtamistyöstä. Hän on toiminut mm. Sinfonia Lahden intendenttinä ja muun muassa Tampere Filharmonian apulaisintendenttinä sekä Tapiola Sinfoniettan ja Avanti!-kamariorkesterin tuottajana. Intendentti on orkesterin hallinnollinen johtaja, joka huolehtii mm.taloudesta ja henkilöstöstä. Miten musikaalista intendentin työ oikein on? Miia Lahti haastattelee
+        description: |-
+          Maija Kylkilahti aloitti juuri Radion sinfoniaorkesterin intendenttinä. Kylkilahti on haastatteluissa kuvaillut uutta tehtäväänsa kunniatehtäväksi, johon hän tarttuu suurella innolla. Kylkilahdella on laaja kokemus suomalaisen orkesterikentän johtamistyöstä. Hän on toiminut mm. Sinfonia Lahden intendenttinä ja muun muassa Tampere Filharmonian apulaisintendenttinä sekä Tapiola Sinfoniettan ja Avanti!-kamariorkesterin tuottajana. Intendentti on orkesterin hallinnollinen johtaja, joka huolehtii mm.taloudesta ja henkilöstöstä. Miten musikaalista intendentin työ oikein on? Miia Lahti haastattelee
       - title: 'Musiikkiaitio: Musta kissa'
         start_time: '2026-11-05T14:00:00+02:00'
         end_time: '2026-11-05T15:00:00+02:00'
@@ -147,11 +160,17 @@ data:
 
           Porter: Tout le jour, toute la nuit (Laura Fygi).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Miksi Trump ja republikaanit toimivat niin kuin toimivat'
         start_time: '2026-11-05T15:00:00+02:00'
         end_time: '2026-11-05T15:58:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Yhdysvallat näyttäytyy monelle suomalaiselle yhä suurempana arvoituksena. Ei ole välttämättä selvää mikä ajaa kansan äänestämiskäyttäytymistä saatikka syventynyttä kahtiajakautuneisuutta. Esimerkiksi, mikä saa lännen seksityöläiset ja etelän kristilliskonservatiivit tukemaan samoja poliitikkoja? Miten pitkälle kristillinen äärioikeisto on onnistunut tunkeutumaan Yhdysvaltain politiikan keskiöön? Kuinka paljon Yhdysvaltojen historia ja kulttuuri antaa arvoitukseen avaimia?
+
+          Yhdysvaltain 3.11. välivaalien tulos määrittää, miten valta jakautuu republikaanien ja demokraattien kesken maan kongressissa ja osavaltioissa. Miten se vaikuttaa MAGAan ja Trumpiin?
+
+          Haastatteluun osallistuu emeritusprofessori Atte Korhola joka on kirjoittanut kirjan Kristillinen äärioikeisto ja Trump, Jukka Valtasaari, joka on kaksinkertainen Washingtonin suurlähettiläs ja kansainvälisen politiikan asiantuntija sekä Marko Maunula, joka on suomalais-amerikkalainen historiantutkija, joka toimii Yhdysvaltojen historian professorina Claytonin osavaltionyliopistossa Yhdysvaltojen Atlantassa.
+
+          Ohjelman juontaa Nicklas Wancke.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-05T16:00:00+02:00'
         end_time: '2026-11-05T16:07:00+02:00'
@@ -205,6 +224,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-05T18:35:00+02:00'
         end_time: '2026-11-05T18:50:00+02:00'
+        description: |+
+          Klemetti: Ah Jumala, nyt tuskassa (virsi 283) (SRK:n nuorten kuoro/Matias Lahti).
+
+          Harju: Ilman Sinua ei ole huomista (Maksetut viulut).
+
+          Monk: Oi Herra, luoksein jää (Club For Five).
+
       - title: Iltahartaus
         start_time: '2026-11-05T18:50:00+02:00'
         end_time: '2026-11-05T19:00:00+02:00'
@@ -222,6 +248,19 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-11-05T20:00:00+02:00'
         end_time: '2026-11-05T20:57:00+02:00'
+        description: |+
+          Halvorsen: Norjalainen tanssi n:o 5 (Harald Aadland, viulu, ja Norjan RO/Ari Rasilainen).
+
+          Legnani: Fantasia kitaralle (Pavel Steidl).
+
+          J.C. Bach: Kvartetto kahdelle huilulle, alttoviululle ja sellolle G-duuri (Camerata Köln).
+
+          Schubert (sov. Reger): Gesänge des Harfners (Harpunsoittajan lauluja) (Klaus Mertens, baritoni, ja Pohjois-Saksan RO/Werner Andreas Albert).
+
+          Vivaldi: Konsertto viululle, jousille ja continuolle h-molli (Per Signora Anna Maria) (Enrico Casazza ja La Magnifica Comunità).
+
+          Schumann (sov. Auer): Widmung (Omistus) (Vilde Frang, viulu, ja Jose Gallardo, piano).
+
       - title: 'Politiikkaradio '
         start_time: '2026-11-05T21:00:00+02:00'
         end_time: '2026-11-05T21:30:00+02:00'
@@ -230,11 +269,11 @@ data:
         end_time: '2026-11-05T22:59:00+02:00'
         description: |-
           Agenttikomedia, 6/8. Agentit koittavat estää diplomaattisen katastrofin.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Kerran kuultu, uudelleen löydetty'
         start_time: '2026-11-05T23:01:00+02:00'
         end_time: '2026-11-05T23:57:00+02:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-11-06T00:00:00+02:00'
         end_time: '2026-11-06T06:30:00+02:00'

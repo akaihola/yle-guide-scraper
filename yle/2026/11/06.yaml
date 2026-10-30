@@ -1,8 +1,8 @@
 metadata:
-  generated_at: '2026-10-29T02:13:18.512729+00:00'
+  generated_at: '2026-10-30T02:13:07.230273+00:00'
   git:
     branch: main
-    commit: dcf27ae876519381f8a9ae9130049454beb3043d
+    commit: a0cc5f3fdc7853f2e62c0a0b595fcb29b869aabc
   data_hash: 03b719173fa9ab95590949f7e9ea55fae23170787b882e7f0e5c960a3143e870
 data:
   '':
@@ -82,7 +82,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-06T10:55:00+02:00'
         end_time: '2026-11-06T11:00:00+02:00'
-      - title: Narrin aamulaulu - Martti Pokela ja uraauurtavan ”kantele-vouhotuksen” perintö
+      - title: Narrin aamulaulu - Martti Pokelan "kantelevouhotus" ja Marjatta Pokelan Mörkö
         start_time: '2026-11-06T11:00:00+02:00'
         end_time: '2026-11-06T11:55:00+02:00'
         description: |-
@@ -93,6 +93,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-06T11:57:00+02:00'
         end_time: '2026-11-06T12:00:00+02:00'
+        description: |
+          Peter Nyman: Ankkalammikko
       - title: Yle Uutiset ja sää
         start_time: '2026-11-06T12:00:00+02:00'
         end_time: '2026-11-06T12:05:00+02:00'
@@ -110,11 +112,11 @@ data:
         description: |+
           Cahn, Stordahl, Weston: I should care (Jane Monheit, Geoffrey Keezer, Christian McBride, Lewis Nash, Mike Manieri).
 
-      - title: Kirjani tarina
+      - title: 'Kirjani tarina: Päivi Alasalmen murhamysteeri sijoittuu Tampereelle sortovuosien aikaan '
         start_time: '2026-11-06T13:35:00+02:00'
         end_time: '2026-11-06T14:00:00+02:00'
-        description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        description: |
+          Sydänkylmä-trilogian ensimmäisessä kirjassa poliisia ei kiinnosta ratkaista Kyttälän köyhässä kaupunginosassa tapahtuneita raakoja murhia. Siksi majatalon Aleksin täytyy ryhtyä selvittämään niitä. Kirjani tarinan vieraana kirjailija Päivi Alasalmi, toimittajana Tina Cavén.
       - title: 'Musiikkiaitio: Svalan'
         start_time: '2026-11-06T14:00:00+02:00'
         end_time: '2026-11-06T15:00:00+02:00'
