@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-01T02:11:21.708492+00:00'
+  generated_at: '2026-11-02T08:57:22.683359+00:00'
   git:
     branch: main
-    commit: f7c409a44384e1049d2601d48fbf28afbb1c807b
-  data_hash: 7cd940701e07ec3e9fe12f20a53575c92cbbb65aab5e96cbb54456c425c2c097
+    commit: cac13c7f2be6c6e683f3cabc6905b89d73d69cfb
+  data_hash: de4a41b777141451088279152ddd2da671cd7cc17ba28af2fce7a577f662127f
 data:
   '':
     programmes:
@@ -44,9 +44,20 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-07T08:00:00+02:00'
         end_time: '2026-11-07T08:05:00+02:00'
-      - title: Hartaita säveliä
+      - title: Oi, katso mikä aamu
         start_time: '2026-11-07T08:05:00+02:00'
         end_time: '2026-11-07T08:25:00+02:00'
+        description: |+
+          Hovland: Jumala loi auringon, kuun (virsi 135) (Järvenpään seurakunnan lapsikuoro/Jarmo Kukkonen, ja Juhani Haapasalo, urut).
+
+          Koraalitoisinto: Oi Herra kaikkivaltias (virsi 460) (Sibelius-lukion KK/Marjukka Riihimäki, ja Pekka Suikkanen, urut).
+
+          Kansansäv. Yhdysvalloista: Onnellinen vaeltaja (Rinki).
+
+          Alakotila: Hiljaisessa siimeksessä (virsi 972) (Maria Kalaniemi, laulu ja harmonikka, Minsku Tammela, taustalaulu, Tommi Asplund, viulu, Senni Valtonen, kantele, Hannu Rantanen, kontrabasso, ja Timo Alakotila, piano).
+
+          Piiparinen: Oi, katso mikä aamu (Eteläsuomalaisen Osakunnan Laulajat/Jorma Pukkila, sekä Satu Vihavainen, sopraano, ja Lassi Viljanen, sello).
+
       - title: Aamuhartaus
         start_time: '2026-11-07T08:25:00+02:00'
         end_time: '2026-11-07T08:35:00+02:00'
