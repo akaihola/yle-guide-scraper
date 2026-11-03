@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-02T08:57:25.621007+00:00'
+  generated_at: '2026-11-03T09:05:00.654827+00:00'
   git:
     branch: main
-    commit: cac13c7f2be6c6e683f3cabc6905b89d73d69cfb
-  data_hash: de4a41b777141451088279152ddd2da671cd7cc17ba28af2fce7a577f662127f
+    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
+  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
 data:
   '':
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-18T07:06:00+02:00'
         end_time: '2026-11-18T08:00:00+02:00'
+        description: |+
+          Beck: Sinfonia C-duuri (Uuden-Seelannin kamariork./Donald Armstrong). 
+
+          Vivaldi: Lotarion aaria "Sento in seno ch'in pioggia di lagrime" oopp. Tieteberga (Philippe Jaroussky, kontratenori, ja Ensemble Matheus/Jean-Christophe Spinosi).
+
+          Hummel: Rondo alla russa pianotriosta n:o 7 Es-duuri (Beaux Arts -trio).
+
+          Granados: Intermezzo oopp. Goyescas (Lontoon Philharmonia-ork./Herbert von Karajan). 
+
+          Hasselmans: Preludi harpulle op.52 (Susan Drake). 
+
+          Weber: Alkusoitto oopp. Abu Hassan (Tapiola Sinfonietta/Jean-Jacques Kantorow).  
+
+          Vaughan Williams: Silent noon sarj. The house of life (Ian Bostridge, tenori, ja Julius Drake, piano).
+
+          M. Richter: Autumn 3 teoks. Four seasons recomposed (Daniel Hope, viulu, Max Richter, syntetisaattori, Raphael Alpermann, cembalo, Konzerthaus Kammerorchester Berlin/André De Ridder).
+
+          Glazunov: Albumblatt Des-duuri (Tine Thing Helseth, trumpetti, ja Kathryn Stott, piano).
+
+          Brahms: Balladi g-molli (Radu Lupu, piano).
+
+          Lanner: Suosikki-polkka (Wienin sinfonikkojen Johann Strauss -yhtye/Johannes Wildner).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-18T08:00:00+02:00'
         end_time: '2026-11-18T08:07:00+02:00'
@@ -39,7 +62,7 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-11-18T09:04:00+02:00'
         end_time: '2026-11-18T09:59:00+02:00'
-        description: |
+        description: |-
           Rota: La strada (Carlo Savina).
           Kärki: Kuljen sumussa (Taisto Tammi).
           Kärki: Jos helmiä kyyneleet ois (Paula Koivuniemi).
@@ -49,10 +72,12 @@ data:
           Pace/Pilat/Panzeri: Siffler sur la colline (Joe Dassin). 
           Lane: On a clear day (you can see forever) (Sarah Vaughan).
           Dylan: I shall be released (The Tremeloes).
-          Lennon & McCartney: Hey Jude (The Beatles).
-          Rydman: Kaunein uni (Anki Lindqvist).
-          Repilado: Chan chan (Eliades Ochoa, Buena Vista Social Club).
+          Lennon/McCartney: Hey Jude (The Beatles).
+          Rydman: Kaunein uni (Anki).
+          Repilado: Chan chan (Eliades Ochoa).
           Hodgkinson: Tiger shark (Felix Mendelssohn).
+
+          Konsertin on laatinut Tuuli Saksala.
       - title: Havaintoja muutoksesta
         start_time: '2026-11-18T10:00:00+02:00'
         end_time: '2026-11-18T10:50:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-02T08:57:22.428610+00:00'
+  generated_at: '2026-11-03T09:04:57.961929+00:00'
   git:
     branch: main
-    commit: cac13c7f2be6c6e683f3cabc6905b89d73d69cfb
-  data_hash: de4a41b777141451088279152ddd2da671cd7cc17ba28af2fce7a577f662127f
+    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
+  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
 data:
   '':
     programmes:
@@ -183,10 +183,14 @@ data:
 
           Perez Diz: Vestida de nit (Silvia Perez Cruz).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Perjantaistudiossa ovat Vehka Kurjenmiekka, Jori Grym ja Sami Kuusela'
         start_time: '2026-11-06T15:00:00+02:00'
         end_time: '2026-11-06T15:58:00+02:00'
         description: |-
+          Kulttuuriykkösen Perjantaistudio kokoaa vakioraatilaiset kirjailija Vehka Kurjenmiekan, tutkija Jori Grymin ja mediayrittäjä Sami Kuuselan ajankohtaisten kulttuurin ja median ilmiöiden ja arvokysymyksien äärelle.
+
+          Ohjelman juontaa Pia-Maria Lehtola.
+
           Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-06T16:00:00+02:00'
@@ -234,11 +238,21 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-06T18:35:00+02:00'
         end_time: '2026-11-06T18:50:00+02:00'
+        description: |+
+          Walther: Kristus, valo valkeuden (Kaj-Erik Gustafsson, urut).
+
+          Palmer: Mestari, myrsky on suuri (Braxén-kuoro/Harry Westerlund).
+
+          Anonyymi (sov. P. Pohjola): Jumala ompi linnamme (Jukka Perko, saksofoni, ja Virtuosi di Kuhmo/John Storgårds).
+
+          Nikkola: Rauhaa, ystäväni - Peace, peace, wonderful peace (virsi 955) (Tapiolan kamarikuoro/Timo Pihkanen).
+
       - title: Iltahartaus
         start_time: '2026-11-06T18:50:00+02:00'
         end_time: '2026-11-06T19:00:00+02:00'
         description: |-
-          Seurakuntapastori Eija Juuma, Mikkeli
+          "Lepo on Jumalan lahja"
+          Seurakuntapastori Eija Juuma Mikkelistä puhuu levon lahjasta ja juuri pimeän keskellä kirkkaimmin näkyväksi tulevasta valosta.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-06T19:00:00+02:00'
         end_time: '2026-11-06T19:02:00+02:00'

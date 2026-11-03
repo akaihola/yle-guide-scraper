@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-02T08:57:24.646042+00:00'
+  generated_at: '2026-11-03T09:04:59.941970+00:00'
   git:
     branch: main
-    commit: cac13c7f2be6c6e683f3cabc6905b89d73d69cfb
-  data_hash: de4a41b777141451088279152ddd2da671cd7cc17ba28af2fce7a577f662127f
+    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
+  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
 data:
   '':
     programmes:
@@ -67,11 +67,11 @@ data:
         end_time: '2026-11-14T10:55:00+02:00'
         description: |-
           Nykytieto ponnistaa historiasta.
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Miten metsämme pelastuivat?'
         start_time: '2026-11-14T11:00:00+02:00'
         end_time: '2026-11-14T11:55:00+02:00'
         description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+          Miten metsien käyttö on muuttunut historian myötä - esimerkkinä metsäyhtiö Finsilvan metsät. Vieraana on filosofian tohtori  ja tietokirjailija Jyrki Paaskoski
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-14T11:57:00+02:00'
         end_time: '2026-11-14T12:00:00+02:00'
@@ -146,7 +146,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-14T17:00:00+02:00'
         end_time: '2026-11-14T17:05:00+02:00'
-      - title: Marko Gustafsson
+      - title: 'Marko Gustafsson: Käännekohdissa Atte Harjanne'
         start_time: '2026-11-14T17:05:00+02:00'
         end_time: '2026-11-14T17:58:00+02:00'
       - title: Yksi on hyvää seuraa

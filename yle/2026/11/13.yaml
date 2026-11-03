@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-02T08:57:24.153507+00:00'
+  generated_at: '2026-11-03T09:04:59.620704+00:00'
   git:
     branch: main
-    commit: cac13c7f2be6c6e683f3cabc6905b89d73d69cfb
-  data_hash: de4a41b777141451088279152ddd2da671cd7cc17ba28af2fce7a577f662127f
+    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
+  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
 data:
   '':
     programmes:
@@ -59,19 +59,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-11-13T09:04:00+02:00'
         end_time: '2026-11-13T09:59:00+02:00'
-        description: |
-          Stole/Del Roma: I Will Follow Him (Little Peggy March).
+        description: |-
+          Stole/Del Roma: I will follow him (Little Peggy March).
           King: Suurten uutisten päivä (Four Cats).
           Paoli: Sapore di sale (Gino Paoli).
-          Bécaud: Nathalie (Gilbert Bécaud).
+          Becaud: Nathalie (Gilbert Bécaud).
           Fomin: Ja, det var då... (Anita Lindblom).
-          Gershwin: A Foggy day (Shirley Horn).
+          Gershwin: A foggy day (Shirley Horn).
           Järvinen: Sameassa vedessä (Matti Järvinen).
-          Ian: In the Winter (Janis Ian).
-          Barbosa: Bom dia tristeza (Maysa).
-          Paavonen: Ikävä (Pave Maijanen). 
+          Ian: In the winter (Janis Ian).
+          Barbosa/Moraes: Bom dia tristeza (Maysa).
+          Paavonen: Ikävä (Pave Maijanen).
           Carmichael: Georgia on my mind (Hoagy Carmichael).
-          Miller: Moonlight Serenade (The Rosenberg Trio).
+          Miller: Moonlight serenade (Toots Thielemans ja The Rosenberg Trio).
+
+          Konsertin on laatinut Pekka Laine.
       - title: Kalle Haatanen
         start_time: '2026-11-13T10:00:00+02:00'
         end_time: '2026-11-13T10:55:00+02:00'
@@ -155,29 +157,29 @@ data:
         start_time: '2026-11-13T16:07:00+02:00'
         end_time: '2026-11-13T16:59:00+02:00'
         description: |-
-          Lully: Air pour Madame la Dauphine komediabaletista Idylle sur la paix (Kölnin Musica Antiqua/Reinhard Goebel).
+          Lully: Air pour Madame la Dauphine komediabal. Idylle sur la paix (Kölnin Musica Antiqua/Reinhard Goebel).
 
           Järnefelt: Kehtolaulu (Johanna Rusanen-Kartano, sopraano, Anna-Liisa Bezrodny, viulu, Jussi Makkonen, sello, ja Rait Karm, piano).
 
           Grieg: Jeg elsker dig (Rakastan sinua) kok. Hjertets melodier (Kirsten Flagstad, sopraano, ja BBC:n SO/Malcolm Sargent).
 
-          Wencheng: Autumn Moon on a Calm Lake (Lang Lang, piano).
+          Wencheng: Autumn moon on a calm lake (Lang Lang, piano).
 
-          Rodrigo/Sanz: Villano - Ricercare teoks. Fantasia para un gentilhombre (John Williams, kitara, ja Lontoon Philharmonia-orkesteri/Louis Fremaux).
+          Rodrigo: Villano - Ricercare teoks. Fantasia para un gentilhombre (John Williams, kitara, ja Lontoon Philharmonia-ork./Louis Fremaux).
 
           Vasks: Pater noster (Isä meidän) (Latvian radion kuoro ja Sinfonietta Riga/Sigvards Klava).
 
           O. Merikanto: Syyslaulu (Waltteri Torikka, baritoni, ja Marko Hilpo, piano).
 
-          Kokkonen: Agnus Dei Requiemistä (Soile Isokoski, sopraano, ja Sinfonia Lahti ja Savonlinnan oopperajuhlakuoro/Ulf Söderblom).
+          Kokkonen: Agnus Dei teoks. Requiem (Soile Isokoski, sopraano, Walton Grönroos, baritoni, sekä Savonlinnan oopperajuhlakuoro ja Lahden kaupunginork./Ulf Söderblom).
 
-          Kansansäv., Etelä-Pohjanmaa (sov. M. Hyökki - P. Hyökki): On suuri sun rantas autius (Tapiolan kuoro, ja YL/Pasi Hyökki).
+          Kansansäv.: On suuri sun rantas autius (Tapiolan kuoro ja YL/Pasi Hyökki).
 
           Schmidt: Intermezzo oopp. Notre Dame (Göteborgin SO/Neeme Järvi).
 
-          C. Schumann: Nokturni sarj. Soirees musicales (Yoshiko Iwai, piano).
+          C. Schumann: Nokturni sarj. Soirées musicales (Yoshiko Iwai, piano).
 
-          Bizet: Habanera oopp. Carmen (Maria Callas, mezzosopraano, Rene Duclos -kuoro ja Pariisin oopperan ork./Georges Pretre). 
+          Bizet: Carmenin habanera "L'amour est un oiseau rebelle" oopp. Carmen (Maria Callas, mezzosopraano, sekä Rene Duclos -kuoro ja Pariisin oopperan ork./Georges Prêtre).
       - title: Yle Uutiset ja sää
         start_time: '2026-11-13T17:00:00+02:00'
         end_time: '2026-11-13T17:05:00+02:00'
@@ -200,8 +202,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-11-13T18:50:00+02:00'
         end_time: '2026-11-13T19:00:00+02:00'
-        description: |-
-          Seurakuntapastori Eija Juuma, Mikkeli
+        description: |
+          "Elämänvaelluksen suurin lohtu"
+          Seurakuntapastori Eija Juuma Mikkelistä puhuu jokaisen elämäntien omanlaisesta pyhiinvaelluksesta.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-13T19:00:00+02:00'
         end_time: '2026-11-13T19:02:00+02:00'
