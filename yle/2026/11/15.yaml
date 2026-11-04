@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-03T09:05:00.098359+00:00'
+  generated_at: '2026-11-04T08:42:11.613413+00:00'
   git:
     branch: main
-    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
-  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
+    commit: 9bbacfa7b43837790f0d940b479474b407e23669
+  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
 data:
   '':
     programmes:
@@ -31,6 +31,17 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-15T09:03:00+02:00'
         end_time: '2026-11-15T09:53:00+02:00'
+        description: |+
+          Arrigoni: Sonaatti mandoliinille ja viululle, jousille ja continuolle e-molli (Mari Fe Pavon, barokkimandoliini, Girolamo Bottiglieri, viulu, ja ArteMandoline -kamariork.). 
+
+          Roman: Largo F-duuri (Mats Lindström, sello, ja Bengt Forsberg, piano).
+
+          J.S. Bach: Italialainen konsertto F-duuri (Rosalyn Tureck, piano).
+
+          Salieri: Venetsialainen sinfonia D-duuri (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          Vivaldi: Konsertto flautinolle, jousille ja continuolle C-duuri (Maurice Steger, sopraanonokkahuilu, ja I Barocchisti/Maurice Steger).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-11-15T09:56:00+02:00'
         end_time: '2026-11-15T09:59:00+02:00'
@@ -136,6 +147,8 @@ data:
       - title: 'Jazzklubin viikon keikka: 4 Wheel Drive feat. Ida Sand JazzBaltica-festivaalilla.'
         start_time: '2026-11-15T19:02:30+02:00'
         end_time: '2026-11-15T20:00:00+02:00'
+        description: |-
+          Äänitetty Maritim Seehotelissa Lyypekissä 28.6.2026.
       - title: Akatistos Pyhän Nikolaoksen kirkosta Joensuusta
         start_time: '2026-11-15T20:00:00+02:00'
         end_time: '2026-11-15T21:00:00+02:00'
@@ -154,6 +167,9 @@ data:
         end_time: '2026-11-15T22:47:00+02:00'
         description: |-
           Eva Tigerstedt avaa polkuja musiikkiin.
+      - title: Uusiutuva tiede
+        start_time: '2026-11-15T22:48:00+02:00'
+        end_time: '2026-11-15T23:19:00+02:00'
       - title: Romano mirits
         start_time: '2026-11-15T23:26:00+02:00'
         end_time: '2026-11-15T23:39:30+02:00'

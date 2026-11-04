@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-03T09:04:58.147425+00:00'
+  generated_at: '2026-11-04T08:42:09.632951+00:00'
   git:
     branch: main
-    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
-  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
+    commit: 9bbacfa7b43837790f0d940b479474b407e23669
+  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
 data:
   '':
     programmes:
@@ -70,6 +70,9 @@ data:
       - title: 'Maailman tärkein pieni asia: bändiharrastaja Mikko Mäkelä'
         start_time: '2026-11-07T08:40:00+02:00'
         end_time: '2026-11-07T09:00:00+02:00'
+        description: |+
+          Sivistysjohtaja Mikko Mäkelä on löytänyt uudelleen bändissä soittamisen ilot. Bändihommat alkoivat ensimmäisen kerran kiinnostaa suunnilleen lukioiässä. Hyvän alun jälkeen väliin tulivat elämän muut kiireet ja soittohommat jäivät taka-alalle. Nyt on jälleen aikaa treenailla ja keikkailla vanhojen ystävien eli Santeri Huvisen ja Toni Rannan kanssa. Yhdessä he muodostavat Taskut-nimisen yhtyeen. 
+
       - title: 'Yle Uutiset '
         start_time: '2026-11-07T09:00:00+02:00'
         end_time: '2026-11-07T09:03:00+02:00'
@@ -129,15 +132,15 @@ data:
           Francis Ford Coppolan Kummisetä-trilogia avaa omanlaisensa, romantisoidunkin ikkunan sisilialaiseen ja amerikanitalialaiseen mafiaan, Cosa Nostraan. Mafiaperheen mahti hierarkioineen ulottuu pyhään, biologiseen perheeseen, jossa lojaaliuden ja suojelun rinnalla myös kosto elää. Perinteet siirtyvät siirtolaisperheen mukana Yhdysvaltoihin, mukaan lukien katolisuus, joka polvi polvelta menettää merkitystään. Trilogian päätösosassa roomalaiskatolinen kirkko ja Vatikaani kuvataan kaksinaamaisena, korruptoituneena valtakoneistona, jolla on kytköksensä mafiaan. Mitä on tämän päivän Cosa Nostra, miten mafia on muuttunut ja miksi ilmiö elää edelleen?
 
           Kummisedän kautta mafian maailmaa tonkivat Marja Vehkasen vieraina tietokirjailija Anton Monti sekä toimittaja-kirjailija Mira Selander.
-      - title: Näistä levyistä en luovu
+      - title: 'Näistä levyistä en luovu: kirjailija Eppu Nuotio'
         start_time: '2026-11-07T13:00:00+02:00'
         end_time: '2026-11-07T13:55:00+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Kirjailija Eppu Nuotio kertoo itselleen tärkeistä musiikkikappaleista. Toimittajana Maija Salminen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-07T13:55:00+02:00'
         end_time: '2026-11-07T14:00:00+02:00'
-      - title: Kalle Haatanen
+      - title: 'Kalle Haatanen: Ristiretkien historia (osa 2)'
         start_time: '2026-11-07T14:00:00+02:00'
         end_time: '2026-11-07T14:55:00+02:00'
         description: |-

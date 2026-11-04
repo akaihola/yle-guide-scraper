@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-03T09:04:59.303025+00:00'
+  generated_at: '2026-11-04T08:42:10.927107+00:00'
   git:
     branch: main
-    commit: 10cc74ea5aec1e6c528153034ea7953104cd75c4
-  data_hash: ce69ef4684c5889721b5eeb93f7b930d16f92558f7ad0127dfa703f1e63479e4
+    commit: 9bbacfa7b43837790f0d940b479474b407e23669
+  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
 data:
   '':
     programmes:
@@ -93,6 +93,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-12T11:57:00+02:00'
         end_time: '2026-11-12T12:00:00+02:00'
+        description: |
+          Molière: Saituri, suomentanut Lauri Hirvensalo, WSOY 1973.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-12T12:00:00+02:00'
         end_time: '2026-11-12T12:05:00+02:00'
@@ -198,6 +200,22 @@ data:
       - title: Kotimainen konsertti
         start_time: '2026-11-12T18:30:00+02:00'
         end_time: '2026-11-12T21:00:00+02:00'
+        description: |-
+          Turun filharmoninen orkesteri ja ylikapellimestari John Storgårds vihkivät käyttöön Turun uuden musiikkitalo Fuugan konserttisalin. Konsertin solistina laulaa sopraano Karita Mattila. Suoran lähetyksen juontavat Noora Hirn ja Lola Odusoga.
+
+          John Storgårds, kapellimestari
+          Karita Mattila, sopraano
+          Turun filharmoninen orkesteri
+
+          Richard Wagner: Alkusoitto oopperasta Nürnbergin mestarilaulajat
+          Jean Sibelius: Höstkväll op. 38 nro 1 
+          Jean Sibelius: Den första kyssen op. 37 nro 1 
+          Victoria Polevá: Eirene (kantaesitys) 
+          Alban Berg: Seitsemän varhaista laulua 
+
+          Väliaika
+
+          Jean Sibelius: Lemminkäinen op. 22 
       - title: Iltahartaus
         start_time: '2026-11-12T21:10:00+02:00'
         end_time: '2026-11-12T21:20:00+02:00'
