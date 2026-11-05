@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:10.618855+00:00'
+  generated_at: '2026-11-05T09:02:51.041130+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -15,6 +15,17 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-11T06:30:50+02:00'
         end_time: '2026-11-11T06:50:00+02:00'
+        description: |+
+          Kekäle: On armosi sinun valtikkas (Jari Kekäle).
+
+          Benzein: Jeesus on lauluni aihe (Pelastusarmeijan kitarakuoro).
+
+          Bliss - Spafford (sov. S.J. Järvinen): Jos nään täällä Herrani kirkkauden (Reijo Ikonen, laulu, ja orkesteri).
+
+          Löytty: Kahden maan kansalainen (virsi 924) (Jaakko Löytty sekä Anna-Maaria Varonen ja Olli Varonen, sello).
+
+          M. Ranta: Hyvää huomenta, armo (Lapuan nuorisokuoro/Paula Pääkkönen).
+
       - title: Aamuhartaus
         start_time: '2026-11-11T06:50:00+02:00'
         end_time: '2026-11-11T06:59:59+02:00'
@@ -132,11 +143,11 @@ data:
         description: |+
           Roberta Di Mario: Valzer er in a minor.
 
-      - title: Aitiovieras
+      - title: 'Aitiovieras: Valotaiteilija Immanuel Pax: "Pidän siitä, miten pimeydessä mielikuvitus lähtee juoksemaan"'
         start_time: '2026-11-11T13:35:00+02:00'
         end_time: '2026-11-11T14:00:00+02:00'
         description: |2-
-           Lämminhenkistä keskustelua kulttuurista
+           Pimeä vuodenaika luo hyvät puitteet valotaiteelle, ja Suomessa järjestettävät valotaidetapahtumat ovat yhä suositumpia. Ne ovat usein maksuttomia ja matalan kynnyksen yhteisiä elämyksiä. Valotaiteilija Immanuel Pax, Suomen valotaiteen seuran puheenjohtaja, pyrkii taiteellaan herättämään ajatuksia ja kritisoi kaupunkien haja- ja roskavaloa toivoen harkitumpaa valon käyttöä. Pax uskoo valotaiteen suosion johtuvan ikiaikaisesta tarpeestamme kokea elämyksiä yhdessä. Kati Turtola vieraili valotaiteilijan työhuoneella.
       - title: 'Musiikkiaitio: Pitsikankaita'
         start_time: '2026-11-11T14:00:00+02:00'
         end_time: '2026-11-11T15:00:00+02:00'
@@ -224,6 +235,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-11T18:35:00+02:00'
         end_time: '2026-11-11T18:50:00+02:00'
+        description: |+
+          Kothen: Kaikessa, Herra armias (virsi 545:1-4) (Sauli Tiilikainen, baritoni, ja Kaartin soittokunta/Raine Ampuja).
+
+          Jauhiainen: Saavuimme synkiltä teiltä (Minna Pyysalo).
+
+          Kansansäv. Filippiineiltä: Pyhään salaisuuteen Jeesus meidät sulkee (virsi 957) (Aili Ikonen, laulu, Mikko Iivanainen, kitara, Hannu Rantanen, kontrabasso, Sami Koskela, lyömäsoittimet, sekä Pekka Nyman, zarango ja marimba).
+
+          Laiho: Puhdasta vettä (Samuli Edelmann, laulu, ja Samuli Laiho, kitara).
+
       - title: Iltahartaus
         start_time: '2026-11-11T18:50:00+02:00'
         end_time: '2026-11-11T19:00:00+02:00'

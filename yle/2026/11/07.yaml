@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:09.632951+00:00'
+  generated_at: '2026-11-05T09:02:47.254389+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -33,11 +33,11 @@ data:
 
           07:10 Leclair: Sonaatti huilulle ja continuolle e-molli (Robert Stallman, huilu, Karl Bennion, sello, ja Edwin Swanborn, cembalo). 
 
-      - title: Kirjani tarina
+      - title: 'Kirjani tarina: Päivi Alasalmen murhamysteeri sijoittuu Tampereelle sortovuosien aikaan '
         start_time: '2026-11-07T07:31:00+02:00'
         end_time: '2026-11-07T07:55:00+02:00'
-        description: |-
-          Kirjojen syntytarinoita kirjailijoiden kertomana.
+        description: |
+          Sydänkylmä-trilogian ensimmäisessä kirjassa poliisia ei kiinnosta ratkaista Kyttälän köyhässä kaupunginosassa tapahtuneita raakoja murhia. Siksi majatalon Aleksin täytyy ryhtyä selvittämään niitä. Kirjani tarinan vieraana kirjailija Päivi Alasalmi, toimittajana Tina Cavén.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-07T07:55:00+02:00'
         end_time: '2026-11-07T08:00:00+02:00'
@@ -132,7 +132,7 @@ data:
           Francis Ford Coppolan Kummisetä-trilogia avaa omanlaisensa, romantisoidunkin ikkunan sisilialaiseen ja amerikanitalialaiseen mafiaan, Cosa Nostraan. Mafiaperheen mahti hierarkioineen ulottuu pyhään, biologiseen perheeseen, jossa lojaaliuden ja suojelun rinnalla myös kosto elää. Perinteet siirtyvät siirtolaisperheen mukana Yhdysvaltoihin, mukaan lukien katolisuus, joka polvi polvelta menettää merkitystään. Trilogian päätösosassa roomalaiskatolinen kirkko ja Vatikaani kuvataan kaksinaamaisena, korruptoituneena valtakoneistona, jolla on kytköksensä mafiaan. Mitä on tämän päivän Cosa Nostra, miten mafia on muuttunut ja miksi ilmiö elää edelleen?
 
           Kummisedän kautta mafian maailmaa tonkivat Marja Vehkasen vieraina tietokirjailija Anton Monti sekä toimittaja-kirjailija Mira Selander.
-      - title: 'Näistä levyistä en luovu: kirjailija Eppu Nuotio'
+      - title: 'Näistä levyistä en luovu: Kirjailija Eppu Nuotio'
         start_time: '2026-11-07T13:00:00+02:00'
         end_time: '2026-11-07T13:55:00+02:00'
         description: |-
@@ -145,11 +145,11 @@ data:
         end_time: '2026-11-07T14:55:00+02:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Konekieli on sielutonta, koska sille on opetettu kaikki työelämäpuheen tyhjänpäiväisyydet'
         start_time: '2026-11-07T14:55:00+02:00'
         end_time: '2026-11-07T15:00:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Irvailemme koneen tuottamalle kielelle, mutta jo seuraavassa työpaikan palaverissa syyllistymme samanlaiseen teeskentelyyn itse, politiikan tutkija Johanna Vuorelma ihmettelee.
       - title: 'Viihdekuunnelma: Kansallisen turvallisuuden virasto: Black ops shittii'
         start_time: '2026-11-07T15:00:00+02:00'
         end_time: '2026-11-07T15:16:00+02:00'
@@ -234,14 +234,16 @@ data:
 
           J.S. Bach (sov. W.A. Mozart): Fuuga jousikvartetille c-molli (Emerson-jousikvartetti).
 
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Trumpilta vietiin valta – muuttaako se USA:n suuntaa?'
         start_time: '2026-11-07T21:01:00+02:00'
         end_time: '2026-11-07T21:25:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
-      - title: 'Aitiovieras '
+          Yhdysvaltain välivaaleissa demokraatit ottavat enemmistön sekä edustajainhuoneesta että senaatista. Sami Lindforsin haastateltavana Ylen ulkomaantoimittaja Esko Varho.
+      - title: 'Aitiovieras: Ystävyys kameran edessä: Ilari Kellokoski dokumentoi JP Ahosen kamppailun ja Belzebubsin synnyn'
         start_time: '2026-11-07T21:26:00+02:00'
         end_time: '2026-11-07T21:50:00+02:00'
+        description: |-
+          Dokumentaristi Ilari Kellokoski on ohjannut nelisosaisen dokumentin sarjakuvataiteilija JP Ahosesta. Dokumenttisarjan keskiössä piti alun perin olla Ahosen Belzebubs-projekti, mutta korona muuttikin kuviot. Kellokosken dokumentissa kuvataan Ahosen henkilökohtaista kamppailua samalla, kun suuri animaatiotuotanto etenee. Kellokoski ja Ahonen ovat keskenään ystäviä. Millaista on tehdä dokumenttielokuvaa ystävästä ja hänen työstään? Jarmo Laitaneva haastattelee.
       - title: 'Kuunnelman tiet 6/13: Näkymätön näyttelijä'
         start_time: '2026-11-07T21:51:00+02:00'
         end_time: '2026-11-07T22:30:00+02:00'

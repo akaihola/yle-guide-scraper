@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:12.904543+00:00'
+  generated_at: '2026-11-05T09:02:53.410118+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -29,8 +29,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-11-21T08:25:00+02:00'
         end_time: '2026-11-21T08:35:00+02:00'
-        description: |-
-          Pastori Kari Ahlroth, Vapaakirkko, Laukaa
+        description: |
+          "Kenen kuva ja nimi tässä on?"
+          Pastori Kari Ahlroth, Vapaakirkko, Laukaalta puhuu Jumalan kuvasta ihmisessä ja tämän merkityksestä ihmisarvolle.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-21T08:35:00+02:00'
         end_time: '2026-11-21T08:40:00+02:00'
@@ -59,13 +60,15 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-21T11:57:00+02:00'
         end_time: '2026-11-21T12:00:00+02:00'
+        description: |-
+          Ote Harri Hertellin runoteoksesta Samaa tulta, Enostone 2025
       - title: Yle Uutiset ja sää
         start_time: '2026-11-21T12:00:00+02:00'
         end_time: '2026-11-21T12:05:00+02:00'
       - title: Maailma tarinoina
         start_time: '2026-11-21T12:05:00+02:00'
         end_time: '2026-11-21T13:00:00+02:00'
-      - title: Konsta Hietanen on suurten biisien mies!
+      - title: 'Näistä levyistä en luovu: Konsta Hietanen on suurten biisien mies!'
         start_time: '2026-11-21T13:00:00+02:00'
         end_time: '2026-11-21T13:55:00+02:00'
         description: |-
@@ -83,9 +86,22 @@ data:
         end_time: '2026-11-21T15:00:00+02:00'
         description: |-
           Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
-      - title: Viihdekuunnelma
+      - title: Sininen Tonava, osa1/2
         start_time: '2026-11-21T15:00:00+02:00'
         end_time: '2026-11-21T15:25:00+02:00'
+        description: |-
+          Osa 1/2. Sodanjälkeiseen Wieniin sijoittuvassa jännityskuunnelmassa päivystävä konstaapeli löytää miehen ruumiin korjauksen alla olevalta sillalta.
+
+          Kirjoittanut Rai Silvennoinen. 
+          Ohjaus: Eero Leväluoma.
+          Päärooleissa:
+          Kemisti Binck - Esko Mannermaa. 
+          Professori Denckmann - Reino Valkama. 
+          Poliisipäällikkö Grindell - Matti Aulos. 
+          Partioiva poliisi - Pentti Irjala. 
+          Rikosoikeuden professori, dosentti Deier - Keijo Komppa. 
+          Taskuvaras Schleicher - Kauko Kokkonen. 
+          Teos vuodelta 1956.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-21T15:25:00+02:00'
         end_time: '2026-11-21T15:30:00+02:00'
@@ -101,6 +117,32 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-11-21T16:07:00+02:00'
         end_time: '2026-11-21T16:59:59+02:00'
+        description: |-
+          Bulla: Ode to Lincolnshire (Ad Hoc Wind Orch./Jean-Pierre Haeck).
+
+          Holmberg: Andante (Mirka Malmi, viulu, ja Tiina Karakorpi, piano). 
+
+          Bolcom: Toothbrush time (Hampaiden pesun aika) (Measha Brueggergosman, sopraano, ja BBC:n SO/David Robertson).
+
+          Janácek: Pieni pöllö huhuilee yhä sarj. Umpeenkasvaneella polulla (Eero Heinonen, piano).
+
+          Ravel: Trois beaux oiseaux du Paradis (Kolme kaunista paratiisin lintua) kok. Trois chansons (Octopus/Bart van Reyn). 
+
+          Chaminade: Serenade espagnole (Yo-Yo Ma, sello, ja Patricia Zander, piano).
+
+          Walton: Capriccio burlesco (New Yorkin FO/Andre Kostelanetz).
+
+          Quilter: Fear no more the heat o' the sun (Älä enää pelkää kuumuutta auringon) teoks. Five Shakespeare Songs (Mark Stone, baritoni, ja Stephen Barlow, piano).
+
+          Debussy: Beau soir (Kaunis ilta) (Emmanuel Pahud, huilu, ja Mariko Anraku, harppu).
+
+          Lindström: Song about Em (Emil Jonason, klarinetti, ja Helsingborgin SO/Stefan Solyom).
+
+          Gade: Scherzo oktetosta jousille F-duuri (L'Archibudelli ja Smithsonian Chamber Players).
+
+          Tabakova: Light falls the rain sinfonisesta runosta On the south downs (Natalie Clein, sello, sekä Truro Cathedral Choir ja BBC:n konserttiork./Christopher Gray).
+
+          Konsertin on toimittanut Annina Aho.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-21T17:00:00+02:00'
         end_time: '2026-11-21T17:05:00+02:00'
@@ -117,6 +159,7 @@ data:
         start_time: '2026-11-21T18:01:00+02:00'
         end_time: '2026-11-21T18:10:00+02:00'
         description: |-
+          "Vääryys ei tule voittamaan"
           Rovasti Jaana Rantala, Tampere
       - title: Lauantain toivotut levyt
         start_time: '2026-11-21T18:10:00+02:00'

@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:09.417230+00:00'
+  generated_at: '2026-11-05T09:02:46.192147+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -117,11 +117,13 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-06T10:55:00+02:00'
         end_time: '2026-11-06T11:00:00+02:00'
-      - title: Narrin aamulaulu - Martti Pokelan "kantelevouhotus" ja Marjatta Pokelan Mörkö
+      - title: 'Narrin aamulaulu - Pokelat kulkevat omia latujaan '
         start_time: '2026-11-06T11:00:00+02:00'
         end_time: '2026-11-06T11:55:00+02:00'
-        description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+        description: |
+          1960-luvun lopussa Pokelat päättävät duonsa toiminnan. Martin vallannut "kantelevouhotus" vaikutti ratkaisevasti kanteleen renessanssiin ja siivitti kansanmusiikin osaksi Sibelius-Akatemian opetusta. Eveliinalle sävellettyjen laulujen myötä Marjatta löysi itsestään lastenlaulujen ja satuoopperoiden tekijän. Martti palkittiin ansioistaan professorin arvonimellä, Marjatta lastenkulttuurin valtionpalkinnolla. Sosiaalimuusikoksi itseään kutsuvalta Eeva-Leena Pokelalta – hänkin professori ansioistaan – luontuu melkein mikä vain.
+          Suomen suosituimpien Pokeloiden musiikillista matkaa selvittelee Outi Paananen.
+          Osa 2/2.  
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-06T11:55:00+02:00'
         end_time: '2026-11-06T11:57:00+02:00'
@@ -133,14 +135,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-06T12:00:00+02:00'
         end_time: '2026-11-06T12:05:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Luotain törmäsi asteroidiin ja sysäsi sen radaltaan – pian nähdään, mitä jäi jäljelle'
         start_time: '2026-11-06T12:05:00+02:00'
         end_time: '2026-11-06T12:55:00+02:00'
         description: |-
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Puheet päreiksi'
         start_time: '2026-11-06T13:00:00+02:00'
         end_time: '2026-11-06T13:30:00+02:00'
+        description: |
+          Mikä on päivänpolitiikan sana? Suomen kielen dosentti Vesa Heikkinen ja Politiikkaradion toimittaja Tapio Pajunen analysoivat politiikan kielen ajankohtaisuuksia ja valitsevat päivänpolitiikan sanan. Voit ehdottaa päivänpolitiikan sanoja verkkolomakkeella, sähköpostitse, tai Bluesky:ssa ja X:ssä @tapiopajunen ja @tosentti. Puheet päreiksi -ohjelmaa esitetään Politiikkaradiossa perjantaisin.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-06T13:30:00+02:00'
         end_time: '2026-11-06T13:35:00+02:00'
@@ -223,15 +227,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-06T17:00:00+02:00'
         end_time: '2026-11-06T17:05:00+02:00'
-      - title: Uutispodcast
+      - title: Iida Tikka & Mureneva maa 3/6 Ajatusrikollinen valmiina vankilaan
         start_time: '2026-11-06T17:05:00+02:00'
         end_time: '2026-11-06T17:30:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Maailmankuulujen amerikkalaisyliopistojen kampuksilla kuohuu: monimuotoisuusohjelmat herättävät raivoa, professorit pelkäävät puhua ja opiskelijoita leimataan mielenosoituksissa. Mutta mistä yliopistokampusten väännösssä lopulta on kysymys?
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-06T17:30:00+02:00'
         end_time: '2026-11-06T17:35:00+02:00'
-      - title: 'Näistä levyistä en luovu: kirjailija Eppu Nuotio'
+      - title: 'Näistä levyistä en luovu: Kirjailija Eppu Nuotio'
         start_time: '2026-11-06T17:35:00+02:00'
         end_time: '2026-11-06T18:30:00+02:00'
         description: |-
@@ -284,9 +288,9 @@ data:
         end_time: '2026-11-06T22:47:00+02:00'
         description: |-
           Liian vaikeaa ja abstraktia! Tämän takia moni toimittaja jättää ilmastokriisin käsittelemisen jutuissaan. Ei ole nyt varaa ilmastotoimiin! sanovat puolestaan poliitikot. Miten media ja politiikka yhdessä vaikuttavat siihen, miten me käsitämme ilmastokriisin vakavuuden?
-      - title: Tuuli Saksalan keidas
-        start_time: '2026-11-06T22:48:00+02:00'
-        end_time: '2026-11-06T23:39:00+02:00'
+      - title: 'Tuuli Saksalan keidas: Zulujen bluesista toivon lauluihin'
+        start_time: '2026-11-06T22:48:57+02:00'
+        end_time: '2026-11-06T23:39:35+02:00'
         description: |-
           Musiikin avulla voi matkustaa Andien ylängöille, sumuisille saarille tai Kalkutan ruuhkaisille kaduille. Silti mielenkiintoisin matka laulun siivittämänä tehdään jokaisen omaan mieleen. Tuuli Saksalan keidas avaa maailman ihmeitä musiikin keinoin.
       - title: Yöklassinen

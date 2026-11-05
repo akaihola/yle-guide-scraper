@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:12.455654+00:00'
+  generated_at: '2026-11-05T09:02:53.033178+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -97,6 +97,8 @@ data:
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-19T11:57:00+02:00'
         end_time: '2026-11-19T12:00:00+02:00'
+        description: |
+          Ote Frank Martelan teoksesta Elämän tarkoitus - Suuntana merkityksellinen elämä, Gummerrus 2020
       - title: Yle Uutiset ja sää
         start_time: '2026-11-19T12:00:00+02:00'
         end_time: '2026-11-19T12:05:00+02:00'
@@ -109,16 +111,45 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-19T13:30:00+02:00'
         end_time: '2026-11-19T13:35:00+02:00'
-      - title: Aitiovieras
+        description: |+
+          Castellanos: La Puñalada (Nuevo Quinteto Otra Vez).
+
+      - title: 'Aitiovieras: Satu Silvo - vilpittömyyden voima'
         start_time: '2026-11-19T13:35:00+02:00'
         end_time: '2026-11-19T14:00:00+02:00'
-        description: |2-
-           Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+        description: |-
+          Satu Silvo on näyttelijä, jolle vilpitön heittäytyminen on ammatin ydin. Silvo on toiminut freelancer-näyttelijänä jo pitkään ja tottunut uimaan uuteen työryhmään nopeasti. Parhaillaan Silvo esiintyy Hämeenlinnan teatterissa komediassa Suurenmoista! sekä Tampereen komediateatterin Yllätysvieraassa. Satu Silvo on Kati Turtolan haastattelussa. 
+      - title: 'Musiikkiaitio: Desafinado'
         start_time: '2026-11-19T14:00:00+02:00'
         end_time: '2026-11-19T15:00:00+02:00'
-        description: |-
-          Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+        description: |+
+          Juontajana Miia Lahti. Lähde mukaan musiikin maailmankiertueelle. Tanssija, koreografi Sofia Ruija kertoo merkityksellisimmistä kulttuurikokemuksistaan ja 
+          siitä mitä tanssi ja musiikki hänelle merkitsee. 
+          Toimittaja Marko Gustafsson. Ensilähetys oli 10.7.2026.
+
+
+          Adooni, Weissenfeldt: Mam pe'ela su'ure (Florence Adooni).
+
+          Ballesteros: Mechita (Silvia Perez Cruz).
+
+          John McGregor: Joki.
+
+          Binker Golding: ... And I like your feathers.
+
+          Jobim, Mendonca: Desafinado (Bebel Gilberto).
+
+          Elena Mîndru: Jocul tambalelor.
+
+          Hernandez: Ven, devorame otra vez (Lalo Rodríguez).
+
+          Kali: Zore, zore (Ildikó Kali). 
+
+          Kansansävelmä, Suomi: Maalarin Franssin sotiisi (Salamakannel, Seppo Sillanpää)
+
+          Jobim: Wave (Oscar Peterson).
+
+          Faini, Galbiati: Scintille (Annalisa).
+
       - title: Kulttuuriykkönen
         start_time: '2026-11-19T15:00:00+02:00'
         end_time: '2026-11-19T15:58:00+02:00'

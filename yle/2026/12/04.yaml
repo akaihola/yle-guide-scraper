@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-04T08:42:15.564458+00:00'
+  generated_at: '2026-11-05T09:02:56.697042+00:00'
   git:
     branch: main
-    commit: 9bbacfa7b43837790f0d940b479474b407e23669
-  data_hash: 9d7aa6fb02104e5ce510e8ddd0e2d77a7825eac24644dbfdc555dc18dd9434c1
+    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
+  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
 data:
   '':
     programmes:
@@ -136,9 +136,42 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-12-04T19:00:00+02:00'
         end_time: '2026-12-04T19:02:00+02:00'
-      - title: Kotimainen konsertti
+      - title: 'Konsertti: Wayne Marshall & Lahden Gospelkuoro'
         start_time: '2026-12-04T19:02:00+02:00'
         end_time: '2026-12-04T21:00:00+02:00'
+        description: |-
+          Rajoja rikkovasta improvisaatiostaan tunnettu urkuri Wayne Marshall ja legendaarinen Lahden Gospelkuoro valtaavat Musiikkitalon lavan.
+
+          Onko mikään hänelle mahdotonta? Brittiläinen Wayne Marshall on urkuri, säveltäjä ja kapellimestari, jolta sujuvat niin kirkkomusiikki ja jazz kuin Broadway-musikaalit ja klassinen kantaohjelmisto. Urkurina Marshall tunnetaan rajoja rikkovista improvisaatioistaan, jotka saavat yleisön haukkomaan henkeään ihastuksesta ympäri maailman.
+
+          Väliajan jälkeen lavalle saapuu myös legendaarinen Marjaana Turusen johtama Lahden Gospelkuoro, joka irrottelee nyt ensimmäistä kertaa yhdessä Marshallin kanssa. 15.11.2026 Helsingin Musiikkitalossa tallennetun konsertin toimittaa Eero Koski.
+
+          Wayne Marshall: Improvisaatio
+
+          George C. Baker: The Wild Ouest Toccata
+
+          Camille Saint-Saëns: Fantaisie nro 3
+
+          Charles-Marie Widor: Sinfonia nro 6
+          Allegro
+          Adagio
+          Final
+
+          Wayne Marshall: Improvisaatio
+
+          Väliaika
+
+          Sikermä amerikkalaisen gospelin, kotimaisen hengellisen musiikin ja popmusiikin helmiä
+
+          Lahden Gospelkuoro
+          Rayssa Monroy, solisti
+          Marjaana Turunen, johtaja
+
+          Wayne Marshall, urut
+          Lari Hermanni Lius, lyömäsoittimet
+          Esa Parikka, rummut
+          Antti Akkanen, basso
+          Tiina Knihtilä, piano
       - title: 'Politiikkaradio '
         start_time: '2026-12-04T21:00:00+02:00'
         end_time: '2026-12-04T21:30:00+02:00'
