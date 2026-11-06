@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-05T09:02:53.033178+00:00'
+  generated_at: '2026-11-06T08:58:15.988150+00:00'
   git:
     branch: main
-    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
-  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
+    commit: 732aea2d1b3fe45c2157efa440793f0f970fedf5
+  data_hash: 4a400b071372b6496c79f179c8c0cae3b90506d69a408c51a409bece79c9f5d0
 data:
   '':
     programmes:
@@ -164,11 +164,11 @@ data:
         description: |-
           E. Strauss: Mit Extrapost (Wienin filharmonikot/Mariss Jansons).
 
-          Schubert: Die Taubenpost (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
+          Schubert: Die Taubenpost (Kyyhkysviesti) kok. Schwanengesang (Joutsenlaulu) (Dietrich Fischer-Dieskau, baritoni, ja Gerald Moore, piano).
 
           W.A. Mozart. Adagio B-duuri (Berliinin filharmoninen puhallinkvintetti).
 
-          J.S. Bach: Vivace konsertosta kahdelle viululle, jousille ja continuolle d-molli (Hilary Hahn ja Margaret Batjer, viulu, sekä Los Angelesin kamariork./Jeffrey Kahane).
+          J.S. Bach: Vivace konsertosta kahdelle viululle, jousille ja continuolle d-molli (Hilary Hahn ja Margaret Batjer sekä Los Angelesin kamariork./Jeffrey Kahane).
 
           Madetoja: Vanha luostari (Tapiolan Kamarikuoro/Hannu Norjanen, sekä Kaisa Ranta, sopraano).
 
@@ -186,8 +186,7 @@ data:
 
           Foulds: Colombine teoks. Music-pictures op.33 (Birminghamin SO/Sakari Oramo).
 
-          Goldmark: Assadin aaria oopp. Saban kuningatar (Nicolai Gedda, tenori, ja Baijerin valtionoopperan ork./Heinrich Bender).
-
+          Goldmark: Assadin aaria "Magische Töne, berauschender Duft" oopp. Die Königin von Saba (Saban kuningatar) (Nicolai Gedda, tenori, ja Baijerin valtionoopperan ork./Heinrich Bender).
 
           Konsertin on laatinut Ainomaija Pennanen.
       - title: Yle Uutiset ja sää
@@ -223,9 +222,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-19T19:00:00+02:00'
         end_time: '2026-11-19T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Selma Savolainen In the Shade Kerava Jazzissa.'
         start_time: '2026-11-19T19:02:00+02:00'
         end_time: '2026-11-19T20:00:00+02:00'
+        description: |-
+          Äänitetty Kerava-salissa 12.9.2026.
       - title: Klassinen kattaus
         start_time: '2026-11-19T20:00:00+02:00'
         end_time: '2026-11-19T20:57:00+02:00'

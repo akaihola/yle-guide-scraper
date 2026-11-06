@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-05T09:02:54.915740+00:00'
+  generated_at: '2026-11-06T08:58:17.228640+00:00'
   git:
     branch: main
-    commit: a7dcdc539c0b55c9c524e7fbe6f14d42efdbc747
-  data_hash: bc9360d9e5a7f71ce21843c8f1a1c0c2c3e5dc14bb2fdaa1c26ba1a9fbcc11ad
+    commit: 732aea2d1b3fe45c2157efa440793f0f970fedf5
+  data_hash: 4a400b071372b6496c79f179c8c0cae3b90506d69a408c51a409bece79c9f5d0
 data:
   '':
     programmes:
@@ -18,8 +18,9 @@ data:
       - title: Aamuhartaus
         start_time: '2026-11-26T06:50:00+02:00'
         end_time: '2026-11-26T06:59:59+02:00'
-        description: |-
-          Pastori Markus Kartano, Helsinki
+        description: |
+          "Jumalan viesti ihmiskunnalle"
+          Pastori Markus Kartano Helsingistä puhuu rakkauden vaatimuksesta suostua näkemään myös toisin ajattelevassa ihminen ja Jeesuksen kasvot.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-26T07:00:00+02:00'
         end_time: '2026-11-26T07:05:00+02:00'
@@ -110,14 +111,18 @@ data:
       - title: Iltahartaus
         start_time: '2026-11-26T18:50:00+02:00'
         end_time: '2026-11-26T19:00:00+02:00'
-        description: |-
-          Psykoterapeutti Seppo Laakso, Klaukkala
+        description: |+
+          "Millaista elämäntarinaa kerrot?"
+          Psykoterapeutti Seppo Laakso Klaukkalasta kutsuu pysähtymään oman elämäsi vaiheiden ja näistä kertomasi tarinan äärelle.
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-26T19:00:00+02:00'
         end_time: '2026-11-26T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Kannaste-Viinikainen-Riippa Trio Jazzklubin studiosessioissa.'
         start_time: '2026-11-26T19:02:00+02:00'
         end_time: '2026-11-26T20:00:00+02:00'
+        description: |-
+          Äänitetty Finnvoxissa marraskuussa 2025. Haastattelussa Teemu Viinikainen.
       - title: Klassinen kattaus
         start_time: '2026-11-26T20:00:00+02:00'
         end_time: '2026-11-26T20:57:00+02:00'
