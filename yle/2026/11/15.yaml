@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-06T08:58:15.186940+00:00'
+  generated_at: '2026-11-07T08:26:11.398333+00:00'
   git:
     branch: main
-    commit: 732aea2d1b3fe45c2157efa440793f0f970fedf5
-  data_hash: 4a400b071372b6496c79f179c8c0cae3b90506d69a408c51a409bece79c9f5d0
+    commit: 316239fc47c40a490b65b8aa8540f76b9e289974
+  data_hash: deb02209675d2b7d218027cb6f43e5a65d113fa13ff3e44f36ac08b9d41ad7ec
 data:
   '':
     programmes:
@@ -86,6 +86,18 @@ data:
       - title: Uudet levyt
         start_time: '2026-11-15T14:00:00+02:00'
         end_time: '2026-11-15T14:55:00+02:00'
+        description: |+
+          Keipi/Sippola: Helvetinjärvi (Luomuduo ja Pyry Kähkönen). 
+          Keipi/Sippola: Bruinen (Luomuduo). 
+          Ketola/Kaipainen: Palan taivasta (Nukkuvat Linnut). 
+          Rahmel: Sinne mihin tuuli kuljettaa (Jutta Rahmel). 
+          Rahmel: Nukkuva tähti (Jutta Rahmel). 
+          Kansansäv./Syrjälä: Kanteleen synty (Pauliina Syrjälä). 
+          Syrjälä/Ryynänen: Pakkasmännyt (Pauliina Syrjälä ja Hanna Ryynänen). 
+          Saarenkylä: Kuurapuu (Kata Vuoristo ja Viivi Maria Saarenkylä). 
+          Kansanlaulu (Karjala): Kurki kuusesta huhusi (Inariveljet). 
+          Kansanlaulu (Inkeri): Hoz mie itken, hoz mie laulan (Inariveljet). 
+
       - title: Ykköskolumni
         start_time: '2026-11-15T14:55:00+02:00'
         end_time: '2026-11-15T15:00:00+02:00'

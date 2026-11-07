@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-06T08:58:15.012235+00:00'
+  generated_at: '2026-11-07T08:26:11.191233+00:00'
   git:
     branch: main
-    commit: 732aea2d1b3fe45c2157efa440793f0f970fedf5
-  data_hash: 4a400b071372b6496c79f179c8c0cae3b90506d69a408c51a409bece79c9f5d0
+    commit: 316239fc47c40a490b65b8aa8540f76b9e289974
+  data_hash: deb02209675d2b7d218027cb6f43e5a65d113fa13ff3e44f36ac08b9d41ad7ec
 data:
   '':
     programmes:
@@ -34,9 +34,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-14T08:35:00+02:00'
         end_time: '2026-11-14T08:40:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Silja Tenhunen ja NFL'
         start_time: '2026-11-14T08:40:00+02:00'
         end_time: '2026-11-14T09:00:00+02:00'
+        description: |-
+          Silja Tenhunen seuraa intohimoisesti amerikkalaista jalkapalloa. Toimittajana Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-11-14T09:00:00+02:00'
         end_time: '2026-11-14T09:03:00+02:00'
@@ -93,7 +95,7 @@ data:
           Näyttelijä-ohjaaja Jussi Nikkilä ja Shakespeare-tutkija Nely Keinänen avaavat monisäikeisesti näytelmän maailmaa ja sen ajattomuutta Marja Vehkasen vieraina.
 
           Ohjelma on uusinta elokuulta 2026.
-      - title: Näistä levyistä en luovu
+      - title: Kun Satu Rämö kirjoittaa, musiikki soi aina taustalla
         start_time: '2026-11-14T13:00:00+02:00'
         end_time: '2026-11-14T13:55:00+02:00'
         description: |-
@@ -163,6 +165,8 @@ data:
       - title: 'Marko Gustafsson: Käännekohdissa Atte Harjanne'
         start_time: '2026-11-14T17:05:00+02:00'
         end_time: '2026-11-14T17:58:00+02:00'
+        description: |
+          Diplomi-insinööri, kansanedustaja Atte Harjanteella on huoli lasten tulevaisuudesta. Hän toivooo, että  rohkeammin tarttuisimme suurimpiin haasteisiimme ilmastonmuutokseen ja tekoälyyn. Harjanteen oma lapsuus oli valoisa, mutta hän kokee että tämän päivän lapsille ja nuorille näkymä on dystooppinen, etenkin jos annamme asioiden vain tapahtua
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-14T17:53:00+02:00'
         end_time: '2026-11-14T18:00:00+02:00'
