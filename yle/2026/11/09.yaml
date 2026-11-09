@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-08T08:39:50.974371+00:00'
+  generated_at: '2026-11-09T09:16:00.426776+00:00'
   git:
     branch: main
-    commit: 9e98af377208cfa4c4c71ce7c92bdf351e9951bd
-  data_hash: fbc54297fdd07e7558a063d4d0df7073b1ffd9a283b42e049ec6d253e925226b
+    commit: 4e7766dc25d76090ac55ee78909f4bcbb6808dc2
+  data_hash: 97818da958001840159f226568b5095c04e8654e80b45952a6eec223771f1e29
 data:
   '':
     programmes:
@@ -96,6 +96,28 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-11-09T08:07:00+02:00'
         end_time: '2026-11-09T09:00:00+02:00'
+        description: |
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Marc Berthoumieux: Le bal des mondes. 
+
+          Dunckel, Godin: Once upon a time (Air).
+
+          Holm: Polska efter polska (Barlast).
+
+          Costa: Mare (Ricardo Ribeiro & Ana Moura).
+
+          Rantala: Maalari (EVA-trio).
+
+          Kansansävelmä: Elias (Lapua-Uusi-Guinea).
+
+          Mehto: Inspiratio (Joska Josafat).
+
+          Anna Kokkonen: Mitä rakkaus on.
+
+          Maurity, Jorge, De Carvalho, Nascimento: Nem ouro nem prata (Ruy Maurity).
+
+          Lang/Mink: Miss Chatelaine (K.D. Lang).
       - title: 'Yle Uutiset '
         start_time: '2026-11-09T09:00:00+02:00'
         end_time: '2026-11-09T09:03:00+02:00'
@@ -141,14 +163,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-09T12:00:00+02:00'
         end_time: '2026-11-09T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Tähtitaivaan kaksi tarinaa – kuinka tähtitiede ja ennustukset kulkivat historiassa käsi kädessä'
         start_time: '2026-11-09T12:05:00+02:00'
         end_time: '2026-11-09T12:55:00+02:00'
         description: |-
           Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Alkaako Lähi-idässä murros?'
         start_time: '2026-11-09T13:00:00+02:00'
         end_time: '2026-11-09T13:30:00+02:00'
+        description: |-
+          Yhdysvallat on ollut Israelin vankkumaton tukija, mutta mitta tuli täyteen. Millaisessa muutoksessa Lähi-idän tilanne on USA:n ja Israelin vaalien jälkeen?
+          Aiheesta ovat puhumassa Lähi-idän tutkimuksen professori Hannu Juusola ja poliittisen historian tutkija Timo R Stewart. Toimittajana on Antti Pilke. Suora lähetys. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-09T13:30:00+02:00'
         end_time: '2026-11-09T13:35:00+02:00'
@@ -196,7 +221,7 @@ data:
         start_time: '2026-11-09T15:00:00+02:00'
         end_time: '2026-11-09T15:58:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Ateismin historiaa on luultu lyhyeksi, mutta tutkimus on osoittanut että se onkin pitkä ja monipuolinen. Ateistit eivät vain ole kyenneet jättämään merkkejä itsestään samalla tavalla kuin valtauskontojen edustajat. Heitä on myös vainottu, joten ateismin historia on ollut pitkälti rivien väliin kätkettyä. Mikko Sillforsin uusi tietokirja valottaa ateismin historiaa, joka ei ole pelkästään eurooppalainen. Keskustelemassa tutkija Mikko Sillfors ja emeritusprofessori Timo Airaksinen. Toimittajana on Jonni Roos.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-09T16:00:00+02:00'
         end_time: '2026-11-09T16:07:00+02:00'
@@ -292,18 +317,18 @@ data:
         start_time: '2026-11-09T21:00:00+02:00'
         end_time: '2026-11-09T21:30:00+02:00'
       - title: 'Tiedeykkönen: Luotain törmäsi asteroidiin ja sysäsi sen radaltaan – pian nähdään, mitä jäi jäljelle'
-        start_time: '2026-11-09T21:30:30+02:00'
-        end_time: '2026-11-09T22:20:00+02:00'
+        start_time: '2026-11-09T21:30:49+02:00'
+        end_time: '2026-11-09T22:19:36+02:00'
         description: |-
           Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
       - title: Maailmanpolitiikan arkipäivää
-        start_time: '2026-11-09T22:21:00+02:00'
-        end_time: '2026-11-09T22:44:00+02:00'
+        start_time: '2026-11-09T22:20:30+02:00'
+        end_time: '2026-11-09T22:44:52+02:00'
         description: |
           Latinalaisen Amerikan vaaleissa on viime vuosina tapahtunut käännös oikealle. Vastavirtaan ui Brasilian vasemmistopresidentti Luiz Inácio Lula da Silva, joka onnistui päihittämään äärioikeiston ehdokkaan lokakuun presidentinvaaleissa. Maailmanpolitiikan arkipäivää -ohjelma tarkastelee, miten Lulan oma talouspolitiikka tuli tahattomasti vahvistaneeksi äärioikeiston asemia Brasiliassa. Ohjelmassa myös pohditaan, mitä Lulan vaalivoitto merkitsee Yhdysvaltain presidentille Donald Trumpille. Ohjelman ovat toimittaneet Maija Salmi ja Heikki Heiskanen. Äänitarkkailijana on Marko Vierikko.
       - title: 'Näistä levyistä en luovu: Kirjailija Eppu Nuotio'
-        start_time: '2026-11-09T22:45:00+02:00'
-        end_time: '2026-11-09T23:39:30+02:00'
+        start_time: '2026-11-09T22:44:29+02:00'
+        end_time: '2026-11-09T23:39:46+02:00'
         description: |-
           Kirjailija Eppu Nuotio kertoo itselleen tärkeistä musiikkikappaleista. Toimittajana Maija Salminen.
       - title: Yöklassinen
