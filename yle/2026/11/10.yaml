@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-09T09:16:00.832918+00:00'
+  generated_at: '2026-11-10T09:21:20.514014+00:00'
   git:
     branch: main
-    commit: 4e7766dc25d76090ac55ee78909f4bcbb6808dc2
-  data_hash: 97818da958001840159f226568b5095c04e8654e80b45952a6eec223771f1e29
+    commit: c96b7e3604052f5212476d64255afcdb857aaf54
+  data_hash: aeffae1043b4fd931e74b76f2440685105506c0375326008ca0413f98a888870
 data:
   '':
     programmes:
@@ -36,13 +36,14 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-10T06:30:50+02:00'
         end_time: '2026-11-10T06:50:00+02:00'
-        description: |+
+        description: |-
           Tuntematon - sov. Tiitu: Nyt ylös sieluni (virsi 632) (Jorma Hynninen, baritoni, ja Tapio Tiitu, urut).
 
           O. Merikanto: Oi, muistatko vielä sen virren (Esa Ruuttunen, ja yhtye/Osmo Vänskä).
 
           Suonio (sov. Vuori): Tulee aika (Tuohus-kuoro ja Carmen Ensemble).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Aamuhartaus
         start_time: '2026-11-10T06:50:00+02:00'
         end_time: '2026-11-10T06:59:59+02:00'
@@ -55,7 +56,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-10T07:06:00+02:00'
         end_time: '2026-11-10T08:00:00+02:00'
-        description: |+
+        description: |-
           Melartin: Pas de deux baletista Sininen helmi (RSO/Hannu Lintu).
 
           Schubert: Ständchen (Tuomas Katajala, tenori, YL/Matti Hyökki sekä Kristian Attila, piano).
@@ -78,12 +79,35 @@ data:
 
           Popper: Kotiinpaluu (Wendy Warner, sello, ja Eileen Buck, piano).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-10T08:00:00+02:00'
         end_time: '2026-11-10T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-11-10T08:07:00+02:00'
         end_time: '2026-11-10T09:00:00+02:00'
+        description: |
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Alcaide, Ana: Baila donde el mar
+
+          Malherbe, Ehrlich: Dragon de lune (Hadouk Trio).
+
+          AURAL: Tuuli.
+
+          Busk: Opus 2,5 (Dreamers' Circus).
+
+          Tammela, Saarikorpi: Neilikka, inkivääri, kaneli (Juurakko).
+
+          Teofilo Chantre: Nha fe.
+
+          Baden Powell: Samba Saravah (Pierre Barouh)
+
+          Kaner-Lidström, Mudie: Nine lights (Leif Kaner-Lidström).
+
+          Richard Bona: Muntula moto.
+
+          Simo Helkala: Kuuraa.
       - title: 'Yle Uutiset '
         start_time: '2026-11-10T09:00:00+02:00'
         end_time: '2026-11-10T09:03:00+02:00'
@@ -108,7 +132,7 @@ data:
           Waard: Tee kaikki tuo uudelleen (Pirkko Mannola).
           Berger: Donner pour donner (Elton John ja France Gall).
 
-          Konsertin on toimittanut Riikka Holopainen.
+          Konsertin on toimittanut Riikka Holopainen. Juontajana on Tuomas Niemelä. 
       - title: 'Sari Valto: Romantasia on nyt huippusuosittu kirjallisuudenlaji'
         start_time: '2026-11-10T10:00:00+02:00'
         end_time: '2026-11-10T10:55:00+02:00'
@@ -128,11 +152,11 @@ data:
         start_time: '2026-11-10T11:57:00+02:00'
         end_time: '2026-11-10T12:00:00+02:00'
         description: |
-          Pentti Saarikoski: Ihmisen ääni, WSOY 1976.
+          Pentti Saarikoski: Ihmisen ääni, WSOY 1976. Lukijana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-10T12:00:00+02:00'
         end_time: '2026-11-10T12:05:00+02:00'
-      - title: 'Uusiutuva tiede: Miksi lentokone lentää?'
+      - title: 'Uusiutuva tiede: Ilmailun historiaa. Miksi lentokone lentää?'
         start_time: '2026-11-10T12:05:00+02:00'
         end_time: '2026-11-10T12:35:00+02:00'
         description: |-
@@ -146,9 +170,11 @@ data:
         end_time: '2026-11-10T13:00:00+02:00'
         description: |
           Pasi Heikura perehtyy professori Hanna Lappalaisen ja tutkijatohtori Lotta Aarikan kanssa kielen ja yhteiskuntaluokan suhteeseen Suomessa. Ohjelmassa selviää myös mitä tapahtuu, kun poliisi saa oikeuskanslerilta puhtaita pyyhkeitä, sekä milloin rauta voi olla kauraa. Ohjelman ovat toimittaneet Pasi Heikura ja Tina Cavén.
-      - title: Politiikkaradio
+      - title: 'Lähes koko maailma kokoontuu nyt Turkissa: Saadaanko ilmastokriisi kuriin?'
         start_time: '2026-11-10T13:00:00+02:00'
         end_time: '2026-11-10T13:30:00+02:00'
+        description: |
+          Miten Pariisin ilmastosopimus herätetään henkiin? Studiossa tutkija Karoliina Pietarila Ulkopoliittisesta instituutista ja Ismo Ulvila Euroopan komission Suomen edustustosta. Toimittajana on Linda Pelkonen. Suora lähetys.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-10T13:30:00+02:00'
         end_time: '2026-11-10T13:35:00+02:00'
@@ -159,12 +185,12 @@ data:
         start_time: '2026-11-10T13:35:00+02:00'
         end_time: '2026-11-10T14:00:00+02:00'
         description: |-
-          Mitä romantasialla tarkoitetaan? Miksi romantasia on nyt niin suosittua?  Ylen kolmannessa lukumaratonissa luetaan S. K. Rostedtin romantasiateos Kahden veren tytär. S. K. eli Saara Rostedtin luoma Moorna-sarja on noussut ilmiöksi ja Kahden veren tytär on sarjan ensimmäinen teos.Minkälainen on S.K. Rostedtin tie kirjailijaksi?Tarinan päähenkilö Moorna etsii hyväksyntää ja joutuu salaliittojen ja omien voimiensa pyörteisiin, ja teos sijoittuu romantasian erotiikka-asteikolla maltilliseen päähän. Miia Lahti haastattelee.
+          Mitä romantasialla tarkoitetaan? Miksi romantasia on nyt niin suosittua?  Ylen kolmannessa lukumaratonissa luetaan S. K. Rostedtin romantasiateos Kahden veren tytär. S. K. eli Saara Rostedtin luoma Moorna-sarja on noussut ilmiöksi ja Kahden veren tytär on sarjan ensimmäinen teos.Minkälainen on S.K. Rostedtin tie kirjailijaksi?Tarinan päähenkilö Moorna etsii hyväksyntää ja joutuu salaliittojen ja omien voimiensa pyörteisiin, ja teos sijoittuu romantasian erotiikka-asteikolla maltilliseen päähän. Tatu Tamminen haastattelee.
       - title: 'Musiikkiaitio: Voltei amor'
         start_time: '2026-11-10T14:00:00+02:00'
         end_time: '2026-11-10T15:00:00+02:00'
         description: |+
-          Miia Lahti juontaa. Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä Inari Tilli kysyy kansanedustaja, ministeri Wille Rydmanilta hänen erityisestä kulttuurielämyksestään.
+          Tatu Tamminen juontaa. Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä Inari Tilli kysyy kansanedustaja, ministeri Wille Rydmanilta hänen erityisestä kulttuurielämyksestään.
 
 
           Balake: Deni sabali (Africando).
@@ -277,11 +303,12 @@ data:
       - title: Musiikkikamari
         start_time: '2026-11-10T19:27:00+02:00'
         end_time: '2026-11-10T20:00:00+02:00'
-      - title: Romano mirits
+      - title: 'Romano mirits: Yhdessä kasvaneet, yhdessä eteenpäin – Alexandra ja Sofia Lindeman'
         start_time: '2026-11-10T20:00:00+02:00'
         end_time: '2026-11-10T20:15:00+02:00'
-        description: |-
-          Ajankohtaista asiaa romaneista.
+        description: |+
+          Vieraana ovat 20-vuotiaat kaksossisaret Alexandra ja Sofia Lindeman. Haastattelussa keskustellaan kaksosten erityisestä yhteydestä, opiskelusta, tulevaisuuden suunnitelmista sekä heidän kokemuksistaan Espanjassa, jossa he asuivat kolme vuotta. Toimittajana Dimitri Grönfors.
+
       - title: 'Ulkolinja-podcast:  Pohjois-Irlannissa räp-trio Kneecap nostattaa kansallistunnetta '
         start_time: '2026-11-10T20:15:00+02:00'
         end_time: '2026-11-10T20:35:00+02:00'
@@ -295,13 +322,15 @@ data:
 
       - title: 'Politiikkaradio '
         start_time: '2026-11-10T21:00:00+02:00'
-        end_time: '2026-11-10T21:29:00+02:00'
-      - title: Aitiovieras
-        start_time: '2026-11-10T21:30:00+02:00'
-        end_time: '2026-11-10T21:55:00+02:00'
+        end_time: '2026-11-10T21:30:00+02:00'
+      - title: Aitiovieras:Julistetaide ja yleisön muistot kohtaavat Malvan näyttelyssä - kokoelma-amanuenssi Hanna Suihko vieraana
+        start_time: '2026-11-10T21:31:04+02:00'
+        end_time: '2026-11-10T21:56:50+02:00'
+        description: |2-
+           Lahden Malva-museon Kellarigalleriassa on esillä näyttely "Komisario Palmun erehdys ja muita kotimaisia elokuvajulisteita". Näyttely esittelee alkuperäisiä elokuvajulisteita Malvan kokoelmasta, jotka kuvastavat eri vuosikymmenten visuaalisia tyylisuuntia, yleisön odotuksia ja tuotantoyhtiöiden linjauksia, ja julisteiden yhteyteen on liitetty katsojien lähettämiä elokuvatoiveiden sitaatteja. Näyttely liittyy Ylen 100-vuotisjuhlintaan ja se on yhteistyö Yle Teeman kanssa. Elokuvajulisteita ja julistetaiteen tilasta muutenkin keskustelemassa Malva-museon kokolema-amanuessi Hanna Suihko. Jarmo Laitaneva haastattelee.
       - title: Uudet levyt
-        start_time: '2026-11-10T21:56:00+02:00'
-        end_time: '2026-11-10T22:51:00+02:00'
+        start_time: '2026-11-10T21:57:14+02:00'
+        end_time: '2026-11-10T22:50:54+02:00'
         description: |-
           Lyytikäinen: Tässä on lohtu (Kamarikuoro Värinä/Noora Hirn).
 
@@ -311,8 +340,8 @@ data:
 
           Yokoyama: There are always flowers (Uusinta Ensemble).
       - title: 'Sukuni murhamysteeri K4J8: Liian monta sattumaksi'
-        start_time: '2026-11-10T23:00:00+02:00'
-        end_time: '2026-11-10T23:39:30+02:00'
+        start_time: '2026-11-10T22:54:05+02:00'
+        end_time: '2026-11-10T23:39:09+02:00'
         description: |-
           Nyt on aika vetää johtopäätökset yhteen. Kuinka todennäköiseltä Neuvostoliittolaisten tekemät salamurhat näyttävät?
           Sarjan kaikki neljä tuotantokautta ovat kuunneltavissa Yle Areenassa.

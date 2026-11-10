@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-09T09:16:02.063683+00:00'
+  generated_at: '2026-11-10T09:21:21.523630+00:00'
   git:
     branch: main
-    commit: 4e7766dc25d76090ac55ee78909f4bcbb6808dc2
-  data_hash: 97818da958001840159f226568b5095c04e8654e80b45952a6eec223771f1e29
+    commit: c96b7e3604052f5212476d64255afcdb857aaf54
+  data_hash: aeffae1043b4fd931e74b76f2440685105506c0375326008ca0413f98a888870
 data:
   '':
     programmes:
@@ -26,11 +26,23 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-14T08:05:00+02:00'
         end_time: '2026-11-14T08:25:00+02:00'
+        description: |+
+          Söderblom: Jo nuoruuteni aikana (virsi 237) (Sibelius-lukion kamarikuoro/Marjukka Riihimäki).
+
+          Stenius: Insignis est figura (Maailma katoovainen) (Peter Peitsalo, urut).
+
+          Nikkola (sov. Lehtoaho): Herra, lahjanasi sain nuoren elämäni (virsi 507) (A-Men/Mikko Peltokorpi, ja Väre-kvartetti).
+
+          L. Heikkilä: Hyvä paimen (Aija Roivas).
+
+          Rahmaninov: Isä meidän (Uspenskin katedraalikuoro/Jarmo Lehto).
+
       - title: Aamuhartaus
         start_time: '2026-11-14T08:25:00+02:00'
         end_time: '2026-11-14T08:35:00+02:00'
         description: |-
-          Pastori Tuomas Kallonen, Ortodoksinen kirkko, Tampere
+          "Paasto on Jumalan meille valmistama lääke"
+          Pastori Tuomas Kallonen, Ortodoksinen kirkko, Tampere puhuu paaston alla rakkauden kaksoiskäskystä ja Jeesuksen opettamasta rakkauden määritelmästä.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-14T08:35:00+02:00'
         end_time: '2026-11-14T08:40:00+02:00'
@@ -64,7 +76,7 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-11-14T10:00:00+02:00'
         end_time: '2026-11-14T10:25:00+02:00'
-      - title: 'Uusiutuva tiede: Miksi lentokone lentää?'
+      - title: 'Uusiutuva tiede: Ilmailun historiaa. Miksi lentokone lentää?'
         start_time: '2026-11-14T10:25:00+02:00'
         end_time: '2026-11-14T10:55:00+02:00'
         description: |-
@@ -95,9 +107,9 @@ data:
           Näyttelijä-ohjaaja Jussi Nikkilä ja Shakespeare-tutkija Nely Keinänen avaavat monisäikeisesti näytelmän maailmaa ja sen ajattomuutta Marja Vehkasen vieraina.
 
           Ohjelma on uusinta elokuulta 2026.
-      - title: Kun Satu Rämö kirjoittaa, musiikki soi aina taustalla
+      - title: 'Näistä levyistä en luovu: Kun Satu Rämö kirjoittaa, musiikki soi aina taustalla'
         start_time: '2026-11-14T13:00:00+02:00'
-        end_time: '2026-11-14T13:55:00+02:00'
+        end_time: '2026-11-14T13:57:00+02:00'
         description: |-
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
       - title: Yksi on hyvää seuraa
