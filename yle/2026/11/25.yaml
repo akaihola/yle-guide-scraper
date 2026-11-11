@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-10T09:21:24.580444+00:00'
+  generated_at: '2026-11-11T08:55:48.855758+00:00'
   git:
     branch: main
-    commit: c96b7e3604052f5212476d64255afcdb857aaf54
-  data_hash: aeffae1043b4fd931e74b76f2440685105506c0375326008ca0413f98a888870
+    commit: b2577125ac5b45c94547da35548ab16a7384bbd6
+  data_hash: 6a0a5d0629a421742d57ebc9cd180bfaad0a5ef755ea51a845971f1a55282cb9
 data:
   '':
     programmes:
@@ -85,9 +85,22 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-11-25T11:00:00+02:00'
         end_time: '2026-11-25T11:57:00+02:00'
+        description: |+
+          Hotteterre: Sarja huilulle ja continuolle G-duuri op.2/3 (Barthold Kuijken, traverso, Wieland Kuijken, viola da gamba, ja Robert Kohnen, cembalo).
+
+          Sibelius: Romanssi C-duuri (RSO/Jukka-Pekka Saraste).
+
+          Sor: Kuusi bagatellia kitaralle op.43 (Petri Kumela).
+
+          Berwald: Konsertstyck (Konserttikappale) F-duuri (Jaakko Luoma, fagotti, ja Tapiola Sinfonietta/Janne Nisonen).
+
+          Breton: Alkusoitto zarzuelasta La Verbena de la paloma (Englantilainen kamariork./Enrique Garcia Asensio).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-25T11:57:00+02:00'
         end_time: '2026-11-25T12:00:00+02:00'
+        description: |-
+          Juhani Siljon runo Selvään veteen.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T12:00:00+02:00'
         end_time: '2026-11-25T12:05:00+02:00'

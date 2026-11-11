@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-10T09:21:28.768586+00:00'
+  generated_at: '2026-11-11T08:55:52.747448+00:00'
   git:
     branch: main
-    commit: c96b7e3604052f5212476d64255afcdb857aaf54
-  data_hash: aeffae1043b4fd931e74b76f2440685105506c0375326008ca0413f98a888870
+    commit: b2577125ac5b45c94547da35548ab16a7384bbd6
+  data_hash: 6a0a5d0629a421742d57ebc9cd180bfaad0a5ef755ea51a845971f1a55282cb9
 data:
   '':
     programmes:
@@ -65,11 +65,17 @@ data:
       - title: Maailma tarinoina
         start_time: '2026-12-12T12:05:00+02:00'
         end_time: '2026-12-12T13:00:00+02:00'
-      - title: 'Ville Ahonen '
+      - title: 'Näistä levyistä en luovu: Ville Ahosen musiikillinen matka'
         start_time: '2026-12-12T13:00:00+02:00'
         end_time: '2026-12-12T13:55:00+02:00'
         description: |-
-          Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
+          Ville Ahonen avaa musiikillisen sielunmaisemansa Yle Areenassa
+
+          Mistä levyistä muusikko Ville Ahonen ei koskaan luopuisi? Uudessa “Näistä levyistä en luovu” -ohjelmassa Ville Ahonen vie kuulijat matkalle elämänsä tärkeimpien kappaleiden ja levyjen äärelle. Ohjelmassa kuullaan musiikkia klassikoista moderneihin helmiin – Bachista Radioheadiin ja Leonard Cohenista Kae Tempestiin. Jokaisen kappaleen taustalla on henkilökohtainen tarina, hetki tai muisto, joka on jättänyt pysyvän jäljen artistin elämään.
+
+          Ville Ahonen kertoo avoimesti, miten musiikki on lohduttanut, pysäyttänyt ja antanut uusia näkökulmia elämään eri vaiheissa. Ohjelma tarjoaa kuulijalle intiimin ja koskettavan kokemuksen sekä mahdollisuuden löytää musiikin kautta uusia puolia myös omasta elämästä.
+
+          “Monet näistä kappaleista ovat kulkeneet mukana vuosien varrella – osa lohduttaa, osa muistuttaa siitä miten pienillä asioilla on suuri merkitys,” Ahonen kuvailee.
       - title: Yksi on hyvää seuraa
         start_time: '2026-12-12T13:55:00+02:00'
         end_time: '2026-12-12T14:00:00+02:00'
