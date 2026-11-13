@@ -1,17 +1,50 @@
 metadata:
-  generated_at: '2026-11-12T09:22:41.282193+00:00'
+  generated_at: '2026-11-13T09:10:05.271439+00:00'
   git:
     branch: main
-    commit: 0c29586214ddfc34dea4b08a1b0e9a6cf15bff4c
-  data_hash: e7af5124f378619b1f2480c26546e96ed65a6c03b25a4e33e5db262c59349eb5
+    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
+  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
 data:
   '':
     programmes:
       - title: Yöklassinen
         start_time: '2026-11-14T23:40:00+02:00'
         end_time: '2026-11-15T07:00:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Schubert: Neljä impromptua pianolle (Rudolf Serkin).
+
+          00:19 Dvorák: Viulukonsertto a-molli (Midori ja New Yorkin FO/Zubin Mehta).
+
+          00:51 W.A. Mozart: Konserttiaaria Mentre ti lascio, o figlia (Kim Borg, basso, ja Bambergin sinfonikot/Ferdinand Leitner).
+
+          01:00 Schubert: Jousikvartetto n:o 14 d-molli (Tyttö ja kuolema) (Tokio-kvartetti).
+
+          01:40 Quilter: Sarja bal. The Rake (Bratislavan radion SO/Adrian Leaper).
+
+          01:51 Anna Amalia, Saksi-Weimarin herttuatar: Divertimento B-duuri (Il Cenacolo della Chimera).
+
+          02:01 Wagner: Faust-alkusoitto d-molli (Seattlen SO/Gerard Schwarz). 
+
+          02:12 J.S. Bach: Partita c-molli (John Browning, piano).
+
+          02:29 Spohr: Jousikvintetto n:o 2 G-duuri (Grande Quintetto) (L' Archibudelli ja Smithsonian Chamber Players).
+
+          03:00 Mahler: Sinfonia n:o 4 G-duuri (Laura Claycomb, sopraano, ja San Franciscon SO/Michael Tilson Thomas).
+
+          04:05 Chopin: Pianokonsertto n:o 2 f-molli (Svjatoslav Richter ja Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          04:35 Brahms: Traaginen alkusoitto d-molli (Columbia-SO/Bruno Walter).
+
+          04:49 Glinka: Espanjalainen alkusoitto n:o 2 G-duuri (Kesäyö Madridissa) (Neuvostoliiton valtion SO/Jevgeni Svetlanov).
+
+          04:59 Liszt: Sinfoniset runot Festklänge; Hamlet; Hungaria (Neuvostoliiton kulttuuriministeriön SO/Mark Ermler).
+
+          05:58 W.A. Mozart: Messu C-duuri (Kruunajaismessu) (Araks Davtjan, sopraano, Larisa Pjatigorskaja, mezzosopraano, Jorge Anton, tenori, Iñaki Fresan, basso, ja Orfeon Donostiarra -kuoro sekä Moskovan virtuoosit/Vladimir Spivakov).
+
+          06:26 Hummel: Serenadi n:o 2 C-duuri (Consortium Classicum) 
+
+          06:47 Razetti: Viulukonsertto f-molli (Stefano Montanari, barokkiviulu, ja Arion-barokkiork.).
+
       - title: 'Klasariparatiisi: Pierrot pälyilee kuuta '
         start_time: '2026-11-15T07:00:47+02:00'
         end_time: '2026-11-15T07:55:44+02:00'
@@ -176,14 +209,16 @@ data:
         end_time: '2026-11-15T21:00:00+02:00'
         description: |-
           Palveluksen toimittaa pastori Marko Mäkinen.
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Rikkaita ihannoidaan aiempaa enemmän – tutkijan mukaan se on ongelma'
         start_time: '2026-11-15T21:00:30+02:00'
         end_time: '2026-11-15T21:24:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
-      - title: Aitiovieras
+          Veropäivänä käydään läpi suomalaisten tuloja ja kuinka paljon he ovat veroja maksaneet? Onko puhe rikkaista muuttunut? Leonard Wilhelmuksen haastaltavana Jyväskylän yliopiston apulaisprofessori Hanna Kuusela. 
+      - title: 'Aitiovieras: Kahden maan toimittaja - Ella Kanninen Puoli seitsemästä Italiaan'
         start_time: '2026-11-15T21:25:00+02:00'
         end_time: '2026-11-15T21:50:00+02:00'
+        description: |-
+          Yle TV 1:ssä maanantaista torstaihin nähtävä Puoli seitsemän -ohjelma on ollut ruudussa jo yli 2500 kertaa. Venla-palkitun ohjelman toinen juontaja on toimittaja Ella Kanninen, joka asuu kahdessa maassa Suomessa ja Italiassa. Puoli seitsemän -ohjelman lisäksi hän on tehnyt useita ohjelmia italialaisesta kulttuurista. Miia Lahti haastattelee.
       - title: 'Klasariparatiisi: Pierrot pälyilee kuuta '
         start_time: '2026-11-15T21:51:00+02:00'
         end_time: '2026-11-15T22:45:57+02:00'
@@ -209,5 +244,41 @@ data:
       - title: Yöklassinen
         start_time: '2026-11-15T23:40:00+02:00'
         end_time: '2026-11-16T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Carulli: Airs nationaux de tous les peuples d'Europe (Marcello Fantoni, kitara).
+
+          00:09 de La Rue: Missa Alleluia (Capilla Flamenca/Dirk Snellings).
+
+          00:40 Vasks: Lidzenuma ainavas (Tasankomaisemia) (Trio Palladio).
+
+          01:00 Lalo: Pianotrio n:o 3 a-molli (Trio Salomon).
+
+          01:29 Debussy: Suite bergamasque (Stanislav Bunin, piano).
+
+          01:46 Sammartini: Sonaatti sellolle ja pianolle G-duuri (Leonard Rose ja Leonid Hambro).
+
+          01:57 Mertz: Otteita kok. Bardenklänge (Richard Savino, kitara).
+
+          02:57 Respighi: Rooman juhlia, sinfoninen runo (Oregonin SO/James DePreist).
+
+          03:24 Matti Rautio: Pianokonsertto (Martti Rautio ja RSO/Paavo Rautio).
+
+          03:46 Shebalin: Sonaatti viululle ja pianolle op.51/1 (Sasha Rozhdestvenski ja Viktorija Postnikova).
+
+          04:09 Zemlinsky: Merenneito (Concertgebouw-ork./Riccardo Chailly).
+
+          04:51 Blavet: Sonaatti huilulle ja continuolle D-duuri (Robert Stallman, huilu, Edwin Swanborn, cembalo,  ja Karl Bennion, sello).
+
+          05:05 Busoni: Kaksi harjoitelmaa oopp. Doktor Faust varten (Hong Kongin FO/Samuel Wong).
+
+          05:24 Wagner: Alkusoitto oopp. Lentävä Hollantilainen (Cincinnatin SO/Jesus Lopez-Cobos). 
+
+          05:36 Telemann: Sonaatti oboelle ja continuolle B-duuri (Battalia).
+
+          05:49 J. Haydn: Pianotrio n:o 41 G-duuri (Oberlin Trio).
+
+          06:06 J.S. Bach: Urkusonaatti n:o 3 d-molli (Tom Wilkinson, Edinburghin yliopiston urut).
+
+          06:20 Couperin: Konsertto n:o 13 G-duuri (Michael Sand ja Martha McGaughey, viola da gamba).
+
+...

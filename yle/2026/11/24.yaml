@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-12T09:22:47.354327+00:00'
+  generated_at: '2026-11-13T09:10:11.655015+00:00'
   git:
     branch: main
-    commit: 0c29586214ddfc34dea4b08a1b0e9a6cf15bff4c
-  data_hash: e7af5124f378619b1f2480c26546e96ed65a6c03b25a4e33e5db262c59349eb5
+    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
+  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
 data:
   '':
     programmes:
@@ -208,9 +208,11 @@ data:
         end_time: '2026-11-24T20:35:00+02:00'
         description: |-
           Portugalissa on lähdetty hakemaan ratkaisua pahaan huumeongelmaan vapauttamalla huumelainsäädäntöä ja sallimalla käyttöhuoneet. 
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: Sylvie Fraboulet-Jussila'
         start_time: '2026-11-24T20:35:00+02:00'
         end_time: '2026-11-24T20:55:00+02:00'
+        description: |
+          50-luku on Sylvie Fraboulet-Jussilan juttu. Toimittajana Maija Salminen.
       - title: 'Politiikkaradio '
         start_time: '2026-11-24T21:00:00+02:00'
         end_time: '2026-11-24T21:29:00+02:00'

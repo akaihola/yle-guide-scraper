@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-12T09:22:46.884116+00:00'
+  generated_at: '2026-11-13T09:10:10.966840+00:00'
   git:
     branch: main
-    commit: 0c29586214ddfc34dea4b08a1b0e9a6cf15bff4c
-  data_hash: e7af5124f378619b1f2480c26546e96ed65a6c03b25a4e33e5db262c59349eb5
+    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
+  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
 data:
   '':
     programmes:
@@ -64,12 +64,16 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-22T12:00:00+02:00'
         end_time: '2026-11-22T12:05:00+02:00'
-      - title: Elävä historia
+      - title: 'Elävä historia: Satumaista rikkautta ja mittaamatonta kärsimystä - brittien harjoittaman orjuuden jäljet Karibialla'
         start_time: '2026-11-22T12:05:00+02:00'
-        end_time: '2026-11-22T12:50:00+02:00'
-        description: |-
-          Elävä historia vie matkalle menneisyyden ihmisten tarinoihin aina muinaisesta Egyptistä Suomen lähihistoriaan. Kuuntelemalla näet maailman toisin.
-      - title: Välilevyjä - Kare Eskola
+        end_time: '2026-11-22T12:57:00+02:00'
+        description: |
+          James Drax perusti vuonna 1627 Barbadoksen saarelle plantaasin, missä hän ensimmäisten joukossa kokeili sokeriruo'on viljelyä ja orjatyövoiman hyödyntämistä. Plantaasi on yhä Drax-suvun omistuksessa, ja se on tuottanut suuren omaisuuden. Parin sadan vuoden ajan Drax Hall -sokeriplantaasilla työskentelivät Afrikasta tuodut orjuutetut ihmiset. 
+          Millaiset jäljet brittien harjoittama orjuus ylipäätään jätti Karibialle?
+          Haastateltavat: Latinalaisen Amerikan tutkimuksen dosentti Pekka Valtonen ja historian yliopistonlehtori Markku Hokkanen Oulun yliopistosta.
+          Toimittaja: Harri Alanne.
+          Äänisuunnittelija: Laura Koso.
+      - title: 'Välilevyjä: Gershwin kestää'
         start_time: '2026-11-22T13:00:00+02:00'
         end_time: '2026-11-22T13:57:00+02:00'
         description: |-
