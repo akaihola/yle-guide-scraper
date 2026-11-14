@@ -180,9 +180,22 @@ def test_get_series_title(
             "Some Other Channel",
         ),
         (
-            {"meta": {"analytics": {"context": {"comscore": {"yle_referer": ""}}}}},
-            "",
-            "",
+            # Format used by the API since 2026-02-11
+            {
+                "meta": {
+                    "analytics": {
+                        "context": {
+                            "yle": {
+                                "source_ref": (
+                                    "radio.guide.2026-11-14.radio_opas.yle-radio-1.untitled_list"
+                                ),
+                            },
+                        },
+                    },
+                },
+            },
+            "yle-radio-1",
+            "Yle Radio 1",
         ),
     ],
 )
@@ -197,6 +210,115 @@ def test_extract_service_info(
     service_id, service_name = _extract_service_info(schedule_data)
     assert service_id == expected_id
     assert service_name == expected_name
+
+
+@pytest.mark.parametrize(
+    "schedule_data",
+    [
+        {"meta": {"analytics": {"context": {"comscore": {"yle_referer": ""}}}}},
+        {"meta": {"analytics": {"context": {"yle": {}}}}},
+    ],
+)
+def test_extract_service_info_missing(schedule_data: dict) -> None:
+    """A response without a service ID fails instead of writing outside its folder."""
+    from fetch_areena import _extract_service_info
+
+    with pytest.raises(ValueError, match="service ID"):
+        _extract_service_info(schedule_data)
+
+
+def _schedule_item(title: str, start: str, duration_seconds: int) -> dict:
+    """Build a schedule card like the ones the Areena API returns."""
+    return {
+        "title": title,
+        "labels": [
+            {"type": "broadcastStartDate", "raw": start},
+            {"type": "duration", "raw": f"PT{duration_seconds}S"},
+        ],
+    }
+
+
+def _schedule_response(items: list[dict]) -> dict:
+    return {
+        "meta": {
+            "analytics": {
+                "context": {
+                    "yle": {
+                        "source_ref": (
+                            "radio.guide.2026-11-14.radio_opas.yle-radio-1.untitled_list"
+                        ),
+                    },
+                },
+            },
+        },
+        "data": items,
+    }
+
+
+def test_convert_to_yaml_keeps_overnight_and_skips_availability_window() -> None:
+    """Overnight broadcasts are kept; year-long availability windows are dropped."""
+    from fetch_areena import convert_to_yaml
+
+    schedule = _schedule_response(
+        [
+            # Starts the previous evening, as the first item of each day does
+            _schedule_item("Yöklassinen", "2026-11-13T23:40:00+02:00", 28200),
+            _schedule_item("Yle Uutiset ja sää", "2026-11-14T08:00:00+02:00", 300),
+            # Seen in the archive: listed for every day for a whole year
+            _schedule_item(
+                "Dominante 50 - Juhlakonsertti",
+                "2025-11-19T19:02:00+02:00",
+                31_640_277,
+            ),
+        ],
+    )
+
+    programmes = convert_to_yaml(schedule)["data"]["Yle Radio 1"]["programmes"]
+
+    assert [(p["title"], p["start_time"], p["end_time"]) for p in programmes] == [
+        ("Yöklassinen", "2026-11-13T23:40:00+02:00", "2026-11-14T07:30:00+02:00"),
+        (
+            "Yle Uutiset ja sää",
+            "2026-11-14T08:00:00+02:00",
+            "2026-11-14T08:05:00+02:00",
+        ),
+    ]
+
+
+def test_fetch_multiple_days_stops_when_only_availability_windows_remain(
+    tmp_path: Path,
+) -> None:
+    """Fetching stops at the first day without broadcasts, even if the API has data."""
+    from fetch_areena import AreenaCache, AreenaData, FetchConfig, fetch_multiple_days
+
+    window = _schedule_item("Konsertti", "2026-07-17T11:00:00+03:00", 31_582_740)
+    responses = [
+        _schedule_response(
+            [_schedule_item("Yle Uutiset", "2026-11-14T08:00:00+02:00", 300), window],
+        ),
+        _schedule_response([window]),
+        _schedule_response([window]),
+    ]
+    config = FetchConfig(
+        areena_data=AreenaData(next_data={}, build_id=None, data_hash="hash"),
+        output=None,
+        directory=str(tmp_path / "yle"),
+        cache=AreenaCache(str(tmp_path / "cache")),
+    )
+
+    with (
+        patch("fetch_areena.fetch_schedule", side_effect=responses) as fetch,
+        patch(
+            "fetch_areena.datetime",
+            wraps=datetime,
+        ) as mock_datetime,
+    ):
+        mock_datetime.now.return_value = datetime(2026, 11, 14, tzinfo=timezone.utc)
+        fetch_multiple_days(config)
+
+    assert fetch.call_count == 2  # noqa: PLR2004
+    written = sorted(p.relative_to(tmp_path) for p in tmp_path.rglob("*.yaml"))
+    assert written == [Path("yle/yle-radio-1/2026/11/14.yaml")]
 
 
 def test_get_next_data() -> None:

@@ -156,24 +156,35 @@ class AreenaCache:
             return None
 
 
-# Minimum number of parts in yle_referer for valid service ID
+# Minimum number of parts in the referer string for a valid service ID
 MIN_REFERER_PARTS = 2
+
+# Real broadcasts last at most a few hours. Longer "programmes" are on-demand
+# availability windows (e.g. a concert listed for a whole year), which the API
+# returns for days after the end of the real schedule.
+MAX_PROGRAMME_DURATION = timedelta(hours=24)
 
 
 def _extract_service_info(schedule_data: dict) -> tuple[str, str]:
-    """Extract service ID and name from schedule data."""
-    yle_referer = (
-        schedule_data.get("meta", {})
-        .get("analytics", {})
-        .get("context", {})
-        .get("comscore", {})
-        .get("yle_referer", "")
-    )
+    """Extract service ID and name from schedule data.
 
-    # Handle empty referer string
-    parts = yle_referer.split(".") if yle_referer else []
+    The referer looks like ``radio.guide.<date>.radio_opas.<service>.untitled_list``.
+    Since 2026-02-11 the API returns it in ``meta.analytics.context.yle.source_ref``;
+    before that it was in ``meta.analytics.context.comscore.yle_referer``.
+    """
+    context = schedule_data.get("meta", {}).get("analytics", {}).get("context", {})
+    referer = context.get("yle", {}).get("source_ref") or context.get(
+        "comscore",
+        {},
+    ).get("yle_referer", "")
+
+    parts = referer.split(".") if referer else []
     service_id = parts[-2] if len(parts) >= MIN_REFERER_PARTS else ""
     service_id = service_id.replace("_", "-")
+    if not service_id:
+        # Without a service ID the output would land outside the service directory
+        msg = "Could not find the service ID in the schedule API response metadata"
+        raise ValueError(msg)
 
     # Map service IDs to human readable names
     service_names = {"yle-radio-1": "Yle Radio 1"}
@@ -271,6 +282,15 @@ def convert_to_yaml(
             logging.warning(
                 "Skipping item due to missing startTime in labels: %s",
                 item,
+            )
+            continue
+
+        if end_time and end_time - start_time > MAX_PROGRAMME_DURATION:
+            logging.info(
+                "Skipping availability window, not a broadcast: %s %s - %s",
+                item["title"],
+                start_time.isoformat(),
+                end_time.isoformat(),
             )
             continue
 
@@ -390,6 +410,20 @@ def fetch_multiple_days(config: FetchConfig) -> None:
             )
             break
 
+        # Convert to YAML format
+        yaml_data = convert_to_yaml(
+            schedule_data,
+            config.areena_data.build_id,
+            config.areena_data.data_hash,
+            config.cache,
+        )
+        if not any(service["programmes"] for service in yaml_data["data"].values()):
+            logging.info(
+                "No broadcasts in schedule after %s",
+                current_date.date().isoformat(),
+            )
+            break
+
         # Check if file exists and has same hash
         if config.directory:
             date_to_use = current_date
@@ -416,14 +450,6 @@ def fetch_multiple_days(config: FetchConfig) -> None:
                         )
                         current_date += timedelta(days=1)
                         continue
-
-        # Convert to YAML format
-        yaml_data = convert_to_yaml(
-            schedule_data,
-            config.areena_data.build_id,
-            config.areena_data.data_hash,
-            config.cache,
-        )
 
         # Write YAML to file or stdout
         write_yaml(yaml_data, config.output, config.directory, current_date)
