@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-13T09:10:12.974098+00:00'
+  generated_at: '2026-11-14T08:40:46.502572+00:00'
   git:
     branch: main
-    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
-  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
+    commit: 68350a46894dcb888723efecd860c55baeb37bdc
+  data_hash: 362e3665450e24d6bb459e2e4b6e1646efd03a8d31084b646b1155d692d00f6a
 data:
   '':
     programmes:
@@ -106,9 +106,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-29T17:00:00+02:00'
         end_time: '2026-11-29T17:05:00+02:00'
-      - title: Etnokonsertteja
+      - title: Etnokonsertti Northern Resonance
         start_time: '2026-11-29T17:06:00+02:00'
         end_time: '2026-11-29T18:00:00+02:00'
+        description: |-
+          Northern Resonance -trio yhdistää ruotsalaisen kansanmusiikin perinteet ja uuden sukupolven sävellykset. Yhtyeessä soittavat aviopari Anna Ekborg Hans-Ers (viola d'amore) ja Jerker Hans-Ers (hardanger-viulu) sekä 
+          Albin Broberg (kitara). Konsertti on taltioitu Ränsäterstämman-festivaalilla 5.6.2026. 
       - title: Jazzklubi
         start_time: '2026-11-29T18:00:30+02:00'
         end_time: '2026-11-29T19:00:00+02:00'

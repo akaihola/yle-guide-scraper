@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-13T09:10:12.110938+00:00'
+  generated_at: '2026-11-14T08:40:45.907742+00:00'
   git:
     branch: main
-    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
-  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
+    commit: 68350a46894dcb888723efecd860c55baeb37bdc
+  data_hash: 362e3665450e24d6bb459e2e4b6e1646efd03a8d31084b646b1155d692d00f6a
 data:
   '':
     programmes:
@@ -109,16 +109,47 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-26T13:30:00+02:00'
         end_time: '2026-11-26T13:35:00+02:00'
+        description: |+
+          Gillespie: Con alma (Wes Montgomery).
+
       - title: Aitiovieras
         start_time: '2026-11-26T13:35:00+02:00'
         end_time: '2026-11-26T14:00:00+02:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Neilikka, inkivääri, kaneli '
         start_time: '2026-11-26T14:00:00+02:00'
         end_time: '2026-11-26T15:00:00+02:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Frochoso, Lamarca, Esposito: Que vendra (Zaz).
+
+          Serrano Dalmas: Tootsology (Antonio Serrano, Albert Sanz, Dee Jay Foster ja Esteve Pi).
+
+          Yildirim, Eacott, Oliveres, Le Gargasson, Simsek: Bal (Derya Yildirim ja Grup Simsek).
+
+          Kuisma: Hökköpolska (Veera Kuisma Original). 
+
+          Fatoumata Diawara: Bakonoba.
+
+          Tammela, Saarikorpi: Neilikka, inkivääri, kaneli (Juurakko).
+
+          Juan Luis Guerra: Vale la pena.
+
+          Lins, de Souza: Madalena (Ivan Lins).
+
+          Fleury: Milongueo del ayer (Guillermo de la Roca)
+
+          Laitinen: Elämä voittaa (Jaakko Laitinen ja Väärä Raha).
+
+          Darwish, Al-Jundi: Muwashah salla fina el lahtha hindiyya (Rima Khcheich).
+
+          Jurva: Väliaikainen (Iiro Rantala, Markus 'Marzi' Nyman, Jukka Perko ja Jani Pensola).
+
+          Esperanza Spalding: I know you know.
+
       - title: Kulttuuriykkönen
         start_time: '2026-11-26T15:00:00+02:00'
         end_time: '2026-11-26T15:58:00+02:00'

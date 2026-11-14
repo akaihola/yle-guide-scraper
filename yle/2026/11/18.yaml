@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-13T09:10:08.709170+00:00'
+  generated_at: '2026-11-14T08:40:43.480335+00:00'
   git:
     branch: main
-    commit: ebba2a4645c08f998e889bd7400b19d2b991531d
-  data_hash: 1fbf7a0cadc53c0ac685d67cba50109dccc39af082e69357573f1a26993d9b1f
+    commit: 68350a46894dcb888723efecd860c55baeb37bdc
+  data_hash: 362e3665450e24d6bb459e2e4b6e1646efd03a8d31084b646b1155d692d00f6a
 data:
   '':
     programmes:
@@ -101,9 +101,13 @@ data:
           Hodgkinson: Tiger shark (Felix Mendelssohn).
 
           Konsertin on laatinut Tuuli Saksala.
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Moninaiset maskuliinisuudet '
         start_time: '2026-11-18T10:00:00+02:00'
         end_time: '2026-11-18T10:50:00+02:00'
+        description: |
+          Maskuliinisuuden ja miehuuden mallit yhdessä yhteiskunnallisten ja kulttuuristen muutosten kanssa voivat vaikuttaa eri tilanteissa kasvaviin poikiin monin eri tavoin.  
+          Millaisia odotuksia ja normeja erilaisiin maskuliinisuuksiin liittyy? 
+          Toimittaja Satu Kivelä etsii vastauksia yhdessä tutkija Harry Lunabban ja Helsingin Poikien Talon perustoiminnan vastaavan ohjaajan Kimmo Saastamoisen kanssa.  
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-18T10:50:00+02:00'
         end_time: '2026-11-18T11:00:00+02:00'
@@ -182,11 +186,22 @@ data:
 
           Nascimento & Brant: Ponta de areia (Esperanza Spalding).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Jean Sibeliuksen tyttäret ja Minna Krohnin lapset ja heidän omat tiensä kulttuurikodista maailmalle'
         start_time: '2026-11-18T15:00:00+02:00'
         end_time: '2026-11-18T15:58:00+02:00'
         description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+          Taidehistorioitsija Johanna Lindforsin naishistoriaa käsittelevä Sibeliusten tyttäret -teos kertoo Sibeliusten kulttuurikodin tytärten elämäntarinat ja kuvaa, millaista oli kasvaa kulttuuriperheestä itsenäisyyteen vuosisadalla, jona naisten asema muuttui ratkaisevasti. Millaisen kulttuuriperinnön he veivät eteenpäin? Millaisia erilaisia vahvuuksia ja lahjakkuuksia Sibeliuksen perheen sisällä oli?
+
+          Naisten historiaan sekä kirjoittamisen kulttuurihistoriaan erikoistunut yliopistonlehtori, dosentti Maarit Leskelä-Kärjen uutuuskirja kertoo historian unohtaman Krohnin tarinan. ”Pääskysen laulu ja hiljaiset surut” on kirja äideistä ja tyttäristä ja muistoista ja muistamisesta yli sadan vuoden ajalta.
+
+          Minna Krohn (1841–1917) oli opettaja ja Helsingin ensimmäisen suomalaisen tyttökoulun johtaja, Julius Krohnin puoliso sekä kolmen lapsen äitipuoli ja kahden, Aino Kallaksen ja Aune Krohnin, äiti. 
+          Pääskysen laulu ja hiljaiset surut avaa Krohnin elämää sekä äitien ja tytärten välisten suhteiden kulttuurihistoriaa. Millaisena kirjailijatyttäret näkivät äitinsä? Millaisia elämänohjeita hän antoi lapsilleen? 
+
+          Toisen elämästä kirjoittaminen on aina myös oman elämän reflektointia, Leskelä-Kärki on todennut. Millä tavalla tietokirjailijat ovat tuoneet näihin uusiin kirjoihin myös oman äänensä? 
+
+          Ohjelman vieraina ovat taidehistorioitsija Johanna Lindfors ja kirjallisuustieteilijä Maarit Leskelä-Kärki.
+
+          Ohjelman juontaa Pia-Maria Lehtola. Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-18T16:00:00+02:00'
         end_time: '2026-11-18T16:07:00+02:00'
@@ -223,7 +238,7 @@ data:
         end_time: '2026-11-18T19:02:00+02:00'
       - title: Kotimainen konsertti
         start_time: '2026-11-18T19:02:00+02:00'
-        end_time: '2026-11-18T21:00:00+02:00'
+        end_time: '2026-11-18T20:40:00+02:00'
         description: |-
           Kevin John Edusei, kapellimestari, Minami Yoshida, viulu. - 
           Dora Pejačević: Alkusoitto. Max Bruch: Skotlantilainen fantasia viululle ja orkesterille. Zoltán Kodály: Háry János.
