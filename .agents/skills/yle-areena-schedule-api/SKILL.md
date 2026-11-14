@@ -20,7 +20,7 @@ Verified 2026-11-14 against the live API, unless marked otherwise.
 
 - `https://areena.api.yle.fi/v1/ui/schedules/<channel>/<YYYY-MM-DD>.json` with
   the `language`, `v`, `client`, `app_id`, `app_key` and `yleReferer` query
-  parameters built by [`build_api_url`](../../fetch_areena.py). The
+  parameters built by [`build_api_url`](../../../fetch_areena.py). The
   [web guide](https://areena.yle.fi/podcastit/opas) renders in the browser from
   the same endpoint, so its HTML holds no schedule to compare against.
 - Each item in `data` has labels `broadcastStartDate`, `broadcastEndDate` and
