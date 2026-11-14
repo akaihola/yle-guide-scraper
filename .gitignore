@@ -1,2 +1,6 @@
 .aider*
 .env
+__pycache__/
+*.pyc
+/.serena/
+/uv.lock
