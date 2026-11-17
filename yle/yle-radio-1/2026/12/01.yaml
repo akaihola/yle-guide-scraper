@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-16T09:04:49.365100+00:00'
+  generated_at: '2026-11-17T10:17:15.453054+00:00'
   git:
     branch: main
-    commit: 39a80a204e33d8dfd0641548e96f5fb2516bd5dc
-  data_hash: b917666ab066e0ed9182331ecc453d9edffda48170597f81eafa60b72f259bcc
+    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
+  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
 data:
   Yle Radio 1:
     programmes:
@@ -19,13 +19,38 @@ data:
         start_time: '2026-12-01T06:50:00+02:00'
         end_time: '2026-12-01T06:59:59+02:00'
         description: |-
-          Tässä olen -joulukalenteri: Kalevi Virtanen
+          "Tässä olen -joulukalenteri: 24 päivää jouluun"
+
+          Tässä olen -joulukalenterissa opetusneuvos Kalevi Virtanen pohtii Jeesuksen kutsua ja muutosta, joka Jeesuksen kutsuun vastaamisesta alkaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-12-01T07:00:00+02:00'
         end_time: '2026-12-01T07:05:00+02:00'
       - title: Aamusoitto
         start_time: '2026-12-01T07:06:00+02:00'
         end_time: '2026-12-01T08:00:00+02:00'
+        description: |+
+          Hahn: Aamupäivä Pariisissa (Sofja Gülbadamova, piano).
+
+          Popper: Tulo metsään (Wendy Warner, sello, ja Eileen Buck, piano).
+
+          Dvorák, Antonín [1841-1904]
+          Largo sinfoniasta nro 9 e-molli
+          Arthur Fiedler, Boston Symphony Orchestra (Bostonin sinfoniaorkesteri)
+
+          Vivaldi: Se fide quanto belle, aaria mezzosopraanolle, jousille ja continuolle (Romina Basso ja Modo Antiquo/Federico Maria Sardelli).  
+
+          J. Haydn: Divertimento C-duuri (Marten Root, huilu, Michael Niesemann, oboe, sekä Mozzafiato-puhallinyhtye  ja L'Archibudelli-kamariyhtye).
+
+          Tshaikovski: Joulukuu sarj. Vuodenajat (Freddy Kempf, piano). 
+
+          Fauré: Kehtolaulu Dolly-sarjasta (Evelyn Glennie, kellopeli, ja Lontoon kansallinen FO/Barry Wordsworth).
+
+          Arnalds: For now I am winter (Voces8 sekä Eleanor Turner, harppu, Benjamin Roskams, alttoviulu, ja Stephanie Oade, sello). 
+
+          Grieg: Preludi sarj. Fra Holbergs tid (Holbergin ajoilta) (Orpheus-kamariork.).
+
+          Tárrega: Gran vals (Suuri valssi) (Timo Korhonen, kitara).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-12-01T08:00:00+02:00'
         end_time: '2026-12-01T08:07:00+02:00'

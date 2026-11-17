@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-16T09:04:46.957430+00:00'
+  generated_at: '2026-11-17T10:17:13.182061+00:00'
   git:
     branch: main
-    commit: 39a80a204e33d8dfd0641548e96f5fb2516bd5dc
-  data_hash: b917666ab066e0ed9182331ecc453d9edffda48170597f81eafa60b72f259bcc
+    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
+  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
 data:
   Yle Radio 1:
     programmes:
@@ -82,11 +82,11 @@ data:
           Moltshanov: Vaikene sydän (Tamara Lund). 
 
           Konsertin on toimittanut Kai Ulmanen. 
-      - title: Virtasen taloushistoria
+      - title: 'Virtasen taloushistoria: Kallistuuko sähkön hinta?'
         start_time: '2026-11-23T10:00:00+02:00'
         end_time: '2026-11-23T10:55:00+02:00'
-        description: |-
-          Tarinoita talouden myllerryksistä. Juha Virtanen sukeltaa taloushistorian syövereihin uteliaana ja ihmetellen, miksi asiat ovat niin kuin ne ovat
+        description: |
+          Datakeskukset tulevat - kallistuuko sähkön hinta? Vieraana on Energiateollisuus ry:n toimitusjohtaja Jukka Leskelä 
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-23T10:55:00+02:00'
         end_time: '2026-11-23T11:00:00+02:00'
@@ -153,11 +153,14 @@ data:
 
           Hefti: Cherry point (UMO/Kirmo Lintinen).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: GTA 6 – miksi rikollisuuden virtuaalimaailma on valloittanut maailman?'
         start_time: '2026-11-23T15:00:00+02:00'
         end_time: '2026-11-23T15:58:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |
+          Pelimaailman kenties kaikkien aikojen odotetuin uutuus, Grand Theft Auto 6, tuli kauppoihin viime torstaina. Miljardiluokan kehityshankkeeksi arvioidun pelin ennakkomyynti rikkoi ennätyksiä, ja sen hurja kysyntä on tyhjentänyt myös pelikonsolien varastoja.
+          Vuonna 1997 alkunsa saanut GTA-sarja on mullistanut videopelien maailmaa. Sen avoimissa, amerikkalaista yhteiskuntaa jäljittelevissä virtuaalikaupungeissa pelaaja voi liikkua ja toimia poikkeuksellisen vapaasti – ennen kaikkea rikollisen roolissa. Samalla pelisarja on herättänyt jatkuvaa moraalista keskustelua väkivallan, rikollisuuden ja yhteiskunnallisten tabujen käsittelystä.
+          Mihin GTA:n valtava suosio perustuu? Onko kyse ennen kaikkea kielletyn tekemisen viehätyksestä, rajattoman vapauden kokemuksesta vai terävästä yhteiskuntasatiirista? Ja mitä GTA:n maailma kertoo meistä itsestämme – siitä, millaisia haluamme olla, kun todellisen maailman säännöt eivät enää sido?
+          Aiheesta keskustelemassa Pelit-lehden päätoimittaja Tuukka Grönholm, pelitoimittaja Johannes Valkola sekä Yle Uutisten toimittaja Elise Aaltonen. Ville Talola toimittaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-23T16:00:00+02:00'
         end_time: '2026-11-23T16:07:00+02:00'

@@ -1,17 +1,50 @@
 metadata:
-  generated_at: '2026-11-16T09:04:46.140966+00:00'
+  generated_at: '2026-11-17T10:17:12.195841+00:00'
   git:
     branch: main
-    commit: 39a80a204e33d8dfd0641548e96f5fb2516bd5dc
-  data_hash: b917666ab066e0ed9182331ecc453d9edffda48170597f81eafa60b72f259bcc
+    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
+  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-11-20T00:00:00+02:00'
         end_time: '2026-11-20T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Giuliani: Duo concertante e-molli (Joseph Swensen, viulu, ja Kazuhito Yamashita, kitara).
+
+          00:34 W.A. Mozart: Pianokonsertto n:o 20 d-molli (Clara Haskil ja Lamoureux-ork./Igor Markevitch).
+
+          01:04 Franck: Cantabile H-duuri (Kalevi Kiviniemi, urut).
+
+          01:13 Weber: Trio huilulle, sellolle ja pianolle g-molli (Kremerata Musica).
+
+          01:37 J. Strauss: Loreley-Rhein-Klänge (Lorelein kaikuja) (Wienin filharmonikot/Willi Boskovsky).
+
+          01:46 Munktell: Sonaatti viululle ja pianolle Es-duuri (Cecilia Zilliacus, viulu, ja Bengt Forsberg, piano). 
+
+          02:21 Monteverdi: Il Ballo delle ingrate (Kiittämättömien naisten tanssi) (Maria Cristina Kiehr, sopraano, Bernarda Fink, altto, Antonio Abete, basso, ja Marisa Martins, mezzosopraano, sekä Concerto Vocale/René Jacobs).
+
+          02:56 J.S. Bach: Kantaatti n:o 212 (Mer hahn en neue Oberkeet) (Talonpoikaiskantaatti) (Lisa Otto, sopraano, ja Dietrich Fischer-Dieskau,  baritoni, sekä Berliinin St, Hedwig -katedraalin kuoro ja Berliinin filharmonikot/Karl Forster).
+
+          03:28 Boissier-Butini: Konsertto n:o 6 g-molli (Sveitsiläinen) (Eva-Maria Zimmermann, piano, ja Regula Küffer, huilu, sekä Bernin kamariorkesterin jouset/Matthias Kuhn).
+
+          03:59 Weber: Alkusoitto oopp. Oberon (Hallé-ork./John Barbirolli).
+
+          04:09 Ravel: Pianokonsertto G-duuri (Arturo Benedetti Michelangeli ja Philharmonia-ork./Ettore Gracis).
+
+          04:32 Copland: Teatterimusiikkia (Harmonie Ensemble/Steven Richman).
+
+          04:57 Saariaho: D'om le vrai sens, konsertto klarinetille ja orkesterille (Kari Kriikku ja RSO/Sakari Oramo).
+
+          05:29 Beethoven: Sonaatti viululle ja pianolle n:o 9 A-duuri (Kreutzer-sonaatti) (Henryk Szeryng ja Artur Rubinstein).
+
+          06:02 Rheinberger: Kolme hengellistä laulua op.69 (Kansas City Chorale ja Phoenix Bach Choir/Charles Bruffy).
+
+          06:16 Frescobaldi: Canzona settima (Christian Lindberg, pasuuna, ja Neal Peres da Costa, urut). 
+
+          06:20 Uccellini: Sonaatti (1649) n:o 1 D-duuri (La musica) (Noxwode/ Conor Gricmanis, viulu).
+
       - title: Hartaita säveliä
         start_time: '2026-11-20T06:30:50+02:00'
         end_time: '2026-11-20T06:50:00+02:00'
@@ -230,11 +263,11 @@ data:
       - title: Aitiovieras
         start_time: '2026-11-20T21:31:00+02:00'
         end_time: '2026-11-20T21:56:00+02:00'
-      - title: Sari Valto
+      - title: 'Sari Valto: Ruokaa nyt ja tulevaisuudessa!'
         start_time: '2026-11-20T21:57:00+02:00'
         end_time: '2026-11-20T22:52:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Maatalous on edelleen merkittävä päästöjen aiheuttaja ja myös vesistöjen saastuttaja. Millaista maatalouspolitiikkaa Suomen pitäisi tehdä, että päästöjä saataisiin rivakammin laskemaan?Tähän vastaavat maa-ja metsätalousministeri Sari Essayah sekä Suomen ympäristökeskuksen tutkimusprofessori Minna Kaljonen.
       - title: Tuuli Saksalan keidas
         start_time: '2026-11-20T22:53:00+02:00'
         end_time: '2026-11-20T23:39:00+02:00'

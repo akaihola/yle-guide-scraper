@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-16T09:04:48.580092+00:00'
+  generated_at: '2026-11-17T10:17:14.727248+00:00'
   git:
     branch: main
-    commit: 39a80a204e33d8dfd0641548e96f5fb2516bd5dc
-  data_hash: b917666ab066e0ed9182331ecc453d9edffda48170597f81eafa60b72f259bcc
+    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
+  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
 data:
   Yle Radio 1:
     programmes:
@@ -42,6 +42,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-11-29T11:00:00+02:00'
         end_time: '2026-11-29T11:59:00+02:00'
+        description: |
+          Waldteufel: Les patineurs (Mantovani).
+          Shapiro: Winter weather (Peggy Lee). 
+          Chris/de Marsan: La petite fille de l'hiver (Johnny Hallyday).
+          Reed: Talven yli (Markku Aro).
+          Dorsey: This and that (Tom Jones).
+          Donaggio: You don't have to say you love me (Dusty Springfield). 
+          Bacharach: Syliin sun (Seija Simola).
+          Bacharach: Nein, ich verliebe mich nie mehr (Gitte).
+          Strayhorn: Take the 'A Train (Duke Ellington).
+          Hagen: Harlem nocturne (Johnny Otis and his orchestra).
+          Berlin: Cheek to cheek (Harmony Sisters).
+          Berlin: Vi är kompisar vi (Lill Lindfors ja Östen Warnerbring).
+          Rich/Justis: Kun ei niin ei (Rauli 'Badding' Somerjoki).
+          Welch: Theme for young lovers (The Shadows).
+          Leiber/Stoller: Lucky Lips (Cliff Richard).
+          Kärki: Siks' oon mä suruinen (Jörgen Petersen).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-29T12:00:00+02:00'
         end_time: '2026-11-29T12:05:00+02:00'

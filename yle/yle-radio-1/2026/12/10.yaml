@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-16T09:04:52.016947+00:00'
+  generated_at: '2026-11-17T10:17:17.721322+00:00'
   git:
     branch: main
-    commit: 39a80a204e33d8dfd0641548e96f5fb2516bd5dc
-  data_hash: b917666ab066e0ed9182331ecc453d9edffda48170597f81eafa60b72f259bcc
+    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
+  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
 data:
   Yle Radio 1:
     programmes:
@@ -86,23 +86,23 @@ data:
         start_time: '2026-12-10T16:07:00+02:00'
         end_time: '2026-12-10T16:59:00+02:00'
         description: |-
-          Marais: Le Tourbillon sarjasta vieraitten makujen tyyliin (Hille Perl,viola da gamba, ja Lee Santana, teorbi).
+          Marais: Le Tourbillon teoks. Suitte d'un gout etranger (Sarja vieraitten makujen tyyliin) (Hille Perl, viola da gamba, ja Lee Santana, teorbi).
 
-          Melartin: Talvitie (Tapani Valsta, piano).
+          Melartin: Preludi op.85/10 (Talvitie) (Tapani Valsta, piano).
 
-          Palmgren: Menuetti kansantyyliin sarj. Kuvia Suomesta (Turun FO/Jacques Mercier).
+          Palmgren: Menuetti kansantyyliin teoks. Kuvia Suomesta (Turun KO/Jacques Mercier).
 
-          Tubin: Kanteleensoittaja sarj. Virolaisia kansantansseja (Arvo Leibur, viulu, ja Vardo Rumessen, piano).
+          Tubin: Kanteleensoittaja teoks. Sarja virolaisista kansantansseista (Arvo Leibur, viulu, ja Vardo Rumessen, piano).
 
-          Kreek: Talvine öhtu (Talvi-ilta) (Viron radion kuoro/Toomas Kapten).
+          Kreek: Talvine öhtu (Talvi-ilta) (Eesti Raadio koor/Toomas Kapten).
 
           Gjerström: Sagn (Satu) (Islannin SO/Bjarte Engeset).
 
-          Neruda: Allegro konsertosta corno da caccialle, jousille ja continuolle Es-duuri (Alison Balsom, trumpetti, ja Deutsche Kammerphilharmonie).
+          Neruda: Allegro konsertosta trumpetille, jousille ja continuolle Es-duuri (Alison Balsom ja Deutsche Kammerphilharmonie).
 
-          Haydn: Corradinon aaria bassolle ja orkesterille (Thomas Quasthoff ja Freiburgin barokkiork./Gottfried von der Goltz).
+          Haydn: Aaria "Un cor sì tenero" bassolle ja orkesterille (Thomas Quasthoff ja Freiburgin barokkiork./Gottfried von der Goltz).
 
-          Rameau: Kaksi menuettia bal. Paladiinit (Les Talens Lyriques/Christophe Rousset).
+          Rameau: Kaksi menuettia bal. Les Paladins (Kiertelevät ritarit) (Les Talens Lyriques/Christophe Rousset).
 
           Andrée: Andante cantabile sonaatista B-duuri (Annette-Barbara Vogel, viulu, ja Durval Cesetti, piano).
 
@@ -111,7 +111,6 @@ data:
           Boccherini: Menuetti (Steven Isserlis, sello, ja Stephen Hough, piano).
 
           R. Strauss: Walzer der Baron Ochs (Paroni Ochsin valssi) sarj. Der Rosenkavalier (Ruusuritari) (Hollywood Bowl -ork./John Mauceri).
-
 
           Konsertin on laatinut Ainomaija Pennanen. 
       - title: Yle Uutiset ja sää
@@ -144,9 +143,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-12-10T19:00:00+02:00'
         end_time: '2026-12-10T19:02:00+02:00'
-      - title: Jazzklubin viikon keikka
+      - title: 'Jazzklubin viikon keikka: Antonio Lizana Quintet April Jazzissa.'
         start_time: '2026-12-10T19:02:00+02:00'
         end_time: '2026-12-10T20:00:00+02:00'
+        description: |-
+          Äänitetty Tapiolasalissa 25.4.2026.
       - title: Klassinen kattaus
         start_time: '2026-12-10T20:00:00+02:00'
         end_time: '2026-12-10T20:57:00+02:00'
