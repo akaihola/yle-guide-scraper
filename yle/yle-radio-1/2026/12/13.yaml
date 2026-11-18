@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-17T10:17:18.451710+00:00'
+  generated_at: '2026-11-18T09:48:30.605766+00:00'
   git:
     branch: main
-    commit: 3e06f73199e29fd056c5a7bfc699937a07186377
-  data_hash: 4fa4b8cdac0fc58ce9f47ff0186325377a200352342e7deaa7887bc16817ce91
+    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
+  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
 data:
   Yle Radio 1:
     programmes:
@@ -42,6 +42,23 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-12-13T11:00:00+02:00'
         end_time: '2026-12-13T11:59:00+02:00'
+        description: |-
+          Hinton/Fritts: Breakfast in bed (Dusty Springfield).
+          Johansson/Willberg: Aamu (Pepe Willberg).
+          Gomez: Kielletyt leikit (Carola).
+          Makeba/Ragovoy: Pata pata (Miriam Makeba).
+          Gershwin: Someone to watch over me (Artie Shaw and his orchestra).
+          Rodgers: My funny Valentine (Sting).
+          Wertmüller/Bacalov: Solo tu (Rita Pavone). 
+          Ian: Talven tullen (Virve Rosti).
+          Ian: At seventeen (Janis Ian).
+          Monis: Faubourg Saint-Martin (Yves Montand).
+          Trenet: La romance de Paris (Zaz ja Thomas Dutronc).
+          Gordon: Cheese cake (Dexter Gordon).
+          Raimond: Peagi saabun tagasi su juurde (Georg Ots).
+          Belle/Prima/Rhodes/Leonard: A sunday kind of love (Dinah Washington).
+
+          Konsertin on toimittanut Ville Vilén.
       - title: Yle Uutiset ja sää
         start_time: '2026-12-13T12:00:00+02:00'
         end_time: '2026-12-13T12:05:00+02:00'
