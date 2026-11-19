@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-18T09:48:25.006105+00:00'
+  generated_at: '2026-11-19T09:56:46.043172+00:00'
   git:
     branch: main
-    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
-  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
+    commit: 098f8559ad1d99254e83a2400f3a69130b732974
+  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
 data:
   Yle Radio 1:
     programmes:
@@ -92,8 +92,6 @@ data:
 
           Dittersdorf: Rondo harppukonsertosta A-duuri (Nicanor Zabaleta ja Paul Kuenz -kamariork./Paul Kuenz).
 
-          Sibelius: Aubade kokoelmasta Viisi kappaletta viululle ja pianolle (Annemarie Åström, viulu, ja Sonja Fräki, piano).
-
           Prokofjev: Sadun loppu bal. Tuhkimo (Skotlannin kansallisork./Neeme Järvi).
 
           Juontajana Inari Tilli.
@@ -104,6 +102,29 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-11-19T08:07:00+02:00'
         end_time: '2026-11-19T09:00:00+02:00'
+        description: |+
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Sue Foley: Mediterranean breakfast.
+
+          Pitoni, Fondi: Colpo di coda (Alessandro Pitoni).
+
+          Claudio Constantini: Kuura.
+
+          Näkkäläjärvi: Rases jienaid nalde (Annamaret Ensemble).
+
+          Metsä: Utuna ulos (Tytti Metsä ja Hyypiöt). 
+
+          Matteo Myderwyk: Nostalgia.
+
+          NES: Ahlam.
+
+          Topi Saha: Punarinta.
+
+          Salokosk: En Fången fågel (Emma Salokoski ja Ilmiliekki Quartet).
+
+          Chanivecky: La luna en tu mirada (Ry Cooder & Manuel Galban)
+
       - title: 'Yle Uutiset '
         start_time: '2026-11-19T09:00:00+02:00'
         end_time: '2026-11-19T09:03:00+02:00'
@@ -146,7 +167,7 @@ data:
         start_time: '2026-11-19T11:57:00+02:00'
         end_time: '2026-11-19T12:00:00+02:00'
         description: |
-          Ote Frank Martelan teoksesta Elämän tarkoitus - Suuntana merkityksellinen elämä, Gummerrus 2020
+          Ote Frank Martelan teoksesta Elämän tarkoitus - Suuntana merkityksellinen elämä, Gummerrus 2020. Lukijana Inari Tilli.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-19T12:00:00+02:00'
         end_time: '2026-11-19T12:05:00+02:00'
@@ -157,9 +178,12 @@ data:
           Nykytelevisio vilisee äveriäitä, hävyttömiä ja onnettomia hahmoja. HBO:n Succession-perintödraaman keskiössä on Royn perhe, joka omistaa maailmanlaajuisen media- ja viihdekonserni Waystar Roycon. Royn perheen valtapeli heijastelee häiritsevän tarkasti Trumpin Amerikkaa. Miksi eliitin kuvaus kiinnostaa keskellä kärjistyvää taloudellista ja sosiaalista eriarvoisuutta? Millaisia vaikutuksia sarjan taiteellisella monitulkintaisuudella ja rikkaiden kuvaamisella hävyttöminä voi olla? 
 
           Marja Vehkasen kanssa aiheen äärelle asettuvat sosiologian apulaisprofessori Hanna Kuusela ja kertomuksentutkija, dosentti Elise Kraatila.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kuka hyötyy, kuka kärsii vaalipiirien rukkaamisesta?'
         start_time: '2026-11-19T13:00:00+02:00'
         end_time: '2026-11-19T13:30:00+02:00'
+        description: |-
+          Pienet puolueet kärsivät siitä, että osassa Suomea niiden listoilta on lähes mahdoton päästä kansanedustajaksi. Hallituksen yritykset ratkaista ongelma jakavat puolueita.
+          Vaalipiirien uudistamisesta ovat keskustelemassa puoluesihteerit Maggie Keskinen kokoomuksesta ja Antti Siika-aho keskustasta sekä vihreiden kansanedustaja Mari Holopainen. Toimittajana on Antti Pilke.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-19T13:30:00+02:00'
         end_time: '2026-11-19T13:35:00+02:00'
@@ -248,7 +272,7 @@ data:
         start_time: '2026-11-19T17:05:00+02:00'
         end_time: '2026-11-19T17:30:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Grand Theft Auto -sarjan uusinta osaa on odotettu 13 vuotta. GTA:n julkaisu on kaikkien aikojen suurin pelitapahtuma. Miksi peli on ollut niin valtava menestys? Sami Lindforsin haastateltavana on pelivaikuttaja Saara Minkkinen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-19T17:30:00+02:00'
         end_time: '2026-11-19T17:35:00+02:00'

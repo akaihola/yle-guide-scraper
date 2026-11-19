@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-18T09:48:32.826216+00:00'
+  generated_at: '2026-11-19T09:56:53.287206+00:00'
   git:
     branch: main
-    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
-  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
+    commit: 098f8559ad1d99254e83a2400f3a69130b732974
+  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
 data:
   Yle Radio 1:
     programmes:
@@ -47,3 +47,85 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-12-23T11:00:00+02:00'
         end_time: '2026-12-23T11:57:00+02:00'
+      - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
+        start_time: '2026-12-23T11:57:00+02:00'
+        end_time: '2026-12-23T12:00:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-12-23T12:00:00+02:00'
+        end_time: '2026-12-23T12:05:00+02:00'
+      - title: '12 diktaattoria: Ugandan kauhu Milton Obote'
+        start_time: '2026-12-23T12:05:00+02:00'
+        end_time: '2026-12-23T12:50:00+02:00'
+        description: |-
+          Milton Obote oli Ugandan pääministeri vuosina 1962-1966 ja sittemmin presidentti vuosina 1966-1971 ja 1980-1985. 
+          Idi Aminin aikana terrori oli Ugandassa järjestelmällistä, mutta Milton Oboten aikana uhriksi saattoi joutua kuka tahansa kadunmies. Toimittaja-tietokirjailija Hannu Pesonen on toimittaja Raimo Tyykiluodon vieraana. (v. 2021)
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-12-23T12:50:00+02:00'
+        end_time: '2026-12-23T13:00:00+02:00'
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-12-23T13:30:00+02:00'
+        end_time: '2026-12-23T13:35:00+02:00'
+      - title: Aitiovieras
+        start_time: '2026-12-23T13:35:00+02:00'
+        end_time: '2026-12-23T14:00:00+02:00'
+        description: |2-
+           Lämminhenkistä keskustelua kulttuurista
+      - title: Musiikkiaitio
+        start_time: '2026-12-23T14:00:00+02:00'
+        end_time: '2026-12-23T15:00:00+02:00'
+        description: |-
+          Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+      - title: Kulttuuriykkönen
+        start_time: '2026-12-23T15:00:00+02:00'
+        end_time: '2026-12-23T15:58:00+02:00'
+        description: |-
+          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+      - title: Yle Uutiset ja sää
+        start_time: '2026-12-23T16:00:00+02:00'
+        end_time: '2026-12-23T16:07:00+02:00'
+      - title: Faunin iltapäivä
+        start_time: '2026-12-23T16:07:00+02:00'
+        end_time: '2026-12-23T16:59:00+02:00'
+      - title: Yle Uutiset ja sää
+        start_time: '2026-12-23T17:00:00+02:00'
+        end_time: '2026-12-23T17:05:00+02:00'
+      - title: Uutispodcast
+        start_time: '2026-12-23T17:05:00+02:00'
+        end_time: '2026-12-23T17:30:00+02:00'
+        description: |-
+          Otsikoiden takana joka arkipäivä.
+      - title: Yksi on hyvää seuraa
+        start_time: '2026-12-23T17:30:00+02:00'
+        end_time: '2026-12-23T17:35:00+02:00'
+      - title: Jazzklubi
+        start_time: '2026-12-23T17:35:00+02:00'
+        end_time: '2026-12-23T18:35:00+02:00'
+      - title: Hartaita säveliä
+        start_time: '2026-12-23T18:35:00+02:00'
+        end_time: '2026-12-23T18:50:00+02:00'
+      - title: Iltahartaus
+        start_time: '2026-12-23T18:50:00+02:00'
+        end_time: '2026-12-23T19:00:00+02:00'
+        description: |-
+          Perheasiain neuvottelukeskuksen johtaja Anne Sumela, Ylivieska
+      - title: Yle Uutiset ja sää
+        start_time: '2026-12-23T19:00:00+02:00'
+        end_time: '2026-12-23T19:02:00+02:00'
+      - title: 'Tiedeykkönen: Lahjan psykologia – miksi annamme lahjoja ja kuinka mokata se pahanpäiväisesti'
+        start_time: '2026-12-23T22:01:30+02:00'
+        end_time: '2026-12-23T22:50:00+02:00'
+        description: |-
+          Miksi annamme toisillemme lahjoja? Ja mikä tekee eleestä niin tärkeän, että annamme ja vastaanotamme asioita, joita emme edes tarvitse?
+
+          Haastateltavana sosiologian professori Olli Pyyhtinen Tampereen yliopistosta. Toimittajana Jaro Asikainen. Äänisuunnittelu: Jaro Asikainen ja Juha Sarkkinen.
+      - title: Aitiovieras
+        start_time: '2026-12-23T22:51:00+02:00'
+        end_time: '2026-12-23T23:15:00+02:00'
+      - title: 'Ulkolinja-podcast  '
+        start_time: '2026-12-23T23:20:00+02:00'
+        end_time: '2026-12-23T23:39:30+02:00'
+      - title: Yöklassinen
+        start_time: '2026-12-23T23:40:00+02:00'
+        end_time: '2026-12-24T06:30:00+02:00'
+        description: |-
+          Klassista musiikkia.

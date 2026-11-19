@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-18T09:48:28.081187+00:00'
+  generated_at: '2026-11-19T09:56:48.859146+00:00'
   git:
     branch: main
-    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
-  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
+    commit: 098f8559ad1d99254e83a2400f3a69130b732974
+  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
 data:
   Yle Radio 1:
     programmes:
@@ -114,16 +114,46 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-12-02T13:30:00+02:00'
         end_time: '2026-12-02T13:35:00+02:00'
+        description: |+
+          Söderström, Valjakka: Mitä sattuukaan (Syskofrenia).
+
       - title: Aitiovieras
         start_time: '2026-12-02T13:35:00+02:00'
         end_time: '2026-12-02T14:00:00+02:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Kanssasi matkaa jaan'
         start_time: '2026-12-02T14:00:00+02:00'
         end_time: '2026-12-02T15:00:00+02:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Lins: As Guitarras (Mariza).
+
+          Williams: Sugar blues (Count Basie and his All-American Rhythm Section).
+
+          Tallroth: Kanssasi matkaa jaan (Aili Järvelä, laulu, ja Sointi Jazz Orchestra/Rasmus Soini).
+
+          Bartosik: Tunturi (Estonian Folk Orchestra). 
+
+          Doumbiaw: Filaou bessame (Amadou et Mariam).
+
+          Liunkos: To palto (Jorgos Dalaras).
+
+          Varilo: Riena (Värttinä).
+
+          Franck: Parc central (Jensc & Renaud Garcia-Fons).
+
+          Mose Allison: I don't worry about a thing.
+
+          Joska Josafat: Valkeat kaupungit. 
+
+          Ojanen, Luoma: Reel de Mosala (Folkkarit).
+
+          Macha Gharibian: Mana mana.
+
+
       - title: Kulttuuriykkönen
         start_time: '2026-12-02T15:00:00+02:00'
         end_time: '2026-12-02T15:58:00+02:00'

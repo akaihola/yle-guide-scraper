@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-18T09:48:26.937353+00:00'
+  generated_at: '2026-11-19T09:56:47.792206+00:00'
   git:
     branch: main
-    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
-  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
+    commit: 098f8559ad1d99254e83a2400f3a69130b732974
+  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
 data:
   Yle Radio 1:
     programmes:
@@ -117,11 +117,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-27T10:55:00+02:00'
         end_time: '2026-11-27T11:00:00+02:00'
-      - title: Narrin aamulaulu muistaa - Primadonna Hilkka Kinnusen (1925-2026) syntymäpäivien jatkoilla
+      - title: Narrin aamulaulu muistaa - Teatterineuvos Hilkka Kinnusen (1925-2026) syntymäpäivien jatkoilla
         start_time: '2026-11-27T11:00:00+02:00'
         end_time: '2026-11-27T11:55:00+02:00'
         description: |-
-          Outi Paananen penkoo levyhyllyjä ja tutkailee taiteilijaelämää.
+          101-vuotiaana lokakuussa kuollut Operettiteatterin perustaja, primadonna Hilkka Kinnunen antoi kevättalvella 2020 haastattelun, jonka toisessa osassakaan nukkumatti ei pääse yllättämään. Toimittajana Outi Paananen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-27T11:55:00+02:00'
         end_time: '2026-11-27T11:57:00+02:00'
@@ -147,7 +147,7 @@ data:
         description: |+
           Aznavour: Eilen kun mä tiennyt en (Aili Ikonen ja Jukka Perko).
 
-      - title: Kirjani tarina
+      - title: Kirjallisuuden Finlandia-voittajan haastattelu
         start_time: '2026-11-27T13:35:00+02:00'
         end_time: '2026-11-27T14:00:00+02:00'
         description: |-
@@ -194,6 +194,28 @@ data:
       - title: Faunin iltapäivän kuuntelijoiden toiveita
         start_time: '2026-11-27T16:07:00+02:00'
         end_time: '2026-11-27T16:59:00+02:00'
+        description: |-
+          Verdi: Alkusoitto oopp. Macbeth (Berliinin filharmonikot/Herbert von Karajan).
+
+          Vivaldi: Tituksen aaria "Orribile lo scempio" oopp. Tito Manlio (Dmitri Hvorostovski, baritoni, ja St. Martin-in-the-Fields -kamariork./Neville Marriner).
+
+          Sakamoto: The Wuthering Heights (Ryuichi Sakamoto, piano, Everton Nelson, viulu, ja Jaques Morelenbaum, sello).
+
+          Dvorák: Song to the moon (Joshua Bell, viulu, ja St. Luken ork./Michael Stern).
+
+          Soule: Dragonborn videopel. The Elder Scrolls V: Skyrim - Dragonborn (Myrra Malmberg, laulu, ja Orphei Drängar/Cecilia Rydinger Alin).
+
+          Beethoven: Menuetti - Trio sinf. n:o 4 B-duuri (The London Classical Players/Roger Norrington).
+
+          Porra: A song for summer teoks. Seasons in Moominvalley (Muumilaakson vuodenajat) (Antti Kujanpää, piano, Kasmir Uusitupa, viulu, Hanna Hohti, alttoviulu, ja Markus Hohti, sello).
+
+          Saint-Saëns: Delilan aaria "Mon coeur s'ouvre à ta voix - Ah, reponds à ma tendresse" oopp. Simson ja Delila (Monica Groop, mezzosopraano, ja RSO/Muhai Tang).
+
+          M. Nyman: If animaatioelok. Anne no Nikki (Anne Frankin päiväkirja) (Jess Gillam, sopraanosaksofoni, ja BBC:n konserttiork./Jessica Cottis).
+
+          Hisaishi: Merry-go-round of life animaatioelok. Hauru no ugoku shiro (Liikkuva linna) (Ray Chen, viulu, ja Julien Quentin, piano).
+
+          Tin: Baba Yetu (Isä meidän) (Ron Ragin, laulu, sekä Soweto Gospel Choir ja Lontoon kuninkaallinen FO).
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T17:00:00+02:00'
         end_time: '2026-11-27T17:05:00+02:00'
@@ -238,7 +260,7 @@ data:
         end_time: '2026-11-27T22:52:00+02:00'
         description: |-
           Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Musiikkia hiuskarvan varassa eli marraskuun parasta maailmanmusiikkia'
         start_time: '2026-11-27T22:53:00+02:00'
         end_time: '2026-11-27T23:39:00+02:00'
         description: |-

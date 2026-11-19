@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-18T09:48:26.714753+00:00'
+  generated_at: '2026-11-19T09:56:47.568786+00:00'
   git:
     branch: main
-    commit: 153c799cc48574fc83c6923d0b6cee8ae8ab3996
-  data_hash: 47929825f4ff50cecde692d4c770b1feacaf89deadb3e3b4375a8af9edd16827
+    commit: 098f8559ad1d99254e83a2400f3a69130b732974
+  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
 data:
   Yle Radio 1:
     programmes:
@@ -100,9 +100,15 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-26T12:00:00+02:00'
         end_time: '2026-11-26T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Perfect days - modernin yhteiskunnan kritiikkiä zeniläisessä hengessä?'
         start_time: '2026-11-26T12:05:00+02:00'
         end_time: '2026-11-26T13:00:00+02:00'
+        description: |-
+          Maailma tarinoina -ohjelmassa käsitellään Wim Wendersin elokuvaa Perfect Days. Elokuva seuraa Hirayamaa, miestä, joka siivoaa Tokion julkisia vessoja ja elää tyytyväisenä yksinkertaista, toistuvaa arkea. 
+
+          Elokuva ei avaa päähenkilönsä Hirayaman taustaa, mutta syntyy vaikutelma siitä, että hän on jättänyt toisen hyvin erilaisen elämän taakseen, elääkseen nykyistä seesteistä elämäänsä. Tämän kautta päästään japanilaiseen filosofiaan; minän muodostumisen kysymykseen ja tyhjän minän käsitteeseen.
+
+          Marja Vehkanen lähestyy elokuvan maailmaa yhdessä hiljattain väitelleen filosofi Anttoni Kuuselan kanssa, joka on perehtynyt japanilaiseen filosofiaan.
       - title: Politiikkaradio
         start_time: '2026-11-26T13:00:00+02:00'
         end_time: '2026-11-26T13:30:00+02:00'
@@ -196,7 +202,7 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-26T17:30:00+02:00'
         end_time: '2026-11-26T17:35:00+02:00'
-      - title: Tuuli Saksalan keidas
+      - title: 'Tuuli Saksalan keidas: Musiikkia hiuskarvan varassa eli marraskuun parasta maailmanmusiikkia'
         start_time: '2026-11-26T17:35:00+02:00'
         end_time: '2026-11-26T18:25:00+02:00'
         description: |-
@@ -249,11 +255,27 @@ data:
 
           Lähteitä:
           Homegrown, Jeffrey Toobin, One of ours – Timothy McVeigh and the Oklahoma City bombing, Richard A. Serrano.
-      - title: Epäilyttävän uutta - Aki Yli-Salomäki
+      - title: 'Viihdekuunnelma: Sininen Tonava, osa1/2'
+        start_time: '2026-11-26T22:31:00+02:00'
+        end_time: '2026-11-26T22:59:00+02:00'
+        description: |-
+          Osa 1/2. Sodanjälkeiseen Wieniin sijoittuvassa jännityskuunnelmassa päivystävä konstaapeli löytää miehen ruumiin korjauksen alla olevalta sillalta.
+
+          Kirjoittanut Rai Silvennoinen. 
+          Ohjaus: Eero Leväluoma.
+          Päärooleissa:
+          Kemisti Binck - Esko Mannermaa. 
+          Professori Denckmann - Reino Valkama. 
+          Poliisipäällikkö Grindell - Matti Aulos. 
+          Partioiva poliisi - Pentti Irjala. 
+          Rikosoikeuden professori, dosentti Deier - Keijo Komppa. 
+          Taskuvaras Schleicher - Kauko Kokkonen. 
+          Teos vuodelta 1956.
+      - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Etäisyyksien välissä'
         start_time: '2026-11-26T23:01:00+02:00'
         end_time: '2026-11-26T23:57:00+02:00'
         description: |-
-          Digitaaliseen musiikkiavaruuteen virtaa jatkuvasti uutta kuunneltavaa. Aki Yli-Salomäki poimii virrasta musiikkia, joka heijastelee tätä aikaa ja ympäristöä, on helposti lähestyttävää, mutta silti kunnianhimoista ja uteliasta.
+          Milloin viimeksi löysit musiikkia, joka tuntuu ystävän halaukselta? Aki Yli-Salomäki poimii digitaalisen sävelavaruuden katkeamattomasta virrasta uutta musiikkia, jonka ääressä aika pysähtyy ja mieli saa levätä.
       - title: Yöklassinen
         start_time: '2026-11-27T00:00:00+02:00'
         end_time: '2026-11-27T06:30:00+02:00'
