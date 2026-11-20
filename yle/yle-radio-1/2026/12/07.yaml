@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-19T09:56:49.898752+00:00'
+  generated_at: '2026-11-20T09:44:35.548127+00:00'
   git:
     branch: main
-    commit: 098f8559ad1d99254e83a2400f3a69130b732974
-  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
+    commit: 7589c4fe4b3307b03d23c7347b49b94cec9f4484
+  data_hash: b759b242440e7dc2f7316c1f25197404549d779ada42a553c1cf2fde01bbde39
 data:
   Yle Radio 1:
     programmes:
@@ -28,6 +28,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-12-07T07:06:00+02:00'
         end_time: '2026-12-07T08:00:00+02:00'
+        description: |+
+          Rameau: Tambourin (Angela Hewitt, piano).
+
+          J.S. Bach (sov. Niittykoski): Loure sooloviulupartitasta n:o 3 E-duuri ja Polkkamasurkka (Kreeta-Maria Kentala, viulu).
+
+          Nápravník: Elegia pianotriosta d-molli (Spyros Piano Trio).
+
+          Ibert: Reflets dans l'eau (Heijastuksia vedessä) (Lavinia Meijer, harppu).
+
+          Kansansävelmä, Unkari (sov. Bartok): Kolme unkarilaista kansanlaulua Csikin läänistä (Vikingur Olafsson, piano). 
+
+          Saint-Saëns: Romanssi E-duuri (Lawrence Vine, käyrätorvi, ja Stephane Lemelin, piano).
+
+          Grieg: Sarabande sarj. Fra Holbergs tid (Holbergin ajoilta) (Keski-Pohjanmaan Kamariork./Juha Kangas).
+
+          Gossec: Tamburiini F-duuri (Ilpo Mansnerus, huilu, ja Timo Korhonen, kitara).
+
+          Chopin: Valssi nro 1 Es-duuri (Janis Byron, piano).
+
+          Wiren: Scherzo serenadista op.11 (Stockholm Sinfonietta/Esa-Pekka Salonen).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-12-07T08:00:00+02:00'
         end_time: '2026-12-07T08:07:00+02:00'
@@ -70,16 +91,44 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-12-07T13:30:00+02:00'
         end_time: '2026-12-07T13:35:00+02:00'
+        description: |+
+          Angélique Kidjo: Congoleo.
+
+
       - title: Aitiovieras
         start_time: '2026-12-07T13:35:00+02:00'
         end_time: '2026-12-07T14:00:00+02:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista.
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Come rain or come shine '
         start_time: '2026-12-07T14:00:00+02:00'
         end_time: '2026-12-07T15:00:00+02:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Gilberto, Jorge, Moura: Novas ideias (Bebel Gilberto & Seu Jorge).
+
+          Huhtala: Hengitä (Kvalda).
+
+          Shai Maestro: A little thank you note.
+
+          Maija Kauhanen: Portilla.
+
+          Bidinte: Ke cu minino na tchora (Bidinte).
+
+          Matada: Hiona mbilo (Chico Matada).
+
+          Diaz: Caballo viejo (Cimarron).
+
+          Fernando, Castelo: Rosa cor de rosa (Ana Moura).
+
+          Alakotila: Tango Toivolle (Timo Alakotila).
+
+          Arlen: Come rain or come shine (Emma Larsson, Seppo Kantonen, Ville Huolman, Tomi Salesvuo).
+
+          Nick Drake: One of these things first.
+
       - title: Kulttuuriykkönen
         start_time: '2026-12-07T15:00:00+02:00'
         end_time: '2026-12-07T15:58:00+02:00'

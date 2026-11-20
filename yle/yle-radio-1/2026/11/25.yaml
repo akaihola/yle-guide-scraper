@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-19T09:56:47.352761+00:00'
+  generated_at: '2026-11-20T09:44:33.238012+00:00'
   git:
     branch: main
-    commit: 098f8559ad1d99254e83a2400f3a69130b732974
-  data_hash: 2d937f5ee2cf621e42956e9c27df7632f414d51c5286cdbd50cda0f66ad10e64
+    commit: 7589c4fe4b3307b03d23c7347b49b94cec9f4484
+  data_hash: b759b242440e7dc2f7316c1f25197404549d779ada42a553c1cf2fde01bbde39
 data:
   Yle Radio 1:
     programmes:
@@ -157,11 +157,12 @@ data:
 
           Rebennack, Guidry: Wild honey (Hugh Laurie).
 
-      - title: Kulttuuriykkönen
+      - title: 'Kulttuuriykkönen: Kulttuurin uudet palatsit'
         start_time: '2026-11-25T15:00:00+02:00'
         end_time: '2026-11-25T15:58:00+02:00'
-        description: |-
-          Rentoa puhetta, kiinnostavimmat vieraat ja kulttuurin ajankohtaisaiheet debatoitavina. Suorana maanantaista perjantaihin.
+        description: |2
+
+          Millaisia kulttuuritiloja arkkitehdit suunnittelevat juuri nyt? Mitä uudet talot kertovat kulttuurin tulevaisuudesta? Keskustelemassa ovat Turun uuden Musiikkitalo Fuugan pääsuunnittelija Tuomas Silvennoinen, Kansallismuseon lisärakennuksesta ja uudesta Arkkitehtuuri- ja designmuseosta vastaava arkkitehti Samuli Miettinen sekä Tampereen taidemuseon korjauksen ja lisärakennuksen suunnittelun vetävä Erkko Aarti. Uusia isoja kulttuurihankkeita ei näy horisontissa. Mikä merkitys kulttuurirakennusten suunnittelulla ja niihin liittyvillä arkkitehtuurikilpailuilla on suomalaisen arkkitehtuurin elinvoimaisuuden kannalta? Toimittajana Minna Joenniemi. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T16:00:00+02:00'
         end_time: '2026-11-25T16:07:00+02:00'
