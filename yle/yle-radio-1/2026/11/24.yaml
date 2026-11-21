@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-20T09:44:33.060334+00:00'
+  generated_at: '2026-11-21T09:16:52.750272+00:00'
   git:
     branch: main
-    commit: 7589c4fe4b3307b03d23c7347b49b94cec9f4484
-  data_hash: b759b242440e7dc2f7316c1f25197404549d779ada42a553c1cf2fde01bbde39
+    commit: 5a183eb7b82cbb10c540d0364221131e344e5a69
+  data_hash: f7c4b09af4ce845df3b26b2cc7d120328d55c79bc621444f2c81c1907c38492e
 data:
   Yle Radio 1:
     programmes:
@@ -15,6 +15,15 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-24T06:30:50+02:00'
         end_time: '2026-11-24T06:50:00+02:00'
+        description: |+
+          Tuntematon: On, Herra, pyhä sanasi (virsi 188) (Sibelius-lukion KK/Marjukka Riihimäki, ja Pekka Suikkanen, urut).
+
+          Kalenius: Huokauksen päässä (Tanja Torvikoski).
+
+          Laurila: Valvokaa (Ritva Mustonen, Ami Lovén, Lapsilaulajat, ja yhtye).
+
+          Suonio: Sain kaiken tarpeellisen (Tuohus-kuoro ja Carmen Ensemble).
+
       - title: Aamuhartaus
         start_time: '2026-11-24T06:50:00+02:00'
         end_time: '2026-11-24T06:59:59+02:00'
@@ -88,10 +97,14 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-24T10:55:00+02:00'
         end_time: '2026-11-24T11:00:00+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Bachin Magnificat tuo kirkkautta pimeään aikaan'
         start_time: '2026-11-24T11:00:00+02:00'
         end_time: '2026-11-24T11:57:00+02:00'
         description: |-
+          Riemukas, koskettava ja täynnä erilaisia tunnelmia. Sellainen on Johann Sebastian Bachin juhlava Magnificat.
+          Mistä teos koostuu, ja miten Bach värittää sanoja musiikin keinoin?
+          Magnificatin jälkeen soi lempeä kaiku kaukaa renessanssin ajoilta.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-11-24T11:57:00+02:00'
@@ -114,7 +127,7 @@ data:
           Jos massiivinen asteroidi ei olisi osunut maapalloon, olisiko jokin dinosaurus voinut kehittyä älykkääksi “dinosauroidiksi”, joka olisi luonut yhtä edistyneen korkeakulttuurin kuin ihminen?
 
           Haastateltavana paleontologi Mikko Haaramo Helsingin yliopistosta. Toimittajana Samppa Korhonen.
-      - title: Aristoteleen kantapää
+      - title: 'Aristoteleen kantapää: Populaarikulttuuri inspiroi usein verkon käyttäjänimien luomisessa'
         start_time: '2026-11-24T12:35:00+02:00'
         end_time: '2026-11-24T13:00:00+02:00'
         description: |
@@ -179,15 +192,15 @@ data:
         description: |-
           Chopin: Etydi n:o 1 C-duuri op.10 (Martha Argerich, piano).
 
-          Puccini: Mimin aaria "Si, mi chiamano Mimi" oopp. La Bohème (Soile Isokoski, sopraano, ja HKO/Mikko Franck).
+          Puccini: Mimin aaria "Si, mi chiamano Mimi" oopp. La bohème (Soile Isokoski, sopraano, ja HKO/Mikko Franck).
 
           Paradis: Sicilienne (Seeli Toivio, sello, ja Lily-Marlene Puusepp, harppu).
 
           Tailleferre: Pastoraali C-duuri (Bengt Forsberg, piano).
 
-          Beethoven: Eurooppa-hymni sinfonian n:o 9 loppukuorosta An die Freude (Eurooppalainen soittokunta).
+          Beethoven: Europe anthem (European Brass Band).
 
-          Ireland: Sea fever (Bryn Terfel, bassobaritoni, ja Malcolm Martineau, piano).
+          Ireland: Sea fever (Kaipuu merelle) (Bryn Terfel, baritoni, ja Malcolm Martineau, piano).
 
           Netzel: Humoreski sarj. viululle ja jousiorkesterille op.83 (Musica Vitae/Malin Broman, viulu).
 
@@ -197,9 +210,9 @@ data:
 
           M. Brouwer: Pulse (Liverpoolin kuninkaallinen FO/Gerard Schwarz).
 
-          Kajanus-Blenner: Impromptu sooloharpulle (Katri Tikka).
+          Kajanus-Blenner: Impromptu (Katri Tikka, harppu).
 
-          Pärt: Da pacem Domine (Viron filharmoninen kamarikuoro/Paul Hillier).
+          Pärt: Da pacem Domine (Anna Herra rauha) (Viron filharmoninen kamarikuoro/Paul Hillier).
 
           Ohjelman on toimittanut Laura Korhonen.
       - title: Yle Uutiset ja sää
