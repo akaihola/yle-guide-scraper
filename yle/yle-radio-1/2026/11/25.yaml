@@ -1,20 +1,66 @@
 metadata:
-  generated_at: '2026-11-21T09:16:53.417497+00:00'
+  generated_at: '2026-11-22T09:26:23.135869+00:00'
   git:
     branch: main
-    commit: 5a183eb7b82cbb10c540d0364221131e344e5a69
-  data_hash: f7c4b09af4ce845df3b26b2cc7d120328d55c79bc621444f2c81c1907c38492e
+    commit: 4ddc0996c6435b3008e43d5b3c5430a3e94f9988
+  data_hash: 14f015d193575377eac7a1b61ec4cb65bc86041de55039642474a239c9264c61
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-11-24T23:40:00+02:00'
         end_time: '2026-11-25T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Salieri: Venetsialainen sinfonia D-duuri (Lontoon Mozart-soittajat/Matthias Bamert).
+
+          23:50 J.S. Bach: Toccata d-molli (Richard Morris, urut). 
+
+          23:58 Wilbye: Draw on, sweet night (Saavu, suloinen yö) (The Deller Consort).
+
+          00:08 Elgar: Sellokonsertto e-molli (Heinrich Schiff ja Dresdenin valtionork./Neville Marriner).
+
+          00:35 Chopin: Rondo kahdelle pianolle C-duuri (Ljubov Bruk ja Mark Taimanov).
+
+          00:44 Hubay: Csárdá-kohtaus n:o 2 (Pieni huiluni) (Hagai Shaham, viulu, ja Arnon Erez, piano).
+
+          00:56 Beethoven: Sinfonia n:o 6 F-duuri (Pastoraali) (RSO/Sakari Oramo).
+
+          01:35 Schumann: Fantasiestücke pianolle. (Earl Wild).
+
+          02:05 Milhaud: Trio jousille op.274 (Pariisin jousitrio).
+
+          02:21 Josef Strauss: Houreita (Wienin filharmonikot/Herbert von Karajan).
+
+          02:30 Wagner: Loppukohtaus oopp. Jumalten tuho. (Margaret Harshaw, sopraano, ja Clevelandin ork./George Szell).
+
+          02:50 Solnitz: Sinfonia A-duuri (Musica ad Rhenum).
+
+          03:02 Pachelbel: Sarjat n:o 32 F-duuri, 26 d-molli, 34 G-duuri, 33 g-molli, 25 C-duuri, 36 A-duuri, 28 e-molli ja 29 e-molli (Joseph Payne, cembalo).
+
+          04:17 Nielsen: Sinfonia n:o 2 (Neljä luonnetyyppiä) (New Yorkin FO/Leonard Bernstein).
+
+          04:54 Mendelssohn: Jousikvartetto n:o 3 D-duuri (Emerson-kvartetti).
+
+          05:26 Reinecke - Köhler: Kehdosta hautaan (Fenwick Smith, huilu, ja Hugh Hinton, piano).
+
+          05:52 Locatelli: Sonaatti huilulle ja continuolle C-duuri op.2/1 (Barthold Kuijken, traverso, Wieland Kuijken, sello, ja Robert Kohnen, cembalo).
+
+          06:00 Sor: Muunnelmia kitaralle (Kuusi muunnelmaa) C-duuri (Lawrence Johnson).
+
+          06:13 Montéclair: Sarja kahdelle huilulle n:o 1 d-molli (Marie-Céline Labbé ja Marion Treupel-Franck, traverso).
+
       - title: Hartaita säveliä
         start_time: '2026-11-25T06:30:50+02:00'
         end_time: '2026-11-25T06:50:00+02:00'
+        description: |+
+          Koraalitoisinto: Oi Herra kaikkivaltias (virsi 460:1,3-4) (Vox Sonora/Rauno Myllylä, Tapio Tiitu, urut, ja Tuula Honkanen, huilu).
+
+          Tuntematon (sov. Vintturi): Millainen on elämä? (virsi 598:1,3-5,7-8) (Susanna Hietala, laulu, ja Papas No Mamas/Juha Vintturi).
+
+          Koraalitoisinto: Taivaaseen käy matkamme (virsi 623:1-2,6-7) (Maksetut viulut).
+
+          Rissanen: Aika tulee ja aika on jo (Veera Railio ja Säde Rissanen, laulu, Espoon srk:ien nuorten kuoro sekä Wirren Wiemää -yhtye).
+
       - title: Aamuhartaus
         start_time: '2026-11-25T06:50:00+02:00'
         end_time: '2026-11-25T06:59:59+02:00'
@@ -186,6 +232,13 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-25T18:35:00+02:00'
         end_time: '2026-11-25T18:50:00+02:00'
+        description: |+
+          Koraalitoisinto (sov. Bartling): Oi Pyhä Henki, riennä (virsi 445) (Human Organ/Säde Bartling).
+
+          Harper: Sua kaipaan (Terhi Harper).
+
+          Carmichael: Reach out to Jesus (Elvis Presley).
+
       - title: Iltahartaus
         start_time: '2026-11-25T18:50:00+02:00'
         end_time: '2026-11-25T19:00:00+02:00'
@@ -227,5 +280,41 @@ data:
       - title: Yöklassinen
         start_time: '2026-11-25T23:40:00+02:00'
         end_time: '2026-11-26T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Nielsen: Sonaatti viululle ja pianolle n:o 2 (Baiba Skride ja Lauma Skride). 
+
+          00:00 Schönberg: Verklärte Nacht (Kirkastettu yö) (Amsterdamin Concertgebouw-orkesterin jouset/Pierre Boulez).
+
+          00:32 Telemann: Nokkahuilukonsertto a-molli (Michala Petri ja Saint Paulin kamariork./Pinchas Zukerman).
+
+          00:47 Schubert: Das Heimweh (Koti-ikävä) (Matthias Goerne, baritoni, ja Ingo Metzmacher, piano).
+
+          00:56 J.D. Braun: Sonaatti n:o 5 h-molli (Marion Treupel-Franck, huilu, Sergio Azzolini, fagotti, Francesco Galligioni, viola da gamba, ja Axel Wolf, luuttu).
+
+          01:07 Gottschalk: La Savane (Savanni) (Eugene List, piano).
+
+          01:14 J.S. Bach: Kantaatti n:o 147 (Herz und Mund und Tat und Leben) (Jane Bryden ja Julianne Baird, sopraano, Jeffrey Thomas, tenori, Drew Minter, kontratenori, ja Jan Opalach, basso, sekä The Bach Ensemble/Joshua Rifkin).
+
+          01:42 W.A. Mozart: Viulukonsertto n:o 3 G-duuri (Richard Tognetti ja Australian kamariork.).
+
+          02:05 Beethoven: Missa solemnis (Saramae Endich, sopraano, Florence Kopleff, altto, Ernst Haefliger, tenori, ja Ezio Flagello, basso, sekä Clevelandin kuoro ja ork./George Szell).
+
+          03:24 Sallinen: Juventas-muunnelmia (RO/Paavo Berglund).
+
+          03:34 Weber: Fagottikonsertto F-duuri. (Valeri Popov ja Venäjän valtion SO/Valeri Poljanski).
+
+          03:52 Madetoja: Sinfonia n:o 3. (RSO/Jukka-Pekka Saraste).
+
+          04:22 Berg: Sinfonisia kappaleita Lulu-oopperasta. (Kathleen Battle, sopraano, ja Cincinnatin SO/Michael Gielen).
+
+          04:57 Liszt: Pianokonsertto n:o 2 A-duuri. (Michel Béroff ja Leipzigin Gewandhaus-ork./Kurt Masur).
+
+          05:21 Wagner:  Alkusoitto ja Bakkanaali oopp. Tannhäuser (Symphony Of The Air/Leopold Stokowski).
+
+          05:47 Tshaikovski: Rokokoo-muunnelmia (Paul Tortelier, sello, ja Philharmonia-ork./Herbert Menges).
+
+          06:06 Desprez: Christum ducem (The Clerck's Group/Edward Wickham).
+
+          06:21 Geminiani: Concerto grosso e-molli op.3/3 (Concerto Italiano/Rinaldo Alessandrini, cembalo).
+
+...
