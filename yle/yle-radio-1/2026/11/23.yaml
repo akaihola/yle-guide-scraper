@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-22T09:26:22.681480+00:00'
+  generated_at: '2026-11-23T10:22:51.536700+00:00'
   git:
     branch: main
-    commit: 4ddc0996c6435b3008e43d5b3c5430a3e94f9988
-  data_hash: 14f015d193575377eac7a1b61ec4cb65bc86041de55039642474a239c9264c61
+    commit: 7ae1733d6d6292fda4d091a19f7b7cfe41acf824
+  data_hash: 6664a26c0ee577f3624adf9a53875f5fc8fe5b2ce48d9359e9934136ba10079a
 data:
   Yle Radio 1:
     programmes:
@@ -91,6 +91,30 @@ data:
       - title: Radio 1:n aamu
         start_time: '2026-11-23T08:07:00+02:00'
         end_time: '2026-11-23T09:00:00+02:00'
+        description: |
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Alakotila: Höst igen (Nordik Tree). 
+
+          Widenius/Murtola: Illusion (Anna Murtola ja Joonas Widenius).
+
+          Blick Bassy: Wap do wap.
+
+          Hotz: Tres hermanos (Dan Auerbach & Hermanos Gutierrez).
+
+          Vehviläinen: Lammenlaulu (Anis Kiitu).
+
+          Kragh-Elmöe, Jörgensen, Hoffmann: Ulven kommer (Stundom).
+
+          Clementi, Bragetti, Van Bogaert, Loynaz: Quiereme entera (Peixe e Limao).
+
+          Krauss, Siskind (One ray of shine) Alison Krauss & Union Station.
+
+          Esko Järvelä
+          Early bird
+          Frigg
+
+          Francisco Repilado: Chan Chan (Buena Vista Social Club).
       - title: 'Yle Uutiset '
         start_time: '2026-11-23T09:00:00+02:00'
         end_time: '2026-11-23T09:03:00+02:00'
@@ -155,7 +179,7 @@ data:
         start_time: '2026-11-23T13:00:00+02:00'
         end_time: '2026-11-23T13:30:00+02:00'
         description: |-
-          Määritteleekö sananvapauden rajat Jussi Halla-ahoon kohdistunut fasismi-syytös tai Sebastian Tynkkysen kirjoitus Troijan hevosesta? Keskustelemassa politiikan toimittajat  Minna Karkkola, Timo Haapala ja Petri Raivio. Toimittajana on Linda Pelkonen. 
+          Määritteleekö sananvapauden rajat Sebastian Tynkkysen kirjoitus Troijan hevosesta tai Jussi Halla-ahoon kohdistunut fasismi-syytös? Keskustelemassa politiikan toimittajat  Minna Karkkola, Timo Haapala ja Petri Raivio. Toimittajana on Linda Pelkonen. 
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-23T13:30:00+02:00'
         end_time: '2026-11-23T13:35:00+02:00'
@@ -262,8 +286,13 @@ data:
       - title: Hengellisen musiikin toivekonsertti
         start_time: '2026-11-23T18:35:00+02:00'
         end_time: '2026-11-23T18:50:00+02:00'
-        description: |-
-          Kuuntelijoiden toivomaa hengellistä musiikkia.
+        description: |+
+          Krank: Kun kutsumuskellomme kerta vain soi (SRK:n sekakuoro/Matias Lahti).
+
+          Koraalitoisinto (sov. Jouko Heikkilä): Nyt ylös, sieluni (Aulikki Eerola, sopraano, ja Pertti Eerola, urut).
+
+          Simojoki: Kuin vuorilinna (EtCetera/Pekka Simojoki).
+
       - title: Iltahartaus
         start_time: '2026-11-23T18:50:00+02:00'
         end_time: '2026-11-23T19:00:00+02:00'
@@ -320,8 +349,8 @@ data:
 
           Äänitarkkailijana on Matias Puumala. Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Näistä levyistä en luovu: Konsta Hietanen on suurten biisien mies!'
-        start_time: '2026-11-23T22:45:00+02:00'
-        end_time: '2026-11-23T23:39:30+02:00'
+        start_time: '2026-11-23T22:42:54+02:00'
+        end_time: '2026-11-23T23:38:54+02:00'
         description: |-
           Kiinnostavat ihmiset  kertovat lempimusiikkiinsa liittyviä muistoja ja tarinoita. Uusi jakso joka perjantai.
       - title: Yöklassinen

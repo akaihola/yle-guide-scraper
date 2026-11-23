@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-22T09:26:25.407060+00:00'
+  generated_at: '2026-11-23T10:22:54.427049+00:00'
   git:
     branch: main
-    commit: 4ddc0996c6435b3008e43d5b3c5430a3e94f9988
-  data_hash: 14f015d193575377eac7a1b61ec4cb65bc86041de55039642474a239c9264c61
+    commit: 7ae1733d6d6292fda4d091a19f7b7cfe41acf824
+  data_hash: 6664a26c0ee577f3624adf9a53875f5fc8fe5b2ce48d9359e9934136ba10079a
 data:
   Yle Radio 1:
     programmes:
@@ -157,6 +157,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-12-07T16:07:00+02:00'
         end_time: '2026-12-07T16:59:00+02:00'
+        description: |-
+          Faunin iltapäivä
+          7.12.2026 / Noora Hirn
+
+          Sundblad-Halme: Danse drolatique (Tiina Karakorpi, piano).
+
+          Kantelinen: Lasten tanssi bal. Lumikuningatar (Suomen kansallisoopperan ork./Tuomas Kantelinen).
+
+          F. Doppler: Masurkka (Philippa Davies, huilu, ja Thelma Owen, harppu).
+
+          Poulenc: Un Soir de neige (Luminen ilta) kantaatti (DR VokalEnsemblet/Stephen Layton). 
+
+          Goldmark: Andante viulukonsertosta n:o 1 a-molli (Joshua Bell ja Los Angelesin FO/Esa-Pekka Salonen).
+
+          Saariaho: Many pleasures (Garden of the Kinkaku-ji) sarjasta Six Japanese Gardens lyömäsoittimille ja elektroniikalle (Andreas Boettger).
+
+          Rahmaninov (sov. Respighi): La mer et les mouettes (Meri ja lokit) teoks. Cinq etudes-tableaux (Minnesotan ork./Eiji Oue).
+
+          Dahlström: Låt i skogen (Helsingin kamarikuoro/Nils Schweckendiek).
+
+          J.S. Bach: Preludi teoks. Preludi ja fuuga uruille d-molli (Doorinen) (Ton Koopman, urut).
+
+          Shaw: The herbaceous border sarjasta Plan and elevation (Norwegian Chamber Orchestra/Pekka Kuusisto, viulu).
+
+          Chaminade: Valse carnevalesque kahdelle pianolle (Peter Jablonski ja Bengt Forsberg).
       - title: Yle Uutiset ja sää
         start_time: '2026-12-07T17:00:00+02:00'
         end_time: '2026-12-07T17:05:00+02:00'

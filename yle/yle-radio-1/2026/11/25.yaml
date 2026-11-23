@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-22T09:26:23.135869+00:00'
+  generated_at: '2026-11-23T10:22:51.926366+00:00'
   git:
     branch: main
-    commit: 4ddc0996c6435b3008e43d5b3c5430a3e94f9988
-  data_hash: 14f015d193575377eac7a1b61ec4cb65bc86041de55039642474a239c9264c61
+    commit: 7ae1733d6d6292fda4d091a19f7b7cfe41acf824
+  data_hash: 6664a26c0ee577f3624adf9a53875f5fc8fe5b2ce48d9359e9934136ba10079a
 data:
   Yle Radio 1:
     programmes:
@@ -215,6 +215,31 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-11-25T16:07:00+02:00'
         end_time: '2026-11-25T16:59:00+02:00'
+        description: |+
+          Sibelius: Rigaudon (Jaakko Kuusisto, viulu, ja Ilkka Paananen, piano).
+
+          Kostiainen: Menninkäisen kuutamotanssit (Tiina Halme, sopraano, ja Campanella-kuoro/Aino Loppela).
+
+          Chausson: Sicilienne konsertosta pianolle, viululle ja jousikvartetille D-duuri (The Weiss Duo ja Coup d'Archet Quartet).
+
+          Melartin: Menuetto - Trio triosta huilulle, klarinetille ja fagotille op.154 (Melartin Trio).
+
+          Smyth: Menuetti D-duuri teoks. Neljä 4-äänistä tanssia pianolle (Liana Serbescu).
+
+          Holst: Venus, rauhan tuoja, sarj. Planeetat (Atlantan SO/Yoel Levi).
+
+          Kuula: Scherzo (Arto Noras, sello, ja Tapani Valsta, piano).
+
+          Victoria: O quam gloriosum est regnum (Oi kuinka kunniakas on valtakunta) (Ensemble Plus Ultra/Michael Noone).  
+
+          Glinka: Alkusoitto oopp. Ruslan ja Ljudmila (Baltimoren SO/David Zinman).
+
+          Sainio: Empty street (Tyhjä katu) (Reetamaria Rajala, piano).
+
+          Dvorak (sov. Ben-Ari): Finaali jousikvartetosta nro 12 F-duuri (Amerikkalainen) (Avi Avital, mandoliini, Simone Bernardini, viulu, Amihai Grosz, alttoviulu, Zvi Plesser, sello, Klaus Stoll, kontrabasso, ja Ivano Battiston, harmonikka). 
+
+          Kähärä: Laulu perunoiden kiehuessa (How Many Sisters ja Tapiola Sinfonietta/Kirmo Lintinen).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T17:00:00+02:00'
         end_time: '2026-11-25T17:05:00+02:00'
