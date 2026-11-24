@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-23T10:22:52.601684+00:00'
+  generated_at: '2026-11-24T12:03:30.211712+00:00'
   git:
     branch: main
-    commit: 7ae1733d6d6292fda4d091a19f7b7cfe41acf824
-  data_hash: 6664a26c0ee577f3624adf9a53875f5fc8fe5b2ce48d9359e9934136ba10079a
+    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
+  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
 data:
   Yle Radio 1:
     programmes:
@@ -12,10 +12,14 @@ data:
         end_time: '2026-11-29T07:00:00+02:00'
         description: |-
           Klassista musiikkia.
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Bachin Magnificat tuo kirkkautta pimeään aikaan'
         start_time: '2026-11-29T07:00:30+02:00'
         end_time: '2026-11-29T07:57:00+02:00'
         description: |-
+          Riemukas, koskettava ja täynnä erilaisia tunnelmia. Sellainen on Johann Sebastian Bachin juhlava Magnificat.
+          Mistä teos koostuu, ja miten Bach värittää sanoja musiikin keinoin?
+          Magnificatin jälkeen soi lempeä kaiku kaukaa renessanssin ajoilta.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-29T08:00:00+02:00'
@@ -24,13 +28,24 @@ data:
         start_time: '2026-11-29T08:05:35+02:00'
         end_time: '2026-11-29T08:59:00+02:00'
         description: |-
-          101-vuotiaana lokakuussa kuolleen Operettiteatterin perustajan, näyttelijä-laulajan ja ohjaajan koronakeväällä 2020 tehdyn haastattelun toisessa osassakaan nukkumatti ei pääse yllättämään. Toimittajana Outi Paananen.
+          Nukkumatti ei pääse yllättämään Operettiteatterin perustajan Hilkka Kinnusen haastattelun toisessakaan osassa. Haastattelu on tehty kevättalvella 2020, kun taiteilija täytti ”viittä vaille sata”. Hilkka Kinnunen kuoli lokakuussa 101-vuotiaana. Toimittajana Outi Paananen.
       - title: 'Yle Uutiset '
         start_time: '2026-11-29T09:00:00+02:00'
         end_time: '2026-11-29T09:03:00+02:00'
       - title: Aamusoitto
         start_time: '2026-11-29T09:03:00+02:00'
         end_time: '2026-11-29T09:53:00+02:00'
+        description: |+
+          Tunder, Franz: Hosianna dem Sohne David, in Adventu (Mária Zádori ja Andrea Csereklyei, sopraano, István Kovács, basso, sekä Purcell-kamarikuoro ja Orfeo Orchestra/György Vashegyi).
+
+          Tuntematon: Ad te levavi - Vias tuas, Domine (Vox Silentii).
+
+          J.S. Bach: Kantaatti n:o 61 (Nun komm, der Heiden Heiland).  (Julianne Baird, sopraano, Drew Minter, kontratenori, Benjamin Butterfield, tenori, James Weaver, basso, American Bach Soloists (kamariorkesteri /alkuperäissoittimin), joht. Jeffrey Thomas).  
+
+          Pärt: Sieben Magnificat-Antiphonen (Lumen Valo).
+
+          Lauridsen: O magnum mysterium (Polyphony-kuoro/Stephen Layton).
+
       - title: Tervetuloa jumalanpalvelukseen
         start_time: '2026-11-29T09:56:00+02:00'
         end_time: '2026-11-29T09:59:00+02:00'
@@ -142,9 +157,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-29T19:00:00+02:00'
         end_time: '2026-11-29T19:02:05+02:00'
-      - title: 'Jazzklubin viikon keikka '
+      - title: 'Jazzklubin viikon keikka: Kannaste-Viinikainen-Riippa Trio Jazzklubin studiosessioissa.'
         start_time: '2026-11-29T19:02:30+02:00'
         end_time: '2026-11-29T20:00:00+02:00'
+        description: |-
+          Äänitetty Finnvoxissa marraskuussa 2025. Haastattelussa Teemu Viinikainen.
       - title: Suuri ehtoopalvelus Jumalanäidin Tihvinäläisen ikonin kirkosta Hämeenlinnasta
         start_time: '2026-11-29T20:00:00+02:00'
         end_time: '2026-11-29T21:00:00+02:00'
@@ -158,19 +175,35 @@ data:
       - title: Aitiovieras
         start_time: '2026-11-29T21:25:00+02:00'
         end_time: '2026-11-29T21:50:00+02:00'
-      - title: Klasariparatiisi - Eva Tigerstedt
+      - title: 'Klasariparatiisi: Bachin Magnificat tuo kirkkautta pimeään aikaan'
         start_time: '2026-11-29T21:51:00+02:00'
         end_time: '2026-11-29T22:47:00+02:00'
         description: |-
+          Riemukas, koskettava ja täynnä erilaisia tunnelmia. Sellainen on Johann Sebastian Bachin juhlava Magnificat.
+          Mistä teos koostuu, ja miten Bach värittää sanoja musiikin keinoin?
+          Magnificatin jälkeen soi lempeä kaiku kaukaa renessanssin ajoilta.
+
           Eva Tigerstedt avaa polkuja musiikkiin.
-      - title: Uusiutuva tiede
+      - title: 'Uusiutuva tiede: Paleontologia 2/2 – Megalosauruksesta nanotyrannukseen'
         start_time: '2026-11-29T22:48:00+02:00'
         end_time: '2026-11-29T23:19:00+02:00'
-      - title: Romano mirits
+        description: |-
+          Fossiilit ovat olleet luultavasti pohjana useille myyteille ja mytologioille ihmiskunnan historiassa. Dinosauruksia alettiin ymmärtää vasta alle 200 vuotta sitten. Sen jälkeenkin matkalle on mahtunut virhetulkintoja ja jopa nk. luusodat. Miten paleontologia lähti liikkeelle? Millaisia hirmuliskoja aluksi löydettiin?
+
+          Missä ovat parhaat fossiiliesiintymät, miksei Suomesta löydy dinosauruksia? Uusia lajeja tunnistetaan lähes viikoittain, mutta miten paleontologit voivat tietää fossiilista, mistä muinaisesta eläimestä on kyse?
+
+          Kumpi oli suurempi peto, tyrannosaurus rex vai spinosaurus?
+
+          Jos massiivinen asteroidi ei olisi osunut maapalloon, olisiko jokin dinosaurus voinut kehittyä älykkääksi “dinosauroidiksi”, joka olisi luonut yhtä edistyneen korkeakulttuurin kuin ihminen?
+
+          Haastateltavana paleontologi Mikko Haaramo Helsingin yliopistosta. Toimittajana Samppa Korhonen.
+      - title: 'Romano mirits:  Ekstraaja huolehtii niin siisteydestä, lärveistä kuin maaleista'
         start_time: '2026-11-29T23:26:00+02:00'
         end_time: '2026-11-29T23:39:30+02:00'
         description: |-
-          Ajankohtaista asiaa romaneista.
+          Juho Koivisto työskentelee jalkinetyöntekijänä Ejendalsin tehtaalla Jalasjärven Jokipiissä. Hänen tehtäviinsä kuuluu esimerkiksi yleissiistiyden ylläpitäminen ja se, että kenkiä valmistavilla koneilla on riittävä määrä valmistusmateriaaleja. Koivisto kertoo Romano miritsin haastattelussa työstään Jalas-merkkisiä turvakenkiä valmistavassa tehtaassa. 
+
+          Toimittaja on Jaakko Laakso.
       - title: Yöklassinen
         start_time: '2026-11-29T23:40:00+02:00'
         end_time: '2026-11-30T06:30:00+02:00'

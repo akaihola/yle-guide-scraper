@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-23T10:22:54.792621+00:00'
+  generated_at: '2026-11-24T12:03:32.424639+00:00'
   git:
     branch: main
-    commit: 7ae1733d6d6292fda4d091a19f7b7cfe41acf824
-  data_hash: 6664a26c0ee577f3624adf9a53875f5fc8fe5b2ce48d9359e9934136ba10079a
+    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
+  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
 data:
   Yle Radio 1:
     programmes:
@@ -30,6 +30,27 @@ data:
       - title: Aamusoitto
         start_time: '2026-12-09T07:06:00+02:00'
         end_time: '2026-12-09T08:00:00+02:00'
+        description: |+
+          Schubert: Liebesbotschaft (Lemmenviesti) (Jari Tarjasalo, kitara). 
+
+          Bergh: Lied (Frans van Ruth, piano).
+
+          Gaubert: Nokturni ja Allegro scherzando (Susan Milan, huilu, ja Ian Brown, piano).
+
+          Tshaikovski: Valssi serenadista C-duuri (Bostonin SO/Charles Munch).
+
+          Grovlez: Sicilienne ja Allegro giocoso (Jussi Särkkä, fagotti, ja Jouko Laivuori, piano).
+
+          Debussy: Passepied sarj. Suite bergamasque (Amsterdamin kitaratrio).
+
+          Mascagni: Intermezzo oopp. L'amico Fritz (Fritz-ystävä) (BBC:n FO/Gianandrea Noseda).
+
+          Granda: La flor de la canela (Berliinin filharmonikkojen selloyhtye).
+
+          Metner: Canzona serenata (Marc-André Hamelin, piano).
+
+          Hurwitz: Planetarium elok. La la land (The La La Land Orchestra/Justin Hurwitz).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-12-09T08:00:00+02:00'
         end_time: '2026-12-09T08:07:00+02:00'
@@ -42,24 +63,25 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-12-09T09:04:00+02:00'
         end_time: '2026-12-09T09:59:00+02:00'
-        description: |+
-          Karas: Der dritte man (Anton Karas).
+        description: |-
+          Karas: Der dritte Mann (Anton Karas).
           Reynolds: Laatikkoon, laatikkoon (Brita Koivunen ja Eino Virtanen).
           Young: When I fall in love (Sam Cooke).
           Gainsbourg: Laisse tomber les filles (France Gall).
           Friedman: Kuuluthan mulle, Windy (New Joys).
           Wilson: Do your duty (Bessie Smith).
           Mancini: Peter Gunn (Henry Mancini).
-          Holland, Dozier & Holland: Wie schön das ist (Marvin Gaye).
+          Holland/Dozier/Holland: Wie schön das ist (Marvin Gaye).
           Hernandez: Rumba tambah (Rosita Serrano).
           Porter: I've got you under my skin (The Delta Rhythm Boys).
           Hazlewood: Lady Bird (Nancy Sinatra & Lee Hazlewood).
           Jobim: Insensatez (Joao Gilberto).
-          Francois: My way (Frank Sinatra).
+          Francois/Revaux: My way (Frank Sinatra).
           Dominguez: Perfidia (Sara Montiel).
-          Fontana & Pes: Aldrig mer (= Che Sara) (Hootenanny Singers).
+          Fontana/Pes: Aldrig mer (Hootenanny Singers).
           Hakulinen: Joutsenlaulu (Saimaa).
 
+          Konsertin on laatinut Tuuli Saksala.
       - title: 'Havaintoja muutoksesta: Luova kirjoittaminen'
         start_time: '2026-12-09T10:00:00+02:00'
         end_time: '2026-12-09T10:50:00+02:00'
@@ -81,12 +103,9 @@ data:
         end_time: '2026-12-09T12:05:00+02:00'
       - title: '12 diktaattoria: Lohikäärmenainen Jiang Qing'
         start_time: '2026-12-09T12:05:00+02:00'
-        end_time: '2026-12-09T12:50:00+02:00'
+        end_time: '2026-12-09T12:35:00+02:00'
         description: |-
           Mao Zedongin neljäs vaimo nousi 1960-luvulla vain muutamassa kuukaudessa lähes täydestä tuntemattomuudesta hierarkian korkeimpiin portaisiin ja Kiinan katkeran valtataistelun uudeksi voimahahmoksi. Toimittajana Raimo Tyykiluoto vieraanaan uutispäällikkö Mikko Metsämäki.
-      - title: Yksi on hyvää seuraa
-        start_time: '2026-12-09T12:50:00+02:00'
-        end_time: '2026-12-09T13:00:00+02:00'
       - title: Politiikkaradio
         start_time: '2026-12-09T13:00:00+02:00'
         end_time: '2026-12-09T13:30:00+02:00'
@@ -98,11 +117,35 @@ data:
         end_time: '2026-12-09T14:00:00+02:00'
         description: |2-
            Lämminhenkistä keskustelua kulttuurista
-      - title: Musiikkiaitio
+      - title: 'Musiikkiaitio: Winter serenade'
         start_time: '2026-12-09T14:00:00+02:00'
         end_time: '2026-12-09T15:00:00+02:00'
-        description: |-
+        description: |+
           Lähde mukaan musiikin maailmankiertueelle. Lähetyksessä mukana myös kulttuurikokemuksia ja kurkistuksia konserttien kulisseihin.
+
+
+          Abou/Faure: Dans mon Paris (Zaz). 
+
+          Vercilo, Maranhao: Pode parar (Jorge Vercilo).
+
+          Goodman, Landings: Winter serenade (Andy Goodman).
+
+          Viljamaa: Deneb (Duo Milla Viljamaa ja Johanna Juhola).
+
+          Urban Village: Ubaba.
+
+          Bernie, Pinkard, Casey: Sweet Georgia Brown (Stephane Grappelli).
+
+          Paakki: Herpertti (Riitta Paakki Trio).
+
+          Gonzalez, Pascuzzo: Mayahuel (Martha Gonzalez ja Quetzal).
+
+          Bo Kaspers Orkester: Det går en man omkring i mina skor (Bo Kaspers Orkester). 
+
+          Leppänen: Iltakävelyllä (Imandra).
+
+          Gaby Moreno: Blues de mar.
+
       - title: Kulttuuriykkönen
         start_time: '2026-12-09T15:00:00+02:00'
         end_time: '2026-12-09T15:58:00+02:00'
@@ -128,6 +171,8 @@ data:
       - title: Jazzklubi
         start_time: '2026-12-09T17:35:00+02:00'
         end_time: '2026-12-09T18:35:00+02:00'
+        description: |-
+          Vieraana on saksofonisti, säveltäjä, sovittaja, muusikko ja pedagogi Laura Helander. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-12-09T18:35:00+02:00'
         end_time: '2026-12-09T18:50:00+02:00'
