@@ -1,17 +1,56 @@
 metadata:
-  generated_at: '2026-11-24T12:03:30.794671+00:00'
+  generated_at: '2026-11-25T10:55:46.213300+00:00'
   git:
     branch: main
-    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
-  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
+    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
+  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
 data:
   Yle Radio 1:
     programmes:
       - title: Yöklassinen
         start_time: '2026-11-30T23:40:00+02:00'
         end_time: '2026-12-01T06:30:00+02:00'
-        description: |-
-          Klassista musiikkia.
+        description: |+
+          Borghi: Duetto n:o 2 B-duuri (Lorenzo Gugole, viulu, ja Giorgio Bottiglioni, alttoviulu).
+
+          23:51 Stradella: Sinfonia d-molli (Trio Settecento).
+
+          23:58 Hasselmans: Follets (Lily Laskine, harppu).
+
+          00:02 O. Merikanto: Lasten maailmasta (Eero Heinonen, piano).
+
+          00:22 Brahms: Trio käyrätorvelle, viululle ja pianolle Es-duuri (Myron Bloom, Michael Tree ja Rudolf  Serkin).
+
+          00:53 Accolay: Viulukonsertto n:o 1 a-molli (Itzhak Perlman ja  Juilliard-ork./Lawrence Foster).
+
+          01:01 Schubert: Trio jousille n:o 2 B-duuri (Jascha Heifetz, viulu, William Primrose, alttoviulu, ja Gregor Piatigorsky, sello).
+
+          01:19 J.S. Bach: Urkusonaatti n:o 4 e-molli (Tom Wilkinson, Edinburghin yliopiston urut).
+
+          01:30 Giuliani: Rossiniana n:o 2 (Giuseppe Buscemi, kitara).
+
+          01:47 Borodin: Kvintetto jousille f-molli (Aleksandr Gotthelf, sello, ja Moskovan jousikvartetti).
+
+          02:17 Shostakovitsh: Konsertto pianolle, trumpetille ja jousille c-molli (Yefim Bronfman, Thomas Stevens ja Los Angelesin SO:n jouset/Esa-Pekka Salonen).
+
+          02:40 Brahms: Sellosonaatti n:o 1 e-molli ja n:o 2 F-duuri (Daniil Shafran, sello, ja Felix Gottlieb, piano).
+
+          03:34 Nielsen: Puhallinkvintetto (Marlboron musiikkijuhlien puhallinyhtye).
+
+          03:59 Fodor: Sinfonia n:o 2 G-duuri. (Alankomaiden radion kamariork./Anthony Halstead).
+
+          04:25 Reger: Serenadi orkesterille G-duuri. (Amsterdamin Concertgebouw-ork./Eugen Jochum).
+
+          05:05 Dotzauer: Kuusi kappaletta kolmelle sellolle (Anner Bylsma, Kenneth Slowik ja Steven Doane, sello).
+
+          05:31 Weber: Klarinettikonsertto n:o 1 f-molli (Kari Kriikku ja RSO/Sakari Oramo).
+
+          05:52 Piccinini: Gagliarda n:o 1 (Matthew Wadsworth, teorbi).
+
+          05:55 de Victoria: O quam gloriosum est regnum (Oi kuinka kunniakas on valtakunta) (New York Polyphony).
+
+          06:21 Buxtehude: Sonaatti viululle, viola da gamballe ja continuolle B-duuri (The Boston Museum Trio).
+
       - title: Hartaita säveliä
         start_time: '2026-12-01T06:30:50+02:00'
         end_time: '2026-12-01T06:50:00+02:00'
@@ -82,11 +121,11 @@ data:
           Lennon/McCartney: The long and winding road (The Beatles).
 
           Konsertin on toimittanut Riikka Holopainen.
-      - title: Sari Valto
+      - title: 'Sari Valto:  Lapsuuden kiintymyssuhdetyyli heijastuu aikuisuuteen, mutta ei selitä kaikkea '
         start_time: '2026-12-01T10:00:00+02:00'
         end_time: '2026-12-01T10:55:00+02:00'
         description: |-
-          Sari Valton keskusteluohjelmassa pohditaan elämän merkityksellisiä asioita. Ohjelman vieraat tarjoavat vertaistukea, näkökulmia ja maailmankuvia, jotka haastavat ajattelemaan syvemmin.
+          Kiintymyssuhdeteoriaa vuosikymmenet tutkineet psykiatri Jari Sinkkonen sekä dosentti Marjo Flykt kertovat, mitä meidän kannattaa tietää kiintymysuhteiden logiikasta, jos olemme kiiinnostuneet kehittämään tapaamme olla läheisissä suhteissamme.
       - title: Yksi on hyvää seuraa
         start_time: '2026-12-01T10:55:00+02:00'
         end_time: '2026-12-01T11:00:00+02:00'
@@ -118,11 +157,11 @@ data:
         description: |+
           Varilo: Riena (Värttinä).
 
-      - title: Aitiovieras
+      - title: 'Aitiovieras: Mari Kaasinen - laulaja, lauluntekijä, musiikkikasvattaja ja Värttinän sydän'
         start_time: '2026-12-01T13:35:00+02:00'
         end_time: '2026-12-01T14:00:00+02:00'
-        description: |2-
-           Lämminhenkistä keskustelua kulttuurista.
+        description: |-
+          Muusikko, säveltäjä, laulaja ja musiikkikasvattaja Mari Kaasinen on kiertänyt tunnetuimman yhtyeensä Värttinän kanssa maailmalla kymmenissä maissa. Mitä haaveita Kaasinen seuraavaksi haluaa taiteilijan urallaan toteuttaa? Mari Kaasinen on Miia Lahden vieraana.
       - title: "Musiikkiaitio: Doodlin'"
         start_time: '2026-12-01T14:00:00+02:00'
         end_time: '2026-12-01T15:00:00+02:00'

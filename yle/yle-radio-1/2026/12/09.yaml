@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-24T12:03:32.424639+00:00'
+  generated_at: '2026-11-25T10:55:48.725098+00:00'
   git:
     branch: main
-    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
-  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
+    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
+  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
 data:
   Yle Radio 1:
     programmes:
@@ -95,6 +95,19 @@ data:
       - title: Klassinen kattaus
         start_time: '2026-12-09T11:00:00+02:00'
         end_time: '2026-12-09T11:57:00+02:00'
+        description: |+
+          W.A. Mozart: Konserttiaaria "Alma grande e nobil core" (Suuri sielu ja jalo sydän) (Teresa Stich-Randall, sopraano, ja Ranskan radion oopperaork./Georges Prêtre). 
+
+          Beethoven: Rondino Es-duuri (Mozzafiato).
+
+          Klami: Terhenniemi, Kalevala-sarjasta (RSO/Mikko Franck).
+
+          Saint-Saëns: Sellokonsertto n:o 1 a-molli. (Paul Tortelier ja Philharmonia-ork./Herbert Menges).
+
+          Chopin: Scherzo n:o 2 b-molli (Arto Satukangas, piano).
+
+          Lalo: Rondo Espanjalaisesta sinfoniasta d-molli (Pinchas Zukerman, viulu, ja Los Angelesin FO/Zubin Mehta).
+
       - title: Päivän mietelause ja Turun tuomiokirkon kello lyö 12
         start_time: '2026-12-09T11:57:00+02:00'
         end_time: '2026-12-09T12:00:00+02:00'
@@ -179,8 +192,9 @@ data:
       - title: Iltahartaus
         start_time: '2026-12-09T18:50:00+02:00'
         end_time: '2026-12-09T19:00:00+02:00'
-        description: |-
-          Perheasiain neuvottelukeskuksen johtaja Anne Sumela, Ylivieska
+        description: |
+          "Joulun ihmeellinen yllätys"
+          Joulukuun keskiviikkoilloissa kohti joulua kuljettaa perheasiain neuvottelukeskuksen johtaja Anne Sumela Ylivieskasta. Tässä jaksossa hän kutsuu osallistumaan ensimmäisen joulun yllätykseen ja ihmetykseen.
       - title: Yle Uutiset ja sää
         start_time: '2026-12-09T19:00:00+02:00'
         end_time: '2026-12-09T19:02:00+02:00'

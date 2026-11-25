@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-24T12:03:29.037069+00:00'
+  generated_at: '2026-11-25T10:55:44.155893+00:00'
   git:
     branch: main
-    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
-  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
+    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
+  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
 data:
   Yle Radio 1:
     programmes:
@@ -52,7 +52,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-25T06:30:50+02:00'
         end_time: '2026-11-25T06:50:00+02:00'
-        description: |+
+        description: |-
           Koraalitoisinto: Oi Herra kaikkivaltias (virsi 460:1,3-4) (Vox Sonora/Rauno Myllylä, Tapio Tiitu, urut, ja Tuula Honkanen, huilu).
 
           Tuntematon (sov. Vintturi): Millainen on elämä? (virsi 598:1,3-5,7-8) (Susanna Hietala, laulu, ja Papas No Mamas/Juha Vintturi).
@@ -61,6 +61,7 @@ data:
 
           Rissanen: Aika tulee ja aika on jo (Veera Railio ja Säde Rissanen, laulu, Espoon srk:ien nuorten kuoro sekä Wirren Wiemää -yhtye).
 
+          Juontajana on Tuija Kurvinen.
       - title: Aamuhartaus
         start_time: '2026-11-25T06:50:00+02:00'
         end_time: '2026-11-25T06:59:59+02:00'
@@ -73,7 +74,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-25T07:06:00+02:00'
         end_time: '2026-11-25T08:00:00+02:00'
-        description: |+
+        description: |-
           J. Haydn: Divertimento G-duuri (Jean-Pierre Rampal ja Wolfgang Schulz, huilu, sekä Gilbert Audin, fagotti).  
 
           Anonyymi: Jacaras (Chatham Baroque). 
@@ -94,12 +95,36 @@ data:
 
           O. Merikanto: Valse brillante (RSO/Kari Tikka). 
 
+          Juontajana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T08:00:00+02:00'
         end_time: '2026-11-25T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-11-25T08:07:00+02:00'
         end_time: '2026-11-25T09:00:00+02:00'
+        description: |+
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Almeida: Raquel (Bau).
+
+          Kansanlaulu (Haiti): Fey-o (Leyla McCalla, laulu, sello ja yhtye). 
+
+          Andre Manoukian: Schubert in duende.
+
+          Malve: Koti (Kaisla Tuuli).
+
+          Schüler: Marrakesh swing (Triosence).
+
+          Myllymäki: Mietin tulevaa (Ne Lintuizet). 
+
+          Berghäll: The Blink (Tsuumi Sound System).
+
+          Resende: Pressagio (Salvador Sobral).
+
+          Leinonen: Late autumn bossa (Tjango!).
+
+          Yuri Buenaventura: La hamaca de la noche.
+
       - title: 'Yle Uutiset '
         start_time: '2026-11-25T09:00:00+02:00'
         end_time: '2026-11-25T09:03:00+02:00'
@@ -121,7 +146,7 @@ data:
           Drake: Northern sky (Nick Drake).
           Bruk: Soi maininki hiljainen (Yona ja Kyösti Mäkimattila).
 
-          Konsertin on laatinut Tuuli Saksala.
+          Konsertin on laatinut Tuuli Saksala. Juontajana on Tuija Kurvinen.
       - title: 'Havaintoja muutoksesta: Rakentavan vuorovaikutuksen poluilla'
         start_time: '2026-11-25T10:00:00+02:00'
         end_time: '2026-11-25T10:50:00+02:00'
@@ -149,7 +174,7 @@ data:
         start_time: '2026-11-25T11:57:00+02:00'
         end_time: '2026-11-25T12:00:00+02:00'
         description: |-
-          Juhani Siljon runo Selvään veteen.
+          Juhani Siljon runo Selvään veteen. Lukijana on Tuija Kurvinen.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T12:00:00+02:00'
         end_time: '2026-11-25T12:05:00+02:00'
@@ -160,9 +185,12 @@ data:
           Somalian sotilasdiktaattori Siad Barren valtakausi kesti yli kaksikymmentä piinaavaa vuotta vuosina 1969-1991. Barre räätälöi maalle uuden ideologian, jonka taustalla oli Koraanin opit, Marxin ajatukset ja Stalinin ajan henkinen ilmapiiri.
           Toimittaja Raimo Tyykiluodon kanssa Barren tarinaa kertaa uutispäällikkö Mikko Metsämäki.
           (Ohjelma on vuodelta 2021 ja se on kuunneltavissa 12 diktaattoria -sarjassa Yle Areenassa.)
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Kestääkö opposition vaihtoehto päivänvalon?'
         start_time: '2026-11-25T13:00:00+02:00'
         end_time: '2026-11-25T13:30:00+02:00'
+        description: |-
+          Opposition talousvaihtoehdoista on jo pöyristytty. Onko SDP:n ja keskustan vaihtoehto hallitukselle uskottava?
+          Opposition varjobudjetteja ovat ruotimassa Ville Valkonen kokoomuksesta, Joona Räsänen SDP:stä ja Markus Lohi keskustasta. Toimittajana on Antti Pilke. Suora lähetys.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-25T13:30:00+02:00'
         end_time: '2026-11-25T13:35:00+02:00'
@@ -215,7 +243,7 @@ data:
       - title: Faunin iltapäivä
         start_time: '2026-11-25T16:07:00+02:00'
         end_time: '2026-11-25T16:59:00+02:00'
-        description: |+
+        description: |-
           Sibelius: Rigaudon (Jaakko Kuusisto, viulu, ja Ilkka Paananen, piano).
 
           Kostiainen: Menninkäisen kuutamotanssit (Tiina Halme, sopraano, ja Campanella-kuoro/Aino Loppela).
@@ -226,7 +254,7 @@ data:
 
           Smyth: Menuetti D-duuri teoks. Neljä 4-äänistä tanssia pianolle (Liana Serbescu).
 
-          Holst: Venus, rauhan tuoja, sarj. Planeetat (Atlantan SO/Yoel Levi).
+          Holst: Venus, the bringer of peace (Venus, rauhan tuoja) sarj. The Planets (Planeetat) (Atlantan SO/Yoel Levi).
 
           Kuula: Scherzo (Arto Noras, sello, ja Tapani Valsta, piano).
 
@@ -236,10 +264,11 @@ data:
 
           Sainio: Empty street (Tyhjä katu) (Reetamaria Rajala, piano).
 
-          Dvorak (sov. Ben-Ari): Finaali jousikvartetosta nro 12 F-duuri (Amerikkalainen) (Avi Avital, mandoliini, Simone Bernardini, viulu, Amihai Grosz, alttoviulu, Zvi Plesser, sello, Klaus Stoll, kontrabasso, ja Ivano Battiston, harmonikka). 
+          Dvorak: Finaali jousikvartetosta n:o 12 F-duuri (Amerikkalainen) (Avi Avital, mandoliini, Simone Bernardini, viulu, Amihai Grosz, alttoviulu, Zvi Plesser, sello, Klaus Stoll, kontrabasso, ja Ivano Battiston, harmonikka). 
 
           Kähärä: Laulu perunoiden kiehuessa (How Many Sisters ja Tapiola Sinfonietta/Kirmo Lintinen).
 
+          Konsertin on toimittanut Noora Hirn.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T17:00:00+02:00'
         end_time: '2026-11-25T17:05:00+02:00'
@@ -253,11 +282,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-25T17:30:00+02:00'
         end_time: '2026-11-25T17:35:00+02:00'
-      - title: Jazzklubi
+      - title: 'Jazzklubi: Jussi Kannaste: "Me ollaan epätäydellisiä mestariteoksia, eikä me ikinä päästä perille. Sehän on huikea juttu myös musiikissa, että aina voi kehittyä"'
         start_time: '2026-11-25T17:35:00+02:00'
         end_time: '2026-11-25T18:35:00+02:00'
         description: |-
-          Vieraana saksofonisti, säveltäjä ja Taideyliopiston Sibelius-Akatemian jazzin koulutusohjelman johtaja Jussi Kannaste. Toimittajina Laura Korhonen ja Eero Koski.
+          Vieraana on saksofonisti, säveltäjä ja Taideyliopiston Sibelius-Akatemian jazzin koulutusohjelman johtaja Jussi Kannaste. Toimittajina Laura Korhonen ja Eero Koski.
       - title: Hartaita säveliä
         start_time: '2026-11-25T18:35:00+02:00'
         end_time: '2026-11-25T18:50:00+02:00'
@@ -278,7 +307,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-25T19:00:00+02:00'
         end_time: '2026-11-25T19:02:00+02:00'
-      - title: Euroradion konsertti-ilta
+      - title: 'Euroradion konsertti-ilta: Kansainvälisen säveltäjärostrumin 2026 satoa'
         start_time: '2026-11-25T19:02:00+02:00'
         end_time: '2026-11-25T20:36:00+02:00'
         description: |
@@ -291,9 +320,12 @@ data:
       - title: 'Politiikkaradio '
         start_time: '2026-11-25T21:00:00+02:00'
         end_time: '2026-11-25T21:30:00+02:00'
-      - title: Havaintoja muutoksesta
+      - title: 'Havaintoja muutoksesta: Rakentavan vuorovaikutuksen poluilla'
         start_time: '2026-11-25T21:31:00+02:00'
         end_time: '2026-11-25T22:20:00+02:00'
+        description: |
+          Tunneäly ja tunnetaidot edistävät rakentavaa vuorovaikutusta. Voiko kuka tahansa oppia rakentavaa vuorovaikutusta? Millainen merkitys vuorovaikutuksen laadulla on? 
+          Toimittaja Satu Kivelä etsii vastauksia yhdessä kasvatustieteen tohtori Jouni Veijalaisen ja kansainvälisesti sertifikoidun NVC-kouluttajan Hanna Savannan kanssa.
       - title: "Sanna Marin - miljoonat seuraa: Koston kierre\t"
         start_time: '2026-11-25T22:21:00+02:00'
         end_time: '2026-11-25T22:50:00+02:00'

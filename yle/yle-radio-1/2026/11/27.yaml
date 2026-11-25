@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-24T12:03:29.636698+00:00'
+  generated_at: '2026-11-25T10:55:45.025070+00:00'
   git:
     branch: main
-    commit: 1b7dc6a5c3ea1539e2ad855272b53d415512c203
-  data_hash: 72db897a4e4cfd519865482611d4c59a1cca6ea0056f20e04c635e33fb5bce81
+    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
+  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
 data:
   Yle Radio 1:
     programmes:
@@ -67,7 +67,8 @@ data:
         start_time: '2026-11-27T06:50:00+02:00'
         end_time: '2026-11-27T06:59:59+02:00'
         description: |-
-          Pappi, kirkkotila-asiantuntija Mika K T Pajunen, Sastamala
+          "Me rukoilemme sinua, Herra"
+          Pappi, kirkkotila-asiantuntija Mika K T Pajunen Sastamalasta johdattaa perjantaiaamun rukoushetkeen. Hartaudessa luetaan Malakian kirjan luvusta 3 ja Johanneksen evankeliumin luvusta 5. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T07:00:00+02:00'
         end_time: '2026-11-27T07:05:00+02:00'
@@ -144,11 +145,17 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T12:00:00+02:00'
         end_time: '2026-11-27T12:05:00+02:00'
-      - title: Tiedeykkönen
+      - title: 'Tiedeykkönen: Yhteiskuntaluokka ja maku ovat aina kulkeneet käsi kädessä. Muuttavatko algoritmit tämän?'
         start_time: '2026-11-27T12:05:00+02:00'
         end_time: '2026-11-27T12:55:00+02:00'
-        description: |-
-          Ajankohtainen tiedeohjelma tutkii aikamme ilmiöitä tieteen näkökulmasta ja lisää ymmärrystä itsestämme ja maailmasta.
+        description: |
+          Sosiologit ovat pitkään tienneet, että maun ja yhteiskuntaluokan välillä vallitsee yhteys. Perinteisesti korkeamman yhteiskunnallisen statuksen omaat ihmisryhmät ovat määritelleet “hyvää makua” ja alempien yhteiskuntaluokkien mieltymykset on mielletty matala- tai roskakulttuuriksi. 
+
+          Perinteisesti “hyvän maun” portinvartijoina on pidetty esimerkiksi opettajia, kirjastonhoitajia ja kriitikoita. Nyt näiden portinvartijoiden rinnalle ovat tulleet alustojen suosittelualgoritmit, joiden pyrkimyksenä on palvella digijättien liiketoimintamallia. Muuttaako tämä jollain tapaa sosiologian klassikkoteorioita yhteiskuntaluokan ja maun välisestä yhteydestä?
+
+          Tiedeykkösen haastateltavana on lukemista ja suomalaisten makua tutkinut sosiologian dosentti Riie Heikkilä. Viime aikoina Heikkilä on tutkinut kirjastojen algorititmipohjaista kokoelmanhallintaa, sekä alustajättien vaikutusta käyttäjien maun muotoutumiseen.
+
+          Jaksoa varten toimittaja Juuso Pekkinen lähestyi myös Spotifyita, Youtubea ja Netflixiä.
       - title: Politiikkaradio
         start_time: '2026-11-27T13:00:00+02:00'
         end_time: '2026-11-27T13:30:00+02:00'
