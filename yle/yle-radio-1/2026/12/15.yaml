@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-25T10:55:50.127205+00:00'
+  generated_at: '2026-11-26T10:30:45.681984+00:00'
   git:
     branch: main
-    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
-  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
+    commit: b2c00f877057fea958cc1b2b8eaabbc131796ae9
+  data_hash: 7fc0990116ba4b6daef04674b9fc948d072f0e0640e36c5050492dfc8a0dd740
 data:
   Yle Radio 1:
     programmes:
@@ -19,7 +19,8 @@ data:
         start_time: '2026-12-15T06:50:00+02:00'
         end_time: '2026-12-15T06:59:59+02:00'
         description: |-
-          Tässä olen -joulukalenteri: Pekka Y. Hiltunen
+          "Tässä olen -joulukalenteri: 10 päivää jouluun"
+          Tässä olen -joulukalenterissa uskontodialogin asiantuntija Pekka Y. Hiltunen puhuu oman kaipauksen tunnistamisesta ja joulusta sydämen iloisena juhlana.
       - title: Yle Uutiset ja sää
         start_time: '2026-12-15T07:00:00+02:00'
         end_time: '2026-12-15T07:05:00+02:00'

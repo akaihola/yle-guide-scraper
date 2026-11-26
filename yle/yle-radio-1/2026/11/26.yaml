@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-25T10:55:44.548863+00:00'
+  generated_at: '2026-11-26T10:30:41.342820+00:00'
   git:
     branch: main
-    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
-  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
+    commit: b2c00f877057fea958cc1b2b8eaabbc131796ae9
+  data_hash: 7fc0990116ba4b6daef04674b9fc948d072f0e0640e36c5050492dfc8a0dd740
 data:
   Yle Radio 1:
     programmes:
@@ -50,7 +50,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-26T06:30:50+02:00'
         end_time: '2026-11-26T06:50:00+02:00'
-        description: |+
+        description: |-
           Neumark: Sinussa, Kristus, luotiin kerran (virsi 479) (Lilli Paasikivi, mezzosopraano, ja Sirkka-Liisa Jussila-Gripentrog, urut).
 
           Tuntematon: Vihan päivä kauhistava! (virsi 158) (Psallamus/Ilmo Riihimäki, ja Juhani Haapasalo, urut).
@@ -59,6 +59,7 @@ data:
 
           Koraalitoisinto: Kiitos olkoon Jumalalle (Katariina Airas).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Aamuhartaus
         start_time: '2026-11-26T06:50:00+02:00'
         end_time: '2026-11-26T06:59:59+02:00'
@@ -71,7 +72,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-26T07:06:00+02:00'
         end_time: '2026-11-26T08:00:00+02:00'
-        description: |+
+        description: |-
           Wagner (sov. Tarrega): Pyhiinvaeltajien kuoro oopp. Tannhäuser (Timo Korhonen, kitara).
 
           Stradella: Sinfonia D-duuri (Wynton Marsalis, trumpetti, ja St. Luken ork./John Nelson).
@@ -92,12 +93,37 @@ data:
 
           Catoire: Intermezzo B-duuri (Marc-André Hamelin, piano).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-26T08:00:00+02:00'
         end_time: '2026-11-26T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-11-26T08:07:00+02:00'
         end_time: '2026-11-26T09:00:00+02:00'
+        description: |+
+          Juontajana Paula Jokimies. Ohjelmassa soineet kappaleet:
+
+          Leguidcoq: Alors? Voila! (Tchavolo Schmitt).
+
+          Dorsey: Singing in my soul (Lizz Wright).
+
+          Madredeus: O Pastor (Madredeus).
+
+          Heinonen: Paetaan (Emma Salokoski Ensemble).
+
+          Malmivaara: Isfabriken (Polenta).
+
+          Laaksonen: Tuulella käyvä (radio edit) (Riikka).
+
+          The Mystic Revelation of Teppo Repo: Valssi Rovaniemeltä.
+
+
+          Flores, Ponce: Del cielo te cuido (The Altons).
+
+          Turunen: Shades of leaving (Emil Brandqvist Trio).
+
+          Marcos Valle: Nova bossa nova.
+
       - title: 'Yle Uutiset '
         start_time: '2026-11-26T09:00:00+02:00'
         end_time: '2026-11-26T09:03:00+02:00'
@@ -122,14 +148,14 @@ data:
           Bricusse: Tienristeyksessä (Kristina Hautala). 
           Bernstein: Somewhere (Tom Waits).
 
-          Konsertin on toimittanut Susanna Vainiola.
+          Konsertin on toimittanut Susanna Vainiola. Juontajana on Tuomas Niemelä. 
       - title: 'Marko Gustafsson: Käännekohdissa Helena Juntunen'
         start_time: '2026-11-26T10:00:00+02:00'
-        end_time: '2026-11-26T10:53:00+02:00'
+        end_time: '2026-11-26T10:51:00+02:00'
         description: |-
           Oopperalaulaja Helena Juntunen tunnustautuu kirjallisuuden suurkuluttajaksi, mutta silti oman kirjan kirjoittaminen syvensi hänen suhdettaan kirjoihin. Hän huomasi oman kirjoitusprosessin myötä  ajattelevansa vielä syvemmin kaikkia lukemiaansa tekstejä ja samalla myös elämää ylipäätään.
       - title: Yksi on hyvää seuraa
-        start_time: '2026-11-26T10:53:00+02:00'
+        start_time: '2026-11-26T10:51:00+02:00'
         end_time: '2026-11-26T11:00:00+02:00'
       - title: 'Epäilyttävän uutta - Aki Yli-Salomäki: Etäisyyksien välissä'
         start_time: '2026-11-26T11:00:00+02:00'
@@ -140,7 +166,7 @@ data:
         start_time: '2026-11-26T11:57:00+02:00'
         end_time: '2026-11-26T12:00:00+02:00'
         description: |-
-          Ote Juhani Siljon runosta Suksiretki.
+          Ote Juhani Siljon runosta Suksiretki. Lukijana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-26T12:00:00+02:00'
         end_time: '2026-11-26T12:05:00+02:00'
@@ -153,9 +179,11 @@ data:
           Elokuva ei avaa päähenkilönsä Hirayaman taustaa, mutta syntyy vaikutelma siitä, että hän on jättänyt toisen hyvin erilaisen elämän taakseen, elääkseen nykyistä seesteistä elämäänsä. Tämän kautta päästään japanilaiseen filosofiaan; minän muodostumisen kysymykseen ja tyhjän minän käsitteeseen.
 
           Marja Vehkanen lähestyy elokuvan maailmaa yhdessä hiljattain väitelleen filosofi Anttoni Kuuselan kanssa, joka on perehtynyt japanilaiseen filosofiaan.
-      - title: Politiikkaradio
+      - title: 'Politiikkaradio: Pääsevätkö EU-maat sopuun budjetista ja Ukraina-tuesta?'
         start_time: '2026-11-26T13:00:00+02:00'
         end_time: '2026-11-26T13:30:00+02:00'
+        description: |
+          Uhka vallan vaihtumisesta Ranskassa ajoi EU-maat ylimääräiseen huippukokoukseen ratkomaan sekä budjettiumpisolmua että Ukrainassa ammottavaa budjettivajetta. Molemmissa kiistoissa pitäisi päästä ratkaisuun ennen kuin valta Ranskassa vaihtuu – uhkana on gallupeja johtava Marine Le Pen Ukraina- ja EU-vihamielisillä linjoillaan. Syntyvätkö päätökset EU:n tulevasta budjetista ja Ukraina-tuesta riittävän ajoissa? Strasbourgin radiostudiossa aiheesta keskustelevat europarlamentaarikot Eero Heinäluoma (sd. / s&d), Anna-Maja Henriksson (r. / re) ja Sirpa Pietikäinen (kok. / epp). Toimittajana on Tapio Pajunen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-26T13:30:00+02:00'
         end_time: '2026-11-26T13:35:00+02:00'
@@ -254,7 +282,8 @@ data:
         start_time: '2026-11-26T17:05:00+02:00'
         end_time: '2026-11-26T17:30:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Claude tekoälyn luonut amerikkalaisyhtiö Anthropic listautui pörssiin kaikkien aikojen suurimmalla hinnalla viime viikolla. Miksi teköälyfirman listautuminen on merkittivää? Onko se jotenkin vastuullisempi kuin muut tekoäly-yhtiöt, kuten se itse väittää. 
+          Reetta Röngän haastateltavana on Ylen teknologiatoimittaja Teemu Hallamaa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-26T17:30:00+02:00'
         end_time: '2026-11-26T17:35:00+02:00'

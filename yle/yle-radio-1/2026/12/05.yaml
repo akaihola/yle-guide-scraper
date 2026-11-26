@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-25T10:55:47.562137+00:00'
+  generated_at: '2026-11-26T10:30:43.518507+00:00'
   git:
     branch: main
-    commit: 74ddead51c2ae2c10ac206cb8f57cd3985ead6a0
-  data_hash: 5524ea39dea368a5d6aabc8ee072f4d0d23c52cae80ef2c997bf8a1975cf2da4
+    commit: b2c00f877057fea958cc1b2b8eaabbc131796ae9
+  data_hash: 7fc0990116ba4b6daef04674b9fc948d072f0e0640e36c5050492dfc8a0dd740
 data:
   Yle Radio 1:
     programmes:
@@ -34,9 +34,11 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-12-05T08:35:00+02:00'
         end_time: '2026-12-05T08:40:00+02:00'
-      - title: Maailman tärkein pieni asia
+      - title: 'Maailman tärkein pieni asia: kitarakeräilijä Henry Lehto'
         start_time: '2026-12-05T08:40:00+02:00'
         end_time: '2026-12-05T09:00:00+02:00'
+        description: |-
+          Kauniista kitarasta tulee hyvä mieli, sanoo kitarakeräilijä Henry Lehto. Toimittajana Maija Salminen. 
       - title: 'Yle Uutiset '
         start_time: '2026-12-05T09:00:00+02:00'
         end_time: '2026-12-05T09:03:00+02:00'
@@ -80,9 +82,12 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-12-05T12:00:00+02:00'
         end_time: '2026-12-05T12:05:00+02:00'
-      - title: Maailma tarinoina
+      - title: 'Maailma tarinoina: Piin elämä - kolme uskontoa ja vaihtoehtoiset totuudet'
         start_time: '2026-12-05T12:05:00+02:00'
         end_time: '2026-12-05T13:00:00+02:00'
+        description: |-
+          Yann Martelin menestysromaani vuodelta 2001 asettuu osaksi selviytymistarinoiden ja merikertomusten jatkumoa – kääntäen niiden logiikan ympäri. Romaani päätyi vuonna 2012 Ang Leen ohjaamana sovituksena valkokankaalle visuaaliseksi ilotulitukseksi. Tarina johdattelee Piin hahmon kautta moniuskontoiseen Intiaan ja tulee avanneeksi erityisesti hindulaisuuden ja kristinuskon ydintä. Sen kautta päästään filosofisiin pohdintoihin ihmisen ja eläimen suhteesta, teodikean ongelmaan sekä tarinan lumoihin ja vaaroihin. 
+          Marja Vehkasen vieraina elokuvan keskeistä asetelmaa, ihmisen ja tiikerin selviytymiskamppailua ja keskinäistä suhdetta, peilaavat kirjalliseen ja teologiseen perinteeseen yleisen kirjallisuustieteen dosentti Teemu Ikonen ja uskonnontutkija, dogmatiikan dosentti Jyri Komulainen.
       - title: Näistä levyistä en luovu
         start_time: '2026-12-05T13:00:00+02:00'
         end_time: '2026-12-05T13:55:00+02:00'
@@ -202,11 +207,11 @@ data:
           Pekka Kyrö kertoo radiokuunnelman kehitysvaiheista ja käännekohdista. Tekninen toteutus Tiina Luoma. 
           Tässä osassa kerrotaan loogisen radiotarinan hylkäämisestä.
           Ohjelma on vuodelta 2010.
-      - title: Keinuva talo - Mika Kauhanen
+      - title: 'Keinuva talo - Mika Kauhanen: Lännen nopeimmat naiset'
         start_time: '2026-12-05T22:40:00+02:00'
         end_time: '2026-12-05T23:39:30+02:00'
         description: |
-          Maailmassa julkaistaan niin paljon musiikkia, että tarvitsemme suodattimia. Keinuvan talon tuntosarvina, ukkosenjohdattimena ja kalaverkkona toimii korttelin oma etnomusikologi Mika Kauhanen. Balkanin rytmeistä Välimeren tunnelmiin, kaihoisista lauluista huimimpaan pelimannisvengiin. Transglobal World Music Chartin jäsen lupaa tuoreita musiikkivalintoja ja kiinnostavia haastatteluvieraita nykykansanmusiikin ja maailmanmusiikin vaiheilta.
+          Lännen nopeimmat naiset kannattaa kutsua hätiin, jos tulee tiukka paikka saluunan pokeripöydässä. Nämä leidit vetäisivät vikkelimmin esiin banjonsa, mandoliininsa ja viulunsa. Abigail Washburnin syntymäpäivien innoittamana kutsumme kylään bluegrass-musiikin virtuoosit. Vauhtivetojen lisäksi mukana myös koskettavia lauluja ja paikallista hunajaa. Toimittajana Mika Kauhanen. Uusinta marraskuulta 2025.
       - title: Yöklassinen
         start_time: '2026-12-05T23:40:00+02:00'
         end_time: '2026-12-06T07:00:00+02:00'
