@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-26T10:30:41.679309+00:00'
+  generated_at: '2026-11-27T10:35:01.791665+00:00'
   git:
     branch: main
-    commit: b2c00f877057fea958cc1b2b8eaabbc131796ae9
-  data_hash: 7fc0990116ba4b6daef04674b9fc948d072f0e0640e36c5050492dfc8a0dd740
+    commit: ca0df9abdb25c64b857195497c32463c00e4ae12
+  data_hash: 385baa3330f13cc443c623025701d6312a5d71ae3ccea173d16a163f22ef4f58
 data:
   Yle Radio 1:
     programmes:
@@ -52,7 +52,7 @@ data:
       - title: Hartaita säveliä
         start_time: '2026-11-27T06:30:50+02:00'
         end_time: '2026-11-27T06:50:00+02:00'
-        description: |+
+        description: |-
           Kuusisto: Suomalainen rukous (virsi 584:1,3) (Jorma Hynninen, baritoni, ja Kari Jerkku, urut).
 
           Simojoki: Sinun vain on valtakunta (Lauluyhtye Caritas).
@@ -63,6 +63,7 @@ data:
 
           Simojoki: Uskon alkaja (EtCetera-kuoro/Pekka Simojoki, laulu, sekä yhtye).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Aamuhartaus
         start_time: '2026-11-27T06:50:00+02:00'
         end_time: '2026-11-27T06:59:59+02:00'
@@ -75,7 +76,7 @@ data:
       - title: Aamusoitto
         start_time: '2026-11-27T07:06:00+02:00'
         end_time: '2026-11-27T08:00:00+02:00'
-        description: |+
+        description: |-
           Maxwell Davies: Farewell to Stromness revyystä The Yellow Cake Revue (Alison Balsom, trumpetti, ja Tom Poster, piano).
 
           Musorgski: Ompelijatar (Liisa Pohjola, piano).
@@ -88,18 +89,44 @@ data:
 
           M. Haydn: Adagio nokturnista F-duuri (Orpheus-kamariork.). 
 
-          Fauré: Nokturno nro 3 As-duuri (Stéphane Lemelin, piano).
+          Fauré: Nokturno n:o 3 As-duuri (Stéphane Lemelin, piano).
 
           Flotow - Offenbach: Au bord de la mer (Meren rannalla) sarj. Six chants du soir (Estera Rajnicka, sello, ja Carl Petersson, piano).
 
           Bizet (sov. Canizares): Habanera oopp. Carmen (Rafael Canizares, kitara).
 
+          Juontajana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T08:00:00+02:00'
         end_time: '2026-11-27T08:07:00+02:00'
       - title: Radio 1:n aamu
         start_time: '2026-11-27T08:07:00+02:00'
         end_time: '2026-11-27T09:00:00+02:00'
+        description: |
+          Carla Pires: Tudo o que nao ha
+
+          Sergio Cammariere: Transamericana.
+
+          Saarenkylä: Island village (Viivi Maria Saarenkylä). 
+
+          Payes: Nunca vas a comprender (Rita Payes & Elisabeth Roma).
+
+          John McGregor: Seikkailemaan (Artistin versio).
+
+          Sippola: Take off (Olli Sippola Experiment).
+
+          Talvitie: Talven tiellä (Vilma Talvitie, laulu, ja yhtye). 
+
+          Felix Rösch: What remains (feat. Mondena Quartet)
+
+          Gerardo Nunez: Sahara.
+
+
+          : Franco Battiato, Carlo Guaitoli
+          : La stagione dell'amore
+          : Alice
+
+          Juontajana Jalmari Laine.
       - title: 'Yle Uutiset '
         start_time: '2026-11-27T09:00:00+02:00'
         end_time: '2026-11-27T09:03:00+02:00'
@@ -120,7 +147,7 @@ data:
           Russell/James/Pepper: Vaya con Dios, min älskling (Raya Avellan ja Yngve Stoor).
           Desmond: Wintersong (Gerry Mulligan - Paul Desmond Quartet).
 
-          Konsertin on laatinut Pekka Laine.
+          Konsertin on laatinut Pekka Laine. Juontajana on Tuomas Niemelä. 
       - title: 'Kalle Haatanen: Venäjän tiedustelupalveluiden historia'
         start_time: '2026-11-27T10:00:00+02:00'
         end_time: '2026-11-27T10:55:00+02:00'
@@ -141,31 +168,37 @@ data:
         start_time: '2026-11-27T11:57:00+02:00'
         end_time: '2026-11-27T12:00:00+02:00'
         description: |-
-          Juhani Siljon aforismeja.
+          Juhani Siljon aforismeja. Lukijana on Tuomas Niemelä. 
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T12:00:00+02:00'
         end_time: '2026-11-27T12:05:00+02:00'
       - title: 'Tiedeykkönen: Yhteiskuntaluokka ja maku ovat aina kulkeneet käsi kädessä. Muuttavatko algoritmit tämän?'
         start_time: '2026-11-27T12:05:00+02:00'
         end_time: '2026-11-27T12:55:00+02:00'
-        description: |
-          Sosiologit ovat pitkään tienneet, että maun ja yhteiskuntaluokan välillä vallitsee yhteys. Perinteisesti korkeamman yhteiskunnallisen statuksen omaat ihmisryhmät ovat määritelleet “hyvää makua” ja alempien yhteiskuntaluokkien mieltymykset on mielletty matala- tai roskakulttuuriksi. 
+        description: |-
+          Sosiologit ovat pitkään tienneet, että maun ja yhteiskuntaluokan välillä vallitsee yhteys. Perinteisesti korkeamman yhteiskunnallisen statuksen ihmisryhmät ovat määritelleet hyvää makua ja alempien yhteiskuntaluokkien mieltymykset on mielletty matala- tai roskakulttuuriksi. 
 
-          Perinteisesti “hyvän maun” portinvartijoina on pidetty esimerkiksi opettajia, kirjastonhoitajia ja kriitikoita. Nyt näiden portinvartijoiden rinnalle ovat tulleet alustojen suosittelualgoritmit, joiden pyrkimyksenä on palvella digijättien liiketoimintamallia. Muuttaako tämä jollain tapaa sosiologian klassikkoteorioita yhteiskuntaluokan ja maun välisestä yhteydestä?
+          Perinteisesti hyvän maun portinvartijoina on pidetty esimerkiksi opettajia, kirjastonhoitajia ja kriitikoita. Nyt näiden portinvartijoiden rinnalle ovat tulleet alustojen suosittelualgoritmit, joiden pyrkimyksenä on palvella digijättien liiketoimintamallia. Muuttaako tämä jollain tapaa sosiologian klassikkoteorioita yhteiskuntaluokan ja maun välisestä yhteydestä?
 
-          Tiedeykkösen haastateltavana on lukemista ja suomalaisten makua tutkinut sosiologian dosentti Riie Heikkilä. Viime aikoina Heikkilä on tutkinut kirjastojen algorititmipohjaista kokoelmanhallintaa, sekä alustajättien vaikutusta käyttäjien maun muotoutumiseen.
+          Tiedeykkösen haastateltavana on lukemista ja suomalaisten makua tutkinut sosiologian dosentti Riie Heikkilä. Viime aikoina Heikkilä on tutkinut kirjastojen algoritmipohjaista kokoelmanhallintaa, sekä alustajättien vaikutusta käyttäjien maun muotoutumiseen.
 
           Jaksoa varten toimittaja Juuso Pekkinen lähestyi myös Spotifyita, Youtubea ja Netflixiä.
-      - title: Politiikkaradio
+
+          Toimittaja: Juuso Pekkinen
+          Haastateltava: Riie Heikkilä (Tampereen yliopisto)
+          Äänisuunnittelija: Jukka Herva
+      - title: 'Politiikkaradio: Antaako Kiinan visio rauhasta Venäjälle vapaat kädet Ukrainassa?'
         start_time: '2026-11-27T13:00:00+02:00'
         end_time: '2026-11-27T13:30:00+02:00'
+        description: |
+          Kiinan strateginen visio valtioiden välisen järjestyksen ydinperiaatteista puhuttaa Kiinan, Venäjän ja Yhdysvaltain huipputapaamisen jäljiltä. Mitä Kiinan maailmoja syleilevät puheet rauhasta tarkoittavat valtioiden itsemääräämisoikeuden kannalta? Onko Kiinan visio rauhasta antamassa Venäjälle vapaat kädet Ukrainassa? Kiinan strategista ajattelua analysoivat Itä-Aasian tutkimuksen professori Lauri Paltemaa Turun yliopistosta sekä strategian apulaisprofessori Matti Puranen Maanpuolustuskorkeakoulusta. Toimittajana on Tapio Pajunen.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-27T13:30:00+02:00'
         end_time: '2026-11-27T13:35:00+02:00'
         description: |+
           Aznavour: Eilen kun mä tiennyt en (Aili Ikonen ja Jukka Perko).
 
-      - title: Kirjallisuuden Finlandia-voittajan haastattelu
+      - title: 'Kirjani tarina: Finlandia-voittaja Dess Terentjeva kirjoitti rohkean Venäjä-romaanin'
         start_time: '2026-11-27T13:35:00+02:00'
         end_time: '2026-11-27T14:00:00+02:00'
         description: |-
@@ -238,11 +271,11 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T17:00:00+02:00'
         end_time: '2026-11-27T17:05:00+02:00'
-      - title: Uutispodcast
+      - title: 'Uutispodcast: Iida Tikka & Mureneva maa 6/6 New Yorkin syntisin kuvitelma'
         start_time: '2026-11-27T17:05:00+02:00'
         end_time: '2026-11-27T17:30:00+02:00'
         description: |-
-          Otsikoiden takana joka arkipäivä.
+          Iida lähtee etsimään amerikkalaisen mielikuvituksen rajoja Zohran Mamdanin New Yorkista. Kuvitelma siitä, millainen Yhdysvallat voisi olla, on yllättävän lähellä suomalaisten historiaa.
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-27T17:30:00+02:00'
         end_time: '2026-11-27T17:35:00+02:00'
@@ -272,7 +305,7 @@ data:
       - title: Yle Uutiset ja sää
         start_time: '2026-11-27T19:00:00+02:00'
         end_time: '2026-11-27T19:02:00+02:00'
-      - title: Radion sinfoniaorkesterin konsertti
+      - title: 'Radion sinfoniaorkesterin konsertti: RSO & Steffens & Andsnes'
         start_time: '2026-11-27T19:02:00+02:00'
         end_time: '2026-11-27T21:20:00+02:00'
         description: |-

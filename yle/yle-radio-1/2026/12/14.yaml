@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-26T10:30:45.503682+00:00'
+  generated_at: '2026-11-27T10:35:06.588445+00:00'
   git:
     branch: main
-    commit: b2c00f877057fea958cc1b2b8eaabbc131796ae9
-  data_hash: 7fc0990116ba4b6daef04674b9fc948d072f0e0640e36c5050492dfc8a0dd740
+    commit: ca0df9abdb25c64b857195497c32463c00e4ae12
+  data_hash: 385baa3330f13cc443c623025701d6312a5d71ae3ccea173d16a163f22ef4f58
 data:
   Yle Radio 1:
     programmes:
@@ -27,6 +27,29 @@ data:
       - title: Aamusoitto
         start_time: '2026-12-14T07:06:00+02:00'
         end_time: '2026-12-14T08:00:00+02:00'
+        description: |+
+          Tshaikovski: Makeishaltijattaren tanssi bal. Pähkinänsärkijä (Chicagon SO/Fritz Reiner).
+
+          Rebikov: Valssi näyt. Joulupuu (Eteri Andzhaparidze, piano).
+
+          Delius: Winter night (Northern Sinfonia/Richard Hickox). 
+
+          Wunderer: Waldruhe (Metsänrauha) (Detmolder Hornquartett).
+
+          Chaminade: Le noël des oiseaux (Anne Sofie von Otter, mezzosopraano, ja Bengt Forsberg, piano). 
+
+          Beethoven: Rondo sonaatista n:o 9 E-duuri (Paavali Jumppanen, piano).
+
+          Vivaldi: Allegro non molto kons. L'inverno (Talvi) (Kreeta-Maria Kentala, viulu, ja Barocco Boreale).
+
+          Saint-Saëns: Romanssi F-duuri (Misha Maisky, sello, ja Orpheus-kamariork.).
+
+          Makaroff: Ketun joululaulu (KYN/Kaija Viitasalo).
+
+          Héritte-Viardot: Divertimento kvartetosta D-duuri (Espanjalainen kvartetto) (Ensemble Viardot).
+
+          de Lalande: Joulusinfonia (Les Violons du Roy/Bernard Labadie).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-12-14T08:00:00+02:00'
         end_time: '2026-12-14T08:07:00+02:00'
@@ -39,6 +62,21 @@ data:
       - title: Muistojen bulevardi
         start_time: '2026-12-14T09:04:00+02:00'
         end_time: '2026-12-14T09:59:00+02:00'
+        description: |
+          Arlen: Get happy (Judy Garland).
+          Lipponen: Minun mummoni (Muksut).
+          Ebel: Leise rieselt der Schnee (Freddy Quinn).
+          Barroso: Para machuchar meu coracao (Joao Gilberto ja Stan Getz).
+          Berger: Ella, elle l'a (France Gall).
+          Gershwin: How long has this been going on (Ella Fitzgerald).
+          Styne: Va na nevar (Luis Miguel).
+          A. Nevins/ M. Nevins: Kun hämärtää (Erkki Liikanen).
+          Rainger: Easy living (Monica Zetterlund). 
+          Köie: Nisse-polkka (Jorma Ikävalko).
+          Anderson: Sleigh ride (Diana Krall).
+          Halonen: Sydämeeni joulun teen (Vesa-Matti Loiri).
+
+          Konsertin on toimittanut Kai Ulmanen.
       - title: Virtasen taloushistoria
         start_time: '2026-12-14T10:00:00+02:00'
         end_time: '2026-12-14T10:55:00+02:00'
