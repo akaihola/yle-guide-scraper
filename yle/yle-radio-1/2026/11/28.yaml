@@ -1,9 +1,9 @@
 metadata:
-  generated_at: '2026-11-27T10:35:02.064446+00:00'
+  generated_at: '2026-11-28T09:52:15.758222+00:00'
   git:
     branch: main
-    commit: ca0df9abdb25c64b857195497c32463c00e4ae12
-  data_hash: 385baa3330f13cc443c623025701d6312a5d71ae3ccea173d16a163f22ef4f58
+    commit: b597165af57cfa83987d528ca382e78a83158e7c
+  data_hash: 0f7265d71a30a7b75ea7bd5f52486f9ac5bd4ea5367a648c2265a70adcde27c6
 data:
   Yle Radio 1:
     programmes:
@@ -44,6 +44,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-28T07:53:45+02:00'
         end_time: '2026-11-28T08:00:00+02:00'
+        description: |+
+          Rubinstein: Sävelmä F-duuri (Zora Mihailovich, piano).
+
       - title: Yle Uutiset ja sää
         start_time: '2026-11-28T08:00:00+02:00'
         end_time: '2026-11-28T08:05:00+02:00'
@@ -70,6 +73,9 @@ data:
       - title: Yksi on hyvää seuraa
         start_time: '2026-11-28T08:35:00+02:00'
         end_time: '2026-11-28T08:40:00+02:00'
+        description: |+
+          Lully: Turkkilainen marssi balettikomediasta Porvari aatelismiehenä (Le Concert des Nations/Jordi Savall). 
+
       - title: 'Maailman tärkein pieni asia: Irlanti-fani Jouni Koutonen'
         start_time: '2026-11-28T08:40:00+02:00'
         end_time: '2026-11-28T09:00:00+02:00'
@@ -102,6 +108,20 @@ data:
       - title: Maailmanpolitiikan arkipäivää
         start_time: '2026-11-28T10:00:00+02:00'
         end_time: '2026-11-28T10:25:00+02:00'
+        description: |-
+          Euroopan unioni pyrkii patoamaan luvattomia rajanylityksiä Välimereltä. 
+
+          Maailmanpolitiikan arkipäivää -ohjelmassa tavataan EU:n rajanviraston Frontexin operaatioon osallistuvia suomalaisia Välimerellä Sardinian saarella, jonne on viime aikoina saapunut aiempaa enemmän Eurooppaan pyrkiviä ihmisiä. 
+
+          Saapumiset Välimeren kautta ovat ylipäätään vähentyneet, kun EU on tehnyt Pohjois-Afrikan maiden kanssa sopimuksia meren yli pyrkivien siirtolaisten ja turvapaikanhakijoiden pysäyttämisestä. Sopimuksissa on riskinä, että EU altistaa itsensä itsevaltaisten hallintojen kiristykselle.
+
+          Toisaalta Eurooppaan pyrkiviä ihmisiä on viime aikoina suunnannut Välimertakin vaarallisemmalle reitille Länsi-Afrikasta Espanjan Kanariansaarille. Marraskuussa saarille on tullut yli 16 000 ihmistä. 
+
+          Ohjelmassa myös pohditaan, millaisia odottamattomia seurauksia Euroopan tiukkenevalla rajapolitiikalla voi olla.
+
+          Ohjelman ovat toimittaneet Jenna Vehviläinen ja Heikki Heiskanen. Äänitarkkailijana on Pasi Ilkka.
+
+          Tunnusmusiikki: Petri Alanko, kuva: Tuuli Laukkanen/Yle.
       - title: 'Uusiutuva tiede: Paleontologia 2/2 – Megalosauruksesta nanotyrannukseen'
         start_time: '2026-11-28T10:25:00+02:00'
         end_time: '2026-11-28T10:55:00+02:00'
@@ -150,11 +170,11 @@ data:
         end_time: '2026-11-28T14:55:00+02:00'
         description: |-
           Filosofista keskustelua totuudesta, kauneudesta, hyvästä ja pahasta.
-      - title: Ykköskolumni
+      - title: 'Ykköskolumni: Hyökkäystä Suomea vastaan ei aloiteta maan rajoilta'
         start_time: '2026-11-28T14:55:00+02:00'
         end_time: '2026-11-28T15:00:00+02:00'
         description: |-
-          Perusteltuja näkökulmia ajankohtaisiin aiheisiin. Kuuntele ja ylläty, riemastu tai ärsyynny
+          Aseet ovat vain osa puolustuskykyämme. Mahdollinen hyökkääjä hyödyntäisi yhteiskuntamme rapautumista, vuosia Supossa työskennellyt Nilsson pohtii.
       - title: 'Viihdekuunnelma: Sininen Tonava, osa2/2'
         start_time: '2026-11-28T15:00:00+02:00'
         end_time: '2026-11-28T15:22:00+02:00'
@@ -215,6 +235,7 @@ data:
           Netzel: Danse hongroise (Unkarilainen tanssi) (Raphaela Gromes, sello, ja Julian Riem, piano).
 
           Konsertin on toimittanut Riikka Holopainen.
+          Joni Timonen juontaa.
       - title: Yle Uutiset ja sää
         start_time: '2026-11-28T17:00:00+02:00'
         end_time: '2026-11-28T17:05:00+02:00'
